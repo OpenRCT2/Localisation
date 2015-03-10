@@ -1,4 +1,4 @@
-# STR_XXXX part is read and XXXX becomes the string id number.
+﻿# STR_XXXX part is read and XXXX becomes the string id number.
 # Everything after the colon and before the new line will be saved as the string.
 # Use # at the beginning of a line to leave a comment.
 STR_0000    :
@@ -3340,43 +3340,43 @@ STR_3333    :Export plug-in objects with saved games
 STR_3334    :{SMALLFONT}{BLACK}Select whether to save any additional plug-in object data required (add-in data not supplied with the main product) in saved game or scenario files, allowing them to be loaded by someone who doesn't have the additional object data
 STR_3335    :Roller Coaster Designer - Select Ride Types & Vehicles
 STR_3336    :Track Designs Manager - Select Ride Type
-STR_3337    :Six Flags Park
-STR_3338    :{BLACK}Custom-designed layout
-STR_3339    :{BLACK}{COMMA16} design available, or custom-designed layout
-STR_3340    :{BLACK}{COMMA16} designs available, or custom-designed layout
+STR_3337    :Parc Six Flags
+STR_3338    :{BLACK}Dispositions personnalisées
+STR_3339    :{BLACK}{COMMA16} design disponible, ou disposition personnalisée
+STR_3340    :{BLACK}{COMMA16} designs disponibles, ou dispositions personnalisées
 STR_3341    :{SMALLFONT}{BLACK}Outils
 STR_3342    :Editeur de scénario
 STR_3343    :Convertir partie sauvegardée en scénario
 STR_3344    :Concepteur de montages russes
 STR_3345    :Gestionnaire de voies
-STR_3346    :Can't save track design...
-STR_3347    :Ride is too large, contains too many elements, or scenery is too spread out
-STR_3348    :Rename
-STR_3349    :Delete
-STR_3350    :Track design name
-STR_3351    :Enter new name for this track design:
-STR_3352    :Can't rename track design...
-STR_3353    :New name contains invalid characters
-STR_3354    :Another file exists with this name, or file is write-protected
-STR_3355    :File is write-protected or locked
-STR_3356    :Delete File
-STR_3357    :{WINDOW_COLOUR_2}Are you sure you want to permanently delete {STRINGID} ?
-STR_3358    :Can't delete track design...
-STR_3359    :{BLACK}No track designs of this type
-STR_3360    :Warning!
-STR_3361    :Too many track designs of this type - Some will not be listed.
-STR_3362    :Forced Software Buffer Mixing
-STR_3363    :{SMALLFONT}{BLACK}Select this option to improve performance if the game pauses slightly when sounds start or interference is heard
-STR_3364    :Advanced
-STR_3365    :{SMALLFONT}{BLACK}Allow selection of individual items of scenery in addition to scenery groups
-STR_3366    :{BLACK}= Ride
-STR_3367    :{BLACK}= Food Stall
-STR_3368    :{BLACK}= Drink Stall
-STR_3369    :{BLACK}= Souvenir Stall
-STR_3370    :{BLACK}= Info. Kiosk
-STR_3371    :{BLACK}= First Aid
-STR_3372    :{BLACK}= A.T.M.
-STR_3373    :{BLACK}= Restroom
+STR_3346    :Impossible de sauvegarder le modèle du circuit...
+STR_3347    :L'attraction est trop large, contient trop d'éléments, ou le décor est trop éloigné
+STR_3348    :Renommer
+STR_3349    :Supprimer
+STR_3350    :Nom du modèle de circuit
+STR_3351    :Entrez le nouveau nom du modèle du circuit :
+STR_3352    :Impossible de renommer le modèle du circuit...
+STR_3353    :Le nouveau nom contient des caractères invalides
+STR_3354    :Un autre fichier existe avec ce nom, ou il est en lecture seule
+STR_3355    :Le fichier est verrouillé ou est en lecture seule
+STR_3356    :Supprimer fichier
+STR_3357    :{WINDOW_COLOUR_2}Etes-vous sûr(e) de vouloir supprimer de manière permanente {STRINGID} ?
+STR_3358    :Impossible de supprimer le modèle du circuit...
+STR_3359    :{BLACK}Pas de modèle de circuit pour ce type
+STR_3360    :Attention !
+STR_3361    :Trop de modèles de circuit pour ce type - Certains ne seront pas listés.
+STR_3362    :Forcé mixage tampon logiciel
+STR_3363    :{SMALLFONT}{BLACK}Selectionnez cette option pour améliorer les performances si le jeu se met légèrement en pause slightly quand les sons démarrent ou de l'interférence est entendue
+STR_3364    :Avancé
+STR_3365    :{SMALLFONT}{BLACK}Autorise la sélection d'objets individuels du décor en plus des groupes de décor
+STR_3366    :{BLACK}= Attraction
+STR_3367    :{BLACK}= Stand de nourriture
+STR_3368    :{BLACK}= Stand de boissons
+STR_3369    :{BLACK}= Stand de souvenirs
+STR_3370    :{BLACK}= Kiosque aux informations
+STR_3371    :{BLACK}= Infirmerie
+STR_3372    :{BLACK}= D.A.B.
+STR_3373    :{BLACK}= Toilettes
 STR_3374    :Attention : Trop d'objets sélectionnés !
 STR_3375    :Certains objets dans ce groupe de décor n'ont pas pu être sélectionnés
 STR_3376    :Installer un nouveau modèle de circuit...
