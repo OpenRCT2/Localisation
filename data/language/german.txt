@@ -1065,7 +1065,7 @@ STR_1060    :Ungültiger Bahn-/Attraktionsname
 STR_1061    :Normaler Modus
 STR_1062    :Durchgängiger Rundenmodus
 STR_1063    :Shuttle-Modus (Start bei umgekehrter Neigung)
-STR_1064    :Angetriebener Start (Rundenmodus)
+STR_1064    :Angetriebener Start (Station passieren)
 STR_1065    :Shuttle-Modus
 STR_1066    :Mietsboot-Modus
 STR_1067    :Aufwärtsstart
@@ -1097,7 +1097,7 @@ STR_1092    :Start nach unten
 STR_1093    :Schiefes Haus
 STR_1094    :Freefall-Modus
 STR_1095    :Durchgängiger Streckenmodus mit Blockbereichen
-STR_1096    :Angetriebener Start (Streckenmodus)
+STR_1096    :Angetriebener Start (Station nicht passieren)
 STR_1097    :Modus mit angetriebenem Start und Blockbereichen
 STR_1098    :Geht ans Ende d. {POP16}{STRINGID}
 STR_1099    :Warten auf Fahrgäste bei {POP16}{STRINGID}
@@ -1149,11 +1149,11 @@ STR_1144    :Eingang für diese Bahn/Attraktion kann nicht gebaut/verschoben wer
 STR_1145    :Ausgang für diese Bahn/Attraktion kann nicht gebaut/verschoben werden...
 STR_1146    :Eingang noch nicht gebaut
 STR_1147    :Ausgang noch nicht gebaut
-STR_1148    :Viertellast
-STR_1149    :Halblast
-STR_1150    :Dreiviertellast
-STR_1151    :Volle Last
-STR_1152    :Beliebige Last
+STR_1148    :Viertelvoll
+STR_1149    :Halbvoll
+STR_1150    :Dreiviertelvoll
+STR_1151    :Voll
+STR_1152    :Beliebig
 STR_1153    :Höhenmarkierungen an Fahrstrecken
 STR_1154    :Höhenmarkierungen auf dem Gelände
 STR_1155    :Höhenmarkierungen an Fußwegen
@@ -1341,14 +1341,14 @@ STR_1336    :{STRINGID} - Station {POP16}{COMMA16} Eingang
 STR_1337    :{STRINGID} - Ausgang{POP16}{POP16}
 STR_1338    :{STRINGID} - Station {POP16}{COMMA16} Ausgang
 STR_1339    :{BLACK}Noch keine Testergebnisse...
-STR_1340    :{WINDOW_COLOUR_2}Max. Geschw: {BLACK}{VELOCITY}
+STR_1340    :{WINDOW_COLOUR_2}Max. Geschwindigkeit: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Fahrtdauer: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
 STR_1343    :{DURATION} /
 STR_1344    :{WINDOW_COLOUR_2}Fahrtlänge: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
 STR_1346    :{LENGTH} /
-STR_1347    :{WINDOW_COLOUR_2}Durchschn. G.: {BLACK}{VELOCITY}
+STR_1347    :{WINDOW_COLOUR_2}Durchschn. Geschwindigkeit: {BLACK}{VELOCITY}
 STR_1348    :{WINDOW_COLOUR_2}Max. positive vertikale G-Kraft: {BLACK}{COMMA2DP32}G
 STR_1349    :{WINDOW_COLOUR_2}Max. positive vertikale G-Kraft: {OUTLINE}{RED}{COMMA2DP32}G
 STR_1350    :{WINDOW_COLOUR_2}Max. negative vertikale G-Kraft: {BLACK}{COMMA2DP32}G
@@ -1356,10 +1356,10 @@ STR_1351    :{WINDOW_COLOUR_2}Max. negative vertikale G-Kraft: {OUTLINE}{RED}{CO
 STR_1352    :{WINDOW_COLOUR_2}Max. seitliche G-Kraft: {BLACK}{COMMA2DP32}G
 STR_1353    :{WINDOW_COLOUR_2}Max. seitliche G-Kraft: {OUTLINE}{RED}{COMMA2DP32}G
 STR_1354    :{WINDOW_COLOUR_2}Höchste Fallhöhe: {BLACK}{LENGTH}
-STR_1355    :{WINDOW_COLOUR_2}Abfälle: {BLACK}{COMMA16}
+STR_1355    :{WINDOW_COLOUR_2}Stürze: {BLACK}{COMMA16}
 STR_1356    :{WINDOW_COLOUR_2}Umkehrungen: {BLACK}{COMMA16}
 STR_1357    :{WINDOW_COLOUR_2}Löcher: {BLACK}{COMMA16}
-STR_1358    :{WINDOW_COLOUR_2}Gesamtzeit `in der Luft': {BLACK}{COMMA2DP32}s
+STR_1358    :{WINDOW_COLOUR_2}Gesamtzeit `in der Luft': {BLACK}{COMMA2DP32}Sek.
 STR_1359    :{WINDOW_COLOUR_2}Wartezeit: {BLACK}{COMMA16} Minute
 STR_1360    :{WINDOW_COLOUR_2}Wartezeit: {BLACK}{COMMA16} Minuten
 STR_1361    :Geschwindigkeit kann nicht geändert werden...
@@ -1432,7 +1432,7 @@ STR_1427    :{WINDOW_COLOUR_2}Besucher: {BLACK}{COMMA32} pro Stunde
 STR_1428    :{WINDOW_COLOUR_2}Eintrittspreis:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :Kostenlos
-STR_1431    :Läuft herum
+STR_1431    :Geht
 STR_1432    :Geht Richtung {STRINGID}
 STR_1433    :Steht in Schlange für {STRINGID}
 STR_1434    :Ertrinkt
@@ -1723,7 +1723,7 @@ STR_1718    :Parkname
 STR_1719    :Geben Sie einen Parknamen ein:
 STR_1720    :{SMALLFONT}{BLACK}Park benennen
 STR_1721    :Park geschlossen
-STR_1722    :Park eröffnet
+STR_1722    :Park geöffnet
 STR_1723    :Park kann nicht eröffnet werden...
 STR_1724    :Park kann nicht geschlossen werden...
 STR_1725    :Land kann nicht gekauft werden...
@@ -2488,7 +2488,7 @@ STR_2483    :{WINDOW_COLOUR_2}Wöchentlicher Gewinn: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Wöchentlicher Gewinn: {RED}{CURRENCY2DP}
 STR_2485    :Steuerung
 STR_2486    :Allgemein
-STR_2487    :Echte Besuchernamen anzeigen
+STR_2487    :`Echte' Besuchernamen anzeigen
 STR_2488    :{SMALLFONT}{BLACK}Zwischen `echten' Besuchernamen und Besucherzahlen umschalten
 STR_2489    :Tastenkürzel...
 STR_2490    :Tastaturkürzel
@@ -2723,18 +2723,18 @@ STR_2716    :/
 STR_2717    :'
 STR_2718    :(Hoch)
 STR_2719    :(Neue Datei)
-STR_2720    :{UINT16}s 
-STR_2721    :{UINT16}s
-STR_2722    :{UINT16}min:{UINT16}s
-STR_2723    :{UINT16}min:{UINT16}s
-STR_2724    :{UINT16}min:{UINT16}s
-STR_2725    :{UINT16}min:{UINT16}s
-STR_2726    :{UINT16}min
-STR_2727    :{UINT16}min
-STR_2728    :{UINT16}h:{UINT16}min
-STR_2729    :{UINT16}h:{UINT16}min
-STR_2730    :{UINT16}h:{UINT16}min
-STR_2731    :{UINT16}h:{UINT16}min
+STR_2720    :{UINT16}Sek.
+STR_2721    :{UINT16}Sek.
+STR_2722    :{UINT16}Min:{UINT16}Sek.
+STR_2723    :{UINT16}Min:{UINT16}Sek.
+STR_2724    :{UINT16}Min:{UINT16}Sek.
+STR_2725    :{UINT16}Min:{UINT16}Sek.
+STR_2726    :{UINT16}Min.
+STR_2727    :{UINT16}Min.
+STR_2728    :{UINT16}Stunde:{UINT16}Min.
+STR_2729    :{UINT16}Stunde:{UINT16}Min.
+STR_2730    :{UINT16}Stunden:{UINT16}Min.
+STR_2731    :{UINT16}Stunden:{UINT16}Min.
 STR_2732    :{COMMA16}ft
 STR_2733    :{COMMA16}m
 STR_2734    :{COMMA16}mph
