@@ -1172,7 +1172,7 @@ STR_1170    :{STRING}
 STR_1171    :{RED}Gesloten - - 
 STR_1172    :{YELLLOW}{STRINGID} - - 
 STR_1173    :{SMALLFONT}{BLACK}Voetpaden en wachtrijen aanleggen
-STR_1174    :Banier in de weg
+STR_1174    :Lichtkrant in de weg
 STR_1175    :Kan dit niet op hellend voetpad neerzetten
 STR_1176    :Kan hier geen voetpad aanleggen...
 STR_1177    :Kan dit voetpad niet verwijderen...
@@ -2978,15 +2978,15 @@ STR_2976    :{SMALLFONT}{BLACK}Met het geselecteerde kleurenschema een onderdeel
 STR_2977    :Naam werknemer
 STR_2978    :Voer een nieuwe naam in voor deze werknemer:
 STR_2979    :Kan de naam van deze werknemer niet veranderen...
-STR_2980    :Teveel banieren in dit park
+STR_2980    :Teveel lichtkranten in dit park
 STR_2981    :{RED}Geen toegang - - 
-STR_2982    :Baniertekst
-STR_2983    :Voer een nieuwe tekst in voer deze banier:
-STR_2984    :Kan de tekst op deze banier niet veranderen...
-STR_2985    :Banier
-STR_2986    :{SMALLFONT}{BLACK}Tekst op deze banier aanpassen
-STR_2987    :{SMALLFONT}{BLACK}Deze banier gebruiken als bord voor 'geen toegang' voor de bezoekers
-STR_2988    :{SMALLFONT}{BLACK}Deze banier verwijderen
+STR_2982    :Lichtkranttekst
+STR_2983    :Voer een nieuwe tekst in voer deze lichtkrant:
+STR_2984    :Kan de tekst op deze lichtkrant niet veranderen...
+STR_2985    :Lichtkrant
+STR_2986    :{SMALLFONT}{BLACK}Tekst op deze lichtkrant aanpassen
+STR_2987    :{SMALLFONT}{BLACK}Deze lichtkrant gebruiken als bord voor 'geen toegang' voor de bezoekers
+STR_2988    :{SMALLFONT}{BLACK}Deze lichtkrant verwijderen
 STR_2989    :{SMALLFONT}{BLACK}Hoofdkleur selecteren
 STR_2990    :{SMALLFONT}{BLACK}Tekstkleur selecteren
 STR_2991    :Bord
@@ -3482,8 +3482,7 @@ STR_5150    :Debugging-hulpmiddelen inschakelen
 STR_5151    :.
 #Scheidingsteken voor decimalen
 STR_5152    :,
-#5153 needs new translation:
-STR_5153    :RCT1-kleurenschema
+STR_5153    :Thema's
 STR_5154    :Weergave uitgevoerd door hardware
 STR_5155    :Testen van onvoltooide banen toestaan
 STR_5156    :{SMALLFONT}{BLACK}Maakt het mogelijk om de meeste attractietypes te testen, zelfs als de baan niet voltooid is. Werkt niet als de baan gebruik maakt van een blokremmodus.
@@ -3513,80 +3512,80 @@ STR_5179    :{SMALLFONT}{BLACK}Show guest cheats
 STR_5180    :{SMALLFONT}{BLACK}Show park cheats
 STR_5181    :{SMALLFONT}{BLACK}Show ride cheats
 STR_5182    :{INT32}
-STR_5183    :Base height
+STR_5183    :Basishoogte
 STR_5184    :Enter base height between {COMMA16} and {COMMA16}
-STR_5185    :Water level
+STR_5185    :Waterniveau
 STR_5186    :Enter water level between {COMMA16} and {COMMA16} 
-STR_5187    :Finances
-STR_5188    :New Campaign
-STR_5189    :Research
-STR_5190    :Map
-STR_5191    :Viewport
-STR_5192    :Recent News
+STR_5187    :Financiën
+STR_5188    :Nieuwe advertentiecampagne
+STR_5189    :Onderzoek
+STR_5190    :Kaart
+STR_5191    :Kijkvenster
+STR_5192    :Recente berichten
 STR_5193    :Land
 STR_5194    :Water
-STR_5195    :Clear Scenery
-STR_5196    :Land Rights
-STR_5197    :Scenery
-STR_5198    :Footpath
-STR_5199    :Ride Construction
-STR_5200    :Track Design Place
-STR_5201    :New Ride
-STR_5202    :Track Design Selection
-STR_5203    :Ride
-STR_5204    :Ride List
-STR_5205    :Guest
-STR_5206    :Guest List
-STR_5207    :Staff
-STR_5208    :Staff List
-STR_5209    :Banner
-STR_5210    :Object Selection
-STR_5211    :Invention List
-STR_5212    :Scenario Options
-STR_5213    :Objective Options
-STR_5214    :Map Generation
-STR_5215    :Track Design Manager
-STR_5216    :Track Design Manager List
+STR_5195    :Decor verwijderen
+STR_5196    :Landrechten
+STR_5197    :Decor
+STR_5198    :Voetpaden
+STR_5199    :Bouwvenster attracties
+STR_5200    :Baanontwerp plaatsen
+STR_5201    :Nieuwe attractie
+STR_5202    :Selectie baanontwerp
+STR_5203    :Attractie
+STR_5204    :Attractielijst
+STR_5205    :Bezoeker
+STR_5206    :Bezoekerslijst
+STR_5207    :Werknemer
+STR_5208    :Werknemerslijst
+STR_5209    :Lichtkrant
+STR_5210    :Objectselectie
+STR_5211    :Uitvindingenlijst
+STR_5212    :Scenario-opties
+STR_5213    :Doelstellingsopties
+STR_5214    :Kaartgenerator
+STR_5215    :Baanontwerpbeheer
+STR_5216    :Lijst baanontwerpbeheer
 STR_5217    :Cheats
-STR_5218    :Themes
-STR_5219    :Options
-STR_5220    :Keyboard Shortcuts
-STR_5221    :Change Keyboard Shortcut
-STR_5222    :Load/Save
-STR_5223    :Save Prompt
-STR_5224    :Demolish Ride Prompt
-STR_5225    :Fire Staff Prompt
-STR_5226    :Track Delete Prompt
-STR_5227    :Save Overwrite Prompt
-STR_5228    :{SMALLFONT}{BLACK}Main UI
+STR_5218    :Thema's
+STR_5219    :Opties
+STR_5220    :Sneltoetsen
+STR_5221    :Sneltoets aanpassen
+STR_5222    :Laden/opslaan
+STR_5223    :Opslagbevestiging
+STR_5224    :Afbraakbevestiging
+STR_5225    :Ontslagbevestiging
+STR_5226    :Bevestiging verwijderen baanontwerp
+STR_5227    :Overschrijvingsbevestiging
+STR_5228    :{SMALLFONT}{BLACK}Hoofdinterface
 STR_5229    :{SMALLFONT}{BLACK}Park
-STR_5230    :{SMALLFONT}{BLACK}Tools
-STR_5231    :{SMALLFONT}{BLACK}Rides and Peeps
+STR_5230    :{SMALLFONT}{BLACK}Hulpmiddelen
+STR_5231    :{SMALLFONT}{BLACK}Attracties en bezoekers
 STR_5232    :{SMALLFONT}{BLACK}Editors
-STR_5233    :{SMALLFONT}{BLACK}Miscellaneous
-STR_5234    :{SMALLFONT}{BLACK}Prompts
-STR_5235    :{SMALLFONT}{BLACK}Settings
-STR_5236    :Window:
-STR_5237    :Palette:
-STR_5238    :Current Theme:
-STR_5239    :Duplicate
-STR_5240    :Enter a name for the theme
-STR_5241    :Can't change this theme
-STR_5242    :Theme name already exists
-STR_5243    :Invalid characters used
-STR_5244    :Themes
-STR_5245    :Top Toolbar
-STR_5246    :Bottom Toolbar
-STR_5247    :Track Editor Bottom Toolbar
-STR_5248    :Scenario Editor Bottom Toolbar
-STR_5249    :Title Menu Buttons
-STR_5250    :Title Exit Button
-STR_5251    :Title Options Button
-STR_5252    :Title Scenario Selection
-STR_5253    :Park Information
-STR_5254    :Add nausea
-STR_5255    :{MEDIUMFONT}{BLACK}All peeps become nauseous
-STR_5256    :Create a new theme to make changes to
-STR_5257    :{SMALLFONT}{BLACK}Create a new theme based on the current one
-STR_5258    :{SMALLFONT}{BLACK}Delete the current theme
-STR_5259    :{SMALLFONT}{BLACK}Rename the current theme
+STR_5233    :{SMALLFONT}{BLACK}Overigs
+STR_5234    :{SMALLFONT}{BLACK}Dialoogvensters
+STR_5235    :{SMALLFONT}{BLACK}Instellingen
+STR_5236    :Venster:
+STR_5237    :Palet:
+STR_5238    :Huidig thema:
+STR_5239    :Kopiëren
+STR_5240    :Voer een naam in voor dit thema
+STR_5241    :Kan dit thema niet wijzigen
+STR_5242    :Themanaam bestaat al
+STR_5243    :Er zijn ongeldige tekens gebruikt
+STR_5244    :Thema's
+STR_5245    :Bovenste werkbalk
+STR_5246    :Onderste werkbalk
+STR_5247    :Onderste werkbalk baanontwerper/beheerder
+STR_5248    :Onderste werkbalk scenariobewerker
+STR_5249    :Menuknoppen titelsherm
+STR_5250    :Afsluitknop titelscherm
+STR_5251    :Optiesknop titelscherm
+STR_5252    :Scenarioselectie titelscherm
+STR_5253    :Parkinformatie
+STR_5254    :Misselijk maken
+STR_5255    :{MEDIUMFONT}{BLACK}Zal alle bezoekers misselijk maken
+STR_5256    :Een nieuw thema aanmaken om wijzigingen aan te brengen
+STR_5257    :{SMALLFONT}{BLACK}Een nieuw thema aanmaken dat is gebaseerd op het huidige
+STR_5258    :{SMALLFONT}{BLACK}Het huidige thema verwijderen
+STR_5259    :{SMALLFONT}{BLACK}Het huidige thema hernoemen
