@@ -3455,7 +3455,7 @@ STR_3446    :Patrouillenbereich verwerfen
 # New strings, cleaner
 STR_5120    :Finanzen in der Symbolleiste anzeigen
 STR_5121    :Forschung in der Symbolleiste anzeigen
-STR_5122    :Fahrzeuge gleicher Strecke/Bahnart anzeigen
+STR_5122    :Bahnen nach Streckentyp auswählen (wie in RCT1)
 STR_5123    :Bahnen erneuern
 STR_5124    :Keine Six Flags
 STR_5125    :Alles zerstörbar
@@ -3508,7 +3508,7 @@ STR_5171    :Überwache Chat-Parkbesucher
 STR_5172    :{SMALLFONT}{BLACK}Überwachungsinformationen zu Parkbesuchern, die nach Twitch-Chatbenutzern benannt sind, einschalten - (Bei eingeschalteter Überwachung werden Besucheraktivitäten im Nachrichtenbereich angezeigt)
 STR_5173    :Erhalte Twitch-Chat als Spielnachrichten
 STR_5174    :{SMALLFONT}{BLACK}Benutzt Twitch-Chatnachrichten, welchen !news vorangestellt ist, für Spielbenachrichtigungen
-STR_5175    :Name Ihres Twitch-Kanals eingeben:
+STR_5175    :Namen Ihres Twitch-Kanals eingeben:
 STR_5176    :Twitch-Integration aktivieren
 STR_5177    :Vollbildmodus:
 STR_5178    :{SMALLFONT}{BLACK}Cheats für Finanzen anzeigen
@@ -3573,7 +3573,7 @@ STR_5236    :Fenster:
 STR_5237    :Farbpalette:
 STR_5238    :Aktuelles Thema:
 STR_5239    :Duplizieren
-STR_5240    :Name für Thema eingeben:
+STR_5240    :Namen für Thema eingeben:
 STR_5241    :Dieses Thema kann nicht geändert werden
 STR_5242    :Dieser Themenname existiert bereits
 STR_5243    :Unzulässige Zeichen benutzt
@@ -3710,3 +3710,68 @@ STR_5373    :Name {STRINGID}
 STR_5374    :Datum {STRINGID}
 STR_5375    :{UP}
 STR_5376    :{DOWN}
+STR_5377    :{SMALLFONT}{BLACK}Gespeicherte Spiele
+STR_5378    :{SMALLFONT}{BLACK}Skript
+STR_5379    :{SMALLFONT}{BLACK}Zum nächsten `Warten'-Befehl springen
+STR_5380    :{SMALLFONT}{BLACK}Titelsequenz abspielen
+STR_5381    :{SMALLFONT}{BLACK}Titelsequenz stoppen
+STR_5382    :{SMALLFONT}{BLACK}Titelsequenz neu starten
+STR_5383    :{SMALLFONT}{BLACK}Neue Titelsequenz durch duplizieren der aktuellen Titelsequenz erstellen
+STR_5384    :{SMALLFONT}{BLACK}Aktuelle Titelsequenz löschen
+STR_5385    :{SMALLFONT}{BLACK}Aktuelle Titelsequenz umbenennen
+STR_5386    :{SMALLFONT}{BLACK}Neuen Befehl einfügen
+STR_5387    :{SMALLFONT}{BLACK}Ausgewählten Befehl bearbeiten
+STR_5388    :{SMALLFONT}{BLACK}Ausgewählten Befehl löschen
+STR_5389    :{SMALLFONT}{BLACK}Zum ausgewählten Befehl in{NEWLINE}der Titelsequenz springen
+STR_5390    :{SMALLFONT}{BLACK}Ausgewählten Befehl nach oben verschieben
+STR_5391    :{SMALLFONT}{BLACK}Ausgewählten Befehl nach unten verschieben
+STR_5392    :{SMALLFONT}{BLACK}Einen Spielstand zur Titelsequenz hinzufügen
+STR_5393    :{SMALLFONT}{BLACK}Ausgewählten Spielstand von{NEWLINE}Titelsequenz entfernen
+STR_5394    :{SMALLFONT}{BLACK}Ausgewählten Spielstand umbenennen
+STR_5395    :{SMALLFONT}{BLACK}Ausgewählten Spielstand laden
+STR_5396    :{SMALLFONT}{BLACK}Titelsequenz neu laden, falls sie außerhalb des Spiels geändert wurde
+STR_5397    :Kann nur im Titelbildschirm verwendet werden
+STR_5398    :Titelsequenz kann, während sie läuft, nicht geändert werden
+STR_5399    :Titelsequenz stoppen, um das Bearbeiten fortzusetzen
+STR_5400    :Diese Titelsequenz kann nicht geändert werden
+STR_5401    :Erstellen Sie eine neue Titelsequenz, um sie zu bearbeiten
+STR_5402    :Titelsequenz konnte nicht geladen werden
+STR_5403    :Möglicherweise kein `Laden'-Befehl, `Warten'-Befehl oder ein ungültiger Spielstand vorhanden
+STR_5404    :Dieser Name existiert bereits
+STR_5405    :Namen für Spielstand eingeben:
+STR_5406    :Namen für Titelsequenz eingeben:
+STR_5407    :Hinzufügen
+STR_5408    :Entfernen
+STR_5409    :Einfügen
+STR_5410    :Bearbeiten
+STR_5411    :Neu laden
+STR_5412    :Springen zu
+STR_5413    :Laden
+STR_5414    :Laden{MOVE_X}{87}Six Flags Magic Mountain.SC6
+STR_5415    :Laden{MOVE_X}{87}{STRING}
+STR_5416    :Laden{MOVE_X}{87}Kein Spielstand ausgewählt
+STR_5417    :Position
+STR_5418    :Position{MOVE_X}{87}{COMMA16}   {COMMA16}
+STR_5419    :Drehen
+STR_5420    :Drehen{MOVE_X}{87}{COMMA16}
+STR_5421    :Zoom
+STR_5422    :Zoom{MOVE_X}{87}{COMMA16}
+STR_5423    :Warten
+STR_5424    :Warten{MOVE_X}{87}{COMMA16}
+STR_5425    :Neu starten
+STR_5426    :Ende
+STR_5427    :Koordinaten:
+STR_5428    :Drehungen gegen Uhrzeigersinn:
+STR_5429    :Zoomstufe:
+STR_5430    :Zu wartende Sekunden:
+STR_5431    :Zu ladender Spielstand:
+STR_5432    :Befehl:
+STR_5433    :Titelsequenzen
+STR_5434    :Befehlseditor
+STR_5435    :Spielstand umbenennen
+STR_5436    :Titelsequenzen bearbeiten...
+STR_5437    :Kein Spielstand ausgewählt
+STR_5438    :Es können keine Änderungen vorgenommen werden, solange der Befehlseditor geöffnet ist
+STR_5439    :Ein Neustart wird ohne `Warten'-Befehl verwendet
+STR_5440    :<Not currently used>
+STR_5441    :{SMALLFONT}{BLACK}Identifiziert Bahnen durch Streckentyp, sodass wie in RCT1 Fahrzeuge anschließend geändert werden können. Nur im Titelbildschirm auswählbar
