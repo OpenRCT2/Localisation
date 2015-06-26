@@ -3587,8 +3587,8 @@ STR_5250    :Hauptmenü Beenden-Schaltfläche
 STR_5251    :Hauptmenü Optionen-Schaltfläche
 STR_5252    :Hauptmenü Szenarioauswahl
 STR_5253    :Parkinformationen
-STR_5254    :Übelkeit hinzufügen
-STR_5255    :{MEDIUMFONT}{BLACK}Allen Besuchern wird übel
+STR_5254    :Erstellen
+STR_5255    :{SMALLFONT}{BLACK}Eine neue Titelsequenz von{NEWLINE}Grund auf neu erstellen
 STR_5256    :Neues Thema zum bearbeiten erstellen
 STR_5257    :{SMALLFONT}{BLACK}Neues Thema durch duplizieren des aktuellen Themas erstellen
 STR_5258    :{SMALLFONT}{BLACK}Aktuelles Thema löschen
@@ -3758,7 +3758,7 @@ STR_5421    :Zoom
 STR_5422    :Zoom{MOVE_X}{87}{COMMA16}
 STR_5423    :Warten
 STR_5424    :Warten{MOVE_X}{87}{COMMA16}
-STR_5425    :Neu starten
+STR_5425    :Neustart
 STR_5426    :Ende
 STR_5427    :Koordinaten:
 STR_5428    :Drehungen gegen Uhrzeigersinn:
@@ -3772,6 +3772,13 @@ STR_5435    :Spielstand umbenennen
 STR_5436    :Titelsequenzen bearbeiten...
 STR_5437    :Kein Spielstand ausgewählt
 STR_5438    :Es können keine Änderungen vorgenommen werden, solange der Befehlseditor geöffnet ist
-STR_5439    :Ein Neustart wird ohne `Warten'-Befehl verwendet
+STR_5439    :Zusammen mit einem `Neustart'-Befehl muss ein mindestens 4 Sekunden langer `Warten'-Befehl verwendet werden
 STR_5440    :Vollbild minimieren, wenn Spiel nicht im Vordergrund
-STR_5441    :{SMALLFONT}{BLACK}Identifiziert Bahnen durch Streckentyp, sodass wie in RCT1 Fahrzeuge anschließend geändert werden können. Nur im Titelbildschirm auswählbar
+STR_5441    :{SMALLFONT}{BLACK}Identifiziert Bahnen durch Streckentyp, sodass wie in RCT1 Fahrzeuge anschließend geändert werden können
+STR_5442    :reserviert
+STR_5443    :Geschwind.{MOVE_X}{87}{STRINGID}
+STR_5444    :Geschwindigkeit:
+STR_5445    :Geschwindigkeit
+STR_5446    :Erhalten
+STR_5447    :Typ {STRINGID}
+STR_5448    :Bahn / Fahrzeug {STRINGID}
