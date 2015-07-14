@@ -1463,12 +1463,12 @@ STR_1459    :Track style
 STR_1460    :{SMALLFONT}{BLACK}'U' shaped open track
 STR_1461    :{SMALLFONT}{BLACK}'O' shaped enclosed track
 STR_1462    :Too steep for lift hill
-STR_1463    :Guests
-STR_1464    :Helix up (small)
-STR_1465    :Helix up (large)
-STR_1466    :Helix down (small)
-STR_1467    :Helix down (large)
-STR_1468    :Staff
+STR_1463    :遊客
+STR_1464    :向上盤旋 (小型)
+STR_1465    :向上盤旋 (大型)
+STR_1466    :向下盤旋 (小型)
+STR_1467    :向下盤旋 (大型)
+STR_1468    :員工
 STR_1469    :Ride must start and end with stations
 STR_1470    :Station not long enough
 STR_1471    :{WINDOW_COLOUR_2}Speed:
@@ -1709,7 +1709,7 @@ STR_1705    :{SMALLFONT}{BLACK}Sack this staff member
 STR_1706    :{SMALLFONT}{BLACK}Move this person to a new location
 STR_1707    :Too many staff in game
 STR_1708    :{SMALLFONT}{BLACK}Set patrol area for this staff member
-STR_1709    :Sack staff
+STR_1709    :解僱員工
 STR_1710    :Yes
 STR_1711    :{WINDOW_COLOUR_1}Are you sure you want to sack {STRINGID}?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Sweep footpaths
@@ -3790,7 +3790,6 @@ STR_5454    :去除FPS上限
 STR_5455    :啟用沙盒模式
 STR_5456    :去除阻礙檢查
 STR_5457    :去除支撐限制
-<<<<<<< HEAD
 STR_5458    :順時計旋轉
 STR_5459    :逆時計旋轉
 STR_5460    :Rotate view anti-clockwise
@@ -3800,5 +3799,3 @@ STR_5463    :目標: 盡情玩吧!
 STR_5464    :一般
 STR_5465    :氣候
 STR_5466    :員工
-=======
->>>>>>> allow disable clearance checks for footpaths
