@@ -3695,12 +3695,12 @@ STR_5359    :移除遊客
 STR_5360    :{SMALLFONT}{BLACK}移除地圖上所有遊客
 STR_5361    :給予全部遊客:
 STR_5362    :{BLACK}Set all guests' preferred ride intensity to:
-STR_5363    :More than 1
-STR_5364    :Less than 15
-STR_5365    :{BLACK}Staff speed:
-STR_5366    :Normal
-STR_5367    :Fast
-STR_5368    :Reset crash status
+STR_5363    :高於1
+STR_5364    :低於15
+STR_5365    :{BLACK}員工行走速度:
+STR_5366    :正常
+STR_5367    :快速
+STR_5368    :重設毀壞狀態
 STR_5369    :Park parameters...
 STR_5370    :{SMALLFONT}{BLACK}Click this button to modify park{NEWLINE}parameters like restrictions,{NEWLINE}guest generation and money.
 STR_5371    :Object Selection
@@ -3775,9 +3775,9 @@ STR_5439    :A wait command with at least 4 seconds is required with a restart c
 STR_5440    :Minimise fullscreen on focus loss
 STR_5441    :{SMALLFONT}{BLACK}Identifies rides by track type,{NEWLINE}so vehicles can be changed{NEWLINE}afterwards, like in RCT1.
 STR_5442    :固定樂園評價:
-STR_5443    :Speed{MOVE_X}{87}{STRINGID}
-STR_5444    :Speed:
-STR_5445    :Speed
+STR_5443    :速度{MOVE_X}{87}{STRINGID}
+STR_5444    :速度:
+STR_5445    :速度
 STR_5446    :Get
 STR_5447    :Type {STRINGID}
 STR_5448    :Ride / Vehicle {STRINGID}
