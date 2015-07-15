@@ -1362,27 +1362,27 @@ STR_1358    :{WINDOW_COLOUR_2}Total 'air' time: {BLACK}{COMMA2DP32}secs
 STR_1359    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minute
 STR_1360    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minutes
 STR_1361    :Can't change speed...
-STR_1362    :Can't change launch speed...
+STR_1362    :不能改變發車速度...
 STR_1363    :Too high for supports!
 STR_1364    :Supports for track above can't be extended any further!
-STR_1365    :In-line Twist (left)
-STR_1366    :In-line Twist (right)
-STR_1367    :Half Loop
-STR_1368    :Half Corkscrew (left)
-STR_1369    :Half Corkscrew (right)
-STR_1370    :Barrel Roll (left)
-STR_1371    :Barrel Roll (right)
-STR_1372    :Launched Lift Hill
-STR_1373    :Large Half Loop (left)
-STR_1374    :Large Half Loop (right)
+STR_1365    :In-line Twist (向左)
+STR_1366    :In-line Twist (向右)
+STR_1367    :二分之一迴環
+STR_1368    :二分之一螺旋 (向左)
+STR_1369    :二分之一螺旋 (向右)
+STR_1370    :橫滾軌道 (向左)
+STR_1371    :橫滾軌道 (向右)
+STR_1372    :加速式的鏈條坡道
+STR_1373    :巨型的二分之一迴環 (向左)
+STR_1374    :巨型的二分之一迴環 (向右)
 STR_1375    :Upper Transfer
 STR_1376    :Lower Transfer
-STR_1377    :Heartline Roll (left)
-STR_1378    :Heartline Roll (right)
-STR_1379    :Reverser (left)
-STR_1380    :Reverser (right)
-STR_1381    :Curved Lift Hill (left)
-STR_1382    :Curved Lift Hill (right)
+STR_1377    :橫滾軌道 (向左)
+STR_1378    :橫滾軌道 (向右)
+STR_1379    :Reverser (向左)
+STR_1380    :Reverser (向右)
+STR_1381    :彎型的鏈條坡道 (向左)
+STR_1382    :彎型的鏈條坡道 (向右)
 STR_1383    :Quarter Loop
 STR_1384    :{YELLOW}{STRINGID}
 STR_1385    :{SMALLFONT}{BLACK}Other track configurations
@@ -1400,11 +1400,11 @@ STR_1396    :{SMALLFONT}{BLACK}Colour scheme options
 STR_1397    :{SMALLFONT}{BLACK}Sound & music options
 STR_1398    :{SMALLFONT}{BLACK}Measurements and test data
 STR_1399    :{SMALLFONT}{BLACK}Graphs
-STR_1400    :Entrance
-STR_1401    :Exit
+STR_1400    :入口
+STR_1401    :出口
 STR_1402    :{SMALLFONT}{BLACK}Build or move entrance to ride/attraction
 STR_1403    :{SMALLFONT}{BLACK}Build or move exit from ride/attraction
-STR_1404    :{SMALLFONT}{BLACK}Rotate 90{DEGREE}
+STR_1404    :{SMALLFONT}{BLACK}90{DEGREE}旋轉
 STR_1405    :{SMALLFONT}{BLACK}Mirror image
 STR_1406    :{SMALLFONT}{BLACK}Toggle scenery on/off (if available for this design)
 STR_1407    :{WINDOW_COLOUR_2}Build this...
@@ -1425,16 +1425,16 @@ STR_1421    :{SMALLFONT}{BLACK}{COMMA16}g
 STR_1422    :{SMALLFONT}{BLACK}Logging data from {POP16}{STRINGID}
 STR_1423    :{SMALLFONT}{BLACK}Queue line path
 STR_1424    :{SMALLFONT}{BLACK}Footpath
-STR_1425    :Footpath
+STR_1425    :道路
 STR_1426    :Queue Line
 STR_1427    :{WINDOW_COLOUR_2}Customers: {BLACK}{COMMA32} per hour
 STR_1428    :{WINDOW_COLOUR_2}Admission price:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
-STR_1430    :Free
-STR_1431    :Walking
-STR_1432    :Heading for {STRINGID}
-STR_1433    :Queuing for {STRINGID}
-STR_1434    :Drowning
+STR_1430    :免費
+STR_1431    :行走中
+STR_1432    :前往{STRINGID}中
+STR_1433    :輪侯{STRINGID}中
+STR_1434    :溺水中
 STR_1435    :On {STRINGID}
 STR_1436    :In {STRINGID}
 STR_1437    :At {STRINGID}
@@ -2236,18 +2236,18 @@ STR_2232    :Cable lift hill
 STR_2233    :{SMALLFONT}{BLACK}Park information
 STR_2234    :Recent Messages
 STR_2235    :{SMALLFONT}{STRINGID} {STRINGID}
-STR_2236    :January
-STR_2237    :February
-STR_2238    :March
-STR_2239    :April
-STR_2240    :May
-STR_2241    :June
-STR_2242    :July
-STR_2243    :August
-STR_2244    :September
-STR_2245    :October
-STR_2246    :November
-STR_2247    :December
+STR_2236    :1月
+STR_2237    :2月
+STR_2238    :3月
+STR_2239    :4月
+STR_2240    :5月
+STR_2241    :6月
+STR_2242    :7月
+STR_2243    :8月
+STR_2244    :9月
+STR_2245    :10月
+STR_2246    :11月
+STR_2247    :12月
 STR_2248    :Can't demolish ride/attraction...
 STR_2249    :{BABYBLUE}New ride/attraction now available:{NEWLINE}{STRINGID}
 STR_2250    :{BABYBLUE}New scenery/themeing now available:{NEWLINE}{STRINGID}
@@ -2436,12 +2436,12 @@ STR_2432    :{BLACK}Vouchers for half-price entry to {STRINGID}
 STR_2433    :{BLACK}Vouchers for free {STRINGID}
 STR_2434    :{BLACK}Advertising campaign for {STRINGID}
 STR_2435    :{BLACK}Advertising campaign for {STRINGID}
-STR_2436    :1 week
-STR_2437    :2 weeks
-STR_2438    :3 weeks
-STR_2439    :4 weeks
-STR_2440    :5 weeks
-STR_2441    :6 weeks
+STR_2436    :1週
+STR_2437    :2週
+STR_2438    :3週
+STR_2439    :4週
+STR_2440    :5週
+STR_2441    :6週
 STR_2442    :{BLACK}({STRINGID} remaining)
 STR_2443    :{WINDOW_COLOUR_2}Cost per week: {BLACK}{CURRENCY2DP}
 STR_2444    :{WINDOW_COLOUR_2}Total cost: {BLACK}{CURRENCY2DP}
