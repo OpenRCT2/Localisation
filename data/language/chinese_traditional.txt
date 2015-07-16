@@ -3057,7 +3057,7 @@ STR_3050    :Golf hole B
 STR_3051    :Golf hole C
 STR_3052    :Golf hole D
 STR_3053    :Golf hole E
-STR_3054    :Loading...
+STR_3054    :載入中...
 STR_3055    :White
 STR_3056    :Translucent
 STR_3057    :{WINDOW_COLOUR_2}Construction Marker:
@@ -3110,9 +3110,9 @@ STR_3103    :Can't re-paint this...
 STR_3104    :{SMALLFONT}{BLACK}List rides
 STR_3105    :{SMALLFONT}{BLACK}List shops and stalls
 STR_3106    :{SMALLFONT}{BLACK}List information kiosks and other guest facilities
-STR_3107    :Close
-STR_3108    :Test
-STR_3109    :Open
+STR_3107    :關閉
+STR_3108    :測試
+STR_3109    :開啟
 STR_3110    :{WINDOW_COLOUR_2}Block Sections: {BLACK}{COMMA16}
 STR_3111    :{SMALLFONT}{BLACK}Click on design to build it
 STR_3112    :{SMALLFONT}{BLACK}Click on design to rename or delete it
@@ -3289,29 +3289,29 @@ STR_3282    :{SMALLFONT}{BLACK}Select objective and park name
 STR_3283    :{SMALLFONT}{BLACK}Select rides to be preserved
 STR_3284    :Objective Selection
 STR_3285    :Preserved Rides
-STR_3286    :{SMALLFONT}{BLACK}Select objective for this scenario
-STR_3287    :{WINDOW_COLOUR_2}Objective:
-STR_3288    :{SMALLFONT}{BLACK}Select climate
-STR_3289    :{WINDOW_COLOUR_2}Climate:
-STR_3290    :Cool and wet
-STR_3291    :Warm
-STR_3292    :Hot and dry
-STR_3293    :Cold
-STR_3294    :Change...
+STR_3286    :{SMALLFONT}{BLACK}選擇此劇情的目標
+STR_3287    :{WINDOW_COLOUR_2}目標:
+STR_3288    :{SMALLFONT}{BLACK}選擇氣候
+STR_3289    :{WINDOW_COLOUR_2}氣候:
+STR_3290    :又冷又潮濕
+STR_3291    :溫暖
+STR_3292    :又熱又乾燥
+STR_3293    :寒冷
+STR_3294    :更改...
 STR_3295    :{SMALLFONT}{BLACK}Change name of park
 STR_3296    :{SMALLFONT}{BLACK}Change name of scenario
 STR_3297    :{SMALLFONT}{BLACK}Change detail notes about park / scenario
 STR_3298    :{WINDOW_COLOUR_2}Park Name: {BLACK}{STRINGID}
 STR_3299    :{WINDOW_COLOUR_2}Park/Scenario Details:
-STR_3300    :{WINDOW_COLOUR_2}Scenario Name: {BLACK}{STRINGID}
-STR_3301    :{WINDOW_COLOUR_2}Objective Date:
+STR_3300    :{WINDOW_COLOUR_2}劇情名稱: {BLACK}{STRINGID}
+STR_3301    :{WINDOW_COLOUR_2}達成目標的日期:
 STR_3302    :{WINDOW_COLOUR_2}{MONTHYEAR}
-STR_3303    :{WINDOW_COLOUR_2}Number of guests:
-STR_3304    :{WINDOW_COLOUR_2}Park value:
-STR_3305    :{WINDOW_COLOUR_2}Monthly income:
-STR_3306    :{WINDOW_COLOUR_2}Monthly profit:
-STR_3307    :{WINDOW_COLOUR_2}Minimum length:
-STR_3308    :{WINDOW_COLOUR_2}Excitement rating:
+STR_3303    :{WINDOW_COLOUR_2}遊客數量:
+STR_3304    :{WINDOW_COLOUR_2}樂園評價:
+STR_3305    :{WINDOW_COLOUR_2}每月收入:
+STR_3306    :{WINDOW_COLOUR_2}每月利潤:
+STR_3307    :{WINDOW_COLOUR_2}最少長度:
+STR_3308    :{WINDOW_COLOUR_2}興奮度:
 STR_3309    :{WINDOW_COLOUR_2}{COMMA16}
 STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
 STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
@@ -3349,8 +3349,8 @@ STR_3342    :Scenario Editor
 STR_3343    :Convert Saved Game to Scenario
 STR_3344    :雲霄飛車設計工具
 STR_3345    :軌道設計管理工具
-STR_3346    :Can't save track design...
-STR_3347    :Ride is too large, contains too many elements, or scenery is too spread out
+STR_3346    :無法儲存軌道設計...
+STR_3347    :遊樂設施太巨型, 含有太多物件, 或景物分佈太散亂
 STR_3348    :重命名
 STR_3349    :刪除
 STR_3350    :Track design name
@@ -3377,7 +3377,7 @@ STR_3370    :{BLACK}= Info. Kiosk
 STR_3371    :{BLACK}= First Aid
 STR_3372    :{BLACK}= Cash Machine
 STR_3373    :{BLACK}= Toilet
-STR_3374    :Warning: Too many objects selected!
+STR_3374    :警告: 選取了太多物件!
 STR_3375    :Not all objects in this scenery group could be selected
 STR_3376    :Install new track design...
 STR_3377    :{SMALLFONT}{BLACK}Install a new track design file
@@ -3393,7 +3393,7 @@ STR_3386    :自訂遊樂設施教學
 STR_3387    :雲霄飛車建造教學
 STR_3388    :Unable to switch to selected mode
 STR_3389    :Unable to select additional item of scenery...
-STR_3390    :Too many items selected
+STR_3390    :選取了太多物件
 STR_3391    :{SMALLFONT}{BLACK}這個就是我們的樂園 - 先瞧瞧周邊的環境吧...
 STR_3392    :{SMALLFONT}{BLACK}最簡單的方法就是按住滑鼠右鍵, 然後拖曳來移動檢視範圍...
 STR_3393    :{SMALLFONT}{BLACK}如果要觀看更多樂園的部份, 你可以按最上工具列中的縮小檢視圖標來縮小檢視...
@@ -3448,32 +3448,32 @@ STR_3441    :頁2
 STR_3442    :頁3
 STR_3443    :頁4
 STR_3444    :頁5
-STR_3445    :Set Patrol Area
-STR_3446    :Cancel Patrol Area
+STR_3445    :設置巡邏區域
+STR_3446    :取得巡邏區域
 
 # New strings, cleaner
 STR_5120    :Show finances button on toolbar
 STR_5121    :Show research button on toolbar
-STR_5122    :Select rides by track type (like in RCT1)
-STR_5123    :Renew rides
-STR_5124    :No Six Flags
+STR_5122    :(像RCT1一樣)以軌道類型選擇遊樂設施
+STR_5123    :翻新遊樂設施
+STR_5124    :去除"六旗"標誌
 STR_5125    :All destructable
-STR_5126    :Random title music
+STR_5126    :隨機播放主題曲
 STR_5127    :{SMALLFONT}{BLACK}Disable land elevation
-STR_5128    :Selection size
-STR_5129    :Enter selection size between {COMMA16} and {COMMA16}
-STR_5130    :Map size
-STR_5131    :Enter map size between {COMMA16} and {COMMA16}
-STR_5132    :Fix all rides
+STR_5128    :選擇大小
+STR_5129    :請輸入介於{COMMA16}及{COMMA16}的選擇大小
+STR_5130    :地圖大小
+STR_5131    :請輸入介於{COMMA16}及{COMMA16}的地圖大小
+STR_5132    :修理好所有遊樂設施
 STR_5133    :{SMALLFONT}{BLACK}Adjust smaller area of land rights
 STR_5134    :{SMALLFONT}{BLACK}Adjust larger area of land rights
 STR_5135    :{SMALLFONT}{BLACK}Buy land rights and construction rights
 STR_5136    :Land rights
-STR_5137    :Allow lift hill and launch speeds{NEWLINE}up to {VELOCITY}
+STR_5137    :允許鏈條及發車速度{NEWLINE}高至{VELOCITY}
 STR_5138    :{SMALLFONT}{WINDOW_COLOUR_2}{STRINGID}
 STR_5139    :{WHITE}{STRINGID}
-STR_5140    :Disable brakes failure
-STR_5141    :Disable all breakdowns
+STR_5140    :去除煞車組件故障
+STR_5141    :去除所有故障機會
 STR_5142    :正常速度
 STR_5143    :快速速度
 STR_5144    :加快速度
@@ -3667,9 +3667,9 @@ STR_5331    :Rock
 STR_5332    :Wood (red)
 STR_5333    :Wood (black)
 STR_5334    :Ice
-STR_5335    :Ride entrance
-STR_5336    :Ride exit
-STR_5337    :Park entrance
+STR_5335    :遊樂設施入口
+STR_5336    :遊樂設施出口
+STR_5337    :樂園入口
 STR_5338    :Element type
 STR_5339    :Base height
 STR_5340    :Clearance height
