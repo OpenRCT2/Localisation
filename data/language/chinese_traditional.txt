@@ -1433,7 +1433,7 @@ STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :免費
 STR_1431    :行走中
 STR_1432    :前往{STRINGID}中
-STR_1433    :輪侯{STRINGID}中
+STR_1433    :輪候{STRINGID}中
 STR_1434    :溺水中
 STR_1435    :On {STRINGID}
 STR_1436    :In {STRINGID}
@@ -1498,7 +1498,7 @@ STR_1494    :{SMALLFONT}{OPENQUOTES}我還未渴{ENDQUOTES}
 STR_1495    :{SMALLFONT}{OPENQUOTES}救命! 我快要溺死了!{ENDQUOTES}
 STR_1496    :{SMALLFONT}{OPENQUOTES}我迷路了!{ENDQUOTES}
 STR_1497    :{SMALLFONT}{OPENQUOTES}{STRINGID}真棒{ENDQUOTES}
-STR_1498    :{SMALLFONT}{OPENQUOTES}我輪侯{STRINGID}很長時間了{ENDQUOTES}
+STR_1498    :{SMALLFONT}{OPENQUOTES}我輪候{STRINGID}很長時間了{ENDQUOTES}
 STR_1499    :{SMALLFONT}{OPENQUOTES}我累了{ENDQUOTES}
 STR_1500    :{SMALLFONT}{OPENQUOTES}我餓了{ENDQUOTES}
 STR_1501    :{SMALLFONT}{OPENQUOTES}我渴了{ENDQUOTES}
@@ -1813,19 +1813,19 @@ STR_1809    :{WINDOW_COLOUR_2}Current breakdown: {OUTLINE}{RED}{STRINGID}
 STR_1810    :{WINDOW_COLOUR_2}Carrying:
 STR_1811    :Can't build this here...
 STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
-STR_1813    :Miscellaneous Objects
-STR_1814    :Actions
-STR_1815    :Thoughts
-STR_1816    :{SMALLFONT}{BLACK}Select information type to show in guest list
+STR_1813    :其他物件
+STR_1814    :動作
+STR_1815    :想法
+STR_1816    :{SMALLFONT}{BLACK}選擇遊客列表中要顯示的資訊類別
 STR_1817    :({COMMA16})
-STR_1818    :{WINDOW_COLOUR_2}All guests
-STR_1819    :{WINDOW_COLOUR_2}All guests (summarised)
-STR_1820    :{WINDOW_COLOUR_2}Guests {STRINGID}
-STR_1821    :{WINDOW_COLOUR_2}Guests thinking {STRINGID}
-STR_1822    :{WINDOW_COLOUR_2}Guests thinking about {POP16}{STRINGID}
-STR_1823    :{SMALLFONT}{BLACK}Show guests' thoughts about this ride/attraction
-STR_1824    :{SMALLFONT}{BLACK}Show guests on this ride/attraction
-STR_1825    :{SMALLFONT}{BLACK}Show guests queuing for this ride/attraction
+STR_1818    :{WINDOW_COLOUR_2}所有遊客
+STR_1819    :{WINDOW_COLOUR_2}所有遊客 (總匯)
+STR_1820    :{WINDOW_COLOUR_2}{STRINGID}的遊客
+STR_1821    :{WINDOW_COLOUR_2}在想{STRINGID}的遊客
+STR_1822    :{WINDOW_COLOUR_2}在想{POP16}{STRINGID}的遊客
+STR_1823    :{SMALLFONT}{BLACK}顯示遊客對此遊樂設施/店面的想法
+STR_1824    :{SMALLFONT}{BLACK}顯示在使用此遊樂設施/店面的遊客
+STR_1825    :{SMALLFONT}{BLACK}顯示在輪候此遊樂設施/店面的遊客
 STR_1826    :狀態
 STR_1827    :人氣度
 STR_1828    :滿意度
@@ -3403,7 +3403,7 @@ STR_3396    :{SMALLFONT}{BLACK}讓我們一起建造一個簡單的遊樂設施�
 STR_3397    :{SMALLFONT}{BLACK}白色的'鬼影'顯示著建造遊樂設施的地方. 我們移動滑鼠到一個位置, 然後按下左鍵即可建造該遊樂設施...
 STR_3398    :{SMALLFONT}{BLACK}遊樂設施需要一個入口及出口. 我們移動滑鼠到一個鄰近遊樂設施的方格, 然後按下左鍵即可建造入口, 然後重覆步驟建造出口...
 STR_3399    :{SMALLFONT}{BLACK}為了遊客能享用我們新落成的遊樂設施, 我們需要建造道路連接出入口...
-STR_3400    :{SMALLFONT}{BLACK}入口的道路我們可以使用特別的'輪侯區'道路...
+STR_3400    :{SMALLFONT}{BLACK}入口的道路我們可以使用特別的'輪候區'道路...
 STR_3401    :{SMALLFONT}{BLACK}至於離開道路, 任何'普通'道路皆可...
 STR_3402    :{SMALLFONT}{BLACK}大功告成, 我們可以開啟此遊樂設施了! 要開啟此遊樂設施, 我們需在遊樂設施視窗中按下旗幟圖標, 然後選擇'開啟'...
 STR_3403    :{SMALLFONT}{BLACK}但遊客們在哪?
