@@ -1024,9 +1024,9 @@ STR_1020    :Can't make changes...
 STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_1022    :{POP16}{POP16}{POP16}{COMMA16} car per train
 STR_1023    :{POP16}{POP16}{POP16}{COMMA16} cars per train
-STR_1024    :{COMMA16} car per train
-STR_1025    :{COMMA16} cars per train
-STR_1026    :Station platform too long!
+STR_1024    :每列車{COMMA16}車卡
+STR_1025    :每列車{COMMA16}車卡
+STR_1026    :車站月台太長!
 STR_1027    :{SMALLFONT}{BLACK}Locate this on Main View
 STR_1028    :Off edge of map!
 STR_1029    :Cannot build partly above and partly below water!
@@ -1036,10 +1036,10 @@ STR_1032    :Can only build this on water!
 STR_1033    :Can only build this above ground!
 STR_1034    :Can only build this on land!
 STR_1035    :Local authority won't allow construction above tree-height!
-STR_1036    :Load Game
-STR_1037    :Load Landscape
-STR_1038    :Convert saved game to scenario
-STR_1039    :Install new track design
+STR_1036    :載入遊戲
+STR_1037    :載入地型
+STR_1038    :將存檔轉換成劇情
+STR_1039    :安裝新軌道設計
 STR_1040    :儲存遊戲
 STR_1041    :儲存劇情
 STR_1042    :儲存地型
@@ -1054,13 +1054,13 @@ STR_1050    :載入失敗...{NEWLINE}檔案中含有非法資料!
 STR_1051    :透明化支撐
 STR_1052    :透明化遊客
 STR_1053    :{SMALLFONT}{BLACK}Rides/attractions in park
-STR_1054    :{SMALLFONT}{BLACK}Name ride/attraction
-STR_1055    :{SMALLFONT}{BLACK}Name person
-STR_1056    :{SMALLFONT}{BLACK}Name staff member
-STR_1057    :Ride/attraction name
-STR_1058    :Enter new name for this ride/attraction:
-STR_1059    :Can't rename ride/attraction...
-STR_1060    :Invalid ride/attraction name
+STR_1054    :{SMALLFONT}{BLACK}命名遊樂設施/店鋪
+STR_1055    :{SMALLFONT}{BLACK}命名遊客
+STR_1056    :{SMALLFONT}{BLACK}命名員工
+STR_1057    :遊樂設施/店鋪名稱
+STR_1058    :請輸入這個遊樂設施/店鋪的新名稱:
+STR_1059    :不能重命名遊樂設施/店鋪...
+STR_1060    :不適合的遊樂設施/店鋪名稱
 STR_1061    :正常模式
 STR_1062    :連續巡迴模式
 STR_1063    :Reverse-Incline launched shuttle 模式
@@ -1180,17 +1180,17 @@ STR_1176    :Can't build footpath here...
 STR_1177    :Can't remove footpath from here...
 STR_1178    :Land slope unsuitable
 STR_1179    :Footpath in the way
-STR_1180    :Can't build this underwater!
-STR_1181    :Footpaths
-STR_1182    :Type
-STR_1183    :Direction
-STR_1184    :Slope
-STR_1185    :{SMALLFONT}{BLACK}Direction
-STR_1186    :{SMALLFONT}{BLACK}Slope down
-STR_1187    :{SMALLFONT}{BLACK}Level
-STR_1188    :{SMALLFONT}{BLACK}Slope up
-STR_1189    :{SMALLFONT}{BLACK}Construct the selected footpath section
-STR_1190    :{SMALLFONT}{BLACK}Remove previous footpath section
+STR_1180    :不能建造此於水底!
+STR_1181    :道路
+STR_1182    :類別
+STR_1183    :方向
+STR_1184    :坡道
+STR_1185    :{SMALLFONT}{BLACK}方向
+STR_1186    :{SMALLFONT}{BLACK}下坡
+STR_1187    :{SMALLFONT}{BLACK}水平
+STR_1188    :{SMALLFONT}{BLACK}上坡
+STR_1189    :{SMALLFONT}{BLACK}建造此被選中的道路
+STR_1190    :{SMALLFONT}{BLACK}移除上一段道路
 STR_1191    :{BLACK}{STRINGID}
 STR_1192    :{OUTLINE}{RED}{STRINGID}
 STR_1193    :{WINDOW_COLOUR_2}{STRINGID}
