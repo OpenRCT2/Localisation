@@ -2815,9 +2815,9 @@ STR_2807    :{RED}Guests are complaining about the amount of litter in your park
 STR_2808    :{RED}Guests are complaining about the vandalism in your park{NEWLINE}Check where your security guards are and consider organizing them better
 STR_2809    :{RED}Guests are hungry and can't find anywhere to buy food
 STR_2810    :{RED}Guests are thirsty and can't find anywhere to buy drinks
-STR_2811    :{RED}Guests are complaining because they can't find the toilets in your park
-STR_2812    :{RED}Guests are getting lost or stuck{NEWLINE}Check whether the layout of your footpaths needs improving to help the guests find their way around
-STR_2813    :{RED}Your park entrance fee is too high!{NEWLINE}Reduce your entrance fee or improve the value of the park to attract more guests
+STR_2811    :{RED}因為遊客都找不到樂園裡有廁所, 所以他們抱怨了
+STR_2812    :{RED}遊客都被卡住或迷失了{NEWLINE}請檢查樂園的道路設計是否需要改善, 以便遊客找到出路
+STR_2813    :{RED}你的樂園入場費太貴!{NEWLINE}減低入場費或增加樂團價值來吸引更多遊客來訪
 STR_2814    :{WINDOW_COLOUR_2}Most untidy park award
 STR_2815    :{WINDOW_COLOUR_2}Tidiest park award
 STR_2816    :{WINDOW_COLOUR_2}Award for the park with the best roller coasters
@@ -2835,24 +2835,24 @@ STR_2827    :{WINDOW_COLOUR_2}Best custom-designed rides award
 STR_2828    :{WINDOW_COLOUR_2}Most dazzling ride colour schemes award
 STR_2829    :{WINDOW_COLOUR_2}Most confusing park layout award
 STR_2830    :{WINDOW_COLOUR_2}Best gentle ride award
-STR_2831    :{TOPAZ}Your park has received an award for being 'The most untidy park in the country'!
-STR_2832    :{TOPAZ}Your park has received an award for being 'The tidiest park in the country'!
-STR_2833    :{TOPAZ}Your park has received an award for being 'The park with the best roller coasters'!
-STR_2834    :{TOPAZ}Your park has received an award for being 'The best value park in the country'!
-STR_2835    :{TOPAZ}Your park has received an award for being 'The most beautiful park in the country'!
-STR_2836    :{TOPAZ}Your park has received an award for being 'The worst value park in the country'!
-STR_2837    :{TOPAZ}Your park has received an award for being 'The safest park in the country'!
-STR_2838    :{TOPAZ}Your park has received an award for being 'The park with the best staff'!
-STR_2839    :{TOPAZ}Your park has received an award for being 'The park with the best food in the country'!
-STR_2840    :{TOPAZ}Your park has received an award for being 'The park with the worst food in the country'!
-STR_2841    :{TOPAZ}Your park has received an award for being 'The park with the best toilet facilities in the country'!
-STR_2842    :{TOPAZ}Your park has received an award for being 'The most disappointing park in the country'!
-STR_2843    :{TOPAZ}Your park has received an award for being 'The park with the best water rides in the country'!
-STR_2844    :{TOPAZ}Your park has received an award for being 'The park with the best custom-designed rides'!
-STR_2845    :{TOPAZ}Your park has received an award for being 'The park with the most dazzling choice of colour schemes'!
-STR_2846    :{TOPAZ}Your park has received an award for being 'The park with the most confusing layout'!
-STR_2847    :{TOPAZ}Your park has received an award for being 'The park with the best gentle rides'!
-STR_2848    :{WINDOW_COLOUR_2}No recent awards
+STR_2831    :{TOPAZ}你的樂園剛獲得了'The most untidy park in the country'的獎項!
+STR_2832    :{TOPAZ}你的樂園剛獲得了'The tidiest park in the country'的獎項!
+STR_2833    :{TOPAZ}你的樂園剛獲得了'The park with the best roller coasters'的獎項!
+STR_2834    :{TOPAZ}你的樂園剛獲得了'The best value park in the country'的獎項!
+STR_2835    :{TOPAZ}你的樂園剛獲得了'The most beautiful park in the country'的獎項!
+STR_2836    :{TOPAZ}你的樂園剛獲得了'The worst value park in the country'的獎項!
+STR_2837    :{TOPAZ}你的樂園剛獲得了'The safest park in the country'的獎項!
+STR_2838    :{TOPAZ}你的樂園剛獲得了'The park with the best staff'的獎項!
+STR_2839    :{TOPAZ}你的樂園剛獲得了'The park with the best food in the country'的獎項!
+STR_2840    :{TOPAZ}你的樂園剛獲得了'The park with the worst food in the country'的獎項!
+STR_2841    :{TOPAZ}你的樂園剛獲得了'The park with the best toilet facilities in the country'的獎項!
+STR_2842    :{TOPAZ}你的樂園剛獲得了'The most disappointing park in the country'的獎項!
+STR_2843    :{TOPAZ}你的樂園剛獲得了'The park with the best water rides in the country'的獎項!
+STR_2844    :{TOPAZ}你的樂園剛獲得了'The park with the best custom-designed rides'的獎項!
+STR_2845    :{TOPAZ}你的樂園剛獲得了'The park with the most dazzling choice of colour schemes'的獎項!
+STR_2846    :{TOPAZ}你的樂園剛獲得了'The park with the most confusing layout'的獎項!
+STR_2847    :{TOPAZ}你的樂園剛獲得了'The park with the best gentle rides'的獎項!
+STR_2848    :{WINDOW_COLOUR_2}暫無獲得任何獎項
 STR_2849    :New scenario installed successfully
 STR_2850    :New track design installed successfully
 STR_2851    :Scenario already installed
@@ -2860,8 +2860,8 @@ STR_2852    :Track design already installed
 STR_2853    :Forbidden by the local authority!
 STR_2854    :{RED}Guests can't get to the entrance of {STRINGID} !{NEWLINE}Construct a path to the entrance
 STR_2855    :{RED}{STRINGID} has no path leading from its exit !{NEWLINE}Construct a path from the ride exit
-STR_2856    :{WINDOW_COLOUR_2}Tutorial
-STR_2857    :{WINDOW_COLOUR_2}(Press a key or mouse button to take control)
+STR_2856    :{WINDOW_COLOUR_2}教學
+STR_2857    :{WINDOW_COLOUR_2}(按下任意鍵來獲取控制)
 STR_2858    :Can't start marketing campaign...
 STR_2859    :Another instance of RollerCoaster Tycoon 2 is already running
 STR_2860    :Infogrames Interactive credits...
@@ -3786,7 +3786,7 @@ STR_5449    :減慢遊戲速度
 STR_5450    :增快遊戲速度
 STR_5451    :開啟密技視窗
 STR_5452    :Toggle visibility of toolbars
-STR_5453    :Select another ride
+STR_5453    :選擇另一類遊樂設施
 STR_5454    :去除FPS上限
 STR_5455    :啟用沙盒模式
 STR_5456    :去除阻礙檢查
