@@ -1655,23 +1655,23 @@ STR_1651    :{SMALLFONT}{OPENQUOTES}這個遊樂設施不錯喔! 只是比起Pho
 STR_1652    :{SMALLFONT}{OPENQUOTES}我好興奮 - 因為這是Intamin創造的遊樂設施!{ENDQUOTES}
 STR_1653    :{SMALLFONT}{OPENQUOTES}...然而, 現在我們已經在{STRINGID}之上!{ENDQUOTES}
 STR_1654    :{WINDOW_COLOUR_2}最近的想法:
-STR_1655    :{SMALLFONT}{BLACK}Construct footpath on land
-STR_1656    :{SMALLFONT}{BLACK}Construct bridge or tunnel footpath
-STR_1657    :{WINDOW_COLOUR_2}Preferred ride
-STR_1658    :{WINDOW_COLOUR_2}intensity: {BLACK}less than {COMMA16}
-STR_1659    :{WINDOW_COLOUR_2}intensity: {BLACK}between {COMMA16} and {COMMA16}
-STR_1660    :{WINDOW_COLOUR_2}intensity: {BLACK}more than {COMMA16}
-STR_1661    :{WINDOW_COLOUR_2}Nausea tolerance: {BLACK}{STRINGID}
-STR_1662    :{WINDOW_COLOUR_2}Happiness:
-STR_1663    :{WINDOW_COLOUR_2}Nausea:
-STR_1664    :{WINDOW_COLOUR_2}Energy:
-STR_1665    :{WINDOW_COLOUR_2}Hunger:
-STR_1666    :{WINDOW_COLOUR_2}Thirst:
-STR_1667    :{WINDOW_COLOUR_2}Bathroom:
-STR_1668    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}Unknown
-STR_1669    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}{COMMA16}%
-STR_1670    :{WINDOW_COLOUR_2}Total customers: {BLACK}{COMMA32}
-STR_1671    :{WINDOW_COLOUR_2}Total profit: {BLACK}{CURRENCY2DP}
+STR_1655    :{SMALLFONT}{BLACK}在地上建造道路
+STR_1656    :{SMALLFONT}{BLACK}建造橋樑或隧道
+STR_1657    :{WINDOW_COLOUR_2}遊樂設施偏好
+STR_1658    :{WINDOW_COLOUR_2}刺激度: {BLACK}少於{COMMA16}
+STR_1659    :{WINDOW_COLOUR_2}刺激度: {BLACK}介乎{COMMA16}及{COMMA16}之間
+STR_1660    :{WINDOW_COLOUR_2}刺激度: {BLACK}高於{COMMA16}
+STR_1661    :{WINDOW_COLOUR_2}噁心忍受程度: {BLACK}{STRINGID}
+STR_1662    :{WINDOW_COLOUR_2}快樂度:
+STR_1663    :{WINDOW_COLOUR_2}噁心度:
+STR_1664    :{WINDOW_COLOUR_2}體力:
+STR_1665    :{WINDOW_COLOUR_2}飢餓度:
+STR_1666    :{WINDOW_COLOUR_2}口渴度:
+STR_1667    :{WINDOW_COLOUR_2}如廁度:
+STR_1668    :{WINDOW_COLOUR_2}滿意度: {BLACK}未知
+STR_1669    :{WINDOW_COLOUR_2}滿意度: {BLACK}{COMMA16}%
+STR_1670    :{WINDOW_COLOUR_2}總乘客數: {BLACK}{COMMA32}
+STR_1671    :{WINDOW_COLOUR_2}總利潤: {BLACK}{CURRENCY2DP}
 STR_1672    :Brakes
 STR_1673    :Spinning Control Toggle Track
 STR_1674    :Brake speed
@@ -3689,12 +3689,12 @@ STR_5353    :{BLACK}體力:
 STR_5354    :{BLACK}飢餓度:
 STR_5355    :{BLACK}口渴度:
 STR_5356    :{BLACK}噁心度:
-STR_5357    :{BLACK}忍受噁心程度:
+STR_5357    :{BLACK}噁心忍受程度:
 STR_5358    :{BLACK}如廁度:
 STR_5359    :移除遊客
 STR_5360    :{SMALLFONT}{BLACK}移除地圖上所有遊客
 STR_5361    :給予全部遊客:
-STR_5362    :{BLACK}Set all guests' preferred ride intensity to:
+STR_5362    :{BLACK}設置所有遊客對遊樂設施的偏好刺激度為:
 STR_5363    :高於1
 STR_5364    :低於15
 STR_5365    :{BLACK}員工行走速度:
