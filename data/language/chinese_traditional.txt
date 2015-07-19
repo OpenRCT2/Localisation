@@ -19,19 +19,19 @@ STR_0014    :自由落體
 STR_0015    :Bobsleigh Coaster
 STR_0016    :觀景塔
 STR_0017    :Looping Roller Coaster
-STR_0018    :Dinghy Slide
+STR_0018    :滑水道
 STR_0019    :Mine Train Coaster
 STR_0020    :纜車
 STR_0021    :Corkscrew Roller Coaster
 STR_0022    :迷宮
 STR_0023    :Spiral Slide
 STR_0024    :小型賽車
-STR_0025    :Log Flume
-STR_0026    :River Rapids
+STR_0025    :運木水道
+STR_0026    :激流船
 STR_0027    :碰碰車
 STR_0028    :海盜船
 STR_0029    :Swinging Inverter Ship
-STR_0030    :Food Stall
+STR_0030    :食物店
 STR_0031    :Unknown Stall (1D)
 STR_0032    :飲料店
 STR_0033    :Unknown Stall (1F)
@@ -64,7 +64,7 @@ STR_0059    :Flying Roller Coaster
 STR_0060    :Unknown Ride (3A)
 STR_0061    :Virginia Reel
 STR_0062    :Splash Boats
-STR_0063    :Mini Helicopters
+STR_0063    :迷你直升機
 STR_0064    :Lay-down Roller Coaster
 STR_0065    :Suspended Monorail
 STR_0066    :Unknown Ride (40)
@@ -90,7 +90,7 @@ STR_0085    :Unknown Ride (53)
 STR_0086    :Unknown Ride (54)
 STR_0087    :Unknown Ride (55)
 STR_0088    :Inverted Impulse Coaster
-STR_0089    :Mini Roller Coaster
+STR_0089    :迷你雲霄飛車
 STR_0090    :Mine Ride
 STR_0091    :Unknown Ride (59)
 STR_0092    :LIM Launched Roller Coaster
@@ -999,7 +999,7 @@ STR_0995    :{WINDOW_COLOUR_1}你確定要拆除整個{STRINGID}?
 STR_0996    :整體外觀
 STR_0997    :{SMALLFONT}{BLACK}選擇檢視範圍
 STR_0998    :此遊樂設施的車站數量已達到上限
-STR_0999    :需要一個車站站台
+STR_0999    :需要一個車站月台
 STR_1000    :軌道並未完整地連接好
 STR_1001    :軌道不適合此類型的車卡
 STR_1002    :不能開啟{POP16}{POP16}{POP16}{STRINGID}...
@@ -1261,16 +1261,16 @@ STR_1257    :車站
 STR_1258    :車站
 STR_1259    :車站
 STR_1260    :車站
-STR_1261    :{COMMA16} 車站
-STR_1262    :{COMMA16} 車站
-STR_1263    :車站 {COMMA16}
-STR_1264    :car
-STR_1265    :cars
-STR_1266    :Car
-STR_1267    :Cars
-STR_1268    :{COMMA16} car
-STR_1269    :{COMMA16} cars
-STR_1270    :Car {COMMA16}
+STR_1261    :{COMMA16}車站
+STR_1262    :{COMMA16}車站
+STR_1263    :車站{COMMA16}
+STR_1264    :車輛
+STR_1265    :車輛
+STR_1266    :車輛
+STR_1267    :車輛
+STR_1268    :{COMMA16}車輛
+STR_1269    :{COMMA16}車輛
+STR_1270    :車輛{COMMA16}
 STR_1271    :building
 STR_1272    :buildings
 STR_1273    :Building
@@ -1327,7 +1327,7 @@ STR_1323    :Courses
 STR_1324    :{COMMA16} course
 STR_1325    :{COMMA16} courses
 STR_1326    :Course {COMMA16}
-STR_1327    :{SMALLFONT}{BLACK}Rotate objects by 90{DEGREE}
+STR_1327    :{SMALLFONT}{BLACK}將物件旋轉90{DEGREE}
 STR_1328    :Level land required
 STR_1329    :{WINDOW_COLOUR_2}Launch speed:
 STR_1330    :{SMALLFONT}{BLACK}Maximum speed when leaving station
@@ -1335,19 +1335,19 @@ STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VEL
 STR_1332    :{VELOCITY}
 STR_1333    :{STRINGID} - {STRINGID}{POP16}
 STR_1334    :{STRINGID} - {STRINGID} {COMMA16}
-STR_1335    :{STRINGID} - Entrance{POP16}{POP16}
-STR_1336    :{STRINGID} - Station {POP16}{COMMA16} Entrance
-STR_1337    :{STRINGID} - Exit{POP16}{POP16}
-STR_1338    :{STRINGID} - Station {POP16}{COMMA16} Exit
+STR_1335    :{STRINGID} - 入口{POP16}{POP16}
+STR_1336    :{STRINGID} - 車站{POP16}{COMMA16}入口
+STR_1337    :{STRINGID} - 出口{POP16}{POP16}
+STR_1338    :{STRINGID} - 車站{POP16}{COMMA16}出口
 STR_1339    :{BLACK}暫無測試結果...
-STR_1340    :{WINDOW_COLOUR_2}Max. speed: {BLACK}{VELOCITY}
-STR_1341    :{WINDOW_COLOUR_2}Ride time: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
+STR_1340    :{WINDOW_COLOUR_2}最高速度: {BLACK}{VELOCITY}
+STR_1341    :{WINDOW_COLOUR_2}遊玩時間: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
 STR_1343    :{DURATION} / 
-STR_1344    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
+STR_1344    :{WINDOW_COLOUR_2}軌道長度: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
 STR_1346    :{LENGTH} / 
-STR_1347    :{WINDOW_COLOUR_2}Average speed: {BLACK}{VELOCITY}
+STR_1347    :{WINDOW_COLOUR_2}平均速度: {BLACK}{VELOCITY}
 STR_1348    :{WINDOW_COLOUR_2}Max. positive vertical G's: {BLACK}{COMMA2DP32}g
 STR_1349    :{WINDOW_COLOUR_2}Max. positive vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
 STR_1350    :{WINDOW_COLOUR_2}Max. negative vertical G's: {BLACK}{COMMA2DP32}g
@@ -1361,7 +1361,7 @@ STR_1357    :{WINDOW_COLOUR_2}Holes: {BLACK}{COMMA16}
 STR_1358    :{WINDOW_COLOUR_2}Total 'air' time: {BLACK}{COMMA2DP32}secs
 STR_1359    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minute
 STR_1360    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minutes
-STR_1361    :Can't change speed...
+STR_1361    :不能改變速度...
 STR_1362    :不能改變發車速度...
 STR_1363    :Too high for supports!
 STR_1364    :Supports for track above can't be extended any further!
@@ -1379,15 +1379,15 @@ STR_1375    :Upper Transfer
 STR_1376    :Lower Transfer
 STR_1377    :橫滾軌道 (向左)
 STR_1378    :橫滾軌道 (向右)
-STR_1379    :Reverser (向左)
-STR_1380    :Reverser (向右)
+STR_1379    :逆向裝置 (向左)
+STR_1380    :逆向裝置 (向右)
 STR_1381    :彎型的鏈條坡道 (向左)
 STR_1382    :彎型的鏈條坡道 (向右)
-STR_1383    :Quarter Loop
+STR_1383    :四分之一迴環
 STR_1384    :{YELLOW}{STRINGID}
 STR_1385    :{SMALLFONT}{BLACK}Other track configurations
-STR_1386    :Special...
-STR_1387    :Can't change land type...
+STR_1386    :特殊軌道...
+STR_1387    :不能改變土地類型...
 STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
 STR_1390    :{CURRENCY2DP}
@@ -1407,11 +1407,11 @@ STR_1403    :{SMALLFONT}{BLACK}Build or move exit from ride/attraction
 STR_1404    :{SMALLFONT}{BLACK}90{DEGREE}旋轉
 STR_1405    :{SMALLFONT}{BLACK}Mirror image
 STR_1406    :{SMALLFONT}{BLACK}Toggle scenery on/off (if available for this design)
-STR_1407    :{WINDOW_COLOUR_2}Build this...
-STR_1408    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY}
+STR_1407    :{WINDOW_COLOUR_2}建造此軌道...
+STR_1408    :{WINDOW_COLOUR_2}費用: {BLACK}{CURRENCY}
 STR_1409    :Entry/Exit Platform
 STR_1410    :Vertical Tower
-STR_1411    :{STRINGID} in the way
+STR_1411    :{STRINGID}擋在路中
 STR_1412    :{WINDOW_COLOUR_3}Data logging not available for this type of ride
 STR_1413    :{WINDOW_COLOUR_3}Data logging will start when next {STRINGID} leaves {STRINGID}
 STR_1414    :{SMALLFONT}{BLACK}{DURATION}
