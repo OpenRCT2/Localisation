@@ -2369,27 +2369,27 @@ STR_2364    :{SMALLFONT}{BLACK}Toggle gridlines on landscape on/off
 STR_2365    :The bank refuses to increase your loan!
 STR_2366    :Celsius ({DEGREE}C)
 STR_2367    :Fahrenheit (F)
-STR_2368    :None
-STR_2369    :Low
-STR_2370    :Average
-STR_2371    :High
-STR_2372    :Low
-STR_2373    :Medium
-STR_2374    :High
-STR_2375    :Very high
-STR_2376    :Extreme
-STR_2377    :Ultra-Extreme
+STR_2368    :無
+STR_2369    :低
+STR_2370    :普通
+STR_2371    :高
+STR_2372    :低
+STR_2373    :中
+STR_2374    :高
+STR_2375    :很高
+STR_2376    :極端
+STR_2377    :超極端
 STR_2378    :{SMALLFONT}{BLACK}Adjust smaller area of land
 STR_2379    :{SMALLFONT}{BLACK}Adjust larger area of land
 STR_2380    :{SMALLFONT}{BLACK}Adjust smaller area of water
 STR_2381    :{SMALLFONT}{BLACK}Adjust larger area of water
 STR_2382    :Land
 STR_2383    :Water
-STR_2384    :{WINDOW_COLOUR_2}Your objective:
-STR_2385    :{BLACK}None
+STR_2384    :{WINDOW_COLOUR_2}你的目標:
+STR_2385    :{BLACK}無
 STR_2386    :{BLACK}To have at least {COMMA16} guests in your park at the end of {MONTHYEAR}, with a park rating of at least 600
 STR_2387    :{BLACK}To achieve a park value of at least {POP16}{POP16}{CURRENCY} at the end of {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}
-STR_2388    :{BLACK}Have Fun!
+STR_2388    :{BLACK}盡情玩吧!
 STR_2389    :{BLACK}Build the best {STRINGID} you can!
 STR_2390    :{BLACK}To have 10 different types of roller coasters operating in your park, each with an excitement value of at least 6.00
 STR_2391    :{BLACK}To have at least {COMMA16} guests in your park. You must not let the park rating drop below 700 at any time!
@@ -2497,7 +2497,7 @@ STR_2492    :{SMALLFONT}{BLACK}Set all keyboard shortcuts back to default settin
 STR_2493    :Close top-most window
 STR_2494    :Close all floating windows
 STR_2495    :Cancel construction mode
-STR_2496    :Pause game
+STR_2496    :暫停遊戲
 STR_2497    :Zoom view out
 STR_2498    :Zoom view in
 STR_2499    :Rotate view clockwise
@@ -2512,18 +2512,18 @@ STR_2507    :Invisible people toggle
 STR_2508    :Height marks on land toggle
 STR_2509    :Height marks on ride tracks toggle
 STR_2510    :Height marks on paths toggle
-STR_2511    :Adjust land
-STR_2512    :Adjust water
-STR_2513    :Build scenery
-STR_2514    :Build paths
-STR_2515    :Build new ride
-STR_2516    :Show financial information
-STR_2517    :Show research information
-STR_2518    :Show rides list
-STR_2519    :Show park information
-STR_2520    :Show guest list
-STR_2521    :Show staff list
-STR_2522    :Show recent messages
+STR_2511    :調整土地
+STR_2512    :調整水面
+STR_2513    :建造景物
+STR_2514    :建造道路
+STR_2515    :建造新的遊樂設施
+STR_2516    :顯示財政狀況
+STR_2517    :顯示研發狀況
+STR_2518    :顯示遊樂設施/店面列表
+STR_2519    :顯示樂園狀況
+STR_2520    :顯示遊客列表
+STR_2521    :顯示員工列表
+STR_2522    :顯示最近訊息
 STR_2523    :顯示地圖
 STR_2524    :截圖
 ### The following need to be reordered to match SDL_keycode layout.
@@ -2740,7 +2740,7 @@ STR_2734    :{COMMA16}mph
 STR_2735    :{COMMA16}km/h
 STR_2736    :{MONTH}, Year {COMMA16}
 STR_2737    :{STRINGID} {MONTH}, Year {COMMA16}
-STR_2738    :Title screen music:
+STR_2738    :主選單音樂:
 STR_2739    :None
 STR_2740    :夢幻遊樂園 (RCT1)
 STR_2741    :模擬樂園 (RCT2)
@@ -2768,18 +2768,18 @@ STR_2761    :<not used anymore>
 STR_2762    :<not used anymore>
 STR_2763    :???
 STR_2764    :<not used anymore>
-STR_2765    :Large Tram
-STR_2766    :Win scenario
-STR_2767    :Freeze Climate
-STR_2768    :Unfreeze Climate
-STR_2769    :Open Park
-STR_2770    :Close Park
-STR_2771    :Slower Gamespeed
-STR_2772    :Faster Gamespeed
-STR_2773    :Windowed
-STR_2774    :Fullscreen
-STR_2775    :Fullscreen (desktop)
-STR_2776    :Language:
+STR_2765    :添加超多遊客到訪
+STR_2766    :贏得此劇情
+STR_2767    :靜止氣候
+STR_2768    :不再靜止氣候
+STR_2769    :開放樂園
+STR_2770    :關閉樂園
+STR_2771    :減慢遊戲速度
+STR_2772    :加快遊戲速度
+STR_2773    :視窗化
+STR_2774    :全螢幕
+STR_2775    :全螢幕 (桌面尺寸)
+STR_2776    :語言:
 STR_2777    :{MOVE_X}{SMALLFONT}{STRING}
 STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRING}
 STR_2779    :Viewport #{COMMA16}
@@ -2788,7 +2788,7 @@ STR_2780    :Extra viewport
 STR_2781    :{STRINGID}:{MOVE_X}{195}{STRINGID}{STRINGID}
 STR_2782    :SHIFT + 
 STR_2783    :CTRL + 
-STR_2784    :Change keyboard shortcut
+STR_2784    :更改鍵盤快捷鍵
 STR_2785    :{WINDOW_COLOUR_2}Press new shortcut key for:{NEWLINE}{OPENQUOTES}{STRINGID}{ENDQUOTES}
 STR_2786    :{SMALLFONT}{BLACK}Click on shortcut description to select new key
 STR_2787    :{WINDOW_COLOUR_2}Park value: {BLACK}{CURRENCY}
@@ -2806,35 +2806,35 @@ STR_2798    :{SMALLFONT}{BLACK}Select whether to scroll the view when the mouse 
 STR_2799    :{SMALLFONT}{BLACK}View or change control key assignments
 STR_2800    :{WINDOW_COLOUR_2}Total admissions: {BLACK}{COMMA32}
 STR_2801    :{WINDOW_COLOUR_2}Income from admissions: {BLACK}{CURRENCY2DP}
-STR_2802    :Map
+STR_2802    :地圖
 STR_2803    :{SMALLFONT}{BLACK}Show these guests highlighted on map
 STR_2804    :{SMALLFONT}{BLACK}Show these staff members highlighted on map
 STR_2805    :{SMALLFONT}{BLACK}Show map of park
 STR_2806    :{RED}Guests are complaining about the disgusting state of the paths in your park{NEWLINE}Check where your handymen are and consider organizing them better
 STR_2807    :{RED}Guests are complaining about the amount of litter in your park{NEWLINE}Check where your handymen are and consider organizing them better
 STR_2808    :{RED}Guests are complaining about the vandalism in your park{NEWLINE}Check where your security guards are and consider organizing them better
-STR_2809    :{RED}Guests are hungry and can't find anywhere to buy food
-STR_2810    :{RED}Guests are thirsty and can't find anywhere to buy drinks
+STR_2809    :{RED}遊客都餓了, 但他們找不到賣食物的店舖
+STR_2810    :{RED}遊客都渴了, 但他們找不到賣飲料的店舖
 STR_2811    :{RED}因為遊客都找不到樂園裡有廁所, 所以他們抱怨了
 STR_2812    :{RED}遊客都被卡住或迷失了{NEWLINE}請檢查樂園的道路設計是否需要改善, 以便遊客找到出路
-STR_2813    :{RED}你的樂園入場費太貴!{NEWLINE}減低入場費或增加樂團價值來吸引更多遊客來訪
-STR_2814    :{WINDOW_COLOUR_2}Most untidy park award
-STR_2815    :{WINDOW_COLOUR_2}Tidiest park award
-STR_2816    :{WINDOW_COLOUR_2}Award for the park with the best roller coasters
-STR_2817    :{WINDOW_COLOUR_2}Best value park award
-STR_2818    :{WINDOW_COLOUR_2}Most beautiful park award
-STR_2819    :{WINDOW_COLOUR_2}Worst value park award
-STR_2820    :{WINDOW_COLOUR_2}Safest park award
-STR_2821    :{WINDOW_COLOUR_2}Best staff award
-STR_2822    :{WINDOW_COLOUR_2}Best park food award
-STR_2823    :{WINDOW_COLOUR_2}Worst park food award
-STR_2824    :{WINDOW_COLOUR_2}Best park toilets award
-STR_2825    :{WINDOW_COLOUR_2}Most disappointing park award
-STR_2826    :{WINDOW_COLOUR_2}Best water rides award
-STR_2827    :{WINDOW_COLOUR_2}Best custom-designed rides award
-STR_2828    :{WINDOW_COLOUR_2}Most dazzling ride colour schemes award
-STR_2829    :{WINDOW_COLOUR_2}Most confusing park layout award
-STR_2830    :{WINDOW_COLOUR_2}Best gentle ride award
+STR_2813    :{RED}你的樂園入場費太貴了!{NEWLINE}減低入場費或增加樂團價值來吸引更多遊客來訪
+STR_2814    :{WINDOW_COLOUR_2}最骯髒樂園獎
+STR_2815    :{WINDOW_COLOUR_2}最整潔樂園獎
+STR_2816    :{WINDOW_COLOUR_2}擁有最佳雲霄飛車獎
+STR_2817    :{WINDOW_COLOUR_2}最佳價值樂園獎
+STR_2818    :{WINDOW_COLOUR_2}最漂亮樂園獎
+STR_2819    :{WINDOW_COLOUR_2}最差價值樂園獎
+STR_2820    :{WINDOW_COLOUR_2}最安全樂園獎
+STR_2821    :{WINDOW_COLOUR_2}擁有最佳員工獎
+STR_2822    :{WINDOW_COLOUR_2}擁有最佳食物獎
+STR_2823    :{WINDOW_COLOUR_2}擁有最差食物獎
+STR_2824    :{WINDOW_COLOUR_2}擁有最佳廁所獎
+STR_2825    :{WINDOW_COLOUR_2}最令人失望樂園獎
+STR_2826    :{WINDOW_COLOUR_2}擁有最佳水文類遊樂設施獎
+STR_2827    :{WINDOW_COLOUR_2}擁有最佳自定設計的遊樂設施獎
+STR_2828    :{WINDOW_COLOUR_2}擁有最大膽的色彩選配獎
+STR_2829    :{WINDOW_COLOUR_2}擁有最令人迷失的道路獎
+STR_2830    :{WINDOW_COLOUR_2}擁有最佳溫和類遊樂設施獎
 STR_2831    :{TOPAZ}你的樂園剛獲得了'全國最骯髒樂園獎'!
 STR_2832    :{TOPAZ}你的樂園剛獲得了'全國最整潔樂園獎'!
 STR_2833    :{TOPAZ}你的樂園剛獲得了'擁有最佳雲霄飛車的樂園獎'!
