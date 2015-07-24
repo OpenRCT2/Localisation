@@ -1314,13 +1314,13 @@ STR_1309    :Rings
 STR_1310    :{COMMA16} ring
 STR_1311    :{COMMA16} rings
 STR_1312    :Ring {COMMA16}
-STR_1313    :player
-STR_1314    :players
-STR_1315    :Player
-STR_1316    :Players
-STR_1317    :{COMMA16} player
-STR_1318    :{COMMA16} players
-STR_1319    :Player {COMMA16}
+STR_1313    :玩家
+STR_1314    :玩家
+STR_1315    :玩家
+STR_1316    :玩家
+STR_1317    :{COMMA16}玩家
+STR_1318    :{COMMA16}玩家
+STR_1319    :玩家{COMMA16}
 STR_1320    :course
 STR_1321    :courses
 STR_1322    :Course
@@ -1330,8 +1330,8 @@ STR_1325    :{COMMA16} courses
 STR_1326    :Course {COMMA16}
 STR_1327    :{SMALLFONT}{BLACK}將物件旋轉90{DEGREE}
 STR_1328    :Level land required
-STR_1329    :{WINDOW_COLOUR_2}Launch speed:
-STR_1330    :{SMALLFONT}{BLACK}Maximum speed when leaving station
+STR_1329    :{WINDOW_COLOUR_2}發車速度:
+STR_1330    :{SMALLFONT}{BLACK}離開車站時的最高速度
 STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_1332    :{VELOCITY}
 STR_1333    :{STRINGID} - {STRINGID}{POP16}
@@ -1360,8 +1360,8 @@ STR_1355    :{WINDOW_COLOUR_2}Drops: {BLACK}{COMMA16}
 STR_1356    :{WINDOW_COLOUR_2}Inversions: {BLACK}{COMMA16}
 STR_1357    :{WINDOW_COLOUR_2}Holes: {BLACK}{COMMA16}
 STR_1358    :{WINDOW_COLOUR_2}Total 'air' time: {BLACK}{COMMA2DP32}secs
-STR_1359    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minute
-STR_1360    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minutes
+STR_1359    :{WINDOW_COLOUR_2}輪候時間: {BLACK}{COMMA16}分鐘
+STR_1360    :{WINDOW_COLOUR_2}輪候時間: {BLACK}{COMMA16}分鐘
 STR_1361    :不能改變速度...
 STR_1362    :不能改變發車速度...
 STR_1363    :Too high for supports!
@@ -1424,12 +1424,12 @@ STR_1419    :{SMALLFONT}{BLACK}{VELOCITY}
 STR_1420    :{SMALLFONT}{BLACK}{LENGTH}
 STR_1421    :{SMALLFONT}{BLACK}{COMMA16}g
 STR_1422    :{SMALLFONT}{BLACK}Logging data from {POP16}{STRINGID}
-STR_1423    :{SMALLFONT}{BLACK}Queue line path
-STR_1424    :{SMALLFONT}{BLACK}Footpath
+STR_1423    :{SMALLFONT}{BLACK}輪侯區道路
+STR_1424    :{SMALLFONT}{BLACK}道路
 STR_1425    :道路
-STR_1426    :Queue Line
-STR_1427    :{WINDOW_COLOUR_2}Customers: {BLACK}{COMMA32} per hour
-STR_1428    :{WINDOW_COLOUR_2}Admission price:
+STR_1426    :輪侯區
+STR_1427    :{WINDOW_COLOUR_2}乘客: {BLACK}每小時{COMMA32}個
+STR_1428    :{WINDOW_COLOUR_2}門票價格:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :免費
 STR_1431    :行走中
@@ -1444,11 +1444,11 @@ STR_1439    :(select location)
 STR_1440    :Mowing grass
 STR_1441    :Sweeping footpath
 STR_1442    :Emptying litter bin
-STR_1443    :Watering gardens
-STR_1444    :Watching {STRINGID}
-STR_1445    :Watching construction of {STRINGID}
-STR_1446    :Looking at scenery
-STR_1447    :Leaving the park
+STR_1443    :灌溉花圃中
+STR_1444    :觀看{STRINGID}中
+STR_1445    :觀看{STRINGID}的建造中
+STR_1446    :觀看景物中
+STR_1447    :離開樂園中
 STR_1448    :Watching new ride being constructed
 STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
@@ -1470,7 +1470,7 @@ STR_1465    :向上盤旋 (大型)
 STR_1466    :向下盤旋 (小型)
 STR_1467    :向下盤旋 (大型)
 STR_1468    :員工
-STR_1469    :Ride must start and end with stations
+STR_1469    :遊樂設施必需要由車站發車以及到達車站落客
 STR_1470    :車站不夠長
 STR_1471    :{WINDOW_COLOUR_2}速度:
 STR_1472    :{SMALLFONT}{BLACK}此遊樂設施的速度
@@ -1678,12 +1678,12 @@ STR_1673    :Spinning Control Toggle Track
 STR_1674    :Brake speed
 STR_1675    :{POP16}{VELOCITY}
 STR_1676    :{SMALLFONT}{BLACK}Set speed limit for brakes
-STR_1677    :{WINDOW_COLOUR_2}Popularity: {BLACK}Unknown
-STR_1678    :{WINDOW_COLOUR_2}Popularity: {BLACK}{COMMA16}%
-STR_1679    :Helix up (left)
-STR_1680    :Helix up (right)
-STR_1681    :Helix down (left)
-STR_1682    :Helix down (right)
+STR_1677    :{WINDOW_COLOUR_2}受歡迎度: {BLACK}未知
+STR_1678    :{WINDOW_COLOUR_2}受歡迎度: {BLACK}{COMMA16}%
+STR_1679    :向上盤旋 (向左)
+STR_1680    :向上盤旋 (向右)
+STR_1681    :向下盤旋 (向左)
+STR_1682    :向下盤旋 (向右)
 STR_1683    :Base size 2 x 2
 STR_1684    :Base size 4 x 4
 STR_1685    :Base size 2 x 4
@@ -1708,11 +1708,11 @@ STR_1703    :僱用新的表演人員
 STR_1704    :不能僱用新員工...
 STR_1705    :{SMALLFONT}{BLACK}Sack this staff member
 STR_1706    :{SMALLFONT}{BLACK}Move this person to a new location
-STR_1707    :Too many staff in game
+STR_1707    :遊戲中已有太多員工
 STR_1708    :{SMALLFONT}{BLACK}Set patrol area for this staff member
 STR_1709    :解僱員工
 STR_1710    :Yes
-STR_1711    :{WINDOW_COLOUR_1}Are you sure you want to sack {STRINGID}?
+STR_1711    :{WINDOW_COLOUR_1}你確定要解僱{STRINGID}嗎?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Sweep footpaths
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Water gardens
 STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Empty litter bins
@@ -2297,15 +2297,15 @@ STR_2292    :{WINDOW_COLOUR_2}Rides been on:
 STR_2293    :{BLACK} Nothing
 STR_2294    :{SMALLFONT}{BLACK}Change base land style
 STR_2295    :{SMALLFONT}{BLACK}Change vertical edges of land
-STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} paid to enter park
-STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} ride
-STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} rides
-STR_2299    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} item of food
-STR_2300    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} items of food
-STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} drink
-STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} drinks
-STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} souvenir
-STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} souvenirs
+STR_2296    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}進入樂園
+STR_2297    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}乘坐{BLACK}{COMMA16}個遊樂設施
+STR_2298    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}乘坐{BLACK}{COMMA16}個遊樂設施
+STR_2299    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}享用{BLACK}{COMMA16}款食物
+STR_2300    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}享用{BLACK}{COMMA16}款食物
+STR_2301    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}享用{BLACK}{COMMA16}款飲料
+STR_2302    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}享用{BLACK}{COMMA16}款飲料
+STR_2303    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}購買{BLACK}{COMMA16}個記念品
+STR_2304    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}購買{BLACK}{COMMA16}個記念品
 STR_2305    :Track design files
 STR_2306    :Save track design
 STR_2307    :Select {STRINGID} design
