@@ -2261,23 +2261,23 @@ STR_2256    :剌激類遊樂設施
 STR_2257    :水文類遊樂設施
 STR_2258    :商店及攤販
 STR_2259    :景物及主題景物
-STR_2260    :No funding
-STR_2261    :Minimum funding
-STR_2262    :Normal funding
-STR_2263    :Maximum funding
-STR_2264    :Research funding
+STR_2260    :無資金
+STR_2261    :最少資金
+STR_2262    :普通資金
+STR_2263    :最多資金
+STR_2264    :研發資金分配
 STR_2265    :{WINDOW_COLOUR_2}費用: {BLACK}每個月{CURRENCY}
-STR_2266    :Research priorities
-STR_2267    :Currently in development
-STR_2268    :Last development
-STR_2269    :{WINDOW_COLOUR_2}Type: {BLACK}{STRINGID}
-STR_2270    :{WINDOW_COLOUR_2}Progress: {BLACK}{STRINGID}
-STR_2271    :{WINDOW_COLOUR_2}Expected: {BLACK}{STRINGID}
-STR_2272    :{WINDOW_COLOUR_2}Ride/attraction:{NEWLINE}{BLACK}{STRINGID}
-STR_2273    :{WINDOW_COLOUR_2}Scenery/themeing:{NEWLINE}{BLACK}{STRINGID}
-STR_2274    :{SMALLFONT}{BLACK}Show details of this invention or development
-STR_2275    :{SMALLFONT}{BLACK}Show funding and options for research & development
-STR_2276    :{SMALLFONT}{BLACK}Show research & development status
+STR_2266    :研發優先項目
+STR_2267    :目前研發項目
+STR_2268    :上次研發項目
+STR_2269    :{WINDOW_COLOUR_2}類別: {BLACK}{STRINGID}
+STR_2270    :{WINDOW_COLOUR_2}進度: {BLACK}{STRINGID}
+STR_2271    :{WINDOW_COLOUR_2}預計完工日期: {BLACK}{STRINGID}
+STR_2272    :{WINDOW_COLOUR_2}遊樂設施/店鋪:{NEWLINE}{BLACK}{STRINGID}
+STR_2273    :{WINDOW_COLOUR_2}景物/主題景物:{NEWLINE}{BLACK}{STRINGID}
+STR_2274    :{SMALLFONT}{BLACK}顯示此研發項目的詳細資料
+STR_2275    :{SMALLFONT}{BLACK}顯示研發的資金分配及選項
+STR_2276    :{SMALLFONT}{BLACK}顯示研發項目進度
 STR_2277    :未知
 STR_2278    :運輸類遊樂設施
 STR_2279    :溫和類遊樂設施
@@ -2318,10 +2318,10 @@ STR_2313    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32} (approx.)
 STR_2314    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}
 STR_2315    :{WINDOW_COLOUR_2}Cost: {BLACK}around {CURRENCY}
 STR_2316    :{WINDOW_COLOUR_2}Space required: {BLACK}{COMMA16} x {COMMA16} blocks
-STR_2317    :{WINDOW_COLOUR_2}Sound Quality:
-STR_2318    :Low
-STR_2319    :Medium
-STR_2320    :High
+STR_2317    :{WINDOW_COLOUR_2}音效品質:
+STR_2318    :低
+STR_2319    :中
+STR_2320    :高
 STR_2321    :{WINDOW_COLOUR_2}Number of rides/attractions: {BLACK}{COMMA16}
 STR_2322    :{WINDOW_COLOUR_2}Staff: {BLACK}{COMMA16}
 STR_2323    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}m{SQUARED}
@@ -2366,9 +2366,9 @@ STR_2361    :Landscape Smoothing
 STR_2362    :{SMALLFONT}{BLACK}Toggle landscape tile edge smoothing on/off
 STR_2363    :Gridlines on Landscape
 STR_2364    :{SMALLFONT}{BLACK}Toggle gridlines on landscape on/off
-STR_2365    :The bank refuses to increase your loan!
-STR_2366    :Celsius ({DEGREE}C)
-STR_2367    :Fahrenheit (F)
+STR_2365    :銀行拒絕增加你的貸款額!
+STR_2366    :攝氏 ({DEGREE}C)
+STR_2367    :華氏 (F)
 STR_2368    :無
 STR_2369    :低
 STR_2370    :普通
@@ -2387,17 +2387,17 @@ STR_2382    :Land
 STR_2383    :Water
 STR_2384    :{WINDOW_COLOUR_2}你的目標:
 STR_2385    :{BLACK}無
-STR_2386    :{BLACK}To have at least {COMMA16} guests in your park at the end of {MONTHYEAR}, with a park rating of at least 600
-STR_2387    :{BLACK}To achieve a park value of at least {POP16}{POP16}{CURRENCY} at the end of {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}
+STR_2386    :{BLACK}在{MONTHYEAR}尾之前, 樂園裡至少有{COMMA16}個遊客, 而且樂園評價並不低於600
+STR_2387    :{BLACK}在{PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}尾之前, 樂園價值必需達到{POP16}{POP16}{CURRENCY}
 STR_2388    :{BLACK}盡情玩吧!
-STR_2389    :{BLACK}Build the best {STRINGID} you can!
-STR_2390    :{BLACK}To have 10 different types of roller coasters operating in your park, each with an excitement value of at least 6.00
-STR_2391    :{BLACK}To have at least {COMMA16} guests in your park. You must not let the park rating drop below 700 at any time!
-STR_2392    :{BLACK}To achieve a monthly income from ride tickets of at least {POP16}{POP16}{CURRENCY}
-STR_2393    :{BLACK}To have 10 different types of roller coasters operating in your park, each with a minimum length of {LENGTH}, and an excitement rating of at least 7.00
-STR_2394    :{BLACK}To finish building all 5 of the partially built roller coasters in this park, designing them to achieve excitement ratings of at least {POP16}{POP16}{COMMA2DP32} each
-STR_2395    :{BLACK}To repay your loan and achieve a park value of at least {POP16}{POP16}{CURRENCY}
-STR_2396    :{BLACK}To achieve a monthly profit from food, drink and merchandise sales of at least {POP16}{POP16}{CURRENCY}
+STR_2389    :{BLACK}建造你的最佳{STRINGID}吧!
+STR_2390    :{BLACK}樂園必需建造十種不同種類的雲霄飛車, 而且每座的興奮度不低於6.00
+STR_2391    :{BLACK}樂園裡至少有{COMMA16}個遊客. 任何時間下, 你並不可以令樂園評價跌至700以下!
+STR_2392    :{BLACK}遊樂設施的門票收入至少要達到每月{POP16}{POP16}{CURRENCY}
+STR_2393    :{BLACK}樂園必需建造十種不同種類的雲霄飛車, 每座的長度至少需要{LENGTH}, 而且興奮度都不低於7.00
+STR_2394    :{BLACK}建造好五座未完成的雲霄飛車, 將他們每座設計成興奮度至少達到{POP16}{POP16}{COMMA2DP32}
+STR_2395    :{BLACK}還清樂園的貸款, 並令其價值至少達到{POP16}{POP16}{CURRENCY}
+STR_2396    :{BLACK}食物, 飲料及記念品的銷售收入至少要達到每月{POP16}{POP16}{CURRENCY}
 STR_2397    :None
 STR_2398    :Number of guests at a given date
 STR_2399    :Park value at a given date
