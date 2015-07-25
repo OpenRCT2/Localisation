@@ -5,7 +5,7 @@ STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
 STR_0002    :Spiral Roller Coaster
 STR_0003    :站立式雲霄飛車
-STR_0004    :Suspended Swinging Coaster
+STR_0004    :懸吊式雲霄飛車
 STR_0005    :Inverted Roller Coaster
 STR_0006    :Junior Roller Coaster
 STR_0007    :小火車
@@ -24,7 +24,7 @@ STR_0019    :Mine Train Coaster
 STR_0020    :纜車
 STR_0021    :Corkscrew Roller Coaster
 STR_0022    :迷宮
-STR_0023    :Spiral Slide
+STR_0023    :螺旋滑道
 STR_0024    :小型賽車
 STR_0025    :運木水道
 STR_0026    :激流船
@@ -44,12 +44,12 @@ STR_0039    :摩天輪
 STR_0040    :Motion Simulator
 STR_0041    :3D戲院
 STR_0042    :Top Spin
-STR_0043    :Space Rings
+STR_0043    :太空飛輪
 STR_0044    :Reverse Freefall Coaster
 STR_0045    :升降機
-STR_0046    :Vertical Drop Roller Coaster
+STR_0046    :垂直雲霄飛車
 STR_0047    :提款機
-STR_0048    :Twist
+STR_0048    :龍捲風
 STR_0049    :鬼屋
 STR_0050    :急救室
 STR_0051    :馬戲團
@@ -74,7 +74,7 @@ STR_0069    :迷你高爾夫
 STR_0070    :Giga Coaster
 STR_0071    :Roto-Drop
 STR_0072    :Flying Saucers
-STR_0073    :Crooked House
+STR_0073    :古怪屋
 STR_0074    :Monorail Cycles
 STR_0075    :Compact Inverted Coaster
 STR_0076    :Water Coaster
@@ -1071,8 +1071,8 @@ STR_1066    :出租小船模式
 STR_1067    :Upward launch
 STR_1068    :旋轉升降模式
 STR_1069    :站對站模式
-STR_1070    :Single ride per admission
-STR_1071    :Unlimited rides per admission
+STR_1070    :一次付費單次溜滑梯
+STR_1071    :一次付費無限次溜滑梯
 STR_1072    :迷宮模式
 STR_1073    :賽車模式
 STR_1074    :碰碰車模式
@@ -1083,7 +1083,7 @@ STR_1078    :向前旋轉
 STR_1079    :向後旋轉
 STR_1080    :電影: {ENDQUOTES}Avenging aviators{ENDQUOTES}
 STR_1081    :3D電影: {ENDQUOTES}Mouse tails{ENDQUOTES}
-STR_1082    :Space rings 模式
+STR_1082    :太空飛輪模式
 STR_1083    :Beginners 模式
 STR_1084    :LIM-powered launch
 STR_1085    :電影: {ENDQUOTES}Thrill riders{ENDQUOTES}
@@ -1097,38 +1097,38 @@ STR_1092    :Downward launch
 STR_1093    :Crooked house 模式
 STR_1094    :Freefall drop 模式
 STR_1095    :Continuous circuit block sectioned mode
-STR_1096    :Powered launch (without passing station)
+STR_1096    :動力發車 (不穿過車站)
 STR_1097    :Powered launch block sectioned mode
 STR_1098    :移動到{POP16}{STRINGID}的最尾中
 STR_1099    :在{POP16}{STRINGID}等待乘客中
 STR_1100    :等待離開{POP16}{STRINGID}中
 STR_1101    :離開{POP16}{STRINGID}
-STR_1102    :以{VELOCITY}行走
+STR_1102    :以{VELOCITY}行走中
 STR_1103    :到達{POP16}{STRINGID}
 STR_1104    :在{POP16}{STRINGID}卸去乘客中
-STR_1105    :以{VELOCITY}行走
+STR_1105    :以{VELOCITY}行走中
 STR_1106    :毀壞中!
 STR_1107    :毀壞了!
-STR_1108    :以{VELOCITY}行走
-STR_1109    :Swinging
-STR_1110    :Rotating
-STR_1111    :Rotating
-STR_1112    :Operating
-STR_1113    :Showing film
-STR_1114    :Rotating
-STR_1115    :Operating
-STR_1116    :Operating
+STR_1108    :以{VELOCITY}行走中
+STR_1109    :擺動中
+STR_1110    :旋轉中
+STR_1111    :旋轉中
+STR_1112    :運作中
+STR_1113    :放映中
+STR_1114    :旋轉中
+STR_1115    :運作中
+STR_1116    :運作中
 STR_1117    :馬戲團表演中
-STR_1118    :Operating
-STR_1119    :Waiting for cable lift
-STR_1120    :Travelling at {VELOCITY}
-STR_1121    :Stopping
+STR_1118    :運作中
+STR_1119    :等候纜索拉上坡中
+STR_1120    :以{VELOCITY}行走中
+STR_1121    :停止中
 STR_1122    :等待乘客中
-STR_1123    :Waiting to start
-STR_1124    :Starting
-STR_1125    :Operating
-STR_1126    :Stopping
-STR_1127    :Unloading passengers
+STR_1123    :等待開始中
+STR_1124    :開始中
+STR_1125    :運作中
+STR_1126    :停止中
+STR_1127    :卸客中
 STR_1128    :Stopped by block brakes
 STR_1129    :All vehicles in same colours
 STR_1130    :Different colours per {STRINGID}
@@ -1159,7 +1159,7 @@ STR_1154    :在土地上標記高度
 STR_1155    :在道路上標記高度
 STR_1156    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1157    :{TICK}{MOVE_X}{SMALLFONT}{STRINGID}
-STR_1158    :Can't remove this...
+STR_1158    :不能移除...
 STR_1159    :{SMALLFONT}{BLACK}Place scenery, gardens, and other accessories
 STR_1160    :{SMALLFONT}{BLACK}Create/adjust lakes & water
 STR_1161    :Can't position this here...
@@ -1180,7 +1180,7 @@ STR_1175    :Can't build this on sloped footpath
 STR_1176    :Can't build footpath here...
 STR_1177    :Can't remove footpath from here...
 STR_1178    :Land slope unsuitable
-STR_1179    :Footpath in the way
+STR_1179    :道路擋在路中
 STR_1180    :不能建造此於水底!
 STR_1181    :道路
 STR_1182    :類別
@@ -1205,23 +1205,23 @@ STR_1200    :{COMMA16} 個遊客在這個遊樂設施上
 STR_1201    :無人在排隊
 STR_1202    :1個遊客在排隊
 STR_1203    :{COMMA16}個遊客在排隊
-STR_1204    :{COMMA16} minute queue time
-STR_1205    :{COMMA16} minutes queue time
+STR_1204    :{COMMA16}分鐘的輪候時間
+STR_1205    :{COMMA16}分鐘的輪候時間
 STR_1206    :{WINDOW_COLOUR_2}Wait for:
 STR_1207    :{WINDOW_COLOUR_2}Leave if another train arrives at station
 STR_1208    :{WINDOW_COLOUR_2}Leave if another boat arrives at station
 STR_1209    :{SMALLFONT}{BLACK}Select whether should wait for passengers before departing
 STR_1210    :{SMALLFONT}{BLACK}Select whether should leave if another vehicle arrives at the same station
-STR_1211    :{WINDOW_COLOUR_2}Minimum waiting time:
-STR_1212    :{WINDOW_COLOUR_2}Maximum waiting time:
+STR_1211    :{WINDOW_COLOUR_2}最短等待時間:
+STR_1212    :{WINDOW_COLOUR_2}最長等待時間:
 STR_1213    :{SMALLFONT}{BLACK}Select minimum length of time to wait before departing
 STR_1214    :{SMALLFONT}{BLACK}Select maximum length of time to wait before departing
-STR_1215    :{WINDOW_COLOUR_2}Synchronise with adjacent stations
+STR_1215    :{WINDOW_COLOUR_2}與鄰近車站同步發車
 STR_1216    :{SMALLFONT}{BLACK}Select whether to synchronise departure with all adjacent stations (for 'racing')
 STR_1217    :{COMMA16} seconds
 STR_1218    :{BLACK}{SMALLUP}
 STR_1219    :{BLACK}{SMALLDOWN}
-STR_1220    :只准落客
+STR_1220    :只准卸客
 STR_1221    :No entrance
 STR_1222    :No exit
 STR_1223    :{SMALLFONT}{BLACK}運輸類遊樂設施
@@ -1470,7 +1470,7 @@ STR_1465    :向上盤旋 (大型)
 STR_1466    :向下盤旋 (小型)
 STR_1467    :向下盤旋 (大型)
 STR_1468    :員工
-STR_1469    :遊樂設施必需要由車站發車以及到達車站落客
+STR_1469    :遊樂設施必需要由車站發車以及到達車站卸客
 STR_1470    :車站不夠長
 STR_1471    :{WINDOW_COLOUR_2}速度:
 STR_1472    :{SMALLFONT}{BLACK}此遊樂設施的速度
