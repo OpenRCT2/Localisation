@@ -842,6 +842,7 @@ STR_0837    :Unable to initialise graphics system
 STR_0838    :CD key code {INT32} is not valid for your RollerCoaster Tycoon 2 CD !{WINDOW_COLOUR_1}{WINDOW_COLOUR_1}Please un-install RollerCoaster Tycoon 2% and re-install with the correct CD Key Code
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
+# The follwing six strings were used for display resolutions, but have been replaced.
 STR_0841    :Desktop window
 STR_0842    :640x480 全螢幕
 STR_0843    :800x600 全螢幕
@@ -1893,6 +1894,8 @@ STR_1888    :{WINDOW_COLOUR_2}上次檢查時間: {BLACK}多於4小時
 STR_1889    :{WINDOW_COLOUR_2}Down-Time: {MOVE_X}{255}{BLACK}{COMMA16}%
 STR_1890    :{SMALLFONT}{BLACK}選擇維修人員檢查此遊樂設施的時距
 STR_1891    :在樂園裡暫未有{STRINGID}!
+# The following two strings were used to display an error when the disc was missing.
+# This has been replaced in OpenRCT2.
 STR_1892    :RollerCoaster Tycoon 2
 STR_1893    :Please insert your RollerCoaster Tycoon 2 CD in the following drive:
 STR_1894    :{WINDOW_COLOUR_2}賣出{STRINGID}: {BLACK}{COMMA32}
