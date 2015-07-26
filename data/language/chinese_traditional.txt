@@ -1019,13 +1019,13 @@ STR_1013    :關閉樂園
 STR_1014    :開放樂園
 STR_1015    :Unable to operate with more than one station platform in this mode
 STR_1016    :Unable to operate with less than two stations in this mode
-STR_1017    :Can't change operating mode...
-STR_1018    :Can't make changes...
-STR_1019    :Can't make changes...
-STR_1020    :Can't make changes...
+STR_1017    :不能改變運行模式...
+STR_1018    :不能作出更變...
+STR_1019    :不能作出更變...
+STR_1020    :不能作出更變...
 STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_1022    :{POP16}{POP16}{POP16}{COMMA16} car per train
-STR_1023    :{POP16}{POP16}{POP16}{COMMA16} cars per train
+STR_1022    :每列車{POP16}{POP16}{POP16}{COMMA16}車卡
+STR_1023    :每列車{POP16}{POP16}{POP16}{COMMA16}車卡
 STR_1024    :每列車{COMMA16}車卡
 STR_1025    :每列車{COMMA16}車卡
 STR_1026    :車站月台太長!
@@ -1097,7 +1097,7 @@ STR_1091    :馬戲團表演模式
 STR_1092    :Downward launch
 STR_1093    :Crooked house 模式
 STR_1094    :Freefall drop 模式
-STR_1095    :Continuous circuit block sectioned mode
+STR_1095    :有區域煞車的連續循環模式
 STR_1096    :動力發車 (不穿過車站)
 STR_1097    :Powered launch block sectioned mode
 STR_1098    :移動到{POP16}{STRINGID}的最尾中
@@ -1130,12 +1130,12 @@ STR_1124    :開始中
 STR_1125    :運作中
 STR_1126    :停止中
 STR_1127    :卸客中
-STR_1128    :Stopped by block brakes
-STR_1129    :All vehicles in same colours
-STR_1130    :Different colours per {STRINGID}
-STR_1131    :Different colours per vehicle
-STR_1132    :Vehicle {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1133    :Vehicle {POP16}{COMMA16}
+STR_1128    :被區域煞車裝置煞停了
+STR_1129    :全部車卡使用相同顏色
+STR_1130    :不同{STRINGID}使用不同顏色
+STR_1131    :不同車卡使用不同顏色
+STR_1132    :車卡{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1133    :車卡{POP16}{COMMA16}
 STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
 STR_1135    :{STRINGID} {COMMA16}
 STR_1136    :{SMALLFONT}{BLACK}Select main colour
