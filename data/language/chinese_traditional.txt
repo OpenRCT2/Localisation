@@ -3,7 +3,7 @@
 # Use # at the beginning of a line to leave a comment.
 STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
-STR_0002    :Spiral Roller Coaster
+STR_0002    :螺旋式雲霄飛車
 STR_0003    :站立式雲霄飛車
 STR_0004    :懸吊式雲霄飛車
 STR_0005    :Inverted Roller Coaster
@@ -12,7 +12,7 @@ STR_0007    :小火車
 STR_0008    :單軌電車
 STR_0009    :迷你懸吊式雲霄飛車
 STR_0010    :小船出租
-STR_0011    :Wooden Wild Mouse
+STR_0011    :木製野鼠式雲霄飛車
 STR_0012    :越野賽馬式雲霄飛車
 STR_0013    :Car Ride
 STR_0014    :自由落體
@@ -22,7 +22,7 @@ STR_0017    :Looping Roller Coaster
 STR_0018    :滑水道
 STR_0019    :採礦列車雲霄飛車
 STR_0020    :纜車
-STR_0021    :Corkscrew Roller Coaster
+STR_0021    :瓶塞鑽式雲霄飛車
 STR_0022    :迷宮
 STR_0023    :螺旋滑道
 STR_0024    :小型賽車
@@ -30,7 +30,7 @@ STR_0025    :運木水道
 STR_0026    :激流船
 STR_0027    :碰碰車
 STR_0028    :海盜船
-STR_0029    :Swinging Inverter Ship
+STR_0029    :迴旋海盜船
 STR_0030    :食物店
 STR_0031    :Unknown Stall (1D)
 STR_0032    :飲料店
@@ -1280,20 +1280,20 @@ STR_1274    :建築物
 STR_1275    :{COMMA16}建築物
 STR_1276    :{COMMA16}建築物
 STR_1277    :建築物{COMMA16}
-STR_1278    :structure
-STR_1279    :structures
-STR_1280    :Structure
-STR_1281    :Structures
-STR_1282    :{COMMA16} structure
-STR_1283    :{COMMA16} structures
-STR_1284    :Structure {COMMA16}
-STR_1285    :ship
-STR_1286    :ships
-STR_1287    :Ship
-STR_1288    :Ships
-STR_1289    :{COMMA16} ship
-STR_1290    :{COMMA16} ships
-STR_1291    :Ship {COMMA16}
+STR_1278    :結構
+STR_1279    :結構
+STR_1280    :結構
+STR_1281    :結構
+STR_1282    :{COMMA16}結構
+STR_1283    :{COMMA16}結構
+STR_1284    :結構{COMMA16}
+STR_1285    :船隻
+STR_1286    :船隻
+STR_1287    :船隻
+STR_1288    :船隻
+STR_1289    :{COMMA16}船隻
+STR_1290    :{COMMA16}船隻
+STR_1291    :船隻{COMMA16}
 STR_1292    :cabin
 STR_1293    :cabins
 STR_1294    :Cabin
@@ -1350,23 +1350,23 @@ STR_1344    :{WINDOW_COLOUR_2}軌道長度: {BLACK}{STRINGID}{STRINGID}{STRINGID
 STR_1345    :{LENGTH}
 STR_1346    :{LENGTH} / 
 STR_1347    :{WINDOW_COLOUR_2}平均速度: {BLACK}{VELOCITY}
-STR_1348    :{WINDOW_COLOUR_2}Max. positive vertical G's: {BLACK}{COMMA2DP32}g
-STR_1349    :{WINDOW_COLOUR_2}Max. positive vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1350    :{WINDOW_COLOUR_2}Max. negative vertical G's: {BLACK}{COMMA2DP32}g
-STR_1351    :{WINDOW_COLOUR_2}Max. negative vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1352    :{WINDOW_COLOUR_2}Max. lateral G's: {BLACK}{COMMA2DP32}g
-STR_1353    :{WINDOW_COLOUR_2}Max. lateral G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1354    :{WINDOW_COLOUR_2}Highest drop height: {BLACK}{LENGTH}
-STR_1355    :{WINDOW_COLOUR_2}Drops: {BLACK}{COMMA16}
-STR_1356    :{WINDOW_COLOUR_2}Inversions: {BLACK}{COMMA16}
-STR_1357    :{WINDOW_COLOUR_2}Holes: {BLACK}{COMMA16}
-STR_1358    :{WINDOW_COLOUR_2}Total 'air' time: {BLACK}{COMMA2DP32}secs
+STR_1348    :{WINDOW_COLOUR_2}最大正垂直重力: {BLACK}{COMMA2DP32}g
+STR_1349    :{WINDOW_COLOUR_2}最大正垂直重力: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1350    :{WINDOW_COLOUR_2}最大負垂直重力: {BLACK}{COMMA2DP32}g
+STR_1351    :{WINDOW_COLOUR_2}最大負垂直重力: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1352    :{WINDOW_COLOUR_2}最大橫向重力: {BLACK}{COMMA2DP32}g
+STR_1353    :{WINDOW_COLOUR_2}最大橫向重力: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1354    :{WINDOW_COLOUR_2}最高下落高度: {BLACK}{LENGTH}
+STR_1355    :{WINDOW_COLOUR_2}下落數量: {BLACK}{COMMA16}
+STR_1356    :{WINDOW_COLOUR_2}反轉數量: {BLACK}{COMMA16}
+STR_1357    :{WINDOW_COLOUR_2}桿洞數量: {BLACK}{COMMA16}
+STR_1358    :{WINDOW_COLOUR_2}總'空中'時間: {BLACK}{COMMA2DP32}secs
 STR_1359    :{WINDOW_COLOUR_2}輪候時間: {BLACK}{COMMA16}分鐘
 STR_1360    :{WINDOW_COLOUR_2}輪候時間: {BLACK}{COMMA16}分鐘
 STR_1361    :不能改變速度...
 STR_1362    :不能改變發車速度...
-STR_1363    :Too high for supports!
-STR_1364    :Supports for track above can't be extended any further!
+STR_1363    :高度過高無法支撐!
+STR_1364    :無法再擴展空中軌道的支撐!
 STR_1365    :In-line Twist (向左)
 STR_1366    :In-line Twist (向右)
 STR_1367    :二分之一迴環
@@ -1901,19 +1901,19 @@ STR_1893    :Please insert your RollerCoaster Tycoon 2 CD in the following drive
 STR_1894    :{WINDOW_COLOUR_2}賣出{STRINGID}: {BLACK}{COMMA32}
 STR_1895    :{SMALLFONT}{BLACK}建造新的遊樂設施/店鋪
 STR_1896    :{WINDOW_COLOUR_2}支出/收入
-STR_1897    :{WINDOW_COLOUR_2}Ride construction
-STR_1898    :{WINDOW_COLOUR_2}Ride running costs
-STR_1899    :{WINDOW_COLOUR_2}Land purchase
-STR_1900    :{WINDOW_COLOUR_2}Landscaping
-STR_1901    :{WINDOW_COLOUR_2}Park entrance tickets
-STR_1902    :{WINDOW_COLOUR_2}Ride tickets
-STR_1903    :{WINDOW_COLOUR_2}Shop sales
-STR_1904    :{WINDOW_COLOUR_2}Shop stock
-STR_1905    :{WINDOW_COLOUR_2}Food/drink sales
-STR_1906    :{WINDOW_COLOUR_2}Food/drink stock
-STR_1907    :{WINDOW_COLOUR_2}Staff wages
-STR_1908    :{WINDOW_COLOUR_2}Marketing
-STR_1909    :{WINDOW_COLOUR_2}研發
+STR_1897    :{WINDOW_COLOUR_2}建造遊樂設施
+STR_1898    :{WINDOW_COLOUR_2}運行遊樂設施費用
+STR_1899    :{WINDOW_COLOUR_2}購買土地
+STR_1900    :{WINDOW_COLOUR_2}調整地形
+STR_1901    :{WINDOW_COLOUR_2}樂園入場門票
+STR_1902    :{WINDOW_COLOUR_2}遊樂設施門票
+STR_1903    :{WINDOW_COLOUR_2}記念品及其他物品銷售額
+STR_1904    :{WINDOW_COLOUR_2}記念品及其他物品進貨
+STR_1905    :{WINDOW_COLOUR_2}食物/飲料銷售額
+STR_1906    :{WINDOW_COLOUR_2}食物/飲料進貨
+STR_1907    :{WINDOW_COLOUR_2}員工薪金
+STR_1908    :{WINDOW_COLOUR_2}營銷費用
+STR_1909    :{WINDOW_COLOUR_2}研發費用
 STR_1910    :{WINDOW_COLOUR_2}貸款利息
 STR_1911    :{BLACK} 每年 {COMMA16}% 
 STR_1912    :{MONTH}
@@ -3065,12 +3065,12 @@ STR_3054    :載入中...
 STR_3055    :白色
 STR_3056    :透明
 STR_3057    :{WINDOW_COLOUR_2}建造標記:
-STR_3058    :Brick walls
-STR_3059    :Hedges
-STR_3060    :Ice blocks
-STR_3061    :Wooden fences
-STR_3062    :{SMALLFONT}{BLACK}Standard roller coaster track
-STR_3063    :{SMALLFONT}{BLACK}Water channel (track submerged)
+STR_3058    :磚牆
+STR_3059    :樹籬
+STR_3060    :冰磚牆
+STR_3061    :木柵欄
+STR_3062    :{SMALLFONT}{BLACK}標準雲霄飛車軌道
+STR_3063    :{SMALLFONT}{BLACK}水濺軌道 (軌道半浸於水中)
 STR_3064    :新手級樂園
 STR_3065    :挑戰級樂園
 STR_3066    :專家級樂園
@@ -3080,11 +3080,11 @@ STR_3069    :Top Section
 STR_3070    :Slope to Level
 STR_3071    :{WINDOW_COLOUR_2}劃一樂園內的價格
 STR_3072    :{SMALLFONT}{BLACK}選擇是否以此價格為劃一價格
-STR_3073    :{RED}WARNING: Your park rating has dropped below 700 !{NEWLINE}If you haven't raised the park rating in 4 weeks, your park will be closed down
-STR_3074    :{RED}WARNING: Your park rating is still below 700 !{NEWLINE}You have 3 weeks to raise the park rating
-STR_3075    :{RED}WARNING: Your park rating is still below 700 !{NEWLINE}You have only 2 weeks to raise the park rating, or your park will be closed down
-STR_3076    :{RED}FINAL WARNING: Your park rating is still below 700 !{NEWLINE}In just 7 days your park will be closed down unless you can raise the rating
-STR_3077    :{RED}CLOSURE NOTICE: Your park has been closed down !
+STR_3073    :{RED}警告: 你的樂園評價已跌至低於700!{NEWLINE}如果你在4週內尚未改善樂園評價, 你的樂園將會被強制關閉
+STR_3074    :{RED}警告: 你的樂園評價仍然低於700!{NEWLINE}你還有3週去改善評價
+STR_3075    :{RED}警告: 你的樂園評價仍然低於700!{NEWLINE}你還有2週去改善評價, 否則你的樂園將會被強制關閉
+STR_3076    :{RED}最後通諜: 你的樂園評價仍然低於700!{NEWLINE}7日之內你的樂園將會被強制關閉, 除非你能改善樂園評價
+STR_3077    :{RED}關閉告示: 你的樂園已被強制關閉!
 STR_3078    :普通入口
 STR_3079    :木製入口
 STR_3080    :帆布帳幕式入口
