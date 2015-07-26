@@ -1245,12 +1245,12 @@ STR_1239    :小船
 STR_1240    :{COMMA16}小船
 STR_1241    :{COMMA16}小船
 STR_1242    :小船{COMMA16}
-STR_1243    :track
-STR_1244    :tracks
-STR_1245    :Track
-STR_1246    :Tracks
-STR_1247    :{COMMA16} track
-STR_1248    :{COMMA16} tracks
+STR_1243    :軌道
+STR_1244    :軌道
+STR_1245    :軌道
+STR_1246    :軌道
+STR_1247    :{COMMA16}軌道
+STR_1248    :{COMMA16}軌道
 STR_1249    :Track {COMMA16}
 STR_1250    :船用月台
 STR_1251    :船用月台
@@ -1273,13 +1273,13 @@ STR_1267    :車輛
 STR_1268    :{COMMA16}車輛
 STR_1269    :{COMMA16}車輛
 STR_1270    :車輛{COMMA16}
-STR_1271    :building
-STR_1272    :buildings
-STR_1273    :Building
-STR_1274    :Buildings
-STR_1275    :{COMMA16} building
-STR_1276    :{COMMA16} buildings
-STR_1277    :Building {COMMA16}
+STR_1271    :建築物
+STR_1272    :建築物
+STR_1273    :建築物
+STR_1274    :建築物
+STR_1275    :{COMMA16}建築物
+STR_1276    :{COMMA16}建築物
+STR_1277    :建築物{COMMA16}
 STR_1278    :structure
 STR_1279    :structures
 STR_1280    :Structure
@@ -1330,7 +1330,7 @@ STR_1324    :{COMMA16} course
 STR_1325    :{COMMA16} courses
 STR_1326    :Course {COMMA16}
 STR_1327    :{SMALLFONT}{BLACK}將物件旋轉90{DEGREE}
-STR_1328    :Level land required
+STR_1328    :需要升高或降低土地
 STR_1329    :{WINDOW_COLOUR_2}發車速度:
 STR_1330    :{SMALLFONT}{BLACK}離開車站時的最高速度
 STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
@@ -1461,7 +1461,7 @@ STR_1455    :不適合的遊客姓名
 STR_1456    :{WINDOW_COLOUR_2}已花費的現金: {BLACK}{CURRENCY2DP}
 STR_1457    :{WINDOW_COLOUR_2}在銀包中的現金: {BLACK}{CURRENCY2DP}
 STR_1458    :{WINDOW_COLOUR_2}已逗留在樂園的時間: {BLACK}{REALTIME}
-STR_1459    :Track style
+STR_1459    :軌道款式
 STR_1460    :{SMALLFONT}{BLACK}'U'型的開放式軌道
 STR_1461    :{SMALLFONT}{BLACK}'O'型的封閉式軌道
 STR_1462    :對於帶有鏈條的坡道來說太陡斜
@@ -1674,11 +1674,11 @@ STR_1668    :{WINDOW_COLOUR_2}滿意度: {BLACK}未知
 STR_1669    :{WINDOW_COLOUR_2}滿意度: {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}總乘客數: {BLACK}{COMMA32}
 STR_1671    :{WINDOW_COLOUR_2}總利潤: {BLACK}{CURRENCY2DP}
-STR_1672    :Brakes
+STR_1672    :煞車裝置
 STR_1673    :Spinning Control Toggle Track
-STR_1674    :Brake speed
+STR_1674    :煞車速度
 STR_1675    :{POP16}{VELOCITY}
-STR_1676    :{SMALLFONT}{BLACK}Set speed limit for brakes
+STR_1676    :{SMALLFONT}{BLACK}設置煞車速度限制
 STR_1677    :{WINDOW_COLOUR_2}受歡迎度: {BLACK}未知
 STR_1678    :{WINDOW_COLOUR_2}受歡迎度: {BLACK}{COMMA16}%
 STR_1679    :向上盤旋 (向左)
@@ -1691,7 +1691,7 @@ STR_1685    :Base size 2 x 4
 STR_1686    :Base size 5 x 1
 STR_1687    :Water splash
 STR_1688    :Base size 4 x 1
-STR_1689    :Block brakes
+STR_1689    :區域煞車裝置
 STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
 STR_1691    :{WINDOW_COLOUR_2}  Cost: {BLACK}{CURRENCY}
 STR_1692    :{WINDOW_COLOUR_2}  Cost: {BLACK}from {CURRENCY}
@@ -1701,7 +1701,7 @@ STR_1695    :{SMALLFONT}{BLACK}收入和支出
 STR_1696    :{SMALLFONT}{BLACK}Customer information
 STR_1697    :不能在輪侯區放置此物件
 STR_1698    :只能在輪侯區放置此物件
-STR_1699    :Too many people in game
+STR_1699    :遊戲中已有太多人物
 STR_1700    :僱用新的清潔工人
 STR_1701    :僱用新的維修人員
 STR_1702    :僱用新的安全警衛
@@ -1712,7 +1712,7 @@ STR_1706    :{SMALLFONT}{BLACK}移動這個人物到新的位置
 STR_1707    :遊戲中已有太多員工
 STR_1708    :{SMALLFONT}{BLACK}設置這位員工的巡邏位置
 STR_1709    :解僱員工
-STR_1710    :Yes
+STR_1710    :確定
 STR_1711    :{WINDOW_COLOUR_1}你確定要解僱{STRINGID}嗎?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}清掃道路
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}灌溉花圃
@@ -1734,8 +1734,8 @@ STR_1728    :不能在此購買建造權...
 STR_1729    :土地不是由樂園所擁有!
 STR_1730    :{RED}Closed - - 
 STR_1731    :{WHITE}{STRINGID} - - 
-STR_1732    :Build
-STR_1733    :Mode
+STR_1732    :建造
+STR_1733    :模式
 STR_1734    :{WINDOW_COLOUR_2}圈數:
 STR_1735    :{SMALLFONT}{BLACK}Number of laps of circuit
 STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
@@ -2414,11 +2414,11 @@ STR_2406    :Finish building 5 roller coasters
 STR_2407    :Repay loan and achieve a given park value
 STR_2408    :Monthly profit from food/merchandise
 STR_2409    :{WINDOW_COLOUR_2}Marketing campaigns in operation
-STR_2410    :{BLACK}None
+STR_2410    :{BLACK}無
 STR_2411    :{WINDOW_COLOUR_2}Marketing campaigns available
 STR_2412    :{SMALLFONT}{BLACK}Start this marketing campaign
-STR_2413    :{BLACK}({CURRENCY2DP} per week)
-STR_2414    :(Not Selected)
+STR_2413    :{BLACK}(每週{CURRENCY2DP})
+STR_2414    :(尚未選擇)
 STR_2415    :{WINDOW_COLOUR_2}Ride:
 STR_2416    :{WINDOW_COLOUR_2}Item:
 STR_2417    :{WINDOW_COLOUR_2}Length of time:
@@ -2426,8 +2426,8 @@ STR_2418    :Free entry to {STRINGID}
 STR_2419    :Free ride on {STRINGID}
 STR_2420    :Half-price entry to {STRINGID}
 STR_2421    :Free {STRINGID}
-STR_2422    :Advertising campaign for {STRINGID}
-STR_2423    :Advertising campaign for {STRINGID}
+STR_2422    :{STRINGID}的推廣計劃
+STR_2423    :{STRINGID}的推廣計劃
 STR_2424    :{WINDOW_COLOUR_2}發放免費進入樂園卷
 STR_2425    :{WINDOW_COLOUR_2}發放免費乘坐個別遊樂設施卷
 STR_2426    :{WINDOW_COLOUR_2}發放半價進入樂園卷
@@ -2447,17 +2447,17 @@ STR_2439    :4週
 STR_2440    :5週
 STR_2441    :6週
 STR_2442    :{BLACK}(還剩{STRINGID}結束)
-STR_2443    :{WINDOW_COLOUR_2}Cost per week: {BLACK}{CURRENCY2DP}
-STR_2444    :{WINDOW_COLOUR_2}Total cost: {BLACK}{CURRENCY2DP}
-STR_2445    :Start this marketing campaign
+STR_2443    :{WINDOW_COLOUR_2}每週費用: {BLACK}{CURRENCY2DP}
+STR_2444    :{WINDOW_COLOUR_2}總費用: {BLACK}{CURRENCY2DP}
+STR_2445    :開始實行此營銷計劃
 STR_2446    :{YELLOW}Your marketing campaign for free entry to the park has finished
 STR_2447    :{YELLOW}Your marketing campaign for free rides on {STRINGID} has finished
 STR_2448    :{YELLOW}Your marketing campaign for half-price entry to the park has finished
 STR_2449    :{YELLOW}Your marketing campaign for free {STRINGID} has finished
 STR_2450    :{YELLOW}Your advertising campaign for the park has finished
 STR_2451    :{YELLOW}Your advertising campaign for {STRINGID} has finished
-STR_2452    :{WINDOW_COLOUR_2}Cash (less loan): {BLACK}{CURRENCY2DP}
-STR_2453    :{WINDOW_COLOUR_2}Cash (less loan): {RED}{CURRENCY2DP}
+STR_2452    :{WINDOW_COLOUR_2}現金 (減去貸款): {BLACK}{CURRENCY2DP}
+STR_2453    :{WINDOW_COLOUR_2}現金 (減去貸款): {RED}{CURRENCY2DP}
 STR_2454    :{SMALLFONT}{BLACK}{CURRENCY2DP} -
 STR_2455    :{SMALLFONT}{BLACK}+{CURRENCY2DP} -
 STR_2456    :{SMALLFONT}{BLACK}{CURRENCY2DP} -
