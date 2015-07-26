@@ -7,7 +7,7 @@ STR_0002    :Spiral Roller Coaster
 STR_0003    :站立式雲霄飛車
 STR_0004    :懸吊式雲霄飛車
 STR_0005    :Inverted Roller Coaster
-STR_0006    :Junior Roller Coaster
+STR_0006    :兒童雲霄飛車
 STR_0007    :小火車
 STR_0008    :單軌電車
 STR_0009    :迷你懸吊式雲霄飛車
@@ -956,7 +956,7 @@ STR_0951    :離開遊戲
 STR_0952    :離開遊戲
 STR_0953    :載入地型
 STR_0954    :
-STR_0955    :{SMALLFONT}{BLACK}Select seat rotation angle for this track section
+STR_0955    :{SMALLFONT}{BLACK}選擇此軌道的座位旋轉角度
 STR_0956    :-180{DEGREE}
 STR_0957    :-135{DEGREE}
 STR_0958    :-90{DEGREE}
@@ -1436,9 +1436,9 @@ STR_1431    :行走中
 STR_1432    :前往{STRINGID}中
 STR_1433    :輪候{STRINGID}中
 STR_1434    :溺水中
-STR_1435    :On {STRINGID}
-STR_1436    :In {STRINGID}
-STR_1437    :At {STRINGID}
+STR_1435    :在{STRINGID}上
+STR_1436    :在{STRINGID}中
+STR_1437    :在{STRINGID}中
 STR_1438    :坐下中
 STR_1439    :(請選擇位置)
 STR_1440    :Mowing grass
@@ -1742,7 +1742,7 @@ STR_1737    :{COMMA16}
 STR_1738    :不能改變圈數...
 STR_1739    :此賽事由遊客{INT32}勝出
 STR_1740    :此賽事由{STRINGID}勝出
-STR_1741    :Not yet constructed !
+STR_1741    :尚未建造!
 STR_1742    :{WINDOW_COLOUR_2}Max. people on ride:
 STR_1743    :{SMALLFONT}{BLACK}Maximum number of people allowed on this ride at one time
 STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
@@ -1869,9 +1869,9 @@ STR_1864    :維修人員
 STR_1865    :安全警衛
 STR_1866    :表演人員
 STR_1867    :{BLACK}{COMMA16} {STRINGID}
-STR_1868    :Can't change number of rotations...
-STR_1869    :{WINDOW_COLOUR_2}Number of rotations:
-STR_1870    :{SMALLFONT}{BLACK}Number of complete rotations
+STR_1868    :不能改變旋轉次數...
+STR_1869    :{WINDOW_COLOUR_2}旋轉次數:
+STR_1870    :{SMALLFONT}{BLACK}完整旋轉次數
 STR_1871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1872    :{COMMA16}
 STR_1873    :{WINDOW_COLOUR_2}收入: {BLACK}{CURRENCY2DP}/每小時
@@ -1895,9 +1895,9 @@ STR_1890    :{SMALLFONT}{BLACK}選擇維修人員檢查此遊樂設施的時距
 STR_1891    :在樂園裡暫未有{STRINGID}!
 STR_1892    :RollerCoaster Tycoon 2
 STR_1893    :Please insert your RollerCoaster Tycoon 2 CD in the following drive:
-STR_1894    :{WINDOW_COLOUR_2}{STRINGID} sold: {BLACK}{COMMA32}
-STR_1895    :{SMALLFONT}{BLACK}Build new ride/attraction
-STR_1896    :{WINDOW_COLOUR_2}Expenditure/Income
+STR_1894    :{WINDOW_COLOUR_2}賣出{STRINGID}: {BLACK}{COMMA32}
+STR_1895    :{SMALLFONT}{BLACK}建造新的遊樂設施/店鋪
+STR_1896    :{WINDOW_COLOUR_2}支出/收入
 STR_1897    :{WINDOW_COLOUR_2}Ride construction
 STR_1898    :{WINDOW_COLOUR_2}Ride running costs
 STR_1899    :{WINDOW_COLOUR_2}Land purchase
@@ -1910,9 +1910,9 @@ STR_1905    :{WINDOW_COLOUR_2}Food/drink sales
 STR_1906    :{WINDOW_COLOUR_2}Food/drink stock
 STR_1907    :{WINDOW_COLOUR_2}Staff wages
 STR_1908    :{WINDOW_COLOUR_2}Marketing
-STR_1909    :{WINDOW_COLOUR_2}Research
-STR_1910    :{WINDOW_COLOUR_2}Loan interest
-STR_1911    :{BLACK} at {COMMA16}% per year
+STR_1909    :{WINDOW_COLOUR_2}研發
+STR_1910    :{WINDOW_COLOUR_2}貸款利息
+STR_1911    :{BLACK} 每年 {COMMA16}% 
 STR_1912    :{MONTH}
 STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
@@ -1932,12 +1932,12 @@ STR_1927    :{YELLOW}{STRINGID}發生故障了
 STR_1928    :{RED}{STRINGID}毀壞了!
 STR_1929    :{RED}{STRINGID} still hasn't been fixed{NEWLINE}Check where your mechanics are and consider organizing them better
 STR_1930    :{SMALLFONT}{BLACK}Turn on/off tracking information for this guest - (If tracking is on, guest's movements will be reported in the message area)
-STR_1931    :{STRINGID} has joined the queue line for {STRINGID}
-STR_1932    :{STRINGID} is on {STRINGID}
-STR_1933    :{STRINGID} is in {STRINGID}
-STR_1934    :{STRINGID} has left {STRINGID}
-STR_1935    :{STRINGID} has left the park
-STR_1936    :{STRINGID} has bought {STRINGID}
+STR_1931    :{STRINGID}已在輪候{STRINGID}
+STR_1932    :{STRINGID}已在{STRINGID}上
+STR_1933    :{STRINGID}已在{STRINGID}中
+STR_1934    :{STRINGID}已離開{STRINGID}
+STR_1935    :{STRINGID}已離開樂園
+STR_1936    :{STRINGID}已購買{STRINGID}
 STR_1937    :{SMALLFONT}{BLACK}Show information about the subject of this message
 STR_1938    :{SMALLFONT}{BLACK}Show view of guest
 STR_1939    :{SMALLFONT}{BLACK}Show view of staff member
@@ -2431,19 +2431,19 @@ STR_2426    :{WINDOW_COLOUR_2}發放半價進入樂園卷
 STR_2427    :{WINDOW_COLOUR_2}發放免費進入食物或飲料樂園卷
 STR_2428    :{WINDOW_COLOUR_2}開始針對樂園的推廣計劃
 STR_2429    :{WINDOW_COLOUR_2}開始針對個別遊樂設施的推廣計劃
-STR_2430    :{BLACK}Vouchers for free entry to {STRINGID}
-STR_2431    :{BLACK}Vouchers for free ride on {STRINGID}
-STR_2432    :{BLACK}Vouchers for half-price entry to {STRINGID}
-STR_2433    :{BLACK}Vouchers for free {STRINGID}
-STR_2434    :{BLACK}Advertising campaign for {STRINGID}
-STR_2435    :{BLACK}Advertising campaign for {STRINGID}
+STR_2430    :{BLACK}免費進入{STRINGID}的優惠卷
+STR_2431    :{BLACK}免費乘坐{STRINGID}的優惠卷
+STR_2432    :{BLACK}半價進入{STRINGID}的優惠卷
+STR_2433    :{BLACK}免費{STRINGID}的優惠卷
+STR_2434    :{BLACK}{STRINGID}的推廣計劃
+STR_2435    :{BLACK}{STRINGID}的推廣計劃
 STR_2436    :1週
 STR_2437    :2週
 STR_2438    :3週
 STR_2439    :4週
 STR_2440    :5週
 STR_2441    :6週
-STR_2442    :{BLACK}({STRINGID} remaining)
+STR_2442    :{BLACK}(還剩{STRINGID}結束)
 STR_2443    :{WINDOW_COLOUR_2}Cost per week: {BLACK}{CURRENCY2DP}
 STR_2444    :{WINDOW_COLOUR_2}Total cost: {BLACK}{CURRENCY2DP}
 STR_2445    :Start this marketing campaign
@@ -3481,15 +3481,15 @@ STR_5144    :加快速度
 STR_5145    :更快速度
 STR_5146    :超快速度
 STR_5147    :在工具列顯示"密技"按鈕
-STR_5148    :{SMALLFONT}{BLACK}Change the game speed
-STR_5149    :{SMALLFONT}{BLACK}Open the cheats window
+STR_5148    :{SMALLFONT}{BLACK}改變遊戲速度
+STR_5149    :{SMALLFONT}{BLACK}開啟密技視窗
 STR_5150    :啟用除錯工具
 STR_5151    :,
 STR_5152    :.
 STR_5153    :編輯配色主題...
 STR_5154    :使用硬體顯示
 STR_5155    :容許測試未建造好的軌道設計
-STR_5156    :{SMALLFONT}{BLACK}Allows testing of most ride types even when the track is unfinished, does not apply to block sectioned modes
+STR_5156    :{SMALLFONT}{BLACK}容許測試大部份軌道設計, 即使未建造好的也可以. 但不能適用於區域煞車模式
 STR_5157    :允許設置進入樂園及乘坐遊樂設施的價格
 STR_5158    :回到主選單
 STR_5159    :離開OpenRCT2
@@ -3608,9 +3608,9 @@ STR_5271    :{SMALLFONT}{BLACK}Twitch
 STR_5272    :{SMALLFONT}{BLACK}Small Scenery
 STR_5273    :{SMALLFONT}{BLACK}Large Scenery
 STR_5274    :{SMALLFONT}{BLACK}Footpath
-STR_5275    :Search for Objects
-STR_5276    :Enter the name of an object to search for
-STR_5277    :Clear
+STR_5275    :搜尋物件
+STR_5276    :請輸入你要搜尋的物件名稱
+STR_5277    :清除
 STR_5278    :沙盒模式
 STR_5279    :沙盒模式關閉
 STR_5280    :{SMALLFONT}{BLACK}Allow editing land ownership settings through the Map window and other options that are normally restricted to the Scenario Editor
@@ -3620,17 +3620,17 @@ STR_5283    :RCT1 Park Open/Close Lights
 STR_5284    :RCT1 Scenario Selection Font
 STR_5285    :人肉炸彈!!!
 STR_5286    :{SMALLFONT}{BLACK}將某些遊客爆炸，嘻嘻！
-STR_5287    :Ride is already broken down
-STR_5288    :Ride is closed
-STR_5289    :No breakdowns available for this ride
+STR_5287    :遊樂設施已經故障了
+STR_5288    :遊樂設施已關閉了
+STR_5289    :沒有故障可適用於此遊樂設施
 STR_5290    :修復遊樂設施
-STR_5291    :Can't force breakdown
-STR_5292    :{SMALLFONT}{BLACK}Force a breakdown
-STR_5293    :{SMALLFONT}{BLACK}Close ride/attraction
-STR_5294    :{SMALLFONT}{BLACK}Test ride/attraction
-STR_5295    :{SMALLFONT}{BLACK}Open ride/attraction
-STR_5296    :{SMALLFONT}{BLACK}Close park
-STR_5297    :{SMALLFONT}{BLACK}Open park
+STR_5291    :不能強制令遊樂設施故障
+STR_5292    :{SMALLFONT}{BLACK}強制故障
+STR_5293    :{SMALLFONT}{BLACK}關閉遊樂設施/店鋪
+STR_5294    :{SMALLFONT}{BLACK}測試遊樂設施
+STR_5295    :{SMALLFONT}{BLACK}開啟遊樂設施/店鋪
+STR_5296    :{SMALLFONT}{BLACK}關閉樂園
+STR_5297    :{SMALLFONT}{BLACK}開放樂園
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
 STR_5300    :{SMALLFONT}{BLACK}一鍵解僱員工
@@ -3644,7 +3644,7 @@ STR_5307    :夢幻遊樂場 (RCT1) (+資料片1&2 - AA+LL)
 STR_5308    :模擬樂園2
 STR_5309    :OpenRCT2
 STR_5310    :隨機
-STR_5311    :{SMALLFONT}{BLACK}Debug tools
+STR_5311    :{SMALLFONT}{BLACK}除錯工具
 STR_5312    :顯示命名行
 STR_5313    :Show tile inspector
 STR_5314    :Tile inspector
