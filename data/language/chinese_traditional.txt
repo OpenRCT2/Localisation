@@ -54,7 +54,7 @@ STR_0049    :鬼屋
 STR_0050    :急救室
 STR_0051    :馬戲團
 STR_0052    :Ghost Train
-STR_0053    :Steel Twister Roller Coaster
+STR_0053    :鐵架旋轉式雲霄飛車
 STR_0054    :木製雲霄飛車
 STR_0055    :Side-Friction Roller Coaster
 STR_0056    :Wild Mouse
@@ -1376,8 +1376,8 @@ STR_1371    :橫滾軌道 (向右)
 STR_1372    :加速式的鏈條坡道
 STR_1373    :巨型的二分之一迴環 (向左)
 STR_1374    :巨型的二分之一迴環 (向右)
-STR_1375    :Upper Transfer
-STR_1376    :Lower Transfer
+STR_1375    :向上的傳輸裝置
+STR_1376    :向下的蝕輸裝置
 STR_1377    :橫滾軌道 (向左)
 STR_1378    :橫滾軌道 (向右)
 STR_1379    :逆向裝置 (向左)
@@ -1403,14 +1403,14 @@ STR_1398    :{SMALLFONT}{BLACK}Measurements and test data
 STR_1399    :{SMALLFONT}{BLACK}Graphs
 STR_1400    :入口
 STR_1401    :出口
-STR_1402    :{SMALLFONT}{BLACK}Build or move entrance to ride/attraction
-STR_1403    :{SMALLFONT}{BLACK}Build or move exit from ride/attraction
+STR_1402    :{SMALLFONT}{BLACK}建造或移動遊樂設施的入口
+STR_1403    :{SMALLFONT}{BLACK}建造或移動遊樂設施的出口
 STR_1404    :{SMALLFONT}{BLACK}90{DEGREE}旋轉
 STR_1405    :{SMALLFONT}{BLACK}Mirror image
 STR_1406    :{SMALLFONT}{BLACK}Toggle scenery on/off (if available for this design)
 STR_1407    :{WINDOW_COLOUR_2}建造此軌道...
 STR_1408    :{WINDOW_COLOUR_2}費用: {BLACK}{CURRENCY}
-STR_1409    :Entry/Exit Platform
+STR_1409    :入口/出口平台
 STR_1410    :Vertical Tower
 STR_1411    :{STRINGID}擋在路中
 STR_1412    :{WINDOW_COLOUR_3}Data logging not available for this type of ride
@@ -1423,7 +1423,7 @@ STR_1418    :{WINDOW_COLOUR_2}Lat.G's
 STR_1419    :{SMALLFONT}{BLACK}{VELOCITY}
 STR_1420    :{SMALLFONT}{BLACK}{LENGTH}
 STR_1421    :{SMALLFONT}{BLACK}{COMMA16}g
-STR_1422    :{SMALLFONT}{BLACK}Logging data from {POP16}{STRINGID}
+STR_1422    :{SMALLFONT}{BLACK}從{POP16}{STRINGID}記錄資料中
 STR_1423    :{SMALLFONT}{BLACK}輪侯區道路
 STR_1424    :{SMALLFONT}{BLACK}道路
 STR_1425    :道路
@@ -1877,9 +1877,9 @@ STR_1872    :{COMMA16}
 STR_1873    :{WINDOW_COLOUR_2}收入: {BLACK}{CURRENCY2DP}/每小時
 STR_1874    :{WINDOW_COLOUR_2}營利: {BLACK}{CURRENCY2DP}/每小時
 STR_1875    :{BLACK} {SPRITE}{BLACK} {STRINGID}
-STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Inspect Rides
-STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Fix Rides
-STR_1878    :{WINDOW_COLOUR_2}Inspection:
+STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}檢查遊樂設施
+STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}修理遊樂設施
+STR_1878    :{WINDOW_COLOUR_2}檢查時距:
 STR_1879    :每10分鐘
 STR_1880    :每20分鐘
 STR_1881    :每30分鐘
@@ -1887,12 +1887,12 @@ STR_1882    :每45分鐘
 STR_1883    :每小時
 STR_1884    :每2小時
 STR_1885    :從不
-STR_1886    :Inspecting {STRINGID}
-STR_1887    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}{COMMA16} minutes
-STR_1888    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}more than 4 hours
+STR_1886    :檢查{STRINGID}中
+STR_1887    :{WINDOW_COLOUR_2}上次檢查時間: {BLACK}{COMMA16}分鐘
+STR_1888    :{WINDOW_COLOUR_2}上次檢查時間: {BLACK}多於4小時
 STR_1889    :{WINDOW_COLOUR_2}Down-Time: {MOVE_X}{255}{BLACK}{COMMA16}%
-STR_1890    :{SMALLFONT}{BLACK}Select how often a mechanic should check this ride
-STR_1891    :No {STRINGID} in park yet!
+STR_1890    :{SMALLFONT}{BLACK}選擇維修人員檢查此遊樂設施的時距
+STR_1891    :在樂園裡暫未有{STRINGID}!
 STR_1892    :RollerCoaster Tycoon 2
 STR_1893    :Please insert your RollerCoaster Tycoon 2 CD in the following drive:
 STR_1894    :{WINDOW_COLOUR_2}{STRINGID} sold: {BLACK}{COMMA32}
@@ -3339,9 +3339,9 @@ STR_3331    :Path from park entrance to map edge either not complete or too comp
 STR_3332    :Park entrance is the wrong way round or has no path leading to the map edge
 STR_3333    :Export plug-in objects with saved games
 STR_3334    :{SMALLFONT}{BLACK}Select whether to save any additional plug-in object data required (add-in data not supplied with the main product) in saved game or scenario files, allowing them to be loaded by someone who doesn't have the additional object data
-STR_3335    :Roller Coaster Designer - Select Ride Types & Vehicles
-STR_3336    :Track Designs Manager - Select Ride Type
-STR_3337    :Six Flags Park
+STR_3335    :雲霄飛車設計工具 - 選擇要設計的雲霄飛車的類型及車輛種類
+STR_3336    :軌道設計管理工具 - 選擇要管理的遊樂設施的類型
+STR_3337    :六旗樂園
 STR_3338    :{BLACK}Custom-designed layout
 STR_3339    :{BLACK}{COMMA16} design available, or custom-designed layout
 STR_3340    :{BLACK}{COMMA16} designs available, or custom-designed layout
@@ -3511,10 +3511,10 @@ STR_5174    :{SMALLFONT}{BLACK}Will use Twitch chat messages preceded by !news f
 STR_5175    :Input the name of your Twitch channel
 STR_5176    :Enable Twitch integration
 STR_5177    :全屏幕模式:
-STR_5178    :{SMALLFONT}{BLACK}Show financial cheats
-STR_5179    :{SMALLFONT}{BLACK}Show guest cheats
-STR_5180    :{SMALLFONT}{BLACK}Show park cheats
-STR_5181    :{SMALLFONT}{BLACK}Show ride cheats
+STR_5178    :{SMALLFONT}{BLACK}顯示用於財政的密技
+STR_5179    :{SMALLFONT}{BLACK}顯示用於遊客的密技
+STR_5180    :{SMALLFONT}{BLACK}顯示用於樂園的密技
+STR_5181    :{SMALLFONT}{BLACK}顯示用於設施的密技
 STR_5182    :{INT32}
 STR_5183    :Base height
 STR_5184    :Enter base height between {COMMA16} and {COMMA16}
@@ -3543,19 +3543,19 @@ STR_5206    :遊客列表
 STR_5207    :員工
 STR_5208    :員工列表
 STR_5209    :橫額
-STR_5210    :Object Selection
-STR_5211    :Invention List
-STR_5212    :Scenario Options
-STR_5213    :Objective Options
-STR_5214    :Map Generation
+STR_5210    :選取物件
+STR_5211    :研發列表
+STR_5212    :劇情選項
+STR_5213    :目標選項
+STR_5214    :生成地圖
 STR_5215    :軌道設計管理工具
 STR_5216    :軌道設計管理工具列表
 STR_5217    :密技
 STR_5218    :主題
 STR_5219    :選項
-STR_5220    :Keyboard Shortcuts
+STR_5220    :鍵盤快鍵盤
 STR_5221    :Change Keyboard Shortcut
-STR_5222    :Load/Save
+STR_5222    :載入/儲存
 STR_5223    :Save Prompt
 STR_5224    :Demolish Ride Prompt
 STR_5225    :Fire Staff Prompt
@@ -3807,3 +3807,4 @@ STR_5470    :Scroll map left
 STR_5471    :Scroll map down
 STR_5472    :Scroll map right
 STR_5473    :日與夜循環
+STR_5474    :Display text on banners in upper case
