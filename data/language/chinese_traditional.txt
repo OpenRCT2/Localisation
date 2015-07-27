@@ -1208,18 +1208,18 @@ STR_1202    :1個遊客在排隊
 STR_1203    :{COMMA16}個遊客在排隊
 STR_1204    :{COMMA16}分鐘的輪候時間
 STR_1205    :{COMMA16}分鐘的輪候時間
-STR_1206    :{WINDOW_COLOUR_2}Wait for:
-STR_1207    :{WINDOW_COLOUR_2}Leave if another train arrives at station
-STR_1208    :{WINDOW_COLOUR_2}Leave if another boat arrives at station
-STR_1209    :{SMALLFONT}{BLACK}Select whether should wait for passengers before departing
-STR_1210    :{SMALLFONT}{BLACK}Select whether should leave if another vehicle arrives at the same station
+STR_1206    :{WINDOW_COLOUR_2}等待至:
+STR_1207    :{WINDOW_COLOUR_2}當另一客列車到達車站後便發車
+STR_1208    :{WINDOW_COLOUR_2}當另一艘小船到達船用月台後便發車
+STR_1209    :{SMALLFONT}{BLACK}選擇發車前是否等候乘客
+STR_1210    :{SMALLFONT}{BLACK}選擇當另一列車/小船到達車站時是否發車
 STR_1211    :{WINDOW_COLOUR_2}最短等待時間:
 STR_1212    :{WINDOW_COLOUR_2}最長等待時間:
-STR_1213    :{SMALLFONT}{BLACK}Select minimum length of time to wait before departing
-STR_1214    :{SMALLFONT}{BLACK}Select maximum length of time to wait before departing
+STR_1213    :{SMALLFONT}{BLACK}選擇發車前最少的等待時長
+STR_1214    :{SMALLFONT}{BLACK}選擇發車前最多的等待時長
 STR_1215    :{WINDOW_COLOUR_2}與鄰近車站同步發車
-STR_1216    :{SMALLFONT}{BLACK}Select whether to synchronise departure with all adjacent stations (for 'racing')
-STR_1217    :{COMMA16} seconds
+STR_1216    :{SMALLFONT}{BLACK}選擇是否與全部鄰近車站同步發車 (以便'競賽')
+STR_1217    :{COMMA16}秒
 STR_1218    :{BLACK}{SMALLUP}
 STR_1219    :{BLACK}{SMALLDOWN}
 STR_1220    :只准卸客
@@ -1301,13 +1301,13 @@ STR_1295    :Cabins
 STR_1296    :{COMMA16} cabin
 STR_1297    :{COMMA16} cabins
 STR_1298    :Cabin {COMMA16}
-STR_1299    :wheel
-STR_1300    :wheels
-STR_1301    :Wheel
-STR_1302    :Wheels
-STR_1303    :{COMMA16} wheel
-STR_1304    :{COMMA16} wheels
-STR_1305    :Wheel {COMMA16}
+STR_1299    :摩天輪
+STR_1300    :摩天輪
+STR_1301    :摩天輪
+STR_1302    :摩天輪
+STR_1303    :{COMMA16}個摩天輪
+STR_1304    :{COMMA16}個摩天輪
+STR_1305    :摩天輪{COMMA16}
 STR_1306    :飛輪
 STR_1307    :飛輪
 STR_1308    :飛輪
@@ -1319,8 +1319,8 @@ STR_1313    :玩家
 STR_1314    :玩家
 STR_1315    :玩家
 STR_1316    :玩家
-STR_1317    :{COMMA16}玩家
-STR_1318    :{COMMA16}玩家
+STR_1317    :{COMMA16}位玩家
+STR_1318    :{COMMA16}位玩家
 STR_1319    :玩家{COMMA16}
 STR_1320    :course
 STR_1321    :courses
@@ -1367,13 +1367,13 @@ STR_1361    :不能改變速度...
 STR_1362    :不能改變發車速度...
 STR_1363    :高度過高無法支撐!
 STR_1364    :無法再擴展空中軌道的支撐!
-STR_1365    :In-line Twist (向左)
-STR_1366    :In-line Twist (向右)
+STR_1365    :直線滾翻 (向左)
+STR_1366    :直線滾翻 (向右)
 STR_1367    :二分之一迴環
 STR_1368    :二分之一螺旋 (向左)
 STR_1369    :二分之一螺旋 (向右)
-STR_1370    :橫滾軌道 (向左)
-STR_1371    :橫滾軌道 (向右)
+STR_1370    :直線滾翻 (向左)
+STR_1371    :直線滾翻 (向右)
 STR_1372    :加速式的鏈條坡道
 STR_1373    :巨型的二分之一迴環 (向左)
 STR_1374    :巨型的二分之一迴環 (向右)
@@ -1387,7 +1387,7 @@ STR_1381    :彎型的鏈條坡道 (向左)
 STR_1382    :彎型的鏈條坡道 (向右)
 STR_1383    :四分之一迴環
 STR_1384    :{YELLOW}{STRINGID}
-STR_1385    :{SMALLFONT}{BLACK}Other track configurations
+STR_1385    :{SMALLFONT}{BLACK}其他軌道選項
 STR_1386    :特殊軌道...
 STR_1387    :不能改變土地類型...
 STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
@@ -1412,7 +1412,7 @@ STR_1406    :{SMALLFONT}{BLACK}Toggle scenery on/off (if available for this desi
 STR_1407    :{WINDOW_COLOUR_2}建造此軌道...
 STR_1408    :{WINDOW_COLOUR_2}費用: {BLACK}{CURRENCY}
 STR_1409    :入口/出口平台
-STR_1410    :Vertical Tower
+STR_1410    :垂直高塔
 STR_1411    :{STRINGID}擋在路中
 STR_1412    :{WINDOW_COLOUR_3}Data logging not available for this type of ride
 STR_1413    :{WINDOW_COLOUR_3}Data logging will start when next {STRINGID} leaves {STRINGID}
@@ -2321,10 +2321,10 @@ STR_2313    :{WINDOW_COLOUR_2}噁心度: {BLACK}{COMMA2DP32} (approx.)
 STR_2314    :{WINDOW_COLOUR_2}軌道長度: {BLACK}{STRINGID}
 STR_2315    :{WINDOW_COLOUR_2}建造費用: {BLACK}約{CURRENCY}
 STR_2316    :{WINDOW_COLOUR_2}需要空間: {BLACK}{COMMA16} x {COMMA16}格
-STR_2317    :{WINDOW_COLOUR_2}音效品質:
-STR_2318    :低
-STR_2319    :中
-STR_2320    :高
+STR_2317    :<not used anymore>
+STR_2318    :<not used anymore>
+STR_2319    :<not used anymore>
+STR_2320    :<not used anymore>
 STR_2321    :{WINDOW_COLOUR_2}Number of rides/attractions: {BLACK}{COMMA16}
 STR_2322    :{WINDOW_COLOUR_2}Staff: {BLACK}{COMMA16}
 STR_2323    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}m{SQUARED}
@@ -3369,9 +3369,9 @@ STR_3358    :不能刪除軌道設計...
 STR_3359    :{BLACK}這類遊樂設施沒有已設計好的軌道設計
 STR_3360    :警告!
 STR_3361    :這種遊樂設施擁有太多軌道設計 - 將不會列出某些軌道設計.
-STR_3362    :Forced Software Buffer Mixing
-STR_3363    :{SMALLFONT}{BLACK}Select this option to improve performance if the game pauses slightly when sounds start or interference is heard
-STR_3364    :Advanced
+STR_3362    :<not used anymore>
+STR_3363    :<not used anymore>
+STR_3364    :進階
 STR_3365    :{SMALLFONT}{BLACK}Allow selection of individual items of scenery in addition to scenery groups
 STR_3366    :{BLACK}= 遊樂設施
 STR_3367    :{BLACK}= 食物店鋪
