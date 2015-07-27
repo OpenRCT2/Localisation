@@ -31,9 +31,9 @@ STR_0026    :激流船
 STR_0027    :碰碰車
 STR_0028    :海盜船
 STR_0029    :迴旋海盜船
-STR_0030    :食物店
+STR_0030    :食物店鋪
 STR_0031    :Unknown Stall (1D)
-STR_0032    :飲料店
+STR_0032    :飲料店鋪
 STR_0033    :Unknown Stall (1F)
 STR_0034    :商店
 STR_0035    :旋轉木馬
@@ -843,13 +843,13 @@ STR_0838    :CD key code {INT32} is not valid for your RollerCoaster Tycoon 2 CD
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
 # The follwing six strings were used for display resolutions, but have been replaced.
-STR_0841    :Desktop window
-STR_0842    :640x480 全螢幕
-STR_0843    :800x600 全螢幕
-STR_0844    :1024x768 全螢幕
-STR_0845    :1152x864 全螢幕
-STR_0846    :1280x1024 全螢幕
-STR_0847    :有關'RollerCoaster Tycoon 2'
+STR_0841    :<not used anymore>
+STR_0842    :<not used anymore>
+STR_0843    :<not used anymore>
+STR_0844    :<not used anymore>
+STR_0845    :<not used anymore>
+STR_0846    :<not used anymore>
+STR_0847    :有關'OpenRCT2'
 STR_0848    :RollerCoaster Tycoon 2
 STR_0849    :{WINDOW_COLOUR_2}版本 2.01.028
 STR_0850    :{WINDOW_COLOUR_2}版權商標 {COPYRIGHT} 2002 Chris Sawyer, 版權所有
@@ -1037,7 +1037,7 @@ STR_1031    :Can't build this underwater!
 STR_1032    :Can only build this on water!
 STR_1033    :Can only build this above ground!
 STR_1034    :Can only build this on land!
-STR_1035    :Local authority won't allow construction above tree-height!
+STR_1035    :當地政府不允許建造高於樹木的物件!
 STR_1036    :載入遊戲
 STR_1037    :載入地型
 STR_1038    :將存檔轉換成劇情
@@ -1055,7 +1055,7 @@ STR_1049    :儲存地型失敗!
 STR_1050    :載入失敗...{NEWLINE}檔案中含有非法資料!
 STR_1051    :透明化支撐
 STR_1052    :透明化遊客
-STR_1053    :{SMALLFONT}{BLACK}Rides/attractions in park
+STR_1053    :{SMALLFONT}{BLACK}樂園內的遊樂設施/店鋪
 STR_1054    :{SMALLFONT}{BLACK}命名遊樂設施/店鋪
 STR_1055    :{SMALLFONT}{BLACK}命名遊客
 STR_1056    :{SMALLFONT}{BLACK}命名員工
@@ -1138,12 +1138,12 @@ STR_1132    :車卡{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1133    :車卡{POP16}{COMMA16}
 STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
 STR_1135    :{STRINGID} {COMMA16}
-STR_1136    :{SMALLFONT}{BLACK}Select main colour
-STR_1137    :{SMALLFONT}{BLACK}Select additional colour 1
-STR_1138    :{SMALLFONT}{BLACK}Select additional colour 2
-STR_1139    :{SMALLFONT}{BLACK}Select support structure colour
-STR_1140    :{SMALLFONT}{BLACK}Select vehicle colour scheme option
-STR_1141    :{SMALLFONT}{BLACK}Select which vehicle/train to modify
+STR_1136    :{SMALLFONT}{BLACK}選擇主要顏色調配
+STR_1137    :{SMALLFONT}{BLACK}選擇額外顏色調配1
+STR_1138    :{SMALLFONT}{BLACK}選擇額外顏色調配2
+STR_1139    :{SMALLFONT}{BLACK}選擇支撐顏色
+STR_1140    :{SMALLFONT}{BLACK}選擇有關車卡顏色調配的選項
+STR_1141    :{SMALLFONT}{BLACK}選擇要修改的車卡/列車
 STR_1142    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1143    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1144    :不能建造/移動這個遊樂設施的入口...
@@ -1161,8 +1161,8 @@ STR_1155    :在道路上標記高度
 STR_1156    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1157    :{TICK}{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1158    :不能移除...
-STR_1159    :{SMALLFONT}{BLACK}Place scenery, gardens, and other accessories
-STR_1160    :{SMALLFONT}{BLACK}Create/adjust lakes & water
+STR_1159    :{SMALLFONT}{BLACK}放置景物, 花圃及其他裝飾物
+STR_1160    :{SMALLFONT}{BLACK}創造或調整湖泊及水塘
 STR_1161    :不能放置於此...
 STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
 STR_1163    :{STRINGID}{NEWLINE}(按右鍵修改)
@@ -1718,7 +1718,7 @@ STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}清掃道路
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}灌溉花圃
 STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}清空垃圾筒
 STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Mow grass
-STR_1716    :非法的樂園名稱
+STR_1716    :不適合的樂園名稱
 STR_1717    :不能重命名樂園...
 STR_1718    :樂園名稱
 STR_1719    :請輸入樂園名稱:
@@ -1889,7 +1889,7 @@ STR_1883    :每小時
 STR_1884    :每2小時
 STR_1885    :從不
 STR_1886    :檢查{STRINGID}中
-STR_1887    :{WINDOW_COLOUR_2}上次檢查時間: {BLACK}{COMMA16}分鐘
+STR_1887    :{WINDOW_COLOUR_2}上次檢查時間: {BLACK}{COMMA16}分鐘前
 STR_1888    :{WINDOW_COLOUR_2}上次檢查時間: {BLACK}多於4小時
 STR_1889    :{WINDOW_COLOUR_2}Down-Time: {MOVE_X}{255}{BLACK}{COMMA16}%
 STR_1890    :{SMALLFONT}{BLACK}選擇維修人員檢查此遊樂設施的時距
@@ -2222,7 +2222,7 @@ STR_2214    :遊戲暫停時無法建造任何物件!
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}C
 STR_2217    :{WINDOW_COLOUR_2}{COMMA16}F
-STR_2218    :{RED}{STRINGID}, {STRINGID}的一部份, 尚未返回到{STRINGID}!{NEWLINE}檢查是否被卡住或停止了
+STR_2218    :{RED}{STRINGID}, {STRINGID}的一部份, 尚未返回到{STRINGID}!{NEWLINE}檢查是否被卡住或被停止了
 STR_2219    :{RED}{COMMA16}人已喪生於{STRINGID}的意外中
 STR_2220    :{WINDOW_COLOUR_2}樂園評價: {BLACK}{COMMA16}
 STR_2221    :{SMALLFONT}{BLACK}樂園評價: {COMMA16}
@@ -3164,18 +3164,18 @@ STR_3153    :{SMALLFONT}{BLACK}Scroll {STRINGID} down fast
 STR_3154    :{SMALLFONT}{BLACK}Scroll {STRINGID} up/down
 STR_3155    :
 STR_3156    :
-STR_3157    :map
-STR_3158    :graph
-STR_3159    :list
-STR_3160    :RollerCoaster Tycoon 2: Starting for the first time...
-STR_3161    :RollerCoaster Tycoon 2: Checking object files...
-STR_3162    :Unable to allocate enough memory
-STR_3163    :Installing new data: 
-STR_3164    :{BLACK}{COMMA16} selected (maximum {COMMA16})
+STR_3157    :地圖
+STR_3158    :圖表
+STR_3159    :列表
+STR_3160    :<not used anymore>
+STR_3161    :<not used anymore>
+STR_3162    :無法分配足夠的記憶體
+STR_3163    :安裝新資料檔中: 
+STR_3164    :{BLACK}已選擇{COMMA16}項 (最多{COMMA16}項)
 STR_3165    :
 STR_3166    :{BLACK}(ID: 
-STR_3167    :{WINDOW_COLOUR_2}Includes: {BLACK}{COMMA16} objects
-STR_3168    :{WINDOW_COLOUR_2}Text: {BLACK}{STRINGID}
+STR_3167    :{WINDOW_COLOUR_2}包含: {BLACK}{COMMA16}項物件
+STR_3168    :{WINDOW_COLOUR_2}文字: {BLACK}{STRINGID}
 STR_3169    :Data for the following object not found: 
 STR_3170    :Not enough space for graphics
 STR_3171    :Too many objects of this type selected
@@ -3201,13 +3201,13 @@ STR_3190    :額外的道路物件
 STR_3191    :景物組別
 STR_3192    :樂園入口
 STR_3193    :水塘
-STR_3194    :Scenario Description
-STR_3195    :Invention List
-STR_3196    :{WINDOW_COLOUR_2}Research Group: {BLACK}{STRINGID}
-STR_3197    :{WINDOW_COLOUR_2}Items pre-invented at start of game:
-STR_3198    :{WINDOW_COLOUR_2}Items to invent during game:
-STR_3199    :Random Shuffle
-STR_3200    :{SMALLFONT}{BLACK}Randomly shuffle the list of items to invent during the game
+STR_3194    :劇情簡介
+STR_3195    :研發列表
+STR_3196    :{WINDOW_COLOUR_2}研發組別: {BLACK}{STRINGID}
+STR_3197    :{WINDOW_COLOUR_2}遊戲開始時已研發好的項目:
+STR_3198    :{WINDOW_COLOUR_2}需要在遊戲中研發的項目:
+STR_3199    :隨機分配
+STR_3200    :{SMALLFONT}{BLACK}將需要在遊戲中研發的項目隨機分配
 STR_3201    :選取物件
 STR_3202    :編輯地勢
 STR_3203    :設定研發清單
@@ -3220,9 +3220,9 @@ STR_3209    :上一步:
 STR_3210    :下一步:
 STR_3211    :{WINDOW_COLOUR_2}地圖大小:
 STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
-STR_3213    :Can't decrease map size any further
-STR_3214    :Can't increase map size any further
-STR_3215    :Too close to edge of map
+STR_3213    :不能再縮小地圖
+STR_3214    :不能再擴大地圖
+STR_3215    :太接近地圖的邊緣
 STR_3216    :{SMALLFONT}{BLACK}Select park-owned land etc.
 STR_3217    :Land Owned
 STR_3218    :Construction Rights Owned
@@ -3302,11 +3302,11 @@ STR_3291    :溫暖
 STR_3292    :又熱又乾燥
 STR_3293    :寒冷
 STR_3294    :更改...
-STR_3295    :{SMALLFONT}{BLACK}Change name of park
-STR_3296    :{SMALLFONT}{BLACK}Change name of scenario
-STR_3297    :{SMALLFONT}{BLACK}Change detail notes about park / scenario
-STR_3298    :{WINDOW_COLOUR_2}Park Name: {BLACK}{STRINGID}
-STR_3299    :{WINDOW_COLOUR_2}Park/Scenario Details:
+STR_3295    :{SMALLFONT}{BLACK}更改樂園名稱
+STR_3296    :{SMALLFONT}{BLACK}更改劇情名稱
+STR_3297    :{SMALLFONT}{BLACK}更改樂園/劇情的簡介
+STR_3298    :{WINDOW_COLOUR_2}樂園名稱: {BLACK}{STRINGID}
+STR_3299    :{WINDOW_COLOUR_2}樂園/劇情的簡介:
 STR_3300    :{WINDOW_COLOUR_2}劇情名稱: {BLACK}{STRINGID}
 STR_3301    :{WINDOW_COLOUR_2}達成目標的日期:
 STR_3302    :{WINDOW_COLOUR_2}{MONTHYEAR}
@@ -3319,12 +3319,12 @@ STR_3308    :{WINDOW_COLOUR_2}興奮度:
 STR_3309    :{WINDOW_COLOUR_2}{COMMA16}
 STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
 STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
-STR_3312    :{WINDOW_COLOUR_2}Rides/attractions under a preservation order:
-STR_3313    :Scenario Name
-STR_3314    :Enter name for scenario:
-STR_3315    :Park/Scenario Details
-STR_3316    :Enter description of this scenario:
-STR_3317    :No details yet
+STR_3312    :{WINDOW_COLOUR_2}請選取要保留的遊樂設施/店鋪:
+STR_3313    :劇情名稱
+STR_3314    :請輸入這個劇情的名稱:
+STR_3315    :樂園/劇情的簡介
+STR_3316    :請輸入這個樂園/劇情的簡介:
+STR_3317    :暫無簡介
 STR_3318    :{SMALLFONT}{BLACK}Select which group this scenario appears in
 STR_3319    :{WINDOW_COLOUR_2}Scenario Group:
 STR_3320    :Unable to save scenario file...
@@ -3345,58 +3345,58 @@ STR_3334    :{SMALLFONT}{BLACK}Select whether to save any additional plug-in obj
 STR_3335    :雲霄飛車設計工具 - 選擇要設計的雲霄飛車的類型及車輛種類
 STR_3336    :軌道設計管理工具 - 選擇要管理的遊樂設施的類型
 STR_3337    :六旗樂園
-STR_3338    :{BLACK}Custom-designed layout
-STR_3339    :{BLACK}{COMMA16} design available, or custom-designed layout
-STR_3340    :{BLACK}{COMMA16} designs available, or custom-designed layout
-STR_3341    :{SMALLFONT}{BLACK}Game tools
-STR_3342    :Scenario Editor
-STR_3343    :Convert Saved Game to Scenario
+STR_3338    :{BLACK}自訂設計
+STR_3339    :{BLACK}可選{COMMA16}項預設計, 或可自訂設計
+STR_3340    :{BLACK}可選{COMMA16}項預設計, 或可自訂設計
+STR_3341    :{SMALLFONT}{BLACK}遊戲工具
+STR_3342    :劇情修改工具
+STR_3343    :將存檔轉換成劇情
 STR_3344    :雲霄飛車設計工具
 STR_3345    :軌道設計管理工具
 STR_3346    :無法儲存軌道設計...
 STR_3347    :遊樂設施太巨型, 含有太多物件, 或景物分佈太散亂
 STR_3348    :重命名
 STR_3349    :刪除
-STR_3350    :Track design name
-STR_3351    :Enter new name for this track design:
-STR_3352    :Can't rename track design...
-STR_3353    :New name contains invalid characters
-STR_3354    :Another file exists with this name, or file is write-protected
-STR_3355    :File is write-protected or locked
-STR_3356    :Delete File
-STR_3357    :{WINDOW_COLOUR_2}Are you sure you want to permanently delete {STRINGID} ?
-STR_3358    :Can't delete track design...
-STR_3359    :{BLACK}No track designs of this type
+STR_3350    :軌道設計名稱
+STR_3351    :請輸入這個軌道設計的新名稱:
+STR_3352    :不能重命名這個軌道設計...
+STR_3353    :新名稱含有不適合的字符
+STR_3354    :已有另外一個檔案為相同名稱, 或檔案被寫入保護
+STR_3355    :檔案被寫入保護或被鎖定
+STR_3356    :刪除檔案
+STR_3357    :{WINDOW_COLOUR_2}你確定要永久刪除{STRINGID} ?
+STR_3358    :不能刪除軌道設計...
+STR_3359    :{BLACK}這類遊樂設施沒有已設計好的軌道設計
 STR_3360    :警告!
-STR_3361    :Too many track designs of this type - Some will not be listed.
+STR_3361    :這種遊樂設施擁有太多軌道設計 - 將不會列出某些軌道設計.
 STR_3362    :Forced Software Buffer Mixing
 STR_3363    :{SMALLFONT}{BLACK}Select this option to improve performance if the game pauses slightly when sounds start or interference is heard
 STR_3364    :Advanced
 STR_3365    :{SMALLFONT}{BLACK}Allow selection of individual items of scenery in addition to scenery groups
-STR_3366    :{BLACK}= Ride
-STR_3367    :{BLACK}= Food Stall
-STR_3368    :{BLACK}= Drink Stall
-STR_3369    :{BLACK}= Souvenir Stall
-STR_3370    :{BLACK}= Info. Kiosk
-STR_3371    :{BLACK}= First Aid
-STR_3372    :{BLACK}= Cash Machine
-STR_3373    :{BLACK}= Toilet
+STR_3366    :{BLACK}= 遊樂設施
+STR_3367    :{BLACK}= 食物店鋪
+STR_3368    :{BLACK}= 飲料店鋪
+STR_3369    :{BLACK}= 記念品店鋪
+STR_3370    :{BLACK}= 訪客資訊中心
+STR_3371    :{BLACK}= 急救室
+STR_3372    :{BLACK}= 提款機
+STR_3373    :{BLACK}= 廁所
 STR_3374    :警告: 選取了太多物件!
-STR_3375    :Not all objects in this scenery group could be selected
-STR_3376    :Install new track design...
-STR_3377    :{SMALLFONT}{BLACK}Install a new track design file
+STR_3375    :不是在此景觀組別中的所有物件都能夠選取
+STR_3376    :安裝新的軌道設計...
+STR_3377    :{SMALLFONT}{BLACK}安裝新的軌道設計檔案
 STR_3378    :安裝
 STR_3379    :取消
-STR_3380    :Unable to install this track design...
-STR_3381    :File is not compatible or contains invalid data
-STR_3382    :File copy failed
-STR_3383    :Select new name for track design
-STR_3384    :An existing track design already has this name - Please select a new name for this design:
+STR_3380    :無法安裝這個軌道設計
+STR_3381    :不兼容的檔案或含有非法資料
+STR_3382    :複製檔案失敗
+STR_3383    :輸入這個軌道設計的新名稱
+STR_3384    :已有相同名稱的軌道設計 - 請輸入這個軌道設計的新名稱:
 STR_3385    :新手入門教學
 STR_3386    :自訂遊樂設施教學
 STR_3387    :雲霄飛車建造教學
-STR_3388    :Unable to switch to selected mode
-STR_3389    :Unable to select additional item of scenery...
+STR_3388    :無法切換至已選擇的模式
+STR_3389    :無法選擇額外的景觀物件...
 STR_3390    :選取了太多物件
 STR_3391    :{SMALLFONT}{BLACK}這個就是我們的樂園 - 先瞧瞧周邊的環境吧...
 STR_3392    :{SMALLFONT}{BLACK}最簡單的方法就是按住滑鼠右鍵, 然後拖曳來移動檢視範圍...
@@ -3456,8 +3456,8 @@ STR_3445    :設置巡邏區域
 STR_3446    :取得巡邏區域
 
 # New strings, cleaner
-STR_5120    :Show finances button on toolbar
-STR_5121    :Show research button on toolbar
+STR_5120    :財政
+STR_5121    :研發
 STR_5122    :(像RCT1一樣)以軌道類型選擇遊樂設施
 STR_5123    :翻新遊樂設施
 STR_5124    :去除"六旗"標誌
@@ -3483,7 +3483,7 @@ STR_5143    :快速速度
 STR_5144    :加快速度
 STR_5145    :更快速度
 STR_5146    :超快速度
-STR_5147    :在工具列顯示"密技"按鈕
+STR_5147    :密技
 STR_5148    :{SMALLFONT}{BLACK}改變遊戲速度
 STR_5149    :{SMALLFONT}{BLACK}開啟密技視窗
 STR_5150    :啟用除錯工具
@@ -3556,8 +3556,8 @@ STR_5216    :軌道設計管理工具列表
 STR_5217    :密技
 STR_5218    :主題
 STR_5219    :選項
-STR_5220    :鍵盤快鍵盤
-STR_5221    :Change Keyboard Shortcut
+STR_5220    :鍵盤快捷鍵
+STR_5221    :更改鍵盤快捷鍵
 STR_5222    :載入/儲存
 STR_5223    :Save Prompt
 STR_5224    :Demolish Ride Prompt
@@ -3679,7 +3679,7 @@ STR_5339    :Base height
 STR_5340    :Clearance height
 STR_5341    :Flags
 STR_5342    :Choose a map tile
-STR_5343    :Automatically place staff
+STR_5343    :自動放置員工
 STR_5344    :更新日誌
 STR_5345    :用於財政的密技
 STR_5346    :用於遊客的密技
@@ -3804,18 +3804,18 @@ STR_5464    :一般
 STR_5465    :氣候
 STR_5466    :員工
 STR_5467    :ALT + 
-STR_5468    :在工具列顯示"最近消息"的按鈕
+STR_5468    :最近消息
 STR_5469    :Scroll map up
 STR_5470    :Scroll map left
 STR_5471    :Scroll map down
 STR_5472    :Scroll map right
 STR_5473    :日與夜循環
 STR_5474    :Display text on banners in upper case
-STR_5475    :{COMMA16} weeks
-STR_5476    :Hardware
-STR_5477    :Map rendering
-STR_5478    :Controls
-STR_5479    :Toolbar
-STR_5480    :Show toolbar buttons for:
-STR_5481    :Themes
-STR_5482    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}1 minute
+STR_5475    :{COMMA16}週
+STR_5476    :硬件
+STR_5477    :地圖顯示
+STR_5478    :控制
+STR_5479    :工具列
+STR_5480    :顯示工具列按鈕:
+STR_5481    :主題
+STR_5482    :{WINDOW_COLOUR_2}上次檢查時間: {BLACK} 1分鐘前
