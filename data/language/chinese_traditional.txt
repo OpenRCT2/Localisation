@@ -2295,11 +2295,11 @@ STR_2287    :完成設計中
 STR_2288    :未知
 STR_2289    :{STRINGID} {STRINGID}
 STR_2290    :{SMALLFONT}{BLACK}{STRINGID} {STRINGID}
-STR_2291    :Select scenario for new game
-STR_2292    :{WINDOW_COLOUR_2}Rides been on:
-STR_2293    :{BLACK} Nothing
-STR_2294    :{SMALLFONT}{BLACK}Change base land style
-STR_2295    :{SMALLFONT}{BLACK}Change vertical edges of land
+STR_2291    :選擇新遊戲的劇情
+STR_2292    :{WINDOW_COLOUR_2}乘坐過的遊樂設施:
+STR_2293    :{BLACK}無
+STR_2294    :{SMALLFONT}{BLACK}更改基礎土地樣式
+STR_2295    :{SMALLFONT}{BLACK}更改土地的垂直邊界
 STR_2296    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}進入樂園
 STR_2297    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}乘坐{BLACK}{COMMA16}個遊樂設施
 STR_2298    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}乘坐{BLACK}{COMMA16}個遊樂設施
@@ -2309,18 +2309,18 @@ STR_2301    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}享用{
 STR_2302    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}享用{BLACK}{COMMA16}款飲料
 STR_2303    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}購買{BLACK}{COMMA16}個記念品
 STR_2304    :{WINDOW_COLOUR_2}付了{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}購買{BLACK}{COMMA16}個記念品
-STR_2305    :Track design files
-STR_2306    :Save track design
-STR_2307    :Select {STRINGID} design
-STR_2308    :{STRINGID} Track Designs
-STR_2309    :Install New Track Design
-STR_2310    :Build custom design
-STR_2311    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2312    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2313    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2314    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}
-STR_2315    :{WINDOW_COLOUR_2}Cost: {BLACK}around {CURRENCY}
-STR_2316    :{WINDOW_COLOUR_2}Space required: {BLACK}{COMMA16} x {COMMA16} blocks
+STR_2305    :軌道設計檔案
+STR_2306    :儲存軌道設計
+STR_2307    :選擇{STRINGID}的設計
+STR_2308    :{STRINGID}的設計檔案
+STR_2309    :安裝新的軌道設計
+STR_2310    :建造自訂設計
+STR_2311    :{WINDOW_COLOUR_2}興奮度: {BLACK}{COMMA2DP32} (approx.)
+STR_2312    :{WINDOW_COLOUR_2}刺激度: {BLACK}{COMMA2DP32} (approx.)
+STR_2313    :{WINDOW_COLOUR_2}噁心度: {BLACK}{COMMA2DP32} (approx.)
+STR_2314    :{WINDOW_COLOUR_2}軌道長度: {BLACK}{STRINGID}
+STR_2315    :{WINDOW_COLOUR_2}建造費用: {BLACK}約{CURRENCY}
+STR_2316    :{WINDOW_COLOUR_2}需要空間: {BLACK}{COMMA16} x {COMMA16}格
 STR_2317    :{WINDOW_COLOUR_2}音效品質:
 STR_2318    :低
 STR_2319    :中
@@ -2338,21 +2338,21 @@ STR_2330    :{WINDOW_COLOUR_2}溫度單位:
 STR_2331    :{WINDOW_COLOUR_2}高度標記單位:
 STR_2332    :單位
 STR_2333    :Sound
-STR_2334    :Pounds ({POUND})
-STR_2335    :Dollars ($)
-STR_2336    :Franc (F)
-STR_2337    :Deutschmark (DM)
-STR_2338    :Yen ({YEN})
-STR_2339    :Peseta (Pts)
-STR_2340    :Lira (L)
-STR_2341    :Guilders (fl.)
-STR_2342    :Krona (kr)
-STR_2343    :Euros ({EURO})
+STR_2334    :英鎊 ({POUND})
+STR_2335    :美金 ($)
+STR_2336    :法郎 (F)
+STR_2337    :馬克 (DM)
+STR_2338    :日元 ({YEN})
+STR_2339    :比塞塔 (Pts)
+STR_2340    :裡拉 (L)
+STR_2341    :荷蘭盾 (fl.)
+STR_2342    :克朗 (kr)
+STR_2343    :歐元 ({EURO})
 STR_2344    :Imperial
 STR_2345    :Metric
 STR_2346    :Display
 STR_2347    :{RED}{STRINGID}已被溺死!
-STR_2348    :{SMALLFONT}{BLACK}Show statistics for this staff member
+STR_2348    :{SMALLFONT}{BLACK}顯示這位員工的統計資料
 STR_2349    :{WINDOW_COLOUR_2}工資: {BLACK}每個月{CURRENCY}
 STR_2350    :{WINDOW_COLOUR_2}僱用日期: {BLACK}{MONTHYEAR}
 STR_2351    :{WINDOW_COLOUR_2}除草次數: {BLACK}{COMMA16}
@@ -2365,10 +2365,10 @@ STR_2357    :House
 STR_2358    :Units
 STR_2359    :Real Values
 STR_2360    :{WINDOW_COLOUR_2}屏幕解析度:
-STR_2361    :Landscape Smoothing
-STR_2362    :{SMALLFONT}{BLACK}Toggle landscape tile edge smoothing on/off
-STR_2363    :Gridlines on Landscape
-STR_2364    :{SMALLFONT}{BLACK}Toggle gridlines on landscape on/off
+STR_2361    :土地邊緣平滑化
+STR_2362    :{SMALLFONT}{BLACK}開啟/關閉土地邊緣平滑化
+STR_2363    :土地上的網格
+STR_2364    :{SMALLFONT}{BLACK}開啟/關閉土地上的網格
 STR_2365    :銀行拒絕增加你的貸款額!
 STR_2366    :攝氏 ({DEGREE}C)
 STR_2367    :華氏 (F)
