@@ -842,7 +842,7 @@ STR_0837    :Unable to initialise graphics system
 STR_0838    :CD key code {INT32} is not valid for your RollerCoaster Tycoon 2 CD !{WINDOW_COLOUR_1}{WINDOW_COLOUR_1}Please un-install RollerCoaster Tycoon 2% and re-install with the correct CD Key Code
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
-# The follwing six strings were used for display resolutions, but have been replaced.
+# The following six strings were used for display resolutions, but have been replaced.
 STR_0841    :<not used anymore>
 STR_0842    :<not used anymore>
 STR_0843    :<not used anymore>
@@ -1896,8 +1896,8 @@ STR_1890    :{SMALLFONT}{BLACK}選擇維修人員檢查此遊樂設施的時距
 STR_1891    :在樂園裡暫未有{STRINGID}!
 # The following two strings were used to display an error when the disc was missing.
 # This has been replaced in OpenRCT2.
-STR_1892    :RollerCoaster Tycoon 2
-STR_1893    :Please insert your RollerCoaster Tycoon 2 CD in the following drive:
+STR_1892    :<not used anymore>
+STR_1893    :<not used anymore>
 STR_1894    :{WINDOW_COLOUR_2}賣出{STRINGID}: {BLACK}{COMMA32}
 STR_1895    :{SMALLFONT}{BLACK}建造新的遊樂設施/店鋪
 STR_1896    :{WINDOW_COLOUR_2}支出/收入
@@ -1933,8 +1933,8 @@ STR_1925    :不能放置人物於此...
 STR_1926    :{SMALLFONT}
 STR_1927    :{YELLOW}{STRINGID}發生故障了
 STR_1928    :{RED}{STRINGID}毀壞了!
-STR_1929    :{RED}{STRINGID} still hasn't been fixed{NEWLINE}Check where your mechanics are and consider organizing them better
-STR_1930    :{SMALLFONT}{BLACK}Turn on/off tracking information for this guest - (If tracking is on, guest's movements will be reported in the message area)
+STR_1929    :{RED}{STRINGID}依然未修復好{NEWLINE}請檢查維修人員位置所在, 或考慮以更好的方法管理他們
+STR_1930    :{SMALLFONT}{BLACK}開啟/關閉這位遊客的追蹤資訊 - (假若開啟追蹤, 這位遊客的行動將會報告於最近消息裡)
 STR_1931    :{STRINGID}已在輪候{STRINGID}
 STR_1932    :{STRINGID}已在{STRINGID}上
 STR_1933    :{STRINGID}已在{STRINGID}中
@@ -2446,7 +2446,7 @@ STR_2438    :<not used anymore>
 STR_2439    :<not used anymore>
 STR_2440    :<not used anymore>
 STR_2441    :<not used anymore>
-STR_2442    :{BLACK}(還剩{STRINGID}結束)
+STR_2442    :<not used anymore>
 STR_2443    :{WINDOW_COLOUR_2}每週費用: {BLACK}{CURRENCY2DP}
 STR_2444    :{WINDOW_COLOUR_2}總費用: {BLACK}{CURRENCY2DP}
 STR_2445    :開始實行此營銷計劃
@@ -3223,11 +3223,11 @@ STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
 STR_3213    :不能再縮小地圖
 STR_3214    :不能再擴大地圖
 STR_3215    :太接近地圖的邊緣
-STR_3216    :{SMALLFONT}{BLACK}Select park-owned land etc.
-STR_3217    :Land Owned
-STR_3218    :Construction Rights Owned
-STR_3219    :Land For Sale
-STR_3220    :Construction Rights For Sale
+STR_3216    :{SMALLFONT}{BLACK}選擇樂園擁有的土地及其他選項
+STR_3217    :已擁有的土地
+STR_3218    :已擁有建造權的土地
+STR_3219    :可供購買的土地
+STR_3220    :可供購買建造權的土地
 STR_3221    :{SMALLFONT}{BLACK}Set land to be owned by the park
 STR_3222    :{SMALLFONT}{BLACK}Set construction rights only to be owned by the park
 STR_3223    :{SMALLFONT}{BLACK}Set land to be available to purchase by the park
@@ -3239,9 +3239,9 @@ STR_3228    :{SMALLFONT}{BLACK}Set starting positions for people
 STR_3229    :Block Brakes cannot be used directly after station
 STR_3230    :Block Brakes cannot be used directly after each other
 STR_3231    :Block Brakes cannot be used directly after the top of this lift hill
-STR_3232    :Options - Financial
-STR_3233    :Options - Guests
-STR_3234    :Options - Park
+STR_3232    :選項 - 財政
+STR_3233    :選項 - 遊客
+STR_3234    :選項 - 樂園
 STR_3235    :{SMALLFONT}{BLACK}Show financial options
 STR_3236    :{SMALLFONT}{BLACK}Show guest options
 STR_3237    :{SMALLFONT}{BLACK}Show park options
@@ -3284,15 +3284,15 @@ STR_3273    :Park rating higher difficult level
 STR_3274    :{SMALLFONT}{BLACK}Make the park rating value more challenging
 STR_3275    :Guest generation higher difficult level
 STR_3276    :{SMALLFONT}{BLACK}Make it more difficult to attract guests to the park
-STR_3277    :{WINDOW_COLOUR_2}Cost to buy land:
-STR_3278    :{WINDOW_COLOUR_2}Cost to buy construction rights:
-STR_3279    :Free park entry / Pay per ride
-STR_3280    :Pay to enter park / Free rides
-STR_3281    :{WINDOW_COLOUR_2}Entry price:
-STR_3282    :{SMALLFONT}{BLACK}Select objective and park name
-STR_3283    :{SMALLFONT}{BLACK}Select rides to be preserved
-STR_3284    :Objective Selection
-STR_3285    :Preserved Rides
+STR_3277    :{WINDOW_COLOUR_2}購買土地的費用:
+STR_3278    :{WINDOW_COLOUR_2}購買建造權利的費用:
+STR_3279    :免費進入樂園 / 需費乘搭遊樂設施
+STR_3280    :需費進入樂園 / 免費乘搭遊樂設施
+STR_3281    :{WINDOW_COLOUR_2}樂園門票價格:
+STR_3282    :{SMALLFONT}{BLACK}選擇目標及樂園名稱
+STR_3283    :{SMALLFONT}{BLACK}選擇要保留的遊樂設施/店鋪
+STR_3284    :選取目標
+STR_3285    :保留遊樂設施/店鋪
 STR_3286    :{SMALLFONT}{BLACK}選擇此劇情的目標
 STR_3287    :{WINDOW_COLOUR_2}目標:
 STR_3288    :{SMALLFONT}{BLACK}選擇氣候
@@ -3463,7 +3463,7 @@ STR_5123    :翻新遊樂設施
 STR_5124    :去除"六旗"標誌
 STR_5125    :All destructable
 STR_5126    :隨機播放主題曲
-STR_5127    :{SMALLFONT}{BLACK}Disable land elevation
+STR_5127    :{SMALLFONT}{BLACK}禁止調整地勢
 STR_5128    :選擇大小
 STR_5129    :請輸入介於{COMMA16}及{COMMA16}的選擇大小
 STR_5130    :地圖大小
@@ -3500,19 +3500,19 @@ STR_5160    :{MONTH} {STRINGID}, 第{COMMA16}年
 STR_5161    :日期格式:
 STR_5162    :日/月/年
 STR_5163    :月/日/年
-STR_5164    :Twitch Channel name
-STR_5165    :Name peeps after followers
-STR_5166    :{SMALLFONT}{BLACK}Will name peeps after channel's Twitch followers
-STR_5167    :Track follower peeps
-STR_5168    :{SMALLFONT}{BLACK}Will turn on tracking information for guests named after channel's Twitch followers
-STR_5169    :Name peeps after people in Twitch chat
-STR_5170    :{SMALLFONT}{BLACK}Will name peeps after people in Twitch chat
-STR_5171    :Track chat peeps
-STR_5172    :{SMALLFONT}{BLACK}Will turn on tracking information for guests named after Twitch chat participants
-STR_5173    :Pull Twitch chat as news
-STR_5174    :{SMALLFONT}{BLACK}Will use Twitch chat messages preceded by !news for in game notifications
-STR_5175    :Input the name of your Twitch channel
-STR_5176    :Enable Twitch integration
+STR_5164    :Twitch頻道名稱
+STR_5165    :以追隨者的用戶名命名遊客
+STR_5166    :{SMALLFONT}{BLACK}會以Twitch頻道的追隨者命名遊客
+STR_5167    :追蹤'追隨者'遊客
+STR_5168    :{SMALLFONT}{BLACK}會將追隨者用戶名的遊客開啟追蹤資訊
+STR_5169    :以聊天室用戶的名字命名遊客
+STR_5170    :{SMALLFONT}{BLACK}會以Twitch頻道的聊天室用戶的名字命名遊客
+STR_5171    :追蹤'聊天室用戶'遊客
+STR_5172    :{SMALLFONT}{BLACK}會將聊天室用戶名的遊客開啟追蹤資訊
+STR_5173    :將Twitch聊天室的內容推送為新聞
+STR_5174    :{SMALLFONT}{BLACK}會將Twitch聊天室所有標'!news'的內容以最近消息顯示於遊戲內
+STR_5175    :請輸入你的Twitch頻道名稱
+STR_5176    :准許Twitch頻道融合於遊戲之中
 STR_5177    :全屏幕模式:
 STR_5178    :{SMALLFONT}{BLACK}顯示用於財政的密技
 STR_5179    :{SMALLFONT}{BLACK}顯示用於遊客的密技
@@ -3810,7 +3810,7 @@ STR_5470    :Scroll map left
 STR_5471    :Scroll map down
 STR_5472    :Scroll map right
 STR_5473    :日與夜循環
-STR_5474    :Display text on banners in upper case
+STR_5474    :於橫額中顯示全大寫英文
 STR_5475    :{COMMA16}週
 STR_5476    :硬件
 STR_5477    :地圖顯示
@@ -3819,3 +3819,4 @@ STR_5479    :工具列
 STR_5480    :顯示工具列按鈕:
 STR_5481    :主題
 STR_5482    :{WINDOW_COLOUR_2}上次檢查時間: {BLACK} 1分鐘前
+STR_5483    :{BLACK}(還剩{COMMA16}週結束)
