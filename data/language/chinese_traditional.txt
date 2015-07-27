@@ -1737,15 +1737,15 @@ STR_1731    :{WHITE}{STRINGID} - -
 STR_1732    :建造
 STR_1733    :模式
 STR_1734    :{WINDOW_COLOUR_2}圈數:
-STR_1735    :{SMALLFONT}{BLACK}Number of laps of circuit
+STR_1735    :{SMALLFONT}{BLACK}每次循環的圈數
 STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1737    :{COMMA16}
 STR_1738    :不能改變圈數...
 STR_1739    :此賽事由遊客{INT32}勝出
 STR_1740    :此賽事由{STRINGID}勝出
 STR_1741    :尚未建造!
-STR_1742    :{WINDOW_COLOUR_2}Max. people on ride:
-STR_1743    :{SMALLFONT}{BLACK}Maximum number of people allowed on this ride at one time
+STR_1742    :{WINDOW_COLOUR_2}設施的最大載客量:
+STR_1743    :{SMALLFONT}{BLACK}同時間遊樂設施上最多可接受的乘客數量
 STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1745    :{COMMA16}
 STR_1746    :不能改變...
@@ -1754,15 +1754,15 @@ STR_1748    :{SMALLFONT}{BLACK}此遊樂設施的遊玩時間限制
 STR_1749    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{DURATION}
 STR_1750    :{DURATION}
 STR_1751    :不能改變此遊樂設施的遊玩時間限制...
-STR_1752    :{SMALLFONT}{BLACK}Show list of individual guests in park
-STR_1753    :{SMALLFONT}{BLACK}Show summarised list of guests in park
-STR_1754    :{BLACK}{COMMA16} guests
-STR_1755    :{BLACK}{COMMA16} guest
+STR_1752    :{SMALLFONT}{BLACK}列出樂園內每個遊客
+STR_1753    :{SMALLFONT}{BLACK}列出樂園內遊客的總匯
+STR_1754    :{BLACK}{COMMA16}名遊客
+STR_1755    :{BLACK}{COMMA16}名遊客
 STR_1756    :{WINDOW_COLOUR_2}門票價格:
 STR_1757    :{WINDOW_COLOUR_2}可靠度: {MOVE_X}{255}{BLACK}{COMMA16}%
-STR_1758    :{SMALLFONT}{BLACK}Build mode
-STR_1759    :{SMALLFONT}{BLACK}Move mode
-STR_1760    :{SMALLFONT}{BLACK}Fill-in mode
+STR_1758    :{SMALLFONT}{BLACK}建造模式
+STR_1759    :{SMALLFONT}{BLACK}移動模式
+STR_1760    :{SMALLFONT}{BLACK}填補模式
 STR_1761    :{SMALLFONT}{BLACK}以此方向建造迷宮
 STR_1762    :瀑布
 STR_1763    :急流
@@ -1770,9 +1770,9 @@ STR_1764    :漩渦
 STR_1765    :即時拍照區域
 STR_1766    :Reverser turntable
 STR_1767    :Spinning tunnel
-STR_1768    :Can't change number of swings...
-STR_1769    :{WINDOW_COLOUR_2}Number of swings:
-STR_1770    :{SMALLFONT}{BLACK}Number of complete swings
+STR_1768    :不能改變搖擺次數...
+STR_1769    :{WINDOW_COLOUR_2}搖擺次數:
+STR_1770    :{SMALLFONT}{BLACK}完全搖擺的次數
 STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1772    :{COMMA16}
 STR_1773    :Only one on-ride photo section allowed per ride
@@ -1812,7 +1812,7 @@ STR_1806    :Brakes failure
 STR_1807    :Control failure
 STR_1808    :{WINDOW_COLOUR_2}上次故障原因: {BLACK}{STRINGID}
 STR_1809    :{WINDOW_COLOUR_2}今次故障原因: {OUTLINE}{RED}{STRINGID}
-STR_1810    :{WINDOW_COLOUR_2}Carrying:
+STR_1810    :{WINDOW_COLOUR_2}攜帶中:
 STR_1811    :不能建造於此...
 STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
 STR_1813    :其他物件
@@ -1953,17 +1953,17 @@ STR_1945    :{SMALLFONT}{BLACK}Show orders and options for this staff member
 STR_1946    :{SMALLFONT}{BLACK}Select costume for this entertainer
 STR_1947    :{SMALLFONT}{BLACK}Show areas patrolled by selected staff type, and locate the nearest staff member
 STR_1948    :{SMALLFONT}{BLACK}Hire a new staff member of the selected type
-STR_1949    :Financial Summary
-STR_1950    :Financial Graph
-STR_1951    :Park Value Graph
-STR_1952    :Profit Graph
-STR_1953    :Marketing
-STR_1954    :Research Funding
-STR_1955    :{WINDOW_COLOUR_2}Number of circuits:
-STR_1956    :{SMALLFONT}{BLACK}Number of circuits of track per ride
+STR_1949    :財政概要
+STR_1950    :財政圖表
+STR_1951    :樂園價值圖表
+STR_1952    :營利圖表
+STR_1953    :營銷計劃
+STR_1954    :研發資金
+STR_1955    :{WINDOW_COLOUR_2}圈數:
+STR_1956    :{SMALLFONT}{BLACK}每次運轉遊樂設施的圈數
 STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1958    :{COMMA16}
-STR_1959    :Can't change number of circuits...
+STR_1959    :不能改變圈數...
 STR_1960    :{WINDOW_COLOUR_2}氣球價格:
 STR_1961    :{WINDOW_COLOUR_2}毛公仔價格:
 STR_1962    :{WINDOW_COLOUR_2}樂園地圖價格:
@@ -2362,7 +2362,7 @@ STR_2354    :{WINDOW_COLOUR_2}清空拉坡筒次數: {BLACK}{COMMA16}
 STR_2355    :{WINDOW_COLOUR_2}修理遊樂設施次數: {BLACK}{COMMA16}
 STR_2356    :{WINDOW_COLOUR_2}檢驗遊樂設施次數: {BLACK}{COMMA16}
 STR_2357    :House
-STR_2358    :Units
+STR_2358    :單位
 STR_2359    :Real Values
 STR_2360    :{WINDOW_COLOUR_2}屏幕解析度:
 STR_2361    :土地邊緣平滑化
@@ -2382,12 +2382,12 @@ STR_2374    :高
 STR_2375    :很高
 STR_2376    :極端
 STR_2377    :超極端
-STR_2378    :{SMALLFONT}{BLACK}Adjust smaller area of land
-STR_2379    :{SMALLFONT}{BLACK}Adjust larger area of land
-STR_2380    :{SMALLFONT}{BLACK}Adjust smaller area of water
-STR_2381    :{SMALLFONT}{BLACK}Adjust larger area of water
-STR_2382    :Land
-STR_2383    :Water
+STR_2378    :{SMALLFONT}{BLACK}調整較小的土地區域
+STR_2379    :{SMALLFONT}{BLACK}調整較大的土地區域
+STR_2380    :{SMALLFONT}{BLACK}調整較小的水塘區域
+STR_2381    :{SMALLFONT}{BLACK}調整較大的水塘區域
+STR_2382    :土地
+STR_2383    :水塘
 STR_2384    :{WINDOW_COLOUR_2}你的目標:
 STR_2385    :{BLACK}無
 STR_2386    :{BLACK}在{MONTHYEAR}尾之前, 樂園裡至少有{COMMA16}個遊客, 而且樂園評價並不低於600
