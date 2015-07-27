@@ -2255,8 +2255,8 @@ STR_2247    :12月
 STR_2248    :不能移除遊樂設施/店鋪...
 STR_2249    :{BABYBLUE}全新遊樂設施/店鋪可供使用:{NEWLINE}{STRINGID}
 STR_2250    :{BABYBLUE}全新景物/主題景物可供使用:{NEWLINE}{STRINGID}
-STR_2251    :Can only be built on paths!
-STR_2252    :Can only be built across paths!
+STR_2251    :只可以在道路上建造!
+STR_2252    :只可以橫過道路建造!
 STR_2253    :運輸類遊樂設施
 STR_2254    :溫和類遊樂設施
 STR_2255    :雲霄飛車
@@ -2325,12 +2325,12 @@ STR_2317    :<not used anymore>
 STR_2318    :<not used anymore>
 STR_2319    :<not used anymore>
 STR_2320    :<not used anymore>
-STR_2321    :{WINDOW_COLOUR_2}Number of rides/attractions: {BLACK}{COMMA16}
-STR_2322    :{WINDOW_COLOUR_2}Staff: {BLACK}{COMMA16}
-STR_2323    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}m{SQUARED}
-STR_2324    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}sq.ft.
-STR_2325    :{SMALLFONT}{BLACK}Buy land to extend park
-STR_2326    :{SMALLFONT}{BLACK}Buy construction rights to allow construction above or below land outside the park
+STR_2321    :{WINDOW_COLOUR_2}遊樂設施/店鋪數目: {BLACK}{COMMA16}
+STR_2322    :{WINDOW_COLOUR_2}員工數目: {BLACK}{COMMA16}
+STR_2323    :{WINDOW_COLOUR_2}樂園大小: {BLACK}{COMMA32}m{SQUARED}
+STR_2324    :{WINDOW_COLOUR_2}樂園大小: {BLACK}{COMMA32}sq.ft.
+STR_2325    :{SMALLFONT}{BLACK}購買土地來擴展樂園
+STR_2326    :{SMALLFONT}{BLACK}購買建造權來准許在樂園範圍外的空中或地底建造物件
 STR_2327    :選項
 STR_2328    :{WINDOW_COLOUR_2}貨幣單位:
 STR_2329    :{WINDOW_COLOUR_2}距離及速度單位:
@@ -2501,9 +2501,9 @@ STR_2493    :Close top-most window
 STR_2494    :Close all floating windows
 STR_2495    :Cancel construction mode
 STR_2496    :暫停遊戲
-STR_2497    :Zoom view out
-STR_2498    :Zoom view in
-STR_2499    :Rotate view clockwise
+STR_2497    :縮小檢視範圍
+STR_2498    :放大檢視範圍
+STR_2499    :順時針旋轉檢視範圍
 STR_2500    :Rotate construction object
 STR_2501    :Underground view toggle
 STR_2502    :Remove base land toggle
@@ -2741,8 +2741,8 @@ STR_2732    :{COMMA16}ft
 STR_2733    :{COMMA16}m
 STR_2734    :{COMMA16}mph
 STR_2735    :{COMMA16}km/h
-STR_2736    :{MONTH}, Year {COMMA16}
-STR_2737    :{STRINGID} {MONTH}, Year {COMMA16}
+STR_2736    :{MONTH}, 第{COMMA16}年
+STR_2737    :{STRINGID} {MONTH}, 第{COMMA16}年
 STR_2738    :主選單音樂:
 STR_2739    :無
 STR_2740    :夢幻遊樂園 (RCT1)
