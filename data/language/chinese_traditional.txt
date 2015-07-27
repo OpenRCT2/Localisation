@@ -3461,7 +3461,7 @@ STR_5121    :研發
 STR_5122    :(像RCT1一樣)以軌道類型選擇遊樂設施
 STR_5123    :翻新遊樂設施
 STR_5124    :去除"六旗"標誌
-STR_5125    :All destructable
+STR_5125    :全可拆卸
 STR_5126    :隨機播放主題曲
 STR_5127    :{SMALLFONT}{BLACK}禁止調整地勢
 STR_5128    :選擇大小
@@ -3616,11 +3616,11 @@ STR_5276    :請輸入你要搜尋的物件名稱
 STR_5277    :清除
 STR_5278    :沙盒模式
 STR_5279    :沙盒模式關閉
-STR_5280    :{SMALLFONT}{BLACK}Allow editing land ownership settings through the Map window and other options that are normally restricted to the Scenario Editor
-STR_5281    :{SMALLFONT}{BLACK}Features
-STR_5282    :RCT1 Ride Open/Close Lights
-STR_5283    :RCT1 Park Open/Close Lights
-STR_5284    :RCT1 Scenario Selection Font
+STR_5280    :{SMALLFONT}{BLACK}允許從地圖視窗中修改土地擁有權, 以及其他平常只適用於劇情編輯工具的選項
+STR_5281    :{SMALLFONT}{BLACK}功能
+STR_5282    :夢幻遊樂場 (RCT1)遊樂設施開關燈號
+STR_5283    :夢幻遊樂場 (RCT1)樂園開關燈號
+STR_5284    :夢幻遊樂場 (RCT1)選擇劇情字體
 STR_5285    :人肉炸彈!!!
 STR_5286    :{SMALLFONT}{BLACK}將某些遊客爆炸，嘻嘻！
 STR_5287    :遊樂設施已經故障了
@@ -3705,12 +3705,12 @@ STR_5365    :{BLACK}員工行走速度:
 STR_5366    :正常
 STR_5367    :快速
 STR_5368    :重設毀壞狀態
-STR_5369    :Park parameters...
-STR_5370    :{SMALLFONT}{BLACK}Click this button to modify park{NEWLINE}parameters like restrictions,{NEWLINE}guest generation and money.
-STR_5371    :Object Selection
-STR_5372    :Invert right mouse dragging
-STR_5373    :Name {STRINGID}
-STR_5374    :Date {STRINGID}
+STR_5369    :樂園參數...
+STR_5370    :{SMALLFONT}{BLACK}按此來修改樂園參數{NEWLINE}例如有關限制, 生成遊客{NEWLINE}及金錢的選項
+STR_5371    :選取物件
+STR_5372    :滑鼠左鍵拖拉
+STR_5373    :名稱 {STRINGID}
+STR_5374    :日期 {STRINGID}
 STR_5375    :{UP}
 STR_5376    :{DOWN}
 STR_5377    :{SMALLFONT}{BLACK}Saves
@@ -3743,13 +3743,13 @@ STR_5403    :There may be no Load or Wait command or a save may be invalid
 STR_5404    :Name already exists
 STR_5405    :Enter a name for the save
 STR_5406    :Enter a name for the title sequence
-STR_5407    :Add
-STR_5408    :Remove
-STR_5409    :Insert
-STR_5410    :Edit
-STR_5411    :Reload
-STR_5412    :Skip to
-STR_5413    :Load
+STR_5407    :增加
+STR_5408    :移除
+STR_5409    :插入
+STR_5410    :編輯
+STR_5411    :重新載入
+STR_5412    :跳至
+STR_5413    :載入
 STR_5414    :Load{MOVE_X}{87}Six Flags Magic Mountain.SC6
 STR_5415    :Load{MOVE_X}{87}{STRING}
 STR_5416    :Load{MOVE_X}{87}No save selected
@@ -3805,11 +3805,11 @@ STR_5465    :氣候
 STR_5466    :員工
 STR_5467    :ALT + 
 STR_5468    :最近消息
-STR_5469    :Scroll map up
-STR_5470    :Scroll map left
-STR_5471    :Scroll map down
-STR_5472    :Scroll map right
-STR_5473    :日與夜循環
+STR_5469    :向上捲動地圖
+STR_5470    :向左捲動地圖
+STR_5471    :向下捲動地圖
+STR_5472    :向右捲動地圖
+STR_5473    :循環日與夜
 STR_5474    :於橫額中顯示全大寫英文
 STR_5475    :{COMMA16}週
 STR_5476    :硬件
@@ -3820,3 +3820,4 @@ STR_5480    :顯示工具列按鈕:
 STR_5481    :主題
 STR_5482    :{WINDOW_COLOUR_2}上次檢查時間: {BLACK} 1分鐘前
 STR_5483    :{BLACK}(還剩{COMMA16}週結束)
+STR_5484    :{BLACK}(還剩{COMMA16}週結束)
