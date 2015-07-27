@@ -6,7 +6,7 @@ STR_0001    :{STRINGID} {COMMA16}
 STR_0002    :螺旋式雲霄飛車
 STR_0003    :站立式雲霄飛車
 STR_0004    :懸吊式雲霄飛車
-STR_0005    :Inverted Roller Coaster
+STR_0005    :反轉式雲霄飛車
 STR_0006    :兒童雲霄飛車
 STR_0007    :小火車
 STR_0008    :單軌電車
@@ -1544,7 +1544,7 @@ STR_1538    :{SMALLFONT}{OPENQUOTES}這件由{STRINGID}購買的T-shirt真的是
 STR_1539    :{SMALLFONT}{OPENQUOTES}這件由{STRINGID}購買的甜甜圈真的是超值{ENDQUOTES}
 STR_1540    :{SMALLFONT}{OPENQUOTES}這杯由{STRINGID}購買的咖啡真的是超值{ENDQUOTES}
 STR_1541    :
-STR_1542    :{SMALLFONT}{OPENQUOTES}這件由{STRINGID}購買的炸雞真的是超值{ENDQUOTES}
+STR_1542    :{SMALLFONT}{OPENQUOTES}這客由{STRINGID}購買的炸雞真的是超值{ENDQUOTES}
 STR_1543    :{SMALLFONT}{OPENQUOTES}這杯由{STRINGID}購買的檸檬水真的是超值{ENDQUOTES}
 STR_1544    :
 STR_1545    :
@@ -1563,7 +1563,7 @@ STR_1557    :{SMALLFONT}{OPENQUOTES}我不會花這麼多錢在{STRINGID}購買�
 STR_1558    :{SMALLFONT}{OPENQUOTES}我不會花這麼多錢在{STRINGID}購買一個漢堡{ENDQUOTES}
 STR_1559    :{SMALLFONT}{OPENQUOTES}我不會花這麼多錢在{STRINGID}購買一客薯條{ENDQUOTES}
 STR_1560    :{SMALLFONT}{OPENQUOTES}我不會花這麼多錢在{STRINGID}購買一個冰淇淋{ENDQUOTES}
-STR_1561    :{SMALLFONT}{OPENQUOTES}我不會花這麼多錢在{STRINGID}購買一個棉花糖{ENDQUOTES}
+STR_1561    :{SMALLFONT}{OPENQUOTES}我不會花這麼多錢在{STRINGID}購買一球棉花糖{ENDQUOTES}
 STR_1562    :
 STR_1563    :
 STR_1564    :
@@ -1578,7 +1578,7 @@ STR_1572    :{SMALLFONT}{OPENQUOTES}我不會花這麼多錢在{STRINGID}購買�
 STR_1573    :{SMALLFONT}{OPENQUOTES}我不會花這麼多錢在{STRINGID}購買一件甜甜圈{ENDQUOTES}
 STR_1574    :{SMALLFONT}{OPENQUOTES}我不會花這麼多錢在{STRINGID}購買一杯咖啡{ENDQUOTES}
 STR_1575    :
-STR_1576    :{SMALLFONT}{OPENQUOTES}我不會花這麼多錢在{STRINGID}購買一件炸雞{ENDQUOTES}
+STR_1576    :{SMALLFONT}{OPENQUOTES}我不會花這麼多錢在{STRINGID}購買一客炸雞{ENDQUOTES}
 STR_1577    :{SMALLFONT}{OPENQUOTES}我不會花這麼多錢在{STRINGID}購買一杯檸檬水{ENDQUOTES}
 STR_1578    :
 STR_1579    :
@@ -1907,8 +1907,8 @@ STR_1899    :{WINDOW_COLOUR_2}購買土地
 STR_1900    :{WINDOW_COLOUR_2}調整地形
 STR_1901    :{WINDOW_COLOUR_2}樂園入場門票
 STR_1902    :{WINDOW_COLOUR_2}遊樂設施門票
-STR_1903    :{WINDOW_COLOUR_2}記念品及其他物品銷售額
-STR_1904    :{WINDOW_COLOUR_2}記念品及其他物品進貨
+STR_1903    :{WINDOW_COLOUR_2}其他商品銷售額
+STR_1904    :{WINDOW_COLOUR_2}其他商品進貨
 STR_1905    :{WINDOW_COLOUR_2}食物/飲料銷售額
 STR_1906    :{WINDOW_COLOUR_2}食物/飲料進貨
 STR_1907    :{WINDOW_COLOUR_2}員工薪金
@@ -2048,195 +2048,195 @@ STR_2040    :炸雞
 STR_2041    :檸檬水
 STR_2042    :空盒子
 STR_2043    :空瓶子
-STR_2044    :a Balloon
-STR_2045    :a Cuddly Toy
-STR_2046    :a Park Map
-STR_2047    :an On-Ride Photo
-STR_2048    :an Umbrella
-STR_2049    :a Drink
-STR_2050    :a Burger
-STR_2051    :some Chips
-STR_2052    :an Ice Cream
-STR_2053    :some Candyfloss
-STR_2054    :an Empty Can
-STR_2055    :some Rubbish
-STR_2056    :an Empty Burger Box
-STR_2057    :a Pizza
-STR_2058    :a Voucher
-STR_2059    :some Popcorn
-STR_2060    :a Hot Dog
-STR_2061    :a Tentacle
-STR_2062    :a Hat
-STR_2063    :a Toffee Apple
-STR_2064    :a T-Shirt
-STR_2065    :a Doughnut
-STR_2066    :a Coffee
-STR_2067    :an Empty Cup
-STR_2068    :some Fried Chicken
-STR_2069    :some Lemonade
-STR_2070    :an Empty Box
-STR_2071    :an Empty Bottle
-STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Balloon
-STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Cuddly Toy
-STR_2074    :Map of {STRINGID}
-STR_2075    :On-Ride Photo of {STRINGID}
-STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Umbrella
-STR_2077    :Drink
-STR_2078    :Burger
-STR_2079    :Chips
-STR_2080    :Ice Cream
-STR_2081    :Candyfloss
-STR_2082    :Empty Can
-STR_2083    :Rubbish
-STR_2084    :Empty Burger Box
-STR_2085    :Pizza
-STR_2086    :Voucher for {STRINGID}
-STR_2087    :Popcorn
-STR_2088    :Hot Dog
-STR_2089    :Tentacle
-STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Hat
-STR_2091    :Toffee Apple
+STR_2044    :一個氣球
+STR_2045    :一隻毛公仔
+STR_2046    :一份樂園地圖
+STR_2047    :一張即時照片
+STR_2048    :一把雨傘
+STR_2049    :一杯飲料
+STR_2050    :一個漢堡
+STR_2051    :一客薯條
+STR_2052    :一個冰淇淋
+STR_2053    :一球棉花糖
+STR_2054    :一個空罐子
+STR_2055    :一些垃圾
+STR_2056    :一個空漢堡盒子
+STR_2057    :一件批薩
+STR_2058    :一張優惠卷
+STR_2059    :一客爆米花
+STR_2060    :一隻熱狗
+STR_2061    :一隻觸手
+STR_2062    :一頂帽子
+STR_2063    :一個太妃蘋果糖
+STR_2064    :一件T-shirt
+STR_2065    :一件甜甜圈
+STR_2066    :一杯咖啡
+STR_2067    :一個空杯子
+STR_2068    :一客炸雞
+STR_2069    :一杯檸檬水
+STR_2070    :一個空盒子
+STR_2071    :一個空瓶子
+STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES}氣球
+STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES}毛公仔
+STR_2074    :{STRINGID}的地圖
+STR_2075    :{STRINGID}的即時照片
+STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES}雨傘
+STR_2077    :飲料
+STR_2078    :漢堡
+STR_2079    :薯條
+STR_2080    :冰淇淋
+STR_2081    :棉花糖
+STR_2082    :空罐子
+STR_2083    :垃圾
+STR_2084    :空漢堡盒子
+STR_2085    :批薩
+STR_2086    :{STRINGID}的優惠卷
+STR_2087    :爆米花
+STR_2088    :熱狗
+STR_2089    :觸手
+STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES}帽子
+STR_2091    :太妃蘋果糖
 STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} T-Shirt
-STR_2093    :Doughnut
-STR_2094    :Coffee
-STR_2095    :Empty Cup
-STR_2096    :Fried Chicken
-STR_2097    :Lemonade
-STR_2098    :Empty Box
-STR_2099    :Empty Bottle
-STR_2100    :{WINDOW_COLOUR_2}On-Ride Photo price:
-STR_2101    :{WINDOW_COLOUR_2}On-Ride Photo price:
-STR_2102    :{WINDOW_COLOUR_2}On-Ride Photo price:
-STR_2103    :{WINDOW_COLOUR_2}Pretzel price:
-STR_2104    :{WINDOW_COLOUR_2}Hot Chocolate price:
-STR_2105    :{WINDOW_COLOUR_2}Iced Tea price:
-STR_2106    :{WINDOW_COLOUR_2}Funnel Cake price:
-STR_2107    :{WINDOW_COLOUR_2}Sunglasses price:
-STR_2108    :{WINDOW_COLOUR_2}Beef Noodles price:
-STR_2109    :{WINDOW_COLOUR_2}Fried Rice Noodles price:
-STR_2110    :{WINDOW_COLOUR_2}Wonton Soup price:
-STR_2111    :{WINDOW_COLOUR_2}Meatball Soup price:
-STR_2112    :{WINDOW_COLOUR_2}Fruit Juice price:
-STR_2113    :{WINDOW_COLOUR_2}Soybean Milk price:
-STR_2114    :{WINDOW_COLOUR_2}Sujongkwa price:
-STR_2115    :{WINDOW_COLOUR_2}Sub Sandwich price:
-STR_2116    :{WINDOW_COLOUR_2}Cookie price:
+STR_2093    :甜甜圈
+STR_2094    :咖啡
+STR_2095    :空杯子
+STR_2096    :炸雞
+STR_2097    :檸檬水
+STR_2098    :空盒子
+STR_2099    :空瓶子
+STR_2100    :{WINDOW_COLOUR_2}即時照片價格:
+STR_2101    :{WINDOW_COLOUR_2}即時照片價格:
+STR_2102    :{WINDOW_COLOUR_2}即時照片價格:
+STR_2103    :{WINDOW_COLOUR_2}椒鹽卷餅價格:
+STR_2104    :{WINDOW_COLOUR_2}熱巧克力價格:
+STR_2105    :{WINDOW_COLOUR_2}冰紅茶價格:
+STR_2106    :{WINDOW_COLOUR_2}漏斗蛋糕價格:
+STR_2107    :{WINDOW_COLOUR_2}太陽眼鏡價格:
+STR_2108    :{WINDOW_COLOUR_2}牛肉麵價格:
+STR_2109    :{WINDOW_COLOUR_2}炒米粉價格:
+STR_2110    :{WINDOW_COLOUR_2}湯雲吞價格:
+STR_2111    :{WINDOW_COLOUR_2}肉丸湯價格:
+STR_2112    :{WINDOW_COLOUR_2}果汁價格:
+STR_2113    :{WINDOW_COLOUR_2}豆漿價格:
+STR_2114    :{WINDOW_COLOUR_2}水正果價格:
+STR_2115    :{WINDOW_COLOUR_2}潛艇三文治價格:
+STR_2116    :{WINDOW_COLOUR_2}曲奇價格:
 STR_2117    :{WINDOW_COLOUR_2}
 STR_2118    :{WINDOW_COLOUR_2}
 STR_2119    :{WINDOW_COLOUR_2}
-STR_2120    :{WINDOW_COLOUR_2}Roast Sausage price:
+STR_2120    :{WINDOW_COLOUR_2}烤香腸價格:
 STR_2121    :{WINDOW_COLOUR_2}
-STR_2122    :On-Ride Photo
-STR_2123    :On-Ride Photo
-STR_2124    :On-Ride Photo
-STR_2125    :Pretzel
-STR_2126    :Hot Chocolate
-STR_2127    :Iced Tea
-STR_2128    :Funnel Cake
-STR_2129    :Sunglasses
-STR_2130    :Beef Noodles
-STR_2131    :Fried Rice Noodles
-STR_2132    :Wonton Soup
-STR_2133    :Meatball Soup
-STR_2134    :Fruit Juice
-STR_2135    :Soybean Milk
-STR_2136    :Sujongkwa
-STR_2137    :Sub Sandwich
-STR_2138    :Cookie
-STR_2139    :Empty Bowl
-STR_2140    :Empty Drink Carton
-STR_2141    :Empty Juice Cup
-STR_2142    :Roast Sausage
-STR_2143    :Empty Bowl
-STR_2144    :On-Ride Photos
-STR_2145    :On-Ride Photos
-STR_2146    :On-Ride Photos
-STR_2147    :Pretzels
-STR_2148    :Hot Chocolates
-STR_2149    :Iced Teas
-STR_2150    :Funnel Cakes
-STR_2151    :Sunglasses
-STR_2152    :Beef Noodles
-STR_2153    :Fried Rice Noodles
-STR_2154    :Wonton Soups
-STR_2155    :Meatball Soups
-STR_2156    :Fruit Juices
-STR_2157    :Soybean Milks
-STR_2158    :Sujongkwa
-STR_2159    :Sub Sandwiches
-STR_2160    :Cookies
-STR_2161    :Empty Bowls
-STR_2162    :Empty Drink Cartons
-STR_2163    :Empty Juice cups
-STR_2164    :Roast Sausages
-STR_2165    :Empty Bowls
-STR_2166    :an On-Ride Photo
-STR_2167    :an On-Ride Photo
-STR_2168    :an On-Ride Photo
-STR_2169    :a Pretzel
-STR_2170    :a Hot Chocolate
-STR_2171    :an Iced Tea
-STR_2172    :a Funnel Cake
-STR_2173    :a pair of Sunglasses
-STR_2174    :some Beef Noodles
-STR_2175    :some Fried Rice Noodles
-STR_2176    :some Wonton Soup
-STR_2177    :some Meatball Soup
-STR_2178    :a Fruit Juice
-STR_2179    :some Soybean Milk
-STR_2180    :some Sujongkwa
-STR_2181    :a Sub Sandwich
-STR_2182    :a Cookie
-STR_2183    :an Empty Bowl
-STR_2184    :an Empty Drink Carton
-STR_2185    :an Empty Juice Cup
-STR_2186    :a Roast Sausage
-STR_2187    :an Empty Bowl
-STR_2188    :On-Ride Photo of {STRINGID}
-STR_2189    :On-Ride Photo of {STRINGID}
-STR_2190    :On-Ride Photo of {STRINGID}
-STR_2191    :Pretzel
-STR_2192    :Hot Chocolate
-STR_2193    :Iced Tea
-STR_2194    :Funnel Cake
-STR_2195    :Sunglasses
-STR_2196    :Beef Noodles
-STR_2197    :Fried Rice Noodles
-STR_2198    :Wonton Soup
-STR_2199    :Meatball Soup
-STR_2200    :Fruit Juice
-STR_2201    :Soybean Milk
-STR_2202    :Sujongkwa
-STR_2203    :Sub Sandwich
-STR_2204    :Cookie
-STR_2205    :Empty Bowl
-STR_2206    :Empty Drink Carton
-STR_2207    :Empty Juice Cup
-STR_2208    :Roast Sausage
-STR_2209    :Empty Bowl
-STR_2210    :{SMALLFONT}{BLACK}Show list of handymen in park
-STR_2211    :{SMALLFONT}{BLACK}Show list of mechanics in park
-STR_2212    :{SMALLFONT}{BLACK}Show list of security guards in park
-STR_2213    :{SMALLFONT}{BLACK}Show list of entertainers in park
-STR_2214    :Construction not possible while game is paused!
+STR_2122    :即時照片
+STR_2123    :即時照片
+STR_2124    :即時照片
+STR_2125    :椒鹽卷餅
+STR_2126    :熱巧克力
+STR_2127    :冰紅茶
+STR_2128    :漏斗蛋糕
+STR_2129    :太陽眼鏡
+STR_2130    :牛肉麵
+STR_2131    :炒米粉
+STR_2132    :湯雲吞
+STR_2133    :肉丸湯
+STR_2134    :果汁
+STR_2135    :豆漿
+STR_2136    :水正果
+STR_2137    :潛艇三文治
+STR_2138    :曲奇
+STR_2139    :空碗子
+STR_2140    :空的飲品紙包裝
+STR_2141    :空果汁杯子
+STR_2142    :烤香腸
+STR_2143    :空碗子
+STR_2144    :即時照片
+STR_2145    :即時照片
+STR_2146    :即時照片
+STR_2147    :椒鹽卷餅
+STR_2148    :熱巧克力
+STR_2149    :冰紅茶
+STR_2150    :漏斗蛋糕
+STR_2151    :太陽眼鏡
+STR_2152    :牛肉麵
+STR_2153    :炒米粉
+STR_2154    :湯雲吞
+STR_2155    :肉丸湯
+STR_2156    :果汁
+STR_2157    :豆漿
+STR_2158    :水正果
+STR_2159    :潛艇三文治
+STR_2160    :曲奇
+STR_2161    :空碗子
+STR_2162    :空的飲品紙包裝
+STR_2163    :空果汁杯子
+STR_2164    :烤香腸
+STR_2165    :空碗子
+STR_2166    :一張即時照片
+STR_2167    :一張即時照片
+STR_2168    :一張即時照片
+STR_2169    :一件椒鹽卷餅
+STR_2170    :一杯熱巧克力
+STR_2171    :一杯冰紅茶
+STR_2172    :一個漏斗蛋糕
+STR_2173    :一副太陽眼鏡
+STR_2174    :一份牛肉麵
+STR_2175    :一份炒米粉
+STR_2176    :一客湯雲吞
+STR_2177    :一客肉丸湯
+STR_2178    :一杯果汁
+STR_2179    :一杯豆漿
+STR_2180    :一杯水正果
+STR_2181    :一件潛艇三文治
+STR_2182    :一件曲奇
+STR_2183    :一個空碗子
+STR_2184    :一盒空的飲品紙包裝
+STR_2185    :一個空果汁杯子
+STR_2186    :一條烤香腸
+STR_2187    :一個空碗子
+STR_2188    :{STRINGID}的即時照片
+STR_2189    :{STRINGID}的即時照片
+STR_2190    :{STRINGID}的即時照片
+STR_2191    :椒鹽卷餅
+STR_2192    :熱巧克力
+STR_2193    :冰紅茶
+STR_2194    :漏斗蛋糕
+STR_2195    :太陽眼鏡
+STR_2196    :牛肉麵
+STR_2197    :炒米粉
+STR_2198    :湯雲吞
+STR_2199    :肉丸湯
+STR_2200    :果汁
+STR_2201    :豆漿
+STR_2202    :水正果
+STR_2203    :潛艇三文治
+STR_2204    :曲奇
+STR_2205    :空碗子
+STR_2206    :空的飲品紙包裝
+STR_2207    :空果汁杯子
+STR_2208    :烤香腸
+STR_2209    :空碗子
+STR_2210    :{SMALLFONT}{BLACK}列出樂園內的清潔工人
+STR_2211    :{SMALLFONT}{BLACK}列出樂園內的維修人員
+STR_2212    :{SMALLFONT}{BLACK}列出樂園內的安全警衛
+STR_2213    :{SMALLFONT}{BLACK}列出樂園內的表演人員
+STR_2214    :遊戲暫停時無法建造任何物件!
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}C
 STR_2217    :{WINDOW_COLOUR_2}{COMMA16}F
-STR_2218    :{RED}{STRINGID} on {STRINGID} hasn't returned to the {STRINGID} yet!{NEWLINE}Check whether it is stuck or has stalled
-STR_2219    :{RED}{COMMA16} people have died in an accident on {STRINGID}
-STR_2220    :{WINDOW_COLOUR_2}Park Rating: {BLACK}{COMMA16}
-STR_2221    :{SMALLFONT}{BLACK}Park Rating: {COMMA16}
+STR_2218    :{RED}{STRINGID}, {STRINGID}的一部份, 尚未返回到{STRINGID}!{NEWLINE}檢查是否被卡住或停止了
+STR_2219    :{RED}{COMMA16}人已喪生於{STRINGID}的意外中
+STR_2220    :{WINDOW_COLOUR_2}樂園評價: {BLACK}{COMMA16}
+STR_2221    :{SMALLFONT}{BLACK}樂園評價: {COMMA16}
 STR_2222    :{SMALLFONT}{BLACK}{STRINGID}
-STR_2223    :{WINDOW_COLOUR_2}Guests in park: {BLACK}{COMMA16}
-STR_2224    :{WINDOW_COLOUR_2}Cash: {BLACK}{CURRENCY2DP}
-STR_2225    :{WINDOW_COLOUR_2}Cash: {RED}{CURRENCY2DP}
-STR_2226    :{WINDOW_COLOUR_2}Park value: {BLACK}{CURRENCY}
-STR_2227    :{WINDOW_COLOUR_2}Company value: {BLACK}{CURRENCY}
-STR_2228    :{WINDOW_COLOUR_2}Last month's profit from food/drink and{NEWLINE}merchandise sales: {BLACK}{CURRENCY}
-STR_2229    :Slope up to vertical
-STR_2230    :Vertical track
-STR_2231    :Holding brake for drop
-STR_2232    :Cable lift hill
+STR_2223    :{WINDOW_COLOUR_2}園內遊客: {BLACK}{COMMA16}
+STR_2224    :{WINDOW_COLOUR_2}現金: {BLACK}{CURRENCY2DP}
+STR_2225    :{WINDOW_COLOUR_2}現金: {RED}{CURRENCY2DP}
+STR_2226    :{WINDOW_COLOUR_2}樂園價值: {BLACK}{CURRENCY}
+STR_2227    :{WINDOW_COLOUR_2}公司價值: {BLACK}{CURRENCY}
+STR_2228    :{WINDOW_COLOUR_2}上個月來自食物/飲料以及{NEWLINE}其他商品的銷售額: {BLACK}{CURRENCY}
+STR_2229    :上坡到垂直的過渡軌道
+STR_2230    :垂直軌道
+STR_2231    :下落煞車裝置
+STR_2232    :纜索坡道
 STR_2233    :{SMALLFONT}{BLACK}樂園資料
 STR_2234    :最近訊息
 STR_2235    :{SMALLFONT}{STRINGID} {STRINGID}
