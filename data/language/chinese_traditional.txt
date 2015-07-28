@@ -3242,48 +3242,48 @@ STR_3231    :Block Brakes cannot be used directly after the top of this lift hil
 STR_3232    :選項 - 財政
 STR_3233    :選項 - 遊客
 STR_3234    :選項 - 樂園
-STR_3235    :{SMALLFONT}{BLACK}Show financial options
-STR_3236    :{SMALLFONT}{BLACK}Show guest options
-STR_3237    :{SMALLFONT}{BLACK}Show park options
-STR_3238    :No Money
-STR_3239    :{SMALLFONT}{BLACK}Make this park a 'no money' park with no financial restrictions
-STR_3240    :{WINDOW_COLOUR_2}Initial cash:
-STR_3241    :{WINDOW_COLOUR_2}Initial loan:
-STR_3242    :{WINDOW_COLOUR_2}Maximum loan size:
-STR_3243    :{WINDOW_COLOUR_2}Annual interest rate:
-STR_3244    :Forbid marketing campaigns
-STR_3245    :{SMALLFONT}{BLACK}Forbid advertising, promotional schemes, and other marketing campaigns
+STR_3235    :{SMALLFONT}{BLACK}顯示財政選項
+STR_3236    :{SMALLFONT}{BLACK}顯示遊客選項
+STR_3237    :{SMALLFONT}{BLACK}顯示樂園選項
+STR_3238    :無金錢限制
+STR_3239    :{SMALLFONT}{BLACK}將這個樂園設定為無金錢限制的樂園
+STR_3240    :{WINDOW_COLOUR_2}初始現金:
+STR_3241    :{WINDOW_COLOUR_2}初始貸款額:
+STR_3242    :{WINDOW_COLOUR_2}最高貸款額:
+STR_3243    :{WINDOW_COLOUR_2}貸款年利率:
+STR_3244    :禁止營銷計劃
+STR_3245    :{SMALLFONT}{BLACK}禁止推銷, 推廣計劃以及其他營銷計劃
 STR_3246    :{WINDOW_COLOUR_2}{CURRENCY}
 STR_3247    :{WINDOW_COLOUR_2}{COMMA16}%
-STR_3248    :Can't increase initial cash any further!
-STR_3249    :Can't reduce initial cash any further!
-STR_3250    :Can't increase initial loan any further!
-STR_3251    :Can't reduce initial loan any further!
-STR_3252    :Can't increase maximum loan size any further!
-STR_3253    :Can't reduce maximum loan size any further!
-STR_3254    :Can't increase interest rate any further!
-STR_3255    :Can't reduce interest rate any further!
-STR_3256    :Guests prefer less intense rides
-STR_3257    :{SMALLFONT}{BLACK}Select whether guests should generally prefer less intense rides only
-STR_3258    :Guests prefer more intense rides
-STR_3259    :{SMALLFONT}{BLACK}Select whether guests should generally prefer more intense rides only
-STR_3260    :{WINDOW_COLOUR_2}Cash per guest (average):
-STR_3261    :{WINDOW_COLOUR_2}Guests initial happiness:
-STR_3262    :{WINDOW_COLOUR_2}Guests initial hunger:
-STR_3263    :{WINDOW_COLOUR_2}Guests initial thirst:
-STR_3264    :Can't increase this any further!
-STR_3265    :Can't reduce this any further!
-STR_3266    :{SMALLFONT}{BLACK}Select how this park charges for entrance and rides
-STR_3267    :Forbid tree removal
-STR_3268    :{SMALLFONT}{BLACK}Forbid tall trees being removed
-STR_3269    :Forbid landscape changes
-STR_3270    :{SMALLFONT}{BLACK}Forbid any changes to the landscape
-STR_3271    :Forbid high construction
-STR_3272    :{SMALLFONT}{BLACK}Forbid any tall construction
-STR_3273    :Park rating higher difficult level
-STR_3274    :{SMALLFONT}{BLACK}Make the park rating value more challenging
-STR_3275    :Guest generation higher difficult level
-STR_3276    :{SMALLFONT}{BLACK}Make it more difficult to attract guests to the park
+STR_3248    :不能再增加初始現金!
+STR_3249    :不能再減少初始現金!
+STR_3250    :不能再增加初始貸款額!
+STR_3251    :不能再減少初始貸款額!
+STR_3252    :不能再增加最高貸款額!
+STR_3253    :不能再減少最高貸款額!
+STR_3254    :不能再增加貸款利率!
+STR_3255    :不能再減少貸款利率!
+STR_3256    :遊客喜歡較溫和的遊樂設施
+STR_3257    :{SMALLFONT}{BLACK}選擇普遍遊客是否只喜歡較溫和的遊樂設施
+STR_3258    :遊客喜歡較刺激的遊樂設施
+STR_3259    :{SMALLFONT}{BLACK}選擇普遍遊客是否只喜歡較刺激的遊樂設施
+STR_3260    :{WINDOW_COLOUR_2}遊客身上現金 (平均值):
+STR_3261    :{WINDOW_COLOUR_2}遊客初始快樂度:
+STR_3262    :{WINDOW_COLOUR_2}遊客初始飢餓度:
+STR_3263    :{WINDOW_COLOUR_2}遊客初始口渴度:
+STR_3264    :不能再增加這個選項!
+STR_3265    :不能再減少這個選項!
+STR_3266    :{SMALLFONT}{BLACK}選擇這個樂園的收費策略
+STR_3267    :禁止移除樹木
+STR_3268    :{SMALLFONT}{BLACK}禁止移除高壯的樹木
+STR_3269    :禁止調整地型
+STR_3270    :{SMALLFONT}{BLACK}禁止對地型作任何調整
+STR_3271    :禁止高空建造
+STR_3272    :{SMALLFONT}{BLACK}禁止任何高空發展
+STR_3273    :較高難度的樂園評價公式
+STR_3274    :{SMALLFONT}{BLACK}使增加樂園評價更加有挑戰性
+STR_3275    :較難生成遊客
+STR_3276    :{SMALLFONT}{BLACK}使吸引遊客更加有挑戰性
 STR_3277    :{WINDOW_COLOUR_2}購買土地的費用:
 STR_3278    :{WINDOW_COLOUR_2}購買建造權利的費用:
 STR_3279    :免費進入樂園 / 需費乘搭遊樂設施
@@ -3325,23 +3325,23 @@ STR_3314    :請輸入這個劇情的名稱:
 STR_3315    :樂園/劇情的簡介
 STR_3316    :請輸入這個樂園/劇情的簡介:
 STR_3317    :暫無簡介
-STR_3318    :{SMALLFONT}{BLACK}Select which group this scenario appears in
-STR_3319    :{WINDOW_COLOUR_2}Scenario Group:
-STR_3320    :Unable to save scenario file...
-STR_3321    :New objects installed successfully
-STR_3322    :{WINDOW_COLOUR_2}Objective: {BLACK}{STRINGID}
-STR_3323    :Missing object data, ID: 
-STR_3324    :Requires Add-On Pack: 
-STR_3325    :Requires an Add-On Pack
-STR_3326    :{WINDOW_COLOUR_2}(no image)
-STR_3327    :Starting positions for people not set
-STR_3328    :Can't advance to next editor stage...
-STR_3329    :Park entrance not yet built
-STR_3330    :Park must own some land
-STR_3331    :Path from park entrance to map edge either not complete or too complex - Path must be single-width with as few junctions and corners as possible
-STR_3332    :Park entrance is the wrong way round or has no path leading to the map edge
-STR_3333    :Export plug-in objects with saved games
-STR_3334    :{SMALLFONT}{BLACK}Select whether to save any additional plug-in object data required (add-in data not supplied with the main product) in saved game or scenario files, allowing them to be loaded by someone who doesn't have the additional object data
+STR_3318    :{SMALLFONT}{BLACK}選擇這個劇情要在哪個組別中顯示
+STR_3319    :{WINDOW_COLOUR_2}劇情組別:
+STR_3320    :無法儲存劇情檔案...
+STR_3321    :成功安裝新物件
+STR_3322    :{WINDOW_COLOUR_2}目標: {BLACK}{STRINGID}
+STR_3323    :缺少物件資料, ID為: 
+STR_3324    :需要資料片: 
+STR_3325    :需要一隻資料片
+STR_3326    :{WINDOW_COLOUR_2}(暫無圖片)
+STR_3327    :尚未設定遊客的開始步行位置
+STR_3328    :不能進行下一步編輯...
+STR_3329    :尚未建造樂園入口
+STR_3330    :樂園必需有一些己擁有的土地
+STR_3331    :由地圖邊緣到樂園入口的道路尚未連接好, 或者太覆雜 - 這些道路必需是一格寬度, 並以越少交界及彎位越好
+STR_3332    :樂園入口倒轉了, 或沒有道路連接至地圖邊緣
+STR_3333    :在存檔中導出附加物件
+STR_3334    :{SMALLFONT}{BLACK}選擇是否儲存附加物件(額外加入的附加物件)到存檔, 以便存檔給沒有那些附加物件的人載入
 STR_3335    :雲霄飛車設計工具 - 選擇要設計的雲霄飛車的類型及車輛種類
 STR_3336    :軌道設計管理工具 - 選擇要管理的遊樂設施的類型
 STR_3337    :六旗樂園
@@ -3559,43 +3559,43 @@ STR_5219    :選項
 STR_5220    :鍵盤快捷鍵
 STR_5221    :更改鍵盤快捷鍵
 STR_5222    :載入/儲存
-STR_5223    :Save Prompt
-STR_5224    :Demolish Ride Prompt
-STR_5225    :Fire Staff Prompt
-STR_5226    :Track Delete Prompt
-STR_5227    :Save Overwrite Prompt
-STR_5228    :{SMALLFONT}{BLACK}Main UI
-STR_5229    :{SMALLFONT}{BLACK}Park
-STR_5230    :{SMALLFONT}{BLACK}Tools
-STR_5231    :{SMALLFONT}{BLACK}Rides and Peeps
-STR_5232    :{SMALLFONT}{BLACK}Editors
-STR_5233    :{SMALLFONT}{BLACK}Miscellaneous
-STR_5234    :{SMALLFONT}{BLACK}Prompts
-STR_5235    :{SMALLFONT}{BLACK}Settings
-STR_5236    :Window:
-STR_5237    :Palette:
+STR_5223    :儲存對話框
+STR_5224    :拆除遊樂設施對話框
+STR_5225    :解僱員工對話框
+STR_5226    :刪除軌道設計對話框
+STR_5227    :覆蓋存檔對話框
+STR_5228    :{SMALLFONT}{BLACK}主界面
+STR_5229    :{SMALLFONT}{BLACK}樂園
+STR_5230    :{SMALLFONT}{BLACK}工具
+STR_5231    :{SMALLFONT}{BLACK}遊樂設施及遊客
+STR_5232    :{SMALLFONT}{BLACK}編輯工具
+STR_5233    :{SMALLFONT}{BLACK}其他
+STR_5234    :{SMALLFONT}{BLACK}彈出視窗
+STR_5235    :{SMALLFONT}{BLACK}設定
+STR_5236    :主題:
+STR_5237    :調色盤:
 STR_5238    :目前主題:
-STR_5239    :Duplicate
-STR_5240    :Enter a name for the theme
-STR_5241    :Can't change this theme
-STR_5242    :Theme name already exists
-STR_5243    :Invalid characters used
-STR_5244    :Themes
-STR_5245    :Top Toolbar
-STR_5246    :Bottom Toolbar
-STR_5247    :Track Editor Bottom Toolbar
-STR_5248    :Scenario Editor Bottom Toolbar
-STR_5249    :Title Menu Buttons
-STR_5250    :Title Exit Button
-STR_5251    :Title Options Button
-STR_5252    :Title Scenario Selection
-STR_5253    :Park Information
-STR_5254    :Create
-STR_5255    :{SMALLFONT}{BLACK}Create a new title sequence from scratch
-STR_5256    :Create a new theme to make changes to
-STR_5257    :{SMALLFONT}{BLACK}Create a new theme based on the current one
-STR_5258    :{SMALLFONT}{BLACK}Delete the current theme
-STR_5259    :{SMALLFONT}{BLACK}Rename the current theme
+STR_5239    :複製
+STR_5240    :請輸入這個主題的名稱
+STR_5241    :不能改變這個主題
+STR_5242    :主題名稱已經存在
+STR_5243    :使用了不適合的字符
+STR_5244    :主題
+STR_5245    :頂部工具列
+STR_5246    :底部工具列
+STR_5247    :雲霄飛車設計工具的底部工具列
+STR_5248    :劇情編輯工具的底部工具列
+STR_5249    :主選單的選單按鈕
+STR_5250    :主選單的'離開遊戲'按鈕
+STR_5251    :主選單的'選項'按鈕
+STR_5252    :主選單的'劇情選擇'視窗
+STR_5253    :樂園資訊
+STR_5254    :建立
+STR_5255    :{SMALLFONT}{BLACK}建立全新的主選單動畫
+STR_5256    :建立新的主題, 並作出更改
+STR_5257    :{SMALLFONT}{BLACK}以這個主題作為基礎, 建立新的主題
+STR_5258    :{SMALLFONT}{BLACK}刪除這個主題
+STR_5259    :{SMALLFONT}{BLACK}重命名這個主題
 STR_5260    :巨型截圖
 STR_5261    :過濾
 STR_5262    :瘋狂世界 (WW)
@@ -3713,36 +3713,36 @@ STR_5373    :名稱 {STRINGID}
 STR_5374    :日期 {STRINGID}
 STR_5375    :{UP}
 STR_5376    :{DOWN}
-STR_5377    :{SMALLFONT}{BLACK}Saves
-STR_5378    :{SMALLFONT}{BLACK}Script
-STR_5379    :{SMALLFONT}{BLACK}Skip to next wait command
-STR_5380    :{SMALLFONT}{BLACK}Start playing title sequence
-STR_5381    :{SMALLFONT}{BLACK}Stop playing title sequence
-STR_5382    :{SMALLFONT}{BLACK}Restart title sequence
-STR_5383    :{SMALLFONT}{BLACK}Create a new title sequence based on the current one
-STR_5384    :{SMALLFONT}{BLACK}Delete the current title sequence
-STR_5385    :{SMALLFONT}{BLACK}Rename the current title sequence
-STR_5386    :{SMALLFONT}{BLACK}Insert a new command
-STR_5387    :{SMALLFONT}{BLACK}Edit the selected command
-STR_5388    :{SMALLFONT}{BLACK}Delete the selected command
-STR_5389    :{SMALLFONT}{BLACK}Skip to the selected command in the title sequence
-STR_5390    :{SMALLFONT}{BLACK}Move the selected command down
-STR_5391    :{SMALLFONT}{BLACK}Move the selected command up
-STR_5392    :{SMALLFONT}{BLACK}Add a save to the title sequence
-STR_5393    :{SMALLFONT}{BLACK}Remove the selected save from the title sequence
-STR_5394    :{SMALLFONT}{BLACK}Rename the selected save
-STR_5395    :{SMALLFONT}{BLACK}Load the selected save in game
-STR_5396    :{SMALLFONT}{BLACK}Reload the title sequence if changes have been made to it outside of the game
-STR_5397    :Can only be used on the title screen
-STR_5398    :Cannot edit title sequence while it's playing
-STR_5399    :Press the stop button to continue editing
-STR_5400    :Can't change this title sequence
-STR_5401    :Create a new title sequence to make changes to
-STR_5402    :Failed to load title sequence
-STR_5403    :There may be no Load or Wait command or a save may be invalid
-STR_5404    :Name already exists
-STR_5405    :Enter a name for the save
-STR_5406    :Enter a name for the title sequence
+STR_5377    :{SMALLFONT}{BLACK}儲存
+STR_5378    :{SMALLFONT}{BLACK}主選單動畫劇本
+STR_5379    :{SMALLFONT}{BLACK}跳至下一個等待(Wait)命令
+STR_5380    :{SMALLFONT}{BLACK}開始播放此選單動畫
+STR_5381    :{SMALLFONT}{BLACK}停止播放此主選單動畫
+STR_5382    :{SMALLFONT}{BLACK}重新開始播放此主選單動畫
+STR_5383    :{SMALLFONT}{BLACK}以這個主選單動畫作為基礎, 建立新的主選單動畫
+STR_5384    :{SMALLFONT}{BLACK}刪除這個主選單動畫
+STR_5385    :{SMALLFONT}{BLACK}重命名這個主選單動畫
+STR_5386    :{SMALLFONT}{BLACK}插入新的命令
+STR_5387    :{SMALLFONT}{BLACK}編輯選中的命令
+STR_5388    :{SMALLFONT}{BLACK}刪除選中的命令
+STR_5389    :{SMALLFONT}{BLACK}將播放中的主選單動畫跳至選中的命令
+STR_5390    :{SMALLFONT}{BLACK}將選中的命令移到下方
+STR_5391    :{SMALLFONT}{BLACK}將選中的命令移到上方
+STR_5392    :{SMALLFONT}{BLACK}添加存檔到此主選單動畫
+STR_5393    :{SMALLFONT}{BLACK}從此主選單動畫中移除選中的存檔
+STR_5394    :{SMALLFONT}{BLACK}重命名選中的存檔
+STR_5395    :{SMALLFONT}{BLACK}載入選中的存檔
+STR_5396    :{SMALLFONT}{BLACK}重新載入此主選單動畫劇本, 以便顯示在遊戲外作出的改變
+STR_5397    :只可以用於主選單中
+STR_5398    :不能在主選單動畫時編輯其劇本
+STR_5399    :按'暫停'按鈕繼續編輯
+STR_5400    :不能更改此主選單動畫
+STR_5401    :建立新的主選單動畫, 並作出更改
+STR_5402    :載入主選單動畫失敗
+STR_5403    :非法的存檔或沒有'Load'或'Wait'指令
+STR_5404    :名稱已經存在
+STR_5405    :請輸入存檔名稱
+STR_5406    :請輸入主選單動畫存檔名稱
 STR_5407    :增加
 STR_5408    :移除
 STR_5409    :插入
@@ -3763,21 +3763,21 @@ STR_5423    :Wait
 STR_5424    :Wait{MOVE_X}{87}{COMMA16}
 STR_5425    :Restart
 STR_5426    :End
-STR_5427    :Coordinates:
-STR_5428    :Anticlockwise rotations:
-STR_5429    :Zoom level:
-STR_5430    :Seconds to wait:
-STR_5431    :Save to load:
-STR_5432    :Command:
-STR_5433    :Title Sequences
-STR_5434    :Command Editor
-STR_5435    :Rename save
-STR_5436    :Edit Title Sequences...
-STR_5437    :No save selected
-STR_5438    :Can't make changes while command editor is open
-STR_5439    :A wait command with at least 4 seconds is required with a restart command
-STR_5440    :Minimise fullscreen on focus loss
-STR_5441    :{SMALLFONT}{BLACK}Identifies rides by track type,{NEWLINE}so vehicles can be changed{NEWLINE}afterwards, like in RCT1.
+STR_5427    :座標:
+STR_5428    :逆時計轉動次數:
+STR_5429    :放大等級:
+STR_5430    :等待秒數:
+STR_5431    :要載入的存檔:
+STR_5432    :命令:
+STR_5433    :主選單動畫
+STR_5434    :命令編輯工具
+STR_5435    :重命名存檔
+STR_5436    :修改主選單動畫...
+STR_5437    :暫無存檔被選中
+STR_5438    :當命令編輯工具開啟不能作出改變
+STR_5439    :4秒以上的等待(Wait)命令需要加上重新開始(Restart)命令
+STR_5440    :當焦點失去時最小化全螢幕的遊戲
+STR_5441    :{SMALLFONT}{BLACK}以軌道類別分別遊樂設施,{NEWLINE}令到車輔風格可以在建造後更改,(RCT1){NEWLINE}就像夢幻遊樂園1一樣.
 STR_5442    :固定樂園評價:
 STR_5443    :速度{MOVE_X}{87}{STRINGID}
 STR_5444    :速度:
