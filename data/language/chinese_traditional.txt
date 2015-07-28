@@ -1017,8 +1017,8 @@ STR_1011    :關閉所有遊樂設施
 STR_1012    :開啟所有遊樂設施
 STR_1013    :關閉樂園
 STR_1014    :開放樂園
-STR_1015    :Unable to operate with more than one station platform in this mode
-STR_1016    :Unable to operate with less than two stations in this mode
+STR_1015    :在這個模式下, 多過一個車站的遊樂設施將無法運作
+STR_1016    :在這個模式下, 少於兩個車站的遊樂設施將無法運作
 STR_1017    :不能改變運行模式...
 STR_1018    :不能作出更變...
 STR_1019    :不能作出更變...
@@ -1794,12 +1794,12 @@ STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} 警長服裝
 STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} 海盜服裝
 STR_1790    :{SMALLFONT}{BLACK}選擇這種員工的制服顏色
 STR_1791    :{WINDOW_COLOUR_2}制服的顏色:
-STR_1792    :Responding to {STRINGID} breakdown call
-STR_1793    :Heading to {STRINGID} for an inspection
-STR_1794    :Fixing {STRINGID}
-STR_1795    :Answering radio call
-STR_1796    :Has broken down and requires fixing
-STR_1797    :This option cannot be changed for this ride
+STR_1792    :回應{STRINGID}的故障呼叫中
+STR_1793    :前往到{STRINGID}作出檢查中
+STR_1794    :修理{STRINGID}中
+STR_1795    :回應電台呼叫中
+STR_1796    :已經故障並需要修復
+STR_1797    :不能在這個遊樂設施中更改這個選項
 STR_1798    :漩渦
 STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1800    :保險裝置跳掣
@@ -2758,14 +2758,14 @@ STR_2749    :我的新劇情
 # New strings used in the cheats window previously these were ???
 STR_2750    :Move all items to top
 STR_2751    :Move all items to bottom
-STR_2752    :Clear grass
-STR_2753    :Mowed grass
-STR_2754    :Water plants
-STR_2755    :Fix vandalism
-STR_2756    :Remove litter
-STR_2757    :Force Sun
-STR_2758    :Force Thunder
-STR_2759    :Zero Clearance
+STR_2752    :無雜草的草地
+STR_2753    :除好草的草地
+STR_2754    :灌溉花圃
+STR_2755    :修復被毀壞的物件
+STR_2756    :移除垃圾
+STR_2757    :強制晴天
+STR_2758    :強制雷暴
+STR_2759    :無'擋在路中'檢查
 STR_2760    :+{CURRENCY}
 STR_2761    :<not used anymore>
 STR_2762    :<not used anymore>
