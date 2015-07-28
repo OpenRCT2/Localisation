@@ -2504,17 +2504,17 @@ STR_2496    :暫停遊戲
 STR_2497    :縮小檢視範圍
 STR_2498    :放大檢視範圍
 STR_2499    :順時針旋轉檢視範圍
-STR_2500    :Rotate construction object
-STR_2501    :Underground view toggle
-STR_2502    :Remove base land toggle
-STR_2503    :Remove vertical land toggle
-STR_2504    :See-through rides toggle
-STR_2505    :See-through scenery toggle
-STR_2506    :Invisible supports toggle
-STR_2507    :Invisible people toggle
-STR_2508    :Height marks on land toggle
-STR_2509    :Height marks on ride tracks toggle
-STR_2510    :Height marks on paths toggle
+STR_2500    :旋轉要建造的物件
+STR_2501    :開關地底檢視模式
+STR_2502    :開關’移除地表’選項
+STR_2503    :開關’移除垂直表面’選項
+STR_2504    :開關’略過遊樂設施’選項
+STR_2505    :開關’略過景物’選項
+STR_2506    :開關’透明化支撐’選項
+STR_2507    :開關’透明化遊客’選項
+STR_2508    :開關’在土地上標記高度’選項
+STR_2509    :開關’在設施軌道上標記高度’選項
+STR_2510    :開關’在道路上標記高度’選項
 STR_2511    :調整土地
 STR_2512    :調整水面
 STR_2513    :建造景物
@@ -2690,18 +2690,18 @@ STR_2681    :{MEDIUMFONT}{BLACK}增加{CURRENCY}到你的金錢裡
 STR_2682    :<not used anymore>
 STR_2683    :<not used anymore>
 STR_2684    :{SMALLFONT}{BLACK}一大群遊客到訪
-STR_2685    :Simplex Noise Parameters
-STR_2686    :{WINDOW_COLOUR_2}Low:
-STR_2687    :{WINDOW_COLOUR_2}High:
-STR_2688    :{WINDOW_COLOUR_2}Base Frequency:
-STR_2689    :{WINDOW_COLOUR_2}Octaves:
-STR_2690    :Map Generation
-STR_2691    :{WINDOW_COLOUR_2}Base height:
-STR_2692    :{WINDOW_COLOUR_2}Water level:
-STR_2693    :{WINDOW_COLOUR_2}Terrain:
-STR_2694    :Generate
-STR_2695    :Random terrain
-STR_2696    :Place trees
+STR_2685    :簡單雜噪參數
+STR_2686    :{WINDOW_COLOUR_2}最低值:
+STR_2687    :{WINDOW_COLOUR_2}最高值:
+STR_2688    :{WINDOW_COLOUR_2}基本頻律:
+STR_2689    :{WINDOW_COLOUR_2}八度:
+STR_2690    :生成地圖
+STR_2691    :{WINDOW_COLOUR_2}土地基本高度:
+STR_2692    :{WINDOW_COLOUR_2}水面高度:
+STR_2693    :{WINDOW_COLOUR_2}地質:
+STR_2694    :生成
+STR_2695    :隨機地質
+STR_2696    :放置樹木
 STR_2697    :???
 STR_2698    :???
 STR_2699    :???
@@ -2753,8 +2753,8 @@ STR_2744    :[
 STR_2745    :\
 STR_2746    :]
 STR_2747    :{ENDQUOTES}
-STR_2748    :Bar
-STR_2749    :My new scenario
+STR_2748    :列
+STR_2749    :我的新劇情
 # New strings used in the cheats window previously these were ???
 STR_2750    :Move all items to top
 STR_2751    :Move all items to bottom
@@ -2802,20 +2802,20 @@ STR_2791    :輸入名字
 STR_2792    :請輸入你要在劇情列表顯示的名字:
 STR_2793    :{SMALLFONT}(已由{STRINGID}完成)
 STR_2794    :{WINDOW_COLOUR_2}完成目標者: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} 令公司價值增至: {BLACK}{CURRENCY}
-STR_2795    :Sort
-STR_2796    :{SMALLFONT}{BLACK}Sort the ride list into order using the information type displayed
-STR_2797    :Scroll view when pointer at screen edge
-STR_2798    :{SMALLFONT}{BLACK}Select whether to scroll the view when the mouse pointer is at the screen edge
-STR_2799    :{SMALLFONT}{BLACK}View or change control key assignments
-STR_2800    :{WINDOW_COLOUR_2}Total admissions: {BLACK}{COMMA32}
-STR_2801    :{WINDOW_COLOUR_2}Income from admissions: {BLACK}{CURRENCY2DP}
+STR_2795    :排序
+STR_2796    :{SMALLFONT}{BLACK}將遊樂設施以不同類別列出
+STR_2797    :當滑鼠遊標放置於邊緣時, 捲動檢視範圍
+STR_2798    :{SMALLFONT}{BLACK}選擇到底當滑鼠游標放置於邊緣時, 捲動檢視範圍
+STR_2799    :{SMALLFONT}{BLACK}檢視或改變控制按鍵佈局
+STR_2800    :{WINDOW_COLOUR_2}總進園人數: {BLACK}{COMMA32}
+STR_2801    :{WINDOW_COLOUR_2}樂園門票所得收入: {BLACK}{CURRENCY2DP}
 STR_2802    :地圖
-STR_2803    :{SMALLFONT}{BLACK}Show these guests highlighted on map
-STR_2804    :{SMALLFONT}{BLACK}Show these staff members highlighted on map
-STR_2805    :{SMALLFONT}{BLACK}Show map of park
-STR_2806    :{RED}Guests are complaining about the disgusting state of the paths in your park{NEWLINE}Check where your handymen are and consider organizing them better
-STR_2807    :{RED}Guests are complaining about the amount of litter in your park{NEWLINE}Check where your handymen are and consider organizing them better
-STR_2808    :{RED}Guests are complaining about the vandalism in your park{NEWLINE}Check where your security guards are and consider organizing them better
+STR_2803    :{SMALLFONT}{BLACK}將這些遊客高亮顯示於地圖中
+STR_2804    :{SMALLFONT}{BLACK}將這些員工高亮顯示於地圖中
+STR_2805    :{SMALLFONT}{BLACK}顯示樂園地圖
+STR_2806    :{RED}遊客都在投訴樂園裡的道路十分骯髒{NEWLINE}請檢查你的清潔工人位置所在, 並考慮以更好的方法管理他們
+STR_2807    :{RED}遊客都在投訴樂園裡隨地拋棄的垃圾十分多{NEWLINE}請檢查你的清潔工人位置所在, 並考慮以更好的方法管理他們
+STR_2808    :{RED}遊客都在投訴樂園裡的公物被毀壞{NEWLINE}請檢查你的安全警衛位置所在, 並考慮以更好的方法管理他們
 STR_2809    :{RED}遊客都餓了, 但他們找不到賣食物的店舖
 STR_2810    :{RED}遊客都渴了, 但他們找不到賣飲料的店舖
 STR_2811    :{RED}因為遊客都找不到樂園裡有廁所, 所以他們抱怨了
