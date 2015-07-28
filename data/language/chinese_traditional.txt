@@ -1029,14 +1029,14 @@ STR_1023    :每列車{POP16}{POP16}{POP16}{COMMA16}車卡
 STR_1024    :每列車{COMMA16}車卡
 STR_1025    :每列車{COMMA16}車卡
 STR_1026    :車站月台太長!
-STR_1027    :{SMALLFONT}{BLACK}Locate this on Main View
-STR_1028    :Off edge of map!
-STR_1029    :Cannot build partly above and partly below water!
-STR_1030    :Can only build this underwater!
-STR_1031    :Can't build this underwater!
-STR_1032    :Can only build this on water!
-STR_1033    :Can only build this above ground!
-STR_1034    :Can only build this on land!
+STR_1027    :{SMALLFONT}{BLACK}在主視範圍裡將此定位
+STR_1028    :離開了地圖邊緣!
+STR_1029    :不能建造於一半地上一半水底的地勢中!
+STR_1030    :只能建造於水底!
+STR_1031    :不能建造於水底!
+STR_1032    :只能建造此於水上!
+STR_1033    :只能建造此於地上!
+STR_1034    :只能建造此於地面!
 STR_1035    :當地政府不允許建造高於樹木的物件!
 STR_1036    :載入遊戲
 STR_1037    :載入地型
@@ -1685,12 +1685,12 @@ STR_1679    :向上盤旋 (向左)
 STR_1680    :向上盤旋 (向右)
 STR_1681    :向下盤旋 (向左)
 STR_1682    :向下盤旋 (向右)
-STR_1683    :Base size 2 x 2
-STR_1684    :Base size 4 x 4
-STR_1685    :Base size 2 x 4
-STR_1686    :Base size 5 x 1
-STR_1687    :Water splash
-STR_1688    :Base size 4 x 1
+STR_1683    :2 x 2地基
+STR_1684    :4 x 4地基
+STR_1685    :2 x 4地基
+STR_1686    :5 x 1地基
+STR_1687    :水濺軌道
+STR_1688    :4 x 1地基
 STR_1689    :區域煞車裝置
 STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
 STR_1691    :{WINDOW_COLOUR_2}  費用: {BLACK}{CURRENCY}
