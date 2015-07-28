@@ -73,25 +73,25 @@ STR_0068    :Heartline Twister Coaster
 STR_0069    :迷你高爾夫
 STR_0070    :Giga Coaster
 STR_0071    :Roto-Drop
-STR_0072    :Flying Saucers
+STR_0072    :碰碰飛碟
 STR_0073    :古怪屋
-STR_0074    :Monorail Cycles
-STR_0075    :Compact Inverted Coaster
-STR_0076    :Water Coaster
+STR_0074    :單軌單車
+STR_0075    :緊湊的反轉式雲霄飛車
+STR_0076    :濺水式雲霄飛車
 STR_0077    :Air Powered Vertical Coaster
 STR_0078    :Inverted Hairpin Coaster
 STR_0079    :Magic Carpet
-STR_0080    :Submarine Ride
-STR_0081    :River Rafts
+STR_0080    :潛艇遊道
+STR_0081    :木筏河道
 STR_0082    :Unknown Ride (50)
-STR_0083    :Enterprise
+STR_0083    :太空摩天輪
 STR_0084    :Unknown Ride (52)
 STR_0085    :Unknown Ride (53)
 STR_0086    :Unknown Ride (54)
 STR_0087    :Unknown Ride (55)
 STR_0088    :Inverted Impulse Coaster
 STR_0089    :迷你雲霄飛車
-STR_0090    :Mine Ride
+STR_0090    :礦遊式雲霄飛車
 STR_0091    :Unknown Ride (59)
 STR_0092    :直線電動機發車雲霄飛車
 STR_0093    :
@@ -1077,22 +1077,22 @@ STR_1071    :一次付費無限次溜滑梯
 STR_1072    :迷宮模式
 STR_1073    :賽車模式
 STR_1074    :碰碰車模式
-STR_1075    :Swing 模式
+STR_1075    :搖擺模式
 STR_1076    :店面模式
 STR_1077    :旋轉模式
 STR_1078    :向前旋轉
 STR_1079    :向後旋轉
-STR_1080    :電影: {ENDQUOTES}Avenging aviators{ENDQUOTES}
-STR_1081    :3D電影: {ENDQUOTES}Mouse tails{ENDQUOTES}
+STR_1080    :電影: {ENDQUOTES}飛行師復仇行{ENDQUOTES}
+STR_1081    :3D電影: {ENDQUOTES}鼠尾擺擺擺{ENDQUOTES}
 STR_1082    :太空飛輪模式
-STR_1083    :Beginners 模式
-STR_1084    :LIM-powered launch
-STR_1085    :電影: {ENDQUOTES}Thrill riders{ENDQUOTES}
-STR_1086    :3D電影: {ENDQUOTES}Storm chasers{ENDQUOTES}
-STR_1087    :3D電影: {ENDQUOTES}Space raiders{ENDQUOTES}
-STR_1088    :Intense 模式
-STR_1089    :Berserk 模式
-STR_1090    :Haunted house 模式
+STR_1083    :初學者模式
+STR_1084    :直線電動機發車
+STR_1085    :電影: {ENDQUOTES}驚天乘客{ENDQUOTES}
+STR_1086    :3D電影: {ENDQUOTES}追風者{ENDQUOTES}
+STR_1087    :3D電影: {ENDQUOTES}太空海盜{ENDQUOTES}
+STR_1088    :剌激模式
+STR_1089    :狂暴模式
+STR_1090    :鬼屋模式
 STR_1091    :馬戲團表演模式
 STR_1092    :Downward launch
 STR_1093    :古怪屋模式
@@ -1693,12 +1693,12 @@ STR_1687    :Water splash
 STR_1688    :Base size 4 x 1
 STR_1689    :區域煞車裝置
 STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
-STR_1691    :{WINDOW_COLOUR_2}  Cost: {BLACK}{CURRENCY}
-STR_1692    :{WINDOW_COLOUR_2}  Cost: {BLACK}from {CURRENCY}
+STR_1691    :{WINDOW_COLOUR_2}  費用: {BLACK}{CURRENCY}
+STR_1692    :{WINDOW_COLOUR_2}  費用: {BLACK}{CURRENCY}起
 STR_1693    :{SMALLFONT}{BLACK}遊客
 STR_1694    :{SMALLFONT}{BLACK}員工
 STR_1695    :{SMALLFONT}{BLACK}收入和支出
-STR_1696    :{SMALLFONT}{BLACK}Customer information
+STR_1696    :{SMALLFONT}{BLACK}顧客資訊
 STR_1697    :不能在輪侯區放置此物件
 STR_1698    :只能在輪侯區放置此物件
 STR_1699    :遊戲中已有太多人物
@@ -1800,16 +1800,16 @@ STR_1794    :Fixing {STRINGID}
 STR_1795    :Answering radio call
 STR_1796    :Has broken down and requires fixing
 STR_1797    :This option cannot be changed for this ride
-STR_1798    :Whirlpool
+STR_1798    :漩渦
 STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
-STR_1800    :Safety cut-out
-STR_1801    :Restraints stuck closed
-STR_1802    :Restraints stuck open
-STR_1803    :Doors stuck closed
-STR_1804    :Doors stuck open
-STR_1805    :Vehicle malfunction
-STR_1806    :Brakes failure
-STR_1807    :Control failure
+STR_1800    :保險裝置跳掣
+STR_1801    :保護裝置卡住不能開啟
+STR_1802    :保護裝置卡住不能關閉
+STR_1803    :車門卡住不能開啟
+STR_1804    :車門卡住不能關閉
+STR_1805    :車輛失靈
+STR_1806    :煞車裝置故障
+STR_1807    :控制裝置故障
 STR_1808    :{WINDOW_COLOUR_2}上次故障原因: {BLACK}{STRINGID}
 STR_1809    :{WINDOW_COLOUR_2}今次故障原因: {OUTLINE}{RED}{STRINGID}
 STR_1810    :{WINDOW_COLOUR_2}攜帶中:
@@ -3076,8 +3076,8 @@ STR_3065    :挑戰級樂園
 STR_3066    :專家級樂園
 STR_3067    :{OPENQUOTES}真實{ENDQUOTES}樂園
 STR_3068    :其他樂園
-STR_3069    :Top Section
-STR_3070    :Slope to Level
+STR_3069    :最上的區域
+STR_3070    :斜坡至平面
 STR_3071    :{WINDOW_COLOUR_2}劃一樂園內的價格
 STR_3072    :{SMALLFONT}{BLACK}選擇是否以此價格為劃一價格
 STR_3073    :{RED}警告: 你的樂園評價已跌至低於700!{NEWLINE}如果你在4週內尚未改善樂園評價, 你的樂園將會被強制關閉
@@ -3102,18 +3102,18 @@ STR_3091    :你無法刪除此軌道!
 STR_3092    :你無法移動或修改這個遊樂設施的車站!
 STR_3093    :{WINDOW_COLOUR_2}最愛: {BLACK}{STRINGID}
 STR_3094    :N/A
-STR_3095    :{WINDOW_COLOUR_2}Lift hill chain speed:
+STR_3095    :{WINDOW_COLOUR_2}鏈條坡道的鏈條速度:
 STR_3096    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
-STR_3097    :{SMALLFONT}{BLACK}Select lift hill chain speed
-STR_3098    :Can't change lift hill speed...
-STR_3099    :{SMALLFONT}{BLACK}Select colour
-STR_3100    :{SMALLFONT}{BLACK}Select second colour
-STR_3101    :{SMALLFONT}{BLACK}Select third colour
-STR_3102    :{SMALLFONT}{BLACK}Re-paint coloured scenery on landscape
-STR_3103    :Can't re-paint this...
-STR_3104    :{SMALLFONT}{BLACK}List rides
-STR_3105    :{SMALLFONT}{BLACK}List shops and stalls
-STR_3106    :{SMALLFONT}{BLACK}List information kiosks and other guest facilities
+STR_3097    :{SMALLFONT}{BLACK}選擇鏈條坡道的鏈條上拉速度
+STR_3098    :不能更改鏈條坡道的鏈條速度...
+STR_3099    :{SMALLFONT}{BLACK}選擇顏色
+STR_3100    :{SMALLFONT}{BLACK}選擇第二顏色
+STR_3101    :{SMALLFONT}{BLACK}選擇第三顏色
+STR_3102    :{SMALLFONT}{BLACK}將地型的景物重新上色
+STR_3103    :不能重新上色這個物件...
+STR_3104    :{SMALLFONT}{BLACK}列出遊樂設施
+STR_3105    :{SMALLFONT}{BLACK}列出商店及攤販
+STR_3106    :{SMALLFONT}{BLACK}列出訪客資訊中心或其他遊客設施
 STR_3107    :關閉
 STR_3108    :測試
 STR_3109    :開啟
@@ -3124,14 +3124,14 @@ STR_3113    :選擇另一個設計
 STR_3114    :{SMALLFONT}{BLACK}返回選擇設計視窗
 STR_3115    :{SMALLFONT}{BLACK}儲存軌道設計
 STR_3116    :{SMALLFONT}{BLACK}儲存軌道設計 (在測試完結及測試資料生成完畢前不可用)
-STR_3117    :{BLACK}Calling mechanic...
-STR_3118    :{BLACK}{STRINGID} is heading for the ride
-STR_3119    :{BLACK}{STRINGID} is fixing the ride
-STR_3120    :{SMALLFONT}{BLACK}Locate nearest available mechanic, or mechanic fixing ride
-STR_3121    :Unable to locate mechanic, or all nearby mechanics are busy
-STR_3122    :{WINDOW_COLOUR_2}Favourite ride of: {BLACK}{COMMA16} guest
-STR_3123    :{WINDOW_COLOUR_2}Favourite ride of: {BLACK}{COMMA16} guests
-STR_3124    :Broken {STRINGID}
+STR_3117    :{BLACK}呼叫維修人員中...
+STR_3118    :{BLACK}{STRINGID}正在前往到這個遊樂設施
+STR_3119    :{BLACK}{STRINGID}正在修復這個遊樂設施
+STR_3120    :{SMALLFONT}{BLACK}將最鄰近, 或在維修此遊樂設施的維修人員定位
+STR_3121    :無法將維修人員定位, 或者附近的維修人員都在工作中
+STR_3122    :{WINDOW_COLOUR_2}遊客的最愛: {BLACK}{COMMA16}位遊客
+STR_3123    :{WINDOW_COLOUR_2}遊客的最愛: {BLACK}{COMMA16}位遊客
+STR_3124    :故障的{STRINGID}
 STR_3125    :{WINDOW_COLOUR_2}興奮度加成: {BLACK}+{COMMA16}%
 STR_3126    :{WINDOW_COLOUR_2}刺激度加成: {BLACK}+{COMMA16}%
 STR_3127    :{WINDOW_COLOUR_2}噁心度加成: {BLACK}+{COMMA16}%
@@ -3139,29 +3139,29 @@ STR_3128    :儲存軌道設計
 STR_3129    :儲存軌道設計及周邊景物
 STR_3130    :儲存
 STR_3131    :取消
-STR_3132    :{BLACK}Click items of scenery to select them to be saved with track design...
-STR_3133    :Unable to build this on a slope
-STR_3134    :{RED}(Design includes scenery which is unavailable)
-STR_3135    :{RED}(Vehicle design unavailable - Ride performance may be affected)
-STR_3136    :Warning: This design will be built with an alternative vehicle type and may not perform as expected
-STR_3137    :Select Nearby Scenery
-STR_3138    :Reset Selection
-STR_3139    :Cable lift unable to work in this operating mode
-STR_3140    :Cable lift hill must start immediately after station
-STR_3141    :Multi-circuit per ride not possible with cable lift hill
-STR_3142    :{WINDOW_COLOUR_2}Capacity: {BLACK}{STRINGID}
-STR_3143    :{SMALLFONT}{BLACK}Show people on map
-STR_3144    :{SMALLFONT}{BLACK}Show rides and stalls on map
-STR_3145    :{SMALLFONT}{BLACK}Scroll {STRINGID} left
-STR_3146    :{SMALLFONT}{BLACK}Scroll {STRINGID} right
-STR_3147    :{SMALLFONT}{BLACK}Scroll {STRINGID} left fast
-STR_3148    :{SMALLFONT}{BLACK}Scroll {STRINGID} right fast
-STR_3149    :{SMALLFONT}{BLACK}Scroll {STRINGID} left/right
-STR_3150    :{SMALLFONT}{BLACK}Scroll {STRINGID} up
-STR_3151    :{SMALLFONT}{BLACK}Scroll {STRINGID} down
-STR_3152    :{SMALLFONT}{BLACK}Scroll {STRINGID} up fast
-STR_3153    :{SMALLFONT}{BLACK}Scroll {STRINGID} down fast
-STR_3154    :{SMALLFONT}{BLACK}Scroll {STRINGID} up/down
+STR_3132    :{BLACK}點擊選擇景物, 以便儲存於軌道設計內...
+STR_3133    :無法於斜坡上建造此物件
+STR_3134    :{RED}(設計中含有不可用的景物)
+STR_3135    :{RED}(車輛款式不可用 - 遊樂設施的性能可能會有影響)
+STR_3136    :警告: 此設計會使用另一款車輛, 它的運作可能會跟預期有落差
+STR_3137    :選擇鄰近景物
+STR_3138    :重新選擇
+STR_3139    :纜道坡道不能在這個運作模式運行
+STR_3140    :纜道坡道需要連接至車站
+STR_3141    :纜道坡道並不適合於單次多圈數的遊樂設施
+STR_3142    :{WINDOW_COLOUR_2}載客量: {BLACK}{STRINGID}
+STR_3143    :{SMALLFONT}{BLACK}在地圖上顯示所有人物
+STR_3144    :{SMALLFONT}{BLACK}在地圖上顯示所有遊樂設施及店鋪
+STR_3145    :{SMALLFONT}{BLACK}向左捲動{STRINGID}
+STR_3146    :{SMALLFONT}{BLACK}向右捲動{STRINGID}
+STR_3147    :{SMALLFONT}{BLACK}快速向左捲動{STRINGID}
+STR_3148    :{SMALLFONT}{BLACK}快速向右捲動{STRINGID}
+STR_3149    :{SMALLFONT}{BLACK}向左/向右捲動{STRINGID}
+STR_3150    :{SMALLFONT}{BLACK}向上捲動{STRINGID}
+STR_3151    :{SMALLFONT}{BLACK}向下捲動{STRINGID}
+STR_3152    :{SMALLFONT}{BLACK}快速向上捲動{STRINGID}
+STR_3153    :{SMALLFONT}{BLACK}快速向下捲動{STRINGID}
+STR_3154    :{SMALLFONT}{BLACK}向上/向下捲動{STRINGID}
 STR_3155    :
 STR_3156    :
 STR_3157    :地圖
@@ -3176,18 +3176,18 @@ STR_3165    :
 STR_3166    :{BLACK}(ID: 
 STR_3167    :{WINDOW_COLOUR_2}包含: {BLACK}{COMMA16}項物件
 STR_3168    :{WINDOW_COLOUR_2}文字: {BLACK}{STRINGID}
-STR_3169    :Data for the following object not found: 
-STR_3170    :Not enough space for graphics
-STR_3171    :Too many objects of this type selected
-STR_3172    :The following object must be selected first: {STRING}
-STR_3173    :This object is currently in use
-STR_3174    :This object is required by another object
-STR_3175    :This object is always required
-STR_3176    :Unable to select this object
-STR_3177    :Unable to de-select this object
-STR_3178    :At least one path object must be selected
-STR_3179    :At least one ride vehicle/attraction object must be selected
-STR_3180    :Invalid selection of objects
+STR_3169    :找不到以下物件的資料: 
+STR_3170    :沒有空間繪製圖像
+STR_3171    :選擇了太多此類型的物件
+STR_3172    :必需要先選擇以下的物件: {STRING}
+STR_3173    :這個物件目前被使用中
+STR_3174    :其他物件需要這個物件
+STR_3175    :這個物件是必需的
+STR_3176    :無法選擇這個物件
+STR_3177    :無法取消選擇這個物件
+STR_3178    :至少需要選擇一項道路款式
+STR_3179    :至少需要選擇一項遊樂設施/店鋪
+STR_3180    :不合適的物件選擇
 STR_3181    :物件選擇 - {STRINGID}
 STR_3182    :必須選擇樂園入口類別
 STR_3183    :必須選擇水塘類別
