@@ -12,7 +12,7 @@ STR_0007    :小火車
 STR_0008    :單軌電車
 STR_0009    :迷你懸吊式雲霄飛車
 STR_0010    :小船出租
-STR_0011    :木製野鼠式雲霄飛車
+STR_0011    :木製飛鼠式雲霄飛車
 STR_0012    :越野賽馬式雲霄飛車
 STR_0013    :自駕軌道車輛
 STR_0014    :自由落體
@@ -57,7 +57,7 @@ STR_0052    :Ghost Train
 STR_0053    :鐵架旋轉式雲霄飛車
 STR_0054    :木製雲霄飛車
 STR_0055    :Side-Friction Roller Coaster
-STR_0056    :Wild Mouse
+STR_0056    :飛鼠式雲霄飛車
 STR_0057    :多維度雲霄飛車
 STR_0058    :Unknown Ride (38)
 STR_0059    :Flying Roller Coaster
@@ -836,9 +836,9 @@ STR_0831    :{SMALLFONT}{BLACK}縮小檢視區域
 STR_0832    :{SMALLFONT}{BLACK}將檢視區域順時針旋轉90{DEGREE}
 STR_0833    :{SMALLFONT}{BLACK}暫停遊戲
 STR_0834    :{SMALLFONT}{BLACK}硬碟及遊戲設定
-STR_0835    :Game initialization failed
-STR_0836    :Unable to start game in a minimised state
-STR_0837    :Unable to initialise graphics system
+STR_0835    :遊戲初始化失敗
+STR_0836    :無法於最小化的狀態下啟動遊戲
+STR_0837    :無法初始化繪製圖像系統
 STR_0838    :<not used anymore>
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
@@ -1069,7 +1069,7 @@ STR_1063    :反向發車循環模式
 STR_1064    :動力發車 (穿過車站)
 STR_1065    :穿梭模式
 STR_1066    :出租小船模式
-STR_1067    :Upward launch
+STR_1067    :向上發車
 STR_1068    :旋轉升降模式
 STR_1069    :站對站模式
 STR_1070    :一次付費單次溜滑梯
@@ -1094,7 +1094,7 @@ STR_1088    :剌激模式
 STR_1089    :狂暴模式
 STR_1090    :鬼屋模式
 STR_1091    :馬戲團表演模式
-STR_1092    :Downward launch
+STR_1092    :向下發車
 STR_1093    :古怪屋模式
 STR_1094    :自由落體模式
 STR_1095    :有區域煞車的連續循環模式
@@ -1442,7 +1442,7 @@ STR_1436    :在{STRINGID}中
 STR_1437    :在{STRINGID}中
 STR_1438    :坐下中
 STR_1439    :(請選擇位置)
-STR_1440    :Mowing grass
+STR_1440    :修剪草皮中
 STR_1441    :清掃道路中
 STR_1442    :清空垃圾筒中
 STR_1443    :灌溉花圃中
@@ -1717,7 +1717,7 @@ STR_1711    :{WINDOW_COLOUR_1}你確定要解僱{STRINGID}嗎?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}清掃道路
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}灌溉花圃
 STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}清空垃圾筒
-STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Mow grass
+STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}修剪草皮
 STR_1716    :不適合的樂園名稱
 STR_1717    :不能重命名樂園...
 STR_1718    :樂園名稱
@@ -1768,8 +1768,8 @@ STR_1762    :瀑布
 STR_1763    :急流
 STR_1764    :漩渦
 STR_1765    :即時拍照區域
-STR_1766    :Reverser turntable
-STR_1767    :Spinning tunnel
+STR_1766    :倒轉轉木裝置
+STR_1767    :不斷旋轉的隧道
 STR_1768    :不能改變搖擺次數...
 STR_1769    :{WINDOW_COLOUR_2}搖擺次數:
 STR_1770    :{SMALLFONT}{BLACK}完全搖擺的次數
@@ -1941,18 +1941,18 @@ STR_1933    :{STRINGID}已在{STRINGID}中
 STR_1934    :{STRINGID}已離開{STRINGID}
 STR_1935    :{STRINGID}已離開樂園
 STR_1936    :{STRINGID}已購買{STRINGID}
-STR_1937    :{SMALLFONT}{BLACK}Show information about the subject of this message
-STR_1938    :{SMALLFONT}{BLACK}Show view of guest
-STR_1939    :{SMALLFONT}{BLACK}Show view of staff member
-STR_1940    :{SMALLFONT}{BLACK}Show happiness, energy, hunger etc. for this guest
-STR_1941    :{SMALLFONT}{BLACK}Show which rides this guest has been on
-STR_1942    :{SMALLFONT}{BLACK}Show financial information about this guest
-STR_1943    :{SMALLFONT}{BLACK}Show guest's recent thoughts
-STR_1944    :{SMALLFONT}{BLACK}Show items guest is carrying
-STR_1945    :{SMALLFONT}{BLACK}Show orders and options for this staff member
-STR_1946    :{SMALLFONT}{BLACK}Select costume for this entertainer
-STR_1947    :{SMALLFONT}{BLACK}Show areas patrolled by selected staff type, and locate the nearest staff member
-STR_1948    :{SMALLFONT}{BLACK}Hire a new staff member of the selected type
+STR_1937    :{SMALLFONT}{BLACK}顯示關於這個訊息標題的資訊
+STR_1938    :{SMALLFONT}{BLACK}顯示遊客所視
+STR_1939    :{SMALLFONT}{BLACK}顯示員工所視
+STR_1940    :{SMALLFONT}{BLACK}顯示這位遊客的快樂度, 體力, 飢餓度等指標
+STR_1941    :{SMALLFONT}{BLACK}顯示這位遊客乘坐了甚麼遊樂設施
+STR_1942    :{SMALLFONT}{BLACK}顯示這位遊客的財政狀況
+STR_1943    :{SMALLFONT}{BLACK}顯示這位遊客的最近想法
+STR_1944    :{SMALLFONT}{BLACK}顯示這位遊客攜帶中的物件
+STR_1945    :{SMALLFONT}{BLACK}顯示有關這位員工的排序及選項
+STR_1946    :{SMALLFONT}{BLACK}選擇這位表演人員的服裝
+STR_1947    :{SMALLFONT}{BLACK}顯示已分配被巡邏的區域, 以及將最近的員工定位
+STR_1948    :{SMALLFONT}{BLACK}僱用這個類別的新員工
 STR_1949    :財政概要
 STR_1950    :財政圖表
 STR_1951    :樂園價值圖表
@@ -2497,9 +2497,9 @@ STR_2489    :快捷鍵...
 STR_2490    :鍵盤快捷鍵
 STR_2491    :重設快捷鍵
 STR_2492    :{SMALLFONT}{BLACK}初始化所有快捷鍵設定
-STR_2493    :Close top-most window
-STR_2494    :Close all floating windows
-STR_2495    :Cancel construction mode
+STR_2493    :關閉最頂層的視窗
+STR_2494    :關閉所有視窗
+STR_2495    :退出建造模式
 STR_2496    :暫停遊戲
 STR_2497    :縮小檢視範圍
 STR_2498    :放大檢視範圍
@@ -3519,10 +3519,10 @@ STR_5179    :{SMALLFONT}{BLACK}顯示用於遊客的密技
 STR_5180    :{SMALLFONT}{BLACK}顯示用於樂園的密技
 STR_5181    :{SMALLFONT}{BLACK}顯示用於設施的密技
 STR_5182    :{INT32}
-STR_5183    :Base height
-STR_5184    :Enter base height between {COMMA16} and {COMMA16}
-STR_5185    :Water level
-STR_5186    :Enter water level between {COMMA16} and {COMMA16} 
+STR_5183    :土地地面高度
+STR_5184    :靖輸入介乎{COMMA16}及{COMMA16}的土地地面高度
+STR_5185    :水面高度
+STR_5186    :靖輸入介乎{COMMA16}及{COMMA16}的水面高度
 STR_5187    :財政
 STR_5188    :新的營銷計劃
 STR_5189    :研發
@@ -3649,8 +3649,8 @@ STR_5309    :OpenRCT2
 STR_5310    :隨機
 STR_5311    :{SMALLFONT}{BLACK}除錯工具
 STR_5312    :顯示命名行
-STR_5313    :Show tile inspector
-STR_5314    :Tile inspector
+STR_5313    :顯示地圖網格檢查工具
+STR_5314    :地圖網格檢查工具
 STR_5315    :草地
 STR_5316    :沙地
 STR_5317    :泥地
