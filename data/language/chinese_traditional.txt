@@ -1019,7 +1019,7 @@ STR_1013    :關閉樂園
 STR_1014    :開放樂園
 STR_1015    :在這個模式下, 多過一個車站的遊樂設施將無法運作
 STR_1016    :在這個模式下, 少於兩個車站的遊樂設施將無法運作
-STR_1017    :不能改變運行模式...
+STR_1017    :不能改變運作模式...
 STR_1018    :不能作出更變...
 STR_1019    :不能作出更變...
 STR_1020    :不能作出更變...
@@ -1396,11 +1396,11 @@ STR_1390    :{CURRENCY2DP}
 STR_1391    :{RED}{CURRENCY2DP}
 STR_1392    :{SMALLFONT}{BLACK}觀看遊樂設施/店鋪
 STR_1393    :{SMALLFONT}{BLACK}車卡詳情及選項
-STR_1394    :{SMALLFONT}{BLACK}運行選項
+STR_1394    :{SMALLFONT}{BLACK}運作選項
 STR_1395    :{SMALLFONT}{BLACK}維修選項
 STR_1396    :{SMALLFONT}{BLACK}色彩選配選項
 STR_1397    :{SMALLFONT}{BLACK}聲音及音樂選項
-STR_1398    :{SMALLFONT}{BLACK}測試數據及統計
+STR_1398    :{SMALLFONT}{BLACK}測試數據及統計資料
 STR_1399    :{SMALLFONT}{BLACK}圖表
 STR_1400    :入口
 STR_1401    :出口
@@ -1675,7 +1675,7 @@ STR_1669    :{WINDOW_COLOUR_2}滿意度: {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}總乘客數: {BLACK}{COMMA32}
 STR_1671    :{WINDOW_COLOUR_2}總利潤: {BLACK}{CURRENCY2DP}
 STR_1672    :煞車裝置
-STR_1673    :Spinning Control Toggle Track
+STR_1673    :控制旋轉開/關軌道
 STR_1674    :煞車速度
 STR_1675    :{POP16}{VELOCITY}
 STR_1676    :{SMALLFONT}{BLACK}設置煞車速度限制
@@ -1853,8 +1853,8 @@ STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16}遊客
 STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16}遊客
 STR_1849    :{WINDOW_COLOUR_2}播放音樂
 STR_1850    :{SMALLFONT}{BLACK}選擇此遊樂設施播放音樂與否
-STR_1851    :{WINDOW_COLOUR_2}運行成本: {BLACK}每小時{CURRENCY2DP}
-STR_1852    :{WINDOW_COLOUR_2}運行成本: {BLACK}未知
+STR_1851    :{WINDOW_COLOUR_2}運作成本: {BLACK}每小時{CURRENCY2DP}
+STR_1852    :{WINDOW_COLOUR_2}運作成本: {BLACK}未知
 STR_1853    :{WINDOW_COLOUR_2}落成年份: {BLACK}今年
 STR_1854    :{WINDOW_COLOUR_2}落成年份: {BLACK}去年
 STR_1855    :{WINDOW_COLOUR_2}落成年份: {BLACK}{COMMA16}年前
@@ -2337,7 +2337,7 @@ STR_2329    :{WINDOW_COLOUR_2}距離及速度單位:
 STR_2330    :{WINDOW_COLOUR_2}溫度單位:
 STR_2331    :{WINDOW_COLOUR_2}高度標記單位:
 STR_2332    :單位
-STR_2333    :Sound
+STR_2333    :聲效
 STR_2334    :英鎊 ({POUND})
 STR_2335    :美金 ($)
 STR_2336    :法郎 (F)
@@ -2348,9 +2348,9 @@ STR_2340    :裡拉 (L)
 STR_2341    :荷蘭盾 (fl.)
 STR_2342    :克朗 (kr)
 STR_2343    :歐元 ({EURO})
-STR_2344    :Imperial
-STR_2345    :Metric
-STR_2346    :Display
+STR_2344    :英制
+STR_2345    :公制
+STR_2346    :顯示
 STR_2347    :{RED}{STRINGID}已被溺死!
 STR_2348    :{SMALLFONT}{BLACK}顯示這位員工的統計資料
 STR_2349    :{WINDOW_COLOUR_2}工資: {BLACK}每個月{CURRENCY}
@@ -2462,18 +2462,18 @@ STR_2454    :{SMALLFONT}{BLACK}{CURRENCY2DP} -
 STR_2455    :{SMALLFONT}{BLACK}+{CURRENCY2DP} -
 STR_2456    :{SMALLFONT}{BLACK}{CURRENCY2DP} -
 STR_2457    :{SMALLFONT}{BLACK}顯示財政報表
-STR_2458    :{SMALLFONT}{BLACK}Show graph of cash (less loan) over time
-STR_2459    :{SMALLFONT}{BLACK}Show graph of park value over time
-STR_2460    :{SMALLFONT}{BLACK}Show graph of weekly profit
-STR_2461    :{SMALLFONT}{BLACK}Show marketing campaigns
-STR_2462    :{SMALLFONT}{BLACK}Show view of park entrance
-STR_2463    :{SMALLFONT}{BLACK}Show graph of park ratings over time
-STR_2464    :{SMALLFONT}{BLACK}Show graph of guest numbers over time
-STR_2465    :{SMALLFONT}{BLACK}Show park entrance price and information
-STR_2466    :{SMALLFONT}{BLACK}Show park statistics
-STR_2467    :{SMALLFONT}{BLACK}Show objectives for this game
-STR_2468    :{SMALLFONT}{BLACK}Show recent awards this park has received
-STR_2469    :{SMALLFONT}{BLACK}Select level of research & development
+STR_2458    :{SMALLFONT}{BLACK}以圖表顯示過往到現在的凈現金
+STR_2459    :{SMALLFONT}{BLACK}以圖表顯示過往到現在的樂園價格
+STR_2460    :{SMALLFONT}{BLACK}以圖表顯示過往到現在的每週營利
+STR_2461    :{SMALLFONT}{BLACK}顯示營銷計劃詳情
+STR_2462    :{SMALLFONT}{BLACK}顯示樂園入口的視點
+STR_2463    :{SMALLFONT}{BLACK}以圖表顯示過往到現在的樂園評價
+STR_2464    :{SMALLFONT}{BLACK}以圖表顯示過往到現在的遊客人員
+STR_2465    :{SMALLFONT}{BLACK}顯示樂園門票價格以及其資訊
+STR_2466    :{SMALLFONT}{BLACK}顯示樂園的統計資料
+STR_2467    :{SMALLFONT}{BLACK}顯示是次遊戲的目標
+STR_2468    :{SMALLFONT}{BLACK}顯示這個樂園最近獲得的獎項
+STR_2469    :{SMALLFONT}{BLACK}選擇投放多少資金到研發當中
 STR_2470    :{SMALLFONT}{BLACK}研發新的運輸類遊樂設施
 STR_2471    :{SMALLFONT}{BLACK}研發新的溫和類遊樂設施
 STR_2472    :{SMALLFONT}{BLACK}研發新的雲霄飛車
@@ -2481,11 +2481,11 @@ STR_2473    :{SMALLFONT}{BLACK}研發新的剌激類遊樂設施
 STR_2474    :{SMALLFONT}{BLACK}研發新的水文類遊樂設施
 STR_2475    :{SMALLFONT}{BLACK}研發新的商店及攤販
 STR_2476    :{SMALLFONT}{BLACK}研發新的景物及主題景物
-STR_2477    :{SMALLFONT}{BLACK}Select operating mode for this ride/attraction
-STR_2478    :{SMALLFONT}{BLACK}Show graph of velocity against time
-STR_2479    :{SMALLFONT}{BLACK}Show graph of altitude against time
-STR_2480    :{SMALLFONT}{BLACK}Show graph of vertical acceleration against time
-STR_2481    :{SMALLFONT}{BLACK}Show graph of lateral acceleration against time
+STR_2477    :{SMALLFONT}{BLACK}選擇這個遊樂設施的運作模式
+STR_2478    :{SMALLFONT}{BLACK}以圖表顯示速度與運作時間的關係
+STR_2479    :{SMALLFONT}{BLACK}以圖表顯示高度與運作時間的關係
+STR_2480    :{SMALLFONT}{BLACK}以圖表顯示垂直加速與運作時間的關係
+STR_2481    :{SMALLFONT}{BLACK}以圖表顯示橫向加速與運作時間的關係
 STR_2482    :{SMALLFONT}{BLACK}營利: 每週{CURRENCY},  樂園價值: {CURRENCY}
 STR_2483    :{WINDOW_COLOUR_2}每週營利: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}每週營利: {RED}{CURRENCY2DP}
@@ -2756,8 +2756,8 @@ STR_2747    :{ENDQUOTES}
 STR_2748    :列
 STR_2749    :我的新劇情
 # New strings used in the cheats window previously these were ???
-STR_2750    :Move all items to top
-STR_2751    :Move all items to bottom
+STR_2750    :移到所有物件至最頂部
+STR_2751    :移到所有物件至最底部
 STR_2752    :無雜草的草地
 STR_2753    :除好草的草地
 STR_2754    :灌溉花圃
@@ -2785,8 +2785,8 @@ STR_2775    :全螢幕 (桌面尺寸)
 STR_2776    :語言:
 STR_2777    :{MOVE_X}{SMALLFONT}{STRING}
 STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRING}
-STR_2779    :Viewport #{COMMA16}
-STR_2780    :Extra viewport
+STR_2779    :額外檢視視窗#{COMMA16}
+STR_2780    :新的額外檢視視窗
 # End of new strings
 STR_2781    :{STRINGID}:{MOVE_X}{195}{STRINGID}{STRINGID}
 STR_2782    :SHIFT + 
@@ -2856,17 +2856,17 @@ STR_2845    :{TOPAZ}你的樂園剛獲得了'擁有最大膽的色彩選配的�
 STR_2846    :{TOPAZ}你的樂園剛獲得了'擁有最令人迷失的道路的樂園獎'!
 STR_2847    :{TOPAZ}你的樂園剛獲得了'擁有最佳溫和類遊樂設施的樂園獎'!
 STR_2848    :{WINDOW_COLOUR_2}暫無獲得任何獎項
-STR_2849    :New scenario installed successfully
-STR_2850    :New track design installed successfully
-STR_2851    :Scenario already installed
-STR_2852    :Track design already installed
+STR_2849    :成功安裝新劇情
+STR_2850    :成功安裝新軌道設計
+STR_2851    :劇情已曾安裝
+STR_2852    :軌道設計已曾安裝
 STR_2853    :被當地政府禁止!
 STR_2854    :{RED}遊客都不能走到去{STRINGID}的入口!{NEWLINE}請建造道路連接入口
 STR_2855    :{RED}{STRINGID}的出口並沒有道路連接!{NEWLINE}請建造道路連接出口
 STR_2856    :{WINDOW_COLOUR_2}教學
 STR_2857    :{WINDOW_COLOUR_2}(按下任意鍵來獲取控制)
-STR_2858    :Can't start marketing campaign...
-STR_2859    :Another instance of RollerCoaster Tycoon 2 is already running
+STR_2858    :不能開始實行營銷計劃...
+STR_2859    :另外一個OpenRCT2程序已在運行中
 STR_2860    :Infogrames Interactive credits...
 STR_2861    :{WINDOW_COLOUR_2}Licensed to Infogrames Interactive Inc.
 STR_2862    :Music acknowledgements...
@@ -3146,7 +3146,7 @@ STR_3135    :{RED}(車輛款式不可用 - 遊樂設施的性能可能會有影�
 STR_3136    :警告: 此設計會使用另一款車輛, 它的運作可能會跟預期有落差
 STR_3137    :選擇鄰近景物
 STR_3138    :重新選擇
-STR_3139    :纜道坡道不能在這個運作模式運行
+STR_3139    :纜道坡道不能在這個運作模式運作
 STR_3140    :纜道坡道需要連接至車站
 STR_3141    :纜道坡道並不適合於單次多圈數的遊樂設施
 STR_3142    :{WINDOW_COLOUR_2}載客量: {BLACK}{STRINGID}
@@ -3228,17 +3228,17 @@ STR_3217    :已擁有的土地
 STR_3218    :已擁有建造權的土地
 STR_3219    :可供購買的土地
 STR_3220    :可供購買建造權的土地
-STR_3221    :{SMALLFONT}{BLACK}Set land to be owned by the park
-STR_3222    :{SMALLFONT}{BLACK}Set construction rights only to be owned by the park
-STR_3223    :{SMALLFONT}{BLACK}Set land to be available to purchase by the park
-STR_3224    :{SMALLFONT}{BLACK}Set construction rights to be available to purchase by the park
-STR_3225    :{SMALLFONT}{BLACK}Toggle on/off building a random cluster of objects around the selected position
-STR_3226    :{SMALLFONT}{BLACK}Build park entrance
+STR_3221    :{SMALLFONT}{BLACK}將樂園設置成為土地的擁有者
+STR_3222    :{SMALLFONT}{BLACK}尤樂園擁有土地的建造權
+STR_3223    :{SMALLFONT}{BLACK}將土地設置成為可供樂園購買
+STR_3224    :{SMALLFONT}{BLACK}將土地的建造權設置成為可供樂園購買
+STR_3225    :{SMALLFONT}{BLACK}設置是否在選中的位置中建造一些隨機物件
+STR_3226    :{SMALLFONT}{BLACK}建造樂園入口
 STR_3227    :太多樂園入口!
-STR_3228    :{SMALLFONT}{BLACK}Set starting positions for people
-STR_3229    :Block Brakes cannot be used directly after station
-STR_3230    :Block Brakes cannot be used directly after each other
-STR_3231    :Block Brakes cannot be used directly after the top of this lift hill
+STR_3228    :{SMALLFONT}{BLACK}設置遊客的開始步行位置
+STR_3229    :區域煞車不能建造在車站之後
+STR_3230    :區域煞車不能建造在自己之後
+STR_3231    :區域煞車不能建造在這個鏈條坡道的頂部之後
 STR_3232    :選項 - 財政
 STR_3233    :選項 - 遊客
 STR_3234    :選項 - 樂園
@@ -3344,7 +3344,7 @@ STR_3333    :在存檔中導出附加物件
 STR_3334    :{SMALLFONT}{BLACK}選擇是否儲存附加物件(額外加入的附加物件)到存檔, 以便存檔給沒有那些附加物件的人載入
 STR_3335    :雲霄飛車設計工具 - 選擇要設計的雲霄飛車的類型及車輛種類
 STR_3336    :軌道設計管理工具 - 選擇要管理的遊樂設施的類型
-STR_3337    :六旗樂園
+STR_3337    :<not used anymore>
 STR_3338    :{BLACK}自訂設計
 STR_3339    :{BLACK}可選{COMMA16}項預設計, 或可自訂設計
 STR_3340    :{BLACK}可選{COMMA16}項預設計, 或可自訂設計
@@ -3372,7 +3372,7 @@ STR_3361    :這種遊樂設施擁有太多軌道設計 - 將不會列出某些�
 STR_3362    :<not used anymore>
 STR_3363    :<not used anymore>
 STR_3364    :進階
-STR_3365    :{SMALLFONT}{BLACK}Allow selection of individual items of scenery in addition to scenery groups
+STR_3365    :{SMALLFONT}{BLACK}在選擇景物組別之外, 允許選擇單項景物
 STR_3366    :{BLACK}= 遊樂設施
 STR_3367    :{BLACK}= 食物店鋪
 STR_3368    :{BLACK}= 飲料店鋪
@@ -3422,7 +3422,7 @@ STR_3411    :{SMALLFONT}{BLACK}我們會選擇左彎道...
 STR_3412    :{SMALLFONT}{BLACK}這個彎道尚未建好, 但白色的鬼影會顯示它建成的位置. 按下在建造視窗的巨型"建造此"按鈕便可建造這個彎道...
 STR_3413    :{SMALLFONT}{BLACK}現在我們要建造直向前的軌道, 所以我們就點直向前軌道的圖標...
 STR_3414    :{SMALLFONT}{BLACK}現在整個環形軌道就完成了, 我們要建造入口及出口...
-STR_3415    :{SMALLFONT}{BLACK}讓我們測試一下這個設施, 看看他能不能運行...
+STR_3415    :{SMALLFONT}{BLACK}讓我們測試一下這個設施, 看看他能不能運作...
 STR_3416    :{SMALLFONT}{BLACK}在它測試的途中, 我們去建造輪候區及連結出口的道路吧...
 STR_3417    :{SMALLFONT}{BLACK}OK - 讓我們開放樂園, 同時開放設施吧...
 STR_3418    :{SMALLFONT}{BLACK}我們的新遊樂設施好像不會令人太過興奮 - 不如我們來添加點景物吧?
@@ -3460,7 +3460,7 @@ STR_5120    :財政
 STR_5121    :研發
 STR_5122    :(像RCT1一樣)以軌道類型選擇遊樂設施
 STR_5123    :翻新遊樂設施
-STR_5124    :去除"六旗"標誌
+STR_5124    :<not used anymore>
 STR_5125    :全可拆卸
 STR_5126    :隨機播放主題曲
 STR_5127    :{SMALLFONT}{BLACK}禁止調整地勢
@@ -3469,11 +3469,11 @@ STR_5129    :請輸入介於{COMMA16}及{COMMA16}的選擇大小
 STR_5130    :地圖大小
 STR_5131    :請輸入介於{COMMA16}及{COMMA16}的地圖大小
 STR_5132    :修理好所有遊樂設施
-STR_5133    :{SMALLFONT}{BLACK}Adjust smaller area of land rights
-STR_5134    :{SMALLFONT}{BLACK}Adjust larger area of land rights
-STR_5135    :{SMALLFONT}{BLACK}Buy land rights and construction rights
-STR_5136    :Land rights
-STR_5137    :允許鏈條及發車速度{NEWLINE}高至{VELOCITY}
+STR_5133    :{SMALLFONT}{BLACK}選擇較小的土地範圍
+STR_5134    :{SMALLFONT}{BLACK}選擇較大的土地範圍
+STR_5135    :{SMALLFONT}{BLACK}購買土地擁有權或建造權
+STR_5136    :土地擁有權
+STR_5137    :允許鏈條上拉及發車速度{NEWLINE}高至{VELOCITY}
 STR_5138    :{SMALLFONT}{WINDOW_COLOUR_2}{STRINGID}
 STR_5139    :{WHITE}{STRINGID}
 STR_5140    :去除煞車組件故障
