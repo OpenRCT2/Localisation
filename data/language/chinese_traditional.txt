@@ -60,19 +60,19 @@ STR_0055    :木製軌道阻力式雲霄飛車
 STR_0056    :飛鼠式雲霄飛車
 STR_0057    :多維度雲霄飛車
 STR_0058    :Unknown Ride (38)
-STR_0059    :Flying Roller Coaster
+STR_0059    :飛行式雲霄飛車
 STR_0060    :Unknown Ride (3A)
-STR_0061    :Virginia Reel
+STR_0061    :木製旋轉杯式雲霄飛車
 STR_0062    :濺水船
 STR_0063    :迷你直升機
 STR_0064    :躺身式雲霄飛車
 STR_0065    :懸吊式單軌電車
 STR_0066    :Unknown Ride (40)
-STR_0067    :Reverser Roller Coaster
-STR_0068    :Heartline Twister Coaster
+STR_0067    :木製倒轉車式雲霄飛車
+STR_0068    :管道旋轉式雲霄飛車
 STR_0069    :迷你高爾夫
-STR_0070    :Giga Coaster
-STR_0071    :Roto-Drop
+STR_0070    :巨型雲霄飛車
+STR_0071    :旋轉落體
 STR_0072    :碰碰飛碟
 STR_0073    :古怪屋
 STR_0074    :單軌單車
@@ -89,7 +89,7 @@ STR_0084    :Unknown Ride (52)
 STR_0085    :Unknown Ride (53)
 STR_0086    :Unknown Ride (54)
 STR_0087    :Unknown Ride (55)
-STR_0088    :Inverted Impulse Coaster
+STR_0088    :反轉極速式雲霄飛車
 STR_0089    :迷你雲霄飛車
 STR_0090    :礦遊式雲霄飛車
 STR_0091    :Unknown Ride (59)
@@ -1407,8 +1407,8 @@ STR_1401    :出口
 STR_1402    :{SMALLFONT}{BLACK}建造或移動遊樂設施的入口
 STR_1403    :{SMALLFONT}{BLACK}建造或移動遊樂設施的出口
 STR_1404    :{SMALLFONT}{BLACK}90{DEGREE}旋轉
-STR_1405    :{SMALLFONT}{BLACK}Mirror image
-STR_1406    :{SMALLFONT}{BLACK}Toggle scenery on/off (if available for this design)
+STR_1405    :{SMALLFONT}{BLACK}反轉鬼影
+STR_1406    :{SMALLFONT}{BLACK}使用/棄用景物 (如果這個軌道設計擁有景物)
 STR_1407    :{WINDOW_COLOUR_2}建造此軌道...
 STR_1408    :{WINDOW_COLOUR_2}費用: {BLACK}{CURRENCY}
 STR_1409    :入口/出口平台
@@ -1775,8 +1775,8 @@ STR_1769    :{WINDOW_COLOUR_2}搖擺次數:
 STR_1770    :{SMALLFONT}{BLACK}完全搖擺的次數
 STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1772    :{COMMA16}
-STR_1773    :Only one on-ride photo section allowed per ride
-STR_1774    :Only one cable lift hill allowed per ride
+STR_1773    :每個遊樂設施只可建造一個即時照相區域
+STR_1774    :每個遊樂設施只可建造一個纜索坡道
 STR_1775    :關閉
 STR_1776    :開啟
 STR_1777    :{WINDOW_COLOUR_2}音樂
@@ -2361,9 +2361,9 @@ STR_2353    :{WINDOW_COLOUR_2}掃地次數: {BLACK}{COMMA16}
 STR_2354    :{WINDOW_COLOUR_2}清空拉坡筒次數: {BLACK}{COMMA16}
 STR_2355    :{WINDOW_COLOUR_2}修理遊樂設施次數: {BLACK}{COMMA16}
 STR_2356    :{WINDOW_COLOUR_2}檢驗遊樂設施次數: {BLACK}{COMMA16}
-STR_2357    :House
+STR_2357    :房屋
 STR_2358    :單位
-STR_2359    :Real Values
+STR_2359    :真實數值
 STR_2360    :{WINDOW_COLOUR_2}屏幕解析度:
 STR_2361    :土地邊緣平滑化
 STR_2362    :{SMALLFONT}{BLACK}開啟/關閉土地邊緣平滑化
@@ -3675,11 +3675,11 @@ STR_5334    :雪地
 STR_5335    :遊樂設施入口
 STR_5336    :遊樂設施出口
 STR_5337    :樂園入口
-STR_5338    :Element type
-STR_5339    :Base height
-STR_5340    :Clearance height
-STR_5341    :Flags
-STR_5342    :Choose a map tile
+STR_5338    :元素類別
+STR_5339    :地面高度
+STR_5340    :清理高度
+STR_5341    :標記
+STR_5342    :請選擇地圖網格
 STR_5343    :自動放置員工
 STR_5344    :更新日誌
 STR_5345    :用於財政的密技
@@ -3784,8 +3784,8 @@ STR_5443    :速度{MOVE_X}{87}{STRINGID}
 STR_5444    :速度:
 STR_5445    :速度
 STR_5446    :獲取
-STR_5447    :Type {STRINGID}
-STR_5448    :Ride / Vehicle {STRINGID}
+STR_5447    :類別{STRINGID}
+STR_5448    :遊樂設施/車輛{STRINGID}
 STR_5449    :減慢遊戲速度
 STR_5450    :增快遊戲速度
 STR_5451    :開啟密技視窗
