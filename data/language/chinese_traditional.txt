@@ -53,20 +53,20 @@ STR_0048    :龍捲風
 STR_0049    :鬼屋
 STR_0050    :急救室
 STR_0051    :馬戲團
-STR_0052    :Ghost Train
+STR_0052    :驚奇之旅
 STR_0053    :鐵架旋轉式雲霄飛車
 STR_0054    :木製雲霄飛車
-STR_0055    :Side-Friction Roller Coaster
+STR_0055    :木製軌道阻力式雲霄飛車
 STR_0056    :飛鼠式雲霄飛車
 STR_0057    :多維度雲霄飛車
 STR_0058    :Unknown Ride (38)
 STR_0059    :Flying Roller Coaster
 STR_0060    :Unknown Ride (3A)
 STR_0061    :Virginia Reel
-STR_0062    :Splash Boats
+STR_0062    :濺水船
 STR_0063    :迷你直升機
-STR_0064    :Lay-down Roller Coaster
-STR_0065    :Suspended Monorail
+STR_0064    :躺身式雲霄飛車
+STR_0065    :懸吊式單軌電車
 STR_0066    :Unknown Ride (40)
 STR_0067    :Reverser Roller Coaster
 STR_0068    :Heartline Twister Coaster
@@ -78,9 +78,9 @@ STR_0073    :古怪屋
 STR_0074    :單軌單車
 STR_0075    :緊湊的反轉式雲霄飛車
 STR_0076    :濺水式雲霄飛車
-STR_0077    :Air Powered Vertical Coaster
-STR_0078    :Inverted Hairpin Coaster
-STR_0079    :Magic Carpet
+STR_0077    :以空氣為動力的垂直式雲霄飛車
+STR_0078    :反轉髮夾彎式雲霄飛車
+STR_0079    :魔法地毯
 STR_0080    :潛艇遊道
 STR_0081    :木筏河道
 STR_0082    :Unknown Ride (50)
@@ -535,7 +535,7 @@ STR_0530    :Cars hang from a steel cable which runs continuously from one end o
 STR_0531    :A compact steel-tracked roller coaster where the train travels through corkscrews and loops
 STR_0532    :
 STR_0533    :
-STR_0534    :Self-drive petrol-engined go karts
+STR_0534    :自駕式, 並以氣油驅動的小型賽車(卡丁車)
 STR_0535    :Log-shaped boats travel along a water channel, splashing down steep slopes to soak the riders
 STR_0536    :Circular boats meander along a wide water channel, splashing through waterfalls and thrilling riders through foaming rapids
 STR_0537    :
@@ -592,7 +592,7 @@ STR_0587    :After an exhilarating air-powered launch, the train speeds up a ver
 STR_0588    :Individual cars run beneath a zig-zagging track with hairpin turns and sharp drops
 STR_0589    :
 STR_0590    :Riders ride in a submerged submarine through an underwater course
-STR_0591    :Raft-shaped boats gently meander around a river track
+STR_0591    :木筏造型船於河道上慢慢地遊覽著
 STR_0592    :
 STR_0593    :
 STR_0594    :
@@ -1097,9 +1097,9 @@ STR_1091    :馬戲團表演模式
 STR_1092    :向下發車
 STR_1093    :古怪屋模式
 STR_1094    :自由落體模式
-STR_1095    :有區域煞車的連續循環模式
+STR_1095    :含區域煞車的連續循環模式
 STR_1096    :動力發車 (不穿過車站)
-STR_1097    :Powered launch block sectioned mode
+STR_1097    :含區域煞車的動力發車模式
 STR_1098    :移動到{POP16}{STRINGID}的最尾中
 STR_1099    :在{POP16}{STRINGID}等待乘客中
 STR_1100    :等待離開{POP16}{STRINGID}中
@@ -3789,7 +3789,7 @@ STR_5448    :Ride / Vehicle {STRINGID}
 STR_5449    :減慢遊戲速度
 STR_5450    :增快遊戲速度
 STR_5451    :開啟密技視窗
-STR_5452    :Toggle visibility of toolbars
+STR_5452    :調整工具列的可視度
 STR_5453    :選擇另一類遊樂設施
 STR_5454    :去除FPS上限
 STR_5455    :啟用沙盒模式
