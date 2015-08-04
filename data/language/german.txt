@@ -1938,7 +1938,7 @@ STR_1933    :{STRINGID} ist in {STRINGID}
 STR_1934    :{STRINGID} hat {STRINGID} verlassen
 STR_1935    :{STRINGID} hat den Park verlassen
 STR_1936    :{STRINGID} hat {STRINGID} gekauft
-STR_1937    :{SMALLFONT}{BLACK}Informationen zum Thema dieser Nachricht anzeigen
+STR_1937    :{SMALLFONT}{BLACK}Informationen zum Thema dieser{NEWLINE}Nachricht anzeigen
 STR_1938    :{SMALLFONT}{BLACK}Ansicht des Besuchers anzeigen
 STR_1939    :{SMALLFONT}{BLACK}Ansicht des Mitarbeiters anzeigen
 STR_1940    :{SMALLFONT}{BLACK}Vergnügen, Energie, Hunger, usw.{NEWLINE}dieses Besuchers anzeigen
@@ -3356,7 +3356,7 @@ STR_3347    :Bahn ist zu lang, enthält zu viele Elemente oder Szenerie ist zu z
 STR_3348    :Umbenennen
 STR_3349    :Löschen
 STR_3350    :Streckenentwurfsname
-STR_3351    :Neuen Namen für diesen Streckenentwurf eingeben:
+STR_3351    :Neuen Namen für Streckenentwurf eingeben:
 STR_3352    :Streckenentwurf kann nicht umbenannt werden...
 STR_3353    :Neuer Name enthält ungültige Zeichen
 STR_3354    :Entweder besteht bereits eine Datei mit diesem Namen oder die Datei ist schreibgeschützt
@@ -3818,3 +3818,6 @@ STR_5481    :Themen
 STR_5482    :{WINDOW_COLOUR_2}Letzte Inspektion vor: {BLACK}1 Minute
 STR_5483    :{BLACK}({COMMA16} Wochen verbleibend)
 STR_5484    :{BLACK}({COMMA16} Woche verbleibend)
+STR_5485    :{SMALLFONT}{STRING}
+STR_5486    :{BLACK}{COMMA16}
+STR_5487    :{SMALLFONT}{BLACK}Aktuelle Nachrichten anzeigen
