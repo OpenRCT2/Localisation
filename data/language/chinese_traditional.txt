@@ -2741,7 +2741,7 @@ STR_2732    :{COMMA16}ft
 STR_2733    :{COMMA16}m
 STR_2734    :{COMMA16}mph
 STR_2735    :{COMMA16}km/h
-STR_2736    :{MONTH}, 第{COMMA16}年
+STR_2736    :第{POP16}{COMMA16}年, {PUSH16}{PUSH16}{MONTH}
 STR_2737    :{STRINGID} {MONTH}, 第{COMMA16}年
 STR_2738    :主選單音樂:
 STR_2739    :無
@@ -3784,8 +3784,8 @@ STR_5443    :速度{MOVE_X}{87}{STRINGID}
 STR_5444    :速度:
 STR_5445    :速度
 STR_5446    :獲取
-STR_5447    :類別{STRINGID}
-STR_5448    :遊樂設施/車輛{STRINGID}
+STR_5447    :類別 {STRINGID}
+STR_5448    :遊樂設施/車輛 {STRINGID}
 STR_5449    :減慢遊戲速度
 STR_5450    :增快遊戲速度
 STR_5451    :開啟密技視窗
