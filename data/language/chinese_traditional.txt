@@ -1045,10 +1045,10 @@ STR_1039    :安裝新軌道設計
 STR_1040    :儲存遊戲
 STR_1041    :儲存劇情
 STR_1042    :儲存地形
-STR_1043    :RollerCoaster Tycoon 2 遊戲存檔
-STR_1044    :RollerCoaster Tycoon 2 劇情檔案
-STR_1045    :RollerCoaster Tycoon 2 地形檔案
-STR_1046    :RollerCoaster Tycoon 2 軌道設計檔案
+STR_1043    :OpenRCT2 遊戲存檔
+STR_1044    :OpenRCT2 劇情檔案
+STR_1045    :OpenRCT2 地形檔案
+STR_1046    :OpenRCT2 軌道設計檔案
 STR_1047    :儲存遊戲失敗!
 STR_1048    :儲存劇情失敗!
 STR_1049    :儲存地形失敗!
@@ -3398,7 +3398,7 @@ STR_3387    :雲霄飛車建造教學
 STR_3388    :無法切換至已選擇的模式
 STR_3389    :無法選擇額外的景觀物件...
 STR_3390    :選取了太多物件
-+# Start of tutorial strings. Not used at the moment, so not necessary to translate.
+# Start of tutorial strings. Not used at the moment, so not necessary to translate.
 STR_3391    :{SMALLFONT}{BLACK}這個就是我們的樂園 - 先瞧瞧周邊的環境吧...
 STR_3392    :{SMALLFONT}{BLACK}最簡單的方法就是按住滑鼠右鍵, 然後拖曳來移動檢視範圍...
 STR_3393    :{SMALLFONT}{BLACK}如果要觀看更多樂園的部份, 你可以按最上工具列中的縮小檢視圖標來縮小檢視...
@@ -3445,6 +3445,7 @@ STR_3433    :{SMALLFONT}{BLACK}最後, 我們要建造一些'區間制動器', �
 STR_3434    :{SMALLFONT}{BLACK}我們測試一下新的雲霄飛車, 看看它能不能運作吧!
 STR_3435    :{SMALLFONT}{BLACK}太好了 - 一切順利! 現在又要做一些熟悉的動作: 建造道路, 然後讓遊客乘坐這座嶄新的雲霄飛車...
 STR_3436    :{SMALLFONT}{BLACK}在它迎來第一個乘客的途中, 我們可以自訂化一下這座雲霄飛車...
+# End of tutorial strings
 STR_3437    :{SMALLFONT}{BLACK}在地形中清理某些大範圍內的景物
 STR_3438    :無法移除這裡所有的景物...
 STR_3439    :移除景物
@@ -3491,7 +3492,7 @@ STR_5150    :啟用除錯工具
 STR_5151    :,
 STR_5152    :.
 STR_5153    :編輯配色主題...
-STR_5154    :使用硬體顯示
+STR_5154    :使用硬體渲染
 STR_5155    :容許測試未建造好的軌道設計
 STR_5156    :{SMALLFONT}{BLACK}容許測試大部份軌道設計, 即使未建造好的也可以. 但不能適用於區域煞車模式
 STR_5157    :允許設置進入樂園及乘坐遊樂設施的價格
