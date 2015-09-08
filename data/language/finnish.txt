@@ -4,23 +4,23 @@
 STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
 STR_0002    :Kierrevuoristorata
-STR_0003    :Stand-up Roller Coaster
-STR_0004    :Suspended Swinging Coaster
+STR_0003    :Seisomavuoristorata
+STR_0004    :Riippukeinuvuoristorata
 STR_0005    :Käänteinen vuoristorata
 STR_0006    :Juniorivuoristorata
 STR_0007    :Pienoisrautatie
-STR_0008    :Yksiraiteinen
-STR_0009    :Mini Suspended Coaster
+STR_0008    :Yksiraiteinen rautatie
+STR_0009    :Pieni riippuva vuoristorata
 STR_0010    :Veneajelu
 STR_0011    :Puinen villihiiri
-STR_0012    :Steeplechase
+STR_0012    :Estejuoksu
 STR_0013    :Autoajelu
-STR_0014    :Launched Freefall
-STR_0015    :Rattikelkkavuoristorata
+STR_0014    :Laukaistu vapaapudotus
+STR_0015    :Rattikelkkarata
 STR_0016    :Näköalatorni
-STR_0017    :Looping Roller Coaster
-STR_0018    :Dinghy Slide
-STR_0019    :Mine Train Coaster
+STR_0017    :Silmukkavuoristorata
+STR_0018    :Veneliukumäki
+STR_0019    :Kaivosjunarata
 STR_0020    :Tuolihissi
 STR_0021    :Korkkiruuvivuoristorata
 STR_0022    :Labyrintti
@@ -30,7 +30,7 @@ STR_0025    :Tukkijoki
 STR_0026    :Koskiseikkailu
 STR_0027    :Törmäysautot
 STR_0028    :Merirosvolaiva
-STR_0029    :Swinging Inverter Ship
+STR_0029    :Keinuva käänteinen laiva
 STR_0030    :Ruokakoju
 STR_0031    :Tuntematon koju (1D)
 STR_0032    :Juomakoju
@@ -38,62 +38,63 @@ STR_0033    :Tuntematon koju (1F)
 STR_0034    :Kauppa
 STR_0035    :Karuselli
 STR_0036    :Tuntematon koju (22)
-STR_0037    :Information Kiosk
-STR_0038    :WC
+STR_0037    :Infokioski
+STR_0038    :Vessa
 STR_0039    :Maailmanpyörä
 STR_0040    :Liikesimulaattori
 STR_0041    :3D-teatteri
-STR_0042    :Top Spin
-STR_0043    :Space Rings
-STR_0044    :Reverse Freefall Coaster
+STR_0042    :Yläpyörähdys
+STR_0043    :Avaruusrenkaat
+STR_0044    :Päinvastainen vapaapudotusrata
 STR_0045    :Hissi
-STR_0046    :Vertical Drop Roller Coaster
-STR_0047    :Kassakone
-STR_0048    :Twist
+STR_0046    :Pystysuora tiputusvuoristorata
+STR_0047    :Pankkiautomaatti
+STR_0048    :Vääntely
 STR_0049    :Kummitustalo
 STR_0050    :Ensiapuhuone
 STR_0051    :Sirkusesitys
 STR_0052    :Kummitusjuna
-STR_0053    :Steel Twister Roller Coaster
+STR_0053    :Teräskiehkuravuoristorata
 STR_0054    :Puinen vuoristorata
-STR_0055    :Side-Friction Roller Coaster
+STR_0055    :Sivukitkavuoristorata
 STR_0056    :Villihiiri
-STR_0057    :Moniulottuvuus-vuoristorata
+STR_0057    :Moniulottuvuusvuoristorata
 STR_0058    :Tuntematon laite (38)
 STR_0059    :Lentävä vuoristorata
 STR_0060    :Tuntematon laite (3A)
-STR_0061    :Virginia Reel
-STR_0062    :Splash Boats
+STR_0061    :Virginian kela
+STR_0062    :Roiskahdusveneet
 STR_0063    :Minihelikopterit
-STR_0064    :Lay-down Roller Coaster
-STR_0065    :Suspended Monorail
+STR_0064    :Makuuvuoristorata
+STR_0065    :Riippuva yksiraiteinen rautatie
 STR_0066    :Tuntematon laite (40)
-STR_0067    :Reverser Roller Coaster
-STR_0068    :Heartline Twister Coaster
-STR_0069    :Mini Golf
-STR_0070    :Giga Coaster
-STR_0071    :Roto-Drop
+STR_0067    :Päinvastainen vuoristorata
+STR_0068    :Sydänviivakiehkurarata
+STR_0069    :Minigolffi
+STR_0070    :Jättirata
+STR_0071    :Pyörivä tiputus
 STR_0072    :Lentävät lautaset
-STR_0073    :Crooked House
-STR_0074    :Monorail Cycles
-STR_0075    :Compact Inverted Coaster
-STR_0076    :Water Coaster
-STR_0077    :Air Powered Vertical Coaster
-STR_0078    :Inverted Hairpin Coaster
+STR_0073    :Kiero talo
+STR_0074    :yksiraiteinen rautatiekierto
+STR_0075    :Tiivis käänteinen rata
+STR_0076    :Vesirata
+STR_0077    :Ilmakäyttöinen pystysuora rata
+STR_0078    :Kääteinenhiusneularata
 STR_0079    :Taikamatto
 STR_0080    :Sukellusveneajelu
 STR_0081    :Jokilautat
 STR_0082    :Tuntematon laite (50)
-STR_0083    :Yhtiö
+# 0083 is a name, and can't be translated. The ride itself was named after USS Enterprise from star trek, see wikipedia.
+STR_0083    :Enterprise
 STR_0084    :Tuntematon laite (52)
 STR_0085    :Tuntematon laite (53)
 STR_0086    :Tuntematon laite (54)
 STR_0087    :Tuntematon laite (55)
-STR_0088    :Inverted Impulse Coaster
+STR_0088    :Käänteinen impulssirata
 STR_0089    :Minivuoristorata
 STR_0090    :Kaivosajelu
 STR_0091    :Tuntematon laite (59)
-STR_0092    :LIM Launched Roller Coaster
+STR_0092    :Induktiomoottorilaukaisuvuoristorata
 STR_0093    :
 STR_0094    :
 STR_0095    :
