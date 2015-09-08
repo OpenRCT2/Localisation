@@ -913,8 +913,8 @@ STR_0906    :{SMALLFONT}{BLACK}Suora
 STR_0907    :Rinne
 STR_0908    :Kallistus
 STR_0909    :Istuimen kierto
-STR_0910    :{SMALLFONT}{BLACK}Vasemman käden kaarre kallistus
-STR_0911    :{SMALLFONT}{BLACK}Oikean käden kaarre kallistus
+STR_0910    :{SMALLFONT}{BLACK}Vasemmalle kaartava kallistus
+STR_0911    :{SMALLFONT}{BLACK}Oikealle kaartava kallistus
 STR_0912    :{SMALLFONT}{BLACK}Ei kallistusta
 STR_0913    :{SMALLFONT}{BLACK}Siirry edelliseen osaan
 STR_0914    :{SMALLFONT}{BLACK}Siirry seuraavaan osaan
@@ -980,10 +980,10 @@ STR_0973    :OK
 STR_0974    :Laitteet
 STR_0975    :Kaupat ja kojut
 STR_0976    :Vessat ja infokioskit
-STR_0977    :Uusi kuljetuslaite
-STR_0978    :New Gentle Rides
+STR_0977    :Uusia kuljetuslaitteita
+STR_0978    :Uusia lempeitä laitteita
 STR_0979    :Uusia vuoristoratoja
-STR_0980    :New Thrill Rides
+STR_0980    :Uusia jännittäviä laitteita
 STR_0981    :Uusia vesilaitteita
 STR_0982    :Uusia kauppoja ja kojuja
 STR_0983    :Tutkimustyö & kehittely
@@ -1064,54 +1064,54 @@ STR_1057    :Laitteen/kohteen nimi
 STR_1058    :Kirjoita uusi nimi tälle laitteelle/kohteelle:
 STR_1059    :Ei pysty uudelleennimeämään laitetta/kohdetta...
 STR_1060    :Virheellinen laitteen/kohteen nimi
-STR_1061    :Normaalitoimintatila
+STR_1061    :Normaali toimintatila
 STR_1062    :Toistuva kierros toimintatila
-STR_1063    :Reverse-Incline launched shuttle mode
-STR_1064    :Teholaukaisu (asematasanteen ohimennen)
+STR_1063    :Käänteinen-kallistus laukaistu sukkula toimintatila
+STR_1064    :Voimalaukaisu (aseman ohimennen)
 STR_1065    :Sukkulatoimintatila
-STR_1066    :Boat hire mode
-STR_1067    :Upward launch
-STR_1068    :Rotating lift mode
-STR_1069    :Station to station mode
-STR_1070    :Single ride per admission
-STR_1071    :Unlimited rides per admission
-STR_1072    :Maze mode
-STR_1073    :Race mode
-STR_1074    :Bumper-car mode
-STR_1075    :Swing mode
-STR_1076    :Shop stall mode
-STR_1077    :Rotation mode
-STR_1078    :Forward rotation
-STR_1079    :Backward rotation
+STR_1066    :Veneajelu toimintatila
+STR_1067    :ylöspäin laukaisu
+STR_1068    :Pyörivä hissi toimintatila
+STR_1069    :Asemalta asemalle toimintatila
+STR_1070    :Yksi kyyti per sisäänpääsy
+STR_1071    :Loputtomat kyydit per sisäänpääsy
+STR_1072    :Labyrinttitoimintatila
+STR_1073    :Kilpailutoimintatila
+STR_1074    :Törmäysautotoimintatila
+STR_1075    :Keinutoimintatila
+STR_1076    :Kojutoimintatila
+STR_1077    :Pyörimistoimintatila
+STR_1078    :Eteenpäin pyöriminen
+STR_1079    :Taaksepäin pyöriminen
 STR_1080    :Elokuva: {ENDQUOTES}Kostavat lentäjät{ENDQUOTES}
 STR_1081    :3D-elokuva: {ENDQUOTES}Hiiren hännät{ENDQUOTES}
-STR_1082    :Space rings mode
-STR_1083    :Beginners mode
-STR_1084    :LIM-powered launch
-STR_1085    :Elokuva: {ENDQUOTES}Jännityksen ajajat{ENDQUOTES}
-STR_1086    :3D-elokuva: {ENDQUOTES}Myrskun jahtaajat{ENDQUOTES}
-STR_1087    :3D-elokuva: {ENDQUOTES}Avaruuskaapparit{ENDQUOTES}
-STR_1088    :Intense mode
-STR_1089    :Berserk mode
-STR_1090    :Haunted house mode
-STR_1091    :Circus show mode
-STR_1092    :Downward launch
-STR_1093    :Crooked house mode
-STR_1094    :Freefall drop mode
-STR_1095    :Continuous circuit block sectioned mode
-STR_1096    :Powered launch (without passing station)
-STR_1097    :Powered launch block sectioned mode
-STR_1098    :Moving to end of {POP16}{STRINGID}
-STR_1099    :Waiting for passengers at {POP16}{STRINGID}
-STR_1100    :Waiting to depart {POP16}{STRINGID}
+STR_1082    :Avaruusrenkaat toimintatila
+STR_1083    :Aloittelijoille toimintatila
+STR_1084    :Induktiomoottorilaukaisu
+STR_1085    :Elokuva: {ENDQUOTES}Jännityksen ratsastajat{ENDQUOTES}
+STR_1086    :3D-elokuva: {ENDQUOTES}Myrskyn jahtaajat{ENDQUOTES}
+STR_1087    :3D-elokuva: {ENDQUOTES}Avaruusryöstäjät{ENDQUOTES}
+STR_1088    :Intensiivinen toimintatila
+STR_1089    :Hullu toimintatila
+STR_1090    :Kummitustalo toimintatila
+STR_1091    :Sirkusesitys toimintatila
+STR_1092    :Alaspäin laukaisu
+STR_1093    :Kiero talo toimintatila
+STR_1094    :Vapaapudotustoimintatila
+STR_1095    :Toistuva kierros esto-osiolla toiminatila
+STR_1096    :Voimalaukaisu (ilman aseman ohimenemistä)
+STR_1097    :Voimalaukaisu esto-osiolla toimintatila
+STR_1098    :Matkustetaan {POP16}{STRINGID} loppuun
+STR_1099    :Odoitetaan matkustajia {POP16}{STRINGID}
+STR_1100    :Odoitetaan lähtöä {POP16}{STRINGID}
 STR_1101    :Lähtemässä {POP16}{STRINGID}
-STR_1102    :Liikkuen {VELOCITY}
+STR_1102    :Nopeus {VELOCITY}
 STR_1103    :Saapumassa {POP16}{STRINGID}
 STR_1104    :Matkustajia puretaan {POP16}{STRINGID}
-STR_1105    :Liikkuen {VELOCITY}
-STR_1106    :Sortunut!
+STR_1105    :Nopeus {VELOCITY}
+STR_1106    :Sortuu!
 STR_1107    :Sortunut!
-STR_1108    :Liikkuen {VELOCITY}
+STR_1108    :Nopeus {VELOCITY}
 STR_1109    :Keinuu
 STR_1110    :Pyörii
 STR_1111    :Pyörii
@@ -1122,8 +1122,8 @@ STR_1115    :Käynnissä
 STR_1116    :Käynnissä
 STR_1117    :Sirkusesitys menossa
 STR_1118    :Käynnissä
-STR_1119    :Waiting for cable lift
-STR_1120    :Liikkuen {VELOCITY}
+STR_1119    :Odotettaa kaapelihissiä
+STR_1120    :Nopeus {VELOCITY}
 STR_1121    :Pysäytetään
 STR_1122    :Odotetaan matkustajia
 STR_1123    :Odotetaan käynnistämistä
@@ -1131,10 +1131,10 @@ STR_1124    :Käynnistetään
 STR_1125    :Käynnissä
 STR_1126    :Pysäytetään
 STR_1127    :Matkustajia puretaan
-STR_1128    :Stopped by block brakes
+STR_1128    :Pysähtynyt este-osion takia.
 STR_1129    :Kaikki ajoneuvot saman värisiä
-STR_1130    :Different colours per {STRINGID}
-STR_1131    :Different colours per vehicle
+STR_1130    :Eri värit per {STRINGID}
+STR_1131    :Eri värit per ajoneuvo
 STR_1132    :Ajoneuvo {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1133    :Ajoneuvo {POP16}{COMMA16}
 STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
