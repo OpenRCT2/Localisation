@@ -937,15 +937,15 @@ STR_0930    :'S' mutka (oikea)
 STR_0931    :Pystysuora kierukka(vasen)
 STR_0932    :Pystysuora kierukka (oikea)
 STR_0933    :Nosta tai laske maata ensin
-STR_0934    :Ajelun sisäänkäynti edessä
-STR_0935    :Ajelun uloskäynti edessä
+STR_0934    :Laitteen sisäänkäynti edessä
+STR_0935    :Laitteen uloskäynti edessä
 STR_0936    :Puiston sisäänkäynti edessä
 STR_0937    :{SMALLFONT}{BLACK}Näkymäasetukset
 STR_0938    :{SMALLFONT}{BLACK}Muokkaa maan korkeutta ja jyrkkyyttä
 STR_0939    :Maanalainen näkymä
 STR_0940    :Poista pohjamaa
 STR_0941    :Poista pystysuorat pinnat
-STR_0942    :Näe ajelujen läpi
+STR_0942    :Näe laitteiden läpi
 STR_0943    :Näe maiseman läpi
 STR_0944    :Tallenna
 STR_0945    :Älä tallenna
@@ -1098,9 +1098,9 @@ STR_1091    :Sirkusesitys toimintatila
 STR_1092    :Alaspäin laukaisu
 STR_1093    :Kiero talo toimintatila
 STR_1094    :Vapaapudotustoimintatila
-STR_1095    :Toistuva kierros esto-osiolla toiminatila
+STR_1095    :Toistuva kierros lohkojarrutuksella toiminatila
 STR_1096    :Voimalaukaisu (ilman aseman ohimenemistä)
-STR_1097    :Voimalaukaisu esto-osiolla toimintatila
+STR_1097    :Voimalaukaisu lohkojarrutuksella toimintatila
 STR_1098    :Matkustetaan {POP16}{STRINGID} loppuun
 STR_1099    :Odoitetaan matkustajia {POP16}{STRINGID}
 STR_1100    :Odoitetaan lähtöä {POP16}{STRINGID}
@@ -1131,7 +1131,7 @@ STR_1124    :Käynnistetään
 STR_1125    :Käynnissä
 STR_1126    :Pysäytetään
 STR_1127    :Matkustajia puretaan
-STR_1128    :Pysähtynyt este-osion takia.
+STR_1128    :Pysähtynyt lohkojarruihin.
 STR_1129    :Kaikki ajoneuvot saman värisiä
 STR_1130    :Eri värit per {STRINGID}
 STR_1131    :Eri värit per ajoneuvo
@@ -1147,8 +1147,8 @@ STR_1140    :{SMALLFONT}{BLACK}Valitse ajoneuvon väriteemava
 STR_1141    :{SMALLFONT}{BLACK}Valitse mitä ajoneuvoa/junaa muuttaa
 STR_1142    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1143    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRINGID}
-STR_1144    :Can't build/move entrance for this ride/attraction...
-STR_1145    :Can't build/move exit for this ride/attraction...
+STR_1144    :Ei pysty rakentamaan/siirtämään tämän laitteen/kohteen sisäänkäyntiä...
+STR_1145    :Ei pysty rakentamaan/siirtämään tämän laitteen/kohteen uloskäyntiä...
 STR_1146    :Sisäänkäyntiä ei ole vielä rakennettu
 STR_1147    :Uloskäyntiä ei ole vielä rakennettu
 STR_1148    :Neljännes kuorma
@@ -1156,15 +1156,15 @@ STR_1149    :Puolikas kuorma
 STR_1150    :Kolmeneljäsosaa kuorma
 STR_1151    :Täysi kuorma
 STR_1152    :Mikä tahansa kuorma
-STR_1153    :Height Marks on Ride Tracks
-STR_1154    :Height Marks on Land
-STR_1155    :Height Marks on Paths
+STR_1153    :Korkeusmerkinnät laitteiden radoissa
+STR_1154    :Korkeusmerkinnät maanpinnassa
+STR_1155    :Korkeusmerkinnät poluissa
 STR_1156    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1157    :{TICK}{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1158    :Tämän poistaminen ei onnistu...
-STR_1159    :{SMALLFONT}{BLACK}Place scenery, gardens, and other accessories
-STR_1160    :{SMALLFONT}{BLACK}Create/adjust lakes & water
-STR_1161    :Tätä ei voi asettaa tähän...
+STR_1159    :{SMALLFONT}{BLACK}Aseta maisemaa, puutarhoja, ja muita tilpehöörejä.
+STR_1160    :{SMALLFONT}{BLACK}Luo/säädä järviä ja vettä.
+STR_1161    :Tätä ei voi asettaa sitä tähän...
 STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
 STR_1163    :{STRINGID}{NEWLINE}(Oikea klikkaus muokkaa)
 STR_1164    :{STRINGID}{NEWLINE}(Oikea klikkaus poistaa)
@@ -1176,12 +1176,12 @@ STR_1169    :(Ei mitään)
 STR_1170    :{STRING}
 STR_1171    :{RED}Suljettu - - 
 STR_1172    :{YELLOW}{STRINGID} - - 
-STR_1173    :{SMALLFONT}{BLACK}Build footpaths and queue lines
+STR_1173    :{SMALLFONT}{BLACK}Rakenna jalkakäytäviä ja jonotuslinjoja
 STR_1174    :Mainoskyltti on tiellä
 STR_1175    :Tätä ei voi rakentaa kaltevalle jalkakäytävälle
 STR_1176    :Jalkakäytävää ei voi rakentaa tähän...
 STR_1177    :Jalkakäytävää ei voi poistaa tästä...
-STR_1178    :Land slope unsuitable
+STR_1178    :Maan kaltevuus epäsopiva
 STR_1179    :Jalkakäytävä on tiellä
 STR_1180    :Tätä ei voi rakentaa veden alle!
 STR_1181    :Jalkakäytävät
@@ -1189,11 +1189,11 @@ STR_1182    :Tyyppi
 STR_1183    :Suunta
 STR_1184    :Mäki
 STR_1185    :{SMALLFONT}{BLACK}Suunta
-STR_1186    :{SMALLFONT}{BLACK}Slope down
+STR_1186    :{SMALLFONT}{BLACK}Mäki alas
 STR_1187    :{SMALLFONT}{BLACK}Taso
-STR_1188    :{SMALLFONT}{BLACK}Slope up
-STR_1189    :{SMALLFONT}{BLACK}Construct the selected footpath section
-STR_1190    :{SMALLFONT}{BLACK}Remove previous footpath section
+STR_1188    :{SMALLFONT}{BLACK}Mäki ylös
+STR_1189    :{SMALLFONT}{BLACK}Rakenna valittu jalkakäytävän osio
+STR_1190    :{SMALLFONT}{BLACK}Poista valittu jalkakäytävän osio
 STR_1191    :{BLACK}{STRINGID}
 STR_1192    :{OUTLINE}{RED}{STRINGID}
 STR_1193    :{WINDOW_COLOUR_2}{STRINGID}
@@ -1212,26 +1212,26 @@ STR_1205    :{COMMA16} minuutin jonotusaika
 STR_1206    :{WINDOW_COLOUR_2}Odota:
 STR_1207    :{WINDOW_COLOUR_2}Lähde jos toinen juna saapuu asemalle
 STR_1208    :{WINDOW_COLOUR_2}Lähde jos toinen vene saapuu asemalle
-STR_1209    :{SMALLFONT}{BLACK}Select whether should wait for passengers before departing
-STR_1210    :{SMALLFONT}{BLACK}Select whether should leave if another vehicle arrives at the same station
-STR_1211    :{WINDOW_COLOUR_2}Minimum waiting time:
-STR_1212    :{WINDOW_COLOUR_2}Maximum waiting time:
-STR_1213    :{SMALLFONT}{BLACK}Select minimum length of time to wait before departing
-STR_1214    :{SMALLFONT}{BLACK}Select maximum length of time to wait before departing
-STR_1215    :{WINDOW_COLOUR_2}Synchronise with adjacent stations
-STR_1216    :{SMALLFONT}{BLACK}Select whether to synchronise departure with all adjacent stations (for 'racing')
+STR_1209    :{SMALLFONT}{BLACK}Valitse pitäisikö odottaa matkustajia ennen lähtöä
+STR_1210    :{SMALLFONT}{BLACK}Valitse pitäisikö lähteä jos toinen vaunu saapuu samalle asemalle
+STR_1211    :{WINDOW_COLOUR_2}Vähimmäisodotusaika:
+STR_1212    :{WINDOW_COLOUR_2}Enimmäisodotusaika:
+STR_1213    :{SMALLFONT}{BLACK}Valitse vähimmäisodotusaika ennen lähtöä
+STR_1214    :{SMALLFONT}{BLACK}Valitse enimmäisodotusaika ennen lähtöä
+STR_1215    :{WINDOW_COLOUR_2}Synkronoi rinnakkaisasemien kanssa
+STR_1216    :{SMALLFONT}{BLACK}Valitse pitäisikö synkronoida lähtö kaikkien rinnakkaisasemien kanssa ('kilpailua' varten)
 STR_1217    :{COMMA16} sekuntia
 STR_1218    :{BLACK}{SMALLUP}
 STR_1219    :{BLACK}{SMALLDOWN}
 STR_1220    :Vain uloskäynti
 STR_1221    :Ei sisäänkäyntiä
 STR_1222    :Ei uloskäyntiä
-STR_1223    :{SMALLFONT}{BLACK}Transport rides
-STR_1224    :{SMALLFONT}{BLACK}Gentle rides
-STR_1225    :{SMALLFONT}{BLACK}Roller coasters
-STR_1226    :{SMALLFONT}{BLACK}Thrill rides
-STR_1227    :{SMALLFONT}{BLACK}Vesiajelut
-STR_1228    :{SMALLFONT}{BLACK}Shops & stalls
+STR_1223    :{SMALLFONT}{BLACK}Kuljetuslaitteet
+STR_1224    :{SMALLFONT}{BLACK}Lempeät laitteet
+STR_1225    :{SMALLFONT}{BLACK}Vuoristoradat
+STR_1226    :{SMALLFONT}{BLACK}Jännittävät radat
+STR_1227    :{SMALLFONT}{BLACK}Vesilaitteet
+STR_1228    :{SMALLFONT}{BLACK}Kaupat ja kojut
 STR_1229    :juna
 STR_1230    :junaa
 STR_1231    :Juna
@@ -1242,7 +1242,7 @@ STR_1235    :Juna {COMMA16}
 STR_1236    :vene
 STR_1237    :venettä
 STR_1238    :Vene
-STR_1239    :Vene
+STR_1239    :Venettä
 STR_1240    :{COMMA16} vene
 STR_1241    :{COMMA16} venettä
 STR_1242    :Vene {COMMA16}
@@ -1253,13 +1253,13 @@ STR_1246    :Rataa
 STR_1247    :{COMMA16} rata
 STR_1248    :{COMMA16} rataa
 STR_1249    :Rata {COMMA16}
-STR_1250    :docking platform
-STR_1251    :docking platforms
-STR_1252    :Docking platform
-STR_1253    :Docking platforms
-STR_1254    :{COMMA16} docking platform
-STR_1255    :{COMMA16} docking platforms
-STR_1256    :Docking platform {COMMA16}
+STR_1250    :telakointitasanne
+STR_1251    :telakointitasanteita
+STR_1252    :Telakointitasanne
+STR_1253    :Telakointitasanteita
+STR_1254    :{COMMA16} telakointitasanne
+STR_1255    :{COMMA16} telakointitasanteita
+STR_1256    :Telakointitasanne {COMMA16}
 STR_1257    :asema
 STR_1258    :asemaa
 STR_1259    :Asema
@@ -1268,7 +1268,7 @@ STR_1261    :{COMMA16} asema
 STR_1262    :{COMMA16} asemaa
 STR_1263    :Asema {COMMA16}
 STR_1264    :auto
-STR_1265    :autoja
+STR_1265    :autoa
 STR_1266    :Auto
 STR_1267    :Autoa
 STR_1268    :{COMMA16} auto
@@ -1330,10 +1330,10 @@ STR_1323    :Rataa
 STR_1324    :{COMMA16} rata
 STR_1325    :{COMMA16} rataa
 STR_1326    :Rata {COMMA16}
-STR_1327    :{SMALLFONT}{BLACK}Rotate objects by 90{DEGREE}
-STR_1328    :Level land required
+STR_1327    :{SMALLFONT}{BLACK}Käännä esineitä 90{DEGREE}
+STR_1328    :Vaatii tasaisen maan
 STR_1329    :{WINDOW_COLOUR_2}Lähtönopeus:
-STR_1330    :{SMALLFONT}{BLACK}Maximum speed when leaving station
+STR_1330    :{SMALLFONT}{BLACK}Enimmäisnopeus kun lähdetään asemalta
 STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_1332    :{VELOCITY}
 STR_1333    :{STRINGID} - {STRINGID}{POP16}
@@ -1343,7 +1343,7 @@ STR_1336    :{STRINGID} - Asema {POP16}{COMMA16} Sisäänkäynti
 STR_1337    :{STRINGID} - Uloskäynti{POP16}{POP16}
 STR_1338    :{STRINGID} - Asema {POP16}{COMMA16} Uloskäynti
 STR_1339    :{BLACK}Testituloksia ei ole vielä saatavilla...
-STR_1340    :{WINDOW_COLOUR_2}Max. speed: {BLACK}{VELOCITY}
+STR_1340    :{WINDOW_COLOUR_2}Isoin nopeus: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Ajelun kesto: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
 STR_1343    :{DURATION} / 
@@ -1351,44 +1351,44 @@ STR_1344    :{WINDOW_COLOUR_2}Radan pituus: {BLACK}{STRINGID}{STRINGID}{STRINGID
 STR_1345    :{LENGTH}
 STR_1346    :{LENGTH} / 
 STR_1347    :{WINDOW_COLOUR_2}Keskinopeus: {BLACK}{VELOCITY}
-STR_1348    :{WINDOW_COLOUR_2}Max. positive vertical G's: {BLACK}{COMMA2DP32}g
-STR_1349    :{WINDOW_COLOUR_2}Max. positive vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1350    :{WINDOW_COLOUR_2}Max. negative vertical G's: {BLACK}{COMMA2DP32}g
-STR_1351    :{WINDOW_COLOUR_2}Max. negative vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1352    :{WINDOW_COLOUR_2}Max. lateral G's: {BLACK}{COMMA2DP32}g
-STR_1353    :{WINDOW_COLOUR_2}Max. lateral G's: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1348    :{WINDOW_COLOUR_2}Isoin positiivinen vertikaalinen G-voima: {BLACK}{COMMA2DP32}g
+STR_1349    :{WINDOW_COLOUR_2}Isoin positiivinen vertikaalinen G-voima: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1350    :{WINDOW_COLOUR_2}Isoin negatiivinen vertikaalinen G-voima: {BLACK}{COMMA2DP32}g
+STR_1351    :{WINDOW_COLOUR_2}Isoin negatiivinen vertikaalinen G-voima: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1352    :{WINDOW_COLOUR_2}Isoin sivuttainen G-voima: {BLACK}{COMMA2DP32}g
+STR_1353    :{WINDOW_COLOUR_2}Isoin sivuttainen G-voima: {OUTLINE}{RED}{COMMA2DP32}g
 STR_1354    :{WINDOW_COLOUR_2}Korkein pudotuskorkeus: {BLACK}{LENGTH}
-STR_1355    :{WINDOW_COLOUR_2}Pudotusta: {BLACK}{COMMA16}
-STR_1356    :{WINDOW_COLOUR_2}Inversions: {BLACK}{COMMA16}
+STR_1355    :{WINDOW_COLOUR_2}Pudotuksia: {BLACK}{COMMA16}
+STR_1356    :{WINDOW_COLOUR_2}Käänteitä: {BLACK}{COMMA16}
 STR_1357    :{WINDOW_COLOUR_2}Reikää: {BLACK}{COMMA16}
-STR_1358    :{WINDOW_COLOUR_2}Total 'air' time: {BLACK}{COMMA2DP32}secs
+STR_1358    :{WINDOW_COLOUR_2}'ilma-aika' yhteensä: {BLACK}{COMMA2DP32}secs
 STR_1359    :{WINDOW_COLOUR_2}Jonotusaika: {BLACK}{COMMA16} minuutti
 STR_1360    :{WINDOW_COLOUR_2}Jonotusaika: {BLACK}{COMMA16} minuuttia
 STR_1361    :Nopeuden muuttaminen ei onnistu...
 STR_1362    :Lähtönopeuden muuttaminen ei onnistu...
-STR_1363    :Too high for supports!
-STR_1364    :Supports for track above can't be extended any further!
-STR_1365    :In-line Twist (left)
-STR_1366    :In-line Twist (right)
-STR_1367    :Half Loop
-STR_1368    :Half Corkscrew (left)
-STR_1369    :Half Corkscrew (right)
-STR_1370    :Barrel Roll (left)
-STR_1371    :Barrel Roll (right)
-STR_1372    :Launched Lift Hill
-STR_1373    :Large Half Loop (left)
-STR_1374    :Large Half Loop (right)
-STR_1375    :Upper Transfer
-STR_1376    :Lower Transfer
-STR_1377    :Heartline Roll (left)
-STR_1378    :Heartline Roll (right)
-STR_1379    :Reverser (left)
-STR_1380    :Reverser (right)
-STR_1381    :Curved Lift Hill (left)
-STR_1382    :Curved Lift Hill (right)
-STR_1383    :Quarter Loop
+STR_1363    :Liian korkealla tukia varten!
+STR_1364    :Ylemmän laitteen tukia ei voida laajentaa pidemmälle!
+STR_1365    :Hallittava kierre (vasen)
+STR_1366    :Hallittava kierre (oikea)
+STR_1367    :Puolikas silmukka
+STR_1368    :Puolikas korkkiruuvi (vasen)
+STR_1369    :Puolikas korkkiruuvi (oikea)
+STR_1370    :Tynnyrivierre (vasen)
+STR_1371    :Tynnyrivierre (oikea)
+STR_1372    :Laukaistu nostomäki
+STR_1373    :Iso puolikas silmukka (vasen)
+STR_1374    :Iso puolikas silmukka (oikea)
+STR_1375    :Ylempi siirto
+STR_1376    :Alempi siirto
+STR_1377    :Sydämmen viiva vierähdys (vasen)
+STR_1378    :Sydämmen viiva vierähdys (oikea)
+STR_1379    :Käännin (vasen)
+STR_1380    :Käännin (oikea)
+STR_1381    :Kaareva nostomäki (vasen)
+STR_1382    :Kaareva nostomäki (oikea)
+STR_1383    :Neljännesosa silmukka
 STR_1384    :{YELLOW}{STRINGID}
-STR_1385    :{SMALLFONT}{BLACK}Other track configurations
+STR_1385    :{SMALLFONT}{BLACK}Muut radan asetukset
 STR_1386    :Erikoinen...
 STR_1387    :Maan tyyppiä ei voida muuttaa...
 STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
