@@ -892,7 +892,7 @@ STR_0885    :Tallenna maisema
 STR_0886    :Lopeta peli
 STR_0887    :Lopeta skenaariomuokkaaja
 STR_0888    :Lopeta vuoristoratasuunnittelija
-STR_0889    :Lopeta ratamallihallinta
+STR_0889    :Lopeta ratasuunnitelmahallinta
 STR_0890    :Kuva{COMMA16}.BMP
 STR_0891    :Kuvankaappaus
 STR_0892    :Kuvankaappaus tallennettu levylle nimellä '{STRINGID}'
@@ -927,11 +927,11 @@ STR_0920    :{SMALLFONT}{BLACK}Taso
 STR_0921    :{SMALLFONT}{BLACK}Mäki ylös
 STR_0922    :{SMALLFONT}{BLACK}Jyrkkä mäki ylös
 STR_0923    :{SMALLFONT}{BLACK}Pystynousu
-STR_0924    :{SMALLFONT}{BLACK}Kierre alas
-STR_0925    :{SMALLFONT}{BLACK}Kierre ylös
+STR_0924    :{SMALLFONT}{BLACK}Ruuvikierre alas
+STR_0925    :{SMALLFONT}{BLACK}Ruuvikierre ylös
 STR_0926    :Tämän poistaminen ei onnistu...
 STR_0927    :Tämän rakentaminen tähän ei onnistu...
-STR_0928    :{SMALLFONT}{BLACK}Ketjuhissi, vaunujen vetämistä varten mäissä.
+STR_0928    :{SMALLFONT}{BLACK}Ketjumäki, vaunujen vetämistä varten mäissä.
 STR_0929    :'S' mutka (vasen)
 STR_0930    :'S' mutka (oikea)
 STR_0931    :Pystysuora kierukka(vasen)
@@ -1042,14 +1042,14 @@ STR_1035    :Paikallinen virkavalta ei salli rakentaa puiden latvoja korkeammall
 STR_1036    :Lataa peli
 STR_1037    :Lataa maisema
 STR_1038    :Muunna tallennettu peli skenaarioksi
-STR_1039    :Asenna uusi ratamalli
+STR_1039    :Asenna uusi ratasuunnitelma
 STR_1040    :Tallenna peli
 STR_1041    :Tallenna skenaario
 STR_1042    :Tallenna maisema
 STR_1043    :OpenRCT2 Tallennettu peli
 STR_1044    :OpenRCT2 Skenaariotiedosto
 STR_1045    :OpenRCT2 Maisematiedosto
-STR_1046    :OpenRCT2 Ratamallitiedosto
+STR_1046    :OpenRCT2 Ratasuunitelmatiedosto
 STR_1047    :Pelin tallennus epäonnistui!
 STR_1048    :Skenaarion tallennus epäonnistui!
 STR_1049    :Maisematiedoston tallennus epäonnistui!
@@ -1395,94 +1395,95 @@ STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
 STR_1390    :{CURRENCY2DP}
 STR_1391    :{RED}{CURRENCY2DP}
-STR_1392    :{SMALLFONT}{BLACK}View of ride/attraction
-STR_1393    :{SMALLFONT}{BLACK}Vehicle details and options
-STR_1394    :{SMALLFONT}{BLACK}Operating options
-STR_1395    :{SMALLFONT}{BLACK}Maintenance options
+STR_1392    :{SMALLFONT}{BLACK}Näkymä laitteesta/kohteesta
+STR_1393    :{SMALLFONT}{BLACK}Kulkuneuvon yksitoiskohdat ja asetukset
+STR_1394    :{SMALLFONT}{BLACK}Toiminta asetukset
+STR_1395    :{SMALLFONT}{BLACK}Huolto asetukset
 STR_1396    :{SMALLFONT}{BLACK}Värityylin asetukset
 STR_1397    :{SMALLFONT}{BLACK}Ääni- ja musiikkiasetukset
 STR_1398    :{SMALLFONT}{BLACK}Mitat ja testitiedot
-STR_1399    :{SMALLFONT}{BLACK}Kuvastot
+STR_1399    :{SMALLFONT}{BLACK}Kaaviokuvat
 STR_1400    :Sisäänkäynti
 STR_1401    :Uloskäynti
-STR_1402    :{SMALLFONT}{BLACK}Build or move entrance to ride/attraction
-STR_1403    :{SMALLFONT}{BLACK}Build or move exit from ride/attraction
+STR_1402    :{SMALLFONT}{BLACK}Rakenna tai siirrä sisäänkäynti laitteesta/kohteesta
+STR_1403    :{SMALLFONT}{BLACK}Rakenna tai siirrä uloskäynti laitteesta/kohteesta
 STR_1404    :{SMALLFONT}{BLACK}Käännä 90{DEGREE}
 STR_1405    :{SMALLFONT}{BLACK}Peilaa kuva
-STR_1406    :{SMALLFONT}{BLACK}Toggle scenery on/off (if available for this design)
+STR_1406    :{SMALLFONT}{BLACK}Vaihda maisema päälle/pois (vain jos saatavilla tälle suunnitelmalle)
 STR_1407    :{WINDOW_COLOUR_2}Rakenna tämä...
 STR_1408    :{WINDOW_COLOUR_2}Kustannus: {BLACK}{CURRENCY}
-STR_1409    :Entry/Exit Platform
-STR_1410    :Vertical Tower
-STR_1411    :{STRINGID} in the way
-STR_1412    :{WINDOW_COLOUR_3}Data logging not available for this type of ride
-STR_1413    :{WINDOW_COLOUR_3}Data logging will start when next {STRINGID} leaves {STRINGID}
+STR_1409    :Sisään-/uloskäyntitasanne
+STR_1410    :Pystysuora torni
+STR_1411    :{STRINGID} tiellä
+STR_1412    :{WINDOW_COLOUR_3}Tietojen keruu ei ole saatavilla tämäntyyppiselle laitteelle
+STR_1413    :{WINDOW_COLOUR_3}Tietojen keruu alkaa kun seuraava {STRINGID} lähtee {STRINGID}
 STR_1414    :{SMALLFONT}{BLACK}{DURATION}
-STR_1415    :{WINDOW_COLOUR_2}Velocity
-STR_1416    :{WINDOW_COLOUR_2}Altitude
-STR_1417    :{WINDOW_COLOUR_2}Vert.G's
-STR_1418    :{WINDOW_COLOUR_2}Lat.G's
+STR_1415    :{WINDOW_COLOUR_2}Nopeus
+STR_1416    :{WINDOW_COLOUR_2}Korkeus
+STR_1417    :{WINDOW_COLOUR_2}Vert. G-voima
+STR_1418    :{WINDOW_COLOUR_2}Sivut. G-voima
 STR_1419    :{SMALLFONT}{BLACK}{VELOCITY}
 STR_1420    :{SMALLFONT}{BLACK}{LENGTH}
 STR_1421    :{SMALLFONT}{BLACK}{COMMA16}g
-STR_1422    :{SMALLFONT}{BLACK}Logging data from {POP16}{STRINGID}
-STR_1423    :{SMALLFONT}{BLACK}Queue line path
+STR_1422    :{SMALLFONT}{BLACK}Kerätään tietoja {POP16}{STRINGID}
+STR_1423    :{SMALLFONT}{BLACK}Jonolinjaston tie
 STR_1424    :{SMALLFONT}{BLACK}Jalkakäytävä
 STR_1425    :Jalkakäytävä
-STR_1426    :Jono
+STR_1426    :Jonolinjasto
 STR_1427    :{WINDOW_COLOUR_2}Asiakkaita: {BLACK}{COMMA32} per tunti
 STR_1428    :{WINDOW_COLOUR_2}Sisäänpääsymaksu:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :Ilmainen
-STR_1431    :Kävelen
+STR_1431    :Kävelee
 STR_1432    :Menossa kohti {STRINGID}
-STR_1433    :Jonotan {STRINGID}
-STR_1434    :Hukun
+STR_1433    :Jonottaa {STRINGID}
+STR_1434    :Hukkuu
+#these following 3 would require extra coding, so i will leave them default for now
 STR_1435    :On {STRINGID}
 STR_1436    :In {STRINGID}
 STR_1437    :At {STRINGID}
-STR_1438    :Istun
+STR_1438    :Istuu
 STR_1439    :(valitse sijainti)
-STR_1440    :Leikkaan ruohoa
-STR_1441    :Harjaan jalkakäytävää
-STR_1442    :Tyhjennän roskakoria
-STR_1443    :Kastelen puutarhoja
-STR_1444    :Katselen {STRINGID}
-STR_1445    :Watching construction of {STRINGID}
-STR_1446    :Looking at scenery
-STR_1447    :Lähden puistosta
-STR_1448    :Katson uuden ajelun rakentelua
+STR_1440    :Leikkaa ruohoa
+STR_1441    :Harjaa jalkakäytävää
+STR_1442    :Tyhjentää roskakoria
+STR_1443    :Kastelee puutarhoja
+STR_1444    :Katsoo {STRINGID}
+STR_1445    :Katsoo {STRINGID}:n rakentamista
+STR_1446    :Katselee maisemia
+STR_1447    :Lähdössä puistosta
+STR_1448    :Katsoo uuden laitteen rakentamista
 STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
 STR_1452    :Vieraan nimi
-STR_1453    :Anna nimi vieraalle:
+STR_1453    :Kirjoita nimi vieraalle:
 STR_1454    :Vieraan nimeäminen ei onnistu...
 STR_1455    :Virheellinen nimi vieraalle
-STR_1456    :{WINDOW_COLOUR_2}Rahaa kulutettu: {BLACK}{CURRENCY2DP}
+STR_1456    :{WINDOW_COLOUR_2}Rahaa käytetty: {BLACK}{CURRENCY2DP}
 STR_1457    :{WINDOW_COLOUR_2}Rahaa taskussa: {BLACK}{CURRENCY2DP}
-STR_1458    :{WINDOW_COLOUR_2}Puistossa olemisaika: {BLACK}{REALTIME}
+STR_1458    :{WINDOW_COLOUR_2}Aikaa kulutettu puistossa: {BLACK}{REALTIME}
 STR_1459    :Radan tyyli
-STR_1460    :{SMALLFONT}{BLACK}'U' shaped open track
-STR_1461    :{SMALLFONT}{BLACK}'O' shaped enclosed track
-STR_1462    :Too steep for lift hill
+STR_1460    :{SMALLFONT}{BLACK}'U':n muotoinen avoin rata
+STR_1461    :{SMALLFONT}{BLACK}'O':n muotoinen ympäröity rata
+STR_1462    :Liian jyrkkä nostomäkeä varten
 STR_1463    :Vieraat
-STR_1464    :Helix up (small)
-STR_1465    :Helix up (large)
-STR_1466    :Helix down (small)
-STR_1467    :Helix down (large)
+STR_1464    :Ruuvikierre ylös (pieni)
+STR_1465    :Ruuvikierre ylös (iso)
+STR_1466    :Ruuvikierre alas (pieni)
+STR_1467    :Ruuvikierre alas (iso)
 STR_1468    :Henkilökunta
-STR_1469    :Ride must start and end with stations
-STR_1470    :Station not long enough
+STR_1469    :Laitteen pitää alkaa ja loppua asemilla
+STR_1470    :Asema ei ole tarpeeksi pitkä
 STR_1471    :{WINDOW_COLOUR_2}Nopeus:
-STR_1472    :{SMALLFONT}{BLACK}Tämän ajelun nopeus
-STR_1473    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1474    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}Not yet available
-STR_1475    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1476    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}Not yet available
-STR_1477    :{WINDOW_COLOUR_2}Intensity rating: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
-STR_1478    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1479    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}Not yet available
+STR_1472    :{SMALLFONT}{BLACK}Tämän laitteen nopeus
+STR_1473    :{WINDOW_COLOUR_2}Jännityksen arvosana: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1474    :{WINDOW_COLOUR_2}Jännityksen arvosana: {BLACK}Ei viellä saatavilla
+STR_1475    :{WINDOW_COLOUR_2}Intensiteetti arvosana: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1476    :{WINDOW_COLOUR_2}Intensiteetti arvosana: {BLACK}Ei viellä saatavilla
+STR_1477    :{WINDOW_COLOUR_2}Intensiteetti arvosana: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
+STR_1478    :{WINDOW_COLOUR_2}Pahoinvoinnin arvosana: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1479    :{WINDOW_COLOUR_2}Pahoinvoinnin arvosana: {BLACK}Ei viellä saatavilla
 STR_1480    :{SMALLFONT}{OPENQUOTES}Ei ole varaa {STRINGID}{ENDQUOTES}
 STR_1481    :{SMALLFONT}{OPENQUOTES}Kulutin kaikki rahani{ENDQUOTES}
 STR_1482    :{SMALLFONT}{OPENQUOTES}Tunnen oloni sairaaksi{ENDQUOTES}
@@ -3121,7 +3122,7 @@ STR_3109    :Avaa
 STR_3110    :{WINDOW_COLOUR_2}Block Sections: {BLACK}{COMMA16}
 STR_3111    :{SMALLFONT}{BLACK}Click on design to build it
 STR_3112    :{SMALLFONT}{BLACK}Click on design to rename or delete it
-STR_3113    :Valitse toinen malli
+STR_3113    :Valitse toinen suunnitelma
 STR_3114    :{SMALLFONT}{BLACK}Go back to design selection window
 STR_3115    :{SMALLFONT}{BLACK}Save track design
 STR_3116    :{SMALLFONT}{BLACK}Save track design (Not possible until ride has been tested and statistics have been generated)
