@@ -824,7 +824,7 @@ STR_0818    :Syys
 STR_0819    :Loka
 STR_0820    :Marras
 STR_0821    :Joulu
-STR_0822    :Unable to access graphic data file
+STR_0822    :Kykenemätön avaamaan grafiikkadatatiedostoa
 STR_0823    :Puuttuva tai käyttökelvoton datatiedosto
 STR_0824    :{BLACK}{CROSS}
 STR_0825    :Nimi on jo käytössä
@@ -837,9 +837,9 @@ STR_0831    :{SMALLFONT}{BLACK}Pienennä
 STR_0832    :{SMALLFONT}{BLACK}Käännä 90{DEGREE} myötäpäivään
 STR_0833    :{SMALLFONT}{BLACK}Pysäytä peli
 STR_0834    :{SMALLFONT}{BLACK}Levy- ja peliasetukset
-STR_0835    :Game initialisation failed
-STR_0836    :Unable to start game in a minimised state
-STR_0837    :Unable to initialise graphics system
+STR_0835    :Pelin alustus epäonnistui
+STR_0836    :Kykenemätön aloittamaan peliä pienennetyssä tilassa
+STR_0837    :Kykenemätön alustamaan grafiikkajärjestelmää
 STR_0838    :<not used anymore>
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
@@ -854,11 +854,11 @@ STR_0847    :Lisätietoja 'OpenRCT2'
 STR_0848    :RollerCoaster Tycoon 2
 STR_0849    :{WINDOW_COLOUR_2}Versio 2.01.028
 STR_0850    :{WINDOW_COLOUR_2}Tekijänoikeus {COPYRIGHT} 2002 Chris Sawyer, kaikki oikeudet pidetään
-STR_0851    :{WINDOW_COLOUR_2}Suunnitellut ja ohjelmoinnut Chris Sawyer
+STR_0851    :{WINDOW_COLOUR_2}Suunnitellut ja ohjelmoinut Chris Sawyer
 STR_0852    :{WINDOW_COLOUR_2}Grafiikka Simon Foster
 STR_0853    :{WINDOW_COLOUR_2}Äänet ja musiikki Allister Brimble
 STR_0854    :{WINDOW_COLOUR_2}Lisä-äänet nauhoittanut David Ellis
-STR_0855    :{WINDOW_COLOUR_2}Representation by Jacqui Lyons at Marjacq Ltd.
+STR_0855    :{WINDOW_COLOUR_2}Edustaja Jacqui Lyons, Marjacq Ltd.
 STR_0856    :{WINDOW_COLOUR_2}Kiitoksia:
 STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, ja John Wardley
 STR_0858    :{WINDOW_COLOUR_2}
@@ -890,16 +890,16 @@ STR_0883    :Tallenna peli
 STR_0884    :Lataa maisema
 STR_0885    :Tallenna maisema
 STR_0886    :Lopeta peli
-STR_0887    :Quit Scenario Editor
-STR_0888    :Quit Roller Coaster Designer
-STR_0889    :Quit Track Designs Manager
+STR_0887    :Lopeta skenaariomuokkaaja
+STR_0888    :Lopeta vuoristoratasuunnittelija
+STR_0889    :Lopeta ratamallihallinta
 STR_0890    :Kuva{COMMA16}.BMP
 STR_0891    :Kuvankaappaus
 STR_0892    :Kuvankaappaus tallennettu levylle nimellä '{STRINGID}'
 STR_0893    :Kuvankaappaus epäonnistui !
-STR_0894    :Landscape data area full !
+STR_0894    :Maiseman data-alue täynnä!
 STR_0895    :Ei voi rakentaa osittain maan ylle ja alle
-STR_0896    :{POP16}{POP16}{STRINGID} Construction
+STR_0896    :{POP16}{POP16}{STRINGID} Rakenne
 STR_0897    :Suunta
 STR_0898    :{SMALLFONT}{BLACK}Vasemman käden kaarre
 STR_0899    :{SMALLFONT}{BLACK}Oikean käden kaarre
@@ -910,12 +910,12 @@ STR_0903    :{SMALLFONT}{BLACK}Oikean käden kaarre (todella pieni säde)
 STR_0904    :{SMALLFONT}{BLACK}Vasemman käden kaarre (iso säde)
 STR_0905    :{SMALLFONT}{BLACK}Oikean käden kaarre (iso säde)
 STR_0906    :{SMALLFONT}{BLACK}Suora
-STR_0907    :Liukumäki
-STR_0908    :Roll/Banking
-STR_0909    :Seat Rot.
-STR_0910    :{SMALLFONT}{BLACK}Roll for left-hand curve
-STR_0911    :{SMALLFONT}{BLACK}Roll for right-hand curve
-STR_0912    :{SMALLFONT}{BLACK}No roll
+STR_0907    :Rinne
+STR_0908    :Kallistus
+STR_0909    :Istuimen kierto
+STR_0910    :{SMALLFONT}{BLACK}Vasemman käden kaarre kallistus
+STR_0911    :{SMALLFONT}{BLACK}Oikean käden kaarre kallistus
+STR_0912    :{SMALLFONT}{BLACK}Ei kallistusta
 STR_0913    :{SMALLFONT}{BLACK}Siirry edelliseen osaan
 STR_0914    :{SMALLFONT}{BLACK}Siirry seuraavaan osaan
 STR_0915    :{SMALLFONT}{BLACK}Rakenna valittu osio
@@ -931,22 +931,22 @@ STR_0924    :{SMALLFONT}{BLACK}Kierre alas
 STR_0925    :{SMALLFONT}{BLACK}Kierre ylös
 STR_0926    :Tämän poistaminen ei onnistu...
 STR_0927    :Tämän rakentaminen tähän ei onnistu...
-STR_0928    :{SMALLFONT}{BLACK}Chain lift, to pull cars up slopes
-STR_0929    :'S' kaarre (vasen)
-STR_0930    :'S' kaarre (oikea)
-STR_0931    :Vertical Loop (left)
-STR_0932    :Vertical Loop (right)
+STR_0928    :{SMALLFONT}{BLACK}Ketjuhissi, vaunujen vetämistä varten mäissä.
+STR_0929    :'S' mutka (vasen)
+STR_0930    :'S' mutka (oikea)
+STR_0931    :Pystysuora kierukka(vasen)
+STR_0932    :Pystysuora kierukka (oikea)
 STR_0933    :Nosta tai laske maata ensin
 STR_0934    :Ajelun sisäänkäynti edessä
 STR_0935    :Ajelun uloskäynti edessä
 STR_0936    :Puiston sisäänkäynti edessä
 STR_0937    :{SMALLFONT}{BLACK}Näkymäasetukset
-STR_0938    :{SMALLFONT}{BLACK}Adjust land height and slope
-STR_0939    :Underground/Inside View
-STR_0940    :Remove Base Land
-STR_0941    :Remove Vertical Faces
-STR_0942    :Näe läpi ajelut
-STR_0943    :Näe läpi maiseman
+STR_0938    :{SMALLFONT}{BLACK}Muokkaa maan korkeutta ja jyrkkyyttä
+STR_0939    :Maanalainen näkymä
+STR_0940    :Poista pohjamaa
+STR_0941    :Poista pystysuorat pinnat
+STR_0942    :Näe ajelujen läpi
+STR_0943    :Näe maiseman läpi
 STR_0944    :Tallenna
 STR_0945    :Älä tallenna
 STR_0946    :Peruuta
@@ -958,7 +958,7 @@ STR_0951    :Lopeta peli
 STR_0952    :Lopeta peli
 STR_0953    :Lataa maisema
 STR_0954    :
-STR_0955    :{SMALLFONT}{BLACK}Select seat rotation angle for this track section
+STR_0955    :{SMALLFONT}{BLACK}Valitse istuimen kiertokulma tämän radan osioon
 STR_0956    :-180{DEGREE}
 STR_0957    :-135{DEGREE}
 STR_0958    :-90{DEGREE}
@@ -979,48 +979,48 @@ STR_0972    :Peruuta
 STR_0973    :OK
 STR_0974    :Laitteet
 STR_0975    :Kaupat ja kojut
-STR_0976    :Toilets and Information Kiosks
+STR_0976    :Vessat ja infokioskit
 STR_0977    :Uusi kuljetuslaite
 STR_0978    :New Gentle Rides
 STR_0979    :Uusia vuoristoratoja
 STR_0980    :New Thrill Rides
 STR_0981    :Uusia vesilaitteita
 STR_0982    :Uusia kauppoja ja kojuja
-STR_0983    :Research & Development
+STR_0983    :Tutkimustyö & kehittely
 STR_0984    :{WINDOW_COLOUR_2}{UP}{BLACK}  {CURRENCY2DP}
 STR_0985    :{WINDOW_COLOUR_2}{DOWN}{BLACK}  {CURRENCY2DP}
 STR_0986    :{BLACK}{CURRENCY2DP}
-STR_0987    :Too many rides/attractions
-STR_0988    :Can't create new ride/attraction...
+STR_0987    :Liian monta laitetta/kohdetta
+STR_0988    :Ei pysty luomaan uutta laitetta/kohdetta...
 STR_0989    :{STRINGID}
-STR_0990    :{SMALLFONT}{BLACK}Construction
-STR_0991    :Station platform
-STR_0992    :{SMALLFONT}{BLACK}Demolish entire ride/attraction
+STR_0990    :{SMALLFONT}{BLACK}Rakennus
+STR_0991    :Asematasanne
+STR_0992    :{SMALLFONT}{BLACK}Romuta koko laite/kohde
 STR_0993    :Romuta laite/nähtävyys
 STR_0994    :Romuta
 STR_0995    :{WINDOW_COLOUR_1}Oletko varma että haluat tuhota {STRINGID}:n?
 STR_0996    :Kokonaisnäkymä
 STR_0997    :{SMALLFONT}{BLACK}Näe valinta
-STR_0998    :Enempää asemia ei sallittu tälle laitteelle
-STR_0999    :Requires a station platform
-STR_1000    :Track is not a complete circuit
-STR_1001    :Track unsuitable for type of train
+STR_0998    :Ei lisää asemia sallittu tälle laitteelle
+STR_0999    :Vaatii asematasanteen
+STR_1000    :Rata ei tee täydellistä kierrosta
+STR_1001    :Track unsuitable for type of train Rata ei sovi kyseiselle junalajille.
 STR_1002    :Avaaminen ei onnistu laitteessa {POP16}{POP16}{POP16}{STRINGID}...
 STR_1003    :Testiajo ei onnistu laitteessa {POP16}{POP16}{POP16}{STRINGID}...
 STR_1004    :Sulkeminen ei onnistu laitteessa {POP16}{POP16}{POP16}{STRINGID}...
 STR_1005    :Rakentaminen ei onnistu laitteessa {POP16}{POP16}{POP16}{STRINGID}...
 STR_1006    :Täytyy ensin sulkea
-STR_1007    :Unable to create enough vehicles
-STR_1008    :{SMALLFONT}{BLACK}Open, close, or test ride/attraction
-STR_1009    :{SMALLFONT}{BLACK}Open or close all rides/attractions
+STR_1007    :Kykenemätön luomaan tarpeeksi kulkuneuvoja
+STR_1008    :{SMALLFONT}{BLACK}Avaa, sulje, tai testaa laitetta/kohdetta
+STR_1009    :{SMALLFONT}{BLACK}Avaa tai sulje kaikki laitteet/kohteet
 STR_1010    :{SMALLFONT}{BLACK}Avaa tai sulje puisto
 STR_1011    :Sulje kaikki
 STR_1012    :Avaa kaikki
 STR_1013    :Sulje puisto
 STR_1014    :Avaa puisto
-STR_1015    :Unable to operate with more than one station platform in this mode
-STR_1016    :Unable to operate with less than two stations in this mode
-STR_1017    :Can't change operating mode...
+STR_1015    :Kykenemätön toimimaan useamman asematasanteen kanssa tässä toimintatilassa
+STR_1016    :Kykenemätön toimimaan vähemmän kuin kahden asematasanteen kanssa tässä toimintatilassa
+STR_1017    :Ei pysty vaihtaamaan toimintatilaa...
 STR_1018    :Muutoksien teko ei onnistu...
 STR_1019    :Muutoksien teko ei onnistu...
 STR_1020    :Muutoksien teko ei onnistu...
@@ -1029,9 +1029,9 @@ STR_1022    :{POP16}{POP16}{POP16}{COMMA16} auto per juna
 STR_1023    :{POP16}{POP16}{POP16}{COMMA16} autoa per juna
 STR_1024    :{COMMA16} auto per juna
 STR_1025    :{COMMA16} autoa per juna
-STR_1026    :Station platform too long!
-STR_1027    :{SMALLFONT}{BLACK}Locate this on Main View
-STR_1028    :Off edge of map!
+STR_1026    :Asematasanne on liian pitkä!
+STR_1027    :{SMALLFONT}{BLACK}Paikanna tämä päänäkymässä
+STR_1028    :Kentän laidan yli!
 STR_1029    :Ei voi rakentaa osittain veden pinnan ylle ja alle!
 STR_1030    :Tämän voi ainoastaan rakentaa veden alle!
 STR_1031    :Tätä ei voi rakentaa veden alle!
@@ -1041,34 +1041,34 @@ STR_1034    :Tämän voi ainoastaan rakentaa maanpinnalle!
 STR_1035    :Paikallinen virkavalta ei salli rakentaa puiden latvoja korkeammalle!
 STR_1036    :Lataa peli
 STR_1037    :Lataa maisema
-STR_1038    :Convert saved game to scenario
-STR_1039    :Install new track design
+STR_1038    :Muunna tallennettu peli skenaarioksi
+STR_1039    :Asenna uusi ratamalli
 STR_1040    :Tallenna peli
-STR_1041    :Save Scenario
+STR_1041    :Tallenna skenaario
 STR_1042    :Tallenna maisema
 STR_1043    :OpenRCT2 Tallennettu peli
-STR_1044    :OpenRCT2 Scenario File
+STR_1044    :OpenRCT2 Skenaariotiedosto
 STR_1045    :OpenRCT2 Maisematiedosto
-STR_1046    :OpenRCT2 Track Design File
+STR_1046    :OpenRCT2 Ratamallitiedosto
 STR_1047    :Pelin tallennus epäonnistui!
-STR_1048    :Scenario save failed!
+STR_1048    :Skenaarion tallennus epäonnistui!
 STR_1049    :Maisematiedoston tallennus epäonnistui!
 STR_1050    :Avaaminen epäonnistui...{NEWLINE}Tiedosto sisältää virheellistä tietoa!
-STR_1051    :Näkymättömiä tukia
-STR_1052    :Näkymättömiä henkilöitä
-STR_1053    :{SMALLFONT}{BLACK}Rides/attractions in park
-STR_1054    :{SMALLFONT}{BLACK}Name ride/attraction
+STR_1051    :Näkymättömät tuet
+STR_1052    :Näkymättömät ihmiset
+STR_1053    :{SMALLFONT}{BLACK}Laitteet/kohteet puistossa
+STR_1054    :{SMALLFONT}{BLACK}Nimeä laite/kohde
 STR_1055    :{SMALLFONT}{BLACK}Nimeä henkilö
 STR_1056    :{SMALLFONT}{BLACK}Nimeä henkilöstön jäsen
-STR_1057    :Ride/attraction name
-STR_1058    :Enter new name for this ride/attraction:
-STR_1059    :Can't rename ride/attraction...
-STR_1060    :Invalid ride/attraction name
-STR_1061    :Normal mode
-STR_1062    :Continuous circuit mode
+STR_1057    :Laitteen/kohteen nimi
+STR_1058    :Kirjoita uusi nimi tälle laitteelle/kohteelle:
+STR_1059    :Ei pysty uudelleennimeämään laitetta/kohdetta...
+STR_1060    :Virheellinen laitteen/kohteen nimi
+STR_1061    :Normaalitoimintatila
+STR_1062    :Toistuva kierros toimintatila
 STR_1063    :Reverse-Incline launched shuttle mode
-STR_1064    :Powered launch (passing station)
-STR_1065    :Shuttle mode
+STR_1064    :Teholaukaisu (asematasanteen ohimennen)
+STR_1065    :Sukkulatoimintatila
 STR_1066    :Boat hire mode
 STR_1067    :Upward launch
 STR_1068    :Rotating lift mode
