@@ -3897,8 +3897,28 @@ STR_5547    :{SMALLFONT}{BLACK}淺粉紅色
 ###############################################################################
 [AML1]
 STR_NAME    :美式蒸氣火車
-STR_DESC    :配備著復刻蒸氣火車頭及煤水車的小型蒸氣火, pulling wooden carriages with fabric roofs
-STR_CPTY    :每車卡6個乘客
+STR_DESC    :配備著復刻蒸氣火車頭及煤水車的小型蒸氣火車, 拉著帶有帆布車頂的木製車廂
+STR_CPTY    :每車廂6個乘客
+
+[CLIFT1]
+STR_NAME    :纜車車卡
+STR_DESC    :供纜車使用的開放式車卡
+STR_CPTY    :每車卡2個乘客
+
+[CLIFT2]
+STR_NAME    :登頂滑雪纜車車椅
+STR_DESC    :供纜車使用的開放式車卡
+STR_CPTY    :每車卡2個乘客
+
+[LIFT1]
+STR_NAME    :升降機
+STR_DESC    :遊客乘搭升降機上下穿梭於垂直的管道中, 並借此訪問另一層
+STR_CPTY    :16個乘客
+
+[MONO1]
+STR_NAME    :流線型單軌電車
+STR_DESC    :大載客量的單軌電車, 車頭車尾都配備著流線型設計
+STR_CPTY    :每車卡5或10個乘客
 
 #WW
 [CONDORRD]
