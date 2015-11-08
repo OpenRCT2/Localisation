@@ -4034,8 +4034,11 @@ STR_SCNR   :Bouw je eigen Six Flags-park
 STR_PARK   :Six Flags
 STR_DTLS   :Maak je eigen Six Flags-park, door gebruik te maken van attracties uit andere Six Flags-parken of door zelf nieuwe attracties te ontwerpen.
 
-[NITROENT]
-STR_NAME    :'Nitro'-bord
+#TT
+<Mythological - Animatronic Film Set>
+STR_SCNR   :  Mythologie - Animatronic-filmset
+STR_PARK   :Animatronic Antics
+STR_DTLS   :Je moet een bestaand pretpark, gebouwd op een oude filmset, beheren en verbeteren. Bouw een eerbetoon aan de pioniers van de stop-motionanimatie, die de wezens uit de mythologie tot leven brachten op het witte doek.
 
 ##################################
 # Rides/attractions / Attracties #
@@ -5908,3 +5911,9 @@ STR_NAME    :  'Donkere eeuwen'-thema
 #TT
 [SCGMYTHO]
 STR_NAME    :  Mythologisch thema
+
+#################
+# Large objects #
+#################
+[NITROENT]
+STR_NAME    :'Nitro'-bord
