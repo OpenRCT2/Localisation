@@ -2222,7 +2222,7 @@ STR_2214    :게임 일시정지 중에는 건설할 수 없습니다!
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}C
 STR_2217    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}F
-STR_2218    :{RED}{STRINGID}(놀이기구: {STRINGID})(이)가 {STRINGID}(으)로 아직 돌아오지 않았습니다!{NEWLINE}놀이기구가 멈춰있거나 Check whether it is stuck or has 상점ed
+STR_2218    :{RED}{STRINGID}(놀이기구: {STRINGID})(이)가 {STRINGID}으로 아직 돌아오지 않았습니다!{NEWLINE}놀이기구가 멈춰있거나 오도가도 못하고 있는지 확인하세요.
 STR_2219    :{RED}{COMMA16}명의 손님이 {STRINGID} 사고로 사망하였습니다!
 STR_2220    :{WINDOW_COLOUR_2}공원 등급: {BLACK}{COMMA16}
 STR_2221    :{SMALLFONT}{BLACK}공원 등급: {COMMA16}
@@ -2366,7 +2366,7 @@ STR_2358    :유닛
 STR_2359    :실제 값
 STR_2360    :{WINDOW_COLOUR_2}해상도:
 STR_2361    :땅 테두리를 부드럽게
-STR_2362    :{SMALLFONT}{BLACK}땅의 테두리를 부드럽게 보입니다
+STR_2362    :{SMALLFONT}{BLACK}땅의 테두리를 부드럽게 보이게 만듭니다
 STR_2363    :땅에 격자선 보이기
 STR_2364    :{SMALLFONT}{BLACK}땅에 격자선을 보여줍니다
 STR_2365    :은행이 대출을 증가시키는 것을 거절했습니다!
@@ -3844,8 +3844,8 @@ STR_5504    :{SMALLFONT}{BLACK}멀티플레이 창을 엽니다
 STR_5505    :서버에 접속할 수 없습니다
 STR_5506    :손님이 격렬도를 무시하고 탐
 STR_5507    :미화원이 기본적으로 잔디를 깎음
-STR_5508    :올바르지 않은 체크합을 가진 파일 불러오기 허용
-STR_5509    :{SMALLFONT}{BLACK}데모에서 저장한 시나리오나 손상된 저장 파일과 같이 올바르지 않은 체크합을 가진 시나리오나 저장 파일을 불러오는 것을 허용합니다.
+STR_5508    :올바르지 않은 검사합을 가진 파일 불러오기 허용
+STR_5509    :{SMALLFONT}{BLACK}데모에서 저장한 시나리오나 손상된 저장 파일과 같이 올바르지 않은 검사합을 가진 시나리오나 저장 파일을 불러오는 것을 허용합니다.
 STR_5510    :기본 사운드 장치
 STR_5511    :(알 수 없음)
 STR_5512    :다른 이름으로 저장
