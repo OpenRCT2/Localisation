@@ -1925,7 +1925,7 @@ STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :不能再借貸更多錢!
 STR_1919    :沒有足夠的現金!
 STR_1920    :不能償還貸款!
-STR_1921    :{SMALLFONT}{BLACK}開新遊戲
+STR_1921    :{SMALLFONT}{BLACK}開始新遊戲
 STR_1922    :{SMALLFONT}{BLACK}繼續遊玩存檔
 STR_1923    :{SMALLFONT}{BLACK}開始教學
 STR_1924    :{SMALLFONT}{BLACK}退出遊戲
@@ -3331,7 +3331,7 @@ STR_3320    :無法儲存劇情檔案...
 STR_3321    :成功安裝新物件
 STR_3322    :{WINDOW_COLOUR_2}目標: {BLACK}{STRINGID}
 STR_3323    :缺少物件資料, ID為: 
-STR_3324    :需要資料片: 
+STR_3324    :需要資料片: {STRINGID}
 STR_3325    :需要一隻資料片
 STR_3326    :{WINDOW_COLOUR_2}(暫無圖片)
 STR_3327    :尚未設定遊客的開始步行位置
@@ -3475,7 +3475,7 @@ STR_5133    :{SMALLFONT}{BLACK}選擇較小的土地範圍
 STR_5134    :{SMALLFONT}{BLACK}選擇較大的土地範圍
 STR_5135    :{SMALLFONT}{BLACK}購買土地擁有權或建造權
 STR_5136    :土地擁有權
-STR_5137    :允許鏈條上拉及發車速度高至{VELOCITY}
+STR_5137    :移除遊樂設施的運行限制
 STR_5138    :{SMALLFONT}{WINDOW_COLOUR_2}{STRINGID}
 STR_5139    :{WHITE}{STRINGID}
 STR_5140    :去除煞車組件故障
@@ -3780,7 +3780,7 @@ STR_5437    :暫無存檔被選中
 STR_5438    :當命令編輯工具開啟不能作出改變
 STR_5439    :4秒以上的等待(Wait)命令需要加上重新開始(Restart)命令
 STR_5440    :當焦點失去時最小化全螢幕的遊戲
-STR_5441    :{SMALLFONT}{BLACK}以軌道類別分別遊樂設施,{NEWLINE}令到車輔風格可以在建造後更改,{NEWLINE}就像夢幻遊樂園1(RCT1)一樣.
+STR_5441    :{SMALLFONT}{BLACK}以軌道類別分別遊樂設施,{NEWLINE}就像夢幻遊樂園1(RCT1)一樣,{NEWLINE}令到車輔風格可以在建造後更改.
 STR_5442    :固定樂園評價:
 STR_5443    :速度{MOVE_X}{87}{STRINGID}
 STR_5444    :速度:
@@ -3840,7 +3840,7 @@ STR_5497    :延遲值 (Ping):
 STR_5498    :伺服器列表
 STR_5499    :玩家名稱:
 STR_5500    :新增伺服器
-STR_5501    :開始伺服器
+STR_5501    :開設伺服器
 STR_5502    :多人連線模式
 STR_5503    :請輸入主機名稱或IP地址:
 STR_5504    :{SMALLFONT}{BLACK}顯示多人連線狀態
@@ -3849,7 +3849,7 @@ STR_5506    :遊客無視設施的刺激度
 STR_5507    :預設清潔工人會修剪草皮
 STR_5508    :允許載入校驗失敗的檔案
 STR_5509    :{SMALLFONT}{BLACK}允許載入校驗失敗的劇情及存檔, 例如試玩版的劇情或已損壞的存檔.
-STR_5510    :預設聲效裝置
+STR_5510    :預設音效裝置
 STR_5511    :(未知)
 STR_5512    :另存遊戲
 STR_5513    :(快速)儲存遊戲
@@ -3906,7 +3906,7 @@ STR_5563    :此功能暫未穩定地使用, 請多加留意.
 STR_5564    :插入已損壞元素
 STR_5565    :{SMALLFONT}{BLACK}在一個網格的最上插入一個已損壞的地圖元素. 此插入會隱藏其他元素.
 STR_5566    :密碼:
-STR_5567    :推廣
+STR_5567    :推廣由主伺服器列表中
 STR_5568    :輸入密碼
 STR_5569    :此伺服器被密碼保護
 STR_5570    :索取伺服器
@@ -3914,13 +3914,182 @@ STR_5571    :加入遊戲
 STR_5572    :加入最愛
 STR_5573    :由最愛中移除
 STR_5574    :伺服器名稱:
-STR_5575    :最多玩家數:
+STR_5575    :最大玩家數量:
 STR_5576    :連接埠:
 STR_5577    :南韓園 (₩)
 STR_5578    :俄羅斯盧布 (R)
 STR_5579    :顥示縮放因子:
 STR_5580    :捷克克朗 (Kc)
+STR_5581    :顥示幀數
+STR_5582    :限制滑鼠游標於視窗中移動
+STR_5583    :{COMMA1DP16}ms{POWERNEGATIVEONE}
+STR_5584    :SI
+STR_5585    :{SMALLFONT}{BLACK}移除遊樂設施的運行限制, 例如容許鏈條上拉速度高達{VELOCITY}
+STR_5586    :自動開啟商店及攤販
+STR_5587    :{SMALLFONT}{BLACK}當此設定啟用後, 商店及攤販將會於建造後自動開啟
+STR_5588    :{SMALLFONT}{BLACK}與其他玩家一起遊玩
+STR_5589    :消息設定
+STR_5590    :樂園獎項
+STR_5591    :推廣計劃已完結
+STR_5592    :有關樂園的警告
+STR_5593    :有關樂園評價的警告
+STR_5594    :遊樂設施發生故障
+STR_5595    :遊樂設施毀壞了
+STR_5596    :有關遊樂設施的警告
+STR_5597    :研發好的遊樂設施,商店或景物
+STR_5598    :有關遊客的警告
+STR_5599    :遊客迷路了
+STR_5600    :遊客已離開樂園
+STR_5601    :遊客正在排隊遊玩某個遊樂設施
+STR_5602    :遊客已乘上遊樂設施
+STR_5603    :遊客已離開遊樂設施
+STR_5604    :遊客已購買物品
+STR_5605    :遊客已使用設施
+STR_5606    :遊客已死亡
+STR_5607    :{SMALLFONT}{BLACK}強制移除選中的地圖元素.
+STR_5608    :BH
+STR_5609    :CH
+STR_5610    :{SMALLFONT}{BLACK}移除選中的地圖元素. 使用時請注意. 因為強制移除地圖元素並不會對遊戲中的現金做成影響.
+STR_5611    :G
+STR_5612    :{SMALLFONT}{BLACK}Ghost flag
+STR_5613    :B
+STR_5614    :{SMALLFONT}{BLACK}Broken flag
+STR_5615    :L
+STR_5616    :{SMALLFONT}{BLACK}Last element for tile flag
+STR_5617    :{SMALLFONT}{BLACK}將選中的元素移到上面.
+STR_5618    :{SMALLFONT}{BLACK}將選中的元素移到下面.
+STR_5619    :夢幻遊樂園
+STR_5620    :夢幻遊樂園: 資料片1
+STR_5621    :夢幻遊樂園: 資料片2
+STR_5622    :模擬樂園2
+STR_5623    :瘋狂世界
+STR_5624    :時空歷險
+STR_5625    :{OPENQUOTES}真實的{ENDQUOTES}樂園
+STR_5626    :其他樂園
+STR_5627    :樂園列表的排序方式:
+STR_5628    :出處的遊戲
+STR_5629    :困難程度
+STR_5630    :允許劇情解鎖
+STR_5631    :額外下載的官方樂園
+STR_5632    :建設你的..
+STR_5633    :CMD + 
+STR_5634    :OPTION + 
 
+
+#############
+# Scenarios #
+################
+# RCT Original #
+################
+<Forest Frontiers>
+STR_SCNR    :Forest Frontiers
+STR_PARK    :Forest Frontiers
+STR_DTLS    :在隱藏於森林深處的清空範圍中, 建造一個很受歡迎的樂園
+
+<Dynamite Dunes>
+STR_SCNR    :Dynamite Dunes
+STR_PARK    :Dynamite Dunes
+STR_DTLS    :這個座立於沙漠中的樂園只有一座雲霄飛車, 但不缺乏可供擴充的位置
+
+<Leafy Lake>
+STR_SCNR    :Leafy Lake
+STR_PARK    :Leafy Lake
+STR_DTLS    :在一個大型湖泊的旁邊, 由零開始建造一個樂園
+
+<Diamond Heights>
+STR_SCNR    :Diamond Heights
+STR_PARK    :Diamond Heights
+STR_DTLS    :Diamond Heights已經是一個擁有極佳遊樂設施, 並且很發展得很成功的樂園 - 繼續發展它讓它的價值翻倍
+
+<Evergreen Gardens>
+STR_SCNR    :Evergreen Gardens
+STR_PARK    :Evergreen Gardens
+STR_DTLS    :將景色優美的Evergreen Gardens轉型成一個很受歡迎的樂園
+
+<Bumbly Beach>
+STR_SCNR    :Bumbly Beach
+STR_PARK    :Bumbly Beach
+STR_DTLS    :Develop Bumbly Beach's small amusement park into a thriving theme park
+
+<Trinity Islands>
+STR_SCNR    :Trinity Islands
+STR_PARK    :Trinity Islands
+STR_DTLS    :Several islands form the basis for this new park
+
+<Katie's Dreamland>
+STR_SCNR    :Katie's Dreamland
+STR_PARK    :Katie's Dreamland
+STR_DTLS    :A small theme park with a few rides and room for expansion - Your aim is to double the park value
+
+<Pokey Park>
+STR_SCNR    :Pokey Park
+STR_PARK    :Pokey Park
+STR_DTLS    :A small, cramped amusement park which requires major expansion
+
+<White Water Park>
+STR_SCNR    :White Water Park
+STR_PARK    :White Water Park
+STR_DTLS    :A park with some excellent water-based rides requires expansion
+
+<Millennium Mines>
+STR_SCNR    :Millennium Mines
+STR_PARK    :Millennium Mines
+STR_DTLS    :Convert a large abandoned mine from a tourist attraction into a theme park
+
+<Karts & Coasters>
+STR_SCNR    :Karts & Coasters
+STR_PARK    :Karts & Coasters
+STR_DTLS    :A large park hidden in the forest, with only go-kart tracks and wooden roller coasters
+
+<Mel's World>
+STR_SCNR    :Mel's World
+STR_PARK    :Mel's World
+STR_DTLS    :This theme park has some well-designed modern rides, but plenty of space for expansion
+
+<Mystic Mountain>
+STR_SCNR    :Mystic Mountain
+STR_PARK    :Mystic Mountain
+STR_DTLS    :In the hilly forests of Mystic Mountain, build a theme park from scratch
+
+<Pacific Pyramids>
+STR_SCNR    :Pacific Pyramids
+STR_PARK    :Pacific Pyramids
+STR_DTLS    :Convert the Egyptian Ruins tourist attraction into a thriving theme park
+
+<Crumbly Woods>
+STR_SCNR    :Crumbly Woods
+STR_PARK    :Crumbly Woods
+STR_DTLS    :A large park with well-designed but rather old rides - Replace the old rides or add new rides to make the park more popular
+
+<Paradise Pier>
+STR_SCNR    :Paradise Pier
+STR_PARK    :Paradise Pier
+STR_DTLS    :Convert this sleepy town's pier into a thriving attraction
+
+<Lightning Peaks>
+STR_SCNR    :Lightning Peaks
+STR_PARK    :Lightning Peaks
+STR_DTLS    :The beautiful mountains of Lightning Peaks are popular with walkers and sightseers - Use the available land to attract a new thrill-seeking clientele
+
+<Ivory Towers>
+STR_SCNR    :Ivory Towers
+STR_PARK    :Ivory Towers
+STR_DTLS    :一個有數項問題的知名樂園
+
+<Rainbow Valley>
+STR_SCNR    :Rainbow Valley
+STR_PARK    :Rainbow Valley
+STR_DTLS    :Rainbow Valley's local authority won't allow any landscape changes or large tree removal, but you must develop the area into a large theme park
+
+<Thunder Rock>
+STR_SCNR    :Thunder Rock
+STR_PARK    :Thunder Rock
+STR_DTLS    :Thunder Rock stands in the middle of a desert and attracts many tourists - Use the available space to build rides to attract more people
+
+<Mega Park>
+STR_SCNR    :Mega Park
+STR_PARK    :Mega Park
+STR_DTLS    :盡情玩吧!
 
 #####################
 # Rides/attractions # 
@@ -4000,7 +4169,7 @@ STR_CPTY    :30個遊客
 
 [CTCAR]
 STR_NAME    :笑臉貓遊
-STR_DESC    :帶有動力的貓班車輛跟隨著軌道的路線遊覽周邊
+STR_DESC    :帶有動力的貓型車輛跟隨著軌道的路線遊覽周邊
 STR_CPTY    :每輛車2個乘客
 
 [DODG1]
