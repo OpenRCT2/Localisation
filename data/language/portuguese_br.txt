@@ -2799,7 +2799,7 @@ STR_2788    :{WINDOW_COLOUR_2}Parabéns !{NEWLINE}{BLACK}Você alcançou seu obj
 STR_2789    :{WINDOW_COLOUR_2}Você falhou no seu objetivo !
 STR_2790    :Digite o nome do gráfico do cenário
 STR_2791    :Digite o nome
-STR_2792    :Por favor, insira o seu nome para o gráfico do cenário:
+STR_2792    :Por favor, insira o seu nome {NEWLINE}para a lista de cenário:
 STR_2793    :{SMALLFONT}(Completado por {STRINGID})
 STR_2794    :{WINDOW_COLOUR_2}Completado por: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} com o valor da empresa de: {BLACK}{CURRENCY}
 STR_2795    :Organizar
@@ -3677,8 +3677,8 @@ STR_5335    :Entrada da atração
 STR_5336    :Saida da atração
 STR_5337    :Entrada do parque
 STR_5338    :Tipo de elemento
-STR_5339    :Altura da base
-STR_5340    :Altura de passagem
+STR_5339    :{SMALLFONT}{BLACK}Altura da base
+STR_5340    :{SMALLFONT}{BLACK}Altura de segurança
 STR_5341    :Bandeiras
 STR_5342    :Escolha o azulejo do mapa
 STR_5343    :Colocar automaticamente funcionários
@@ -3926,7 +3926,7 @@ STR_5584    :SI
 STR_5585    :{SMALLFONT}{BLACK}Destrava limites de operação na atração, permitindo coisas como corrente de elevação com {VELOCITY}
 STR_5586    :Abrir automaticamente lojas e barracas
 STR_5587    :{SMALLFONT}{BLACK}Quando habilitado, lojas e barracas serão abertas automaticamente depois de contruí-las
-STR_5588    :{SMALLFONT}{BLACK}Jogue com outros jogadores
+STR_5588    :{SMALLFONT}{BLACK}Jogar com outros jogadores
 STR_5589    :Configurações de Notificação
 STR_5590    :Prêmios do parque
 STR_5591    :A campanha de marketing terminou
@@ -3946,14 +3946,14 @@ STR_5604    :Visitante comprou um item
 STR_5605    :Visitante usou uma instalação
 STR_5606    :Visitante morreu
 STR_5607    :{SMALLFONT}{BLACK}Força remoção do elemento de mapa selecionado.
-STR_5608    :BH
-STR_5609    :CH
+STR_5608    :AB
+STR_5609    :AS
 STR_5610    :{SMALLFONT}{BLACK}Remove o elemento de mapa atual selecionado. Isto irá forçar a remoção dele, então nenhum dinheiro será gasto/ganho. Use com cuidado.
-STR_5611    :G
+STR_5611    :F
 STR_5612    :{SMALLFONT}{BLACK}Bandeira fantasma
-STR_5613    :B
+STR_5613    :Q
 STR_5614    :{SMALLFONT}{BLACK}Bandeira quebrada
-STR_5615    :L
+STR_5615    :U
 STR_5616    :{SMALLFONT}{BLACK}Último elemento para a bandeira do azulejo
 STR_5617    :{SMALLFONT}{BLACK}Move elemento selecionado para cima.
 STR_5618    :{SMALLFONT}{BLACK}Move elemento selecionado para baixo.
@@ -3982,7 +3982,7 @@ STR_5634    :OPTION +
 <Forest Frontiers>
 STR_SCNR    :Forest Frontiers
 STR_PARK    :Forest Frontiers
-STR_DTLS    :No meio da floresta, construia um próspero parquee temático numa grande área aberta.
+STR_DTLS    :No meio da floresta, construa um próspero parque temático numa grande área aberta.
 
 <Dynamite Dunes>
 STR_SCNR    :Dynamite Dunes
