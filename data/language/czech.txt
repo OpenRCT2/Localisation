@@ -830,12 +830,12 @@ STR_0825    :Zvolené jméno je již používáno
 STR_0826    :Definováno příliš mnoho jmen
 STR_0827    :Nedostatek financí - potřeba {CURRENCY2DP}
 STR_0828    :{SMALLFONT}{BLACK}Zavřít okno
-STR_0829    :{SMALLFONT}{BLACK}Window title - Drag this to move window
+STR_0829    :{SMALLFONT}{BLACK}Titulek okna - lze s ním posunout okno
 STR_0830    :{SMALLFONT}{BLACK}Přiblížit pohled
-STR_0831    :{SMALLFONT}{BLACK}ZOddálit pohled
+STR_0831    :{SMALLFONT}{BLACK}Oddálit pohled
 STR_0832    :{SMALLFONT}{BLACK}Otočit o 90{DEGREE} po směru hodinových ručiček
 STR_0833    :{SMALLFONT}{BLACK}Pozastavit hru
-STR_0834    :{SMALLFONT}{BLACK}Disk and game options
+STR_0834    :{SMALLFONT}{BLACK}Uložení a nastavení hry
 STR_0835    :Game initialisation failed
 STR_0836    :Nelze spustit hru minimalizovanou.
 STR_0837    :Unable to initialise graphics system
@@ -939,11 +939,11 @@ STR_0933    :Nejdříve zvyš nebo sniž povrch
 STR_0934    :Vstup na atrakci v cestě
 STR_0935    :Výtup z atrakce v cestě
 STR_0936    :Vchod do parku v cestě
-STR_0937    :{SMALLFONT}{BLACK}View options
-STR_0938    :{SMALLFONT}{BLACK}Adjust land height and slope
-STR_0939    :POdzemní/Vnitří pohled
-STR_0940    :Remove Base Land
-STR_0941    :Remove Vertical Faces
+STR_0937    :{SMALLFONT}{BLACK}Nastavení zobrazení
+STR_0938    :{SMALLFONT}{BLACK}Upravit výšku a sklon povrchu
+STR_0939    :Podzemní/Vnitří pohled
+STR_0940    :Skrýt povrch země
+STR_0941    :Skrýt hrany mapy
 STR_0942    :Průhledné atrakce
 STR_0943    :Průhledná výzdoba
 STR_0944    :Uložit
@@ -1053,8 +1053,8 @@ STR_1047    :Uložení hry selhalo!
 STR_1048    :Scenario save failed!
 STR_1049    :Landscape save failed!
 STR_1050    :Failed to load...{NEWLINE}File contains invalid data!
-STR_1051    :Nevyditelné podpěry
-STR_1052    :Nevyditelní lidé
+STR_1051    :Neviditelné podpěry
+STR_1052    :Neviditelní lidé
 STR_1053    :{SMALLFONT}{BLACK}Rides/attractions in park
 STR_1054    :{SMALLFONT}{BLACK}Name ride/attraction
 STR_1055    :{SMALLFONT}{BLACK}Name person
@@ -1155,15 +1155,15 @@ STR_1149    :Half load
 STR_1150    :Three-quarter load
 STR_1151    :Full load
 STR_1152    :Any load
-STR_1153    :Height Marks on Ride Tracks
-STR_1154    :Height Marks on Land
-STR_1155    :Height Marks on Paths
+STR_1153    :Výškové popisky atrakcí
+STR_1154    :Výškové popisky krajiny
+STR_1155    :Výškové popisky cest
 STR_1156    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1157    :{TICK}{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1158    :Tohle nelze odstranit...
-STR_1159    :{SMALLFONT}{BLACK}Place scenery, gardens, and other accessories
-STR_1160    :{SMALLFONT}{BLACK}Create/adjust lakes & water
-STR_1161    :Tohle tafy nemůže být...
+STR_1159    :{SMALLFONT}{BLACK}Nástroj pro kulisy, květiny a ostatní doplňky
+STR_1160    :{SMALLFONT}{BLACK}Nástroj pro vodní plochy
+STR_1161    :Tohle tady nemůže být...
 STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
 STR_1163    :{STRINGID}{NEWLINE}(Right-Click to Modify)
 STR_1164    :{STRINGID}{NEWLINE}(Right-Click to Remove)
@@ -1175,7 +1175,7 @@ STR_1169    :(None)
 STR_1170    :{STRING}
 STR_1171    :{RED}Zavřeno - - 
 STR_1172    :{YELLOW}{STRINGID} - - 
-STR_1173    :{SMALLFONT}{BLACK}Build footpaths and queue lines
+STR_1173    :{SMALLFONT}{BLACK}Nástroj pro cesty a fronty
 STR_1174    :Banner sign in the way
 STR_1175    :Can't build this on sloped footpath
 STR_1176    :Can't build footpath here...
@@ -1184,9 +1184,9 @@ STR_1178    :Land slope unsuitable
 STR_1179    :Footpath in the way
 STR_1180    :Can't build this underwater!
 STR_1181    :Cesty
-STR_1182    :Druh
+STR_1182    :Typ cesty
 STR_1183    :Směr
-STR_1184    :Slope
+STR_1184    :Sklon
 STR_1185    :{SMALLFONT}{BLACK}Směr
 STR_1186    :{SMALLFONT}{BLACK}Slope down
 STR_1187    :{SMALLFONT}{BLACK}Level
@@ -1427,8 +1427,8 @@ STR_1421    :{SMALLFONT}{BLACK}{COMMA16}g
 STR_1422    :{SMALLFONT}{BLACK}Logging data from {POP16}{STRINGID}
 STR_1423    :{SMALLFONT}{BLACK}Queue line path
 STR_1424    :{SMALLFONT}{BLACK}Footpath
-STR_1425    :Footpath
-STR_1426    :Queue Line
+STR_1425    :Pěší cesta
+STR_1426    :Fronta
 STR_1427    :{WINDOW_COLOUR_2}Customers: {BLACK}{COMMA32} per hour
 STR_1428    :{WINDOW_COLOUR_2}Admission price:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
@@ -1651,15 +1651,15 @@ STR_1645    :
 STR_1646    :
 STR_1647    :
 STR_1648    :{SMALLFONT}{OPENQUOTES}Pomóc! Polož mě dolů!{ENDQUOTES}
-STR_1649    :{SMALLFONT}{OPENQUOTES}Dochází my hotovost!{ENDQUOTES}
-STR_1650    :{SMALLFONT}{OPENQUOTES}Wow! A new ride being built!{ENDQUOTES}
-STR_1651    :{SMALLFONT}{OPENQUOTES}Nice ride! But not as good as the Phoenix...{ENDQUOTES}
-STR_1652    :{SMALLFONT}{OPENQUOTES}I'm so excited - It's an Intamin ride!{ENDQUOTES}
-STR_1653    :{SMALLFONT}{OPENQUOTES}...and here we are on {STRINGID}!{ENDQUOTES}
-STR_1654    :{WINDOW_COLOUR_2}Recent thoughts:
-STR_1655    :{SMALLFONT}{BLACK}Construct footpath on land
-STR_1656    :{SMALLFONT}{BLACK}Construct bridge or tunnel footpath
-STR_1657    :{WINDOW_COLOUR_2}Preferred ride
+STR_1649    :{SMALLFONT}{OPENQUOTES}Dochází mi hotovost!{ENDQUOTES}
+STR_1650    :{SMALLFONT}{OPENQUOTES}Wow! Tady se staví nová atrakce!{ENDQUOTES}
+STR_1651    :{SMALLFONT}{OPENQUOTES}Dobrá atrakce! Ale ne tak dobrá, jako Fénix...{ENDQUOTES}
+STR_1652    :{SMALLFONT}{OPENQUOTES}Tolik se těším! - It's an Intamin ride!{ENDQUOTES}
+STR_1653    :{SMALLFONT}{OPENQUOTES}...a teď jsme na {STRINGID}!{ENDQUOTES}
+STR_1654    :{WINDOW_COLOUR_2}Poslední myšlenky:
+STR_1655    :{SMALLFONT}{BLACK}Stavět cestu na povrchu
+STR_1656    :{SMALLFONT}{BLACK}Stavět most nebo tunel
+STR_1657    :{WINDOW_COLOUR_2}Oblíbená atrakce
 STR_1658    :{WINDOW_COLOUR_2}intenzita: {BLACK}méně než {COMMA16}
 STR_1659    :{WINDOW_COLOUR_2}intenzita: {BLACK}mezi {COMMA16} a {COMMA16}
 STR_1660    :{WINDOW_COLOUR_2}intenzita: {BLACK}víc než {COMMA16}
@@ -1674,11 +1674,11 @@ STR_1668    :{WINDOW_COLOUR_2}Uspokojení: {BLACK}neznámé
 STR_1669    :{WINDOW_COLOUR_2}Uspokojení: {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}Návštěvníků celkem: {BLACK}{COMMA32}
 STR_1671    :{WINDOW_COLOUR_2}Výdělek celkem: {BLACK}{CURRENCY2DP}
-STR_1672    :Brakes
+STR_1672    :Brzdy
 STR_1673    :Spinning Control Toggle Track
-STR_1674    :Brake speed
+STR_1674    :Rychlost brzd
 STR_1675    :{POP16}{VELOCITY}
-STR_1676    :{SMALLFONT}{BLACK}Set speed limit for brakes
+STR_1676    :{SMALLFONT}{BLACK}Nastavit rychlostní omezení brzd
 STR_1677    :{WINDOW_COLOUR_2}Popularita: {BLACK}Neznámá
 STR_1678    :{WINDOW_COLOUR_2}Popularita: {BLACK}{COMMA16}%
 STR_1679    :Helix up (left)
@@ -2298,8 +2298,8 @@ STR_2290    :{SMALLFONT}{BLACK}{STRINGID} {STRINGID}
 STR_2291    :Select scenario for new game
 STR_2292    :{WINDOW_COLOUR_2}Rides been on:
 STR_2293    :{BLACK} Nothing
-STR_2294    :{SMALLFONT}{BLACK}Change base land style
-STR_2295    :{SMALLFONT}{BLACK}Change vertical edges of land
+STR_2294    :{SMALLFONT}{BLACK}Změnit vzhled země
+STR_2295    :{SMALLFONT}{BLACK}Změnit vzhled boků mapy
 STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} paid to enter park
 STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} ride
 STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} rides
@@ -2382,12 +2382,12 @@ STR_2374    :High
 STR_2375    :Very high
 STR_2376    :Extreme
 STR_2377    :Ultra-Extreme
-STR_2378    :{SMALLFONT}{BLACK}Adjust smaller area of land
-STR_2379    :{SMALLFONT}{BLACK}Adjust larger area of land
-STR_2380    :{SMALLFONT}{BLACK}Adjust smaller area of water
-STR_2381    :{SMALLFONT}{BLACK}Adjust larger area of water
-STR_2382    :Land
-STR_2383    :Water
+STR_2378    :{SMALLFONT}{BLACK}Upravit menší oblast krajiny
+STR_2379    :{SMALLFONT}{BLACK}Upravit větší oblast krajiny
+STR_2380    :{SMALLFONT}{BLACK}Upravit menší vodní plochu
+STR_2381    :{SMALLFONT}{BLACK}Upravit větší vodní plochu
+STR_2382    :Země
+STR_2383    :Vodní plochy
 STR_2384    :{WINDOW_COLOUR_2}Tvůj úkol:
 STR_2385    :{BLACK}žádný
 STR_2386    :{BLACK}Mít v parku alespoň {COMMA16} návštěvníků na konci {MONTHYEAR}, s hodnocením parku alespoň 600
@@ -2527,7 +2527,7 @@ STR_2519    :Show park information
 STR_2520    :Show guest list
 STR_2521    :Show staff list
 STR_2522    :Show recent messages
-STR_2523    :Show map
+STR_2523    :Zobrazit mapu
 STR_2524    :Screenshot
 ### The following need to be reordered to match SDL_keycode layout.
 STR_2525    :???
@@ -2785,8 +2785,8 @@ STR_2775    :Celá obrazovka (plocha)
 STR_2776    :Jazyk:
 STR_2777    :{MOVE_X}{SMALLFONT}{STRING}
 STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRING}
-STR_2779    :Viewport #{COMMA16}
-STR_2780    :Extra viewport
+STR_2779    :Pohled #{COMMA16}
+STR_2780    :Extra pohled
 # End of new strings
 STR_2781    :{STRINGID}:{MOVE_X}{195}{STRINGID}
 STR_2782    :SHIFT + 
@@ -2812,7 +2812,7 @@ STR_2801    :{WINDOW_COLOUR_2}Income from admissions: {BLACK}{CURRENCY2DP}
 STR_2802    :Map
 STR_2803    :{SMALLFONT}{BLACK}Show these guests highlighted on map
 STR_2804    :{SMALLFONT}{BLACK}Show these staff members highlighted on map
-STR_2805    :{SMALLFONT}{BLACK}Show map of park
+STR_2805    :{SMALLFONT}{BLACK}Zobazit mapu parku
 STR_2806    :{RED}Guests are complaining about the disgusting state of the paths in your park{NEWLINE}Check where your handymen are and consider organising them better
 STR_2807    :{RED}Guests are complaining about the amount of litter in your park{NEWLINE}Check where your handymen are and consider organising them better
 STR_2808    :{RED}Guests are complaining about the vandalism in your park{NEWLINE}Check where your security guards are and consider organising them better
@@ -3465,7 +3465,7 @@ STR_5123    :Obnovit atrakce
 STR_5124    :<not used anymore>
 STR_5125    :All destructable
 STR_5126    :Náhodná hudba
-STR_5127    :{SMALLFONT}{BLACK}Disable land elevation
+STR_5127    :{SMALLFONT}{BLACK}Zakázat změny výšky terénu
 STR_5128    :Velikost výběru
 STR_5129    :Enter selection size between {COMMA16} and {COMMA16}
 STR_5130    :Velikost mapy
@@ -3529,7 +3529,7 @@ STR_5187    :Finance
 STR_5188    :Nová reklamní kampaň
 STR_5189    :Výzkum
 STR_5190    :Mapa
-STR_5191    :Viewport
+STR_5191    :Pohled
 STR_5192    :Poslední novinky
 STR_5193    :Pozemky
 STR_5194    :Voda
@@ -3598,7 +3598,7 @@ STR_5256    :Create a new theme to make changes to
 STR_5257    :{SMALLFONT}{BLACK}Vytvořit nový motiv na základě současného
 STR_5258    :{SMALLFONT}{BLACK}Odstranit současný motiv
 STR_5259    :{SMALLFONT}{BLACK}Přejmenovat současný motiv
-STR_5260    :Velký screenshot
+STR_5260    :Snímek celého parku
 STR_5261    :Filtr
 STR_5262    :Wacky Worlds
 STR_5263    :Time Twister
