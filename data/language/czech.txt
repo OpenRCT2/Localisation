@@ -836,9 +836,9 @@ STR_0831    :{SMALLFONT}{BLACK}Oddálit pohled
 STR_0832    :{SMALLFONT}{BLACK}Otočit o 90{DEGREE} po směru hod. ruč.
 STR_0833    :{SMALLFONT}{BLACK}Pozastavit hru
 STR_0834    :{SMALLFONT}{BLACK}Uložení a nastavení hry
-STR_0835    :Game initialisation failed
+STR_0835    :Inicializace hry selhala
 STR_0836    :Nelze spustit hru minimalizovanou.
-STR_0837    :Unable to initialise graphics system
+STR_0837    :Inicializace grafického systému selhala
 STR_0838    :<not used anymore>
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
@@ -895,8 +895,8 @@ STR_0889    :Ukončit Track Designs Manager
 STR_0890    :SCR{COMMA16}.BMP
 STR_0891    :Snímek obrazovky
 STR_0892    :Snímek obrazovky byl uložen jako '{STRINGID}'
-STR_0893    :Snímaní obrazovky selhalo !
-STR_0894    :Landscape data area full !
+STR_0893    :Snímaní obrazovky selhalo!
+STR_0894    :Datová oblast krajiny zaplněna!
 STR_0895    :Nelze stavět částečně pod a nad zemí
 STR_0896    :{POP16}{POP16}{STRINGID} - stavba
 STR_0897    :Směr
@@ -2691,11 +2691,11 @@ STR_2681    :{MEDIUMFONT}{BLACK}Přidat {CURRENCY} hotovosti
 STR_2682    :<not used anymore>
 STR_2683    :<not used anymore>
 STR_2684    :{SMALLFONT}{BLACK}Dorazí velká skupina návštěvníků
-STR_2685    :Simplex Noise Parameters
-STR_2686    :{WINDOW_COLOUR_2}Low:
-STR_2687    :{WINDOW_COLOUR_2}High:
-STR_2688    :{WINDOW_COLOUR_2}Base Frequency:
-STR_2689    :{WINDOW_COLOUR_2}Octaves:
+STR_2685    :Parametry simplex noise
+STR_2686    :{WINDOW_COLOUR_2}Hloubky:
+STR_2687    :{WINDOW_COLOUR_2}Výšky:
+STR_2688    :{WINDOW_COLOUR_2}Základní frekvence:
+STR_2689    :{WINDOW_COLOUR_2}Oktávy:
 STR_2690    :Generování mapy
 STR_2691    :{WINDOW_COLOUR_2}Výška povrchu:
 STR_2692    :{WINDOW_COLOUR_2}Výška vodní hladiny:
@@ -2749,7 +2749,7 @@ STR_2739    :Žádná
 STR_2740    :RollerCoaster Tycoon 1
 STR_2741    :RollerCoaster Tycoon 2
 STR_2742    :css50.dat nenalezen
-STR_2743    :Copy data\css17.dat from your RCT1 installation to data\css50.dat in your RCT2 installation.
+STR_2743    :Nakopírujte data\css17.dat z vaší instalace RCT1 do to data\css50.dat ve vaší instalaci RCT2.
 STR_2744    :[
 STR_2745    :\
 STR_2746    :]
