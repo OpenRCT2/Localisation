@@ -1114,20 +1114,20 @@ STR_1108    :Jede rychlostí {VELOCITY}
 STR_1109    :Houpe se
 STR_1110    :Rotuje
 STR_1111    :Rotuje
-STR_1112    :Operating
+STR_1112    :V provozu
 STR_1113    :Promítá film
 STR_1114    :Rotuje
-STR_1115    :Operating
-STR_1116    :Operating
+STR_1115    :V provozu
+STR_1116    :V provozu
 STR_1117    :Předvádí cirkusové představení
-STR_1118    :Operating
+STR_1118    :V provozu
 STR_1119    :Čeká na výtah
 STR_1120    :Jede rychlostí {VELOCITY}
 STR_1121    :Zastavuje
 STR_1122    :Čeká na návštěvníky
 STR_1123    :Čeká na start
 STR_1124    :Startuje
-STR_1125    :Operating
+STR_1125    :V provozu
 STR_1126    :Zastavuje
 STR_1127    :Vykládá návštěvníky
 STR_1128    :Zastavuje na brzdících blocích
@@ -1476,13 +1476,13 @@ STR_1469    :Dráha musí začínat a končit stanicí
 STR_1470    :Stanice není dost dlouhá
 STR_1471    :{WINDOW_COLOUR_2}Rychlost:
 STR_1472    :{SMALLFONT}{BLACK}Rychlost této atrakce
-STR_1473    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1474    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}Zatím neznámé
-STR_1475    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1476    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}Zatím neznámé
-STR_1477    :{WINDOW_COLOUR_2}Intensity rating: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
-STR_1478    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1479    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}Zatím neznámé
+STR_1473    :{WINDOW_COLOUR_2}Nadšení: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1474    :{WINDOW_COLOUR_2}Nadšení: {BLACK}Zatím neznámé
+STR_1475    :{WINDOW_COLOUR_2}Intenzita: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1476    :{WINDOW_COLOUR_2}Intenzita: {BLACK}Zatím neznámá
+STR_1477    :{WINDOW_COLOUR_2}Intenzita: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
+STR_1478    :{WINDOW_COLOUR_2}Nevolnost: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1479    :{WINDOW_COLOUR_2}Nevolnost: {BLACK}Zatím neznámá
 STR_1480    :{SMALLFONT}{OPENQUOTES}Nemohu si dovolit {STRINGID}{ENDQUOTES}
 STR_1481    :{SMALLFONT}{OPENQUOTES}Utratil jsem všechny své peníze{ENDQUOTES}
 STR_1482    :{SMALLFONT}{OPENQUOTES}Je mi špatně{ENDQUOTES}
@@ -2316,9 +2316,9 @@ STR_2307    :Vyberte návrh {STRINGID}
 STR_2308    :Návrhy trati {STRINGID}
 STR_2309    :Nainstalvoat nový návrh trati
 STR_2310    :Vytvořit vlastní návrh
-STR_2311    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2312    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2313    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32} (approx.)
+STR_2311    :{WINDOW_COLOUR_2}Nadšení: asi {BLACK}{COMMA2DP32}
+STR_2312    :{WINDOW_COLOUR_2}Intenzita: asi {BLACK}{COMMA2DP32}
+STR_2313    :{WINDOW_COLOUR_2}Nevolnost: asi {BLACK}{COMMA2DP32}
 STR_2314    :{WINDOW_COLOUR_2}Délka jízdy: {BLACK}{STRINGID}
 STR_2315    :{WINDOW_COLOUR_2}Cena: {BLACK}okolo {CURRENCY}
 STR_2316    :{WINDOW_COLOUR_2}Vyžadovaný prostor: {BLACK}{COMMA16} x {COMMA16} dlaždic
@@ -3316,7 +3316,7 @@ STR_3304    :{WINDOW_COLOUR_2}Hodnota parku:
 STR_3305    :{WINDOW_COLOUR_2}Měsíční příjem:
 STR_3306    :{WINDOW_COLOUR_2}Měsíční zisk:
 STR_3307    :{WINDOW_COLOUR_2}Minimální délka:
-STR_3308    :{WINDOW_COLOUR_2}Excitement rating:
+STR_3308    :{WINDOW_COLOUR_2}Nadšení:
 STR_3309    :{WINDOW_COLOUR_2}{COMMA16}
 STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
 STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
