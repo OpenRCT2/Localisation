@@ -44,19 +44,19 @@ STR_0039    :Ruské kolo
 STR_0040    :Simulátor pohybu
 STR_0041    :3D Kino
 STR_0042    :Top Spin
-STR_0043    :Space Rings
-STR_0044    :Reverse Freefall Coaster
+STR_0043    :Vesmírné kruhy
+STR_0044    :Horská dráha s volným pádem pozpíátku
 STR_0045    :Výtah
-STR_0046    :Vertical Drop Roller Coaster
+STR_0046    :Horská dráha s vertikálním pádem
 STR_0047    :Bankomat
 STR_0048    :Twist
 STR_0049    :Strašidelný dům
 STR_0050    :První pomoc
 STR_0051    :Cirkus
 STR_0052    :Vlak duchů
-STR_0053    :Steel Twister Roller Coaster
+STR_0053    :Ocelová horská dráha
 STR_0054    :Dřevěná horská dráha
-STR_0055    :Side-Friction Roller Coaster
+STR_0055    :Horská dráha s bočním třením
 STR_0056    :Divoká myš
 STR_0057    :Mnohorozměrná horská dráha
 STR_0058    :Neznámá atrakce (38)
@@ -601,9 +601,9 @@ STR_0596    :
 STR_0597    :
 STR_0598    :Inverted roller coaster trains are accelerated out of the station to travel up a vertical spike of track, then reverse back through the station to travel backwards up another vertical spike of track
 STR_0599    :A compact roller coaster with individual cars and smooth twisting drops
-STR_0600    :Powered mine trains career along a smooth and twisted track layout
+STR_0600    :Motorizované dulní vláčky jezdí po hladké a spletité trati
 STR_0601    :
-STR_0602    :Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions
+STR_0602    :Vozy horské dráhy jsou vystřeleny ze stanice za použití lineární indukčních motorů, aby mohly prosvištět tratí
 STR_0603    :Host {INT32}
 STR_0604    :Host {INT32}
 STR_0605    :Host {INT32}
@@ -1064,16 +1064,16 @@ STR_1058    :Zadejte nové jméno atrakce:
 STR_1059    :Tuto atrakci nelze přejmenovat...
 STR_1060    :Neplatný název atrakce
 STR_1061    :Normalní běh
-STR_1062    :Continuous circuit mode
-STR_1063    :Reverse-Incline launched shuttle mode
-STR_1064    :Powered launch (passing station)
-STR_1065    :Shuttle mode
-STR_1066    :Boat hire mode
-STR_1067    :Upward launch
-STR_1068    :Rotating lift mode
-STR_1069    :Station to station mode
-STR_1070    :Single ride per admission
-STR_1071    :Unlimited rides per admission
+STR_1062    :Mód okruhu
+STR_1063    :Mód jízdy pozpátku s konečnou stanicí
+STR_1064    :Rychlý start (s průjezdem stanicí)
+STR_1065    :Mód konečné stanice
+STR_1066    :Mód lodě k pronájmu
+STR_1067    :Start nahorů
+STR_1068    :Mód rotujícího výtahu
+STR_1069    :Mód stanice-stanice
+STR_1070    :Jedna jízda za vstupné
+STR_1071    :Neomezené jízdy za vstupné
 STR_1072    :Mód bludiště
 STR_1073    :Mód závodů
 STR_1074    :Mód autodronu
@@ -1084,9 +1084,9 @@ STR_1078    :Dopředná rotace
 STR_1079    :Zpětná rotace
 STR_1080    :Film: {ENDQUOTES}Pomsta letců{ENDQUOTES}
 STR_1081    :3D film: {ENDQUOTES}Myší ocásky{ENDQUOTES}
-STR_1082    :Space rings mode
+STR_1082    :Mód vesmírnýh kruhů
 STR_1083    :Mód pro začátečníky
-STR_1084    :LIM-powered launch
+STR_1084    :Start s LIM
 STR_1085    :Film: {ENDQUOTES}Adrenaliňáci{ENDQUOTES}
 STR_1086    :3D film: {ENDQUOTES}Páni bouřek{ENDQUOTES}
 STR_1087    :3D film: {ENDQUOTES}Vesmírní piráti{ENDQUOTES}
@@ -1094,12 +1094,12 @@ STR_1088    :Intenzivní mód
 STR_1089    :Masakr
 STR_1090    :Mód strašidelného domu
 STR_1091    :Mód cirkusového představení
-STR_1092    :Downward launch
+STR_1092    :Start dolů
 STR_1093    :Mód křivého domu
 STR_1094    :Mód volného pádu
-STR_1095    :Continuous circuit block sectioned mode
-STR_1096    :Powered launch (without passing station)
-STR_1097    :Powered launch block sectioned mode
+STR_1095    :Mód okruhu se sekcemi
+STR_1096    :Rychlý start (bez průjezdu stanicí)
+STR_1097    :Rychlý start módu se sekcemi
 STR_1098    :Přesouvá se na konec {POP16}{STRINGID}
 STR_1099    :Čeká na návštěvníky na {POP16}{STRINGID}
 STR_1100    :Čeká na odjedz {POP16}{STRINGID}
@@ -1676,7 +1676,7 @@ STR_1669    :{WINDOW_COLOUR_2}Uspokojení: {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}Návštěvníků celkem: {BLACK}{COMMA32}
 STR_1671    :{WINDOW_COLOUR_2}Výdělek celkem: {BLACK}{CURRENCY2DP}
 STR_1672    :Brzdy
-STR_1673    :Spinning Control Toggle Track
+STR_1673    :Přepnutí točení trati
 STR_1674    :Rychlost brzd
 STR_1675    :{POP16}{VELOCITY}
 STR_1676    :{SMALLFONT}{BLACK}Nastavit rychlostní omezení brzd
@@ -1769,8 +1769,8 @@ STR_1762    :Vodopády
 STR_1763    :Peřeje
 STR_1764    :Nárazy
 STR_1765    :Fotobuňka
-STR_1766    :Reverser turntable
-STR_1767    :Spinning tunnel
+STR_1766    :Otáčející blok
+STR_1767    :Točící se tunel
 STR_1768    :Nelze změnit počet zhoupnutí...
 STR_1769    :{WINDOW_COLOUR_2}Počet zhoupnutí:
 STR_1770    :{SMALLFONT}{BLACK}Počet zhoupnutí
@@ -3070,7 +3070,7 @@ STR_3058    :Cihlová zeď
 STR_3059    :Živý plot
 STR_3060    :Kusy ledu
 STR_3061    :Dřevený plot
-STR_3062    :{SMALLFONT}{BLACK}Standard roller coaster track
+STR_3062    :{SMALLFONT}{BLACK}Standardní trať horské dráhy
 STR_3063    :{SMALLFONT}{BLACK}Vodní kanál (trať potopena)
 STR_3064    :Začátečnické parky
 STR_3065    :Středně obtížné parky
@@ -3539,23 +3539,23 @@ STR_5196    :Pozemková práva
 STR_5197    :Kulisy
 STR_5198    :Cesty
 STR_5199    :Stavba atrakcí
-STR_5200    :Track Design Place
+STR_5200    :Umístění návrhu trati
 STR_5201    :Nová atrakce
-STR_5202    :Track Design Selection
+STR_5202    :Výběr návrhu trati
 STR_5203    :Atrakce
 STR_5204    :Seznam atrakcí
 STR_5205    :Návštěvník
 STR_5206    :Seznam návštěvníků
 STR_5207    :Personál
 STR_5208    :Seznam personálu
-STR_5209    :Banner
+STR_5209    :Baner
 STR_5210    :Výběr objektu
 STR_5211    :Seznam vynálezů
 STR_5212    :Nastavení sénáře
 STR_5213    :Nastavení cílů
 STR_5214    :Vytváření mapy
-STR_5215    :Track Design Manager
-STR_5216    :Track Design Manager List
+STR_5215    :Správce návrhů tratí
+STR_5216    :Správce seznamu návrhů tratí
 STR_5217    :Cheaty
 STR_5218    :Motivy
 STR_5219    :Nastavení
@@ -3565,7 +3565,7 @@ STR_5222    :Načíst/uložit
 STR_5223    :Výzva k uložení
 STR_5224    :Výzva k odstranění atrakce
 STR_5225    :Výzva k vyhazovu personálu
-STR_5226    :Track Delete Prompt
+STR_5226    :Výzva k odstranění trati
 STR_5227    :Výzva k přepisu uložené hry
 STR_5228    :{SMALLFONT}{BLACK}Hlavní UI
 STR_5229    :{SMALLFONT}{BLACK}Park
