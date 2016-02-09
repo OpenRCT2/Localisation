@@ -1,4 +1,4 @@
-# STR_XXXX part is read and XXXX becomes the string id number. 
+# STR_XXXX part is read and XXXX becomes the string id number. STR_1672
 # Everything after the colon and before the new line will be saved as the string.
 # Use # at the beginning of a line to leave a comment.
 STR_0000    :
@@ -6,8 +6,8 @@ STR_0001    :{STRINGID} {COMMA16}
 STR_0002    :Montaña Rusa Espiral
 STR_0003    :Stand-up Roller Coaster
 STR_0004    :Suspended Swinging Coaster
-STR_0005    :Inverted Roller Coaster
-STR_0006    :Junior Roller Coaster
+STR_0005    :Montaña Rusa Invertida
+STR_0006    :Montaña Rusa Infantil
 STR_0007    :Miniature Railway
 STR_0008    :Monorraíl
 STR_0009    :Mini Suspended Coaster
@@ -16,14 +16,14 @@ STR_0011    :Wooden Wild Mouse
 STR_0012    :Steeplechase
 STR_0013    :Atracción de coches
 STR_0014    :Launched Freefall
-STR_0015    :Bobsleigh Coaster
+STR_0015    :Montaña Rusa Bobsleigh
 STR_0016    :Observation Tower
-STR_0017    :Looping Roller Coaster
-STR_0018    :Dinghy Slide
+STR_0017    :Montaña Rusa con Rizo
+STR_0018    :Botes deslizantes
 STR_0019    :Mine Train Coaster
 STR_0020    :Telesilla
-STR_0021    :Corkscrew Roller Coaster
-STR_0022    :Maze
+STR_0021    :Montaña Rusa Sacacorchos
+STR_0022    :Laberinto
 STR_0023    :Spiral Slide
 STR_0024    :Go Karts
 STR_0025    :Log Flume
@@ -60,26 +60,26 @@ STR_0055    :Side-Friction Roller Coaster
 STR_0056    :Ratón Loco
 STR_0057    :Multi-Dimension Roller Coaster
 STR_0058    :Unknown Ride (38)
-STR_0059    :Flying Roller Coaster
+STR_0059    :Montaña Rusa Volante
 STR_0060    :Unknown Ride (3A)
 STR_0061    :Virginia Reel
 STR_0062    :Splash Boats
 STR_0063    :Mini Helicopters
-STR_0064    :Lay-down Roller Coaster
+STR_0064    :Montaña Rusa Fija
 STR_0065    :Suspended Monorail
 STR_0066    :Unknown Ride (40)
 STR_0067    :Reverser Roller Coaster
-STR_0068    :Heartline Twister Coaster
+STR_0068    :Mt. Rusa Tornado Medio
 STR_0069    :Mini Golf
-STR_0070    :Giga Coaster
+STR_0070    :Gigamontaña Rusa
 STR_0071    :Roto-Drop
 STR_0072    :Flying Saucers
 STR_0073    :Crooked House
 STR_0074    :Monorail Cycles
-STR_0075    :Compact Inverted Coaster
+STR_0075    :Montaña Rusa Compacta
 STR_0076    :Water Coaster
-STR_0077    :Air Powered Vertical Coaster
-STR_0078    :Inverted Hairpin Coaster
+STR_0077    :Montaña Rusa Vertical de Aire
+STR_0078    :Horquilla invertida
 STR_0079    :Magic Carpet
 STR_0080    :Submarine Ride
 STR_0081    :River Rafts
@@ -89,11 +89,11 @@ STR_0084    :Unknown Ride (52)
 STR_0085    :Unknown Ride (53)
 STR_0086    :Unknown Ride (54)
 STR_0087    :Unknown Ride (55)
-STR_0088    :Inverted Impulse Coaster
+STR_0088    :Montaña Rusa Impulso Inverso
 STR_0089    :Mini Roller Coaster
-STR_0090    :Mine Ride
+STR_0090    :Trenes Mineros
 STR_0091    :Unknown Ride (59)
-STR_0092    :LIM Launched Roller Coaster
+STR_0092    :Montaña Rusa Impulso MLI
 STR_0093    :
 STR_0094    :
 STR_0095    :
@@ -516,8 +516,8 @@ STR_0511    :
 STR_0512    :A compact roller coaster with a spiral lift hill and smooth, twisting drops.
 STR_0513    :A looping roller coaster where the riders ride in a standing position
 STR_0514    :Trains suspended beneath the roller coaster track swing out to the side around corners
-STR_0515    :A steel roller coaster with trains that are held beneath the track, with many complex and twisting track elements
-STR_0516    :A gentle roller coaster for people who haven't yet got the courage to face the larger rides
+STR_0515    :Los pasajeros se sientan en asientos suspendidos bajo la vía y corren por rizos gigantes, giros y grandes caídas.
+STR_0516    :Una montaña rusa más suave para la gente que no tiene el valor de afrontar las grandes
 STR_0517    :Passengers ride in miniature trains along a narrow-gauge railway track
 STR_0518    :Los pasajeros viajan en trenes eléctricos sobre una vía monorraíl
 STR_0519    :Passengers ride in small cars hanging beneath the single-rail track, swinging freely from side to side around corners
@@ -528,8 +528,8 @@ STR_0523    :Los pasajeros viajan lentamente en vehículos autopropulsados sobre
 STR_0524    :Freefall car is pneumatically launched up a tall steel tower and then allowed to freefall down
 STR_0525    :Riders career down a twisting track guided only by the curvature and banking of the semi-circular track
 STR_0526    :Passengers travel in a rotating observation cabin which travels up a tall tower
-STR_0527    :A smooth steel-tracked roller coaster capable of vertical loops
-STR_0528    :Riders travel in inflatable dinghies down a twisting semi-circular or completely enclosed tube track
+STR_0527    :Una montaña rusa de acero capaz de rizos verticales
+STR_0528    :Los pasajeros viajan en botes hinchables por tubos semicirculares o totalmente cerrados.
 STR_0529    :Mine train themed roller coaster trains career along steel roller coaster track made to look like old railway track
 STR_0530    :Asientos colgados de un cable de acero viajan contínuamente desde un extremo a otro del recorrido
 STR_0531    :A compact steel-tracked roller coaster where the train travels through corkscrews and loops
@@ -575,13 +575,13 @@ STR_0570    :
 STR_0571    :Circular cars spin around as they travel along the zig-zagging wooden track
 STR_0572    :Large capacity boats travel along a wide water channel, propelled up slopes by a conveyer belt, accelerating down steep slopes to soak the riders with a gaint splash
 STR_0573    :Powered helicoper shaped cars running on a steel track, controlled by the pedalling of the riders
-STR_0574    :Riders are held in special harnesses in a lying-down position, travlling through twisted track and inversions either on their backs or facing the ground
+STR_0574    :Los pasajeros están sujetos por unos arneses cara abajo
 STR_0575    :Powered trains hanging from a single rail transport people around the park
 STR_0576    :
 STR_0577    :Bogied cars run on wooden tracks, turning around on special reversing sections
-STR_0578    :Cars run along track enclosed by circular hoops, traversing steep drops and heartline twists
+STR_0578    :Los vagones circulan por vías formando aros y recorriendo bruscas caídas y giros.
 STR_0579    :
-STR_0580    :A giant steel roller coaster capable of smooth drops and hills of over 300ft
+STR_0580    :Una montaña rusa gigante capaz de caídas suaves y subidas de más de 300 pies.
 STR_0581    :A ring of seats is pulled to the top of a tall tower while gently rotating, then allowed to free-fall down, stopping gently at the bottom using magnetic brakes
 STR_0582    :
 STR_0583    :
@@ -589,7 +589,7 @@ STR_0584    :Special bicycles run on a steel monorail track, propelled by the pe
 STR_0585    :Riders sit in pairs of seats suspended beneath the track as they loop and twist through tight inversions
 STR_0586    :Boat shaped cars run on roller coaster track to allow twisting curves and steep drops, splashing down into sections of water for gentle river sections
 STR_0587    :After an exhilarating air-powered launch, the train speeds up a vertical track, over the top, and vertically down the other side to return to the station
-STR_0588    :Individual cars run beneath a zig-zagging track with hairpin turns and sharp drops
+STR_0588    :Vagones individuales corren bajo una vía zig-zagueante
 STR_0589    :
 STR_0590    :Riders ride in a submerged submarine through an underwater course
 STR_0591    :Raft-shaped boats gently meander around a river track
@@ -599,11 +599,11 @@ STR_0594    :
 STR_0595    :
 STR_0596    :
 STR_0597    :
-STR_0598    :Inverted roller coaster trains are accelerated out of the station to travel up a vertical spike of track, then reverse back through the station to travel backwards up another vertical spike of track
+STR_0598    :Los vagones de la montaña rusa invertida aceleran saliendo del andén y tomando un tramo de vía vertical, entonces vuelven marcha atrás pasando por el andén y subiendo por otro tramo de vía vertical.
 STR_0599    :A compact roller coaster with individual cars and smooth twisting drops
-STR_0600    :Powered mine trains career along a smooth and twisted track layout
+STR_0600    :Trenes mineros autopropulsados corren a lo largo de una vía enredada.
 STR_0601    :
-STR_0602    :Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions
+STR_0602    :Los vagones se aceleran por los motores lineales de inducción
 STR_0603    :Visitante {INT32}
 STR_0604    :Visitante {INT32}
 STR_0605    :Visitante {INT32}
@@ -1925,11 +1925,11 @@ STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :¡No te prestan más dinero!
 STR_1919    :¡No tienes suficiente dinero!
 STR_1920    :¡No puedes devolver el préstamo!
-STR_1921    :{SMALLFONT}{BLACK}Start a new game
-STR_1922    :{SMALLFONT}{BLACK}Continue playing a saved game
-STR_1923    :{SMALLFONT}{BLACK}Show tutorial
-STR_1924    :{SMALLFONT}{BLACK}Salida
-STR_1925    :Can't place person here...
+STR_1921    :{SMALLFONT}{BLACK}Iniciar nueva partida
+STR_1922    :{SMALLFONT}{BLACK}Continuar partida guardada
+STR_1923    :{SMALLFONT}{BLACK}Mostrar tutorial
+STR_1924    :{SMALLFONT}{BLACK}Salir del juego
+STR_1925    :No puedes colocar esta persona aquí...
 STR_1926    :{SMALLFONT}
 STR_1927    :{YELLOW}{STRINGID} se ha roto
 STR_1928    :¡{RED}{STRINGID} ha chocado!
@@ -2528,7 +2528,7 @@ STR_2520    :Show guest list
 STR_2521    :Show staff list
 STR_2522    :Show recent messages
 STR_2523    :Mostrar mapa
-STR_2524    :Screenshot
+STR_2524    :Captura Pantalla
 STR_2525    :???
 STR_2526    :???
 STR_2527    :???
@@ -2537,18 +2537,18 @@ STR_2529    :???
 STR_2530    :???
 STR_2531    :???
 STR_2532    :???
-STR_2533    :Backspace
+STR_2533    :Retroceso
 STR_2534    :Tab
 STR_2535    :???
 STR_2536    :???
-STR_2537    :Clear
-STR_2538    :Return
+STR_2537    :Borrar
+STR_2538    :Regresar
 STR_2539    :???
 STR_2540    :???
 STR_2541    :???
 STR_2542    :???
 STR_2543    :Alt/Menu
-STR_2544    :Pause
+STR_2544    :Pausa
 STR_2545    :Caps
 STR_2546    :???
 STR_2547    :???
@@ -2711,7 +2711,7 @@ STR_2703    :Cada 15 minutos
 STR_2704    :Cada 30 minutos
 STR_2705    :Cada hora
 STR_2706    :Nunca
-STR_2707    :Open new window
+STR_2707    :Abrir explorador de archivos
 STR_2708    :{WINDOW_COLOUR_1}Are you sure you want to overwrite {STRINGID}?
 STR_2709    :Overwrite
 STR_2710    :Type the name of the file.
@@ -2722,20 +2722,20 @@ STR_2714    :-
 STR_2715    :.
 STR_2716    :/
 STR_2717    :'
-STR_2718    :(up)
-STR_2719    :(new file)
-STR_2720    :{UINT16}sec
-STR_2721    :{UINT16}secs
-STR_2722    :{UINT16}min:{UINT16}sec
-STR_2723    :{UINT16}min:{UINT16}secs
-STR_2724    :{UINT16}mins:{UINT16}sec
-STR_2725    :{UINT16}mins:{UINT16}secs
+STR_2718    :(arriba)
+STR_2719    :(nuevo archivo)
+STR_2720    :{UINT16}seg
+STR_2721    :{UINT16}segs
+STR_2722    :{UINT16}min:{UINT16}seg
+STR_2723    :{UINT16}min:{UINT16}segs
+STR_2724    :{UINT16}mins:{UINT16}seg
+STR_2725    :{UINT16}mins:{UINT16}segs
 STR_2726    :{UINT16}min
 STR_2727    :{UINT16}mins
-STR_2728    :{UINT16}hour:{UINT16}min
-STR_2729    :{UINT16}hour:{UINT16}mins
-STR_2730    :{UINT16}hours:{UINT16}min
-STR_2731    :{UINT16}hours:{UINT16}mins
+STR_2728    :{UINT16}hora:{UINT16}min
+STR_2729    :{UINT16}hora:{UINT16}mins
+STR_2730    :{UINT16}horas:{UINT16}min
+STR_2731    :{UINT16}horas:{UINT16}mins
 STR_2732    :{COMMA16}ft
 STR_2733    :{COMMA16}m
 STR_2734    :{COMMA16}mph
@@ -2746,8 +2746,8 @@ STR_2738    :Música menú principal:
 STR_2739    :Ninguna
 STR_2740    :RollerCoaster Tycoon 1
 STR_2741    :RollerCoaster Tycoon 2
-STR_2742    :css50.dat not found
-STR_2743    :Copy data\css17.dat from your RCT1 installation to data\css50.dat in your RCT2 installation.
+STR_2742    :css50.dat no encontrado
+STR_2743    :Copia data\css17.dat de tu instalación de RCT1 en data\css50.dat de la instalación de RCT2,
 STR_2744    :[
 STR_2745    :\
 STR_2746    :]
@@ -3170,7 +3170,7 @@ STR_3160    :<not used anymore>
 STR_3161    :<not used anymore>
 STR_3162    :Unable to allocate enough memory
 STR_3163    :Installing new data: 
-STR_3164    :{BLACK}{COMMA16} selected (maximum {COMMA16})
+STR_3164    :{BLACK}{COMMA16} seleccionados (máximo {COMMA16})
 STR_3165    :
 STR_3166    :{BLACK}(ID: 
 STR_3167    :{WINDOW_COLOUR_2}Includes: {BLACK}{COMMA16} objects
@@ -3187,54 +3187,54 @@ STR_3177    :Unable to de-select this object
 STR_3178    :At least one path object must be selected
 STR_3179    :At least one ride vehicle/attraction object must be selected
 STR_3180    :Invalid selection of objects
-STR_3181    :Object Selection - {STRINGID}
+STR_3181    :Selección de Objeto - {STRINGID}
 STR_3182    :Park entrance type must be selected
 STR_3183    :Water type must be selected
-STR_3184    :Ride Vehicles/Attractions
+STR_3184    :Juegos/Atracciones
 STR_3185    :Small Scenery
 STR_3186    :Large Scenery
 STR_3187    :Walls/Fences
 STR_3188    :Path Signs
-STR_3189    :Footpaths
+STR_3189    :Senderos
 STR_3190    :Path Extras
-STR_3191    :Scenery Groups
-STR_3192    :Park Entrance
-STR_3193    :Water
-STR_3194    :Scenario Description
+STR_3191    :Escenarios
+STR_3192    :Entrada del parque
+STR_3193    :Agua
+STR_3194    :Descripción del escenario
 STR_3195    :Invention List
 STR_3196    :{WINDOW_COLOUR_2}Research Group: {BLACK}{STRINGID}
 STR_3197    :{WINDOW_COLOUR_2}Items pre-invented at start of game:
 STR_3198    :{WINDOW_COLOUR_2}Items to invent during game:
 STR_3199    :Random Shuffle
 STR_3200    :{SMALLFONT}{BLACK}Randomly shuffle the list of items to invent during the game
-STR_3201    :Object Selection
-STR_3202    :Landscape Editor
-STR_3203    :Invention List Set Up
+STR_3201    :Selección de Objeto
+STR_3202    :Editor de paisajes
+STR_3203    :Configurar lista de inventos
 STR_3204    :Options Selection
 STR_3205    :Objective Selection
 STR_3206    :Save Scenario
-STR_3207    :Roller Coaster Designer
-STR_3208    :Track Designs Manager
-STR_3209    :Back to Previous Step:
-STR_3210    :Forward to Next Step:
-STR_3211    :{WINDOW_COLOUR_2}Map size:
+STR_3207    :Diseñador de Montañas Rusas
+STR_3208    :Diseñador de Vías
+STR_3209    :Regresar al paso anterior:
+STR_3210    :Avanzar al siguiente paso:
+STR_3211    :{WINDOW_COLOUR_2}Tamaño de Mapa:
 STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
 STR_3213    :Can't decrease map size any further
 STR_3214    :Can't increase map size any further
 STR_3215    :Too close to edge of map
-STR_3216    :{SMALLFONT}{BLACK}Select park-owned land etc.
-STR_3217    :Land Owned
-STR_3218    :Construction Rights Owned
-STR_3219    :Land For Sale
-STR_3220    :Construction Rights For Sale
-STR_3221    :{SMALLFONT}{BLACK}Set land to be owned by the park
-STR_3222    :{SMALLFONT}{BLACK}Set construction rights only to be owned by the park
-STR_3223    :{SMALLFONT}{BLACK}Set land to be available to purchase by the park
-STR_3224    :{SMALLFONT}{BLACK}Set construction rights to be available to purchase by the park
+STR_3216    :{SMALLFONT}{BLACK}Selecciona el terreno propiedad del parque, etc.
+STR_3217    :Terreno comprado
+STR_3218    :Derecho Construcción
+STR_3219    :Terreno en venta
+STR_3220    :Venta Derecho Construcción
+STR_3221    :{SMALLFONT}{BLACK}Establece las tierras propiedad del parque.
+STR_3222    :{SMALLFONT}{BLACK}Establece Derechos de Construcción del parque.
+STR_3223    :{SMALLFONT}{BLACK}Establece el terreno que esté disponibles para la compra del parque.
+STR_3224    :{SMALLFONT}{BLACK}Establecer los derechos de construcción que estén disponibles para la compra del parque
 STR_3225    :{SMALLFONT}{BLACK}Activa/Desactiva colocar grupos de objetos en torno a la posición seleccionada
-STR_3226    :{SMALLFONT}{BLACK}Build park entrance
+STR_3226    :{SMALLFONT}{BLACK}Construir entrada del parque
 STR_3227    :Too many park entrances!
-STR_3228    :{SMALLFONT}{BLACK}Set starting positions for people
+STR_3228    :{SMALLFONT}{BLACK}Establecer posición inicial de las personas
 STR_3229    :Block Brakes cannot be used directly after station
 STR_3230    :Block Brakes cannot be used directly after each other
 STR_3231    :Block Brakes cannot be used directly after the top of this lift hill
@@ -3334,24 +3334,24 @@ STR_3324    :Requires Add-On Pack:
 STR_3325    :Requires an Add-On Pack
 STR_3326    :{WINDOW_COLOUR_2}(no image)
 STR_3327    :Starting positions for people not set
-STR_3328    :Can't advance to next editor stage...
-STR_3329    :Park entrance not yet built
-STR_3330    :Park must own some land
+STR_3328    :No se puede avanzar a la siguiente etapa del editor...
+STR_3329    :No se ha construido una entrada del parque
+STR_3330    :El parque debe tener un terreno
 STR_3331    :Path from park entrance to map edge either not complete or too complex - Path must be single-width with as few junctions and corners as possible
 STR_3332    :Park entrance is the wrong way round or has no path leading to the map edge
 STR_3333    :Exportar complementos al guardar el juego
 STR_3334    :{SMALLFONT}{BLACK}Selecciona si los complementos adicionales (datos no distribuídos con el juego principal) utilizados en un escenario deben exportarse al guardar el juego, lo que permite que otros jugadores que no tengan esos complementos puedan abrirlo.
-STR_3335    :Roller Coaster Designer - Select Ride Types & Vehicles
+STR_3335    :Diseñador de Montañas Rusas - Selecciona el tipo de Atracción y Vehículo
 STR_3336    :Track Designs Manager - Select Ride Type
 STR_3337    :<not used anymore>
 STR_3338    :{BLACK}Recorrido personalizado
 STR_3339    :{BLACK}{COMMA16} diseño disponible, o recorrido personalizado
 STR_3340    :{BLACK}{COMMA16} diseños disponibles, o recorrido personalizado
-STR_3341    :{SMALLFONT}{BLACK}Game tools
-STR_3342    :Scenario Editor
-STR_3343    :Convert Saved Game to Scenario
-STR_3344    :Roller Coaster Designer
-STR_3345    :Track Designs Manager
+STR_3341    :{SMALLFONT}{BLACK}Herramientas de juego
+STR_3342    :Editor de escenarios
+STR_3343    :Convertir partida guardada en escenario
+STR_3344    :Diseñador de Montañas Rusas
+STR_3345    :Diseñador de Vías
 STR_3346    :Can't save track design...
 STR_3347    :Ride is too large, contains too many elements, or scenery is too spread out
 STR_3348    :Rename
@@ -3547,7 +3547,7 @@ STR_5206    :Guest List
 STR_5207    :Staff
 STR_5208    :Staff List
 STR_5209    :Banner
-STR_5210    :Object Selection
+STR_5210    :Selección de Objeto
 STR_5211    :Invention List
 STR_5212    :Scenario Options
 STR_5213    :Objective Options
@@ -3598,11 +3598,11 @@ STR_5257    :{SMALLFONT}{BLACK}Create a new theme based on the current one
 STR_5258    :{SMALLFONT}{BLACK}Delete the current theme
 STR_5259    :{SMALLFONT}{BLACK}Rename the current theme
 STR_5260    :Tomar captura de pantalla de escenario completo
-STR_5261    :Filter
+STR_5261    :Filtro
 STR_5262    :Wacky Worlds
 STR_5263    :Time Twister
 STR_5264    :Custom
-STR_5265    :{SMALLFONT}{BLACK}Select which content sources are visible
+STR_5265    :{SMALLFONT}{BLACK}Selecciona que contenidos son visibles
 STR_5266    :{SMALLFONT}{BLACK}Gráficos
 STR_5267    :{SMALLFONT}{BLACK}Idioma y unidades
 STR_5268    :{SMALLFONT}{BLACK}Audio
@@ -3614,7 +3614,7 @@ STR_5273    :{SMALLFONT}{BLACK}Decorado grande
 STR_5274    :{SMALLFONT}{BLACK}Caminos
 STR_5275    :Search for Objects
 STR_5276    :Enter the name of an object to search for
-STR_5277    :Clear
+STR_5277    :Borrar
 STR_5278    :Modo sandbox
 STR_5279    :Quitar modo sandbox
 STR_5280    :{SMALLFONT}{BLACK}Permite editar el terreno en propiedad y otras opciones restringidas al Editor de Escenario
@@ -3686,7 +3686,7 @@ STR_5345    :Trucos de dinero
 STR_5346    :Trucos de visitante
 STR_5347    :Trucos del parque
 STR_5348    :Trucos de atracciones
-STR_5349    :{SMALLFONT}{BLACK}All Rides
+STR_5349    :{SMALLFONT}{BLACK}Todas las atracciones
 STR_5350    :Máx
 STR_5351    :Min
 STR_5352    :{BLACK}Felicidad:
@@ -3708,10 +3708,10 @@ STR_5367    :Rápida
 STR_5368    :Reset datos averías
 STR_5369    :Parámetros parque...
 STR_5370    :{SMALLFONT}{BLACK}Modificar parámetros como restricciones, afluencia de visitantes y dinero.
-STR_5371    :Object Selection
+STR_5371    :Selección de Objeto
 STR_5372    :Invertir desplazamiento con el click derecho
-STR_5373    :Name {STRINGID}
-STR_5374    :Date {STRINGID}
+STR_5373    :Nombre {STRINGID}
+STR_5374    :Fecha {STRINGID}
 STR_5375    :{UP}
 STR_5376    :{DOWN}
 STR_5377    :{SMALLFONT}{BLACK}Saves
@@ -3784,8 +3784,8 @@ STR_5443    :Speed{MOVE_X}{87}{STRINGID}
 STR_5444    :Speed:
 STR_5445    :Speed
 STR_5446    :Get
-STR_5447    :Type {STRINGID}
-STR_5448    :Ride / Vehicle {STRINGID}
+STR_5447    :Tipo {STRINGID}
+STR_5448    :Juego / Vehículo {STRINGID}
 STR_5449    :Reduce game speed
 STR_5450    :Increase game speed
 STR_5451    :Open cheats window
@@ -3828,29 +3828,29 @@ STR_5487    :{SMALLFONT}{BLACK}Mensajes recientes
 STR_5488    :Entrada invisible (¡sólo OpenRCT2!)
 STR_5489    :{SMALLFONT}{BLACK}Mostrar sólo los visitantes con seguimiento activado
 STR_5490    :Silenciar al perder el foco
-STR_5491    :Inventions list
-STR_5492    :Scenario options
-STR_5493    :Send Message
+STR_5491    :Lista de inventos
+STR_5492    :Opciones de escenario
+STR_5493    :Enviar mensaje
 STR_5494    :<not used anymore>
-STR_5495    :Player List
-STR_5496    :Player:
+STR_5495    :Lista de jugadores
+STR_5496    :Jugador:
 STR_5497    :Ping:
-STR_5498    :Server List
-STR_5499    :Player Name:
-STR_5500    :Add Server
-STR_5501    :Start Server
-STR_5502    :Multiplayer
-STR_5503    :Enter hostname or IP address:
-STR_5504    :{SMALLFONT}{BLACK}Show multiplayer status
-STR_5505    :Unable to connect to server.
-STR_5506    :Visitantes ignoran intensidad atracciones
+STR_5498    :Lista de servidores
+STR_5499    :Nombre Jugador:
+STR_5500    :Añadir servidor
+STR_5501    :Iniciar servidor
+STR_5502    :Multijugador
+STR_5503    :Escribe el nombre del host o la IP:
+STR_5504    :{SMALLFONT}{BLACK}Mostrar estado multijugador
+STR_5505    :No se pudo conectar al servidor.
+STR_5506    :Visitantes ignoran la intensidad de atracciones
 STR_5507    :Los jardineros pueden cortar el césped por defecto
 STR_5508    :Permitir cargar ficheros dañados
 STR_5509    :{SMALLFONT}{BLACK}Permite cargar ficheros cuya suma de verificación no es correcta, como partidas guardadas de versiones de demostración y ficheros dañados
 STR_5510    :Dispositivo de sonido predeterminado
 STR_5511    :(UNKNOWN)
 STR_5512    :Guardar nueva copia de juego
-STR_5513    :(Quick) save game
+STR_5513    :(Rápido) guardar juego
 STR_5514    :Desactivar vandalismo
 STR_5515    :{SMALLFONT}{BLACK}Impide que los visitantes enfadados cometan actos de vandalismo
 STR_5516    :{SMALLFONT}{BLACK}Black
@@ -3893,7 +3893,7 @@ STR_5552    :{POP16}{POP16}Año {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {M
 STR_5553    :Pausar juego cuando Steam se abra
 STR_5554    :{SMALLFONT}{BLACK}Activar herramienta montaña
 STR_5555    :Muestra vehículos de otros tipos de vía
-STR_5556    :Kick Player
+STR_5556    :Expulsar jugador
 STR_5557    :Mantener conex. tras desincronización (Multijugador)
 STR_5558    :A restart is required for this setting to take effect
 STR_5559    :Inspecciones 10'
@@ -3903,17 +3903,17 @@ STR_5562    :WARNING!
 STR_5563    :This feature is currently unstable, take extra caution.
 STR_5564    :Insert Corrupt Element
 STR_5565    :{SMALLFONT}{BLACK}Inserts a corrupt map element at top of tile. This will hide any element above the corrupt element.
-STR_5566    :Password:
-STR_5567    :Advertise
-STR_5568    :Password Required
-STR_5569    :This server requires a password
-STR_5570    :Fetch Servers
-STR_5571    :Join Game
-STR_5572    :Add To Favourites
-STR_5573    :Remove From Favourites
-STR_5574    :Server Name:
-STR_5575    :Max Players:
-STR_5576    :Port:
+STR_5566    :Contraseña:
+STR_5567    :Advertir
+STR_5568    :Contraseña requerida
+STR_5569    :Este servidor requiere contraseña
+STR_5570    :Actualizar lista
+STR_5571    :Unirse al juego
+STR_5572    :Añadir a favoritos
+STR_5573    :Quitar de favoritos
+STR_5574    :Nombre del servidor:
+STR_5575    :Jugadores máximos:
+STR_5576    :Puerto:
 STR_5577    :Won surcoreano (W)
 STR_5578    :Rublo ruso (R)
 STR_5579    :Factor escala ventana:
@@ -3925,7 +3925,7 @@ STR_5584    :SI
 STR_5585    :{SMALLFONT}{BLACK}Desbloquea los límites operativos de funcionamiento, permitiendo cosas como cadenas elevadoras a {VELOCITY}
 STR_5586    :Abrir automáticamente tiendas y puestos
 STR_5587    :{SMALLFONT}{BLACK}When enabled, shops and stalls will be automatically opened after building them
-STR_5588    :{SMALLFONT}{BLACK}Play with other players
+STR_5588    :{SMALLFONT}{BLACK}Jugar con otros jugadores
 STR_5589    :Configuración de notificaciones
 STR_5590    :Premios al parque
 STR_5591    :Campañas de márketing finalizadas
@@ -3972,7 +3972,6 @@ STR_5631    :Original DLC Parks
 STR_5632    :Build your own...
 STR_5633    :CMD + 
 STR_5634    :OPTION + 
-#Untranslated, I want to translate these soon
 STR_5635    :{WINDOW_COLOUR_2}Money spent: {BLACK}{CURRENCY2DP}
 STR_5636    :{WINDOW_COLOUR_2}Commands ran: {BLACK}{COMMA16}
 STR_5637    :Can't do this...
@@ -4038,9 +4037,9 @@ STR_5731    :Linear
 STR_5732    :Anisotropic
 STR_5733    :Use NN scaling at integer scales
 # tooltip for tab in options window
-STR_5734    :{SMALLFONT}{BLACK}Rendering
+STR_5734    :{SMALLFONT}{BLACK}Renderizado
 STR_5735    :Network Status
-STR_5736    :Player
+STR_5736    :Jugador
 
 #############
 # Scenarios #
