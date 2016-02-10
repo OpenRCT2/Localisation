@@ -989,7 +989,7 @@ STR_0983    :Investigación + Desarrollo
 STR_0984    :{WINDOW_COLOUR_2}{UP}{BLACK}  {CURRENCY2DP}
 STR_0985    :{WINDOW_COLOUR_2}{DOWN}{BLACK}  {CURRENCY2DP}
 STR_0986    :{BLACK}{CURRENCY2DP}
-STR_0987    :Demasiados juegos/atracciones
+STR_0987    :Demasiados atracciones/juegos
 STR_0988    :No se puede crear una nueva atracción
 STR_0989    :{STRINGID}
 STR_0990    :{SMALLFONT}{BLACK}Construcción
@@ -1157,7 +1157,7 @@ STR_1151    :Carga completa
 STR_1152    :Cualquier carga
 STR_1153    :Marcas de altura en atracciones
 STR_1154    :Marcas de altura en el suelo
-STR_1155    :Marcas de altura en caminos
+STR_1155    :Marcas de altura en senderos
 STR_1156    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1157    :{TICK}{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1158    :No se puede quitar esto...
@@ -1175,7 +1175,7 @@ STR_1169    :(Ninguno)
 STR_1170    :{STRING}
 STR_1171    :{RED}Cerrada - - 
 STR_1172    :{YELLOW}{STRINGID} - - 
-STR_1173    :{SMALLFONT}{BLACK}Construir caminos
+STR_1173    :{SMALLFONT}{BLACK}Construir senderos
 STR_1174    :Cartel de señal interfiere
 STR_1175    :No se puede construir este camino en una pendiente
 STR_1176    :No se puede construir este camino aquí...
@@ -1183,7 +1183,7 @@ STR_1177    :No se puede quitar este camino de aquí...
 STR_1178    :Pendiente del terreno no apto
 STR_1179    :Camino interfiere
 STR_1180    :¡No se puede construir bajo el agua!
-STR_1181    :Caminos
+STR_1181    :Senderos
 STR_1182    :Tipo
 STR_1183    :Dirección
 STR_1184    :Inclinación
@@ -1199,7 +1199,7 @@ STR_1193    :{WINDOW_COLOUR_2}{STRINGID}
 STR_1194    :Cerrado
 STR_1195    :En pruebas
 STR_1196    :Abierto
-STR_1197    :Roto
+STR_1197    :Averiado
 STR_1198    :¡Accidentado!
 STR_1199    :{COMMA16} persona en la atracción
 STR_1200    :{COMMA16} personas en la atracción
@@ -1404,8 +1404,8 @@ STR_1398    :{SMALLFONT}{BLACK}Datos de tests y medidas
 STR_1399    :{SMALLFONT}{BLACK}Gráficas
 STR_1400    :Entrada
 STR_1401    :Salida
-STR_1402    :{SMALLFONT}{BLACK}Build or move entrance to ride/attraction
-STR_1403    :{SMALLFONT}{BLACK}Build or move exit from ride/attraction
+STR_1402    :{SMALLFONT}{BLACK}Construir o mover entrada de atracción/juego
+STR_1403    :{SMALLFONT}{BLACK}Construir o mover salida de atracción/juego
 STR_1404    :{SMALLFONT}{BLACK}Rotar 90{DEGREE}
 STR_1405    :{SMALLFONT}{BLACK}Mirror image
 STR_1406    :{SMALLFONT}{BLACK}Muestra u oculta decorado (si se encuentra disponible)
@@ -1425,22 +1425,22 @@ STR_1419    :{SMALLFONT}{BLACK}{VELOCITY}
 STR_1420    :{SMALLFONT}{BLACK}{LENGTH}
 STR_1421    :{SMALLFONT}{BLACK}{COMMA16}g
 STR_1422    :{SMALLFONT}{BLACK}Logging data from {POP16}{STRINGID}
-STR_1423    :{SMALLFONT}{BLACK}Camino de espera
-STR_1424    :{SMALLFONT}{BLACK}Camino
-STR_1425    :Footpath
+STR_1423    :{SMALLFONT}{BLACK}Sendero de espera
+STR_1424    :{SMALLFONT}{BLACK}Sendero
+STR_1425    :Sendero
 STR_1426    :Queue Line
 STR_1427    :{WINDOW_COLOUR_2}Clientes: {BLACK}{COMMA32} por hora
 STR_1428    :{WINDOW_COLOUR_2}Precio de la entrada:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :Gratis
-STR_1431    :Deambulando
+STR_1431    :Caminando
 STR_1432    :Yendo a {STRINGID}
 STR_1433    :Esperando en {STRINGID}
-STR_1434    :Drowning
+STR_1434    :Ahogándose
 STR_1435    :En {STRINGID}
-STR_1436    :In {STRINGID}
-STR_1437    :At {STRINGID}
-STR_1438    :Sitting
+STR_1436    :En {STRINGID}
+STR_1437    :En {STRINGID}
+STR_1438    :Sentado
 STR_1439    :(selecciona nueva ubicación)
 STR_1440    :Cortando césped
 STR_1441    :Limpiando el suelo
@@ -1450,14 +1450,14 @@ STR_1444    :Mirando {STRINGID}
 STR_1445    :Mirando la construcción de {STRINGID}
 STR_1446    :Observando el decorado
 STR_1447    :Abandonando el parque
-STR_1448    :Watching new ride being constructed
+STR_1448    :Viendo construcción de atracción
 STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
-STR_1452    :Visitante's name
-STR_1453    :Enter name for this guest:
-STR_1454    :Can't name guest...
-STR_1455    :Invalid name for guest
+STR_1452    :Nombrar Visitante
+STR_1453    :Escribe el nombre para este visitante:
+STR_1454    :No se puede renombrar visitante...
+STR_1455    :Nombre no válido para visitante
 STR_1456    :{WINDOW_COLOUR_2}Dinero gastado: {BLACK}{CURRENCY2DP}
 STR_1457    :{WINDOW_COLOUR_2}Dinero en el bolsillo: {BLACK}{CURRENCY2DP}
 STR_1458    :{WINDOW_COLOUR_2}Tiempo en el parque: {BLACK}{REALTIME}
@@ -1473,8 +1473,8 @@ STR_1467    :Hélice abajo (grande)
 STR_1468    :Empleados
 STR_1469    :Ride must start and end with stations
 STR_1470    :Station not long enough
-STR_1471    :{WINDOW_COLOUR_2}Speed:
-STR_1472    :{SMALLFONT}{BLACK}Speed of this ride
+STR_1471    :{WINDOW_COLOUR_2}Velocidad:
+STR_1472    :{SMALLFONT}{BLACK}Velocidad de esta atraccion
 STR_1473    :{WINDOW_COLOUR_2}Nivel de emoción: {BLACK}{COMMA2DP32}  ({STRINGID})
 STR_1474    :{WINDOW_COLOUR_2}Nivel de emoción: {BLACK}Aún no disponible
 STR_1475    :{WINDOW_COLOUR_2}Nivel de intensidad: {BLACK}{COMMA2DP32}  ({STRINGID})
@@ -1494,7 +1494,7 @@ STR_1488    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto para subir a {STRINGID}
 STR_1489    :{SMALLFONT}{OPENQUOTES}Quiero irme a casa{ENDQUOTES}
 STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} es realmente barato{ENDQUOTES}
 STR_1491    :{SMALLFONT}{OPENQUOTES}Ya he adquirido {STRINGID}{ENDQUOTES}
-STR_1492    :{SMALLFONT}{OPENQUOTES}I can't afford {STRINGID}{ENDQUOTES}
+STR_1492    :{SMALLFONT}{OPENQUOTES}No me puedo permitir {STRINGID}{ENDQUOTES}
 STR_1493    :{SMALLFONT}{OPENQUOTES}No tengo hambre{ENDQUOTES}
 STR_1494    :{SMALLFONT}{OPENQUOTES}No tengo sed{ENDQUOTES}
 STR_1495    :{SMALLFONT}{OPENQUOTES}¡Ayuda!¡Me ahogo!{ENDQUOTES}
@@ -1527,7 +1527,7 @@ STR_1521    :{SMALLFONT}{OPENQUOTES}Esta foto de {STRINGID} es realmente barato{
 STR_1522    :{SMALLFONT}{OPENQUOTES}Este paraguas de {STRINGID} es realmente barato{{ENDQUOTES}
 STR_1523    :{SMALLFONT}{OPENQUOTES}Esta bebida de {STRINGID} es realmente barata{{ENDQUOTES}
 STR_1524    :{SMALLFONT}{OPENQUOTES}Esta hamburguesa de {STRINGID} es realmente barata{{ENDQUOTES}
-STR_1525    :{SMALLFONT}{OPENQUOTES}Estas papas fritas de {STRINGID} son realmente baratas{{ENDQUOTES}
+STR_1525    :{SMALLFONT}{OPENQUOTES}Estas patatas fritas de {STRINGID} son realmente baratas{{ENDQUOTES}
 STR_1526    :{SMALLFONT}{OPENQUOTES}Este helado de {STRINGID} es realmente barato{{ENDQUOTES}
 STR_1527    :{SMALLFONT}{OPENQUOTES}Este algodón de azúcar de {STRINGID} es realmente barato{{ENDQUOTES}
 STR_1528    :
@@ -1536,7 +1536,7 @@ STR_1530    :
 STR_1531    :{SMALLFONT}{OPENQUOTES}Esta pizza de {STRINGID} es realmente barato{ENDQUOTES}
 STR_1532    :
 STR_1533    :{SMALLFONT}{OPENQUOTES}Estas palomitas de {STRINGID} son realmente baratas{ENDQUOTES}
-STR_1534    :{SMALLFONT}{OPENQUOTES}Este hotdog de {STRINGID} es realmente barato{ENDQUOTES}
+STR_1534    :{SMALLFONT}{OPENQUOTES}Este Perrito Caliente de {STRINGID} es realmente barato{ENDQUOTES}
 STR_1535    :{SMALLFONT}{OPENQUOTES}Este tentáculo de {STRINGID} es realmente barato{ENDQUOTES}
 STR_1536    :{SMALLFONT}{OPENQUOTES}Este sombrero de {STRINGID} es realmente barato{ENDQUOTES}
 STR_1537    :{SMALLFONT}{OPENQUOTES}Esta manzana acaramelada de {STRINGID} es realmente barato{ENDQUOTES}
@@ -1561,7 +1561,7 @@ STR_1555    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por una foto de {STRING
 STR_1556    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por un paraguas de {STRINGID}{ENDQUOTES}
 STR_1557    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por una bebida de {STRINGID}{ENDQUOTES}
 STR_1558    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por una hamburguesa de {STRINGID}{ENDQUOTES}
-STR_1559    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por unas papas fritas de {STRINGID}{ENDQUOTES}
+STR_1559    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por unas patatas fritas de {STRINGID}{ENDQUOTES}
 STR_1560    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por un helado de {STRINGID}{ENDQUOTES}
 STR_1561    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por un algodón de azúcar de {STRINGID}{ENDQUOTES}
 STR_1562    :
@@ -1570,7 +1570,7 @@ STR_1564    :
 STR_1565    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por una pizza de {STRINGID}{ENDQUOTES}
 STR_1566    :
 STR_1567    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por unas palomitas de {STRINGID}{ENDQUOTES}
-STR_1568    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por un hotdog de {STRINGID}{ENDQUOTES}
+STR_1568    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por un Perrito Caliente de {STRINGID}{ENDQUOTES}
 STR_1569    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por un tentáculo de {STRINGID}{ENDQUOTES}
 STR_1570    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por un sombrero de {STRINGID}{ENDQUOTES}
 STR_1571    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por una manzana acaramelada de {STRINGID}{ENDQUOTES}
@@ -1601,7 +1601,7 @@ STR_1595    :{SMALLFONT}{OPENQUOTES}Esta sopa de albóndigas de {STRINGID} es re
 STR_1596    :{SMALLFONT}{OPENQUOTES}Este zumo de frutas de {STRINGID} es realmente barato{ENDQUOTES}
 STR_1597    :{SMALLFONT}{OPENQUOTES}Esta leche de soja de {STRINGID} es realmente barata{ENDQUOTES}
 STR_1598    :{SMALLFONT}{OPENQUOTES}Este sujeonggwa de {STRINGID} es realmente barato{ENDQUOTES}
-STR_1599    :{SMALLFONT}{OPENQUOTES}Este sándwich de {STRINGID} es realmente barato{ENDQUOTES}
+STR_1599    :{SMALLFONT}{OPENQUOTES}Este mini-sándwich de {STRINGID} es realmente barato{ENDQUOTES}
 STR_1600    :{SMALLFONT}{OPENQUOTES}Esta galleta de {STRINGID} es realmente barata{ENDQUOTES}
 STR_1601    :
 STR_1602    :
@@ -1633,7 +1633,7 @@ STR_1627    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por una sopa de albónd
 STR_1628    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por un zumo de frutas de {STRINGID}{ENDQUOTES}
 STR_1629    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por una leche de soja de {STRINGID}{ENDQUOTES}
 STR_1630    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por un sujeonggwa de {STRINGID}{ENDQUOTES}
-STR_1631    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por un sándwich de {STRINGID}{ENDQUOTES}
+STR_1631    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por un mini-sándwich de {STRINGID}{ENDQUOTES}
 STR_1632    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por una galleta de {STRINGID}{ENDQUOTES}
 STR_1633    :
 STR_1634    :
@@ -1714,7 +1714,7 @@ STR_1708    :{SMALLFONT}{BLACK}Establecer zona de patrulla para este empleado
 STR_1709    :Sack staff
 STR_1710    :Yes
 STR_1711    :{WINDOW_COLOUR_1}Are you sure you want to sack {STRINGID}?
-STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Limpiar caminos
+STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Limpiar senderos
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Regar plantas
 STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Vaciar papeleras
 STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Cortar césped
@@ -1725,30 +1725,30 @@ STR_1719    :Introduce el nuevo nombre del parque:
 STR_1720    :{SMALLFONT}{BLACK}Nombrar parque
 STR_1721    :Parque cerrado
 STR_1722    :Parque abierto
-STR_1723    :Can't open park...
-STR_1724    :Can't close park...
-STR_1725    :Can't buy land...
-STR_1726    :Land not for sale!
-STR_1727    :Construction rights not for sale!
-STR_1728    :Can't buy construction rights here...
+STR_1723    :No puedes abrir el parque...
+STR_1724    :No puedes cerrar el parque...
+STR_1725    :No puedes comprar terreno...
+STR_1726    :¡Terreno no a la venta!
+STR_1727    :¡Derechos de construcción no a la venta!
+STR_1728    :No puedes comprar derechos de construcción aquí...
 STR_1729    :¡El terreno no es propiedad del parque!
 STR_1730    :{RED}Closed - - 
 STR_1731    :{WHITE}{STRINGID} - - 
-STR_1732    :Build
-STR_1733    :Mode
-STR_1734    :{WINDOW_COLOUR_2}Number of laps:
-STR_1735    :{SMALLFONT}{BLACK}Number of laps of circuit
+STR_1732    :Construir
+STR_1733    :Modo
+STR_1734    :{WINDOW_COLOUR_2}Numero de vueltas:
+STR_1735    :{SMALLFONT}{BLACK}Numero de vueltas de circuito
 STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1737    :{COMMA16}
-STR_1738    :Can't change number of laps...
-STR_1739    :Race won by guest {INT32}
-STR_1740    :Race won by {STRINGID}
+STR_1738    :No se puede cambiar el numero de vueltas...
+STR_1739    :Carrera ganada por visitante {INT32}
+STR_1740    :Carrera ganada por {STRINGID}
 STR_1741    :Not yet constructed !
-STR_1742    :{WINDOW_COLOUR_2}Max. people on ride:
-STR_1743    :{SMALLFONT}{BLACK}Maximum number of people allowed on this ride at one time
+STR_1742    :{WINDOW_COLOUR_2}Max. visitantes en juego:
+STR_1743    :{SMALLFONT}{BLACK}Numero de visitantes máximo permitido en este juego al mismo tiempo
 STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1745    :{COMMA16}
-STR_1746    :Can't change this...
+STR_1746    :No puedes cambiar esto...
 STR_1747    :{WINDOW_COLOUR_2}Límite de tiempo:
 STR_1748    :{SMALLFONT}{BLACK}Time limit for ride
 STR_1749    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{DURATION}
@@ -1760,10 +1760,10 @@ STR_1754    :{BLACK}{COMMA16} visitantes
 STR_1755    :{BLACK}{COMMA16} visitante
 STR_1756    :{WINDOW_COLOUR_2}Precio de la entrada:
 STR_1757    :{WINDOW_COLOUR_2}Fiabilidad: {MOVE_X}{255}{BLACK}{COMMA16}%
-STR_1758    :{SMALLFONT}{BLACK}Build mode
-STR_1759    :{SMALLFONT}{BLACK}Move mode
-STR_1760    :{SMALLFONT}{BLACK}Fill-in mode
-STR_1761    :{SMALLFONT}{BLACK}Build maze in this direction
+STR_1758    :{SMALLFONT}{BLACK}Modo construir
+STR_1759    :{SMALLFONT}{BLACK}Modo mover
+STR_1760    :{SMALLFONT}{BLACK}Modo rellenar
+STR_1761    :{SMALLFONT}{BLACK}Construir laberinto en esta dirección
 STR_1762    :Waterfalls
 STR_1763    :Rapids
 STR_1764    :Log Bumps
@@ -1878,8 +1878,8 @@ STR_1872    :{COMMA16}
 STR_1873    :{WINDOW_COLOUR_2}Ingresos: {BLACK}{CURRENCY2DP} por hora
 STR_1874    :{WINDOW_COLOUR_2}Beneficios: {BLACK}{CURRENCY2DP} por hora
 STR_1875    :{BLACK} {SPRITE}{BLACK} {STRINGID}
-STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Inspect Rides
-STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Fix Rides
+STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Inspeccionar atracciones
+STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Reparar atracciones
 STR_1878    :{WINDOW_COLOUR_2}Inspección:
 STR_1879    :Cada 10 minutos
 STR_1880    :Cada 20 minutos
@@ -1931,7 +1931,7 @@ STR_1923    :{SMALLFONT}{BLACK}Mostrar tutorial
 STR_1924    :{SMALLFONT}{BLACK}Salir del juego
 STR_1925    :No puedes colocar esta persona aquí...
 STR_1926    :{SMALLFONT}
-STR_1927    :{YELLOW}{STRINGID} se ha roto
+STR_1927    :{YELLOW}{STRINGID} se ha averiado
 STR_1928    :¡{RED}{STRINGID} ha chocado!
 STR_1929    :{RED}{STRINGID} still hasn't been fixed{NEWLINE}Check where your mechanics are and consider organising them better
 STR_1930    :{SMALLFONT}{BLACK}Activa/Desactiva el seguimiento de este visitante (Con el seguimiento activado, los movimientos de este visitante aparecerán en el área de mensajes)
@@ -1959,43 +1959,43 @@ STR_1951    :Gráfica de valor del parque
 STR_1952    :Gráfica de beneficios
 STR_1953    :Márketing
 STR_1954    :Inversión en Innovación y Desarrollo
-STR_1955    :{WINDOW_COLOUR_2}Number of circuits:
-STR_1956    :{SMALLFONT}{BLACK}Number of circuits of track per ride
+STR_1955    :{WINDOW_COLOUR_2}Número de circuitos:
+STR_1956    :{SMALLFONT}{BLACK}Número de circuitos por juego
 STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1958    :{COMMA16}
-STR_1959    :Can't change number of circuits...
-STR_1960    :{WINDOW_COLOUR_2}Balloon price:
-STR_1961    :{WINDOW_COLOUR_2}Cuddly Toy price:
-STR_1962    :{WINDOW_COLOUR_2}Precio Mapa Parque:
-STR_1963    :{WINDOW_COLOUR_2}Precio Foto:
-STR_1964    :{WINDOW_COLOUR_2}Precio Paraguas:
-STR_1965    :{WINDOW_COLOUR_2}Drink price:
-STR_1966    :{WINDOW_COLOUR_2}Burger price:
-STR_1967    :{WINDOW_COLOUR_2}Chips price:
-STR_1968    :{WINDOW_COLOUR_2}Ice Cream price:
-STR_1969    :{WINDOW_COLOUR_2}Candyfloss price:
+STR_1959    :No se puede cambiar el número de circuitos...
+STR_1960    :{WINDOW_COLOUR_2}Precio de globo:
+STR_1961    :{WINDOW_COLOUR_2}Precio de juguete:
+STR_1962    :{WINDOW_COLOUR_2}Precio de Mapa:
+STR_1963    :{WINDOW_COLOUR_2}Precio de Foto:
+STR_1964    :{WINDOW_COLOUR_2}Precio de Paraguas:
+STR_1965    :{WINDOW_COLOUR_2}Precio de Bebida:
+STR_1966    :{WINDOW_COLOUR_2}Precio de Hamburguesa:
+STR_1967    :{WINDOW_COLOUR_2}Precio Patatas Fritas:
+STR_1968    :{WINDOW_COLOUR_2}Precio de Helado:
+STR_1969    :{WINDOW_COLOUR_2}Precio Algodón Azúcar:
 STR_1970    :{WINDOW_COLOUR_2}
 STR_1971    :{WINDOW_COLOUR_2}
 STR_1972    :{WINDOW_COLOUR_2}
-STR_1973    :{WINDOW_COLOUR_2}Pizza price:
+STR_1973    :{WINDOW_COLOUR_2}Precio de Pizza:
 STR_1974    :{WINDOW_COLOUR_2}
-STR_1975    :{WINDOW_COLOUR_2}Popcorn price:
-STR_1976    :{WINDOW_COLOUR_2}Hot Dog price:
-STR_1977    :{WINDOW_COLOUR_2}Tentacle price:
-STR_1978    :{WINDOW_COLOUR_2}Hat price:
-STR_1979    :{WINDOW_COLOUR_2}Toffee Apple price:
-STR_1980    :{WINDOW_COLOUR_2}T-Shirt price:
-STR_1981    :{WINDOW_COLOUR_2}Doughnut price:
-STR_1982    :{WINDOW_COLOUR_2}Coffee price:
+STR_1975    :{WINDOW_COLOUR_2}Precio de Palomitas:
+STR_1976    :{WINDOW_COLOUR_2}Perrito Caliente:
+STR_1977    :{WINDOW_COLOUR_2}Precio de Tentáculo:
+STR_1978    :{WINDOW_COLOUR_2}Precio de Sombrero:
+STR_1979    :{WINDOW_COLOUR_2}Precio de Manzana:
+STR_1980    :{WINDOW_COLOUR_2}Precio de Camiseta:
+STR_1981    :{WINDOW_COLOUR_2}Precio de Rosquilla:
+STR_1982    :{WINDOW_COLOUR_2}Precio de Café:
 STR_1983    :{WINDOW_COLOUR_2}
-STR_1984    :{WINDOW_COLOUR_2}Fried Chicken price:
-STR_1985    :{WINDOW_COLOUR_2}Lemonade price:
+STR_1984    :{WINDOW_COLOUR_2}Precio Pollo Frito:
+STR_1985    :{WINDOW_COLOUR_2}Precio de Limonada:
 STR_1986    :{WINDOW_COLOUR_2}
 STR_1987    :{WINDOW_COLOUR_2}
 STR_1988    :Globo
 STR_1989    :Juguete Mimoso
 STR_1990    :Mapa del Parque
-STR_1991    :On-Ride Photo
+STR_1991    :Foto en Atracción
 STR_1992    :Sombrilla
 STR_1993    :Bebida
 STR_1994    :Hamburguesa
@@ -2011,15 +2011,15 @@ STR_2003    :Palomitas de Maíz
 STR_2004    :Perrito Caliente
 STR_2005    :Tentáculo
 STR_2006    :Gorra
-STR_2007    :Toffee Apple
+STR_2007    :Manzana acaramelada
 STR_2008    :Camiseta
 STR_2009    :Rosquilla
 STR_2010    :Café
-STR_2011    :Empty Cup
+STR_2011    :Taza vacía
 STR_2012    :Pollo Frito
 STR_2013    :Limonada
-STR_2014    :Empty Box
-STR_2015    :Empty Bottle
+STR_2014    :Caja vacía
+STR_2015    :Botella vacía
 STR_2016    :Globos
 STR_2017    :Juguetes Mimosos
 STR_2018    :Mapas del parque
@@ -2029,25 +2029,25 @@ STR_2021    :Bebidas
 STR_2022    :Hamburguesas
 STR_2023    :Patatas Fritas
 STR_2024    :Helados
-STR_2025    :Candyfloss
-STR_2026    :Empty Cans
+STR_2025    :Algodón Azucar
+STR_2026    :Latas vacías
 STR_2027    :Basuras
-STR_2028    :Empty Burger Boxes
+STR_2028    :Cajas vacías
 STR_2029    :Pizzas
-STR_2030    :Vouchers
+STR_2030    :Cupones
 STR_2031    :Palomitas de Maíz
 STR_2032    :Perritos Calientes
 STR_2033    :Tentáculos
-STR_2034    :Gorras
-STR_2035    :Toffee Apples
+STR_2034    :Sombreros
+STR_2035    :Manzanas acarameladas
 STR_2036    :Camisetas
 STR_2037    :Rosquillas
 STR_2038    :Cafés
-STR_2039    :Empty Cups
-STR_2040    :Pollo Frito
-STR_2041    :Limonada
-STR_2042    :Empty Boxes
-STR_2043    :Empty Bottles
+STR_2039    :Tazas vacías
+STR_2040    :Pollos Frito
+STR_2041    :Limonadas
+STR_2042    :Cajas vacías
+STR_2043    :Botellas vacías
 STR_2044    :un Globo
 STR_2045    :un Juguete Mimoso
 STR_2046    :un Mapa del Parque
@@ -2057,163 +2057,163 @@ STR_2049    :una Bebida
 STR_2050    :una Hamburguesa
 STR_2051    :unas Patatas Fritas
 STR_2052    :un Helado
-STR_2053    :some Candyfloss
-STR_2054    :an Empty Can
+STR_2053    :un Algodón Azúcar
+STR_2054    :una Lata vacía
 STR_2055    :una Basura
-STR_2056    :an Empty Burger Box
+STR_2056    :una Caja vacía
 STR_2057    :una Pizza
-STR_2058    :a Voucher
+STR_2058    :un cupón
 STR_2059    :unas Palomitas de Maíz
 STR_2060    :un Perrito Caliente
 STR_2061    :un Tentáculo
 STR_2062    :una Gorra
-STR_2063    :a Toffee Apple
+STR_2063    :una Manzana acaramelada
 STR_2064    :una Camiseta
 STR_2065    :una Rosquilla
 STR_2066    :un Café
-STR_2067    :an Empty Cup
+STR_2067    :una taza vacía
 STR_2068    :unos Pollos Fritos
 STR_2069    :una Limonada
-STR_2070    :an Empty Box
-STR_2071    :an Empty Bottle
-STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Balloon
-STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Cuddly Toy
+STR_2070    :una Caja vacía
+STR_2071    :una Botella vacía
+STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Globo
+STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Juguete
 STR_2074    :Mapa de {STRINGID}
-STR_2075    :On-Ride Photo of {STRINGID}
-STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Umbrella
-STR_2077    :Drink
-STR_2078    :Burger
-STR_2079    :Chips
-STR_2080    :Ice Cream
-STR_2081    :Candyfloss
-STR_2082    :Empty Can
-STR_2083    :Rubbish
-STR_2084    :Empty Burger Box
+STR_2075    :Foto en atracción de {STRINGID}
+STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Paraguas
+STR_2077    :Bebida
+STR_2078    :Hamburguesa
+STR_2079    :Patatas Fritas
+STR_2080    :Helado
+STR_2081    :Algodón Azúcar
+STR_2082    :Lata vacía
+STR_2083    :Basura
+STR_2084    :Caja vacía de hamburguesa
 STR_2085    :Pizza
-STR_2086    :Voucher for {STRINGID}
-STR_2087    :Popcorn
-STR_2088    :Hot Dog
-STR_2089    :Tentacle
-STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Hat
-STR_2091    :Toffee Apple
-STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} T-Shirt
-STR_2093    :Doughnut
-STR_2094    :Coffee
-STR_2095    :Empty Cup
-STR_2096    :Fried Chicken
-STR_2097    :Lemonade
-STR_2098    :Empty Box
-STR_2099    :Empty Bottle
-STR_2100    :{WINDOW_COLOUR_2}On-Ride Photo price:
-STR_2101    :{WINDOW_COLOUR_2}On-Ride Photo price:
-STR_2102    :{WINDOW_COLOUR_2}On-Ride Photo price:
-STR_2103    :{WINDOW_COLOUR_2}Pretzel price:
-STR_2104    :{WINDOW_COLOUR_2}Hot Chocolate price:
-STR_2105    :{WINDOW_COLOUR_2}Iced Tea price:
-STR_2106    :{WINDOW_COLOUR_2}Funnel Cake price:
-STR_2107    :{WINDOW_COLOUR_2}Sunglasses price:
-STR_2108    :{WINDOW_COLOUR_2}Beef Noodles price:
-STR_2109    :{WINDOW_COLOUR_2}Fried Rice Noodles price:
-STR_2110    :{WINDOW_COLOUR_2}Wonton Soup price:
-STR_2111    :{WINDOW_COLOUR_2}Meatball Soup price:
-STR_2112    :{WINDOW_COLOUR_2}Fruit Juice price:
-STR_2113    :{WINDOW_COLOUR_2}Soybean Milk price:
-STR_2114    :{WINDOW_COLOUR_2}Sujongkwa price:
-STR_2115    :{WINDOW_COLOUR_2}Sub Sandwich price:
-STR_2116    :{WINDOW_COLOUR_2}Cookie price:
+STR_2086    :Cupón para {STRINGID}
+STR_2087    :Palomitas de Maíz
+STR_2088    :Perrito caliente
+STR_2089    :Tentáculo
+STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Sombrero
+STR_2091    :Manzana Acaramelada
+STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Camiseta
+STR_2093    :Rosquilla
+STR_2094    :Café
+STR_2095    :Taza vacía
+STR_2096    :Pollo Frito
+STR_2097    :Limonada
+STR_2098    :Caja vacía
+STR_2099    :Botella vacía
+STR_2100    :{WINDOW_COLOUR_2}Precio de foto:
+STR_2101    :{WINDOW_COLOUR_2}Precio de foto:
+STR_2102    :{WINDOW_COLOUR_2}Precio de foto:
+STR_2103    :{WINDOW_COLOUR_2}Precio de Pretzel:
+STR_2104    :{WINDOW_COLOUR_2}Precio Chocolate:
+STR_2105    :{WINDOW_COLOUR_2}Precio de Té Helado:
+STR_2106    :{WINDOW_COLOUR_2}Precio Pastel:
+STR_2107    :{WINDOW_COLOUR_2}Precio de Gafas:
+STR_2108    :{WINDOW_COLOUR_2}Precio de Fideos:
+STR_2109    :{WINDOW_COLOUR_2}Precio Arroz Frito:
+STR_2110    :{WINDOW_COLOUR_2}Precio Sopa Wonton:
+STR_2111    :{WINDOW_COLOUR_2}Precio Albóndigas:
+STR_2112    :{WINDOW_COLOUR_2}Precio Jugo Frutas:
+STR_2113    :{WINDOW_COLOUR_2}Precio Leche Soja:
+STR_2114    :{WINDOW_COLOUR_2}Precio Sujongkwa:
+STR_2115    :{WINDOW_COLOUR_2}Precio Sándwich:
+STR_2116    :{WINDOW_COLOUR_2}Precio de Galleta:
 STR_2117    :{WINDOW_COLOUR_2}
 STR_2118    :{WINDOW_COLOUR_2}
 STR_2119    :{WINDOW_COLOUR_2}
-STR_2120    :{WINDOW_COLOUR_2}Roast Sausage price:
+STR_2120    :{WINDOW_COLOUR_2}Precio Salchicha:
 STR_2121    :{WINDOW_COLOUR_2}
-STR_2122    :On-Ride Photo
-STR_2123    :On-Ride Photo
-STR_2124    :On-Ride Photo
+STR_2122    :Foto en Atracción
+STR_2123    :Foto en Atracción
+STR_2124    :Foto en Atracción
 STR_2125    :Pretzel
-STR_2126    :Hot Chocolate
-STR_2127    :Iced Tea
+STR_2126    :Chocolate Caliente
+STR_2127    :Té helado
 STR_2128    :Funnel Cake
-STR_2129    :Sunglasses
-STR_2130    :Beef Noodles
-STR_2131    :Fried Rice Noodles
-STR_2132    :Wonton Soup
-STR_2133    :Meatball Soup
-STR_2134    :Fruit Juice
-STR_2135    :Soybean Milk
+STR_2129    :Gafas de Sol
+STR_2130    :Fideo con carne
+STR_2131    :Arroz Frito
+STR_2132    :Sopa Wonton
+STR_2133    :Albóndigas
+STR_2134    :Jugo de Frutas
+STR_2135    :Leche de Soja
 STR_2136    :Sujongkwa
-STR_2137    :Sub Sandwich
-STR_2138    :Cookie
-STR_2139    :Empty Bowl
-STR_2140    :Empty Drink Carton
-STR_2141    :Empty Juice Cup
-STR_2142    :Roast Sausage
-STR_2143    :Empty Bowl
-STR_2144    :On-Ride Photos
-STR_2145    :On-Ride Photos
-STR_2146    :On-Ride Photos
+STR_2137    :Mini-Sándwich
+STR_2138    :Galleta
+STR_2139    :Tazón vacío
+STR_2140    :Cartón de bebida vacío
+STR_2141    :Taza de jugo vacía    
+STR_2142    :Salchicha Asada
+STR_2143    :Tazón vacío
+STR_2144    :Foto en Atracción
+STR_2145    :Foto en Atracción
+STR_2146    :Foto en Atracción
 STR_2147    :Pretzels
-STR_2148    :Hot Chocolates
-STR_2149    :Iced Teas
+STR_2148    :Chocolates Caliente
+STR_2149    :Tés Helados
 STR_2150    :Funnel Cakes
-STR_2151    :Sunglasses
-STR_2152    :Beef Noodles
-STR_2153    :Fried Rice Noodles
-STR_2154    :Wonton Soups
-STR_2155    :Meatball Soups
-STR_2156    :Fruit Juices
-STR_2157    :Soybean Milks
+STR_2151    :Gafas de Sol
+STR_2152    :Fideos con carne
+STR_2153    :Arroz fritos
+STR_2154    :Sopas Wonton
+STR_2155    :Albóndigas
+STR_2156    :Jugos de Frutas
+STR_2157    :Leches de Soja
 STR_2158    :Sujongkwa
-STR_2159    :Sub Sandwiches
-STR_2160    :Cookies
-STR_2161    :Empty Bowls
-STR_2162    :Empty Drink Cartons
-STR_2163    :Empty Juice cups
-STR_2164    :Roast Sausages
-STR_2165    :Empty Bowls
-STR_2166    :an On-Ride Photo
-STR_2167    :an On-Ride Photo
-STR_2168    :an On-Ride Photo
-STR_2169    :a Pretzel
-STR_2170    :a Hot Chocolate
-STR_2171    :an Iced Tea
-STR_2172    :a Funnel Cake
-STR_2173    :a pair of Sunglasses
-STR_2174    :some Beef Noodles
-STR_2175    :some Fried Rice Noodles
-STR_2176    :some Wonton Soup
-STR_2177    :some Meatball Soup
-STR_2178    :a Fruit Juice
-STR_2179    :some Soybean Milk
-STR_2180    :some Sujongkwa
-STR_2181    :a Sub Sandwich
-STR_2182    :a Cookie
-STR_2183    :an Empty Bowl
-STR_2184    :an Empty Drink Carton
-STR_2185    :an Empty Juice Cup
-STR_2186    :a Roast Sausage
-STR_2187    :an Empty Bowl
-STR_2188    :On-Ride Photo of {STRINGID}
-STR_2189    :On-Ride Photo of {STRINGID}
-STR_2190    :On-Ride Photo of {STRINGID}
+STR_2159    :Mini-Sándwiches
+STR_2160    :Galletas
+STR_2161    :Tazones vacíos
+STR_2162    :Cartónes de bebida vacío
+STR_2163    :Tazas de jugo vacías
+STR_2164    :Salchichas asadas
+STR_2165    :Tazones vacíos
+STR_2166    :una Foto en Atracción
+STR_2167    :una Foto en Atracción
+STR_2168    :una Foto en Atracción
+STR_2169    :un Pretzel
+STR_2170    :un Chocolate Caliente
+STR_2171    :un Té Helado
+STR_2172    :un Funnel Cake
+STR_2173    :un par de Gafas
+STR_2174    :unos Fideos de carne
+STR_2175    :un Arroz Frito
+STR_2176    :una Sopa Wonton
+STR_2177    :unas Albóndigas
+STR_2178    :un Jugo de Frutas
+STR_2179    :una Leche de soja
+STR_2180    :un Sujongkwa
+STR_2181    :un Mini-Sándwich
+STR_2182    :una Galleta
+STR_2183    :un Tazón Vacío
+STR_2184    :un Cartón de bebida vacío
+STR_2185    :una Taza de jugo vacía
+STR_2186    :una Salchicha asada
+STR_2187    :un Tazón Vacío
+STR_2188    :Foto en Atracción de {STRINGID}
+STR_2189    :Foto en Atracción de {STRINGID}
+STR_2190    :Foto en Atracción de {STRINGID}
 STR_2191    :Pretzel
-STR_2192    :Hot Chocolate
-STR_2193    :Iced Tea
+STR_2192    :Chocolate Caliente
+STR_2193    :Té Helado
 STR_2194    :Funnel Cake
-STR_2195    :Sunglasses
-STR_2196    :Beef Noodles
-STR_2197    :Fried Rice Noodles
+STR_2195    :Gafas de Sol
+STR_2196    :Fideos con carne
+STR_2197    :Arroz Frito
 STR_2198    :Wonton Soup
-STR_2199    :Meatball Soup
-STR_2200    :Fruit Juice
-STR_2201    :Soybean Milk
+STR_2199    :Albóndigas
+STR_2200    :Jugo de Frutas
+STR_2201    :Leche de Soja
 STR_2202    :Sujongkwa
-STR_2203    :Sub Sandwich
-STR_2204    :Cookie
-STR_2205    :Empty Bowl
-STR_2206    :Empty Drink Carton
-STR_2207    :Empty Juice Cup
-STR_2208    :Roast Sausage
-STR_2209    :Empty Bowl
+STR_2203    :Mini-Sándwich
+STR_2204    :Galleta
+STR_2205    :Tazón Vacío
+STR_2206    :Cartón de bebida vacío
+STR_2207    :Taza de jugo vacía
+STR_2208    :Salchicha asada
+STR_2209    :Tazón Vacío
 STR_2210    :{SMALLFONT}{BLACK}Mostrar lista de jardineros del parque
 STR_2211    :{SMALLFONT}{BLACK}Mostrar lista de mecánicos del parque
 STR_2212    :{SMALLFONT}{BLACK}Mostrar lista de guardas de seguridad del parque
@@ -2252,7 +2252,7 @@ STR_2244    :Septiembre
 STR_2245    :Octubre
 STR_2246    :Noviembre
 STR_2247    :Diciembre
-STR_2248    :Can't demolish ride/attraction...
+STR_2248    :Can't demolish atracción/juego...
 STR_2249    :{BABYBLUE}Nueva atracción disponible:{NEWLINE}{STRINGID}
 STR_2250    :{BABYBLUE}Nuevo decorado disponible:{NEWLINE}{STRINGID}
 STR_2251    :Can only be built on paths!
@@ -2295,7 +2295,7 @@ STR_2287    :Finalizando diseño
 STR_2288    :Desconocido
 STR_2289    :{STRINGID} {STRINGID}
 STR_2290    :{SMALLFONT}{BLACK}{STRINGID} {STRINGID}
-STR_2291    :Select scenario for new game
+STR_2291    :Selecciona el escenario para una nueva partida
 STR_2292    :{WINDOW_COLOUR_2}Atracciones visitadas:
 STR_2293    :{BLACK} Nada
 STR_2294    :{SMALLFONT}{BLACK}Cambiar estilo de tierra
@@ -2357,10 +2357,10 @@ STR_2349    :{WINDOW_COLOUR_2}Sueldo: {BLACK}{CURRENCY} al mes
 STR_2350    :{WINDOW_COLOUR_2}Contratado: {BLACK}{MONTHYEAR}
 STR_2351    :{WINDOW_COLOUR_2}Césped cortado: {BLACK}{COMMA16}
 STR_2352    :{WINDOW_COLOUR_2}Jardines regados: {BLACK}{COMMA16}
-STR_2353    :{WINDOW_COLOUR_2}Caminos limpios: {BLACK}{COMMA16}
+STR_2353    :{WINDOW_COLOUR_2}Senderos limpios: {BLACK}{COMMA16}
 STR_2354    :{WINDOW_COLOUR_2}Papeleras vaciadas: {BLACK}{COMMA16}
-STR_2355    :{WINDOW_COLOUR_2}Rides fixed: {BLACK}{COMMA16}
-STR_2356    :{WINDOW_COLOUR_2}Rides inspected: {BLACK}{COMMA16}
+STR_2355    :{WINDOW_COLOUR_2}Atracciones reparadas: {BLACK}{COMMA16}
+STR_2356    :{WINDOW_COLOUR_2}Inspecciones: {BLACK}{COMMA16}
 STR_2357    :Casa
 STR_2358    :Unidas
 STR_2359    :Valores reales
@@ -2374,7 +2374,7 @@ STR_2366    :Celsius ({DEGREE}C)
 STR_2367    :Fahrenheit ({DEGREE}F)
 STR_2368    :None
 STR_2369    :Bajo
-STR_2370    :Average
+STR_2370    :Promedio
 STR_2371    :High
 STR_2372    :Bajo
 STR_2373    :Medio
@@ -2389,7 +2389,7 @@ STR_2381    :{SMALLFONT}{BLACK}Seleccionar más extensión de agua
 STR_2382    :Tierra
 STR_2383    :Agua
 STR_2384    :{WINDOW_COLOUR_2}Tu objetivo:
-STR_2385    :{BLACK}None
+STR_2385    :{BLACK}Ninguno
 STR_2386    :{BLACK}Tener al menos {COMMA16} visitantes en tu parque a finales de {MONTHYEAR}, con una valoración del parque de al menos 600
 STR_2387    :{BLACK}Conseguir un valor del parque {POP16}{POP16}{CURRENCY} a final de {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}
 STR_2388    :{BLACK}¡Diviértete!
@@ -2401,18 +2401,18 @@ STR_2393    :{BLACK}Tener al menos 10 tipos de montañas rusas distintas operand
 STR_2394    :{BLACK}Terminar de construir 5 de las montañas rusas no terminadas en este parque, diseñándolas de modo que tengan un valor de emoción de al menos {POP16}{POP16}{COMMA2DP32} cada una
 STR_2395    :{BLACK}Devolver el crédito y conseguir un valor del parque de al menos {POP16}{POP16}{CURRENCY}
 STR_2396    :{BLACK}Conseguir unos ingresos mensuales por comida, bebida y otros artículos de al menos {POP16}{POP16}{CURRENCY}
-STR_2397    :None
-STR_2398    :Number of guests at a given date
-STR_2399    :Park value at a given date
-STR_2400    :Have fun
-STR_2401    :Build the best ride you can
-STR_2402    :Build 10 roller coasters
-STR_2403    :Number of guests in park
-STR_2404    :Monthly income from ride tickets
-STR_2405    :Build 10 roller coasters of a given length
-STR_2406    :Finish building 5 roller coasters
-STR_2407    :Repay loan and achieve a given park value
-STR_2408    :Monthly profit from food/merchandise
+STR_2397    :Ninguno
+STR_2398    :Número de visitantes en una fecha dada
+STR_2399    :Valor del parque en una fecha dada
+STR_2400    :¡Diviertete!
+STR_2401    :Construir la mejor atracción posible
+STR_2402    :Construye 10 montañas rusas
+STR_2403    :Núnero de visitantes en el parque
+STR_2404    :Beneficio mensual de atracciones
+STR_2405    :Construye 10 montañas rusas con una longitud
+STR_2406    :Terminar la construcción de 5 montañas rusas
+STR_2407    :Pagar préstamo y alcanzar un valor de parque
+STR_2408    :Beneficio mensual comida/mercadotecnia
 STR_2409    :{WINDOW_COLOUR_2}Campañas de márketing en marcha
 STR_2410    :{BLACK}Ninguna
 STR_2411    :{WINDOW_COLOUR_2}Campañas de márketing disponibles
@@ -2425,7 +2425,7 @@ STR_2417    :{WINDOW_COLOUR_2}Período de tiempo:
 STR_2418    :Entrada gratis a {STRINGID}
 STR_2419    :Entrada gratis a {STRINGID}
 STR_2420    :Descuento 50% en {STRINGID}
-STR_2421    :Free {STRINGID}
+STR_2421    :Gratis {STRINGID}
 STR_2422    :Advertising campaign for {STRINGID}
 STR_2423    :Advertising campaign for {STRINGID}
 STR_2424    :{WINDOW_COLOUR_2}Cupones para entrada gratis al parque
@@ -2754,8 +2754,8 @@ STR_2746    :]
 STR_2747    :{ENDQUOTES}
 STR_2748    :Bar
 STR_2749    :My new scenario
-STR_2750    :Move all items to top
-STR_2751    :Move all items to bottom
+STR_2750    :Mover todo hacia arriba
+STR_2751    :Mover todo hacia abajo
 STR_2752    :Limpiar césped
 STR_2753    :Cortar césped
 STR_2754    :Regar plantas
@@ -2780,7 +2780,7 @@ STR_2771    :Slower Gamespeed
 STR_2772    :Faster Gamespeed
 STR_2773    :Ventana
 STR_2774    :Pantalla completa
-STR_2775    :Fullscreen (desktop)
+STR_2775    :Pantalla completa (escritorio)
 STR_2776    :Idioma:
 STR_2777    :{MOVE_X}{SMALLFONT}{STRING}
 STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRING}
@@ -2812,14 +2812,14 @@ STR_2802    :Mapa
 STR_2803    :{SMALLFONT}{BLACK}Show these guests highlighted on map
 STR_2804    :{SMALLFONT}{BLACK}Muestra estos empleados marcados en el mapa
 STR_2805    :{SMALLFONT}{BLACK}Mostrar mapa del parque
-STR_2806    :{RED}Guests are complaining about the disgusting state of the paths in your park{NEWLINE}Check where your handymen are and consider organising them better
-STR_2807    :{RED}Guests are complaining about the amount of litter in your park{NEWLINE}Check where your handymen are and consider organising them better
-STR_2808    :{RED}Guests are complaining about the vandalism in your park{NEWLINE}Check where your security guards are and consider organising them better
-STR_2809    :{RED}Guests are hungry and can't find anywhere to buy food
-STR_2810    :{RED}Guests are thirsty and can't find anywhere to buy drinks
-STR_2811    :{RED}Guests are complaining because they can't find the toilets in your park
-STR_2812    :{RED}Guests are getting lost or stuck{NEWLINE}Check whether the layout of your footpaths needs improving to help the guests find their way around
-STR_2813    :{RED}Your park entrance fee is too high!{NEWLINE}Reduce your entrance fee or improve the value of the park to attract more guests
+STR_2806    :{RED}Los visitantes se quejan del mal estado de los senderos{NEWLINE}Comprueba donde están tus empleados y organizalos mejor.
+STR_2807    :{RED}Los visitantes se quejan de la basura en el parque{NEWLINE}Comprueba donde están tus empleados y organizalos mejor.
+STR_2808    :{RED}Los visitantes se quejan del vandalismo en el parque{NEWLINE}Comprueba donde están tus guardias y organizalos mejor.
+STR_2809    :{RED}Los visitantes estan hambrientos y no encuentran donde comprar comida.
+STR_2810    :{RED}Los visitantes tienen sed y no encuentran donde comprar bebidas.
+STR_2811    :{RED}Los visitantes se quejan por que no pueden encontrar los baños en el parque.
+STR_2812    :{RED}Los visitantes se pierden o atascan{NEWLINE}Comprueba el diseño de tus senderos para ayudar a los visitantes.
+STR_2813    :{RED}¡La entrada del parque es muy cara!{NEWLINE}Reduce el costo de la entrada o mejora el valor del parque.
 STR_2814    :{WINDOW_COLOUR_2}Premio al parque más sucio del país
 STR_2815    :{WINDOW_COLOUR_2}Premio al parque más limpio del país
 STR_2816    :{WINDOW_COLOUR_2}Premio al parque con las mejores montañas rusas
@@ -2860,7 +2860,7 @@ STR_2850    :New track design installed successfully
 STR_2851    :Scenario already installed
 STR_2852    :Track design already installed
 STR_2853    :¡Prohibido por las autoridades locales!
-STR_2854    :{RED}Guests can't get to the entrance of {STRINGID} !{NEWLINE}Construct a path to the entrance
+STR_2854    :{RED}¡Los visitantes no encuentran la entrada de {STRINGID}!{NEWLINE}Construye un sendero hacia la entrada
 STR_2855    :{RED}{STRINGID} has no path leading from its exit !{NEWLINE}Construct a path from the ride exit
 STR_2856    :{WINDOW_COLOUR_2}Tutorial
 STR_2857    :{WINDOW_COLOUR_2}(Press a key or mouse button to take control)
@@ -3064,17 +3064,17 @@ STR_3054    :Loading...
 STR_3055    :Blanca
 STR_3056    :Translúcida
 STR_3057    :{WINDOW_COLOUR_2}Marca de construcción:
-STR_3058    :Brick walls
-STR_3059    :Hedges
-STR_3060    :Ice blocks
-STR_3061    :Wooden fences
+STR_3058    :Paredes de ladrillo
+STR_3059    :Arbusto
+STR_3060    :Bloque de hielo
+STR_3061    :Cerca de madera
 STR_3062    :{SMALLFONT}{BLACK}Standard roller coaster track
 STR_3063    :{SMALLFONT}{BLACK}Water channel (track submerged)
-STR_3064    :Beginner Parks
-STR_3065    :Challenging Parks
-STR_3066    :Expert Parks
-STR_3067    :{OPENQUOTES}Real{ENDQUOTES} Parks
-STR_3068    :Other Parks
+STR_3064    :Parq. para novatos
+STR_3065    :Parques Retadores
+STR_3066    :Parques Expertos
+STR_3067    :Parques {OPENQUOTES}Reales{ENDQUOTES}
+STR_3068    :Otros parques
 STR_3069    :Top Section
 STR_3070    :Slope to Level
 STR_3071    :{WINDOW_COLOUR_2}Mismo precio en todo el parque
@@ -3185,33 +3185,33 @@ STR_3175    :This object is always required
 STR_3176    :Unable to select this object
 STR_3177    :Unable to de-select this object
 STR_3178    :At least one path object must be selected
-STR_3179    :At least one ride vehicle/attraction object must be selected
+STR_3179    :At least one ride atracción/vehículo object must be selected
 STR_3180    :Invalid selection of objects
-STR_3181    :Selección de Objeto - {STRINGID}
+STR_3181    :Selección de Objetos - {STRINGID}
 STR_3182    :Park entrance type must be selected
 STR_3183    :Water type must be selected
-STR_3184    :Juegos/Atracciones
-STR_3185    :Small Scenery
-STR_3186    :Large Scenery
-STR_3187    :Walls/Fences
-STR_3188    :Path Signs
+STR_3184    :Atracciones/juegos
+STR_3185    :Escenario pequeño
+STR_3186    :Escenario grande
+STR_3187    :Muros/Vallas
+STR_3188    :Señales de Sendero
 STR_3189    :Senderos
-STR_3190    :Path Extras
+STR_3190    :Decoración Senderos
 STR_3191    :Escenarios
 STR_3192    :Entrada del parque
 STR_3193    :Agua
 STR_3194    :Descripción del escenario
-STR_3195    :Invention List
+STR_3195    :Lista de inventos
 STR_3196    :{WINDOW_COLOUR_2}Research Group: {BLACK}{STRINGID}
-STR_3197    :{WINDOW_COLOUR_2}Items pre-invented at start of game:
-STR_3198    :{WINDOW_COLOUR_2}Items to invent during game:
-STR_3199    :Random Shuffle
-STR_3200    :{SMALLFONT}{BLACK}Randomly shuffle the list of items to invent during the game
-STR_3201    :Selección de Objeto
+STR_3197    :{WINDOW_COLOUR_2}Elementos preinventados al comienzo de la partida:
+STR_3198    :{WINDOW_COLOUR_2}Elementos inventados durante la partida:
+STR_3199    :Mezcla aleatoria
+STR_3200    :{SMALLFONT}{BLACK}Mezclar la lista de inventos durante la partida aleatoriamente.
+STR_3201    :Selección de Objetos
 STR_3202    :Editor de paisajes
-STR_3203    :Configurar lista de inventos
-STR_3204    :Options Selection
-STR_3205    :Objective Selection
+STR_3203    :Lista de inventos finalizada
+STR_3204    :Elección de opciones
+STR_3205    :Selección de objetivos
 STR_3206    :Save Scenario
 STR_3207    :Diseñador de Montañas Rusas
 STR_3208    :Diseñador de Vías
@@ -3223,10 +3223,10 @@ STR_3213    :Can't decrease map size any further
 STR_3214    :Can't increase map size any further
 STR_3215    :Too close to edge of map
 STR_3216    :{SMALLFONT}{BLACK}Selecciona el terreno propiedad del parque, etc.
-STR_3217    :Terreno comprado
-STR_3218    :Derecho Construcción
-STR_3219    :Terreno en venta
-STR_3220    :Venta Derecho Construcción
+STR_3217    :Terreno propio
+STR_3218    :Derechos constr. propios
+STR_3219    :Terreno a la venta
+STR_3220    :Derechos constr. en venta
 STR_3221    :{SMALLFONT}{BLACK}Establece las tierras propiedad del parque.
 STR_3222    :{SMALLFONT}{BLACK}Establece Derechos de Construcción del parque.
 STR_3223    :{SMALLFONT}{BLACK}Establece el terreno que esté disponibles para la compra del parque.
@@ -3244,29 +3244,29 @@ STR_3234    :Opciones - Parque
 STR_3235    :{SMALLFONT}{BLACK}Opciones de finanzas
 STR_3236    :{SMALLFONT}{BLACK}Opciones de visitantes
 STR_3237    :{SMALLFONT}{BLACK}Opciones del parque
-STR_3238    :Abolir dinero
+STR_3238    :Sin dinero
 STR_3239    :{SMALLFONT}{BLACK}Elimina las restricciones financieras de este parque
-STR_3240    :{WINDOW_COLOUR_2}Fondos iniciales:
-STR_3241    :{WINDOW_COLOUR_2}Deuda inicial:
-STR_3242    :{WINDOW_COLOUR_2}Maxima deuda:
-STR_3243    :{WINDOW_COLOUR_2}Tasa de interés anual:
+STR_3240    :{WINDOW_COLOUR_2}Efectivo inicial:
+STR_3241    :{WINDOW_COLOUR_2}Préstamo inicial:
+STR_3242    :{WINDOW_COLOUR_2}Maximo préstamo:
+STR_3243    :{WINDOW_COLOUR_2}Interés anual:
 STR_3244    :Prohibir campañas de márketing
 STR_3245    :{SMALLFONT}{BLACK}Prohibir anuncios, promociones y otras campañas de márketing
 STR_3246    :{WINDOW_COLOUR_2}{CURRENCY}
 STR_3247    :{WINDOW_COLOUR_2}{COMMA16}%
 STR_3248    :Can't increase initial cash any further!
-STR_3249    :Can't reduce initial cash any further!
-STR_3250    :Can't increase initial loan any further!
-STR_3251    :Can't reduce initial loan any further!
-STR_3252    :Can't increase maximum loan size any further!
-STR_3253    :Can't reduce maximum loan size any further!
-STR_3254    :Can't increase interest rate any further!
-STR_3255    :Can't reduce interest rate any further!
-STR_3256    :Visitantes prefieren atracciones menos intensas
+STR_3249    :¡No puede reducirse más el efectivo inicial!
+STR_3250    :¡No puede aumentarse más el efectivo inicial!
+STR_3251    :¡No puede reducirse más el préstamo inicial!
+STR_3252    :¡No puede aumentarse más el préstamo inicial!
+STR_3253    :¡No puede reducirse más el crédito máximo!
+STR_3254    :¡No puede aumentarse más el crédito máximo!
+STR_3255    :¡No puede reducirse más el interés anual!
+STR_3256    :Visitantes prefieren atracciones tranquilas
 STR_3257    :{SMALLFONT}{BLACK}Los visitantes prefieren atracciones de baja intensidad normalmente
-STR_3258    :Visitantes prefieren atracciones más intensas
+STR_3258    :Visitantes prefieren atracciones intensas
 STR_3259    :{SMALLFONT}{BLACK}Los visitantes prefieren atracciones de alta intensidad normalmente
-STR_3260    :{WINDOW_COLOUR_2}Dinero por visitante (de media):
+STR_3260    :{WINDOW_COLOUR_2}Efectivo por visitante (media):
 STR_3261    :{WINDOW_COLOUR_2}Felicidad inicial de visitantes:
 STR_3262    :{WINDOW_COLOUR_2}Hambre inicial de visitantes:
 STR_3263    :{WINDOW_COLOUR_2}Sed inicial de visitantes:
@@ -3279,66 +3279,66 @@ STR_3269    :Prohibir cambios en el terreno
 STR_3270    :{SMALLFONT}{BLACK}Prohíbe mover tierras
 STR_3271    :Prohibir construcciones altas
 STR_3272    :{SMALLFONT}{BLACK}Prohíbe que se pueda construir a demasiada altura
-STR_3273    :Baja valoración del parque
+STR_3273    :Dificultar la valoración del parque
 STR_3274    :{SMALLFONT}{BLACK}Hacer que la valoración del parque crezca más lentamente
-STR_3275    :Baja tasa de visitantes
+STR_3275    :Dificultar la generación de visitantes
 STR_3276    :{SMALLFONT}{BLACK}Disminuye la frecuencia con la que aparecen visitantes
 STR_3277    :{WINDOW_COLOUR_2}Coste de terreno:
 STR_3278    :{WINDOW_COLOUR_2}Coste derechos de construcción:
 STR_3279    :Entrada libre / Atracciones de pago
 STR_3280    :Pagar por entrar / Atracciones gratis
 STR_3281    :{WINDOW_COLOUR_2}Precio de entrada:
-STR_3282    :{SMALLFONT}{BLACK}Select objective and park name
-STR_3283    :{SMALLFONT}{BLACK}Select rides to be preserved
-STR_3284    :Objective Selection
-STR_3285    :Preserved Rides
-STR_3286    :{SMALLFONT}{BLACK}Select objective for this scenario
+STR_3282    :{SMALLFONT}{BLACK}Seleccionar objetivo y nombre del parque
+STR_3283    :{SMALLFONT}{BLACK}Seleccionar atracciones a preservar
+STR_3284    :Elección de objetivos
+STR_3285    :Atracciones preservadas
+STR_3286    :{SMALLFONT}{BLACK}Seleccionar objetivos para este escenario
 STR_3287    :{WINDOW_COLOUR_2}Objetivo:
-STR_3288    :{SMALLFONT}{BLACK}Select climate
-STR_3289    :{WINDOW_COLOUR_2}Climate:
-STR_3290    :Cool and wet
-STR_3291    :Warm
-STR_3292    :Hot and dry
-STR_3293    :Cold
-STR_3294    :Change...
-STR_3295    :{SMALLFONT}{BLACK}Change name of park
-STR_3296    :{SMALLFONT}{BLACK}Change name of scenario
-STR_3297    :{SMALLFONT}{BLACK}Change detail notes about park / scenario
-STR_3298    :{WINDOW_COLOUR_2}Park Name: {BLACK}{STRINGID}
-STR_3299    :{WINDOW_COLOUR_2}Park/Scenario Details:
-STR_3300    :{WINDOW_COLOUR_2}Scenario Name: {BLACK}{STRINGID}
-STR_3301    :{WINDOW_COLOUR_2}Objective Date:
+STR_3288    :{SMALLFONT}{BLACK}Seleccionar clima
+STR_3289    :{WINDOW_COLOUR_2}Clima:
+STR_3290    :Frío y húmedo
+STR_3291    :Cálido
+STR_3292    :Caliente y seco
+STR_3293    :Frío
+STR_3294    :Cambiar...
+STR_3295    :{SMALLFONT}{BLACK}Cambiar nombre del parque
+STR_3296    :{SMALLFONT}{BLACK}Cambiar nombre del escenario
+STR_3297    :{SMALLFONT}{BLACK}Cambiar detalles del parque/escenario
+STR_3298    :{WINDOW_COLOUR_2}Nombre del Parque: {BLACK}{STRINGID}
+STR_3299    :{WINDOW_COLOUR_2}Detalles del parque/escenario:
+STR_3300    :{WINDOW_COLOUR_2}Nombre de escenario: {BLACK}{STRINGID}
+STR_3301    :{WINDOW_COLOUR_2}Fecha de Objetivo:
 STR_3302    :{WINDOW_COLOUR_2}{MONTHYEAR}
-STR_3303    :{WINDOW_COLOUR_2}Number of guests:
-STR_3304    :{WINDOW_COLOUR_2}Park value:
-STR_3305    :{WINDOW_COLOUR_2}Monthly income:
-STR_3306    :{WINDOW_COLOUR_2}Monthly profit:
-STR_3307    :{WINDOW_COLOUR_2}Minimum length:
-STR_3308    :{WINDOW_COLOUR_2}Excitement rating:
+STR_3303    :{WINDOW_COLOUR_2}Número de visitantes:
+STR_3304    :{WINDOW_COLOUR_2}Valor del parque:
+STR_3305    :{WINDOW_COLOUR_2}Ingreso mensual:
+STR_3306    :{WINDOW_COLOUR_2}Ganancia mensual:
+STR_3307    :{WINDOW_COLOUR_2}Longitud mínima:
+STR_3308    :{WINDOW_COLOUR_2}Rango Satisfacción:
 STR_3309    :{WINDOW_COLOUR_2}{COMMA16}
 STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
 STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
-STR_3312    :{WINDOW_COLOUR_2}Rides/attractions under a preservation order:
-STR_3313    :Scenario Name
-STR_3314    :Enter name for scenario:
-STR_3315    :Park/Scenario Details
-STR_3316    :Enter description of this scenario:
-STR_3317    :No details yet
-STR_3318    :{SMALLFONT}{BLACK}Select which group this scenario appears in
-STR_3319    :{WINDOW_COLOUR_2}Scenario Group:
-STR_3320    :Unable to save scenario file...
+STR_3312    :{WINDOW_COLOUR_2}Atracciones/Juegos con orden de preservación:
+STR_3313    :Nombrar de escenario
+STR_3314    :Escribe el nombre del escenario:
+STR_3315    :Detalles Parque/Escenario
+STR_3316    :Escribe la descripción de este escenario:
+STR_3317    :Sin detalles todavía
+STR_3318    :{SMALLFONT}{BLACK}Selecciona el grupo al que pertenece tu escenario
+STR_3319    :{WINDOW_COLOUR_2}Grupo Escenario:
+STR_3320    :No se pudo guardar el archivo de escenario...
 STR_3321    :New objects installed successfully
 STR_3322    :{WINDOW_COLOUR_2}Objective: {BLACK}{STRINGID}
 STR_3323    :Missing object data, ID: 
 STR_3324    :Requires Add-On Pack: 
 STR_3325    :Requires an Add-On Pack
 STR_3326    :{WINDOW_COLOUR_2}(no image)
-STR_3327    :Starting positions for people not set
+STR_3327    :No se ha establecido la posición inicial de los visitantes
 STR_3328    :No se puede avanzar a la siguiente etapa del editor...
 STR_3329    :No se ha construido una entrada del parque
-STR_3330    :El parque debe tener un terreno
-STR_3331    :Path from park entrance to map edge either not complete or too complex - Path must be single-width with as few junctions and corners as possible
-STR_3332    :Park entrance is the wrong way round or has no path leading to the map edge
+STR_3330    :El parque debe poseer un terreno
+STR_3331    :El sendero de la entrada del parque al borde del mapa no está completo o es demasiado complejo. Ha de tener un sólo carril con el menor número posible de cruces y curvas.
+STR_3332    :La entrada del parque está al revés o no tiene un camino que lleve al borde del mapa
 STR_3333    :Exportar complementos al guardar el juego
 STR_3334    :{SMALLFONT}{BLACK}Selecciona si los complementos adicionales (datos no distribuídos con el juego principal) utilizados en un escenario deben exportarse al guardar el juego, lo que permite que otros jugadores que no tengan esos complementos puedan abrirlo.
 STR_3335    :Diseñador de Montañas Rusas - Selecciona el tipo de Atracción y Vehículo
@@ -3370,7 +3370,7 @@ STR_3360    :Warning!
 STR_3361    :Too many track designs of this type - Some will not be listed.
 STR_3362    :<not used anymore>
 STR_3363    :<not used anymore>
-STR_3364    :Advanced
+STR_3364    :Avanzado
 STR_3365    :{SMALLFONT}{BLACK}Allow selection of individual items of scenery in addition to scenery groups
 STR_3366    :{BLACK}= Atracción
 STR_3367    :{BLACK}= Puesto comida
@@ -3547,7 +3547,7 @@ STR_5206    :Guest List
 STR_5207    :Staff
 STR_5208    :Staff List
 STR_5209    :Banner
-STR_5210    :Selección de Objeto
+STR_5210    :Selección de Objetos
 STR_5211    :Invention List
 STR_5212    :Scenario Options
 STR_5213    :Objective Options
@@ -3562,46 +3562,46 @@ STR_5221    :Change Keyboard Shortcut
 STR_5222    :Load/Save
 STR_5223    :Save Prompt
 STR_5224    :Demolish Ride Prompt
-STR_5225    :Fire Staff Prompt
+STR_5225    :Aviso despedir empleado
 STR_5226    :Track Delete Prompt
 STR_5227    :Save Overwrite Prompt
-STR_5228    :{SMALLFONT}{BLACK}Main UI
-STR_5229    :{SMALLFONT}{BLACK}Park
-STR_5230    :{SMALLFONT}{BLACK}Tools
-STR_5231    :{SMALLFONT}{BLACK}Rides and Guests
-STR_5232    :{SMALLFONT}{BLACK}Editors
-STR_5233    :{SMALLFONT}{BLACK}Miscellaneous
-STR_5234    :{SMALLFONT}{BLACK}Prompts
-STR_5235    :{SMALLFONT}{BLACK}Settings
-STR_5236    :Window:
-STR_5237    :Palette:
+STR_5228    :{SMALLFONT}{BLACK}Interfaz Principal
+STR_5229    :{SMALLFONT}{BLACK}Parque
+STR_5230    :{SMALLFONT}{BLACK}Herramientas
+STR_5231    :{SMALLFONT}{BLACK}Atracciones y visitantes
+STR_5232    :{SMALLFONT}{BLACK}Editores
+STR_5233    :{SMALLFONT}{BLACK}Misceláneos
+STR_5234    :{SMALLFONT}{BLACK}Avisos
+STR_5235    :{SMALLFONT}{BLACK}Configuraciones
+STR_5236    :Ventana:
+STR_5237    :Paleta:
 STR_5238    :Tema actual:
-STR_5239    :Duplicate
-STR_5240    :Enter a name for the theme
-STR_5241    :Can't change this theme
-STR_5242    :Theme name already exists
-STR_5243    :Invalid characters used
-STR_5244    :Themes
-STR_5245    :Top Toolbar
-STR_5246    :Bottom Toolbar
-STR_5247    :Track Editor Bottom Toolbar
-STR_5248    :Scenario Editor Bottom Toolbar
-STR_5249    :Title Menu Buttons
-STR_5250    :Title Exit Button
-STR_5251    :Title Options Button
-STR_5252    :Title Scenario Selection
-STR_5253    :Park Information
-STR_5254    :Create
+STR_5239    :Duplicar
+STR_5240    :Escribir nombre del tema
+STR_5241    :No puedes cambiar este tema
+STR_5242    :Nombre del tema ya existe
+STR_5243    :Texto no válido
+STR_5244    :Temas
+STR_5245    :Barra de herramientas superior
+STR_5246    :Barra de herramientas inferior
+STR_5247    :Editor de Vías (barra inferior)
+STR_5248    :Editor de Escenarios (barra inferior)
+STR_5249    :Color de botones del menú
+STR_5250    :Color del botón salir
+STR_5251    :Color de botones de opciones
+STR_5252    :Color selección de escenarios
+STR_5253    :Información del parque
+STR_5254    :Crear
 STR_5255    :{SMALLFONT}{BLACK}Create a new title sequence from scratch
-STR_5256    :Create a new theme to make changes to
-STR_5257    :{SMALLFONT}{BLACK}Create a new theme based on the current one
-STR_5258    :{SMALLFONT}{BLACK}Delete the current theme
-STR_5259    :{SMALLFONT}{BLACK}Rename the current theme
+STR_5256    :Crea un nuevo tema para hacer cambios
+STR_5257    :{SMALLFONT}{BLACK}Crear tema basado en el actual
+STR_5258    :{SMALLFONT}{BLACK}Borrar tema actual
+STR_5259    :{SMALLFONT}{BLACK}Renombrar tema actual
 STR_5260    :Tomar captura de pantalla de escenario completo
 STR_5261    :Filtro
 STR_5262    :Wacky Worlds
 STR_5263    :Time Twister
-STR_5264    :Custom
+STR_5264    :Personalizado
 STR_5265    :{SMALLFONT}{BLACK}Selecciona que contenidos son visibles
 STR_5266    :{SMALLFONT}{BLACK}Gráficos
 STR_5267    :{SMALLFONT}{BLACK}Idioma y unidades
@@ -3611,30 +3611,30 @@ STR_5270    :{SMALLFONT}{BLACK}Otras opciones
 STR_5271    :{SMALLFONT}{BLACK}Twitch
 STR_5272    :{SMALLFONT}{BLACK}Decorado pequeño
 STR_5273    :{SMALLFONT}{BLACK}Decorado grande
-STR_5274    :{SMALLFONT}{BLACK}Caminos
-STR_5275    :Search for Objects
-STR_5276    :Enter the name of an object to search for
+STR_5274    :{SMALLFONT}{BLACK}Senderos
+STR_5275    :Buscar por objetos
+STR_5276    :Escribe el nombre del objeto a buscar
 STR_5277    :Borrar
 STR_5278    :Modo sandbox
 STR_5279    :Quitar modo sandbox
 STR_5280    :{SMALLFONT}{BLACK}Permite editar el terreno en propiedad y otras opciones restringidas al Editor de Escenario
-STR_5281    :{SMALLFONT}{BLACK}Features
-STR_5282    :RCT1 Ride Open/Close Lights
-STR_5283    :RCT1 Park Open/Close Lights
-STR_5284    :RCT1 Scenario Selection Font
-STR_5285    :EXPLOTAN!!!
+STR_5281    :{SMALLFONT}{BLACK}Características
+STR_5282    :RCT1 attrac. luces abrir/cerrar
+STR_5283    :RCT1 parq. luces abrir/cerrar
+STR_5284    :RCT1 escen. fuente de selección
+STR_5285    :¡¡EXPLOTAN!!!
 STR_5286    :{SMALLFONT}{BLACK}Algunos visitantes explotan
 STR_5287    :Ride is already broken down
 STR_5288    :Ride is closed
 STR_5289    :No breakdowns available for this ride
 STR_5290    :Arreglar atracción
-STR_5291    :Can't force breakdown
+STR_5291    :No puedes forzar una avería
 STR_5292    :{SMALLFONT}{BLACK}Forzar una avería
-STR_5293    :{SMALLFONT}{BLACK}Close ride/attraction
-STR_5294    :{SMALLFONT}{BLACK}Test ride/attraction
-STR_5295    :{SMALLFONT}{BLACK}Open ride/attraction
-STR_5296    :{SMALLFONT}{BLACK}Close park
-STR_5297    :{SMALLFONT}{BLACK}Open park
+STR_5293    :{SMALLFONT}{BLACK}Close atracción/juego
+STR_5294    :{SMALLFONT}{BLACK}Test atracción/juego
+STR_5295    :{SMALLFONT}{BLACK}Open atracción/juego
+STR_5296    :{SMALLFONT}{BLACK}Cerrar parque
+STR_5297    :{SMALLFONT}{BLACK}Abrir parque
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
 STR_5300    :{SMALLFONT}{BLACK}Despedir empleados rápidamente
@@ -3647,41 +3647,41 @@ STR_5306    :RollerCoaster Tycoon 1 (AA)
 STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
 STR_5308    :RollerCoaster Tycoon 2
 STR_5309    :OpenRCT2
-STR_5310    :Random
-STR_5311    :{SMALLFONT}{BLACK}Debug tools
-STR_5312    :Show console
-STR_5313    :Show tile inspector
-STR_5314    :Tile inspector
-STR_5315    :Grass
-STR_5316    :Sand
-STR_5317    :Dirt
-STR_5318    :Rock
-STR_5319    :Martian
+STR_5310    :Aleatorio
+STR_5311    :{SMALLFONT}{BLACK}Herramientas de depuración
+STR_5312    :Mostrar consola
+STR_5313    :Mostrar inspc. baldosa
+STR_5314    :Inspector de Baldosa
+STR_5315    :Césped
+STR_5316    :Arena
+STR_5317    :Tierra
+STR_5318    :Roca
+STR_5319    :Marte
 STR_5320    :Checkerboard
-STR_5321    :Grass clumps
-STR_5322    :Ice
-STR_5323    :Grid (red)
-STR_5324    :Grid (yellow)
-STR_5325    :Grid (blue)
-STR_5326    :Grid (green)
-STR_5327    :Sand (dark)
-STR_5328    :Sand (light)
+STR_5321    :Hierba
+STR_5322    :Hielo
+STR_5323    :Reja (rojo)
+STR_5324    :Reja (amarillo)
+STR_5325    :Reja (azul)
+STR_5326    :Reja (verde)
+STR_5327    :Arena (oscura)
+STR_5328    :Arena (clara)
 STR_5329    :Checkerboard (inverted)
-STR_5330    :Underground view
-STR_5331    :Rock
-STR_5332    :Wood (red)
-STR_5333    :Wood (black)
-STR_5334    :Ice
-STR_5335    :Ride entrance
-STR_5336    :Ride exit
-STR_5337    :Park entrance
+STR_5330    :Vista subterránea
+STR_5331    :Roca
+STR_5332    :Madera (roja)
+STR_5333    :Madera (negra)
+STR_5334    :Hielo
+STR_5335    :Entrada
+STR_5336    :Salida
+STR_5337    :Entrada del Parque
 STR_5338    :Element type
 STR_5339    :{SMALLFONT}{BLACK}Base height
 STR_5340    :{SMALLFONT}{BLACK}Clearance height
 STR_5341    :Flags
-STR_5342    :Choose a map tile
+STR_5342    :Elige una baldosa del mapa
 STR_5343    :Posicionar trabajadores automáticamente
-STR_5344    :Changelog
+STR_5344    :Cambios
 STR_5345    :Trucos de dinero
 STR_5346    :Trucos de visitante
 STR_5347    :Trucos del parque
@@ -3705,10 +3705,10 @@ STR_5364    :Menos de 15
 STR_5365    :{BLACK}Velocidad empleados:
 STR_5366    :Normal
 STR_5367    :Rápida
-STR_5368    :Reset datos averías
+STR_5368    :Reiniciar averías
 STR_5369    :Parámetros parque...
 STR_5370    :{SMALLFONT}{BLACK}Modificar parámetros como restricciones, afluencia de visitantes y dinero.
-STR_5371    :Selección de Objeto
+STR_5371    :Selección de Objetos
 STR_5372    :Invertir desplazamiento con el click derecho
 STR_5373    :Nombre {STRINGID}
 STR_5374    :Fecha {STRINGID}
@@ -3778,18 +3778,18 @@ STR_5437    :No save selected
 STR_5438    :Can't make changes while command editor is open
 STR_5439    :A wait command with at least 4 seconds is required with a restart command
 STR_5440    :Minimizar desde pantalla completa al perder el foco
-STR_5441    :{SMALLFONT}{BLACK}Identifies rides by track type,{NEWLINE}so vehicles can be changed{NEWLINE}afterwards, like in RCT1.
+STR_5441    :{SMALLFONT}{BLACK}Identifica atracciones por el tipo de pista,{NEWLINE}para que los vehículos puedan modificarse{NEWLINE}posteriormente, como en RCT1.
 STR_5442    :Forzar valoración:
-STR_5443    :Speed{MOVE_X}{87}{STRINGID}
-STR_5444    :Speed:
-STR_5445    :Speed
-STR_5446    :Get
+STR_5443    :Velocidad{MOVE_X}{87}{STRINGID}
+STR_5444    :Velocidad:
+STR_5445    :Velocidad
+STR_5446    :Obtener
 STR_5447    :Tipo {STRINGID}
 STR_5448    :Juego / Vehículo {STRINGID}
-STR_5449    :Reduce game speed
-STR_5450    :Increase game speed
-STR_5451    :Open cheats window
-STR_5452    :Toggle visibility of toolbars
+STR_5449    :Reducir velocidad del juego
+STR_5450    :Aumentar velocidad del juego
+STR_5451    :Abrir ventana de trucos
+STR_5452    :Alternar visibilidad de herramientas
 STR_5453    :Selecciona otra atracción
 STR_5454    :No limitar FPS
 STR_5455    :Activar modo sandbox
@@ -3797,7 +3797,7 @@ STR_5456    :Desactivar comprobación de gálibo
 STR_5457    :Desactivar límites de altura
 STR_5458    :Rotar en el sentido de las agujas del reloj
 STR_5459    :Rotar en sentido contrario a las agujas del reloj
-STR_5460    :Rotate view anti-clockwise
+STR_5460    :Rotar vista a la izquierda
 STR_5461    :Ajustar parámetros de los visitantes
 STR_5462    :{CURRENCY}
 STR_5463    :Meta: ¡Diviértete!
@@ -3806,10 +3806,10 @@ STR_5465    :Clima
 STR_5466    :Empleados
 STR_5467    :ALT + 
 STR_5468    :Mensajes recientes
-STR_5469    :Scroll map up
-STR_5470    :Scroll map left
-STR_5471    :Scroll map down
-STR_5472    :Scroll map right
+STR_5469    :Desplazar mapa arriba
+STR_5470    :Desplazar mapa izq.
+STR_5471    :Desplazar mapa abajo
+STR_5472    :Desplazar mapa derecha
 STR_5473    :Alternar día y noche
 STR_5474    :Mostrar texto de letreros en mayúscula
 STR_5475    :{COMMA16} semanas
@@ -3819,7 +3819,7 @@ STR_5478    :Controles
 STR_5479    :Barra de herramientas
 STR_5480    :Muestra los siguientes botones:
 STR_5481    :Apariencia
-STR_5482    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}1 minute
+STR_5482    :{WINDOW_COLOUR_2}Tiempo desde la última inspección: {BLACK}1 minuto
 STR_5483    :{BLACK}({COMMA16} semanas restantes)
 STR_5484    :{BLACK}({COMMA16} semana restante)
 STR_5485    :{SMALLFONT}{STRING}
@@ -3834,7 +3834,7 @@ STR_5493    :Enviar mensaje
 STR_5494    :<not used anymore>
 STR_5495    :Lista de jugadores
 STR_5496    :Jugador:
-STR_5497    :Ping (ms):
+STR_5497    :Ping:
 STR_5498    :Lista de servidores
 STR_5499    :Nombre Jugador:
 STR_5500    :Añadir servidor
@@ -3843,63 +3843,63 @@ STR_5502    :Multijugador
 STR_5503    :Escribe el nombre del host o la IP:
 STR_5504    :{SMALLFONT}{BLACK}Mostrar estado multijugador
 STR_5505    :No se pudo conectar al servidor.
-STR_5506    :Visitantes ignoran la intensidad de atracciones
-STR_5507    :Los jardineros pueden cortar el césped por defecto
+STR_5506    :Los Visitantes ignoran la intensidad de atracc.
+STR_5507    :Los Jardineros cortan el césped por defecto
 STR_5508    :Permitir cargar ficheros dañados
 STR_5509    :{SMALLFONT}{BLACK}Permite cargar ficheros cuya suma de verificación no es correcta, como partidas guardadas de versiones de demostración y ficheros dañados
 STR_5510    :Dispositivo de sonido predeterminado
-STR_5511    :(UNKNOWN)
+STR_5511    :(DESCONOCIDO)
 STR_5512    :Guardar nueva copia de juego
 STR_5513    :(Rápido) guardar juego
 STR_5514    :Desactivar vandalismo
 STR_5515    :{SMALLFONT}{BLACK}Impide que los visitantes enfadados cometan actos de vandalismo
-STR_5516    :{SMALLFONT}{BLACK}Black
-STR_5517    :{SMALLFONT}{BLACK}Grey
-STR_5518    :{SMALLFONT}{BLACK}White
-STR_5519    :{SMALLFONT}{BLACK}Dark purple
-STR_5520    :{SMALLFONT}{BLACK}Light purple
-STR_5521    :{SMALLFONT}{BLACK}Bright purple
-STR_5522    :{SMALLFONT}{BLACK}Dark blue
-STR_5523    :{SMALLFONT}{BLACK}Light blue
-STR_5524    :{SMALLFONT}{BLACK}Icy blue
-STR_5525    :{SMALLFONT}{BLACK}Dark water
-STR_5526    :{SMALLFONT}{BLACK}Light water
-STR_5527    :{SMALLFONT}{BLACK}Saturated green
-STR_5528    :{SMALLFONT}{BLACK}Dark green
-STR_5529    :{SMALLFONT}{BLACK}Moss green
-STR_5530    :{SMALLFONT}{BLACK}Bright green
-STR_5531    :{SMALLFONT}{BLACK}Olive green
-STR_5532    :{SMALLFONT}{BLACK}Dark olive green
-STR_5533    :{SMALLFONT}{BLACK}Bright yellow
-STR_5534    :{SMALLFONT}{BLACK}Yellow
-STR_5535    :{SMALLFONT}{BLACK}Dark yellow
-STR_5536    :{SMALLFONT}{BLACK}Light orange
-STR_5537    :{SMALLFONT}{BLACK}Dark orange
-STR_5538    :{SMALLFONT}{BLACK}Light brown
-STR_5539    :{SMALLFONT}{BLACK}Saturated brown
-STR_5540    :{SMALLFONT}{BLACK}Dark brown
-STR_5541    :{SMALLFONT}{BLACK}Salmon pink
-STR_5542    :{SMALLFONT}{BLACK}Bordeaux red
-STR_5543    :{SMALLFONT}{BLACK}Saturated red
-STR_5544    :{SMALLFONT}{BLACK}Bright red
-STR_5545    :{SMALLFONT}{BLACK}Dark pink
-STR_5546    :{SMALLFONT}{BLACK}Bright pink
-STR_5547    :{SMALLFONT}{BLACK}Light pink
-STR_5548    :Muestra todos modos de funcionamiento
+STR_5516    :{SMALLFONT}{BLACK}Negro
+STR_5517    :{SMALLFONT}{BLACK}Gris
+STR_5518    :{SMALLFONT}{BLACK}Blanco
+STR_5519    :{SMALLFONT}{BLACK}Púrpura oscuro
+STR_5520    :{SMALLFONT}{BLACK}Púrpura claro
+STR_5521    :{SMALLFONT}{BLACK}Púrpura brillante
+STR_5522    :{SMALLFONT}{BLACK}Azul oscuro
+STR_5523    :{SMALLFONT}{BLACK}Azul claro
+STR_5524    :{SMALLFONT}{BLACK}Azul helado
+STR_5525    :{SMALLFONT}{BLACK}Agua oscuro
+STR_5526    :{SMALLFONT}{BLACK}Agua claro
+STR_5527    :{SMALLFONT}{BLACK}Verde saturado
+STR_5528    :{SMALLFONT}{BLACK}Verde oscuro
+STR_5529    :{SMALLFONT}{BLACK}Verde musgo
+STR_5530    :{SMALLFONT}{BLACK}Verde brillante
+STR_5531    :{SMALLFONT}{BLACK}Verde oliva
+STR_5532    :{SMALLFONT}{BLACK}Verde oliva oscuro
+STR_5533    :{SMALLFONT}{BLACK}Amarillo brillante
+STR_5534    :{SMALLFONT}{BLACK}Amarillo
+STR_5535    :{SMALLFONT}{BLACK}Amarillo oscuro
+STR_5536    :{SMALLFONT}{BLACK}Naranja claro
+STR_5537    :{SMALLFONT}{BLACK}Naranja oscuro
+STR_5538    :{SMALLFONT}{BLACK}Café claro
+STR_5539    :{SMALLFONT}{BLACK}Café saturado
+STR_5540    :{SMALLFONT}{BLACK}Café oscuro
+STR_5541    :{SMALLFONT}{BLACK}Rosa salmón
+STR_5542    :{SMALLFONT}{BLACK}Rojo burdeo
+STR_5543    :{SMALLFONT}{BLACK}Rojo saturado
+STR_5544    :{SMALLFONT}{BLACK}Rojo brillante
+STR_5545    :{SMALLFONT}{BLACK}Rosa oscuro
+STR_5546    :{SMALLFONT}{BLACK}Rosa brillante
+STR_5547    :{SMALLFONT}{BLACK}Rosa claro
+STR_5548    :Muestra los modos de funcionamiento
 STR_5549    :Año/Mes/Día
 STR_5550    :{POP16}{POP16}Año {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_5551    :Año/Día/Mes
 STR_5552    :{POP16}{POP16}Año {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
 STR_5553    :Pausar juego cuando Steam se abra
-STR_5554    :{SMALLFONT}{BLACK}Activar herramienta montaña
+STR_5554    :{SMALLFONT}{BLACK}Activar herramienta de montaña
 STR_5555    :Muestra vehículos de otros tipos de vía
 STR_5556    :{SMALLFONT}{BLACK}Expulsar jugador
 STR_5557    :Mantener conex. tras desincronización (Multijugador)
-STR_5558    :A restart is required for this setting to take effect
+STR_5558    :Se debe reiniciar para aplicar los cambios
 STR_5559    :Inspecciones 10'
 STR_5560    :{SMALLFONT}{BLACK}Establece el tiempo de inspección a 'Cada 10 minutos' en todas las atracciones
-STR_5561    :Failed to load language
-STR_5562    :WARNING!
+STR_5561    :No se pudo cargar el idioma.
+STR_5562    :ADVERTENCIA!
 STR_5563    :This feature is currently unstable, take extra caution.
 STR_5564    :Insert Corrupt Element
 STR_5565    :{SMALLFONT}{BLACK}Inserts a corrupt map element at top of tile. This will hide any element above the corrupt element.
@@ -3919,19 +3919,19 @@ STR_5578    :Rublo ruso (R)
 STR_5579    :Factor escala ventana:
 STR_5580    :Corona checa (Kc)
 STR_5581    :Mostrar FPS
-STR_5582    :Capturar puntero del ratón en la ventana
+STR_5582    :Mantener puntero del ratón en ventana
 STR_5583    :{COMMA1DP16}ms{POWERNEGATIVEONE}
 STR_5584    :SI
 STR_5585    :{SMALLFONT}{BLACK}Desbloquea los límites operativos de funcionamiento, permitiendo cosas como cadenas elevadoras a {VELOCITY}
 STR_5586    :Abrir automáticamente tiendas y puestos
-STR_5587    :{SMALLFONT}{BLACK}When enabled, shops and stalls will be automatically opened after building them
+STR_5587    :{SMALLFONT}{BLACK}Si se activa las tiendas y puestos abrirán automáticamente al colocarse.
 STR_5588    :{SMALLFONT}{BLACK}Jugar con otros jugadores
 STR_5589    :Configuración de notificaciones
 STR_5590    :Premios al parque
 STR_5591    :Campañas de márketing finalizadas
 STR_5592    :Advertencias sobre el parque
 STR_5593    :Advertencias sobre la valoración del parque
-STR_5594    :Atracción se ha roto
+STR_5594    :Atracción se ha averiado
 STR_5595    :Atracción se ha destruído
 STR_5596    :Advertencias sobre las atracciones
 STR_5597    :Atracción y decorado desarrollado
@@ -3968,15 +3968,15 @@ STR_5627    :Agrupar lista de escenarios:
 STR_5628    :Juego original
 STR_5629    :Nivel de dificultad
 STR_5630    :Activa el desbloqueo de escenarios
-STR_5631    :Original DLC Parks
-STR_5632    :Build your own...
+STR_5631    :DLC de parques originales
+STR_5632    :Construye tu propio...
 STR_5633    :CMD + 
-STR_5634    :OPTION + 
-STR_5635    :{WINDOW_COLOUR_2}Money spent: {BLACK}{CURRENCY2DP}
-STR_5636    :{WINDOW_COLOUR_2}Commands ran: {BLACK}{COMMA16}
+STR_5634    :OPCIÓN + 
+STR_5635    :{WINDOW_COLOUR_2}Dinero gastado: {BLACK}{CURRENCY2DP}
+STR_5636    :{WINDOW_COLOUR_2}Acciones en total: {BLACK}{COMMA16}
 STR_5637    :No puedes hacer esto...
-STR_5638    :Permisos denegados
-STR_5639    :{SMALLFONT}{BLACK}Mostrar listado de jugadores
+STR_5638    :Permiso denegado
+STR_5639    :{SMALLFONT}{BLACK}Mostrar lista de jugadores
 STR_5640    :{SMALLFONT}{BLACK}Administrar grupos
 STR_5641    :Grupo por defecto:
 STR_5642    :Grupo:
@@ -3985,60 +3985,60 @@ STR_5644    :Remover Grupo
 STR_5645    :Chat
 STR_5646    :Ajustar terreno
 STR_5647    :Alternar pausa
-STR_5648    :Establecer el nivel del agua
+STR_5648    :Ajustar agua
 STR_5649    :Crear atracción
-STR_5650    :Quitar atracción
+STR_5650    :Demoler atracción
 STR_5651    :Construir atracción
 STR_5652    :Editar atracción
-STR_5653    :Escenario
+STR_5653    :Escenarios
 STR_5654    :Senderos
-STR_5655    :Manipular Invitados
-STR_5656    :Manipular Empleados
-STR_5657    :Propiedades Parque
+STR_5655    :Gestionar invitados
+STR_5656    :Gestionar empleados
+STR_5657    :Prop. del parque
 STR_5658    :Finanzas
 STR_5659    :Expulsar jugador
-STR_5660    :Modificar grupos
-STR_5661    :Establecer grupo jugador
-STR_5662    :Ninguno
-STR_5663    :Limpiar escenario
-STR_5664    :Trucos
+STR_5660    :Editar grupos
+STR_5661    :Cambiar grupos
+STR_5662    :Ninguna
+STR_5663    :Limpiar paisaje
+STR_5664    :Usar trucos
 STR_5701    :{WINDOW_COLOUR_2}Ultima acción: {BLACK}{STRINGID}
-STR_5702    :{SMALLFONT}{BLACK}Localizar la acción reciente del jugador
-STR_5703    :No puedes expulsar al host
+STR_5702    :{SMALLFONT}{BLACK}Ir a la última acción del jugador.
+STR_5703    :No puedes expulsar al anfitrión.
 STR_5704    :Ultima acción:
-STR_5705    :No puede establecerse a este grupo.
+STR_5705    :No se puede cambiar a este grupo.
 STR_5706    :No se puede eliminar el grupo, hay jugadores en él.
-STR_5707    :Este grupo no fue modificado.
-STR_5708    :Can't change the group that the host belongs to
+STR_5707    :Este grupo no puede ser modificado.
+STR_5708    :No se puede cambiar el grupo del anfitrión
 STR_5709    :Renombrar grupo
-STR_5710    :Nombre grupo
-STR_5711    :Escribe el nuevo nombre de este grupo:
-STR_5712    :Can't modify permission that you do not have yourself
+STR_5710    :Nombrar grupo
+STR_5711    :Escribe el nuevo nombre para este grupo:
+STR_5712    :No puedes modificar el permiso que no tienes
 STR_5713    :Expulsar jugador
-STR_5714    :Show options window
+STR_5714    :Opciones de ventana
 STR_5715    :Nuevo Juego
 STR_5716    :No permitido en el modo multijugador
 # For identifying client network version in server list window
-STR_5717    :Network version: {STRING}
-STR_5718    :{SMALLFONT}{BLACK}Network version: {STRING}
+STR_5717    :Versión de red: {STRING}
+STR_5718    :{SMALLFONT}{BLACK}Versión de red: {STRING}
 STR_5719    :Soleado
-STR_5720    :Parcialmente nublado
+STR_5720    :Parc. Nublado
 STR_5721    :Nublado
 STR_5722    :Lluvia ligera
 STR_5723    :Lluvia
 STR_5724    :Tormenta
 STR_5725    :{BLACK}Forzar clima:
 STR_5726    :{SMALLFONT}{BLACK}Establecer el clima actual en el parque
-STR_5727    :Scaling quality
-STR_5728    :Requires hardware display option
-STR_5729    :{SMALLFONT}{BLACK}Requires hardware display option
-STR_5730    :Nearest neighbor
-STR_5731    :Linear
-STR_5732    :Anisotropic
+STR_5727    :Calidad de escalado
+STR_5728    :Requiere Renderizado por Hardware
+STR_5729    :{SMALLFONT}{BLACK}Requiere Renderizado por Hardware
+STR_5730    :Próximo
+STR_5731    :Lineal
+STR_5732    :Anisotrópico
 STR_5733    :Use NN scaling at integer scales
 # tooltip for tab in options window
 STR_5734    :{SMALLFONT}{BLACK}Renderizado
-STR_5735    :Network Status
+STR_5735    :Estado de la red
 STR_5736    :Jugador
 
 #############
