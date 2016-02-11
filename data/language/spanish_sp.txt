@@ -66,7 +66,7 @@ STR_0061    :Virginia Reel
 STR_0062    :Splash Boats
 STR_0063    :Mini Helicopters
 STR_0064    :Montaña Rusa Fija
-STR_0065    :Suspended Monorail
+STR_0065    :Monorraíl suspendido
 STR_0066    :Unknown Ride (40)
 STR_0067    :Reverser Roller Coaster
 STR_0068    :Mt. Rusa Tornado Medio
@@ -576,7 +576,7 @@ STR_0571    :Circular cars spin around as they travel along the zig-zagging wood
 STR_0572    :Large capacity boats travel along a wide water channel, propelled up slopes by a conveyer belt, accelerating down steep slopes to soak the riders with a gaint splash
 STR_0573    :Powered helicoper shaped cars running on a steel track, controlled by the pedalling of the riders
 STR_0574    :Los pasajeros están sujetos por unos arneses cara abajo
-STR_0575    :Powered trains hanging from a single rail transport people around the park
+STR_0575    :Powered trains hanging from a single rail transport people around the parks
 STR_0576    :
 STR_0577    :Bogied cars run on wooden tracks, turning around on special reversing sections
 STR_0578    :Los vagones circulan por vías formando aros y recorriendo bruscas caídas y giros.
@@ -3177,13 +3177,13 @@ STR_3167    :{WINDOW_COLOUR_2}Incluye: {BLACK}{COMMA16} objetos
 STR_3168    :{WINDOW_COLOUR_2}Texto: {BLACK}{STRINGID}
 STR_3169    :Data for the following object not found: 
 STR_3170    :Not enough space for graphics
-STR_3171    :Too many objects of this type selected
+STR_3171    :Se han seleccionado ya muchos objetos de este tipo
 STR_3172    :The following object must be selected first: {STRING}
-STR_3173    :This object is currently in use
-STR_3174    :This object is required by another object
-STR_3175    :This object is always required
-STR_3176    :Unable to select this object
-STR_3177    :Unable to de-select this object
+STR_3173    :Este objeto está siendo usado
+STR_3174    :Este objeto es requerido por otro objeto
+STR_3175    :Este objeto es requerido
+STR_3176    :No se puede seleccionar este objeto
+STR_3177    :No se puede des-seleccionar este objeto
 STR_3178    :At least one path object must be selected
 STR_3179    :At least one ride atracción/vehículo object must be selected
 STR_3180    :Invalid selection of objects
@@ -3212,7 +3212,7 @@ STR_3202    :Editor de paisajes
 STR_3203    :Lista de inventos finalizada
 STR_3204    :Elección de opciones
 STR_3205    :Selección de objetivos
-STR_3206    :Save Scenario
+STR_3206    :Guardar Escenario
 STR_3207    :Diseñador de Montañas Rusas
 STR_3208    :Diseñador de Vías
 STR_3209    :Regresar al paso anterior:
@@ -3381,7 +3381,7 @@ STR_3371    :{BLACK}= Primeros auxilios
 STR_3372    :{BLACK}= Cajero automático
 STR_3373    :{BLACK}= Servicios
 STR_3374    :Advertencia: Demasiados objetos seleccionados
-STR_3375    :Not all objects in this scenery group could be selected
+STR_3375    :No se seleccionaron todos los objetos de este grupo
 STR_3376    :Instalar nuevo diseño de vía...
 STR_3377    :{SMALLFONT}{BLACK}Install a new track design file
 STR_3378    :Instalar
@@ -4491,3 +4491,11 @@ STR_DTLS    :
 STR_NAME    :Condor Ride
 STR_DESC    :Riding in special harnesses below the track, riders experience the feeling of flight as they swoop through the air in Condor-shaped trains
 STR_CPTY    :4 passengers per car
+
+#########
+# SHOPS #
+#########
+
+[INFOK]
+STR_NAME    :Quiosco de información
+STR_DESC    :Puesto en el que los visitantes obtienen mapas del parque y compran paraguas.
