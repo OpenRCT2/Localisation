@@ -1,0 +1,14 @@
+version: 1.0.{build}
+os: Visual Studio 2015
+install:
+- cmd: >-
+    curl -s https://dotnetcli.blob.core.windows.net/dotnet/dev/Installers/Latest/dotnet-win-x64.latest.msi -o dotnet-win-x64.latest.msi > nul
+
+    msiexec /i dotnet-win-x64.latest.msi /quiet /qn /norestart /log install.log
+build_script:
+- ps: >-
+    $env:PATH = $env:PATH + ";C:\Program Files\dotnet\bin"
+
+    $env:DOTNET_HOME = "C:\Program Files\dotnet\"
+
+    .\check.ps1
