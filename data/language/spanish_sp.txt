@@ -769,11 +769,7 @@ STR_0764    :Visitante {INT32}
 STR_0765    :Visitante {INT32}
 STR_0766    :Visitante {INT32}
 STR_0767    :Visitante {INT32}
-<<<<<<< HEAD
-STR_0768    :Manitas {INT32}
-=======
 STR_0768    :Jardinero {INT32}
->>>>>>> origin/master
 STR_0769    :Mecánico {INT32}
 STR_0770    :Guardia {INT32}
 STR_0771    :Animador {INT32}
@@ -1086,18 +1082,6 @@ STR_1076    :Modo tienda de parada
 STR_1077    :Modo rotación
 STR_1078    :Rotación hacia adelante
 STR_1079    :Rotación hacia atrás
-<<<<<<< HEAD
-STR_1080    :Película: {ENDQUOTES}Aviadores{ENDQUOTES}
-STR_1081    :Película 3D: {ENDQUOTES}Colas de ratón{ENDQUOTES}
-STR_1082    :Modo anillos espaciales
-STR_1083    :Mod principiante
-STR_1084    :Lanzamiento impulsado por LIM
-STR_1085    :Película: {ENDQUOTES}Jinetes emocionados{ENDQUOTES}
-STR_1086    :Película 3D: {ENDQUOTES}Cazadores de tormenta{ENDQUOTES}
-STR_1087    :Película 3D: {ENDQUOTES}Pasajeros espaciales{ENDQUOTES}
-STR_1088    :Modo intenso
-STR_1089    :Modo loco
-=======
 STR_1080    :Película: {ENDQUOTES}Aviadores emocionados{ENDQUOTES}
 STR_1081    :Película 3D: {ENDQUOTES}Colas de ratón{ENDQUOTES}
 STR_1082    :Modo anillos espaciales
@@ -1108,7 +1092,6 @@ STR_1086    :Película 3D: {ENDQUOTES}Cazadores de tormenta{ENDQUOTES}
 STR_1087    :Película 3D: {ENDQUOTES}Invasores del espacio{ENDQUOTES}
 STR_1088    :Modo intenso
 STR_1089    :Modo frenético
->>>>>>> origin/master
 STR_1090    :Modo casa encantada
 STR_1091    :Modo show de circo
 STR_1092    :Lanzamiento hacia abajo
@@ -1226,11 +1209,7 @@ STR_1203    :{COMMA16} personas en cola
 STR_1204    :{COMMA16} minuto en cola
 STR_1205    :{COMMA16} minutos en cola
 STR_1206    :{WINDOW_COLOUR_2}Esperar a:
-<<<<<<< HEAD
-STR_1207    :{WINDOW_COLOUR_2}Partir si otro ten llega a la estación
-=======
 STR_1207    :{WINDOW_COLOUR_2}Partir si otro tren llega a la estación
->>>>>>> origin/master
 STR_1208    :{WINDOW_COLOUR_2}Partir si otro bote llega a la estación
 STR_1209    :{SMALLFONT}{BLACK}Selecciona si se debe esperar a los pasajeros antes de partir
 STR_1210    :{SMALLFONT}{BLACK}Seleccionar si se debe partir si otro vehículo llega a la misma estación
@@ -1352,11 +1331,7 @@ STR_1325    :{COMMA16} cursos
 STR_1326    :Curso {COMMA16}
 STR_1327    :{SMALLFONT}{BLACK}Rotar objetos en 90{DEGREE}
 STR_1328    :Terreno llano requerido
-<<<<<<< HEAD
-STR_1329    :{WINDOW_COLOUR_2}Velocidad lanzamiento:
-=======
 STR_1329    :{WINDOW_COLOUR_2}Velocidad de lanzamiento:
->>>>>>> origin/master
 STR_1330    :{SMALLFONT}{BLACK}Velocidad máxima al salir de la estación
 STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_1332    :{VELOCITY}
@@ -1529,11 +1504,7 @@ STR_1498    :{SMALLFONT}{OPENQUOTES}He estado haciendo cola en  {STRINGID} por a
 STR_1499    :{SMALLFONT}{OPENQUOTES}Estoy cansado{ENDQUOTES}
 STR_1500    :{SMALLFONT}{OPENQUOTES}Tengo hambre{ENDQUOTES}
 STR_1501    :{SMALLFONT}{OPENQUOTES}Tengo sed{ENDQUOTES}
-<<<<<<< HEAD
-STR_1502    :{SMALLFONT}{OPENQUOTES}Tengo que ir al servicio{ENDQUOTES}
-=======
 STR_1502    :{SMALLFONT}{OPENQUOTES}Tengo que ir al baño{ENDQUOTES}
->>>>>>> origin/master
 STR_1503    :{SMALLFONT}{OPENQUOTES}No encuentro {STRINGID}{ENDQUOTES}
 STR_1504    :{SMALLFONT}{OPENQUOTES}No voy a pagar mucho por {STRINGID}{ENDQUOTES}
 STR_1505    :{SMALLFONT}{OPENQUOTES}No voy a subir a {STRINGID} mientras llueve{ENDQUOTES}
@@ -1961,13 +1932,8 @@ STR_1924    :{SMALLFONT}{BLACK}Salir del juego
 STR_1925    :No puedes colocar esta persona aquí...
 STR_1926    :{SMALLFONT}
 STR_1927    :{YELLOW}{STRINGID} se ha averiado
-<<<<<<< HEAD
-STR_1928    :¡{RED}{STRINGID} ha chocado!
-STR_1929    :{RED}{STRINGID} still hasn't been fixed{NEWLINE}Check where your mechanics are and consider organising them better
-=======
 STR_1928    :{RED}¡{STRINGID} ha chocado!
 STR_1929    :{RED}{STRINGID} no se ha arreglado{NEWLINE}Comprueba dónde están tus mecánicos y considera organizarlos mejor
->>>>>>> origin/master
 STR_1930    :{SMALLFONT}{BLACK}Activa/Desactiva el seguimiento de este visitante (Con el seguimiento activado, los movimientos de este visitante aparecerán en el área de mensajes)
 STR_1931    :{STRINGID} has joined the queue line for {STRINGID}
 STR_1932    :{STRINGID} está en {STRINGID}
@@ -2110,19 +2076,11 @@ STR_2068    :unos Pollos Fritos
 STR_2069    :una Limonada
 STR_2070    :una Caja vacía
 STR_2071    :una Botella vacía
-<<<<<<< HEAD
-STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Globo
-STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Juguete
-STR_2074    :Mapa de {STRINGID}
-STR_2075    :Foto en atracción de {STRINGID}
-STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Paraguas
-=======
 STR_2072    :Globo de {OPENQUOTES}{STRINGID}{ENDQUOTES}
 STR_2073    :Juguete de {OPENQUOTES}{STRINGID}{ENDQUOTES}
 STR_2074    :Mapa de {STRINGID}
 STR_2075    :Foto en atracción de {STRINGID}
 STR_2076    :Paraguas de {OPENQUOTES}{STRINGID}{ENDQUOTES}
->>>>>>> origin/master
 STR_2077    :Bebida
 STR_2078    :Hamburguesa
 STR_2079    :Patatas Fritas
@@ -2136,15 +2094,9 @@ STR_2086    :Cupón para {STRINGID}
 STR_2087    :Palomitas de Maíz
 STR_2088    :Perrito caliente
 STR_2089    :Tentáculo
-<<<<<<< HEAD
-STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Sombrero
-STR_2091    :Manzana Acaramelada
-STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Camiseta
-=======
 STR_2090    :Sombrero de {OPENQUOTES}{STRINGID}{ENDQUOTES}
 STR_2091    :Manzana Acaramelada
 STR_2092    :Camiseta de {OPENQUOTES}{STRINGID}{ENDQUOTES}
->>>>>>> origin/master
 STR_2093    :Rosquilla
 STR_2094    :Café
 STR_2095    :Taza vacía
@@ -2405,11 +2357,7 @@ STR_2349    :{WINDOW_COLOUR_2}Sueldo: {BLACK}{CURRENCY} al mes
 STR_2350    :{WINDOW_COLOUR_2}Contratado: {BLACK}{MONTHYEAR}
 STR_2351    :{WINDOW_COLOUR_2}Césped cortado: {BLACK}{COMMA16}
 STR_2352    :{WINDOW_COLOUR_2}Jardines regados: {BLACK}{COMMA16}
-<<<<<<< HEAD
-STR_2353    :{WINDOW_COLOUR_2}Senderos limpios: {BLACK}{COMMA16}
-=======
 STR_2353    :{WINDOW_COLOUR_2}Senderos limpiados: {BLACK}{COMMA16}
->>>>>>> origin/master
 STR_2354    :{WINDOW_COLOUR_2}Papeleras vaciadas: {BLACK}{COMMA16}
 STR_2355    :{WINDOW_COLOUR_2}Atracciones reparadas: {BLACK}{COMMA16}
 STR_2356    :{WINDOW_COLOUR_2}Inspecciones: {BLACK}{COMMA16}
@@ -2864,13 +2812,8 @@ STR_2802    :Mapa
 STR_2803    :{SMALLFONT}{BLACK}Show these guests highlighted on map
 STR_2804    :{SMALLFONT}{BLACK}Muestra estos empleados marcados en el mapa
 STR_2805    :{SMALLFONT}{BLACK}Mostrar mapa del parque
-<<<<<<< HEAD
-STR_2806    :{RED}Los visitantes se quejan del mal estado de los senderos{NEWLINE}Comprueba donde están tus empleados y organizalos mejor.
-STR_2807    :{RED}Los visitantes se quejan de la basura en el parque{NEWLINE}Comprueba donde están tus empleados y organizalos mejor.
-=======
 STR_2806    :{RED}Los visitantes se quejan del mal estado de los senderos{NEWLINE}Comprueba donde están tus jardineros y organizalos mejor.
 STR_2807    :{RED}Los visitantes se quejan de la basura en el parque{NEWLINE}Comprueba donde están tus jardineros y organizalos mejor.
->>>>>>> origin/master
 STR_2808    :{RED}Los visitantes se quejan del vandalismo en el parque{NEWLINE}Comprueba donde están tus guardias y organizalos mejor.
 STR_2809    :{RED}Los visitantes estan hambrientos y no encuentran donde comprar comida.
 STR_2810    :{RED}Los visitantes tienen sed y no encuentran donde comprar bebidas.
@@ -2918,11 +2861,7 @@ STR_2851    :Scenario already installed
 STR_2852    :Track design already installed
 STR_2853    :¡Prohibido por las autoridades locales!
 STR_2854    :{RED}¡Los visitantes no encuentran la entrada de {STRINGID}!{NEWLINE}Construye un sendero hacia la entrada
-<<<<<<< HEAD
-STR_2855    :{RED}{STRINGID} has no path leading from its exit !{NEWLINE}Construct a path from the ride exit
-=======
 STR_2855    :{RED}¡{STRINGID} no tiene un camino de salida!{NEWLINE}Construye un camino desde la salida de la atracción.
->>>>>>> origin/master
 STR_2856    :{WINDOW_COLOUR_2}Tutorial
 STR_2857    :{WINDOW_COLOUR_2}(Press a key or mouse button to take control)
 STR_2858    :Can't start marketing campaign...
@@ -3585,38 +3524,6 @@ STR_5183    :Base height
 STR_5184    :Enter base height between {COMMA16} and {COMMA16}
 STR_5185    :Water level
 STR_5186    :Enter water level between {COMMA16} and {COMMA16} 
-<<<<<<< HEAD
-STR_5187    :Finances
-STR_5188    :New Campaign
-STR_5189    :Research
-STR_5190    :Map
-STR_5191    :Viewport
-STR_5192    :Recent News
-STR_5193    :Land
-STR_5194    :Water
-STR_5195    :Clear Scenery
-STR_5196    :Land Rights
-STR_5197    :Scenery
-STR_5198    :Footpath
-STR_5199    :Ride Construction
-STR_5200    :Track Design Place
-STR_5201    :New Ride
-STR_5202    :Track Design Selection
-STR_5203    :Ride
-STR_5204    :Ride List
-STR_5205    :Guest
-STR_5206    :Guest List
-STR_5207    :Staff
-STR_5208    :Staff List
-STR_5209    :Banner
-STR_5210    :Selección de Objetos
-STR_5211    :Invention List
-STR_5212    :Scenario Options
-STR_5213    :Objective Options
-STR_5214    :Map Generation
-STR_5215    :Track Design Manager
-STR_5216    :Track Design Manager List
-=======
 STR_5187    :Finanzas
 STR_5188    :Nueva Campaña
 STR_5189    :Investigación
@@ -3647,20 +3554,9 @@ STR_5213    :Opciones de Objetivos
 STR_5214    :Generación de Mapa
 STR_5215    :Gestor de Diseño de Vías
 STR_5216    :Gestor de Listado de Diseños de Vías
->>>>>>> origin/master
 STR_5217    :Trucos
 STR_5218    :Temas
 STR_5219    :Opciones
-<<<<<<< HEAD
-STR_5220    :Keyboard Shortcuts
-STR_5221    :Change Keyboard Shortcut
-STR_5222    :Load/Save
-STR_5223    :Save Prompt
-STR_5224    :Demolish Ride Prompt
-STR_5225    :Aviso despedir empleado
-STR_5226    :Track Delete Prompt
-STR_5227    :Save Overwrite Prompt
-=======
 STR_5220    :Atajos de teclado
 STR_5221    :Cambiar Atajos de teclado
 STR_5222    :Cargar/Guardar
@@ -3669,7 +3565,6 @@ STR_5224    :Aviso Demoler Attrac.
 STR_5225    :Aviso Despedir Empleado
 STR_5226    :Aviso Demoler Vía
 STR_5227    :Aviso sobreescribir partida
->>>>>>> origin/master
 STR_5228    :{SMALLFONT}{BLACK}Interfaz Principal
 STR_5229    :{SMALLFONT}{BLACK}Parque
 STR_5230    :{SMALLFONT}{BLACK}Herramientas
@@ -3724,15 +3619,9 @@ STR_5278    :Modo sandbox
 STR_5279    :Quitar modo sandbox
 STR_5280    :{SMALLFONT}{BLACK}Permite editar el terreno en propiedad y otras opciones restringidas al Editor de Escenario
 STR_5281    :{SMALLFONT}{BLACK}Características
-<<<<<<< HEAD
-STR_5282    :RCT1 attrac. luces abrir/cerrar
-STR_5283    :RCT1 parq. luces abrir/cerrar
-STR_5284    :RCT1 escen. fuente de selección
-=======
 STR_5282    :Luces abrir/cerrar de Atracc. RCT1
 STR_5283    :Luces abrir/cerrar de Parque RCT1
 STR_5284    :Selección de Fuente Escenario RCT1
->>>>>>> origin/master
 STR_5285    :¡¡EXPLOTAN!!!
 STR_5286    :{SMALLFONT}{BLACK}Algunos visitantes explotan
 STR_5287    :La atracción ya está averiada
@@ -3741,15 +3630,9 @@ STR_5289    :No hay averías disponibles para esta atracción
 STR_5290    :Arreglar atracción
 STR_5291    :No puedes forzar una avería
 STR_5292    :{SMALLFONT}{BLACK}Forzar una avería
-<<<<<<< HEAD
-STR_5293    :{SMALLFONT}{BLACK}Close atracción/juego
-STR_5294    :{SMALLFONT}{BLACK}Test atracción/juego
-STR_5295    :{SMALLFONT}{BLACK}Open atracción/juego
-=======
 STR_5293    :{SMALLFONT}{BLACK}Cerrar atracción/juego
 STR_5294    :{SMALLFONT}{BLACK}Probar atracción/juego
 STR_5295    :{SMALLFONT}{BLACK}Abrir atracción/juego
->>>>>>> origin/master
 STR_5296    :{SMALLFONT}{BLACK}Cerrar parque
 STR_5297    :{SMALLFONT}{BLACK}Abrir parque
 STR_5298    :{RED}{STRINGID}
@@ -3767,11 +3650,7 @@ STR_5309    :OpenRCT2
 STR_5310    :Aleatorio
 STR_5311    :{SMALLFONT}{BLACK}Herramientas de depuración
 STR_5312    :Mostrar consola
-<<<<<<< HEAD
-STR_5313    :Mostrar inspc. baldosa
-=======
 STR_5313    :Mostrar inspc. Baldosa
->>>>>>> origin/master
 STR_5314    :Inspector de Baldosa
 STR_5315    :Césped
 STR_5316    :Arena
@@ -3964,22 +3843,14 @@ STR_5502    :Multijugador
 STR_5503    :Escribe el nombre del host o la IP:
 STR_5504    :{SMALLFONT}{BLACK}Mostrar estado multijugador
 STR_5505    :No se pudo conectar al servidor.
-<<<<<<< HEAD
-STR_5506    :Los Visitantes ignoran la intensidad de atracc.
-=======
 STR_5506    :Visitantes ignoran intensidad de atracc.
->>>>>>> origin/master
 STR_5507    :Los Jardineros cortan el césped por defecto
 STR_5508    :Permitir cargar ficheros dañados
 STR_5509    :{SMALLFONT}{BLACK}Permite cargar ficheros cuya suma de verificación no es correcta, como partidas guardadas de versiones de demostración y ficheros dañados
 STR_5510    :Dispositivo de sonido predeterminado
 STR_5511    :(DESCONOCIDO)
 STR_5512    :Guardar nueva copia de juego
-<<<<<<< HEAD
-STR_5513    :(Rápido) guardar juego
-=======
 STR_5513    :Guardar juego de forma rápida
->>>>>>> origin/master
 STR_5514    :Desactivar vandalismo
 STR_5515    :{SMALLFONT}{BLACK}Impide que los visitantes enfadados cometan actos de vandalismo
 STR_5516    :{SMALLFONT}{BLACK}Negro
@@ -4025,19 +3896,11 @@ STR_5555    :Muestra vehículos de otros tipos de vía
 STR_5556    :{SMALLFONT}{BLACK}Expulsar jugador
 STR_5557    :Mantener conex. tras desincronización (Multijugador)
 STR_5558    :Se debe reiniciar para aplicar los cambios
-<<<<<<< HEAD
-STR_5559    :Inspecciones 10'
-STR_5560    :{SMALLFONT}{BLACK}Establece el tiempo de inspección a 'Cada 10 minutos' en todas las atracciones
-STR_5561    :No se pudo cargar el idioma.
-STR_5562    :ADVERTENCIA!
-STR_5563    :This feature is currently unstable, take extra caution.
-=======
 STR_5559    :Inspecciones 10m
 STR_5560    :{SMALLFONT}{BLACK}Establece el tiempo de inspección a 'Cada 10 minutos' en todas las atracciones
 STR_5561    :No se pudo cargar el idioma.
 STR_5562    :ADVERTENCIA!
 STR_5563    :Esta configuración es inestable, toma precauciones.
->>>>>>> origin/master
 STR_5564    :Insert Corrupt Element
 STR_5565    :{SMALLFONT}{BLACK}Inserts a corrupt map element at top of tile. This will hide any element above the corrupt element.
 STR_5566    :Contraseña:
@@ -4184,116 +4047,6 @@ STR_5736    :Jugador
 
 ## RCT Original
 <Forest Frontiers>
-<<<<<<< HEAD
-STR_SCNR    :Forest Frontiers
-STR_PARK    :Forest Frontiers
-STR_DTLS    :Deep in the forest, build a thriving theme park in a large cleared area
-
-<Dynamite Dunes>
-STR_SCNR    :Dynamite Dunes
-STR_PARK    :Dynamite Dunes
-STR_DTLS    :Built in the middle of the desert, this theme park contains just one roller coaster but has space for expansion
-
-<Leafy Lake>
-STR_SCNR    :Leafy Lake
-STR_PARK    :Leafy Lake
-STR_DTLS    :Starting from scratch, build a theme park around a large lake
-
-<Diamond Heights>
-STR_SCNR    :Diamond Heights
-STR_PARK    :Diamond Heights
-STR_DTLS    :Diamond Heights is already a successful theme park with great rides - develop it to double its value
-
-<Evergreen Gardens>
-STR_SCNR    :Evergreen Gardens
-STR_PARK    :Evergreen Gardens
-STR_DTLS    :Convert the beautiful Evergreen Gardens into a thriving theme park
-
-<Bumbly Beach>
-STR_SCNR    :Bumbly Beach
-STR_PARK    :Bumbly Beach
-STR_DTLS    :Develop Bumbly Beach's small amusement park into a thriving theme park
-
-<Trinity Islands>
-STR_SCNR    :Trinity Islands
-STR_PARK    :Trinity Islands
-STR_DTLS    :Several islands form the basis for this new park
-
-<Katie's Dreamland>
-STR_SCNR    :Katie's World
-STR_PARK    :Katie's World
-STR_DTLS    :A small theme park with a few rides and room for expansion - Your aim is to double the park value
-
-<Pokey Park>
-STR_SCNR    :Dinky Park
-STR_PARK    :Dinky Park
-STR_DTLS    :A small, cramped amusement park which requires major expansion
-
-<White Water Park>
-STR_SCNR    :Aqua Park
-STR_PARK    :Aqua Park
-STR_DTLS    :A park with some excellent water-based rides requires expansion
-
-<Millennium Mines>
-STR_SCNR    :Millennium Mines
-STR_PARK    :Millennium Mines
-STR_DTLS    :Convert a large abandoned mine from a tourist attraction into a theme park
-
-<Karts & Coasters>
-STR_SCNR    :Karts & Coasters
-STR_PARK    :Karts & Coasters
-STR_DTLS    :A large park hidden in the forest, with only go-kart tracks and wooden roller coasters
-
-<Mel's World>
-STR_SCNR    :Mel's World
-STR_PARK    :Mel's World
-STR_DTLS    :This theme park has some well-designed modern rides, but plenty of space for expansion
-
-<Mystic Mountain>
-STR_SCNR    :Mothball Mountain
-STR_PARK    :Mothball Mountain
-STR_DTLS    :In the hilly forests of Mothball Mountain, build a theme park from scratch
-
-<Pacific Pyramids>
-STR_SCNR    :Pacific Pyramids
-STR_PARK    :Pacific Pyramids
-STR_DTLS    :Convert the Egyptian Ruins tourist attraction into a thriving theme park
-
-<Crumbly Woods>
-STR_SCNR    :Crumbly Woods
-STR_PARK    :Crumbly Woods
-STR_DTLS    :A large park with well-designed but rather old rides - Replace the old rides or add new rides to make the park more popular
-
-<Paradise Pier>
-STR_SCNR    :Big Pier
-STR_PARK    :Big Pier
-STR_DTLS    :Convert this sleepy town's pier into a thriving attraction
-
-<Lightning Peaks>
-STR_SCNR    :Lightning Peaks
-STR_PARK    :Lightning Peaks
-STR_DTLS    :The beautiful mountains of Lightning Peaks are popular with walkers and sightseers - Use the available land to attract a new thrill-seeking clientele
-
-<Ivory Towers>
-STR_SCNR    :Ivory Towers
-STR_PARK    :Ivory Towers
-STR_DTLS    :A well-established park, which has a few problems
-
-<Rainbow Valley>
-STR_SCNR    :Rainbow Valley
-STR_PARK    :Rainbow Valley
-STR_DTLS    :Rainbow Valley's local authority won't allow any landscape changes or large tree removal, but you must develop the area into a large theme park
-
-<Thunder Rock>
-STR_SCNR    :Thunder Rock
-STR_PARK    :Thunder Rock
-STR_DTLS    :Thunder Rock stands in the middle of a desert and attracts many tourists - Use the available space to build rides to attract more people
-
-<Mega Park>
-STR_SCNR    :Mega Park
-STR_PARK    :Mega Park
-STR_DTLS    :Just for fun!
-=======
 STR_SCNR    :Fronteras Forestales
 STR_PARK    :Fronteras Forestales
 STR_DTLS    :Construye un próspero parque temático en una amplia zona deforestada de un espeso bosque.
@@ -4402,7 +4155,6 @@ STR_DTLS    :La Roca del Trueno se encuentra en pleno desierto y atrae muchos tu
 STR_SCNR    :Mega Parque
 STR_PARK    :Mega Parque
 STR_DTLS    :¡Por pasarlo bien!
->>>>>>> origin/master
 
 ## Corkscrew Follies
 <Whispering Cliffs>
