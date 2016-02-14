@@ -1,4 +1,4 @@
-# STR_XXXX part is read and XXXX becomes the string id number. STR_1672
+﻿# STR_XXXX part is read and XXXX becomes the string id number. STR_1672
 # Everything after the colon and before the new line will be saved as the string.
 # Use # at the beginning of a line to leave a comment.
 STR_0000    :
@@ -1414,8 +1414,8 @@ STR_1408    :{WINDOW_COLOUR_2}Precio: {BLACK}{CURRENCY}
 STR_1409    :Andén
 STR_1410    :Sección vertical
 STR_1411    :{STRINGID} en medio
-STR_1412    :{WINDOW_COLOUR_3}Data logging not available for this type of ride
-STR_1413    :{WINDOW_COLOUR_3}Data logging will start when next {STRINGID} leaves {STRINGID}
+STR_1412    :{WINDOW_COLOUR_3}Estadísticas no disponibles para este tipo de atracción
+STR_1413    :{WINDOW_COLOUR_3}Las estadísticas comenzarán a registrarse cuando el {STRINGID} salga de la {STRINGID}
 STR_1414    :{SMALLFONT}{BLACK}{DURATION}
 STR_1415    :{WINDOW_COLOUR_2}Velocidad
 STR_1416    :{WINDOW_COLOUR_2}Altitud
@@ -1487,13 +1487,13 @@ STR_1481    :{SMALLFONT}{OPENQUOTES}He gastado todo mi dinero{ENDQUOTES}
 STR_1482    :{SMALLFONT}{OPENQUOTES}Me siento mareado{ENDQUOTES}
 STR_1483    :{SMALLFONT}{OPENQUOTES}Me siento muy mareado{ENDQUOTES}
 STR_1484    :{SMALLFONT}{OPENQUOTES}Quiero algo más emocionante que {STRINGID}{ENDQUOTES}
-STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} parece muy intensa para mí{ENDQUOTES}
+STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} parece demasiado intenso para mí{ENDQUOTES}
 STR_1486    :{SMALLFONT}{OPENQUOTES}No he terminado mi {STRINGID} todavía{ENDQUOTES}
-STR_1487    :{SMALLFONT}{OPENQUOTES}Con sólo mirar {STRINGID} me hace sentir enfermo{ENDQUOTES}
+STR_1487    :{SMALLFONT}{OPENQUOTES}Con sólo mirar {STRINGID} me siento enfermo{ENDQUOTES}
 STR_1488    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto para subir a {STRINGID}{ENDQUOTES}
-STR_1489    :{SMALLFONT}{OPENQUOTES}Quiero irme a casa{ENDQUOTES}
+STR_1489    :{SMALLFONT}{OPENQUOTES}Quiero volver a casa{ENDQUOTES}
 STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} es realmente barato{ENDQUOTES}
-STR_1491    :{SMALLFONT}{OPENQUOTES}Ya he adquirido {STRINGID}{ENDQUOTES}
+STR_1491    :{SMALLFONT}{OPENQUOTES}Ya tengo {STRINGID}{ENDQUOTES}
 STR_1492    :{SMALLFONT}{OPENQUOTES}No me puedo permitir {STRINGID}{ENDQUOTES}
 STR_1493    :{SMALLFONT}{OPENQUOTES}No tengo hambre{ENDQUOTES}
 STR_1494    :{SMALLFONT}{OPENQUOTES}No tengo sed{ENDQUOTES}
@@ -1506,20 +1506,20 @@ STR_1500    :{SMALLFONT}{OPENQUOTES}Tengo hambre{ENDQUOTES}
 STR_1501    :{SMALLFONT}{OPENQUOTES}Tengo sed{ENDQUOTES}
 STR_1502    :{SMALLFONT}{OPENQUOTES}Tengo que ir al baño{ENDQUOTES}
 STR_1503    :{SMALLFONT}{OPENQUOTES}No encuentro {STRINGID}{ENDQUOTES}
-STR_1504    :{SMALLFONT}{OPENQUOTES}No voy a pagar mucho por {STRINGID}{ENDQUOTES}
+STR_1504    :{SMALLFONT}{OPENQUOTES}No voy a pagar tanto por {STRINGID}{ENDQUOTES}
 STR_1505    :{SMALLFONT}{OPENQUOTES}No voy a subir a {STRINGID} mientras llueve{ENDQUOTES}
 STR_1506    :{SMALLFONT}{OPENQUOTES}La basura aquí es muy malo{ENDQUOTES}
 STR_1507    :{SMALLFONT}{OPENQUOTES}No puedo encontrar la salida{ENDQUOTES}
 STR_1508    :{SMALLFONT}{OPENQUOTES}Quiero bajar de {STRINGID}{ENDQUOTES}
 STR_1509    :{SMALLFONT}{OPENQUOTES}Quiero salir de {STRINGID}{ENDQUOTES}
-STR_1510    :{SMALLFONT}{OPENQUOTES}No voy a subir a {STRINGID} - No es seguro{ENDQUOTES}
+STR_1510    :{SMALLFONT}{OPENQUOTES}No voy a subir a {STRINGID}, no es seguro{ENDQUOTES}
 STR_1511    :{SMALLFONT}{OPENQUOTES}Este camino es repugnante{ENDQUOTES}
-STR_1512    :{SMALLFONT}{OPENQUOTES}Estoy atestado{ENDQUOTES}
-STR_1513    :{SMALLFONT}{OPENQUOTES}El vandalismo aquí es muy alto{ENDQUOTES}
-STR_1514    :{SMALLFONT}{OPENQUOTES}¡El paisaje es estupendo!{ENDQUOTES}
+STR_1512    :{SMALLFONT}{OPENQUOTES}Esta atestado{ENDQUOTES}
+STR_1513    :{SMALLFONT}{OPENQUOTES}El vandalismo es muy alto{ENDQUOTES}
+STR_1514    :{SMALLFONT}{OPENQUOTES}¡La decoración es estupenda!{ENDQUOTES}
 STR_1515    :{SMALLFONT}{OPENQUOTES}Este parque está realmente limpio y ordenado{ENDQUOTES}
-STR_1516    :{SMALLFONT}{OPENQUOTES}Las fuentes saltarines son geniales{ENDQUOTES}
-STR_1517    :{SMALLFONT}{OPENQUOTES}La música está muy bien aquí{ENDQUOTES}
+STR_1516    :{SMALLFONT}{OPENQUOTES}Las fuentes saltarinas son estupendas{ENDQUOTES}
+STR_1517    :{SMALLFONT}{OPENQUOTES}La música es agradable{ENDQUOTES}
 STR_1518    :{SMALLFONT}{OPENQUOTES}Este globo de {STRINGID} es realmente barato{ENDQUOTES}
 STR_1519    :{SMALLFONT}{OPENQUOTES}Este juguete de peluche de {STRINGID} es realmente barato{{ENDQUOTES}
 STR_1520    :{SMALLFONT}{OPENQUOTES}Este mapa de {STRINGID} es realmente barato{{ENDQUOTES}
@@ -1660,9 +1660,9 @@ STR_1654    :{WINDOW_COLOUR_2}Pensamientos recientes:
 STR_1655    :{SMALLFONT}{BLACK}Construye camino a nivel del suelo
 STR_1656    :{SMALLFONT}{BLACK}Construye puente o túnel
 STR_1657    :{WINDOW_COLOUR_2}Atracción favorita:
-STR_1658    :{WINDOW_COLOUR_2}intensidad: {BLACK}menos de {COMMA16}
-STR_1659    :{WINDOW_COLOUR_2}intensidad: {BLACK}entre {COMMA16} y {COMMA16}
-STR_1660    :{WINDOW_COLOUR_2}intensidad: {BLACK}más de {COMMA16}
+STR_1658    :{WINDOW_COLOUR_2}Intensidad: {BLACK}menos de {COMMA16}
+STR_1659    :{WINDOW_COLOUR_2}Intensidad: {BLACK}entre {COMMA16} y {COMMA16}
+STR_1660    :{WINDOW_COLOUR_2}Intensidad: {BLACK}más de {COMMA16}
 STR_1661    :{WINDOW_COLOUR_2}Tolerancia a náusea: {BLACK}{STRINGID}
 STR_1662    :{WINDOW_COLOUR_2}Felicidad:
 STR_1663    :{WINDOW_COLOUR_2}Náusea:
@@ -1689,7 +1689,7 @@ STR_1683    :Base size 2 x 2
 STR_1684    :Base size 4 x 4
 STR_1685    :Base size 2 x 4
 STR_1686    :Base size 5 x 1
-STR_1687    :Salpicadura agua
+STR_1687    :Salpicadura de agua
 STR_1688    :Base size 4 x 1
 STR_1689    :Bloque de frenado
 STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
@@ -1888,7 +1888,7 @@ STR_1882    :Cada 45 minutos
 STR_1883    :Cada hora
 STR_1884    :Cada 2 horas
 STR_1885    :Nunca
-STR_1886    :Inspecting {STRINGID}
+STR_1886    :Inspeccionando {STRINGID}
 STR_1887    :{WINDOW_COLOUR_2}Tiempo desde la última inspección: {BLACK}{COMMA16} minutos
 STR_1888    :{WINDOW_COLOUR_2}Tiempo desde la última inspección: {BLACK}más de 4 horas
 STR_1889    :{WINDOW_COLOUR_2}Tiempo averiado: {MOVE_X}{255}{BLACK}{COMMA16}%
@@ -1935,12 +1935,12 @@ STR_1927    :{YELLOW}{STRINGID} se ha averiado
 STR_1928    :{RED}¡{STRINGID} ha chocado!
 STR_1929    :{RED}{STRINGID} no se ha arreglado{NEWLINE}Comprueba dónde están tus mecánicos y considera organizarlos mejor
 STR_1930    :{SMALLFONT}{BLACK}Activa/Desactiva el seguimiento de este visitante (Con el seguimiento activado, los movimientos de este visitante aparecerán en el área de mensajes)
-STR_1931    :{STRINGID} has joined the queue line for {STRINGID}
+STR_1931    :{STRINGID} está haciendo fila en {STRINGID}
 STR_1932    :{STRINGID} está en {STRINGID}
 STR_1933    :{STRINGID} está en {STRINGID}
 STR_1934    :{STRINGID} se va de {STRINGID}
-STR_1935    :{STRINGID} se va del parque
-STR_1936    :{STRINGID} compra {STRINGID}
+STR_1935    :{STRINGID} se ha ido del parque
+STR_1936    :{STRINGID} compró {STRINGID}
 STR_1937    :{SMALLFONT}{BLACK}Muestra información sobre el tema de este mensaje
 STR_1938    :{SMALLFONT}{BLACK}Mostrar vista del visitante
 STR_1939    :{SMALLFONT}{BLACK}Mostrar vista de empleado
@@ -2051,7 +2051,7 @@ STR_2043    :Botellas vacías
 STR_2044    :un Globo
 STR_2045    :un Juguete Mimoso
 STR_2046    :un Mapa del Parque
-STR_2047    :an On-Ride Photo
+STR_2047    :una Foto
 STR_2048    :una Sombrilla
 STR_2049    :una Bebida
 STR_2050    :una Hamburguesa
@@ -2252,7 +2252,7 @@ STR_2244    :Septiembre
 STR_2245    :Octubre
 STR_2246    :Noviembre
 STR_2247    :Diciembre
-STR_2248    :Can't demolish atracción/juego...
+STR_2248    :No puedes eliminar la atracción/tienda
 STR_2249    :{BABYBLUE}Nueva atracción disponible:{NEWLINE}{STRINGID}
 STR_2250    :{BABYBLUE}Nuevo decorado disponible:{NEWLINE}{STRINGID}
 STR_2251    :Can only be built on paths!
@@ -2282,13 +2282,13 @@ STR_2274    :{SMALLFONT}{BLACK}Mostrar detalles de este desarrollo
 STR_2275    :{SMALLFONT}{BLACK}Opciones de financiación y estado de I+D
 STR_2276    :{SMALLFONT}{BLACK}Muestra estado de I+D
 STR_2277    :Desconocido
-STR_2278    :Transport Ride
-STR_2279    :Gentle Ride
-STR_2280    :Roller Coaster
-STR_2281    :Thrill Ride
-STR_2282    :Water Ride
-STR_2283    :Shop/Stall
-STR_2284    :Scenery/Themeing
+STR_2278    :Atracción de Transporte
+STR_2279    :Atracción Suave
+STR_2280    :Montaña Rusa
+STR_2281    :Atracción Intensa
+STR_2282    :Atracción de agua
+STR_2283    :Tienda/Puesto
+STR_2284    :Escenario
 STR_2285    :Desarrollo inicial
 STR_2286    :Diseñando
 STR_2287    :Finalizando diseño
@@ -2372,11 +2372,11 @@ STR_2364    :{SMALLFONT}{BLACK}Activa o desactiva la cuadrícula de terreno
 STR_2365    :¡El banco se niega a prestarte más dinero!
 STR_2366    :Celsius ({DEGREE}C)
 STR_2367    :Fahrenheit ({DEGREE}F)
-STR_2368    :None
+STR_2368    :Ninguna
 STR_2369    :Bajo
-STR_2370    :Promedio
-STR_2371    :High
-STR_2372    :Bajo
+STR_2370    :Media
+STR_2371    :Alta
+STR_2372    :Baja
 STR_2373    :Medio
 STR_2374    :Alto
 STR_2375    :Muy alto
