@@ -1414,8 +1414,8 @@ STR_1396    :{SMALLFONT}{BLACK}Colour scheme options
 STR_1397    :{SMALLFONT}{BLACK}Sound & music options
 STR_1398    :{SMALLFONT}{BLACK}Measurements and test data
 STR_1399    :{SMALLFONT}{BLACK}Graphs
-STR_1400    :Entrance
-STR_1401    :Exit
+STR_1400    :Wejście
+STR_1401    :Wyjście
 STR_1402    :{SMALLFONT}{BLACK}Build or move entrance to ride/attraction
 STR_1403    :{SMALLFONT}{BLACK}Build or move exit from ride/attraction
 STR_1404    :{SMALLFONT}{BLACK}Rotate 90{DEGREE}
@@ -1959,256 +1959,256 @@ STR_1927    :{YELLOW}{STRINGID} has broken down
 STR_1928    :{RED}{STRINGID} has crashed!
 STR_1929    :{RED}{STRINGID} still hasn't been fixed{NEWLINE}Check where your mechanics are and consider organizing them better
 STR_1930    :{SMALLFONT}{BLACK}Turn on/off tracking information for this guest - (If tracking is on, guest's movements will be reported in the message area)
-STR_1931    :{STRINGID} has joined the queue line for {STRINGID}
-STR_1932    :{STRINGID} is on {STRINGID}
-STR_1933    :{STRINGID} is in {STRINGID}
-STR_1934    :{STRINGID} has left {STRINGID}
-STR_1935    :{STRINGID} has left the park
-STR_1936    :{STRINGID} has bought {STRINGID}
-STR_1937    :{SMALLFONT}{BLACK}Show information about the subject of this message
-STR_1938    :{SMALLFONT}{BLACK}Show view of guest
-STR_1939    :{SMALLFONT}{BLACK}Show view of staff member
-STR_1940    :{SMALLFONT}{BLACK}Show happiness, energy, hunger etc. for this guest
-STR_1941    :{SMALLFONT}{BLACK}Show which rides this guest has been on
-STR_1942    :{SMALLFONT}{BLACK}Show financial information about this guest
-STR_1943    :{SMALLFONT}{BLACK}Show guest's recent thoughts
-STR_1944    :{SMALLFONT}{BLACK}Show items guest is carrying
-STR_1945    :{SMALLFONT}{BLACK}Show orders and options for this staff member
-STR_1946    :{SMALLFONT}{BLACK}Select costume for this entertainer
-STR_1947    :{SMALLFONT}{BLACK}Show areas patrolled by selected staff type, and locate the nearest staff member
-STR_1948    :{SMALLFONT}{BLACK}Hire a new staff member of the selected type
-STR_1949    :Financial Summary
-STR_1950    :Financial Graph
-STR_1951    :Park Value Graph
-STR_1952    :Profit Graph
+STR_1931    :{STRINGID} stanął w kolejce do atrakcji {STRINGID}
+STR_1932    :{STRINGID} jest na atrakcji {STRINGID}
+STR_1933    :{STRINGID} korzysta z atrakcji {STRINGID}
+STR_1934    :{STRINGID} opuścił atrakcję {STRINGID}
+STR_1935    :{STRINGID} opuścił park
+STR_1936    :{STRINGID} kupił {STRINGID}
+STR_1937    :{SMALLFONT}{BLACK}Wyświetl informacje o przedmiocie tej wiadomości
+STR_1938    :{SMALLFONT}{BLACK}Wyświetl podgląd gościa
+STR_1939    :{SMALLFONT}{BLACK}Wyświetl podgląd pracownika
+STR_1940    :{SMALLFONT}{BLACK}Pokaż zadowolenie, energię, poziom głodu itp. dla wybranego gościa
+STR_1941    :{SMALLFONT}{BLACK}Pokaż z jakich atrakcji skorzystał wybrany gość
+STR_1942    :{SMALLFONT}{BLACK}Wyświetl informacje finansowe o wybranym gościu
+STR_1943    :{SMALLFONT}{BLACK}Pokaż ostatnie myśli wybranego gościa
+STR_1944    :{SMALLFONT}{BLACK}Pokaż przedmioty niesione przez wybranego gościa
+STR_1945    :{SMALLFONT}{BLACK}Pokaż polecenia i opcje dla wybranego pracownika
+STR_1946    :{SMALLFONT}{BLACK}Wybierz kostium dla wybranego komika
+STR_1947    :{SMALLFONT}{BLACK}Pokaż tereny patrolowane przez pracowników wybranego rodzaju i znajdź najbliższego pracownika
+STR_1948    :{SMALLFONT}{BLACK}Zatrudnij nowego pracownika wybranego rodzaju
+STR_1949    :Podsumowanie finansowe
+STR_1950    :Wykres finansów
+STR_1951    :Wykres wartości parku
+STR_1952    :Wykres zysków
 STR_1953    :Marketing
-STR_1954    :Research Funding
-STR_1955    :{WINDOW_COLOUR_2}Number of circuits:
-STR_1956    :{SMALLFONT}{BLACK}Number of circuits of track per ride
+STR_1954    :Środki przeznaczone na badania
+STR_1955    :{WINDOW_COLOUR_2}Liczba okrążeń:
+STR_1956    :{SMALLFONT}{BLACK}Liczba okrążeń toru w czasie jednego przejazdu
 STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1958    :{COMMA16}
-STR_1959    :Can't change number of circuits...
-STR_1960    :{WINDOW_COLOUR_2}Balloon price:
-STR_1961    :{WINDOW_COLOUR_2}Cuddly Toy price:
-STR_1962    :{WINDOW_COLOUR_2}Park Map price:
-STR_1963    :{WINDOW_COLOUR_2}On-Ride Photo price:
-STR_1964    :{WINDOW_COLOUR_2}Umbrella price:
-STR_1965    :{WINDOW_COLOUR_2}Drink price:
-STR_1966    :{WINDOW_COLOUR_2}Burger price:
-STR_1967    :{WINDOW_COLOUR_2}Chips price:
-STR_1968    :{WINDOW_COLOUR_2}Ice Cream price:
-STR_1969    :{WINDOW_COLOUR_2}Candyfloss price:
+STR_1959    :Nie mogę zmienić liczby okrążeń...
+STR_1960    :{WINDOW_COLOUR_2}Cena balonu:
+STR_1961    :{WINDOW_COLOUR_2}Cena przytulanki:
+STR_1962    :{WINDOW_COLOUR_2}Cena planu parku:
+STR_1963    :{WINDOW_COLOUR_2}Cena zdjęcia z przejażdżki:
+STR_1964    :{WINDOW_COLOUR_2}Cena parasola:
+STR_1965    :{WINDOW_COLOUR_2}Cena napoju:
+STR_1966    :{WINDOW_COLOUR_2}Cena hamburgera:
+STR_1967    :{WINDOW_COLOUR_2}Cena frytek:
+STR_1968    :{WINDOW_COLOUR_2}Cena lodów:
+STR_1969    :{WINDOW_COLOUR_2}Cena waty cukrowej:
 STR_1970    :{WINDOW_COLOUR_2}
 STR_1971    :{WINDOW_COLOUR_2}
 STR_1972    :{WINDOW_COLOUR_2}
-STR_1973    :{WINDOW_COLOUR_2}Pizza price:
+STR_1973    :{WINDOW_COLOUR_2}Cena pizzy:
 STR_1974    :{WINDOW_COLOUR_2}
-STR_1975    :{WINDOW_COLOUR_2}Popcorn price:
-STR_1976    :{WINDOW_COLOUR_2}Hot Dog price:
-STR_1977    :{WINDOW_COLOUR_2}Tentacle price:
-STR_1978    :{WINDOW_COLOUR_2}Hat price:
-STR_1979    :{WINDOW_COLOUR_2}Toffee Apple price:
-STR_1980    :{WINDOW_COLOUR_2}T-Shirt price:
-STR_1981    :{WINDOW_COLOUR_2}Doughnut price:
-STR_1982    :{WINDOW_COLOUR_2}Coffee price:
+STR_1975    :{WINDOW_COLOUR_2}Cena popcornu:
+STR_1976    :{WINDOW_COLOUR_2}Cena hot-doga:
+STR_1977    :{WINDOW_COLOUR_2}Cena macki:
+STR_1978    :{WINDOW_COLOUR_2}Cena kapelusza:
+STR_1979    :{WINDOW_COLOUR_2}Cena jabłka kand.:
+STR_1980    :{WINDOW_COLOUR_2}Cena podkoszulki:
+STR_1981    :{WINDOW_COLOUR_2}Cena pączka:
+STR_1982    :{WINDOW_COLOUR_2}Cena kawy:
 STR_1983    :{WINDOW_COLOUR_2}
-STR_1984    :{WINDOW_COLOUR_2}Fried Chicken price:
-STR_1985    :{WINDOW_COLOUR_2}Lemonade price:
+STR_1984    :{WINDOW_COLOUR_2}Cena kurczaka:
+STR_1985    :{WINDOW_COLOUR_2}Cena lemoniady:
 STR_1986    :{WINDOW_COLOUR_2}
 STR_1987    :{WINDOW_COLOUR_2}
-STR_1988    :Balloon
-STR_1989    :Cuddly Toy
-STR_1990    :Park Map
-STR_1991    :On-Ride Photo
-STR_1992    :Umbrella
-STR_1993    :Drink
-STR_1994    :Burger
-STR_1995    :Chips
-STR_1996    :Ice Cream
-STR_1997    :Candyfloss
-STR_1998    :Empty Can
-STR_1999    :Rubbish
-STR_2000    :Empty Burger Box
+STR_1988    :Balon
+STR_1989    :Przytulanka
+STR_1990    :Plan parku
+STR_1991    :Zdjęcie z przejażdżki
+STR_1992    :Parasol
+STR_1993    :Napój
+STR_1994    :Hamburger
+STR_1995    :Frytki
+STR_1996    :Lody
+STR_1997    :Wata cukrowa
+STR_1998    :Pusta puszka
+STR_1999    :Śmiecie
+STR_2000    :Puste pudełko po hamburgerze
 STR_2001    :Pizza
-STR_2002    :Voucher
+STR_2002    :Kupon
 STR_2003    :Popcorn
 STR_2004    :Hot Dog
-STR_2005    :Tentacle
-STR_2006    :Hat
-STR_2007    :Toffee Apple
-STR_2008    :T-Shirt
-STR_2009    :Doughnut
-STR_2010    :Coffee
-STR_2011    :Empty Cup
-STR_2012    :Fried Chicken
-STR_2013    :Lemonade
-STR_2014    :Empty Box
-STR_2015    :Empty Bottle
-STR_2016    :Balloons
-STR_2017    :Cuddly Toys
-STR_2018    :Park Maps
-STR_2019    :On-Ride Photos
-STR_2020    :Umbrellas
-STR_2021    :Drinks
-STR_2022    :Burgers
-STR_2023    :Chips
-STR_2024    :Ice Creams
-STR_2025    :Candyfloss
-STR_2026    :Empty Cans
-STR_2027    :Rubbish
-STR_2028    :Empty Burger Boxes
-STR_2029    :Pizzas
-STR_2030    :Vouchers
+STR_2005    :Macka
+STR_2006    :Kapelusz
+STR_2007    :Jabłko kandyzowane
+STR_2008    :Koszulka
+STR_2009    :Pączek
+STR_2010    :Kawa
+STR_2011    :Pusty kubek
+STR_2012    :Kurczak
+STR_2013    :Lemoniada
+STR_2014    :Puste pudełko
+STR_2015    :Pusta butelka
+STR_2016    :Balony
+STR_2017    :Przytulanki
+STR_2018    :Plany parku
+STR_2019    :Zdjęcia z przejażdżki
+STR_2020    :Parasole
+STR_2021    :Napoje
+STR_2022    :Hamburgery
+STR_2023    :Frytki
+STR_2024    :Lody
+STR_2025    :Wata cukrowa
+STR_2026    :Puste puszki
+STR_2027    :Śmiecie
+STR_2028    :Puste pudełka po hamburgerach
+STR_2029    :Pizze
+STR_2030    :Kupony
 STR_2031    :Popcorn
-STR_2032    :Hot Dogs
-STR_2033    :Tentacles
-STR_2034    :Hats
-STR_2035    :Toffee Apples
-STR_2036    :T-Shirts
-STR_2037    :Doughnuts
-STR_2038    :Coffees
-STR_2039    :Empty Cups
-STR_2040    :Fried Chicken
-STR_2041    :Lemonade
-STR_2042    :Empty Boxes
-STR_2043    :Empty Bottles
-STR_2044    :a Balloon
-STR_2045    :a Cuddly Toy
-STR_2046    :a Park Map
-STR_2047    :an On-Ride Photo
-STR_2048    :an Umbrella
-STR_2049    :a Drink
-STR_2050    :a Burger
-STR_2051    :some Chips
-STR_2052    :an Ice Cream
-STR_2053    :some Candyfloss
-STR_2054    :an Empty Can
-STR_2055    :some Rubbish
-STR_2056    :an Empty Burger Box
-STR_2057    :a Pizza
-STR_2058    :a Voucher
-STR_2059    :some Popcorn
-STR_2060    :a Hot Dog
-STR_2061    :a Tentacle
-STR_2062    :a Hat
-STR_2063    :a Toffee Apple
-STR_2064    :a T-Shirt
-STR_2065    :a Doughnut
-STR_2066    :a Coffee
-STR_2067    :an Empty Cup
-STR_2068    :some Fried Chicken
-STR_2069    :some Lemonade
-STR_2070    :an Empty Box
-STR_2071    :an Empty Bottle
-STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Balloon
-STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Cuddly Toy
-STR_2074    :Map of {STRINGID}
-STR_2075    :On-Ride Photo of {STRINGID}
-STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Umbrella
-STR_2077    :Drink
-STR_2078    :Burger
-STR_2079    :Chips
-STR_2080    :Ice Cream
-STR_2081    :Candyfloss
-STR_2082    :Empty Can
-STR_2083    :Rubbish
-STR_2084    :Empty Burger Box
+STR_2032    :Hot dogi
+STR_2033    :Macki
+STR_2034    :Kapelusze
+STR_2035    :Jabłka kandyzowane
+STR_2036    :Koszulki
+STR_2037    :Pączki
+STR_2038    :Kawy
+STR_2039    :Puste kubki
+STR_2040    :Kurczak
+STR_2041    :Lemoniada
+STR_2042    :Puste pudełka
+STR_2043    :Puste butelki
+STR_2044    :balon
+STR_2045    :przytulanka
+STR_2046    :plan parku
+STR_2047    :zdjęcie z przejażdżki
+STR_2048    :parasol
+STR_2049    :napój
+STR_2050    :hamburgera
+STR_2051    :trochę frytek
+STR_2052    :lody
+STR_2053    :trochę waty cukrowej
+STR_2054    :pustą puszkę
+STR_2055    :trochę śmieci
+STR_2056    :puste pudełko po hamburgerze
+STR_2057    :pizza
+STR_2058    :kupon
+STR_2059    :trochę popcornu
+STR_2060    :Hot Dog
+STR_2061    :Macka
+STR_2062    :Kapelusz
+STR_2063    :jabłko kandyzowane
+STR_2064    :koszulka
+STR_2065    :Pączek
+STR_2066    :Kawa
+STR_2067    :pusty kubek
+STR_2068    :Kurczak
+STR_2069    :trochę lemoniady
+STR_2070    :puste pudełko
+STR_2071    :pustą butelkę
+STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Balon
+STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Przytulanka
+STR_2074    :Plan {STRINGID}
+STR_2075    :Zdjęcie z przejażdżki {STRINGID}
+STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Parasol
+STR_2077    :Napój
+STR_2078    :Hamburger
+STR_2079    :Frytki
+STR_2080    :Lody
+STR_2081    :Wata cukrowa
+STR_2082    :Pusta puszka
+STR_2083    :Śmiecie
+STR_2084    :Puste pudełko po hamburgerze
 STR_2085    :Pizza
-STR_2086    :Voucher for {STRINGID}
+STR_2086    :Kupon na {STRINGID}
 STR_2087    :Popcorn
 STR_2088    :Hot Dog
-STR_2089    :Tentacle
-STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Hat
-STR_2091    :Toffee Apple
-STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} T-Shirt
-STR_2093    :Doughnut
-STR_2094    :Coffee
-STR_2095    :Empty Cup
-STR_2096    :Fried Chicken
-STR_2097    :Lemonade
-STR_2098    :Empty Box
-STR_2099    :Empty Bottle
-STR_2100    :{WINDOW_COLOUR_2}On-Ride Photo price:
-STR_2101    :{WINDOW_COLOUR_2}On-Ride Photo price:
-STR_2102    :{WINDOW_COLOUR_2}On-Ride Photo price:
-STR_2103    :{WINDOW_COLOUR_2}Pretzel price:
-STR_2104    :{WINDOW_COLOUR_2}Hot Chocolate price:
-STR_2105    :{WINDOW_COLOUR_2}Iced Tea price:
-STR_2106    :{WINDOW_COLOUR_2}Funnel Cake price:
-STR_2107    :{WINDOW_COLOUR_2}Sunglasses price:
+STR_2089    :Macka
+STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Kapelusz
+STR_2091    :jabłko kandyzowane
+STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Koszulka
+STR_2093    :Pączek
+STR_2094    :Kawa
+STR_2095    :Pusty kubek
+STR_2096    :Kurczak
+STR_2097    :Lemoniada
+STR_2098    :Puste pudełko
+STR_2099    :Pusta butelka
+STR_2100    :{WINDOW_COLOUR_2}Cena zdjęcia z przejażdżki:
+STR_2101    :{WINDOW_COLOUR_2}Cena zdjęcia z przejażdżki:
+STR_2102    :{WINDOW_COLOUR_2}Cena zdjęcia z przejażdżki:
+STR_2103    :{WINDOW_COLOUR_2}Cena precla:
+STR_2104    :{WINDOW_COLOUR_2}Cena gorącej czekolady:
+STR_2105    :{WINDOW_COLOUR_2}Cena mrożonej herbaty:
+STR_2106    :{WINDOW_COLOUR_2}Cena makaronika:
+STR_2107    :{WINDOW_COLOUR_2}Cena okularów:
 STR_2108    :{WINDOW_COLOUR_2}Beef Noodles price:
-STR_2109    :{WINDOW_COLOUR_2}Fried Rice Noodles price:
-STR_2110    :{WINDOW_COLOUR_2}Wonton Soup price:
-STR_2111    :{WINDOW_COLOUR_2}Meatball Soup price:
-STR_2112    :{WINDOW_COLOUR_2}Fruit Juice price:
-STR_2113    :{WINDOW_COLOUR_2}Soybean Milk price:
-STR_2114    :{WINDOW_COLOUR_2}Sujongkwa price:
-STR_2115    :{WINDOW_COLOUR_2}Sub Sandwich price:
-STR_2116    :{WINDOW_COLOUR_2}Cookie price:
+STR_2109    :{WINDOW_COLOUR_2}Cena smażonej ryby:
+STR_2110    :{WINDOW_COLOUR_2}Cena zupy wonton:
+STR_2111    :{WINDOW_COLOUR_2}Cena zupy klopsikowej:
+STR_2112    :{WINDOW_COLOUR_2}Cena soku owocowego:
+STR_2113    :{WINDOW_COLOUR_2}Cena mleka sojowego:
+STR_2114    :{WINDOW_COLOUR_2}Cena sujongkwa:
+STR_2115    :{WINDOW_COLOUR_2}Cena kanapki:
+STR_2116    :{WINDOW_COLOUR_2}Cena ciasteczka:
 STR_2117    :{WINDOW_COLOUR_2}
 STR_2118    :{WINDOW_COLOUR_2}
 STR_2119    :{WINDOW_COLOUR_2}
 STR_2120    :{WINDOW_COLOUR_2}Roast Sausage price:
 STR_2121    :{WINDOW_COLOUR_2}
-STR_2122    :On-Ride Photo
-STR_2123    :On-Ride Photo
-STR_2124    :On-Ride Photo
-STR_2125    :Pretzel
-STR_2126    :Hot Chocolate
-STR_2127    :Iced Tea
-STR_2128    :Funnel Cake
-STR_2129    :Sunglasses
+STR_2122    :Zdjęcie z przejażdżki
+STR_2123    :Zdjęcie z przejażdżki
+STR_2124    :Zdjęcie z przejażdżki
+STR_2125    :Precel
+STR_2126    :Gorąca czekolada
+STR_2127    :Mrożona herbata
+STR_2128    :Makaronik
+STR_2129    :Okulary przeciwsłoneczne
 STR_2130    :Beef Noodles
 STR_2131    :Fried Rice Noodles
-STR_2132    :Wonton Soup
-STR_2133    :Meatball Soup
-STR_2134    :Fruit Juice
-STR_2135    :Soybean Milk
+STR_2132    :Zupa wonton
+STR_2133    :Zupa klopsikowa
+STR_2134    :Sok owocowy
+STR_2135    :Mleko sojowe
 STR_2136    :Sujongkwa
-STR_2137    :Sub Sandwich
-STR_2138    :Cookie
-STR_2139    :Empty Bowl
-STR_2140    :Empty Drink Carton
-STR_2141    :Empty Juice Cup
-STR_2142    :Roast Sausage
-STR_2143    :Empty Bowl
-STR_2144    :On-Ride Photos
-STR_2145    :On-Ride Photos
-STR_2146    :On-Ride Photos
-STR_2147    :Pretzels
-STR_2148    :Hot Chocolates
-STR_2149    :Iced Teas
-STR_2150    :Funnel Cakes
-STR_2151    :Sunglasses
+STR_2137    :Kanapka
+STR_2138    :Ciasteczko
+STR_2139    :Pusta miska
+STR_2140    :Pusty karton
+STR_2141    :Pusty kubek po soku
+STR_2142    :Pieczona kiełbaska
+STR_2143    :Pusta miska
+STR_2144    :Zdjęcie z przejażdżki
+STR_2145    :Zdjęcie z przejażdżki
+STR_2146    :Zdjęcie z przejażdżki
+STR_2147    :Precle
+STR_2148    :Gorące czekolady
+STR_2149    :Mrożone herbaty
+STR_2150    :Makaroniki
+STR_2151    :Okulary przeciwsłoneczne
 STR_2152    :Beef Noodles
 STR_2153    :Fried Rice Noodles
-STR_2154    :Wonton Soups
-STR_2155    :Meatball Soups
-STR_2156    :Fruit Juices
-STR_2157    :Soybean Milks
+STR_2154    :Zupy wonton
+STR_2155    :Zupy klopsikowe
+STR_2156    :Soki owocowe
+STR_2157    :Mleko sojowe
 STR_2158    :Sujongkwa
-STR_2159    :Sub Sandwiches
-STR_2160    :Cookies
-STR_2161    :Empty Bowls
-STR_2162    :Empty Drink Cartons
-STR_2163    :Empty Juice cups
-STR_2164    :Roast Sausages
-STR_2165    :Empty Bowls
-STR_2166    :an On-Ride Photo
-STR_2167    :an On-Ride Photo
-STR_2168    :an On-Ride Photo
-STR_2169    :a Pretzel
-STR_2170    :a Hot Chocolate
-STR_2171    :an Iced Tea
-STR_2172    :a Funnel Cake
+STR_2159    :Kanapki
+STR_2160    :Ciasteczka
+STR_2161    :Puste miski
+STR_2162    :Puste kartony
+STR_2163    :Puste kubki po soku
+STR_2164    :Pieczone kiełbaski
+STR_2165    :Puste miski
+STR_2166    :zdjęcie z przejażdżki
+STR_2167    :zdjęcie z przejażdżki
+STR_2168    :zdjęcie z przejażdżki
+STR_2169    :precla
+STR_2170    :gorącą czekoladą
+STR_2171    :herbat
+STR_2172    :marakonik
 STR_2173    :a pair of Sunglasses
 STR_2174    :some Beef Noodles
 STR_2175    :some Fried Rice Noodles
-STR_2176    :some Wonton Soup
-STR_2177    :some Meatball Soup
-STR_2178    :a Fruit Juice
-STR_2179    :some Soybean Milk
-STR_2180    :some Sujongkwa
+STR_2176    :trochę zupy wonton
+STR_2177    :trochę zupy klopsikowej
+STR_2178    :sok owocowy
+STR_2179    :trochę mleka sojowego
+STR_2180    :trochę Sujongkwa
 STR_2181    :a Sub Sandwich
 STR_2182    :a Cookie
 STR_2183    :an Empty Bowl
@@ -2337,18 +2337,18 @@ STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} na
 STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} pamiątce
 STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} pamiątkach
 # ------------------------------------------ Polish end
-STR_2305    :Track design files
-STR_2306    :Save track design
-STR_2307    :Select {STRINGID} design
-STR_2308    :{STRINGID} Track Designs
-STR_2309    :Install New Track Design
-STR_2310    :Build custom design
-STR_2311    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2312    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2313    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32} (approx.)
+STR_2305    :Plik z projektami tras
+STR_2306    :Zapisz projekt trasy
+STR_2307    :Wybierz {STRINGID} projekt
+STR_2308    :{STRINGID} projekty tras
+STR_2309    :Zainstaluj nowy projekt trasy
+STR_2310    :Stwórz własny projekt
+STR_2311    :{WINDOW_COLOUR_2}Emocje: {BLACK}{COMMA2DP32} (około)
+STR_2312    :{WINDOW_COLOUR_2}Intensywność: {BLACK}{COMMA2DP32} (około)
+STR_2313    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32} (około)
 STR_2314    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}
-STR_2315    :{WINDOW_COLOUR_2}Cost: {BLACK}around {CURRENCY}
-STR_2316    :{WINDOW_COLOUR_2}Space required: {BLACK}{COMMA16} x {COMMA16} blocks
+STR_2315    :{WINDOW_COLOUR_2}Koszt: {BLACK}around {CURRENCY}
+STR_2316    :{WINDOW_COLOUR_2}Zajmowany teren: {BLACK}{COMMA16} x {COMMA16} pól
 # ------------------------------------------ Polish start
 STR_2317    :{WINDOW_COLOUR_2}Jakość dźwięku:
 STR_2318    :Niska
@@ -2858,9 +2858,9 @@ STR_2805    :{SMALLFONT}{BLACK}Show map of park
 STR_2806    :{RED}Guests are complaining about the disgusting state of the paths in your park{NEWLINE}Check where your handymen are and consider organizing them better
 STR_2807    :{RED}Guests are complaining about the amount of litter in your park{NEWLINE}Check where your handymen are and consider organizing them better
 STR_2808    :{RED}Guests are complaining about the vandalism in your park{NEWLINE}Check where your security guards are and consider organizing them better
-STR_2809    :{RED}Guests are hungry and can't find anywhere to buy food
-STR_2810    :{RED}Guests are thirsty and can't find anywhere to buy drinks
-STR_2811    :{RED}Guests are complaining because they can't find the toilets in your park
+STR_2809    :{RED}Goście są głodni i nie mogą znaleźć miejsca gdzie mogliby kupić coś do jedzenia
+STR_2810    :{RED}Goście są spragnieni i nie mogą znaleźć miejsca gdzie mogliby kupić jakieś napoje
+STR_2811    :{RED}Goście się skarżą, że w twoim parku bardzo ciężko jest znaleźć ubikację
 STR_2812    :{RED}Guests are getting lost or stuck{NEWLINE}Check whether the layout of your footpaths needs improving to help the guests find their way around
 STR_2813    :{RED}Your park entrance fee is too high!{NEWLINE}Reduce your entrance fee or improve the value of the park to attract more guests
 STR_2814    :{WINDOW_COLOUR_2}Most untidy park award
@@ -3266,51 +3266,51 @@ STR_3207    :Roller Coaster Designer
 STR_3208    :Track Designs Manager
 STR_3209    :Back to Previous Step:
 STR_3210    :Forward to Next Step:
-STR_3211    :{WINDOW_COLOUR_2}Map size:
+STR_3211    :{WINDOW_COLOUR_2}Rozmiar mapy:
 STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
-STR_3213    :Can't decrease map size any further
-STR_3214    :Can't increase map size any further
-STR_3215    :Too close to edge of map
-STR_3216    :{SMALLFONT}{BLACK}Select park-owned land etc.
-STR_3217    :Land Owned
-STR_3218    :Construction Rights Owned
-STR_3219    :Land For Sale
-STR_3220    :Construction Rights For Sale
-STR_3221    :{SMALLFONT}{BLACK}Set land to be owned by the park
-STR_3222    :{SMALLFONT}{BLACK}Set construction rights only to be owned by the park
-STR_3223    :{SMALLFONT}{BLACK}Set land to be available to purchase by the park
-STR_3224    :{SMALLFONT}{BLACK}Set construction rights to be available to purchase by the park
+STR_3213    :Nie można bardziej zmniejszyć mapy
+STR_3214    :Nie można bardziej zwiększyć mapy
+STR_3215    :Za blisko do krawędzi mapy
+STR_3216    :{SMALLFONT}{BLACK}Wybierz teren należący do parku itp.
+STR_3217    :Posiadany teren
+STR_3218    :Posiadane pozwolenia na budowe
+STR_3219    :Teren na sprzedaż
+STR_3220    :Pozwolenia na bud. na sprzedaż
+STR_3221    :{SMALLFONT}{BLACK}Przekaż własność terenu parkowi
+STR_3222    :{SMALLFONT}{BLACK}Przekaż pozwolenie na budowę parkowi
+STR_3223    :{SMALLFONT}{BLACK}Ustaw teren jako dostępny do nabycia
+STR_3224    :{SMALLFONT}{BLACK}Ustaw pozwolenie na budowę jako możliwe do nabycia
 STR_3225    :{SMALLFONT}{BLACK}Toggle on/off building a random cluster of objects around the selected position
-STR_3226    :{SMALLFONT}{BLACK}Build park entrance
-STR_3227    :Too many park entrances!
-STR_3228    :{SMALLFONT}{BLACK}Set starting positions for people
-STR_3229    :Block Brakes cannot be used directly after station
-STR_3230    :Block Brakes cannot be used directly after each other
-STR_3231    :Block Brakes cannot be used directly after the top of this lift hill
-STR_3232    :Options - Financial
-STR_3233    :Options - Guests
-STR_3234    :Options - Park
-STR_3235    :{SMALLFONT}{BLACK}Show financial options
-STR_3236    :{SMALLFONT}{BLACK}Show guest options
-STR_3237    :{SMALLFONT}{BLACK}Show park options
-STR_3238    :No Money
-STR_3239    :{SMALLFONT}{BLACK}Make this park a 'no money' park with no financial restrictions
-STR_3240    :{WINDOW_COLOUR_2}Initial cash:
-STR_3241    :{WINDOW_COLOUR_2}Initial loan:
-STR_3242    :{WINDOW_COLOUR_2}Maximum loan size:
-STR_3243    :{WINDOW_COLOUR_2}Annual interest rate:
-STR_3244    :Forbid marketing campaigns
-STR_3245    :{SMALLFONT}{BLACK}Forbid advertising, promotional schemes, and other marketing campaigns
+STR_3226    :{SMALLFONT}{BLACK}Zbuduj wejście do parku
+STR_3227    :Za dużo wejść do parku!
+STR_3228    :{SMALLFONT}{BLACK}Ustaw początkowe rozmieszczenie ludzi
+STR_3229    :Hamulce tarczowe nie mogą znajdować się bezpośrednio za stacją
+STR_3230    :Hamulce tarczowe nie mogą znajdować się bezpośrednio za sobą
+STR_3231    :Hamulce tarczowe nie mogą znajdować się bezpośrednio za szczytem wzniesienia z wyciągarki
+STR_3232    :Opcje - Finanse
+STR_3233    :Opcje - Goście
+STR_3234    :Opcje - Park
+STR_3235    :{SMALLFONT}{BLACK}Wyświetl opcje finansowe
+STR_3236    :{SMALLFONT}{BLACK}Wyświetl opcje gości
+STR_3237    :{SMALLFONT}{BLACK}Wyświetl opcje parku
+STR_3238    :Bez pieniędzy
+STR_3239    :{SMALLFONT}{BLACK}Ta opcja pozwala znieść wszelkie ograniczenia finansowe dla parku
+STR_3240    :{WINDOW_COLOUR_2}Początkowa gotówka:
+STR_3241    :{WINDOW_COLOUR_2}Początkowe zadłużenie:
+STR_3242    :{WINDOW_COLOUR_2}Maksymalne zadłużenie:
+STR_3243    :{WINDOW_COLOUR_2}Oprocentowanie pożyczek:
+STR_3244    :Zakaz kampanii reklamowych
+STR_3245    :{SMALLFONT}{BLACK}Zakaż przeprowadzania kampanii reklamowych, promocji i innych działań marketingowych
 STR_3246    :{WINDOW_COLOUR_2}{CURRENCY}
 STR_3247    :{WINDOW_COLOUR_2}{COMMA16}%
-STR_3248    :Can't increase initial cash any further!
-STR_3249    :Can't reduce initial cash any further!
-STR_3250    :Can't increase initial loan any further!
-STR_3251    :Can't reduce initial loan any further!
-STR_3252    :Can't increase maximum loan size any further!
-STR_3253    :Can't reduce maximum loan size any further!
-STR_3254    :Can't increase interest rate any further!
-STR_3255    :Can't reduce interest rate any further!
+STR_3248    :Nie można bardziej zwiększyć ilości początkowej gotówki!
+STR_3249    :Nie można bardziej zmniejszyć ilości początkowej gotówki!
+STR_3250    :Nie można bardziej zwiększyć początkowego zadłużenia!
+STR_3251    :Nie można bardziej zmniejszyć początkowego zadłużenia!
+STR_3252    :Nie można bardziej zwiększyć maksymalnego zadłużenia!
+STR_3253    :Nie można bardziej zmniejszyć maksymalnego zadłużenia!
+STR_3254    :Nie można bardziej zwiększyć oprocentowania pożyczek!
+STR_3255    :Nie można bardziej zmniejszyć oprocentowania pożyczek!
 STR_3256    :Guests prefer less intense rides
 STR_3257    :{SMALLFONT}{BLACK}Select whether guests should generally prefer less intense rides only
 STR_3258    :Guests prefer more intense rides
