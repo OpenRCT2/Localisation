@@ -5,7 +5,7 @@ STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
 STR_0002    :Montagnes russes en spirales
 STR_0003    :Montagnes russes debout
-STR_0004    :Suspended Swinging Coaster
+STR_0004    :Montagnes russes balancantes suspendues 
 STR_0005    :Montagnes russes inversées
 STR_0006    :Montagnes russes junior
 STR_0007    :Chemin de fer miniature
@@ -15,8 +15,8 @@ STR_0010    :Balade en bateau
 STR_0011    :Souris sauvage en bois
 STR_0012    :Steeplechase
 STR_0013    :Balade en voiture
-STR_0014    :Launched Freefall
-STR_0015    :Bobsleigh Coaster
+STR_0014    :Chute libre propulsée
+STR_0015    :Bobsleigh
 STR_0016    :Tour d'observation
 STR_0017    :Looping Roller Coaster
 STR_0018    :Dinghy Slide
@@ -24,7 +24,7 @@ STR_0019    :Train de la mine
 STR_0020    :Chairlift
 STR_0021    :Corkscrew Roller Coaster
 STR_0022    :Labyrinthe
-STR_0023    :Toboggan spiral
+STR_0023    :Toboggan en spirale
 STR_0024    :Go Karts
 STR_0025    :Log Flume
 STR_0026    :River Rapids
@@ -36,7 +36,7 @@ STR_0031    :Stand inconnu (1D)
 STR_0032    :Stand de boissons
 STR_0033    :Stand inconnu (1F)
 STR_0034    :Boutique
-STR_0035    :Manège
+STR_0035    :Carrousel
 STR_0036    :Stand inconnu (22)
 STR_0037    :Kiosque d'information
 STR_0038    :Toilettes
@@ -59,15 +59,15 @@ STR_0054    :Montagnes russes en bois
 STR_0055    :Side-Friction Roller Coaster
 STR_0056    :Souris sauvage
 STR_0057    :Multi-Dimension Roller Coaster
-STR_0058    :Unknown Ride (38)
+STR_0058    :Manège Inconnu (38)
 STR_0059    :Montagnes russes volantes
-STR_0060    :Unknown Ride (3A)
+STR_0060    :Manège Inconnu (3A)
 STR_0061    :Virginia Reel
 STR_0062    :Splash Boats
 STR_0063    :Mini hélicoptères
 STR_0064    :Lay-down Roller Coaster
 STR_0065    :Monorail suspendu
-STR_0066    :Unknown Ride (40)
+STR_0066    :Manège Inconnu (40)
 STR_0067    :Reverser Roller Coaster
 STR_0068    :Heartline Twister Coaster
 STR_0069    :Mini-golf
@@ -83,16 +83,16 @@ STR_0078    :Inverted Hairpin Coaster
 STR_0079    :Tapis volant
 STR_0080    :Balade sous-marine
 STR_0081    :River Rafts
-STR_0082    :Unknown Ride (50)
+STR_0082    :Manège Inconnu (50)
 STR_0083    :Enterprise
-STR_0084    :Unknown Ride (52)
-STR_0085    :Unknown Ride (53)
-STR_0086    :Unknown Ride (54)
-STR_0087    :Unknown Ride (55)
+STR_0084    :Manège Inconnu (52)
+STR_0085    :Manège Inconnu (53)
+STR_0086    :Manège Inconnu (54)
+STR_0087    :Manège Inconnu (55)
 STR_0088    :Inverted Impulse Coaster
 STR_0089    :Mini montagnes russes
 STR_0090    :Mine Ride
-STR_0091    :Unknown Ride (59)
+STR_0091    :Manège Inconnu (59)
 STR_0092    :LIM Launched Roller Coaster
 STR_0093    :
 STR_0094    :
@@ -3831,16 +3831,16 @@ STR_5489    :{SMALLFONT}{BLACK}Afficher seulement les visiteurs surveillés
 STR_5490    :Couper le son lorsque la fenêtre est minimisée
 STR_5491    :Liste d'inventions
 STR_5492    :Options scénario
-STR_5493    :Send Message
+STR_5493    :Envoyer un message
 STR_5494    :<not used anymore>
-STR_5495    :Player List
-STR_5496    :Player:
+STR_5495    :Liste des joueurs
+STR_5496    :Joueur:
 STR_5497    :Ping:
-STR_5498    :Server List
+STR_5498    :Liste des serveurs
 STR_5499    :Player Name:
-STR_5500    :Add Server
-STR_5501    :Start Server
-STR_5502    :Multiplayer
+STR_5500    :Ajouter un serveur
+STR_5501    :Démarrer un serveur
+STR_5502    :Multijoueur
 STR_5503    :Enter hostname or IP address:
 STR_5504    :{SMALLFONT}{BLACK}Show multiplayer status
 STR_5505    :Unable to connect to server.
@@ -3852,44 +3852,44 @@ STR_5510    :Default sound device
 STR_5511    :(UNKNOWN)
 STR_5512    :Save Game As
 STR_5513    :(Quick) save game
-STR_5514    :Disable vandalism
+STR_5514    :Désactiver le vandalisme
 STR_5515    :{SMALLFONT}{BLACK}Stops guests from vandalising your park when they're angry
-STR_5516    :{SMALLFONT}{BLACK}Black
-STR_5517    :{SMALLFONT}{BLACK}Grey
-STR_5518    :{SMALLFONT}{BLACK}White
-STR_5519    :{SMALLFONT}{BLACK}Dark purple
-STR_5520    :{SMALLFONT}{BLACK}Light purple
-STR_5521    :{SMALLFONT}{BLACK}Bright purple
-STR_5522    :{SMALLFONT}{BLACK}Dark blue
-STR_5523    :{SMALLFONT}{BLACK}Light blue
-STR_5524    :{SMALLFONT}{BLACK}Icy blue
-STR_5525    :{SMALLFONT}{BLACK}Dark water
-STR_5526    :{SMALLFONT}{BLACK}Light water
-STR_5527    :{SMALLFONT}{BLACK}Saturated green
-STR_5528    :{SMALLFONT}{BLACK}Dark green
-STR_5529    :{SMALLFONT}{BLACK}Moss green
-STR_5530    :{SMALLFONT}{BLACK}Bright green
-STR_5531    :{SMALLFONT}{BLACK}Olive green
-STR_5532    :{SMALLFONT}{BLACK}Dark olive green
-STR_5533    :{SMALLFONT}{BLACK}Bright yellow
-STR_5534    :{SMALLFONT}{BLACK}Yellow
-STR_5535    :{SMALLFONT}{BLACK}Dark yellow
-STR_5536    :{SMALLFONT}{BLACK}Light orange
-STR_5537    :{SMALLFONT}{BLACK}Dark orange
-STR_5538    :{SMALLFONT}{BLACK}Light brown
-STR_5539    :{SMALLFONT}{BLACK}Saturated brown
-STR_5540    :{SMALLFONT}{BLACK}Dark brown
-STR_5541    :{SMALLFONT}{BLACK}Salmon pink
-STR_5542    :{SMALLFONT}{BLACK}Bordeaux red
-STR_5543    :{SMALLFONT}{BLACK}Saturated red
-STR_5544    :{SMALLFONT}{BLACK}Bright red
-STR_5545    :{SMALLFONT}{BLACK}Dark pink
-STR_5546    :{SMALLFONT}{BLACK}Bright pink
-STR_5547    :{SMALLFONT}{BLACK}Light pink
+STR_5516    :{SMALLFONT}{BLACK}Noir
+STR_5517    :{SMALLFONT}{BLACK}Gris
+STR_5518    :{SMALLFONT}{BLACK}Blanc
+STR_5519    :{SMALLFONT}{BLACK}Violet foncé
+STR_5520    :{SMALLFONT}{BLACK}Violet clair
+STR_5521    :{SMALLFONT}{BLACK}Violet vif
+STR_5522    :{SMALLFONT}{BLACK}Bleu fincé
+STR_5523    :{SMALLFONT}{BLACK}Bleu clair
+STR_5524    :{SMALLFONT}{BLACK}Bleu vif
+STR_5525    :{SMALLFONT}{BLACK}Eau foncée
+STR_5526    :{SMALLFONT}{BLACK}Eau claire
+STR_5527    :{SMALLFONT}{BLACK}Vert saturé
+STR_5528    :{SMALLFONT}{BLACK}Vert foncé
+STR_5529    :{SMALLFONT}{BLACK}Vert mousse
+STR_5530    :{SMALLFONT}{BLACK}Vert clair
+STR_5531    :{SMALLFONT}{BLACK}Vert olive
+STR_5532    :{SMALLFONT}{BLACK}Vert olive foncé
+STR_5533    :{SMALLFONT}{BLACK}Jaune clair
+STR_5534    :{SMALLFONT}{BLACK}Jaune
+STR_5535    :{SMALLFONT}{BLACK}Jaune foncé
+STR_5536    :{SMALLFONT}{BLACK}Orange claire
+STR_5537    :{SMALLFONT}{BLACK}Orange foncée
+STR_5538    :{SMALLFONT}{BLACK}Brun clair
+STR_5539    :{SMALLFONT}{BLACK}Brun saturé
+STR_5540    :{SMALLFONT}{BLACK}Brun foncé
+STR_5541    :{SMALLFONT}{BLACK}Rose saumon
+STR_5542    :{SMALLFONT}{BLACK}Rouge bordeaux
+STR_5543    :{SMALLFONT}{BLACK}Rouge saturé
+STR_5544    :{SMALLFONT}{BLACK}Rouge clair
+STR_5545    :{SMALLFONT}{BLACK}Rose foncé
+STR_5546    :{SMALLFONT}{BLACK}Rose clair
+STR_5547    :{SMALLFONT}{BLACK}Rose vif
 STR_5548    :Show all operating modes
-STR_5549    :Year/Month/Day
+STR_5549    :Année/Mois/Jour
 STR_5550    :{POP16}{POP16}Year {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
-STR_5551    :Year/Day/Month
+STR_5551    :Année/Jour/Mois
 STR_5552    :{POP16}{POP16}Year {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
 STR_5553    :Pause game when Steam overlay is open
 STR_5554    :{SMALLFONT}{BLACK}Enable mountain tool
@@ -3900,26 +3900,26 @@ STR_5558    :A restart is required for this setting to take effect
 STR_5559    :10 min. inspections
 STR_5560    :{SMALLFONT}{BLACK}Sets the inspection time to 'Every 10 minutes' on all rides
 STR_5561    :Failed to load language
-STR_5562    :WARNING!
-STR_5563    :This feature is currently unstable, take extra caution.
+STR_5562    :ATTENTION!
+STR_5563    :Cette fonctionnalité est actuellement instable, faites attention.
 STR_5564    :Insert Corrupt Element
 STR_5565    :{SMALLFONT}{BLACK}Inserts a corrupt map element at top of tile. This will hide any element above the corrupt element.
-STR_5566    :Password:
+STR_5566    :Mot de passe:
 STR_5567    :Advertise
-STR_5568    :Password Required
-STR_5569    :This server requires a password
-STR_5570    :Fetch Servers
-STR_5571    :Join Game
-STR_5572    :Add To Favourites
-STR_5573    :Remove From Favourites
-STR_5574    :Server Name:
+STR_5568    :Mot de passe requis
+STR_5569    :Ce serveur nécessite un mot de passe
+STR_5570    :Rafraichir
+STR_5571    :Rejoindre
+STR_5572    :Ajouter aux Favoris
+STR_5573    :Retirer des Favoris
+STR_5574    :Nom du Serveur:
 STR_5575    :Max Players:
 STR_5576    :Port:
-STR_5577    :South Korean Won (W)
-STR_5578    :Russian Rouble (R)
+STR_5577    :Won Sud-Coréen (W)
+STR_5578    :Rouble Russe (R)
 STR_5579    :Window scale factor:
-STR_5580    :Czech koruna (Kc)
-STR_5581    :Show FPS
+STR_5580    :Couronne Tchèque (Kc)
+STR_5581    :Afficher les FPS
 STR_5582    :Trap mouse cursor in window
 STR_5583    :{COMMA1DP16}ms{POWERNEGATIVEONE}
 STR_5584    :SI
@@ -3973,16 +3973,16 @@ STR_5631    :Original DLC Parks
 STR_5632    :Build your own...
 STR_5633    :CMD + 
 STR_5634    :OPTION + 
-STR_5635    :{WINDOW_COLOUR_2}Money spent: {BLACK}{CURRENCY2DP}
-STR_5636    :{WINDOW_COLOUR_2}Commands ran: {BLACK}{COMMA16}
+STR_5635    :{WINDOW_COLOUR_2}Argent dépensé: {BLACK}{CURRENCY2DP}
+STR_5636    :{WINDOW_COLOUR_2}Commandes exécutées: {BLACK}{COMMA16}
 STR_5637    :Can't do this...
-STR_5638    :Permission denied
-STR_5639    :{SMALLFONT}{BLACK}Show list of players
-STR_5640    :{SMALLFONT}{BLACK}Manage groups
-STR_5641    :Default Group:
-STR_5642    :Group:
-STR_5643    :Add Group
-STR_5644    :Remove Group
+STR_5638    :Permission refusée
+STR_5639    :{SMALLFONT}{BLACK}Affiche la liste des joueurs
+STR_5640    :{SMALLFONT}{BLACK}Gérer les groupes
+STR_5641    :Groupe par défaut:
+STR_5642    :Groupes:
+STR_5643    :Ajouter un Groupe
+STR_5644    :Supprimer in Groupe
 STR_5645    :Chat
 STR_5646    :Terraform
 STR_5647    :Toggle Pause
@@ -3997,7 +3997,7 @@ STR_5655    :Guest
 STR_5656    :Staff
 STR_5657    :Park Properties
 STR_5658    :Park Funding
-STR_5659    :Kick Player
+STR_5659    :Expluser Joueur
 STR_5660    :Modify Groups
 STR_5661    :Set Player Group
 STR_5662    :N/A
@@ -4005,8 +4005,8 @@ STR_5663    :Clear Landscape
 STR_5664    :Cheat
 STR_5701    :{WINDOW_COLOUR_2}Last action: {BLACK}{STRINGID}
 STR_5702    :{SMALLFONT}{BLACK}Locate player's most recent action
-STR_5703    :Can't kick the host
-STR_5704    :Last Action:
+STR_5703    :Imposible d'expluser l'hébergeur
+STR_5704    :Dernière Action:
 STR_5705    :Can't set to this group
 STR_5706    :Can't remove group that players belong to
 STR_5707    :This group cannot be modified
@@ -4015,19 +4015,19 @@ STR_5709    :Rename Group
 STR_5710    :Group name
 STR_5711    :Enter new name for this group:
 STR_5712    :Can't modify permission that you do not have yourself
-STR_5713    :Kick Player
+STR_5713    :Expluser Joueur
 STR_5714    :Show options window
-STR_5715    :New Game
+STR_5715    :Nouvelle Partie
 STR_5716    :Not allowed in multiplayer mode
 # For identifying client network version in server list window
 STR_5717    :Network version: {STRING}
 STR_5718    :{SMALLFONT}{BLACK}Network version: {STRING}
-STR_5719    :Sunny
-STR_5720    :Partially Cloudy
-STR_5721    :Cloudy
-STR_5722    :Rain
-STR_5723    :Heavy Rain
-STR_5724    :Thunderstorm
+STR_5719    :Ensoleillé
+STR_5720    :Partiellement Nuageux
+STR_5721    :Nuageux
+STR_5722    :Pluie
+STR_5723    :Forte Pluie
+STR_5724    :Orage
 STR_5725    :{BLACK}Force weather:
 STR_5726    :{SMALLFONT}{BLACK}Sets the current weather in park
 STR_5727    :Scaling quality
@@ -4039,35 +4039,35 @@ STR_5732    :Anisotropic
 STR_5733    :Use NN scaling at integer scales
 # tooltip for tab in options window
 STR_5734    :{SMALLFONT}{BLACK}Rendering
-STR_5735    :Network Status
-STR_5736    :Player
+STR_5735    :Etat du Réseau
+STR_5736    :Joueur
 STR_5737    :Closed, {COMMA16} person still on ride
 STR_5738    :Closed, {COMMA16} people still on ride
 STR_5739    :{WINDOW_COLOUR_2}Customers on ride: {BLACK}{COMMA16}
 STR_5740    :Never-ending marketing campaigns
 STR_5741    :{SMALLFONT}{BLACK}Marketing campaigns never end
-STR_5742    :Authenticating ...
-STR_5743    :Connecting ...
-STR_5744    :Resolving ...
-STR_5745    :Network desync detected
-STR_5746    :Disconnected
-STR_5747    :Disconnected: {STRING}
-STR_5748    :Kicked
-STR_5749    :Get out of the server!
-STR_5750    :Connection Closed
-STR_5751    :No Data
-STR_5752    :{OUTLINE}{RED}{STRING} has disconnected
-STR_5753    :{OUTLINE}{RED}{STRING} has disconnected ({STRING})
-STR_5754    :Bad Player Name
-STR_5755    :Incorrect Software Version
-STR_5756    :Bad Password
-STR_5757    :Server Full
-STR_5758    :{OUTLINE}{GREEN}{STRING} has joined the game
-STR_5759    :Downloading map ... ({INT32} / {INT32})
-STR_5760    :Hong Kong Dollars (HK$)
-STR_5761    :New Taiwan Dollar (NT$)
-STR_5762    :Chinese Yuan (CN{YEN})
-STR_5763    :All files
+STR_5742    :Authentification ...
+STR_5743    :Connection ...
+STR_5744    :Résolution ...
+STR_5745    :Désynchronisation détéctée
+STR_5746    :Déconnecté
+STR_5747    :Déconnecté: {STRING}
+STR_5748    :Explusé
+STR_5749    :Sort du serveur !
+STR_5750    :Connection Fermé
+STR_5751    :Aucune Données
+STR_5752    :{OUTLINE}{RED}{STRING} s'est déconnecté
+STR_5753    :{OUTLINE}{RED}{STRING} s'est déconnecté ({STRING})
+STR_5754    :Mauvais Pseudo
+STR_5755    :Mauvaise version du programme
+STR_5756    :Mauvais mot de passe
+STR_5757    :Serveur Plein
+STR_5758    :{OUTLINE}{GREEN}{STRING} a rejoint la partie
+STR_5759    :Téléchargement de la carte ... ({INT32} / {INT32})
+STR_5760    :Dollars de Hong Kong (HK$)
+STR_5761    :Nouveau Dollar Taïwanais (NT$)
+STR_5762    :Yuan Chinois (CN{YEN})
+STR_5763    :Tout les fichiers
 
 #############
 # Scenarios #
@@ -4075,19 +4075,19 @@ STR_5763    :All files
 # RCT Original #
 ################
 <Forest Frontiers>
-STR_SCNR    :Forest Frontiers
-STR_PARK    :Forest Frontiers
-STR_DTLS    :Deep in the forest, build a thriving theme park in a large cleared area
+STR_SCNR    :Frontières Forestières
+STR_PARK    :Frontières Forestières
+STR_DTLS    :Au fond d'une forêt, construisez un parc d'attraction prospère dans une grande surface dégagée
 
 <Dynamite Dunes>
-STR_SCNR    :Dynamite Dunes
-STR_PARK    :Dynamite Dunes
-STR_DTLS    :Built in the middle of the desert, this theme park contains just one roller coaster but has space for expansion
+STR_SCNR    :Dunes Dynamite
+STR_PARK    :Dunes Dynamite
+STR_DTLS    :Construit au milieu du desert, ce parc d'attraction n'a qu'une seule montagne russe mais a de la place d'expansion
 
 <Leafy Lake>
-STR_SCNR    :Leafy Lake
-STR_PARK    :Leafy Lake
-STR_DTLS    :Starting from scratch, build a theme park around a large lake
+STR_SCNR    :Lac Verdoyant
+STR_PARK    :Lac Verdoyant
+STR_DTLS    :A partir de zéro, construisez un parc d'attraction autour d'un grand lac
 
 <Diamond Heights>
 STR_SCNR    :Diamond Heights
@@ -4180,9 +4180,9 @@ STR_PARK    :Thunder Rock
 STR_DTLS    :Thunder Rock stands in the middle of a desert and attracts many tourists - Use the available space to build rides to attract more people
 
 <Mega Park>
-STR_SCNR    :Mega Park
-STR_PARK    :Mega Park
-STR_DTLS    :Just for fun!
+STR_SCNR    :Mega Parc
+STR_PARK    :Mega Parc
+STR_DTLS    :Juste pour le fun!
 
 ## Added Attractions
 <Whispering Cliffs>
@@ -4191,13 +4191,13 @@ STR_PARK    :Whispering Cliffs
 STR_DTLS    :Develop the seaside cliffs into a thriving amusement park
 
 <Three Monkeys Park>
-STR_SCNR    :Three Monkeys Park
-STR_PARK    :Three Monkeys Park
+STR_SCNR    :Parc des Trois Singes
+STR_PARK    :Parc des Trois Singes
 STR_DTLS    :Central to this large developing park is a giant triple-track racing/duelling steel coaster
 
 <Canary Mines>
-STR_SCNR    :Canary Mines
-STR_PARK    :Canary Mines
+STR_SCNR    :Mines Canari
+STR_PARK    :Mines Canari
 STR_DTLS    :This abandoned mine already has the makings of a tourist attraction with its minature railway and a pair of vertical drop roller coasters
 
 <Barony Bridge>
@@ -4231,8 +4231,8 @@ STR_PARK    :Gentle Glen
 STR_DTLS    :The local population prefer gentle and relaxing rides, so it is your job to expand this park to suit their tastes
 
 <Jolly Jungle>
-STR_SCNR    :Jolly Jungle
-STR_PARK    :Jolly Jungle
+STR_SCNR    :Jungle Joviale
+STR_PARK    :Jungle Joviale
 STR_DTLS    :Deep in the jungle lies a large area of land ready to be turned into a theme park
 
 <Hydro Hills>
@@ -4276,14 +4276,14 @@ STR_PARK    :Harmonic Hills
 STR_DTLS    :The local authority won't allow you to build above tree height in this park
 
 <Roman Village>
-STR_SCNR    :Roman Village
-STR_PARK    :Roman Village
-STR_DTLS    :Develop this Roman-themed park by adding rides and roller coasters
+STR_SCNR    :Village Romain
+STR_PARK    :Village Romain
+STR_DTLS    :Développez ce parc à thème romain en y construisant des manèges et montagnes russes
 
 <Swamp Cove>
-STR_SCNR    :Swamp Cove
-STR_PARK    :Swamp Cove
-STR_DTLS    :Built partly on a series of small islands, this park already has a pair of large roller coasters as its centerpiece
+STR_SCNR    :Crique Marécageuse
+STR_PARK    :Crique Marécageuse
+STR_DTLS    :Partiellement construit sur un groupe petites îles, ce parc possède déjà quelques grandes montagnes russes
 
 <Adrenaline Heights>
 STR_SCNR    :Adrenaline Heights
@@ -4291,14 +4291,14 @@ STR_PARK    :Adrenaline Heights
 STR_DTLS    :Build a park to appeal to the high-intensity thrill-seeking local people
 
 <Utopia Park>
-STR_SCNR    :Utopia Park
-STR_PARK    :Utopia Park
-STR_DTLS    :An oasis in the middle of the desert provides an unusual opportunity to build an amusement park
+STR_SCNR    :Parc Utopia
+STR_PARK    :Parc Utopia
+STR_DTLS    :Un oasis au milieu du désert vous procure une occasion insolite de construire un parc d'attraction
 
 <Rotting Heights>
-STR_SCNR    :Rotting Heights
-STR_PARK    :Rotting Heights
-STR_DTLS    :Overgrown and dilapidated, can you resurrect this once-great amusement park?
+STR_SCNR    :Hauteurs Délabrées
+STR_PARK    :Hauteurs Délabrées
+STR_DTLS    :Envahi par la végétation et délabré, pourrez vous ressusciter cet ancien grand parc d'attraction ?
 
 <Fiasco Forest>
 STR_SCNR    :Fiasco Forest
@@ -4326,8 +4326,8 @@ STR_PARK    :Coaster Crazy
 STR_DTLS    :You have limited funds but unlimited time to turn this mountainside area into a vast roller coaster park
 
 <Urban Park>
-STR_SCNR    :Urban Park
-STR_PARK    :Urban Park
+STR_SCNR    :Parc Urbain
+STR_PARK    :Parc Urbain
 STR_DTLS    :A tiny park has done a deal with the nearby town to allow expansion through the town itself
 
 <Geoffrey Gardens>
@@ -4408,9 +4408,9 @@ STR_PARK    :Woodworm Park
 STR_DTLS    :This historical park is only allowed to build older-styled rides
 
 <Icarus Park>
-STR_SCNR    :Icarus Park
-STR_PARK    :Icarus Park
-STR_DTLS    :Develop this alien park to maximize its profit
+STR_SCNR    :Parc Icare
+STR_PARK    :Parc Icare
+STR_DTLS    :Developpez cet parc alien pour maximiser son profit
 
 <Sunny Swamps>
 STR_SCNR    :Sunny Swamps
@@ -4460,17 +4460,17 @@ STR_DTLS    :A large park with a novel transporation system around its edge
 <Pacifica>
 STR_SCNR    :Pacifica
 STR_PARK    :Pacifica
-STR_DTLS    :This large island is all yours to develop as an amusement park
+STR_DTLS    :Cette grande île est tout à vous pour que vous y construisez un parc d'attraction
 
 <Urban Jungle>
-STR_SCNR    :Urban Jungle
-STR_PARK    :Urban Jungle
-STR_DTLS    :A giant abandoned skyscraper is a unique opportunity for a theme park developer
+STR_SCNR    :Jungle Urbaine
+STR_PARK    :Jungle Urbaine
+STR_DTLS    :Un gratte-ciel géant abandonnée est une occasion unique pour un créateur de parc d'attraction
 
 <Terror Town>
-STR_SCNR    :Terror Town
-STR_PARK    :Terror Town
-STR_DTLS    :This urban area is all yours to develop into as an amusement park
+STR_SCNR    :Terreur Ville
+STR_PARK    :Terreur Ville
+STR_DTLS    :Cette zone urbaine est à vous pour que vous y construisez un parc d'attraction
 
 <Megaworld Park>
 STR_SCNR    :Megaworld Park
@@ -4478,14 +4478,14 @@ STR_PARK    :Megaworld Park
 STR_DTLS    :A giant park already packed full of rides needs improving
 
 <Venus Ponds>
-STR_SCNR    :Venus Ponds
-STR_PARK    :Venus Ponds
-STR_DTLS    :On a far-away planet this area of land needs turning into a theme park
+STR_SCNR    :Etangs de Vénus
+STR_PARK    :Etangs de Vénus
+STR_DTLS    :Sur une planête très lointaine, un terrain doit être transformé en parc d'attraction
 
 <Micro Park>
-STR_SCNR    :Micro Park
-STR_PARK    :Micro Park
-STR_DTLS    :Try to create the world's smallest profitable park
+STR_SCNR    :Micro Parc
+STR_PARK    :Micro Parc
+STR_DTLS    :Essayez de créer le plus petit parc profitable du monde
 
 ## Real Parks from RCT1
 # None of them had details
@@ -4507,8 +4507,8 @@ STR_DTLS    :
 ## Misc parks from RCT1
 # Had no details
 <Fort Anachronism>
-STR_SCNR    :Fort Anachronism
-STR_PARK    :Fort Anachronism
+STR_SCNR    :Fort Anachronisme
+STR_PARK    :Fort Anachronisme
 STR_DTLS    :
 
 #####################
@@ -4519,4 +4519,4 @@ STR_DTLS    :
 [CONDORRD]
 STR_NAME    :Condor Ride
 STR_DESC    :Riding in special harnesses below the track, riders experience the feeling of flight as they swoop through the air in Condor-shaped trains
-STR_CPTY    :4 passengers per car
+STR_CPTY    :4 passagers par voiture
