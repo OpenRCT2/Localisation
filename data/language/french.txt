@@ -18,19 +18,19 @@ STR_0013    :Balade en voiture
 STR_0014    :Chute libre propulsée
 STR_0015    :Bobsleigh
 STR_0016    :Tour d'observation
-STR_0017    :Looping Roller Coaster
-STR_0018    :Dinghy Slide
+STR_0017    :Montagnes russes métalliques
+STR_0018    :Toboggan aquatique
 STR_0019    :Train de la mine
-STR_0020    :Chairlift
-STR_0021    :Corkscrew Roller Coaster
+STR_0020    :Télésiège
+STR_0021    :Montagnes russes en tire-bouchon
 STR_0022    :Labyrinthe
 STR_0023    :Toboggan en spirale
-STR_0024    :Go Karts
-STR_0025    :Log Flume
-STR_0026    :River Rapids
-STR_0027    :Dodgems
-STR_0028    :Bateau pirate
-STR_0029    :Swinging Inverter Ship
+STR_0024    :Karting
+STR_0025    :Descente en Bûches
+STR_0026    :Bouées Aquatiques
+STR_0027    :Autos Tamponneuses
+STR_0028    :Bateau à Bascule
+STR_0029    :Bateau Renverseur
 STR_0030    :Stand de nourriture
 STR_0031    :Stand inconnu (1D)
 STR_0032    :Stand de boissons
@@ -38,19 +38,19 @@ STR_0033    :Stand inconnu (1F)
 STR_0034    :Boutique
 STR_0035    :Carrousel
 STR_0036    :Stand inconnu (22)
-STR_0037    :Kiosque d'information
+STR_0037    :Kiosque d'informations
 STR_0038    :Toilettes
-STR_0039    :Grande roue
+STR_0039    :Grande Roue
 STR_0040    :Simulateur de mouvements
 STR_0041    :Cinéma 3D
 STR_0042    :Top Spin
 STR_0043    :Anneaux de l'espace
-STR_0044    :Reverse Freefall Coaster
+STR_0044    :Chute Libre Renversée
 STR_0045    :Ascenseur
 STR_0046    :Vertical Drop Roller Coaster
-STR_0047    :Distributeur de monnaie
+STR_0047    :Distributeur d'argent
 STR_0048    :Twist
-STR_0049    :Maison hantée
+STR_0049    :Maison Hantée
 STR_0050    :Infirmerie
 STR_0051    :Spectacle de cirque
 STR_0052    :Train fantôme
@@ -58,7 +58,7 @@ STR_0053    :Steel Twister Roller Coaster
 STR_0054    :Montagnes russes en bois
 STR_0055    :Side-Friction Roller Coaster
 STR_0056    :Souris sauvage
-STR_0057    :Multi-Dimension Roller Coaster
+STR_0057    :Montagnes russes multidimensionnelles
 STR_0058    :Manège Inconnu (38)
 STR_0059    :Montagnes russes volantes
 STR_0060    :Manège Inconnu (3A)
@@ -73,16 +73,16 @@ STR_0068    :Heartline Twister Coaster
 STR_0069    :Mini-golf
 STR_0070    :Giga Coaster
 STR_0071    :Roto-Drop
-STR_0072    :Flying Saucers
-STR_0073    :Maison bizarre
+STR_0072    :Soucoupes Volantes
+STR_0073    :Maison du Rire
 STR_0074    :Monorail Cycles
 STR_0075    :Compact Inverted Coaster
-STR_0076    :Water Coaster
+STR_0076    :Montagnes russes Aquatiques
 STR_0077    :Air Powered Vertical Coaster
 STR_0078    :Inverted Hairpin Coaster
-STR_0079    :Tapis volant
+STR_0079    :Tapis Volant
 STR_0080    :Balade sous-marine
-STR_0081    :River Rafts
+STR_0081    :Balade en Bateaux
 STR_0082    :Manège Inconnu (50)
 STR_0083    :Enterprise
 STR_0084    :Manège Inconnu (52)
@@ -1096,7 +1096,7 @@ STR_1089    :Berserk mode
 STR_1090    :Mode maison hantée
 STR_1091    :Mode spectacle de cirque
 STR_1092    :Downward launch
-STR_1093    :Mode maison biscornue
+STR_1093    :Mode maison du rire
 STR_1094    :Mode chute libre
 STR_1095    :Continuous circuit block sectioned mode
 STR_1096    :Lancement (sans passage de la station)
@@ -1443,7 +1443,7 @@ STR_1436    :Dans {STRINGID}
 STR_1437    :A {STRINGID}
 STR_1438    :Est assis
 STR_1439    :(select location)
-STR_1440    :Tond le gazon
+STR_1440    :Tond la pelouse
 STR_1441    :Balaye l'allée
 STR_1442    :Vide la poubelle
 STR_1443    :Arrose les jardins
@@ -1460,7 +1460,7 @@ STR_1453    :Entrez un nom pour ce visiteur:
 STR_1454    :Impossible de nommer le visiteur...
 STR_1455    :Nom de visiteur invalide
 STR_1456    :{WINDOW_COLOUR_2}Argent dépensé: {BLACK}{CURRENCY2DP}
-STR_1457    :{WINDOW_COLOUR_2}Argent dans la poche: {BLACK}{CURRENCY2DP}
+STR_1457    :{WINDOW_COLOUR_2}Argent en poche: {BLACK}{CURRENCY2DP}
 STR_1458    :{WINDOW_COLOUR_2}Temps dans le parc: {BLACK}{REALTIME}
 STR_1459    :Type de voie
 STR_1460    :{SMALLFONT}{BLACK}Voie ouverte en forme de 'U'
@@ -1654,8 +1654,8 @@ STR_1647    :
 STR_1648    :{SMALLFONT}{OPENQUOTES}À l'aide! Déposez-moi!{ENDQUOTES}
 STR_1649    :{SMALLFONT}{OPENQUOTES}Je n'ai plus d'argent!{ENDQUOTES}
 STR_1650    :{SMALLFONT}{OPENQUOTES}Wow! Une nouvelle attraction en cours de construction!{ENDQUOTES}
-STR_1651    :{SMALLFONT}{OPENQUOTES}Super attraction! Mais pas aussi bien que le Phoenix...{ENDQUOTES}
-STR_1652    :{SMALLFONT}{OPENQUOTES}Je suis tellement excité - C'est une attraction Intamin!{ENDQUOTES}
+STR_1651    :{SMALLFONT}{OPENQUOTES}Super attraction !{ENDQUOTES}
+STR_1652    :{SMALLFONT}{OPENQUOTES}Je suis tellement excité !{ENDQUOTES}
 STR_1653    :{SMALLFONT}{OPENQUOTES}...et là nous sommes sur {STRINGID}!{ENDQUOTES}
 STR_1654    :{WINDOW_COLOUR_2}Pensées récentes:
 STR_1655    :{SMALLFONT}{BLACK}Construire un chemin sur le terrain
@@ -1677,9 +1677,9 @@ STR_1670    :{WINDOW_COLOUR_2}Total de clients: {BLACK}{COMMA32}
 STR_1671    :{WINDOW_COLOUR_2}Profit total: {BLACK}{CURRENCY2DP}
 STR_1672    :Freins
 STR_1673    :Spinning Control Toggle Track
-STR_1674    :Vitesse des freins
+STR_1674    :Vitesse de freinage
 STR_1675    :{POP16}{VELOCITY}
-STR_1676    :{SMALLFONT}{BLACK}Définir la limite de vitesse pour les freins
+STR_1676    :{SMALLFONT}{BLACK}Définir la limite de vitesse de freinage
 STR_1677    :{WINDOW_COLOUR_2}Popularité: {BLACK}Inconnue
 STR_1678    :{WINDOW_COLOUR_2}Popularité: {BLACK}{COMMA16}%
 STR_1679    :Hélice montante (gauche)
@@ -1700,8 +1700,8 @@ STR_1693    :{SMALLFONT}{BLACK}Visiteurs
 STR_1694    :{SMALLFONT}{BLACK}Personnel
 STR_1695    :{SMALLFONT}{BLACK}Profit et coûts
 STR_1696    :{SMALLFONT}{BLACK}Informations sur les clients
-STR_1697    :Impossible de les placer sur une file d'attente
-STR_1698    :Ne peut être placé que sur une file d'attente
+STR_1697    :Impossible de les placer dans une file d'attente
+STR_1698    :Ne peut être placé que dans une file d'attente
 STR_1699    :Trop de personnes en jeu
 STR_1700    :Embaucher un nouvel homme de service
 STR_1701    :Embaucher un nouveau mécanicien
@@ -1718,7 +1718,7 @@ STR_1711    :{WINDOW_COLOUR_1}Êtes-vous sûr de vouloir licencier {STRINGID}?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Balayer les chemins
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Arroser les jardins
 STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Vider les poubelles
-STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Tondre le gazon
+STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Tondre la pelouse
 STR_1716    :Nom du parc non valide
 STR_1717    :Impossible de renommer le parc...
 STR_1718    :Nom du parc
@@ -1932,7 +1932,7 @@ STR_1923    :{SMALLFONT}{BLACK}Didacticiel
 STR_1924    :{SMALLFONT}{BLACK}Quitter
 STR_1925    :Impossible de placer quelqu'un ici...
 STR_1926    :{SMALLFONT}
-STR_1927    :{YELLOW}{STRINGID} s'est cassé
+STR_1927    :{YELLOW}{STRINGID} est tombé en panne
 STR_1928    :{RED}{STRINGID} s'est écrasé!
 STR_1929    :{RED}{STRINGID} n'est toujours pas réparé{NEWLINE}Vérifiez où sont vos mécaniciens et pensez à leur attribuer des zones de patrouilles
 STR_1930    :{SMALLFONT}{BLACK}Activer/Désactiver la surveillance de ce visiteur - (Si la surveillance est activée, les mouvements du visiteur seront annoncés dans la zone de notifications)
@@ -2353,15 +2353,15 @@ STR_2344    :Imperial
 STR_2345    :Metric
 STR_2346    :Display
 STR_2347    :{RED}{STRINGID} has drowned!
-STR_2348    :{SMALLFONT}{BLACK}Show statistics for this staff member
-STR_2349    :{WINDOW_COLOUR_2}Wages: {BLACK}{CURRENCY} per month
-STR_2350    :{WINDOW_COLOUR_2}Employed: {BLACK}{MONTHYEAR}
-STR_2351    :{WINDOW_COLOUR_2}Lawns mown: {BLACK}{COMMA16}
+STR_2348    :{SMALLFONT}{BLACK}Montrer les statistiques pour cet employé
+STR_2349    :{WINDOW_COLOUR_2}Salaires: {BLACK}{CURRENCY} par mois
+STR_2350    :{WINDOW_COLOUR_2}Embauché le: {BLACK}{MONTHYEAR}
+STR_2351    :{WINDOW_COLOUR_2}Pelouses tondues: {BLACK}{COMMA16}
 STR_2352    :{WINDOW_COLOUR_2}Gardens watered: {BLACK}{COMMA16}
-STR_2353    :{WINDOW_COLOUR_2}Litter swept: {BLACK}{COMMA16}
-STR_2354    :{WINDOW_COLOUR_2}Bins emptied: {BLACK}{COMMA16}
-STR_2355    :{WINDOW_COLOUR_2}Rides fixed: {BLACK}{COMMA16}
-STR_2356    :{WINDOW_COLOUR_2}Rides inspected: {BLACK}{COMMA16}
+STR_2353    :{WINDOW_COLOUR_2}Déchets balayés: {BLACK}{COMMA16}
+STR_2354    :{WINDOW_COLOUR_2}Poubelles vidées: {BLACK}{COMMA16}
+STR_2355    :{WINDOW_COLOUR_2}Attractions réparées: {BLACK}{COMMA16}
+STR_2356    :{WINDOW_COLOUR_2}Attractions vérifiées: {BLACK}{COMMA16}
 STR_2357    :House
 STR_2358    :Units
 STR_2359    :Real Values
@@ -2373,16 +2373,16 @@ STR_2364    :{SMALLFONT}{BLACK}Toggle gridlines on landscape on/off
 STR_2365    :The bank refuses to increase your loan!
 STR_2366    :Celsius ({DEGREE}C)
 STR_2367    :Fahrenheit ({DEGREE}F)
-STR_2368    :None
-STR_2369    :Low
-STR_2370    :Average
-STR_2371    :High
-STR_2372    :Low
-STR_2373    :Medium
-STR_2374    :High
-STR_2375    :Very high
-STR_2376    :Extreme
-STR_2377    :Ultra-Extreme
+STR_2368    :Aucun
+STR_2369    :Bas
+STR_2370    :Moyen
+STR_2371    :Haut
+STR_2372    :Bas
+STR_2373    :Moyen
+STR_2374    :Elevé
+STR_2375    :Très élevé
+STR_2376    :Extrême
+STR_2377    :Extrêmissime
 STR_2378    :{SMALLFONT}{BLACK}Adjust smaller area of land
 STR_2379    :{SMALLFONT}{BLACK}Adjust larger area of land
 STR_2380    :{SMALLFONT}{BLACK}Adjust smaller area of water
@@ -2391,25 +2391,25 @@ STR_2382    :Land
 STR_2383    :Water
 STR_2384    :{WINDOW_COLOUR_2}Votre objectif:
 STR_2385    :{BLACK}Aucun
-STR_2386    :{BLACK}To have at least {COMMA16} guests in your park at the end of {MONTHYEAR}, with a park rating of at least 600
-STR_2387    :{BLACK}To achieve a park value of at least {POP16}{POP16}{CURRENCY} at the end of {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}
-STR_2388    :{BLACK}Have Fun!
-STR_2389    :{BLACK}Build the best {STRINGID} you can!
-STR_2390    :{BLACK}To have 10 different types of roller coasters operating in your park, each with an excitement value of at least 6.00
-STR_2391    :{BLACK}To have at least {COMMA16} guests in your park. You must not let the park rating drop below 700 at any time!
-STR_2392    :{BLACK}Obtenir un revenu mensuel avec les tickets d'attraction d'au moins {POP16}{POP16}{CURRENCY}
-STR_2393    :{BLACK}To have 10 different types of roller coasters operating in your park, each with a minimum length of {LENGTH}, and an excitement rating of at least 7.00
+STR_2386    :{BLACK}Avoir au moins {COMMA16} visiteurs dans votre parc le {MONTHYEAR}, avec une notation d'au moins 600
+STR_2387    :{BLACK}Obtenir une notation du parc d'au moins {POP16}{POP16}{CURRENCY} le {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}
+STR_2388    :{BLACK}Amusez-vous !
+STR_2389    :{BLACK}Construire le meilleur {STRINGID} que vous pouvez !
+STR_2390    :{BLACK}Avoir 10 types differents de montagnes russes dans votre parc, chacune ayant un taux d'excitation d'au-moins 6.00
+STR_2391    :{BLACK}Avoir au moins {COMMA16} visiteurs dans votre parc. Votre notation ne doit jamais passer en-dessous de 700 !
+STR_2392    :{BLACK}Obtenir un revenu mensuel avec les tickets d'attractions d'au moins {POP16}{POP16}{CURRENCY}
+STR_2393    :{BLACK}Avoir 10 types differents de montagnes russes dans votre parc, chacune ayant une longueur minimum de {LENGTH}, et un taux d'excitation d'au-moins 7.00
 STR_2394    :{BLACK}To finish building all 5 of the partially built roller coasters in this park, designing them to achieve excitement ratings of at least {POP16}{POP16}{COMMA2DP32} each
-STR_2395    :{BLACK}To repay your loan and achieve a park value of at least {POP16}{POP16}{CURRENCY}
-STR_2396    :{BLACK}To achieve a monthly profit from food, drink and merchandise sales of at least {POP16}{POP16}{CURRENCY}
+STR_2395    :{BLACK}Rembourser votre emprunt et obtenir une notation d'au-moins {POP16}{POP16}{CURRENCY}
+STR_2396    :{BLACK}Obtenir un revenu mensuel de nourriture, boissons et souvenirs d'au-moins {POP16}{POP16}{CURRENCY}
 STR_2397    :Aucun
-STR_2398    :Number of guests at a given date
-STR_2399    :Park value at a given date
-STR_2400    :Have fun
-STR_2401    :Build the best ride you can
-STR_2402    :Build 10 roller coasters
-STR_2403    :Number of guests in park
-STR_2404    :Monthly income from ride tickets
+STR_2398    :Nombre de visiteurs à une date donnée
+STR_2399    :Valeur du parc à une date donnée
+STR_2400    :Amusez-vous !
+STR_2401    :Construire la meilleure attraction que vous pouvez.
+STR_2402    :Constuire 10 montagnes russes
+STR_2403    :Nombre de visiteurs dans le parc
+STR_2404    :Revenu mensuel par attraction
 STR_2405    :Build 10 roller coasters of a given length
 STR_2406    :Finish building 5 roller coasters
 STR_2407    :Repay loan and achieve a given park value
@@ -4077,42 +4077,42 @@ STR_5763    :Tout les fichiers
 <Forest Frontiers>
 STR_SCNR    :Frontières Forestières
 STR_PARK    :Frontières Forestières
-STR_DTLS    :Au fond d'une forêt, construisez un parc d'attraction prospère dans une grande surface dégagée
+STR_DTLS    :Au fond d'une forêt, construisez un parc d'attractions prospère dans une grande surface dégagée
 
 <Dynamite Dunes>
 STR_SCNR    :Dunes Dynamite
 STR_PARK    :Dunes Dynamite
-STR_DTLS    :Construit au milieu du desert, ce parc d'attraction n'a qu'une seule montagne russe mais a de la place d'expansion
+STR_DTLS    :Construit au milieu du desert, ce parc d'attractions n'a qu'une seule montagne russe mais de la place pour s'étendre
 
 <Leafy Lake>
 STR_SCNR    :Lac Verdoyant
 STR_PARK    :Lac Verdoyant
-STR_DTLS    :A partir de zéro, construisez un parc d'attraction autour d'un grand lac
+STR_DTLS    :A partir de rien, construisez un parc d'attractions autour d'un grand lac
 
 <Diamond Heights>
 STR_SCNR    :Diamond Heights
 STR_PARK    :Diamond Heights
-STR_DTLS    :Diamond Heights is already a successful theme park with great rides - develop it to double its value
+STR_DTLS    :Diamond Heights est déjà un parc d'attractions florissant avec de grandes attractions. Développez le pour doubler sa valeur !
 
 <Evergreen Gardens>
 STR_SCNR    :Evergreen Gardens
 STR_PARK    :Evergreen Gardens
-STR_DTLS    :Convert the beautiful Evergreen Gardens into a thriving theme park
+STR_DTLS    :Transformez les magnifiques jardins d'Evergreen en un parc d'attractions prospère
 
 <Bumbly Beach>
 STR_SCNR    :Bumbly Beach
 STR_PARK    :Bumbly Beach
-STR_DTLS    :Develop Bumbly Beach's small amusement park into a thriving theme park
+STR_DTLS    :Développez le petit parc de Bumbly Beach's en un fabuleux parc d'attractions
 
 <Trinity Islands>
 STR_SCNR    :Trinity Islands
 STR_PARK    :Trinity Islands
-STR_DTLS    :Several islands form the basis for this new park
+STR_DTLS    :Plusieurs îles forment le terrain de ce nouveau parc
 
 <Katie's Dreamland>
 STR_SCNR    :Katie's Dreamland
 STR_PARK    :Katie's Dreamland
-STR_DTLS    :A small theme park with a few rides and room for expansion - Your aim is to double the park value
+STR_DTLS    :Un petit parc à thème avec quelques attractions et de la place pour se développer- Vous devez doubler sa valeur
 
 <Pokey Park>
 STR_SCNR    :Pokey Park
@@ -4298,7 +4298,7 @@ STR_DTLS    :Un oasis au milieu du désert vous procure une occasion insolite de
 <Rotting Heights>
 STR_SCNR    :Hauteurs Délabrées
 STR_PARK    :Hauteurs Délabrées
-STR_DTLS    :Envahi par la végétation et délabré, pourrez vous ressusciter cet ancien grand parc d'attraction ?
+STR_DTLS    :Envahi par la végétation et délabré, pourrez vous ressusciter cet ancien grand parc d'attractions ?
 
 <Fiasco Forest>
 STR_SCNR    :Fiasco Forest
@@ -4460,27 +4460,27 @@ STR_DTLS    :A large park with a novel transporation system around its edge
 <Pacifica>
 STR_SCNR    :Pacifica
 STR_PARK    :Pacifica
-STR_DTLS    :Cette grande île est tout à vous pour que vous y construisez un parc d'attraction
+STR_DTLS    :Cette grande île est tout à vous pour que vous y construisez un parc d'attractions
 
 <Urban Jungle>
 STR_SCNR    :Jungle Urbaine
 STR_PARK    :Jungle Urbaine
-STR_DTLS    :Un gratte-ciel géant abandonnée est une occasion unique pour un créateur de parc d'attraction
+STR_DTLS    :Un gratte-ciel géant abandonné est une occasion unique pour un créateur de parc d'attractions
 
 <Terror Town>
 STR_SCNR    :Terreur Ville
 STR_PARK    :Terreur Ville
-STR_DTLS    :Cette zone urbaine est à vous pour que vous y construisez un parc d'attraction
+STR_DTLS    :Cette zone urbaine est à vous pour que vous y construisez un parc d'attractions
 
 <Megaworld Park>
 STR_SCNR    :Megaworld Park
 STR_PARK    :Megaworld Park
-STR_DTLS    :A giant park already packed full of rides needs improving
+STR_DTLS    :Un parc géant avec toutes les attractions disponibles !
 
 <Venus Ponds>
 STR_SCNR    :Etangs de Vénus
 STR_PARK    :Etangs de Vénus
-STR_DTLS    :Sur une planête très lointaine, un terrain doit être transformé en parc d'attraction
+STR_DTLS    :Sur une planête très lointaine, un terrain doit être transformé en parc d'attractions
 
 <Micro Park>
 STR_SCNR    :Micro Parc
