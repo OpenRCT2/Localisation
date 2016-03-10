@@ -1826,8 +1826,8 @@ STR_1820    :{WINDOW_COLOUR_2}Visitantes {STRINGID}
 STR_1821    :{WINDOW_COLOUR_2}Visitantes Pensando {STRINGID}
 STR_1822    :{WINDOW_COLOUR_2}Visitantes Pensando en {POP16}{STRINGID}
 STR_1823    :{SMALLFONT}{BLACK}Muestra los pensamientos de los visitantes sobre esta atracción
-STR_1824    :{SMALLFONT}{BLACK}Mostrar visitantes montados en esta atracción
-STR_1825    :{SMALLFONT}{BLACK}Mostrar visitantes esperando para montarse en esta atracción
+STR_1824    :{SMALLFONT}{BLACK}Mostrar visitantes en esta atracción
+STR_1825    :{SMALLFONT}{BLACK}Mostrar visitantes esperando para subir a esta atracción
 STR_1826    :Estado
 STR_1827    :Popularidad
 STR_1828    :Satisfacción
@@ -1940,7 +1940,7 @@ STR_1932    :{STRINGID} está en {STRINGID}
 STR_1933    :{STRINGID} está en {STRINGID}
 STR_1934    :{STRINGID} ha salido de {STRINGID}
 STR_1935    :{STRINGID} se ha ido del parque
-STR_1936    :{STRINGID} compró {STRINGID}
+STR_1936    :{STRINGID} ha comprado {STRINGID}
 STR_1937    :{SMALLFONT}{BLACK}Muestra información sobre el tema de este mensaje
 STR_1938    :{SMALLFONT}{BLACK}Mostrar vista del visitante
 STR_1939    :{SMALLFONT}{BLACK}Mostrar vista de empleado
@@ -2004,7 +2004,7 @@ STR_1996    :Helado
 STR_1997    :Algodón de Azúcar
 STR_1998    :Lata vacía
 STR_1999    :Basura
-STR_2000    :Empty Burger Box
+STR_2000    :Caja de Hamburguesa Vacía
 STR_2001    :Pizza
 STR_2002    :Cupón
 STR_2003    :Palomitas de Maíz
@@ -2776,8 +2776,8 @@ STR_2767    :Mantener clima
 STR_2768    :Clima cambiante
 STR_2769    :Abrir parque
 STR_2770    :Cerrar parque
-STR_2771    :Slower Gamespeed
-STR_2772    :Faster Gamespeed
+STR_2771    :Bajar velocidad
+STR_2772    :Subir velocidad
 STR_2773    :Ventana
 STR_2774    :Pantalla completa
 STR_2775    :Pantalla completa (escritorio)
@@ -3939,7 +3939,7 @@ STR_5598    :Advertencias sobre los visitantes
 STR_5599    :Visitante se ha perdido
 STR_5600    :Visitante ha abandonado el parque
 STR_5601    :Visitante se ha puesto en la cola de una atracción
-STR_5602    :Visitante se ha montado en una atracción
+STR_5602    :Visitante se ha subido a una atracción
 STR_5603    :Visitante se ha bajado de la atracción
 STR_5604    :Visitante ha comprado algo
 STR_5605    :Visitante ha usado una instalación
