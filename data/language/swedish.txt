@@ -2691,7 +2691,7 @@ STR_2681    :{MEDIUMFONT}{BLACK}Ökar pengarna med {CURRENCY}
 STR_2682    :<not used anymore>
 STR_2683    :<not used anymore>
 STR_2684    :{SMALLFONT}{BLACK}En stor grupp anländer
-STR_2685    :Simpla Brus Parametrar
+STR_2685    :Simpla Brus Inställningar
 STR_2686    :{WINDOW_COLOUR_2}Låg:
 STR_2687    :{WINDOW_COLOUR_2}Hög:
 STR_2688    :{WINDOW_COLOUR_2}Bas Frekvens:
@@ -3641,8 +3641,8 @@ STR_5297    :{SMALLFONT}{BLACK}Öppna parken
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
 STR_5300    :{SMALLFONT}{BLACK}Snabb avskeda personal
-STR_5301    :{MEDIUMFONT}{BLACK}Nollställ ditt lån
-STR_5302    :Nollställ lån
+STR_5301    :{MEDIUMFONT}{BLACK}Återbetala ditt lån
+STR_5302    :Återbetala lån
 STR_5303    :Tillåt byggande i pausat läge
 STR_5304    :Title Sekvens:
 STR_5305    :RollerCoaster Tycoon 1
@@ -3702,15 +3702,15 @@ STR_5358    :{BLACK}Blåsa:
 STR_5359    :Ta bort gäster
 STR_5360    :{SMALLFONT}{BLACK}Tar bort alla gäster från parken
 STR_5361    :Ge alla gäster:
-STR_5362    :{BLACK}Sätter gästernas föredragna åkturs intensitet till:
-STR_5363    :Mer än 1
-STR_5364    :Mindre än 15
+STR_5362    :{BLACK}Gästernas föredragna åkturs intensitet:
+STR_5363    :Mer än 1 (Lågt)
+STR_5364    :Mindre än 15 (Högt)
 STR_5365    :{BLACK}Personal hastighet:
 STR_5366    :Normal
 STR_5367    :Snabb
 STR_5368    :Återställ krash status
-STR_5369    :Park parametrar...
-STR_5370    :{SMALLFONT}{BLACK}Klicka på denna knapp för att modifiera{NEWLINE}park parametrar som begränsningar,{NEWLINE}gäst generering och pengar.
+STR_5369    :Park inställningar...
+STR_5370    :{SMALLFONT}{BLACK}Klicka på denna knapp för att modifiera{NEWLINE}park inställningar som begränsningar,{NEWLINE}gäst generering och pengar.
 STR_5371    :Objekt väljare
 STR_5372    :Invertera höger mus dragning
 STR_5373    :Namn {STRINGID}
@@ -3780,31 +3780,31 @@ STR_5436    :Redigera titel sekvens...
 STR_5437    :Ingen sparfil vald
 STR_5438    :Kan inte göra ändringar medan kommando redigeraren är öppen
 STR_5439    :Ett wait kommando med åtminstone 4 sekunder krävs för ett restart kommando
-STR_5440    :Minimera fullskärm vid tappad fokus ***
-STR_5441    :{SMALLFONT}{BLACK}Identifies rides by track type,{NEWLINE}so vehicles can be changed{NEWLINE}afterwards, like in RCT1.
+STR_5440    :Minimera fullskärm vid tappad fokus
+STR_5441    :{SMALLFONT}{BLACK}Identifera åkturer via spår typ,{NEWLINE}så vagnar kan bli ändrade{NEWLINE}efteråt, som i RCT1.***
 STR_5442    :Tvinga park betyg:
-STR_5443    :Speed{MOVE_X}{87}{STRINGID}
+STR_5443    :Hastighet{MOVE_X}{87}{STRINGID}
 STR_5444    :Hastighet:
 STR_5445    :Hastighet
 STR_5446    :Få
 STR_5447    :Typ {STRINGID}
-STR_5448    :Ride / Vehicle {STRINGID}
-STR_5449    :Reduce game speed
-STR_5450    :Increase game speed
-STR_5451    :Open cheats window
+STR_5448    :Åktur / Fordon {STRINGID}
+STR_5449    :Minska spel hastigheten
+STR_5450    :Öka spel hastigheten
+STR_5451    :Öppna fusk fönstret
 STR_5452    :Toggle visibility of toolbars
 STR_5453    :Select another ride
 STR_5454    :Lås upp FPS
-STR_5455    :Enable sandbox mode
+STR_5455    :Aktivera sandlåds läge
 STR_5456    :Disable clearance checks
 STR_5457    :Disable support limits
 STR_5458    :Rotatera klockvis
 STR_5459    :Rotate anti-clockwise
 STR_5460    :Rotate view anti-clockwise
-STR_5461    :Set guests' parameters
+STR_5461    :Gästernas inställningar
 STR_5462    :{CURRENCY}
 STR_5463    :Mål: Ha kul!
-STR_5464    :General
+STR_5464    :Allmänt
 STR_5465    :Klimat
 STR_5466    :Personal
 STR_5467    :ALT + 
@@ -3846,7 +3846,7 @@ STR_5502    :Flerspelare
 STR_5503    :Enter hostname or IP address:
 STR_5504    :{SMALLFONT}{BLACK}Show multiplayer status
 STR_5505    :Kunde inte ansluta till servern.
-STR_5506    :Guests ignore intensities
+STR_5506    :Gästerna igronerar intensivitetnivån
 STR_5507    :Handymen mow grass by default
 STR_5508    :Allow loading files with incorrect checksums
 STR_5509    :{SMALLFONT}{BLACK}Allows loading scenarios and saves that have an incorrect checksum, like the scenarios from the demo or damaged saves.
