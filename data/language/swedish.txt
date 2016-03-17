@@ -3831,8 +3831,8 @@ STR_5487    :{SMALLFONT}{BLACK}Visa nyliga meddelanden
 STR_5488    :Ingen ingång (OpenRCT2 endast!)
 STR_5489    :{SMALLFONT}{BLACK}Show only tracked guests
 STR_5490    :Disable audio on focus loss
-STR_5491    :Inventions list
-STR_5492    :Scenario options
+STR_5491    :Uppfinning list
+STR_5492    :Scenario inställningar
 STR_5493    :Skicka Meddelande
 STR_5494    :<not used anymore>
 STR_5495    :Spelar Lista
@@ -3843,14 +3843,14 @@ STR_5499    :Spelarens Namn:
 STR_5500    :Lägg till server
 STR_5501    :Starta en server
 STR_5502    :Flerspelare
-STR_5503    :Enter hostname or IP address:
+STR_5503    :Skriv in ägarens namn eller IP adressen:
 STR_5504    :{SMALLFONT}{BLACK}Show multiplayer status
 STR_5505    :Kunde inte ansluta till servern.
 STR_5506    :Gästerna igronerar intensivitetnivån
-STR_5507    :Handymen mow grass by default
+STR_5507    :Vaktmästare klipper gräs
 STR_5508    :Allow loading files with incorrect checksums
 STR_5509    :{SMALLFONT}{BLACK}Allows loading scenarios and saves that have an incorrect checksum, like the scenarios from the demo or damaged saves.
-STR_5510    :Default sound device
+STR_5510    :Standard ljuduppspelningen
 STR_5511    :(UNKNOWN)
 STR_5512    :Spara Spelet som
 STR_5513    :(Snabb) spara spelet
@@ -3922,14 +3922,14 @@ STR_5578    :Rysk Rouble (R)
 STR_5579    :Window scale factor:
 STR_5580    :Czech koruna (Kc)
 STR_5581    :Visa FPS
-STR_5582    :Trap mouse cursor in window
+STR_5582    :Behåll muspekaren i spelet
 STR_5583    :{COMMA1DP16}ms{POWERNEGATIVEONE}
 STR_5584    :SI
 STR_5585    :{SMALLFONT}{BLACK}Unlocks ride operation limits, allowing for things like {VELOCITY} lift hills
 STR_5586    :Automatiskt öppna butiker och kiosker
 STR_5587    :{SMALLFONT}{BLACK}When enabled, shops and stalls will be automatically opened after building them
 STR_5588    :{SMALLFONT}{BLACK}Spela med andra spelare
-STR_5589    :Notification Settings
+STR_5589    :Notifikations Inställningar
 STR_5590    :Park priser
 STR_5591    :Marketing campaign has finished
 STR_5592    :Park varningar
@@ -3965,13 +3965,13 @@ STR_5621    :Loopy Landscapes
 STR_5622    :RollerCoaster Tycoon 2
 STR_5623    :Wacky Worlds
 STR_5624    :Time Twister
-STR_5625    :{OPENQUOTES}Real{ENDQUOTES} Parks
+STR_5625    :{OPENQUOTES}Riktiga{ENDQUOTES} Parker
 STR_5626    :Andra parker
-STR_5627    :Group scenario list by:
-STR_5628    :Source game
+STR_5627    :Sortera scenarion via:
+STR_5628    :Spel paket
 STR_5629    :Svårighetsgrad
-STR_5630    :Enable unlocking of scenarios
-STR_5631    :Original DLC Parks
+STR_5630    :Tillåt upplåsning av scenarion
+STR_5631    :Orginal DLC parker
 STR_5632    :Bygg din egna...
 STR_5633    :CMD + 
 STR_5634    :OPTION + 
@@ -3997,22 +3997,22 @@ STR_5653    :Scenery
 STR_5654    :Gångväg
 STR_5655    :Gäst
 STR_5656    :Personal
-STR_5657    :Park Properties
-STR_5658    :Park Funding
+STR_5657    :Park Inställningar
+STR_5658    :Park Fonder
 STR_5659    :Sparka ut spelare
-STR_5660    :Modify Groups
-STR_5661    :Set Player Group
+STR_5660    :Modifiera Grupper
+STR_5661    :Sätt Spelar Grupp
 STR_5662    :N/A
-STR_5663    :Clear Landscape
+STR_5663    :Rensa Landskap
 STR_5664    :Fusk
 STR_5701    :{WINDOW_COLOUR_2}Last action: {BLACK}{STRINGID}
 STR_5702    :{SMALLFONT}{BLACK}Locate player's most recent action
-STR_5703    :Can't kick the host
-STR_5704    :Last Action:
-STR_5705    :Can't set to this group
-STR_5706    :Can't remove group that players belong to
-STR_5707    :This group cannot be modified
-STR_5708    :Can't change the group that the host belongs to
+STR_5703    :Kan inte sparka ut ägaren
+STR_5704    :Senaste Handling:
+STR_5705    :Kan inte välja denna grupp
+STR_5706    :Kan inte ta bort grupper spelare finns i
+STR_5707    :Denna grupp kan inte modifieras
+STR_5708    :Kan inte ändra gruppen ägaren är i
 STR_5709    :Döp Om Gruppen
 STR_5710    :Grupp namn
 STR_5711    :Skriv in ett nytt namn för gruppen:
@@ -4032,7 +4032,7 @@ STR_5723    :Spö Regn
 STR_5724    :Åska
 STR_5725    :{BLACK}Tvinga Väder:
 STR_5726    :{SMALLFONT}{BLACK}Sets the current weather in park
-STR_5727    :Scaling quality
+STR_5727    :Skalnings kvalité
 STR_5728    :Requires hardware display option
 STR_5729    :{SMALLFONT}{BLACK}Requires hardware display option
 STR_5730    :Nearest neighbour
@@ -4041,27 +4041,27 @@ STR_5732    :Anisotropic
 STR_5733    :Use NN scaling at integer scales
 # tooltip for tab in options window
 STR_5734    :{SMALLFONT}{BLACK}Rendering
-STR_5735    :Nätverks status
+STR_5735    :Nätverksstatus
 STR_5736    :Spelare
-STR_5737    :Closed, {COMMA16} person still on ride
-STR_5738    :Closed, {COMMA16} people still on ride
+STR_5737    :Stängd, {COMMA16} person fortfarande på åkturen
+STR_5738    :Stängd, {COMMA16} personer fortfarande på åkturen
 STR_5739    :{WINDOW_COLOUR_2}Customers on ride: {BLACK}{COMMA16}
 STR_5740    :Never-ending marketing campaigns
 STR_5741    :{SMALLFONT}{BLACK}Marketing campaigns never end
-STR_5742    :Authenticating ...
+STR_5742    :Verifierar ...
 STR_5743    :Ansluter ...
-STR_5744    :Resolving ...
-STR_5745    :Nätverks O-sync Hittad
-STR_5746    :Disconnected
-STR_5747    :Disconnected: {STRING}
+STR_5744    :Laddar ...
+STR_5745    :Du är o-synkad från servern  
+STR_5746    :Frånkopplad
+STR_5747    :Frånkopplad: {STRING}
 STR_5748    :Sparkad
 STR_5749    :Ut ur servern!
-STR_5750    :Connection Closed
+STR_5750    :Anslutningen är avslutad
 STR_5751    :Ingen Data
-STR_5752    :{OUTLINE}{RED}{STRING} has disconnected
-STR_5753    :{OUTLINE}{RED}{STRING} has disconnected ({STRING})
-STR_5754    :Bad Player Name
-STR_5755    :Incorrect Software Version
+STR_5752    :{OUTLINE}{RED}{STRING} har lämnat
+STR_5753    :{OUTLINE}{RED}{STRING} har lämnat ({STRING})
+STR_5754    :Ogiltigt Spelar Namn
+STR_5755    :Fel version av OpenRCT
 STR_5756    :Fel Lösenord
 STR_5757    :Server Full
 STR_5758    :{OUTLINE}{GREEN}{STRING} har anslutit till spelet
@@ -4070,13 +4070,13 @@ STR_5760    :Hong Kong Dollar (HK$)
 STR_5761    :New Taiwan Dollar (NT$)
 STR_5762    :Kinesiska Yuan (CN{YEN})
 STR_5763    :Alla filer
-STR_5764    :Invalid ride type
-STR_5765    :Cannot edit rides of invalid type
+STR_5764    :Ogilltig åkturs typ
+STR_5765    :Kan inte redigera åkturer av okända typer
 STR_5766    :<available string id>
 STR_5767    :Inkomst
-STR_5768    :Total customers
-STR_5769    :Total profit
-STR_5770    :Customers per hour
+STR_5768    :Totala kunder
+STR_5769    :Totala vinst
+STR_5770    :Kunder per timme
 STR_5771    :Driftskostnad
 STR_5772    :Ålder
 STR_5773    :Totala kunder: {COMMA32}
@@ -4086,16 +4086,16 @@ STR_5776    :Byggd: Detta år
 STR_5777    :Byggd: Förra året
 STR_5778    :Byggd: {COMMA16} År sen
 STR_5779    :Inkomst: {CURRENCY2DP} per timme
-STR_5780    :Running cost: {CURRENCY2DP} per hour
-STR_5781    :Running cost: Unknown
+STR_5780    :Kör kostnad: {CURRENCY2DP} per timme
+STR_5781    :Kör kostnad: Okänd
 STR_5782    :Du är nu ansluten. Tryck på '{STRING}' för att skriva.
 STR_5783    :{WINDOW_COLOUR_2}Scenario Låst
 STR_5784    :{BLACK}Klara tidigare senarion för att låsa upp denna
-STR_5785    :Can't rename group...
-STR_5786    :Ogiltigt grupp namn
+STR_5785    :Kan inte byta gruppnamn...
+STR_5786    :Ogiltigt gruppnamn
 STR_5787    :{COMMA32} spelare anslutna
-STR_5788    :Default inspection interval:
-STR_5789    :Disable lightning effect
+STR_5788    :Inspektions mellanrum:
+STR_5789    :Avaktivera åsk effekter
 
 #############
 # Scenarios #
