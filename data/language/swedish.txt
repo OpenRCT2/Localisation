@@ -3480,7 +3480,7 @@ STR_5136    :Landrättigheter
 STR_5137    :Lås upp körläges gränser
 STR_5138    :{SMALLFONT}{WINDOW_COLOUR_2}{STRINGID}
 STR_5139    :{WHITE}{STRINGID}
-STR_5140    :Avaktivera bromsfel
+STR_5140    :Avaktivera broms haverin
 STR_5141    :Avaktivera alla haverin
 STR_5142    :Normal Hastighet
 STR_5143    :Kvick Hastighet
@@ -3517,7 +3517,7 @@ STR_5173    :Använd Twitch chatten som nyheter
 STR_5174    :{SMALLFONT}{BLACK}Kommer använda Twitch chattens meddelanden följt med !nyheter som nofitikationer i spelet
 STR_5175    :Skriv in namnet på Twitch kanalen
 STR_5176    :Aktivera Twitch fuktionen
-STR_5177    :Fullskärms läge:
+STR_5177    :Skärmlägen:
 STR_5178    :{SMALLFONT}{BLACK}Visa ekonomiska fusk
 STR_5179    :{SMALLFONT}{BLACK}Visa gäst fusk
 STR_5180    :{SMALLFONT}{BLACK}Visa park fusk
@@ -3605,7 +3605,7 @@ STR_5261    :Filter
 STR_5262    :Wacky Worlds
 STR_5263    :Time Twister
 STR_5264    :Egna
-STR_5265    :{SMALLFONT}{BLACK}Select which content sources are visible
+STR_5265    :{SMALLFONT}{BLACK}Select which content sources are visible***
 STR_5266    :{SMALLFONT}{BLACK}Skärm
 STR_5267    :{SMALLFONT}{BLACK}Kultur och Enhet
 STR_5268    :{SMALLFONT}{BLACK}Ljud
@@ -3644,7 +3644,7 @@ STR_5300    :{SMALLFONT}{BLACK}Snabb avskeda personal
 STR_5301    :{MEDIUMFONT}{BLACK}Återbetala ditt lån
 STR_5302    :Återbetala lån
 STR_5303    :Tillåt byggande i pausat läge
-STR_5304    :Title Sekvens:
+STR_5304    :Titel Sekvens:
 STR_5305    :RollerCoaster Tycoon 1
 STR_5306    :RollerCoaster Tycoon 1 (AA)
 STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
@@ -3796,11 +3796,11 @@ STR_5452    :Toggle visibility of toolbars
 STR_5453    :Select another ride
 STR_5454    :Lås upp FPS
 STR_5455    :Aktivera sandlåds läge
-STR_5456    :Disable clearance checks
-STR_5457    :Disable support limits
-STR_5458    :Rotatera klockvis
-STR_5459    :Rotate anti-clockwise
-STR_5460    :Rotate view anti-clockwise
+STR_5456    :Placera föremål på varandra
+STR_5457    :Avaktivera Stödplar Gränserna
+STR_5458    :Rotatera medurs
+STR_5459    :Rotatera moturs
+STR_5460    :Rotera vyn moturs
 STR_5461    :Gästernas inställningar
 STR_5462    :{CURRENCY}
 STR_5463    :Mål: Ha kul!
@@ -3809,18 +3809,18 @@ STR_5465    :Klimat
 STR_5466    :Personal
 STR_5467    :ALT + 
 STR_5468    :Nyliga meddelanden
-STR_5469    :Scroll map up
-STR_5470    :Scroll map left
-STR_5471    :Scroll map down
-STR_5472    :Scroll map right
-STR_5473    :Cycle day / night
-STR_5474    :Display text on banners in upper case
-STR_5475    :{COMMA16} weeks
+STR_5469    :Skrolla kartan upp
+STR_5470    :Skrolla kartan vänster
+STR_5471    :Skrolla kartan ner
+STR_5472    :Skrolla kartan höger
+STR_5473    :Växla mellan dag / natt
+STR_5474    :Visa text i banderoller med stora bokstäver
+STR_5475    :{COMMA16} veckor
 STR_5476    :Hårdvara
-STR_5477    :Map rendering
+STR_5477    :Rendering
 STR_5478    :Kontroller
-STR_5479    :Toolbar
-STR_5480    :Show toolbar buttons for:
+STR_5479    :Verktygsrad
+STR_5480    :Visa knappar för:
 STR_5481    :Teman
 STR_5482    :{WINDOW_COLOUR_2}Tid sen senaste inspektionen: {BLACK}1 minut
 STR_5483    :{BLACK}({COMMA16} veckor återstår)
@@ -3829,8 +3829,8 @@ STR_5485    :{SMALLFONT}{STRING}
 STR_5486    :{BLACK}{COMMA16}
 STR_5487    :{SMALLFONT}{BLACK}Visa nyliga meddelanden
 STR_5488    :Ingen ingång (OpenRCT2 endast!)
-STR_5489    :{SMALLFONT}{BLACK}Show only tracked guests
-STR_5490    :Disable audio on focus loss
+STR_5489    :{SMALLFONT}{BLACK}Visa endast gäster du följer
+STR_5490    :Stäng av ljudet vid minimerat spel
 STR_5491    :Uppfinning list
 STR_5492    :Scenario inställningar
 STR_5493    :Skicka Meddelande
@@ -3898,7 +3898,7 @@ STR_5554    :{SMALLFONT}{BLACK}Tillåt berg verktyget
 STR_5555    :Visa fordon från andra karuseller
 STR_5556    :{SMALLFONT}{BLACK}Sparka ut spelare
 STR_5557    :Stay connected after desynchronisation (Multiplayer)
-STR_5558    :A restart is required for this setting to take effect
+STR_5558    :En omstart krävs för denna inställning ska gälla
 STR_5559    :10 min. inspektion
 STR_5560    :{SMALLFONT}{BLACK}Sets the inspection time to 'Every 10 minutes' on all rides
 STR_5561    :Misslyckades att ladda språk
@@ -3986,7 +3986,7 @@ STR_5642    :Grupp:
 STR_5643    :Lägg till Grupp
 STR_5644    :Ta bort grupp
 STR_5645    :Chatta
-STR_5646    :Teräng
+STR_5646    :Terräng
 STR_5647    :Pausa
 STR_5648    :Ändra vattennivå
 STR_5649    :Skapa Åktur
