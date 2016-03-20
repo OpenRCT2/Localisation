@@ -3465,7 +3465,8 @@ STR_5121    :Forskning
 STR_5122    :Välj vagnar efter spår typ (som i RCT1)
 STR_5123    :Förnya karuseller
 STR_5124    :<not used anymore>
-STR_5125    :All destructable**
+STR_5125    :All destructable *** 
+#This NEEDS to be changed, really confusing string + add a description (See issue #489 in Localisation)
 STR_5126    :Slumpvald titel musik
 STR_5127    :{SMALLFONT}{BLACK}Måla landskap
 STR_5128    :Välj storlek
@@ -3495,7 +3496,7 @@ STR_5151    :,
 STR_5152    :.
 STR_5153    :Redigera Teman...
 STR_5154    :Hårdvare hanteraren
-STR_5155    :Tillåt testning av oklara spår
+STR_5155    :Tillåt testning av spår som inte är färdiga
 STR_5156    :{SMALLFONT}{BLACK}Tillåter testning av de mesta åkturerna även när spåret är oklart, gäller inte Blockavdelade kontinuerliga banlägen
 STR_5157    :Lås upp alla priser
 STR_5158    :Avsluta till menyn
@@ -3742,7 +3743,7 @@ STR_5398    :Kan inte redigera titel sekvensen medan den körs
 STR_5399    :Klicka på stopp knappen innan du försöker ändra något
 STR_5400    :Kan inte byta denna titel sekvens
 STR_5401    :Skapa en ny titel sekvens att göra ändringar på
-STR_5402    :Misslyckades att ladda titel sekvens
+STR_5402    :Misslyckades att ladda titelsekvens
 STR_5403    :De kanske inte finns något Load eller Wait kommando eller sparfilen är kanske inte giltig
 STR_5404    :Namnet finns redan
 STR_5405    :Skriv in ett namn för sparfilen
@@ -3751,7 +3752,7 @@ STR_5407    :Tillägg
 STR_5408    :Ta bort
 STR_5409    :Lägg till
 STR_5410    :Redigera
-STR_5411    :Böra 
+STR_5411    :Börja om
 STR_5412    :Skippa till
 STR_5413    :Ladda
 STR_5414    :Load{MOVE_X}{87}Six Flags Magic Mountain.SC6
@@ -3773,15 +3774,15 @@ STR_5429    :Zoom nivå:
 STR_5430    :Sekunder att vänta:
 STR_5431    :Sparfil att ladda:
 STR_5432    :Kommando:
-STR_5433    :Titel Sekvens
+STR_5433    :Titelsekvens
 STR_5434    :Kommando Redigerare
 STR_5435    :Döp om sparat spel
-STR_5436    :Redigera titel sekvens...
+STR_5436    :Redigera titelsekvens...
 STR_5437    :Ingen sparfil vald
 STR_5438    :Kan inte göra ändringar medan kommando redigeraren är öppen
 STR_5439    :Ett wait kommando med åtminstone 4 sekunder krävs för ett restart kommando
 STR_5440    :Minimera fullskärm vid tappad fokus
-STR_5441    :{SMALLFONT}{BLACK}Identifera åkturer via spår typ,{NEWLINE}så vagnar kan bli ändrade{NEWLINE}efteråt, som i RCT1.***
+STR_5441    :{SMALLFONT}{BLACK}Identifera åkturer via spår typ,{NEWLINE}så vagnar kan bli ändrade{NEWLINE}efteråt, som i RCT1.
 STR_5442    :Tvinga park betyg:
 STR_5443    :Hastighet{MOVE_X}{87}{STRINGID}
 STR_5444    :Hastighet:
@@ -3792,8 +3793,8 @@ STR_5448    :Åktur / Fordon {STRINGID}
 STR_5449    :Minska spel hastigheten
 STR_5450    :Öka spel hastigheten
 STR_5451    :Öppna fusk fönstret
-STR_5452    :Toggle visibility of toolbars
-STR_5453    :Select another ride
+STR_5452    :Växla visning av verktysrader  
+STR_5453    :Välj en annan åktur
 STR_5454    :Lås upp FPS
 STR_5455    :Aktivera sandlåds läge
 STR_5456    :Placera föremål på varandra
@@ -3844,15 +3845,15 @@ STR_5500    :Lägg till server
 STR_5501    :Starta en server
 STR_5502    :Flerspelare
 STR_5503    :Skriv in ägarens namn eller IP adressen:
-STR_5504    :{SMALLFONT}{BLACK}Show multiplayer status
+STR_5504    :{SMALLFONT}{BLACK}Visa flerspelar statusen
 STR_5505    :Kunde inte ansluta till servern.
 STR_5506    :Gästerna igronerar intensivitetnivån
 STR_5507    :Vaktmästare klipper gräs
-STR_5508    :Allow loading files with incorrect checksums
-STR_5509    :{SMALLFONT}{BLACK}Allows loading scenarios and saves that have an incorrect checksum, like the scenarios from the demo or damaged saves.
+STR_5508    :Allow loading files with incorrect checksums ***
+STR_5509    :{SMALLFONT}{BLACK}Allows loading scenarios and saves that have an incorrect checksum, like the scenarios from the demo or damaged saves. ***
 STR_5510    :Standard ljuduppspelningen
 STR_5511    :(UNKNOWN)
-STR_5512    :Spara Spelet som
+STR_5512    :Spara dpelet som
 STR_5513    :(Snabb) spara spelet
 STR_5514    :Stäng av skadegörelse
 STR_5515    :{SMALLFONT}{BLACK}Stoppar gäster från att vandalisera parken när de är arga
@@ -3888,7 +3889,7 @@ STR_5544    :{SMALLFONT}{BLACK}Ljus röd
 STR_5545    :{SMALLFONT}{BLACK}Mörk rosa
 STR_5546    :{SMALLFONT}{BLACK}Ljus rosa
 STR_5547    :{SMALLFONT}{BLACK}Lätt rosa
-STR_5548    :Show all operating modes
+STR_5548    :Visa alla körlägen
 STR_5549    :År/Månad/Dag
 STR_5550    :{POP16}{POP16}År {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_5551    :År/Dag/Månad
@@ -3900,14 +3901,14 @@ STR_5556    :{SMALLFONT}{BLACK}Sparka ut spelare
 STR_5557    :Stay connected after desynchronisation (Multiplayer)
 STR_5558    :En omstart krävs för denna inställning ska gälla
 STR_5559    :10 min. inspektion
-STR_5560    :{SMALLFONT}{BLACK}Sets the inspection time to 'Every 10 minutes' on all rides
+STR_5560    :{SMALLFONT}{BLACK}Sätter inspektions tiden till 'Var 10 minut' på alla åkturer
 STR_5561    :Misslyckades att ladda språk
 STR_5562    :VARNING!
 STR_5563    :Denna funktion är i nuläget ostabil, använd med försiktighet.
-STR_5564    :Insert Corrupt Element
-STR_5565    :{SMALLFONT}{BLACK}Inserts a corrupt map element at top of tile. This will hide any element above the corrupt element.
+STR_5564    :Insert Corrupt Element***
+STR_5565    :{SMALLFONT}{BLACK}Inserts a corrupt map element at top of tile. This will hide any element above the corrupt element. **
 STR_5566    :Lösenord:
-STR_5567    :Advertise
+STR_5567    :Visa för alla spelare
 STR_5568    :Lösenord krävs
 STR_5569    :Denna server kräver lösenord
 STR_5570    :Hämta Servrar
@@ -3925,13 +3926,13 @@ STR_5581    :Visa FPS
 STR_5582    :Behåll muspekaren i spelet
 STR_5583    :{COMMA1DP16}ms{POWERNEGATIVEONE}
 STR_5584    :SI
-STR_5585    :{SMALLFONT}{BLACK}Unlocks ride operation limits, allowing for things like {VELOCITY} lift hills
-STR_5586    :Automatiskt öppna butiker och kiosker
-STR_5587    :{SMALLFONT}{BLACK}When enabled, shops and stalls will be automatically opened after building them
+STR_5585    :{SMALLFONT}{BLACK}Unlocks ride operation limits, allowing for things like {VELOCITY} lift hills***
+STR_5586    :Öppna butiker och kiosker automatiskt
+STR_5587    :{SMALLFONT}{BLACK}Om aktiverad, butiker och stånd öppnas automatiskt efter du har byggt dem
 STR_5588    :{SMALLFONT}{BLACK}Spela med andra spelare
 STR_5589    :Notifikations Inställningar
 STR_5590    :Park priser
-STR_5591    :Marketing campaign has finished
+STR_5591    :Marknadskampanj är avslutad
 STR_5592    :Park varningar
 STR_5593    :Park rating warnings
 STR_5594    :Åktur har gått sönder
@@ -4005,8 +4006,8 @@ STR_5661    :Sätt Spelar Grupp
 STR_5662    :N/A
 STR_5663    :Rensa Landskap
 STR_5664    :Fusk
-STR_5701    :{WINDOW_COLOUR_2}Last action: {BLACK}{STRINGID}
-STR_5702    :{SMALLFONT}{BLACK}Locate player's most recent action
+STR_5701    :{WINDOW_COLOUR_2}Senaste handling: {BLACK}{STRINGID}
+STR_5702    :{SMALLFONT}{BLACK}Visa spelarens senaste handling
 STR_5703    :Kan inte sparka ut ägaren
 STR_5704    :Senaste Handling:
 STR_5705    :Kan inte välja denna grupp
@@ -4031,31 +4032,31 @@ STR_5722    :Regn
 STR_5723    :Spö Regn
 STR_5724    :Åska
 STR_5725    :{BLACK}Tvinga Väder:
-STR_5726    :{SMALLFONT}{BLACK}Sets the current weather in park
+STR_5726    :{SMALLFONT}{BLACK}Sätter vädret i parken
 STR_5727    :Skalnings kvalité
-STR_5728    :Requires hardware display option
-STR_5729    :{SMALLFONT}{BLACK}Requires hardware display option
+STR_5728    :Kräver att Hårdvare hanteraren är bockad ***
+STR_5729    :{SMALLFONT}{BLACK}Kräver att Hårdvare hanteraren är bockad
 STR_5730    :Nearest neighbour
-STR_5731    :Linear
+STR_5731    :Linjär
 STR_5732    :Anisotropic
-STR_5733    :Use NN scaling at integer scales
+STR_5733    :Använd NN skalning vid integer scales
 # tooltip for tab in options window
 STR_5734    :{SMALLFONT}{BLACK}Rendering
 STR_5735    :Nätverksstatus
 STR_5736    :Spelare
 STR_5737    :Stängd, {COMMA16} person fortfarande på åkturen
 STR_5738    :Stängd, {COMMA16} personer fortfarande på åkturen
-STR_5739    :{WINDOW_COLOUR_2}Customers on ride: {BLACK}{COMMA16}
-STR_5740    :Never-ending marketing campaigns
-STR_5741    :{SMALLFONT}{BLACK}Marketing campaigns never end
+STR_5739    :{WINDOW_COLOUR_2}Kunder på åktur: {BLACK}{COMMA16}
+STR_5740    :Oändliga kampanjer
+STR_5741    :{SMALLFONT}{BLACK}Marknadskampanjer slutar aldrig
 STR_5742    :Verifierar ...
 STR_5743    :Ansluter ...
 STR_5744    :Laddar ...
-STR_5745    :Du är o-synkad från servern  
+STR_5745    :Du är inte i sync med servern  
 STR_5746    :Frånkopplad
 STR_5747    :Frånkopplad: {STRING}
-STR_5748    :Sparkad
-STR_5749    :Ut ur servern!
+STR_5748    :Utslängd
+STR_5749    :Ut från servern!
 STR_5750    :Anslutningen är avslutad
 STR_5751    :Ingen Data
 STR_5752    :{OUTLINE}{RED}{STRING} har lämnat
