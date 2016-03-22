@@ -3466,7 +3466,7 @@ STR_5122    :Välj vagnar efter spår typ (som i RCT1)
 STR_5123    :Förnya karuseller
 STR_5124    :<not used anymore>
 STR_5125    :All destructable *** 
-#This NEEDS to be changed, really confusing string + add a description (See issue #489 in Localisation)
+#This needs to be changed, really confusing string + add a description (See issue #489 in Localisation on github)
 STR_5126    :Slumpvald titel musik
 STR_5127    :{SMALLFONT}{BLACK}Måla landskap
 STR_5128    :Välj storlek
@@ -3606,7 +3606,7 @@ STR_5261    :Filter
 STR_5262    :Wacky Worlds
 STR_5263    :Time Twister
 STR_5264    :Egna
-STR_5265    :{SMALLFONT}{BLACK}Select which content sources are visible***
+STR_5265    :{SMALLFONT}{BLACK}Välj vilket innehåll som ska vara synliga
 STR_5266    :{SMALLFONT}{BLACK}Skärm
 STR_5267    :{SMALLFONT}{BLACK}Kultur och Enhet
 STR_5268    :{SMALLFONT}{BLACK}Ljud
@@ -3645,7 +3645,7 @@ STR_5300    :{SMALLFONT}{BLACK}Snabb avskeda personal
 STR_5301    :{MEDIUMFONT}{BLACK}Återbetala ditt lån
 STR_5302    :Återbetala lån
 STR_5303    :Tillåt byggande i pausat läge
-STR_5304    :Titel Sekvens:
+STR_5304    :Titelsekvens:
 STR_5305    :RollerCoaster Tycoon 1
 STR_5306    :RollerCoaster Tycoon 1 (AA)
 STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
@@ -3849,11 +3849,11 @@ STR_5504    :{SMALLFONT}{BLACK}Visa flerspelar statusen
 STR_5505    :Kunde inte ansluta till servern.
 STR_5506    :Gästerna igronerar intensivitetnivån
 STR_5507    :Vaktmästare klipper gräs
-STR_5508    :Allow loading files with incorrect checksums ***
-STR_5509    :{SMALLFONT}{BLACK}Allows loading scenarios and saves that have an incorrect checksum, like the scenarios from the demo or damaged saves. ***
+STR_5508    :Tillåt filer med inkorrekta 'checksums' att laddas ***
+STR_5509    :{SMALLFONT}{BLACK}Tillåter spelet att ladda scenarion och sparfiler som har inkorrekta checksum, som scenariorna från demon och skadade sparfiler. ***
 STR_5510    :Standard ljuduppspelningen
 STR_5511    :(UNKNOWN)
-STR_5512    :Spara dpelet som
+STR_5512    :Spara spelet som
 STR_5513    :(Snabb) spara spelet
 STR_5514    :Stäng av skadegörelse
 STR_5515    :{SMALLFONT}{BLACK}Stoppar gäster från att vandalisera parken när de är arga
@@ -3898,7 +3898,7 @@ STR_5553    :Pausa spelet när Steam overlayen är uppe
 STR_5554    :{SMALLFONT}{BLACK}Tillåt berg verktyget
 STR_5555    :Visa fordon från andra karuseller
 STR_5556    :{SMALLFONT}{BLACK}Sparka ut spelare
-STR_5557    :Stay connected after desynchronisation (Multiplayer)
+STR_5557    :Fortsätt vara ansluten efter synkningsproblem (Flerspelarläget)
 STR_5558    :En omstart krävs för denna inställning ska gälla
 STR_5559    :10 min. inspektion
 STR_5560    :{SMALLFONT}{BLACK}Sätter inspektions tiden till 'Var 10 minut' på alla åkturer
@@ -3926,7 +3926,7 @@ STR_5581    :Visa FPS
 STR_5582    :Behåll muspekaren i spelet
 STR_5583    :{COMMA1DP16}ms{POWERNEGATIVEONE}
 STR_5584    :SI
-STR_5585    :{SMALLFONT}{BLACK}Unlocks ride operation limits, allowing for things like {VELOCITY} lift hills***
+STR_5585    :{SMALLFONT}{BLACK}Avaktivera åkturernas hastighetsgränser, vilket tillåter till exepmepl {VELOCITY} upplyftskedjeshastighet
 STR_5586    :Öppna butiker och kiosker automatiskt
 STR_5587    :{SMALLFONT}{BLACK}Om aktiverad, butiker och stånd öppnas automatiskt efter du har byggt dem
 STR_5588    :{SMALLFONT}{BLACK}Spela med andra spelare
@@ -3948,20 +3948,20 @@ STR_5603    :Gäst har lämnat åktur
 STR_5604    :Gäst har köpt föremål
 STR_5605    :Guest has used facility
 STR_5606    :Gäst har dött
-STR_5607    :{SMALLFONT}{BLACK}Forcefully remove selected map element.
+STR_5607    :{SMALLFONT}{BLACK}Tvinga borttagning av vald ruta/element.
 STR_5608    :BH
 STR_5609    :CH
-STR_5610    :{SMALLFONT}{BLACK}Remove the currently selected map element. This will forcefully remove it, so no cash will be used/gained. Use with caution.
+STR_5610    :{SMALLFONT}{BLACK}Ta bort den valda rutan/elementet. Detta kommer tvinga en borttagning, så inga pengar kommer ges/användas. Använd med försiktighet.
 STR_5611    :G
 STR_5612    :{SMALLFONT}{BLACK}Ghost flag
 STR_5613    :B
 STR_5614    :{SMALLFONT}{BLACK}Broken flag
 STR_5615    :L
-STR_5616    :{SMALLFONT}{BLACK}Last element for tile flag
-STR_5617    :{SMALLFONT}{BLACK}Move selected element up.
-STR_5618    :{SMALLFONT}{BLACK}Move selected element down.
+STR_5616    :{SMALLFONT}{BLACK}Sista elementet för tile flag
+STR_5617    :{SMALLFONT}{BLACK}Flytta valda elementet upp.
+STR_5618    :{SMALLFONT}{BLACK}Flytta valda elementet ner.
 STR_5619    :RollerCoaster Tycoon
-STR_5620    :Added Attractions
+STR_5620    :Tillagda Attraktioner
 STR_5621    :Loopy Landscapes
 STR_5622    :RollerCoaster Tycoon 2
 STR_5623    :Wacky Worlds
@@ -3990,16 +3990,16 @@ STR_5645    :Chatta
 STR_5646    :Terräng
 STR_5647    :Pausa
 STR_5648    :Ändra vattennivå
-STR_5649    :Skapa Åktur
+STR_5649    :Skapa åktur
 STR_5650    :Ta bort åktur
-STR_5651    :Build Ride
-STR_5652    :Ride Properties
-STR_5653    :Scenery
+STR_5651    :Bygga åktur
+STR_5652    :Åkturs Inställningar
+STR_5653    :Dekorationer
 STR_5654    :Gångväg
 STR_5655    :Gäst
 STR_5656    :Personal
-STR_5657    :Park Inställningar
-STR_5658    :Park Fonder
+STR_5657    :Park inställningar
+STR_5658    :Park fonder
 STR_5659    :Sparka ut spelare
 STR_5660    :Modifiera Grupper
 STR_5661    :Sätt Spelar Grupp
@@ -4019,12 +4019,12 @@ STR_5710    :Grupp namn
 STR_5711    :Skriv in ett nytt namn för gruppen:
 STR_5712    :Kan inte modifiera tillstånd du inte själv har
 STR_5713    :Sparka ut Spelaren
-STR_5714    :Show options window
+STR_5714    :Visa inställningsfönstret
 STR_5715    :Nytt Spel
 STR_5716    :Inte tillåtet i flerspelsläge
 # For identifying client network version in server list window
-STR_5717    :Nätverks version: {STRING}
-STR_5718    :{SMALLFONT}{BLACK}Nätverks version: {STRING}
+STR_5717    :Nätverkets version: {STRING}
+STR_5718    :{SMALLFONT}{BLACK}Nätverkets version: {STRING}
 STR_5719    :Soligt
 STR_5720    :Delvis Molning
 STR_5721    :Molningt
@@ -4034,12 +4034,12 @@ STR_5724    :Åska
 STR_5725    :{BLACK}Tvinga Väder:
 STR_5726    :{SMALLFONT}{BLACK}Sätter vädret i parken
 STR_5727    :Skalnings kvalité
-STR_5728    :Kräver att Hårdvare hanteraren är bockad ***
-STR_5729    :{SMALLFONT}{BLACK}Kräver att Hårdvare hanteraren är bockad
-STR_5730    :Nearest neighbour
+STR_5728    :Kräver att Hårdvare hanteraren är ikryssad
+STR_5729    :{SMALLFONT}{BLACK}Kräver att Hårdvare hanteraren är ibockad
+STR_5730    :Närmsta granne
 STR_5731    :Linjär
-STR_5732    :Anisotropic
-STR_5733    :Använd NN skalning vid integer scales
+STR_5732    :Anisotropisk
+STR_5733    :Använd NN skalning som enhetskalor
 # tooltip for tab in options window
 STR_5734    :{SMALLFONT}{BLACK}Rendering
 STR_5735    :Nätverksstatus
@@ -4052,7 +4052,7 @@ STR_5741    :{SMALLFONT}{BLACK}Marknadskampanjer slutar aldrig
 STR_5742    :Verifierar ...
 STR_5743    :Ansluter ...
 STR_5744    :Laddar ...
-STR_5745    :Du är inte i sync med servern  
+STR_5745    :Du är inte i synk med servern
 STR_5746    :Frånkopplad
 STR_5747    :Frånkopplad: {STRING}
 STR_5748    :Utslängd
@@ -4548,7 +4548,7 @@ STR_DTLS    :
 [CONDORRD]
 STR_NAME    :Condor Ride
 STR_DESC    :Riding in special harnesses below the track, riders experience the feeling of flight as they swoop through the air in Condor-shaped trains
-STR_CPTY    :4 passengers per car
+STR_CPTY    :4 passagerare per vagn
 
 
 #Maintainer: Nubbie (Nubbiy on Github)
