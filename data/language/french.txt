@@ -7,7 +7,7 @@ STR_0002    :Montagnes russes en spirales
 STR_0003    :Montagnes russes debout
 STR_0004    :Montagnes russes suspendues 
 STR_0005    :Montagnes russes inversées
-STR_0006    :Mini-montagnes junior
+STR_0006    :Montagnes russes junior
 STR_0007    :Chemin de fer miniature
 STR_0008    :Monorail
 STR_0009    :Mini-montagnes russes suspendues
@@ -781,48 +781,48 @@ STR_0776    :Parc sans nom{POP16}{POP16}
 STR_0777    :Parc sans nom{POP16}{POP16}
 STR_0778    :Sign
 STR_0779    :1er
-STR_0780    :2ème
-STR_0781    :3ème
-STR_0782    :4ème
-STR_0783    :5ème
-STR_0784    :6ème
-STR_0785    :7ème
-STR_0786    :8ème
-STR_0787    :9ème
-STR_0788    :10ème
-STR_0789    :11ème
-STR_0790    :12ème
-STR_0791    :13ème
-STR_0792    :14ème
-STR_0793    :15ème
-STR_0794    :16ème
-STR_0795    :17ème
-STR_0796    :18ème
-STR_0797    :19ème
-STR_0798    :20ème
-STR_0799    :21ème
-STR_0800    :22ème
-STR_0801    :23ème
-STR_0802    :24ème
-STR_0803    :25ème
-STR_0804    :26ème
-STR_0805    :27ème
-STR_0806    :28ème
-STR_0807    :29ème
-STR_0808    :30ème
-STR_0809    :31ème
-STR_0810    :Jan
-STR_0811    :Fév
-STR_0812    :Mar
-STR_0813    :Avr
-STR_0814    :Mai
-STR_0815    :Jun
-STR_0816    :Jul
-STR_0817    :Aoû
-STR_0818    :Sep
-STR_0819    :Oct
-STR_0820    :Nov
-STR_0821    :Déc
+STR_0780    :2
+STR_0781    :3
+STR_0782    :4
+STR_0783    :5
+STR_0784    :6
+STR_0785    :7
+STR_0786    :8
+STR_0787    :9
+STR_0788    :10
+STR_0789    :11
+STR_0790    :12
+STR_0791    :13
+STR_0792    :14
+STR_0793    :15
+STR_0794    :16
+STR_0795    :17
+STR_0796    :18
+STR_0797    :19
+STR_0798    :20
+STR_0799    :21
+STR_0800    :22
+STR_0801    :23
+STR_0802    :24
+STR_0803    :25
+STR_0804    :26
+STR_0805    :27
+STR_0806    :28
+STR_0807    :29
+STR_0808    :30
+STR_0809    :31
+STR_0810    :janvier
+STR_0811    :février
+STR_0812    :mars
+STR_0813    :avril
+STR_0814    :mai
+STR_0815    :juin
+STR_0816    :juillet
+STR_0817    :août
+STR_0818    :septembre
+STR_0819    :octobre
+STR_0820    :novembre
+STR_0821    :décembre
 STR_0822    :Impossible d'accéder au fichier de données graphiques
 STR_0823    :Fichier de données manquant ou inaccessible
 STR_0824    :{BLACK}{CROSS}
@@ -2741,8 +2741,8 @@ STR_2732    :{COMMA16}ft
 STR_2733    :{COMMA16}m
 STR_2734    :{COMMA16}mph
 STR_2735    :{COMMA16}km/h
-STR_2736    :{MONTH}, an {COMMA16}
-STR_2737    :{STRINGID} {MONTH}, an {COMMA16}
+STR_2736    :{MONTH}, année {COMMA16}
+STR_2737    :{STRINGID} {MONTH}, année {COMMA16}
 STR_2738    :Title screen music:
 STR_2739    :Aucun
 STR_2740    :RollerCoaster Tycoon 1
@@ -3498,7 +3498,7 @@ STR_5156    :{SMALLFONT}{BLACK}Allows testing of most ride types even when the t
 STR_5157    :Unlock all prices
 STR_5158    :Quit to menu
 STR_5159    :Quitter OpenRCT2
-STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, an {POP16}{COMMA16}
+STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, année {POP16}{COMMA16}
 STR_5161    :Format de date:
 STR_5162    :Jour/Mois/Année
 STR_5163    :Mois/Jour/Année
