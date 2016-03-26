@@ -1053,13 +1053,13 @@ STR_1046    :Modèle de voie OpenRCT2
 STR_1047    :Echec de la sauvegarde de la partie !
 STR_1048    :Echec de la sauvegarde du scénario !
 STR_1049    :Echec de la sauvegarde du paysage !
-STR_1050    :Echec du chargement...{NEWLINE}Le fichier contient des données invalides!
+STR_1050    :Echec du chargement...{NEWLINE}Le fichier contient des données invalides !
 STR_1051    :Supports invisibles
 STR_1052    :Visiteurs invisibles
 STR_1053    :{SMALLFONT}{BLACK}Attractions dans le parc
-STR_1054    :{SMALLFONT}{BLACK}Nommer l'attraction
-STR_1055    :{SMALLFONT}{BLACK}Nommer le visiteur
-STR_1056    :{SMALLFONT}{BLACK}Nommer l'employé
+STR_1054    :{SMALLFONT}{BLACK}Renommer l'attraction
+STR_1055    :{SMALLFONT}{BLACK}Renommer le visiteur
+STR_1056    :{SMALLFONT}{BLACK}Renommer l'employé
 STR_1057    :Nom de l'attraction
 STR_1058    :Entrez un nom pour cette attraction :
 STR_1059    :Impossible de renommer l'attraction...
@@ -1457,7 +1457,7 @@ STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRING
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
 STR_1452    :Nom du visiteur
 STR_1453    :Entrez un nom pour ce visiteur :
-STR_1454    :Impossible de nommer le visiteur...
+STR_1454    :Impossible de renommer le visiteur...
 STR_1455    :Nom de visiteur invalide
 STR_1456    :{WINDOW_COLOUR_2}Argent dépensé : {BLACK}{CURRENCY2DP}
 STR_1457    :{WINDOW_COLOUR_2}Argent en poche : {BLACK}{CURRENCY2DP}
@@ -1924,9 +1924,9 @@ STR_1050    :Echec du chargement...{NEWLINE}Le fichier contient des données inv
 STR_1051    :Supports invisibles
 STR_1052    :Visiteurs invisibles
 STR_1053    :{SMALLFONT}{BLACK}Attractions dans le parc
-STR_1054    :{SMALLFONT}{BLACK}Nommer l'attraction
-STR_1055    :{SMALLFONT}{BLACK}Nommer le visiteur
-STR_1056    :{SMALLFONT}{BLACK}Nommer l'employé
+STR_1054    :{SMALLFONT}{BLACK}Renommer l'attraction
+STR_1055    :{SMALLFONT}{BLACK}Renommer le visiteur
+STR_1056    :{SMALLFONT}{BLACK}Renommer l'employé
 STR_1057    :Nom de l'attraction
 STR_1058    :Entrez un nom pour cette attraction :
 STR_1059    :Impossible de renommer l'attraction...
@@ -2324,7 +2324,7 @@ STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRING
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
 STR_1452    :Nom du visiteur
 STR_1453    :Entrez un nom pour ce visiteur :
-STR_1454    :Impossible de nommer le visiteur...
+STR_1454    :Impossible de renommer le visiteur...
 STR_1455    :Nom de visiteur invalide
 STR_1456    :{WINDOW_COLOUR_2}Argent dépensé : {BLACK}{CURRENCY2DP}
 STR_1457    :{WINDOW_COLOUR_2}Argent en poche : {BLACK}{CURRENCY2DP}
@@ -2590,7 +2590,7 @@ STR_1716    :Nom du parc non valide
 STR_1717    :Impossible de renommer le parc...
 STR_1718    :Nom du parc
 STR_1719    :Saisir nom du parc :
-STR_1720    :{SMALLFONT}{BLACK}Nommer le parc
+STR_1720    :{SMALLFONT}{BLACK}Renommer le parc
 STR_1721    :Parc fermé
 STR_1722    :Parc ouvert
 STR_1723    :Impossible d'ouvrir le parc...
@@ -3354,7 +3354,7 @@ STR_2478    :{SMALLFONT}{BLACK}Voir graphique Rapidité sur durée
 STR_2479    :{SMALLFONT}{BLACK}Voir graphique Altitude sur durée
 STR_2480    :{SMALLFONT}{BLACK}Voir graphique Accélération verticale sur durée
 STR_2481    :{SMALLFONT}{BLACK}Voir graphique Accélération latérale sur durée
-STR_2482    :{SMALLFONT}{BLACK}Bénéfice : {CURRENCY} par semaine,  Valeur du parc : {CURRENCY}
+STR_2482    :{SMALLFONT}{BLACK}Bénéfice : {CURRENCY} par semaine, {NEWLINE}Valeur du parc : {CURRENCY}
 STR_2483    :{WINDOW_COLOUR_2}Bénéfice hebdomadaire : {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Bénéfice hebdomadaire : {RED}{CURRENCY2DP}
 STR_2485    :Contrôles
@@ -4968,134 +4968,134 @@ STR_5789    :Désactiver les éclairs
 # RCT Original #
 ################
 <Forest Frontiers>
-STR_SCNR    :Forest Frontiers
-STR_PARK    :Forest Frontiers
+STR_SCNR    :Frontières Forestières
+STR_PARK    :Frontières Forestières
 STR_DTLS    :Au coeur de la forêt, construisez un parc à thème florissant dans une grande zone ouverte.
 
 <Dynamite Dunes>
-STR_SCNR    :Dynamite Dunes
-STR_PARK    :Dynamite Dunes
+STR_SCNR    :Dunes Dynamite
+STR_PARK    :Dunes Dynamite
 STR_DTLS    :Construit au milieu du desert, ce parc à thème n'a qu'une seule montagne russe mais a de la place pour s'agrandir.
 
 <Leafy Lake>
-STR_SCNR    :Leafy Lake
-STR_PARK    :Leafy Lake
+STR_SCNR    :Lac Luxuriant
+STR_PARK    :Lac Luxuriant
 STR_DTLS    :En partant de rien, construisez un parc à thème autour d'un grand lac.
 
 <Diamond Heights>
-STR_SCNR    :Diamond Heights
-STR_PARK    :Diamond Heights
-STR_DTLS    :Diamond Heights est déjà un parc à thème très coté avec des attractions géniales - développez-le et doublez sa valeur.
+STR_SCNR    :Monts Diamant
+STR_PARK    :Monts Diamant
+STR_DTLS    :Monts Diamant est déjà un parc à thème très coté avec des attractions géniales - développez-le et doublez sa valeur.
 
 <Evergreen Gardens>
-STR_SCNR    :Evergreen Gardens
-STR_PARK    :Evergreen Gardens
-STR_DTLS    :Transformez les magnifiques jardins d'Evergreen en un parc à thème florissant.
+STR_SCNR    :Jardins Verdoyants
+STR_PARK    :Jardins Verdoyants
+STR_DTLS    :Transformez les magnifiques Jardins Verdoyants en un parc à thème florissant.
 
 <Bumbly Beach>
-STR_SCNR    :Bumbly Beach
-STR_PARK    :Bumbly Beach
-STR_DTLS    :Transformez le petit parc d'attractions de Bumbly Beach en un parc à thème florissant.
+STR_SCNR    :Plage Bourdon
+STR_PARK    :Plage Bourdon
+STR_DTLS    :Transformez le petit parc d'attractions de Plage Bourdon en un parc à thème florissant.
 
 <Trinity Islands>
-STR_SCNR    :Trinity Islands
-STR_PARK    :Trinity Islands
+STR_SCNR    :Îles Trinité
+STR_PARK    :Îles Trinité
 STR_DTLS    :Plusieurs îles constituent la base de ce nouveau parc.
 
 <Katie's Dreamland>
-STR_SCNR    :Katie's Dreamland
-STR_PARK    :Katie's Dreamland
+STR_SCNR    :Monde de Katie
+STR_PARK    :Monde de Katie
 STR_DTLS    :Un petit parc à thème avec peu d'attractions et peu de place pour s'agrandir. Votre mission est de doubler la valeur du parc.
 
 <Pokey Park>
-STR_SCNR    :Pokey Park
-STR_PARK    :Pokey Park
+STR_SCNR    :Parc Minus
+STR_PARK    :Parc Minus
 STR_DTLS    :Un tout petit parc d'attractions à l'étroit qui a vraiment besoin de s'agrandir.
 
 <White Water Park>
-STR_SCNR    :White Water Park
-STR_PARK    :White Water Park
+STR_SCNR    :Parc Eau Pure
+STR_PARK    :Parc Eau Pure
 STR_DTLS    :Un parc avec quelques attractions aquatiques géniales qui a besoin de s'agrandir.
 
 <Millennium Mines>
-STR_SCNR    :Millennium Mines
-STR_PARK    :Millennium Mines
+STR_SCNR    :Mines Millennium
+STR_PARK    :Mines Millennium
 STR_DTLS    :Transformez une grande mine abandonnée qui fait la curiosité des touristes en un parc à thèmes.
 
 <Karts & Coasters>
-STR_SCNR    :Karts & Coasters
-STR_PARK    :Karts & Coasters
+STR_SCNR    :Karts & Grands Huit
+STR_PARK    :Karts & Grands Huit
 STR_DTLS    :Un grand parc caché dans la forêt, avec uniquement des pistes de karting et des montagnes russes en bois.
 
 <Mel's World>
-STR_SCNR    :Mel's World
-STR_PARK    :Mel's World
+STR_SCNR    :Monde de Mel
+STR_PARK    :Monde de Mel
 STR_DTLS    :Ce parc à thème a quelques attractions modernes bien conçues, mais plein d'espace pour son expansion.
 
 <Mystic Mountain>
-STR_SCNR    :Mystic Mountain
-STR_PARK    :Mystic Mountain
+STR_SCNR    :Montagnes Mystiques
+STR_PARK    :Montagnes Mystiques
 STR_DTLS    :Dans les forêts vallonnées de Mystic Mountain, construisez un parc à thème en partant de rien.
 
 <Pacific Pyramids>
-STR_SCNR    :Pacific Pyramids
-STR_PARK    :Pacific Pyramids
+STR_SCNR    :Pyramides Pacifiques
+STR_PARK    :Pyramides Pacifiques
 STR_DTLS    :Transformez les ruines égyptiennes prisées par les touristes en un parc à thème florissant.
 
 <Crumbly Woods>
-STR_SCNR    :Crumbly Woods
-STR_PARK    :Crumbly Woods
+STR_SCNR    :Bois Craquants
+STR_PARK    :Bois Craquants
 STR_DTLS    :Un grand parc avec des attractions bien conçues mais plutôt anciennes. Remplacez les anciennes attractions ou ajoutez-en de nouvelles pour rendre le parc plus attractif.
 
 <Paradise Pier>
-STR_SCNR    :Paradise Pier
-STR_PARK    :Paradise Pier
+STR_SCNR    :Ponton Paradis
+STR_PARK    :Ponton Paradis
 STR_DTLS    :Transformez la jetée de cette ville endormie en un parc d'attractions florissante.
 
 <Lightning Peaks>
-STR_SCNR    :Lightning Peaks
-STR_PARK    :Lightning Peaks
-STR_DTLS    :Les magnifiques montagnes de Lightning Peaks sont très prisées par les randonneurs et les touristes. Utilisez le terrain disponible pour attirer une nouvelle clientèle avide de sensations fortes.
+STR_SCNR    :Pics Foudroyants
+STR_PARK    :Pics Foudroyants
+STR_DTLS    :Les magnifiques Pics Foudroyants sont très prisés par les randonneurs et les touristes. Utilisez le terrain disponible pour attirer une nouvelle clientèle avide de sensations fortes.
 
 <Ivory Towers>
-STR_SCNR    :Ivory Towers
-STR_PARK    :Ivory Towers
+STR_SCNR    :Tours d'Ivoire
+STR_PARK    :Tours d'Ivoire
 STR_DTLS    :Un parc bien établi, qui a quelques petits problèmes.
 
 <Rainbow Valley>
-STR_SCNR    :Rainbow Valley
-STR_PARK    :Rainbow Valley
-STR_DTLS    :Les autorités locales de Rainbow Valley ne permettront aucun changement dans l'aménagement du territoire ou l'abattage de gros arbres, mais vous devez transformer la zone en un grand parc à thème.
+STR_SCNR    :Vallée Arc-en-ciel
+STR_PARK    :Vallée Arc-en-ciel
+STR_DTLS    :Les autorités locales de la Vallée Arc-en-ciel ne permettront aucun changement dans l'aménagement du territoire ou l'abattage de gros arbres, mais vous devez transformer la zone en un grand parc à thème.
 
 <Thunder Rock>
-STR_SCNR    :Thunder Rock
-STR_PARK    :Thunder Rock
-STR_DTLS    :Thunder Rock se trouve au milieu d'un désert et attire de nombreux touristes. Utilisez l'espace disponible pour construire des attractions qui attireront encore plus de personnes.
+STR_SCNR    :Roc Fracas
+STR_PARK    :Roc Fracas
+STR_DTLS    :Roc Fracas se trouve au milieu d'un désert et attire de nombreux touristes. Utilisez l'espace disponible pour construire des attractions qui attireront encore plus de personnes.
 
 <Mega Park>
-STR_SCNR    :Mega Park
-STR_PARK    :Mega Park
-STR_DTLS    :Amusez-vous!
+STR_SCNR    :Mega Parc
+STR_PARK    :Mega Parc
+STR_DTLS    :Amusez-vous !
 
 ## Added Attractions
 <Whispering Cliffs>
-STR_SCNR    :Whispering Cliffs
-STR_PARK    :Whispering Cliffs
+STR_SCNR    :Falaises Insidieuses
+STR_PARK    :Falaises Insidieuses
 STR_DTLS    :Transformer les falaises de bord de mer en parc d'attractions à succès.
 
 <Three Monkeys Park>
-STR_SCNR    :Three Monkeys Park
-STR_PARK    :Three Monkeys Park
+STR_SCNR    :Parc des Trois Singes
+STR_PARK    :Parc des Trois Singes
 STR_DTLS    :Au centre de ce grand parc en construction se trouvent des montagnes russes géantes en acier à triple voie.
 
 <Canary Mines>
-STR_SCNR    :Canary Mines
-STR_PARK    :Canary Mines
+STR_SCNR    :Mine Canari
+STR_PARK    :Mine Canari
 STR_DTLS    :Cette mine désaffectée est un site idéal pour la construction d'un parc d'attraction, avec ses rails miniatures et ses deux montagnes russes à chute verticale.
 
 <Barony Bridge>
-STR_SCNR    :Barony Bridge
-STR_PARK    :Barony Bridge
+STR_SCNR    :Pont Baron
+STR_PARK    :Pont Baron
 STR_DTLS    :Vous pouvez transformer un vieux pont désaffecté en parc d'attractions.
 
 <Funtopia>
@@ -5104,83 +5104,83 @@ STR_PARK    :Funtopia
 STR_DTLS    :Entourant un grand axe routier, ce parc contient plusieurs attractions déjà en fonctionnement.
 
 <Haunted Harbour>
-STR_SCNR    :Haunted Harbour
-STR_PARK    :Haunted Harbour
+STR_SCNR    :Baie des Chimères
+STR_PARK    :Baie des Chimères
 STR_DTLS    :Les autorités locales ont accepté de vendre à ce parc côtier des terrains proches à prix bas, à condition que certaines attractions soient préservées.
 
 <Fun Fortress>
-STR_SCNR    :Fun Fortress
-STR_PARK    :Fun Fortress
+STR_SCNR    :Forteresse Frivole
+STR_PARK    :Forteresse Frivole
 STR_DTLS    :À vous de transformer ce château en parc d'attractions.
 
 <Future World>
-STR_SCNR    :Future World
-STR_PARK    :Future World
+STR_SCNR    :Monde Futur
+STR_PARK    :Monde Futur
 STR_DTLS    :L'étrange paysage de ce parc futuriste offre suffisamment d'espace pour la construction de nouvelles attractions.
 
 <Gentle Glen>
-STR_SCNR    :Gentle Glen
-STR_PARK    :Gentle Glen
+STR_SCNR    :Ruisseau Reposant
+STR_PARK    :Ruisseau Reposant
 STR_DTLS    :La population locale préfère des attractions tranquilles et relaxantes ; c'est donc à vous d'adapter ce parc à ses goûts.
 
 <Jolly Jungle>
-STR_SCNR    :Jolly Jungle
-STR_PARK    :Jolly Jungle
+STR_SCNR    :Jungle Joviale
+STR_PARK    :Jungle Joviale
 STR_DTLS    :Dans les profondeurs de la jungle se trouve une zone de terrain qui ferait un parc d'attractions parfait.
 
 <Hydro Hills>
-STR_SCNR    :Hydro Hills
-STR_PARK    :Hydro Hills
+STR_SCNR    :Monts Lacustres
+STR_PARK    :Monts Lacustres
 STR_DTLS    :Une série de lacs en dénivelé est à la base de ce nouveau parc.
 
 <Sprightly Park>
-STR_SCNR    :Sprightly Park
-STR_PARK    :Sprightly Park
+STR_SCNR    :Parc Pétillant
+STR_PARK    :Parc Pétillant
 STR_DTLS    :Ce parc assez ancien comporte de nombreuses attractions historiques mais est très endetté.
 
 <Magic Quarters>
-STR_SCNR    :Magic Quarters
-STR_PARK    :Magic Quarters
+STR_SCNR    :Quarts Magiques
+STR_PARK    :Quarts Magiques
 STR_DTLS    :Une grande zone a été dégagée et partiellement prête pour la construction d'un parc d'attractions.
 
 <Fruit Farm>
-STR_SCNR    :Fruit Farm
-STR_PARK    :Fruit Farm
+STR_SCNR    :Ferme Fruitière
+STR_PARK    :Ferme Fruitière
 STR_DTLS    :Une grosse exploitation fruitière a construit un chemin de fer miniature pour améliorer ses revenus ; à vous de le développer en parc d'attractions à succès.
 
 <Butterfly Dam>
-STR_SCNR    :Butterfly Dam
-STR_PARK    :Butterfly Dam
+STR_SCNR    :Barrage Papillon
+STR_PARK    :Barrage Papillon
 STR_DTLS    :La zone entourant un barrage est disponible et peut être transformée en parc d'attractions.
 
 <Coaster Canyon>
-STR_SCNR    :Coaster Canyon
-STR_PARK    :Coaster Canyon
+STR_SCNR    :Canyon Grondant
+STR_PARK    :Canyon Grondant
 STR_DTLS    :Transformez un grand canyon en parc d'attractions.
 
 <Thunderstorm Park>
-STR_SCNR    :Thunderstorm Park
-STR_PARK    :Thunderstorm Park
+STR_SCNR    :Parc Orageux
+STR_PARK    :Parc Orageux
 STR_DTLS    :Le temps est si humide qu'une pyramide gréante a été construite pour que certaines attractions restent à l'abri.
 
 <Harmonic Hills>
-STR_SCNR    :Harmonic Hills
-STR_PARK    :Harmonic Hills
+STR_SCNR    :Collines Concorde
+STR_PARK    :Collines Concorde
 STR_DTLS    :Les autorités locales refuseront toute construction qui dépasse la hauteur des arbres dans ce parc.
 
 <Roman Village>
-STR_SCNR    :Roman Village
-STR_PARK    :Roman Village
+STR_SCNR    :Village Romain
+STR_PARK    :Village Romain
 STR_DTLS    :Développez ce parc à thème romain en en ajoutant des attractions et des montagnes russes.
 
 <Swamp Cove>
-STR_SCNR    :Swamp Cove
-STR_PARK    :Swamp Cove
+STR_SCNR    :Crique Cloaque
+STR_PARK    :Crique Cloaque
 STR_DTLS    :Construit partiellement sur de petites îles, ce parc contient déjà deux grosses montagnes russes en attractions principales.
 
 <Adrenaline Heights>
-STR_SCNR    :Adrenaline Heights
-STR_PARK    :Adrenaline Heights
+STR_SCNR    :Mont Adrénaline
+STR_PARK    :Mont Adrénalin
 STR_DTLS    :Construisez un parc qui plaira à la population locale en quête de sensations fortes.
 
 <Utopia>
@@ -5189,50 +5189,50 @@ STR_PARK    :Utopia
 STR_DTLS    :Une oasis en plein coeur d'un désert constitue une idée de parc originale.
 
 <Rotting Heights>
-STR_SCNR    :Rotting Heights
-STR_PARK    :Rotting Heights
+STR_SCNR    :Monts Putrides
+STR_PARK    :Monts Putrides
 STR_DTLS    :Pouvez-vous relancer ce parc envahi par la végétation et délabré qui connut jadis son heure de gloire ?
 
 <Fiasco Forest>
-STR_SCNR    :Fiasco Forest
-STR_PARK    :Fiasco Forest
+STR_SCNR    :Forêt Faillite
+STR_PARK    :Forêt Faillite
 STR_DTLS    :Vous disposez d'un budget très limité et de peu de temps pour réparer et améliorer ce parc équipé d'attractions mal conçues et dangereuses.
 
 <Pickle Park>
-STR_SCNR    :Pickle Park
-STR_PARK    :Pickle Park
+STR_SCNR    :Parc Pétrin
+STR_PARK    :Parc Pétrin
 STR_DTLS    :Les autorités locales interdisent tout type de publicité ou promotion, vous devez donc essayer de faire marcher ce parc par le bouche à oreille uniquement.
 
 <Giggle Downs>
-STR_SCNR    :Giggle Downs
-STR_PARK    :Giggle Downs
+STR_SCNR    :Pentes Glapissantes
+STR_PARK    :Pentes Glapissantes
 STR_DTLS    :L'attraction principale de ce parc en pleine expansion est un rodéo-montagnes.
 
 <Mineral Park>
-STR_SCNR    :Mineral Park
-STR_PARK    :Mineral Park
+STR_SCNR    :Parc Minéral
+STR_PARK    :Parc Minéral
 STR_DTLS    :Transformez cette carrière de pierres désaffectée en un parc qui attirera les touristes en quête de sensations fortes.
 
 <Coaster Crazy>
-STR_SCNR    :Coaster Crazy
-STR_PARK    :Coaster Crazy
+STR_SCNR    :Loopings en Folie
+STR_PARK    :Loopings en Folie
 STR_DTLS    :Vous disposez de peu de fonds mais d'un temps illimité pour transformer cette zone montagneuse en un parc de montagnes russes géant.
 
 <Urban Park>
-STR_SCNR    :Urban Park
-STR_PARK    :Urban Park
+STR_SCNR    :Parc Urbain
+STR_PARK    :Parc Urbain
 STR_DTLS    :Un parc minuscule a signé un accord avec la ville voisine pour autoriser son expansion dans la ville elle-même.
 
 <Geoffrey Gardens>
-STR_SCNR    :Geoffrey Gardens
-STR_PARK    :Geoffrey Gardens
+STR_SCNR    :Jardins Geoffrey
+STR_PARK    :Jardins Geoffrey
 STR_DTLS    :Un grand parc de jardins doit être transformé en parc à thème prospère.
 
 
 ## Loopy Landscapes
 <Iceberg Islands>
-STR_SCNR    :Iceberg Islands
-STR_PARK    :Iceberg Islands
+STR_SCNR    :Îles Iceberg
+STR_PARK    :Îles Iceberg
 STR_DTLS    :Un ensemble d'icebergs constitue l'environnement glacial de cet ambitieux parc à thème.
 
 <Volcania>
@@ -5241,43 +5241,43 @@ STR_PARK    :Volcania
 STR_DTLS    :Un volcan éteint est le site de ce défi à la construction de montagnes russes.
 
 <Arid Heights>
-STR_SCNR    :Arid Heights
-STR_PARK    :Arid Heights
+STR_SCNR    :Hauteurs Arides
+STR_PARK    :Hauteurs Arides
 STR_DTLS    :Vous avez carte blanche pour développer ce parc désertique en assurant la joie de ses visiteurs.
 
 <Razor Rocks>
-STR_SCNR    :Razor Rocks
-STR_PARK    :Razor Rocks
+STR_SCNR    :Rocs Rasoirs
+STR_PARK    :Rocs Rasoirs
 STR_DTLS    :Vous devez construire un vaste parc rempli de montagnes russes dans Razor Rocks.
 
 <Crater Lake>
-STR_SCNR    :Crater Lake
-STR_PARK    :Crater Lake
+STR_SCNR    :Cratère Lacustre
+STR_PARK    :Cratère Lacustre
 STR_DTLS    :Ce parc a pour environnement un vaste lac dans un ancien cratère.
 
 <Vertigo Views>
-STR_SCNR    :Vertigo Views
-STR_PARK    :Vertigo Views
-STR_DTLS    :Ce parc possède déjà un excellent tracé d'hyper-montagnes russes, et vous devez en accroître massivement les profits.
+STR_SCNR    :Vertigo
+STR_PARK    :Vertigo
+STR_DTLS    :Ce parc possède déjà un excellent tracé de super-montagnes russes, et vous devez en accroître massivement les profits.
 
 <Paradise Pier 2>
-STR_SCNR    :Paradise Pier 2
-STR_PARK    :Paradise Pier 2
-STR_DTLS    :Paradise Pier a étendu son réseau d'allées sur l'océan ; à vous d'exploiter cet espace en agrandissant le parc.
+STR_SCNR    :Ponton Paradis 2
+STR_PARK    :Ponton Paradis 2
+STR_DTLS    :Ponton Paradis a étendu son réseau d'allées sur l'océan ; à vous d'exploiter cet espace en agrandissant le parc.
 
 <Dragon's Cove>
-STR_SCNR    :Dragon's Cove
-STR_PARK    :Dragon's Cove
+STR_SCNR    :Crique du Dragon
+STR_PARK    :Crique du Dragon
 STR_DTLS    :Ce défi à la construction de montagnes russes a pour site une crique sur la côte.
 
 <Good Knight Park>
-STR_SCNR    :Good Knight Park
-STR_PARK    :Good Knight Park
+STR_SCNR    :Parc du Bon Chevalier
+STR_PARK    :Parc du Bon Chevalier
 STR_DTLS    :Vous devez développer ce château doté de deux montagnes russes en un vaste parc à thème.
 
 <Wacky Warren>
-STR_SCNR    :Wacky Warren
-STR_PARK    :Wacky Warren
+STR_SCNR    :Taupes Toquées
+STR_PARK    :Taupes Toquées
 STR_DTLS    :Un parc dont une bonne part des allées et des montagnes russes sont souterraines.
 
 <Grand Glacier>
@@ -5286,68 +5286,68 @@ STR_PARK    :Grand Glacier
 STR_DTLS    :Il vous appartient de développer une vallée abritant un glacier en parc à thème.
 
 <Crazy Craters>
-STR_SCNR    :Crazy Craters
-STR_PARK    :Crazy Craters
+STR_SCNR    :Cratères Fumants
+STR_PARK    :Cratères Fumants
 STR_DTLS    :Vous devez construire, sur une planète éloignée où l'argent ne compte pas, un centre assurant le bonheur de la population.
 
 <Dusty Desert>
-STR_SCNR    :Dusty Desert
-STR_PARK    :Dusty Desert
+STR_SCNR    :Désert Sableux
+STR_PARK    :Désert Sableux
 STR_DTLS    :Cinq montagnes russes doivent être achevée dans ce parc désertique.
 
 <Woodworm Park>
-STR_SCNR    :Woodworm Park
-STR_PARK    :Woodworm Park
+STR_SCNR    :Parc Vermoulu
+STR_PARK    :Parc Vermoulu
 STR_DTLS    :Ce parc historique ne peut accueillir que des attractions de style ancien.
 
 <Icarus Park>
-STR_SCNR    :Icarus Park
-STR_PARK    :Icarus Park
+STR_SCNR    :Parc Icarus
+STR_PARK    :Parc Icarus
 STR_DTLS    :Développez ce parc extraterrestre afin d'en maximiser les profits.
 
 <Sunny Swamps>
-STR_SCNR    :Sunny Swamps
-STR_PARK    :Sunny Swamps
+STR_SCNR    :Marais Radieux
+STR_PARK    :Marais Radieux
 STR_DTLS    :Ce parc à thème bien choisi possède déjà quelques attractions, mais aussi une grande surface à exploiter.
 
 <Frightmare Hills>
-STR_SCNR    :Frightmare Hills
-STR_PARK    :Frightmare Hills
+STR_SCNR    :Monts Epouvante
+STR_PARK    :Monts Epouvante
 STR_DTLS    :Un parc d'horreur dont le clou est un circuit de montagnes russes géant.
 
 <Thunder Rocks>
-STR_SCNR    :Thunder Rocks
-STR_PARK    :Thunder Rocks
+STR_SCNR    :Rocs Fracas
+STR_PARK    :Rocs Fracas
 STR_DTLS    :Deux rochers émergeant du sable supportent les premiers éléments d'un parc à thème.
 
 <Octagon Park>
-STR_SCNR    :Octagon Park
-STR_PARK    :Octagon Park
+STR_SCNR    :Parc Octogone
+STR_PARK    :Parc Octogone
 STR_DTLS    :Vous devez concevoir et construire dix montagnes russes dans ce vaste parc.
 
 <Pleasure Island>
-STR_SCNR    :Pleasure Island
-STR_PARK    :Pleasure Island
+STR_SCNR    :Îles Délices
+STR_PARK    :Îles Délices
 STR_DTLS    :Un vrai défi : implanter une sélection de montagnes russes sur une île longue et étroite.
 
 <Icicle Worlds>
-STR_SCNR    :Icicle Worlds
-STR_PARK    :Icicle Worlds
+STR_SCNR    :Mondes Gelés
+STR_PARK    :Mondes Gelés
 STR_DTLS    :Vous devez transformer ce paysage glacé en parc à thème prospère.
 
 <Southern Sands>
-STR_SCNR    :Southern Sands
-STR_PARK    :Southern Sands
+STR_SCNR    :Sable Austral
+STR_PARK    :Sable Austral
 STR_DTLS    :Vous devez étendre un parc désertique possédant déjà quelques montagnes russes intelligemment conçues.
 
 <Tiny Towers>
-STR_SCNR    :Tiny Towers
-STR_PARK    :Tiny Towers
+STR_SCNR    :Tours Ténues
+STR_PARK    :Tours Ténues
 STR_DTLS    :Vous devez achever la construction des cinq montagnes russes de ce tout petit parc.
 
 <Nevermore Park>
-STR_SCNR    :Nevermore Park
-STR_PARK    :Nevermore Park
+STR_SCNR    :Parc Nevermore
+STR_PARK    :Parc Nevermore
 STR_DTLS    :Un vaste parc entouré d'un nouveau mode de transport.
 
 <Pacifica>
@@ -5356,28 +5356,28 @@ STR_PARK    :Pacifica
 STR_DTLS    :Développez un parc d'amusement sur cette grande île.
 
 <Urban Jungle>
-STR_SCNR    :Urban Jungle
-STR_PARK    :Urban Jungle
+STR_SCNR    :Jungle Urbaine
+STR_PARK    :Jungle Urbaine
 STR_DTLS    :Un gratte-ciel géant à l'abandon : une occasion unique pour un concepteur de parc à thème.
 
 <Terror Town>
-STR_SCNR    :Terror Town
-STR_PARK    :Terror Town
+STR_SCNR    :Faubourg du Frisson
+STR_PARK    :Faubourg du Frisson
 STR_DTLS    :Développez un parc d'amusement dans cette zone urbaine.
 
 <Megaworld Park>
-STR_SCNR    :Megaworld Park
-STR_PARK    :Megaworld Park
+STR_SCNR    :Parc Mégagiga
+STR_PARK    :Parc Mégagiga
 STR_DTLS    :Un parc géant déjà rempli d'attractions exige des améliorations.
 
 <Venus Ponds>
-STR_SCNR    :Venus Ponds
-STR_PARK    :Venus Ponds
+STR_SCNR    :Mare Veneris
+STR_PARK    :Mare Veneris
 STR_DTLS    :Vous devez aménager en parc à thème ce terrain situé sur une planète lointaine.
 
 <Micro Park>
-STR_SCNR    :Micro Park
-STR_PARK    :Micro Park
+STR_SCNR    :Micro Parc
+STR_PARK    :Micro Parc
 STR_DTLS    :Essayez de créer le plus petit parc bénéficiaire du monde.
 
 ## Real Parks from RCT1
@@ -5400,8 +5400,8 @@ STR_DTLS    :
 ## Misc parks from RCT1
 # Had no details
 <Fort Anachronism>
-STR_SCNR    :Fort Anachronism
-STR_PARK    :Fort Anachronism
+STR_SCNR    :Fort Anachronisme
+STR_PARK    :Fort Anachronisme
 STR_DTLS    :
 
 #####################
