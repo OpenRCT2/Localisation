@@ -1006,9 +1006,9 @@ STR_0999    :Nécessite un quai
 STR_1000    :La voie ne constitue pas un circuit complet
 STR_1001    :La voie est inadaptée à ce type de train
 STR_1002    :Impossible d'ouvrir {POP16}{POP16}{POP16}{STRINGID}...
-STR_1003    ::Impossible de tester {POP16}{POP16}{POP16}{STRINGID}...
-STR_1004    ::Impossible de fermer {POP16}{POP16}{POP16}{STRINGID}...
-STR_1005    ::Impossible de commencer la construction sur {POP16}{POP16}{POP16}{STRINGID}...
+STR_1003    :Impossible de tester {POP16}{POP16}{POP16}{STRINGID}...
+STR_1004    :Impossible de fermer {POP16}{POP16}{POP16}{STRINGID}...
+STR_1005    :Impossible de commencer la construction sur {POP16}{POP16}{POP16}{STRINGID}...
 STR_1006    :Doit être fermé d'abord
 STR_1007    :Impossible de créer suffisamment de véhicules
 STR_1008    :{SMALLFONT}{BLACK}Ouvrir, fermer ou tester une attraction
@@ -1430,7 +1430,7 @@ STR_1423    :{SMALLFONT}{BLACK}Chemin de la file d'attente
 STR_1424    :{SMALLFONT}{BLACK}Chemin
 STR_1425    :Chemin
 STR_1426    :File d'attente
-STR_1427    :{WINDOW_COLOUR_2}Clients: {BLACK}{COMMA32} par heure
+STR_1427    :{WINDOW_COLOUR_2}Clients : {BLACK}{COMMA32} par heure
 STR_1428    :{WINDOW_COLOUR_2}Prix d'entrée :
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :Gratuit
@@ -1443,7 +1443,7 @@ STR_1436    :Dans {STRINGID}
 STR_1437    :A {STRINGID}
 STR_1438    :Est assis
 STR_1439    :(choisir lieu)
-STR_1440    :Tond le pelouse
+STR_1440    :Tond la pelouse
 STR_1441    :Balaye l'allée
 STR_1442    :Vide la poubelle
 STR_1443    :Arrose les jardins
@@ -1674,7 +1674,7 @@ STR_1667    :{WINDOW_COLOUR_2}Toilettes :
 STR_1668    :{WINDOW_COLOUR_2}Satisfaction : {BLACK}Inconnue
 STR_1669    :{WINDOW_COLOUR_2}Satisfaction : {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}Total de clients : {BLACK}{COMMA32}
-STR_1671    :{WINDOW_COLOUR_2}Profit total : {BLACK}{CURRENCY2DP}
+STR_1671    :{WINDOW_COLOUR_2}Bénéfice total : {BLACK}{CURRENCY2DP}
 STR_1672    :Freins
 STR_1673    :Voie avec permutation de virage
 STR_1674    :Vitesse de freinage
@@ -1718,7 +1718,7 @@ STR_1711    :{WINDOW_COLOUR_1}Êtes-vous sûr de vouloir licencier {STRINGID} ?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Balayer les chemins
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Arroser les jardins
 STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Vider les poubelles
-STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Tondre le pelouse
+STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Tondre la pelouse
 STR_1716    :Nom du parc non valide
 STR_1717    :Impossible de renommer le parc...
 STR_1718    :Nom du parc
@@ -1873,9 +1873,9 @@ STR_0999    :Nécessite un quai
 STR_1000    :La voie ne constitue pas un circuit complet
 STR_1001    :La voie est inadaptée à ce type de train
 STR_1002    :Impossible d'ouvrir {POP16}{POP16}{POP16}{STRINGID}...
-STR_1003    ::Impossible de tester {POP16}{POP16}{POP16}{STRINGID}...
-STR_1004    ::Impossible de fermer {POP16}{POP16}{POP16}{STRINGID}...
-STR_1005    ::Impossible de commencer la construction sur {POP16}{POP16}{POP16}{STRINGID}...
+STR_1003    :Impossible de tester {POP16}{POP16}{POP16}{STRINGID}...
+STR_1004    :Impossible de fermer {POP16}{POP16}{POP16}{STRINGID}...
+STR_1005    :Impossible de commencer la construction sur {POP16}{POP16}{POP16}{STRINGID}...
 STR_1006    :Doit être fermé d'abord
 STR_1007    :Impossible de créer suffisamment de véhicules
 STR_1008    :{SMALLFONT}{BLACK}Ouvrir, fermer ou tester une attraction
@@ -2297,7 +2297,7 @@ STR_1423    :{SMALLFONT}{BLACK}Chemin de la file d'attente
 STR_1424    :{SMALLFONT}{BLACK}Chemin
 STR_1425    :Chemin
 STR_1426    :File d'attente
-STR_1427    :{WINDOW_COLOUR_2}Clients: {BLACK}{COMMA32} par heure
+STR_1427    :{WINDOW_COLOUR_2}Clients : {BLACK}{COMMA32} par heure
 STR_1428    :{WINDOW_COLOUR_2}Prix d'entrée :
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :Gratuit
@@ -2310,7 +2310,7 @@ STR_1436    :Dans {STRINGID}
 STR_1437    :A {STRINGID}
 STR_1438    :Est assis
 STR_1439    :(choisir lieu)
-STR_1440    :Tond le pelouse
+STR_1440    :Tond la pelouse
 STR_1441    :Balaye l'allée
 STR_1442    :Vide la poubelle
 STR_1443    :Arrose les jardins
@@ -2541,7 +2541,7 @@ STR_1667    :{WINDOW_COLOUR_2}Toilettes :
 STR_1668    :{WINDOW_COLOUR_2}Satisfaction : {BLACK}Inconnue
 STR_1669    :{WINDOW_COLOUR_2}Satisfaction : {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}Total de clients : {BLACK}{COMMA32}
-STR_1671    :{WINDOW_COLOUR_2}Profit total : {BLACK}{CURRENCY2DP}
+STR_1671    :{WINDOW_COLOUR_2}Bénéfice total : {BLACK}{CURRENCY2DP}
 STR_1672    :Freins
 STR_1673    :Voie avec permutation de virage
 STR_1674    :Vitesse de freinage
@@ -2585,7 +2585,7 @@ STR_1711    :{WINDOW_COLOUR_1}Êtes-vous sûr de vouloir licencier {STRINGID} ?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Balayer les chemins
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Arroser les jardins
 STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Vider les poubelles
-STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Tondre le pelouse
+STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Tondre la pelouse
 STR_1716    :Nom du parc non valide
 STR_1717    :Impossible de renommer le parc...
 STR_1718    :Nom du parc
@@ -2711,7 +2711,7 @@ STR_1837    :Satisfaction : Inconnue
 STR_1838    :Satisfaction : {COMMA16}%
 STR_1839    :Fiabilité : {COMMA16}%
 STR_1840    :Immobilisation : {COMMA16}%
-STR_1841    :Revenu : {CURRENCY} par heure
+STR_1841    :Bénéfice : {CURRENCY} par heure
 STR_1842    :Attraction préférée de : {COMMA16} visiteur
 STR_1843    :Attraction préférée de : {COMMA16} visiteurs
 STR_1844    :{SMALLFONT}{BLACK}Sélectionnez le type d'information à afficher dans la liste des attractions
@@ -2744,7 +2744,7 @@ STR_1870    :{SMALLFONT}{BLACK}Nombre de rotations complètes
 STR_1871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1872    :{COMMA16}
 STR_1873    :{WINDOW_COLOUR_2}Revenu : {BLACK}{CURRENCY2DP} par heure
-STR_1874    :{WINDOW_COLOUR_2}Profit : {BLACK}{CURRENCY2DP} par heure
+STR_1874    :{WINDOW_COLOUR_2}Bénéfice : {BLACK}{CURRENCY2DP} par heure
 STR_1875    :{BLACK} {SPRITE}{BLACK} {STRINGID}
 STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Inspecter les attractions
 STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Réparer les attractions
@@ -3164,7 +3164,7 @@ STR_2288    :Inconnu
 STR_2289    :{STRINGID} {STRINGID}
 STR_2290    :{SMALLFONT}{BLACK}{STRINGID} {STRINGID}
 STR_2291    :Choisir scénario pour nouvelle partie
-STR_2292    :{WINDOW_COLOUR_2}Attractions utilisées :
+STR_2292    :{WINDOW_COLOUR_2}A été sur ces attractions :
 STR_2293    :{BLACK} Rien
 STR_2294    :{SMALLFONT}{BLACK}Modifier le style de la surface
 STR_2295    :{SMALLFONT}{BLACK}Modifier les bords verticaux du terrain
@@ -3176,7 +3176,7 @@ STR_2300    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} dépensés pour {BLACK}{COMMA
 STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} dépensés pour {BLACK}{COMMA16} boisson
 STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} dépensés pour {BLACK}{COMMA16} boissons
 STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} dépensés pour {BLACK}{COMMA16} souvenir
-STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2}  dépensés pour {BLACK}{COMMA16} souvenirs
+STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} dépensés pour {BLACK}{COMMA16} souvenirs
 STR_2305    :Fichiers de conception de voie
 STR_2306    :Sauvegarder la conception de voie
 STR_2307    :Sélectionner la conception {STRINGID}
@@ -3579,7 +3579,7 @@ STR_2703    :Toutes les 15 minutes
 STR_2704    :Toutes les 30 minutes
 STR_2705    :Toutes les heures
 STR_2706    :Jamais
-STR_2707    :Ouvrir dans une nouvelle fenêtre
+STR_2707    :Fenêtre de dialogue système
 STR_2708    :{WINDOW_COLOUR_1}Etes vous sûr de vouloir écraser {STRINGID}?
 STR_2709    :Ecraser
 STR_2710    :Entrez le nom du fichier.
@@ -3648,7 +3648,7 @@ STR_2771    :Vitesse de jeu plus lente
 STR_2772    :Vitesse de jeu plus rapide
 STR_2773    :Fenêtré
 STR_2774    :Plein écran
-STR_2775    :Plein écran (nouv. Space)
+STR_2775    :Plein écran (nv. bureau)
 STR_2776    :Langue :
 STR_2777    :{MOVE_X}{SMALLFONT}{STRING}
 STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRING}
@@ -3931,7 +3931,7 @@ STR_3053    :Trou de golf E
 STR_3054    :Chargement...
 STR_3055    :Blanc
 STR_3056    :Translucide
-STR_3057    :{WINDOW_COLOUR_2}Marque constr. :
+STR_3057    :{WINDOW_COLOUR_2}Marque construction :
 STR_3058    :Mur de briques
 STR_3059    :Haies
 STR_3060    :Blocs de glace
@@ -4938,19 +4938,19 @@ STR_5763    :Tous les fichiers
 STR_5764    :Type d'attraction invalide
 STR_5765    :Impossible d'éditer les attractions de type invalide
 STR_5766    :<available string id>
-STR_5767    :Profit
+STR_5767    :Revenu
 STR_5768    :Clients total
-STR_5769    :Profit total
+STR_5769    :Bénéfice total
 STR_5770    :Clients par heure
 STR_5771    :Coûts d'exploitation
 STR_5772    :Age
 STR_5773    :Clients total : {COMMA32}
-STR_5774    :Profit total : {CURRENCY2DP}
+STR_5774    :Revenu total : {CURRENCY2DP}
 STR_5775    :Clients : {COMMA32} par heure
 STR_5776    :Construit : cette année
 STR_5777    :Construit : l'année dernière
 STR_5778    :Construit : {COMMA16} ans
-STR_5779    :Profit : {CURRENCY2DP} par heure
+STR_5779    :Revenu : {CURRENCY2DP} par heure
 STR_5780    :Coût d'exploitation : {CURRENCY2DP} par heure
 STR_5781    :Coût d'exploitation : inconnu
 STR_5782    :Vous êtes maintenant connecté. Pressez '{STRING}' pour discuter.
