@@ -59,7 +59,7 @@ STR_0050    :急救室
 STR_0051    :马戏表演
 STR_0052    :恐怖隧道
 STR_0053    :铁架旋转式过山车
-STR_0054    :木制过山车
+STR_0054    :木质过山车
 STR_0055    :Side-Friction Roller Coaster
 STR_0056    :疯狂老鼠过山车
 STR_0057    :多维过山车
@@ -1109,13 +1109,13 @@ STR_1098    :Moving to end of {POP16}{STRINGID}
 STR_1099    :Waiting for passengers at {POP16}{STRINGID}
 STR_1100    :Waiting to depart {POP16}{STRINGID}
 STR_1101    :Departing {POP16}{STRINGID}
-STR_1102    :Traveling at {VELOCITY}
+STR_1102    :Travelling at {VELOCITY}
 STR_1103    :Arriving at {POP16}{STRINGID}
 STR_1104    :Unloading passengers at {POP16}{STRINGID}
-STR_1105    :Traveling at {VELOCITY}
+STR_1105    :Travelling at {VELOCITY}
 STR_1106    :Crashing!
 STR_1107    :Crashed!
-STR_1108    :Traveling at {VELOCITY}
+STR_1108    :Travelling at {VELOCITY}
 STR_1109    :Swinging
 STR_1110    :Rotating
 STR_1111    :Rotating
@@ -1127,7 +1127,7 @@ STR_1116    :Operating
 STR_1117    :Doing circus show
 STR_1118    :Operating
 STR_1119    :Waiting for cable lift
-STR_1120    :Traveling at {VELOCITY}
+STR_1120    :Travelling at {VELOCITY}
 STR_1121    :Stopping
 STR_1122    :Waiting for passengers
 STR_1123    :Waiting to start
@@ -1136,18 +1136,18 @@ STR_1125    :Operating
 STR_1126    :Stopping
 STR_1127    :Unloading passengers
 STR_1128    :Stopped by block brakes
-STR_1129    :All vehicles in same colors
-STR_1130    :Different colors per {STRINGID}
-STR_1131    :Different colors per vehicle
+STR_1129    :All vehicles in same colours
+STR_1130    :Different colours per {STRINGID}
+STR_1131    :Different colours per vehicle
 STR_1132    :Vehicle {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1133    :Vehicle {POP16}{COMMA16}
 STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
 STR_1135    :{STRINGID} {COMMA16}
-STR_1136    :{SMALLFONT}{BLACK}Select main color
-STR_1137    :{SMALLFONT}{BLACK}Select additional color 1
-STR_1138    :{SMALLFONT}{BLACK}Select additional color 2
-STR_1139    :{SMALLFONT}{BLACK}Select support structure color
-STR_1140    :{SMALLFONT}{BLACK}Select vehicle color scheme option
+STR_1136    :{SMALLFONT}{BLACK}Select main colour
+STR_1137    :{SMALLFONT}{BLACK}Select additional colour 1
+STR_1138    :{SMALLFONT}{BLACK}Select additional colour 2
+STR_1139    :{SMALLFONT}{BLACK}Select support structure colour
+STR_1140    :{SMALLFONT}{BLACK}Select vehicle colour scheme option
 STR_1141    :{SMALLFONT}{BLACK}Select which vehicle/train to modify
 STR_1142    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1143    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRINGID}
@@ -1178,8 +1178,8 @@ STR_1167    :Can't raise water level here...
 STR_1168    :Options
 STR_1169    :(None)
 STR_1170    :{STRING}
-STR_1171    :{RED}Closed - -
-STR_1172    :{YELLOW}{STRINGID} - -
+STR_1171    :{RED}Closed - - 
+STR_1172    :{YELLOW}{STRINGID} - - 
 STR_1173    :{SMALLFONT}{BLACK}Build footpaths and queue lines
 STR_1174    :Banner sign in the way
 STR_1175    :Can't build this on sloped footpath
@@ -1222,8 +1222,8 @@ STR_1211    :{WINDOW_COLOUR_2}Minimum waiting time:
 STR_1212    :{WINDOW_COLOUR_2}Maximum waiting time:
 STR_1213    :{SMALLFONT}{BLACK}Select minimum length of time to wait before departing
 STR_1214    :{SMALLFONT}{BLACK}Select maximum length of time to wait before departing
-STR_1215    :{WINDOW_COLOUR_2}Synchronize with adjacent stations
-STR_1216    :{SMALLFONT}{BLACK}Select whether to synchronize departure with all adjacent stations (for 'racing')
+STR_1215    :{WINDOW_COLOUR_2}Synchronise with adjacent stations
+STR_1216    :{SMALLFONT}{BLACK}Select whether to synchronise departure with all adjacent stations (for 'racing')
 STR_1217    :{COMMA16} seconds
 STR_1218    :{BLACK}{SMALLUP}
 STR_1219    :{BLACK}{SMALLDOWN}
@@ -1350,10 +1350,10 @@ STR_1339    :{BLACK}No test results yet...
 STR_1340    :{WINDOW_COLOUR_2}Max. speed: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Ride time: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
-STR_1343    :{DURATION} /
+STR_1343    :{DURATION} / 
 STR_1344    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
-STR_1346    :{LENGTH} /
+STR_1346    :{LENGTH} / 
 STR_1347    :{WINDOW_COLOUR_2}Average speed: {BLACK}{VELOCITY}
 STR_1348    :{WINDOW_COLOUR_2}Max. positive vertical G's: {BLACK}{COMMA2DP32}g
 STR_1349    :{WINDOW_COLOUR_2}Max. positive vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
@@ -1403,7 +1403,7 @@ STR_1392    :{SMALLFONT}{BLACK}View of ride/attraction
 STR_1393    :{SMALLFONT}{BLACK}Vehicle details and options
 STR_1394    :{SMALLFONT}{BLACK}Operating options
 STR_1395    :{SMALLFONT}{BLACK}Maintenance options
-STR_1396    :{SMALLFONT}{BLACK}Color scheme options
+STR_1396    :{SMALLFONT}{BLACK}Colour scheme options
 STR_1397    :{SMALLFONT}{BLACK}Sound & music options
 STR_1398    :{SMALLFONT}{BLACK}Measurements and test data
 STR_1399    :{SMALLFONT}{BLACK}Graphs
@@ -1532,9 +1532,9 @@ STR_1521    :{SMALLFONT}{OPENQUOTES}This on-ride photo from {STRINGID} is really
 STR_1522    :{SMALLFONT}{OPENQUOTES}This umbrella from {STRINGID} is really good value{ENDQUOTES}
 STR_1523    :{SMALLFONT}{OPENQUOTES}This drink from {STRINGID} is really good value{ENDQUOTES}
 STR_1524    :{SMALLFONT}{OPENQUOTES}This burger from {STRINGID} is really good value{ENDQUOTES}
-STR_1525    :{SMALLFONT}{OPENQUOTES}These fries from {STRINGID} are really good value{ENDQUOTES}
+STR_1525    :{SMALLFONT}{OPENQUOTES}These chips from {STRINGID} are really good value{ENDQUOTES}
 STR_1526    :{SMALLFONT}{OPENQUOTES}This ice cream from {STRINGID} is really good value{ENDQUOTES}
-STR_1527    :{SMALLFONT}{OPENQUOTES}This cotton candy from {STRINGID} is really good value{ENDQUOTES}
+STR_1527    :{SMALLFONT}{OPENQUOTES}This candyfloss from {STRINGID} is really good value{ENDQUOTES}
 STR_1528    :
 STR_1529    :
 STR_1530    :
@@ -1544,9 +1544,9 @@ STR_1533    :{SMALLFONT}{OPENQUOTES}This popcorn from {STRINGID} is really good 
 STR_1534    :{SMALLFONT}{OPENQUOTES}This hot dog from {STRINGID} is really good value{ENDQUOTES}
 STR_1535    :{SMALLFONT}{OPENQUOTES}This tentacle from {STRINGID} is really good value{ENDQUOTES}
 STR_1536    :{SMALLFONT}{OPENQUOTES}This hat from {STRINGID} is really good value{ENDQUOTES}
-STR_1537    :{SMALLFONT}{OPENQUOTES}This candy apple from {STRINGID} is really good value{ENDQUOTES}
+STR_1537    :{SMALLFONT}{OPENQUOTES}This toffee apple from {STRINGID} is really good value{ENDQUOTES}
 STR_1538    :{SMALLFONT}{OPENQUOTES}This T-shirt from {STRINGID} is really good value{ENDQUOTES}
-STR_1539    :{SMALLFONT}{OPENQUOTES}This donut from {STRINGID} is really good value{ENDQUOTES}
+STR_1539    :{SMALLFONT}{OPENQUOTES}This doughnut from {STRINGID} is really good value{ENDQUOTES}
 STR_1540    :{SMALLFONT}{OPENQUOTES}This coffee from {STRINGID} is really good value{ENDQUOTES}
 STR_1541    :
 STR_1542    :{SMALLFONT}{OPENQUOTES}This fried chicken from {STRINGID} is really good value{ENDQUOTES}
@@ -1566,9 +1566,9 @@ STR_1555    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an on-ride phot
 STR_1556    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an umbrella from {STRINGID}{ENDQUOTES}
 STR_1557    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a drink from {STRINGID}{ENDQUOTES}
 STR_1558    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a burger from {STRINGID}{ENDQUOTES}
-STR_1559    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for fries from {STRINGID}{ENDQUOTES}
+STR_1559    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for chips from {STRINGID}{ENDQUOTES}
 STR_1560    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an ice cream from {STRINGID}{ENDQUOTES}
-STR_1561    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for cotton candy from {STRINGID}{ENDQUOTES}
+STR_1561    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for candyfloss from {STRINGID}{ENDQUOTES}
 STR_1562    :
 STR_1563    :
 STR_1564    :
@@ -1578,9 +1578,9 @@ STR_1567    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for popcorn from {S
 STR_1568    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a hot dog from {STRINGID}{ENDQUOTES}
 STR_1569    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for tentacle from {STRINGID}{ENDQUOTES}
 STR_1570    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a hat from {STRINGID}{ENDQUOTES}
-STR_1571    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a candy apple from {STRINGID}{ENDQUOTES}
+STR_1571    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a toffee apple from {STRINGID}{ENDQUOTES}
 STR_1572    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a T-shirt from {STRINGID}{ENDQUOTES}
-STR_1573    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a donut from {STRINGID}{ENDQUOTES}
+STR_1573    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a doughnut from {STRINGID}{ENDQUOTES}
 STR_1574    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for coffee from {STRINGID}{ENDQUOTES}
 STR_1575    :
 STR_1576    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for fried chicken from {STRINGID}{ENDQUOTES}
@@ -1737,8 +1737,8 @@ STR_1726    :Land not for sale!
 STR_1727    :Construction rights not for sale!
 STR_1728    :Can't buy construction rights here...
 STR_1729    :Land not owned by park!
-STR_1730    :{RED}Closed - -
-STR_1731    :{WHITE}{STRINGID} - -
+STR_1730    :{RED}Closed - - 
+STR_1731    :{WHITE}{STRINGID} - - 
 STR_1732    :Build
 STR_1733    :Mode
 STR_1734    :{WINDOW_COLOUR_2}Number of laps:
@@ -1760,7 +1760,7 @@ STR_1749    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{DUR
 STR_1750    :{DURATION}
 STR_1751    :Can't change time limit for ride...
 STR_1752    :{SMALLFONT}{BLACK}Show list of individual guests in park
-STR_1753    :{SMALLFONT}{BLACK}Show summarized list of guests in park
+STR_1753    :{SMALLFONT}{BLACK}Show summarised list of guests in park
 STR_1754    :{BLACK}{COMMA16} guests
 STR_1755    :{BLACK}{COMMA16} guest
 STR_1756    :{WINDOW_COLOUR_2}Admission price:
@@ -1784,8 +1784,8 @@ STR_1773    :Only one on-ride photo section allowed per ride
 STR_1774    :Only one cable lift hill allowed per ride
 STR_1775    :Off
 STR_1776    :On
-STR_1777    :{WINDOW_COLOUR_2}Music
-STR_1778    :{STRINGID} - -
+STR_1777    :{WINDOW_COLOUR_2}Ride music
+STR_1778    :{STRINGID} - - 
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Panda costume
 STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Tiger costume
 STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Elephant costume
@@ -1797,8 +1797,8 @@ STR_1786    :{INLINE_SPRITE}{05}{20}{00}{00} Astronaut costume
 STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Bandit costume
 STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Sheriff costume
 STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Pirate costume
-STR_1790    :{SMALLFONT}{BLACK}Select uniform color for this type of staff
-STR_1791    :{WINDOW_COLOUR_2}Uniform color:
+STR_1790    :{SMALLFONT}{BLACK}Select uniform colour for this type of staff
+STR_1791    :{WINDOW_COLOUR_2}Uniform colour:
 STR_1792    :Responding to {STRINGID} breakdown call
 STR_1793    :Heading to {STRINGID} for an inspection
 STR_1794    :Fixing {STRINGID}
@@ -1826,7 +1826,7 @@ STR_1815    :Thoughts
 STR_1816    :{SMALLFONT}{BLACK}Select information type to show in guest list
 STR_1817    :({COMMA16})
 STR_1818    :{WINDOW_COLOUR_2}All guests
-STR_1819    :{WINDOW_COLOUR_2}All guests (summarized)
+STR_1819    :{WINDOW_COLOUR_2}All guests (summarised)
 STR_1820    :{WINDOW_COLOUR_2}Guests {STRINGID}
 STR_1821    :{WINDOW_COLOUR_2}Guests thinking {STRINGID}
 STR_1822    :{WINDOW_COLOUR_2}Guests thinking about {POP16}{STRINGID}
@@ -1841,7 +1841,7 @@ STR_1830    :Queue length
 STR_1831    :Queue time
 STR_1832    :Reliability
 STR_1833    :Down-time
-STR_1834    :Guests favorite
+STR_1834    :Guests favourite
 STR_1835    :Popularity: Unknown
 STR_1836    :Popularity: {COMMA16}%
 STR_1837    :Satisfaction: Unknown
@@ -1849,8 +1849,8 @@ STR_1838    :Satisfaction: {COMMA16}%
 STR_1839    :Reliability: {COMMA16}%
 STR_1840    :Down-time: {COMMA16}%
 STR_1841    :Profit: {CURRENCY2DP} per hour
-STR_1842    :Favorite of: {COMMA16} guest
-STR_1843    :Favorite of: {COMMA16} guests
+STR_1842    :Favourite of: {COMMA16} guest
+STR_1843    :Favourite of: {COMMA16} guests
 STR_1844    :{SMALLFONT}{BLACK}Select information type to show in ride/attraction list
 STR_1845    :{MONTHYEAR}
 STR_1846    :{COMMA16} guests
@@ -1976,9 +1976,9 @@ STR_1963    :{WINDOW_COLOUR_2}On-Ride Photo price:
 STR_1964    :{WINDOW_COLOUR_2}Umbrella price:
 STR_1965    :{WINDOW_COLOUR_2}Drink price:
 STR_1966    :{WINDOW_COLOUR_2}Burger price:
-STR_1967    :{WINDOW_COLOUR_2}Fries price:
+STR_1967    :{WINDOW_COLOUR_2}Chips price:
 STR_1968    :{WINDOW_COLOUR_2}Ice Cream price:
-STR_1969    :{WINDOW_COLOUR_2}Cotton Candy price:
+STR_1969    :{WINDOW_COLOUR_2}Candyfloss price:
 STR_1970    :{WINDOW_COLOUR_2}
 STR_1971    :{WINDOW_COLOUR_2}
 STR_1972    :{WINDOW_COLOUR_2}
@@ -1988,9 +1988,9 @@ STR_1975    :{WINDOW_COLOUR_2}Popcorn price:
 STR_1976    :{WINDOW_COLOUR_2}Hot Dog price:
 STR_1977    :{WINDOW_COLOUR_2}Tentacle price:
 STR_1978    :{WINDOW_COLOUR_2}Hat price:
-STR_1979    :{WINDOW_COLOUR_2}Candy Apple price:
+STR_1979    :{WINDOW_COLOUR_2}Toffee Apple price:
 STR_1980    :{WINDOW_COLOUR_2}T-Shirt price:
-STR_1981    :{WINDOW_COLOUR_2}Donut price:
+STR_1981    :{WINDOW_COLOUR_2}Doughnut price:
 STR_1982    :{WINDOW_COLOUR_2}Coffee price:
 STR_1983    :{WINDOW_COLOUR_2}
 STR_1984    :{WINDOW_COLOUR_2}Fried Chicken price:
@@ -2004,9 +2004,9 @@ STR_1991    :On-Ride Photo
 STR_1992    :Umbrella
 STR_1993    :Drink
 STR_1994    :Burger
-STR_1995    :Fries
+STR_1995    :Chips
 STR_1996    :Ice Cream
-STR_1997    :Cotton Candy
+STR_1997    :Candyfloss
 STR_1998    :Empty Can
 STR_1999    :Rubbish
 STR_2000    :Empty Burger Box
@@ -2016,9 +2016,9 @@ STR_2003    :Popcorn
 STR_2004    :Hot Dog
 STR_2005    :Tentacle
 STR_2006    :Hat
-STR_2007    :Candy Apple
+STR_2007    :Toffee Apple
 STR_2008    :T-Shirt
-STR_2009    :Donut
+STR_2009    :Doughnut
 STR_2010    :Coffee
 STR_2011    :Empty Cup
 STR_2012    :Fried Chicken
@@ -2032,9 +2032,9 @@ STR_2019    :On-Ride Photos
 STR_2020    :Umbrellas
 STR_2021    :Drinks
 STR_2022    :Burgers
-STR_2023    :Fries
+STR_2023    :Chips
 STR_2024    :Ice Creams
-STR_2025    :Cotton Candy
+STR_2025    :Candyfloss
 STR_2026    :Empty Cans
 STR_2027    :Rubbish
 STR_2028    :Empty Burger Boxes
@@ -2044,9 +2044,9 @@ STR_2031    :Popcorn
 STR_2032    :Hot Dogs
 STR_2033    :Tentacles
 STR_2034    :Hats
-STR_2035    :Candy Apples
+STR_2035    :Toffee Apples
 STR_2036    :T-Shirts
-STR_2037    :Donuts
+STR_2037    :Doughnuts
 STR_2038    :Coffees
 STR_2039    :Empty Cups
 STR_2040    :Fried Chicken
@@ -2060,9 +2060,9 @@ STR_2047    :an On-Ride Photo
 STR_2048    :an Umbrella
 STR_2049    :a Drink
 STR_2050    :a Burger
-STR_2051    :some Fries
+STR_2051    :some Chips
 STR_2052    :an Ice Cream
-STR_2053    :some Cotton Candy
+STR_2053    :some Candyfloss
 STR_2054    :an Empty Can
 STR_2055    :some Rubbish
 STR_2056    :an Empty Burger Box
@@ -2072,9 +2072,9 @@ STR_2059    :some Popcorn
 STR_2060    :a Hot Dog
 STR_2061    :a Tentacle
 STR_2062    :a Hat
-STR_2063    :a Candy Apple
+STR_2063    :a Toffee Apple
 STR_2064    :a T-Shirt
-STR_2065    :a Donut
+STR_2065    :a Doughnut
 STR_2066    :a Coffee
 STR_2067    :an Empty Cup
 STR_2068    :some Fried Chicken
@@ -2088,9 +2088,9 @@ STR_2075    :On-Ride Photo of {STRINGID}
 STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Umbrella
 STR_2077    :Drink
 STR_2078    :Burger
-STR_2079    :Fries
+STR_2079    :Chips
 STR_2080    :Ice Cream
-STR_2081    :Cotton Candy
+STR_2081    :Candyfloss
 STR_2082    :Empty Can
 STR_2083    :Rubbish
 STR_2084    :Empty Burger Box
@@ -2100,9 +2100,9 @@ STR_2087    :Popcorn
 STR_2088    :Hot Dog
 STR_2089    :Tentacle
 STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Hat
-STR_2091    :Candy Apple
+STR_2091    :Toffee Apple
 STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} T-Shirt
-STR_2093    :Donut
+STR_2093    :Doughnut
 STR_2094    :Coffee
 STR_2095    :Empty Cup
 STR_2096    :Fried Chicken
@@ -2299,7 +2299,7 @@ STR_2286    :Designing
 STR_2287    :Completing design
 STR_2288    :Unknown
 STR_2289    :{STRINGID} {STRINGID}
-STR_2290    :{SMALLFONT}{BLACK}{STRINGID} {STRINGID}
+STR_2290    :<not used anymore>
 STR_2291    :Select scenario for new game
 STR_2292    :{WINDOW_COLOUR_2}Rides been on:
 STR_2293    :{BLACK} Nothing
@@ -2326,10 +2326,10 @@ STR_2313    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32} (approx.)
 STR_2314    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}
 STR_2315    :{WINDOW_COLOUR_2}Cost: {BLACK}around {CURRENCY}
 STR_2316    :{WINDOW_COLOUR_2}Space required: {BLACK}{COMMA16} x {COMMA16} blocks
-STR_2317    :{WINDOW_COLOUR_2}Sound Quality:
-STR_2318    :Low
-STR_2319    :Medium
-STR_2320    :High
+STR_2317    :<not used anymore>
+STR_2318    :<not used anymore>
+STR_2319    :<not used anymore>
+STR_2320    :<not used anymore>
 STR_2321    :{WINDOW_COLOUR_2}Number of rides/attractions: {BLACK}{COMMA16}
 STR_2322    :{WINDOW_COLOUR_2}Staff: {BLACK}{COMMA16}
 STR_2323    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}m{SQUARED}
@@ -2369,7 +2369,7 @@ STR_2356    :{WINDOW_COLOUR_2}Rides inspected: {BLACK}{COMMA16}
 STR_2357    :House
 STR_2358    :Units
 STR_2359    :Real Values
-STR_2360    :{WINDOW_COLOUR_2}Display Resolution:
+STR_2360    :Display Resolution:
 STR_2361    :Landscape Smoothing
 STR_2362    :{SMALLFONT}{BLACK}Toggle landscape tile edge smoothing on/off
 STR_2363    :Gridlines on Landscape
@@ -2446,12 +2446,12 @@ STR_2433    :{BLACK}Vouchers for free {STRINGID}
 STR_2434    :{BLACK}Advertising campaign for {STRINGID}
 STR_2435    :{BLACK}Advertising campaign for {STRINGID}
 STR_2436    :1 week
-STR_2437    :2 weeks
-STR_2438    :3 weeks
-STR_2439    :4 weeks
-STR_2440    :5 weeks
-STR_2441    :6 weeks
-STR_2442    :{BLACK}({STRINGID} remaining)
+STR_2437    :<not used anymore>
+STR_2438    :<not used anymore>
+STR_2439    :<not used anymore>
+STR_2440    :<not used anymore>
+STR_2441    :<not used anymore>
+STR_2442    :<not used anymore>
 STR_2443    :{WINDOW_COLOUR_2}Cost per week: {BLACK}{CURRENCY2DP}
 STR_2444    :{WINDOW_COLOUR_2}Total cost: {BLACK}{CURRENCY2DP}
 STR_2445    :Start this marketing campaign
@@ -2508,7 +2508,7 @@ STR_2495    :Cancel construction mode
 STR_2496    :Pause game
 STR_2497    :Zoom view out
 STR_2498    :Zoom view in
-STR_2499    :Rotate view
+STR_2499    :Rotate view clockwise
 STR_2500    :Rotate construction object
 STR_2501    :Underground view toggle
 STR_2502    :Remove base land toggle
@@ -2769,8 +2769,8 @@ STR_2753    :Mowed grass
 STR_2754    :Water plants
 STR_2755    :Fix vandalism
 STR_2756    :Remove litter
-STR_2757    :Force Sun
-STR_2758    :Force Thunder
+STR_2757    :<not used anymore>
+STR_2758    :<not used anymore>
 STR_2759    :Zero Clearance
 STR_2760    :+{CURRENCY}
 STR_2761    :<not used anymore>
@@ -2787,7 +2787,7 @@ STR_2771    :Slower Gamespeed
 STR_2772    :Faster Gamespeed
 STR_2773    :Windowed
 STR_2774    :Fullscreen
-STR_2775    :Fullscreen (borderless)
+STR_2775    :Fullscreen (borderless window)
 STR_2776    :Language:
 STR_2777    :{MOVE_X}{SMALLFONT}{STRING}
 STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRING}
@@ -3774,7 +3774,7 @@ STR_5424    :等待{MOVE_X}{87}{COMMA16}
 STR_5425    :重新开始
 STR_5426    :结束
 STR_5427    :坐标:
-STR_5428    :Counter-clockwise rotations:
+STR_5428    :Anticlockwise rotations:
 STR_5429    :Zoom level:
 STR_5430    :Seconds to wait:
 STR_5431    :Save to load:
@@ -3786,7 +3786,7 @@ STR_5436    :Edit Title Sequences...
 STR_5437    :No save selected
 STR_5438    :Can't make changes while command editor is open
 STR_5439    :A wait command with at least 4 seconds is required with a restart command
-STR_5440    :Minimize fullscreen on focus loss
+STR_5440    :Minimise fullscreen on focus loss
 STR_5441    :{SMALLFONT}{BLACK}Identifies rides by track type,{NEWLINE}so vehicles can be changed{NEWLINE}afterwards, like in RCT1.
 STR_5442    :Force park rating:
 STR_5443    :速度{MOVE_X}{87}{STRINGID}
@@ -3805,8 +3805,8 @@ STR_5455    :Enable sandbox mode
 STR_5456    :Disable clearance checks
 STR_5457    :Disable support limits
 STR_5458    :Rotate clockwise
-STR_5459    :Rotate counterclockwise
-STR_5460    :Rotate view counterclockwise
+STR_5459    :Rotate anti-clockwise
+STR_5460    :Rotate view anti-clockwise
 STR_5461    :Set guests' parameters
 STR_5462    :{CURRENCY}
 STR_5463    :Goal: Have fun!
