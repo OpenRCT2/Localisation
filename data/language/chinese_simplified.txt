@@ -1015,13 +1015,13 @@ STR_1004    :不能关闭 {POP16}{POP16}{POP16}{STRINGID}...
 STR_1005    :Can't start construction on {POP16}{POP16}{POP16}{STRINGID}...
 STR_1006    :必须先关闭
 STR_1007    :Unable to create enough vehicles
-STR_1008    :{SMALLFONT}{BLACK}Open, close, or test ride/attraction
-STR_1009    :{SMALLFONT}{BLACK}Open or close all rides/attractions
-STR_1010    :{SMALLFONT}{BLACK}Open or close park
+STR_1008    :{SMALLFONT}{BLACK}开放, 关闭或测试游乐设施/店铺
+STR_1009    :{SMALLFONT}{BLACK}开放或关闭所有游乐设施/店铺
+STR_1010    :{SMALLFONT}{BLACK}开放或关闭游乐园
 STR_1011    :关闭所有游乐设施
 STR_1012    :开启所有游乐设施
-STR_1013    :关闭游乐场
-STR_1014    :开放游乐场
+STR_1013    :关闭游乐园
+STR_1014    :开放游乐园
 STR_1015    :Unable to operate with more than one station platform in this mode
 STR_1016    :Unable to operate with less than two stations in this mode
 STR_1017    :Can't change operating mode...
@@ -1060,11 +1060,11 @@ STR_1049    :存储地形失败!
 STR_1050    :载入失败...{NEWLINE}文件中含有不可读取的数据!
 STR_1051    :Invisible Supports
 STR_1052    :Invisible People
-STR_1053    :{SMALLFONT}{BLACK}Rides/attractions in park
-STR_1054    :{SMALLFONT}{BLACK}Name ride/attraction
-STR_1055    :{SMALLFONT}{BLACK}Name person
-STR_1056    :{SMALLFONT}{BLACK}Name staff member
-STR_1057    :Ride/attraction name
+STR_1053    :{SMALLFONT}{BLACK}游乐园内的游乐设施
+STR_1054    :{SMALLFONT}{BLACK}命名游乐设施/店铺
+STR_1055    :{SMALLFONT}{BLACK}命名游客
+STR_1056    :{SMALLFONT}{BLACK}命名职员
+STR_1057    :游乐设施/店铺名称
 STR_1058    :Enter new name for this ride/attraction:
 STR_1059    :Can't rename ride/attraction...
 STR_1060    :Invalid ride/attraction name
@@ -2781,8 +2781,8 @@ STR_2765    :Large Tram
 STR_2766    :Win scenario
 STR_2767    :Freeze Climate
 STR_2768    :Unfreeze Climate
-STR_2769    :开放游乐场
-STR_2770    :关闭游乐场
+STR_2769    :开放游乐园
+STR_2770    :关闭游乐园
 STR_2771    :减慢游戏速度
 STR_2772    :加快游戏速度
 STR_2773    :窗口
