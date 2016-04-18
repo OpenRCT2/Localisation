@@ -2337,9 +2337,9 @@ STR_2324    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}sq.ft.
 STR_2325    :{SMALLFONT}{BLACK}Buy land to extend park
 STR_2326    :{SMALLFONT}{BLACK}Buy construction rights to allow construction above or below land outside the park
 STR_2327    :选项
-STR_2328    :{WINDOW_COLOUR_2}Currency:
+STR_2328    :{WINDOW_COLOUR_2}货币单位:
 STR_2329    :{WINDOW_COLOUR_2}Distance and Speed:
-STR_2330    :{WINDOW_COLOUR_2}Temperature:
+STR_2330    :{WINDOW_COLOUR_2}温度单位:
 STR_2331    :{WINDOW_COLOUR_2}Height Labels:
 STR_2332    :Units
 STR_2333    :Sound
@@ -3613,14 +3613,14 @@ STR_5263    :Time Twister
 STR_5264    :Custom
 STR_5265    :{SMALLFONT}{BLACK}Select which content sources are visible
 STR_5266    :{SMALLFONT}{BLACK}显示
-STR_5267    :{SMALLFONT}{BLACK}Culture and Units
-STR_5268    :{SMALLFONT}{BLACK}Audio
-STR_5269    :{SMALLFONT}{BLACK}Controls and interface
+STR_5267    :{SMALLFONT}{BLACK}语言及单位
+STR_5268    :{SMALLFONT}{BLACK}音效
+STR_5269    :{SMALLFONT}{BLACK}控制及界面
 STR_5270    :{SMALLFONT}{BLACK}Miscellaneous
 STR_5271    :{SMALLFONT}{BLACK}Twitch
-STR_5272    :{SMALLFONT}{BLACK}Small Scenery
-STR_5273    :{SMALLFONT}{BLACK}Large Scenery
-STR_5274    :{SMALLFONT}{BLACK}Footpath
+STR_5272    :{SMALLFONT}{BLACK}小型景观
+STR_5273    :{SMALLFONT}{BLACK}大型景观
+STR_5274    :{SMALLFONT}{BLACK}道路
 STR_5275    :Search for Objects
 STR_5276    :Enter the name of an object to search for
 STR_5277    :Clear
@@ -4039,7 +4039,7 @@ STR_5724    :Thunderstorm
 STR_5725    :{BLACK}Force weather:
 STR_5726    :{SMALLFONT}{BLACK}Sets the current weather in park
 STR_5727    :缩放质量
-STR_5728    :Requires hardware display option
+STR_5728    :需要开启硬件渲染
 STR_5729    :{SMALLFONT}{BLACK}Requires hardware display option
 STR_5730    :最近相邻
 STR_5731    :线性
@@ -4072,9 +4072,9 @@ STR_5756    :Bad Password
 STR_5757    :Server Full
 STR_5758    :{OUTLINE}{GREEN}{STRING} has joined the game
 STR_5759    :下载地图中 ... ({INT32} / {INT32}) KB
-STR_5760    :Hong Kong Dollars (HK$)
-STR_5761    :New Taiwan Dollar (NT$)
-STR_5762    :Chinese Yuan (CN{YEN})
+STR_5760    :港币 (HK$)
+STR_5761    :新台币 (NT$)
+STR_5762    :人民币 (CN{YEN})
 STR_5763    :All files
 STR_5764    :Invalid ride type
 STR_5765    :Cannot edit rides of invalid type
