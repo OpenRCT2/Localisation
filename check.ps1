@@ -19,10 +19,10 @@ if (-not (Test-Path -PathType Leaf $langcheckPath) -or $Rebuild)
 
 # Grab en-GB from main repository
 $languagePath = ".\data\language"
-$basePack     = "$languagePath\english_uk.txt"
+$basePack     = "$languagePath\en-GB.txt"
 if (-not (Test-Path -PathType Leaf $basePack))
 {
-    $url = "https://raw.githubusercontent.com/OpenRCT2/OpenRCT2/develop/data/language/english_uk.txt"
+    $url = "https://raw.githubusercontent.com/OpenRCT2/OpenRCT2/develop/data/language/en-GB.txt"
     Invoke-WebRequest $url -OutFile $basePack
 }
 
@@ -39,7 +39,7 @@ if ($LASTEXITCODE -ne 0)
 # Check all language files against en-GB
 foreach ($languageFile in $languageFiles)
 {
-    if ($languageFile.Name -eq "english_uk.txt")
+    if ($languageFile.Name -eq "en-GB.txt")
     {
         continue;
     }
