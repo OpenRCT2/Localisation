@@ -3999,26 +3999,27 @@ STR_5650    :Remove Ride
 STR_5651    :Build Ride
 STR_5652    :Ride Properties
 STR_5653    :Scenery
-STR_5654    :Path
-STR_5655    :Guest
-STR_5656    :Staff
-STR_5657    :Park Properties
-STR_5658    :Park Funding
-STR_5659    :Kick Player
-STR_5660    :Modify Groups
-STR_5661    :Set Player Group
+＃TODO 是否需要添加动词
+STR_5654    :道路
+STR_5655    :游客
+STR_5656    :职员
+STR_5657    :游乐园属性
+STR_5658    :游乐园资金
+STR_5659    :踢出玩家
+STR_5660    :修改组
+STR_5661    :设置玩家组
 STR_5662    :N/A
-STR_5663    :Clear Landscape
-STR_5664    :Cheat
+STR_5663    :清除景物
+STR_5664    :作弊
 STR_5665    :Toggle Scenery Cluster
-STR_5701    :{WINDOW_COLOUR_2}Last action: {BLACK}{STRINGID}
+STR_5701    :{WINDOW_COLOUR_2}最近的行为: {BLACK}{STRINGID}
 STR_5702    :{SMALLFONT}{BLACK}Locate player's most recent action
-STR_5703    :不能提出创建者
+STR_5703    :不能踢出创建者
 STR_5704    :最近的行为:
-STR_5705    :Can't set to this group
-STR_5706    :Can't remove group that players belong to
-STR_5707    :This group cannot be modified
-STR_5708    :Can't change the group that the host belongs to
+STR_5705    :不能将此玩家分配到该组
+STR_5706    :不能删除有玩家在内的组
+STR_5707    :不能修改此组
+STR_5708    :不能改变创建者所在的组
 STR_5709    :重命名组
 STR_5710    :组名
 STR_5711    :请输入该组的新名称:
@@ -4028,8 +4029,8 @@ STR_5714    :显示设置窗口
 STR_5715    :新游戏
 STR_5716    :不能在多人模式中使用
 # For identifying client network version in server list window
-STR_5717    :Network version: {STRING}
-STR_5718    :{SMALLFONT}{BLACK}Network version: {STRING}
+STR_5717    :网络版本: {STRING}
+STR_5718    :{SMALLFONT}{BLACK}网络版本: {STRING}
 STR_5719    :晴天
 STR_5720    :多云间晴
 STR_5721    :多云
