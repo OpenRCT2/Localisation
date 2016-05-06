@@ -29,4 +29,4 @@ This allows you to edit and push changes of files to your fork so that you can t
 For more information, visit GitHub's official [forking guide](https://guides.github.com/activities/forking/).
 
 ### Creating a new language
-If you want to begin translating OpenRCT2 for a new language, create a new file in the data directory with the correct two letter language and country code, then paste the contents of the [en-GB](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt) file into it and start translating the strings.
+If you want to begin translating OpenRCT2 for a new language, create a new file in the data directory with the correct two letter [language](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes#Partial_ISO_639_table) and [country codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Decoding_table) (e.g. `cs-CZ`), then paste the contents of the [en-GB](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt) file into it and start translating the strings.
