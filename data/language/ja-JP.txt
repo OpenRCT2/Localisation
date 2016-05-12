@@ -769,10 +769,10 @@ STR_0764    :来客{INT32}
 STR_0765    :来客{INT32}
 STR_0766    :来客{INT32}
 STR_0767    :来客{INT32}
-STR_0768    :便利屋 {INT32}
-STR_0769    :修理工 {INT32}
-STR_0770    :警備員 {INT32}
-STR_0771    :Entertainer {INT32}
+STR_0768    :清掃員{INT32}
+STR_0769    :整備士{INT32}
+STR_0770    :警備員{INT32}
+STR_0771    :エンターテイナー{INT32}
 STR_0772    :Unnamed park{POP16}{POP16}
 STR_0773    :Unnamed park{POP16}{POP16}
 STR_0774    :Unnamed park{POP16}{POP16}
@@ -1702,13 +1702,13 @@ STR_1696    :{SMALLFONT}{BLACK}Customer information
 STR_1697    :Cannot place these on queue line area
 STR_1698    :Can only place these on queue area
 STR_1699    :Too many people in game
-STR_1700    :便利屋を雇います
-STR_1701    :Hire new 修理工
-STR_1702    :Hire new Security Guard
-STR_1703    :Hire new Entertainer
-STR_1704    :Can't hire new staff...
-STR_1705    :{SMALLFONT}{BLACK}Sack this staff member
-STR_1706    :{SMALLFONT}{BLACK}Move this person to a new location
+STR_1700    :清掃員を雇う
+STR_1701    :整備士を雇う
+STR_1702    :警備員を雇う
+STR_1703    :エンタテイナーを雇う
+STR_1704    :新規スタッフを雇うことができません
+STR_1705    :{SMALLFONT}{BLACK}このスタッフをクビにする
+STR_1706    :{SMALLFONT}{BLACK}このスタッフを新しい場所に移動させる
 STR_1707    :Too many staff in game
 STR_1708    :{SMALLFONT}{BLACK}Set patrol area for this staff member
 STR_1709    :Sack staff
@@ -1861,14 +1861,14 @@ STR_1855    :{WINDOW_COLOUR_2}Built: {BLACK}{COMMA16} Years Ago
 STR_1856    :{WINDOW_COLOUR_2}Profit per item sold: {BLACK}{CURRENCY2DP}
 STR_1857    :{WINDOW_COLOUR_2}Loss per item sold: {BLACK}{CURRENCY2DP}
 STR_1858    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY2DP} per month
-STR_1859    :便利屋
-STR_1860    :修理工
+STR_1859    :清掃員
+STR_1860    :整備士
 STR_1861    :警備員
-STR_1862    :Entertainers
-STR_1863    :便利屋
-STR_1864    :修理工
+STR_1862    :エンターテイナー
+STR_1863    :清掃員
+STR_1864    :整備士
 STR_1865    :警備員
-STR_1866    :Entertainer
+STR_1866    :エンターテイナー
 STR_1867    :{BLACK}{COMMA16} {STRINGID}
 STR_1868    :回転数が変更できない...
 STR_1869    :{WINDOW_COLOUR_2}回転数:
@@ -2262,7 +2262,7 @@ STR_2254    :ジェントルライド
 STR_2255    :ジェットコースター
 STR_2256    :Thrill Rides
 STR_2257    :Water Rides
-STR_2258    :Shops & Stalls
+STR_2258    :軽食店と雑貨屋
 STR_2259    :Scenery & Themeing
 STR_2260    :No funding
 STR_2261    :Minimum funding
@@ -2984,9 +2984,9 @@ STR_2973    :Alternative colour scheme 2
 STR_2974    :Alternative colour scheme 3
 STR_2975    :{SMALLFONT}{BLACK}Select which colour scheme to change, or paint ride with
 STR_2976    :{SMALLFONT}{BLACK}Paint an individual area of this ride using the selected colour scheme
-STR_2977    :Staff member name
-STR_2978    :Enter new name for this member of staff:
-STR_2979    :Can't name staff member...
+STR_2977    :スタッフの名前
+STR_2978    :新しい名前を入力してください:
+STR_2979    :スタッフに名前を付けられません
 STR_2980    :Too many banners in game
 STR_2981    :{RED}No entry - - 
 STR_2982    :Banner text
@@ -3545,8 +3545,8 @@ STR_5203    :Ride
 STR_5204    :Ride List
 STR_5205    :Guest
 STR_5206    :Guest List
-STR_5207    :Staff
-STR_5208    :Staff List
+STR_5207    :スタッフ
+STR_5208    :スタッフ一覧
 STR_5209    :Banner
 STR_5210    :Object Selection
 STR_5211    :Invention List
