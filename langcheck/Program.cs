@@ -41,7 +41,7 @@ namespace langcheck
                         string baseString = kvp.Value.Text;
                         if (!translationPack.Entries.ContainsKey(id))
                         {
-                            string message = String.Format("No string for STR_{0:0000}:    {1}", id, baseString);
+                            string message = String.Format("  warning: No string for STR_{0:0000}:    {1}", id, baseString);
                             WriteLine(message, ConsoleColor.Yellow);
                         }
                     }
