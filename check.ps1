@@ -8,12 +8,12 @@ param (
 $ErrorActionPreference = "Stop"
 
 # Build langcheck
-$langcheckPath = ".\langcheck\bin\Release\dnxcore50\langcheck.exe"
+$langcheckPath = ".\langcheck\bin\Release\netcoreapp1.0\langcheck.dll"
 if (-not (Test-Path -PathType Leaf $langcheckPath) -or $Rebuild)
 {
     pushd ".\langcheck"
         dotnet restore -v Warning
-        dotnet build -c Release -f dnxcore50
+        dotnet build -c Release
     popd
 }
 
@@ -30,7 +30,7 @@ $languageFiles = Get-ChildItem $languagePath
 $result = $true
 
 # Check en-GB for errors
-& $langcheckPath $basePack $translationPack
+dotnet $langcheckPath $basePack $translationPack
 if ($LASTEXITCODE -ne 0)
 {
     $result = $false
@@ -47,7 +47,7 @@ foreach ($languageFile in $languageFiles)
     $translationPack = "$languagePath\$($languageFile.Name)"
 
     $sw = [Diagnostics.Stopwatch]::StartNew()
-    & $langcheckPath $basePack $translationPack
+    dotnet $langcheckPath $basePack $translationPack
     $sw.Stop()
     $testDuration = $sw.ElapsedMilliseconds
 

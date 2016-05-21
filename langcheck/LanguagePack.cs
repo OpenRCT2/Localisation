@@ -1,13 +1,25 @@
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 
 namespace langcheck
 {
     internal class LanguagePack
     {
+        private Dictionary<int, LanguageEntry> _entries;
+
+        public IReadOnlyDictionary<int, LanguageEntry> Entries => _entries;
+
         public LanguagePack(IEnumerable<LanguageEntry> entries)
         {
-            
+            _entries = new Dictionary<int, LanguageEntry>();
+            foreach (LanguageEntry entry in entries)
+            {
+                if (!_entries.ContainsKey(entry.Id))
+                {
+                    _entries.Add(entry.Id, entry);
+                }
+            }
         }
 
         public static LanguagePack LoadFromFile(string path, IErrorLogger logger)

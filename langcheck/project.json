@@ -1,14 +1,16 @@
 {
   "title": "Language Checker",
-  "version": "1.0.0-*",
-  "compilationOptions": {
+  "version": "1.1.0-*",
+  "buildOptions": {
     "emitEntryPoint": true
   },
-  "frameworks": {
-    "dnxcore50": {
-      "dependencies": {
-        "NETStandard.Library": "1.0.0-*"
-      }
+  "dependencies": {
+    "Microsoft.NETCore.App": {
+      "type": "platform",
+      "version": "1.0.0-rc2-*"
     }
+  },
+  "frameworks": {
+    "netcoreapp1.0": { }
   }
 }

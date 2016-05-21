@@ -43,8 +43,16 @@ namespace langcheck
                     ParseGroupScenario(reader, lineNumber);
                     return null;
                 default:
-                    ParseEntry(reader, lineNumber);
-                    return null;
+                    {
+                        ParseEntry(reader, lineNumber);
+
+                        LanguageEntry entry;
+                        if (LanguageEntry.TryParse(line, out entry))
+                        {
+                            return entry;
+                        }
+                    }
+                    break;
                 }
             }
             return null;

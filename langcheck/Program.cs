@@ -9,8 +9,9 @@ namespace langcheck
         {
             public const int Fatal = -1;
             public const int OK = 0;
-            public const int Errors = 1;
-            public const int UsageInfo = 2;
+            public const int UsageInfo = 1;
+            public const int Errors = 2;
+            public const int Warnings = 3;
         }
 
         public static int Main(string[] args)
@@ -33,6 +34,17 @@ namespace langcheck
 
                     WriteLine($"Parsing {translationPackPath}", ConsoleColor.Cyan);
                     var translationPack = LanguagePack.LoadFromFile(translationPackPath, logger);
+
+                    foreach (var kvp in basePack.Entries)
+                    {
+                        int id = kvp.Key;
+                        string baseString = kvp.Value.Text;
+                        if (!translationPack.Entries.ContainsKey(id))
+                        {
+                            string message = String.Format("No string for STR_{0:0000}:    {1}", id, baseString);
+                            WriteLine(message, ConsoleColor.Yellow);
+                        }
+                    }
                 }
                 else
                 {
@@ -40,10 +52,15 @@ namespace langcheck
                     return ExitCodes.UsageInfo;
                 }
 
-                if (logger.HasWarnings || logger.HasErrors)
+                if (logger.HasErrors)
                 {
                     Console.WriteLine();
                     return ExitCodes.Errors;
+                }
+                else if (logger.HasWarnings)
+                {
+                    Console.WriteLine();
+                    return ExitCodes.Warnings;
                 }
             }
             catch (IOException ex)
