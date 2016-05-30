@@ -5,7 +5,6 @@ STR_0000    :...
 ```
 
 Updated in:
-- [ ] en-GB
 - [ ] en-US
 - [ ] cs-CZ
 - [ ] nl-NL
@@ -17,4 +16,3 @@ Updated in:
 - [ ] ko-KR
 - [ ] zh-CN
 - [ ] zh-TW
-
