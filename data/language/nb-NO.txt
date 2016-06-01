@@ -12,19 +12,19 @@ STR_0007    :Miniatyrtog
 STR_0008    :Monorail
 STR_0009    :Mini hengende bane
 STR_0010    :Båttur
-STR_0011    :Tre-villmus
+STR_0011    :Ville mus av tre
 STR_0012    :Hinderløp
 STR_0013    :Bilbane
 STR_0014    :Fritt fall
 STR_0015    :Bobbane
 STR_0016    :Observasjonstårn
 STR_0017    :Loopende berg-og-dal-bane
-STR_0018    :Gummibåtbane
+STR_0018    :Gummibåtsklie
 STR_0019    :Gruvetogbane
 STR_0020    :Stolheis
 STR_0021    :Korketrekker berg-og-dal-bane
 STR_0022    :Labyrint
-STR_0023    :Spiralsklie
+STR_0023    :Spiralsklietårn
 STR_0024    :Go kart
 STR_0025    :Tømmerrenne
 STR_0026    :Elvestryk
@@ -43,7 +43,7 @@ STR_0038    :Toaletter
 STR_0039    :Pariserhjul
 STR_0040    :Bevegelsessimulator
 STR_0041    :3D kino
-STR_0042    :Top Spin
+STR_0042    :Topp spinn
 STR_0043    :Romringer
 STR_0044    :Bakvendt fritt fall-bane
 STR_0045    :Heis
@@ -57,7 +57,7 @@ STR_0052    :Spøkelsestog
 STR_0053    :Ståltwister berg-og-dal-bane
 STR_0054    :Tre-berg-og-dal-bane
 STR_0055    :Side-friksjonsberg-og-dal-bane
-STR_0056    :Villmus
+STR_0056    :Ville mus
 STR_0057    :Multidimensjonal berg-og-dal-bane
 STR_0058    :Ukjent attraksjon (38)
 STR_0059    :Flyvende berg-og-dal-bane
@@ -93,7 +93,7 @@ STR_0088    :Invertert impulsbane
 STR_0089    :Miniberg-og-dal-bane
 STR_0090    :Gruvebane
 STR_0091    :Ukjent attraksjon (59)
-STR_0092    :Berg-og-dal-bane med induksjonsdrevet utskytning
+STR_0092    :LIM-berg-og-dal-bane
 STR_0093    :
 STR_0094    :
 STR_0095    :
@@ -521,23 +521,23 @@ STR_0516    :En rolig berg-og-dal-bane for dem som ikke enda tør våge seg på 
 STR_0517    :Passasjerer kjører i miniatyrtog langs en smalsport togbane
 STR_0518    :Passasjerer reiser i elektriske tog lang en monorailbane
 STR_0519    :Passasjerer kjører i små vogner, hengende under en enkelt skinne, hvor de svinger fritt fra side til side i svingene
-STR_0520    :En brygge hvor gjester kan kjøre/ro på vannet
+STR_0520    :En brygge hvor gjester kan kjøre/ro personlige fartøy på vannet
 STR_0521    :En rask og forskrudd berg-og-dal-bane med skarpe svinger og bratte fall; høy intensitet er garantert
 STR_0522    :En liten berg-og-dal-bane hvor det ikke er noen vogn mellom passasjerene og banen
 STR_0523    :Passasjerer reiser sakte i motoriserte biler langs en bane
-STR_0524    :Fritt fall-vogner blir ptneumatisk skutt opp et høyt ståltårn, for så å falle fritt ned igjen
+STR_0524    :Fritt fall-vogner blir pneumatisk skutt opp et høyt ståltårn, for så å falle fritt ned igjen
 STR_0525    :Passasjerer raser ned en vridd bane, kun styrt av kurvaturen i svingene
 STR_0526    :Passasjerer blir løftet opp et høyt tårn i en roterende lukket observasjonsplatform
-STR_0527    :En mye stål-berg-og-dal-bane med mulighet for vertikale looper
-STR_0528    :Passasjerer sitter på oppblåsbare gummibåter mens de suser nedoever en vridd halvsirkelformet, eller helt lukket, rørbane
-STR_0529    :Gruvetog-liknende berg-og-dal-banetog raser bortover en stålbane som etterlikner gamle togskinner
-STR_0530    :Vogner henger fra en stålkabel som går fra den ene enden av attraksjonen til den andre, og tilbake
+STR_0527    :En myk stål-berg-og-dal-bane med mulighet for vertikale looper
+STR_0528    :Passasjerer sitter på oppblåsbare gummibåter mens de suser nedover en vridd halvsirkelformet, eller helt lukket, rørbane
+STR_0529    :Gruvetog-liknende berg-og-dal-banetog raser langs en stålbane som etterlikner gamle togskinner
+STR_0530    :Vogner henger fra en stålkabel som går mellom begge endene av attraksjonen
 STR_0531    :En kompakt berg-og-dal-bane i stål hvor togene går gjennom korketrekkere og looper
 STR_0532    :
 STR_0533    :
-STR_0534    :Bensindrevne go karts man styrer selv
-STR_0535    :Tømmer-formede båter flyter langs kanaler, og suser ned bratte fall for å gjøre passasjerene våte
-STR_0536    :Sirkulære båter flyter rolig langs en bred kanal, hvor de går gjennom brusende stryk og fossefall
+STR_0534    :Bensindrevne go karts gjester kan kjøre selv
+STR_0535    :Tømmerformede båter flyter langs kanaler, og suser ned bratte fall for å sprute vann på passasjerene
+STR_0536    :Sirkulære båter flyter rolig langs en bred kanal, og må traversere brusende stryk og fossefall
 STR_0537    :
 STR_0538    :
 STR_0539    :
@@ -555,9 +555,9 @@ STR_0550    :
 STR_0551    :
 STR_0552    :
 STR_0553    :
-STR_0554    :Vognen aksellererer ut av stasjonen langs en lang rett strekninig ved hjelp av lineære induksjonsmotorer, for så å bli ledet rett opp et høyt tårn, hvor den faller fritt nedover igjen og ruller tilbake til stasjonen
+STR_0554    :Vognen blir skutt ut av stasjonen langs en rett strekning ved hjelp av lineære induksjonsmotorer, for så å bli ledet rett opp et høyt tårn, hvor den faller fritt baklengs tilbake til stasjonen
 STR_0555    :Gjester reiser opp eller ned et vertikalt tårn for å komme fra ett nivå til et annet
-STR_0556    :Extra vide vogner drar ned helt vertikale fall for den ultimate fritt fall-berg-og-dal-baneerfaringen
+STR_0556    :Extra vide vogner kjører ned vertikale fall for en ultimat fritt fall-opplevelse
 STR_0557    :
 STR_0558    :
 STR_0559    :
