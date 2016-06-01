@@ -28,15 +28,15 @@ Changes to the master branch are merged into the develop branch of OpenRCT2/Open
 [![](https://img.shields.io/badge/pt--BR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pt-BR.txt) |
 [![](https://img.shields.io/badge/sv--SE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/sv-SE.txt) |
 [![](https://img.shields.io/badge/zh--CN-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-CN.txt) |
-[![](https://img.shields.io/badge/zh--TW-maintained-green.svg      )](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-TW.txt) |
-
+[![](https://img.shields.io/badge/zh--TW-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-TW.txt) |
+| #outdated
 [![](https://img.shields.io/badge/it--IT-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/it-IT.txt) |
 [![](https://img.shields.io/badge/ja--JP-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ja-JP.txt) |
-[![](https://img.shields.io/badge/pl--PL-outdated-yellow.svg       )](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pl-PL.txt) |
-
-[![](https://img.shields.io/badge/fi--FI-outdated-red.svg          )](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fi-FI.txt) |
-[![](https://img.shields.io/badge/hu--HU-outdated-red.svg          )](https://github.com/OpenRCT2/Localisation/blob/master/data/language/hu-HU.txt) |
-[![](https://img.shields.io/badge/ru--RU-outdated-red.svg          )](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt) |
+[![](https://img.shields.io/badge/pl--PL-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pl-PL.txt) |
+| #outdated
+[![](https://img.shields.io/badge/fi--FI-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fi-FI.txt) |
+[![](https://img.shields.io/badge/hu--HU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/hu-HU.txt) |
+[![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt) |
 
 ## Contributing
 To contribute to the translation of OpenRCT2, you will need to fork this repository.
