@@ -17,27 +17,27 @@ Changes to the master branch are merged into the develop branch of OpenRCT2/Open
 ### Language Status
 Language | Maintainer | Vanilla strings | OpenRCT2 strings | Last string |
 |--------|------------|-----------------|------------------|-------------|
-[![](https://img.shields.io/badge/en--GB-maintained-green.svg)](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt   ) | ---- |
-[![](https://img.shields.io/badge/en--US-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/en-US.txt) | X |
-[![](https://img.shields.io/badge/cs--CZ-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/cs-CZ.txt) | X |
-[![](https://img.shields.io/badge/de--DE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/de-DE.txt) | X |
-[![](https://img.shields.io/badge/es--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/es-ES.txt) | X |
-[![](https://img.shields.io/badge/fr--FR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-FR.txt) | X |
-[![](https://img.shields.io/badge/ko--KR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ko-KR.txt) | X |
-[![](https://img.shields.io/badge/nb--NO-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt) | X |
-[![](https://img.shields.io/badge/nl--NL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nl-NL.txt) | X |
-[![](https://img.shields.io/badge/pt--BR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pt-BR.txt) | X |
-[![](https://img.shields.io/badge/sv--SE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/sv-SE.txt) | [@Nubbie](https://github.com/Nubbie) |
-[![](https://img.shields.io/badge/zh--CN-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-CN.txt) | X |
-[![](https://img.shields.io/badge/zh--TW-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-TW.txt) | X |
+[![](https://img.shields.io/badge/en--GB-maintained-green.svg)](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt   ) | ---- | ![](http://progressed.io/bar/100) | ![](http://progressed.io/bar/100) | STR_XXXX
+[![](https://img.shields.io/badge/en--US-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/en-US.txt) | X |  ![](http://progressed.io/bar/100) | ![](http://progressed.io/bar/100) | STR_XXXX
+[![](https://img.shields.io/badge/cs--CZ-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/cs-CZ.txt) | X | ![](http://progressed.io/bar/100) | ![](http://progressed.io/bar/100) | STR_XXXX
+[![](https://img.shields.io/badge/de--DE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/de-DE.txt) | X | ![](http://progressed.io/bar/100) | ![](http://progressed.io/bar/100) | STR_XXXX
+[![](https://img.shields.io/badge/es--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/es-ES.txt) | X | ![](http://progressed.io/bar/100) | ![](http://progressed.io/bar/100) | STR_XXXX
+[![](https://img.shields.io/badge/fr--FR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-FR.txt) | X | ![](http://progressed.io/bar/100) | ![](http://progressed.io/bar/100) | STR_XXXX
+[![](https://img.shields.io/badge/ko--KR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ko-KR.txt) | X | ![](http://progressed.io/bar/100) | ![](http://progressed.io/bar/100) | STR_XXXX
+[![](https://img.shields.io/badge/nb--NO-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt) | X | ![](http://progressed.io/bar/100) | ![](http://progressed.io/bar/100) | STR_XXXX
+[![](https://img.shields.io/badge/nl--NL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nl-NL.txt) | X | ![](http://progressed.io/bar/100) | ![](http://progressed.io/bar/100) | STR_XXXX
+[![](https://img.shields.io/badge/pt--BR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pt-BR.txt) | X | ![](http://progressed.io/bar/100) | ![](http://progressed.io/bar/100) | STR_XXXX
+[![](https://img.shields.io/badge/sv--SE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/sv-SE.txt) | [@Nubbie](https://github.com/Nubbie) | ![](http://progressed.io/bar/100) | ![](http://progressed.io/bar/100) | STR_XXXX
+[![](https://img.shields.io/badge/zh--CN-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-CN.txt) | X | ![](http://progressed.io/bar/100) | ![](http://progressed.io/bar/100) | STR_XXXX
+[![](https://img.shields.io/badge/zh--TW-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-TW.txt) | X | ![](http://progressed.io/bar/100) | ![](http://progressed.io/bar/100) | STR_XXXX
 | #outdated
-[![](https://img.shields.io/badge/it--IT-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/it-IT.txt) | X |
-[![](https://img.shields.io/badge/ja--JP-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ja-JP.txt) | X |
-[![](https://img.shields.io/badge/pl--PL-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pl-PL.txt) | X |
+[![](https://img.shields.io/badge/it--IT-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/it-IT.txt) | X | ![](http://progressed.io/bar/50) | ![](http://progressed.io/bar/50) | STR_XXXX
+[![](https://img.shields.io/badge/ja--JP-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ja-JP.txt) | X | ![](http://progressed.io/bar/50) | ![](http://progressed.io/bar/50) | STR_XXXX
+[![](https://img.shields.io/badge/pl--PL-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pl-PL.txt) | X | ![](http://progressed.io/bar/50) | ![](http://progressed.io/bar/50) | STR_XXXX
 | #outdated
-[![](https://img.shields.io/badge/fi--FI-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fi-FI.txt) | X |
-[![](https://img.shields.io/badge/hu--HU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/hu-HU.txt) | X |
-[![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt) |
+[![](https://img.shields.io/badge/fi--FI-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fi-FI.txt) | X | ![](http://progressed.io/bar/10) | ![](http://progressed.io/bar/10) | STR_XXXX
+[![](https://img.shields.io/badge/hu--HU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/hu-HU.txt) | X | ![](http://progressed.io/bar/10) | ![](http://progressed.io/bar/10) | STR_XXXX
+[![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt) | x | ![](http://progressed.io/bar/10) | ![](http://progressed.io/bar/10) | STR_XXXX
 
 
 
