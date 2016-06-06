@@ -902,8 +902,8 @@ STR_0891    :截图
 STR_0892    :截图 '{STRINGID}' 已保存
 STR_0893    :截图失败!
 STR_0894    :Landscape data area full !
-STR_0895    :Can't build partly above and partly below ground
-STR_0896    :{POP16}{POP16}{STRINGID} Construction
+STR_0895    :无法在一半地上一半地下的地形中建造
+STR_0896    :{POP16}{POP16}{STRINGID} 建造
 STR_0897    :方向
 STR_0898    :{SMALLFONT}{BLACK}左转
 STR_0899    :{SMALLFONT}{BLACK}右转
@@ -962,7 +962,7 @@ STR_0951    :退出游戏
 STR_0952    :退出游戏
 STR_0953    :载入地形
 STR_0954    :
-STR_0955    :{SMALLFONT}{BLACK}Select seat rotation angle for this track section
+STR_0955    :{SMALLFONT}{BLACK}选择此轨道的座位旋转角度
 STR_0956    :-180{DEGREE}
 STR_0957    :-135{DEGREE}
 STR_0958    :-90{DEGREE}
@@ -1022,12 +1022,12 @@ STR_1011    :关闭所有游乐设施
 STR_1012    :开启所有游乐设施
 STR_1013    :关闭游乐园
 STR_1014    :开放游乐园
-STR_1015    :Unable to operate with more than one station platform in this mode
-STR_1016    :Unable to operate with less than two stations in this mode
+STR_1015    :在此模式下, 多于一个车站的游乐设施将无法运行
+STR_1016    :在此模式下, 少于两个车站的游乐设施将无法运行
 STR_1017    :不能改变运行模式...
-STR_1018    :Can't make changes...
-STR_1019    :Can't make changes...
-STR_1020    :Can't make changes...
+STR_1018    :不能做出改变...
+STR_1019    :不能做出改变...
+STR_1020    :不能做出改变...
 STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_1022    :{POP16}{POP16}{POP16}{COMMA16} car per train
 STR_1023    :{POP16}{POP16}{POP16}{COMMA16} cars per train
@@ -3065,12 +3065,12 @@ STR_3045    :{SMALLFONT}{BLACK}Select style of music to play
 STR_3046    :This ride cannot be modified
 STR_3047    :Local authority forbids demolition or modifications to this ride
 STR_3048    :Marketing campaigns forbidden by local authority
-STR_3049    :Golf hole A
-STR_3050    :Golf hole B
-STR_3051    :Golf hole C
-STR_3052    :Golf hole D
-STR_3053    :Golf hole E
-STR_3054    :Loading...
+STR_3049    :高尔夫球洞A
+STR_3050    :高尔夫球洞B
+STR_3051    :高尔夫球洞C
+STR_3052    :高尔夫球洞D
+STR_3053    :高尔夫球洞E
+STR_3054    :加载中...
 STR_3055    :白色
 STR_3056    :半透明    
 STR_3057    :{WINDOW_COLOUR_2}建造标记:
