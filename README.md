@@ -15,6 +15,9 @@ Changes to the master branch are merged into the develop branch of OpenRCT2/Open
 [![Gitter](https://img.shields.io/badge/gitter-development-yellowgreen.svg)](https://gitter.im/OpenRCT2/OpenRCT2)
 
 ### Language Status
+|Newest string: https://github.com/Nubbie/Nubbie-Localisation/issues
+|---
+
 Language | Maintainer | Vanilla strings | OpenRCT2 strings | Last string |
 |--------|------------|-----------------|------------------|-------------|
 [![](https://img.shields.io/badge/en--GB-maintained-green.svg)](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt   ) | ---- | ![](http://progressed.io/bar/100) | ![](http://progressed.io/bar/100) | STR_XXXX
