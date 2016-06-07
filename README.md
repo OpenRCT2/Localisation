@@ -21,9 +21,6 @@ For more information, visit GitHub's official [forking guide](https://guides.git
 ### Creating a new language
 If you want to begin translating OpenRCT2 for a new language, create a new file in the data directory with the correct two letter [language](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes#Partial_ISO_639_table) and [country codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Decoding_table) (e.g. `cs-CZ`), then paste the contents of the [en-GB](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt) file into it and start translating the strings.
 
-If you have any question or issues, please don't hesitate at contacting us at
-[![Gitter](https://img.shields.io/badge/gitter-localisation-green.svg)](https://gitter.im/OpenRCT2/Localisation)<br />
-
 
 ### Language Status
 |Newest string: https://github.com/Nubbie/Nubbie-Localisation/issues
@@ -52,3 +49,8 @@ Language | Maintainer | Vanilla strings | OpenRCT2 strings | Last string |
 [![](https://img.shields.io/badge/fi--FI-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fi-FI.txt) | X | ![](http://progressed.io/bar/10) | ![](http://progressed.io/bar/10) | STR_XXXX
 [![](https://img.shields.io/badge/hu--HU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/hu-HU.txt) | X | ![](http://progressed.io/bar/10) | ![](http://progressed.io/bar/10) | STR_XXXX
 [![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt) | x | ![](http://progressed.io/bar/10) | ![](http://progressed.io/bar/10) | STR_XXXX
+
+
+If you have any question or issues, please don't hesitate at contacting us at
+
+[![Gitter](https://img.shields.io/badge/gitter-localisation-green.svg)](https://gitter.im/OpenRCT2/Localisation)<br />
