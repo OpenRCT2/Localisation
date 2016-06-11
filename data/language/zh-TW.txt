@@ -4180,6 +4180,15 @@ STR_5867    :{WINDOW_COLOUR_2}提供者名稱: {BLACK}{STRING}
 STR_5868    :{WINDOW_COLOUR_2}提供者電郵: {BLACK}{STRING}
 STR_5869    :{WINDOW_COLOUR_2}提供者網站: {BLACK}{STRING}
 STR_5870    :{SMALLFONT}{BLACK}顯示伺服器資訊
+STR_5871    :植物不會老死
+STR_5872    :{SMALLFONT}{BLACK}禁止植物的老化, 令他們不會枯萎.
+STR_5873    :容許在所有軌道配置中使用鏈條
+STR_5874    :{SMALLFONT}{BLACK}容許將任何軌道變成有鏈條裝置的軌道
+STR_5875    :渲染引擎:
+STR_5876    :{SMALLFONT}{BLACK}選擇使用於渲染遊戲的引擎.
+STR_5877    :軟件渲染
+STR_5878    :軟件渲染 (使用硬體顯示)
+STR_5879    :OpenGL
 
 #############
 # Scenarios #
@@ -4305,7 +4314,7 @@ STR_DTLS    :將這個海邊懸崖發展成一個很受歡迎的樂園
 <Three Monkeys Park>
 STR_SCNR    :Three Monkeys Park
 STR_PARK    :Three Monkeys Park
-STR_DTLS    :Central to this large developing park is a giant triple-track racing/duelling steel coaster
+STR_DTLS    :此發展中的大型樂園中部有三座互相競賽的鐵架旋轉式雲霄飛車
 
 <Canary Mines>
 STR_SCNR    :Canary Mines
@@ -4457,7 +4466,7 @@ STR_DTLS    :A collection of icebergs make a cold setting for this ambitious the
 <Volcania>
 STR_SCNR    :Volcania
 STR_PARK    :Volcania
-STR_DTLS    :A dormant volcano is the setting of this coaster-building challenge
+STR_DTLS    :此建造雲霄飛車挑戰設定於一座沉睡火山之中
 
 <Arid Heights>
 STR_SCNR    :Arid Heights
@@ -4512,7 +4521,7 @@ STR_DTLS    :In a far-off world where money is not needed, you must build an ent
 <Dusty Desert>
 STR_SCNR    :Dusty Desert
 STR_PARK    :Dusty Desert
-STR_DTLS    :Five coasters require completion in this desert park
+STR_DTLS    :你需要在此沙漠中的樂園完成未建好的5座雲霄飛車
 
 <Woodworm Park>
 STR_SCNR    :Woodworm Park
@@ -4522,7 +4531,7 @@ STR_DTLS    :This historical park is only allowed to build older-styled rides
 <Icarus Park>
 STR_SCNR    :Icarus Park
 STR_PARK    :Icarus Park
-STR_DTLS    :Develop this alien park to maximize its profit
+STR_DTLS    :發展此外星樂園並將其利潤最大化
 
 <Sunny Swamps>
 STR_SCNR    :Sunny Swamps
