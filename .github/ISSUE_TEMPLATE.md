@@ -12,6 +12,7 @@ Updated in:
 - [ ] de-DE
 - [ ] pt-BR
 - [ ] es-ES
+- [ ] it-IT
 - [ ] sv-SE
 - [ ] nb-NO
 - [ ] ko-KR
