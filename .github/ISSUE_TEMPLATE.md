@@ -13,6 +13,7 @@ Updated in:
 - [ ] pt-BR
 - [ ] es-ES
 - [ ] sv-SE
+- [ ] nb-NO
 - [ ] ko-KR
 - [ ] zh-CN
 - [ ] zh-TW
