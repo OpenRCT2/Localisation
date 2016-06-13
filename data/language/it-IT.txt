@@ -2338,7 +2338,7 @@ STR_2329    :{WINDOW_COLOUR_2}Distanza e velocità:
 STR_2330    :{WINDOW_COLOUR_2}Temperatura:
 STR_2331    :{WINDOW_COLOUR_2}Indicazioni altezza:
 STR_2332    :Unità
-STR_2333    :Impostazioni Audio
+STR_2333    :Impostazioni audio
 STR_2334    :Sterline ({POUND})
 STR_2335    :Dollari ($)
 STR_2336    :Franchi (F)
@@ -2803,8 +2803,8 @@ STR_2793    :{SMALLFONT}(Completato da {STRINGID})
 STR_2794    :{WINDOW_COLOUR_2}Completato da: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} con un valore societario di: {BLACK}{CURRENCY}
 STR_2795    :Ordina
 STR_2796    :{SMALLFONT}{BLACK}Ordina la lista delle attrazioni secondo il tipo di informazioni visualizzate
-STR_2797    :Scorri lo schermo col puntatore sul bordo
-STR_2798    :{SMALLFONT}{BLACK}Seleziona se vuoi che lo schermo scorra quando il puntatore si trova ai bordi dello schermo
+STR_2797    :Sposta la visuale con il puntatore sui bordi
+STR_2798    :{SMALLFONT}{BLACK}Sposta la visuale quando il puntatore tocca i bordi dello schermo
 STR_2799    :{SMALLFONT}{BLACK}Vedi o modifica le funzioni di comando dei tasti
 STR_2800    :{WINDOW_COLOUR_2}Ingressi totali: {BLACK}{COMMA32}
 STR_2801    :{WINDOW_COLOUR_2}Entrate dagli ingressi: {BLACK}{CURRENCY2DP}
@@ -3505,9 +3505,9 @@ STR_5162    :Giorno/Mese/Anno
 STR_5163    :Mese/Giorno/Anno
 STR_5164    :Nome canale Twitch
 STR_5165    :Nomina i visitatori come i follower
-STR_5166    :{SMALLFONT}{BLACK}I visitatori del parco hanno i nomi dei follower su Twitch
+STR_5166    :{SMALLFONT}{BLACK}Nomina i visitatori come i follower{NEWLINE}del proprio canale Twitch
 STR_5167    :Segui i visitatori follower
-STR_5168    :{SMALLFONT}{BLACK}Attiva informazioni per seguire i visitatori che si chiamano come i follower su Twitch
+STR_5168    :{SMALLFONT}{BLACK}Segui i visitatori che si chiamano come i follower su Twitch
 STR_5169    :Nomina i visitatori come gli utenti in chat su Twitch
 STR_5170    :{SMALLFONT}{BLACK}I visitatori del parco hanno i nomi degli utenti in chat su Twitch
 STR_5171    :Segui i visitatori della chat
@@ -3782,7 +3782,7 @@ STR_5437    :Nessun salvataggio selezionato
 STR_5438    :Non puoi fare modifiche mentre l'editor dei comandi è aperto
 STR_5439    :A wait command with at least 4 seconds is required with a restart command
 STR_5440    :Minimizza la schermata a tutto quando si perde il focus
-STR_5441    :{SMALLFONT}{BLACK}Identifica per tipologia,{NEWLINE}i veicoli possono essere diversi{NEWLINE}, come in RCT1.
+STR_5441    :{SMALLFONT}{BLACK}Identifica le attrazioni in base al percorso{NEWLINE}in modo che si possano sostituirne successivamente{NEWLINE}i veicoli (come in RCT1)
 STR_5442    :Voto del parco:
 STR_5443    :Velocità{MOVE_X}{87}{STRINGID}
 STR_5444    :Velocità:
@@ -3846,67 +3846,67 @@ STR_5501    :Avvia Server
 STR_5502    :Multiplayer
 STR_5503    :Inserisci hostname o indirizzo IP:
 STR_5504    :{SMALLFONT}{BLACK}Show multiplayer status
-STR_5505    :Connessione al server non possibile.
+STR_5505    :Impossibile connettersi al server.
 STR_5506    :I visitatori ignorano l'intensità
-STR_5507    :Il tuttofare taglia l'erba di default
-STR_5508    :Allow loading files with incorrect checksums
-STR_5509    :{SMALLFONT}{BLACK}Permetti il caricamenti di scenari e salvataggi{NEWLINE}che hanno un checksum errato,{NEWLINE}come gli scenari del demo{NEWLINE}o salvataggi danneggiati.
+STR_5507    :Il tuttofare taglia l'erba in modo predefinito
+STR_5508    :Permetti caricamento file con checksum errato
+STR_5509    :{SMALLFONT}{BLACK}Permetti il caricamento di scenari e salvataggi{NEWLINE}che hanno un codice di controllo errato,{NEWLINE}come ad esempio gli scenari della demo{NEWLINE}o i salvataggi danneggiati.
 STR_5510    :Scheda audio predefinita
 STR_5511    :(UNKNOWN)
-STR_5512    :Salva Gioco Come
+STR_5512    :Salva gioco con nome...
 STR_5513    :Salvataggio veloce
-STR_5514    :Disabilita vandalismo
-STR_5515    :{SMALLFONT}{BLACK}Disabilita il vandalismo quando i visitatori sono arrabbiati
+STR_5514    :Disattiva vandalismi
+STR_5515    :{SMALLFONT}{BLACK}Impedisce ai visitatori di vandalizzare il parco quando sono arrabbiati
 STR_5516    :{SMALLFONT}{BLACK}Nero
 STR_5517    :{SMALLFONT}{BLACK}Grigio
 STR_5518    :{SMALLFONT}{BLACK}Bianco
-STR_5519    :{SMALLFONT}{BLACK}Dark purple
-STR_5520    :{SMALLFONT}{BLACK}Light purple
-STR_5521    :{SMALLFONT}{BLACK}Bright purple
-STR_5522    :{SMALLFONT}{BLACK}Dark blue
-STR_5523    :{SMALLFONT}{BLACK}Light blue
-STR_5524    :{SMALLFONT}{BLACK}Icy blue
-STR_5525    :{SMALLFONT}{BLACK}Dark water
-STR_5526    :{SMALLFONT}{BLACK}Light water
-STR_5527    :{SMALLFONT}{BLACK}Saturated green
-STR_5528    :{SMALLFONT}{BLACK}Dark green
-STR_5529    :{SMALLFONT}{BLACK}Moss green
-STR_5530    :{SMALLFONT}{BLACK}Bright green
-STR_5531    :{SMALLFONT}{BLACK}Olive green
-STR_5532    :{SMALLFONT}{BLACK}Dark olive green
-STR_5533    :{SMALLFONT}{BLACK}Bright yellow
-STR_5534    :{SMALLFONT}{BLACK}Yellow
-STR_5535    :{SMALLFONT}{BLACK}Dark yellow
-STR_5536    :{SMALLFONT}{BLACK}Light orange
-STR_5537    :{SMALLFONT}{BLACK}Dark orange
-STR_5538    :{SMALLFONT}{BLACK}Light brown
-STR_5539    :{SMALLFONT}{BLACK}Saturated brown
-STR_5540    :{SMALLFONT}{BLACK}Dark brown
-STR_5541    :{SMALLFONT}{BLACK}Salmon pink
-STR_5542    :{SMALLFONT}{BLACK}Bordeaux red
-STR_5543    :{SMALLFONT}{BLACK}Saturated red
-STR_5544    :{SMALLFONT}{BLACK}Bright red
-STR_5545    :{SMALLFONT}{BLACK}Dark pink
-STR_5546    :{SMALLFONT}{BLACK}Bright pink
-STR_5547    :{SMALLFONT}{BLACK}Light pink
-STR_5548    :Mostra tutti i modi operativi
+STR_5519    :{SMALLFONT}{BLACK}Viola scuro
+STR_5520    :{SMALLFONT}{BLACK}Viola chiaro
+STR_5521    :{SMALLFONT}{BLACK}Viola acceso
+STR_5522    :{SMALLFONT}{BLACK}Blu
+STR_5523    :{SMALLFONT}{BLACK}Azzurro
+STR_5524    :{SMALLFONT}{BLACK}Azzurro ghiaccio
+STR_5525    :{SMALLFONT}{BLACK}Acqua scura
+STR_5526    :{SMALLFONT}{BLACK}Acqua chiara
+STR_5527    :{SMALLFONT}{BLACK}Verde acceso
+STR_5528    :{SMALLFONT}{BLACK}Verde scuro
+STR_5529    :{SMALLFONT}{BLACK}Verde erba
+STR_5530    :{SMALLFONT}{BLACK}Verde chiaro
+STR_5531    :{SMALLFONT}{BLACK}Verde oliva
+STR_5532    :{SMALLFONT}{BLACK}Verde oliva scuro
+STR_5533    :{SMALLFONT}{BLACK}Giallo acceso
+STR_5534    :{SMALLFONT}{BLACK}Giallo
+STR_5535    :{SMALLFONT}{BLACK}Giallo scuro
+STR_5536    :{SMALLFONT}{BLACK}Arancione chiaro
+STR_5537    :{SMALLFONT}{BLACK}Arancione scuro
+STR_5538    :{SMALLFONT}{BLACK}Marrone chiaro
+STR_5539    :{SMALLFONT}{BLACK}Marrone acceso
+STR_5540    :{SMALLFONT}{BLACK}Marrone scuro
+STR_5541    :{SMALLFONT}{BLACK}Rosa salmone
+STR_5542    :{SMALLFONT}{BLACK}Bordeaux
+STR_5543    :{SMALLFONT}{BLACK}Rosso acceso
+STR_5544    :{SMALLFONT}{BLACK}Rosso chiaro
+STR_5545    :{SMALLFONT}{BLACK}Rosa scuro
+STR_5546    :{SMALLFONT}{BLACK}Rosa acceso
+STR_5547    :{SMALLFONT}{BLACK}Rosa chiaro
+STR_5548    :Mostra tutte le modalità operative
 STR_5549    :Anno/Mese/Giorno
-STR_5550    :{POP16}{POP16}Year {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
+STR_5550    :{POP16}{POP16}Anno {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_5551    :Anno/Giorno/Mese
-STR_5552    :{POP16}{POP16}Year {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
+STR_5552    :{POP16}{POP16}Anno {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
 STR_5553    :Gioco in pausa quando l'overlay di Steam è aperto
 STR_5554    :{SMALLFONT}{BLACK}Enable mountain tool
 STR_5555    :Mostra i veicoli di altre attrazioni
 STR_5556    :{SMALLFONT}{BLACK}Caccia giocatore
-STR_5557    :Rimani connesso dopo la desincronizzazione (Multiplayer)
-STR_5558    :Un riavvio è richiesto per questa opzione per essere attivata
-STR_5559    :ispezioni da 10 min.
-STR_5560    :{SMALLFONT}{BLACK}Sets the inspection time to 'Every 10 minutes' on all rides
+STR_5557    :Rimani connesso dopo la desincronizzazione (multigiocatore)
+STR_5558    :È necessario riavviare il gioco per attivare questa opzione
+STR_5559    :Ispezioni ogni 10 minuti
+STR_5560    :{SMALLFONT}{BLACK}Imposta l'intervallo di ispezione a "Ogni 10 minuti" su tutte le attrazioni
 STR_5561    :Caricamento lingua fallito
 STR_5562    :ATTENZIONE!
 STR_5563    :Questa funzionalità è instabile, utilizzarla con attenzione.
-STR_5564    :Inserisci Elemento Corrotto
-STR_5565    :{SMALLFONT}{BLACK}Inserisci un elemento della mappa corrotto. Questo nasconderà ogni elemento sopra l'elemento corrotto.
+STR_5564    :Inserisci elemento corrotto
+STR_5565    :{SMALLFONT}{BLACK}Inserisce un elemento della mappa corrotto, nascondendo ogni elemento sopra l'elemento corrotto.
 STR_5566    :Password:
 STR_5567    :Pubblicità
 STR_5568    :Password necessaria
