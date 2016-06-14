@@ -47,7 +47,14 @@ foreach ($languageFile in $languageFiles)
     $translationPack = "$languagePath\$($languageFile.Name)"
 
     $sw = [Diagnostics.Stopwatch]::StartNew()
-    dotnet $langcheckPath $basePack $translationPack
+    dotnet $langcheckPath $basePack $translationPack | ForEach-Object {
+        if ($env:APPVEYOR -and $_.StartsWith("  info: "))
+        {
+            $message = $($languageFile.BaseName) + ": " + $_.Substring(8)
+            Add-AppveyorMessage $message
+        }
+        $_
+    }
     $sw.Stop()
     $testDuration = $sw.ElapsedMilliseconds
 

@@ -35,16 +35,29 @@ namespace langcheck
                     WriteLine($"Parsing {translationPackPath}", ConsoleColor.Cyan);
                     var translationPack = LanguagePack.LoadFromFile(translationPackPath, logger);
 
+                    int presentEntries = 0;
+                    int totalEntries = basePack.Entries.Count;
                     foreach (var kvp in basePack.Entries)
                     {
                         int id = kvp.Key;
                         string baseString = kvp.Value.Text;
-                        if (!translationPack.Entries.ContainsKey(id))
+                        if (translationPack.Entries.ContainsKey(id))
+                        {
+                            presentEntries++;
+                        }
+                        else
                         {
                             string message = String.Format("  warning: No string for STR_{0:0000}:    {1}", id, baseString);
                             WriteLine(message, ConsoleColor.Yellow);
                         }
                     }
+
+                    int progressPercent = (int)Math.Floor(presentEntries / (totalEntries / 100.0f));
+                    string finalMessage = String.Format("  info: {0} / {1} ({2}%) strings present",
+                                                        presentEntries,
+                                                        totalEntries,
+                                                        progressPercent);
+                    WriteLine(finalMessage, ConsoleColor.Cyan);
                 }
                 else
                 {
