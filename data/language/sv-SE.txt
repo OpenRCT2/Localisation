@@ -2768,7 +2768,7 @@ STR_2771    :Långsammare Spelhastighet
 STR_2772    :Snabbare Spelhastighet
 STR_2773    :Fönster
 STR_2774    :Fullskärm
-STR_2775    :Fönster (Utan ram)
+STR_2775    :Fönster (Utan kanter)
 STR_2776    :Språk:
 STR_2777    :{MOVE_X}{SMALLFONT}{STRING}
 STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRING}
@@ -3728,7 +3728,7 @@ STR_5399    :Klicka på stoppknappen innan du försöker ändra något
 STR_5400    :Kan inte byta denna titelsekvens
 STR_5401    :Skapa en ny titelsekvens att göra ändringar på
 STR_5402    :Misslyckades att ladda titelsekvens
-STR_5403    :Det kanske inte finns något Load- eller Wait-kommando eller kanske sparfilen inte är giltig
+STR_5403    :Det kanske inte finns något Ladda- eller Vänta-kommando eller kanske sparfilen inte är giltig
 STR_5404    :Namnet finns redan
 STR_5405    :Skriv in ett namn för sparfilen
 STR_5406    :Skriv in ett namn för titelsekvensen
@@ -3750,7 +3750,7 @@ STR_5421    :Zooma
 STR_5422    :Zooma{MOVE_X}{87}{COMMA16}
 STR_5423    :Vänta
 STR_5424    :Vänta{MOVE_X}{87}{COMMA16}
-STR_5425    :Omstart
+STR_5425    :Börja om
 STR_5426    :Slut
 STR_5427    :Koordinater:
 STR_5428    :Moturs rotation:
@@ -3764,7 +3764,7 @@ STR_5435    :Döp om sparat spel
 STR_5436    :Redigera titelsekvens...
 STR_5437    :Ingen sparfil vald
 STR_5438    :Kan inte göra ändringar medan kommandoredigeraren är öppen
-STR_5439    :Ett wait-kommando med åtminstone 4 sekunder krävs för ett restart-kommando
+STR_5439    :Ett vänta-kommando med åtminstone 4 sekunder krävs för ett 'börja om'-kommando
 STR_5440    :Minimera fullskärm vid tappad fokus
 STR_5441    :{SMALLFONT}{BLACK}Identifiera åkturer via spårtyp,{NEWLINE}så att vagnar kan bli ändrade{NEWLINE}efteråt (Som i RCT1)
 STR_5442    :Tvinga parkbetyg:
@@ -3833,8 +3833,8 @@ STR_5504    :{SMALLFONT}{BLACK}Visa alla spelare
 STR_5505    :Kunde inte ansluta till servern.
 STR_5506    :Gästerna ignorerar intensivitetnivån
 STR_5507    :Vaktmästare klipper alltid gräs
-STR_5508    :Tillåt filer med inkorrekta 'checksummor' att laddas
-STR_5509    :{SMALLFONT}{BLACK}Tillåter spelet att ladda scenarion och sparfiler som har inkorrekta checksummor, som scenarion från demon och skadade sparfiler.
+STR_5508    :Tillåt filer med inkorrekta 'kontrollsummor' att laddas
+STR_5509    :{SMALLFONT}{BLACK}Tillåter spelet att ladda scenarion och sparfiler som har inkorrekta kontrollsummor, som scenarion från demon och skadade sparfiler.
 STR_5510    :Standard ljudenhet
 STR_5511    :(UNKNOWN)
 STR_5512    :Spara spelet som
