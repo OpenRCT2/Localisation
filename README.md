@@ -27,12 +27,13 @@ As this project always are moving forward, new strings get added from time to ti
 If you want to become a maintainer, tell us what language you will maintain on [Gitter](https://gitter.im/OpenRCT2/Localisation)
 
 ### Language Status
-_P.s, the status bars can be incorrect_
+
 
 |Newest strings can be found in [issues](https://github.com/OpenRCT2/Localisation/issues)
 |---
+_P.s, the status bars can be incorrect_
 
-Language | Maintainer | Vanilla strings |
+Language | Maintainer | Status Bars |
 |--------|------------|-----------------|
 [![](https://img.shields.io/badge/en--GB-maintained-green.svg)](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt   ) | ---- | ![](https://api.openrct2.website/localisation/status/badges/en-GB) |  
 [![](https://img.shields.io/badge/en--US-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/en-US.txt) | ----    | ![](https://api.openrct2.website/localisation/status/badges/en-US) |  
