@@ -31,12 +31,11 @@ If you want to become a maintainer, tell us what language you will maintain on [
 
 |Newest strings can be found in [issues](https://github.com/OpenRCT2/Localisation/issues)
 |---
-_P.s, the status bars can be incorrect_
 
 Language | Maintainer | Status Bars |
 |--------|------------|-----------------|
-[![](https://img.shields.io/badge/en--GB-maintained-green.svg)](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt   ) | ---- | ![](https://api.openrct2.website/localisation/status/badges/en-GB) |  
-[![](https://img.shields.io/badge/en--US-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/en-US.txt) | ----    | ![](https://api.openrct2.website/localisation/status/badges/en-US) |  
+[![](https://img.shields.io/badge/en--GB-maintained-green.svg)](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt   ) | -Anyone- | ![](https://api.openrct2.website/localisation/status/badges/en-GB) |  
+[![](https://img.shields.io/badge/en--US-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/en-US.txt) | -Anyone- | ![](https://api.openrct2.website/localisation/status/badges/en-US) |  
 [![](https://img.shields.io/badge/cs--CZ-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/cs-CZ.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/cs-CZ) |  
 [![](https://img.shields.io/badge/de--DE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/de-DE.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/de-DE) |  
 [![](https://img.shields.io/badge/es--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/es-ES.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/es-ES) |  
@@ -56,6 +55,8 @@ Language | Maintainer | Status Bars |
 [![](https://img.shields.io/badge/fi--FI-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fi-FI.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/fi-FI) |  
 [![](https://img.shields.io/badge/hu--HU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/hu-HU.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/hu-HU) |  
 [![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/ru-RU) | 
+
+Note:  The status bars can be inaccurate
 
 
 ###Questions & Support
