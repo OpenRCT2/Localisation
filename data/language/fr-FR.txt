@@ -1,15 +1,14 @@
 # STR_XXXX part is read and XXXX becomes the string id number.
 # Everything after the colon and before the new line will be saved as the string.
 # Use # at the beginning of a line to leave a comment.
-STR_0000    :
-STR_0001    :{STRINGID} {COMMA16}
+
 STR_0002    :Montagnes russes en spirales
 STR_0003    :Montagnes russes debout
 STR_0004    :Montagnes russes suspendues 
 STR_0005    :Montagnes russes inversées
 STR_0006    :Montagnes russes junior
 STR_0007    :Chemin de fer miniature
-STR_0008    :Monorail
+
 STR_0009    :Mini-montagnes russes suspendues
 STR_0010    :Balade en bateau
 STR_0011    :Souris folle en bois
@@ -49,7 +48,7 @@ STR_0044    :Chute libre renversée
 STR_0045    :Ascenseur
 STR_0046    :Montagnes russes en chute vert.
 STR_0047    :Distributeur de monnaie
-STR_0048    :Twist
+
 STR_0049    :Maison hantée
 STR_0050    :Infirmerie
 STR_0051    :Spectacle de cirque
@@ -62,8 +61,7 @@ STR_0057    :Montagnes multidimension
 STR_0058    :Manège Inconnu (38)
 STR_0059    :Montagnes russes volantes
 STR_0060    :Manège Inconnu (3A)
-STR_0061    :Virginia Reel
-STR_0062    :Splash Boats
+
 STR_0063    :Mini hélicoptères
 STR_0064    :Mont. russes - posit. couchée
 STR_0065    :Monorail suspendu
@@ -84,7 +82,7 @@ STR_0079    :Tapis volant
 STR_0080    :Balade sous-marine
 STR_0081    :Radeau
 STR_0082    :Manège Inconnu (50)
-STR_0083    :Enterprise
+
 STR_0084    :Manège Inconnu (52)
 STR_0085    :Manège Inconnu (53)
 STR_0086    :Manège Inconnu (54)
@@ -94,425 +92,7 @@ STR_0089    :Mini-montagnes russes
 STR_0090    :Mineur
 STR_0091    :Manège Inconnu (59)
 STR_0092    :Moteur à induction linéaire
-STR_0093    :
-STR_0094    :
-STR_0095    :
-STR_0096    :
-STR_0097    :
-STR_0098    :
-STR_0099    :
-STR_0100    :
-STR_0101    :
-STR_0102    :
-STR_0103    :
-STR_0104    :
-STR_0105    :
-STR_0106    :
-STR_0107    :
-STR_0108    :
-STR_0109    :
-STR_0110    :
-STR_0111    :
-STR_0112    :
-STR_0113    :
-STR_0114    :
-STR_0115    :
-STR_0116    :
-STR_0117    :
-STR_0118    :
-STR_0119    :
-STR_0120    :
-STR_0121    :
-STR_0122    :
-STR_0123    :
-STR_0124    :
-STR_0125    :
-STR_0126    :
-STR_0127    :
-STR_0128    :
-STR_0129    :
-STR_0130    :
-STR_0131    :
-STR_0132    :
-STR_0133    :
-STR_0134    :
-STR_0135    :
-STR_0136    :
-STR_0137    :
-STR_0138    :
-STR_0139    :
-STR_0140    :
-STR_0141    :
-STR_0142    :
-STR_0143    :
-STR_0144    :
-STR_0145    :
-STR_0146    :
-STR_0147    :
-STR_0148    :
-STR_0149    :
-STR_0150    :
-STR_0151    :
-STR_0152    :
-STR_0153    :
-STR_0154    :
-STR_0155    :
-STR_0156    :
-STR_0157    :
-STR_0158    :
-STR_0159    :
-STR_0160    :
-STR_0161    :
-STR_0162    :
-STR_0163    :
-STR_0164    :
-STR_0165    :
-STR_0166    :
-STR_0167    :
-STR_0168    :
-STR_0169    :
-STR_0170    :
-STR_0171    :
-STR_0172    :
-STR_0173    :
-STR_0174    :
-STR_0175    :
-STR_0176    :
-STR_0177    :
-STR_0178    :
-STR_0179    :
-STR_0180    :
-STR_0181    :
-STR_0182    :
-STR_0183    :
-STR_0184    :
-STR_0185    :
-STR_0186    :
-STR_0187    :
-STR_0188    :
-STR_0189    :
-STR_0190    :
-STR_0191    :
-STR_0192    :
-STR_0193    :
-STR_0194    :
-STR_0195    :
-STR_0196    :
-STR_0197    :
-STR_0198    :
-STR_0199    :
-STR_0200    :
-STR_0201    :
-STR_0202    :
-STR_0203    :
-STR_0204    :
-STR_0205    :
-STR_0206    :
-STR_0207    :
-STR_0208    :
-STR_0209    :
-STR_0210    :
-STR_0211    :
-STR_0212    :
-STR_0213    :
-STR_0214    :
-STR_0215    :
-STR_0216    :
-STR_0217    :
-STR_0218    :
-STR_0219    :
-STR_0220    :
-STR_0221    :
-STR_0222    :
-STR_0223    :
-STR_0224    :
-STR_0225    :
-STR_0226    :
-STR_0227    :
-STR_0228    :
-STR_0229    :
-STR_0230    :
-STR_0231    :
-STR_0232    :
-STR_0233    :
-STR_0234    :
-STR_0235    :
-STR_0236    :
-STR_0237    :
-STR_0238    :
-STR_0239    :
-STR_0240    :
-STR_0241    :
-STR_0242    :
-STR_0243    :
-STR_0244    :
-STR_0245    :
-STR_0246    :
-STR_0247    :
-STR_0248    :
-STR_0249    :
-STR_0250    :
-STR_0251    :
-STR_0252    :
-STR_0253    :
-STR_0254    :
-STR_0255    :
-STR_0256    :
-STR_0257    :
-STR_0258    :
-STR_0259    :
-STR_0260    :
-STR_0261    :
-STR_0262    :
-STR_0263    :
-STR_0264    :
-STR_0265    :
-STR_0266    :
-STR_0267    :
-STR_0268    :
-STR_0269    :
-STR_0270    :
-STR_0271    :
-STR_0272    :
-STR_0273    :
-STR_0274    :
-STR_0275    :
-STR_0276    :
-STR_0277    :
-STR_0278    :
-STR_0279    :
-STR_0280    :
-STR_0281    :
-STR_0282    :
-STR_0283    :
-STR_0284    :
-STR_0285    :
-STR_0286    :
-STR_0287    :
-STR_0288    :
-STR_0289    :
-STR_0290    :
-STR_0291    :
-STR_0292    :
-STR_0293    :
-STR_0294    :
-STR_0295    :
-STR_0296    :
-STR_0297    :
-STR_0298    :
-STR_0299    :
-STR_0300    :
-STR_0301    :
-STR_0302    :
-STR_0303    :
-STR_0304    :
-STR_0305    :
-STR_0306    :
-STR_0307    :
-STR_0308    :
-STR_0309    :
-STR_0310    :
-STR_0311    :
-STR_0312    :
-STR_0313    :
-STR_0314    :
-STR_0315    :
-STR_0316    :
-STR_0317    :
-STR_0318    :
-STR_0319    :
-STR_0320    :
-STR_0321    :
-STR_0322    :
-STR_0323    :
-STR_0324    :
-STR_0325    :
-STR_0326    :
-STR_0327    :
-STR_0328    :
-STR_0329    :
-STR_0330    :
-STR_0331    :
-STR_0332    :
-STR_0333    :
-STR_0334    :
-STR_0335    :
-STR_0336    :
-STR_0337    :
-STR_0338    :
-STR_0339    :
-STR_0340    :
-STR_0341    :
-STR_0342    :
-STR_0343    :
-STR_0344    :
-STR_0345    :
-STR_0346    :
-STR_0347    :
-STR_0348    :
-STR_0349    :
-STR_0350    :
-STR_0351    :
-STR_0352    :
-STR_0353    :
-STR_0354    :
-STR_0355    :
-STR_0356    :
-STR_0357    :
-STR_0358    :
-STR_0359    :
-STR_0360    :
-STR_0361    :
-STR_0362    :
-STR_0363    :
-STR_0364    :
-STR_0365    :
-STR_0366    :
-STR_0367    :
-STR_0368    :
-STR_0369    :
-STR_0370    :
-STR_0371    :
-STR_0372    :
-STR_0373    :
-STR_0374    :
-STR_0375    :
-STR_0376    :
-STR_0377    :
-STR_0378    :
-STR_0379    :
-STR_0380    :
-STR_0381    :
-STR_0382    :
-STR_0383    :
-STR_0384    :
-STR_0385    :
-STR_0386    :
-STR_0387    :
-STR_0388    :
-STR_0389    :
-STR_0390    :
-STR_0391    :
-STR_0392    :
-STR_0393    :
-STR_0394    :
-STR_0395    :
-STR_0396    :
-STR_0397    :
-STR_0398    :
-STR_0399    :
-STR_0400    :
-STR_0401    :
-STR_0402    :
-STR_0403    :
-STR_0404    :
-STR_0405    :
-STR_0406    :
-STR_0407    :
-STR_0408    :
-STR_0409    :
-STR_0410    :
-STR_0411    :
-STR_0412    :
-STR_0413    :
-STR_0414    :
-STR_0415    :
-STR_0416    :
-STR_0417    :
-STR_0418    :
-STR_0419    :
-STR_0420    :
-STR_0421    :
-STR_0422    :
-STR_0423    :
-STR_0424    :
-STR_0425    :
-STR_0426    :
-STR_0427    :
-STR_0428    :
-STR_0429    :
-STR_0430    :
-STR_0431    :
-STR_0432    :
-STR_0433    :
-STR_0434    :
-STR_0435    :
-STR_0436    :
-STR_0437    :
-STR_0438    :
-STR_0439    :
-STR_0440    :
-STR_0441    :
-STR_0442    :
-STR_0443    :
-STR_0444    :
-STR_0445    :
-STR_0446    :
-STR_0447    :
-STR_0448    :
-STR_0449    :
-STR_0450    :
-STR_0451    :
-STR_0452    :
-STR_0453    :
-STR_0454    :
-STR_0455    :
-STR_0456    :
-STR_0457    :
-STR_0458    :
-STR_0459    :
-STR_0460    :
-STR_0461    :
-STR_0462    :
-STR_0463    :
-STR_0464    :
-STR_0465    :
-STR_0466    :
-STR_0467    :
-STR_0468    :
-STR_0469    :
-STR_0470    :
-STR_0471    :
-STR_0472    :
-STR_0473    :
-STR_0474    :
-STR_0475    :
-STR_0476    :
-STR_0477    :
-STR_0478    :
-STR_0479    :
-STR_0480    :
-STR_0481    :
-STR_0482    :
-STR_0483    :
-STR_0484    :
-STR_0485    :
-STR_0486    :
-STR_0487    :
-STR_0488    :
-STR_0489    :
-STR_0490    :
-STR_0491    :
-STR_0492    :
-STR_0493    :
-STR_0494    :
-STR_0495    :
-STR_0496    :
-STR_0497    :
-STR_0498    :
-STR_0499    :
-STR_0500    :
-STR_0501    :
-STR_0502    :
-STR_0503    :
-STR_0504    :
-STR_0505    :
-STR_0506    :
-STR_0507    :
-STR_0508    :
-STR_0509    :
-STR_0510    :
-STR_0511    :
+
 STR_0512    :Des voitures individuelles descendent des pentes régulières en virage
 STR_0513    :Grand huit que les passagers parcourent debout
 STR_0514    :Des voitures suspendues sous la voie se balancent dans les virages des montagnes russes
@@ -825,7 +405,7 @@ STR_0820    :nov
 STR_0821    :déc
 STR_0822    :Impossible d'accéder au fichier de données graphiques
 STR_0823    :Fichier de données manquant ou inaccessible
-STR_0824    :{BLACK}{CROSS}
+
 STR_0825    :Nom choisi déjà utilisé
 STR_0826    :Trop de noms définis
 STR_0827    :Pas assez d'argent - Nécessite {CURRENCY2DP}
@@ -840,8 +420,7 @@ STR_0835    :Echec de l'initialisation du jeu
 STR_0836    :Impossible de commencer une partie dans une fenêtre réduite
 STR_0837    :Initialisation du système graphique impossible
 STR_0838    :<not used anymore>
-STR_0839    :{UINT16} x {UINT16}
-STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
+
 # The following six strings were used for display resolutions, but have been replaced.
 STR_0841    :<not used anymore>
 STR_0842    :<not used anymore>
@@ -851,8 +430,7 @@ STR_0845    :<not used anymore>
 STR_0846    :<not used anymore>
 #end
 STR_0847    :A propos d'OpenRCT2
-STR_0848    :RollerCoaster Tycoon 2
-STR_0849    :{WINDOW_COLOUR_2}Version 2.01.028
+
 STR_0850    :{WINDOW_COLOUR_2}Copyright {COPYRIGHT} 2002 Chris Sawyer, tous droits réservés
 STR_0851    :{WINDOW_COLOUR_2}Conçu et programmé par Chris Sawyer
 STR_0852    :{WINDOW_COLOUR_2}Graphismes : Simon Foster
@@ -861,25 +439,7 @@ STR_0854    :{WINDOW_COLOUR_2}Enregistrement sons additionnels : David Ellis
 STR_0855    :{WINDOW_COLOUR_2}Représentation : Jacqui Lyons, Marjacq Ltd.
 STR_0856    :{WINDOW_COLOUR_2}Remerciements :
 STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, et John Wardley
-STR_0858    :{WINDOW_COLOUR_2}
-STR_0859    :{WINDOW_COLOUR_2}
-STR_0860    :{WINDOW_COLOUR_2}
-STR_0861    :
-STR_0862    :
-STR_0863    :
-STR_0864    :
-STR_0865    :{STRINGID}
-STR_0866    :{POP16}{STRINGID}
-STR_0867    :{POP16}{POP16}{STRINGID}
-STR_0868    :{POP16}{POP16}{POP16}{STRINGID}
-STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0876    :{BLACK}{DOWN}
+
 STR_0877    :Trop bas !
 STR_0878    :Trop haut !
 STR_0879    :Impossible d'abaisser le terrain ici...
@@ -893,14 +453,13 @@ STR_0886    :Quitter la partie
 STR_0887    :Quitter l'éditeur de scénario
 STR_0888    :Quitter le concepteur de montagnes russes
 STR_0889    :Quitter le gestionnaire des voies
-STR_0890    :<removed string - do not use>
+
 STR_0891    :Capture d'écran
 STR_0892    :Capture d'écran sauvegardée en tant que '{STRINGID}'
 STR_0893    :Echec de la capture d'écran!
-STR_0894    :Landscape data area full !
+
 STR_0895    :Impossible de construire à la fois au-dessus et en-dessous du sol
-STR_0896    :{POP16}{POP16}{STRINGID} Construction
-STR_0897    :Direction
+
 STR_0898    :{SMALLFONT}{BLACK}Virage à gauche
 STR_0899    :{SMALLFONT}{BLACK}Virage à droite
 STR_0900    :{SMALLFONT}{BLACK}Virage à gauche (petit rayon)
@@ -957,26 +516,11 @@ STR_0950    :Charger une partie
 STR_0951    :Quitter la partie
 STR_0952    :Quitter la partie
 STR_0953    :Charger un paysage
-STR_0954    :
+
 STR_0955    :{SMALLFONT}{BLACK}Sélectionnez l'angle de rotation des sièges pour cette section de voie
-STR_0956    :-180{DEGREE}
-STR_0957    :-135{DEGREE}
-STR_0958    :-90{DEGREE}
-STR_0959    :-45{DEGREE}
-STR_0960    :0{DEGREE}
-STR_0961    :+45{DEGREE}
-STR_0962    :+90{DEGREE}
-STR_0963    :+135{DEGREE}
-STR_0964    :+180{DEGREE}
-STR_0965    :+225{DEGREE}
-STR_0966    :+270{DEGREE}
-STR_0967    :+315{DEGREE}
-STR_0968    :+360{DEGREE}
-STR_0969    :+405{DEGREE}
-STR_0970    :+450{DEGREE}
-STR_0971    :+495{DEGREE}
+
 STR_0972    :Annuler
-STR_0973    :OK
+
 STR_0974    :Attractions
 STR_0975    :Magasins et boutiques
 STR_0976    :Toilettes et kiosques d'information
@@ -987,13 +531,10 @@ STR_0980    :Nouvelles attractions à frissons
 STR_0981    :Nouvelles attractions aquatiques
 STR_0982    :Nouveaux magasins et boutiques
 STR_0983    :Recherche & Développement
-STR_0984    :{WINDOW_COLOUR_2}{UP}{BLACK}  {CURRENCY2DP}
-STR_0985    :{WINDOW_COLOUR_2}{DOWN}{BLACK}  {CURRENCY2DP}
-STR_0986    :{BLACK}{CURRENCY2DP}
+
 STR_0987    :Trop d'attractions
 STR_0988    :Impossible de créer une nouvelle attraction...
-STR_0989    :{STRINGID}
-STR_0990    :{SMALLFONT}{BLACK}Construction
+
 STR_0991    :Quai
 STR_0992    :{SMALLFONT}{BLACK}Démolir toute l'attraction
 STR_0993    :Démolir l'attraction
@@ -1024,7 +565,7 @@ STR_1017    :Impossible de changer le mode de fonctionnement...
 STR_1018    :Modification impossible...
 STR_1019    :Modification impossible...
 STR_1020    :Modification impossible...
-STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
+
 STR_1022    :{POP16}{POP16}{POP16}{COMMA16} voiture par train
 STR_1023    :{POP16}{POP16}{POP16}{COMMA16} voitures par train
 STR_1024    :{COMMA16} voiture par train
@@ -1137,16 +678,14 @@ STR_1130    :Couleurs différentes par {STRINGID}
 STR_1131    :Couleurs différentes par véhicule
 STR_1132    :Véhicule {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1133    :Véhicule {POP16}{COMMA16}
-STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
-STR_1135    :{STRINGID} {COMMA16}
+
 STR_1136    :{SMALLFONT}{BLACK}Sélectionnez la couleur principale
 STR_1137    :{SMALLFONT}{BLACK}Sélectionnez la couleur supplémentaire 1
 STR_1138    :{SMALLFONT}{BLACK}Sélectionnez la couleur supplémentaire 2
 STR_1139    :{SMALLFONT}{BLACK}Sélectionnez la couleur de la structure
 STR_1140    :{SMALLFONT}{BLACK}Sélectionnez la palette de couleur du véhicule
 STR_1141    :{SMALLFONT}{BLACK}Sélectionnez le véhicule/train à modifier
-STR_1142    :{MOVE_X}{SMALLFONT}{STRINGID}
-STR_1143    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRINGID}
+
 STR_1144    :Impossible de construire/déplacer l'entrée de cette attraction...
 STR_1145    :Impossible de construire/déplacer la sortie de cette attraction...
 STR_1146    :Entrée pas encore construite
@@ -1159,23 +698,22 @@ STR_1152    :N'importe quelle charge
 STR_1153    :Repères de hauteur sur les voies
 STR_1154    :Repères de hauteur sur le terrain
 STR_1155    :Repères de hauteur sur les chemins
-STR_1156    :{MOVE_X}{SMALLFONT}{STRINGID}
-STR_1157    :{TICK}{MOVE_X}{SMALLFONT}{STRINGID}
+
 STR_1158    :Impossible de supprimer ceci...
 STR_1159    :{SMALLFONT}{BLACK}Placer le décor, les jardins, et autres accessoires
 STR_1160    :{SMALLFONT}{BLACK}Créer/ajuster les étendues d'eau
 STR_1161    :Positionnement impossible...
-STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
+
 STR_1163    :{STRINGID}{NEWLINE}(Clic droit pour modifier)
 STR_1164    :{STRINGID}{NEWLINE}(Clic droit pour supprimer)
-STR_1165    :{STRINGID} - {STRINGID} {COMMA16}
+
 STR_1166    :Impossible d'abaisser le niveau de l'eau ici...
 STR_1167    :Impossible de surélever le niveau de l'eau ici...
-STR_1168    :Options
+
 STR_1169    :(Aucun)
-STR_1170    :{STRING}
+
 STR_1171    :{RED}Fermé - - 
-STR_1172    :{YELLOW}{STRINGID} - - 
+
 STR_1173    :{SMALLFONT}{BLACK}Construire des allées et des files d'attentes
 STR_1174    :Panneau d'affichage sur le passage
 STR_1175    :Impossible de construire ceci sur une allée en pente
@@ -1185,18 +723,15 @@ STR_1178    :Inclinaison inappropriée
 STR_1179    :Allée dans le passage
 STR_1180    :Impossible de construire ceci sous l'eau !
 STR_1181    :Allées
-STR_1182    :Type
-STR_1183    :Direction
+
 STR_1184    :Pente
-STR_1185    :{SMALLFONT}{BLACK}Direction
+
 STR_1186    :{SMALLFONT}{BLACK}Pente descendante
 STR_1187    :{SMALLFONT}{BLACK}Niveau
 STR_1188    :{SMALLFONT}{BLACK}Pente montante
 STR_1189    :{SMALLFONT}{BLACK}Construire la section d'allée sélectionnée
 STR_1190    :{SMALLFONT}{BLACK}Supprimer la section d'allée précédente
-STR_1191    :{BLACK}{STRINGID}
-STR_1192    :{OUTLINE}{RED}{STRINGID}
-STR_1193    :{WINDOW_COLOUR_2}{STRINGID}
+
 STR_1194    :Fermé
 STR_1195    :En test
 STR_1196    :Ouvert
@@ -1221,8 +756,7 @@ STR_1214    :{SMALLFONT}{BLACK}Sélectionnez la durée maximum à attendre avant
 STR_1215    :{WINDOW_COLOUR_2}Synchroniser avec les stations adjacentes
 STR_1216    :{SMALLFONT}{BLACK}Sélectionnez s'il faut synchroniser le départ avec toutes les stations adjacentes
 STR_1217    :{COMMA16} secondes
-STR_1218    :{BLACK}{SMALLUP}
-STR_1219    :{BLACK}{SMALLDOWN}
+
 STR_1220    :Sortie uniquement
 STR_1221    :Pas d'entrée
 STR_1222    :Pas de sortie
@@ -1232,13 +766,7 @@ STR_1225    :{SMALLFONT}{BLACK}Montagnes russes
 STR_1226    :{SMALLFONT}{BLACK}Attractions à frissons
 STR_1227    :{SMALLFONT}{BLACK}Attractions aquatiques
 STR_1228    :{SMALLFONT}{BLACK}Magasins et boutiques
-STR_1229    :train
-STR_1230    :trains
-STR_1231    :Train
-STR_1232    :Trains
-STR_1233    :{COMMA16} train
-STR_1234    :{COMMA16} trains
-STR_1235    :Train {COMMA16}
+
 STR_1236    :bateau
 STR_1237    :bateaux
 STR_1238    :Bateau
@@ -1260,13 +788,7 @@ STR_1253    :Quais
 STR_1254    :{COMMA16} quai
 STR_1255    :{COMMA16} quais
 STR_1256    :Quai {COMMA16}
-STR_1257    :station
-STR_1258    :stations
-STR_1259    :Station
-STR_1260    :Stations
-STR_1261    :{COMMA16} station
-STR_1262    :{COMMA16} stations
-STR_1263    :Station {COMMA16}
+
 STR_1264    :voiture
 STR_1265    :voitures
 STR_1266    :Voiture
@@ -1281,13 +803,7 @@ STR_1274    :Bâtiment
 STR_1275    :{COMMA16} bâtiment
 STR_1276    :{COMMA16} bâtiments
 STR_1277    :Bâtiment {COMMA16}
-STR_1278    :structure
-STR_1279    :structures
-STR_1280    :Structure
-STR_1281    :Structures
-STR_1282    :{COMMA16} structure
-STR_1283    :{COMMA16} structures
-STR_1284    :Structure {COMMA16}
+
 STR_1285    :navire
 STR_1286    :navires
 STR_1287    :Navire
@@ -1334,10 +850,7 @@ STR_1327    :{SMALLFONT}{BLACK}Pivoter les objets de 90{DEGREE}
 STR_1328    :Niveau de terrain requis
 STR_1329    :{WINDOW_COLOUR_2}Vitesse de lancement :
 STR_1330    :{SMALLFONT}{BLACK}Vitesse maximale en quittant la station
-STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
-STR_1332    :{VELOCITY}
-STR_1333    :{STRINGID} - {STRINGID}{POP16}
-STR_1334    :{STRINGID} - {STRINGID} {COMMA16}
+
 STR_1335    :{STRINGID} - Entrée{POP16}{POP16}
 STR_1336    :{STRINGID} - Entrée de station {POP16}{COMMA16}
 STR_1337    :{STRINGID} - Sortie{POP16}{POP16}
@@ -1345,11 +858,9 @@ STR_1338    :{STRINGID} - Sortie de station {POP16}{COMMA16}
 STR_1339    :{BLACK}Pas encore de résultats de test...
 STR_1340    :{WINDOW_COLOUR_2}Vitesse maximale : {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Durée de l'attraction : {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
-STR_1342    :{DURATION}
-STR_1343    :{DURATION} / 
+
 STR_1344    :{WINDOW_COLOUR_2}Longueur de l'attraction : {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
-STR_1345    :{LENGTH}
-STR_1346    :{LENGTH} / 
+
 STR_1347    :{WINDOW_COLOUR_2}Vitesse moyenne : {BLACK}{VELOCITY}
 STR_1348    :{WINDOW_COLOUR_2}Gravité verticale positive maximale : {BLACK}{COMMA2DP32}g
 STR_1349    :{WINDOW_COLOUR_2}Gravité verticale positive maximale : {OUTLINE}{RED}{COMMA2DP32}g
@@ -1387,14 +898,11 @@ STR_1380    :Inverseur (droite)
 STR_1381    :Remontée courbe (gauche)
 STR_1382    :Remontée courbe (droite)
 STR_1383    :Quart de boucle
-STR_1384    :{YELLOW}{STRINGID}
+
 STR_1385    :{SMALLFONT}{BLACK}Autres configurations de voie
 STR_1386    :Spécial...
 STR_1387    :Impossible de changer le type de terrain...
-STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
-STR_1389    :{OUTLINE}{RED}- {CURRENCY}
-STR_1390    :{CURRENCY2DP}
-STR_1391    :{RED}{CURRENCY2DP}
+
 STR_1392    :{SMALLFONT}{BLACK}Vue sur l'attraction
 STR_1393    :{SMALLFONT}{BLACK}Détails des véhicules
 STR_1394    :{SMALLFONT}{BLACK}Options d'exploitation
@@ -1417,14 +925,12 @@ STR_1410    :Tour verticale
 STR_1411    :{STRINGID} dans le passage
 STR_1412    :{WINDOW_COLOUR_3}Inscription des données non disponible pour ce type d'attraction
 STR_1413    :{WINDOW_COLOUR_3}Début inscript. données quand {STRINGID} partira de {STRINGID}
-STR_1414    :{SMALLFONT}{BLACK}{DURATION}
+
 STR_1415    :{WINDOW_COLOUR_2}Vitesse
-STR_1416    :{WINDOW_COLOUR_2}Altitude
+
 STR_1417    :{WINDOW_COLOUR_2}G. vert.
 STR_1418    :{WINDOW_COLOUR_2}G. lat.
-STR_1419    :{SMALLFONT}{BLACK}{VELOCITY}
-STR_1420    :{SMALLFONT}{BLACK}{LENGTH}
-STR_1421    :{SMALLFONT}{BLACK}{COMMA16}g
+
 STR_1422    :{SMALLFONT}{BLACK}Enregistrement des données de {POP16}{STRINGID}
 STR_1423    :{SMALLFONT}{BLACK}Chemin de la file d'attente
 STR_1424    :{SMALLFONT}{BLACK}Chemin
@@ -1432,7 +938,7 @@ STR_1425    :Chemin
 STR_1426    :File d'attente
 STR_1427    :{WINDOW_COLOUR_2}Clients : {BLACK}{COMMA32} par heure
 STR_1428    :{WINDOW_COLOUR_2}Prix d'entrée :
-STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
+
 STR_1430    :Gratuit
 STR_1431    :Marche
 STR_1432    :Se dirige vers {STRINGID}
@@ -1452,9 +958,7 @@ STR_1445    :Regarde la construction de {STRINGID}
 STR_1446    :Regarde le décor
 STR_1447    :Quitte le parc
 STR_1448    :Regarde la construction d'une nouvelle attraction
-STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
-STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
-STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
+
 STR_1452    :Nom du visiteur
 STR_1453    :Entrez un nom pour ce visiteur :
 STR_1454    :Impossible de renommer le visiteur...
@@ -1531,11 +1035,9 @@ STR_1524    :{SMALLFONT}{OPENQUOTES}Cet hamburger de {STRINGID} est un très bon
 STR_1525    :{SMALLFONT}{OPENQUOTES}Ces frites de {STRINGID} sont un très bon choix{ENDQUOTES}
 STR_1526    :{SMALLFONT}{OPENQUOTES}Cette glace de {STRINGID} est un très bon choix{ENDQUOTES}
 STR_1527    :{SMALLFONT}{OPENQUOTES}Cette barbe-à-papa de {STRINGID} est un très bon choix{ENDQUOTES}
-STR_1528    :
-STR_1529    :
-STR_1530    :
+
 STR_1531    :{SMALLFONT}{OPENQUOTES}Cette pizza de {STRINGID} est un très bon choix{ENDQUOTES}
-STR_1532    :
+
 STR_1533    :{SMALLFONT}{OPENQUOTES}Ce popcorn de {STRINGID} est un très bon choix{ENDQUOTES}
 STR_1534    :{SMALLFONT}{OPENQUOTES}Ce hot-dog de {STRINGID} est un très bon choix{ENDQUOTES}
 STR_1535    :{SMALLFONT}{OPENQUOTES}Ce poulpe de {STRINGID} est un très bon choix{ENDQUOTES}
@@ -1544,15 +1046,10 @@ STR_1537    :{SMALLFONT}{OPENQUOTES}Cette pomme d'amour de {STRINGID} est un tr�
 STR_1538    :{SMALLFONT}{OPENQUOTES}Ce T-shirt de {STRINGID} est un très bon choix{ENDQUOTES}
 STR_1539    :{SMALLFONT}{OPENQUOTES}Ce donut de {STRINGID} est un très bon choix{ENDQUOTES}
 STR_1540    :{SMALLFONT}{OPENQUOTES}Ce café de {STRINGID} est un très bon choix{ENDQUOTES}
-STR_1541    :
+
 STR_1542    :{SMALLFONT}{OPENQUOTES}Ce poulet frit de {STRINGID} est un très bon choix{ENDQUOTES}
 STR_1543    :{SMALLFONT}{OPENQUOTES}Cette limonade de {STRINGID} est un très bon choix{ENDQUOTES}
-STR_1544    :
-STR_1545    :
-STR_1546    :
-STR_1547    :
-STR_1548    :
-STR_1549    :
+
 STR_1550    :{SMALLFONT}{OPENQUOTES}Ouah !{ENDQUOTES}
 STR_1551    :{SMALLFONT}{OPENQUOTES}J'ai l'étrange impression que quelqu'un m'observe{ENDQUOTES}
 STR_1552    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour un ballon de {STRINGID}{ENDQUOTES}
@@ -1565,11 +1062,9 @@ STR_1558    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour un hamburger 
 STR_1559    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour des frites de {STRINGID}{ENDQUOTES}
 STR_1560    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour une glace de {STRINGID}{ENDQUOTES}
 STR_1561    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour une barbe-à-papa de {STRINGID}{ENDQUOTES}
-STR_1562    :
-STR_1563    :
-STR_1564    :
+
 STR_1565    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour une pizza de {STRINGID}{ENDQUOTES}
-STR_1566    :
+
 STR_1567    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour du popcorn de {STRINGID}{ENDQUOTES}
 STR_1568    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour un hot dog de {STRINGID}{ENDQUOTES}
 STR_1569    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour du poulpe de {STRINGID}{ENDQUOTES}
@@ -1578,15 +1073,10 @@ STR_1571    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour une pomme d'a
 STR_1572    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour un T-shirt de {STRINGID}{ENDQUOTES}
 STR_1573    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour un donut de {STRINGID}{ENDQUOTES}
 STR_1574    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour un café de {STRINGID}{ENDQUOTES}
-STR_1575    :
+
 STR_1576    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour du poulet frit de {STRINGID}{ENDQUOTES}
 STR_1577    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour un limonade de {STRINGID}{ENDQUOTES}
-STR_1578    :
-STR_1579    :
-STR_1580    :
-STR_1581    :
-STR_1582    :
-STR_1583    :
+
 STR_1584    :{SMALLFONT}{OPENQUOTES}Cette photo sur le vif de {STRINGID} est un très bon choix{ENDQUOTES}
 STR_1585    :{SMALLFONT}{OPENQUOTES}Cette photo sur le vif de {STRINGID} est un très bon choix{ENDQUOTES}
 STR_1586    :{SMALLFONT}{OPENQUOTES}Cette photo sur le vif de {STRINGID} est un très bon choix{ENDQUOTES}
@@ -1604,21 +1094,9 @@ STR_1597    :{SMALLFONT}{OPENQUOTES}Ce lait de soja de {STRINGID} est un très b
 STR_1598    :{SMALLFONT}{OPENQUOTES}Ce sujongkwa de {STRINGID} est un très bon choix{ENDQUOTES}
 STR_1599    :{SMALLFONT}{OPENQUOTES}Ce sandwich de {STRINGID} est un très bon choix{ENDQUOTES}
 STR_1600    :{SMALLFONT}{OPENQUOTES}Ce cookie de {STRINGID} est un très bon choix{ENDQUOTES}
-STR_1601    :
-STR_1602    :
-STR_1603    :
+
 STR_1604    :{SMALLFONT}{OPENQUOTES}Cette saucisse grillée de {STRINGID} est un très bon choix{ENDQUOTES}
-STR_1605    :
-STR_1606    :
-STR_1607    :
-STR_1608    :
-STR_1609    :
-STR_1610    :
-STR_1611    :
-STR_1612    :
-STR_1613    :
-STR_1614    :
-STR_1615    :
+
 STR_1616    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour une photo sur le vif de {STRINGID}{ENDQUOTES}
 STR_1617    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour une photo sur le vif de {STRINGID}{ENDQUOTES}
 STR_1618    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour une photo sur le vif de {STRINGID}{ENDQUOTES}
@@ -1636,27 +1114,14 @@ STR_1629    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour du lait de so
 STR_1630    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour un sujongkwa de {STRINGID}{ENDQUOTES}
 STR_1631    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour un sandwich de {STRINGID}{ENDQUOTES}
 STR_1632    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour un cookie de {STRINGID}{ENDQUOTES}
-STR_1633    :
-STR_1634    :
-STR_1635    :
+
 STR_1636    :{SMALLFONT}{OPENQUOTES}Je ne paierai pas si cher pour une saucisse grillée de {STRINGID}{ENDQUOTES}
-STR_1637    :
-STR_1638    :
-STR_1639    :
-STR_1640    :
-STR_1641    :
-STR_1642    :
-STR_1643    :
-STR_1644    :
-STR_1645    :
-STR_1646    :
-STR_1647    :
+
 STR_1648    :{SMALLFONT}{OPENQUOTES}À l'aide ! Déposez-moi !{ENDQUOTES}
 STR_1649    :{SMALLFONT}{OPENQUOTES}Je n'ai plus d'argent !{ENDQUOTES}
 STR_1650    :{SMALLFONT}{OPENQUOTES}Ouah ! Ils construisent une nouvelle attraction !{ENDQUOTES}
 # Two removed inside jokes about Intamin and Phoenix
-STR_1651    :<removed string - do not use>
-STR_1652    :<removed string - do not use>
+
 STR_1653    :{SMALLFONT}{OPENQUOTES}... et là nous sommes sur {STRINGID} !{ENDQUOTES}
 STR_1654    :{WINDOW_COLOUR_2}Pensées récentes :
 STR_1655    :{SMALLFONT}{BLACK}Construire une allée sur le terrain
@@ -1679,7 +1144,7 @@ STR_1671    :{WINDOW_COLOUR_2}Bénéfice total : {BLACK}{CURRENCY2DP}
 STR_1672    :Freins
 STR_1673    :Voie avec permutation de virage
 STR_1674    :Vitesse de freinage
-STR_1675    :{POP16}{VELOCITY}
+
 STR_1676    :{SMALLFONT}{BLACK}Fixer une vitesse de déclenchement des freins
 STR_1677    :{WINDOW_COLOUR_2}Popularité : {BLACK}Inconnue
 STR_1678    :{WINDOW_COLOUR_2}Popularité : {BLACK}{COMMA16}%
@@ -1694,7 +1159,7 @@ STR_1686    :Taille de base 5 x 1
 STR_1687    :Plongeon
 STR_1688    :Taille de base 4 x 1
 STR_1689    :Freins de blocs
-STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
+
 STR_1691    :{WINDOW_COLOUR_2}  Coût : {BLACK}{CURRENCY}
 STR_1692    :{WINDOW_COLOUR_2}  Coût : {BLACK}de {CURRENCY}
 STR_1693    :{SMALLFONT}{BLACK}Visiteurs
@@ -1735,26 +1200,23 @@ STR_1727    :Les droits de construction ne sont pas à vendre !
 STR_1728    :Impossible d'acheter les droits de construction ici...
 STR_1729    :Ce terrain n'appartient pas au parc !
 STR_1730    :{RED}Fermé - - 
-STR_1731    :{WHITE}{STRINGID} - - 
+
 STR_1732    :Construction
-STR_1733    :Mode
+
 STR_1734    :{WINDOW_COLOUR_2}Nombre de tours :
 STR_1735    :{SMALLFONT}{BLACK}Nombre de tours de circuit
-STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1737    :{COMMA16}
+
 STR_1738    :Impossible de changer le nombre de tours...
 STR_1739    :Course gagnée par le visiteur {INT32}
 STR_1740    :Course gagnée par {STRINGID}
 STR_1741    :Pas encore construit !
 STR_1742    :{WINDOW_COLOUR_2}Maximum de personnes :
 STR_1743    :{SMALLFONT}{BLACK}Nombre maximum de personnes autorisées sur cette attraction en même temps
-STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1745    :{COMMA16}
+
 STR_1746    :Impossible de changer ceci...
 STR_1747    :{WINDOW_COLOUR_2}Limite de temps :
 STR_1748    :{SMALLFONT}{BLACK}Limite de temps pour l'attraction
-STR_1749    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{DURATION}
-STR_1750    :{DURATION}
+
 STR_1751    :Impossible de changer la limite de temps pour l'attraction...
 STR_1752    :{SMALLFONT}{BLACK}Afficher la liste de tous les visiteurs dans le parc
 STR_1753    :{SMALLFONT}{BLACK}Afficher la liste résumée des visiteurs dans le parc
@@ -1770,19 +1232,18 @@ STR_1762    :Cascades
 STR_1763    :Rapides
 STR_1764    :Rondins de bois
 STR_1765    :Section photo sur le vif
-STR_1766    :Reverser turntable
+
 STR_1767    :Tunnel tournoyant
 STR_1768    :Impossible de modifier le nombre de vrilles...
 STR_1769    :{WINDOW_COLOUR_2}Nombre de vrilles :
 STR_1770    :{SMALLFONT}{BLACK}Nombre de vrilles complètes
-STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1772    :{COMMA16}
+
 STR_1773    :Une seule section photo sur le vif autorisée par attraction
 STR_1774    :Une seule montée par câble autorisée par attraction
 STR_1775    :Éteint
 STR_1776    :Allumé
 STR_1777    :{WINDOW_COLOUR_2}Musique
-STR_1778    :{STRINGID} - - 
+
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Costume de panda
 STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Costume de tigre
 STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Costume d'éléphant
@@ -1803,7 +1264,7 @@ STR_1795    :Répond à l'appel radio
 STR_1796    :Est en panne et nécessite une réparation
 STR_1797    :Cette option ne peut être changée pour cette attraction
 STR_1798    :Tourbillon
-STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
+
 STR_1800    :Disjoncteurs de sécurité
 STR_1801    :Ceintures bloquées, fermées
 STR_1802    :Ceintures bloquées, ouvertes
@@ -1816,12 +1277,12 @@ STR_1808    :{WINDOW_COLOUR_2}Dernière panne : {BLACK}{STRINGID}
 STR_1809    :{WINDOW_COLOUR_2}Panne actuelle : {OUTLINE}{RED}{STRINGID}
 STR_1810    :{WINDOW_COLOUR_2}Transporte :
 STR_1811    :Impossible de construire ça ici...
-STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
+
 STR_1813    :Objets divers
-STR_1814    :Actions
+
 STR_1815    :Pensées
 STR_1816    :{SMALLFONT}{BLACK}Choisir le type d'informations à afficher dans la liste des visiteurs
-STR_1817    :({COMMA16})
+
 STR_1818    :{WINDOW_COLOUR_2}Tous les visiteurs
 STR_1819    :{WINDOW_COLOUR_2}Tous les visiteurs (résumé)
 STR_1820    :{WINDOW_COLOUR_2}Visiteurs {STRINGID}
@@ -1832,7 +1293,7 @@ STR_1824    :{SMALLFONT}{BLACK}Voir les visiteurs sur cette attraction
 STR_1825    :{SMALLFONT}{BLACK}Voir les visiteurs attendant pour cette attraction
 STR_1826    :Statut
 STR_1827    :Popularité
-STR_1828    :Satisfaction
+
 STR_1829    :Bénéfice
 STR_1830    :Longueur file
 STR_1831    :Temps d'attente
@@ -1849,7 +1310,7 @@ STR_1841    :Bénéfice : {CURRENCY} par heure
 STR_1842    :Préférée de : {COMMA16} visiteur
 STR_1843    :Préférée de : {COMMA16} visiteurs
 STR_1844    :{SMALLFONT}{BLACK}Sélectionnez le type d'information à afficher dans la liste des attractions
-STR_1845    :{MONTHYEAR}
+
 STR_1846    :{COMMA16} visiteurs
 STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} visiteurs
 STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} visiteurs
@@ -1871,15 +1332,14 @@ STR_1863    :Agent d'entretien
 STR_1864    :Mécanicien
 STR_1865    :Garde de sécurité
 STR_1866    :Animateur
-STR_1867    :{BLACK}{COMMA16} {STRINGID}
+
 STR_1868    :Impossible de changer le nombre de rotations...
 STR_1869    :{WINDOW_COLOUR_2}Nombre de rotations :
 STR_1870    :{SMALLFONT}{BLACK}Nombre de rotations complètes
-STR_1871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1872    :{COMMA16}
+
 STR_1873    :{WINDOW_COLOUR_2}Revenu : {BLACK}{CURRENCY2DP} par heure
 STR_1874    :{WINDOW_COLOUR_2}Bénéfice : {BLACK}{CURRENCY2DP} par heure
-STR_1875    :{BLACK} {SPRITE}{BLACK} {STRINGID}
+
 STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Inspecter les attractions
 STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Réparer les attractions
 STR_1878    :{WINDOW_COLOUR_2}Inspection :
@@ -1914,16 +1374,13 @@ STR_1904    :{WINDOW_COLOUR_2}Stocks magasins
 STR_1905    :{WINDOW_COLOUR_2}Ventes nourr./boiss.
 STR_1906    :{WINDOW_COLOUR_2}Stocks nourr./boiss.
 STR_1907    :{WINDOW_COLOUR_2}Salaires employés
-STR_1908    :{WINDOW_COLOUR_2}Marketing
+
 STR_1909    :{WINDOW_COLOUR_2}Recherche
 STR_1910    :{WINDOW_COLOUR_2}Intérêt d'emprunt
 STR_1911    :{BLACK} à {COMMA16}% par an
-STR_1912    :{MONTH}
-STR_1913    :{BLACK}+{CURRENCY2DP}
-STR_1914    :{BLACK}{CURRENCY2DP}
-STR_1915    :{RED}{CURRENCY2DP}
+
 STR_1916    :{WINDOW_COLOUR_2}Emprunt:
-STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
+
 STR_1918    :Impossible d'emprunter d'avantage ! La banque refuse d'augmenter votre emprunt !
 STR_1919    :Pas assez d'argent disponible !
 STR_1920    :Impossible de rembourser l'emprunt !
@@ -1932,7 +1389,7 @@ STR_1922    :{SMALLFONT}{BLACK}Continuer une partie sauvegardée
 STR_1923    :{SMALLFONT}{BLACK}Didacticiel
 STR_1924    :{SMALLFONT}{BLACK}Quitter
 STR_1925    :Impossible de placer quelqu'un ici...
-STR_1926    :{SMALLFONT}
+
 STR_1927    :{YELLOW}{STRINGID} est tombé en panne
 STR_1928    :{RED}{STRINGID} a eu un accident!
 STR_1929    :{RED}{STRINGID} n'est toujours pas réparé{NEWLINE}Vérifiez où sont vos mécaniciens et pensez à leur attribuer des zones de patrouilles
@@ -1959,12 +1416,11 @@ STR_1949    :Résumé financier
 STR_1950    :Graphique financier
 STR_1951    :Graphique valeur du parc
 STR_1952    :Graphique bénéfices
-STR_1953    :Marketing
+
 STR_1954    :Financement recherches
 STR_1955    :{WINDOW_COLOUR_2}Nombre de tours :
 STR_1956    :{SMALLFONT}{BLACK}Nombre de tours de circuit à effectuer
-STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1958    :{COMMA16}
+
 STR_1959    :Impossible de changer le nombre de circuits...
 STR_1960    :{WINDOW_COLOUR_2}Prix d'un ballon :
 STR_1961    :{WINDOW_COLOUR_2}Prix d'une peluche :
@@ -1976,11 +1432,9 @@ STR_1966    :{WINDOW_COLOUR_2}Prix d'un hamburger :
 STR_1967    :{WINDOW_COLOUR_2}Prix des frites :
 STR_1968    :{WINDOW_COLOUR_2}Prix d'une glace :
 STR_1969    :{WINDOW_COLOUR_2}Prix d'une barbe-à-papa :
-STR_1970    :{WINDOW_COLOUR_2}
-STR_1971    :{WINDOW_COLOUR_2}
-STR_1972    :{WINDOW_COLOUR_2}
+
 STR_1973    :{WINDOW_COLOUR_2}Prix d'une pizza :
-STR_1974    :{WINDOW_COLOUR_2}
+
 STR_1975    :{WINDOW_COLOUR_2}Prix du popcorn :
 STR_1976    :{WINDOW_COLOUR_2}Prix d'un hot-dog :
 STR_1977    :{WINDOW_COLOUR_2}Prix du poulpe :
@@ -1989,11 +1443,10 @@ STR_1979    :{WINDOW_COLOUR_2}Prix d'une pomme d'amour :
 STR_1980    :{WINDOW_COLOUR_2}Prix d'un T-shirt :
 STR_1981    :{WINDOW_COLOUR_2}Prix d'un donut :
 STR_1982    :{WINDOW_COLOUR_2}Prix d'un café :
-STR_1983    :{WINDOW_COLOUR_2}
+
 STR_1984    :{WINDOW_COLOUR_2}Prix du poulet frit :
 STR_1985    :{WINDOW_COLOUR_2}Prix de la limonade :
-STR_1986    :{WINDOW_COLOUR_2}
-STR_1987    :{WINDOW_COLOUR_2}
+
 STR_1988    :Ballon
 STR_1989    :Peluche
 STR_1990    :Plan du parc
@@ -2007,9 +1460,9 @@ STR_1997    :Barbe-à-papa
 STR_1998    :Canette vide
 STR_1999    :Déchet
 STR_2000    :Boite à Burger vide
-STR_2001    :Pizza
+
 STR_2002    :Bon
-STR_2003    :Popcorn
+
 STR_2004    :Hot-Dog
 STR_2005    :Poulpe
 STR_2006    :Chapeau
@@ -2035,9 +1488,9 @@ STR_2025    :Barbes-à-papa
 STR_2026    :Canettes vides
 STR_2027    :Déchets
 STR_2028    :Boites à Burger vides
-STR_2029    :Pizzas
+
 STR_2030    :Bons
-STR_2031    :Popcorn
+
 STR_2032    :Hot-Dogs
 STR_2033    :Poulpe
 STR_2034    :Chapeaux
@@ -2091,9 +1544,9 @@ STR_2081    :Barbe-à-papa
 STR_2082    :Canette vide
 STR_2083    :Déchet
 STR_2084    :Boite à Burger vide
-STR_2085    :Pizza
+
 STR_2086    :Bon pour {STRINGID}
-STR_2087    :Popcorn
+
 STR_2088    :Hot-Dog
 STR_2089    :Poulpe
 STR_2090    :Chapeau {OPENQUOTES}{STRINGID}{ENDQUOTES}
@@ -2123,11 +1576,9 @@ STR_2113    :{WINDOW_COLOUR_2}Prix d'un lait de soja :
 STR_2114    :{WINDOW_COLOUR_2}Prix d'un sujongkwa :
 STR_2115    :{WINDOW_COLOUR_2}Prix d'un sandwich :
 STR_2116    :{WINDOW_COLOUR_2}Prix d'un cookie :
-STR_2117    :{WINDOW_COLOUR_2}
-STR_2118    :{WINDOW_COLOUR_2}
-STR_2119    :{WINDOW_COLOUR_2}
+
 STR_2120    :{WINDOW_COLOUR_2}Prix d'une saucisse grillée :
-STR_2121    :{WINDOW_COLOUR_2}
+
 STR_2122    :Photo sur le vif
 STR_2123    :Photo sur le vif
 STR_2124    :Photo sur le vif
@@ -2142,9 +1593,9 @@ STR_2132    :Soupe aux raviolis
 STR_2133    :Soupe aux boulettes de viande
 STR_2134    :Jus de fruits
 STR_2135    :Lait de soja
-STR_2136    :Sujongkwa
+
 STR_2137    :Sandwich
-STR_2138    :Cookie
+
 STR_2139    :Bol vide
 STR_2140    :Brique vide
 STR_2141    :Tasse de jus vide
@@ -2164,9 +1615,9 @@ STR_2154    :Soupes aux raviolis
 STR_2155    :Soupes aux boulettes de viande
 STR_2156    :Jus de fruits
 STR_2157    :Laits de soja
-STR_2158    :Sujongkwa
+
 STR_2159    :Sandwichs
-STR_2160    :Cookies
+
 STR_2161    :Bols vides
 STR_2162    :Briques vides
 STR_2163    :Tasses de jus vides
@@ -2208,9 +1659,9 @@ STR_2198    :Soupe aux raviolis
 STR_2199    :Soupe aux boulettes de viande
 STR_2200    :Jus de fruits
 STR_2201    :Lait de soja
-STR_2202    :Sujongkwa
+
 STR_2203    :Sandwich
-STR_2204    :Cookie
+
 STR_2205    :Bol vide
 STR_2206    :Brique vide
 STR_2207    :Tasse de jus vide
@@ -2221,14 +1672,12 @@ STR_2211    :{SMALLFONT}{BLACK}Afficher la liste des mécaniciens dans le parc
 STR_2212    :{SMALLFONT}{BLACK}Afficher la liste des agents de sécurité dans le parc
 STR_2213    :{SMALLFONT}{BLACK}Afficher la liste des animateurs dans le parc
 STR_2214    :Construction impossible tant que le jeu est en pause !
-STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
-STR_2216    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}C
-STR_2217    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}F
+
 STR_2218    :{RED}{STRINGID} sur {STRINGID} n'est pas encore revenu à {STRINGID}!{NEWLINE}Vérifiez s'il est coincé ou au point mort
 STR_2219    :{RED}{COMMA16} personnes sont mortes dans un accident sur {STRINGID}
 STR_2220    :{WINDOW_COLOUR_2}Evaluation du parc : {BLACK}{COMMA16}
 STR_2221    :{SMALLFONT}{BLACK}Evaluation du parc : {COMMA16}
-STR_2222    :{SMALLFONT}{BLACK}{STRINGID}
+
 STR_2223    :{WINDOW_COLOUR_2}Visiteurs dans le parc : {BLACK}{COMMA16}
 STR_2224    :{WINDOW_COLOUR_2}Argent : {BLACK}{CURRENCY2DP}
 STR_2225    :{WINDOW_COLOUR_2}Argent : {RED}{CURRENCY2DP}
@@ -2241,7 +1690,7 @@ STR_2231    :Maint. frein en chute
 STR_2232    :Montée par câble
 STR_2233    :{SMALLFONT}{BLACK}Informations sur le parc
 STR_2234    :Messages récents
-STR_2235    :{SMALLFONT}{STRINGID} {STRINGID}
+
 STR_2236    :janvier
 STR_2237    :février
 STR_2238    :mars
@@ -2295,7 +1744,7 @@ STR_2285    :Recherche initiale
 STR_2286    :Conception
 STR_2287    :Finition du concept
 STR_2288    :Inconnu
-STR_2289    :{STRINGID} {STRINGID}
+
 STR_2290    :{SMALLFONT}{BLACK}{STRINGID} {STRINGID}
 STR_2291    :Choisir scénario pour nouvelle partie
 STR_2292    :{WINDOW_COLOUR_2}A été sur ces attractions :
@@ -2333,23 +1782,18 @@ STR_2323    :{WINDOW_COLOUR_2}Taille du parc : {BLACK}{COMMA32}m{SQUARED}
 STR_2324    :{WINDOW_COLOUR_2}Taille du parc : {BLACK}{COMMA32}sq.ft.
 STR_2325    :{SMALLFONT}{BLACK}Acheter terrain pour agrandir parc
 STR_2326    :{SMALLFONT}{BLACK}Acheter les droits de construction pour autoriser la construction en dehors du parc (au-dessus ou en-dessous du sol)
-STR_2327    :Options
+
 STR_2328    :{WINDOW_COLOUR_2}Devise :
 STR_2329    :{WINDOW_COLOUR_2}Distance, vitesse :
 STR_2330    :{WINDOW_COLOUR_2}Température :
 STR_2331    :{WINDOW_COLOUR_2}Altitude :
 STR_2332    :Unités
 STR_2333    :Son
-STR_2334    :Pounds ({POUND})
-STR_2335    :Dollars ($)
+
 STR_2336    :Francs (F)
-STR_2337    :Deutschmark (DM)
-STR_2338    :Yen ({YEN})
-STR_2339    :Peseta (Pts)
-STR_2340    :Lira (L)
+
 STR_2341    :Florins (fl.)
-STR_2342    :Krona (kr)
-STR_2343    :Euros ({EURO})
+
 STR_2344    :Impérial
 STR_2345    :Métrique
 STR_2346    :Affichage
@@ -2372,8 +1816,7 @@ STR_2362    :{SMALLFONT}{BLACK}Activer/Désactiver le lissage des arrêtes des c
 STR_2363    :Quadrillage du paysage
 STR_2364    :{SMALLFONT}{BLACK}Activer/Désactiver quadrillage du paysage
 STR_2365    :La banque refuse d'augmenter votre emprunt !
-STR_2366    :Celsius ({DEGREE}C)
-STR_2367    :Fahrenheit ({DEGREE}F)
+
 STR_2368    :Aucun
 STR_2369    :Bas
 STR_2370    :Moyen
@@ -2460,9 +1903,7 @@ STR_2450    :{YELLOW}Votre campagne marketing pour le parc est terminée
 STR_2451    :{YELLOW}Votre campagne marketing pour {STRINGID} est terminée
 STR_2452    :{WINDOW_COLOUR_2}Argent (moins l'emprunt): {BLACK}{CURRENCY2DP}
 STR_2453    :{WINDOW_COLOUR_2}Argent (moins l'emprunt): {RED}{CURRENCY2DP}
-STR_2454    :{SMALLFONT}{BLACK}{CURRENCY2DP} -
-STR_2455    :{SMALLFONT}{BLACK}+{CURRENCY2DP} -
-STR_2456    :{SMALLFONT}{BLACK}{CURRENCY2DP} -
+
 STR_2457    :{SMALLFONT}{BLACK}Voir comptes financiers
 STR_2458    :{SMALLFONT}{BLACK}Voir graphique Argent (moins emprunt) sur durée
 STR_2459    :{SMALLFONT}{BLACK}Voir graphique Valeur du parc sur durée
@@ -2531,38 +1972,16 @@ STR_2521    :Voir liste des employés
 STR_2522    :Voir messages récents
 STR_2523    :Voir la carte
 STR_2524    :Capture d'écran
-STR_2525    :???
-STR_2526    :???
-STR_2527    :???
-STR_2528    :???
-STR_2529    :???
-STR_2530    :???
-STR_2531    :???
-STR_2532    :???
+
 STR_2533    :Retour arr.
-STR_2534    :Tab
-STR_2535    :???
-STR_2536    :???
+
 STR_2537    :Effacer
 STR_2538    :Retour
-STR_2539    :???
-STR_2540    :???
-STR_2541    :???
-STR_2542    :???
-STR_2543    :Alt/Menu
-STR_2544    :Pause
+
 STR_2545    :Verr. Maj.
-STR_2546    :???
-STR_2547    :???
-STR_2548    :???
-STR_2549    :???
-STR_2550    :???
-STR_2551    :???
+
 STR_2552    :Echap.
-STR_2553    :???
-STR_2554    :???
-STR_2555    :???
-STR_2556    :???
+
 STR_2557    :Barre d'espace
 STR_2558    :Page Haut
 STR_2559    :Page Bas
@@ -2579,54 +1998,7 @@ STR_2569    :Capture d'écran
 STR_2570    :Insertion
 STR_2571    :Supprimer
 STR_2572    :Aide
-STR_2573    :0
-STR_2574    :1
-STR_2575    :2
-STR_2576    :3
-STR_2577    :4
-STR_2578    :5
-STR_2579    :6
-STR_2580    :7
-STR_2581    :8
-STR_2582    :9
-STR_2583    :???
-STR_2584    :???
-STR_2585    :???
-STR_2586    :???
-STR_2587    :???
-STR_2588    :???
-STR_2589    :???
-STR_2590    :A
-STR_2591    :B
-STR_2592    :C
-STR_2593    :D
-STR_2594    :E
-STR_2595    :F
-STR_2596    :G
-STR_2597    :H
-STR_2598    :I
-STR_2599    :J
-STR_2600    :K
-STR_2601    :L
-STR_2602    :M
-STR_2603    :N
-STR_2604    :O
-STR_2605    :P
-STR_2606    :Q
-STR_2607    :R
-STR_2608    :S
-STR_2609    :T
-STR_2610    :U
-STR_2611    :V
-STR_2612    :W
-STR_2613    :X
-STR_2614    :Y
-STR_2615    :Z
-STR_2616    :???
-STR_2617    :???
-STR_2618    :Menu
-STR_2619    :???
-STR_2620    :???
+
 STR_2621    :0 (pavé numérique)
 STR_2622    :1 (pavé numérique)
 STR_2623    :2 (pavé numérique)
@@ -2639,53 +2011,14 @@ STR_2629    :8 (pavé numérique)
 STR_2630    :9 (pavé numérique)
 STR_2631    :* (pavé numérique)
 STR_2632    :+ (pavé numérique)
-STR_2633    :???
+
 STR_2634    :- (pavé numérique)
 STR_2635    :. (pavé numérique)
 STR_2636    :/ (pavé numérique)
-STR_2637    :F1
-STR_2638    :F2
-STR_2639    :F3
-STR_2640    :F4
-STR_2641    :F5
-STR_2642    :F6
-STR_2643    :F7
-STR_2644    :F8
-STR_2645    :F9
-STR_2646    :F10
-STR_2647    :F11
-STR_2648    :F12
-STR_2649    :F13
-STR_2650    :F14
-STR_2651    :F15
-STR_2652    :F16
-STR_2653    :F17
-STR_2654    :F18
-STR_2655    :F19
-STR_2656    :F20
-STR_2657    :F21
-STR_2658    :F22
-STR_2659    :F23
-STR_2660    :F24
-STR_2661    :???
-STR_2662    :???
-STR_2663    :???
-STR_2664    :???
-STR_2665    :???
-STR_2666    :???
-STR_2667    :???
-STR_2668    :???
+
 STR_2669    :Verr num
 STR_2670    :Défil.
-STR_2671    :???
-STR_2672    :???
-STR_2673    :???
-STR_2674    :???
-STR_2675    :???
-STR_2676    :???
-STR_2677    :???
-STR_2678    :???
-STR_2679    :???
+
 STR_2680    :Toutes les recherches effectuées
 STR_2681    :{MEDIUMFONT}{BLACK}Augmenter votre argent de {CURRENCY}
 STR_2682    :<not used anymore>
@@ -2703,9 +2036,7 @@ STR_2693    :{WINDOW_COLOUR_2}Terrain :
 STR_2694    :Générer
 STR_2695    :Terrain aléatoire
 STR_2696    :Placer les arbres
-STR_2697    :???
-STR_2698    :???
-STR_2699    :???
+
 STR_2700    :Fréquence sauv. auto. :
 STR_2701    :Toutes les minutes
 STR_2702    :Toutes les 5 minutes
@@ -2717,13 +2048,7 @@ STR_2707    :Fenêtre de dialogue système
 STR_2708    :{WINDOW_COLOUR_1}Etes vous sûr de vouloir écraser {STRINGID}?
 STR_2709    :Ecraser
 STR_2710    :Entrez le nom du fichier.
-STR_2711    :;
-STR_2712    :=
-STR_2713    :,
-STR_2714    :-
-STR_2715    :.
-STR_2716    :/
-STR_2717    :'
+
 STR_2718    :(dossier parent)
 STR_2719    :(nouveau fichier)
 STR_2720    :{UINT16}s
@@ -2738,23 +2063,15 @@ STR_2728    :{UINT16}h {UINT16}m
 STR_2729    :{UINT16}h {UINT16}m
 STR_2730    :{UINT16}h {UINT16}m
 STR_2731    :{UINT16}h {UINT16}m
-STR_2732    :{COMMA16}ft
-STR_2733    :{COMMA16}m
-STR_2734    :{COMMA16}mph
-STR_2735    :{COMMA16}km/h
+
 STR_2736    :{MONTH}, année {COMMA16}
 STR_2737    :{STRINGID} {MONTH}, année {COMMA16}
 STR_2738    :Musique de titre :
 STR_2739    :Aucun
-STR_2740    :RollerCoaster Tycoon 1
-STR_2741    :RollerCoaster Tycoon 2
+
 STR_2742    :css50.dat introuvable
 STR_2743    :Renommez et déplacez data\css17.dat depuis votre dossier RCT1 en data\css50.dat dans votre dossier RCT2
-STR_2744    :[
-STR_2745    :\
-STR_2746    :]
-STR_2747    :{ENDQUOTES}
-STR_2748    :Bar
+
 STR_2749    :Mon nouveau scénario
 STR_2750    :Déplacer tous les éléments en haut
 STR_2751    :Déplacer tous les éléments en bas
@@ -2767,10 +2084,10 @@ STR_2757    :Forcer le soleil
 STR_2758    :Forcer l'orage
 STR_2759    :Pas de collisions
 # New strings used in the cheats window previously these were ???
-STR_2760    :+{CURRENCY}
+
 STR_2761    :<not used anymore>
 STR_2762    :<not used anymore>
-STR_2763    :???
+
 STR_2764    :<not used anymore>
 STR_2765    :Grand tram
 STR_2766    :Gagner
@@ -2784,14 +2101,11 @@ STR_2773    :Fenêtré
 STR_2774    :Plein écran
 STR_2775    :Plein écran (nv. bureau)
 STR_2776    :Langue :
-STR_2777    :{MOVE_X}{SMALLFONT}{STRING}
-STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRING}
+
 # End of new strings
 STR_2779    :Vue #{COMMA16}
 STR_2780    :Vue supplémentaire
-STR_2781    :{STRINGID}:{MOVE_X}{195}{STRINGID}
-STR_2782    :SHIFT + 
-STR_2783    :CTRL + 
+
 STR_2784    :Modifier raccourci clavier
 STR_2785    :{WINDOW_COLOUR_2}Nouveau raccourci clavier pour :{NEWLINE}{OPENQUOTES}{STRINGID}{ENDQUOTES}
 STR_2786    :{SMALLFONT}{BLACK}Cliquer sur la description du raccourci pour choisir une nouvelle touche
@@ -2916,7 +2230,7 @@ STR_2904    :{WINDOW_COLOUR_2}Manic Mechanic :   (Allister Brimble) copyright {C
 STR_2905    :{WINDOW_COLOUR_2}Techno Torture :   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
 STR_2906    :{WINDOW_COLOUR_2}Sweat Dreams :   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
 STR_2907    :{WINDOW_COLOUR_2}What shall we do with the Drunken Sailor :   (Anon/Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2908    :{WINDOW_COLOUR_2}Infogrames Interactive
+
 STR_2909    :{WINDOW_COLOUR_2}Producteur en chef :  Thomas J. Zahorik
 STR_2910    :{WINDOW_COLOUR_2}Producteur exécutif :  Bill Levay
 STR_2911    :{WINDOW_COLOUR_2}Chef produit marketing senior :  Scott Triola
@@ -2926,7 +2240,7 @@ STR_2914    :{WINDOW_COLOUR_2}Directeur assurance qualité :  Michael Craighead
 STR_2915    :{WINDOW_COLOUR_2}Directeur certification AQ :  Kurt Boutin
 STR_2916    :{WINDOW_COLOUR_2}Responsable certification AQ :  Mark Huggins
 STR_2917    :{WINDOW_COLOUR_2}Testeurs :  Dena Irene Fitzgerald, Scott Rollins, Christopher McPhail
-STR_2918    :{WINDOW_COLOUR_2}Clif McClure, Erik Maramaldi, Erik Jeffery
+
 STR_2919    :{WINDOW_COLOUR_2}Directeur marketing :  Ann Marie Bland
 STR_2920    :{WINDOW_COLOUR_2}Responsable services création :  Steve Martin
 STR_2921    :{WINDOW_COLOUR_2}Responsable services rédaction & documentation :  Elizabeth Mackney
@@ -2939,44 +2253,7 @@ STR_2927    :{WINDOW_COLOUR_2}Responsable compatibilité :  Geoffrey Smith
 STR_2928    :{WINDOW_COLOUR_2}Analystes compatibilité :  Jason Cordero, Burke McQuinn, Kim Jardin 
 STR_2929    :{WINDOW_COLOUR_2}Responsable tests :  Daniel Frisoli
 STR_2930    :{WINDOW_COLOUR_2}Testeur senior :  Matt Pantaleoni
-STR_2931    :{WINDOW_COLOUR_2}
-STR_2932    :{WINDOW_COLOUR_2}
-STR_2933    :{WINDOW_COLOUR_2}
-STR_2934    :{WINDOW_COLOUR_2}
-STR_2935    :{WINDOW_COLOUR_2}
-STR_2936    :{WINDOW_COLOUR_2}
-STR_2937    :{WINDOW_COLOUR_2}
-STR_2938    :{WINDOW_COLOUR_2}
-STR_2939    :{WINDOW_COLOUR_2}
-STR_2940    :{WINDOW_COLOUR_2}
-STR_2941    :{WINDOW_COLOUR_2}
-STR_2942    :{WINDOW_COLOUR_2}
-STR_2943    :{WINDOW_COLOUR_2}
-STR_2944    :{WINDOW_COLOUR_2}
-STR_2945    :{WINDOW_COLOUR_2}
-STR_2946    :{WINDOW_COLOUR_2}
-STR_2947    :{WINDOW_COLOUR_2}
-STR_2948    :{WINDOW_COLOUR_2}
-STR_2949    :{WINDOW_COLOUR_2}
-STR_2950    :{WINDOW_COLOUR_2}
-STR_2951    :{WINDOW_COLOUR_2}
-STR_2952    :{WINDOW_COLOUR_2}
-STR_2953    :{WINDOW_COLOUR_2}
-STR_2954    :{WINDOW_COLOUR_2}
-STR_2955    :{WINDOW_COLOUR_2}
-STR_2956    :{WINDOW_COLOUR_2}
-STR_2957    :{WINDOW_COLOUR_2}
-STR_2958    :{WINDOW_COLOUR_2}
-STR_2959    :{WINDOW_COLOUR_2}
-STR_2960    :{WINDOW_COLOUR_2}
-STR_2961    :{WINDOW_COLOUR_2}
-STR_2962    :{WINDOW_COLOUR_2}
-STR_2963    :{WINDOW_COLOUR_2}
-STR_2964    :{WINDOW_COLOUR_2}
-STR_2965    :{WINDOW_COLOUR_2}
-STR_2966    :
-STR_2967    :
-STR_2968    :
+
 STR_2969    :<not used anymore>
 STR_2970    :<not used anymore>
 STR_2971    :Palette de couleurs principale
@@ -3004,20 +2281,7 @@ STR_2992    :Texte du panneau
 STR_2993    :Saisir nouveau texte pour ce panneau :
 STR_2994    :{SMALLFONT}{BLACK}Modifier texte sur panneau
 STR_2995    :{SMALLFONT}{BLACK}Démolir ce panneau
-STR_2996    :{BLACK}ABC
-STR_2997    :{GREY}ABC
-STR_2998    :{WHITE}ABC
-STR_2999    :{RED}ABC
-STR_3000    :{GREEN}ABC
-STR_3001    :{YELLOW}ABC
-STR_3002    :{TOPAZ}ABC
-STR_3003    :{CELADON}ABC
-STR_3004    :{BABYBLUE}ABC
-STR_3005    :{PALELAVENDER}ABC
-STR_3006    :{PALEGOLD}ABC
-STR_3007    :{LIGHTPINK}ABC
-STR_3008    :{PEARLAQUA}ABC
-STR_3009    :{PALESILVER}ABC
+
 STR_3010    :Impossible de charger le fichier....
 STR_3011    :Le fichier contient des données non valides
 STR_3012    :Auto-tamponneuse
@@ -3028,7 +2292,7 @@ STR_3016    :Alien
 STR_3017    :Tambours de la jungle
 STR_3018    :Egyptien
 STR_3019    :Jouets par milliers
-STR_3020    :
+
 STR_3021    :Espace
 STR_3022    :Horreur
 STR_3023    :Techno
@@ -3102,9 +2366,9 @@ STR_3090    :{SMALLFONT}{BLACK}Choisir style d'entrée, de sortie et de station
 STR_3091    :Interdit de supprimer cette section !
 STR_3092    :Interdit de déplacer ou modifier la station de cette attraction !
 STR_3093    :{WINDOW_COLOUR_2}Préférée : {BLACK}{STRINGID}
-STR_3094    :N/A
+
 STR_3095    :{WINDOW_COLOUR_2}Vitesse remontée :
-STR_3096    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
+
 STR_3097    :{SMALLFONT}{BLACK}Choisir vitesse remontée
 STR_3098    :Impossible de modifier la vitesse...
 STR_3099    :{SMALLFONT}{BLACK}Choisir la couleur
@@ -3163,8 +2427,7 @@ STR_3151    :{SMALLFONT}{BLACK}Faire défiler {STRINGID} en bas
 STR_3152    :{SMALLFONT}{BLACK}Faire défiler {STRINGID} en haut vite
 STR_3153    :{SMALLFONT}{BLACK}Faire défiler {STRINGID} en bas vite
 STR_3154    :{SMALLFONT}{BLACK}Faire défiler {STRINGID} en haut/en bas
-STR_3155    :
-STR_3156    :
+
 STR_3157    :plan
 STR_3158    :graphique
 STR_3159    :liste
@@ -3173,8 +2436,7 @@ STR_3161    :<not used anymore>
 STR_3162    :Impossible d'allouer assez de mémoire
 STR_3163    :Installation des nouvelles données : 
 STR_3164    :{BLACK}{COMMA16} sélectionné (maximum {COMMA16})
-STR_3165    :
-STR_3166    :{BLACK}(ID: 
+
 STR_3167    :{WINDOW_COLOUR_2}Inclus : {BLACK}{COMMA16} objets
 STR_3168    :{WINDOW_COLOUR_2}Texte : {BLACK}{STRINGID}
 STR_3169    :Données de l'objet suivant non trouvées : 
@@ -3220,7 +2482,7 @@ STR_3208    :Gestionnaire de voies
 STR_3209    :Retour étape précédente :
 STR_3210    :Passer à l'étape suivante :
 STR_3211    :{WINDOW_COLOUR_2}Taille carte :
-STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
+
 STR_3213    :Impossible de diminuer davantage la taille de la carte
 STR_3214    :Impossible d'augmenter davantage la taille de le carte
 STR_3215    :Trop proche du bord de la carte
@@ -3254,8 +2516,7 @@ STR_3242    :{WINDOW_COLOUR_2}Emprunt maximum :
 STR_3243    :{WINDOW_COLOUR_2}Taux d'int. annuel :
 STR_3244    :Interdire campagnes marketing
 STR_3245    :{SMALLFONT}{BLACK}Interdire la publicité, les opérations promotionnelles et autres campagnes marketing
-STR_3246    :{WINDOW_COLOUR_2}{CURRENCY}
-STR_3247    :{WINDOW_COLOUR_2}{COMMA16}%
+
 STR_3248    :Impossible d'augmenter davantage la somme d'argent initiale !
 STR_3249    :Impossible de diminuer davantage la somme d'argent initiale !
 STR_3250    :Impossible d'augmenter davantage l'emprunt initial !
@@ -3310,16 +2571,14 @@ STR_3298    :{WINDOW_COLOUR_2}Nom du parc : {BLACK}{STRINGID}
 STR_3299    :{WINDOW_COLOUR_2}Détails parc/scén. :
 STR_3300    :{WINDOW_COLOUR_2}Nom du scénario : {BLACK}{STRINGID}
 STR_3301    :{WINDOW_COLOUR_2}Date objectif :
-STR_3302    :{WINDOW_COLOUR_2}{MONTHYEAR}
+
 STR_3303    :{WINDOW_COLOUR_2}Nombre de visiteurs :
 STR_3304    :{WINDOW_COLOUR_2}Valeur du parc :
 STR_3305    :{WINDOW_COLOUR_2}Revenu mensuel :
 STR_3306    :{WINDOW_COLOUR_2}Bénéfice mensuel :
 STR_3307    :{WINDOW_COLOUR_2}Longueur minimum :
 STR_3308    :{WINDOW_COLOUR_2}Indice d'excitation :
-STR_3309    :{WINDOW_COLOUR_2}{COMMA16}
-STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
-STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
+
 STR_3312    :{WINDOW_COLOUR_2}Attractions protégées :
 STR_3313    :Nom du scénario
 STR_3314    :Saisir le nom du scénario :
@@ -3448,20 +2707,16 @@ STR_3436    :{SMALLFONT}{BLACK}En attendant les premiers passagers, on va person
 STR_3437    :{SMALLFONT}{BLACK}Nettoyer grande zone de décor du paysage
 STR_3438    :Impossible d'effacer tout le décor de cette zone...
 STR_3439    :Effacer décor
-STR_3440    :Page 1
-STR_3441    :Page 2
-STR_3442    :Page 3
-STR_3443    :Page 4
-STR_3444    :Page 5
+
 STR_3445    :Définir zone de Patrouille
 STR_3446    :Annuler zone de Patrouille
 
 # New strings, cleaner
-STR_5120    :Finances
+
 STR_5121    :Recherche
 STR_5122    :Choisir attractions selon type de voie (comme RCT1)
 STR_5123    :Renouveler attr.
-STR_5124    :<not used anymore>
+
 STR_5125    :Tout destructible
 STR_5126    :Musique aléatoire
 STR_5127    :{SMALLFONT}{BLACK}Outil pinceau de surface{NEWLINE}Peint le terrain au lieu de changer l'élévation
@@ -3475,8 +2730,7 @@ STR_5134    :{SMALLFONT}{BLACK}Ajuster zone achat + grande
 STR_5135    :{SMALLFONT}{BLACK}Acheter du terrain et des droits de construction
 STR_5136    :Achat
 STR_5137    :Autoriser remontées et vitesse de {NEWLINE}lancement jusqu'à {VELOCITY}
-STR_5138    :{SMALLFONT}{WINDOW_COLOUR_2}{STRINGID}
-STR_5139    :{WHITE}{STRINGID}
+
 STR_5140    :Désactiver pannes de freins
 STR_5141    :Désactiver toutes les pannes
 STR_5142    :Vitesse Normale
@@ -3521,12 +2775,12 @@ STR_5178    :{SMALLFONT}{BLACK}Afficher les options de triche financière
 STR_5179    :{SMALLFONT}{BLACK}Afficher les options de triche des visiteurs
 STR_5180    :{SMALLFONT}{BLACK}Afficher les options de triche du parc
 STR_5181    :{SMALLFONT}{BLACK}Afficher les options de triche des attractions
-STR_5182    :{INT32}
+
 STR_5183    :Hauteur de base
 STR_5184    :Entrez une hauter de base entre {COMMA16} et {COMMA16}
 STR_5185    :Niveau de l'eau
 STR_5186    :Entrez un niveau d'eau entre {COMMA16} et {COMMA16} 
-STR_5187    :Finances
+
 STR_5188    :Nouvelle campagne
 STR_5189    :Recherche
 STR_5190    :Carte
@@ -3558,7 +2812,7 @@ STR_5215    :Gestionnaire de conception de voie
 STR_5216    :Liste du gestionnaire de conception de voie
 STR_5217    :Triche
 STR_5218    :Thèmes
-STR_5219    :Options
+
 STR_5220    :Raccourcis clavier
 STR_5221    :Changer raccourcis clavier
 STR_5222    :Charger/Sauvegarder
@@ -3601,16 +2855,15 @@ STR_5258    :{SMALLFONT}{BLACK}Supprimer le thème actuel
 STR_5259    :{SMALLFONT}{BLACK}Renommer le thème actuel
 STR_5260    :Capture d'écran géante
 STR_5261    :Filtrer
-STR_5262    :Wacky Worlds
-STR_5263    :Time Twister
+
 STR_5264    :Objets personnalisés
 STR_5265    :{SMALLFONT}{BLACK}Choisir la source des objets visibles
 STR_5266    :{SMALLFONT}{BLACK}Affichage
 STR_5267    :{SMALLFONT}{BLACK}Langue et unités
-STR_5268    :{SMALLFONT}{BLACK}Audio
+
 STR_5269    :{SMALLFONT}{BLACK}Contrôles et interface
 STR_5270    :{SMALLFONT}{BLACK}Divers
-STR_5271    :{SMALLFONT}{BLACK}Twitch
+
 STR_5272    :{SMALLFONT}{BLACK}Petits décors
 STR_5273    :{SMALLFONT}{BLACK}Grands décors
 STR_5274    :{SMALLFONT}{BLACK}Allées
@@ -3637,18 +2890,16 @@ STR_5294    :{SMALLFONT}{BLACK}Tester l'attraction
 STR_5295    :{SMALLFONT}{BLACK}Ouvrir l'attraction
 STR_5296    :{SMALLFONT}{BLACK}Fermer le parc
 STR_5297    :{SMALLFONT}{BLACK}Ouvrir le parc
-STR_5298    :{RED}{STRINGID}
-STR_5299    :{LIGHTPINK}{STRINGID}
+
 STR_5300    :{SMALLFONT}{BLACK}Licenciement rapide
 STR_5301    :{MEDIUMFONT}{BLACK}Effacer votre emprunt
 STR_5302    :Effacer emprunt
 STR_5303    :Autoriser construction en mode pause
 STR_5304    :Séquence titre :
-STR_5305    :RollerCoaster Tycoon 1
+
 STR_5306    :RollerCoaster Tycoon 1 (NA)
 STR_5307    :RollerCoaster Tycoon 1 (NA + LF)
-STR_5308    :RollerCoaster Tycoon 2
-STR_5309    :OpenRCT2
+
 STR_5310    :Aléatoire
 STR_5311    :{SMALLFONT}{BLACK}Outil de débogage
 STR_5312    :Afficher la console
@@ -3681,7 +2932,7 @@ STR_5338    :Type d'élément
 STR_5339    :Hauteur de base
 STR_5340    :Hauteur de collision
 STR_5341    :Drapeaux
-STR_5342    :Choose a map tile
+
 STR_5343    :Placer employés automatiquement
 STR_5344    :Historique
 STR_5345    :Triche financière
@@ -3689,8 +2940,7 @@ STR_5346    :Triche des visiteurs
 STR_5347    :Triche du parc
 STR_5348    :Triche des attractions
 STR_5349    :{SMALLFONT}{BLACK}Toutes les attractions
-STR_5350    :Max
-STR_5351    :Min
+
 STR_5352    :{BLACK}Bonheur :
 STR_5353    :{BLACK}Energie :
 STR_5354    :{BLACK}Faim :
@@ -3705,7 +2955,7 @@ STR_5362    :{BLACK}Définir l'intensité préférée des visiteurs à :
 STR_5363    :Plus de 1
 STR_5364    :Moins de 15
 STR_5365    :{BLACK}Vitesse du personnel :
-STR_5366    :Normal
+
 STR_5367    :Rapide
 STR_5368    :Réinit. accidents
 STR_5369    :Param. du parc...
@@ -3713,11 +2963,9 @@ STR_5370    :{SMALLFONT}{BLACK}Cliquez ce bouton pour modifier les paramètres d
 STR_5371    :Sélection d'objets
 STR_5372    :Inverser le déplacement du clic droit
 STR_5373    :Nom {STRINGID}
-STR_5374    :Date {STRINGID}
-STR_5375    :{UP}
-STR_5376    :{DOWN}
+
 STR_5377    :{SMALLFONT}{BLACK}Sauvegardes
-STR_5378    :{SMALLFONT}{BLACK}Script
+
 STR_5379    :{SMALLFONT}{BLACK}Passer à la commande suivante
 STR_5380    :{SMALLFONT}{BLACK}Démarrer séquence titre
 STR_5381    :{SMALLFONT}{BLACK}Arrêter séquence titre
@@ -3785,8 +3033,7 @@ STR_5442    :Eval. du parc :
 STR_5443    :Vitesse{MOVE_X}{87}{STRINGID}
 STR_5444    :Vitesse:
 STR_5445    :Vitesse
-STR_5446    :Get
-STR_5447    :Type {STRINGID}
+
 STR_5448    :Attraction/véhicule {STRINGID}
 STR_5449    :Diminuer la vitesse de jeu
 STR_5450    :Augmenter la vitesse de jeu
@@ -3801,12 +3048,12 @@ STR_5458    :Pivoter dans le sens horaire
 STR_5459    :Pivoter dans le sens anti-horaire
 STR_5460    :Pivoter dans le sens anti-horaire
 STR_5461    :Paramètre des visiteurs
-STR_5462    :{CURRENCY}
+
 STR_5463    :But : Amusez-vous !
 STR_5464    :Général
 STR_5465    :Climat
 STR_5466    :Personnel
-STR_5467    :ALT + 
+
 STR_5468    :Messages récents
 STR_5469    :Défiler la carte vers le haut
 STR_5470    :Défiler la carte vers la gauche
@@ -3824,8 +3071,7 @@ STR_5481    :Thèmes
 STR_5482    :{WINDOW_COLOUR_2}Temps écoulé depuis la dernière inspection : {BLACK}une minute
 STR_5483    :{BLACK}({COMMA16} semaines restantes)
 STR_5484    :{BLACK}({COMMA16} semaine restante)
-STR_5485    :{SMALLFONT}{STRING}
-STR_5486    :{BLACK}{COMMA16}
+
 STR_5487    :{SMALLFONT}{BLACK}Afficher les messages récents
 STR_5488    :Pas d'entrée
 STR_5489    :{SMALLFONT}{BLACK}Afficher seulement les visiteurs surveillés
@@ -3833,7 +3079,7 @@ STR_5490    :Couper le son lorsque la fenêtre est minimisée
 STR_5491    :Liste d'inventions
 STR_5492    :Options du scénario
 STR_5493    :Envoyer un message
-STR_5494    :<not used anymore>
+
 STR_5495    :Liste des joueurs
 STR_5496    :Joueur :
 STR_5497    :Ping :
@@ -3850,7 +3096,7 @@ STR_5507    :Les agents d'entretien tondent la pelouse par défaut
 STR_5508    :Autor. charg. de fichiers avec une empreinte incorrecte
 STR_5509    :{SMALLFONT}{BLACK}Autorise le chargement de scénarios et sauvegardes ayant une empreinte incorrecte, par exemple les scénarios de la démo ou des sauvegardes corrompues.
 STR_5510    :Périphérique audio par défaut
-STR_5511    :(UNKNOWN)
+
 STR_5512    :Sauvegarder partie sous
 STR_5513    :Sauvegarde rapide
 STR_5514    :Désactiver le vandalisme
@@ -3889,9 +3135,9 @@ STR_5546    :{SMALLFONT}{BLACK}Rose clair
 STR_5547    :{SMALLFONT}{BLACK}Rose vif
 STR_5548    :Afficher tous les modes d'exploitation
 STR_5549    :Année/Mois/Jour
-STR_5550    :{POP16}{POP16}Year {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
+
 STR_5551    :Année/Jour/Mois
-STR_5552    :{POP16}{POP16}Year {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
+
 STR_5553    :Mettre en pause quand l'overlay Steam est ouvert
 STR_5554    :{SMALLFONT}{BLACK}Outil montagne
 STR_5555    :Afficher véhicules d'autres types de voie
@@ -3922,8 +3168,7 @@ STR_5579    :Mise à l'échelle :
 STR_5580    :Couronne Tchèque (Kc)
 STR_5581    :Afficher les FPS
 STR_5582    :Toujours garder le curseur dans la fenêtre
-STR_5583    :{COMMA1DP16}ms{POWERNEGATIVEONE}
-STR_5584    :SI
+
 STR_5585    :{SMALLFONT}{BLACK}Débloque les limites d'exploitation des attractions, permettant par exemple une remontée à {VELOCITY}
 STR_5586    :Ouvrir les magasins et boutiques automatiquement
 STR_5587    :{SMALLFONT}{BLACK}Ouvre automatiquement les magasins et boutiques après leur construction
@@ -3958,12 +3203,10 @@ STR_5615    :D
 STR_5616    :{SMALLFONT}{BLACK}Drapeau {OPENQUOTES}dernier élément sur le carré{ENDQUOTES}
 STR_5617    :{SMALLFONT}{BLACK}Déplacer l'élément sélectionné vers le haut
 STR_5618    :{SMALLFONT}{BLACK}Déplacer l'élément sélectionné vers le bas
-STR_5619    :RollerCoaster Tycoon
+
 STR_5620    :Nouvelles Attractions
 STR_5621    :Loopings en Folie
-STR_5622    :RollerCoaster Tycoon 2
-STR_5623    :Wacky Worlds
-STR_5624    :Time Twister
+
 STR_5625    :Parcs {OPENQUOTES}réels{ENDQUOTES}
 STR_5626    :Autres parcs
 STR_5627    :Grouper les scénarios par :
@@ -3972,8 +3215,7 @@ STR_5629    :Niveau de difficulté
 STR_5630    :Activer le déblocage progressif des scénarios
 STR_5631    :Parcs additionnels originaux
 STR_5632    :Construisez votre propre parc...
-STR_5633    :CMD + 
-STR_5634    :OPTION + 
+
 STR_5635    :{WINDOW_COLOUR_2}Argent dépensé : {BLACK}{CURRENCY2DP}
 STR_5636    :{WINDOW_COLOUR_2}Commandes exécutées : {BLACK}{COMMA16}
 STR_5637    :Impossible...
@@ -3984,7 +3226,7 @@ STR_5641    :Groupe par défaut :
 STR_5642    :Groupes :
 STR_5643    :Ajouter groupe
 STR_5644    :Suppr. groupe
-STR_5645    :Chat
+
 STR_5646    :Modifier terrain
 STR_5647    :Pause
 STR_5648    :Définir niveau de l'eau
@@ -3994,14 +3236,14 @@ STR_5651    :Construire attraction
 STR_5652    :Options attraction
 STR_5653    :Décor
 STR_5654    :Allée
-STR_5655    :Guest
+
 STR_5656    :Employé
 STR_5657    :Propriétés du parc
 STR_5658    :Argent du parc
 STR_5659    :Expulser joueur
 STR_5660    :Modifier groupes
 STR_5661    :Définir groupe
-STR_5662    :N/A
+
 STR_5663    :Nettoyer paysage
 STR_5664    :Triche
 STR_5665    :Placement d'ensemble aléatoire
@@ -4073,13 +3315,13 @@ STR_5762    :Yuan Chinois (CN{YEN})
 STR_5763    :Tous les fichiers
 STR_5764    :Type d'attraction invalide
 STR_5765    :Impossible d'éditer les attractions de type invalide
-STR_5766    :<available string id>
+
 STR_5767    :Revenu
 STR_5768    :Clients total
 STR_5769    :Bénéfice total
 STR_5770    :Clients par heure
 STR_5771    :Coût d'exploitation
-STR_5772    :Age
+
 STR_5773    :Clients total : {COMMA32}
 STR_5774    :Bénéf. total : {CURRENCY2DP}
 STR_5775    :Clients : {COMMA32} par heure
@@ -4120,8 +3362,7 @@ STR_5809    :{WINDOW_COLOUR_2}Nombre de kiosques d'informations et autres servic
 STR_5810    :Désactiver la limite de longueur des trains
 STR_5811    :{SMALLFONT}{BLACK}Permet d'avoir des trains longs au maximum de 255 voitures
 STR_5812    :Afficher la fenêtre multijoueurs
-STR_5813    :{OPENQUOTES}{STRING}{ENDQUOTES}
-STR_5814    :{WINDOW_COLOUR_1}{OPENQUOTES}{STRING}{ENDQUOTES}
+
 
 #tooltips
 STR_5815    :{SMALLFONT}{BLACK}Affiche le nombre d'images par seconde durant le jeu
@@ -4188,7 +3429,7 @@ STR_5875    :Moteur de dessin :
 STR_5876    :{SMALLFONT}{BLACK}Sélectionne le moteur à utiliser pour dessiner le jeu
 STR_5877    :Logiciel
 STR_5878    :Logiciel (aff. matériel)
-STR_5879    :OpenGL
+
 STR_5880    :Sélectionnés
 STR_5881    :Non-sélectionnés
 STR_5882    :Devise personnalisée...
