@@ -1,8 +1,7 @@
 # STR_XXXX part is read and XXXX becomes the string id number.
 # Everything after the colon and before the new line will be saved as the string.
 # Use # at the beginning of a line to leave a comment.
-STR_0000    :
-STR_0001    :{STRINGID} {COMMA16}
+
 STR_0002    :스파이럴 롤러코스터
 STR_0003    :스탠드업 롤러코스터
 STR_0004    :서스펜디드 스윙잉 코스터
@@ -94,425 +93,7 @@ STR_0089    :미니 롤러코스터
 STR_0090    :마인 라이드
 STR_0091    :알 수 없는 놀이기구 (59)
 STR_0092    :LIM 발진 롤러코스터
-STR_0093    :
-STR_0094    :
-STR_0095    :
-STR_0096    :
-STR_0097    :
-STR_0098    :
-STR_0099    :
-STR_0100    :
-STR_0101    :
-STR_0102    :
-STR_0103    :
-STR_0104    :
-STR_0105    :
-STR_0106    :
-STR_0107    :
-STR_0108    :
-STR_0109    :
-STR_0110    :
-STR_0111    :
-STR_0112    :
-STR_0113    :
-STR_0114    :
-STR_0115    :
-STR_0116    :
-STR_0117    :
-STR_0118    :
-STR_0119    :
-STR_0120    :
-STR_0121    :
-STR_0122    :
-STR_0123    :
-STR_0124    :
-STR_0125    :
-STR_0126    :
-STR_0127    :
-STR_0128    :
-STR_0129    :
-STR_0130    :
-STR_0131    :
-STR_0132    :
-STR_0133    :
-STR_0134    :
-STR_0135    :
-STR_0136    :
-STR_0137    :
-STR_0138    :
-STR_0139    :
-STR_0140    :
-STR_0141    :
-STR_0142    :
-STR_0143    :
-STR_0144    :
-STR_0145    :
-STR_0146    :
-STR_0147    :
-STR_0148    :
-STR_0149    :
-STR_0150    :
-STR_0151    :
-STR_0152    :
-STR_0153    :
-STR_0154    :
-STR_0155    :
-STR_0156    :
-STR_0157    :
-STR_0158    :
-STR_0159    :
-STR_0160    :
-STR_0161    :
-STR_0162    :
-STR_0163    :
-STR_0164    :
-STR_0165    :
-STR_0166    :
-STR_0167    :
-STR_0168    :
-STR_0169    :
-STR_0170    :
-STR_0171    :
-STR_0172    :
-STR_0173    :
-STR_0174    :
-STR_0175    :
-STR_0176    :
-STR_0177    :
-STR_0178    :
-STR_0179    :
-STR_0180    :
-STR_0181    :
-STR_0182    :
-STR_0183    :
-STR_0184    :
-STR_0185    :
-STR_0186    :
-STR_0187    :
-STR_0188    :
-STR_0189    :
-STR_0190    :
-STR_0191    :
-STR_0192    :
-STR_0193    :
-STR_0194    :
-STR_0195    :
-STR_0196    :
-STR_0197    :
-STR_0198    :
-STR_0199    :
-STR_0200    :
-STR_0201    :
-STR_0202    :
-STR_0203    :
-STR_0204    :
-STR_0205    :
-STR_0206    :
-STR_0207    :
-STR_0208    :
-STR_0209    :
-STR_0210    :
-STR_0211    :
-STR_0212    :
-STR_0213    :
-STR_0214    :
-STR_0215    :
-STR_0216    :
-STR_0217    :
-STR_0218    :
-STR_0219    :
-STR_0220    :
-STR_0221    :
-STR_0222    :
-STR_0223    :
-STR_0224    :
-STR_0225    :
-STR_0226    :
-STR_0227    :
-STR_0228    :
-STR_0229    :
-STR_0230    :
-STR_0231    :
-STR_0232    :
-STR_0233    :
-STR_0234    :
-STR_0235    :
-STR_0236    :
-STR_0237    :
-STR_0238    :
-STR_0239    :
-STR_0240    :
-STR_0241    :
-STR_0242    :
-STR_0243    :
-STR_0244    :
-STR_0245    :
-STR_0246    :
-STR_0247    :
-STR_0248    :
-STR_0249    :
-STR_0250    :
-STR_0251    :
-STR_0252    :
-STR_0253    :
-STR_0254    :
-STR_0255    :
-STR_0256    :
-STR_0257    :
-STR_0258    :
-STR_0259    :
-STR_0260    :
-STR_0261    :
-STR_0262    :
-STR_0263    :
-STR_0264    :
-STR_0265    :
-STR_0266    :
-STR_0267    :
-STR_0268    :
-STR_0269    :
-STR_0270    :
-STR_0271    :
-STR_0272    :
-STR_0273    :
-STR_0274    :
-STR_0275    :
-STR_0276    :
-STR_0277    :
-STR_0278    :
-STR_0279    :
-STR_0280    :
-STR_0281    :
-STR_0282    :
-STR_0283    :
-STR_0284    :
-STR_0285    :
-STR_0286    :
-STR_0287    :
-STR_0288    :
-STR_0289    :
-STR_0290    :
-STR_0291    :
-STR_0292    :
-STR_0293    :
-STR_0294    :
-STR_0295    :
-STR_0296    :
-STR_0297    :
-STR_0298    :
-STR_0299    :
-STR_0300    :
-STR_0301    :
-STR_0302    :
-STR_0303    :
-STR_0304    :
-STR_0305    :
-STR_0306    :
-STR_0307    :
-STR_0308    :
-STR_0309    :
-STR_0310    :
-STR_0311    :
-STR_0312    :
-STR_0313    :
-STR_0314    :
-STR_0315    :
-STR_0316    :
-STR_0317    :
-STR_0318    :
-STR_0319    :
-STR_0320    :
-STR_0321    :
-STR_0322    :
-STR_0323    :
-STR_0324    :
-STR_0325    :
-STR_0326    :
-STR_0327    :
-STR_0328    :
-STR_0329    :
-STR_0330    :
-STR_0331    :
-STR_0332    :
-STR_0333    :
-STR_0334    :
-STR_0335    :
-STR_0336    :
-STR_0337    :
-STR_0338    :
-STR_0339    :
-STR_0340    :
-STR_0341    :
-STR_0342    :
-STR_0343    :
-STR_0344    :
-STR_0345    :
-STR_0346    :
-STR_0347    :
-STR_0348    :
-STR_0349    :
-STR_0350    :
-STR_0351    :
-STR_0352    :
-STR_0353    :
-STR_0354    :
-STR_0355    :
-STR_0356    :
-STR_0357    :
-STR_0358    :
-STR_0359    :
-STR_0360    :
-STR_0361    :
-STR_0362    :
-STR_0363    :
-STR_0364    :
-STR_0365    :
-STR_0366    :
-STR_0367    :
-STR_0368    :
-STR_0369    :
-STR_0370    :
-STR_0371    :
-STR_0372    :
-STR_0373    :
-STR_0374    :
-STR_0375    :
-STR_0376    :
-STR_0377    :
-STR_0378    :
-STR_0379    :
-STR_0380    :
-STR_0381    :
-STR_0382    :
-STR_0383    :
-STR_0384    :
-STR_0385    :
-STR_0386    :
-STR_0387    :
-STR_0388    :
-STR_0389    :
-STR_0390    :
-STR_0391    :
-STR_0392    :
-STR_0393    :
-STR_0394    :
-STR_0395    :
-STR_0396    :
-STR_0397    :
-STR_0398    :
-STR_0399    :
-STR_0400    :
-STR_0401    :
-STR_0402    :
-STR_0403    :
-STR_0404    :
-STR_0405    :
-STR_0406    :
-STR_0407    :
-STR_0408    :
-STR_0409    :
-STR_0410    :
-STR_0411    :
-STR_0412    :
-STR_0413    :
-STR_0414    :
-STR_0415    :
-STR_0416    :
-STR_0417    :
-STR_0418    :
-STR_0419    :
-STR_0420    :
-STR_0421    :
-STR_0422    :
-STR_0423    :
-STR_0424    :
-STR_0425    :
-STR_0426    :
-STR_0427    :
-STR_0428    :
-STR_0429    :
-STR_0430    :
-STR_0431    :
-STR_0432    :
-STR_0433    :
-STR_0434    :
-STR_0435    :
-STR_0436    :
-STR_0437    :
-STR_0438    :
-STR_0439    :
-STR_0440    :
-STR_0441    :
-STR_0442    :
-STR_0443    :
-STR_0444    :
-STR_0445    :
-STR_0446    :
-STR_0447    :
-STR_0448    :
-STR_0449    :
-STR_0450    :
-STR_0451    :
-STR_0452    :
-STR_0453    :
-STR_0454    :
-STR_0455    :
-STR_0456    :
-STR_0457    :
-STR_0458    :
-STR_0459    :
-STR_0460    :
-STR_0461    :
-STR_0462    :
-STR_0463    :
-STR_0464    :
-STR_0465    :
-STR_0466    :
-STR_0467    :
-STR_0468    :
-STR_0469    :
-STR_0470    :
-STR_0471    :
-STR_0472    :
-STR_0473    :
-STR_0474    :
-STR_0475    :
-STR_0476    :
-STR_0477    :
-STR_0478    :
-STR_0479    :
-STR_0480    :
-STR_0481    :
-STR_0482    :
-STR_0483    :
-STR_0484    :
-STR_0485    :
-STR_0486    :
-STR_0487    :
-STR_0488    :
-STR_0489    :
-STR_0490    :
-STR_0491    :
-STR_0492    :
-STR_0493    :
-STR_0494    :
-STR_0495    :
-STR_0496    :
-STR_0497    :
-STR_0498    :
-STR_0499    :
-STR_0500    :
-STR_0501    :
-STR_0502    :
-STR_0503    :
-STR_0504    :
-STR_0505    :
-STR_0506    :
-STR_0507    :
-STR_0508    :
-STR_0509    :
-STR_0510    :
-STR_0511    :
+
 STR_0512    :나선형 리프트 힐과 부드럽게 꼬인 낙하를 가진 알찬 구성의 롤러코스터입니다.
 STR_0513    :손님들이 일어선 자세로 탑승하는 루핑 롤러코스터입니다.
 STR_0514    :코너를 돌 때 롤러코스터 트랙 아래에 달린 차량이 흔들리는 열차입니다.
@@ -825,7 +406,7 @@ STR_0820    :11월
 STR_0821    :12월
 STR_0822    :그래픽 데이터 파일에 접근할 수 없습니다
 STR_0823    :데이터 파일이 존재하지 않거나 접근할 수 없습니다
-STR_0824    :{BLACK}{CROSS}
+
 STR_0825    :이미 사용 중인 이름입니다
 STR_0826    :이름이 너무 많이 지정되었습니다
 STR_0827    :돈이 부족합니다 - {CURRENCY2DP} 만큼의 돈이 더 필요합니다
@@ -840,8 +421,7 @@ STR_0835    :게임 초기화 실패
 STR_0836    :게임을 최소화 상태에서 실행할 수 없습니다
 STR_0837    :그래픽 시스템을 초기화할 수 없습니다
 STR_0838    :
-STR_0839    :{UINT16} x {UINT16}
-STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
+
 # The following six strings were used for display resolutions, but have been replaced.
 STR_0841    :
 STR_0842    :
@@ -852,7 +432,7 @@ STR_0846    :
 STR_0847    :'OpenRCT2'에 대해서
 STR_0848    :롤러코스터 타이쿤 2
 STR_0849    :{WINDOW_COLOUR_2}버전 2.01.028
-STR_0850    :{WINDOW_COLOUR_2}Copyright {COPYRIGHT} 2002 Chris Sawyer, all rights reserved
+
 STR_0851    :{WINDOW_COLOUR_2}디자인 및 프로그래밍: Chris Sawyer
 STR_0852    :{WINDOW_COLOUR_2}그래픽: Simon Foster
 STR_0853    :{WINDOW_COLOUR_2}효과음 및 배경음악: Allister Brimble
@@ -860,25 +440,7 @@ STR_0854    :{WINDOW_COLOUR_2}추가 효과음 녹음: David Ellis
 STR_0855    :{WINDOW_COLOUR_2}리프리젠테이션: Marjacq Ltd사의 Jacqui Lyons
 STR_0856    :{WINDOW_COLOUR_2}감사드릴 분들:
 STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth 그리고 John Wardley
-STR_0858    :{WINDOW_COLOUR_2}
-STR_0859    :{WINDOW_COLOUR_2}
-STR_0860    :{WINDOW_COLOUR_2}
-STR_0861    :
-STR_0862    :
-STR_0863    :
-STR_0864    :
-STR_0865    :{STRINGID}
-STR_0866    :{POP16}{STRINGID}
-STR_0867    :{POP16}{POP16}{STRINGID}
-STR_0868    :{POP16}{POP16}{POP16}{STRINGID}
-STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0876    :{BLACK}{DOWN}
+
 STR_0877    :너무 낮습니다!
 STR_0878    :너무 높습니다!
 STR_0879    :여기를 더 이상 내릴 수 없습니다...
@@ -892,7 +454,7 @@ STR_0886    :게임 종료하기
 STR_0887    :시나리오 에디터 종료하기
 STR_0888    :롤러코스터 디자이너 종료하기
 STR_0889    :트랙 디자인 매니저 종료하기
-STR_0890    :<removed string - do not use>
+
 STR_0891    :스크린 샷
 STR_0892    :스크린 샷이 디스크에 다음 이름으로 저장되었습니다: {STRINGID}
 STR_0893    :스크린 샷 찍기 실패!
@@ -956,24 +518,9 @@ STR_0950    :게임 불러오기
 STR_0951    :게임 종료하기
 STR_0952    :게임 종료하기
 STR_0953    :풍경 불러오기
-STR_0954    :
+
 STR_0955    :{SMALLFONT}{BLACK}이 트랙 조각에서의 좌석 회전 각도를 선택하세요
-STR_0956    :-180{DEGREE}
-STR_0957    :-135{DEGREE}
-STR_0958    :-90{DEGREE}
-STR_0959    :-45{DEGREE}
-STR_0960    :0{DEGREE}
-STR_0961    :+45{DEGREE}
-STR_0962    :+90{DEGREE}
-STR_0963    :+135{DEGREE}
-STR_0964    :+180{DEGREE}
-STR_0965    :+225{DEGREE}
-STR_0966    :+270{DEGREE}
-STR_0967    :+315{DEGREE}
-STR_0968    :+360{DEGREE}
-STR_0969    :+405{DEGREE}
-STR_0970    :+450{DEGREE}
-STR_0971    :+495{DEGREE}
+
 STR_0972    :취소
 STR_0973    :확인
 STR_0974    :놀이기구
@@ -986,12 +533,10 @@ STR_0980    :새로운 스릴있는 놀이기구
 STR_0981    :새로운 물 놀이기구
 STR_0982    :새로운 상점·매점
 STR_0983    :연구 & 개발
-STR_0984    :{WINDOW_COLOUR_2}{UP}{BLACK}  {CURRENCY2DP}
-STR_0985    :{WINDOW_COLOUR_2}{DOWN}{BLACK}  {CURRENCY2DP}
-STR_0986    :{BLACK}{CURRENCY2DP}
+
 STR_0987    :놀이기구나 시설이 너무 많습니다
 STR_0988    :새 놀이기구나 시설을 만들 수 없습니다...
-STR_0989    :{STRINGID}
+
 STR_0990    :{SMALLFONT}{BLACK}건설
 STR_0991    :탑승장 선택
 STR_0992    :{SMALLFONT}{BLACK}전체 놀이기구나 시설을 파괴합니다
@@ -1023,7 +568,7 @@ STR_1017    :운행 모드를 변경할 수 없습니다...
 STR_1018    :변경할 수 없습니다...
 STR_1019    :변경할 수 없습니다...
 STR_1020    :변경할 수 없습니다...
-STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
+
 STR_1022    :1대당 {POP16}{POP16}{POP16}{COMMA16}량의 차량
 STR_1023    :1대당 {POP16}{POP16}{POP16}{COMMA16}량의 차량
 STR_1024    :1대당 {COMMA16}량의 차량
@@ -1136,16 +681,14 @@ STR_1130    :{STRINGID}마다 다른 색
 STR_1131    :차량마다 다른 색
 STR_1132    :차량 {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1133    :차량 {POP16}{COMMA16}
-STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
-STR_1135    :{STRINGID} {COMMA16}
+
 STR_1136    :{SMALLFONT}{BLACK}주요 색상을 선택하세요
 STR_1137    :{SMALLFONT}{BLACK}1번 추가 색상을 선택하세요
 STR_1138    :{SMALLFONT}{BLACK}2번 추가 색상을 선택하세요
 STR_1139    :{SMALLFONT}{BLACK}트랙 지지대 색상을 선택하세요
 STR_1140    :{SMALLFONT}{BLACK}차량 색상을 선택하세요
 STR_1141    :{SMALLFONT}{BLACK}어떤 차량/열차를 수정할지 선택하세요
-STR_1142    :{MOVE_X}{SMALLFONT}{STRINGID}
-STR_1143    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRINGID}
+
 STR_1144    :이 놀이기구/시설의 입구를 건설/파괴할 수 없습니다...
 STR_1145    :이 놀이기구/시설의 출구를 건설/파괴할 수 없습니다...
 STR_1146    :입구가 아직 설치되지 않았습니다
@@ -1158,21 +701,20 @@ STR_1152    :한 사람이라도 태우면
 STR_1153    :놀이기구 트랙 높이 표시
 STR_1154    :지형 높이 표시
 STR_1155    :보도 높이 표시
-STR_1156    :{MOVE_X}{SMALLFONT}{STRINGID}
-STR_1157    :{TICK}{MOVE_X}{SMALLFONT}{STRINGID}
+
 STR_1158    :제거할 수 없습니다...
 STR_1159    :{SMALLFONT}{BLACK}풍경, 정원, 기타 시설을 설치합니다
 STR_1160    :{SMALLFONT}{BLACK}호수나 물을 만듭니다
 STR_1161    :여기에 위치시킬 수 없습니다...
-STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
+
 STR_1163    :{STRINGID}{NEWLINE}(수정하려면 오른쪽 클릭하세요)
 STR_1164    :{STRINGID}{NEWLINE}(제거하려면 오른쪽 클릭하세요)
-STR_1165    :{STRINGID} - {STRINGID} {COMMA16}
+
 STR_1166    :이곳의 물을 내릴 수 없습니다...
 STR_1167    :이곳의 물을 올릴 수 없습니다...
 STR_1168    :옵션
 STR_1169    :(없음)
-STR_1170    :{STRING}
+
 STR_1171    :{RED}닫힘 - -
 STR_1172    :{YELLOW}{STRINGID} - -
 STR_1173    :{SMALLFONT}{BLACK}보도와 대기줄을 만듭니다
@@ -1193,9 +735,7 @@ STR_1187    :{SMALLFONT}{BLACK}평탄
 STR_1188    :{SMALLFONT}{BLACK}위로
 STR_1189    :{SMALLFONT}{BLACK}선택한 보도 조각을 건설
 STR_1190    :{SMALLFONT}{BLACK}이전 보도 조각을 제거
-STR_1191    :{BLACK}{STRINGID}
-STR_1192    :{OUTLINE}{RED}{STRINGID}
-STR_1193    :{WINDOW_COLOUR_2}{STRINGID}
+
 STR_1194    :닫힘
 STR_1195    :테스트 운행
 STR_1196    :열림
@@ -1220,8 +760,7 @@ STR_1214    :{SMALLFONT}{BLACK}출발하기 전에 최대한 기다릴 시간
 STR_1215    :{WINDOW_COLOUR_2}인접한 탑승장과 같이 출발시킴
 STR_1216    :{SMALLFONT}{BLACK}체크하면 모든 인접한 탑승장의 차량을 동시에 출발시킵니다
 STR_1217    :{COMMA16}초
-STR_1218    :{BLACK}{SMALLUP}
-STR_1219    :{BLACK}{SMALLDOWN}
+
 STR_1220    :출구만 있음
 STR_1221    :입구 없음
 STR_1222    :출구 없음
@@ -1333,10 +872,7 @@ STR_1327    :{SMALLFONT}{BLACK}오브젝트를 90{DEGREE} 회전시킵니다
 STR_1328    :평지가 필요합니다
 STR_1329    :{WINDOW_COLOUR_2}발진 속도:
 STR_1330    :{SMALLFONT}{BLACK}탑승장 출발 최대 속도
-STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
-STR_1332    :{VELOCITY}
-STR_1333    :{STRINGID} - {STRINGID}{POP16}
-STR_1334    :{STRINGID} - {STRINGID} {COMMA16}
+
 STR_1335    :{STRINGID} - 입구{POP16}{POP16}
 STR_1336    :{STRINGID} - 탑승장 {POP16}{COMMA16} 입구
 STR_1337    :{STRINGID} - 출구{POP16}{POP16}
@@ -1344,10 +880,10 @@ STR_1338    :{STRINGID} - 탑승장 {POP16}{COMMA16} 출구
 STR_1339    :{BLACK}테스트 결과가 아직 나오지 않았습니다...
 STR_1340    :{WINDOW_COLOUR_2}최대 속력: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}탑승 시간: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
-STR_1342    :{DURATION}
+
 STR_1343    :{DURATION} /
 STR_1344    :{WINDOW_COLOUR_2}탑승 길이: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
-STR_1345    :{LENGTH}
+
 STR_1346    :{LENGTH} /
 STR_1347    :{WINDOW_COLOUR_2}평균 속력: {BLACK}{VELOCITY}
 STR_1348    :{WINDOW_COLOUR_2}최대 양수 수직 중력값: {BLACK}{COMMA2DP32}g
@@ -1386,14 +922,11 @@ STR_1380    :리버서 (오른쪽)
 STR_1381    :커브드 리프트 힐 (왼쪽)
 STR_1382    :커브드 리프트 힐 (오른쪽)
 STR_1383    :1/4 루프
-STR_1384    :{YELLOW}{STRINGID}
+
 STR_1385    :{SMALLFONT}{BLACK}기타 트랙 설정
 STR_1386    :특수 트랙...
 STR_1387    :지형 종류를 바꿀 수 없습니다...
-STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
-STR_1389    :{OUTLINE}{RED}- {CURRENCY}
-STR_1390    :{CURRENCY2DP}
-STR_1391    :{RED}{CURRENCY2DP}
+
 STR_1392    :{SMALLFONT}{BLACK}놀이기구/시설 전경
 STR_1393    :{SMALLFONT}{BLACK}차량 상세 설정
 STR_1394    :{SMALLFONT}{BLACK}운행 설정
@@ -1416,14 +949,12 @@ STR_1410    :버티컬 타워
 STR_1411    :{STRINGID}(이)가 중간에 있습니다
 STR_1412    :{WINDOW_COLOUR_3}이 종류의 놀이기구는 데이터를 기록할 수 없습니다
 STR_1413    :{WINDOW_COLOUR_3}다음 {STRINGID}(이)가 {STRINGID}(을)를 출발할 때 데이터를 기록합니다
-STR_1414    :{SMALLFONT}{BLACK}{DURATION}
+
 STR_1415    :{WINDOW_COLOUR_2}속력
 STR_1416    :{WINDOW_COLOUR_2}고도
 STR_1417    :{WINDOW_COLOUR_2}수직 중력
 STR_1418    :{WINDOW_COLOUR_2}측면 중력
-STR_1419    :{SMALLFONT}{BLACK}{VELOCITY}
-STR_1420    :{SMALLFONT}{BLACK}{LENGTH}
-STR_1421    :{SMALLFONT}{BLACK}{COMMA16}g
+
 STR_1422    :{SMALLFONT}{BLACK}{POP16}{STRINGID}을 기준으로 데이터 기록 중
 STR_1423    :{SMALLFONT}{BLACK}대기줄
 STR_1424    :{SMALLFONT}{BLACK}보도
@@ -1431,7 +962,7 @@ STR_1425    :보도
 STR_1426    :대기줄
 STR_1427    :{WINDOW_COLOUR_2}손님: {BLACK}{COMMA32}명/시간
 STR_1428    :{WINDOW_COLOUR_2}입장료:
-STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
+
 STR_1430    :무료
 STR_1431    :걷는 중
 STR_1432    :목적지 : {STRINGID}
@@ -1451,9 +982,7 @@ STR_1445    :{STRINGID}의 건설 장면을 보는 중
 STR_1446    :풍경을 보는 중
 STR_1447    :공원을 떠나는 중
 STR_1448    :새 놀이기구가 건설되는 장면을 보는 중
-STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
-STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
-STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
+
 STR_1452    :손님의 이름
 STR_1453    :이 손님의 이름을 입력하세요:
 STR_1454    :손님의 이름을 바꿀 수 없습니다...
@@ -1530,11 +1059,9 @@ STR_1524    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 햄버거는 가격이 
 STR_1525    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 감자칩은 가격이 참 적당한 것 같아{ENDQUOTES}
 STR_1526    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 아이스크림은 가격이 참 적당한 것 같아{ENDQUOTES}
 STR_1527    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 솜사탕은 가격이 참 적당한 것 같아{ENDQUOTES}
-STR_1528    :
-STR_1529    :
-STR_1530    :
+
 STR_1531    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 피자는 가격이 참 적당한 것 같아{ENDQUOTES}
-STR_1532    :
+
 STR_1533    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 팝콘은 가격이 참 적당한 것 같아{ENDQUOTES}
 STR_1534    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 핫도그는 가격이 참 적당한 것 같아{ENDQUOTES}
 STR_1535    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 문어발은 가격이 참 적당한 것 같아{ENDQUOTES}
@@ -1543,15 +1070,10 @@ STR_1537    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 사과 토피 사탕은
 STR_1538    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 티셔츠는 가격이 참 적당한 것 같아{ENDQUOTES}
 STR_1539    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 도넛은 가격이 참 적당한 것 같아{ENDQUOTES}
 STR_1540    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 커피는 가격이 참 적당한 것 같아{ENDQUOTES}
-STR_1541    :
+
 STR_1542    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 프라이드 치킨은 가격이 참 적당한 것 같아{ENDQUOTES}
 STR_1543    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 레모네이드는 가격이 참 적당한 것 같아{ENDQUOTES}
-STR_1544    :
-STR_1545    :
-STR_1546    :
-STR_1547    :
-STR_1548    :
-STR_1549    :
+
 STR_1550    :{SMALLFONT}{OPENQUOTES}와우!{ENDQUOTES}
 STR_1551    :{SMALLFONT}{OPENQUOTES}누가 지켜보는 것 같은 이상한 기분이 들어{ENDQUOTES}
 STR_1552    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 풍선에 돈을 쓰고 싶지 않아{ENDQUOTES}
@@ -1564,11 +1086,9 @@ STR_1558    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 햄버거에 돈을 쓰고 싶
 STR_1559    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 감자칩에 돈을 쓰고 싶지 않아{ENDQUOTES}
 STR_1560    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 아이스크립에 돈을 쓰고 싶지 않아{ENDQUOTES}
 STR_1561    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 솜사탕에 돈을 쓰고 싶지 않아{ENDQUOTES}
-STR_1562    :
-STR_1563    :
-STR_1564    :
+
 STR_1565    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 피자에 돈을 쓰고 싶지 않아{ENDQUOTES}
-STR_1566    :
+
 STR_1567    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 팝콘에 돈을 쓰고 싶지 않아{ENDQUOTES}
 STR_1568    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 핫도그에 돈을 쓰고 싶지 않아{ENDQUOTES}
 STR_1569    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 문어발에 돈을 쓰고 싶지 않아{ENDQUOTES}
@@ -1577,15 +1097,10 @@ STR_1571    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 사과 토피 사탕에 돈을
 STR_1572    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 티셔츠에 돈을 쓰고 싶지 않아{ENDQUOTES}
 STR_1573    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 도넛에 돈을 쓰고 싶지 않아{ENDQUOTES}
 STR_1574    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 커피에 돈을 쓰고 싶지 않아{ENDQUOTES}
-STR_1575    :
+
 STR_1576    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 프라이드 치킨에 돈을 쓰고 싶지 않아{ENDQUOTES}
 STR_1577    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 레모네이드에 돈을 쓰고 싶지 않아{ENDQUOTES}
-STR_1578    :
-STR_1579    :
-STR_1580    :
-STR_1581    :
-STR_1582    :
-STR_1583    :
+
 STR_1584    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 탑승 사진은 가격이 참 적당한 것 같아{ENDQUOTES}
 STR_1585    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 탑승 사진은 가격이 참 적당한 것 같아{ENDQUOTES}
 STR_1586    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 탑승 사진은 가격이 참 적당한 것 같아{ENDQUOTES}
@@ -1603,21 +1118,9 @@ STR_1597    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 두유는 가격이 참
 STR_1598    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 수정과는 가격이 참 적당한 것 같아{ENDQUOTES}
 STR_1599    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 샌드위치는 가격이 참 적당한 것 같아{ENDQUOTES}
 STR_1600    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 쿠키는 가격이 참 적당한 것 같아{ENDQUOTES}
-STR_1601    :
-STR_1602    :
-STR_1603    :
+
 STR_1604    :{SMALLFONT}{OPENQUOTES}{STRINGID}에서 산 구운 소시지는 가격이 참 적당한 것 같아{ENDQUOTES}
-STR_1605    :
-STR_1606    :
-STR_1607    :
-STR_1608    :
-STR_1609    :
-STR_1610    :
-STR_1611    :
-STR_1612    :
-STR_1613    :
-STR_1614    :
-STR_1615    :
+
 STR_1616    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 탑승 사진에 돈을 쓰고 싶지 않아{ENDQUOTES}
 STR_1617    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 탑승 사진에 돈을 쓰고 싶지 않아{ENDQUOTES}
 STR_1618    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 탑승 사진에 돈을 쓰고 싶지 않아{ENDQUOTES}
@@ -1635,27 +1138,14 @@ STR_1629    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 두유에 돈을 쓰고 싶지
 STR_1630    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 수정과에 돈을 쓰고 싶지 않아{ENDQUOTES}
 STR_1631    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 샌드위치에 돈을 쓰고 싶지 않아{ENDQUOTES}
 STR_1632    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 쿠키에 돈을 쓰고 싶지 않아{ENDQUOTES}
-STR_1633    :
-STR_1634    :
-STR_1635    :
+
 STR_1636    :{SMALLFONT}{OPENQUOTES}{STRINGID}의 구운 소시지에 돈을 쓰고 싶지 않아{ENDQUOTES}
-STR_1637    :
-STR_1638    :
-STR_1639    :
-STR_1640    :
-STR_1641    :
-STR_1642    :
-STR_1643    :
-STR_1644    :
-STR_1645    :
-STR_1646    :
-STR_1647    :
+
 STR_1648    :{SMALLFONT}{OPENQUOTES}살려주세요! 절 내려주세요!{ENDQUOTES}
 STR_1649    :{SMALLFONT}{OPENQUOTES}돈이 다 떨어져가고 있어요!{ENDQUOTES}
 STR_1650    :{SMALLFONT}{OPENQUOTES}와우! 새 놀이기구가 지어지고 있어요!{ENDQUOTES}
 # Two removed inside jokes about Intamin and Phoenix
-STR_1651    :<removed string - do not use>
-STR_1652    :<removed string - do not use>
+
 STR_1653    :{SMALLFONT}{OPENQUOTES}...그리고 드디어 {STRINGID}에 왔어요!{ENDQUOTES}
 STR_1654    :{WINDOW_COLOUR_2}최근 생각:
 STR_1655    :{SMALLFONT}{BLACK}땅 위에 보도 건설
@@ -1678,7 +1168,7 @@ STR_1671    :{WINDOW_COLOUR_2}총 수익: {BLACK}{CURRENCY2DP}
 STR_1672    :브레이크
 STR_1673    :회전 컨트롤 토글 트랙
 STR_1674    :브레이크 속력
-STR_1675    :{POP16}{VELOCITY}
+
 STR_1676    :{SMALLFONT}{BLACK}브레이크의 제한 속도를 설정하세요
 STR_1677    :{WINDOW_COLOUR_2}인기도: {BLACK}알 수 없음
 STR_1678    :{WINDOW_COLOUR_2}인기도: {BLACK}{COMMA16}%
@@ -1693,7 +1183,7 @@ STR_1686    :기본 크기 5 x 1
 STR_1687    :물 튀김
 STR_1688    :기본 크기 4 x 1
 STR_1689    :블록 브레이크
-STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
+
 STR_1691    :{WINDOW_COLOUR_2}  비용: {BLACK}{CURRENCY}
 STR_1692    :{WINDOW_COLOUR_2}  비용: {BLACK}{CURRENCY} 이상
 STR_1693    :{SMALLFONT}{BLACK}손님
@@ -1739,21 +1229,18 @@ STR_1732    :건설
 STR_1733    :모드
 STR_1734    :{WINDOW_COLOUR_2}바퀴 수:
 STR_1735    :{SMALLFONT}{BLACK}서킷을 돌 바퀴 수를 설정합니다
-STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1737    :{COMMA16}
+
 STR_1738    :바퀴 수를 변경할 수 없습니다...
 STR_1739    :레이스 우승자 : 손님 {INT32}
 STR_1740    :레이스 우승자 : {STRINGID}
 STR_1741    :아직 건설되지 않았습니다!
 STR_1742    :{WINDOW_COLOUR_2}최대 놀이기구 탑승 인원:
 STR_1743    :{SMALLFONT}{BLACK}이 놀이기구에 한 번에 탑승할 수 있는 최대 인원 수를 설정합니다
-STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1745    :{COMMA16}
+
 STR_1746    :변경할 수 없습니다...
 STR_1747    :{WINDOW_COLOUR_2}탑승 시간 제한:
 STR_1748    :{SMALLFONT}{BLACK}놀이기구 탑승 시간 제한
-STR_1749    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{DURATION}
-STR_1750    :{DURATION}
+
 STR_1751    :놀이기구의 탑승 시간을 변경할 수 없습니다...
 STR_1752    :{SMALLFONT}{BLACK}공원에 있는 손님의 모든 명단을 보여줍니다
 STR_1753    :{SMALLFONT}{BLACK}공원에 있는 손님을 항목별로 묶어서 보여줍니다
@@ -1774,8 +1261,7 @@ STR_1767    :회전 터널
 STR_1768    :스윙 횟수를 변경할 수 없습니다...
 STR_1769    :{WINDOW_COLOUR_2}스윙 횟수:
 STR_1770    :{SMALLFONT}{BLACK}가장 높은 스윙의 횟수를 지정합니다
-STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1772    :{COMMA16}
+
 STR_1773    :한 놀이기구에는 하나의 탑승 사진 섹션만 만들 수 있습니다
 STR_1774    :한 놀이기구에는 하나의 케이블 리프트만 만들 수 있습니다
 STR_1775    :끄기
@@ -1802,7 +1288,7 @@ STR_1795    :무전기 연락에 응답 중
 STR_1796    :고장이 나서 수리가 필요함
 STR_1797    :이 놀이기구에서는 변경할 수 없는 설정입니다
 STR_1798    :소용돌이
-STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
+
 STR_1800    :안전 차단
 STR_1801    :안전 벨트가 닫힌 채로 안 열림
 STR_1802    :안전 벨트가 열린 채로 안 닫힘
@@ -1815,12 +1301,12 @@ STR_1808    :{WINDOW_COLOUR_2}최근 고장: {BLACK}{STRINGID}
 STR_1809    :{WINDOW_COLOUR_2}현재 고장: {OUTLINE}{RED}{STRINGID}
 STR_1810    :{WINDOW_COLOUR_2}보유 중:
 STR_1811    :여기에 건설할 수 없습니다...
-STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
+
 STR_1813    :기타 오브젝트
 STR_1814    :행동
 STR_1815    :생각
 STR_1816    :{SMALLFONT}{BLACK}손님 목록에서 보여줄 정보의 종류를 선택하세요
-STR_1817    :({COMMA16})
+
 STR_1818    :{WINDOW_COLOUR_2}모든 손님
 STR_1819    :{WINDOW_COLOUR_2}모든 손님 (항목별 분류)
 STR_1820    :{WINDOW_COLOUR_2}{STRINGID} 손님
@@ -1848,7 +1334,7 @@ STR_1841    :수익: 시간당 {CURRENCY2DP}
 STR_1842    :좋아하는 손님 수: {COMMA16}명
 STR_1843    :좋아하는 손님 수: {COMMA16}명
 STR_1844    :{SMALLFONT}{BLACK}놀이기구/시설 목록에서 보여줄 정보를 선택하세요
-STR_1845    :{MONTHYEAR}
+
 STR_1846    :{COMMA16} 손님
 STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} 손님
 STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} 손님
@@ -1870,15 +1356,14 @@ STR_1863    :미화원
 STR_1864    :정비기술자
 STR_1865    :경비원
 STR_1866    :엔터테이너
-STR_1867    :{BLACK}{COMMA16} {STRINGID}
+
 STR_1868    :회전 수를 변경할 수 없습니다...
 STR_1869    :{WINDOW_COLOUR_2}회전 수:
 STR_1870    :{SMALLFONT}{BLACK}회전 수를 설정합니다
-STR_1871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1872    :{COMMA16}
+
 STR_1873    :{WINDOW_COLOUR_2}수익: 시간당 {BLACK}{CURRENCY2DP}
 STR_1874    :{WINDOW_COLOUR_2}순익: 시간당 {BLACK}{CURRENCY2DP}
-STR_1875    :{BLACK} {SPRITE}{BLACK} {STRINGID}
+
 STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}놀이기구 점검
 STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}놀이기구 수리
 STR_1878    :{WINDOW_COLOUR_2}점검:
@@ -1917,12 +1402,9 @@ STR_1908    :{WINDOW_COLOUR_2}광고
 STR_1909    :{WINDOW_COLOUR_2}연구
 STR_1910    :{WINDOW_COLOUR_2}대출 이자
 STR_1911    :{BLACK} 금리: {COMMA16}%/년
-STR_1912    :{MONTH}
-STR_1913    :{BLACK}+{CURRENCY2DP}
-STR_1914    :{BLACK}{CURRENCY2DP}
-STR_1915    :{RED}{CURRENCY2DP}
+
 STR_1916    :{WINDOW_COLOUR_2}대출:
-STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
+
 STR_1918    :더 이상 돈을 빌릴 수 없습니다!
 STR_1919    :돈이 충분하지 않습니다!
 STR_1920    :대출을 갚을 수 없습니다!
@@ -1931,7 +1413,7 @@ STR_1922    :{SMALLFONT}{BLACK}저장된 게임을 계속해서 플레이합니�
 STR_1923    :{SMALLFONT}{BLACK}튜토리얼을 봅니다
 STR_1924    :{SMALLFONT}{BLACK}게임을 종료합니다
 STR_1925    :사람을 여기에 놓을 수 없습니다...
-STR_1926    :{SMALLFONT}
+
 STR_1927    :{YELLOW}{STRINGID} 고장 발생
 STR_1928    :{RED}{STRINGID} 충돌!
 STR_1929    :{RED}{STRINGID} - 아직 수리되지 않음{NEWLINE}정비기술자의 위치와 업무 효율을 점검하세요
@@ -1962,8 +1444,7 @@ STR_1953    :광고
 STR_1954    :연구 자금
 STR_1955    :{WINDOW_COLOUR_2}바퀴 수:
 STR_1956    :{SMALLFONT}{BLACK}탑승 당 바퀴 수
-STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1958    :{COMMA16}
+
 STR_1959    :바퀴 수를 변경할 수 없습니다...
 STR_1960    :{WINDOW_COLOUR_2}풍선 가격:
 STR_1961    :{WINDOW_COLOUR_2}캐릭터 인형 가격:
@@ -1975,11 +1456,9 @@ STR_1966    :{WINDOW_COLOUR_2}햄버거 가격:
 STR_1967    :{WINDOW_COLOUR_2}감자칩 가격:
 STR_1968    :{WINDOW_COLOUR_2}아이스크림 가격:
 STR_1969    :{WINDOW_COLOUR_2}솜사탕 가격:
-STR_1970    :{WINDOW_COLOUR_2}
-STR_1971    :{WINDOW_COLOUR_2}
-STR_1972    :{WINDOW_COLOUR_2}
+
 STR_1973    :{WINDOW_COLOUR_2}피자 가격:
-STR_1974    :{WINDOW_COLOUR_2}
+
 STR_1975    :{WINDOW_COLOUR_2}팝콘 가격:
 STR_1976    :{WINDOW_COLOUR_2}핫도그 가격:
 STR_1977    :{WINDOW_COLOUR_2}문어발 가격:
@@ -1988,11 +1467,10 @@ STR_1979    :{WINDOW_COLOUR_2}사과 토피 사탕 가격:
 STR_1980    :{WINDOW_COLOUR_2}티셔츠 가격:
 STR_1981    :{WINDOW_COLOUR_2}도넛 가격:
 STR_1982    :{WINDOW_COLOUR_2}커피 가격:
-STR_1983    :{WINDOW_COLOUR_2}
+
 STR_1984    :{WINDOW_COLOUR_2}치킨 가격:
 STR_1985    :{WINDOW_COLOUR_2}레모네이드 가격:
-STR_1986    :{WINDOW_COLOUR_2}
-STR_1987    :{WINDOW_COLOUR_2}
+
 STR_1988    :풍선
 STR_1989    :캐릭터 인형
 STR_1990    :공원 지도
@@ -2122,11 +1600,9 @@ STR_2113    :{WINDOW_COLOUR_2}두유 가격:
 STR_2114    :{WINDOW_COLOUR_2}수정과 가격:
 STR_2115    :{WINDOW_COLOUR_2}샌드위치 가격:
 STR_2116    :{WINDOW_COLOUR_2}쿠키 가격:
-STR_2117    :{WINDOW_COLOUR_2}
-STR_2118    :{WINDOW_COLOUR_2}
-STR_2119    :{WINDOW_COLOUR_2}
+
 STR_2120    :{WINDOW_COLOUR_2}구운 소시지 가격:
-STR_2121    :{WINDOW_COLOUR_2}
+
 STR_2122    :탑승 사진
 STR_2123    :탑승 사진
 STR_2124    :탑승 사진
@@ -2220,14 +1696,12 @@ STR_2211    :{SMALLFONT}{BLACK}정비기술자 목록을 보여줍니다
 STR_2212    :{SMALLFONT}{BLACK}경비원 목록을 보여줍니다
 STR_2213    :{SMALLFONT}{BLACK}엔터테이너 목록을 보여줍니다
 STR_2214    :게임 일시정지 중에는 건설할 수 없습니다!
-STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
-STR_2216    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}C
-STR_2217    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}F
+
 STR_2218    :{RED}{POP16}{POP16}{STRINGID}의 {PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{STRINGID}(이)가 {POP16}{POP16}{POP16}{STRINGID}으로 아직 돌아오지 않았습니다!{NEWLINE}놀이기구가 멈춰있거나 오도가도 못하고 있는지 확인하세요.
 STR_2219    :{RED}{COMMA16}명의 손님이 {STRINGID} 사고로 사망하였습니다!
 STR_2220    :{WINDOW_COLOUR_2}공원 등급: {BLACK}{COMMA16}
 STR_2221    :{SMALLFONT}{BLACK}공원 등급: {COMMA16}
-STR_2222    :{SMALLFONT}{BLACK}{STRINGID}
+
 STR_2223    :{WINDOW_COLOUR_2}공원에 있는 손님 수: {BLACK}{COMMA16}
 STR_2224    :{WINDOW_COLOUR_2}재정: {BLACK}{CURRENCY2DP}
 STR_2225    :{WINDOW_COLOUR_2}재정: {RED}{CURRENCY2DP}
@@ -2240,7 +1714,7 @@ STR_2231    :낙하 브레이크
 STR_2232    :케이블 리프트 힐
 STR_2233    :{SMALLFONT}{BLACK}공원 정보
 STR_2234    :최근 메시지
-STR_2235    :{SMALLFONT}{STRINGID} {STRINGID}
+
 STR_2236    :1월
 STR_2237    :2월
 STR_2238    :3월
@@ -2294,10 +1768,10 @@ STR_2285    :초기 연구
 STR_2286    :디자인 중
 STR_2287    :디자인 완성
 STR_2288    :알 수 없음
-STR_2289    :{STRINGID} {STRINGID}
+
 STR_2290    :{SMALLFONT}{BLACK}{STRINGID} {STRINGID}
 STR_2291    :새 게임을 시작할 시나리오를 선택하세요
-STR_2292    :{WINDOW_COLOUR_2}Rides been on:
+
 STR_2293    :{BLACK} 없음
 STR_2294    :{SMALLFONT}{BLACK}땅 표면 모양을 변경합니다
 STR_2295    :{SMALLFONT}{BLACK}땅의 벽 모양을 변경합니다
@@ -2459,9 +1933,7 @@ STR_2450    :{YELLOW}공원 광고가 종료되었습니다
 STR_2451    :{YELLOW}{STRINGID} 광고가 종료되었습니다
 STR_2452    :{WINDOW_COLOUR_2}재정 (대출 제외): {BLACK}{CURRENCY2DP}
 STR_2453    :{WINDOW_COLOUR_2}재정 (대출 제외): {RED}{CURRENCY2DP}
-STR_2454    :{SMALLFONT}{BLACK}{CURRENCY2DP} -
-STR_2455    :{SMALLFONT}{BLACK}+{CURRENCY2DP} -
-STR_2456    :{SMALLFONT}{BLACK}{CURRENCY2DP} -
+
 STR_2457    :{SMALLFONT}{BLACK}재정 요약을 보여줍니다
 STR_2458    :{SMALLFONT}{BLACK}시간에 따른 재정 보유 그래프(대출 제외)를 보여줍니다
 STR_2459    :{SMALLFONT}{BLACK}시간에 따른 공원 가치 그래프를 보여줍니다
@@ -2531,161 +2003,12 @@ STR_2522    :최근 메시지를 보여줍니다
 STR_2523    :지도 보기
 STR_2524    :스크린 샷
 ### The following need to be reordered to match SDL_keycode layout.
-STR_2525    :???
-STR_2526    :???
-STR_2527    :???
-STR_2528    :???
-STR_2529    :???
-STR_2530    :???
-STR_2531    :???
-STR_2532    :???
+
 STR_2533    :백스페이스
 STR_2534    :탭
-STR_2535    :???
-STR_2536    :???
-STR_2537    :Clear
-STR_2538    :Return
-STR_2539    :???
-STR_2540    :???
-STR_2541    :???
-STR_2542    :???
-STR_2543    :Alt/Menu
-STR_2544    :Pause
-STR_2545    :Caps
-STR_2546    :???
-STR_2547    :???
-STR_2548    :???
-STR_2549    :???
-STR_2550    :???
-STR_2551    :???
-STR_2552    :Escape
-STR_2553    :???
-STR_2554    :???
-STR_2555    :???
-STR_2556    :???
+
 STR_2557    :스페이스바
-STR_2558    :PgUp
-STR_2559    :PgDn
-STR_2560    :End
-STR_2561    :Home
-STR_2562    :Left
-STR_2563    :Up
-STR_2564    :Right
-STR_2565    :Down
-STR_2566    :Select
-STR_2567    :Print
-STR_2568    :Execute
-STR_2569    :Snapshot
-STR_2570    :Insert
-STR_2571    :Delete
-STR_2572    :Help
-STR_2573    :0
-STR_2574    :1
-STR_2575    :2
-STR_2576    :3
-STR_2577    :4
-STR_2578    :5
-STR_2579    :6
-STR_2580    :7
-STR_2581    :8
-STR_2582    :9
-STR_2583    :???
-STR_2584    :???
-STR_2585    :???
-STR_2586    :???
-STR_2587    :???
-STR_2588    :???
-STR_2589    :???
-STR_2590    :A
-STR_2591    :B
-STR_2592    :C
-STR_2593    :D
-STR_2594    :E
-STR_2595    :F
-STR_2596    :G
-STR_2597    :H
-STR_2598    :I
-STR_2599    :J
-STR_2600    :K
-STR_2601    :L
-STR_2602    :M
-STR_2603    :N
-STR_2604    :O
-STR_2605    :P
-STR_2606    :Q
-STR_2607    :R
-STR_2608    :S
-STR_2609    :T
-STR_2610    :U
-STR_2611    :V
-STR_2612    :W
-STR_2613    :X
-STR_2614    :Y
-STR_2615    :Z
-STR_2616    :???
-STR_2617    :???
-STR_2618    :Menu
-STR_2619    :???
-STR_2620    :???
-STR_2621    :NumPad 0
-STR_2622    :NumPad 1
-STR_2623    :NumPad 2
-STR_2624    :NumPad 3
-STR_2625    :NumPad 4
-STR_2626    :NumPad 5
-STR_2627    :NumPad 6
-STR_2628    :NumPad 7
-STR_2629    :NumPad 8
-STR_2630    :NumPad 9
-STR_2631    :NumPad *
-STR_2632    :NumPad +
-STR_2633    :???
-STR_2634    :NumPad -
-STR_2635    :NumPad .
-STR_2636    :NumPad /
-STR_2637    :F1
-STR_2638    :F2
-STR_2639    :F3
-STR_2640    :F4
-STR_2641    :F5
-STR_2642    :F6
-STR_2643    :F7
-STR_2644    :F8
-STR_2645    :F9
-STR_2646    :F10
-STR_2647    :F11
-STR_2648    :F12
-STR_2649    :F13
-STR_2650    :F14
-STR_2651    :F15
-STR_2652    :F16
-STR_2653    :F17
-STR_2654    :F18
-STR_2655    :F19
-STR_2656    :F20
-STR_2657    :F21
-STR_2658    :F22
-STR_2659    :F23
-STR_2660    :F24
-STR_2661    :???
-STR_2662    :???
-STR_2663    :???
-STR_2664    :???
-STR_2665    :???
-STR_2666    :???
-STR_2667    :???
-STR_2668    :???
-STR_2669    :NumLock
-STR_2670    :Scroll
-STR_2671    :???
-STR_2672    :???
-STR_2673    :???
-STR_2674    :???
-STR_2675    :???
-STR_2676    :???
-STR_2677    :???
-STR_2678    :???
-STR_2679    :???
+
 STR_2680    :모든 연구가 완료되었습니다
 STR_2681    :{MEDIUMFONT}{BLACK}돈 {CURRENCY} 늘리기
 STR_2682    :
@@ -2703,9 +2026,7 @@ STR_2693    :{WINDOW_COLOUR_2}지형:
 STR_2694    :생성
 STR_2695    :무작위 지형
 STR_2696    :나무 심기
-STR_2697    :???
-STR_2698    :???
-STR_2699    :???
+
 STR_2700    :자동 저장 주기:
 STR_2701    :매 1분마다
 STR_2702    :매 5분마다
@@ -2717,13 +2038,7 @@ STR_2707    :새 창 열기
 STR_2708    :{WINDOW_COLOUR_1}정말 {STRINGID}에 덮어씌우시겠습니까?
 STR_2709    :덮어쓰기
 STR_2710    :파일 이름을 입력하세요.
-STR_2711    :;
-STR_2712    :=
-STR_2713    :,
-STR_2714    :-
-STR_2715    :.
-STR_2716    :/
-STR_2717    :'
+
 STR_2718    :(상위 폴더)
 STR_2719    :(새 파일)
 STR_2720    :{UINT16}초
@@ -2739,9 +2054,7 @@ STR_2729    :{UINT16}시간 {UINT16}분
 STR_2730    :{UINT16}시간 {UINT16}분
 STR_2731    :{UINT16}시간 {UINT16}분
 STR_2732    :{COMMA16}피트
-STR_2733    :{COMMA16}m
-STR_2734    :{COMMA16}mph
-STR_2735    :{COMMA16}km/h
+
 STR_2736    :{POP16}{COMMA16}년 {PUSH16}{PUSH16}{MONTH}
 STR_2737    :{STRINGID} {POP16}{COMMA16}년 {PUSH16}{PUSH16}{MONTH}
 STR_2738    :타이틀 스크린 음악:
@@ -2750,10 +2063,7 @@ STR_2740    :롤러코스터 타이쿤 1
 STR_2741    :롤러코스터 타이쿤 2
 STR_2742    :css50.dat 파일을 찾을 수 없습니다
 STR_2743    :data\css17.dat 파일을 RCT1 설치 폴더에서 복사하여 RCT2가 설치된 폴더 안에 data\css50.dat 이름으로 바꾸어 넣으십시오.
-STR_2744    :[
-STR_2745    :\
-STR_2746    :]
-STR_2747    :{ENDQUOTES}
+
 STR_2748    :바
 STR_2749    :내 새 시나리오
 # New strings used in the cheats window previously these were ???
@@ -2767,10 +2077,10 @@ STR_2756    :쓰레기통 비우기
 STR_2757    :(더 이상 사용 안 함)
 STR_2758    :(더 이상 사용 안 함)
 STR_2759    :보도 청소
-STR_2760    :+{CURRENCY}
+
 STR_2761    :
 STR_2762    :
-STR_2763    :???
+
 STR_2764    :
 STR_2765    :손님 많이 부르기
 STR_2766    :시나리오 클리어
@@ -2784,12 +2094,11 @@ STR_2773    :창 모드
 STR_2774    :전체 화면
 STR_2775    :전체 화면 (창 모드)
 STR_2776    :언어:
-STR_2777    :{MOVE_X}{SMALLFONT}{STRING}
-STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRING}
+
 STR_2779    :외부화면 #{COMMA16}
 STR_2780    :추가 외부화면
 # End of new strings
-STR_2781    :{STRINGID}:{MOVE_X}{195}{STRINGID}
+
 STR_2782    :SHIFT +
 STR_2783    :CTRL +
 STR_2784    :키보드 단축키 변경
@@ -2869,11 +2178,11 @@ STR_2857    :{WINDOW_COLOUR_2}(조작하려면 마우스나 키보드 키를 누
 STR_2858    :광고 이벤트를 시작할 수 없습니다...
 STR_2859    :OpenRCT2 프로그램이 이미 실행 중입니다
 STR_2860    :Infogrames Interactive 제공...
-STR_2861    :{WINDOW_COLOUR_2}Licensed to Infogrames Interactive Inc.
+
 STR_2862    :음악 저작권...
 STR_2863    :음악 저작권
 STR_2864    :{WINDOW_COLOUR_2}March - Children of the Regiment:   (푸치크) 저작권 없음
-STR_2865    :{WINDOW_COLOUR_2}Heyken's Serenade:   (J.Heyken) British Standard Music Coy; GEMA, BRITICO
+
 STR_2866    :{WINDOW_COLOUR_2}In Continental Mood:   (작곡가 미상) Copyright Control
 STR_2867    :{WINDOW_COLOUR_2}Wedding Journey:   (민요)
 STR_2868    :{WINDOW_COLOUR_2}Tales from the Vienna Woods:   (요한 스트라우스) 저작권 없음
@@ -2883,40 +2192,11 @@ STR_2871    :{WINDOW_COLOUR_2}The Blond Sailor:   (민요)
 STR_2872    :{WINDOW_COLOUR_2}Overture - Poet and Peasant:   (주페) 저작권 없음
 STR_2873    :{WINDOW_COLOUR_2}Waltz Medley:   (요한 스트라우스) 저작권 없음
 STR_2874    :{WINDOW_COLOUR_2}Bella Bella Bimba:   (민요)
-STR_2875    :{WINDOW_COLOUR_2}Original recordings (P) 1976 C.J.Mears Organization, used with consent
+
 STR_2876    :{WINDOW_COLOUR_2}RollerCoaster Tycoon 2 타이틀 음악:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2877    :{WINDOW_COLOUR_2}Dodgems Beat:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2878    :{WINDOW_COLOUR_2}Mid Summer's Heat:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2879    :{WINDOW_COLOUR_2}Pharaoh's Tomb:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2880    :{WINDOW_COLOUR_2}Caesar's March:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2881    :{WINDOW_COLOUR_2}Drifting To Heaven:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2882    :{WINDOW_COLOUR_2}Invaders:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2883    :{WINDOW_COLOUR_2}Eternal Toybox:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2884    :{WINDOW_COLOUR_2}Jungle Juice:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2885    :{WINDOW_COLOUR_2}Ninja's Noodles:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2886    :{WINDOW_COLOUR_2}Voyage to Andromeda:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2887    :{WINDOW_COLOUR_2}Brimble's Beat:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2888    :{WINDOW_COLOUR_2}Atlantis:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2889    :{WINDOW_COLOUR_2}Wild West Kid:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2890    :{WINDOW_COLOUR_2}Vampire's Lair:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2891    :{WINDOW_COLOUR_2}Blockbuster:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2892    :{WINDOW_COLOUR_2}Airtime Rock:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2893    :{WINDOW_COLOUR_2}Searchlight Rag:   (Scott Joplin/Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2894    :{WINDOW_COLOUR_2}Flight of Fantasy:   (Steve Blenkinsopp) copyright {COPYRIGHT} Chris Sawyer
-STR_2895    :{WINDOW_COLOUR_2}Big Rock:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2896    :{WINDOW_COLOUR_2}Hypothermia:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2897    :{WINDOW_COLOUR_2}Last Sleigh Ride:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2898    :{WINDOW_COLOUR_2}Pipes of Glencairn:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2899    :{WINDOW_COLOUR_2}Traffic Jam:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
+
 STR_2900    :{WINDOW_COLOUR_2}
-STR_2901    :{WINDOW_COLOUR_2}(Samples courtesy of Spectrasonics {ENDQUOTES}Liquid Grooves{ENDQUOTES})
-STR_2902    :{WINDOW_COLOUR_2}Toccata:   (C.M.Widor, played by Peter James Adcock) recording {COPYRIGHT} Chris Sawyer
-STR_2903    :{WINDOW_COLOUR_2}Space Rock:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2904    :{WINDOW_COLOUR_2}Manic Mechanic:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2905    :{WINDOW_COLOUR_2}Techno Torture:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2906    :{WINDOW_COLOUR_2}Sweat Dreams:   (Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2907    :{WINDOW_COLOUR_2}What shall we do with the Drunken Sailor:   (Anon/Allister Brimble) copyright {COPYRIGHT} Chris Sawyer
-STR_2908    :{WINDOW_COLOUR_2}Infogrames Interactive
+
 STR_2909    :{WINDOW_COLOUR_2}수석 프로듀서:  Thomas J. Zahorik
 STR_2910    :{WINDOW_COLOUR_2}제작 책임자:  Bill Levay
 STR_2911    :{WINDOW_COLOUR_2}수석 마케팅 프로덕트 매니저:  Scott Triola
@@ -2926,7 +2206,7 @@ STR_2914    :{WINDOW_COLOUR_2}품질 보증 감독:  Michael Craighead
 STR_2915    :{WINDOW_COLOUR_2}Q.A. 인증 매니저:  Kurt Boutin
 STR_2916    :{WINDOW_COLOUR_2}Q.A. 인증 리드:  Mark Huggins
 STR_2917    :{WINDOW_COLOUR_2}테스터:  Dena Irene Fitzgerald, Scott Rollins, Christopher McPhail
-STR_2918    :{WINDOW_COLOUR_2}Clif McClure, Erik Maramaldi, Erik Jeffery
+
 STR_2919    :{WINDOW_COLOUR_2}마케팅 감독:  Ann Marie Bland
 STR_2920    :{WINDOW_COLOUR_2}창조형 서비스 매니저:  Steve Martin
 STR_2921    :{WINDOW_COLOUR_2}편집 & 문서 서비스 매니저:  Elizabeth Mackney
@@ -2939,44 +2219,7 @@ STR_2927    :{WINDOW_COLOUR_2}리드 적합성 분석:  Geoffrey Smith
 STR_2928    :{WINDOW_COLOUR_2}적합성 분석:  Jason Cordero, Burke McQuinn, Kim Jardin
 STR_2929    :{WINDOW_COLOUR_2}리드 테스터:  Daniel Frisoli
 STR_2930    :{WINDOW_COLOUR_2}수석 테스터:  Matt Pantaleoni
-STR_2931    :{WINDOW_COLOUR_2}
-STR_2932    :{WINDOW_COLOUR_2}
-STR_2933    :{WINDOW_COLOUR_2}
-STR_2934    :{WINDOW_COLOUR_2}
-STR_2935    :{WINDOW_COLOUR_2}
-STR_2936    :{WINDOW_COLOUR_2}
-STR_2937    :{WINDOW_COLOUR_2}
-STR_2938    :{WINDOW_COLOUR_2}
-STR_2939    :{WINDOW_COLOUR_2}
-STR_2940    :{WINDOW_COLOUR_2}
-STR_2941    :{WINDOW_COLOUR_2}
-STR_2942    :{WINDOW_COLOUR_2}
-STR_2943    :{WINDOW_COLOUR_2}
-STR_2944    :{WINDOW_COLOUR_2}
-STR_2945    :{WINDOW_COLOUR_2}
-STR_2946    :{WINDOW_COLOUR_2}
-STR_2947    :{WINDOW_COLOUR_2}
-STR_2948    :{WINDOW_COLOUR_2}
-STR_2949    :{WINDOW_COLOUR_2}
-STR_2950    :{WINDOW_COLOUR_2}
-STR_2951    :{WINDOW_COLOUR_2}
-STR_2952    :{WINDOW_COLOUR_2}
-STR_2953    :{WINDOW_COLOUR_2}
-STR_2954    :{WINDOW_COLOUR_2}
-STR_2955    :{WINDOW_COLOUR_2}
-STR_2956    :{WINDOW_COLOUR_2}
-STR_2957    :{WINDOW_COLOUR_2}
-STR_2958    :{WINDOW_COLOUR_2}
-STR_2959    :{WINDOW_COLOUR_2}
-STR_2960    :{WINDOW_COLOUR_2}
-STR_2961    :{WINDOW_COLOUR_2}
-STR_2962    :{WINDOW_COLOUR_2}
-STR_2963    :{WINDOW_COLOUR_2}
-STR_2964    :{WINDOW_COLOUR_2}
-STR_2965    :{WINDOW_COLOUR_2}
-STR_2966    :
-STR_2967    :
-STR_2968    :
+
 STR_2969    :
 STR_2970    :
 STR_2971    :주 색상 조합
@@ -3004,20 +2247,7 @@ STR_2992    :팻말 내용
 STR_2993    :이 팻말의 문구를 입력하세요:
 STR_2994    :{SMALLFONT}{BLACK}팻말의 내용을 바꿉니다
 STR_2995    :{SMALLFONT}{BLACK}이 팻말을 제거합니다
-STR_2996    :{BLACK}ABC
-STR_2997    :{GREY}ABC
-STR_2998    :{WHITE}ABC
-STR_2999    :{RED}ABC
-STR_3000    :{GREEN}ABC
-STR_3001    :{YELLOW}ABC
-STR_3002    :{TOPAZ}ABC
-STR_3003    :{CELADON}ABC
-STR_3004    :{BABYBLUE}ABC
-STR_3005    :{PALELAVENDER}ABC
-STR_3006    :{PALEGOLD}ABC
-STR_3007    :{LIGHTPINK}ABC
-STR_3008    :{PEARLAQUA}ABC
-STR_3009    :{PALESILVER}ABC
+
 STR_3010    :파일을 불러올 수 없습니다...
 STR_3011    :파일이 올바르지 않은 데이터를 포함하고 있습니다
 STR_3012    :범버카 비트 스타일
@@ -3028,7 +2258,7 @@ STR_3016    :화상 스타일
 STR_3017    :정글 북 스타일
 STR_3018    :이집트 스타일
 STR_3019    :장난감나라 스타일
-STR_3020    :
+
 STR_3021    :우주 스타일
 STR_3022    :호러 스타일
 STR_3023    :테크노 스타일
@@ -3104,7 +2334,7 @@ STR_3092    :이 놀이기구의 탑승장을 옮기거나 편집할 수 없습�
 STR_3093    :{WINDOW_COLOUR_2}가장 좋아하는 것: {BLACK}{STRINGID}
 STR_3094    :없음
 STR_3095    :{WINDOW_COLOUR_2}리프트 힐 체인 속도:
-STR_3096    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
+
 STR_3097    :{SMALLFONT}{BLACK}리프트 힐 체인 속력을 선택하세요
 STR_3098    :리프트 힐 체인 속력을 변경할 수 없습니다...
 STR_3099    :{SMALLFONT}{BLACK}색을 선택하세요
@@ -3163,8 +2393,7 @@ STR_3151    :{SMALLFONT}{BLACK}아래로 {STRINGID} 스크롤
 STR_3152    :{SMALLFONT}{BLACK}위로 {STRINGID} 빠르게 스크롤
 STR_3153    :{SMALLFONT}{BLACK}아래로 {STRINGID} 빠르게 스크롤
 STR_3154    :{SMALLFONT}{BLACK}위/아래로 {STRINGID} 스크롤
-STR_3155    :
-STR_3156    :
+
 STR_3157    :지도
 STR_3158    :그래프
 STR_3159    :목록
@@ -3173,7 +2402,7 @@ STR_3161    :
 STR_3162    :충분한 메모리를 할당할 수 없습니다
 STR_3163    :새 데이터 설치중:
 STR_3164    :{BLACK}{COMMA16}개 선택 됨 (최대 {COMMA16}개)
-STR_3165    :
+
 STR_3166    :{BLACK}(ID:
 STR_3167    :{WINDOW_COLOUR_2}{BLACK}{COMMA16}개의 오브젝트 포함
 STR_3168    :{WINDOW_COLOUR_2}텍스트: {BLACK}{STRINGID}
@@ -3220,7 +2449,7 @@ STR_3208    :트랙 디자인 매니저
 STR_3209    :이전 단계로:
 STR_3210    :다음 단계로:
 STR_3211    :{WINDOW_COLOUR_2}지도 크기:
-STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
+
 STR_3213    :더 이상 맵 크기를 줄일 수 없습니다
 STR_3214    :더 이상 맵 크기를 늘일 수 없습니다
 STR_3215    :지도 가장자리와 너무 가깝습니다
@@ -3254,8 +2483,7 @@ STR_3242    :{WINDOW_COLOUR_2}최대 대출금:
 STR_3243    :{WINDOW_COLOUR_2}연 이자율:
 STR_3244    :광고 이벤트를 금지
 STR_3245    :{SMALLFONT}{BLACK}광고나 이벤트를 진행할 수 없도록 금지합니다
-STR_3246    :{WINDOW_COLOUR_2}{CURRENCY}
-STR_3247    :{WINDOW_COLOUR_2}{COMMA16}%
+
 STR_3248    :초기 보유 자금을 더 이상 늘릴 수 없습니다!
 STR_3249    :초기 보유 자금을 더 이상 줄일 수 없습니다!
 STR_3250    :초기 대출금을 더 이상 늘릴 수 없습니다!
@@ -3310,16 +2538,14 @@ STR_3298    :{WINDOW_COLOUR_2}공원 이름: {BLACK}{STRINGID}
 STR_3299    :{WINDOW_COLOUR_2}공원/시나리오 상세 설명:
 STR_3300    :{WINDOW_COLOUR_2}시나리오 이름: {BLACK}{STRINGID}
 STR_3301    :{WINDOW_COLOUR_2}목표 날짜:
-STR_3302    :{WINDOW_COLOUR_2}{MONTHYEAR}
+
 STR_3303    :{WINDOW_COLOUR_2}손님 수:
 STR_3304    :{WINDOW_COLOUR_2}공원 가치:
 STR_3305    :{WINDOW_COLOUR_2}월 수익:
 STR_3306    :{WINDOW_COLOUR_2}월 순이익:
 STR_3307    :{WINDOW_COLOUR_2}최소 길이:
 STR_3308    :{WINDOW_COLOUR_2}흥미도:
-STR_3309    :{WINDOW_COLOUR_2}{COMMA16}
-STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
-STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
+
 STR_3312    :{WINDOW_COLOUR_2}보호되고 있는 놀이기구/시설 순서:
 STR_3313    :시나리오 이름
 STR_3314    :시나리오 이름을 입력하세요:
@@ -3475,8 +2701,7 @@ STR_5134    :{SMALLFONT}{BLACK}땅 구입 도구 크기 늘이기
 STR_5135    :{SMALLFONT}{BLACK}땅 소유권과 건설권 구입하기
 STR_5136    :땅 소유권
 STR_5137    :놀이기구 운영 제한 없애기
-STR_5138    :{SMALLFONT}{WINDOW_COLOUR_2}{STRINGID}
-STR_5139    :{WHITE}{STRINGID}
+
 STR_5140    :브레이크 고장 안 나게
 STR_5141    :고장 안 나게
 STR_5142    :보통 속도
@@ -3488,8 +2713,7 @@ STR_5147    :치트
 STR_5148    :{SMALLFONT}{BLACK}게임 속도를 변경합니다
 STR_5149    :{SMALLFONT}{BLACK}치트 창을 엽니다
 STR_5150    :디버깅 도구를 사용합니다
-STR_5151    :,
-STR_5152    :.
+
 STR_5153    :테마 수정...
 STR_5154    :하드웨어 디스플레이
 STR_5155    :완성되지 않은 트랙의 테스트 허용
@@ -3519,7 +2743,7 @@ STR_5178    :{SMALLFONT}{BLACK}재정 치트를 보여줍니다
 STR_5179    :{SMALLFONT}{BLACK}손님 치트를 보여줍니다
 STR_5180    :{SMALLFONT}{BLACK}공원 치트를 보여줍니다
 STR_5181    :{SMALLFONT}{BLACK}놀이기구 치트를 보여줍니다
-STR_5182    :{INT32}
+
 STR_5183    :기본 땅 높이
 STR_5184    :기본 땅 높이를 {COMMA16} 사이의 {COMMA16} 사이의 값으로 입력하세요
 STR_5185    :물 높이
@@ -3608,7 +2832,7 @@ STR_5267    :{SMALLFONT}{BLACK}문화와 단위
 STR_5268    :{SMALLFONT}{BLACK}오디오
 STR_5269    :{SMALLFONT}{BLACK}제어 및 인터페이스
 STR_5270    :{SMALLFONT}{BLACK}기타
-STR_5271    :{SMALLFONT}{BLACK}Twitch
+
 STR_5272    :{SMALLFONT}{BLACK}소형 조형물
 STR_5273    :{SMALLFONT}{BLACK}대형 조형물
 STR_5274    :{SMALLFONT}{BLACK}보도
@@ -3635,8 +2859,7 @@ STR_5294    :{SMALLFONT}{BLACK}놀이기구/시설을 테스트합니다
 STR_5295    :{SMALLFONT}{BLACK}놀이기구/시설을 엽니다
 STR_5296    :{SMALLFONT}{BLACK}공원을 닫습니다
 STR_5297    :{SMALLFONT}{BLACK}공원을 엽니다
-STR_5298    :{RED}{STRINGID}
-STR_5299    :{LIGHTPINK}{STRINGID}
+
 STR_5300    :{SMALLFONT}{BLACK}직원 간편 해고
 STR_5301    :{MEDIUMFONT}{BLACK}대출금을 모두 갚습니다
 STR_5302    :대출금 모두 갚기
@@ -3646,7 +2869,7 @@ STR_5305    :롤러코스터 타이쿤 1
 STR_5306    :롤러코스터 타이쿤 1 (AA)
 STR_5307    :롤러코스터 타이쿤 1 (AA + LL)
 STR_5308    :롤러코스터 타이쿤 2
-STR_5309    :OpenRCT2
+
 STR_5310    :무작위
 STR_5311    :{SMALLFONT}{BLACK}디버그 도구
 STR_5312    :콘솔 보이기
@@ -3712,8 +2935,7 @@ STR_5371    :오브젝트 선택
 STR_5372    :마우스 오른쪽 드래그시 좌우 반전
 STR_5373    :이름 {STRINGID}
 STR_5374    :날짜 {STRINGID}
-STR_5375    :{UP}
-STR_5376    :{DOWN}
+
 STR_5377    :{SMALLFONT}{BLACK}저장
 STR_5378    :{SMALLFONT}{BLACK}스크립트
 STR_5379    :{SMALLFONT}{BLACK}다음 기다리기 명령으로 건너뜁니다
@@ -3799,7 +3021,7 @@ STR_5458    :시계방향으로 회전
 STR_5459    :반시계방향으로 회전
 STR_5460    :게임 화면을 반시계방향으로 회전
 STR_5461    :손님 매개변수 설정
-STR_5462    :{CURRENCY}
+
 STR_5463    :목표: 즐기세요!
 STR_5464    :일반
 STR_5465    :날씨
@@ -3822,8 +3044,7 @@ STR_5481    :테마
 STR_5482    :{WINDOW_COLOUR_2}최근 점검 시간: {BLACK}1분
 STR_5483    :{BLACK}({COMMA16}주 남음)
 STR_5484    :{BLACK}({COMMA16}주 남음)
-STR_5485    :{SMALLFONT}{STRING}
-STR_5486    :{BLACK}{COMMA16}
+
 STR_5487    :{SMALLFONT}{BLACK}최근 메시지 보이기
 STR_5488    :입구 없음
 STR_5489    :{SMALLFONT}{BLACK}추적 중인 손님만 보기
@@ -3945,14 +3166,13 @@ STR_5604    :손님의 물건 구입
 STR_5605    :손님의 시설 사용
 STR_5606    :손님의 사망
 STR_5607    :{SMALLFONT}{BLACK}선택한 맵 요소를 강제로 제거합니다.
-STR_5608    :BH
-STR_5609    :CH
+
 STR_5610    :{SMALLFONT}{BLACK}현재 선택한 맵 요소를 제거합니다. 강제로 삭제하기 때문에 돈이 들어오거나 빠지진 않을 것입니다. 주의해서 사용하세요.
-STR_5611    :G
+
 STR_5612    :{SMALLFONT}{BLACK}유령 플래그
-STR_5613    :B
+
 STR_5614    :{SMALLFONT}{BLACK}깨짐 플래그
-STR_5615    :L
+
 STR_5616    :{SMALLFONT}{BLACK}타일 플래그의 마지막 요소
 STR_5617    :{SMALLFONT}{BLACK}선택한 요소를 위로 이동합니다.
 STR_5618    :{SMALLFONT}{BLACK}선택한 요소를 아래로 이동합니다.
@@ -4118,8 +3338,7 @@ STR_5809    :{WINDOW_COLOUR_2}안내소 및 기타 시설 수: {BLACK}{COMMA16}
 STR_5810    :열차 길이 제한 해제
 STR_5811    :{SMALLFONT}{BLACK}이 설정을 켜면, 열차 1대당 차량 수를 255대까지 늘릴 수 있습니다.
 STR_5812    :멀티플레이 창 열기
-STR_5813    :{OPENQUOTES}{STRING}{ENDQUOTES}
-STR_5814    :{WINDOW_COLOUR_1}{OPENQUOTES}{STRING}{ENDQUOTES}
+
 #tooltips
 STR_5815    :{SMALLFONT}{BLACK}게임 화면에 FPS를 표시합니다.
 STR_5816    :{SMALLFONT}{BLACK}게임 화면을 조절할 비율을 설정합니다.{NEWLINE}고해상도에서 플레이할 때 사용하면 좋습니다.
@@ -4184,7 +3403,7 @@ STR_5875    :드로잉 엔진:
 STR_5876    :{SMALLFONT}{BLACK}게임 요소를 표시는데 사용할 엔진을 선택합니다.
 STR_5877    :소프트웨어
 STR_5878    :소프트웨어 (하드웨어 디스플레이)
-STR_5879    :OpenGL
+
 STR_5880    :선택한 것만
 STR_5881    :선택하지 않은 것만
 STR_5882    :사용자 화폐 단위
