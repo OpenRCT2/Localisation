@@ -1369,14 +1369,14 @@ STR_1363    :Too high for supports!
 STR_1364    :Supports for track above can't be extended any further!
 STR_1365    :In-line Twist (left)
 STR_1366    :In-line Twist (right)
-STR_1367    :Half Loop
-STR_1368    :Half Corkscrew (left)
-STR_1369    :Half Corkscrew (right)
+STR_1367    :半 ループ
+STR_1368    :半 口抜き (左)
+STR_1369    :半 口抜き (右)
 STR_1370    :Barrel Roll (left)
 STR_1371    :Barrel Roll (right)
 STR_1372    :Launched Lift Hill
-STR_1373    :Large Half Loop (left)
-STR_1374    :Large Half Loop (right)
+STR_1373    :大 半 ループ (左)
+STR_1374    :大 半 ループ (右)
 STR_1375    :Upper Transfer
 STR_1376    :Lower Transfer
 STR_1377    :Heartline Roll (left)
@@ -1385,7 +1385,7 @@ STR_1379    :Reverser (left)
 STR_1380    :Reverser (right)
 STR_1381    :Curved Lift Hill (left)
 STR_1382    :Curved Lift Hill (right)
-STR_1383    :Quarter Loop
+STR_1383    :四半期 ループ
 STR_1384    :{YELLOW}{STRINGID}
 STR_1385    :{SMALLFONT}{BLACK}Other track configurations
 STR_1386    :Special...
@@ -1470,13 +1470,13 @@ STR_1464    :Helix up (small)
 STR_1465    :Helix up (large)
 STR_1466    :Helix down (small)
 STR_1467    :Helix down (large)
-STR_1468    :Staff
+STR_1468    :職員
 STR_1469    :Ride must start and end with stations
 STR_1470    :Station not long enough
 STR_1471    :{WINDOW_COLOUR_2}Speed:
 STR_1472    :{SMALLFONT}{BLACK}Speed of this ride
-STR_1473    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1474    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}Not yet available
+STR_1473    :{WINDOW_COLOUR_2}スリル 格付け: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1474    :{WINDOW_COLOUR_2}スリル 格付け: {BLACK}Not yet available
 STR_1475    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}{COMMA2DP32}  ({STRINGID})
 STR_1476    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}Not yet available
 STR_1477    :{WINDOW_COLOUR_2}Intensity rating: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
@@ -1665,12 +1665,12 @@ STR_1658    :{WINDOW_COLOUR_2}intensity: {BLACK}less than {COMMA16}
 STR_1659    :{WINDOW_COLOUR_2}intensity: {BLACK}between {COMMA16} and {COMMA16}
 STR_1660    :{WINDOW_COLOUR_2}intensity: {BLACK}more than {COMMA16}
 STR_1661    :{WINDOW_COLOUR_2}Nausea tolerance: {BLACK}{STRINGID}
-STR_1662    :{WINDOW_COLOUR_2}Happiness:
-STR_1663    :{WINDOW_COLOUR_2}Nausea:
-STR_1664    :{WINDOW_COLOUR_2}Energy:
-STR_1665    :{WINDOW_COLOUR_2}Hunger:
-STR_1666    :{WINDOW_COLOUR_2}Thirst:
-STR_1667    :{WINDOW_COLOUR_2}Bathroom:
+STR_1662    :{WINDOW_COLOUR_2}幸福:
+STR_1663    :{WINDOW_COLOUR_2}吐き気:
+STR_1664    :{WINDOW_COLOUR_2}精力:
+STR_1665    :{WINDOW_COLOUR_2}飢え:
+STR_1666    :{WINDOW_COLOUR_2}渇き:
+STR_1667    :{WINDOW_COLOUR_2}膀胱:
 STR_1668    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}Unknown
 STR_1669    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}Total customers: {BLACK}{COMMA32}
@@ -1742,8 +1742,8 @@ STR_1735    :{SMALLFONT}{BLACK}Number of laps of circuit
 STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1737    :{COMMA16}
 STR_1738    :Can't change number of laps...
-STR_1739    :Race won by guest {INT32}
-STR_1740    :Race won by {STRINGID}
+STR_1739    :客 {INT32} はレースに勝ちました !
+STR_1740    :{STRINGID} はレースに勝ちました !
 STR_1741    :Not yet constructed !
 STR_1742    :{WINDOW_COLOUR_2}Max. people on ride:
 STR_1743    :{SMALLFONT}{BLACK}Maximum number of people allowed on this ride at one time
@@ -2054,27 +2054,27 @@ STR_2045    :a Cuddly Toy
 STR_2046    :a Park Map
 STR_2047    :an On-Ride Photo
 STR_2048    :an Umbrella
-STR_2049    :a Drink
-STR_2050    :a Burger
+STR_2049    :ドリンク
+STR_2050    :バーガー
 STR_2051    :some Chips
-STR_2052    :an Ice Cream
+STR_2052    :アイスクリーム
 STR_2053    :some Candyfloss
 STR_2054    :an Empty Can
-STR_2055    :some Rubbish
+STR_2055    :くず
 STR_2056    :an Empty Burger Box
-STR_2057    :a Pizza
+STR_2057    :ピザ
 STR_2058    :a Voucher
-STR_2059    :some Popcorn
-STR_2060    :a Hot Dog
+STR_2059    :ポップコーン
+STR_2060    :ホットドッグ
 STR_2061    :a Tentacle
 STR_2062    :a Hat
 STR_2063    :a Toffee Apple
 STR_2064    :a T-Shirt
 STR_2065    :a Doughnut
-STR_2066    :a Coffee
+STR_2066    :コーヒー
 STR_2067    :an Empty Cup
-STR_2068    :some Fried Chicken
-STR_2069    :some Lemonade
+STR_2068    :フライドチキン
+STR_2069    :レモネード
 STR_2070    :an Empty Box
 STR_2071    :an Empty Bottle
 STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Balloon
@@ -3833,11 +3833,11 @@ STR_5491    :Inventions list
 STR_5492    :Scenario options
 STR_5493    :Send Message
 STR_5494    :<not used anymore>
-STR_5495    :Player List
-STR_5496    :Player:
+STR_5495    :プレーヤー 名鑑
+STR_5496    :プレーヤー:
 STR_5497    :Ping:
 STR_5498    :Server List
-STR_5499    :Player Name:
+STR_5499    :プレーヤー 名:
 STR_5500    :Add Server
 STR_5501    :Start Server
 STR_5502    :Multiplayer
