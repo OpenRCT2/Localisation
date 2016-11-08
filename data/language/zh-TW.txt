@@ -4233,6 +4233,73 @@ STR_5920    :渲染天氣效果
 STR_5921    :{SMALLFONT}{BLACK}啟用後, 於雷暴天氣中的雨和灰濛濛的濾鏡會被渲染在畫面中.
 STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}最多 {STRINGID}
 STR_5923    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}每列車最多為 {COMMA16} {STRINGID}
+STR_5924    :地面詳情
+STR_5925    :道路詳情
+STR_5926    :軌道詳情
+STR_5927    :景物詳情
+STR_5928    :入口詳情
+STR_5929    :圍欄詳情
+STR_5930    :巨型景物詳情
+STR_5931    :橫額詳情
+STR_5932    :已毀壞元素詳情
+STR_5933    :屬性
+STR_5934    :{WINDOW_COLOUR_2}地型素材: {BLACK}{STRINGID}
+STR_5935    :{WINDOW_COLOUR_2}地型邊緣: {BLACK}{STRINGID}
+STR_5936    :{WINDOW_COLOUR_2}土地擁有權: {BLACK}{STRINGID}
+STR_5937    :並未擁有亦並不可買
+STR_5938    :{WINDOW_COLOUR_2}水位: {BLACK}{COMMA16}
+STR_5939    :移除樂園邊界
+STR_5940    :還原樂園邊界
+STR_5941    :{WINDOW_COLOUR_2}Base height:
+STR_5942    :{WINDOW_COLOUR_2}道路名稱: {BLACK}{STRINGID}
+STR_5943    :{WINDOW_COLOUR_2}附加物品: {BLACK}{STRINGID}
+STR_5944    :{WINDOW_COLOUR_2}附加物品: {BLACK}暫無
+STR_5945    :{WINDOW_COLOUR_2}Connected edges:
+STR_5946    :{WINDOW_COLOUR_2}Ride type: {BLACK}{STRINGID}
+STR_5947    :{WINDOW_COLOUR_2}Ride ID: {BLACK}{COMMA16}
+STR_5948    :{WINDOW_COLOUR_2}Ride name: {BLACK}{STRINGID}
+STR_5949    :{WINDOW_COLOUR_2}鏈條坡道
+STR_5950    :{WINDOW_COLOUR_2}Apply changes to entire track piece
+STR_5951    :{WINDOW_COLOUR_2}Track piece ID: {BLACK}{COMMA16}
+STR_5952    :{WINDOW_COLOUR_2}Sequence number: {BLACK}{COMMA16}
+STR_5953    :{SMALLFONT}{BLACK}Sort the map elements on the current tile based on their base height.
+STR_5954    :{WINDOW_COLOUR_2}Scenery age: {BLACK}{COMMA16}
+STR_5955    :{WINDOW_COLOUR_2}Quadrant placement: {BLACK}{STRINGID}
+STR_5956    :西南
+STR_5957    :西北
+STR_5958    :東北
+STR_5959    :東南
+STR_5960    :{WINDOW_COLOUR_2}Quadrant placement:
+STR_5961    :{WINDOW_COLOUR_2}Entry index: {BLACK}{COMMA16}
+STR_5962    :{WINDOW_COLOUR_2}Collission detection:
+STR_5963    :{WINDOW_COLOUR_2}Raised Corners:
+STR_5964    :{WINDOW_COLOUR_2}Diagonal
+STR_5965    :{WINDOW_COLOUR_2}入口類型: {BLACK}{STRINGID}
+STR_5966    :{WINDOW_COLOUR_2}樂園入口 part: {BLACK}{STRINGID}
+STR_5967    :中間
+STR_5968    :左
+STR_5969    :右
+STR_5970    :{WINDOW_COLOUR_2}入口編號: {BLACK}{COMMA16}
+STR_5971    :{WINDOW_COLOUR_2}出口編號: {BLACK}{COMMA16}
+STR_5972    :{WINDOW_COLOUR_2}遊樂設施編號: {BLACK}{COMMA16}
+STR_5973    :Clamp to next
+STR_5974    :{SMALLFONT}{BLACK}Changes the base- and clearance height so that it's at the same as the next element on the current tile. Doing this makes it easier to build on this tile.
+STR_5975    :Slope:
+STR_5976    :Flat
+STR_5977    :Right side up
+STR_5978    :Left side up
+STR_5979    :{WINDOW_COLOUR_2}Fence type: {BLACK}{COMMA16}
+STR_5980    :{WINDOW_COLOUR_2}Banner text: {BLACK}{STRINGID}
+STR_5981    :{WINDOW_COLOUR_2}不是橫額
+STR_5982    :{WINDOW_COLOUR_2}Large scenery type: {BLACK}{COMMA16}
+STR_5983    :{WINDOW_COLOUR_2}Large scenery piece ID: {BLACK}{COMMA16}
+STR_5984    :Blocked paths:
+STR_5985    :建立新文件夾
+STR_5986    :請輸入新文件夾的名字
+STR_5987    :無法建立新文件夾
+STR_5988    :{SMALLFONT}{BLACK}已經沒有可供購買的土地使用權
+STR_5989    :{SMALLFONT}{BLACK}已經沒有可供購買的建造權
+STR_5990    :{SMALLFONT}{BLACK}已經沒有可供購買的土地使用或建造權
 
 #############
 # Scenarios #
