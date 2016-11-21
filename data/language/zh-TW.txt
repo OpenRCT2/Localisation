@@ -4187,8 +4187,8 @@ STR_5874    :{SMALLFONT}{BLACK}容許將任何軌道變成有鏈條裝置的軌�
 STR_5875    :渲染引擎:
 STR_5876    :{SMALLFONT}{BLACK}選擇使用於渲染遊戲的引擎.
 STR_5877    :軟件渲染
-STR_5878    :軟件渲染 (使用硬體顯示)
-STR_5879    :OpenGL
+STR_5878    :軟件渲染 (使用硬件渲染)
+STR_5879    :OpenGL (實驗性質)
 STR_5880    :只顯示已選擇的物件
 STR_5881    :只顯示未選擇的物件
 STR_5882    :自訂貨幣
@@ -4262,17 +4262,17 @@ STR_5949    :{WINDOW_COLOUR_2}鏈條坡道
 STR_5950    :{WINDOW_COLOUR_2}將改變應用於整個軌道組件中
 STR_5951    :{WINDOW_COLOUR_2}軌道組件編號: {BLACK}{COMMA16}
 STR_5952    :{WINDOW_COLOUR_2}次序數目: {BLACK}{COMMA16}
-STR_5953    :{SMALLFONT}{BLACK}Sort the map elements on the current tile based on their base height.
+STR_5953    :{SMALLFONT}{BLACK}以底部高度排序目前網格上的地圖元素
 STR_5954    :{WINDOW_COLOUR_2}景物年齡: {BLACK}{COMMA16}
-STR_5955    :{WINDOW_COLOUR_2}Quadrant placement: {BLACK}{STRINGID}
+STR_5955    :{WINDOW_COLOUR_2}Quadrant放置: {BLACK}{STRINGID}
 STR_5956    :西南
 STR_5957    :西北
 STR_5958    :東北
 STR_5959    :東南
-STR_5960    :{WINDOW_COLOUR_2}Quadrant placement:
+STR_5960    :{WINDOW_COLOUR_2}Quadrant放置:
 STR_5961    :{WINDOW_COLOUR_2}入口編號: {BLACK}{COMMA16}
-STR_5962    :{WINDOW_COLOUR_2}Collission detection:
-STR_5963    :{WINDOW_COLOUR_2}Raised Corners:
+STR_5962    :{WINDOW_COLOUR_2}衝突檢測:
+STR_5963    :{WINDOW_COLOUR_2}已升起的角落:
 STR_5964    :{WINDOW_COLOUR_2}斜角
 STR_5965    :{WINDOW_COLOUR_2}入口類型: {BLACK}{STRINGID}
 STR_5966    :{WINDOW_COLOUR_2}樂園入口部份: {BLACK}{STRINGID}
@@ -4282,8 +4282,8 @@ STR_5969    :右
 STR_5970    :{WINDOW_COLOUR_2}入口編號: {BLACK}{COMMA16}
 STR_5971    :{WINDOW_COLOUR_2}出口編號: {BLACK}{COMMA16}
 STR_5972    :{WINDOW_COLOUR_2}遊樂設施編號: {BLACK}{COMMA16}
-STR_5973    :Clamp to next
-STR_5974    :{SMALLFONT}{BLACK}Changes the base- and clearance height so that it's at the same as the next element on the current tile. Doing this makes it easier to build on this tile.
+STR_5973    :與下一地圖元素並列
+STR_5974    :{SMALLFONT}{BLACK}將此元素的底部及清空高度與下一元素調整成一致. 此舉會讓於此網格上建造得更加容易.
 STR_5975    :坡道:
 STR_5976    :平坦
 STR_5977    :右邊向上
@@ -4293,7 +4293,7 @@ STR_5980    :{WINDOW_COLOUR_2}橫額文字: {BLACK}{STRINGID}
 STR_5981    :{WINDOW_COLOUR_2}不是橫額
 STR_5982    :{WINDOW_COLOUR_2}巨型景物類型: {BLACK}{COMMA16}
 STR_5983    :{WINDOW_COLOUR_2}巨型景物組件編號: {BLACK}{COMMA16}
-STR_5984    :Blocked paths:
+STR_5984    :被擋住的道路:
 STR_5985    :建立新文件夾
 STR_5986    :請輸入新文件夾的名字
 STR_5987    :無法建立新文件夾
