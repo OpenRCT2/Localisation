@@ -1178,8 +1178,8 @@ STR_1167    :Can't raise water level here...
 STR_1168    :选项
 STR_1169    :(无)
 STR_1170    :{STRING}
-STR_1171    :{RED}已关闭 - - 
-STR_1172    :{YELLOW}{STRINGID} - - 
+STR_1171    :{RED}已关闭 - -
+STR_1172    :{YELLOW}{STRINGID} - -
 STR_1173    :{SMALLFONT}{BLACK}Build footpaths and queue lines
 STR_1174    :Banner sign in the way
 STR_1175    :Can't build this on sloped footpath
@@ -1350,10 +1350,10 @@ STR_1339    :{BLACK}No test results yet...
 STR_1340    :{WINDOW_COLOUR_2}Max. speed: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Ride time: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
-STR_1343    :{DURATION} / 
+STR_1343    :{DURATION} /
 STR_1344    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
-STR_1346    :{LENGTH} / 
+STR_1346    :{LENGTH} /
 STR_1347    :{WINDOW_COLOUR_2}Average speed: {BLACK}{VELOCITY}
 STR_1348    :{WINDOW_COLOUR_2}Max. positive vertical G's: {BLACK}{COMMA2DP32}g
 STR_1349    :{WINDOW_COLOUR_2}Max. positive vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
@@ -1661,15 +1661,15 @@ STR_1650    :{SMALLFONT}{OPENQUOTES}喔!一个新的设施正在建造{ENDQUOTES
 # Two removed inside jokes about Intamin and Phoenix
 STR_1651    :<removed string - do not use>
 STR_1652    :<removed string - do not use>
-STR_1653    :{SMALLFONT}{OPENQUOTES}...然而, 现在我们已经在{STRINGID}之上!{ENDQUOTES}
+STR_1653    :{SMALLFONT}{OPENQUOTES}...现在我们已经在{STRINGID}上!{ENDQUOTES}
 STR_1654    :{WINDOW_COLOUR_2}最近的想法:
 STR_1655    :{SMALLFONT}{BLACK}在地上建造道路
 STR_1656    :{SMALLFONT}{BLACK}建造桥梁或隧道
-STR_1657    :{WINDOW_COLOUR_2}游乐设施偏好
+STR_1657    :{WINDOW_COLOUR_2}游乐设施选项
 STR_1658    :{WINDOW_COLOUR_2}刺激度: {BLACK}少于{COMMA16}
-STR_1659    :{WINDOW_COLOUR_2}刺激度: {BLACK}介乎{COMMA16}及{COMMA16}之间
-STR_1660    :{WINDOW_COLOUR_2}刺激度: {BLACK}高于{COMMA16}
-STR_1661    :{WINDOW_COLOUR_2}恶心忍受程度: {BLACK}{STRINGID}
+STR_1659    :{WINDOW_COLOUR_2}刺激度: {BLACK}介于{COMMA16}和{COMMA16}之间
+STR_1660    :{WINDOW_COLOUR_2}刺激度: {BLACK}大于{COMMA16}
+STR_1661    :{WINDOW_COLOUR_2}恶心忍受度: {BLACK}{STRINGID}
 STR_1662    :{WINDOW_COLOUR_2}快乐度:
 STR_1663    :{WINDOW_COLOUR_2}恶心度:
 STR_1664    :{WINDOW_COLOUR_2}体力:
@@ -1680,7 +1680,7 @@ STR_1668    :{WINDOW_COLOUR_2}满意度: {BLACK}未知
 STR_1669    :{WINDOW_COLOUR_2}满意度: {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}总乘客数: {BLACK}{COMMA32}
 STR_1671    :{WINDOW_COLOUR_2}总利润: {BLACK}{CURRENCY2DP}
-STR_1672    :刹车设备
+STR_1672    :刹车
 STR_1673    :控制旋转开/关轨道
 STR_1674    :刹车速度
 STR_1675    :{POP16}{VELOCITY}
@@ -1707,7 +1707,7 @@ STR_1695    :{SMALLFONT}{BLACK}收入和支出
 STR_1696    :{SMALLFONT}{BLACK}顾客信息
 STR_1697    :不能在等候区放置此物品
 STR_1698    :只能在等候区放置此物品
-STR_1699    :游戏中已有太多人物
+STR_1699    :游戏中已有太多人
 STR_1700    :雇佣新的清洁工
 STR_1701    :雇佣新的机械工
 STR_1702    :雇佣新的安保人员
@@ -1738,8 +1738,8 @@ STR_1726    :Land not for sale!
 STR_1727    :Construction rights not for sale!
 STR_1728    :Can't buy construction rights here...
 STR_1729    :Land not owned by park!
-STR_1730    :{RED}Closed - - 
-STR_1731    :{WHITE}{STRINGID} - - 
+STR_1730    :{RED}Closed - -
+STR_1731    :{WHITE}{STRINGID} - -
 STR_1732    :Build
 STR_1733    :Mode
 STR_1734    :{WINDOW_COLOUR_2}Number of laps:
@@ -1781,12 +1781,12 @@ STR_1769    :{WINDOW_COLOUR_2}Number of swings:
 STR_1770    :{SMALLFONT}{BLACK}Number of complete swings
 STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1772    :{COMMA16}
-STR_1773    :每个游乐设施只可建造一个照相区域
-STR_1774    :每个游乐设施只可建造一个缆索坡道
+STR_1773    :每个游乐设施只能建造一个照相区域
+STR_1774    :每个游乐设施只能建造一个牵引轨道
 STR_1775    :关闭
 STR_1776    :开启
 STR_1777    :{WINDOW_COLOUR_2}设施音乐
-STR_1778    :{STRINGID} - - 
+STR_1778    :{STRINGID} - -
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} 熊猫服装
 STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} 老虎服装
 STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} 大象服装
@@ -1800,8 +1800,8 @@ STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} 警长服装
 STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} 海盗服装
 STR_1790    :{SMALLFONT}{BLACK}选择这种员工的制服颜色
 STR_1791    :{WINDOW_COLOUR_2}制服的颜色:
-STR_1792    :回应{STRINGID}的故障调用中
-STR_1793    :前往到{STRINGID}作出检查中
+STR_1792    :回应{STRINGID}的故障呼叫中
+STR_1793    :前往{STRINGID}检查中
 STR_1794    :修理{STRINGID}中
 STR_1795    :回应电台呼叫中
 STR_1796    :已经故障并需要修复
@@ -1818,7 +1818,7 @@ STR_1806    :刹车设备故障
 STR_1807    :控制设备故障
 STR_1808    :{WINDOW_COLOUR_2}上次故障原因: {BLACK}{STRINGID}
 STR_1809    :{WINDOW_COLOUR_2}本次故障原因: {OUTLINE}{RED}{STRINGID}
-STR_1810    :{WINDOW_COLOUR_2}携带中:
+STR_1810    :{WINDOW_COLOUR_2}搬运中:
 STR_1811    :Can't build this here...
 STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
 STR_1813    :其他物体
@@ -1835,7 +1835,7 @@ STR_1823    :{SMALLFONT}{BLACK}显示游客对此游乐设施/店铺的想法
 STR_1824    :{SMALLFONT}{BLACK}显示在此游乐设施/店铺的游客
 STR_1825    :{SMALLFONT}{BLACK}显示在此游乐设施/店铺排队等候的游客
 STR_1826    :状态
-STR_1827    :人气度
+STR_1827    :人气
 STR_1828    :满意度
 STR_1829    :利润
 STR_1830    :等候队列长度
@@ -1850,31 +1850,31 @@ STR_1838    :满意度: {COMMA16}%
 STR_1839    :可靠度: {COMMA16}%
 STR_1840    :故障度: {COMMA16}%
 STR_1841    :利润: 每小时{CURRENCY2DP}
-STR_1842    :{COMMA16}游客最爱的游乐设施
-STR_1843    :{COMMA16}游客最爱的游乐设施
+STR_1842    :{COMMA16}游客最喜爱的游乐设施
+STR_1843    :{COMMA16}游客最喜爱的游乐设施
 STR_1844    :{SMALLFONT}{BLACK}选择要在游乐设施/店面列表中显示的信息类别
 STR_1845    :{MONTHYEAR}
 STR_1846    :{COMMA16}游客
 STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} guests
 STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} guests
 STR_1849    :{WINDOW_COLOUR_2}播放音乐
-STR_1850    :{SMALLFONT}{BLACK}选择此游乐设施播放音乐与否
-STR_1851    :{WINDOW_COLOUR_2}运作成本: {BLACK}每小时{CURRENCY2DP}
-STR_1852    :{WINDOW_COLOUR_2}运作成本: {BLACK}未知
-STR_1853    :{WINDOW_COLOUR_2}落成年份: {BLACK}今年
-STR_1854    :{WINDOW_COLOUR_2}落成年份: {BLACK}去年
-STR_1855    :{WINDOW_COLOUR_2}落成年份: {BLACK}{COMMA16}年前
+STR_1850    :{SMALLFONT}{BLACK}选择此游乐设施是否播放音乐
+STR_1851    :{WINDOW_COLOUR_2}运行成本: {BLACK}每小时{CURRENCY2DP}
+STR_1852    :{WINDOW_COLOUR_2}运行成本: {BLACK}未知
+STR_1853    :{WINDOW_COLOUR_2}建造年份: {BLACK}今年
+STR_1854    :{WINDOW_COLOUR_2}建造年份: {BLACK}去年
+STR_1855    :{WINDOW_COLOUR_2}建造年份: {BLACK}{COMMA16}年前
 STR_1856    :{WINDOW_COLOUR_2}每件产品售出的利润: {BLACK}{CURRENCY2DP}
 STR_1857    :{WINDOW_COLOUR_2}每件产品售出的亏损: {BLACK}{CURRENCY2DP}
 STR_1858    :{WINDOW_COLOUR_2}成本: {BLACK}每个月{CURRENCY2DP}
-STR_1859    :位清洁工人
-STR_1860    :位维修人员
-STR_1861    :位安全警卫
-STR_1862    :位表演人员
-STR_1863    :位清洁工人
-STR_1864    :位维修人员
-STR_1865    :位安全警卫
-STR_1866    :位表演人员
+STR_1859    :位清洁工
+STR_1860    :位维修工
+STR_1861    :位警卫
+STR_1862    :位演员
+STR_1863    :位清洁工
+STR_1864    :位维修工
+STR_1865    :位警卫
+STR_1866    :位演员
 STR_1867    :{BLACK}{COMMA16} {STRINGID}
 STR_1868    :不能改变旋转次数...
 STR_1869    :{WINDOW_COLOUR_2}旋转次数:
@@ -1886,7 +1886,7 @@ STR_1874    :{WINDOW_COLOUR_2}Profit: {BLACK}{CURRENCY2DP} per hour
 STR_1875    :{BLACK} {SPRITE}{BLACK} {STRINGID}
 STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Inspect Rides
 STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Fix Rides
-STR_1878    :{WINDOW_COLOUR_2}检查时距:
+STR_1878    :{WINDOW_COLOUR_2}检查时间间隔:
 STR_1879    :每10分钟
 STR_1880    :每20分钟
 STR_1881    :每30分钟
@@ -1896,9 +1896,9 @@ STR_1884    :每2小时
 STR_1885    :从不
 STR_1886    :Inspecting {STRINGID}
 STR_1887    :{WINDOW_COLOUR_2}上次检查时间: {BLACK}{COMMA16}分钟前
-STR_1888    :{WINDOW_COLOUR_2}上次检查时间: {BLACK}多于4小时
+STR_1888    :{WINDOW_COLOUR_2}上次检查时间: {BLACK}大于4小时
 STR_1889    :{WINDOW_COLOUR_2}故障度: {MOVE_X}{255}{BLACK}{COMMA16}%
-STR_1890    :{SMALLFONT}{BLACK}选择维修人员检查此游乐设施的时距
+STR_1890    :{SMALLFONT}{BLACK}选择维修工检查此游乐设施的时间间隔
 STR_1891    :在乐园里暂未有{STRINGID}!
 # The following two strings were used to display an error when the disc was missing.
 # This has been replaced in OpenRCT2.
@@ -2464,9 +2464,9 @@ STR_2450    :{YELLOW}你针对乐园的推广计划现已结束
 STR_2451    :{YELLOW}你针对{STRINGID}的推广计划现已结束
 STR_2452    :{WINDOW_COLOUR_2}现金（减去贷款）:{BLACK} {CURRENCY2DP}
 STR_2453    :{WINDOW_COLOUR_2}现金（减去贷款）:{RED} {CURRENCY2DP}
-STR_2454    :{SMALLFONT} {BLACK} {CURRENCY2DP} - 
-STR_2455    :{SMALLFONT} {BLACK} + {CURRENCY2DP} - 
-STR_2456    :{SMALLFONT} {BLACK} {CURRENCY2DP} - 
+STR_2454    :{SMALLFONT} {BLACK} {CURRENCY2DP} -
+STR_2455    :{SMALLFONT} {BLACK} + {CURRENCY2DP} -
+STR_2456    :{SMALLFONT} {BLACK} {CURRENCY2DP} -
 STR_2457    :{SMALLFONT} {BLACK}显示财政报表
 STR_2458    :{SMALLFONT} {BLACK}以图表显示过往到现在的净现金
 STR_2459    :{SMALLFONT} {BLACK}以图表显示过往到现在的乐园价格
@@ -2795,8 +2795,8 @@ STR_2779    :查看窗口 #{COMMA16}
 STR_2780    :额外的查看窗口
 # End of new strings
 STR_2781    :{STRINGID}:{MOVE_X}{195}{STRINGID}
-STR_2782    :SHIFT + 
-STR_2783    :CTRL + 
+STR_2782    :SHIFT +
+STR_2783    :CTRL +
 STR_2784    :变更快捷键
 STR_2785    :{WINDOW_COLOUR_2}Press new shortcut key for:{NEWLINE}{OPENQUOTES}{STRINGID}{ENDQUOTES}
 STR_2786    :{SMALLFONT}{BLACK}Click on shortcut description to select new key
@@ -2941,7 +2941,7 @@ STR_2924    :{WINDOW_COLOUR_2}Special Thanks to:  Peter Matiss
 STR_2925    :{WINDOW_COLOUR_2}Engineering Specialist:  Ken Edwards
 STR_2926    :{WINDOW_COLOUR_2}Engineering Services Manager:  Luis Rivas
 STR_2927    :{WINDOW_COLOUR_2}Lead Compatibility Analyst:  Geoffrey Smith
-STR_2928    :{WINDOW_COLOUR_2}Compatibility Analysts:  Jason Cordero, Burke McQuinn, Kim Jardin 
+STR_2928    :{WINDOW_COLOUR_2}Compatibility Analysts:  Jason Cordero, Burke McQuinn, Kim Jardin
 STR_2929    :{WINDOW_COLOUR_2}Lead Tester:  Daniel Frisoli
 STR_2930    :{WINDOW_COLOUR_2}Senior Tester:  Matt Pantaleoni
 STR_2931    :{WINDOW_COLOUR_2}
@@ -2994,7 +2994,7 @@ STR_2977    :Staff member name
 STR_2978    :Enter new name for this member of staff:
 STR_2979    :Can't name staff member...
 STR_2980    :Too many banners in game
-STR_2981    :{RED}No entry - - 
+STR_2981    :{RED}No entry - -
 STR_2982    :Banner text
 STR_2983    :Enter new text for this banner:
 STR_2984    :Can't set new text for banner...
@@ -3069,7 +3069,7 @@ STR_3052    :高尔夫球洞D
 STR_3053    :高尔夫球洞E
 STR_3054    :加载中...
 STR_3055    :白色
-STR_3056    :半透明    
+STR_3056    :半透明
 STR_3057    :{WINDOW_COLOUR_2}建造标记:
 STR_3058    :砖墙
 STR_3059    :树篱
@@ -3176,13 +3176,13 @@ STR_3159    :list
 STR_3160    :{SMALLFONT}{BLACK}选择每次乘坐循环的次数
 STR_3161    :<not used anymore>
 STR_3162    :无法分配足够的内存
-STR_3163    :安装新数据档中: 
+STR_3163    :安装新数据档中:
 STR_3164    :{BLACK}已选择{COMMA16}项 (最多{COMMA16}项)
 STR_3165    :
-STR_3166    :{BLACK}(ID: 
+STR_3166    :{BLACK}(ID:
 STR_3167    :{WINDOW_COLOUR_2}包含: {BLACK}{COMMA16}项对象
 STR_3168    :{WINDOW_COLOUR_2}文本: {BLACK}{STRINGID}
-STR_3169    :找不到以下对象的数据: 
+STR_3169    :找不到以下对象的数据:
 STR_3170    :没有空间绘制图像
 STR_3171    :选择了太多此类型的对象
 STR_3172    :必需要先选择以下的对象: {STRING}
@@ -3336,7 +3336,7 @@ STR_3319    :{WINDOW_COLOUR_2}剧情组别:
 STR_3320    :无法存储剧情文件...
 STR_3321    :成功安装新对象
 STR_3322    :{WINDOW_COLOUR_2}目标: {BLACK}{STRINGID}
-STR_3323    :缺少对象数据, ID为: 
+STR_3323    :缺少对象数据, ID为:
 STR_3324    :需要数据片: {STRINGID}
 STR_3325    :需要一只数据片
 STR_3326    :{WINDOW_COLOUR_2}(暂无图片)
@@ -3902,8 +3902,8 @@ STR_5555    :显示来自其他类型轨道的车辆种类
 STR_5556    :{SMALLFONT}{BLACK}踢除玩家
 STR_5557    :多人游戏不同步时依然保持联机
 STR_5558    :此设定会于重启游戏后生效
-STR_5559    :检查时距为10分钟
-STR_5560    :将所有游乐设施的检查时距设定为'每10分钟'
+STR_5559    :检查时间间隔为10分钟
+STR_5560    :将所有游乐设施的检查时间间隔设定为'每10分钟'
 STR_5561    :加载语言失败
 STR_5562    :警告！
 STR_5563    :此功能暂未稳定地使用，请多加留意.
@@ -3976,8 +3976,8 @@ STR_5629    :困难度
 STR_5630    :允许剧情解锁
 STR_5631    :原版DLC游乐园
 STR_5632    :修建你自己的...
-STR_5633    :CMD + 
-STR_5634    :OPTION + 
+STR_5633    :CMD +
+STR_5634    :OPTION +
 STR_5635    :{WINDOW_COLOUR_2}Money spent: {BLACK}{CURRENCY2DP}
 STR_5636    :{WINDOW_COLOUR_2}Commands ran: {BLACK}{COMMA16}
 STR_5637    :不能做此行为...
@@ -4196,7 +4196,7 @@ STR_5880    :只显示选中的物体
 STR_5881    :只显示未被选中的物体
 STR_5882    :自定义货币
 STR_5883    :自定义货币选项
-STR_5884    :{WINDOW_COLOUR_2}汇率: 
+STR_5884    :{WINDOW_COLOUR_2}汇率:
 STR_5885    :{WINDOW_COLOUR_2}等价于英镑(￡){COMMA32}
 STR_5886    :{WINDOW_COLOUR_2}货币符号:
 STR_5887    :前缀
@@ -4233,7 +4233,7 @@ STR_5917    :{COMMA16}位玩家
 STR_5918    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_5919    :{COMMA16}
 STR_5920    :渲染天气效果
-STR_5921    :{SMALLFONT}{BLACK}启用后，于雷暴天气中的雨和灰蒙蒙的滤镜会被渲染在画面中.
+STR_5921    :{SMALLFONT}{BLACK}启用后，雷暴中的雨和灰雾的滤镜会被渲染在画面中.
 STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}最多{STRINGID}
 STR_5923    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}每列车最多为{COMMA16} {STRINGID}
 STR_5924    :地面详情
@@ -4243,7 +4243,7 @@ STR_5927    :景物详情
 STR_5928    :入口详情
 STR_5929    :围栏详情
 STR_5930    :巨型景物详情
-STR_5931    :条幅详情
+STR_5931    :横幅详情
 STR_5932    :已毁坏元素详情
 STR_5933    :属性
 STR_5934    :{WINDOW_COLOUR_2}地型素材:{BLACK}{STRINGID}
@@ -4274,11 +4274,12 @@ STR_5958    :东北
 STR_5959    :东南
 STR_5960    :{WINDOW_COLOUR_2}四角放置:
 STR_5961    :{WINDOW_COLOUR_2}入口编号:{BLACK}{COMMA16}
+#碰撞检测?
 STR_5962    :{WINDOW_COLOUR_2}冲突检测:
 STR_5963    :{WINDOW_COLOUR_2}已升起的角:
 STR_5964    :{WINDOW_COLOUR_2}斜角
 STR_5965    :{WINDOW_COLOUR_2}入口类型:{BLACK}{STRINGID}
-STR_5966    :{WINDOW_COLOUR_2}乐园入口部份:{BLACK}{STRINGID}
+STR_5966    :{WINDOW_COLOUR_2}游乐园入口部份:{BLACK}{STRINGID}
 STR_5967    :中间
 STR_5968    :左
 STR_5969    :右
@@ -4286,32 +4287,32 @@ STR_5970    :{WINDOW_COLOUR_2}入口编号:{BLACK}{COMMA16}
 STR_5971    :{WINDOW_COLOUR_2}出口编号:{BLACK}{COMMA16}
 STR_5972    :{WINDOW_COLOUR_2}游乐设施编号:{BLACK}{COMMA16}
 STR_5973    :与下一地图元素并列
-STR_5974    :{SMALLFONT}{BLACK}将此元素的底部及清空高度与下一元素调整成一致。这会让在此网格上建造变得更加容易。
+STR_5974    :{SMALLFONT}{BLACK}将此元素的基准和净高度与下一元素调整一致. 这可以让在网格上建造变得更加容易.
 STR_5975    :坡道:
 STR_5976    :平坦
 STR_5977    :右边向上
 STR_5978    :左边向上
 STR_5979    :{WINDOW_COLOUR_2}围栏类型:{BLACK}{COMMA16}
-STR_5980    :{WINDOW_COLOUR_2}条幅文字:{BLACK}{STRINGID}
-STR_5981    :{WINDOW_COLOUR_2}不是条幅
+STR_5980    :{WINDOW_COLOUR_2}横幅文字:{BLACK}{STRINGID}
+STR_5981    :{WINDOW_COLOUR_2}不是横幅
 STR_5982    :{WINDOW_COLOUR_2}巨型景物类型:{BLACK}{COMMA16}
 STR_5983    :{WINDOW_COLOUR_2}巨型景物组件编号:{BLACK}{COMMA16}
 STR_5984    :被挡住的道路:
-STR_5985    :建立新文件夹
+STR_5985    :新建文件夹
 STR_5986    :请输入新文件夹的名字
 STR_5987    :无法建立新文件夹
-STR_5988    :{SMALLFONT}{BLACK}已经没有可供购买的土地使用权
-STR_5989    :{SMALLFONT}{BLACK}已经没有可供购买的建造权
-STR_5990    :{SMALLFONT}{BLACK}已经没有可供购买的土地使用或建造权
+STR_5988    :{SMALLFONT}{BLACK}已经没有可出售的土地使用权
+STR_5989    :{SMALLFONT}{BLACK}已经没有可出售的土地建造权
+STR_5990    :{SMALLFONT}{BLACK}已经没有可出售的土地使用权或建造权
 STR_5991    :无法粘贴元素...
-STR_5992    :此地图元素的数量已达上限
+STR_5992    :地图元素已达上限
 STR_5993    :{SMALLFONT}{BLACK}复制所选元素
 STR_5994    :{SMALLFONT}{BLACK}粘贴所选元素
 
 #############
 # Scenarios #
 ################
-# RCT1 Original #
+# RCT Original #
 ################
 <Forest Frontiers>
 STR_SCNR    :Forest Frontiers
@@ -4423,9 +4424,7 @@ STR_SCNR    :Mega Park
 STR_PARK    :Mega Park
 STR_DTLS    :Just for fun!
 
-####################
 ## Added Attractions
-####################
 <Whispering Cliffs>
 STR_SCNR    :Whispering Cliffs
 STR_PARK    :Whispering Cliffs
@@ -4576,9 +4575,8 @@ STR_SCNR    :Geoffrey Gardens
 STR_PARK    :Geoffrey Gardens
 STR_DTLS    :A large garden park needs turning into a thriving theme park
 
-####################
+
 ## Loopy Landscapes
-####################
 <Iceberg Islands>
 STR_SCNR    :Iceberg Islands
 STR_PARK    :Iceberg Islands
@@ -4746,14 +4744,22 @@ STR_SCNR    :Blackpool Pleasure Beach
 STR_PARK    :Blackpool Pleasure Beach
 STR_DTLS    :
 
-#######################
 ## Misc parks from RCT1
-#######################
 # Had no details
 <Fort Anachronism>
 STR_SCNR    :Fort Anachronism
 STR_PARK    :Fort Anachronism
 STR_DTLS    :
+
+#####################
+# Rides/attractions #
+#####################
+
+#WW
+[CONDORRD]
+STR_NAME    :Condor Ride
+STR_DESC    :Riding in special harnesses below the track, riders experience the feeling of flight as they swoop through the air in Condor-shaped trains
+STR_CPTY    :4 passengers per car
 
 #################
 ## RCT2 Scenarios
@@ -4761,132 +4767,132 @@ STR_DTLS    :
 <Alpine Adventures>
 STR_SCNR    :Alpine Adventures
 STR_PARK    :Alpine Adventures
-STR_DTLS    :将一个小山滑雪胜地转换为以雪为主题的游乐园
+STR_DTLS    :将一个小滑雪胜地转型为一个以冰雪为主题的游乐园
 
 <Amity Airfield>
 STR_SCNR    :Amity Airfield
 STR_PARK    :Amity Airfield
-STR_DTLS    :在这个被遗弃的机场建立一个以飞行为主题的游乐园
+STR_DTLS    :在这个被遗弃的飞机场建立一个以飞行为主题的游乐园
 
 <Botany Breakers>
 STR_SCNR    :Botany Breakers
 STR_PARK    :Botany Breakers
-STR_DTLS    :你的挑战是在这个天堂岛上建立一个高利润的公园
+STR_DTLS    :你的挑战是在这个天堂岛上建立一个高利润的游乐园
 
 <Build your own Six Flags Belgium>
 STR_SCNR    :Build your own Six Flags Belgium
 STR_PARK    :Six Flags Belgium
-STR_DTLS    :建立自己的这个欧洲六旗公园的版本
+STR_DTLS    :建立自己的这个欧洲六旗游乐园的版本
 
 <Build your own Six Flags Great Adventure>
 STR_SCNR    :Build your own Six Flags Great Adventure
 STR_PARK    :Six Flags Great Adventure
-STR_DTLS    :使用您的设计技能来重建这个六旗公园
+STR_DTLS    :使用您的设计技能来重建这个六旗游乐园
 
 <Build your own Six Flags Holland>
 STR_SCNR    :Build your own Six Flags Holland
 STR_PARK    :Six Flags Holland
-STR_DTLS    :以你想要的方式建立这个欧洲六旗公园
+STR_DTLS    :以你想要的方式建造这个欧洲六旗游乐园
 
 <Build your own Six Flags Magic Mountain>
 STR_SCNR    :Build your own Six Flags Magic Mountain
 STR_PARK    :Six Flags Magic Mountain
-STR_DTLS    :创建你自己的这个大型六旗公园的版本
+STR_DTLS    :创建你自己的大型六旗游乐园的版本
 
 <Build your own Six Flags over Texas>
 STR_SCNR    :Build your own Six Flags over Texas
 STR_PARK    :Six Flags over Texas
-STR_DTLS    :从零开始，建立在这六旗公园的游乐设施
+STR_DTLS    :从零开始，建造这个六旗游乐园的游乐设施
 
 <Build your own Six Flags Park>
 STR_SCNR    :Build your own Six Flags Park
 STR_PARK    :Six Flags
-STR_DTLS    :建立你自己的设计的六旗公园-无论是建立从其他六旗公园或设计和建造你自己的游乐设施
+STR_DTLS    :建造你自己设计的六旗游乐园-你可以从其他六旗游乐园借鉴或者设计建造你自己的游乐设施
 
 <Bumbly Bazaar>
 STR_SCNR    :Bumbly Bazaar
 STR_PARK    :Bumbly Bazaar
-STR_DTLS    :从一个小市场的集市，你的挑战是增加利润的商店和摊位建设游乐设施和过山车来吸引更多的顾客
+STR_DTLS    :从一个小集市，你的挑战是增加商店利润，建设商店及游乐设施和过山车来吸引更多的顾客
 
 <Crazy Castle>
 STR_SCNR    :Crazy Castle
 STR_PARK    :Crazy Castle
-STR_DTLS    :你继承了一个大的城堡-你的工作是把它转换成一个小主题公园。
+STR_DTLS    :你继承了一个大的城堡-你的工作是把它转型成一个小型主题公园。
 
 <Dusty Greens>
 STR_SCNR    :Dusty Greens
 STR_PARK    :Dusty Greens
-STR_DTLS    :位于沙漠附近的一个公路交界处，Dusty Greens是一个机会，发展一个小高尔夫度假成为一个繁荣的主题公园
+STR_DTLS    :位于沙漠附近的一个公路交界处，是时候把 Dusty Greens 这个小高尔夫度假村发展成为一个繁荣的主题公园了
 
 <Electric Fields>
 STR_SCNR    :Electric Fields
 STR_PARK    :Electric Fields
-STR_DTLS    :你继承了一个小农场，你的挑战是在农田和农场建筑之间建立一个小主题公园
+STR_DTLS    :你继承了一个小农场，你的挑战是在农田和农场建筑之间建立一个小型主题乐园
 
 <Extreme Heights>
 STR_SCNR    :Extreme Heights
 STR_PARK    :Extreme Heights
-STR_DTLS    :自由的金融限制，你的挑战是如何扩大这个沙漠公园吸引人们寻求终极的刺激
+STR_DTLS    :自由的金融限制，你的挑战是如何扩大这个沙漠游乐园吸引人们寻求终极的刺激
 
 <Factory Capers>
 STR_SCNR    :Factory Capers
 STR_PARK    :Factory Capers
-STR_DTLS    :一个废弃的工厂是一个机会，建立一个机械为主题的游乐园
+STR_DTLS    :一个废弃的工厂是你的机遇，把它建造成一个机械为主题的游乐园
 
 <Fungus Woods>
 STR_SCNR    :Fungus Woods
 STR_PARK    :Fungus Woods
-STR_DTLS    :仅限于老式的木制游乐设施，你的挑战是在Fungus Woods建立一个蓬勃发展的主题公园
+STR_DTLS    :仅限于老式的木制游乐设施，你的挑战是在 Fungus Woods 建造一个蓬勃发展的主题乐园
 
 <Ghost Town>
 STR_SCNR    :Ghost Town
 STR_PARK    :Ghost Town
-STR_DTLS    :由一个大型的娱乐公园开始，你的任务是在一个废弃的采矿镇周围建造一个巨大的过山车公园
+STR_DTLS    :由一个大型的娱乐公园开始，你的任务是在一个废弃的采矿镇周围建造一个巨大的过山车游乐园
 
 <Gravity Gardens>
 STR_SCNR    :Gravity Gardens
 STR_PARK    :Gravity Gardens
-STR_DTLS    :你的挑战是在Gravity Gardens没有其他设施可用的条件下打造过山车公园，只是过山车！
+STR_DTLS    :你的挑战是在 Gravity Gardens 没有其他设施可用的条件下打造过山车游乐园，只能建造过山车！
 
 <Infernal Views>
 STR_SCNR    :Infernal Views
 STR_PARK    :Infernal Views
-STR_DTLS    :公园坐落在熔岩流不稳定的岩浆
+STR_DTLS    :公园坐落在炙热的熔岩流和不稳定的岩浆中
 
 <Lucky Lake>
 STR_SCNR    :Lucky Lake
 STR_PARK    :Lucky Lake
-STR_DTLS    :有了无限的资金，但一个具有挑战性的湖的位置，这个公园将是一个挑战，扩大和管理
+STR_DTLS    :你有了无限的资金，但湖泊是一个具有挑战性的位置，这个公园将是一个挑战，扩大它并运营它
 
 <Rainbow Summit>
 STR_SCNR    :Rainbow Summit
 STR_PARK    :Rainbow Summit
-STR_DTLS    :这个公园建在一个山坡上，禁止建筑任何高的东西。你能扩大公园，使它成功吗？
+STR_DTLS    :这个游乐园建在一个山坡上，禁止建造任何高的东西。你能扩大游乐园，使它成功吗？
 
 <Six Flags Belgium>
 STR_SCNR    :Six Flags Belgium
 STR_PARK    :Six Flags Belgium
-STR_DTLS    :尝试你的手在运行和改进这六旗公园
+STR_DTLS    :尝试用你的手运营并改进这座六旗游乐园
 
 <Six Flags Great Adventure>
 STR_SCNR    :Six Flags Great Adventure
 STR_PARK    :Six Flags Great Adventure
-STR_DTLS    :打造遗失的六旗游乐设施，或创建自己的设计，以改善公园！但别忘了你的最终目标--吸引更多的客人到公园去！
+STR_DTLS    :建造遗失的六旗乐园游乐设施，或用自己的设计善公园！但别忘了你的最终目标--吸引更多的客人到公园去！
 
 <Six Flags Holland>
 STR_SCNR    :Six Flags Holland
 STR_PARK    :Six Flags Holland
-STR_DTLS    :尝试你的手在运行和改进这六旗公园
+STR_DTLS    :尝试用你的手运营并改进这座六旗游乐园
 
 <Six Flags Magic Mountain>
 STR_SCNR    :Six Flags Magic Mountain
 STR_PARK    :Six Flags Magic Mountain
-STR_DTLS    :打造遗失的六旗游乐设施，或创建自己的设计，以改善公园！但不要忘了你的最终目标-偿还你的贷款，同时保持公园价值！
+STR_DTLS    :建造遗失的六旗乐园游乐设施，或用自己的设计善公园！但别忘了你的最终目标--偿还贷款，同时保持公园价值！
 
 <Six Flags over Texas>
 STR_SCNR    :Six Flags over Texas
 STR_PARK    :Six Flags over Texas
-STR_DTLS    :打造遗失的六旗游乐设施，或创建自己的设计，以改善公园！但别忘了你的最终目标--吸引更多的客人到公园去！
+STR_DTLS    :建造遗失的六旗乐园游乐设施，或用自己的设计善公园！但别忘了你的最终目标--吸引更多的客人到公园去！
 
 ###############################################################################
 ## Wacky Worlds Scenarios
@@ -4894,52 +4900,52 @@ STR_DTLS    :打造遗失的六旗游乐设施，或创建自己的设计，以�
 <Africa - African Diamond Mine>
 STR_SCNR    :Africa - African Diamond Mine
 STR_PARK    :Mines of Africa
-STR_DTLS    :你继承了一个废弃的钻石矿，并找到一个珍贵的钻石。你决定投资那笔钱去建造一个世界闻名的主题公园。
+STR_DTLS    :你继承了一个废弃的钻石矿，并找到一个珍贵的钻石。你决定用那笔钱去建造一个世界闻名的主题乐园。
 
 <Africa - Oasis>
 STR_SCNR    :Africa - Oasis
 STR_PARK    :Mirage Madness
-STR_DTLS    :一个沙漠绿洲被发现并为公园提供了一个美丽的地方。已提供的绿洲运输。
+STR_DTLS    :一个沙漠绿洲被发现了，它为游乐园提供了一个美丽的环境。游乐园已有绿洲运输。
 
 <Africa - Victoria Falls>
 STR_SCNR    :Africa - Victoria Falls
 STR_PARK    :Over The Edge
-STR_DTLS    :已经建成了一个大坝，提供了丰富的，廉价的水电，运行一个公园。你需要达到一个高的公园价值，以帮助偿还贷款的大坝。
+STR_DTLS    :当地建成了一个大坝，提供了丰富的，廉价的水电，用来运行一个公园。你需要用公园来获得很多的钱，用来偿还建造大坝的贷款。
 
 <Antarctic - Ecological Salvage>
 STR_SCNR    :Antarctic - Ecological Salvage
 STR_PARK    :Icy Adventures
-STR_DTLS    :环境署已经把你改造旧炼油厂生态碍眼到顶级旅游胜地。土地便宜但贷款利息高。你可以卖掉旧建筑来打捞。
+STR_DTLS    :环境署已经把你碍眼的旧炼油厂改造成顶级生态的旅游胜地。土地便宜但贷款利息高。你可以卖掉旧建筑来赚钱。
 
 <Asia - Great Wall of China Tourism Enhancement>
 STR_SCNR    :Asia - Great Wall of China Tourism Enhancement
 STR_PARK    :Great Wall of China
-STR_DTLS    :当局已决定在邻近的土地上建造主题公园，以加强在长城的旅游业的发展。金钱是没有目标的！
+STR_DTLS    :当局已决定在附近的土地上建造主题公园，以加强在长城周边的旅游业发展。
 
 <Asia - Japanese Coastal Reclaim>
 STR_SCNR    :Asia - Japanese Coastal Reclaim
 STR_PARK    :Okinawa Coast
-STR_DTLS    :一个现有的公园已经用完了空间。你唯一的选择是建立在海上，所以你已经采取了贷款。你的建筑的高度限制是由于基础和地震风险。
+STR_DTLS    :一个现有的公园已经用完了空间。你唯一的选择是建立在海上，所以你采取了贷款。你的建筑的高度被地基和地震风险限制。
 
 <Asia - Maharaja Palace>
 STR_SCNR    :Asia - Maharaja Palace
 STR_PARK    :Park Maharaja
-STR_DTLS    :你已被该委托带来娱乐的大型本地人口。建一个公园由王公的宫殿。
+STR_DTLS    :你被委托为当地人建造大型的娱乐设施。由王公的宫殿改建成一个游乐园。
 
 <Australasia - Ayers Rock>
 STR_SCNR    :Australasia - Ayers Rock
 STR_PARK    :Ayers Adventure
-STR_DTLS    :你正在帮助土著人建立一个公园作为文化意识计划的一部分。你需要得到大量的客人来教育他们在独特的遗产的土著人。
+STR_DTLS    :作为文化意识计划的一部分，你要帮助土著人建立一个游乐园。你需要让大量的客人知道土著们具有独特的文化遗产。
 
 <Australasia - Fun at the Beach>
 STR_SCNR    :Australasia - Fun at the Beach
 STR_PARK    :Beach Barbecue Blast
-STR_DTLS    :一个当地的企业家的临海公园已经破产。你已经经营一个小公园，从建筑公司购买另一个公园。开发一个大联合公园。
+STR_DTLS    :一个本地企业家的海滨游乐园已经破产。你已经经营了一个小游乐园，你要从建筑公司购买另一个游乐园。开发一个大联合游乐园。
 
 <Europe - European Cultural Festival>
 STR_SCNR    :Europe - European Cultural Festival
 STR_PARK    :European Extravaganza
-STR_DTLS    :你已经被带到接管一个欧洲文化游客的景点，必须增加客人的数量，以支付回欧盟补贴，由目前的欧洲议会任期结束。
+STR_DTLS    :你被安排接管一个欧洲文化游的景点，必须增加客人的数量，在目前的欧洲议会任期结束前支付加入欧盟的税款。
 
 <Europe - Renovation>
 STR_SCNR    :Europe - Renovation
@@ -4949,12 +4955,12 @@ STR_DTLS    :一个老公园年久失修。你获得一个欧盟的补助金，�
 <N America - Extreme Hawaiian Island>
 STR_SCNR    :N. America - Extreme Hawaiian Island
 STR_PARK    :Wacky Waikiki
-STR_DTLS    :夏威夷的人们厌倦了冲浪，寻找更强烈的东西。你需要建立一个公园，以保持该地区的旅游景点评级高。
+STR_DTLS    :夏威夷的人们厌倦了冲浪，寻找更刺激的东西。你需要建立一个游乐园，以保持该地区的旅游评级。
 
 <North America - Grand Canyon>
 STR_SCNR    :North America - Grand Canyon
 STR_PARK    :Canyon Calamities
-STR_DTLS    :你必须在有限的土地上建立一个公园，任何一方的这一自然财富-你有机会购买邻近的土地，从美洲印第安人。你需要完成的目标，以维持当地城镇的人口。
+STR_DTLS    :你必须在有限的土地上建立一个游乐园，这里有自然财富--从美洲印第安人那里有机会购买邻近的土地。维持当地城镇的人口是你需要完成的目标。
 
 <North America - Rollercoaster Heaven>
 STR_SCNR    :North America - Rollercoaster Heaven
