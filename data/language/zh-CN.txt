@@ -1178,8 +1178,8 @@ STR_1167    :Can't raise water level here...
 STR_1168    :选项
 STR_1169    :(无)
 STR_1170    :{STRING}
-STR_1171    :{RED}已关闭 - -
-STR_1172    :{YELLOW}{STRINGID} - -
+STR_1171    :{RED}已关闭 - - 
+STR_1172    :{YELLOW}{STRINGID} - - 
 STR_1173    :{SMALLFONT}{BLACK}Build footpaths and queue lines
 STR_1174    :Banner sign in the way
 STR_1175    :Can't build this on sloped footpath
@@ -1350,10 +1350,10 @@ STR_1339    :{BLACK}No test results yet...
 STR_1340    :{WINDOW_COLOUR_2}Max. speed: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Ride time: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
-STR_1343    :{DURATION} /
+STR_1343    :{DURATION} / 
 STR_1344    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
-STR_1346    :{LENGTH} /
+STR_1346    :{LENGTH} / 
 STR_1347    :{WINDOW_COLOUR_2}Average speed: {BLACK}{VELOCITY}
 STR_1348    :{WINDOW_COLOUR_2}Max. positive vertical G's: {BLACK}{COMMA2DP32}g
 STR_1349    :{WINDOW_COLOUR_2}Max. positive vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
@@ -1738,8 +1738,8 @@ STR_1726    :Land not for sale!
 STR_1727    :Construction rights not for sale!
 STR_1728    :Can't buy construction rights here...
 STR_1729    :Land not owned by park!
-STR_1730    :{RED}Closed - -
-STR_1731    :{WHITE}{STRINGID} - -
+STR_1730    :{RED}Closed - - 
+STR_1731    :{WHITE}{STRINGID} - - 
 STR_1732    :Build
 STR_1733    :Mode
 STR_1734    :{WINDOW_COLOUR_2}Number of laps:
@@ -1786,7 +1786,7 @@ STR_1774    :每个游乐设施只能建造一个牵引轨道
 STR_1775    :关闭
 STR_1776    :开启
 STR_1777    :{WINDOW_COLOUR_2}设施音乐
-STR_1778    :{STRINGID} - -
+STR_1778    :{STRINGID} - - 
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} 熊猫服装
 STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} 老虎服装
 STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} 大象服装
@@ -2464,9 +2464,9 @@ STR_2450    :{YELLOW}你针对乐园的推广计划现已结束
 STR_2451    :{YELLOW}你针对{STRINGID}的推广计划现已结束
 STR_2452    :{WINDOW_COLOUR_2}现金（减去贷款）:{BLACK} {CURRENCY2DP}
 STR_2453    :{WINDOW_COLOUR_2}现金（减去贷款）:{RED} {CURRENCY2DP}
-STR_2454    :{SMALLFONT} {BLACK} {CURRENCY2DP} -
-STR_2455    :{SMALLFONT} {BLACK} + {CURRENCY2DP} -
-STR_2456    :{SMALLFONT} {BLACK} {CURRENCY2DP} -
+STR_2454    :{SMALLFONT} {BLACK} {CURRENCY2DP} - 
+STR_2455    :{SMALLFONT} {BLACK} + {CURRENCY2DP} - 
+STR_2456    :{SMALLFONT} {BLACK} {CURRENCY2DP} - 
 STR_2457    :{SMALLFONT} {BLACK}显示财政报表
 STR_2458    :{SMALLFONT} {BLACK}以图表显示过往到现在的净现金
 STR_2459    :{SMALLFONT} {BLACK}以图表显示过往到现在的乐园价格
@@ -2795,8 +2795,8 @@ STR_2779    :查看窗口 #{COMMA16}
 STR_2780    :额外的查看窗口
 # End of new strings
 STR_2781    :{STRINGID}:{MOVE_X}{195}{STRINGID}
-STR_2782    :SHIFT +
-STR_2783    :CTRL +
+STR_2782    :SHIFT + 
+STR_2783    :CTRL + 
 STR_2784    :变更快捷键
 STR_2785    :{WINDOW_COLOUR_2}Press new shortcut key for:{NEWLINE}{OPENQUOTES}{STRINGID}{ENDQUOTES}
 STR_2786    :{SMALLFONT}{BLACK}Click on shortcut description to select new key
@@ -2941,7 +2941,7 @@ STR_2924    :{WINDOW_COLOUR_2}Special Thanks to:  Peter Matiss
 STR_2925    :{WINDOW_COLOUR_2}Engineering Specialist:  Ken Edwards
 STR_2926    :{WINDOW_COLOUR_2}Engineering Services Manager:  Luis Rivas
 STR_2927    :{WINDOW_COLOUR_2}Lead Compatibility Analyst:  Geoffrey Smith
-STR_2928    :{WINDOW_COLOUR_2}Compatibility Analysts:  Jason Cordero, Burke McQuinn, Kim Jardin
+STR_2928    :{WINDOW_COLOUR_2}Compatibility Analysts:  Jason Cordero, Burke McQuinn, Kim Jardin 
 STR_2929    :{WINDOW_COLOUR_2}Lead Tester:  Daniel Frisoli
 STR_2930    :{WINDOW_COLOUR_2}Senior Tester:  Matt Pantaleoni
 STR_2931    :{WINDOW_COLOUR_2}
@@ -2994,7 +2994,7 @@ STR_2977    :Staff member name
 STR_2978    :Enter new name for this member of staff:
 STR_2979    :Can't name staff member...
 STR_2980    :Too many banners in game
-STR_2981    :{RED}No entry - -
+STR_2981    :{RED}No entry - - 
 STR_2982    :Banner text
 STR_2983    :Enter new text for this banner:
 STR_2984    :Can't set new text for banner...
@@ -3176,13 +3176,13 @@ STR_3159    :list
 STR_3160    :{SMALLFONT}{BLACK}选择每次乘坐循环的次数
 STR_3161    :<not used anymore>
 STR_3162    :无法分配足够的内存
-STR_3163    :安装新数据档中:
+STR_3163    :安装新数据档中: 
 STR_3164    :{BLACK}已选择{COMMA16}项 (最多{COMMA16}项)
 STR_3165    :
-STR_3166    :{BLACK}(ID:
+STR_3166    :{BLACK}(ID: 
 STR_3167    :{WINDOW_COLOUR_2}包含: {BLACK}{COMMA16}项对象
 STR_3168    :{WINDOW_COLOUR_2}文本: {BLACK}{STRINGID}
-STR_3169    :找不到以下对象的数据:
+STR_3169    :找不到以下对象的数据: 
 STR_3170    :没有空间绘制图像
 STR_3171    :选择了太多此类型的对象
 STR_3172    :必需要先选择以下的对象: {STRING}
@@ -3336,7 +3336,7 @@ STR_3319    :{WINDOW_COLOUR_2}剧情组别:
 STR_3320    :无法存储剧情文件...
 STR_3321    :成功安装新对象
 STR_3322    :{WINDOW_COLOUR_2}目标: {BLACK}{STRINGID}
-STR_3323    :缺少对象数据, ID为:
+STR_3323    :缺少对象数据, ID为: 
 STR_3324    :需要数据片: {STRINGID}
 STR_3325    :需要一只数据片
 STR_3326    :{WINDOW_COLOUR_2}(暂无图片)
@@ -3976,8 +3976,8 @@ STR_5629    :困难度
 STR_5630    :允许剧情解锁
 STR_5631    :原版DLC游乐园
 STR_5632    :修建你自己的...
-STR_5633    :CMD +
-STR_5634    :OPTION +
+STR_5633    :CMD + 
+STR_5634    :OPTION + 
 STR_5635    :{WINDOW_COLOUR_2}Money spent: {BLACK}{CURRENCY2DP}
 STR_5636    :{WINDOW_COLOUR_2}Commands ran: {BLACK}{COMMA16}
 STR_5637    :不能做此行为...
@@ -4196,9 +4196,9 @@ STR_5880    :只显示选中的物体
 STR_5881    :只显示未被选中的物体
 STR_5882    :自定义货币
 STR_5883    :自定义货币选项
-STR_5884    :{WINDOW_COLOUR_2}汇率:
+STR_5884    :{WINDOW_COLOUR_2}汇率: 
 STR_5885    :{WINDOW_COLOUR_2}等价于英镑(￡){COMMA32}
-STR_5886    :{WINDOW_COLOUR_2}货币符号:
+STR_5886    :{WINDOW_COLOUR_2}货币符号: 
 STR_5887    :前缀
 STR_5888    :后缀
 STR_5889    :自定义货币符号
