@@ -36,17 +36,17 @@ Language | Maintainer | Status Bars |
 |--------|------------|-----------------|
 [![](https://img.shields.io/badge/en--GB-maintained-green.svg)](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt   ) | -Anyone- | ![](https://api.openrct2.website/localisation/status/badges/en-GB) |  
 [![](https://img.shields.io/badge/en--US-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/en-US.txt) | -Anyone- | ![](https://api.openrct2.website/localisation/status/badges/en-US) |  
-[![](https://img.shields.io/badge/cs--CZ-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/cs-CZ.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/cs-CZ) |  
-[![](https://img.shields.io/badge/de--DE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/de-DE.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/de-DE) |  
-[![](https://img.shields.io/badge/es--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/es-ES.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/es-ES) |  
-[![](https://img.shields.io/badge/fr--FR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-FR.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/fr-FR) |  
-[![](https://img.shields.io/badge/ko--KR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ko-KR.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/ko-KR) |  
-[![](https://img.shields.io/badge/nb--NO-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/nb-NO) |  
-[![](https://img.shields.io/badge/nl--NL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nl-NL.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/nl-NL) |  
-[![](https://img.shields.io/badge/pt--BR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pt-BR.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/pt-BR) |  
-[![](https://img.shields.io/badge/sv--SE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/sv-SE.txt) | [@Nubbie](https://github.com/Nubbie) | ![](https://api.openrct2.website/localisation/status/badges/sv-SE) | 
-[![](https://img.shields.io/badge/zh--CN-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-CN.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/zh-CN) |  
-[![](https://img.shields.io/badge/zh--TW-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-TW.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/zh-TW) |  
+[![](https://img.shields.io/badge/cs--CZ-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/cs-CZ.txt) | [octaroot](https://github.com/octaroot)| ![](https://api.openrct2.website/localisation/status/badges/cs-CZ) |  
+[![](https://img.shields.io/badge/de--DE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/de-DE.txt) | [danidoedel](https://github.com/danidoedel) | ![](https://api.openrct2.website/localisation/status/badges/de-DE) |  
+[![](https://img.shields.io/badge/es--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/es-ES.txt) | [Wirlie](https://github.com/Wirlie) | ![](https://api.openrct2.website/localisation/status/badges/es-ES) |  
+[![](https://img.shields.io/badge/fr--FR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-FR.txt) | [rvgr](https://github.com/rvgr) | ![](https://api.openrct2.website/localisation/status/badges/fr-FR) |  
+[![](https://img.shields.io/badge/ko--KR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ko-KR.txt) | [telk5093](https://github.com/telk5093) | ![](https://api.openrct2.website/localisation/status/badges/ko-KR) |  
+[![](https://img.shields.io/badge/nb--NO-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt) | [Goddesen](https://github.com/Goddesen) | ![](https://api.openrct2.website/localisation/status/badges/nb-NO) |  
+[![](https://img.shields.io/badge/nl--NL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nl-NL.txt) | [Gymnasiast ](https://github.com/Gymnasiast ) | ![](https://api.openrct2.website/localisation/status/badges/nl-NL) |  
+[![](https://img.shields.io/badge/pt--BR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pt-BR.txt) | [renansimoes](https://github.com/renansimoes) | ![](https://api.openrct2.website/localisation/status/badges/pt-BR) |  
+[![](https://img.shields.io/badge/sv--SE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/sv-SE.txt) | [Nubbie](https://github.com/Nubbie) | ![](https://api.openrct2.website/localisation/status/badges/sv-SE) | 
+[![](https://img.shields.io/badge/zh--CN-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-CN.txt) | [izhangfei](https://github.com/izhangfei) | ![](https://api.openrct2.website/localisation/status/badges/zh-CN) |  
+[![](https://img.shields.io/badge/zh--TW-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-TW.txt) | [daihakkeni](https://github.com/daihakken) | ![](https://api.openrct2.website/localisation/status/badges/zh-TW) |  
 | No maintainers
 [![](https://img.shields.io/badge/it--IT-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/it-IT.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/it-IT) |  
 [![](https://img.shields.io/badge/ja--JP-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ja-JP.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/ja-JP) | 
@@ -56,7 +56,9 @@ Language | Maintainer | Status Bars |
 [![](https://img.shields.io/badge/hu--HU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/hu-HU.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/hu-HU) |  
 [![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt) |     | ![](https://api.openrct2.website/localisation/status/badges/ru-RU) | 
 
-Note:  The status bars can be inaccurate
+Note:  The status bars can be inaccurate & some maintainers can be more inactive than others.
+
+Anyone can still contribute to the languages. 
 
 
 ###Questions & Support
