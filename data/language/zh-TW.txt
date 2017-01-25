@@ -4188,7 +4188,7 @@ STR_5875    :渲染引擎:
 STR_5876    :{SMALLFONT}{BLACK}選擇使用於渲染遊戲的引擎.
 STR_5877    :軟件渲染
 STR_5878    :軟件渲染 (使用硬件渲染)
-STR_5879    :OpenGL (實驗性質)
+STR_5879    :OpenGL (實驗性質)
 STR_5880    :只顯示已選擇的物件
 STR_5881    :只顯示未選擇的物件
 STR_5882    :自訂貨幣
@@ -4242,7 +4242,7 @@ STR_5929    :圍欄詳情
 STR_5930    :巨型景物詳情
 STR_5931    :橫額詳情
 STR_5932    :已毀壞元素詳情
-STR_5933    :屬性
+STR_5933    :屬性
 STR_5934    :{WINDOW_COLOUR_2}地型素材: {BLACK}{STRINGID}
 STR_5935    :{WINDOW_COLOUR_2}地型邊緣: {BLACK}{STRINGID}
 STR_5936    :{WINDOW_COLOUR_2}土地擁有權: {BLACK}{STRINGID}
@@ -4252,9 +4252,9 @@ STR_5939    :移除樂園邊界
 STR_5940    :還原樂園邊界
 STR_5941    :{WINDOW_COLOUR_2}地面高度:
 STR_5942    :{WINDOW_COLOUR_2}道路名稱: {BLACK}{STRINGID}
-STR_5943    :{WINDOW_COLOUR_2}附加物品: {BLACK}{STRINGID}
+STR_5943    :{WINDOW_COLOUR_2}附加物品: {BLACK}{STRINGID}
 STR_5944    :{WINDOW_COLOUR_2}附加物品: {BLACK}暫無
-STR_5945    :{WINDOW_COLOUR_2}已連接的邊緣:
+STR_5945    :{WINDOW_COLOUR_2}已連接的邊緣:
 STR_5946    :{WINDOW_COLOUR_2}遊樂設施種類: {BLACK}{STRINGID}
 STR_5947    :{WINDOW_COLOUR_2}遊樂設施編號: {BLACK}{COMMA16}
 STR_5948    :{WINDOW_COLOUR_2}遊樂設施名稱: {BLACK}{STRINGID}
@@ -4262,7 +4262,7 @@ STR_5949    :{WINDOW_COLOUR_2}鏈條坡道
 STR_5950    :{WINDOW_COLOUR_2}將改變應用於整個軌道組件中
 STR_5951    :{WINDOW_COLOUR_2}軌道組件編號: {BLACK}{COMMA16}
 STR_5952    :{WINDOW_COLOUR_2}次序數目: {BLACK}{COMMA16}
-STR_5953    :{SMALLFONT}{BLACK}以底部高度排序目前網格上的地圖元素
+STR_5953    :{SMALLFONT}{BLACK}以底部高度排序目前網格上的地圖元素
 STR_5954    :{WINDOW_COLOUR_2}景物年齡: {BLACK}{COMMA16}
 STR_5955    :{WINDOW_COLOUR_2}Quadrant放置: {BLACK}{STRINGID}
 STR_5956    :西南
@@ -4271,8 +4271,8 @@ STR_5958    :東北
 STR_5959    :東南
 STR_5960    :{WINDOW_COLOUR_2}Quadrant放置:
 STR_5961    :{WINDOW_COLOUR_2}入口編號: {BLACK}{COMMA16}
-STR_5962    :{WINDOW_COLOUR_2}衝突檢測:
-STR_5963    :{WINDOW_COLOUR_2}已升起的角落:
+STR_5962    :{WINDOW_COLOUR_2}衝突檢測:
+STR_5963    :{WINDOW_COLOUR_2}已升起的角落:
 STR_5964    :{WINDOW_COLOUR_2}斜角
 STR_5965    :{WINDOW_COLOUR_2}入口類型: {BLACK}{STRINGID}
 STR_5966    :{WINDOW_COLOUR_2}樂園入口部份: {BLACK}{STRINGID}
@@ -4281,29 +4281,35 @@ STR_5968    :左
 STR_5969    :右
 STR_5970    :{WINDOW_COLOUR_2}入口編號: {BLACK}{COMMA16}
 STR_5971    :{WINDOW_COLOUR_2}出口編號: {BLACK}{COMMA16}
-STR_5972    :{WINDOW_COLOUR_2}遊樂設施編號: {BLACK}{COMMA16}
+STR_5972    :{WINDOW_COLOUR_2}遊樂設施編號: {BLACK}{COMMA16}
 STR_5973    :與下一地圖元素並列
-STR_5974    :{SMALLFONT}{BLACK}將此元素的底部及清空高度與下一元素調整成一致. 此舉會讓於此網格上建造得更加容易.
+STR_5974    :{SMALLFONT}{BLACK}將此元素的底部及清空高度與下一元素調整成一致. 此舉會讓於此網格上建造得更加容易.
 STR_5975    :坡道:
 STR_5976    :平坦
-STR_5977    :右邊向上
+STR_5977    :右邊向上
 STR_5978    :左邊向上
 STR_5979    :{WINDOW_COLOUR_2}圍欄類型: {BLACK}{COMMA16}
 STR_5980    :{WINDOW_COLOUR_2}橫額文字: {BLACK}{STRINGID}
 STR_5981    :{WINDOW_COLOUR_2}不是橫額
 STR_5982    :{WINDOW_COLOUR_2}巨型景物類型: {BLACK}{COMMA16}
 STR_5983    :{WINDOW_COLOUR_2}巨型景物組件編號: {BLACK}{COMMA16}
-STR_5984    :被擋住的道路:
+STR_5984    :被擋住的道路:
 STR_5985    :建立新文件夾
 STR_5986    :請輸入新文件夾的名字
 STR_5987    :無法建立新文件夾
 STR_5988    :{SMALLFONT}{BLACK}已經沒有可供購買的土地使用權
 STR_5989    :{SMALLFONT}{BLACK}已經沒有可供購買的建造權
-STR_5990    :{SMALLFONT}{BLACK}已經沒有可供購買的土地使用或建造權
+STR_5990    :{SMALLFONT}{BLACK}已經沒有可供購買的土地使用或建造權
 STR_5991    :無法貼上元素...
 STR_5992    :此地圖元素的數量已達上限
 STR_5993    :{SMALLFONT}{BLACK}複製所選元素
 STR_5994    :{SMALLFONT}{BLACK}貼上所選元素
+STR_5995    :加速裝置
+STR_5996    :加速速度
+STR_5997    :增加/設定金錢數目
+STR_5998    :增加金錢數目
+STR_5999    :設定金錢數目
+STR_6000    :請輸入新數目
 
 #############
 # Scenarios #
@@ -4434,87 +4440,87 @@ STR_DTLS    :此發展中的大型樂園中部有三座互相競賽的鐵架旋�
 <Canary Mines>
 STR_SCNR    :Canary Mines
 STR_PARK    :Canary Mines
-STR_DTLS    :This abandoned mine already has the makings of a tourist attraction with its minature railway and a pair of vertical drop roller coasters
+STR_DTLS    :因為擁有一條觀光鐵路及兩座垂直雲霄飛車, 這個已荒廢的礦場具有成為旅遊景點的潛力
 
 <Barony Bridge>
 STR_SCNR    :Barony Bridge
 STR_PARK    :Barony Bridge
-STR_DTLS    :An old redundant bridge is yours to develop into an amusement park
+STR_DTLS    :一條古舊並多餘的橋現可由你任意發展成一個樂園
 
 <Funtopia>
 STR_SCNR    :Funtopia
 STR_PARK    :Funtopia
-STR_DTLS    :Covering land both sides of a highway, this park has several rides already operating
+STR_DTLS    :這個被一條高速公路所分開的樂園已擁有幾個已在運行的遊樂設施
 
 <Haunted Harbor>
 STR_SCNR    :Haunted Harbor
 STR_PARK    :Haunted Harbor
-STR_DTLS    :The local authority has agreed to sell nearby land cheaply to this small seaside park, on the condition that certain rides are preserved
+STR_DTLS    :當地政府已同意將鄰近的土地以低廉的價格販賣給這個小型海邊樂園, 但條件是要保留某些遊樂設施
 
 <Fun Fortress>
 STR_SCNR    :Fun Fortress
 STR_PARK    :Fun Fortress
-STR_DTLS    :This castle is all yours to turn into a theme park
+STR_DTLS    :這個城堡現可由你任意發展成一個樂園
 
 <Future World>
 STR_SCNR    :Future World
 STR_PARK    :Future World
-STR_DTLS    :This futuristic park has plenty of space for new rides on its alien landscape
+STR_DTLS    :這個於外星土地上, 並富有未來感的樂園擁有很多建造遊樂設施的空間
 
 <Gentle Glen>
 STR_SCNR    :Gentle Glen
 STR_PARK    :Gentle Glen
-STR_DTLS    :The local population prefer gentle and relaxing rides, so it is your job to expand this park to suit their tastes
+STR_DTLS    :當地居民比較喜愛溫和及令人放鬆的遊樂設施, 所以你的任務便是要將這個樂園以他們的口味擴建
 
 <Jolly Jungle>
 STR_SCNR    :Jolly Jungle
 STR_PARK    :Jolly Jungle
-STR_DTLS    :Deep in the jungle lies a large area of land ready to be turned into a theme park
+STR_DTLS    :埋藏在森林深處的一塊巨型土地現已準備改造為一個主題樂園
 
 <Hydro Hills>
 STR_SCNR    :Hydro Hills
 STR_PARK    :Hydro Hills
-STR_DTLS    :A series of stepped lakes form the basis for this new park
+STR_DTLS    :一連串的梯間湖是這個全新樂園的根基
 
 <Sprightly Park>
 STR_SCNR    :Sprightly Park
 STR_PARK    :Sprightly Park
-STR_DTLS    :This elderly park has many historical rides but is badly in debt
+STR_DTLS    :這個古舊的樂園擁有很多具歷史性的遊樂設施, 但它欠債纍纍
 
 <Magic Quarters>
 STR_SCNR    :Magic Quarters
 STR_PARK    :Magic Quarters
-STR_DTLS    :A large area of land has been cleared and partially themed ready for you to develop into a landscaped theme park
+STR_DTLS    :一塊巨型的土地現已清空並部份裝飾好, 可供你發展成一個有特色的主題樂園
 
 <Fruit Farm>
 STR_SCNR    :Fruit Farm
 STR_PARK    :Fruit Farm
-STR_DTLS    :A thriving fruit farm has built a railroad to boost its income, your job is to develop it into a full-blown amusement park
+STR_DTLS    :一個壯大中的果園已建造一條鐵路來增加收入, 你的任務要將它發展成一個完善的主題樂園
 
 <Butterfly Dam>
 STR_SCNR    :Butterfly Dam
 STR_PARK    :Butterfly Dam
-STR_DTLS    :The area around a dam is available for you to develop into an amusement park
+STR_DTLS    :這個圍繞水霸的地方現可由你任意發展成一個樂園
 
 <Coaster Canyon>
 STR_SCNR    :Coaster Canyon
 STR_PARK    :Coaster Canyon
-STR_DTLS    :A vast canyon is yours to turn into a theme park
+STR_DTLS    :這個巨大的峽谷現可由你任意發展成一個樂園
 
 <Thunderstorm Park>
 STR_SCNR    :Thunderstorm Park
 STR_PARK    :Thunderstorm Park
-STR_DTLS    :The weather is so wet here that a giant pyramid has been built to allow some rides to be built under cover
+STR_DTLS    :這裡的天氣實在太多雨, 因此一座巨型金字塔的存在可供一些遊樂設施建造於其之中
 
 <Harmonic Hills>
 STR_SCNR    :Harmonic Hills
 STR_PARK    :Harmonic Hills
-STR_DTLS    :The local authority won't allow you to build above tree height in this park
+STR_DTLS    :當地政府不會容許你於這個樂園內建造高於樹木的高度
 
 <Roman Village>
 STR_SCNR    :Roman Village
 STR_PARK    :Roman Village
-STR_DTLS    :Develop this Roman-themed park by adding rides and roller coasters
+STR_DTLS    :以添加遊樂設施及雲霄飛車發展這個羅馬主題的樂園
 
 <Swamp Cove>
 STR_SCNR    :Swamp Cove
@@ -4569,7 +4575,7 @@ STR_DTLS    :A tiny park has done a deal with the nearby town to allow expansion
 <Geoffrey Gardens>
 STR_SCNR    :Geoffrey Gardens
 STR_PARK    :Geoffrey Gardens
-STR_DTLS    :A large garden park needs turning into a thriving theme park
+STR_DTLS    :一個大型的賞花公園需要改造為一個壯大的主題樂園
 
 
 ## Loopy Landscapes
