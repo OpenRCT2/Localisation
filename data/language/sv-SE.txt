@@ -1,4 +1,4 @@
-# STR_XXXX part is read and XXXX becomes the string id number.
+﻿# STR_XXXX part is read and XXXX becomes the string id number.
 # Everything after the colon and before the new line will be saved as the string.
 # Use # at the beginning of a line to leave a comment.
 STR_0000    :
@@ -4295,6 +4295,8 @@ STR_5997    :Lägg till/Välj summa pengar
 STR_5998    :Lägg till summa pengar
 STR_5999    :Välj summa pengar
 STR_6000    :Skriv in nytt värde
+
+STR_6012    :{COMMA1DP16}
 
 #############
 # Scenarion #
