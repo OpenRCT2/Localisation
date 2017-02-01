@@ -941,7 +941,7 @@ STR_0935    :Utgang i veien
 STR_0936    :Parkinngang i veien
 STR_0937    :{SMALLFONT}{BLACK}Innstillinger
 STR_0938    :{SMALLFONT}{BLACK}Endre bakkehøyde og helning
-STR_0939    :Undergrunns-/innendørssyn
+STR_0939    :Undergrunns-/innendørskamera
 STR_0940    :Skjul bakken
 STR_0941    :Skjul vertikale flater
 STR_0942    :Gjennomsiktige attraksjoner
@@ -1157,7 +1157,7 @@ STR_1151    :Fullt
 STR_1152    :Minst én person
 STR_1153    :Høydemerker på attraksjonsspor
 STR_1154    :Høydemerker på land
-STR_1155    :Høydemerker på gangveier
+STR_1155    :Høydemerker på gangstier
 STR_1156    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1157    :{TICK}{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1158    :Kan ikke fjerne denne...
@@ -1175,15 +1175,15 @@ STR_1169    :(Ingenting)
 STR_1170    :{STRING}
 STR_1171    :{RED}Stengt - - 
 STR_1172    :{YELLOW}{STRINGID} - - 
-STR_1173    :{SMALLFONT}{BLACK}Bygg gangveier og køer
+STR_1173    :{SMALLFONT}{BLACK}Bygg gangstier og køer
 STR_1174    :Skilt i veien
-STR_1175    :Kan ikke bygges på hellende gangvei
-STR_1176    :Kan ikke bygge gangvei her...
-STR_1177    :Kan ikke fjerne gangvei herfra...
+STR_1175    :Kan ikke bygges på hellende gangsti
+STR_1176    :Kan ikke bygge gangsti her...
+STR_1177    :Kan ikke fjerne gangsti herfra...
 STR_1178    :Upassende bakkehelning
-STR_1179    :Gangvei i veien
+STR_1179    :Gangsti i veien
 STR_1180    :Kan ikke bygges under vann!
-STR_1181    :Gangveier
+STR_1181    :Gangstier
 STR_1182    :Type
 STR_1183    :Retning
 STR_1184    :Helning
@@ -1191,8 +1191,8 @@ STR_1185    :{SMALLFONT}{BLACK}Retning
 STR_1186    :{SMALLFONT}{BLACK}Helning nedover
 STR_1187    :{SMALLFONT}{BLACK}Nivå
 STR_1188    :{SMALLFONT}{BLACK}Helning oppover
-STR_1189    :{SMALLFONT}{BLACK}Bygg valgt gangveisseksjon
-STR_1190    :{SMALLFONT}{BLACK}Fjern forrige gangveisseksjon
+STR_1189    :{SMALLFONT}{BLACK}Bygg valgt gangstiseksjon
+STR_1190    :{SMALLFONT}{BLACK}Fjern forrige gangstiseksjon
 STR_1191    :{BLACK}{STRINGID}
 STR_1192    :{OUTLINE}{RED}{STRINGID}
 STR_1193    :{WINDOW_COLOUR_2}{STRINGID}
@@ -4187,7 +4187,7 @@ STR_5875    :Grafikkmotor
 STR_5876    :{SMALLFONT}{BLACK}Motoren som bruker for å tegne spillgrafikk
 STR_5877    :Software
 STR_5878    :Software (hardware rendering)
-STR_5879    :OpenGL (eksperimentell)
+STR_5879    :OpenGL (eksperimentelt)
 STR_5880    :Valgte objekter
 STR_5881    :Ikke valgte objekter
 STR_5882    :Egendefinert valuta
