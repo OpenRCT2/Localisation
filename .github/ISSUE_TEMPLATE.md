@@ -18,3 +18,4 @@ Updated in:
 - [ ] ko-KR
 - [ ] zh-CN
 - [ ] zh-TW
+- [ ] ca-ES
