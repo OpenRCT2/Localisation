@@ -29,6 +29,9 @@ As this project always are moving forward, new strings get added from time to ti
 
 If you want to become a maintainer, tell us what language you will maintain on [Gitter](https://gitter.im/OpenRCT2/Localisation)
 
+### Testing out the language
+You can always test the translated strings in-game before publishing a pull request which could be good if the string has limited space/has a ``newline`` formating.
+One simple way to test the new language is to copy the whole document you've translated and go to your games ``\OpenRCT2\data\language`` folder and paste the copied text into the language you want to test.
 
 ### Language Status
 |Newest strings can be found in [issues](https://github.com/OpenRCT2/Localisation/issues)
@@ -45,7 +48,7 @@ Language | Maintainer | Status Bars |
 [![](https://img.shields.io/badge/fr--FR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-FR.txt) | [rvgr](https://github.com/rvgr)              | ![](https://api.openrct2.website/localisation/status/badges/fr-FR) | 
 [![](https://img.shields.io/badge/it--IT-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/it-IT.txt) | [LucaRed](https://github.com/LucaRed)        | ![](https://api.openrct2.website/localisation/status/badges/it-IT) | 
 [![](https://img.shields.io/badge/ko--KR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ko-KR.txt) | [telk5093](https://github.com/telk5093)      | ![](https://api.openrct2.website/localisation/status/badges/ko-KR) | 
-[![](https://img.shields.io/badge/nb--NO-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt)  | [Goddesen](https://github.com/Goddesen)      | ![](https://api.openrct2.website/localisation/status/badges/nb-NO) | 
+[![](https://img.shields.io/badge/nb--NO-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt)  | [Goddesen](https://github.com/Goddesen)      | ![](https://api.openrct2.website/localisation/status/badges/nb-NO) | 
 [![](https://img.shields.io/badge/nl--NL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nl-NL.txt) | [Gymnasiast ](https://github.com/Gymnasiast )| ![](https://api.openrct2.website/localisation/status/badges/nl-NL) | 
 [![](https://img.shields.io/badge/pt--BR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pt-BR.txt) | [renansimoes](https://github.com/renansimoes)| ![](https://api.openrct2.website/localisation/status/badges/pt-BR) | 
 [![](https://img.shields.io/badge/sv--SE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/sv-SE.txt) | [Nubbie](https://github.com/Nubbie)          | ![](https://api.openrct2.website/localisation/status/badges/sv-SE) | 
