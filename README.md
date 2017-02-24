@@ -30,7 +30,7 @@ As this project always are moving forward, new strings get added from time to ti
 If you want to become a maintainer, tell us what language you will maintain on [Gitter](https://gitter.im/OpenRCT2/Localisation)
 
 ### Testing out the language
-You can always test the translated strings in-game before publishing a pull request which could be good if the string has limited space/has a ``newline`` formating.
+You can always test the translated strings in-game before publishing a pull request which could be good if the string has limited space/has a ``<newline>`` formating.
 One simple way to test the new language is to copy the whole document you've translated and go to your games ``\OpenRCT2\data\language`` folder and paste the copied text into the language you want to test.
 
 ### Language Status
