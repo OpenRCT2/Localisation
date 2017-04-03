@@ -37,9 +37,8 @@ One simple way to test the new language is to copy the whole document you've tra
 | Newest strings can be found in [issues](https://github.com/OpenRCT2/Localisation/issues) | 
 | -----------------------------------------------------------------------------------------| 
 
-
 | Language | Maintainer | Status Bars |
-| -------- | ---------- | ----------- | <!--                          LANGUAGE (Badge & Name)                                                              MAINTAINER (Username & Page)                                         STATUS-BAR                        -->
+| -------- | ---------- | ----------- | 
 | [![](https://img.shields.io/badge/en--GB-maintained-green.svg)](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt   ) | -Anyone-                                     | ![](https://api.openrct2.website/localisation/status/badges/en-GB) | 
 | [![](https://img.shields.io/badge/en--US-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/en-US.txt) | -Anyone-                                     | ![](https://api.openrct2.website/localisation/status/badges/en-US) |
 | [![](https://img.shields.io/badge/ca--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ca-ES.txt) | [J0anJosep](https://github.com/J0anJosep)    | ![](https://api.openrct2.website/localisation/status/badges/ca-ES) | 
@@ -62,13 +61,11 @@ One simple way to test the new language is to copy the whole document you've tra
 | Outdated <!-- Languages that is really outdated with strings missing from OpenRCT2/vanilla-->                                                 |                                              |                                                                    | 
 | [![](https://img.shields.io/badge/hu--HU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/hu-HU.txt)     |                                              | ![](https://api.openrct2.website/localisation/status/badges/hu-HU) | 
 | [![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt)     |                                              | ![](https://api.openrct2.website/localisation/status/badges/ru-RU) | 
-| --- | 
 
 Note:  The status bars can be inaccurate & some maintainers can be more inactive than others.<br/>
 Anyone can still contribute to the languages. 
 
-
-###Questions & Support
+### Questions & Support
 
 If you have any question or issues, please don't hesitate at contacting us at<br/>
 [![Gitter](https://img.shields.io/badge/gitter-localisation-green.svg)](https://gitter.im/OpenRCT2/Localisation)<br />
