@@ -33,6 +33,11 @@ If you want to become a maintainer, tell us what language you will maintain on [
 You can always test the translated strings in-game before publishing a pull request which could be good if the string has limited space/has a ``<newline>`` formating in it.<br/>
 One simple way to test the new language is to copy the whole document you've translated and go to your games ``\OpenRCT2\data\language`` folder and paste the copied text into the language you want to test.
 
+### Language Status
+| Newest strings can be found in [issues](https://github.com/OpenRCT2/Localisation/issues) | 
+| -----------------------------------------------------------------------------------------| 
+
+
 | Language | Maintainer | Status Bars |
 | -------- | ---------- | ----------- | <!--                          LANGUAGE (Badge & Name)                                                              MAINTAINER (Username & Page)                                         STATUS-BAR                        -->
 | [![](https://img.shields.io/badge/en--GB-maintained-green.svg)](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt   ) | -Anyone-                                     | ![](https://api.openrct2.website/localisation/status/badges/en-GB) | 
@@ -57,6 +62,7 @@ One simple way to test the new language is to copy the whole document you've tra
 | Outdated <!-- Languages that is really outdated with strings missing from OpenRCT2/vanilla-->                                                 |                                              |                                                                    | 
 | [![](https://img.shields.io/badge/hu--HU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/hu-HU.txt)     |                                              | ![](https://api.openrct2.website/localisation/status/badges/hu-HU) | 
 | [![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt)     |                                              | ![](https://api.openrct2.website/localisation/status/badges/ru-RU) | 
+| --- | 
 
 Note:  The status bars can be inaccurate & some maintainers can be more inactive than others.<br/>
 Anyone can still contribute to the languages. 
