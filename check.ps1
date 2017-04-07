@@ -12,7 +12,7 @@ $langcheckPath = ".\langcheck\bin\Release\netcoreapp1.0\langcheck.dll"
 if (-not (Test-Path -PathType Leaf $langcheckPath) -or $Rebuild)
 {
     pushd ".\langcheck"
-        dotnet restore -v Warning
+        dotnet restore -v m
         dotnet build -c Release
     popd
 }
