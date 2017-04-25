@@ -2747,7 +2747,7 @@ STR_2739    :Keine
 STR_2740    :RollerCoaster Tycoon 1
 STR_2741    :RollerCoaster Tycoon 2
 STR_2742    :css50.dat nicht gefunden
-STR_2743    :Kopieren Sie data\css17.dat aus Ihrem RCT1-Verzeichnis nach data\css50.dat in Ihrem RCT2-Verzeichnis.
+STR_2743    :Kopieren Sie data\css17.dat aus Ihrem RCT1-Verzeichnis nach data\css50.dat in Ihrem RCT2-Verzeichnis oder versichern Sie sich, dass der Pfad zur RCT1-Installation in den Optionen korrekt angegeben ist.
 STR_2744    :[
 STR_2745    :\
 STR_2746    :]
@@ -4136,7 +4136,7 @@ STR_5832    :{SMALLFONT}{BLACK}Zeigt Höhen als generische Einheiten,{NEWLINE}an
 STR_5833    :{SMALLFONT}{BLACK}Verändert das verwendete Datumsformat
 STR_5834    :{SMALLFONT}{BLACK}Das zu verwendende Audiogerät auswählen
 STR_5835    :{SMALLFONT}{BLACK}Schaltet das Spiel stumm, wenn das{NEWLINE}Spiel nicht mehr im Vordergrund ist
-STR_5836    :{SMALLFONT}{BLACK}Die im Hauptmenü verwendete{NEWLINE}Musik auswählen.{NEWLINE}{NEWLINE}Die RCT1-Musik erfordert das Kopieren von 'data/css17.dat',{NEWLINE}aus dem RCT1-Ordner, nach 'data/css50.dat' im{NEWLINE}RCT2-Ordner
+STR_5836    :{SMALLFONT}{BLACK}Die im Hauptmenü verwendete{NEWLINE}Musik auswählen.{NEWLINE}{NEWLINE}Die RCT1-Musik erfordert das Kopieren von 'data/css17.dat',{NEWLINE}aus dem RCT1-Ordner, nach 'data/css50.dat' im{NEWLINE}RCT2-Ordner oder versichern Sie sich, dass der Pfad zur RCT1-Installation in den Optionen korrekt angegeben ist.
 STR_5837    :{SMALLFONT}{BLACK}Benutzerdefinierte GUIs{NEWLINE}erstellen und verwalten
 STR_5838    :{SMALLFONT}{BLACK}Zeigt für die Finanzen in der Symbolleiste{NEWLINE}eine gesonderte Schaltfläche an
 STR_5839    :{SMALLFONT}{BLACK}Zeigt für die Forschung & Entwicklung{NEWLINE}in der Symbolleiste eine gesonderte Schaltfläche an
@@ -4332,6 +4332,11 @@ STR_6029    :Streckenbau - Aktuellen Abschnitt abreißen
 STR_6030    :{SMALLFONT}{BLACK}Landschaftsauswahl. Wählen Sie ein Landschaftselement auf der Karte aus, und verwenden Sie es zum plazieren.
 STR_6031    :Server Beschreibung:
 STR_6032    :Server Begrüßung:
+STR_6033    :Pfad zur RCT1-Installation:
+STR_6035    :Bitte wähle Sie ein RCT1-Verzeichnis
+STR_6036    :{SMALLFONT}{BLACK}Leeren
+STR_6037    :Bitte wähle Sie ein valides RCT1-Verzeichnis
+STR_6038    :{SMALLFONT}{BLACK}Falls Sie RCT1 installiert haben, setzen Sie diese Option zum Laden von Scenarios, Musik, usw. 
 
 #############
 # Scenarios #
