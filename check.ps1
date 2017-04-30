@@ -8,11 +8,11 @@ param (
 $ErrorActionPreference = "Stop"
 
 # Build langcheck
-$langcheckPath = ".\langcheck\bin\Release\netcoreapp1.0\langcheck.dll"
+$langcheckPath = ".\langcheck\bin\Release\netcoreapp1.1\langcheck.dll"
 if (-not (Test-Path -PathType Leaf $langcheckPath) -or $Rebuild)
 {
     pushd ".\langcheck"
-        dotnet restore -v Warning
+        dotnet restore -v m
         dotnet build -c Release
     popd
 }
@@ -47,7 +47,14 @@ foreach ($languageFile in $languageFiles)
     $translationPack = "$languagePath\$($languageFile.Name)"
 
     $sw = [Diagnostics.Stopwatch]::StartNew()
-    dotnet $langcheckPath $basePack $translationPack
+    dotnet $langcheckPath $basePack $translationPack | ForEach-Object {
+        if ($env:APPVEYOR -and $_.StartsWith("  info: "))
+        {
+            $message = $($languageFile.BaseName) + ": " + $_.Substring(8)
+            Add-AppveyorMessage $message
+        }
+        $_
+    }
     $sw.Stop()
     $testDuration = $sw.ElapsedMilliseconds
 

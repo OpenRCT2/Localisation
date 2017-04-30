@@ -769,7 +769,7 @@ STR_0764    :Visitante {INT32}
 STR_0765    :Visitante {INT32}
 STR_0766    :Visitante {INT32}
 STR_0767    :Visitante {INT32}
-STR_0768    :Jardinero {INT32}
+STR_0768    :Manita {INT32}
 STR_0769    :Mecánico {INT32}
 STR_0770    :Guardia {INT32}
 STR_0771    :Animador {INT32}
@@ -831,24 +831,17 @@ STR_0826    :Demasiados nombres están usados
 STR_0827    :No hay suficiente dinero - requiere {CURRENCY2DP}
 STR_0828    :{SMALLFONT}{BLACK}Cerrar ventana
 STR_0829    :{SMALLFONT}{BLACK}Título de la ventana - Arrastra para moverla
-STR_0830    :{SMALLFONT}{BLACK}Acercar zoom
-STR_0831    :{SMALLFONT}{BLACK}Alejar zoom
+STR_0830    :{SMALLFONT}{BLACK}Acercar vista
+STR_0831    :{SMALLFONT}{BLACK}Alejar vista
 STR_0832    :{SMALLFONT}{BLACK}Rota la cámara 90{DEGREE} en el sentido de las agujas del reloj
 STR_0833    :{SMALLFONT}{BLACK}Pausar juego
 STR_0834    :{SMALLFONT}{BLACK}Opciones de juego
 STR_0835    :Falló la inicialización del juego
 STR_0836    :No se ha podido iniciar el juego en estado minimizado
 STR_0837    :No se ha podido iniciar el sistema gráfico
-STR_0838    :<not used anymore>
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
 # The following six strings were used for display resolutions, but have been replaced.
-STR_0841    :<not used anymore>
-STR_0842    :<not used anymore>
-STR_0843    :<not used anymore>
-STR_0844    :<not used anymore>
-STR_0845    :<not used anymore>
-STR_0846    :<not used anymore>
 STR_0847    :Sobre 'OpenRCT2'
 STR_0848    :RollerCoaster Tycoon 2
 STR_0849    :{WINDOW_COLOUR_2}Version 2.01.028
@@ -892,7 +885,6 @@ STR_0886    :Salir del juego
 STR_0887    :Salir del editor de escenarios
 STR_0888    :Salir del editor de Montañas Rusas
 STR_0889    :Salir del editor de Vías
-STR_0890    :<removed string - do not use>
 STR_0891    :Tomar captura de pantalla
 STR_0892    :Captura de pantalla guardada como '{STRINGID}'
 STR_0893    :¡No se pudo tomar la Captura de pantalla!
@@ -942,10 +934,10 @@ STR_0936    :Entrada del parque interfiere
 STR_0937    :{SMALLFONT}{BLACK}Opciones de visualización
 STR_0938    :{SMALLFONT}{BLACK}Movimientos de tierra
 STR_0939    :Vista subterránea
-STR_0940    :Tierra invisible
-STR_0941    :Acantilados invisibles
-STR_0942    :Atracciones invisibles
-STR_0943    :Decorado invisible
+STR_0940    :Ocultar tierra base
+STR_0941    :Ocultar acantilados
+STR_0942    :Ver a través de atracciones
+STR_0943    :Ver a través de escenarios
 STR_0944    :Guardar
 STR_0945    :No guardar
 STR_0946    :Cancelar
@@ -1513,8 +1505,8 @@ STR_1507    :{SMALLFONT}{OPENQUOTES}No puedo encontrar la salida{ENDQUOTES}
 STR_1508    :{SMALLFONT}{OPENQUOTES}Quiero bajarme de {STRINGID}{ENDQUOTES}
 STR_1509    :{SMALLFONT}{OPENQUOTES}Quiero salir de {STRINGID}{ENDQUOTES}
 STR_1510    :{SMALLFONT}{OPENQUOTES}No voy a subir a {STRINGID}, no es seguro{ENDQUOTES}
-STR_1511    :{SMALLFONT}{OPENQUOTES}Este camino es repugnante{ENDQUOTES}
-STR_1512    :{SMALLFONT}{OPENQUOTES}Está atestado{ENDQUOTES}
+STR_1511    :{SMALLFONT}{OPENQUOTES}Este sendero es repugnante{ENDQUOTES}
+STR_1512    :{SMALLFONT}{OPENQUOTES}Hay demasiada gente aquí{ENDQUOTES}
 STR_1513    :{SMALLFONT}{OPENQUOTES}El vandalismo es terrible{ENDQUOTES}
 STR_1514    :{SMALLFONT}{OPENQUOTES}¡El paisaje es estupendo!{ENDQUOTES}
 STR_1515    :{SMALLFONT}{OPENQUOTES}Este parque está realmente limpio y ordenado{ENDQUOTES}
@@ -1653,9 +1645,6 @@ STR_1647    :
 STR_1648    :{SMALLFONT}{OPENQUOTES}¡Ayuda! ¡Bájame!{ENDQUOTES}
 STR_1649    :{SMALLFONT}{OPENQUOTES}¡Me estoy quedando sin dinero!{ENDQUOTES}
 STR_1650    :{SMALLFONT}{OPENQUOTES}¡Wow! ¡Están construyendo una nueva atracción!{ENDQUOTES}
-# Two removed inside jokes about Intamin and Phoenix
-STR_1651    :<removed string - do not use>
-STR_1652    :<removed string - do not use>
 STR_1653    :{SMALLFONT}{OPENQUOTES}... ¡y aquí estamos en {STRINGID}!{ENDQUOTES}
 STR_1654    :{WINDOW_COLOUR_2}Pensamientos recientes:
 STR_1655    :{SMALLFONT}{BLACK}Construir camino a nivel del suelo.
@@ -1703,7 +1692,7 @@ STR_1696    :{SMALLFONT}{BLACK}Información de clientes
 STR_1697    :No se puede colocar en la fila de espera
 STR_1698    :Solo se puede colocar en la fila de espera
 STR_1699    :Mucha gente en la partida.
-STR_1700    :Contratar nuevo jardinero
+STR_1700    :Contratar nuevo manitas
 STR_1701    :Contratar nuevo mecánico
 STR_1702    :Contratar nuevo guarda
 STR_1703    :Contratar nuevo animador
@@ -1862,13 +1851,13 @@ STR_1855    :{WINDOW_COLOUR_2}Construido: {BLACK}Hace {COMMA16} años
 STR_1856    :{WINDOW_COLOUR_2}Beneficio por ítem: {BLACK}{CURRENCY2DP}
 STR_1857    :{WINDOW_COLOUR_2}Pérdidas por ítem: {BLACK}{CURRENCY2DP}
 STR_1858    :{WINDOW_COLOUR_2}Coste: {BLACK}{CURRENCY} al mes
-STR_1859    :jardineros
+STR_1859    :manitas
 STR_1860    :mecánicos
-STR_1861    :guardas de seguridad
+STR_1861    :guardias de seguridad
 STR_1862    :animadores
-STR_1863    :jardinero
+STR_1863    :manita
 STR_1864    :mecánico
-STR_1865    :guarda de seguridad
+STR_1865    :guardia de seguridad
 STR_1866    :animador
 STR_1867    :{BLACK}{COMMA16} {STRINGID}
 STR_1868    :No puedes cambiar el número de vueltas...
@@ -1895,10 +1884,6 @@ STR_1888    :{WINDOW_COLOUR_2}Tiempo desde la última inspección: {BLACK}más d
 STR_1889    :{WINDOW_COLOUR_2}Tiempo averiado: {MOVE_X}{255}{BLACK}{COMMA16}%
 STR_1890    :{SMALLFONT}{BLACK}Selecciona con qué frecuencia un mecánico debe inspeccionar esta atracción
 STR_1891    :¡Ningún {STRINGID} en el parque todavía!
-# The following two strings were used to display an error when the disc was missing.
-# This has been replaced in OpenRCT2.
-STR_1892    :<not used anymore>
-STR_1893    :<not used anymore>
 STR_1894    :{WINDOW_COLOUR_2}{STRINGID} vendidos: {BLACK}{COMMA32}
 STR_1895    :{SMALLFONT}{BLACK}Construir nueva atracción
 STR_1896    :{WINDOW_COLOUR_2}Gastos/Ingresos
@@ -2215,10 +2200,10 @@ STR_2206    :Cartón de bebida vacío
 STR_2207    :Taza de Bebida vacía
 STR_2208    :Salchicha asada
 STR_2209    :Tazón Vacío
-STR_2210    :{SMALLFONT}{BLACK}Mostrar lista de jardineros del parque
-STR_2211    :{SMALLFONT}{BLACK}Mostrar lista de mecánicos del parque
-STR_2212    :{SMALLFONT}{BLACK}Mostrar lista de guardas de seguridad del parque
-STR_2213    :{SMALLFONT}{BLACK}Mostrar lista de animadores del parque
+STR_2210    :{SMALLFONT}{BLACK}Mostrar lista de manitas en el parque
+STR_2211    :{SMALLFONT}{BLACK}Mostrar lista de mecánicos en el parque
+STR_2212    :{SMALLFONT}{BLACK}Mostrar lista de guardias de seguridad en el parque
+STR_2213    :{SMALLFONT}{BLACK}Mostrar lista de animadores en el parque
 STR_2214    :¡No es posible construir mientras el juego está pausado!
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}C
@@ -2322,10 +2307,6 @@ STR_2313    :{WINDOW_COLOUR_2}Nivel de náuseas: {BLACK}{COMMA2DP32} (aprox.)
 STR_2314    :{WINDOW_COLOUR_2}Longitud de vía: {BLACK}{STRINGID}
 STR_2315    :{WINDOW_COLOUR_2}Coste: {BLACK}alrededor de {CURRENCY}
 STR_2316    :{WINDOW_COLOUR_2}Espacio requerido: {BLACK}{COMMA16} x {COMMA16} bloques
-STR_2317    :<not used anymore>
-STR_2318    :<not used anymore>
-STR_2319    :<not used anymore>
-STR_2320    :<not used anymore>
 STR_2321    :{WINDOW_COLOUR_2}Número de atracciones: {BLACK}{COMMA16}
 STR_2322    :{WINDOW_COLOUR_2}Empleados: {BLACK}{COMMA16}
 STR_2323    :{WINDOW_COLOUR_2}Extensión del parque: {BLACK}{COMMA32}m{SQUARED}
@@ -2338,7 +2319,7 @@ STR_2329    :{WINDOW_COLOUR_2}Distancia y Velocidad:
 STR_2330    :{WINDOW_COLOUR_2}Temperatura:
 STR_2331    :{WINDOW_COLOUR_2}Marcas de altura:
 STR_2332    :Niveles relativos
-STR_2333    :Sonido
+STR_2333    :Efectos de sonido
 STR_2334    :Libras ({POUND})
 STR_2335    :Dólares ($)
 STR_2336    :Franco (F)
@@ -2442,12 +2423,6 @@ STR_2433    :{BLACK}Cupones para {STRINGID} gratis
 STR_2434    :{BLACK}Campaña de publicidad de {STRINGID}
 STR_2435    :{BLACK}Campaña de publicidad de {STRINGID}
 STR_2436    :1 semana
-STR_2437    :<not used anymore>
-STR_2438    :<not used anymore>
-STR_2439    :<not used anymore>
-STR_2440    :<not used anymore>
-STR_2441    :<not used anymore>
-STR_2442    :<not used anymore>
 STR_2443    :{WINDOW_COLOUR_2}Coste por semana: {BLACK}{CURRENCY2DP}
 STR_2444    :{WINDOW_COLOUR_2}Coste total: {BLACK}{CURRENCY2DP}
 STR_2445    :Lanzar esta campaña de márketing
@@ -2511,8 +2486,8 @@ STR_2502    :Tierra invisible
 STR_2503    :Acantilados invisibles
 STR_2504    :Mirar a través de atracciones
 STR_2505    :Mirar a través del escenario
-STR_2506    :Invisible supports toggle
-STR_2507    :Invisible people toggle
+STR_2506    :Alternar Soportes Invisibles
+STR_2507    :Alternar Invitados Invisibles
 STR_2508    :Marcas de altura en el suelo
 STR_2509    :Marcas de altura en atracciones
 STR_2510    :Marcas de altura en senderos
@@ -2687,18 +2662,16 @@ STR_2678    :???
 STR_2679    :???
 STR_2680    :Investigación Completa
 STR_2681    :{MEDIUMFONT}{BLACK}Incrementa tu dinero en {CURRENCY}
-STR_2682    :<not used anymore>
-STR_2683    :<not used anymore>
 STR_2684    :{SMALLFONT}{BLACK}Llega un gran grupo de visitantes
 STR_2685    :Simplex Noise Parameters
-STR_2686    :{WINDOW_COLOUR_2}Bajo:
-STR_2687    :{WINDOW_COLOUR_2}Alto:
-STR_2688    :{WINDOW_COLOUR_2}Frecuencia Base:
-STR_2689    :{WINDOW_COLOUR_2}Octavas:
+STR_2686    :Bajo:
+STR_2687    :Alto:
+STR_2688    :Frecuencia Base:
+STR_2689    :Octavas:
 STR_2690    :Generación Mapa
-STR_2691    :{WINDOW_COLOUR_2}Altura de base:
-STR_2692    :{WINDOW_COLOUR_2}Altura de agua:
-STR_2693    :{WINDOW_COLOUR_2}Terreno:
+STR_2691    :Altura de base:
+STR_2692    :Altura de agua:
+STR_2693    :Terreno:
 STR_2694    :Generar
 STR_2695    :Terreno aleatorio
 STR_2696    :Colocar arboles
@@ -2748,7 +2721,7 @@ STR_2739    :Ninguna
 STR_2740    :RollerCoaster Tycoon 1
 STR_2741    :RollerCoaster Tycoon 2
 STR_2742    :css50.dat no encontrado
-STR_2743    :Copia data\css17.dat de tu instalación de RCT1 en data\css50.dat de la instalación de RCT2,
+STR_2743    :Copia data\css17.dat de tu instalación de RCT1 en data\css50.dat de tu instalación de RCT2, o asegúrate de que la carpeta de RCT1 en la sección "Otras Opciones" esté establecido correctamente.
 STR_2744    :[
 STR_2745    :\
 STR_2746    :]
@@ -2767,10 +2740,7 @@ STR_2758    :Forzar tormenta
 STR_2759    :Zero Clearance
 # New strings used in the cheats window previously these were ???
 STR_2760    :+{CURRENCY}
-STR_2761    :<not used anymore>
-STR_2762    :<not used anymore>
 STR_2763    :???
-STR_2764    :<not used anymore>
 STR_2765    :Grupo de visitantes
 STR_2766    :Ganar escenario
 STR_2767    :Mantener clima
@@ -2805,7 +2775,7 @@ STR_2794    :{WINDOW_COLOUR_2}Completado por: {BLACK}{STRINGID}{NEWLINE}{WINDOW_
 STR_2795    :Ordenar
 STR_2796    :{SMALLFONT}{BLACK}Ordenar la lista de atracciones según el criterio seleccionedo
 STR_2797    :Desplazar mapa con el ratón al borde de la pantalla
-STR_2798    :{SMALLFONT}{BLACK}Selecciona si al mover el puntero del ratón al borde de la ventana, el mapa se desplazará
+STR_2798    :{SMALLFONT}{BLACK}Desplazar la vista cuando el puntero del ratón esté en el borde de la ventana
 STR_2799    :{SMALLFONT}{BLACK}Mirar o cambiar los atajos de teclado asignados
 STR_2800    :{WINDOW_COLOUR_2}Entradas: {BLACK}{COMMA32}
 STR_2801    :{WINDOW_COLOUR_2}Beneficios venta entradas: {BLACK}{CURRENCY2DP}
@@ -2813,8 +2783,8 @@ STR_2802    :Mapa
 STR_2803    :{SMALLFONT}{BLACK}Mostrar a estos visitantes marcados en el mapa
 STR_2804    :{SMALLFONT}{BLACK}Mostrar estos empleados marcados en el mapa
 STR_2805    :{SMALLFONT}{BLACK}Mostrar mapa del parque
-STR_2806    :{RED}Los visitantes se quejan del mal estado de los senderos{NEWLINE}Comprueba donde están tus jardineros y organizalos mejor.
-STR_2807    :{RED}Los visitantes se quejan de la basura en el parque{NEWLINE}Comprueba donde están tus jardineros y organizalos mejor.
+STR_2806    :{RED}Los visitantes se quejan del mal estado de los senderos{NEWLINE}Comprueba donde están tus manitas y organizalos mejor.
+STR_2807    :{RED}Los visitantes se quejan de la basura en el parque{NEWLINE}Comprueba donde están tus manitas y organizalos mejor.
 STR_2808    :{RED}Los visitantes se quejan del vandalismo en el parque{NEWLINE}Comprueba donde están tus guardias y organizalos mejor.
 STR_2809    :{RED}Los visitantes estan hambrientos y no encuentran donde comprar comida.
 STR_2810    :{RED}Los visitantes tienen sed y no encuentran donde comprar bebidas.
@@ -2976,8 +2946,6 @@ STR_2965    :{WINDOW_COLOUR_2}
 STR_2966    :
 STR_2967    :
 STR_2968    :
-STR_2969    :<not used anymore>
-STR_2970    :<not used anymore>
 STR_2971    :Esquema de color principal
 STR_2972    :Esquema de color alternativo 1
 STR_2973    :Esquema de color alternativo 2
@@ -3168,7 +3136,6 @@ STR_3157    :mapa
 STR_3158    :gráfica
 STR_3159    :lista
 STR_3160    :{SMALLFONT}{BLACK}Selecciona el número de circuitos por paseo.
-STR_3161    :<not used anymore>
 STR_3162    :No se puede asignar memoria suficiente
 STR_3163    :Instalar nuevo dato: 
 STR_3164    :{BLACK}{COMMA16} seleccionados (máximo {COMMA16})
@@ -3218,7 +3185,7 @@ STR_3207    :Diseñador de Montañas Rusas
 STR_3208    :Diseñador de Vías
 STR_3209    :Regresar al paso anterior:
 STR_3210    :Avanzar al siguiente paso:
-STR_3211    :{WINDOW_COLOUR_2}Tamaño de Mapa:
+STR_3211    :Tamaño de Mapa:
 STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
 STR_3213    :No puedes disminuir más el tamaño del mapa
 STR_3214    :No puedes aumentar más el tamaño del mapa
@@ -3344,7 +3311,6 @@ STR_3333    :Exportar complementos al guardar el juego
 STR_3334    :{SMALLFONT}{BLACK}Selecciona si los complementos adicionales (datos no distribuídos con el juego principal) utilizados en un escenario deben exportarse al guardar el juego, lo que permite que otros jugadores que no tengan esos complementos puedan abrirlo.
 STR_3335    :Diseñador de Montañas Rusas - Selecciona el tipo de Atracción y Vehículo
 STR_3336    :Gestor de Diseños de vías - Elige tipo de atracción 
-STR_3337    :<not used anymore>
 STR_3338    :{BLACK}Recorrido personalizado
 STR_3339    :{BLACK}{COMMA16} diseño disponible, o recorrido personalizado
 STR_3340    :{BLACK}{COMMA16} diseños disponibles, o recorrido personalizado
@@ -3369,8 +3335,6 @@ STR_3358    :No se puede eliminar el diseño da vía...
 STR_3359    :{BLACK}Sin diseños de vías para esta atracción
 STR_3360    :¡Advertencia!
 STR_3361    :Demasiados diseños de vía - Algunos no se listarán.
-STR_3362    :<not used anymore>
-STR_3363    :<not used anymore>
 STR_3364    :Avanzado
 STR_3365    :{SMALLFONT}{BLACK}Permitir la selección de escenario además de grupos de escenarios.
 STR_3366    :{BLACK}= Atracción
@@ -3462,7 +3426,6 @@ STR_5120    :Finanzas
 STR_5121    :Investigación
 STR_5122    :Selecciona atracciones por tipo (como en RCT1)
 STR_5123    :Renueva atracciones
-STR_5124    :<not used anymore>
 STR_5125    :Todo editable
 STR_5126    :Música aleatoria
 STR_5127    :{SMALLFONT}{BLACK}Pintar el terreno en lugar de cambiar la elevación mientras se arrastra.
@@ -3504,15 +3467,15 @@ STR_5162    :Día/Mes/Año
 STR_5163    :Mes/Día/Año
 STR_5164    :Nombre del Canal Twitch
 STR_5165    :Nombrar visitantes como tus seguidores
-STR_5166    :{SMALLFONT}{BLACK}Nombrará a los visitantes de tu parque como tus seguidores en Twitch
+STR_5166    :{SMALLFONT}{BLACK}Nombrar a los visitantes de tu parque con los nombres de los seguidores de tu canal de Twitch.
 STR_5167    :Seguimiento de 'visitantes seguidores'
-STR_5168    :{SMALLFONT}{BLACK}Activará información de seguimiento de los visitantes que sean tus seguidores en Twitch
+STR_5168    :{SMALLFONT}{BLACK}Activar el seguimiento de visitantes que han sido nombrados con los nombres de los seguidores de tu canal de Twitch.
 STR_5169    :Nombrar visitantes como gente del chat de Twitch
-STR_5170    :{SMALLFONT}{BLACK}Nombrará a los visitantes de tu parque como la gente que hay conectada en el chat de Twitch
+STR_5170    :{SMALLFONT}{BLACK}Nombrar a los visitantes de tu parque con los nombres de las personas conectadas en tu canal de Twitch.
 STR_5171    :Seguimiento de 'visitantes del chat'
-STR_5172    :{SMALLFONT}{BLACK}Activará información de seguimiento de los visitantes que sean las personadas conectadas al chat de Twitch
+STR_5172    :{SMALLFONT}{BLACK}Activar el seguimiento de visitantes que han sido nombrados con los nombres de las personas conectadas en el chat de tu canal de Twitch.
 STR_5173    :Mostrar noticias del chat Twitch
-STR_5174    :{SMALLFONT}{BLACK}Los mensajes del chat de Twitch que comiencen por "!news" se mostrarán como notificaciones en el juego
+STR_5174    :{SMALLFONT}{BLACK}Mostrar mensajes del chat de Twitch precedido de "!news" en las notificaciones del juego.
 STR_5175    :Escribe el nombre de tu canal Twitch
 STR_5176    :Hab. integración Twitch
 STR_5177    :Modo de pantalla:
@@ -3679,8 +3642,8 @@ STR_5337    :Entrada del Parque
 STR_5338    :Tipo de elemento:
 STR_5339    :{SMALLFONT}{BLACK}Altura de la base
 STR_5340    :{SMALLFONT}{BLACK}Altura de franqueamiento
-STR_5341    :Banderas
-STR_5342    :Elige una baldosa del mapa
+STR_5341    :<removed string - do not use>
+STR_5342    :<removed string - do not use>
 STR_5343    :Posicionar trabajadores automáticamente
 STR_5344    :Cambios
 STR_5345    :Trucos de dinero
@@ -3779,7 +3742,7 @@ STR_5437    :Partida no seleccionada
 STR_5438    :No se pueden hacer cambios mientras el editor de comandos está abierto
 STR_5439    :Un comando de espera con al menos 4 segundos es necesario con un comando de reinicio
 STR_5440    :Minimizar desde pantalla completa al perder el foco
-STR_5441    :{SMALLFONT}{BLACK}Identifica atracciones por el tipo de pista,{NEWLINE}para que los vehículos puedan modificarse{NEWLINE}posteriormente, como en RCT1.
+STR_5441    :{SMALLFONT}{BLACK}Identifica atracciones por tipo de pista{NEWLINE}por lo que los vehículos pueden modificarse posteriormente.{NEWLINE}(Como en RCT1).
 STR_5442    :Forzar valoración:
 STR_5443    :Velocidad{MOVE_X}{87}{STRINGID}
 STR_5444    :Velocidad:
@@ -3832,7 +3795,6 @@ STR_5490    :Silenciar al perder el foco
 STR_5491    :Lista de inventos
 STR_5492    :Opciones de escenario
 STR_5493    :Enviar mensaje
-STR_5494    :<not used anymore>
 STR_5495    :Lista de jugadores
 STR_5496    :Jugador:
 STR_5497    :Ping:
@@ -3845,9 +3807,9 @@ STR_5503    :Escribe el nombre del host o la IP:
 STR_5504    :{SMALLFONT}{BLACK}Mostrar estado multijugador
 STR_5505    :No se pudo conectar al servidor.
 STR_5506    :Visitantes ignoran intensidad de atracc.
-STR_5507    :Los Jardineros cortan el césped por defecto
+STR_5507    :Los Manitas cortan el césped por defecto
 STR_5508    :Permitir cargar ficheros dañados
-STR_5509    :{SMALLFONT}{BLACK}Permite cargar ficheros cuya suma de verificación no es correcta, como partidas guardadas de versiones de demostración y ficheros dañados
+STR_5509    :{SMALLFONT}{BLACK}Permite cargar escenarios y partidas que tengan una suma de comprobación incorrecta, como los escenarios de la demo o partidas dañadas.
 STR_5510    :Dispositivo de sonido predeterminado
 STR_5511    :(DESCONOCIDO)
 STR_5512    :Guardar Partida como...
@@ -3925,7 +3887,7 @@ STR_5583    :{COMMA1DP16}ms{POWERNEGATIVEONE}
 STR_5584    :SI
 STR_5585    :{SMALLFONT}{BLACK}Desbloquea los límites operativos de funcionamiento, permitiendo cosas como cadenas elevadoras a {VELOCITY}
 STR_5586    :Abrir automáticamente tiendas y puestos
-STR_5587    :{SMALLFONT}{BLACK}Si se activa las tiendas y puestos abrirán automáticamente al colocarse.
+STR_5587    :{SMALLFONT}{BLACK}Las Tiendas y Puestos se abrirán automáticamente después de su construcción.
 STR_5588    :{SMALLFONT}{BLACK}Jugar con otros jugadores
 STR_5589    :Configuración de notificaciones
 STR_5590    :Premios al parque
@@ -4004,6 +3966,7 @@ STR_5662    :Ninguna
 STR_5663    :Limpiar paisaje
 STR_5664    :Usar trucos
 STR_5665    :Colocación de Multiples Escenarios
+STR_5666    :Inicio de sesión sin contraseña
 STR_5701    :{WINDOW_COLOUR_2}Ultima acción: {BLACK}{STRINGID}
 STR_5702    :{SMALLFONT}{BLACK}Ir a la última acción del jugador.
 STR_5703    :No puedes expulsar al anfitrión.
@@ -4115,8 +4078,8 @@ STR_5806    :Alternar Modo de Pantalla Completa
 STR_5807    :{WINDOW_COLOUR_2}Número de Juegos/Atracciones: {BLACK}{COMMA16}
 STR_5808    :{WINDOW_COLOUR_2}Número de Tiendas y Puestos: {BLACK}{COMMA16}
 STR_5809    :{WINDOW_COLOUR_2}Número de Quioscos y Otras Facilidades: {BLACK}{COMMA16}
-STR_5810    :Desactivar límite de longitud de los trenes
-STR_5811    :{SMALLFONT}{BLACK}Si se activa, puedes tener hasta 255 vagones por tren.
+STR_5810    :Desactivar límite de vehículos
+STR_5811    :{SMALLFONT}{BLACK}Si se activa, puedes tener hasta 255 vagones por tren y 31 trenes por atracción.
 STR_5812    :Mostrar ventana Multijugador
 STR_5813    :{OPENQUOTES}{STRING}{ENDQUOTES}
 STR_5814    :{WINDOW_COLOUR_1}{OPENQUOTES}{STRING}{ENDQUOTES}
@@ -4142,7 +4105,7 @@ STR_5832    :{SMALLFONT}{BLACK}Mostrar marcas de altura con{NEWLINE}valores rela
 STR_5833    :{SMALLFONT}{BLACK}Cambiar el formato de fecha a usar en el juego.
 STR_5834    :{SMALLFONT}{BLACK}Selecciona el dispositivo de sonido que OpenRCT2 debe usar.
 STR_5835    :{SMALLFONT}{BLACK}Silenciar el juego si la ventana pierde el foco.
-STR_5836    :{SMALLFONT}{BLACK}Selecciona la música usada en el menú principal.{NEWLINE}Seleccionar el tema de RCT1 requiere copiar el archivo 'data/css17.dat' de la carpeta de RCT1 a 'data/css50.dat' en la carpeta de RCT2.
+STR_5836    :{SMALLFONT}{BLACK}Selecciona la música usada en el menú principal.{NEWLINE}Seleccionar el tema de RCT1 requiere copiar el archivo 'data/css17.dat' de la carpeta de RCT1 a 'data/css50.dat' en la carpeta de RCT2, o establece la ruta de RCT1 en "Otras Opciones".
 STR_5837    :{SMALLFONT}{BLACK}Crea y gestiona tus temas personalizados de la interfaz.
 STR_5838    :{SMALLFONT}{BLACK}Mostrar un botón separado para las finanzas en la barra de herramienta superior.
 STR_5839    :{SMALLFONT}{BLACK}Mostrar un botón separado para la investigación y desarrollo en la barra de herramienta superior.
@@ -4156,7 +4119,7 @@ STR_5846    :{SMALLFONT}{BLACK}Establece con cuanta frecuencia OpenRCT2 guarda l
 STR_5847    :{SMALLFONT}{BLACK}Selecciona la secuencia del parque usada en el menú principal. Secuencias de RCT1/RCT2 requieren la importación de los escenarios para funcionar.
 STR_5848    :{SMALLFONT}{BLACK}Crea o modifica las secuencias del menú principal.
 STR_5849    :{SMALLFONT}{BLACK}Colocar automáticamente los nuevos empleados contratados.
-STR_5850    :{SMALLFONT}{BLACK}Los nuevos jardineros contratados cortan el césped por defecto. (como en RCT1)
+STR_5850    :{SMALLFONT}{BLACK}Los nuevos manitas contratados cortan el césped por defecto. (como en RCT1)
 STR_5851    :{SMALLFONT}{BLACK}Establece el tiempo de inspección por defecto en las atracciones nuevas.
 STR_5852    :{SMALLFONT}{BLACK}Establece el nombre del canal TwitchTV que se utilizará para la integración de Twitch.
 STR_5853    :{SMALLFONT}{BLACK}Habilitar/Deshabilitar efectos de sonido.
@@ -4166,7 +4129,199 @@ STR_5856    :{SMALLFONT}{BLACK}Establece la resolución del juego usada en el mo
 STR_5857    :{SMALLFONT}{BLACK}Opciones del juego
 STR_5858    :{SMALLFONT}{BLACK}Utilizar el GPU para la visualización en lugar del CPU. Esto mejora la compatibilidad con el software para la captura de pantalla. Esto puede disminuir ligeramente el rendimiento del juego.
 STR_5859    :{SMALLFONT}{BLACK}Permite la interpolación de{NEWLINE}los FPS (Fotograma por segundo) para un juego visualmente más suave. Si se encuentra desactivado el juego funcionará a 40 FPS como máximo.
-STR_5860    :Cambiar dibujado vía orig./decomp.
+STR_5861    :Error en la comprobación de la clave.
+STR_5862    :Bloquear jugadores desconocidos.
+STR_5863    :{SMALLFONT}{BLACK}Sólo se permite unirse a jugadores con claves conocidas.
+STR_5864    :Sólo se permiten jugadores que estén en la lista blanca.
+STR_5865    :Registrar historial de chat.
+STR_5866    :{SMALLFONT}{BLACK}Registra todo el historial de chat en archivos en tu carpeta de usuario.
+STR_5867    :{WINDOW_COLOUR_2}Nombre proveedor: {BLACK}{STRING}
+STR_5868    :{WINDOW_COLOUR_2}Correo proveedor: {BLACK}{STRING}
+STR_5869    :{WINDOW_COLOUR_2}Web proveedor: {BLACK}{STRING}
+STR_5870    :{SMALLFONT}{BLACK}Mostrar información del servidor.
+STR_5871    :Las plantas no se marchitan
+STR_5872    :{SMALLFONT}{BLACK}Evitar que las plantas se marchiten si estas no son regadas.
+STR_5873    :Cadena de elevación en todo el trayecto
+STR_5874    :{SMALLFONT}{BLACK}Permite que en cualquier pieza del trayecto se pueda colocar una cadena de elevación.
+STR_5875    :Motor de dibujo:
+STR_5876    :{SMALLFONT}{BLACK}El software a utilizar para dibujar el juego.
+STR_5877    :Software
+STR_5878    :Software (vía hardware)
+STR_5879    :OpenGL (experimental)
+STR_5880    :Sólo Seleccionados
+STR_5881    :Sólo No seleccionados
+STR_5882    :Moneda personalizada
+STR_5883    :Configuración de la moneda personalizada
+STR_5884    :{WINDOW_COLOUR_2}Tasa de cambio: 
+STR_5885    :{WINDOW_COLOUR_2}es equivalente a {COMMA32} Libras (£)
+STR_5886    :{WINDOW_COLOUR_2}Símbolo monetario:
+STR_5887    :Prefijo
+STR_5888    :Sufijo
+STR_5889    :Símbolo de la moneda personalizada
+STR_5890    :Introduce el símbolo de la moneda personalizada
+STR_5891    :Por defecto
+STR_5892    :{SMALLFONT}{BLACK}Ir a la carpeta por defecto.
+STR_5893    :Tasa de Cambio
+STR_5894    :Introduce la Tasa de Cambio
+STR_5895    :Guardar diseño de vía
+STR_5896    :¡Falló al guardar el diseño de vía!
+STR_5897    :Límite de ventanas:
+STR_5898    :{BLACK}No se pudo cargar el diseño de vía:{NEWLINE}¡El archivo parece estar corrupto, dañado o no existe!
+STR_5899    :Alternar vent. depuración de pintado
+STR_5900    :Utilizar código de dibujado original
+STR_5901    :Mostrar alturas de segmentos
+STR_5902    :Mostrar cajas delimitadoras
+STR_5903    :Mostrar ventana de depuración de pintado
+STR_5904    :Reiniciar fecha
+STR_5905    :{SMALLFONT}{BLACK}Una herramienta de generación de mapa que crea automáticamente un paisaje personalizado.
+STR_5906    :Zoom a la posición del cursor
+STR_5907    :{SMALLFONT}{BLACK}Cuando está activado el zoom se centrará en el cursor en lugar de el centro de la pantalla.
+STR_5908    :Permitir cambios de tipo de vía arbritarios
+STR_5909    :{SMALLFONT}{BLACK}Permite cambiar el tipo de vía de una atracción libremente. Puede causar un crash.
+STR_5910    :Aplicar
+STR_5911    :Ver a través de senderos
+STR_5912    :Alternar vista a través de senderos
+STR_5913    :Chat
+STR_5914    :Atracción Desconocida
+STR_5915    :Jugador
+STR_5916    :{COMMA16} jugador
+STR_5917    :{COMMA16} jugadores
+STR_5918    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_5919    :{COMMA16}
+STR_5920    :Efectos de Clima
+STR_5921    :{SMALLFONT}{BLACK}Si se activa, la lluvia y los colores oscuros se renderizarán durante una tormenta
+STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Máx {STRINGID}
+STR_5923    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Máx {COMMA16} {STRINGID} por tren
+STR_5924    :Detalles de Superficie
+STR_5925    :Detalles de Sendero
+STR_5926    :Detalles de Vía
+STR_5927    :Detalles de Escenario
+STR_5928    :Detalles de Entrada
+STR_5929    :Detalles de Valla
+STR_5930    :Detalles de Escenario Grande
+STR_5931    :Detalles de Bandera
+STR_5932    :Detalles de Elemento Corrupto
+STR_5933    :Propiedades
+STR_5934    :{WINDOW_COLOUR_2}Textura de Terreno: {BLACK}{STRINGID}
+STR_5935    :{WINDOW_COLOUR_2}Borde del Terreno: {BLACK}{STRINGID}
+STR_5936    :{WINDOW_COLOUR_2}Dueño de la Tierra: {BLACK}{STRINGID}
+STR_5937    :Sin dueño y no a la venta
+STR_5938    :{WINDOW_COLOUR_2}Nivel de Agua: {BLACK}{COMMA16}
+STR_5939    :Remover vallas parque
+STR_5940    :Restaurar vallas parque
+STR_5941    :{WINDOW_COLOUR_2}Altura Base:
+STR_5942    :{WINDOW_COLOUR_2}Nombre Sendero: {BLACK}{STRINGID}
+STR_5943    :{WINDOW_COLOUR_2}Adiciones: {BLACK}{STRINGID}
+STR_5944    :{WINDOW_COLOUR_2}Adiciones: {BLACK}None
+STR_5945    :{WINDOW_COLOUR_2}Bordes conectados:
+STR_5946    :{WINDOW_COLOUR_2}Tipo de Atracción: {BLACK}{STRINGID}
+STR_5947    :{WINDOW_COLOUR_2}ID de Atracción: {BLACK}{COMMA16}
+STR_5948    :{WINDOW_COLOUR_2}Nombre de Atracción: {BLACK}{STRINGID}
+STR_5949    :{WINDOW_COLOUR_2}Cadena de Elevación
+STR_5950    :{WINDOW_COLOUR_2}Aplicar cambios a la vía entera
+STR_5951    :{WINDOW_COLOUR_2}ID Pieza de Vía: {BLACK}{COMMA16}
+STR_5952    :{WINDOW_COLOUR_2}Número de secuencia: {BLACK}{COMMA16}
+STR_5953    :{SMALLFONT}{BLACK}Clasificar los elementos del mapa en el mosaico actual en función de su altura base.
+STR_5954    :{WINDOW_COLOUR_2}Antigüedad del Escenario: {BLACK}{COMMA16}
+STR_5955    :{WINDOW_COLOUR_2}Colocación Cuadrante: {BLACK}{STRINGID}
+STR_5956    :Suroeste
+STR_5957    :Noroeste
+STR_5958    :Nordeste
+STR_5959    :Sudeste
+STR_5960    :{WINDOW_COLOUR_2}Colocación Cuadrante:
+STR_5961    :{WINDOW_COLOUR_2}Índice Entrada: {BLACK}{COMMA16}
+STR_5962    :{WINDOW_COLOUR_2}Detección de Colisión:
+STR_5963    :{WINDOW_COLOUR_2}Esquinas levantadas:
+STR_5964    :{WINDOW_COLOUR_2}Diagonal
+STR_5965    :{WINDOW_COLOUR_2}Tipo Entrada: {BLACK}{STRINGID}
+STR_5966    :{WINDOW_COLOUR_2}Parte Entrada del Parque: {BLACK}{STRINGID}
+STR_5967    :Medio
+STR_5968    :Izquierda
+STR_5969    :Derecha
+STR_5970    :{WINDOW_COLOUR_2}ID Entrada: {BLACK}{COMMA16}
+STR_5971    :{WINDOW_COLOUR_2}ID Salida: {BLACK}{COMMA16}
+STR_5972    :{WINDOW_COLOUR_2}ID Atracción: {BLACK}{COMMA16}
+STR_5973    :Sujetar al siguiente
+STR_5974    :{SMALLFONT}{BLACK}Cambia la altura base y el aclaramiento de modo que sea al mismo como el siguiente elemento en el mosaico actual. Hacer esto hace que sea más fácil de construir en esta baldosa.
+STR_5975    :Pendiente:
+STR_5976    :Plano
+STR_5977    :Lado derecho hacia arriba
+STR_5978    :Lado izquierdo hacia arriba
+STR_5979    :{WINDOW_COLOUR_2}Tipo de valla: {BLACK}{COMMA16}
+STR_5980    :{WINDOW_COLOUR_2}Texto de bandera: {BLACK}{STRINGID}
+STR_5981    :{WINDOW_COLOUR_2}No es una bandera
+STR_5982    :{WINDOW_COLOUR_2}Tipo de escenario grande: {BLACK}{COMMA16}
+STR_5983    :{WINDOW_COLOUR_2}ID pieza de escenario grande: {BLACK}{COMMA16}
+STR_5984    :Caminos Bloqueados:
+STR_5985    :Nueva Carpeta
+STR_5986    :Escribe el nombre de la nueva carpeta
+STR_5987    :No se puede crear la carpeta
+STR_5988    :{SMALLFONT}{BLACK}No hay más terrenos en venta.
+STR_5989    :{SMALLFONT}{BLACK}No hay más derechos de construcción en venta.
+STR_5990    :{SMALLFONT}{BLACK}No hay más terrenos o derechos de construcción en venta.
+STR_5991    :No se puede pegar el elemento...
+STR_5992    :El limite de elementos del mapa ha sido alcanzado
+STR_5993    :{SMALLFONT}{BLACK}Copiar elemento seleccionado
+STR_5994    :{SMALLFONT}{BLACK}Pegar elemento copiado
+STR_5995    :Acelerador
+STR_5996    :Velocidad de Acelerador
+STR_5997    :Añadir/Establecer dinero
+STR_5998    :Añadir dinero
+STR_5999    :Establecer dinero
+STR_6000    :Ingresa un nuevo valor
+STR_6001    :Efectos de iluminación (experimental)
+STR_6002    :{SMALLFONT}{BLACK}Las lámparas y atracciones se iluminarán por las noches.{NEWLINE}Requiere que el motor de renderizado sea establecido en el modo 'vía hardware'.
+STR_6003    :Vista recortada
+STR_6004    :Vista recortada
+STR_6005    :Habilitar vista recortada
+STR_6006    :{SMALLFONT}{BLACK}La vista recortada sólo mostrará los elementos del mapa que estén en o por debajo de la altura de corte.
+STR_6007    :Altura de corte
+STR_6008    :{SMALLFONT}{BLACK}Da clic para alternar entre el valor sin formato y el valor en unidades de medida.
+STR_6009    :{SMALLFONT}{BLACK}Selecciona la altura de corte
+STR_6010    :{COMMA2DP32}m
+STR_6011    :{COMMA1DP16}ft
+STR_6012    :{COMMA1DP16}
+STR_6013    :{SMALLFONT}{BLACK}Los visitantes sólo pagarán por la entrada del parque y los servicios.{NEWLINE}La entrada de la atracción es gratis.
+STR_6014    :{SMALLFONT}{BLACK}Los visitantes sólo pagarán por la entrada de atracciones y servicios.{NEWLINE}Los visitantes no pagan por entrar al parque.
+STR_6015    :Inclinado
+STR_6016    :Modificar Baldosa
+STR_6017    :Por favor más despacio
+STR_6018    :Construir Atrac. - Curva Izquierda
+STR_6019    :Construir Atrac. - Curva Derecha
+STR_6020    :Const. Atrac. - Usar vía por defecto
+STR_6021    :Construir Atrac. - Cuesta abajo
+STR_6022    :Construir Atrac. - Cuesta arriba
+STR_6023    :Construir Atrac. - Cadena Elevación
+STR_6024    :Construir Atrac. - Peralte Izquierdo
+STR_6025    :Construir Atrac. - Peralte Derecho
+STR_6026    :Construir Atrac. - Pieza Anterior
+STR_6027    :Construir Atrac. - Pieza Siguiente
+STR_6028    :Construir Atrac. - Construir Actual
+STR_6029    :Construir Atrac. - Demoler Actual
+STR_6030    :{SMALLFONT}{BLACK}Selector de Escenario. Haz clic en cualquier escenario del mapa para construirlo.
+STR_6031    :Descripción Servidor:
+STR_6032    :Msg. de Bienvenida:
+STR_6033    :Ruta de Instalación RCT1:
+STR_6035    :Por favor selecciona la carpeta de RCT1
+STR_6036    :{SMALLFONT}{BLACK}Borrar
+STR_6037    :Por favor selecciona una carpeta válida con una instalación de RCT1
+STR_6038    :{SMALLFONT}{BLACK}Si tienes una instalación de RCT1, establece esta opción hacia la carpeta de la instalación para cargar los escenarios, música, etc.
+STR_6039    :{SMALLFONT}{BLACK}Demoler atracción rápidamente
+STR_6040    :Editar Opciones de Escenario
+STR_6041    :{BLACK}¡No hay mecánicos contratados!
+STR_6042    :Cargar mapa de altura
+STR_6043    :Seleccionar mapa de altura
+STR_6044    :Suavizar mapa de altura
+STR_6045    :Intensidad
+STR_6046    :Normalizar mapa de altura
+STR_6047    :Suavizar baldosa
+STR_6048    :Error de mapa de altura
+STR_6049    :Error al leer PNG
+STR_6050    :Error al leer bitmap
+STR_6051    :El ancho y la altura deben ser la misma.
+STR_6052    :El mapa de altura es muy grande, será cortado.
+STR_6053    :El mapa de altura no puede ser normalizado.
+STR_6054    :Sólo bitmaps de 24-bits son soportados
 
 ##############
 # Escenarios #

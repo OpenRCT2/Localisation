@@ -2693,14 +2693,14 @@ STR_2682    :<not used anymore>
 STR_2683    :<not used anymore>
 STR_2684    :{SMALLFONT}{BLACK}Dorazí velká skupina návštěvníků
 STR_2685    :Parametry simplex noise
-STR_2686    :{WINDOW_COLOUR_2}Hloubky:
-STR_2687    :{WINDOW_COLOUR_2}Výšky:
-STR_2688    :{WINDOW_COLOUR_2}Základní frekvence:
-STR_2689    :{WINDOW_COLOUR_2}Oktávy:
+STR_2686    :Hloubky:
+STR_2687    :Výšky:
+STR_2688    :Základní frekvence:
+STR_2689    :Oktávy:
 STR_2690    :Generování mapy
-STR_2691    :{WINDOW_COLOUR_2}Výška povrchu:
-STR_2692    :{WINDOW_COLOUR_2}Výška vodní hladiny:
-STR_2693    :{WINDOW_COLOUR_2}Terén:
+STR_2691    :Výška povrchu:
+STR_2692    :Výška vodní hladiny:
+STR_2693    :Terén:
 STR_2694    :Generovat
 STR_2695    :Náhodný terén
 STR_2696    :Umístit stromy
@@ -3220,7 +3220,7 @@ STR_3207    :Návrh horské dráhy
 STR_3208    :Správa návrhů tratí
 STR_3209    :Zpět k předchozímu kroku:
 STR_3210    :Jít na následující krok:
-STR_3211    :{WINDOW_COLOUR_2}Velikost mapy:
+STR_3211    :Velikost mapy:
 STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
 STR_3213    :Mapu nelze více zmenšit
 STR_3214    :Mapu nelze více zvětšit
@@ -3491,7 +3491,7 @@ STR_5147    :Cheaty
 STR_5148    :{SMALLFONT}{BLACK}Změnit rychlost hry
 STR_5149    :{SMALLFONT}{BLACK}Zobrazit možnosti cheatů
 STR_5150    :Zapnout debug nástroje
-STR_5151    :
+STR_5151    : 
 STR_5152    :,
 STR_5153    :Upravit motivy...
 STR_5154    :Hardwarové zobrazování
@@ -3681,8 +3681,8 @@ STR_5337    :Vstup do zábavního parku
 STR_5338    :Typ prvku
 STR_5339    :Výška povrchu
 STR_5340    :Výška objektu
-STR_5341    :Vlajky
-STR_5342    :Výběr dlaždice
+STR_5341    :<removed string - do not use>
+STR_5342    :<removed string - do not use>
 STR_5343    :Automaticky umisťovat personál
 STR_5344    :Seznam změn
 STR_5345    :Cheaty financí
@@ -4006,6 +4006,7 @@ STR_5662    :N/A
 STR_5663    :Vyčistit krajinu
 STR_5664    :Cheaty
 STR_5665    :Přepínat skupinové stavění kulis
+STR_5666    :Přihlášení bez hesla
 STR_5701    :{WINDOW_COLOUR_2}Poslední akce: {BLACK}{STRINGID}
 STR_5702    :{SMALLFONT}{BLACK}Najít hráčovu poslední akci
 STR_5703    :Nelze vyhodit zakladatele hry
@@ -4117,8 +4118,8 @@ STR_5806    :Přepnout zobrazení v okně
 STR_5807    :{WINDOW_COLOUR_2}Počet atrakcí: {BLACK}{COMMA16}
 STR_5808    :{WINDOW_COLOUR_2}Počet obchodů a stánků: {BLACK}{COMMA16}
 STR_5809    :{WINDOW_COLOUR_2}Počet informačních kiosků a ostatních zařízení: {BLACK}{COMMA16}
-STR_5810    :Zrušit limit délky vlaků
-STR_5811    :{SMALLFONT}{BLACK}Pokud zaškrtnete, vlaky budou {NEWLINE}moci mít až 255 vagonů
+STR_5810    :Zrušit limit počtu vozů
+STR_5811    :{SMALLFONT}{BLACK}Pokud zaškrtnete, vlaky budou {NEWLINE}moci mít až 255 vagonů a atrakce až 31 vlaků
 STR_5812    :Zobrazit okno Hry více hráčů
 STR_5813    :{OPENQUOTES}{STRING}{ENDQUOTES}
 STR_5814    :{WINDOW_COLOUR_1}{OPENQUOTES}{STRING}{ENDQUOTES}
@@ -4168,7 +4169,179 @@ STR_5856    :{SMALLFONT}{BLACK}Nastavit rozlišení hry v režimu celé obrazovk
 STR_5857    :{SMALLFONT}{BLACK}Herní nastavení
 STR_5858    :{SMALLFONT}{BLACK}Použít GPU pro vykreslování místo CPU. Zvyšuje kompatibilitu se softwarem pro nahrávání obrazovky. Může lehce snížit výkonnost hry.
 STR_5859    :{SMALLFONT}{BLACK}Zapnout generování mezilehlých snímků{NEWLINE}pro jemnější obraz. Hra dosahuje{NEWLINE} 40 FPS, když je tato možnost zakázaná.
-
+STR_5860    :{SMALLFONT}{BLACK}Přepnout vykreslení původní/dekompilované dráhy
+STR_5861    :Selhalo ověření klíče.
+STR_5862    :Blokovat neznámé hráče.
+STR_5863    :{SMALLFONT}{BLACK}Připojit se smí pouze hráči s ověřenými klíči.
+STR_5864    :K tomuto serveru se mohou připojit jen ověření hráči.
+STR_5865    :Archivovat historii chatu
+STR_5866    :{SMALLFONT}{BLACK}Archivovat všechny zprávy chatu do souborů v domovském adresáři.
+STR_5867    :{WINDOW_COLOUR_2}Jméno provozovatele: {BLACK}{STRING}
+STR_5868    :{WINDOW_COLOUR_2}E-mail provozovatele: {BLACK}{STRING}
+STR_5869    :{WINDOW_COLOUR_2}Web provozovatele: {BLACK}{STRING}
+STR_5870    :{SMALLFONT}{BLACK}Zobrazovat informace o serveru
+STR_5871    :Nevadnoucí květiny.
+STR_5872    :{SMALLFONT}{BLACK}Vypnout stárnutí a uvadání květin.
+STR_5873    :Povolit řetězové výtahy na všech částech trati
+STR_5874    :{SMALLFONT}{BLACK}Umožní použít řetězový výtah na jakékoliv části dráhy
+STR_5875    :Vykreslovací engine:
+STR_5876    :{SMALLFONT}{BLACK}Engine, který bude použit pro vykreslování hry.
+STR_5877    :Software
+STR_5878    :Software (hardwarové zobrazování)
+STR_5879    :OpenGL (experimentální podpora)
+STR_5880    :Pouze vybrané
+STR_5881    :Pouze nevybrané
+STR_5882    :Vlastní měna
+STR_5883    :Nastavení vlastních měn
+STR_5884    :{WINDOW_COLOUR_2}Kurz: 
+STR_5885    :{WINDOW_COLOUR_2}je ekvivalentní {COMMA32} GBP (£)
+STR_5886    :{WINDOW_COLOUR_2}Značka měny:
+STR_5887    :Předpona
+STR_5888    :Přípona
+STR_5889    :Značka vlastní měny
+STR_5890    :Zadejte symbol měny
+STR_5891    :Výchozí
+STR_5892    :{SMALLFONT}{BLACK}Přejít do výchozí složky
+STR_5893    :Kurz měny
+STR_5894    :Zadejte kurz měny
+STR_5895    :Uložit trať
+STR_5896    :Nepodařilo se uložit trať!
+STR_5897    :Limit okna:
+STR_5898    :{BLACK}Nelze načíst trať - soubor neexistuje,{newline}nebo je pravděpodobně poškozen!
+STR_5899    :Přepnout okno debug vykreslování
+STR_5900    :Použít původní vykreslovací kód
+STR_5901    :Zobrazit výšky segmentů
+STR_5902    :Vykreslit okraje (bounding box)
+STR_5903    :Zobrazit okno debug vykreslování
+STR_5904    :Vynulovat datum
+STR_5905    :{SMALLFONT}{BLACK}Nástroj pro vygenerování mapy, který automaticky vytvoří charakteristickou krajinu
+STR_5906    :Přiblížovat na pozici kurzoru
+STR_5907    :{SMALLFONT}{BLACK}Přibližování bude centrovat na ukazatel myši, namísto centrování doprostřed obrazovky.
+STR_5908    :Povolit libovolné změny typu atrakce
+STR_5909    :{SMALLFONT}{BLACK}Povolí libovolné změny typu atrakce. Může způsobit pád aplikace.
+STR_5910    :Použít
+STR_5911    :Průhledné cesty
+STR_5912    :Přěpnout průhledné cesty
+STR_5913    :Chat
+STR_5914    :Neznámá atrakce
+STR_5915    :Hráč
+STR_5916    :{COMMA16} hráč
+STR_5917    :{COMMA16} hráči
+STR_5918    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_5919    :{COMMA16}
+STR_5920    :Vykreslovat efekty počasí
+STR_5921    :{SMALLFONT}{BLACK}Pokud zaškrtnete, budou během bouřek barvy ponurejší.
+STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Max {STRINGID}
+STR_5923    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Max {COMMA16} {STRINGID} / vlak
+STR_5924    :Detail povrchu
+STR_5925    :Detail cesty
+STR_5926    :Detail trati
+STR_5927    :Detail kulis
+STR_5928    :Detaily vstupu
+STR_5929    :Detaily plotu
+STR_5930    :Detaily velkých kulis
+STR_5931    :Detaily baneru
+STR_5932    :Detaily poškozených elementů
+STR_5933    :Vlastnosti
+STR_5934    :{WINDOW_COLOUR_2}Textura terénu: {BLACK}{STRINGID}
+STR_5935    :{WINDOW_COLOUR_2}Hrana terénu: {BLACK}{STRINGID}
+STR_5936    :{WINDOW_COLOUR_2}Pozemková práva: {BLACK}{STRINGID}
+STR_5937    :Není vlastněno a není na prodej
+STR_5938    :{WINDOW_COLOUR_2}Úroveň vody: {BLACK}{COMMA16}
+STR_5939    :Odebrat plot parku
+STR_5940    :Obnovit plot parku
+STR_5941    :{WINDOW_COLOUR_2}Základní výška:
+STR_5942    :{WINDOW_COLOUR_2}Jméno cesty: {BLACK}{STRINGID}
+STR_5943    :{WINDOW_COLOUR_2}Dodatky: {BLACK}{STRINGID}
+STR_5944    :{WINDOW_COLOUR_2}Dodatky: {BLACK}None
+STR_5945    :{WINDOW_COLOUR_2}Připojené hrany:
+STR_5946    :{WINDOW_COLOUR_2}Typ atrakce: {BLACK}{STRINGID}
+STR_5947    :{WINDOW_COLOUR_2}ID atrakce: {BLACK}{COMMA16}
+STR_5948    :{WINDOW_COLOUR_2}Název atrakce: {BLACK}{STRINGID}
+STR_5949    :{WINDOW_COLOUR_2}Řetězový výtah
+STR_5950    :{WINDOW_COLOUR_2}Aplikovat změny pro celou část traťi
+STR_5951    :{WINDOW_COLOUR_2}ID části traťi: {BLACK}{COMMA16}
+STR_5952    :{WINDOW_COLOUR_2}Číslo sekvence: {BLACK}{COMMA16}
+STR_5953    :{SMALLFONT}{BLACK}Seřadit elementy mapy vybrané dlaždice podle jejich základní výšky
+STR_5954    :{WINDOW_COLOUR_2}Stáří kulis: {BLACK}{COMMA16}
+STR_5955    :{WINDOW_COLOUR_2}Kvadrant umístění: {BLACK}{STRINGID}
+STR_5956    :Jihozápad
+STR_5957    :Severozápad
+STR_5958    :Severovýchod
+STR_5959    :Jihovýchod
+STR_5960    :{WINDOW_COLOUR_2}Kvadrant umístění:
+STR_5961    :{WINDOW_COLOUR_2}Index vstupu: {BLACK}{COMMA16}
+STR_5962    :{WINDOW_COLOUR_2}Detekce kolizí:
+STR_5963    :{WINDOW_COLOUR_2}Zdvihnuté rohy:
+STR_5964    :{WINDOW_COLOUR_2}Diagonální
+STR_5965    :{WINDOW_COLOUR_2}Typ vstupu: {BLACK}{STRINGID}
+STR_5966    :{WINDOW_COLOUR_2}Část vstupu do parku: {BLACK}{STRINGID}
+STR_5967    :Prostředek
+STR_5968    :Levý
+STR_5969    :Pravý
+STR_5970    :{WINDOW_COLOUR_2}ID vstupu: {BLACK}{COMMA16}
+STR_5971    :{WINDOW_COLOUR_2}ID východu: {BLACK}{COMMA16}
+STR_5972    :{WINDOW_COLOUR_2}ID atrakce: {BLACK}{COMMA16}
+STR_5973    :Omezit dalším
+STR_5974    :{SMALLFONT}{BLACK}Nastaví základní a celkovou výšku stejnou, jako je výška dalšího elementu na stejné dlaždici. To usnadní stavění na této dlaždici.
+STR_5975    :Sklon:
+STR_5976    :Rovina
+STR_5977    :Pravá strana
+STR_5978    :Levá strana
+STR_5979    :{WINDOW_COLOUR_2}Typ plotu: {BLACK}{COMMA16}
+STR_5980    :{WINDOW_COLOUR_2}Text baneru: {BLACK}{STRINGID}
+STR_5981    :{WINDOW_COLOUR_2}To není baner
+STR_5982    :{WINDOW_COLOUR_2}Typ velké kulisy: {BLACK}{COMMA16}
+STR_5983    :{WINDOW_COLOUR_2}ID velké kulisy: {BLACK}{COMMA16}
+STR_5984    :Zablokované cesty:
+STR_5985    :Nová složka
+STR_5986    :Napiště název nové složky
+STR_5987    :Nepodařilo se vytvořit složku
+STR_5988    :{SMALLFONT}{BLACK}Žádná další pozemková práva ke koupi
+STR_5989    :{SMALLFONT}{BLACK}Žádná další stavební práva ke koupi
+STR_5990    :{SMALLFONT}{BLACK}Žádná další pozemková ani stavební práva ke koupi
+STR_5991    :Nelze vložit prvek...
+STR_5992    :Dosažen limit prvků mapy
+STR_5993    :{SMALLFONT}{BLACK}Kopírovat prvek
+STR_5994    :{SMALLFONT}{BLACK}Vložit prvek
+STR_5995    :Booster
+STR_5996    :Rychlost boosteru
+STR_5997    :Přidat/nastavit peníze
+STR_5998    :Přidat peníze
+STR_5999    :Nastavit peníze
+STR_6000    :Zadejte novou hodnotu
+STR_6001    :Zapnout efekty osvětlení (experimentalní)
+STR_6002    :{SMALLFONT}{BLACK}Lampy a atrakce budou v noci svítit.{NEWLINE}Vyžaduje nastavení hardwarového vykreslování (GPU).
+STR_6003    :Seříznuté zobrazení
+STR_6004    :Seříznuté zobrazení
+STR_6005    :Povolit seříznuté zobrazení
+STR_6006    :{SMALLFONT}{BLACK}Seříznuté zobrazení vykresluje prvky mapy pouze do (včetně) dané výšky
+STR_6007    :Výška řezu
+STR_6008    :{SMALLFONT}{BLACK}Přepnout na hodnotu s/bez jednotek
+STR_6009    :{SMALLFONT}{BLACK}Zvolit výšku řezu
+STR_6010    :{COMMA2DP32}m
+STR_6011    :{COMMA1DP16}ft
+STR_6012    :{COMMA1DP16}
+STR_6013    :{SMALLFONT}{BLACK}Návštěvníci platí pouze za vstup do parku a služby. Atrakce jsou zdrarma.
+STR_6014    :{SMALLFONT}{BLACK}Návštěvníci platí pouze za služby a atrakce. Vstup do parku je zdarma.
+STR_6015    :Nakloněný
+STR_6016    :Upravit dlaždici
+STR_6017    :Zpomalte prosím
+STR_6018    :Stavba trati - zatáčka vlevo
+STR_6019    :Stavba trati - zatáčka vpravo
+STR_6020    :Stavba trati - použít výchozí díl
+STR_6021    :Stavba trati - svah dolů
+STR_6022    :Stavba trati - svah vzhůru
+STR_6023    :Stavba trati - řetězový vlek
+STR_6024    :Stavba trati - náklon vlevo
+STR_6025    :Stavba trati - náklon vpravo
+STR_6026    :Stavba trati - předchozí díl
+STR_6027    :Stavba trati - následující díl
+STR_6028    :Stavba trati - postavit aktivní část
+STR_6029    :Stavba trati - odebrat aktivní část
+STR_6030    :{SMALLFONT}{BLACK}Výběr kulis. Klikněte na jakoukoliv kulisu na mapě pro postavení její kopie.
+STR_6031    :Popis serveru:
+STR_6032    :Uvítací zpráva serveru:
 
 ###############################################################################
 ## RCT2 Objects

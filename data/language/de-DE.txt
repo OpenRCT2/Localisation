@@ -1,4 +1,4 @@
-# STR_XXXX part is read and XXXX becomes the string id number.
+﻿# STR_XXXX part is read and XXXX becomes the string id number.
 # Everything after the colon and before the new line will be saved as the string.
 # Use # at the beginning of a line to leave a comment.
 STR_0000    :
@@ -830,7 +830,7 @@ STR_0825    :Der gewählte Name wird bereits verwendet
 STR_0826    :Es sind zu viele Namen definiert
 STR_0827    :Nicht genügend Geld - erforderlich sind {CURRENCY2DP}
 STR_0828    :{SMALLFONT}{BLACK}Fenster schließen
-STR_0829    :{SMALLFONT}{BLACK}Fenstertitel - Ziehen Sie hier, um das Fenster zu verschieben
+STR_0829    :{SMALLFONT}{BLACK}Fenstertitel - Ziehen Sie hier, um{NEWLINE}das Fenster zu verschieben
 STR_0830    :{SMALLFONT}{BLACK}Ansicht heranzoomen
 STR_0831    :{SMALLFONT}{BLACK}Ansicht wegzoomen
 STR_0832    :{SMALLFONT}{BLACK}Ansicht um 90{DEGREE} im Uhrzeigersinn drehen
@@ -941,8 +941,8 @@ STR_0936    :Parkeingang im Weg
 STR_0937    :{SMALLFONT}{BLACK}Ansichtsoptionen
 STR_0938    :{SMALLFONT}{BLACK}Landhöhe und -neigung anpassen
 STR_0939    :Untergrund-/Innenansicht
-STR_0940    :Grundflächenland entfernen
-STR_0941    :Vertikale Flächen entfernen
+STR_0940    :Grundfläche ausblenden
+STR_0941    :Vertikale Flächen ausblenden
 STR_0942    :Bahnen ausblenden
 STR_0943    :Szenerie ausblenden
 STR_0944    :Speichern
@@ -1160,7 +1160,7 @@ STR_1155    :Höhenmarkierungen an Fußwegen
 STR_1156    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1157    :{TICK}{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1158    :Kann nicht entfernt werden...
-STR_1159    :{SMALLFONT}{BLACK}Platzieren Sie Szenerien, Beete und{NEWLINE}andere Objekte
+STR_1159    :{SMALLFONT}{BLACK}Platzieren Sie Szenerien, Beete{NEWLINE}und andere Objekte
 STR_1160    :{SMALLFONT}{BLACK}Seen & Wasseranlagen erstellen/anpassen
 STR_1161    :Kann hier nicht positioniert werden...
 STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
@@ -1949,7 +1949,7 @@ STR_1943    :{SMALLFONT}{BLACK}Aktuelle Gedanken dieses Besuchers anzeigen
 STR_1944    :{SMALLFONT}{BLACK}Objekte anzeigen, die der{NEWLINE}Besucher bei sich trägt
 STR_1945    :{SMALLFONT}{BLACK}Anweisungen und Optionen für diesen Mitarbeiter anzeigen
 STR_1946    :{SMALLFONT}{BLACK}Kostüm für diesen Animateur auswählen
-STR_1947    :{SMALLFONT}{BLACK}Vom Mitarbeitertyp abgelaufene{NEWLINE}Bereiche anzeigen und den nächsten{NEWLINE}Mitarbeiter suchen
+STR_1947    :{SMALLFONT}{BLACK}Vom Mitarbeitertyp abgelaufene Bereiche anzeigen und den nächsten{NEWLINE}Mitarbeiter suchen
 STR_1948    :{SMALLFONT}{BLACK}Neuen Mitarbeiter für den ausgewählten{NEWLINE}Typ einstellen
 STR_1949    :Finanzübersicht
 STR_1950    :Finanzdiagramm
@@ -2230,7 +2230,7 @@ STR_2224    :{WINDOW_COLOUR_2}Kontostand: {BLACK}{CURRENCY2DP}
 STR_2225    :{WINDOW_COLOUR_2}Kontostand: {RED}{CURRENCY2DP}
 STR_2226    :{WINDOW_COLOUR_2}Verkehrswert: {BLACK}{CURRENCY}
 STR_2227    :{WINDOW_COLOUR_2}Firmenwert: {BLACK}{CURRENCY}
-STR_2228    :{WINDOW_COLOUR_2}Gewinne des letzten Monats aus Speisen/Getränke und {NEWLINE}-Werbeartikeln: {BLACK}{CURRENCY}
+STR_2228    :{WINDOW_COLOUR_2}Gewinne des letzten Monats aus Speisen, {NEWLINE}Getränken und Werbeartikeln: {BLACK}{CURRENCY}
 STR_2229    :Anstieg bis vertikal
 STR_2230    :Vertikale Strecke
 STR_2231    :Haltebremse (Gefälle)
@@ -2506,7 +2506,7 @@ STR_2499    :Ansicht im Uhrzeigersinn drehen
 STR_2500    :Bauobjekt drehen
 STR_2501    :Sicht auf Untergrund ein/aus
 STR_2502    :Grundfläche ein/aus
-STR_2503    :Senkrechte Wand ein/aus
+STR_2503    :Vertikale Flächen ein/aus
 STR_2504    :Drahtmodelle Bahnen ein/aus
 STR_2505    :Drahtmodelle Szenerie ein/aus
 STR_2506    :Unsichtbare Stützen
@@ -2690,14 +2690,14 @@ STR_2682    :{MEDIUMFONT}{BLACK}Zw. freiem und kostenpfl. Eintritt umsch.
 STR_2683    :{MEDIUMFONT}{BLACK}Erhöht das Vergnügen der Besucher maximal
 STR_2684    :{SMALLFONT}{BLACK}Eine große Gruppe von Besuchern tritt ein
 STR_2685    :`Simplex Noise' Param.
-STR_2686    :{WINDOW_COLOUR_2}Niedrig:
-STR_2687    :{WINDOW_COLOUR_2}Hoch:
-STR_2688    :{WINDOW_COLOUR_2}Basisfrequenz:
-STR_2689    :{WINDOW_COLOUR_2}Oktaven:
+STR_2686    :Niedrig:
+STR_2687    :Hoch:
+STR_2688    :Basisfrequenz:
+STR_2689    :Oktaven:
 STR_2690    :Kartengenerierung
-STR_2691    :{WINDOW_COLOUR_2}Basishöhe:
-STR_2692    :{WINDOW_COLOUR_2}Wasserhöhe:
-STR_2693    :{WINDOW_COLOUR_2}Terrain:
+STR_2691    :Basishöhe:
+STR_2692    :Wasserhöhe:
+STR_2693    :Terrain:
 STR_2694    :Generieren
 STR_2695    :Zufälliges Terrain
 STR_2696    :Bäume platzieren
@@ -2747,7 +2747,7 @@ STR_2739    :Keine
 STR_2740    :RollerCoaster Tycoon 1
 STR_2741    :RollerCoaster Tycoon 2
 STR_2742    :css50.dat nicht gefunden
-STR_2743    :Kopieren Sie data\css17.dat aus Ihrem RCT1-Verzeichnis nach data\css50.dat in Ihrem RCT2-Verzeichnis.
+STR_2743    :Kopieren Sie data\css17.dat aus Ihrem RCT1-Verzeichnis nach data\css50.dat in Ihrem RCT2-Verzeichnis oder versichern Sie sich, dass der Pfad zur RCT1-Installation in den Optionen korrekt angegeben ist.
 STR_2744    :[
 STR_2745    :\
 STR_2746    :]
@@ -2982,7 +2982,7 @@ STR_2972    :Alternatives Farbschema 1
 STR_2973    :Alternatives Farbschema 2
 STR_2974    :Alternatives Farbschema 3
 STR_2975    :{SMALLFONT}{BLACK}Wählen Sie das Farbschema aus, das geändert oder mit dem eine Bahn gestrichen werden soll
-STR_2976    :{SMALLFONT}{BLACK}Streichen Sie einen bestimmten Bereich dieser Bahn mit dem ausgewählten Farbschema
+STR_2976    :{SMALLFONT}{BLACK}Streichen Sie einen bestimmten Bereich{NEWLINE}dieser Bahn mit dem ausgewählten Farbschema
 STR_2977    :Mitarbeitername
 STR_2978    :Neuen Namen für diesen Mitarbeiter eingeben:
 STR_2979    :Dieser Mitarbeiter kann nicht benannt werden...
@@ -3217,7 +3217,7 @@ STR_3207    :Achterbahn-Designer
 STR_3208    :Streckenentwurf-Manager
 STR_3209    :Zurück zum vorherigen Schritt:
 STR_3210    :Weiter zum nächsten Schritt:
-STR_3211    :{WINDOW_COLOUR_2}Kartengröße:
+STR_3211    :Kartengröße:
 STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
 STR_3213    :Kartengröße kann nicht mehr verkleinert werden
 STR_3214    :Kartengröße kann nicht mehr vergrößert werden
@@ -3675,8 +3675,8 @@ STR_5337    :Parkeingang
 STR_5338    :Elementtyp
 STR_5339    :{SMALLFONT}{BLACK}Basishöhe
 STR_5340    :{SMALLFONT}{BLACK}Lichte Höhe
-STR_5341    :Kennzeichen
-STR_5342    :Eine Kachel auf der Karte auswählen
+STR_5341    :<removed string - do not use>
+STR_5342    :<removed string - do not use>
 STR_5343    :Personal automatisch platzieren
 STR_5344    :Changelog
 STR_5345    :Cheats für Finanzen
@@ -4000,6 +4000,7 @@ STR_5662    :N/A
 STR_5663    :Landschaft leeren
 STR_5664    :Cheats
 STR_5665    :Bau Szenerie-Objektgruppe ein-/ausschalten
+STR_5666    :Passwortloser Login
 STR_5701    :{WINDOW_COLOUR_2}Letzte Aktion: {BLACK}{STRINGID}
 STR_5702    :{SMALLFONT}{BLACK}Lokalisiert die letzte Aktion des Spielers
 STR_5703    :Host kann nicht entfernt werden
@@ -4109,8 +4110,8 @@ STR_5806    :Fenstermodus ein-/ausschalten
 STR_5807    :{WINDOW_COLOUR_2}Anzahl der Bahnen: {BLACK}{COMMA16}
 STR_5808    :{WINDOW_COLOUR_2}Anzahl der Läden und Stände: {BLACK}{COMMA16}
 STR_5809    :{WINDOW_COLOUR_2}Anzahl der Informationsstände und anderer Einrichtungen: {BLACK}{COMMA16}
-STR_5810    :Zuglängenlimit deaktivieren
-STR_5811    :{SMALLFONT}{BLACK}Dieser Cheat ermöglicht eine Zuglänge{NEWLINE}von bis zu 255 Wagen pro Zug
+STR_5810    :Fahrzeuglimits deaktivieren
+STR_5811    :{SMALLFONT}{BLACK}Dieser Cheat ermöglicht bis zu 255 Wagen{NEWLINE}pro Zug und 31 Züge pro Bahn
 STR_5812    :Mehrspielerstatus anzeigen
 STR_5813    :{OPENQUOTES}{STRING}{ENDQUOTES}
 STR_5814    :{WINDOW_COLOUR_1}{OPENQUOTES}{STRING}{ENDQUOTES}
@@ -4135,7 +4136,7 @@ STR_5832    :{SMALLFONT}{BLACK}Zeigt Höhen als generische Einheiten,{NEWLINE}an
 STR_5833    :{SMALLFONT}{BLACK}Verändert das verwendete Datumsformat
 STR_5834    :{SMALLFONT}{BLACK}Das zu verwendende Audiogerät auswählen
 STR_5835    :{SMALLFONT}{BLACK}Schaltet das Spiel stumm, wenn das{NEWLINE}Spiel nicht mehr im Vordergrund ist
-STR_5836    :{SMALLFONT}{BLACK}Die im Hauptmenü verwendete{NEWLINE}Musik auswählen.{NEWLINE}{NEWLINE}Die RCT1-Musik erfordert das Kopieren von 'data/css17.dat',{NEWLINE}aus dem RCT1-Ordner, nach 'data/css50.dat' im{NEWLINE}RCT2-Ordner
+STR_5836    :{SMALLFONT}{BLACK}Die im Hauptmenü verwendete{NEWLINE}Musik auswählen.{NEWLINE}{NEWLINE}Die RCT1-Musik erfordert das Kopieren von 'data/css17.dat',{NEWLINE}aus dem RCT1-Ordner, nach 'data/css50.dat' im{NEWLINE}RCT2-Ordner oder versichern Sie sich, dass der Pfad zur RCT1-Installation in den Optionen korrekt angegeben ist.
 STR_5837    :{SMALLFONT}{BLACK}Benutzerdefinierte GUIs{NEWLINE}erstellen und verwalten
 STR_5838    :{SMALLFONT}{BLACK}Zeigt für die Finanzen in der Symbolleiste{NEWLINE}eine gesonderte Schaltfläche an
 STR_5839    :{SMALLFONT}{BLACK}Zeigt für die Forschung & Entwicklung{NEWLINE}in der Symbolleiste eine gesonderte Schaltfläche an
@@ -4159,6 +4160,187 @@ STR_5856    :{SMALLFONT}{BLACK}Die im Vollbildmodus verwendete{NEWLINE}Auflösun
 STR_5857    :{SMALLFONT}{BLACK}Spieloptionen
 STR_5858    :{SMALLFONT}{BLACK}GPU anstelle der CPU für die Anzeige verwenden. Verbessert die Kompatibilität mit Aufnahmeprogrammen. Möglicherweise wird die Leistung geringfügig beeinträchtigt
 STR_5859    :{SMALLFONT}{BLACK}Aktiviert Tweening für ein sichtbar flüssigeres Spielverhalten. Wenn deaktiviert läuft das Spiel mit 40 FPS
+STR_5860    :Umschalten zwischen original und dekompilierten Streckenbau
+STR_5861    :Schlüsselüberprüfung fehlgeschlagen.
+STR_5862    :Blockiere unbekannte Spieler
+STR_5863    :{SMALLFONT}{BLACK}Erlaube nur Spieler, mit bekanntem{NEWLINE}Schlüssel, sich zu verbinden
+STR_5864    :Dieser Server erlaubt nur Spieler,{NEWLINE}die auf der Whitelist / Positivliste stehen.
+STR_5865    :Chatverlauf protokollieren
+STR_5866    :{SMALLFONT}{BLACK}Speichert den gesamten Chatverlauf{NEWLINE}in Ihrem Benutzerverzeichnis
+STR_5867    :{WINDOW_COLOUR_2}Providername: {BLACK}{STRING}
+STR_5868    :{WINDOW_COLOUR_2}Provider-E-Mail-Adresse: {BLACK}{STRING}
+STR_5869    :{WINDOW_COLOUR_2}Providerwebseite: {BLACK}{STRING}
+STR_5870    :{SMALLFONT}{BLACK}Informationen zum Server anzeigen
+STR_5871    :Pflanzen altern nicht
+STR_5872    :{SMALLFONT}{BLACK}Deaktiviert das Altern von Pflanzen,{NEWLINE}sodass sie nicht verwelken
+STR_5873    :Kettenlifte auf allen Streckenst. erlauben
+STR_5874    :{SMALLFONT}{BLACK}Erlaubt es jedes Streckenstück{NEWLINE}als Kettenlift zu verwenden
+STR_5875    :Grafikschnittstelle:
+STR_5876    :{SMALLFONT}{BLACK}Die Grafikschnittstelle, die zur Darstellung{NEWLINE}des Spiels verwendet wird
+STR_5877    :Software
+STR_5878    :Software (Anzeige durch Hardware)
+STR_5879    :OpenGL (experimentell)
+STR_5880    :Ausgewählte
+STR_5881    :Nicht ausgewählte
+STR_5882    :Benutzerdefinierte Währung
+STR_5883    :Währungskonfigurator
+STR_5884    :{WINDOW_COLOUR_2}Wechselkurs:
+STR_5885    :{WINDOW_COLOUR_2}entsprechen {COMMA32} GBP (£)
+STR_5886    :{WINDOW_COLOUR_2}Währungssymbol:
+STR_5887    :Präfix
+STR_5888    :Suffix
+STR_5889    :Benutzerdefiniertes Währungssymbol
+STR_5890    :Benutzerdef. Währungssymbol eingeben:
+STR_5891    :Standard
+STR_5892    :{SMALLFONT}{BLACK}Zum Standardverzeichnis gehen
+STR_5893    :Wechselkurs
+STR_5894    :Wechselkurs eingeben:
+STR_5895    :Streckenentwurf speichern
+STR_5896    :Streckenentwurf konnte nicht gespeichert werden!
+STR_5897    :Fensterlimit:
+STR_5898    :{BLACK}Streckenentwurf konnte nicht geladen werden, da die Datei möglicherweise fehlt oder fehlerhaft ist!
+STR_5899    :Zeichen-Debugging-Fenster ein/aus
+STR_5900    :Originalen Zeichen-Code verw.
+STR_5901    :Segmenthöhen anzeigen
+STR_5902    :Rahmen anzeigen
+STR_5903    :Zeichen-Debugging-Fenster anzeigen
+STR_5904    :Datum zurücksetzen
+STR_5905    :{SMALLFONT}{BLACK}Ein Werkzeug, um Landschaften{NEWLINE}automatisch zu erstellen
+STR_5906    :Auf die Position des Mauszeigers zoomen
+STR_5907    :{SMALLFONT}{BLACK}Das Bild wird beim Zoomen auf{NEWLINE}den Mauszeiger, anstatt der{NEWLINE}Bildmitte, zentriert
+STR_5908    :Beliebiges Ändern des Bahntyps erlauben
+STR_5909    :{SMALLFONT}{BLACK}Erlaubt ein freies Ändern des Bahntyps. Verursacht möglicherweise Abstürze
+STR_5910    :Anwenden
+STR_5911    :Wege ausblenden
+STR_5912    :Wege ein-/ausblenden
+STR_5913    :Chat
+STR_5914    :Unbekannte Bahn
+STR_5915    :Spieler
+STR_5916    :{COMMA16} Spieler
+STR_5917    :{COMMA16} Spieler
+STR_5918    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_5919    :{COMMA16}
+STR_5920    :Wettereffekte darstellen
+STR_5921    :{SMALLFONT}{BLACK}Wenn aktiviert, werden Regen{NEWLINE}und düstere Farben, während{NEWLINE}eines Sturms, dargestellt
+STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Max. {STRINGID}
+STR_5923    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Max. {COMMA16} {STRINGID} pro Zug
+STR_5924    :Oberflächendetails
+STR_5925    :Wegdetails
+STR_5926    :Streckendetails
+STR_5927    :Szeneriedetails
+STR_5928    :Eingangsdetails
+STR_5929    :Zaundetails
+STR_5930    :Details große Szenerie
+STR_5931    :Bannerdetails
+STR_5932    :Details fehlerhaftes Element
+STR_5933    :Eigenschaften
+STR_5934    :{WINDOW_COLOUR_2}Geländetextur: {BLACK}{STRINGID}
+STR_5935    :{WINDOW_COLOUR_2}Geländekante: {BLACK}{STRINGID}
+STR_5936    :{WINDOW_COLOUR_2}Landbesitz: {BLACK}{STRINGID}
+STR_5937    :Nicht in Besitz und nicht zum Verkauf
+STR_5938    :{WINDOW_COLOUR_2}Wasserhöhe: {BLACK}{COMMA16}
+STR_5939    :Parkzäune entfernen
+STR_5940    :Parkzäune wiederherst.
+STR_5941    :{WINDOW_COLOUR_2}Basishöhe:
+STR_5942    :{WINDOW_COLOUR_2}Wegname: {BLACK}{STRINGID}
+STR_5943    :{WINDOW_COLOUR_2}Zusätze: {BLACK}{STRINGID}
+STR_5944    :{WINDOW_COLOUR_2}Zusätze: {BLACK}Keine
+STR_5945    :{WINDOW_COLOUR_2}Verbundene Kanten:
+STR_5946    :{WINDOW_COLOUR_2}Attraktionstyp: {BLACK}{STRINGID}
+STR_5947    :{WINDOW_COLOUR_2}Attraktions-ID: {BLACK}{COMMA16}
+STR_5948    :{WINDOW_COLOUR_2}Attraktionsname: {BLACK}{STRINGID}
+STR_5949    :{WINDOW_COLOUR_2}Kettenlift
+STR_5950    :{WINDOW_COLOUR_2}Änderungen auf gesamtes Streckenstück anwenden
+STR_5951    :{WINDOW_COLOUR_2}Streckenstück-ID: {BLACK}{COMMA16}
+STR_5952    :{WINDOW_COLOUR_2}Reihennummer: {BLACK}{COMMA16}
+STR_5953    :{SMALLFONT}{BLACK}Kartenelemente auf aktueller Kachel{NEWLINE}nach ihrer Basishöhe sortieren
+STR_5954    :{WINDOW_COLOUR_2}Szeneriealter: {BLACK}{COMMA16}
+STR_5955    :{WINDOW_COLOUR_2}Quadrantplatzierung: {BLACK}{STRINGID}
+STR_5956    :Südwest
+STR_5957    :Nordwest
+STR_5958    :Nordost
+STR_5959    :Südost
+STR_5960    :{WINDOW_COLOUR_2}Quadrantplatzierung:
+STR_5961    :{WINDOW_COLOUR_2}Eintragsindex: {BLACK}{COMMA16}
+STR_5962    :{WINDOW_COLOUR_2}Kollisionserkennung:
+STR_5963    :{WINDOW_COLOUR_2}Angehobene Ecken:
+STR_5964    :{WINDOW_COLOUR_2}Diagonal
+STR_5965    :{WINDOW_COLOUR_2}Eingangstyp: {BLACK}{STRINGID}
+STR_5966    :{WINDOW_COLOUR_2}Parkeingangsteil: {BLACK}{STRINGID}
+STR_5967    :Mitte
+STR_5968    :Links
+STR_5969    :Rechts
+STR_5970    :{WINDOW_COLOUR_2}Eingangs-ID: {BLACK}{COMMA16}
+STR_5971    :{WINDOW_COLOUR_2}Ausgangs-ID: {BLACK}{COMMA16}
+STR_5972    :{WINDOW_COLOUR_2}Attraktions-ID: {BLACK}{COMMA16}
+STR_5973    :An nächsten heften
+STR_5974    :{SMALLFONT}{BLACK}Ändert die Basis- und lichte Höhe, sodass{NEWLINE}sie der des nächsten Elements auf der aktuellen Kachel entspricht entspricht
+STR_5975    :Steigung:
+STR_5976    :Flach
+STR_5977    :Rechte Seite hoch
+STR_5978    :Linke Seite hoch
+STR_5979    :{WINDOW_COLOUR_2}Zauntyp: {BLACK}{COMMA16}
+STR_5980    :{WINDOW_COLOUR_2}Bannertext: {BLACK}{STRINGID}
+STR_5981    :{WINDOW_COLOUR_2}Kein Banner
+STR_5982    :{WINDOW_COLOUR_2}Großer Szenerietyp: {BLACK}{COMMA16}
+STR_5983    :{WINDOW_COLOUR_2}Großes Szeneriestück-ID: {BLACK}{COMMA16}
+STR_5984    :Blockierte Wege:
+STR_5985    :Neuer Ordner
+STR_5986    :Name des neuen Ordners eingeben:
+STR_5987    :Ordner konnte nicht erstellt werden
+STR_5988    :{SMALLFONT}{BLACK}Keine verbleibenden Landrechte zum Verkauf
+STR_5989    :{SMALLFONT}{BLACK}Keine verbleibenden Baurechte zum Verkauf
+STR_5990    :{SMALLFONT}{BLACK}Keine verbleibenden Land- oder{NEWLINE}Baurechte zum Verkauf
+STR_5991    :Kann Element nicht einfügen...
+STR_5992    :Das Limit der Kartenelemente wurde erreicht
+STR_5993    :{SMALLFONT}{BLACK}Ausgewähltes Element kopieren
+STR_5994    :{SMALLFONT}{BLACK}Kopiertes Element einfügen
+STR_5995    :Zusatzantrieb
+STR_5996    :Antriebsgeschwindigkeit
+STR_5997    :Geld hinzufügen/festlegen
+STR_5998    :Geld hinzufügen
+STR_5999    :Geld festlegen
+STR_6000    :Neuen Wert eingeben:
+STR_6001    :Beleuchtungseffekte aktivieren (experimentell)
+STR_6002    :{SMALLFONT}{BLACK}Lampen und Bahnen werden nachts beleuchtet.{NEWLINE}Die Grafikschnittstelle muss hierfür auf "Anzeige durch Hardware" eingestellt sein.
+STR_6003    :Schnittansicht
+STR_6004    :Schnittansicht
+STR_6005    :Schnittansicht aktivieren
+STR_6006    :{SMALLFONT}{BLACK}Die Schnittansicht zeigt nur Kartenelemente auf oder unterhalb der Schnitthöhe.
+STR_6007    :Schnitthöhe:
+STR_6008    :{SMALLFONT}{BLACK}Zum Umschalten zwischen Rohwert<->Maßeinheit klicken.
+STR_6009    :{SMALLFONT}{BLACK}Schnitthöhe auswählen
+STR_6010    :{COMMA2DP32}m
+STR_6011    :{COMMA1DP16}ft
+STR_6012    :{COMMA1DP16}
+STR_6013    :{SMALLFONT}{BLACK}Gäste zahlen lediglich den Eintritt zum Park.{NEWLINE}Die Attraktionen sind kostenfrei.
+STR_6014    :{SMALLFONT}{BLACK}Gäste zahlen lediglich für Attraktionen und Service.{NEWLINE}Der Eintritt in den Park ist kostenfrei.
+STR_6015    :Geneigt
+STR_6016    :Modifiziere Kachel
+STR_6017    :Bitte verlangsamen Sie Ihr Tempo
+STR_6018    :Streckenbau - Bogen links
+STR_6019    :Streckenbau - Bogen rechts
+STR_6020    :Streckenbau - Verwende Standard Abschnitt
+STR_6021    :Streckenbau - Neigung unten
+STR_6022    :Streckenbau - Neigung Oben
+STR_6023    :Streckenbau - Umschalten Kettenlift
+STR_6024    :Streckenbau - Überhöhung links
+STR_6025    :Streckenbau - Überhöhung rechts
+STR_6026    :Streckenbau - Vorausgehender Abschnitt
+STR_6027    :Streckenbau - Nächster Abschnitt
+STR_6028    :Streckenbau - Aktuellen Abschnitt platzieren
+STR_6029    :Streckenbau - Aktuellen Abschnitt abreißen
+STR_6030    :{SMALLFONT}{BLACK}Landschaftsauswahl. Wählen Sie ein Landschaftselement auf der Karte aus, und verwenden Sie es zum Platzieren.
+STR_6031    :Serverbeschreibung:
+STR_6032    :Serverbegrüßung:
+STR_6033    :Pfad zur RCT1-Installation:
+STR_6035    :Bitte wählen Sie ein RCT1-Verzeichnis
+STR_6036    :{SMALLFONT}{BLACK}Leeren
+STR_6037    :Bitte wählen Sie ein valides RCT1-Verzeichnis
+STR_6038    :{SMALLFONT}{BLACK}Falls Sie RCT1 installiert haben, setzen Sie diese Option zum Laden von Scenarios, Musik, usw. 
+STR_6039    :{SMALLFONT}{BLACK}Schnellabriss
+STR_6040    :Bearbeite Szenariooptionen
+STR_6041    :{BLACK}Es sind keine Mechaniker eingestellt! 
 
 #############
 # Scenarios #
