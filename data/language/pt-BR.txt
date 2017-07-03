@@ -1815,7 +1815,7 @@ STR_1809    :{WINDOW_COLOUR_2}Quebra atual: {OUTLINE}{RED}{STRINGID}
 STR_1810    :{WINDOW_COLOUR_2}Transportando:
 STR_1811    :Impossível construir isto aqui...
 STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
-STR_1813    :Objetos váriados
+STR_1813    :Objetos variados
 STR_1814    :Ações
 STR_1815    :Pensamentos
 STR_1816    :{SMALLFONT}{BLACK}Selecione o tipo de informação para mostrar na lista de visitantes
@@ -2691,14 +2691,14 @@ STR_2682    :<not used anymore>
 STR_2683    :<not used anymore>
 STR_2684    :{SMALLFONT}{BLACK}Um grande grupo de visitantes está chegando
 STR_2685    :Parâmetros de ruído simples
-STR_2686    :{WINDOW_COLOUR_2}Baixo:
-STR_2687    :{WINDOW_COLOUR_2}Alto:
-STR_2688    :{WINDOW_COLOUR_2}Frequência base:
-STR_2689    :{WINDOW_COLOUR_2}Oitavas:
+STR_2686    :Baixo:
+STR_2687    :Alto:
+STR_2688    :Frequência base:
+STR_2689    :Oitavas:
 STR_2690    :Gerador de Mapa
-STR_2691    :{WINDOW_COLOUR_2}Altura da base:
-STR_2692    :{WINDOW_COLOUR_2}Nível de água:
-STR_2693    :{WINDOW_COLOUR_2}Terreno:
+STR_2691    :Altura da base:
+STR_2692    :Nível de água:
+STR_2693    :Terreno:
 STR_2694    :Gerar
 STR_2695    :Terreno aleatório
 STR_2696    :Colocar árvores
@@ -2748,7 +2748,7 @@ STR_2739    :Nenhum
 STR_2740    :RollerCoaster Tycoon 1
 STR_2741    :RollerCoaster Tycoon 2
 STR_2742    :css50.dat não encontrado
-STR_2743    :Copie data\css17.dat da instalação do seu RCT1 para data\css50.dat na sua pasta de instalação do RCT2.
+STR_2743    :Copie data\css17.dat da instalação do seu RCT1 para data\css50.dat na sua pasta de instalação do RCT2, ou tenha certeza que o caminho para o RCT1 na aba Variados está correto.
 STR_2744    :[
 STR_2745    :\
 STR_2746    :]
@@ -3218,7 +3218,7 @@ STR_3207    :Construtor de Montanha-Russa
 STR_3208    :Gerenciador de Projetos de Pista
 STR_3209    :Voltar para o Passo Anterior:
 STR_3210    :Avançar para o Próximo Passo:
-STR_3211    :{WINDOW_COLOUR_2}Tamanho do Mapa:
+STR_3211    :Tamanho do Mapa:
 STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
 STR_3213    :Impossível diminuir ainda mais o tamanho do mapa
 STR_3214    :Impossível aumentar ainda mais o tamanho do mapa
@@ -4033,8 +4033,8 @@ STR_5724    :Tempestade
 STR_5725    :{BLACK}Forçar clima:
 STR_5726    :{SMALLFONT}{BLACK}Define o clima atual no parque
 STR_5727    :Qualidade da escala
-STR_5728    :Requer opção de exibição de hardware
-STR_5729    :{SMALLFONT}{BLACK}Requer opção de exibição de hardware
+STR_5728    :Requer opção de exibição por hardware
+STR_5729    :{SMALLFONT}{BLACK}Requer opção de exibição por hardware
 STR_5730    :Vizinho mais próximo
 STR_5731    :Linear
 STR_5732    :Anisotrópica
@@ -4125,9 +4125,9 @@ STR_5814    :{WINDOW_COLOUR_1}{OPENQUOTES}{STRING}{ENDQUOTES}
 #tooltips
 STR_5815    :{SMALLFONT}{BLACK}Mostra o contador de FPS dentro do jogo
 STR_5816    :{SMALLFONT}{BLACK}Define a proporção de dimensionamento do jogo.{NEWLINE}Mais útil quando está jogando em{NEWLINE}alta resolução
-STR_5817    :{SMALLFONT}{BLACK}[Requer exibição de hardware]{NEWLINE}Define o tipo de escala da interface de usuário
-STR_5818    :{SMALLFONT}{BLACK}[Requer exibição de hardware]{NEWLINE}Usa a escala do vizinho mais próximo{NEWLINE}quando o fator de escala da janela está definido{NEWLINE}com valores integrais (1, 2, 3, etc)
-STR_5819    :{SMALLFONT}{BLACK}[Requer exibição de hardware]{NEWLINE}Pausa o jogo quando a interface da Steam{NEWLINE}estiver sobrepondo durante o jogo
+STR_5817    :{SMALLFONT}{BLACK}[Requer exibição por hardware]{NEWLINE}Define o tipo de escala da interface de usuário
+STR_5818    :{SMALLFONT}{BLACK}[Requer exibição por hardware]{NEWLINE}Usa a escala do vizinho mais próximo{NEWLINE}quando o fator de escala da janela está definido{NEWLINE}com valores integrais (1, 2, 3, etc)
+STR_5819    :{SMALLFONT}{BLACK}[Requer exibição por hardware]{NEWLINE}Pausa o jogo quando a interface da Steam{NEWLINE}estiver sobrepondo durante o jogo
 STR_5820    :{SMALLFONT}{BLACK}Minimiza o jogo se o foco for{NEWLINE}perdido enquanto estiver em modo tela cheia
 STR_5821    :{SMALLFONT}{BLACK}Muda a cor do marcador de construção enquanto estiver construindo atrações,{NEWLINE}caminhos, lojas, cenário, etc.
 STR_5822    :{SMALLFONT}{BLACK}Alterna entre dia e noite.{NEWLINE}Ciclo completo leva um mês do jogo
@@ -4144,7 +4144,7 @@ STR_5832    :{SMALLFONT}{BLACK}Mostra altura como unidade genérica ao invés de
 STR_5833    :{SMALLFONT}{BLACK}Muda qual formato de data é usado
 STR_5834    :{SMALLFONT}{BLACK}Seleciona qual dispositivo de audio o OpenRCT2 irá usar
 STR_5835    :{SMALLFONT}{BLACK}Deixa o jogo mudo se a janela perder foco
-STR_5836    :{SMALLFONT}{BLACK}Seleciona música que será usada no menu principal.{NEWLINE}Selecionar o tema do RCT requer que você copie 'data/css17.dat' da pasta do seu RCT para 'data/css50.dat' da pasta do seu RCT2.
+STR_5836    :{SMALLFONT}{BLACK}Seleciona música que será usada no menu principal.{NEWLINE}Selecionar o tema do RCT1 requer que você copie 'data/css17.dat' da pasta do seu RCT1 para 'data/css50.dat' da pasta do seu RCT2, ou definir o caminho para o RCT1 na aba Variados.
 STR_5837    :{SMALLFONT}{BLACK}Cria e gerencia temas de interface de usuário personalizadas
 STR_5838    :{SMALLFONT}{BLACK}Mostra um botão separado para janela de finanças na barra de ferramentas
 STR_5839    :{SMALLFONT}{BLACK}Mostra um botão separado para janela de pesquisa e desenvolvimento na barra de ferramentas
@@ -4309,6 +4309,127 @@ STR_5997    :Adicionar/definir dinheiro
 STR_5998    :Adicionar dinheiro
 STR_5999    :Definir dinheiro
 STR_6000    :Inserir novo valor
+STR_6001    :Habilitar efeitos de iluminação (experimental)
+STR_6002    :{SMALLFONT}{BLACK}Lâmpadas e atrações acenderão a noite.{NEWLINE}Requer que o motor de renderização esteja definido em exibição por hardware.
+STR_6003    :Cortar Visão
+STR_6004    :Cortar Visão
+STR_6005    :Habilitar corte de visão
+STR_6006    :{SMALLFONT}{BLACK}Corte de visão somente mostra elementos do mapa na altura ou abaixo da altura de corte
+STR_6007    :Altura de corte
+STR_6008    :{SMALLFONT}{BLACK}Clique para alternar o valor bruto<->valor em unidades de medida
+STR_6009    :{SMALLFONT}{BLACK}Selecione altura de corte
+STR_6010    :{COMMA2DP32}m
+STR_6011    :{COMMA1DP16}ft
+STR_6012    :{COMMA1DP16}
+STR_6013    :{SMALLFONT}{BLACK}Visitantes pagarão apenas o ingresso para entrar no parque e serviços.{NEWLINE}Entrada das atrações são grátis.
+STR_6014    :{SMALLFONT}{BLACK}Visitantes pagarão apenas o ingresso para entrar nas atrações e serviços.{NEWLINE}Eles não pagarão nada para entrar no parque.
+STR_6015    :Inclinado
+STR_6016    :Modificar Azulejo
+STR_6017    :Por favor diminua a velocidade
+STR_6018    :Construção da atração - Virar à esquerda
+STR_6019    :Construção da atração - Virar à direita
+STR_6020    :Construção da atração - Usar pista padrão
+STR_6021    :Construção da atração - Inclinar para baixo
+STR_6022    :Construção da atração - Inclinar para cima
+STR_6023    :Construção da atração - Alternar corrente de elevação
+STR_6024    :Construção da atração - Torcer para a esquerda
+STR_6025    :Construção da atração - Torcer para a direita
+STR_6026    :Construção da atração - Peça anterior
+STR_6027    :Construção da atração - Próxima peça
+STR_6028    :Construção da atração - Construir atual
+STR_6029    :Construção da atração - Demolir atual
+STR_6030    :{SMALLFONT}{BLACK}Apanhador de cenário. Clique em qualquer cenário do mapa para selecionar a mesma peça para construção.
+STR_6031    :Descrição do Servidor:
+STR_6032    :Saudação do Servidor:
+STR_6033    :Caminho para a instalação do RCT1:
+STR_6034    :{SMALLFONT}{BLACK}{STRING}
+STR_6035    :Por favor selecione o diretório do seu RCT1
+STR_6036    :{SMALLFONT}{BLACK}Limpar
+STR_6037    :Por favor seleciona um diretório válido do RCT1
+STR_6038    :{SMALLFONT}{BLACK}Se você instalou o RCT1, defina esta opção para seu diretório para carregar cenários, músicas, etc.
+STR_6039    :{SMALLFONT}{BLACK}Demole atração rapidamente
+STR_6040    :Editar Opções do Cenário
+STR_6041    :{BLACK}Não há mecânicos contratados!
+STR_6042    :Carregar altura do mapa
+STR_6043    :Selecionar altura do mapa
+STR_6044    :Suavizar altura do mapa
+STR_6045    :Força
+STR_6046    :Normalizar altura do mapa
+STR_6047    :Suavizar azulejos
+STR_6048    :Erro de altura de mapa
+STR_6049    :Erro ao ler PNG
+STR_6050    :Erro ao ler bitmap
+STR_6051    :A largura e a altura precisam combinar
+STR_6052    :A altura do mapa é muito grande, e será cortada
+STR_6053    :A altura do mapa não pode ser normalizada
+STR_6054    :Apenas bitmaps de 24-bit são suportados
+STR_6055    :Arquivo OpenRCT2 de altura de mapa
+STR_6056    :{SMALLFONT}{BLACK}Mudo
+STR_6057    :{SMALLFONT}{BLACK}Mostrar na barra de ferramentas um botão separado para a opção Mudo
+STR_6058    :Mudo
+STR_6059    :{RIGHTGUILLEMET}
+STR_6060    :Mostrar compras do visitante como animação
+STR_6061    :{SMALLFONT}{BLACK}Mostra efeito animado de dinheiro{NEWLINE}quando visitantes fazem compras.
+STR_6062    :{OUTLINE}{GREEN}+ {CURRENCY2DP}
+STR_6063    :{OUTLINE}{RED}- {CURRENCY2DP}
+STR_6064    :Own all land
+STR_6065    :Registrar ações do usuário
+STR_6066    :{SMALLFONT}{BLACK}Registra todas as ações do usuário em arquivos no diretório do usuário.
+STR_6067    :Servidor iniciado.
+STR_6068    :Servidor desligado.
+STR_6069    :{STRING} foi chutado do servidor por {STRING}.
+STR_6070    :{STRING} foi definido para grupo'{STRING}' por {STRING}.
+STR_6071    :{STRING} criou novo grupo de jogadores '{STRING}'.
+STR_6072    :{STRING} deletou grupo de jogadores '{String}'.
+STR_6073    :{STRING} editou permissões para grupo de jogadores '{String}'.
+STR_6074    :{STRING} mudou nome do grupo de jogadores de '{String}' para '{String}'.
+STR_6075    :{STRING} mudou grupo de jogadores padrão para '{String}'.
+STR_6076    :{STRING} usou/alternou trapaça '{STRING}'.
+STR_6077    :Adicionar Dinheiro
+STR_6078    :{STRING} criou atração '{STRING}'.
+STR_6079    :{STRING} demoliu atração '{STRING}'.
+STR_6080    :{STRING} mudou aparência da atração '{STRING}'.
+STR_6081    :{STRING} mudou o status da atração '{STRING}' para fechado.
+STR_6082    :{STRING} mudou o status da atração '{STRING}' para aberto.
+STR_6083    :{STRING} mudou o status da atração '{STRING}' para testando.
+STR_6084    :{STRING} mudou configurações de veículo da atração '{STRING}'.
+STR_6085    :{STRING} mudou configurações de atração da atração '{STRING}'.
+STR_6086    :{STRING} renomeou atração de '{STRING}' para '{STRING}'.
+STR_6087    :{STRING} mudou preço da atração '{STRING}' para {STRING}
+STR_6088    :{STRING} mudou preço secundário da atração '{STRING}' para {STRING}
+STR_6089    :{STRING} renomeou o parque de '{STRING}' para '{STRING}'.
+STR_6090    :{STRING} abriu o parque.
+STR_6091    :{STRING} fechou o parque.
+STR_6092    :{STRING} mudou taxa de entrada do parque para {STRING}
+STR_6093    :{STRING} colocou novo cenário.
+STR_6094    :{STRING} removeu cenário.
+STR_6095    :{STRING} editou cenário.
+STR_6096    :{STRING} definiu nome da placa para '{STRING}'.
+STR_6097    :{STRING} adicionou uma pista da atração '{STRING}'.
+STR_6098    :{STRING} removeu uma pista da atração.
+STR_6099    :Você conectou ao servidor.
+STR_6100    :Você desconectou do servidor.
+STR_6101    :Atrações não perdem valor ao longo do tempo
+STR_6102    :{SMALLFONT}{BLACK}O valor de uma atração não diminuirá com o tempo, então visitantes não pensarão de repente que uma atração é muito cara.
+STR_6103    :{SMALLFONT}{BLACK}Esta opção é desabilitada durante jogo de rede.
+STR_6104    :Montanha-Russa Parafuso
+STR_6105    :Hipermontanha
+STR_6106    :Passeio de carro
+STR_6107    :Caminhões Monstruosos
+STR_6108    :Tornado de Aço
+STR_6109    :Hiper-Tornado
+STR_6110    :Montanha-Russa Júnior
+STR_6111    :Montanha-Russa Midi
+STR_6112    :Uma montanha russa de aço compacta onde trens viajam por parafusos e loops
+STR_6113    :Uma montanha russa alta que não inverte com grandes quedas, alta velocidade, e trens confortáveis com apenas uma trava de colo
+STR_6114    :Passageiros viajam devagar em veículos eletrizados ao longo de uma rota baseada em pista
+STR_6115    :Gigantes caminhões 4x4 eletrizados que podem subir colinas íngrimes
+STR_6116    :Trens largos de montanha russa deslizam ao longo de um trilho suave de aço, viajando por uma variedade de inversões
+STR_6117    :Sentados em trens confortáveis com apenas trava de colo, passageiros se divertem em gigantes quedas suaves e trilhos torcidos, bem como muitos "tempos no ar" pelas colinas.
+STR_6118    :Uma montanha russa suave para pessoas que ainda não criaram coragem para encarar atrações maiores
+STR_6119    :Uma montanha russa barata e fácil de construir, mas com um limite de altura
+STR_6120    :{BABYBLUE}Novo veículo disponível agora para {STRINGID}:{NEWLINE}{STRINGID}
+
 
 STR_6012    :{COMMA1DP16}
 
@@ -4758,8 +4879,20 @@ STR_DTLS    :
 # Rides/attractions # 
 #####################
 
+#RCT2
+[TOPSP1]
+STR_NAME    :Top Spin
+STR_DESC    :Passageiros brincam numa gôndola suspensa por grandes braços rotatórios, rodando de pernas para o ar para frente e para trás 
+STR_CPTY    :8 passageiros
+
 #WW
 [CONDORRD]
 STR_NAME    :Condor
-STR_DESC    :Montando em arreios especiais sob a pista, os passageiros experimentarão a sensação de voar pelo ar em uma estrutura na forma de Condor
+STR_DESC    :Montando em travas especiais sob a pista, os passageiros experimentarão a sensação de voar pelo ar em uma estrutura na forma de Condor
 STR_CPTY    :4 passageiros por carro
+
+#WW
+[CONGAEEL]
+STR_NAME    :Montanha-Russa Enguia Conger
+STR_DESC    :Uma montanha russa de aço compacta onde trens com formato de enguia viajam por parafusos e loops
+STR_CPTY    :4 passengers por carro

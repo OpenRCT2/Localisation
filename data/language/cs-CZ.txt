@@ -2693,14 +2693,14 @@ STR_2682    :<not used anymore>
 STR_2683    :<not used anymore>
 STR_2684    :{SMALLFONT}{BLACK}Dorazí velká skupina návštěvníků
 STR_2685    :Parametry simplex noise
-STR_2686    :{WINDOW_COLOUR_2}Hloubky:
-STR_2687    :{WINDOW_COLOUR_2}Výšky:
-STR_2688    :{WINDOW_COLOUR_2}Základní frekvence:
-STR_2689    :{WINDOW_COLOUR_2}Oktávy:
+STR_2686    :Hloubky:
+STR_2687    :Výšky:
+STR_2688    :Základní frekvence:
+STR_2689    :Oktávy:
 STR_2690    :Generování mapy
-STR_2691    :{WINDOW_COLOUR_2}Výška povrchu:
-STR_2692    :{WINDOW_COLOUR_2}Výška vodní hladiny:
-STR_2693    :{WINDOW_COLOUR_2}Terén:
+STR_2691    :Výška povrchu:
+STR_2692    :Výška vodní hladiny:
+STR_2693    :Terén:
 STR_2694    :Generovat
 STR_2695    :Náhodný terén
 STR_2696    :Umístit stromy
@@ -2750,7 +2750,7 @@ STR_2739    :Žádná
 STR_2740    :RollerCoaster Tycoon 1
 STR_2741    :RollerCoaster Tycoon 2
 STR_2742    :css50.dat nenalezen
-STR_2743    :Nakopírujte data\css17.dat z vaší instalace RCT1 do to data\css50.dat ve vaší instalaci RCT2.
+STR_2743    :Nakopírujte 'data/css17.dat' z vaší instalace RCT1 do 'data/css50.dat' ve vaší instalaci RCT2.
 STR_2744    :[
 STR_2745    :\
 STR_2746    :]
@@ -3220,7 +3220,7 @@ STR_3207    :Návrh horské dráhy
 STR_3208    :Správa návrhů tratí
 STR_3209    :Zpět k předchozímu kroku:
 STR_3210    :Jít na následující krok:
-STR_3211    :{WINDOW_COLOUR_2}Velikost mapy:
+STR_3211    :Velikost mapy:
 STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
 STR_3213    :Mapu nelze více zmenšit
 STR_3214    :Mapu nelze více zvětšit
@@ -3491,7 +3491,7 @@ STR_5147    :Cheaty
 STR_5148    :{SMALLFONT}{BLACK}Změnit rychlost hry
 STR_5149    :{SMALLFONT}{BLACK}Zobrazit možnosti cheatů
 STR_5150    :Zapnout debug nástroje
-STR_5151    :
+STR_5151    : 
 STR_5152    :,
 STR_5153    :Upravit motivy...
 STR_5154    :Hardwarové zobrazování
@@ -4145,7 +4145,7 @@ STR_5832    :{SMALLFONT}{BLACK}Výškové jednotky zobrazit pouze číslem, bez 
 STR_5833    :{SMALLFONT}{BLACK}Změní formát data
 STR_5834    :{SMALLFONT}{BLACK}Vyberte zvukové zařízení pro použití v OpenRCT2
 STR_5835    :{SMALLFONT}{BLACK}Zakázat zvuky, pokud herní okno přestane být aktivní
-STR_5836    :{SMALLFONT}{BLACK}Vyberte hudbu, která bude hrát na úvodní obrazovce.{NEWLINE}Výběr RCT1 znělky vyžaduje zkopírování a přejmenování 'data/css17.dat' ze složky RCT1 jako 'data/css50.dat' do vaší RCT2 složky.
+STR_5836    :{SMALLFONT}{BLACK}Vyberte hudbu, která bude hrát na úvodní obrazovce.{NEWLINE}Výběr RCT1 znělky vyžaduje zkopírování a přejmenování 'data/css17.dat' ze složky RCT1 jako 'data/css50.dat' do vaší RCT2 složky, nebo nastavení cesty k RCT1 v nastavení.
 STR_5837    :{SMALLFONT}{BLACK}Vytvořit a spravovat vlastní barevné palety UI
 STR_5838    :{SMALLFONT}{BLACK}Zobrazit samostatné tlačítko pro financí na nástrojové liště
 STR_5839    :{SMALLFONT}{BLACK}Zobrazit samostatné tlačítko pro výzkum a vývoj na nástrojové liště
@@ -4169,6 +4169,7 @@ STR_5856    :{SMALLFONT}{BLACK}Nastavit rozlišení hry v režimu celé obrazovk
 STR_5857    :{SMALLFONT}{BLACK}Herní nastavení
 STR_5858    :{SMALLFONT}{BLACK}Použít GPU pro vykreslování místo CPU. Zvyšuje kompatibilitu se softwarem pro nahrávání obrazovky. Může lehce snížit výkonnost hry.
 STR_5859    :{SMALLFONT}{BLACK}Zapnout generování mezilehlých snímků{NEWLINE}pro jemnější obraz. Hra dosahuje{NEWLINE} 40 FPS, když je tato možnost zakázaná.
+STR_5860    :{SMALLFONT}{BLACK}Přepnout vykreslení původní/dekompilované dráhy
 STR_5861    :Selhalo ověření klíče.
 STR_5862    :Blokovat neznámé hráče.
 STR_5863    :{SMALLFONT}{BLACK}Připojit se smí pouze hráči s ověřenými klíči.
@@ -4303,6 +4304,134 @@ STR_5991    :Nelze vložit prvek...
 STR_5992    :Dosažen limit prvků mapy
 STR_5993    :{SMALLFONT}{BLACK}Kopírovat prvek
 STR_5994    :{SMALLFONT}{BLACK}Vložit prvek
+STR_5995    :Booster
+STR_5996    :Rychlost boosteru
+STR_5997    :Přidat/nastavit peníze
+STR_5998    :Přidat peníze
+STR_5999    :Nastavit peníze
+STR_6000    :Zadejte novou hodnotu
+STR_6001    :Zapnout efekty osvětlení (experimentalní)
+STR_6002    :{SMALLFONT}{BLACK}Lampy a atrakce budou v noci svítit.{NEWLINE}Vyžaduje nastavení hardwarového vykreslování (GPU).
+STR_6003    :Seříznuté zobrazení
+STR_6004    :Seříznuté zobrazení
+STR_6005    :Povolit seříznuté zobrazení
+STR_6006    :{SMALLFONT}{BLACK}Seříznuté zobrazení vykresluje prvky mapy pouze do (včetně) dané výšky
+STR_6007    :Výška řezu
+STR_6008    :{SMALLFONT}{BLACK}Přepnout na hodnotu s/bez jednotek
+STR_6009    :{SMALLFONT}{BLACK}Zvolit výšku řezu
+STR_6010    :{COMMA2DP32}m
+STR_6011    :{COMMA1DP16}ft
+STR_6012    :{COMMA1DP16}
+STR_6013    :{SMALLFONT}{BLACK}Návštěvníci platí pouze za vstup do parku a služby. Atrakce jsou zdrarma.
+STR_6014    :{SMALLFONT}{BLACK}Návštěvníci platí pouze za služby a atrakce. Vstup do parku je zdarma.
+STR_6015    :Nakloněný
+STR_6016    :Upravit dlaždici
+STR_6017    :Zpomalte prosím
+STR_6018    :Stavba trati - zatáčka vlevo
+STR_6019    :Stavba trati - zatáčka vpravo
+STR_6020    :Stavba trati - použít výchozí díl
+STR_6021    :Stavba trati - svah dolů
+STR_6022    :Stavba trati - svah vzhůru
+STR_6023    :Stavba trati - řetězový vlek
+STR_6024    :Stavba trati - náklon vlevo
+STR_6025    :Stavba trati - náklon vpravo
+STR_6026    :Stavba trati - předchozí díl
+STR_6027    :Stavba trati - následující díl
+STR_6028    :Stavba trati - postavit aktivní část
+STR_6029    :Stavba trati - odebrat aktivní část
+STR_6030    :{SMALLFONT}{BLACK}Výběr kulis. Klikněte na jakoukoliv kulisu na mapě pro postavení její kopie.
+STR_6031    :Popis serveru:
+STR_6032    :Uvítací zpráva serveru:
+STR_6033    :Cesta k RCT1 instalaci:
+STR_6034    :{SMALLFONT}{BLACK}{STRING}
+STR_6035    :Prosím vyberte složku s RCT1
+STR_6036    :{SMALLFONT}{BLACK}Zrušit
+STR_6037    :Prosím vyberte správnou složku s RCT1
+STR_6038    :{SMALLFONT}{BLACK}Pokud máte nainstalovaný RCT1, použijte tuto volbu k nastavení cesty k RCT1 pro možnost nahrání scénářů, hudby a dalších.
+STR_6039    :{SMALLFONT}{BLACK}Rychle odebrat atrakci
+STR_6040    :Upravit nastavení scénáře
+STR_6041    :{BLACK}Nemáte najmuté žádné mechaniky!
+STR_6042    :Načíst výškovou mapu
+STR_6043    :Vybrat výškovou mapu
+STR_6044    :Vyhladit výškovou mapu
+STR_6045    :Síla
+STR_6046    :Normalizovat výškovou mapu
+STR_6047    :Vyhladit dlaždice
+STR_6048    :Chyba výškové mapy
+STR_6049    :Chyba při čtení PNG
+STR_6050    :Chyba při čtení bitmapy
+STR_6051    :Šířka a výška musí být stejné
+STR_6052    :Výšková mapa je moc velká a bude oříznuta
+STR_6053    :Výškovou mapu nelze normalizovat
+STR_6054    :Podporovány jsou pouze 24-bitové bitmapy
+STR_6055    :Soubor výškové mapy OpenRCT2
+STR_6056    :{SMALLFONT}{BLACK}Ztlumit
+STR_6057    :{SMALLFONT}{BLACK}Na nástrojové liště zobrazovat samostatné tlačítko "Ztlumit"
+STR_6058    :Ztlumit
+STR_6059    :{RIGHTGUILLEMET}
+STR_6060    :Povolit animaci při nákupu návštěvníků
+STR_6061    :{SMALLFONT}{BLACK}Zobrazit animovaný efekt peněz, když návštěvníci platí.
+STR_6062    :{OUTLINE}{GREEN}+ {CURRENCY2DP}
+STR_6063    :{OUTLINE}{RED}- {CURRENCY2DP}
+STR_6064    :Vlastnit všechny pozemky
+STR_6065    :Ukládat aktivitu uživatele
+STR_6066    :{SMALLFONT}{BLACK}Ukládat aktivitu uživatelů do souborů ve Vašem domovském adresáři.
+STR_6067    :Server spuštěn.
+STR_6068    :Server zastaven.
+STR_6069    :Uživatel {STRING} byl vyhozen ze hry uživatelem {STRING}.
+STR_6070    :Uživatel {STRING} byl přidán do skupiny '{STRING}' uživatelem {STRING}.
+STR_6071    :Uživatel {STRING} vytvořil novou skupinu '{STRING}'.
+STR_6072    :Uživatel {STRING} smazal skupinu '{String}'.
+STR_6073    :Uživatel {STRING} upravil oprávnění skupiny '{String}'.
+STR_6074    :Uživatel {STRING} změnil název skupiny z '{String}' na '{String}'.
+STR_6075    :Uživatel {STRING} nastavil výchozí skupinu na '{String}'.
+STR_6076    :Uživatel {STRING} použil/přepnul cheat '{STRING}'.
+STR_6077    :Přidat peníze
+STR_6078    :Uživatel {STRING} vytvořil atrakci '{STRING}'.
+STR_6079    :Uživatel {STRING} zboural atrakci '{STRING}'.
+STR_6080    :Uživatel {STRING} změnil vzhled atrakce '{STRING}'.
+STR_6081    :Uživatel {STRING} nastavil stav atrakce '{STRING}' na zavřeno.
+STR_6082    :Uživatel {STRING} nastavil stav atrakce '{STRING}' na otevřeno.
+STR_6083    :Uživatel {STRING} nastavil stav atrakce '{STRING}' na testování.
+STR_6084    :Uživatel {STRING} změnil nastavení vozů atrakce '{STRING}'.
+STR_6085    :Uživatel {STRING} změnil nastavení jízdy atrakce '{STRING}'.
+STR_6086    :Uživatel {STRING} přejmenoval atrakci '{STRING}' na '{STRING}'.
+STR_6087    :Uživatel {STRING} nastavil cenu vstupenky atrakce '{STRING}' na {STRING}
+STR_6088    :Uživatel {STRING} nastavil sekundární cenu vstupenky atrakce '{STRING}' na {STRING}
+STR_6089    :Uživatel {STRING} přejmenoval park z '{STRING}' na '{STRING}'.
+STR_6090    :Uživatel {STRING} otevřel park.
+STR_6091    :Uživatel {STRING} zavřel park.
+STR_6092    :Uživatel {STRING} nastavil vstupné do parku na {STRING}
+STR_6093    :Uživatel {STRING} umístil novou kulisu.
+STR_6094    :Uživatel {STRING} odstranil kulisu.
+STR_6095    :Uživatel {STRING} upravil krajinu.
+STR_6096    :Uživatel {STRING} nastavil nápis na ceduli na '{STRING}'.
+STR_6097    :Uživatel {STRING} umístil část trati atrakce '{STRING}'.
+STR_6098    :Uživatel {STRING} odebral část trati.
+STR_6099    :Připojili jste se na server.
+STR_6100    :Odpojili jste se od serveru.
+STR_6101    :Hodnota atrakcí časem nedegraduje
+STR_6102    :{SMALLFONT}{BLACK}Hodnota atrakce nebude s postupem času klesat, takže návštěvníci nebudou najednou mít pocit, že je vstupné moc drahé.
+STR_6103    :{SMALLFONT}{BLACK}Tato volba není ve hře více hráčů dostupná.
+STR_6104    :Vývrtková horská dráha
+STR_6105    :Hyper horská dráha
+STR_6106    :Autodráha
+STR_6107    :Monster Trucks
+STR_6108    :Ocelová horská
+STR_6109    :Hyper-Twister
+STR_6110    :Dorostenecká horská dráha
+STR_6111    :Klasická malá horská dráha
+STR_6112    :Malá ocelová horská dráha, na které vlak projíždí smyčky a vývrtky
+STR_6113    :Vysoká horská dráha s dlouhými pády, velkou rychlostí a pohodlnými vlaky, kde se jezdí s opěrkou v klíně
+STR_6114    :Návštěvníci jedou pomalu ve vozidlech po postavené dráze.
+STR_6115    :Obří auta s pohonem 4x4, které jsou schopna vyjíždět velmi strmé svahy
+STR_6116    :Široká ocelová horská dráha, na které vozy jedou po hladkých kolejnicích skrze propletenou dráhu
+STR_6117    :Horská dráha s dlouhými pády, velkou rychlostí a pohodlnými vlaky, kde se jezdí s opěrkou v klíně, která přelétává vrcholky kopců
+STR_6118    :Pozvolná horská dráha pro ty kdo se zatím neodvažují na větší dráhy
+STR_6119    :Levná horská dráha, kterou lze snadno postavit - má však omezenou maximální výšku
+STR_6120    :{BABYBLUE}Nové vozy dostupné pro {STRINGID}:{NEWLINE}{STRINGID}
+STR_6121    :{SMALLFONT}{BLACK}Zajistí práva pro všechny pozemky na mapě
+STR_6122    :Ve scénáři není dostatečný počet horských drah!
 
 STR_6012    :{COMMA1DP16}
 
