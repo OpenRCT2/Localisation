@@ -1,4 +1,4 @@
-# STR_XXXX part is read and XXXX becomes the string id number.
+﻿# STR_XXXX part is read and XXXX becomes the string id number.
 # Everything after the colon and before the new line will be saved as the string.
 # Use # at the beginning of a line to leave a comment.
 STR_0000    :
@@ -4409,6 +4409,8 @@ STR_6097    :{STRING} a placé une pièce pour l'attraction '{STRING}'.
 STR_6098    :{STRING} a détruit une pièce d'attraction.
 STR_6099    :Vous êtes connecté(e) au serveur.
 STR_6100    :Vous êtes déconnecté(e) du serveur.
+
+STR_6012    :{COMMA1DP16}
 
 #############
 # Scenarios #

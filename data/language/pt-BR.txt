@@ -1,4 +1,4 @@
-# STR_XXXX part is read and XXXX becomes the string id number.
+﻿# STR_XXXX part is read and XXXX becomes the string id number.
 # Everything after the colon and before the new line will be saved as the string.
 # Use # at the beginning of a line to leave a comment.
 STR_0000    :
@@ -4430,6 +4430,8 @@ STR_6118    :Uma montanha russa suave para pessoas que ainda não criaram corage
 STR_6119    :Uma montanha russa barata e fácil de construir, mas com um limite de altura
 STR_6120    :{BABYBLUE}Novo veículo disponível agora para {STRINGID}:{NEWLINE}{STRINGID}
 
+
+STR_6012    :{COMMA1DP16}
 
 #############
 # Scenarios #
