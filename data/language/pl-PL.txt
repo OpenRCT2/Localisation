@@ -348,7 +348,27 @@ STR_1011    :Zamknij wszystkie
 STR_1012    :Otwórz wszystkie
 STR_1013    :Zamknij park
 STR_1014    :Otwórz park
+STR_1015    :Nie można używać tego trybu przy więcej niż jednej stacjach
+STR_1016    :Nie można używać tego trybu przy mniej niz dwóch stacjach
+STR_1017    :Nie można zmienić trybu...
+STR_1019    :Zmiana niemożliwa...
+STR_1019    :Zmiana niemożliwa...
+STR_1020    :Zmiana niemożliwa...
+STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_1022    :{POP16}{POP16}{POP16}{COMMA16} wagon na pociąg
+STR_1023    :{POP16}{POP16}{POP16}{COMMA16} wagony na pociąg
+STR_1024    :{COMMA16} wagon na pociąg
+STR_1025    :{COMMA16} wagony na pociąg
+STR_1026    :Peron stacji za długi!
 STR_1027    :{SMALLFONT}{BLACK}Zlokalizuj na głównym oknie
+STR_1028    :Poza krawędzią mapy!
+STR_1029    :Nie można wybudować tego częściowo nad i pod wodą!
+STR_1030    :Można wybudować to tylko pod wodą!
+STR_1031    :Nie można wybudować tego pod wodą!
+STR_1032    :Można wybudować to tylko na wodzie!
+STR_1033    :Mozna wybudować to tylko powyżej ziemi!
+STR_1034    :Można wybudować to tylko na ziemi!
+STR_1035    :Władze lokalne zabraniają budowę ponad koronę drzew!
 STR_1036    :Wczytaj grę
 STR_1037    :Wczytaj krajobraz
 STR_1038    :Przekonwertuj zapis gry do scenariusza
@@ -452,6 +472,90 @@ STR_1225    :{SMALLFONT}{BLACK}Kolejki górskie
 STR_1226    :{SMALLFONT}{BLACK}Emocjonujące atrakcje
 STR_1227    :{SMALLFONT}{BLACK}Atrakcje wodne
 STR_1228    :{SMALLFONT}{BLACK}Sklepiki i kioski
+STR_1229    :pociąg
+STR_1230    :pociagi
+STR_1231    :Pociąg
+STR_1232    :Pociągi
+STR_1233    :{COMMA16} pociąg
+STR_1234    :{COMMA16} pociągi
+STR_1235    :Pociąg {COMMA16}
+STR_1236    :łódka
+STR_1237    :łódki
+STR_1238    :Łódka
+STR_1239    :Łódki
+STR_1240    :{COMMA16} łódka
+STR_1241    :{COMMA16} łódki
+STR_1242    :Łódka {COMMA16}
+STR_1243    :trasa
+STR_1244    :trasy
+STR_1245    :Trasa
+STR_1246    :Trasy
+STR_1247    :{COMMA16} trasa
+STR_1248    :{COMMA16} trasy
+STR_1249    :Trasa {COMMA16}
+STR_1250    :platforma dokująca
+STR_1251    :płatformy dokujące
+STR_1252    :Płatforma dokująca
+STR_1253    :Platformy dokujące
+STR_1254    :{COMMA16} platforma dokująca
+STR_1255    :{COMMA16} platformy dokujące
+STR_1256    :Platforma dokująca {COMMA16}
+STR_1257    :stacja
+STR_1258    :stacje
+STR_1259    :Stacja
+STR_1260    :Stacje
+STR_1261    :{COMMA16} stacja
+STR_1262    :{COMMA16} stacje
+STR_1263    :Stacja {COMMA16}
+STR_1264    :auto
+STR_1265    :auta
+STR_1266    :Auto
+STR_1267    :Auta
+STR_1268    :{COMMA16} auto
+STR_1269    :{COMMA16} auta
+STR_1270    :Auto {COMMA16}
+STR_1271    :budynek
+STR_1272    :budynki
+STR_1273    :Budynek
+STR_1274    :Budynki
+STR_1275    :{COMMA16} budynek
+STR_1276    :{COMMA16} budynki
+STR_1277    :Budynek {COMMA16}
+STR_1278    :struktura
+STR_1279    :struktury
+STR_1280    :Struktura
+STR_1281    :Struktury
+STR_1282    :{COMMA16} struktura
+STR_1283    :{COMMA16} struktury
+STR_1284    :Struktura {COMMA16}
+STR_1285    :statek
+STR_1286    :statki
+STR_1287    :Statek
+STR_1288    :Statki
+STR_1289    :{COMMA16} statek
+STR_1290    :{COMMA16} statki
+STR_1291    :Statek {COMMA16}
+STR_1292    :kabina
+STR_1293    :kabiny
+STR_1294    :Kabina
+STR_1295    :Kabiny
+STR_1296    :{COMMA16} kabina
+STR_1297    :{COMMA16} kabiny
+STR_1298    :Kabina {COMMA16}
+STR_1299    :koło
+STR_1300    :koła
+STR_1301    :Koło
+STR_1302    :Koła
+STR_1303    :{COMMA16} koło
+STR_1304    :{COMMA16} koła
+STR_1305    :Koło {COMMA16}
+STR_1306    :pierścień
+STR_1307    :pierścienie
+STR_1308    :Pierścieńś
+STR_1309    :Pierścienie
+STR_1310    :{COMMA16} pierścień
+STR_1311    :{COMMA16} pierścienie
+STR_1312    :Pierścień {COMMA16}
 STR_1313    :gracz
 STR_1314    :graczy
 STR_1315    :Gracz
@@ -513,10 +617,10 @@ STR_1460    :{SMALLFONT}{BLACK}'U' shaped open track
 STR_1461    :{SMALLFONT}{BLACK}'O' shaped enclosed track
 STR_1462    :Too steep for lift hill
 STR_1463    :Goście
-STR_1464    :Helix up (small)
-STR_1465    :Helix up (large)
-STR_1466    :Helix down (small)
-STR_1467    :Helix down (large)
+STR_1464    :Spirala w górę (mała)
+STR_1465    :Spirala w górę (duża)
+STR_1466    :Spirala w dół (mała)
+STR_1467    :Spirala w dół (duża)
 STR_1468    :Obsługa
 STR_1469    :Atrakcja musi się zaczynać i kończyć stacją
 STR_1470    :Stacja jest za krótka
@@ -561,7 +665,7 @@ STR_1508    :{SMALLFONT}{OPENQUOTES}Muszę odpocząć od {STRINGID}{ENDQUOTES}
 STR_1509    :{SMALLFONT}{OPENQUOTES}Chcę już wyjść z {STRINGID}{ENDQUOTES}
 STR_1510    :{SMALLFONT}{OPENQUOTES}Nie pójdę na {STRINGID} - nie wygląda zabezpiecznie{ENDQUOTES}
 STR_1511    :{SMALLFONT}{OPENQUOTES}Ta ścieżka jest obrzydliwa{ENDQUOTES}
-STR_1512    :{SMALLFONT}{OPENQUOTES}Jest zdecydowanie za tłocznoi{ENDQUOTES}
+STR_1512    :{SMALLFONT}{OPENQUOTES}Tutaj jest zdecydowanie za tłoczno{ENDQUOTES}
 STR_1513    :{SMALLFONT}{OPENQUOTES}Wandalizm stanowi tutaj duży problem{ENDQUOTES}
 STR_1514    :{SMALLFONT}{OPENQUOTES}Świetna sceneria!{ENDQUOTES}
 STR_1515    :{SMALLFONT}{OPENQUOTES}Ten park jest naprawdę czysty{ENDQUOTES}
@@ -680,6 +784,15 @@ STR_1702    :Zatrudnij nowego ochron.
 STR_1703    :Zatrudnij nowego komika
 STR_1704    :Nie można zatrudnić nowych pracowników...
 STR_1706    :{SMALLFONT}{BLACK}Przenieś tę osobę do nowej lokalizacji
+STR_1707    :Za dużo pracowników w grze
+STR_1708    :{SMALLFONT}{BLACK}Wyznacz teren patrolowania dla pracownika
+STR_1709    :Zwolnij pracownika
+STR_1710    :Tak
+STR_1711    :{WINDOW_COLOUR_1}Czy jesteś pewny że chcesz zwolnić {STRINGID}?
+STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Zamiatanie ścieżek
+STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Podlewanie kwiatów
+STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Opróżnianie kubłów
+STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Koszenie trawnika
 STR_1716    :Niewłaściwa nazwa dla parku!
 STR_1717    :Nie można zmienić nazwy parku...
 STR_1718    :Nazwa parku
@@ -703,6 +816,44 @@ STR_1735    :{SMALLFONT}{BLACK}Liczba okrążeń
 STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1737    :{COMMA16}
 STR_1738    :Nie można zmienić liczby okrążeń...
+STR_1739    :Wyścig wygrany przez gościa {INT32}
+STR_1740    :Wyścig wygrał {STRINGID}
+STR_1741    :Jeszcze nie zbudowane!
+STR_1742    :{WINDOW_COLOUR_2}Max. ludzi na przejazd:
+STR_1743    :{SMALLFONT}{BLACK}Maksymalna ilośc osób biorąca jednoczesny udział w wyścigu
+STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1745    :{COMMA16}
+STR_1746    :Nie można tego zmienić...
+STR_1747    :{WINDOW_COLOUR_2}Limit czasu:
+STR_1748    :{SMALLFONT}{BLACK}Limit czasu na przejazd
+STR_1749    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{DURATION}
+STR_1750    :{DURATION}
+STR_1751    :Nie można zmienić limitu czasu przejazdu...
+STR_1752    :{SMALLFONT}{BLACK}Pokaż listę gości parku
+STR_1753    :{SMALLFONT}{BLACK}Pokaż zbiorczą listę gości w parku
+STR_1754    :{BLACK}{COMMA16} goście
+STR_1755    :{BLACK}{COMMA16} gość
+STR_1756    :{WINDOW_COLOUR_2}Cena wejściówki:
+STR_1757    :{WINDOW_COLOUR_2}Niezawodność: {MOVE_X}{255}{BLACK}{COMMA16}%
+STR_1758    :{SMALLFONT}{BLACK}Tryb budowania
+STR_1759    :{SMALLFONT}{BLACK}Tryb przenoszenia
+STR_1760    :{SMALLFONT}{BLACK}Tryb wypełnienia
+STR_1761    :{SMALLFONT}{BLACK}Build maze in this direction
+STR_1762    :Wodospad
+STR_1763    :Rapids
+STR_1764    :Log Bumps
+STR_1765    :Sekcja fotograficzna
+STR_1766    :Reverser turntable
+STR_1767    :Spinning tunnel
+STR_1768    :Nie można zmienić ilości hustań...
+STR_1769    :{WINDOW_COLOUR_2}Liczba huśtań:
+STR_1770    :{SMALLFONT}{BLACK}Liczba pełnych hustań
+STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1772    :{COMMA16}
+STR_1773    :Tylko jedna sekcja fotograficzna dostępna na atrakcję
+STR_1774    :Tiylko jeden cable lift hill dostępny na atrakcję
+STR_1775    :Wyłącz
+STR_1776    :Włącz
 STR_1777    :{WINDOW_COLOUR_2}Muzyka atrakcji
 STR_1778    :{STRINGID} - - 
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Kostium pandy
@@ -793,6 +944,32 @@ STR_1864    :mechanik
 STR_1865    :strażnik
 STR_1866    :klaun
 STR_1867    :{BLACK}{COMMA16} {STRINGID}
+STR_1868    :Nie można zmienić liczby obrotów...
+STR_1869    :{WINDOW_COLOUR_2}Liczba obrotów:
+STR_1870    :{SMALLFONT}{BLACK}Liczba pełnych obrotów
+STR_1871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1872    :{COMMA16}
+STR_1873    :{WINDOW_COLOUR_2}Przychód: {BLACK}{CURRENCY2DP} na godzinę
+STR_1874    :{WINDOW_COLOUR_2}Zysk: {BLACK}{CURRENCY2DP} na godzinę
+STR_1875    :{BLACK} {SPRITE}{BLACK} {STRINGID}
+STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Inspekcja atrakcji
+STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Naprawa atrakcji
+STR_1878    :{WINDOW_COLOUR_2}Inspekcja:
+STR_1879    :Co 10 minut
+STR_1880    :Co 20 minut
+STR_1881    :Co 30 minut
+STR_1882    :Co 45 minut
+STR_1883    :Co godzinę
+STR_1884    :Co dwie godziny
+STR_1885    :Nigdy
+STR_1886    :Inspekcja {STRINGID}
+STR_1887    :{WINDOW_COLOUR_2}Czas od ostatniej inspekcji: {BLACK}{COMMA16} minut temu
+STR_1888    :{WINDOW_COLOUR_2}Czas od ostatniej inspekcji: {BLACK} więcej niż 4 godziny temu
+STR_1889    :{WINDOW_COLOUR_2}Czas przestoju: {MOVE_X}{255}{BLACK}{COMMA16}%
+STR_1890    :{SMALLFONT}{BLACK}Określ jak często mechanik ma przeglądać tą atrakcję
+STR_1891    :Nie ma jeszcze {STRINGID} w parku!
+STR_1894    :{WINDOW_COLOUR_2}{STRINGID} sprzedane: {BLACK}{COMMA32}
+STR_1895    :{SMALLFONT}{BLACK}Wybuduj nową przejażdzkę/atrakcję
 STR_1896    :{WINDOW_COLOUR_2}Przychody/wydatki
 STR_1897    :{WINDOW_COLOUR_2}Budowa atrakcji
 STR_1898    :{WINDOW_COLOUR_2}Utrzymanie atrakcji
