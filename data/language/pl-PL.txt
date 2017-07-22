@@ -508,6 +508,152 @@ STR_1455    :Niewłaściwe imię dla gościa
 STR_1456    :{WINDOW_COLOUR_2}Wydał: {BLACK}{CURRENCY2DP}
 STR_1457    :{WINDOW_COLOUR_2}Pieniędzy w kieszeni: {BLACK}{CURRENCY2DP}
 STR_1458    :{WINDOW_COLOUR_2}Czas w parku: {BLACK}{REALTIME}
+STR_1459    :Styl trasy
+STR_1460    :{SMALLFONT}{BLACK}'U' shaped open track
+STR_1461    :{SMALLFONT}{BLACK}'O' shaped enclosed track
+STR_1462    :Too steep for lift hill
+STR_1463    :Goście
+STR_1464    :Helix up (small)
+STR_1465    :Helix up (large)
+STR_1466    :Helix down (small)
+STR_1467    :Helix down (large)
+STR_1468    :Obsługa
+STR_1469    :Atrakcja musi się zaczynać i kończyć stacją
+STR_1470    :Stacja jest za krótka
+STR_1471    :{WINDOW_COLOUR_2}Prędkość:
+STR_1472    :{SMALLFONT}{BLACK}Prędkośc dla przejazdu
+STR_1473    :{WINDOW_COLOUR_2}Ocena emocji: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1474    :{WINDOW_COLOUR_2}Ocena emocji: {BLACK}Jeszcze nie dostępna
+STR_1475    :{WINDOW_COLOUR_2}Ocena intensywności: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1476    :{WINDOW_COLOUR_2}Ocena intensywności: {BLACK}Jeszcze nie dostępna
+STR_1477    :{WINDOW_COLOUR_2}Ocena intensywności: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
+STR_1478    :{WINDOW_COLOUR_2}Ocena mdłości: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1479    :{WINDOW_COLOUR_2}Ocena mdłości: {BLACK}Jeszcze nie dostępna
+STR_1480    :{SMALLFONT}{OPENQUOTES}Nie mogę sobie pozwolić na {STRINGID}{ENDQUOTES}
+STR_1481    :{SMALLFONT}{OPENQUOTES}Wydałem wszystkie swoje pieniądze{ENDQUOTES}
+STR_1482    :{SMALLFONT}{OPENQUOTES}Czuje się chory{ENDQUOTES}
+STR_1483    :{SMALLFONT}{OPENQUOTES}Czuję się bardzo chory{ENDQUOTES}
+STR_1484    :{SMALLFONT}{OPENQUOTES}Chcę pójśc na coś bardziej ciekawszego aniżeli {STRINGID}{ENDQUOTES}
+STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} wygląda zbyt intensywne dla mnie{ENDQUOTES}
+STR_1486    :{SMALLFONT}{OPENQUOTES}Nie skończyłem {STRINGID} jeszcze{ENDQUOTES}
+STR_1487    :{SMALLFONT}{OPENQUOTES}Od samego patrzenia na {STRINGID} robi mi się nie dobrze{ENDQUOTES}
+STR_1488    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za {STRINGID}{ENDQUOTES}
+STR_1489    :{SMALLFONT}{OPENQUOTES}Chcę wrócić do domu{ENDQUOTES}łodny
+STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} ma naprawdę dobrą cenę{ENDQUOTES}
+STR_1491    :{SMALLFONT}{OPENQUOTES}Mam już {STRINGID}{ENDQUOTES}
+STR_1492    :{SMALLFONT}{OPENQUOTES}Nie mogę sobie pozwolić na {STRINGID}{ENDQUOTES}
+STR_1493    :{SMALLFONT}{OPENQUOTES}Nie jestem głodny{ENDQUOTES}
+STR_1494    :{SMALLFONT}{OPENQUOTES}Nie jestem spragniony{Eć NDQUOTES}
+STR_1495    :{SMALLFONT}{OPENQUOTES}Pomocy! Tonę!{ENDQUOTES}
+STR_1496    :{SMALLFONT}{OPENQUOTES}Zgubiłem się!{ENDQUOTES}
+STR_1497    :{SMALLFONT}{OPENQUOTES}{STRINGID} było świetne{ENDQUOTES}
+STR_1498    :{SMALLFONT}{OPENQUOTES}Czekam już wieki w kolejce na {STRINGID}{ENDQUOTES}
+STR_1499    :{SMALLFONT}{OPENQUOTES}Jestem zmęczony{ENDQUOTES}
+STR_1500    :{SMALLFONT}{OPENQUOTES}Jestem głodny{ENDQUOTES}
+STR_1501    :{SMALLFONT}{OPENQUOTES}Jestem spragniony{ENDQUOTES}
+STR_1502    :{SMALLFONT}{OPENQUOTES}Muszę do toalety{ENDQUOTES}
+STR_1503    :{SMALLFONT}{OPENQUOTES}Nie mogę znaleźć {STRINGID}{ENDQUOTES}
+STR_1504    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za {STRINGID}{ENDQUOTES}
+STR_1505    :{SMALLFONT}{OPENQUOTES}Nie pójdę na {STRINGID} dopóki pada{ENDQUOTES}
+STR_1506    :{SMALLFONT}{OPENQUOTES}Ścieżki tutaj są okropne{ENDQUOTES}
+STR_1507    :{SMALLFONT}{OPENQUOTES}Nie mogę znaleźć wyjścia z parku{ENDQUOTES}
+STR_1508    :{SMALLFONT}{OPENQUOTES}Muszę odpocząć od {STRINGID}{ENDQUOTES}
+STR_1509    :{SMALLFONT}{OPENQUOTES}Chcę już wyjść z {STRINGID}{ENDQUOTES}
+STR_1510    :{SMALLFONT}{OPENQUOTES}Nie pójdę na {STRINGID} - nie wygląda zabezpiecznie{ENDQUOTES}
+STR_1511    :{SMALLFONT}{OPENQUOTES}Ta ścieżka jest obrzydliwa{ENDQUOTES}
+STR_1512    :{SMALLFONT}{OPENQUOTES}Jest zdecydowanie za tłocznoi{ENDQUOTES}
+STR_1513    :{SMALLFONT}{OPENQUOTES}Wandalizm stanowi tutaj duży problem{ENDQUOTES}
+STR_1514    :{SMALLFONT}{OPENQUOTES}Świetna sceneria!{ENDQUOTES}
+STR_1515    :{SMALLFONT}{OPENQUOTES}Ten park jest naprawdę czysty{ENDQUOTES}
+STR_1516    :{SMALLFONT}{OPENQUOTES}Ta skaczą fontanna jest świetna{ENDQUOTES}
+STR_1517    :{SMALLFONT}{OPENQUOTES}Leci tutaj miła muzyka{ENDQUOTES}
+STR_1518    :{SMALLFONT}{OPENQUOTES}Ten balon z {STRINGID} był naprawdę opłacalny{ENDQUOTES}
+STR_1519    :{SMALLFONT}{OPENQUOTES}Ta przytulanka z {STRINGID} była naprawdę opłacalna{ENDQUOTES}
+STR_1520    :{SMALLFONT}{OPENQUOTES}Ta mapa parku z {STRINGID} była naprawdę opłacalna{ENDQUOTES}
+STR_1521    :{SMALLFONT}{OPENQUOTES}To zdjęcie z przejazdu na {STRINGID} było naprawdę opłacalne{ENDQUOTES}
+STR_1522    :{SMALLFONT}{OPENQUOTES}Ta parasolka z {STRINGID} była naprawdę opłacalna{ENDQUOTES}
+STR_1523    :{SMALLFONT}{OPENQUOTES}Ten napój z {STRINGID} był naprawdę opłacalny{ENDQUOTES}
+STR_1524    :{SMALLFONT}{OPENQUOTES}Ten burger z {STRINGID} był naprawdę opłacalny{ENDQUOTES}
+STR_1525    :{SMALLFONT}{OPENQUOTES}Te chipsy z {STRINGID} były naprawdę opłacalne{ENDQUOTES}
+STR_1526    :{SMALLFONT}{OPENQUOTES}Te lody z {STRINGID} były naprawdę opłacalne{ENDQUOTES}
+STR_1527    :{SMALLFONT}{OPENQUOTES}Ta wata cukrowa {STRINGID} była naprawdę opłacalne{ENDQUOTES}
+STR_1528    :
+STR_1529    :
+STR_1530    :
+STR_1531    :{SMALLFONT}{OPENQUOTES}Ta pizza z {STRINGID} była naprawdę opłacalny{ENDQUOTES}
+STR_1533    :{SMALLFONT}{OPENQUOTES}Ten popcorn z {STRINGID} był naprawdę opłacalny{ENDQUOTES}
+STR_1534    :{SMALLFONT}{OPENQUOTES}Ten hotdog z {STRINGID} był naprawdę opłacalny{ENDQUOTES}
+STR_1535    :{SMALLFONT}{OPENQUOTES}Ta ośmiornica z {STRINGID} była naprawdę opłacalna{ENDQUOTES}
+STR_1536    :{SMALLFONT}{OPENQUOTES}Ten kapelusz {STRINGID} był naprawdę opłacalny{ENDQUOTES}
+STR_1537    :{SMALLFONT}{OPENQUOTES}To jabłko z toffi z {STRINGID} było naprawdę opłacalne{ENDQUOTES}
+STR_1538    :{SMALLFONT}{OPENQUOTES}Ten T-shirt z {STRINGID} był naprawdę opłacalny{ENDQUOTES}
+STR_1539    :{SMALLFONT}{OPENQUOTES}Ten pączek z {STRINGID} był naprawdę opłacalny{ENDQUOTES}
+STR_1540    :{SMALLFONT}{OPENQUOTES}Ta kawa z {STRINGID} była naprawdę opłacalna{ENDQUOTES}
+STR_1542    :{SMALLFONT}{OPENQUOTES}Ten smażony kurczak z {STRINGID} był naprawdę opłacalny{ENDQUOTES}
+STR_1543    :{SMALLFONT}{OPENQUOTES}Ta lemoniada z {STRINGID} była naprawdę opłacalna{ENDQUOTES}
+STR_1550    :{SMALLFONT}{OPENQUOTES}Wow!{ENDQUOTES}
+STR_1551    :{SMALLFONT}{OPENQUOTES}Mam dziwne uczucie jakby mnie ktoś podglądał{ENDQUOTES}
+STR_1552    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za balona z {STRINGID}{ENDQUOTES}
+STR_1553    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za przytulankę z {STRINGID}{ENDQUOTES}
+STR_1554    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za mapę parku z {STRINGID}{ENDQUOTES}
+STR_1555    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za zdjęcie z przejażdzki z {STRINGID}{ENDQUOTES}
+STR_1556    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za parasol z {STRINGID}{ENDQUOTES}
+STR_1557    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za napój z {STRINGID}{ENDQUOTES}
+STR_1558    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za burgera z {STRINGID}{ENDQUOTES}
+STR_1559    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za chipsy z {STRINGID}{ENDQUOTES}
+STR_1560    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za lody z {STRINGID}{ENDQUOTES}
+STR_1561    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za watę cukrową z {STRINGID}{ENDQUOTES}
+STR_1565    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za pizzę z {STRINGID}{ENDQUOTES}
+STR_1567    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za popcorn z {STRINGID}{ENDQUOTES}
+STR_1568    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za hotdoga z {STRINGID}{ENDQUOTES}
+STR_1569    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za ośmiornicę z {STRINGID}{ENDQUOTES}
+STR_1570    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za kapelusz z {STRINGID}{ENDQUOTES}
+STR_1571    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za jabłko z tofee z {STRINGID}{ENDQUOTES}
+STR_1572    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za koszulkę z {STRINGID}{ENDQUOTES}
+STR_1573    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za pączka z {STRINGID}{ENDQUOTES}
+STR_1574    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za kawę z {STRINGID}{ENDQUOTES}
+STR_1576    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za kurczaka z {STRINGID}{ENDQUOTES}
+STR_1577    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za lemoniadę z {STRINGID}{ENDQUOTES}
+STR_1584    :{SMALLFONT}{OPENQUOTES}To zdjęcie z przejazdżki na {STRINGID} było naprawdę opłacalne{ENDQUOTES}
+STR_1585    :{SMALLFONT}{OPENQUOTES}To zdjęcie z przejazdżki na {STRINGID} było naprawdę opłacalneENDQUOTES}
+STR_1586    :{SMALLFONT}{OPENQUOTES}To zdjęcie z przejazdżki na {STRINGID} było naprawdę opłacalne{ENDQUOTES}
+STR_1587    :{SMALLFONT}{OPENQUOTES}Ten precel z {STRINGID} był naprawdę opłacalny{ENDQUOTES}
+STR_1588    :{SMALLFONT}{OPENQUOTES}Ta gorąca czekolada z {STRINGID} była naprawdę opłacalna{ENDQUOTES}
+STR_1589    :{SMALLFONT}{OPENQUOTES}Ta mrożona herbata z {STRINGID} była naprawdę opłacalna{ENDQUOTES}
+STR_1590    :{SMALLFONT}{OPENQUOTES}Ten precel z {STRINGID} był naprawdę opłacalny{ENDQUOTES}
+STR_1591    :{SMALLFONT}{OPENQUOTES}Te okulary przecisłoneczne z {STRINGID} były naprawdę opłacalne{ENDQUOTES}
+STR_1592    :{SMALLFONT}{OPENQUOTES}Ten makaron z wołowiną z {STRINGID} był naprawdę opłacalny{ENDQUOTES}
+STR_1593    :{SMALLFONT}{OPENQUOTES}Ten smażony makaron z {STRINGID} był naprawdę opłacalny{ENDQUOTES}
+STR_1594    :{SMALLFONT}{OPENQUOTES}Ta zupa wonton z {STRINGID} była naprawdę opłacalna{ENDQUOTES}
+STR_1595    :{SMALLFONT}{OPENQUOTES}Ta zupa z klopsikami z {STRINGID} była naprawdę opłacalna{ENDQUOTES}
+STR_1596    :{SMALLFONT}{OPENQUOTES}Ten sok owocowy z {STRINGID} był naprawdę opłacalny{ENDQUOTES}
+STR_1597    :{SMALLFONT}{OPENQUOTES}Te mleko sojowe z {STRINGID} było naprawdę opłacalne{ENDQUOTES}
+STR_1598    :{SMALLFONT}{OPENQUOTES}Ta sujongkwa z {STRINGID} była naprawdę opłacalna{ENDQUOTES}
+STR_1599    :{SMALLFONT}{OPENQUOTES}Ta kanapka z {STRINGID} była naprawdę opłacalna{ENDQUOTES}
+STR_1600    :{SMALLFONT}{OPENQUOTES}To ciasteczko z {STRINGID} było naprawdę opłacalne{ENDQUOTES}
+STR_1604    :{SMALLFONT}{OPENQUOTES}Ta grilowana kiełbasa z {STRINGID} była naprawdę opłacalna{ENDQUOTES}
+STR_1616    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za zdjęcie z przejażdzki na {STRINGID}{ENDQUOTES}
+STR_1617    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za zdjęcie z przejażdzki na {STRINGID}{ENDQUOTES}
+STR_1618    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za zdjęcie z przejażdzki na {STRINGID}{ENDQUOTES}
+STR_1619    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za precla z {STRINGID}{ENDQUOTES}
+STR_1620    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za gorącą czekoladę z {STRINGID}{ENDQUOTES}
+STR_1621    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za mrożoną herbatę z {STRINGID}{ENDQUOTES}
+STR_1622    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za chrusta z {STRINGID}{ENDQUOTES}
+STR_1623    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za okulary przeciwsłoneczne z {STRINGID}{ENDQUOTES}
+STR_1624    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za makaron z wołowiną z {STRINGID}{ENDQUOTES}
+STR_1625    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za smażony makaron ryżowy z {STRINGID}{ENDQUOTES}
+STR_1626    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za zupę wonton z {STRINGID}{ENDQUOTES}
+STR_1627    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za zupę z klopsikami z {STRINGID}{ENDQUOTES}
+STR_1628    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za sok owocowy z {STRINGID}{ENDQUOTES}
+STR_1629    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za mleko sojowe z {STRINGID}{ENDQUOTES}
+STR_1630    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za sujongkwa z {STRINGID}{ENDQUOTES}
+STR_1631    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za kanapkę z {STRINGID}{ENDQUOTES}
+STR_1632    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za ciasteczko z {STRINGID}{ENDQUOTES}
+STR_1636    :{SMALLFONT}{OPENQUOTES}Nie zapłacę tyle za grilowaną kiełbasę z {RINGID}{ENDQUOTES}
+STR_1648    :{SMALLFONT}{OPENQUOTES}Pomocy! Puść mnie!{ENDQUOTES}
+STR_1649    :{SMALLFONT}{OPENQUOTES}Kończy mi się kasa!{ENDQUOTES}
+STR_1650    :{SMALLFONT}{OPENQUOTES}Wow! Budują nową atrakcję!{ENDQUOTES}
+STR_1653    :{SMALLFONT}{OPENQUOTES}...i teraz jesteśmy na {STRINGID}!{ENDQUOTES}
 STR_1654    :{WINDOW_COLOUR_2}Ostatnie myśli:
 STR_1655    :{SMALLFONT}{BLACK}Buduj ścieżki na ziemi
 STR_1656    :{SMALLFONT}{BLACK}Buduj ścieżki w powietrzu lub pod ziemią
@@ -522,6 +668,10 @@ STR_1664    :{WINDOW_COLOUR_2}Energia:
 STR_1665    :{WINDOW_COLOUR_2}Głód:
 STR_1666    :{WINDOW_COLOUR_2}Pragnienie:
 STR_1667    :{WINDOW_COLOUR_2}Pęcherz:
+STR_1668    :{WINDOW_COLOUR_2}Zadowolenie {BLACK}Nieznane
+STR_1669    :{WINDOW_COLOUR_2}Zadowolenie: {BLACK}{COMMA16}%
+STR_1670    :{WINDOW_COLOUR_2}Wszystkich klientów: {BLACK}{COMMA32}
+STR_1671    :{WINDOW_COLOUR_2}Całkowity zysk: {BLACK}{CURRENCY2DP}
 STR_1674    :Prędkość hamowania
 STR_1699    :Za dużo ludzi w grze
 STR_1700    :Zatrudnij nowego dozorcę
@@ -554,10 +704,52 @@ STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COM
 STR_1737    :{COMMA16}
 STR_1738    :Nie można zmienić liczby okrążeń...
 STR_1777    :{WINDOW_COLOUR_2}Muzyka atrakcji
+STR_1778    :{STRINGID} - - 
+STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Kostium pandy
+STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Kostium tygrysa
+STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Kostium słonia
+STR_1782    :{INLINE_SPRITE}{01}{20}{00}{00} Kostium Rzymianina
+STR_1783    :{INLINE_SPRITE}{02}{20}{00}{00} Kostium Gorilli
+STR_1784    :{INLINE_SPRITE}{03}{20}{00}{00} Kostium człowieka śniegu
+STR_1785    :{INLINE_SPRITE}{04}{20}{00}{00} Kostium rycerza
+STR_1786    :{INLINE_SPRITE}{05}{20}{00}{00} Kostium astronauty
+STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Kostium bandyty
+STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Kostium szeryfa
+STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Kostium pirata
+STR_1790    :{SMALLFONT}{BLACK}Wybierz kolor uniformu dla tego typu pracownika
+STR_1791    :{WINDOW_COLOUR_2}Kolor uniformu:
+STR_1792    :Odpowiada na wezwanie w związku z awarią na {STRINGID}
+STR_1793    :W drodze na inspekcję {STRINGID}
+STR_1794    :Naprawia {STRINGID}
+STR_1795    :Odbiera wezwanie telefoniczne
+STR_1796    :Zepsute, wymaga naprawy
+STR_1797    :Opcja niedostępna dla tego typu atrakcji
+STR_1798    :Whirlpool
+STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
+STR_1800    :Wyłącznik bezpieczeństwa
+STR_1801    :Ogranicznik zamknięty
+STR_1802    :Ogranicznik otwarty
+STR_1803    :Zablokowane drzwi
+STR_1804    :Otwarte drzwi
+STR_1805    :Usterka pojazdu
+STR_1806    :Awaria hamulcy
+STR_1807    :Awaria systemu sterowania
+STR_1808    :{WINDOW_COLOUR_2}Poprzednia awaria: {BLACK}{STRINGID}
+STR_1809    :{WINDOW_COLOUR_2}Aktualna awaria: {OUTLINE}{RED}{STRINGID}
+STR_1810    :{WINDOW_COLOUR_2}Carrying:
+STR_1811    :Nie można tego tutaj wybudować...
+STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
+STR_1813    :Różne obiekty
 STR_1814    :Akcje
 STR_1815    :Myśli
-STR_1818    :{WINDOW_COLOUR_2}Wszycy goście
+STR_1818    :{WINDOW_COLOUR_2}Wszyscy goście
 STR_1819    :{WINDOW_COLOUR_2}Wszyscy goście (pogrupowani)
+STR_1820    :{WINDOW_COLOUR_2}Goście {STRINGID}
+STR_1821    :{WINDOW_COLOUR_2}Goście myślą {STRINGID}
+STR_1822    :{WINDOW_COLOUR_2}Goście myślą o {POP16}{STRINGID}
+STR_1823    :{SMALLFONT}{BLACK}Pokaż gości myślących o tej atrakcji
+STR_1824    :{SMALLFONT}{BLACK}Pokaż gości aktualnie na tej atrakcji
+STR_1825    :{SMALLFONT}{BLACK}Pokaż gości w kolejce na tą atrakcję
 STR_1826    :Stan
 STR_1827    :Popularność
 STR_1828    :Satysfakcja
