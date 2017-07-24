@@ -564,7 +564,7 @@ STR_0559    :Edifici enorme de temàtica terrorífica amb passadissos esgarrifos
 STR_0560    :Un lloc que els visitants amb nàusees visiten per recuperar-se més de pressa.
 STR_0561    :Espectacle de circ dins d'una tenda enorme.
 STR_0562    :Els vagons autopropulsats viatgen per una via a diferents nivells que recorre paisatges fantasmagòrics amb efectes especials.
-STR_0563    :Els passatgers drets amb unes subjeccions simples dintre els vagons travessen i gaudeixen de caigudes i girs enrevessats això com d'una part «a l'aire lliure» damunt dels turons.
+STR_0563    :Els passatgers drets amb unes subjeccions simples dintre els vagons travessen i gaudeixen de caigudes i girs enrevessats, així com d'una part «a l'aire lliure» damunt dels turons.
 STR_0564    :Movent-se per vies de fusta, aquesta muntanya russa és ràpida, rústica, sorollosa i dóna una sensació d'experiència «fora de control» a l'aire lliure.
 STR_0565    :Una muntanya russa senzilla de fusta que només és capaç de fer inclinacions i girs suaus, mentre que els vagons es mantenen a la via mitjançant la gravetat i unes rodes laterals de fricció.
 STR_0566    :Els vagons individuals giren per un difícil tram zigzaguejant amb girs pronunciats i caigudes brusques curtes.
@@ -3474,7 +3474,7 @@ STR_5132    :Repara totes les atraccions
 STR_5133    :{SMALLFONT}{BLACK}Ajusta el propietari d'una àrea més petita.
 STR_5134    :{SMALLFONT}{BLACK}Ajusta el propietari d'una àrea més gran.
 STR_5135    :{SMALLFONT}{BLACK}Propietaris i drets de construcció
-STR_5136    :Drets del terreny
+STR_5136    :Drets de construcció
 STR_5137    :Desactiva límits de funcionament
 STR_5138    :{SMALLFONT}{WINDOW_COLOUR_2}{STRINGID}
 STR_5139    :{WHITE}{STRINGID}
@@ -3768,7 +3768,7 @@ STR_5426    :Acaba
 STR_5427    :Coordenades:
 STR_5428    :Rotacions antihoràries:
 STR_5429    :Nivell de zoom:
-STR_5430    :Segons que cal esperar:
+STR_5430    :Mil·lisegons que cal esperar:
 STR_5431    :Partida que s'ha de carregar:
 STR_5432    :Ordre:
 STR_5433    :Seqüències del menú principal
@@ -4364,6 +4364,84 @@ STR_6052    :El mapa d'alçades és massa gran i es retallarà
 STR_6053    :Aquest mapa d'alçades no es pot normalitzar
 STR_6054    :Només es poden usar bitmaps de 24 bits
 STR_6055    :Fitxer de mapa d'alçades de l'OpenRCT2
+STR_6056    :{SMALLFONT}{BLACK}Botó de silenci
+STR_6057    :{SMALLFONT}{BLACK}Mostra un botó a la barra d'eines per activar o silenciar el so.
+STR_6058    :Silencia
+STR_6059    :{RIGHTGUILLEMET}
+STR_6060    :Mostra animacions de compres
+STR_6061    :{SMALLFONT}{BLACK}Mostra un efecte mostrant les compres{NEWLINE}que fan els visitants.
+STR_6062    :{OUTLINE}{GREEN}+{CURRENCY2DP}
+STR_6063    :{OUTLINE}{RED}-{CURRENCY2DP}
+STR_6064    :Compra tots els terrenys
+STR_6065    :Registra accions d'usuari
+STR_6066    :{SMALLFONT}{BLACK}Registra totes les accions d'usuari en un arxiu a la vostra carpeta.
+STR_6067    :S'ha iniciat el servidor.
+STR_6068    :S'ha apagat el servidor.
+STR_6069    :El/la {STRING} està expulsat per en/la {STRING}.
+STR_6070    :El/la {STRING} ha estat afegit al grup «{STRING}» per en/la {STRING}.
+STR_6071    :El/la {STRING} ha creat un grup de jugadors nou: «{STRING}»
+STR_6072    :El/la {STRING} ha esborrat el grup de jugadors «{STRING}».
+STR_6073    :El/la {STRING} ha editat els permisos del grup de jugadors «{STRING}».
+STR_6074    :El/la {STRING} ha canviat el nom del grup de «{STRING}» a «{STRING}».
+STR_6075    :El/la {STRING} ha canviat el grup de jugadors per defecte a «{STRING}».
+STR_6076    :El/la {STRING} ha usat/commutat la trampa «{STRING}».
+STR_6077    :Afegeix diners
+STR_6078    :El/la {STRING} ha construït l'atracció «{STRING}».
+STR_6079    :El/la {STRING} ha retirat l'atracció «{STRING}».
+STR_6080    :El/la {STRING} ha modificat l'aparença de l'atracció «{STRING}».
+STR_6081    :El/la {STRING} ha tancat l'atracció «{STRING}».
+STR_6082    :El/la {STRING} ha obert l'atracció «{STRING}».
+STR_6083    :El/la {STRING} ha posat en prova l'atracció «{STRING}».
+STR_6084    :El/la {STRING} ha modificat les opcions dels vehicles de l'atracció «{STRING}».
+STR_6085    :El/la {STRING} ha modificat les opcions d'atracció de «{STRING}».
+STR_6086    :El/la {STRING} ha canviat el nom de l'atracció «{STRING}» a «{STRING}».
+STR_6087    :El/la {STRING} ha canviat el preu de l'atracció «{STRING}» a {STRING}
+STR_6088    :El/la {STRING} ha canviat el preu secunadri de l'atracció «{STRING}» a {STRING}.
+STR_6089    :El/la {STRING} ha canviat el nom del parc «{STRING}» a «{STRING}».
+STR_6090    :El/la {STRING} ha obert el parc.
+STR_6091    :El/la {STRING} ha tancat el parc.
+STR_6092    :El/la {STRING} ha canviat el preu de l'entrada al parc a {STRING}.
+STR_6093    :El/la {STRING} ha afegit decoracions.
+STR_6094    :El/la {STRING} ha tret decoracions.
+STR_6095    :El/la {STRING} ha editat decoracions.
+STR_6096    :El/la {STRING} ha canviat el nom del senyal a «{STRING}».
+STR_6097    :El/la {STRING} ha construït una peça de la via de «{STRING}».
+STR_6098    :El/la {STRING} ha tret una peça de via.
+STR_6099    :Us heu connectat al servidor.
+STR_6100    :Us heu desconnectat del servidor.
+STR_6101    :Les atraccions no perden valor
+STR_6102    :{SMALLFONT}{BLACK}El valor de les atraccions no disminuirà amb el pas del temps, de manera que els visitants no pensaran de cop que l'atracció és massa cara.
+STR_6103    :{SMALLFONT}{BLACK}Aquesta opció està desactivada si es juga en xarxa.
+STR_6104    :Muntanya russa amb tirabuixons
+STR_6105    :Hipermuntanya russa
+STR_6106    :Atracció de cotxes
+STR_6107    :Monster Trucks
+STR_6108    :Tornado d'acer
+STR_6109    :Hiper-Twister
+STR_6110    :Muntanya russa infantil
+STR_6111    :Minimuntanya russa clàssica
+STR_6112    :Muntanya russa compacta amb vies d'acer per la qual els vagons passen per tirabuixons i inversions.
+STR_6113    :Una muntanya russa alta sense inversions, amb llargues caigudes, alta velocitat, vagons còmodes i amb només unes barres de subjecció.
+STR_6114    :Els passatgers viatgen poc a poc en vehicles autopropulsats sobre la ruta que segueix la via.
+STR_6115    :Camions 4x4 gegants i autopropulsats que poden pujar per pendents empinades.
+STR_6116    :Muntanya russa amb vagons amples que llisca per una via d'acer llisa, passant per una bona varietat d'inversions.
+STR_6117    :Els passatgers drets amb unes subjeccions simples dintre els vagons travessen i gaudeixen de caigudes i girs enrevessats, així com d'una part «a l'aire lliure» damunt dels turons.
+STR_6118    :Muntanya russa suau per gent que encara no s'atreveix amb muntanyes russes grans.
+STR_6119    :Una muntanya russa barata i fàcil de construir, però amb una alçada limitada.
+STR_6120    :{BABYBLUE}Nou vehicle disponible per {STRINGID}:{NEWLINE}{STRINGID}
+STR_6121    :{SMALLFONT}{BLACK}Amplia els drets de construcció del parc fins a les vores del mapa.
+STR_6122    :No hi ha prou muntanyes russes en aquest escenari!
+STR_6123    :S'ha produït un error carregant els objectes del parc.
+STR_6124    :Nom de l'objecte
+STR_6125    :Tipus d'objecte
+STR_6126    :Tipus desconegut
+STR_6127    :Arxiu: {STRING}
+STR_6128    :L'arxiu no s'ha pogut carregar ja que està danyat o bé els objectes referenciats són desconeguts. Se'n dóna una llista a continuació.
+STR_6129    :Copia l'objecte seleccionat al porta-retalls
+STR_6130    :Copia la llista sencera al porta-retalls
+STR_6131    :Origen de l'objecte
+STR_6132    :Ignora recerques pendents
+STR_6133    :{SMALLFONT}{BLACK}Permet l'accés a atraccions i decoracions que encara no s'han recercat.
 
 #############
 # Scenarios #
