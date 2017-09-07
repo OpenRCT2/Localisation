@@ -26,34 +26,34 @@ STR_0021    :دوامة دائرية مميتة
 STR_0022    :متاهة
 STR_0023    :زحليقة دائرية
 STR_0024    :هيا كارتس
-STR_0025    :Log Flume
-STR_0026    :River Rapids
-STR_0027    :Bumper Cars
-STR_0028    :Pirate Ship
-STR_0029    :Swinging Inverter Ship
-STR_0030    :Food Stall
-STR_0031    :Unknown Stall (1D)
-STR_0032    :Drink Stall
-STR_0033    :Unknown Stall (1F)
-STR_0034    :Shop
-STR_0035    :Carousel
-STR_0036    :Unknown Stall (22)
-STR_0037    :Information Kiosk
-STR_0038    :Restroom
-STR_0039    :Ferris Wheel
-STR_0040    :Motion Simulator
-STR_0041    :3D Theater
-STR_0042    :Top Spin
-STR_0043    :Space Rings
-STR_0044    :Reverse Freefall Coaster
-STR_0045    :Elevator
-STR_0046    :Vertical Drop Roller Coaster
-STR_0047    :ATM
-STR_0048    :Twist
-STR_0049    :Haunted House
-STR_0050    :First Aid Room
-STR_0051    :Circus Show
-STR_0052    :Tunnel Of Horror
+STR_0025    :لوح العوم
+STR_0026    :رحلة النهر
+STR_0027    :السيارات المتصادمة
+STR_0028    :سفينة القراصنة
+STR_0029    :سفينة متأرجحة عكسية
+STR_0030    :كشك الطعام
+STR_0031    :كشك غير معروف (1D)
+STR_0032    :كشك الشرب
+STR_0033    :كشك غير معروف (1F)
+STR_0034    :متجر
+STR_0035    :دوامة الخيل
+STR_0036    :كشك غير معروف (22)
+STR_0037    :منصة المعلومات
+STR_0038    :غرفة الإستراحة
+STR_0039    :عجلة فيريس
+STR_0040    :محاكي الحركة
+STR_0041    :سينما ثري دي
+STR_0042    :الدوار الأفقي
+STR_0043    :دوائر الفضاء
+STR_0044    :دوامة سقوط حر عكسية
+STR_0045    :المصعد
+STR_0046    :دوامة دوارة رأسية معكوسة
+STR_0047    :ألة سحب النقود
+STR_0048    :دوران
+STR_0049    :المنزل المسكون
+STR_0050    :غرفة إسعافات أولية
+STR_0051    :عرض السيرك
+STR_0052    :نفق الرعب
 STR_0053    :Steel Twister Roller Coaster
 STR_0054    :Wooden Roller Coaster
 STR_0055    :Side-Friction Roller Coaster
@@ -61,7 +61,7 @@ STR_0056    :Wild Mouse
 STR_0057    :Multi-Dimension Roller Coaster
 STR_0058    :Unknown Ride (38)
 STR_0059    :Flying Roller Coaster
-STR_0060    :Unknown Ride (3A)
+STR_0060    :رحلة غير معروفة (3A)
 STR_0061    :Virginia Reel
 STR_0062    :Splash Boats
 STR_0063    :Mini Helicopters
@@ -70,29 +70,29 @@ STR_0065    :Suspended Monorail
 STR_0066    :Unknown Ride (40)
 STR_0067    :Reverser Roller Coaster
 STR_0068    :Heartline Twister Coaster
-STR_0069    :Mini Golf
+STR_0069    :جولف مصغر
 STR_0070    :Giga Coaster
 STR_0071    :Roto-Drop
 STR_0072    :Flying Saucers
 STR_0073    :Crooked House
 STR_0074    :Monorail Cycles
 STR_0075    :Compact Inverted Coaster
-STR_0076    :Water Coaster
-STR_0077    :Air Powered Vertical Coaster
-STR_0078    :Inverted Hairpin Coaster
-STR_0079    :Magic Carpet
-STR_0080    :Submarine Ride
-STR_0081    :River Rafts
-STR_0082    :Unknown Ride (50)
-STR_0083    :Enterprise
-STR_0084    :Unknown Ride (52)
-STR_0085    :Unknown Ride (53)
-STR_0086    :Unknown Ride (54)
-STR_0087    :Unknown Ride (55)
-STR_0088    :Inverted Impulse Coaster
-STR_0089    :Mini Roller Coaster
-STR_0090    :Mine Ride
-STR_0091    :Unknown Ride (59)
+STR_0076    :دوامة مائية
+STR_0077    :دوامة معكوسة عاملة بالهواء
+STR_0078    :دوامة منعطف حاد معكوسة
+STR_0079    :السجادة السحرية
+STR_0080    :رحلة غواصة
+STR_0081    :طوافات النهر
+STR_0082    :رحلة غير معروفة (50)
+STR_0083    :مغامرة
+STR_0084    :رحلة غير معروفة (52)
+STR_0085    :رحلة غير معروفة (53)
+STR_0086    :رحلة غير معروفة (54)
+STR_0087    :رحلة غير معروفة (55)
+STR_0088    :دوامة دافعة معكوسة
+STR_0089    :دوامة دائرية مصغرة
+STR_0090    :رحلة مصغرة
+STR_0091    :رحلة غير معروفة (59)
 STR_0092    :LIM Launched Roller Coaster
 STR_0093    :
 STR_0094    :
@@ -1391,8 +1391,8 @@ STR_1396    :{SMALLFONT}{BLACK}Color scheme options
 STR_1397    :{SMALLFONT}{BLACK}Sound & music options
 STR_1398    :{SMALLFONT}{BLACK}Measurements and test data
 STR_1399    :{SMALLFONT}{BLACK}Graphs
-STR_1400    :Entrance
-STR_1401    :Exit
+STR_1400    :مدخل
+STR_1401    :مخرج
 STR_1402    :{SMALLFONT}{BLACK}Build or move entrance to ride/attraction
 STR_1403    :{SMALLFONT}{BLACK}Build or move exit from ride/attraction
 STR_1404    :{SMALLFONT}{BLACK}Rotate 90{DEGREE}
@@ -1416,21 +1416,21 @@ STR_1421    :{SMALLFONT}{BLACK}{COMMA16}g
 STR_1422    :{SMALLFONT}{BLACK}Logging data from {POP16}{STRINGID}
 STR_1423    :{SMALLFONT}{BLACK}Queue line path
 STR_1424    :{SMALLFONT}{BLACK}Footpath
-STR_1425    :Footpath
+STR_1425    :خطوات أقدام
 STR_1426    :Queue Line
 STR_1427    :{WINDOW_COLOUR_2}Customers: {BLACK}{COMMA32} per hour
 STR_1428    :{WINDOW_COLOUR_2}Admission price:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
-STR_1430    :Free
-STR_1431    :Walking
+STR_1430    :حر
+STR_1431    :يمشي
 STR_1432    :Heading for {STRINGID}
 STR_1433    :Queuing for {STRINGID}
 STR_1434    :Drowning
 STR_1435    :On {STRINGID}
 STR_1436    :In {STRINGID}
 STR_1437    :At {STRINGID}
-STR_1438    :Sitting
-STR_1439    :(select location)
+STR_1438    :جالس
+STR_1439    :(حدد المكان)
 STR_1440    :Mowing grass
 STR_1441    :Sweeping footpath
 STR_1442    :Emptying litter bin
@@ -1454,7 +1454,7 @@ STR_1459    :Track style
 STR_1460    :{SMALLFONT}{BLACK}'U' shaped open track
 STR_1461    :{SMALLFONT}{BLACK}'O' shaped enclosed track
 STR_1462    :Too steep for lift hill
-STR_1463    :Guests
+STR_1463    :ضيوف
 STR_1464    :Helix up (small)
 STR_1465    :Helix up (large)
 STR_1466    :Helix down (small)
@@ -1664,9 +1664,9 @@ STR_1668    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}Unknown
 STR_1669    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}Total customers: {BLACK}{COMMA32}
 STR_1671    :{WINDOW_COLOUR_2}Total profit: {BLACK}{CURRENCY2DP}
-STR_1672    :Brakes
+STR_1672    :فرامل
 STR_1673    :Spinning Control Toggle Track
-STR_1674    :Brake speed
+STR_1674    :سرعة الفرملة
 STR_1675    :{POP16}{VELOCITY}
 STR_1676    :{SMALLFONT}{BLACK}Set speed limit for brakes
 STR_1677    :{WINDOW_COLOUR_2}Popularity: {BLACK}Unknown
@@ -1702,7 +1702,7 @@ STR_1706    :{SMALLFONT}{BLACK}Move this person to a new location
 STR_1707    :Too many staff in game
 STR_1708    :{SMALLFONT}{BLACK}Set patrol area for this staff member
 STR_1709    :Sack staff
-STR_1710    :Yes
+STR_1710    :نعم
 STR_1711    :{WINDOW_COLOUR_1}Are you sure you want to sack {STRINGID}?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Sweep footpaths
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Water gardens
@@ -1710,11 +1710,11 @@ STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Empty litter bins
 STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Mow grass
 STR_1716    :Invalid name for park
 STR_1717    :Can't rename park...
-STR_1718    :Park Name
+STR_1718    :أسم الحديقة
 STR_1719    :Enter name for park:
 STR_1720    :{SMALLFONT}{BLACK}Name park
-STR_1721    :Park closed
-STR_1722    :Park open
+STR_1721    :الحديقة مغلقة
+STR_1722    :الحديقة مفتوحة
 STR_1723    :Can't open park...
 STR_1724    :Can't close park...
 STR_1725    :Can't buy land...
@@ -1733,7 +1733,7 @@ STR_1737    :{COMMA16}
 STR_1738    :Can't change number of laps...
 STR_1739    :Race won by guest {INT32}
 STR_1740    :Race won by {STRINGID}
-STR_1741    :Not yet constructed !
+STR_1741    :لم يبني بعد !
 STR_1742    :{WINDOW_COLOUR_2}Max. people on ride:
 STR_1743    :{SMALLFONT}{BLACK}Maximum number of people allowed on this ride at one time
 STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
@@ -1754,7 +1754,7 @@ STR_1758    :{SMALLFONT}{BLACK}Build mode
 STR_1759    :{SMALLFONT}{BLACK}Move mode
 STR_1760    :{SMALLFONT}{BLACK}Fill-in mode
 STR_1761    :{SMALLFONT}{BLACK}Build maze in this direction
-STR_1762    :Waterfalls
+STR_1762    :شلالات
 STR_1763    :Rapids
 STR_1764    :Log Bumps
 STR_1765    :On-ride photo section
@@ -1767,8 +1767,8 @@ STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COM
 STR_1772    :{COMMA16}
 STR_1773    :Only one on-ride photo section allowed per ride
 STR_1774    :Only one cable lift hill allowed per ride
-STR_1775    :Off
-STR_1776    :On
+STR_1775    :مغلق
+STR_1776    :مفعل
 STR_1777    :{WINDOW_COLOUR_2}Ride music
 STR_1778    :{STRINGID} - - 
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Panda costume
@@ -1818,7 +1818,7 @@ STR_1822    :{WINDOW_COLOUR_2}Guests thinking about {POP16}{STRINGID}
 STR_1823    :{SMALLFONT}{BLACK}Show guests' thoughts about this ride/attraction
 STR_1824    :{SMALLFONT}{BLACK}Show guests on this ride/attraction
 STR_1825    :{SMALLFONT}{BLACK}Show guests queuing for this ride/attraction
-STR_1826    :Status
+STR_1826    :الوضع
 STR_1827    :Popularity
 STR_1828    :Satisfaction
 STR_1829    :Profit
@@ -1851,9 +1851,9 @@ STR_1855    :{WINDOW_COLOUR_2}Built: {BLACK}{COMMA16} Years Ago
 STR_1856    :{WINDOW_COLOUR_2}Profit per item sold: {BLACK}{CURRENCY2DP}
 STR_1857    :{WINDOW_COLOUR_2}Loss per item sold: {BLACK}{CURRENCY2DP}
 STR_1858    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY2DP} per month
-STR_1859    :Handymen
-STR_1860    :Mechanics
-STR_1861    :Security Guards
+STR_1859    :رجل مساعد
+STR_1860    :ميكانيكي
+STR_1861    :رجال الأمن
 STR_1862    :Entertainers
 STR_1863    :Handyman
 STR_1864    :Mechanic
@@ -2067,18 +2067,18 @@ STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Cuddly Toy
 STR_2074    :Map of {STRINGID}
 STR_2075    :On-Ride Photo of {STRINGID}
 STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Umbrella
-STR_2077    :Drink
-STR_2078    :Burger
+STR_2077    :مشروب
+STR_2078    :برجر
 STR_2079    :Fries
-STR_2080    :Ice Cream
-STR_2081    :Cotton Candy
+STR_2080    :أيس كريم
+STR_2081    :غزل البنات
 STR_2082    :Empty Can
-STR_2083    :Trash
+STR_2083    :قمامة
 STR_2084    :Empty Burger Box
-STR_2085    :Pizza
+STR_2085    :بيتزا
 STR_2086    :Voucher for {STRINGID}
-STR_2087    :Popcorn
-STR_2088    :Hot Dog
+STR_2087    :فشار
+STR_2088    :هوت دوج
 STR_2089    :Tentacle
 STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Hat
 STR_2091    :Candy Apple
@@ -2216,16 +2216,16 @@ STR_2974    :Alternative color scheme 3
 STR_2975    :{SMALLFONT}{BLACK}Select which color scheme to change, or paint ride with
 STR_2976    :{SMALLFONT}{BLACK}Paint an individual area of this ride using the selected color scheme
 
-STR_2989    :{SMALLFONT}{BLACK}Select main color
-STR_2990    :{SMALLFONT}{BLACK}Select text color
+STR_2989    :{SMALLFONT}{BLACK}حدد اللون الأساسي
+STR_2990    :{SMALLFONT}{BLACK}حدد لون الكتابة
 
 STR_3081    :Castle entrance (gray)
 
 STR_3093    :{WINDOW_COLOUR_2}Favorite: {BLACK}{STRINGID}
 
-STR_3099    :{SMALLFONT}{BLACK}Select color
-STR_3100    :{SMALLFONT}{BLACK}Select second color
-STR_3101    :{SMALLFONT}{BLACK}Select third color
+STR_3099    :{SMALLFONT}{BLACK}حدد اللون
+STR_3100    :{SMALLFONT}{BLACK}حدد اللون الثاني
+STR_3101    :{SMALLFONT}{BLACK}حدد اللون الثالث
 STR_3102    :{SMALLFONT}{BLACK}Re-paint colored scenery on landscape
 
 STR_3122    :{WINDOW_COLOUR_2}Favorite ride of: {BLACK}{COMMA16} guest
@@ -2364,9 +2364,9 @@ STR_PARK    :Thunder Rock
 STR_DTLS    :Thunder Rock stands in the middle of a desert and attracts many tourists - Use the available space to build rides to attract more people
 
 <Mega Park>
-STR_SCNR    :Mega Park
-STR_PARK    :Mega Park
-STR_DTLS    :Just for fun!
+STR_SCNR    :حديقة عملاقة
+STR_PARK    :حديقة عملاقة
+STR_DTLS    :فقط للمتعة!
 
 ## Corkscrew Follies
 <Whispering Cliffs>
@@ -2400,8 +2400,8 @@ STR_PARK    :Haunted Harbor
 STR_DTLS    :The local authority has agreed to sell nearby land cheaply to this small seaside park, on the condition that certain rides are preserved
 
 <Fun Fortress>
-STR_SCNR    :Fun Fortress
-STR_PARK    :Fun Fortress
+STR_SCNR    :قلعة المرح
+STR_PARK    :قلعة المرح
 STR_DTLS    :This castle is all yours to turn into a theme park
 
 <Future World>
@@ -2651,8 +2651,8 @@ STR_PARK    :Urban Jungle
 STR_DTLS    :A giant abandoned skyscraper is a unique opportunity for a theme park developer
 
 <Terror Town>
-STR_SCNR    :Terror Town
-STR_PARK    :Terror Town
+STR_SCNR    :مدينة الرعب
+STR_PARK    :مدينة الرعب
 STR_DTLS    :This urban area is all yours to develop into an amusement park
 
 <Megaworld Park>
@@ -2714,7 +2714,7 @@ STR_CPTY    :4 passengers per car
 [CONGAEEL]
 STR_NAME    :Conger Eel Coaster
 STR_DESC    :A compact steel-tracked roller coaster where the Eel-shaped train travels through corkscrews and loops
-STR_CPTY    :4 passengers per car
+STR_CPTY    :4 ركاب لكل سيارة
 
 ###########
 # Scenery #
@@ -2722,4 +2722,4 @@ STR_CPTY    :4 passengers per car
 
 #Bulrushes
 [TBR]
-STR_NAME    :Cattails
+STR_NAME    :اعشاب البرك
