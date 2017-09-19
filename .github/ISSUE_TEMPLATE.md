@@ -21,4 +21,4 @@ Updated in:
 - [ ] ca-ES
 
 Notification when new strings arrive:
-@Nubbie
+@Nubbie @Goddesen
