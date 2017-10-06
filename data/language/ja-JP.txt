@@ -931,8 +931,8 @@ STR_0925    :{SMALLFONT}{BLACK}Helix up
 STR_0926    :Can't remove this...
 STR_0927    :Can't construct this here...
 STR_0928    :{SMALLFONT}{BLACK}Chain lift, to pull cars up slopes
-STR_0929    :'S' Bend (left)
-STR_0930    :'S' Bend (right)
+STR_0929    :S字カーブ (左)
+STR_0930    :S字カーブ (右)
 STR_0931    :Vertical Loop (left)
 STR_0932    :Vertical Loop (right)
 STR_0933    :Raise or lower land first
@@ -1106,7 +1106,7 @@ STR_1100    :Waiting to depart {POP16}{STRINGID}
 STR_1101    :Departing {POP16}{STRINGID}
 STR_1102    :Travelling at {VELOCITY}
 STR_1103    :Arriving at {POP16}{STRINGID}
-STR_1104    :Unloading passengers at {POP16}{STRINGID}
+STR_1104    :{POP16}{STRINGID}にアンロード中
 STR_1105    :Travelling at {VELOCITY}
 STR_1106    :Crashing!
 STR_1107    :Crashed!
@@ -1188,9 +1188,9 @@ STR_1182    :Type
 STR_1183    :Direction
 STR_1184    :Slope
 STR_1185    :{SMALLFONT}{BLACK}Direction
-STR_1186    :{SMALLFONT}{BLACK}Slope down
+STR_1186    :{SMALLFONT}{BLACK}下り階段
 STR_1187    :{SMALLFONT}{BLACK}Level
-STR_1188    :{SMALLFONT}{BLACK}Slope up
+STR_1188    :{SMALLFONT}{BLACK}上り階段
 STR_1189    :{SMALLFONT}{BLACK}Construct the selected footpath section
 STR_1190    :{SMALLFONT}{BLACK}Remove previous footpath section
 STR_1191    :{BLACK}{STRINGID}
@@ -1433,7 +1433,7 @@ STR_1427    :{WINDOW_COLOUR_2}Customers: {BLACK}{COMMA32} per hour
 STR_1428    :{WINDOW_COLOUR_2}入場料:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :無料
-STR_1431    :歩いている
+STR_1431    :歩き回っている
 STR_1432    :{STRINGID}に行っている
 STR_1433    :{STRINGID}に並んでいる
 STR_1434    :溺れている
@@ -1449,7 +1449,7 @@ STR_1443    :水をやっている
 STR_1444    :{STRINGID}を見っている
 STR_1445    :Watching construction of {STRINGID}
 STR_1446    :Looking at scenery
-STR_1447    :Leaving the park
+STR_1447    :パークを去って行く
 STR_1448    :Watching new ride being constructed
 STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
@@ -1861,7 +1861,7 @@ STR_1854    :{WINDOW_COLOUR_2}Built: {BLACK}Last Year
 STR_1855    :{WINDOW_COLOUR_2}Built: {BLACK}{COMMA16} Years Ago
 STR_1856    :{WINDOW_COLOUR_2}Profit per item sold: {BLACK}{CURRENCY2DP}
 STR_1857    :{WINDOW_COLOUR_2}Loss per item sold: {BLACK}{CURRENCY2DP}
-STR_1858    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY2DP} per month
+STR_1858    :{WINDOW_COLOUR_2}コスト: {BLACK}{CURRENCY2DP} per month
 STR_1859    :清掃員
 STR_1860    :整備士
 STR_1861    :警備員
@@ -1902,29 +1902,29 @@ STR_1893    :<not used anymore>
 STR_1894    :{WINDOW_COLOUR_2}{STRINGID} sold: {BLACK}{COMMA32}
 STR_1895    :{SMALLFONT}{BLACK}Build new ride/attraction
 STR_1896    :{WINDOW_COLOUR_2}Expenditure/Income
-STR_1897    :{WINDOW_COLOUR_2}Ride construction
-STR_1898    :{WINDOW_COLOUR_2}Ride running costs
-STR_1899    :{WINDOW_COLOUR_2}Land purchase
-STR_1900    :{WINDOW_COLOUR_2}Landscaping
-STR_1901    :{WINDOW_COLOUR_2}Park entrance tickets
-STR_1902    :{WINDOW_COLOUR_2}Ride tickets
-STR_1903    :{WINDOW_COLOUR_2}Shop sales
-STR_1904    :{WINDOW_COLOUR_2}Shop stock
-STR_1905    :{WINDOW_COLOUR_2}Food/drink sales
-STR_1906    :{WINDOW_COLOUR_2}Food/drink stock
-STR_1907    :{WINDOW_COLOUR_2}Staff wages
-STR_1908    :{WINDOW_COLOUR_2}Marketing
-STR_1909    :{WINDOW_COLOUR_2}Research
-STR_1910    :{WINDOW_COLOUR_2}Loan interest
+STR_1897    :{WINDOW_COLOUR_2}ライド建設費
+STR_1898    :{WINDOW_COLOUR_2}ライド運営費
+STR_1899    :{WINDOW_COLOUR_2}土地購入費
+STR_1900    :{WINDOW_COLOUR_2}整地費
+STR_1901    :{WINDOW_COLOUR_2}入場券売上
+STR_1902    :{WINDOW_COLOUR_2}ライド利用料
+STR_1903    :{WINDOW_COLOUR_2}ショップ売上
+STR_1904    :{WINDOW_COLOUR_2}ショップ仕入費
+STR_1905    :{WINDOW_COLOUR_2}飲食売上
+STR_1906    :{WINDOW_COLOUR_2}飲食仕入費
+STR_1907    :{WINDOW_COLOUR_2}スタッフ月給
+STR_1908    :{WINDOW_COLOUR_2}広告宣伝費
+STR_1909    :{WINDOW_COLOUR_2}研究開発
+STR_1910    :{WINDOW_COLOUR_2}借入金利
 STR_1911    :{BLACK} at {COMMA16}% per year
 STR_1912    :{MONTH}
 STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
-STR_1916    :{WINDOW_COLOUR_2}Loan:
+STR_1916    :{WINDOW_COLOUR_2}借入額:
 STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :Can't borrow any more money!
-STR_1919    :Not enough cash available!
+STR_1919    :十分な資金がありません！
 STR_1920    :Can't pay back loan!
 STR_1921    :{SMALLFONT}{BLACK}Start a new game
 STR_1922    :{SMALLFONT}{BLACK}Continue playing a saved game
@@ -2221,8 +2221,8 @@ STR_2212    :{SMALLFONT}{BLACK}Show list of security guards in park
 STR_2213    :{SMALLFONT}{BLACK}Show list of entertainers in park
 STR_2214    :Construction not possible while game is paused!
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
-STR_2216    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}C
-STR_2217    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}F
+STR_2216    :{WINDOW_COLOUR_2}{COMMA16}℃
+STR_2217    :{WINDOW_COLOUR_2}{COMMA16}℉
 STR_2218    :{RED}{STRINGID} on {STRINGID} hasn't returned to the {STRINGID} yet!{NEWLINE}Check whether it is stuck or has stalled
 STR_2219    :{RED}{COMMA16} people have died in an accident on {STRINGID}
 STR_2220    :{WINDOW_COLOUR_2}パーク評価値: {BLACK}{COMMA16}
@@ -2349,8 +2349,8 @@ STR_2340    :リラ (L)
 STR_2341    :フローリン (fl.)
 STR_2342    :クローナ (kr)
 STR_2343    :ユーロ ({EURO})
-STR_2344    :Imperial
-STR_2345    :Metric
+STR_2344    :ポンド法
+STR_2345    :メートル法
 STR_2346    :Display
 STR_2347    :{RED}{STRINGID} has drowned!
 STR_2348    :{SMALLFONT}{BLACK}Show statistics for this staff member
@@ -2363,17 +2363,17 @@ STR_2354    :{WINDOW_COLOUR_2}ゴミ箱を空にした回数: {BLACK}{COMMA16}
 STR_2355    :{WINDOW_COLOUR_2}ライドを修理した回数: {BLACK}{COMMA16}
 STR_2356    :{WINDOW_COLOUR_2}ライドを点検した回数: {BLACK}{COMMA16}
 STR_2357    :House
-STR_2358    :Units
-STR_2359    :Real Values
-STR_2360    :{WINDOW_COLOUR_2}Display Resolution:
+STR_2358    :単位
+STR_2359    :高さの単位
+STR_2360    :{WINDOW_COLOUR_2}ウィンドウ解像度:
 STR_2361    :Landscape Smoothing
 STR_2362    :{SMALLFONT}{BLACK}Toggle landscape tile edge smoothing on/off
-STR_2363    :Gridlines on Landscape
+STR_2363    :工事中の標識
 STR_2364    :{SMALLFONT}{BLACK}Toggle gridlines on landscape on/off
 STR_2365    :The bank refuses to increase your loan!
-STR_2366    :Celsius ({DEGREE}C)
-STR_2367    :Fahrenheit ({DEGREE}F)
-STR_2368    :None
+STR_2366    :摂氏 ℃
+STR_2367    :華氏 ℉
+STR_2368    :なし
 STR_2369    :低い
 STR_2370    :平均的
 STR_2371    :高い
@@ -2382,7 +2382,7 @@ STR_2373    :普通
 STR_2374    :高い
 STR_2375    :非常に高い
 STR_2376    :最高
-STR_2377    :Ultra-Extreme
+STR_2377    :超究極
 STR_2378    :{SMALLFONT}{BLACK}Adjust smaller area of land
 STR_2379    :{SMALLFONT}{BLACK}Adjust larger area of land
 STR_2380    :{SMALLFONT}{BLACK}Adjust smaller area of water
@@ -3079,7 +3079,7 @@ STR_3067    :{OPENQUOTES}Real{ENDQUOTES} Parks
 STR_3068    :Other Parks
 STR_3069    :Top Section
 STR_3070    :Slope to Level
-STR_3071    :{WINDOW_COLOUR_2}Same price throughout park
+STR_3071    :{WINDOW_COLOUR_2}パーク中で同一価格
 STR_3072    :{SMALLFONT}{BLACK}Select whether this price is used throughout the entire park
 STR_3073    :{RED}WARNING: Your park rating has dropped below 700 !{NEWLINE}If you haven't raised the park rating in 4 weeks, your park will be closed down
 STR_3074    :{RED}WARNING: Your park rating is still below 700 !{NEWLINE}You have 3 weeks to raise the park rating
@@ -3268,10 +3268,10 @@ STR_3256    :Guests prefer less intense rides
 STR_3257    :{SMALLFONT}{BLACK}Select whether guests should generally prefer less intense rides only
 STR_3258    :Guests prefer more intense rides
 STR_3259    :{SMALLFONT}{BLACK}Select whether guests should generally prefer more intense rides only
-STR_3260    :{WINDOW_COLOUR_2}Cash per guest (average):
-STR_3261    :{WINDOW_COLOUR_2}Guests initial happiness:
-STR_3262    :{WINDOW_COLOUR_2}Guests initial hunger:
-STR_3263    :{WINDOW_COLOUR_2}Guests initial thirst:
+STR_3260    :{WINDOW_COLOUR_2}ゲストの平均所持金:
+STR_3261    :{WINDOW_COLOUR_2}ゲストの幸福度　初期値:
+STR_3262    :{WINDOW_COLOUR_2}ゲストの空腹度　初期値:
+STR_3263    :{WINDOW_COLOUR_2}ゲストの喉の渇き　初期値:
 STR_3264    :Can't increase this any further!
 STR_3265    :Can't reduce this any further!
 STR_3266    :{SMALLFONT}{BLACK}Select how this park charges for entrance and rides
