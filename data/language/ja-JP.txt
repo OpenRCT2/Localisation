@@ -27,7 +27,7 @@ STR_0022    :迷路
 STR_0023    :スパイラル滑り台
 STR_0024    :ゴーカート
 STR_0025    :ログ・フリューム
-STR_0026    :急流川下り
+STR_0026    :リバー・ラピッド
 STR_0027    :バンパーカー
 STR_0028    :パイレーツシップ
 STR_0029    :スイング・インバータ・シップ
@@ -889,7 +889,7 @@ STR_0883    :ゲームをセーブする
 STR_0884    :景色をロードする
 STR_0885    :景色をセーブする
 STR_0886    :ゲームを閉じる
-STR_0887    :Scenario Editorを閉じる
+STR_0887    :シナリオエディタを閉じる
 STR_0888    :トラックデザイナーを閉める
 STR_0889    :Track Designs Managerを閉じる
 STR_0890    :<removed string - do not use>
@@ -1150,11 +1150,11 @@ STR_1144    :Can't build/move entrance for this ride/attraction...
 STR_1145    :Can't build/move exit for this ride/attraction...
 STR_1146    :Entrance not yet built
 STR_1147    :Exit not yet built
-STR_1148    :Quarter load
-STR_1149    :Half load
-STR_1150    :Three-quarter load
-STR_1151    :Full load
-STR_1152    :Any load
+STR_1148    :乗車率1/4
+STR_1149    :乗車率1/2
+STR_1150    :乗車率3/4
+STR_1151    :満員
+STR_1152    :指定なし
 STR_1153    :Height Marks on Ride Tracks
 STR_1154    :Height Marks on Land
 STR_1155    :Height Marks on Paths
@@ -1208,7 +1208,7 @@ STR_1202    :1 person in queue line
 STR_1203    :{COMMA16} people in queue line
 STR_1204    :{COMMA16} minute queue time
 STR_1205    :{COMMA16} minutes queue time
-STR_1206    :{WINDOW_COLOUR_2}Wait for:
+STR_1206    :{WINDOW_COLOUR_2}発車待ち:
 STR_1207    :{WINDOW_COLOUR_2}Leave if another train arrives at station
 STR_1208    :{WINDOW_COLOUR_2}Leave if another boat arrives at station
 STR_1209    :{SMALLFONT}{BLACK}Select whether should wait for passengers before departing
@@ -1482,43 +1482,43 @@ STR_1476    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}Not yet available
 STR_1477    :{WINDOW_COLOUR_2}Intensity rating: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
 STR_1478    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32}  ({STRINGID})
 STR_1479    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}Not yet available
-STR_1480    :{SMALLFONT}{OPENQUOTES}I can't afford {STRINGID}{ENDQUOTES}
-STR_1481    :{SMALLFONT}{OPENQUOTES}I've spent all my money{ENDQUOTES}
-STR_1482    :{SMALLFONT}{OPENQUOTES}I feel sick{ENDQUOTES}
-STR_1483    :{SMALLFONT}{OPENQUOTES}I feel very sick{ENDQUOTES}
+STR_1480    :{SMALLFONT}「{STRINGID}には手が出ない」
+STR_1481    :{SMALLFONT}「お金をすべて使っちゃった…」
+STR_1482    :{SMALLFONT}「気分が悪い…」
+STR_1483    :{SMALLFONT}「ひどく気分が悪い！」
 STR_1484    :{SMALLFONT}{OPENQUOTES}I want to go on something more thrilling than {STRINGID}{ENDQUOTES}
 STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} looks too intense for me{ENDQUOTES}
 STR_1486    :{SMALLFONT}{OPENQUOTES}I haven't finished my {STRINGID} yet{ENDQUOTES}
 STR_1487    :{SMALLFONT}{OPENQUOTES}Just looking at {STRINGID} makes me feel sick{ENDQUOTES}
-STR_1488    :{SMALLFONT}{OPENQUOTES}I'm not paying that much to go on {STRINGID}{ENDQUOTES}
-STR_1489    :{SMALLFONT}{OPENQUOTES}I want to go home{ENDQUOTES}
+STR_1488    :{SMALLFONT}「{STRINGID}に乗るのにそんなに払えないよ！」
+STR_1489    :{SMALLFONT}「家に帰りたい」
 STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} is really good value{ENDQUOTES}
 STR_1491    :{SMALLFONT}{OPENQUOTES}I've already got {STRINGID}{ENDQUOTES}
 STR_1492    :{SMALLFONT}{OPENQUOTES}I can't afford {STRINGID}{ENDQUOTES}
-STR_1493    :{SMALLFONT}{OPENQUOTES}I'm not hungry{ENDQUOTES}
-STR_1494    :{SMALLFONT}{OPENQUOTES}I'm not thirsty{ENDQUOTES}
-STR_1495    :{SMALLFONT}{OPENQUOTES}Help! I'm drowning!{ENDQUOTES}
+STR_1493    :{SMALLFONT}「お腹は空いてないよ」
+STR_1494    :{SMALLFONT}「喉は渇いてないよ]
+STR_1495    :{SMALLFONT}「助けて！溺れている！」
 STR_1496    :{SMALLFONT}{OPENQUOTES}I'm lost!{ENDQUOTES}
 STR_1497    :{SMALLFONT}{OPENQUOTES}{STRINGID} was great{ENDQUOTES}
-STR_1498    :{SMALLFONT}{OPENQUOTES}I've been queuing for {STRINGID} for ages{ENDQUOTES}
+STR_1498    :{SMALLFONT}「{STRINGID}にもう何年も並んでるよ」
 STR_1499    :{SMALLFONT}{OPENQUOTES}I'm tired{ENDQUOTES}
 STR_1500    :{SMALLFONT}{OPENQUOTES}I'm hungry{ENDQUOTES}
 STR_1501    :{SMALLFONT}{OPENQUOTES}I'm thirsty{ENDQUOTES}
-STR_1502    :{SMALLFONT}{OPENQUOTES}I need to go to the bathroom{ENDQUOTES}
+STR_1502    :{SMALLFONT}「トイレに行きたい」
 STR_1503    :{SMALLFONT}{OPENQUOTES}I can't find {STRINGID}{ENDQUOTES}
 STR_1504    :{SMALLFONT}{OPENQUOTES}I'm not paying that much to use {STRINGID}{ENDQUOTES}
-STR_1505    :{SMALLFONT}{OPENQUOTES}I'm not going on {STRINGID} while it's raining{ENDQUOTES}
-STR_1506    :{SMALLFONT}{OPENQUOTES}The litter here is really bad{ENDQUOTES}
+STR_1505    :{SMALLFONT}「雨が降ってる間は{STRINGID}には乗りたくない」
+STR_1506    :{SMALLFONT}「この場所はゴミであふれてる」
 STR_1507    :{SMALLFONT}{OPENQUOTES}I can't find the park exit{ENDQUOTES}
 STR_1508    :{SMALLFONT}{OPENQUOTES}I want to get off {STRINGID}{ENDQUOTES}
 STR_1509    :{SMALLFONT}{OPENQUOTES}I want to get out of {STRINGID}{ENDQUOTES}
-STR_1510    :{SMALLFONT}{OPENQUOTES}I'm not going on {STRINGID} - It isn't safe{ENDQUOTES}
-STR_1511    :{SMALLFONT}{OPENQUOTES}This path is disgusting{ENDQUOTES}
+STR_1510    :{SMALLFONT}「{STRINGID}には乗りたくない――危ないよ！」
+STR_1511    :{SMALLFONT}「この道は胸が悪くなるな！」
 STR_1512    :{SMALLFONT}{OPENQUOTES}It's too crowded here{ENDQUOTES}
-STR_1513    :{SMALLFONT}{OPENQUOTES}The vandalism here is really bad{ENDQUOTES}
+STR_1513    :{SMALLFONT}「この道は壊れてる」
 STR_1514    :{SMALLFONT}{OPENQUOTES}Great scenery!{ENDQUOTES}
 STR_1515    :{SMALLFONT}{OPENQUOTES}This park is really clean and tidy{ENDQUOTES}
-STR_1516    :{SMALLFONT}{OPENQUOTES}The jumping fountains are great{ENDQUOTES}
+STR_1516    :{SMALLFONT}「すごいジャンプ噴水だ！」
 STR_1517    :{SMALLFONT}{OPENQUOTES}The music is nice here{ENDQUOTES}
 STR_1518    :{SMALLFONT}{OPENQUOTES}This balloon from {STRINGID} is really good value{ENDQUOTES}
 STR_1519    :{SMALLFONT}{OPENQUOTES}This cuddly toy from {STRINGID} is really good value{ENDQUOTES}
@@ -1650,7 +1650,7 @@ STR_1644    :
 STR_1645    :
 STR_1646    :
 STR_1647    :
-STR_1648    :{SMALLFONT}{OPENQUOTES}Help! Put me down!{ENDQUOTES}
+STR_1648    :{SMALLFONT}「助けて！地上に降ろして！」
 STR_1649    :{SMALLFONT}{OPENQUOTES}I'm running out of cash!{ENDQUOTES}
 STR_1650    :{SMALLFONT}{OPENQUOTES}Wow! A new ride being built!{ENDQUOTES}
 # Two removed inside jokes about Intamin and Phoenix
@@ -1697,7 +1697,7 @@ STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
 STR_1691    :{WINDOW_COLOUR_2}  Cost: {BLACK}{CURRENCY}
 STR_1692    :{WINDOW_COLOUR_2}  Cost: {BLACK}from {CURRENCY}
 STR_1693    :{SMALLFONT}{BLACK}来客
-STR_1694    :{SMALLFONT}{BLACK}Staff
+STR_1694    :{SMALLFONT}{BLACK}スタフ
 STR_1695    :{SMALLFONT}{BLACK}Income and costs
 STR_1696    :{SMALLFONT}{BLACK}Customer information
 STR_1697    :Cannot place these on queue line area
@@ -1712,9 +1712,9 @@ STR_1705    :{SMALLFONT}{BLACK}このスタッフをクビにする
 STR_1706    :{SMALLFONT}{BLACK}このスタッフを新しい場所に移動させる
 STR_1707    :Too many staff in game
 STR_1708    :{SMALLFONT}{BLACK}クリックしてスタッフを移動
-STR_1709    :Sack staff
+STR_1709    :解雇する
 STR_1710    :はい
-STR_1711    :{WINDOW_COLOUR_1}Are you sure you want to sack {STRINGID}?
+STR_1711    :{WINDOW_COLOUR_1}{STRINGID}を解雇してほしい?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}歩道を掃除する
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}庭木に水をやる
 STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}ゴミ箱を空にする
@@ -1722,12 +1722,12 @@ STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}草刈りする
 STR_1716    :Invalid name for park
 STR_1717    :Can't rename park...
 STR_1718    :パーク名
-STR_1719    :Enter name for park:
-STR_1720    :{SMALLFONT}{BLACK}Name park
-STR_1721    :Park closed
-STR_1722    :Park open
-STR_1723    :Can't open park...
-STR_1724    :Can't close park...
+STR_1719    :パーク名を入力してください:
+STR_1720    :{SMALLFONT}{BLACK}パーク名
+STR_1721    :パークが閉園中
+STR_1722    :パークが開園中
+STR_1723    :パークは開園ができません…
+STR_1724    :パークは閉園ができません…
 STR_1725    :Can't buy land...
 STR_1726    :Land not for sale!
 STR_1727    :Construction rights not for sale!
@@ -1759,7 +1759,7 @@ STR_1752    :{SMALLFONT}{BLACK}Show list of individual guests in park
 STR_1753    :{SMALLFONT}{BLACK}Show summarised list of guests in park
 STR_1754    :{BLACK}{COMMA16} 来客
 STR_1755    :{BLACK}{COMMA16} 来客
-STR_1756    :{WINDOW_COLOUR_2}Admission price:
+STR_1756    :{WINDOW_COLOUR_2}入場料:
 STR_1757    :{WINDOW_COLOUR_2}Reliability: {MOVE_X}{255}{BLACK}{COMMA16}%
 STR_1758    :{SMALLFONT}{BLACK}Build mode
 STR_1759    :{SMALLFONT}{BLACK}Move mode
@@ -1778,23 +1778,23 @@ STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COM
 STR_1772    :{COMMA16}
 STR_1773    :Only one on-ride photo section allowed per ride
 STR_1774    :Only one cable lift hill allowed per ride
-STR_1775    :Off
-STR_1776    :On
+STR_1775    :オフ
+STR_1776    :オン
 STR_1777    :{WINDOW_COLOUR_2}音楽
 STR_1778    :{STRINGID} - - 
-STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Panda costume
-STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Tiger costume
-STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Elephant costume
-STR_1782    :{INLINE_SPRITE}{01}{20}{00}{00} Roman costume
-STR_1783    :{INLINE_SPRITE}{02}{20}{00}{00} Gorilla costume
-STR_1784    :{INLINE_SPRITE}{03}{20}{00}{00} Snowman costume
-STR_1785    :{INLINE_SPRITE}{04}{20}{00}{00} Knight costume
-STR_1786    :{INLINE_SPRITE}{05}{20}{00}{00} Astronaut costume
-STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Bandit costume
-STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Sheriff costume
-STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Pirate costume
-STR_1790    :{SMALLFONT}{BLACK}Select uniform colour for this type of staff
-STR_1791    :{WINDOW_COLOUR_2}Uniform colour:
+STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} パンダのコスチューム
+STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} トラのコスチューム
+STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} 象のコスチューム
+STR_1782    :{INLINE_SPRITE}{01}{20}{00}{00} ローマのコスチューム
+STR_1783    :{INLINE_SPRITE}{02}{20}{00}{00} ゴリラのコスチューム
+STR_1784    :{INLINE_SPRITE}{03}{20}{00}{00} 雪だるまのコスチューム
+STR_1785    :{INLINE_SPRITE}{04}{20}{00}{00} ナイトのコスチューム
+STR_1786    :{INLINE_SPRITE}{05}{20}{00}{00} 宇宙飛行士のコスチューム
+STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} 泥棒のコスチューム
+STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} シェリフのコスチューム
+STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} 海賊のコスチューム
+STR_1790    :{SMALLFONT}{BLACK}このスタフのタイプの制服の色を選択：
+STR_1791    :{WINDOW_COLOUR_2}制服の色:
 STR_1792    :Responding to {STRINGID} breakdown call
 STR_1793    :Heading to {STRINGID} for an inspection
 STR_1794    :Fixing {STRINGID}
@@ -1926,8 +1926,8 @@ STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :Can't borrow any more money!
 STR_1919    :十分な資金がありません！
 STR_1920    :Can't pay back loan!
-STR_1921    :{SMALLFONT}{BLACK}Start a new game
-STR_1922    :{SMALLFONT}{BLACK}Continue playing a saved game
+STR_1921    :{SMALLFONT}{BLACK}新しいゲームを始める
+STR_1922    :{SMALLFONT}{BLACK}ゲームを再開する
 STR_1923    :{SMALLFONT}{BLACK}チュートリアル
 STR_1924    :{SMALLFONT}{BLACK}終了
 STR_1925    :ここに人を置けない...
@@ -2327,7 +2327,7 @@ STR_2318    :<removed string - do not use>
 STR_2319    :<removed string - do not use>
 STR_2320    :<removed string - do not use>
 STR_2321    :{WINDOW_COLOUR_2}Number of rides/attractions: {BLACK}{COMMA16}
-STR_2322    :{WINDOW_COLOUR_2}Staff: {BLACK}{COMMA16}
+STR_2322    :{WINDOW_COLOUR_2}スタフ: {BLACK}{COMMA16}
 STR_2323    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}m{SQUARED}
 STR_2324    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}sq.ft.
 STR_2325    :{SMALLFONT}{BLACK}Buy land to extend park
@@ -2352,7 +2352,7 @@ STR_2343    :ユーロ ({EURO})
 STR_2344    :ポンド法
 STR_2345    :メートル法
 STR_2346    :Display
-STR_2347    :{RED}{STRINGID} has drowned!
+STR_2347    :{RED}{STRINGID}が溺れてしまいました。
 STR_2348    :{SMALLFONT}{BLACK}Show statistics for this staff member
 STR_2349    :{WINDOW_COLOUR_2}月給: {BLACK}{CURRENCY} per month
 STR_2350    :{WINDOW_COLOUR_2}雇用した日: {BLACK}{MONTHYEAR}
@@ -2362,7 +2362,7 @@ STR_2353    :{WINDOW_COLOUR_2}ゴミを掃除した回数: {BLACK}{COMMA16}
 STR_2354    :{WINDOW_COLOUR_2}ゴミ箱を空にした回数: {BLACK}{COMMA16}
 STR_2355    :{WINDOW_COLOUR_2}ライドを修理した回数: {BLACK}{COMMA16}
 STR_2356    :{WINDOW_COLOUR_2}ライドを点検した回数: {BLACK}{COMMA16}
-STR_2357    :House
+STR_2357    :家
 STR_2358    :単位
 STR_2359    :高さの単位
 STR_2360    :{WINDOW_COLOUR_2}ウィンドウ解像度:
@@ -2414,7 +2414,7 @@ STR_2405    :Build 10 roller coasters of a given length
 STR_2406    :Finish building 5 roller coasters
 STR_2407    :Repay loan and achieve a given park value
 STR_2408    :Monthly profit from food/merchandise
-STR_2409    :{WINDOW_COLOUR_2}Marketing campaigns in operation
+STR_2409    :{WINDOW_COLOUR_2}広告宣伝活動
 STR_2410    :{BLACK}None
 STR_2411    :{WINDOW_COLOUR_2}Marketing campaigns available
 STR_2412    :{SMALLFONT}{BLACK}Start this marketing campaign
@@ -2490,12 +2490,12 @@ STR_2481    :{SMALLFONT}{BLACK}Show graph of lateral acceleration against time
 STR_2482    :{SMALLFONT}{BLACK}Profit: {CURRENCY} per week,  Park Value: {CURRENCY}
 STR_2483    :{WINDOW_COLOUR_2}Weekly profit: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Weekly profit: {RED}{CURRENCY2DP}
-STR_2485    :Controls
+STR_2485    :コントロール
 STR_2486    :General
 STR_2487    :Show 'real' names of guests
 STR_2488    :{SMALLFONT}{BLACK}Toggle between showing 'real' names of guests and guest numbers
-STR_2489    :Shortcut keys...
-STR_2490    :Keyboard shortcuts
+STR_2489    :キーバインドの確認…
+STR_2490    :キーバインドの確認
 STR_2491    :Reset keys
 STR_2492    :{SMALLFONT}{BLACK}Set all keyboard shortcuts back to default settings
 STR_2493    :Close top-most window
@@ -2529,7 +2529,7 @@ STR_2520    :Show guest list
 STR_2521    :Show staff list
 STR_2522    :Show recent messages
 STR_2523    :Show map
-STR_2524    :Screenshot
+STR_2524    :スクリーンショット
 ### The following need to be reordered to match SDL_keycode layout.
 STR_2525    :???
 STR_2526    :???
@@ -2795,9 +2795,9 @@ STR_2783    :CTRL +
 STR_2784    :Change keyboard shortcut
 STR_2785    :{WINDOW_COLOUR_2}Press new shortcut key for:{NEWLINE}{OPENQUOTES}{STRINGID}{ENDQUOTES}
 STR_2786    :{SMALLFONT}{BLACK}Click on shortcut description to select new key
-STR_2787    :{WINDOW_COLOUR_2}Park value: {BLACK}{CURRENCY}
-STR_2788    :{WINDOW_COLOUR_2}Congratulations !{NEWLINE}{BLACK}You achieved your objective with a company value of {CURRENCY} !
-STR_2789    :{WINDOW_COLOUR_2}You have failed your objective !
+STR_2787    :{WINDOW_COLOUR_2}会社評価額: {BLACK}{CURRENCY}
+STR_2788    :{WINDOW_COLOUR_2}おめでとう！{NEWLINE}{BLACK}会社評価額の{CURRENCY}と目的に成功しました！
+STR_2789    :{WINDOW_COLOUR_2}残念！目的に失敗しました！
 STR_2790    :Enter name into scenario chart
 STR_2791    :Enter name
 STR_2792    :Please enter your name for the scenario chart:
@@ -2822,41 +2822,41 @@ STR_2810    :{RED}Guests are thirsty and can't find anywhere to buy drinks
 STR_2811    :{RED}Guests are complaining because they can't find the toilets in your park
 STR_2812    :{RED}Guests are getting lost or stuck{NEWLINE}Check whether the layout of your footpaths needs improving to help the guests find their way around
 STR_2813    :{RED}Your park entrance fee is too high!{NEWLINE}Reduce your entrance fee or improve the value of the park to attract more guests
-STR_2814    :{WINDOW_COLOUR_2}Most untidy park award
-STR_2815    :{WINDOW_COLOUR_2}Tidiest park award
-STR_2816    :{WINDOW_COLOUR_2}Award for the park with the best roller coasters
-STR_2817    :{WINDOW_COLOUR_2}Best value park award
-STR_2818    :{WINDOW_COLOUR_2}Most beautiful park award
-STR_2819    :{WINDOW_COLOUR_2}Worst value park award
-STR_2820    :{WINDOW_COLOUR_2}Safest park award
-STR_2821    :{WINDOW_COLOUR_2}Best staff award
-STR_2822    :{WINDOW_COLOUR_2}Best park food award
-STR_2823    :{WINDOW_COLOUR_2}Worst park food award
-STR_2824    :{WINDOW_COLOUR_2}Best park toilets award
-STR_2825    :{WINDOW_COLOUR_2}Most disappointing park award
-STR_2826    :{WINDOW_COLOUR_2}Best water rides award
-STR_2827    :{WINDOW_COLOUR_2}Best custom-designed rides award
-STR_2828    :{WINDOW_COLOUR_2}Most dazzling ride colour schemes award
-STR_2829    :{WINDOW_COLOUR_2}Most confusing park layout award
-STR_2830    :{WINDOW_COLOUR_2}Best gentle ride award
-STR_2831    :{TOPAZ}Your park has received an award for being 'The most untidy park in the country'!
-STR_2832    :{TOPAZ}Your park has received an award for being 'The tidiest park in the country'!
-STR_2833    :{TOPAZ}Your park has received an award for being 'The park with the best roller coasters'!
-STR_2834    :{TOPAZ}Your park has received an award for being 'The best value park in the country'!
-STR_2835    :{TOPAZ}Your park has received an award for being 'The most beautiful park in the country'!
-STR_2836    :{TOPAZ}Your park has received an award for being 'The worst value park in the country'!
-STR_2837    :{TOPAZ}Your park has received an award for being 'The safest park in the country'!
-STR_2838    :{TOPAZ}Your park has received an award for being 'The park with the best staff'!
-STR_2839    :{TOPAZ}Your park has received an award for being 'The park with the best food in the country'!
-STR_2840    :{TOPAZ}Your park has received an award for being 'The park with the worst food in the country'!
-STR_2841    :{TOPAZ}Your park has received an award for being 'The park with the best toilet facilities in the country'!
-STR_2842    :{TOPAZ}Your park has received an award for being 'The most disappointing park in the country'!
-STR_2843    :{TOPAZ}Your park has received an award for being 'The park with the best water rides in the country'!
-STR_2844    :{TOPAZ}Your park has received an award for being 'The park with the best custom-designed rides'!
-STR_2845    :{TOPAZ}Your park has received an award for being 'The park with the most dazzling choice of colour schemes'!
-STR_2846    :{TOPAZ}Your park has received an award for being 'The park with the most confusing layout'!
-STR_2847    :{TOPAZ}Your park has received an award for being 'The park with the best gentle rides'!
-STR_2848    :{WINDOW_COLOUR_2}No recent awards
+STR_2814    :{WINDOW_COLOUR_2}最悪に汚いパーク罰
+STR_2815    :{WINDOW_COLOUR_2}最高に清潔なパーク賞
+STR_2816    :{WINDOW_COLOUR_2}ベストローラーコースター賞
+STR_2817    :{WINDOW_COLOUR_2}最高にお得なパーク賞
+STR_2818    :{WINDOW_COLOUR_2}最高に美しいパーク賞
+STR_2819    :{WINDOW_COLOUR_2}最悪に損なパーク罰
+STR_2820    :{WINDOW_COLOUR_2}最高に安全なパーク賞
+STR_2821    :{WINDOW_COLOUR_2}最高に安全なパーク賞
+STR_2822    :{WINDOW_COLOUR_2}最高のフード賞
+STR_2823    :{WINDOW_COLOUR_2}最悪なフード罰
+STR_2824    :{WINDOW_COLOUR_2}最高のトイレ賞
+STR_2825    :{WINDOW_COLOUR_2}最悪にガッカリさせられるパーク罰
+STR_2826    :{WINDOW_COLOUR_2}最高のウォーターライド賞
+STR_2827    :{WINDOW_COLOUR_2}ベスト・カスタムデザイン賞
+STR_2828    :{WINDOW_COLOUR_2}カラフル・スタイル賞
+STR_2829    :{WINDOW_COLOUR_2}混乱のレイアウト罰
+STR_2830    :{WINDOW_COLOUR_2}最高にジェントルライド賞
+STR_2831    :{TOPAZ}「最悪に汚いパーク」罰を授与されました
+STR_2832    :{TOPAZ}「最高に清潔なパーク」賞を授与されました
+STR_2833    :{TOPAZ}「ベストローラーコースター」賞を授与されました
+STR_2834    :{TOPAZ}「最高にお得なパーク」賞を授与されました
+STR_2835    :{TOPAZ}「最高に美しいパーク」賞を授与されました
+STR_2836    :{TOPAZ}「最悪に損なパーク」罰を授与されました
+STR_2837    :{TOPAZ}「最高に安全なパーク」賞を授与されました
+STR_2838    :{TOPAZ}「最高に安全なパーク」賞を授与されました
+STR_2839    :{TOPAZ}「最高のフード」賞を授与されました
+STR_2840    :{TOPAZ}「最悪なフード」罰を授与されました
+STR_2841    :{TOPAZ}「最高のトイレ」賞を授与されました
+STR_2842    :{TOPAZ}「最悪にガッカリさせられるパーク」罰を授与されました
+STR_2843    :{TOPAZ}「最高のウォーターライド」賞を授与されました
+STR_2844    :{TOPAZ}「ベスト・カスタムデザイン」賞を授与されました
+STR_2845    :{TOPAZ}「カラフル・スタイル」賞を授与されました
+STR_2846    :{TOPAZ}「混乱のレイアウト」罰を授与されました
+STR_2847    :{TOPAZ}「最高にジェントルライド」賞を授与されました
+STR_2848    :{WINDOW_COLOUR_2}賞罰無し
 STR_2849    :New scenario installed successfully
 STR_2850    :New track design installed successfully
 STR_2851    :Scenario already installed
@@ -3295,13 +3295,13 @@ STR_3283    :{SMALLFONT}{BLACK}Select rides to be preserved
 STR_3284    :Objective Selection
 STR_3285    :Preserved Rides
 STR_3286    :{SMALLFONT}{BLACK}Select objective for this scenario
-STR_3287    :{WINDOW_COLOUR_2}Objective:
+STR_3287    :{WINDOW_COLOUR_2}目標:
 STR_3288    :{SMALLFONT}{BLACK}Select climate
-STR_3289    :{WINDOW_COLOUR_2}Climate:
-STR_3290    :Cool and wet
-STR_3291    :Warm
-STR_3292    :Hot and dry
-STR_3293    :Cold
+STR_3289    :{WINDOW_COLOUR_2}雰囲気:
+STR_3290    :質素
+STR_3291    :南国
+STR_3292    :砂漠
+STR_3293    :冬
 STR_3294    :Change...
 STR_3295    :{SMALLFONT}{BLACK}Change name of park
 STR_3296    :{SMALLFONT}{BLACK}Change name of scenario
@@ -3540,15 +3540,15 @@ STR_5197    :Scenery
 STR_5198    :Footpath
 STR_5199    :Ride Construction
 STR_5200    :Track Design Place
-STR_5201    :New Ride
+STR_5201    :新しいライド
 STR_5202    :Track Design Selection
-STR_5203    :Ride
-STR_5204    :Ride List
-STR_5205    :Guest
-STR_5206    :Guest List
+STR_5203    :ライド
+STR_5204    :ライドリスト
+STR_5205    :ゲスト
+STR_5206    :ゲストリスト
 STR_5207    :スタッフ
 STR_5208    :スタッフ一覧
-STR_5209    :Banner
+STR_5209    :バナー
 STR_5210    :Object Selection
 STR_5211    :Invention List
 STR_5212    :Scenario Options
@@ -3557,10 +3557,10 @@ STR_5214    :Map Generation
 STR_5215    :Track Design Manager
 STR_5216    :Track Design Manager List
 STR_5217    :Cheats
-STR_5218    :Themes
-STR_5219    :Options
-STR_5220    :Keyboard Shortcuts
-STR_5221    :Change Keyboard Shortcut
+STR_5218    :スタイル
+STR_5219    :設定
+STR_5220    :ショートカット
+STR_5221    :ショートカットをセットする
 STR_5222    :Load/Save
 STR_5223    :Save Prompt
 STR_5224    :Demolish Ride Prompt
@@ -3575,15 +3575,15 @@ STR_5232    :{SMALLFONT}{BLACK}Editors
 STR_5233    :{SMALLFONT}{BLACK}Miscellaneous
 STR_5234    :{SMALLFONT}{BLACK}Prompts
 STR_5235    :{SMALLFONT}{BLACK}Settings
-STR_5236    :Window:
-STR_5237    :Palette:
-STR_5238    :Current Theme:
-STR_5239    :Duplicate
+STR_5236    :ウインドウ:
+STR_5237    :パレット:
+STR_5238    :現行のスタイル:
+STR_5239    :複写
 STR_5240    :Enter a name for the theme
 STR_5241    :Can't change this theme
 STR_5242    :Theme name already exists
 STR_5243    :Invalid characters used
-STR_5244    :Themes
+STR_5244    :スタイル
 STR_5245    :Top Toolbar
 STR_5246    :Bottom Toolbar
 STR_5247    :Track Editor Bottom Toolbar
@@ -3617,8 +3617,8 @@ STR_5274    :{SMALLFONT}{BLACK}Footpath
 STR_5275    :Search for Objects
 STR_5276    :Enter the name of an object to search for
 STR_5277    :Clear
-STR_5278    :Sandbox mode
-STR_5279    :Sandbox mode off
+STR_5278    :サンドボックスモード
+STR_5279    :サンドボックスモードを切る
 STR_5280    :{SMALLFONT}{BLACK}Allow editing land ownership settings through the Map window and other options that are normally restricted to the Scenario Editor
 STR_5281    :{SMALLFONT}{BLACK}Features
 STR_5282    :RCT1 Ride Open/Close Lights
@@ -3805,13 +3805,13 @@ STR_5462    :{CURRENCY}
 STR_5463    :Goal: Have fun!
 STR_5464    :General
 STR_5465    :Climate
-STR_5466    :Staff
+STR_5466    :スタフ
 STR_5467    :ALT + 
-STR_5468    :Recent messages
-STR_5469    :Scroll map up
-STR_5470    :Scroll map left
-STR_5471    :Scroll map down
-STR_5472    :Scroll map right
+STR_5468    :最近のメッセージ
+STR_5469    :地図を上にスクロールする
+STR_5470    :地図を左にスクロールする
+STR_5471    :地図を下にスクロールする
+STR_5472    :地図を右にスクロールする
 STR_5473    :Cycle day / night
 STR_5474    :Display text on banners in uppercase
 STR_5475    :{COMMA16} weeks
@@ -4884,7 +4884,7 @@ STR_DESC    :リニアモーターで急速発進するローラーコースタ�
 STR_CPTY    :各車両4名
 
 [PRETST]
-STR_NAME    :Pretzel Stall
+STR_NAME    :プレッツェル・ショップ
 STR_DESC    :サクサクのプレッツェルを売る売店です
 
 [PTCT1]
@@ -4903,7 +4903,7 @@ STR_DESC    :膝の安全バーが付いた、パッド入りの座席を持つ�
 STR_CPTY    :各車両6名
 
 [RAPBOAT]
-STR_NAME    :River Rapids
+STR_NAME    :リバー・ラピッド
 STR_DESC    :円形のボートが、滝や急流のある幅の広い水路を曲がりながら流れて行くスリリングな乗物です
 STR_CPTY    :各ボート8名
 
@@ -5019,8 +5019,8 @@ STR_NAME    :Sea Food Stall
 STR_DESC    :ゲ?揚げを売る売店です
 
 [SRINGS]
-STR_NAME    :Space Rings
-STR_DESC    :同軸のピボットリングで、全方向に回転する乗物です
+STR_NAME    :スペースリング
+STR_DESC    :同軸のスペースリングで、全方向に回転する乗物です
 STR_CPTY    :各1名
 
 [SSC1]
@@ -5061,17 +5061,17 @@ STR_DESC    :前席の乗客がペダルを漕いで進む、白鳥型のボー�
 STR_CPTY    :各ボート4名
 
 [SWSH1]
-STR_NAME    :Pirate Ship
+STR_NAME    :パイレーツシップ
 STR_DESC    :前後にスイングする大きなパイレーツです
 STR_CPTY    :定員16名
 
 [SWSH2]
-STR_NAME    :Swinging Inverter Ship
+STR_NAME    :スイング・インバータ・シップ
 STR_DESC    :アームの片側に船が、片側に重りが付いており、360度回転する乗物です
 STR_CPTY    :定員12名
 
 [THCAR]
-STR_NAME    :Air Powered Vertical Coaster
+STR_NAME    :エアーパワード・バーティカル・コースター
 STR_DESC    :空気圧で勢いよく発進した後、コースを垂直に駆け上り、また反対側を駆け下りて発着所に戻ってくるコースターです
 STR_CPTY    :各車両2名
 
