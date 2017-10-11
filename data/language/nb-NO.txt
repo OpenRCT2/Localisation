@@ -3495,7 +3495,7 @@ STR_5153    :Edit Themes...
 STR_5154    :Hardware display
 STR_5155    :Allow testing of unfinished tracks
 STR_5156    :{SMALLFONT}{BLACK}Allows testing of most ride types even when the track is unfinished, does not apply to block sectioned modes
-STR_5157    :Unlock all prices
+STR_5157    :<removed string - do not use>
 STR_5158    :Quit to menu
 STR_5159    :Exit OpenRCT2
 STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, Year {POP16}{COMMA16}
@@ -4458,6 +4458,12 @@ STR_6144    :Vis blokkoppdateringer
 STR_6145    :{SMALLFONT}{BLACK}Set øvre fartsgrense for boostere
 STR_6146    :Tillat alle visbare banedeler
 STR_6147    :{SMALLFONT}{BLACK}Tillater alle banedeler for attraksjonen, uten hensyn til hva vogntypen støtter.
+STR_6148    :Kobler til mesterserver.
+STR_6149    :Kunne ikke koble til mesterserver
+STR_6150    :Ugyldig svar fra mesterserver (mangler JSON-nummer)
+STR_6151    :Mesterserver sendte ikke serverliste
+STR_6152    :Ugyldig svar fra mesterserver (mangler JSON-liste)
+STR_6153    :Betal for parkinngang / Betal for attraksjoner
 
 #############
 # Scenarios #
