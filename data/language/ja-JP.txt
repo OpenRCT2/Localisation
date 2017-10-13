@@ -899,7 +899,7 @@ STR_0893    :Screenshot failed !
 STR_0894    :Landscape data area full !
 STR_0895    :Can't build partly above and partly below ground
 STR_0896    :{POP16}{POP16}{STRINGID} Construction
-STR_0897    :Direction
+STR_0897    :方向
 STR_0898    :{SMALLFONT}{BLACK}Left-hand curve
 STR_0899    :{SMALLFONT}{BLACK}Right-hand curve
 STR_0900    :{SMALLFONT}{BLACK}Left-hand curve (small radius)
@@ -909,8 +909,8 @@ STR_0903    :{SMALLFONT}{BLACK}Right-hand curve (very small radius)
 STR_0904    :{SMALLFONT}{BLACK}Left-hand curve (large radius)
 STR_0905    :{SMALLFONT}{BLACK}Right-hand curve (large radius)
 STR_0906    :{SMALLFONT}{BLACK}Straight
-STR_0907    :Slope
-STR_0908    :Roll/Banking
+STR_0907    :傾斜
+STR_0908    :カーブとバンク
 STR_0909    :Seat Rot.
 STR_0910    :{SMALLFONT}{BLACK}Roll for left-hand curve
 STR_0911    :{SMALLFONT}{BLACK}Roll for right-hand curve
@@ -993,7 +993,7 @@ STR_0987    :Too many rides/attractions
 STR_0988    :Can't create new ride/attraction...
 STR_0989    :{STRINGID}
 STR_0990    :{SMALLFONT}{BLACK}Construction
-STR_0991    :Station platform
+STR_0991    :乗り場
 STR_0992    :{SMALLFONT}{BLACK}Demolish entire ride/attraction
 STR_0993    :Demolish ride/attraction
 STR_0994    :Demolish
@@ -1001,7 +1001,7 @@ STR_0995    :{WINDOW_COLOUR_1}Are you sure you want to completely demolish {STRI
 STR_0996    :Overall view
 STR_0997    :{SMALLFONT}{BLACK}View selection
 STR_0998    :No more stations allowed on this ride
-STR_0999    :Requires a station platform
+STR_0999    :乗り場が必要です。
 STR_1000    :Track is not a complete circuit
 STR_1001    :Track unsuitable for type of train
 STR_1002    :Can't open {POP16}{POP16}{POP16}{STRINGID}...
@@ -1028,7 +1028,7 @@ STR_1022    :{POP16}{POP16}{POP16}{COMMA16} car per train
 STR_1023    :{POP16}{POP16}{POP16}{COMMA16} cars per train
 STR_1024    :{COMMA16} car per train
 STR_1025    :{COMMA16} cars per train
-STR_1026    :Station platform too long!
+STR_1026    :乗り場は長すぎです！
 STR_1027    :{SMALLFONT}{BLACK}Locate this on Main View
 STR_1028    :Off edge of map!
 STR_1029    :Cannot build partly above and partly below water!
@@ -1038,20 +1038,20 @@ STR_1032    :Can only build this on water!
 STR_1033    :Can only build this above ground!
 STR_1034    :Can only build this on land!
 STR_1035    :Local authority won't allow construction above tree-height!
-STR_1036    :Load Game
-STR_1037    :Load Landscape
-STR_1038    :Convert saved game to scenario
-STR_1039    :Install new track design
-STR_1040    :Save Game
-STR_1041    :Save Scenario
-STR_1042    :Save Landscape
-STR_1043    :OpenRCT2 Saved Game
-STR_1044    :OpenRCT2 Scenario File
-STR_1045    :OpenRCT2 Landscape File
-STR_1046    :OpenRCT2 Track Design File
-STR_1047    :Game save failed!
-STR_1048    :Scenario save failed!
-STR_1049    :Landscape save failed!
+STR_1036    :ゲームをロードする
+STR_1037    :景色をロードする
+STR_1038    :ゲームセーブをシナリオに変換する
+STR_1039    :トラックディサインをインストールする
+STR_1040    :ゲームをセーブする
+STR_1041    :シナリオをセーブする
+STR_1042    :景色ををセーブする
+STR_1043    :OpenRCT2のゲームセーブ
+STR_1044    :OpenRCT2のシナリオファイル
+STR_1045    :OpenRCT2の景色ファイル
+STR_1046    :OpenRCT2のトラックディサインファイル
+STR_1047    :ゲームをセーブが失敗しました！
+STR_1048    :シナリオをセーブが失敗しました！
+STR_1049    :景色をセーブが失敗しました！
 STR_1050    :Failed to load...{NEWLINE}File contains invalid data!
 STR_1051    :Invisible Supports
 STR_1052    :Invisible People
@@ -1059,23 +1059,23 @@ STR_1053    :{SMALLFONT}{BLACK}Rides/attractions in park
 STR_1054    :{SMALLFONT}{BLACK}Name ride/attraction
 STR_1055    :{SMALLFONT}{BLACK}Name person
 STR_1056    :{SMALLFONT}{BLACK}Name staff member
-STR_1057    :Ride/attraction name
-STR_1058    :Enter new name for this ride/attraction:
-STR_1059    :Can't rename ride/attraction...
-STR_1060    :Invalid ride/attraction name
-STR_1061    :Normal mode
-STR_1062    :Continuous circuit mode
-STR_1063    :Reverse-Incline launched shuttle mode
-STR_1064    :Powered launch (passing station)
-STR_1065    :Shuttle mode
+STR_1057    :ライド／アトラクションの名
+STR_1058    :ライド／アトラクションの名を入力して下さい。
+STR_1059    :このライド／アトラクションの名がリネームできません。
+STR_1060    :無効なライド／アトラクション名です。
+STR_1061    :通常モード
+STR_1062    :周回コースモード
+STR_1063    :逆方向発車モード
+STR_1064    :動力発車（乗り場を通過する）
+STR_1065    :往復モード
 STR_1066    :Boat hire mode
-STR_1067    :Upward launch
+STR_1067    :上方向に発射
 STR_1068    :Rotating lift mode
 STR_1069    :Station to station mode
 STR_1070    :Single ride per admission
 STR_1071    :Unlimited rides per admission
 STR_1072    :Maze mode
-STR_1073    :Race mode
+STR_1073    :レースモード
 STR_1074    :Bumper-car mode
 STR_1075    :Swing mode
 STR_1076    :Shop stall mode
@@ -1108,26 +1108,26 @@ STR_1102    :Travelling at {VELOCITY}
 STR_1103    :Arriving at {POP16}{STRINGID}
 STR_1104    :{POP16}{STRINGID}にアンロード中
 STR_1105    :Travelling at {VELOCITY}
-STR_1106    :Crashing!
-STR_1107    :Crashed!
+STR_1106    :クラッシュ中！
+STR_1107    :クラッシュしました！
 STR_1108    :Travelling at {VELOCITY}
 STR_1109    :Swinging
 STR_1110    :回転中
 STR_1111    :回転中
-STR_1112    :Operating
+STR_1112    :操作中
 STR_1113    :上映中
 STR_1114    :回転中
-STR_1115    :Operating
-STR_1116    :Operating
+STR_1115    :操作中
+STR_1116    :操作中
 STR_1117    :Doing circus show
-STR_1118    :Operating
+STR_1118    :操作中
 STR_1119    :Waiting for cable lift
 STR_1120    :Travelling at {VELOCITY}
 STR_1121    :Stopping
 STR_1122    :Waiting for passengers
 STR_1123    :Waiting to start
 STR_1124    :Starting
-STR_1125    :Operating
+STR_1125    :操作中
 STR_1126    :Stopping
 STR_1127    :Unloading passengers
 STR_1128    :Stopped by block brakes
@@ -1203,28 +1203,28 @@ STR_1197    :故障中
 STR_1198    :クラッシュ！
 STR_1199    :{COMMA16}人の乗客
 STR_1200    :{COMMA16}人の乗客
-STR_1201    :Nobody in queue line
+STR_1201    :待ち行列の誰もいない
 STR_1202    :1人の行列
 STR_1203    :{COMMA16}人の行列
-STR_1204    :{COMMA16} minute queue time
-STR_1205    :{COMMA16} minutes queue time
+STR_1204    :{COMMA16}分　行列の待ち時間
+STR_1205    :{COMMA16}分　行列の待ち時間
 STR_1206    :{WINDOW_COLOUR_2}発車待ち:
-STR_1207    :{WINDOW_COLOUR_2}Leave if another train arrives at station
-STR_1208    :{WINDOW_COLOUR_2}Leave if another boat arrives at station
-STR_1209    :{SMALLFONT}{BLACK}Select whether should wait for passengers before departing
-STR_1210    :{SMALLFONT}{BLACK}Select whether should leave if another vehicle arrives at the same station
-STR_1211    :{WINDOW_COLOUR_2}Minimum waiting time:
-STR_1212    :{WINDOW_COLOUR_2}Maximum waiting time:
+STR_1207    :{WINDOW_COLOUR_2}別の列車が到着したら発車
+STR_1208    :{WINDOW_COLOUR_2}別のボートが到着したら発車
+STR_1209    :{SMALLFONT}{BLACK}別の列車が到着したら発車するように設定
+STR_1210    :{SMALLFONT}{BLACK}全ての直接隣接する乗り場と出発タイミングを同期するかどうか選択。
+STR_1211    :{WINDOW_COLOUR_2}最低待機時間:
+STR_1212    :{WINDOW_COLOUR_2}最大待機時間:
 STR_1213    :{SMALLFONT}{BLACK}Select minimum length of time to wait before departing
 STR_1214    :{SMALLFONT}{BLACK}Select maximum length of time to wait before departing
-STR_1215    :{WINDOW_COLOUR_2}Synchronise with adjacent stations
-STR_1216    :{SMALLFONT}{BLACK}Select whether to synchronise departure with all adjacent stations (for 'racing')
+STR_1215    :{WINDOW_COLOUR_2}全ての直接隣接する乗り場と出発タイミングを同期する
+STR_1216    :{SMALLFONT}{BLACK}レースのために全ての直接隣接する乗り場と出発タイミングを同期するかどうか選択。
 STR_1217    :{COMMA16}分
 STR_1218    :{BLACK}{SMALLUP}
 STR_1219    :{BLACK}{SMALLDOWN}
-STR_1220    :Exit only
-STR_1221    :No entrance
-STR_1222    :No exit
+STR_1220    :出口のみ
+STR_1221    :入口がない
+STR_1222    :出口がない
 STR_1223    :{SMALLFONT}{BLACK}輸送ライド
 STR_1224    :{SMALLFONT}{BLACK}Gentle rides
 STR_1225    :{SMALLFONT}{BLACK}Roller coasters
@@ -1330,39 +1330,39 @@ STR_1324    :{COMMA16} course
 STR_1325    :{COMMA16} courses
 STR_1326    :Course {COMMA16}
 STR_1327    :{SMALLFONT}{BLACK}Rotate objects by 90{DEGREE}
-STR_1328    :Level land required
-STR_1329    :{WINDOW_COLOUR_2}Launch speed:
+STR_1328    :平地が必要
+STR_1329    :{WINDOW_COLOUR_2}発車スピード:
 STR_1330    :{SMALLFONT}{BLACK}Maximum speed when leaving station
 STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_1332    :{VELOCITY}
 STR_1333    :{STRINGID} - {STRINGID}{POP16}
 STR_1334    :{STRINGID} - {STRINGID} {COMMA16}
-STR_1335    :{STRINGID} - Entrance{POP16}{POP16}
-STR_1336    :{STRINGID} - Station {POP16}{COMMA16} Entrance
-STR_1337    :{STRINGID} - Exit{POP16}{POP16}
-STR_1338    :{STRINGID} - Station {POP16}{COMMA16} Exit
-STR_1339    :{BLACK}No test results yet...
-STR_1340    :{WINDOW_COLOUR_2}Max. speed: {BLACK}{VELOCITY}
-STR_1341    :{WINDOW_COLOUR_2}Ride time: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
+STR_1335    :{STRINGID} - 入口{POP16}{POP16}
+STR_1336    :{STRINGID} - 乗り場 {POP16}{COMMA16} 入口
+STR_1337    :{STRINGID} - 出口{POP16}{POP16}
+STR_1338    :{STRINGID} - 乗り場 {POP16}{COMMA16} 出口
+STR_1339    :{BLACK}未だに試験結果がない
+STR_1340    :{WINDOW_COLOUR_2}最高速度: {BLACK}{VELOCITY}
+STR_1341    :{WINDOW_COLOUR_2}乗車時間: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
 STR_1343    :{DURATION} / 
-STR_1344    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
+STR_1344    :{WINDOW_COLOUR_2}レール長: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
 STR_1346    :{LENGTH} / 
-STR_1347    :{WINDOW_COLOUR_2}Average speed: {BLACK}{VELOCITY}
-STR_1348    :{WINDOW_COLOUR_2}Max. positive vertical G's: {BLACK}{COMMA2DP32}g
+STR_1347    :{WINDOW_COLOUR_2}平均速度: {BLACK}{VELOCITY}
+STR_1348    :{WINDOW_COLOUR_2}最大垂直プラスG: {BLACK}{COMMA2DP32}g
 STR_1349    :{WINDOW_COLOUR_2}Max. positive vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1350    :{WINDOW_COLOUR_2}Max. negative vertical G's: {BLACK}{COMMA2DP32}g
+STR_1350    :{WINDOW_COLOUR_2}最大垂直マイナスG: {BLACK}{COMMA2DP32}g
 STR_1351    :{WINDOW_COLOUR_2}Max. negative vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1352    :{WINDOW_COLOUR_2}Max. lateral G's: {BLACK}{COMMA2DP32}g
-STR_1353    :{WINDOW_COLOUR_2}Max. lateral G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1354    :{WINDOW_COLOUR_2}Highest drop height: {BLACK}{LENGTH}
-STR_1355    :{WINDOW_COLOUR_2}Drops: {BLACK}{COMMA16}
+STR_1352    :{WINDOW_COLOUR_2}最大横G: {BLACK}{COMMA2DP32}g
+STR_1353    :{WINDOW_COLOUR_2}最大横G: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1354    :{WINDOW_COLOUR_2}最高落下高度: {BLACK}{LENGTH}
+STR_1355    :{WINDOW_COLOUR_2}急降下: {BLACK}{COMMA16}
 STR_1356    :{WINDOW_COLOUR_2}Inversions: {BLACK}{COMMA16}
 STR_1357    :{WINDOW_COLOUR_2}Holes: {BLACK}{COMMA16}
-STR_1358    :{WINDOW_COLOUR_2}Total 'air' time: {BLACK}{COMMA2DP32}secs
-STR_1359    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minute
-STR_1360    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minutes
+STR_1358    :{WINDOW_COLOUR_2}全滞空時間: {BLACK}{COMMA2DP32}秒
+STR_1359    :{WINDOW_COLOUR_2}待ち時間: {BLACK}{COMMA16} 分
+STR_1360    :{WINDOW_COLOUR_2}待ち時間: {BLACK}{COMMA16} 分
 STR_1361    :Can't change speed...
 STR_1362    :Can't change launch speed...
 STR_1363    :Too high for supports!
@@ -1388,7 +1388,7 @@ STR_1382    :Curved Lift Hill (right)
 STR_1383    :4分の1ループ
 STR_1384    :{YELLOW}{STRINGID}
 STR_1385    :{SMALLFONT}{BLACK}Other track configurations
-STR_1386    :Special...
+STR_1386    :特別...
 STR_1387    :Can't change land type...
 STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
@@ -1401,7 +1401,7 @@ STR_1395    :{SMALLFONT}{BLACK}Maintenance options
 STR_1396    :{SMALLFONT}{BLACK}Colour scheme options
 STR_1397    :{SMALLFONT}{BLACK}Sound & music options
 STR_1398    :{SMALLFONT}{BLACK}Measurements and test data
-STR_1399    :{SMALLFONT}{BLACK}Graphs
+STR_1399    :{SMALLFONT}{BLACK}グラフ
 STR_1400    :入口
 STR_1401    :出口
 STR_1402    :{SMALLFONT}{BLACK}Build or move entrance to ride/attraction
@@ -1728,7 +1728,7 @@ STR_1721    :パークが閉園中
 STR_1722    :パークが開園中
 STR_1723    :パークは開園ができません…
 STR_1724    :パークは閉園ができません…
-STR_1725    :Can't buy land...
+STR_1725    :敷地を購入できません。
 STR_1726    :Land not for sale!
 STR_1727    :Construction rights not for sale!
 STR_1728    :Can't buy construction rights here...
@@ -1737,11 +1737,11 @@ STR_1730    :{RED}閉鎖中 - -
 STR_1731    :{WHITE}{STRINGID} - - 
 STR_1732    :Build
 STR_1733    :モード
-STR_1734    :{WINDOW_COLOUR_2}Number of laps:
-STR_1735    :{SMALLFONT}{BLACK}Number of laps of circuit
+STR_1734    :{WINDOW_COLOUR_2}ラップ数:
+STR_1735    :{SMALLFONT}{BLACK}コースのラップ数
 STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1737    :{COMMA16}
-STR_1738    :Can't change number of laps...
+STR_1738    :ラップ数が変更することはできません。
 STR_1739    :来客 {INT32} はレースに勝ちました!
 STR_1740    :{STRINGID} はレースに勝ちました!
 STR_1741    :Not yet constructed !
@@ -1749,9 +1749,9 @@ STR_1742    :{WINDOW_COLOUR_2}Max. people on ride:
 STR_1743    :{SMALLFONT}{BLACK}Maximum number of people allowed on this ride at one time
 STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1745    :{COMMA16}
-STR_1746    :Can't change this...
-STR_1747    :{WINDOW_COLOUR_2}Time limit:
-STR_1748    :{SMALLFONT}{BLACK}Time limit for ride
+STR_1746    :これを変更することはできません。
+STR_1747    :{WINDOW_COLOUR_2}達成期限:
+STR_1748    :{SMALLFONT}{BLACK}ライドの達成期限
 STR_1749    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{DURATION}
 STR_1750    :{DURATION}
 STR_1751    :Can't change time limit for ride...
@@ -1960,7 +1960,7 @@ STR_1951    :Park Value Graph
 STR_1952    :Profit Graph
 STR_1953    :Marketing
 STR_1954    :Research Funding
-STR_1955    :{WINDOW_COLOUR_2}Number of circuits:
+STR_1955    :{WINDOW_COLOUR_2}周回数:
 STR_1956    :{SMALLFONT}{BLACK}Number of circuits of track per ride
 STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1958    :{COMMA16}
@@ -3103,7 +3103,7 @@ STR_3091    :You are not allowed to remove this section!
 STR_3092    :You are not allowed to move or modify the station for this ride!
 STR_3093    :{WINDOW_COLOUR_2}Favourite: {BLACK}{STRINGID}
 STR_3094    :N/A
-STR_3095    :{WINDOW_COLOUR_2}Lift hill chain speed:
+STR_3095    :{WINDOW_COLOUR_2}リフト巻き上げ速度:
 STR_3096    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_3097    :{SMALLFONT}{BLACK}Select lift hill chain speed
 STR_3098    :Can't change lift hill speed...
@@ -3812,7 +3812,7 @@ STR_5469    :地図を上にスクロールする
 STR_5470    :地図を左にスクロールする
 STR_5471    :地図を下にスクロールする
 STR_5472    :地図を右にスクロールする
-STR_5473    :Cycle day / night
+STR_5473    :昼/夜のモード切替
 STR_5474    :Display text on banners in uppercase
 STR_5475    :{COMMA16} weeks
 STR_5476    :Hardware
@@ -3887,7 +3887,7 @@ STR_5544    :{SMALLFONT}{BLACK}Bright red
 STR_5545    :{SMALLFONT}{BLACK}Dark pink
 STR_5546    :{SMALLFONT}{BLACK}Bright pink
 STR_5547    :{SMALLFONT}{BLACK}Light pink
-STR_5548    :Show all operating modes
+STR_5548    :全て操作方式を見える
 STR_5549    :年月日
 STR_5550    :{POP16}{POP16}{COMMA16}年 {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_5551    :年日月
