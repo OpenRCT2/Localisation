@@ -1394,13 +1394,13 @@ STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
 STR_1390    :{CURRENCY2DP}
 STR_1391    :{RED}{CURRENCY2DP}
-STR_1392    :{SMALLFONT}{BLACK}View of ride/attraction
-STR_1393    :{SMALLFONT}{BLACK}Vehicle details and options
-STR_1394    :{SMALLFONT}{BLACK}Operating options
-STR_1395    :{SMALLFONT}{BLACK}Maintenance options
-STR_1396    :{SMALLFONT}{BLACK}Colour scheme options
-STR_1397    :{SMALLFONT}{BLACK}Sound & music options
-STR_1398    :{SMALLFONT}{BLACK}Measurements and test data
+STR_1392    :{SMALLFONT}{BLACK}乗り物・アトラクションの視界
+STR_1393    :{SMALLFONT}{BLACK}車両の詳細とオプション
+STR_1394    :{SMALLFONT}{BLACK}操作オプション
+STR_1395    :{SMALLFONT}{BLACK}メンテナンスオプション
+STR_1396    :{SMALLFONT}{BLACK}色構成オプション
+STR_1397    :{SMALLFONT}{BLACK}音響と音楽オプション
+STR_1398    :{SMALLFONT}{BLACK}測定と試験値
 STR_1399    :{SMALLFONT}{BLACK}グラフ
 STR_1400    :入口
 STR_1401    :出口
@@ -1409,27 +1409,27 @@ STR_1403    :{SMALLFONT}{BLACK}Build or move exit from ride/attraction
 STR_1404    :{SMALLFONT}{BLACK}Rotate 90{DEGREE}
 STR_1405    :{SMALLFONT}{BLACK}Mirror image
 STR_1406    :{SMALLFONT}{BLACK}Toggle scenery on/off (if available for this design)
-STR_1407    :{WINDOW_COLOUR_2}Build this...
-STR_1408    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY}
+STR_1407    :{WINDOW_COLOUR_2}これを建設
+STR_1408    :{WINDOW_COLOUR_2}コスト: {BLACK}{CURRENCY}
 STR_1409    :Entry/Exit Platform
 STR_1410    :Vertical Tower
 STR_1411    :{STRINGID} in the way
 STR_1412    :{WINDOW_COLOUR_3}Data logging not available for this type of ride
 STR_1413    :{WINDOW_COLOUR_3}Data logging will start when next {STRINGID} leaves {STRINGID}
 STR_1414    :{SMALLFONT}{BLACK}{DURATION}
-STR_1415    :{WINDOW_COLOUR_2}Velocity
-STR_1416    :{WINDOW_COLOUR_2}Altitude
-STR_1417    :{WINDOW_COLOUR_2}Vert.G's
-STR_1418    :{WINDOW_COLOUR_2}Lat.G's
+STR_1415    :{WINDOW_COLOUR_2}速度
+STR_1416    :{WINDOW_COLOUR_2}高度
+STR_1417    :{WINDOW_COLOUR_2}垂直G
+STR_1418    :{WINDOW_COLOUR_2}側方G
 STR_1419    :{SMALLFONT}{BLACK}{VELOCITY}
 STR_1420    :{SMALLFONT}{BLACK}{LENGTH}
 STR_1421    :{SMALLFONT}{BLACK}{COMMA16}g
-STR_1422    :{SMALLFONT}{BLACK}Logging data from {POP16}{STRINGID}
-STR_1423    :{SMALLFONT}{BLACK}Queue line path
+STR_1422    :{SMALLFONT}{BLACK}{POP16}{STRINGID}からのデータのロギング中
+STR_1423    :{SMALLFONT}{BLACK}行列の歩道
 STR_1424    :{SMALLFONT}{BLACK}歩道
 STR_1425    :歩道
-STR_1426    :Queue Line
-STR_1427    :{WINDOW_COLOUR_2}Customers: {BLACK}{COMMA32} per hour
+STR_1426    :行列
+STR_1427    :{WINDOW_COLOUR_2}顧客: {BLACK}{COMMA32}（時間あたり）
 STR_1428    :{WINDOW_COLOUR_2}入場料:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :無料
@@ -1447,10 +1447,10 @@ STR_1441    :歩道を掃除中
 STR_1442    :ゴミ箱を空にしている
 STR_1443    :水をやっている
 STR_1444    :{STRINGID}を見っている
-STR_1445    :Watching construction of {STRINGID}
-STR_1446    :Looking at scenery
+STR_1445    :{STRINGID}の建設を見ている
+STR_1446    :景色を見ている
 STR_1447    :パークを去って行く
-STR_1448    :Watching new ride being constructed
+STR_1448    :新しいライドの建設を見ている
 STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
@@ -1471,8 +1471,8 @@ STR_1465    :大きい螺旋 (上)
 STR_1466    :小さい螺旋 (下)
 STR_1467    :大きい螺旋 (下)
 STR_1468    :スタッフ
-STR_1469    :Ride must start and end with stations
-STR_1470    :Station not long enough
+STR_1469    :ライドは乗り場で始まり、乗り場で終わらなければなりません。
+STR_1470    :乗り場が十分に長くない
 STR_1471    :{WINDOW_COLOUR_2}速度:
 STR_1472    :{SMALLFONT}{BLACK}ライドの速度
 STR_1473    :{WINDOW_COLOUR_2}興奮度: {BLACK}{COMMA2DP32}  ({STRINGID})
@@ -1486,40 +1486,40 @@ STR_1480    :{SMALLFONT}「{STRINGID}には手が出ない」
 STR_1481    :{SMALLFONT}「お金をすべて使っちゃった…」
 STR_1482    :{SMALLFONT}「気分が悪い…」
 STR_1483    :{SMALLFONT}「ひどく気分が悪い！」
-STR_1484    :{SMALLFONT}{OPENQUOTES}I want to go on something more thrilling than {STRINGID}{ENDQUOTES}
-STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} looks too intense for me{ENDQUOTES}
-STR_1486    :{SMALLFONT}{OPENQUOTES}I haven't finished my {STRINGID} yet{ENDQUOTES}
-STR_1487    :{SMALLFONT}{OPENQUOTES}Just looking at {STRINGID} makes me feel sick{ENDQUOTES}
+STR_1484    :{SMALLFONT}「{STRINGID}よりももっとスリルのあるのに乗りたい」
+STR_1485    :{SMALLFONT}「{STRINGID}は私には激しすぎる！」
+STR_1486    :{SMALLFONT}「{STRINGID}がまだ終わってない」
+STR_1487    :{SMALLFONT}「{STRINGID}を見て気分が悪くなった」
 STR_1488    :{SMALLFONT}「{STRINGID}に乗るのにそんなに払えないよ！」
 STR_1489    :{SMALLFONT}「家に帰りたい」
-STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} is really good value{ENDQUOTES}
-STR_1491    :{SMALLFONT}{OPENQUOTES}I've already got {STRINGID}{ENDQUOTES}
-STR_1492    :{SMALLFONT}{OPENQUOTES}I can't afford {STRINGID}{ENDQUOTES}
+STR_1490    :{SMALLFONT}「{STRINGID}の値段は本当にお得だよ」
+STR_1491    :{SMALLFONT}「{STRINGID}の一つはもう持ってるよ」
+STR_1492    :{SMALLFONT}「 {STRINGID}には手が出ない」
 STR_1493    :{SMALLFONT}「お腹は空いてないよ」
 STR_1494    :{SMALLFONT}「喉は渇いてないよ]
 STR_1495    :{SMALLFONT}「助けて！溺れている！」
-STR_1496    :{SMALLFONT}{OPENQUOTES}I'm lost!{ENDQUOTES}
-STR_1497    :{SMALLFONT}{OPENQUOTES}{STRINGID} was great{ENDQUOTES}
+STR_1496    :{SMALLFONT}「迷っちゃった！」
+STR_1497    :{SMALLFONT}「{STRINGID}はすごいだった！」
 STR_1498    :{SMALLFONT}「{STRINGID}にもう何年も並んでるよ」
-STR_1499    :{SMALLFONT}{OPENQUOTES}I'm tired{ENDQUOTES}
-STR_1500    :{SMALLFONT}{OPENQUOTES}I'm hungry{ENDQUOTES}
-STR_1501    :{SMALLFONT}{OPENQUOTES}I'm thirsty{ENDQUOTES}
+STR_1499    :{SMALLFONT}「疲れた」
+STR_1500    :{SMALLFONT}「お腹が減った」
+STR_1501    :{SMALLFONT}「喉が渇いた」
 STR_1502    :{SMALLFONT}「トイレに行きたい」
-STR_1503    :{SMALLFONT}{OPENQUOTES}I can't find {STRINGID}{ENDQUOTES}
-STR_1504    :{SMALLFONT}{OPENQUOTES}I'm not paying that much to use {STRINGID}{ENDQUOTES}
+STR_1503    :{SMALLFONT}「{STRINGID}はどこにあるの？」
+STR_1504    :{SMALLFONT}「{STRINGID}を使うのにそんなに払えないよ！」
 STR_1505    :{SMALLFONT}「雨が降ってる間は{STRINGID}には乗りたくない」
 STR_1506    :{SMALLFONT}「この場所はゴミであふれてる」
-STR_1507    :{SMALLFONT}{OPENQUOTES}I can't find the park exit{ENDQUOTES}
-STR_1508    :{SMALLFONT}{OPENQUOTES}I want to get off {STRINGID}{ENDQUOTES}
-STR_1509    :{SMALLFONT}{OPENQUOTES}I want to get out of {STRINGID}{ENDQUOTES}
+STR_1507    :{SMALLFONT}「パークの出口はどこ？」
+STR_1508    :{SMALLFONT}「{STRINGID}を降りたい」
+STR_1509    :{SMALLFONT}「{STRINGID}から出たい」
 STR_1510    :{SMALLFONT}「{STRINGID}には乗りたくない――危ないよ！」
 STR_1511    :{SMALLFONT}「この道は胸が悪くなるな！」
-STR_1512    :{SMALLFONT}{OPENQUOTES}It's too crowded here{ENDQUOTES}
+STR_1512    :{SMALLFONT}「ここはは混雑しすぎ…」
 STR_1513    :{SMALLFONT}「この道は壊れてる」
 STR_1514    :{SMALLFONT}「いい景色だな！」
-STR_1515    :{SMALLFONT}{OPENQUOTES}This park is really clean and tidy{ENDQUOTES}
+STR_1515    :{SMALLFONT}「このパークは本当に綺麗です！」
 STR_1516    :{SMALLFONT}「すごいジャンプ噴水だ！」
-STR_1517    :{SMALLFONT}{OPENQUOTES}この音楽はいいな」
+STR_1517    :{SMALLFONT}「この音楽はいいな」
 STR_1518    :{SMALLFONT}「この{STRINGID}で買った風船の値段は本当にお得だよ」
 STR_1519    :{SMALLFONT}「この{STRINGID}で買った縫い包みの値段は本当にお得だよ」
 STR_1520    :{SMALLFONT}「この{STRINGID}で買った地図の値段は本当にお得だよ」
@@ -1536,15 +1536,15 @@ STR_1530    :
 STR_1531    :{SMALLFONT}「この{STRINGID}で買ったピザの値段は本当にお得だよ」
 STR_1532    :
 STR_1533    :{SMALLFONT}「この{STRINGID}で買ったポップコーンの値段は本当にお得だよ」
-STR_1534    :{SMALLFONT}「この{STRINGIDで買ったホットドッグの値段は本当にお得だよ」
+STR_1534    :{SMALLFONT}「この{STRINGID}で買ったホットドッグの値段は本当にお得だよ」
 STR_1535    :{SMALLFONT}「この{STRINGID}で買った触手の値段は本当にお得だよ」
 STR_1536    :{SMALLFONT}「この{STRINGID}で買った帽子の値段は本当にお得だよ」
-STR_1537    :{SMALLFONT}「この{STRINGIDで買ったリンゴ飴の値段は本当にお得だよ」
-STR_1538    :{SMALLFONT}「この{STRINGIDで買ったTシャツの値段は本当にお得だよ」
+STR_1537    :{SMALLFONT}「この{STRINGID}で買ったリンゴ飴の値段は本当にお得だよ」
+STR_1538    :{SMALLFONT}「この{STRINGID}で買ったTシャツの値段は本当にお得だよ」
 STR_1539    :{SMALLFONT}「この{STRINGID}で買ったドーナツの値段は本当にお得だよ」
 STR_1540    :{SMALLFONT}「この{STRINGID}で買ったコーヒの値段は本当にお得だよ」
 STR_1541    :
-STR_1542    :{SMALLFONT}「この{STRINGIDで買ったフライドチキンの値段は本当にお得だよ」
+STR_1542    :{SMALLFONT}「この{STRINGID}で買ったフライドチキンの値段は本当にお得だよ」
 STR_1543    :{SMALLFONT}「この{STRINGID}で買ったレモネードの値段は本当にお得だよ」
 STR_1544    :
 STR_1545    :
@@ -1552,34 +1552,34 @@ STR_1546    :
 STR_1547    :
 STR_1548    :
 STR_1549    :
-STR_1550    :{SMALLFONT}{OPENQUOTES}すごい!{ENDQUOTES}
-STR_1551    :{SMALLFONT}{OPENQUOTES}I have the strangest feeling someone is watching me{ENDQUOTES}
-STR_1552    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a balloon from {STRINGID}{ENDQUOTES}
-STR_1553    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a cuddly toy from {STRINGID}{ENDQUOTES}
-STR_1554    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a park map from {STRINGID}{ENDQUOTES}
-STR_1555    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an on-ride photo from {STRINGID}{ENDQUOTES}
-STR_1556    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an umbrella from {STRINGID}{ENDQUOTES}
-STR_1557    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a drink from {STRINGID}{ENDQUOTES}
-STR_1558    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a burger from {STRINGID}{ENDQUOTES}
-STR_1559    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for chips from {STRINGID}{ENDQUOTES}
-STR_1560    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an ice cream from {STRINGID}{ENDQUOTES}
-STR_1561    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for candyfloss from {STRINGID}{ENDQUOTES}
-STR_1562    :
-STR_1563    :
-STR_1564    :
-STR_1565    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for pizza from {STRINGID}{ENDQUOTES}
-STR_1566    :
-STR_1567    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for popcorn from {STRINGID}{ENDQUOTES}
-STR_1568    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a hot dog from {STRINGID}{ENDQUOTES}
-STR_1569    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for tentacle from {STRINGID}{ENDQUOTES}
-STR_1570    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a hat from {STRINGID}{ENDQUOTES}
-STR_1571    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a toffee apple from {STRINGID}{ENDQUOTES}
-STR_1572    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a T-shirt from {STRINGID}{ENDQUOTES}
-STR_1573    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a doughnut from {STRINGID}{ENDQUOTES}
-STR_1574    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for coffee from {STRINGID}{ENDQUOTES}
-STR_1575    :
-STR_1576    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for fried chicken from {STRINGID}{ENDQUOTES}
-STR_1577    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for lemonade from {STRINGID}{ENDQUOTES}
+STR_1550    :{SMALLFONT}「すごい!」
+STR_1551    :{SMALLFONT}「不思議な気持ちがある…誰かが私を見ているというかも？」
+STR_1518    :{SMALLFONT}「{STRINGID}の風船にそんなに払えないよ！」
+STR_1519    :{SMALLFONT}「{STRINGID}の縫い包みにそんなに払えないよ！」
+STR_1520    :{SMALLFONT}「{STRINGID}の地図にそんなに払えないよ！」
+STR_1521    :{SMALLFONT}「{STRINGID}のライドフォトにそんなに払えないよ！」
+STR_1522    :{SMALLFONT}「{STRINGID}の傘にそんなに払えないよ！」
+STR_1523    :{SMALLFONT}「{STRINGID}の飲み物にそんなに払えないよ！」
+STR_1524    :{SMALLFONT}「{STRINGID}のハンバーガーにそんなに払えないよ！」
+STR_1525    :{SMALLFONT}「{STRINGID}のポテトフライにそんなに払えないよ！」
+STR_1526    :{SMALLFONT}「{STRINGID}のソフトクリームにそんなに払えないよ！」
+STR_1527    :{SMALLFONT}「{STRINGID}の綿菓子にそんなに払えないよ！」
+STR_1528    :
+STR_1529    :
+STR_1530    :
+STR_1531    :{SMALLFONT}「{STRINGID}のピザにそんなに払えないよ！」
+STR_1532    :
+STR_1533    :{SMALLFONT}「{STRINGID}のポップコーンにそんなに払えないよ！」
+STR_1534    :{SMALLFONT}「{STRINGID}のホットドッグにそんなに払えないよ！」
+STR_1535    :{SMALLFONT}「{STRINGID}の触手にそんなに払えないよ！」
+STR_1536    :{SMALLFONT}「{STRINGID}の帽子にそんなに払えないよ！」
+STR_1537    :{SMALLFONT}「{STRINGID}のリンゴ飴にそんなに払えないよ！」
+STR_1538    :{SMALLFONT}「{STRINGID}のTシャツにそんなに払えないよ！」
+STR_1539    :{SMALLFONT}「{STRINGID}のドーナツにそんなに払えないよ！」
+STR_1540    :{SMALLFONT}「{STRINGID}のコーヒにそんなに払えないよ！」
+STR_1541    :
+STR_1542    :{SMALLFONT}「{STRINGID}のフライドチキンにそんなに払えないよ！」
+STR_1543    :{SMALLFONT}「{STRINGID}のレモネードにそんなに払えないよ！」
 STR_1578    :
 STR_1579    :
 STR_1580    :
@@ -1589,24 +1589,24 @@ STR_1583    :
 STR_1584    :{SMALLFONT}「{STRINGID}のライドフォトの値段は本当にお得だよ」
 STR_1585    :{SMALLFONT}「{STRINGID}のライドフォトの値段は本当にお得だよ」
 STR_1586    :{SMALLFONT}「{STRINGID}のライドフォトの値段は本当にお得だよ」
-STR_1587    :{SMALLFONT}{OPENQUOTES}This pretzel from {STRINGID} is really good value{ENDQUOTES}
-STR_1588    :{SMALLFONT}{OPENQUOTES}This hot chocolate from {STRINGID} is really good value{ENDQUOTES}
-STR_1589    :{SMALLFONT}{OPENQUOTES}This iced tea from {STRINGID} is really good value{ENDQUOTES}
-STR_1590    :{SMALLFONT}{OPENQUOTES}This funnel cake from {STRINGID} is really good value{ENDQUOTES}
-STR_1591    :{SMALLFONT}{OPENQUOTES}These sunglasses from {STRINGID} are really good value{ENDQUOTES}
-STR_1592    :{SMALLFONT}{OPENQUOTES}These beef noodles from {STRINGID} are really good value{ENDQUOTES}
-STR_1593    :{SMALLFONT}{OPENQUOTES}These fried rice noodles from {STRINGID} are really good value{ENDQUOTES}
-STR_1594    :{SMALLFONT}{OPENQUOTES}This wonton soup from {STRINGID} is really good value{ENDQUOTES}
-STR_1595    :{SMALLFONT}{OPENQUOTES}This meatball soup from {STRINGID} is really good value{ENDQUOTES}
-STR_1596    :{SMALLFONT}{OPENQUOTES}This fruit juice from {STRINGID} is really good value{ENDQUOTES}
-STR_1597    :{SMALLFONT}{OPENQUOTES}This soybean milk from {STRINGID} is really good value{ENDQUOTES}
-STR_1598    :{SMALLFONT}{OPENQUOTES}This sujongkwa from {STRINGID} is really good value{ENDQUOTES}
-STR_1599    :{SMALLFONT}{OPENQUOTES}This sub sandwich from {STRINGID} is really good value{ENDQUOTES}
-STR_1600    :{SMALLFONT}{OPENQUOTES}This cookie from {STRINGID} is really good value{ENDQUOTES}
+STR_1587    :{SMALLFONT}「{STRINGID}のプレッツェルの値段は本当にお得だよ」
+STR_1588    :{SMALLFONT}「{STRINGID}のホットココアの値段は本当にお得だよ」
+STR_1589    :{SMALLFONT}「{STRINGID}のアイスティーの値段は本当にお得だよ」
+STR_1590    :{SMALLFONT}「{STRINGID}のファンネルケーキの値段は本当にお得だよ」
+STR_1591    :{SMALLFONT}「{STRINGID}のサングラスの値段は本当にお得だよ」
+STR_1592    :{SMALLFONT}「{STRINGID}の牛肉ヌードルの値段は本当にお得だよ」
+STR_1593    :{SMALLFONT}「{STRINGID}の焼飯ヌードルの値段は本当にお得だよ」
+STR_1594    :{SMALLFONT}「{STRINGID}のワンタンスープの値段は本当にお得だよ」
+STR_1595    :{SMALLFONT}「{STRINGID}の肉団子スープの値段は本当にお得だよ」
+STR_1596    :{SMALLFONT}「{STRINGID}のフルーツジュースの値段は本当にお得だよ」
+STR_1597    :{SMALLFONT}「{STRINGID}の豆乳の値段は本当にお得だよ」
+STR_1598    :{SMALLFONT}「{STRINGID}のスジョングァの値段は本当にお得だよ」
+STR_1599    :{SMALLFONT}「{STRINGID}のサンドイッチの値段は本当にお得だよ」
+STR_1600    :{SMALLFONT}「{STRINGID}のクッキーの値段は本当にお得だよ」
 STR_1601    :
 STR_1602    :
 STR_1603    :
-STR_1604    :{SMALLFONT}{OPENQUOTES}This roast sausage from {STRINGID} are really good value{ENDQUOTES}
+STR_1604    :{SMALLFONT}「{STRINGID}のローストソーセージの値段は本当にお得だよ」
 STR_1605    :
 STR_1606    :
 STR_1607    :
@@ -1618,27 +1618,27 @@ STR_1612    :
 STR_1613    :
 STR_1614    :
 STR_1615    :
-STR_1616    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an on-ride photo from {STRINGID}{ENDQUOTES}
-STR_1617    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an on-ride photo from {STRINGID}{ENDQUOTES}
-STR_1618    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for an on-ride photo from {STRINGID}{ENDQUOTES}
-STR_1619    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a pretzel from {STRINGID}{ENDQUOTES}
-STR_1620    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for hot chocolate from {STRINGID}{ENDQUOTES}
-STR_1621    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for iced tea from {STRINGID}{ENDQUOTES}
-STR_1622    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a funnel cake from {STRINGID}{ENDQUOTES}
-STR_1623    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for sunglasses from {STRINGID}{ENDQUOTES}
-STR_1624    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for beef noodles from {STRINGID}{ENDQUOTES}
-STR_1625    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for fried rice noodles from {STRINGID}{ENDQUOTES}
-STR_1626    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for wonton soup from {STRINGID}{ENDQUOTES}
-STR_1627    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for meatball soup from {STRINGID}{ENDQUOTES}
-STR_1628    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for fruit juice from {STRINGID}{ENDQUOTES}
-STR_1629    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for soybean milk from {STRINGID}{ENDQUOTES}
-STR_1630    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for sujongkwa from {STRINGID}{ENDQUOTES}
-STR_1631    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a sub sandwich from {STRINGID}{ENDQUOTES}
-STR_1632    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a cookie from {STRINGID}{ENDQUOTES}
+STR_1616    :{SMALLFONT}「{STRINGID}のライドフォトにそんなに払えないよ！」
+STR_1617    :{SMALLFONT}「{STRINGID}のライドフォトにそんなに払えないよ！」
+STR_1618    :{SMALLFONT}「{STRINGID}のライドフォトにそんなに払えないよ！」
+STR_1619    :{SMALLFONT}「{STRINGID}のプレッツェルにそんなに払えないよ！」
+STR_1620    :{SMALLFONT}「{STRINGID}のホットココアにそんなに払えないよ！」
+STR_1621    :{SMALLFONT}「{STRINGID}のアイスティーにそんなに払えないよ！」
+STR_1622    :{SMALLFONT}「{STRINGID}のファンネルケーキにそんなに払えないよ！」
+STR_1623    :{SMALLFONT}「{STRINGID}のサングラスにそんなに払えないよ！」
+STR_1624    :{SMALLFONT}「{STRINGID}の牛肉ヌードルにそんなに払えないよ！」
+STR_1625    :{SMALLFONT}「{STRINGID}の焼飯ヌードルにそんなに払えないよ！」
+STR_1626    :{SMALLFONT}「{STRINGID}のワンタンスープにそんなに払えないよ！」
+STR_1627    :{SMALLFONT}「{STRINGID}の肉団子スープにそんなに払えないよ！」
+STR_1628    :{SMALLFONT}「{STRINGID}のフルーツジュースにそんなに払えないよ！」
+STR_1629    :{SMALLFONT}「{STRINGID}の豆乳にそんなに払えないよ！」
+STR_1630    :{SMALLFONT}「{STRINGID}のスジョングァにそんなに払えないよ！」
+STR_1631    :{SMALLFONT}「{STRINGID}のサンドイッチにそんなに払えないよ！」
+STR_1632    :{SMALLFONT}「{STRINGID}のクッキーにそんなに払えないよ！」
 STR_1633    :
 STR_1634    :
 STR_1635    :
-STR_1636    :{SMALLFONT}{OPENQUOTES}I'm not paying that much for a roast sausage from {STRINGID}{ENDQUOTES}
+STR_1636    :{SMALLFONT}「{STRINGID}のローストソーセージにそんなに払えないよ！」
 STR_1637    :
 STR_1638    :
 STR_1639    :
@@ -2801,8 +2801,8 @@ STR_2789    :{WINDOW_COLOUR_2}残念！目的に失敗しました！
 STR_2790    :Enter name into scenario chart
 STR_2791    :Enter name
 STR_2792    :Please enter your name for the scenario chart:
-STR_2793    :{SMALLFONT}(Completed by {STRINGID})
-STR_2794    :{WINDOW_COLOUR_2}Completed by: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} with a company value of: {BLACK}{CURRENCY}
+STR_2793    :{SMALLFONT}({STRINGID}の勝利)
+STR_2794    :{WINDOW_COLOUR_2}勝者の名前: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2}会社評価額: {BLACK}{CURRENCY}
 STR_2795    :Sort
 STR_2796    :{SMALLFONT}{BLACK}Sort the ride list into order using the information type displayed
 STR_2797    :Scroll view when pointer at screen edge
@@ -3621,11 +3621,11 @@ STR_5278    :サンドボックスモード
 STR_5279    :サンドボックスモードを切る
 STR_5280    :{SMALLFONT}{BLACK}Allow editing land ownership settings through the Map window and other options that are normally restricted to the Scenario Editor
 STR_5281    :{SMALLFONT}{BLACK}Features
-STR_5282    :RCT1 Ride Open/Close Lights
-STR_5283    :RCT1 Park Open/Close Lights
-STR_5284    :RCT1 Scenario Selection Font
-STR_5285    :EXPLODE!!!
-STR_5286    :{SMALLFONT}{BLACK}Makes some guests explode
+STR_5282    :RCT1のライド「稼動／閉鎖」信号機
+STR_5283    :RCT1のパーク「稼動／閉鎖」信号機
+STR_5284    :RCT1ののシナリオ選定フォント
+STR_5285    :爆発する！
+STR_5286    :{SMALLFONT}{BLACK}全てのゲストを爆発するのボタンです。
 STR_5287    :Ride is already broken down
 STR_5288    :Ride is closed
 STR_5289    :No breakdowns available for this ride
@@ -3643,7 +3643,7 @@ STR_5300    :{SMALLFONT}{BLACK}Quick fire staff
 STR_5301    :{MEDIUMFONT}{BLACK}Clear your loan
 STR_5302    :Clear loan
 STR_5303    :Allow building in pause mode
-STR_5304    :Title Sequence:
+STR_5304    :タイトルシーケンス:
 STR_5305    :RollerCoaster Tycoon 1
 STR_5306    :RollerCoaster Tycoon 1 (AA)
 STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
@@ -3651,26 +3651,26 @@ STR_5308    :RollerCoaster Tycoon 2
 STR_5309    :OpenRCT2
 STR_5310    :ランダム
 STR_5311    :{SMALLFONT}{BLACK}デバグツール
-STR_5312    :Show console
-STR_5313    :Show tile inspector
-STR_5314    :Tile inspector
+STR_5312    :コンソールの表示
+STR_5313    :タイルインスペクターの表示
+STR_5314    :タイルインスペクター
 STR_5315    :草
 STR_5316    :砂
 STR_5317    :土
 STR_5318    :石
 STR_5319    :火星
 STR_5320    :市松
-STR_5321    :Grass clumps
+STR_5321    :草の塊
 STR_5322    :氷
-STR_5323    :Grid (red)
-STR_5324    :Grid (yellow)
-STR_5325    :Grid (blue)
-STR_5326    :Grid (green)
-STR_5327    :Sand (dark)
-STR_5328    :Sand (light)
-STR_5329    :Checkerboard (inverted)
+STR_5323    :グリッド (赤)
+STR_5324    :グリッド (黄)
+STR_5325    :グリッド (青)
+STR_5326    :グリッド (緑)
+STR_5327    :濃い色の砂
+STR_5328    :淡い色の砂
+STR_5329    :チェッカーボード (インバーテッド)
 STR_5330    :Underground view
-STR_5331    :Rock
+STR_5331    :岩
 STR_5332    :Wood (red)
 STR_5333    :Wood (black)
 STR_5334    :氷
@@ -3962,22 +3962,22 @@ STR_5619    :ローラーコースタータイクーン
 STR_5620    :追加アトラクションキット
 STR_5621    :おもしろ景観キット
 STR_5622    :ローラーコースタータイクーン 2
-STR_5623    :Wacky Worlds
-STR_5624    :Time Twister
-STR_5625    :{OPENQUOTES}Real{ENDQUOTES} Parks
-STR_5626    :Other Parks
-STR_5627    :Group scenario list by:
-STR_5628    :Source game
-STR_5629    :Difficulty level
-STR_5630    :Enable unlocking of scenarios
-STR_5631    :Original DLC Parks
-STR_5632    :Build your own...
+STR_5623    :ワッキーワールド
+STR_5624    :タイムツイスター
+STR_5625    :現実のパーク
+STR_5626    :他のパーク
+STR_5627    :シナリオリストのタブ設定:
+STR_5628    :ゲーム
+STR_5629    :難易度
+STR_5630    :シナリオのロック解除モード
+STR_5631    :オリジナルDLCパーク
+STR_5632    :自分だけのビルド…
 STR_5633    :CMD + 
 STR_5634    :OPTION + 
 STR_5635    :{WINDOW_COLOUR_2}Money spent: {BLACK}{CURRENCY2DP}
 STR_5636    :{WINDOW_COLOUR_2}Commands ran: {BLACK}{COMMA16}
-STR_5637    :Can't do this...
-STR_5638    :Permission denied
+STR_5637    :それはできません…
+STR_5638    :アクセス拒否
 STR_5639    :{SMALLFONT}{BLACK}Show list of players
 STR_5640    :{SMALLFONT}{BLACK}Manage groups
 STR_5641    :Default Group:
@@ -4077,9 +4077,9 @@ STR_5766    :<available string id>
 STR_5767    :収入
 STR_5768    :顧客総数
 STR_5769    :総収益
-STR_5770    :Customers per hour
+STR_5770    :顧客（時間あたり）
 STR_5771    :維持費
-STR_5772    :Age
+STR_5772    :年齢
 STR_5773    :顧客総数: {COMMA32}
 STR_5774    :総収益: {CURRENCY2DP}
 STR_5775    :顧客: {COMMA32} 時あり
@@ -4090,8 +4090,8 @@ STR_5779    :収入: {CURRENCY2DP} 時あり
 STR_5780    :維持費: {CURRENCY2DP} 時あり
 STR_5781    :維持費: 未知
 STR_5782    :You are now connected. Press '{STRING}' to chat.
-STR_5783    :{WINDOW_COLOUR_2}Scenario Locked
-STR_5784    :{BLACK}Complete earlier scenarios to unlock this scenario.
+STR_5783    :{WINDOW_COLOUR_2}シナリオがロック中
+STR_5784    :{BLACK}このシナリオのロックを解除するために前のシナリオを完了して下さい。
 STR_5785    :Can't rename group...
 STR_5786    :Invalid group name
 STR_5787    :{COMMA32} players online
@@ -4111,12 +4111,12 @@ STR_5800    :{SMALLFONT}{BLACK}Prevents rides from breaking down
 STR_5801    :Disable littering
 STR_5802    :{SMALLFONT}{BLACK}Stops guests from littering and vomiting
 STR_5803    :{SMALLFONT}{BLACK}Rotate selected map element
-STR_5804    :Mute sound
+STR_5804    :音をミュートする
 STR_5805    :{SMALLFONT}{BLACK}If checked, your server will be added to the{NEWLINE}public server list so everyone can find it
 STR_5806    :Toggle windowed mode
-STR_5807    :{WINDOW_COLOUR_2}Number of rides: {BLACK}{COMMA16}
-STR_5808    :{WINDOW_COLOUR_2}Number of shops and stalls: {BLACK}{COMMA16}
-STR_5809    :{WINDOW_COLOUR_2}Number of information kiosks and other facilities: {BLACK}{COMMA16}
+STR_5807    :{WINDOW_COLOUR_2}ライドの数: {BLACK}{COMMA16}
+STR_5808    :{WINDOW_COLOUR_2}ショップの数: {BLACK}{COMMA16}
+STR_5809    :{WINDOW_COLOUR_2}インフォメーションキオスクと設備などの数: {BLACK}{COMMA16}
 STR_5810    :Disable vehicle limits
 STR_5811    :{SMALLFONT}{BLACK}If checked, you can have up to{NEWLINE}255 cars per train and 31{NEWLINE}trains per ride
 STR_5812    :Show multiplayer window
@@ -4585,24 +4585,24 @@ STR_DESC    :乗客自身が漕ぐロングカヌーです
 STR_CPTY    :各カヌー2名
 
 [CHBUILD]
-STR_NAME    :Crooked House
+STR_NAME    :ねじれた家
 STR_DESC    :中に入った人の方向感覚を失わせるために、ゆがんだ部屋と曲がった廊下がある建物です
 STR_CPTY    :定員5名
 
 [CHCKS]
-STR_NAME    :Fried Chicken Stall
+STR_NAME    :フライドチキン・ショップ
 STR_DESC    :フライドチキンを売る売店です
 
 [CHKNUG]
-STR_NAME    :Chicken Nuggets Stall
+STR_NAME    :チキンナゲット・ショップ
 STR_DESC    :チキンナゲットを売る売店です
 
 [CHPSH]
-STR_NAME    :フライドポテト
+STR_NAME    :フライドポテト・ショップ
 STR_DESC    :フライドポテトを売る小屋です
 
 [CHPSH2]
-STR_NAME    :Fries Stall
+STR_NAME    :フライドポテト・ショップ
 STR_DESC    :フライドポテトを売る売店です
 
 [CINDR]
@@ -4610,7 +4610,7 @@ STR_NAME    :Sujongkwa Stall
 STR_DESC    :韓国風の柿ジュースを売る売店です
 
 [CIRCUS1]
-STR_NAME    :Circus
+STR_NAME    :サーカス
 STR_DESC    :動物のサーカスショーをやっている大テントです
 STR_CPTY    :定員30名
 
@@ -4678,16 +4678,16 @@ STR_NAME    :Fried Rice Noodles Stall
 STR_DESC    :中華風の焼きビーフンを売る売店です
 
 [FSAUC]
-STR_NAME    :Flying Saucers
+STR_NAME    :フライングソーサー
 STR_DESC    :自分で運転するホバークラフト車両です
 STR_CPTY    :各車両1名
 
 [FUNCAKE]
-STR_NAME    :Funnel Cake Shop
+STR_NAME    :ファネルケーキ・ショップ
 STR_DESC    :ファネルケーキを売る売店です
 
 [FWH1]
-STR_NAME    :Ferris Wheel
+STR_NAME    :観覧車
 STR_DESC    :屋根のないイスが付いた、大きな観覧車です
 STR_CPTY    :定員32名
 
@@ -4697,7 +4697,7 @@ STR_DESC    :円形の座席がゆっくりと回りながら高い塔の上ま�
 STR_CPTY    :定員16名
 
 [GOLF1]
-STR_NAME    :Mini Golf
+STR_NAME    :ミニゴルフ
 STR_DESC    :やさしいミニゴルフゲームです
 
 [GOLTR]
@@ -4711,20 +4711,20 @@ STR_DESC    :さまざまな特殊効果と薄気味悪い仕掛けを施した�
 STR_CPTY    :各車両2名
 
 [HATST]
-STR_NAME    :Hat Stall
+STR_NAME    :帽子ショップ
 STR_DESC    :フォームラバー製の大きな帽子を売る売店です
 
 [HCHOC]
-STR_NAME    :Hot Chocolate Stall
+STR_NAME    :ホットココア・ショップ
 STR_DESC    :ホットチョコレートを売る売店です
 
 [HELICAR]
-STR_NAME    :Mini Helicopters
+STR_NAME    :ミニヘリコプター
 STR_DESC    :スチール製コースを走るヘリコプター型の動力付き車両で、乗客がペダルを使って操作します
 STR_CPTY    :各車両2名
 
 [HHBUILD]
-STR_NAME    :Haunted House
+STR_NAME    :お化け屋敷
 STR_DESC    :不気味な廊下と薄気味悪い部屋を持つ、多層式の大きなお化け屋敷です
 STR_CPTY    :定員15名
 
@@ -4738,27 +4738,27 @@ STR_DESC    :特殊な仕掛けと景観が施された多層式のコースを�
 STR_CPTY    :各車両2名
 
 [HOTDS]
-STR_NAME    :Hot Dog Stall
+STR_NAME    :ホットドッグショップ
 STR_DESC    :ホットドッグを売る売店です
 
 [HSKELT]
-STR_NAME    :Spiral Slide
+STR_NAME    :状の滑り台
 STR_DESC    :木製の建物で、中には階段が、外にはらせん状の滑り台があり、マットを使って滑ります
 
 [ICECR1]
-STR_NAME    :Fruity Ices Stall
+STR_NAME    :フルーツアイスクリームショップ
 STR_DESC    :フルーツアイスクリームを売る、テーマを持った売店です
 
 [ICECR2]
-STR_NAME    :Ice Cream Cone Stall
+STR_NAME    :アイスクリームショップ
 STR_DESC    :アイスクリームを売る売店です
 
 [ICETST]
-STR_NAME    :Iced Tea Stall
+STR_NAME    :アイスティーショップ
 STR_DESC    :アイスティーを売る売店です
 
 [INFOK]
-STR_NAME    :インフォーメーションセンター
+STR_NAME    :インフォーメーションキオスク
 STR_DESC    :園内の案内図や傘を売る売店です
 
 [INTBOB]
@@ -4875,7 +4875,7 @@ STR_DESC    :2階建ての展望キャビンが回転しながら高い塔を登
 STR_CPTY    :定員32名
 
 [PIZZS]
-STR_NAME    :Pizza Stall
+STR_NAME    :ピザショップ
 STR_DESC    :ピザを売る売店です
 
 [PMT1]
@@ -4884,7 +4884,7 @@ STR_DESC    :動力付きの鉱山列車がスムーズでひねりのあるコ�
 STR_CPTY    :各車両2名または4名
 
 [POPCS]
-STR_NAME    :Popcorn Stall
+STR_NAME    :ポップコーンショップ
 STR_DESC    :ポップコーンを売る売店です
 
 [PREMT1]
@@ -5001,11 +5001,11 @@ STR_DESC    :大定員のモノレールです
 STR_CPTY    :各車両8名
 
 [SOUVS]
-STR_NAME    :Souvenir Stall
+STR_NAME    :お土産ショップ
 STR_DESC    :ぬいぐるみや傘を売る売店です
 
 [SOYBEAN]
-STR_NAME    :Soybean Milk Stall
+STR_NAME    :豆乳ショップ
 STR_DESC    :パック入りの豆乳を売る売店です
 
 [SPBOAT]
@@ -5014,7 +5014,7 @@ STR_DESC    :大定員のボートが幅の広い水路を進んでいき、ベ�
 STR_CPTY    :定員16名
 
 [SPCAR]
-STR_NAME    :Sportscars
+STR_NAME    :スポーツカー
 STR_DESC    :スポーツカーの形をした、動力付きの車両です
 STR_CPTY    :各車両2名
 
@@ -5024,8 +5024,8 @@ STR_DESC    :スパイラルリフトヒルを持つスチール製のコース�
 STR_CPTY    :各車両6名
 
 [SQDST]
-STR_NAME    :Sea Food Stall
-STR_DESC    :ゲ?揚げを売る売店です
+STR_NAME    :シーフード・ショップ
+STR_DESC    :揚げた触手を売る売店です
 
 [SRINGS]
 STR_NAME    :スペースリング
@@ -5038,7 +5038,7 @@ STR_DESC    :圧搾空気により高いスチールの塔に上がった車両�
 STR_CPTY    :定員8名
 
 [STARFRDR]
-STR_NAME    :Star Fruit Drink Stall
+STR_NAME    :スターフルーツ・ショップ
 STR_DESC    :スターフルーツの飲み物を売る売店です
 
 [STEEP1]
@@ -5047,21 +5047,21 @@ STR_DESC    :シングルレールコースを馬の形の車両が走行する�
 STR_CPTY    :各車両2名
 
 [STEEP2]
-STR_NAME    :Motorbike Races
+STR_NAME    :オートバイレース
 STR_DESC    :シングルレールコースをオートバイの形の車両が走行する乗物です
 STR_CPTY    :各車両2名
 
 [SUBMAR]
-STR_NAME    :Submarine Ride
+STR_NAME    :サブマリンライド
 STR_DESC    :水中のコースを、潜水艦に乗り込んで進む乗物です
 STR_CPTY    :各鑑4名
 
 [SUBSTL]
-STR_NAME    :Sub Sandwich Stall
+STR_NAME    :サンドイッチショップ
 STR_DESC    :新鮮なサブマリンサンドイッチを売る売店です
 
 [SUNGST]
-STR_NAME    :Sunglasses Stall
+STR_NAME    :サングラスショップ
 STR_DESC    :いろいろな種類のサングラスを取りそろえた売店です
 
 [SWANS]
@@ -5117,7 +5117,7 @@ STR_DESC    :浮力を持った車輪の、ペダル漕ぎ三輪車です
 STR_CPTY    :各車両2名
 
 [TRUCK1]
-STR_NAME    :Pickup Trucks
+STR_NAME    :ピックアップトラック
 STR_DESC    :ピックアップトラックの形をした、動力付きの乗物です
 STR_CPTY    :各車両1名
 
@@ -5131,7 +5131,7 @@ STR_DESC    :3本の回転する長いアームの先に、それぞれペアシ
 STR_CPTY    :定員18名
 
 [TWIST2]
-STR_NAME    :Snow Cups
+STR_NAME    :雪のカップ
 STR_DESC    :スノーマンが中心にいて、その周りをペアシートが回る乗物です
 STR_CPTY    :定員18名
 
@@ -5206,7 +5206,7 @@ STR_CPTY    :各車両2名
 
 #WW
 [CONDORRD]
-STR_NAME    :Condor Ride
+STR_NAME    :コンドルライド
 STR_DESC    :Riding in special harnesses below the track, riders experience the feeling of flight as they swoop through the air in Condor-shaped trains
 STR_CPTY    :各車両4名
 
