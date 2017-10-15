@@ -19,6 +19,7 @@ Updated in:
 - [ ] zh-CN
 - [ ] zh-TW
 - [ ] ca-ES
+- [ ] ja-JP
 
 Notification when new strings arrive:
 @Nubbie @Goddesen
