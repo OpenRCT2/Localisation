@@ -1076,12 +1076,12 @@ STR_1070    :Single ride per admission
 STR_1071    :Unlimited rides per admission
 STR_1072    :Maze mode
 STR_1073    :レースモード
-STR_1074    :Bumper-car mode
+STR_1074    :バンパー・カー・モード
 STR_1075    :Swing mode
-STR_1076    :Shop stall mode
-STR_1077    :Rotation mode
-STR_1078    :Forward rotation
-STR_1079    :Backward rotation
+STR_1076    :ショップモード
+STR_1077    :回転モード
+STR_1078    :正回転モード
+STR_1079    :後方回転モード
 STR_1080    :「飛行家のアベンジャー」の映画
 STR_1081    :「鼠の物語」の３D映画
 STR_1082    :Space rings mode
@@ -1104,13 +1104,13 @@ STR_1098    :Moving to end of {POP16}{STRINGID}
 STR_1099    :Waiting for passengers at {POP16}{STRINGID}
 STR_1100    :Waiting to depart {POP16}{STRINGID}
 STR_1101    :Departing {POP16}{STRINGID}
-STR_1102    :Travelling at {VELOCITY}
+STR_1102    :{VELOCITY}で走行中
 STR_1103    :Arriving at {POP16}{STRINGID}
 STR_1104    :{POP16}{STRINGID}にアンロード中
-STR_1105    :Travelling at {VELOCITY}
+STR_1105    :{VELOCITY}で走行中
 STR_1106    :クラッシュ中！
 STR_1107    :クラッシュしました！
-STR_1108    :Travelling at {VELOCITY}
+STR_1108    :{VELOCITY}で走行中
 STR_1109    :Swinging
 STR_1110    :回転中
 STR_1111    :回転中
@@ -1122,11 +1122,11 @@ STR_1116    :操作中
 STR_1117    :Doing circus show
 STR_1118    :操作中
 STR_1119    :Waiting for cable lift
-STR_1120    :Travelling at {VELOCITY}
+STR_1120    :{VELOCITY}で走行中
 STR_1121    :Stopping
 STR_1122    :Waiting for passengers
 STR_1123    :Waiting to start
-STR_1124    :Starting
+STR_1124    :始動中
 STR_1125    :操作中
 STR_1126    :Stopping
 STR_1127    :Unloading passengers
@@ -1148,8 +1148,8 @@ STR_1142    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1143    :{RIGHTGUILLEMET}{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1144    :Can't build/move entrance for this ride/attraction...
 STR_1145    :Can't build/move exit for this ride/attraction...
-STR_1146    :Entrance not yet built
-STR_1147    :Exit not yet built
+STR_1146    :入口はまだ建てせんでした。
+STR_1147    :出口はまだ建てせんでした。
 STR_1148    :乗車率1/4
 STR_1149    :乗車率1/2
 STR_1150    :乗車率3/4
@@ -1226,11 +1226,11 @@ STR_1220    :出口のみ
 STR_1221    :入口がない
 STR_1222    :出口がない
 STR_1223    :{SMALLFONT}{BLACK}輸送ライド
-STR_1224    :{SMALLFONT}{BLACK}Gentle rides
-STR_1225    :{SMALLFONT}{BLACK}Roller coasters
-STR_1226    :{SMALLFONT}{BLACK}Thrill rides
-STR_1227    :{SMALLFONT}{BLACK}Water rides
-STR_1228    :{SMALLFONT}{BLACK}Shops & stalls
+STR_1224    :{SMALLFONT}{BLACK}ゲントルライド
+STR_1225    :{SMALLFONT}{BLACK}ロラーコースター
+STR_1226    :{SMALLFONT}{BLACK}スリルライド
+STR_1227    :{SMALLFONT}{BLACK}ウォターライド
+STR_1228    :{SMALLFONT}{BLACK}ショップ
 STR_1229    :列車
 STR_1230    :列車
 STR_1231    :列車
@@ -1675,9 +1675,9 @@ STR_1668    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}Unknown
 STR_1669    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}Total customers: {BLACK}{COMMA32}
 STR_1671    :{WINDOW_COLOUR_2}Total profit: {BLACK}{CURRENCY2DP}
-STR_1672    :Brakes
+STR_1672    :ブレーキ
 STR_1673    :Spinning Control Toggle Track
-STR_1674    :Brake speed
+STR_1674    :ブレーキのスピード
 STR_1675    :{POP16}{VELOCITY}
 STR_1676    :{SMALLFONT}{BLACK}Set speed limit for brakes
 STR_1677    :{WINDOW_COLOUR_2}Popularity: {BLACK}Unknown
@@ -1692,7 +1692,7 @@ STR_1685    :Base size 2 x 4
 STR_1686    :Base size 5 x 1
 STR_1687    :Water splash
 STR_1688    :Base size 4 x 1
-STR_1689    :Block brakes
+STR_1689    :ブロックブレーキ
 STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
 STR_1691    :{WINDOW_COLOUR_2}  Cost: {BLACK}{CURRENCY}
 STR_1692    :{WINDOW_COLOUR_2}  Cost: {BLACK}from {CURRENCY}
@@ -2044,7 +2044,7 @@ STR_2035    :リンゴ飴
 STR_2036    :ティーシャツ
 STR_2037    :ドーナツ
 STR_2038    :コーヒー
-STR_2039    :Empty Cups
+STR_2039    :空のカップ
 STR_2040    :フライドチキン
 STR_2041    :レモネード
 STR_2042    :空のボックス
@@ -2056,23 +2056,23 @@ STR_2047    :ライドフォト
 STR_2048    :傘
 STR_2049    :ドリンク
 STR_2050    :バーガー
-STR_2051    :some Chips
+STR_2051    :ポテトフライ
 STR_2052    :アイスクリーム
 STR_2053    :some Candyfloss
-STR_2054    :an Empty Can
+STR_2054    :空のキャン
 STR_2055    :くず
 STR_2056    :空のバーガーボックス
 STR_2057    :ピザ
 STR_2058    :クーポン
 STR_2059    :ポップコーン
 STR_2060    :ホットドッグ
-STR_2061    :a Tentacle
+STR_2061    :触手
 STR_2062    :帽子
-STR_2063    :a Toffee Apple
+STR_2063    :リンゴ飴
 STR_2064    :Tシャツ
-STR_2065    :a Doughnut
+STR_2065    :ドーナツ
 STR_2066    :コーヒー
-STR_2067    :an Empty Cup
+STR_2067    :空のカップ
 STR_2068    :フライドチキン
 STR_2069    :レモネード
 STR_2070    :空のボックス
@@ -2253,7 +2253,7 @@ STR_2244    :9月
 STR_2245    :10月
 STR_2246    :11月
 STR_2247    :12月
-STR_2248    :Can't demolish ride/attraction...
+STR_2248    :ライド／アトラクションが解体できません。
 STR_2249    :{BABYBLUE}新しいアトラクション:{NEWLINE}{STRINGID}
 STR_2250    :{BABYBLUE}新しい発明品:{NEWLINE}{STRINGID}
 STR_2251    :Can only be built on paths!
@@ -2274,26 +2274,26 @@ STR_2265    :{WINDOW_COLOUR_2}毎月コスト: {BLACK}{CURRENCY}
 STR_2266    :研究優先度
 STR_2267    :現在の研究
 STR_2268    :Last development
-STR_2269    :{WINDOW_COLOUR_2}Type: {BLACK}{STRINGID}
+STR_2269    :{WINDOW_COLOUR_2}タイプ: {BLACK}{STRINGID}
 STR_2270    :{WINDOW_COLOUR_2}Progress: {BLACK}{STRINGID}
 STR_2271    :{WINDOW_COLOUR_2}Expected: {BLACK}{STRINGID}
-STR_2272    :{WINDOW_COLOUR_2}Ride/attraction:{NEWLINE}{BLACK}{STRINGID}
+STR_2272    :{WINDOW_COLOUR_2}ライド／アトラクション:{NEWLINE}{BLACK}{STRINGID}
 STR_2273    :{WINDOW_COLOUR_2}景観とテーマ:{NEWLINE}{BLACK}{STRINGID}
 STR_2274    :{SMALLFONT}{BLACK}Show details of this invention or development
 STR_2275    :{SMALLFONT}{BLACK}Show funding and options for research & development
 STR_2276    :{SMALLFONT}{BLACK}Show research & development status
-STR_2277    :Unknown
+STR_2277    :未知
 STR_2278    :輸送ライド
-STR_2279    :Gentle Ride
-STR_2280    :Roller Coaster
-STR_2281    :Thrill Ride
-STR_2282    :Water Ride
-STR_2283    :Shop/Stall
-STR_2284    :Scenery/Theming
-STR_2285    :Initial research
-STR_2286    :Designing
-STR_2287    :Completing design
-STR_2288    :Unknown
+STR_2279    :ゲントルライド
+STR_2280    :ローラーコースター
+STR_2281    :スリルライド
+STR_2282    :ウォターライド
+STR_2283    :ショップ
+STR_2284    :景色／テーマー
+STR_2285    :初期の研究
+STR_2286    :デサイン中
+STR_2287    :デサインを終わる
+STR_2288    :未知
 STR_2289    :{STRINGID} {STRINGID}
 STR_2290    :<removed string - do not use>
 STR_2291    :新しいシナリオを始める
@@ -2310,26 +2310,26 @@ STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} dri
 STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} drinks
 STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} souvenir
 STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} souvenirs
-STR_2305    :Track design files
-STR_2306    :Save track design
-STR_2307    :Select {STRINGID} design
+STR_2305    :トラックデサインファイル
+STR_2306    :トラックデサインをセーブする
+STR_2307    :{STRINGID}のデザインを選択する
 STR_2308    :{STRINGID}のトラックデザイン
-STR_2309    :Install New Track Design
-STR_2310    :Build custom design
-STR_2311    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2312    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2313    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2314    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}
+STR_2309    :トラックデサインをインストールする
+STR_2310    :カストムデサインを建てる
+STR_2311    :{WINDOW_COLOUR_2}興奮度: {BLACK}{COMMA2DP32}ぐらい
+STR_2312    :{WINDOW_COLOUR_2}強烈度: {BLACK}{COMMA2DP32}ぐらい
+STR_2313    :{WINDOW_COLOUR_2}ゲロ度: {BLACK}{COMMA2DP32}ぐらい
+STR_2314    :{WINDOW_COLOUR_2}レール長: {BLACK}{STRINGID}
 STR_2315    :{WINDOW_COLOUR_2}コスト: {BLACK} {CURRENCY}くらい
-STR_2316    :{WINDOW_COLOUR_2}Space required: {BLACK}{COMMA16} x {COMMA16} blocks
+STR_2316    :{WINDOW_COLOUR_2}必要なスペース: {BLACK}{COMMA16} x {COMMA16} ブロック
 STR_2317    :<removed string - do not use>
 STR_2318    :<removed string - do not use>
 STR_2319    :<removed string - do not use>
 STR_2320    :<removed string - do not use>
 STR_2321    :{WINDOW_COLOUR_2}Number of rides/attractions: {BLACK}{COMMA16}
 STR_2322    :{WINDOW_COLOUR_2}スタフ: {BLACK}{COMMA16}
-STR_2323    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}m{SQUARED}
-STR_2324    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}sq.ft.
+STR_2323    :{WINDOW_COLOUR_2}パークサイズ: {BLACK}{COMMA32}m{SQUARED}
+STR_2324    :{WINDOW_COLOUR_2}パークサイズ: {BLACK}{COMMA32}sq.ft.
 STR_2325    :{SMALLFONT}{BLACK}Buy land to extend park
 STR_2326    :{SMALLFONT}{BLACK}Buy construction rights to allow construction above or below land outside the park
 STR_2327    :設定
@@ -3196,12 +3196,12 @@ STR_3184    :Ride Vehicles/Attractions
 STR_3185    :Small Scenery
 STR_3186    :Large Scenery
 STR_3187    :Walls/Fences
-STR_3188    :Path Signs
-STR_3189    :Footpaths
+STR_3188    :歩道のバナー
+STR_3189    :歩道
 STR_3190    :Path Extras
 STR_3191    :Scenery Groups
-STR_3192    :Park Entrance
-STR_3193    :Water
+STR_3192    :パークの入口
+STR_3193    :水
 STR_3194    :Scenario Description
 STR_3195    :Invention List
 STR_3196    :{WINDOW_COLOUR_2}Research Group: {BLACK}{STRINGID}
@@ -3217,9 +3217,9 @@ STR_3205    :Objective Selection
 STR_3206    :Save Scenario
 STR_3207    :トラックデザイナー
 STR_3208    :Track Designs Manager
-STR_3209    :Back to Previous Step:
-STR_3210    :Forward to Next Step:
-STR_3211    :Map size:
+STR_3209    :前のステップに戻る:
+STR_3210    :次のステップに進む:
+STR_3211    :マップサイズ:
 STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
 STR_3213    :Can't decrease map size any further
 STR_3214    :Can't increase map size any further
@@ -3455,12 +3455,12 @@ STR_3441    :2ページ目
 STR_3442    :3ページ目
 STR_3443    :4ページ目
 STR_3444    :5ページ目
-STR_3445    :Set Patrol Area
-STR_3446    :Cancel Patrol Area
+STR_3445    :巡回エリアにセットする
+STR_3446    :巡回エリアをキャンセル
 
 # New strings, cleaner
 STR_5120    :Finances
-STR_5121    :Research
+STR_5121    :研究
 STR_5122    :Select rides by track type (like in RCT1)
 STR_5123    :Renew rides
 STR_5124    :<not used anymore>
@@ -3469,7 +3469,7 @@ STR_5126    :Random title music
 STR_5127    :{SMALLFONT}{BLACK}While dragging, paint landscape instead of changing elevation
 STR_5128    :Selection size
 STR_5129    :Enter selection size between {COMMA16} and {COMMA16}
-STR_5130    :Map size
+STR_5130    :マップサイズ
 STR_5131    :Enter map size between {COMMA16} and {COMMA16}
 STR_5132    :Fix all rides
 STR_5133    :{SMALLFONT}{BLACK}Adjust smaller area of land rights
@@ -3850,7 +3850,7 @@ STR_5507    :Handymen mow grass by default
 STR_5508    :Allow loading files with incorrect checksums
 STR_5509    :{SMALLFONT}{BLACK}Allows loading scenarios and saves that have an incorrect checksum, like the scenarios from the demo or damaged saves.
 STR_5510    :Default sound device
-STR_5511    :(UNKNOWN)
+STR_5511    :(未知)
 STR_5512    :名前を保存
 STR_5513    :(Quick) save game
 STR_5514    :Disable vandalism
@@ -4066,29 +4066,29 @@ STR_5755    :Incorrect Software Version (Server is using {STRING})
 STR_5756    :Bad Password
 STR_5757    :Server Full
 STR_5758    :{OUTLINE}{GREEN}{STRING} has joined the game
-STR_5759    :Downloading map ... ({INT32} / {INT32}) KiB
+STR_5759    :地図をダウンロード中... ({INT32} / {INT32}) KiB
 STR_5760    :香港ドル (HK$)
 STR_5761    :ニュー台湾ドル (NT$)
 STR_5762    :人民元 (CN{YEN})
-STR_5763    :All files
+STR_5763    :全てのファイル
 STR_5764    :Invalid ride type
 STR_5765    :Cannot edit rides of invalid type
 STR_5766    :<available string id>
-STR_5767    :Income
-STR_5768    :Total customers
-STR_5769    :Total profit
+STR_5767    :収入
+STR_5768    :顧客総数
+STR_5769    :総収益
 STR_5770    :Customers per hour
-STR_5771    :Running cost
+STR_5771    :維持費
 STR_5772    :Age
-STR_5773    :Total customers: {COMMA32}
-STR_5774    :Total profit: {CURRENCY2DP}
-STR_5775    :Customers: {COMMA32} per hour
-STR_5776    :Built: This Year
-STR_5777    :Built: Last Year
-STR_5778    :Built: {COMMA16} Years Ago
-STR_5779    :Income: {CURRENCY2DP} per hour
-STR_5780    :Running cost: {CURRENCY2DP} per hour
-STR_5781    :Running cost: Unknown
+STR_5773    :顧客総数: {COMMA32}
+STR_5774    :総収益: {CURRENCY2DP}
+STR_5775    :顧客: {COMMA32} 時あり
+STR_5776    :建設: 今年
+STR_5777    :建設: 去年
+STR_5778    :建設: {COMMA16}年前
+STR_5779    :収入: {CURRENCY2DP} 時あり
+STR_5780    :維持費: {CURRENCY2DP} 時あり
+STR_5781    :維持費: 未知
 STR_5782    :You are now connected. Press '{STRING}' to chat.
 STR_5783    :{WINDOW_COLOUR_2}Scenario Locked
 STR_5784    :{BLACK}Complete earlier scenarios to unlock this scenario.
@@ -4518,7 +4518,7 @@ STR_NAME    :ATM
 STR_DESC    :所持金を使い果たした来園客が利用する、ATM(キャッシュディスペンサー)です
 
 [BALLN]
-STR_NAME    :Balloon Stall
+STR_NAME    :風船ショップ
 STR_DESC    :ヘリウムガスの入った風船を売る売店です
 
 [BATFL]
@@ -4527,7 +4527,7 @@ STR_DESC    :上部のレールからスイングする、小さい車両です
 STR_CPTY    :各車両2名
 
 [BBOAT]
-STR_NAME    :Bumper Boats
+STR_NAME    :バンパー・ボート
 STR_DESC    :丸い小型ボートで、乗客が操作する中央部のモーターで動きます
 STR_CPTY    :各ボート2名
 
