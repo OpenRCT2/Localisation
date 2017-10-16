@@ -881,9 +881,9 @@ STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP
 STR_0876    :{BLACK}{DOWN}
 STR_0877    :低すぎる!
 STR_0878    :高すぎる!
-STR_0879    :Can't lower land here...
-STR_0880    :Can't raise land here...
-STR_0881    :Object in the way
+STR_0879    :ここに地形を下げられません…
+STR_0880    :ここに地形を上げられません…
+STR_0881    :オブジェクトが途中
 STR_0882    :ゲームをロードする
 STR_0883    :ゲームをセーブする
 STR_0884    :景色をロードする
@@ -891,14 +891,14 @@ STR_0885    :景色をセーブする
 STR_0886    :ゲームを閉じる
 STR_0887    :シナリオエディタを閉じる
 STR_0888    :トラックデザイナーを閉める
-STR_0889    :Track Designs Managerを閉じる
+STR_0889    :トラックデザインマネージャを閉じる
 STR_0890    :<removed string - do not use>
 STR_0891    :スクリーンショット
 STR_0892    :Screenshot saved to disk as '{STRINGID}'
 STR_0893    :Screenshot failed !
 STR_0894    :Landscape data area full !
 STR_0895    :Can't build partly above and partly below ground
-STR_0896    :{POP16}{POP16}{STRINGID} Construction
+STR_0896    :{POP16}{POP16}{STRINGID}の建設
 STR_0897    :方向
 STR_0898    :{SMALLFONT}{BLACK}Left-hand curve
 STR_0899    :{SMALLFONT}{BLACK}Right-hand curve
@@ -908,7 +908,7 @@ STR_0902    :{SMALLFONT}{BLACK}Left-hand curve (very small radius)
 STR_0903    :{SMALLFONT}{BLACK}Right-hand curve (very small radius)
 STR_0904    :{SMALLFONT}{BLACK}Left-hand curve (large radius)
 STR_0905    :{SMALLFONT}{BLACK}Right-hand curve (large radius)
-STR_0906    :{SMALLFONT}{BLACK}Straight
+STR_0906    :{SMALLFONT}{BLACK}直線トラック
 STR_0907    :傾斜
 STR_0908    :カーブとバンク
 STR_0909    :Seat Rot.
@@ -919,15 +919,15 @@ STR_0913    :{SMALLFONT}{BLACK}Move to previous section
 STR_0914    :{SMALLFONT}{BLACK}Move to next section
 STR_0915    :{SMALLFONT}{BLACK}Construct the selected section
 STR_0916    :{SMALLFONT}{BLACK}Remove the highlighted section
-STR_0917    :{SMALLFONT}{BLACK}Vertical drop
+STR_0917    :{SMALLFONT}{BLACK}バーティカル・ドロップ
 STR_0918    :{SMALLFONT}{BLACK}Steep slope down
 STR_0919    :{SMALLFONT}{BLACK}Slope down
 STR_0920    :{SMALLFONT}{BLACK}Level
 STR_0921    :{SMALLFONT}{BLACK}Slope up
 STR_0922    :{SMALLFONT}{BLACK}Steep slope up
 STR_0923    :{SMALLFONT}{BLACK}Vertical rise
-STR_0924    :{SMALLFONT}{BLACK}Helix down
-STR_0925    :{SMALLFONT}{BLACK}Helix up
+STR_0924    :{SMALLFONT}{BLACK}下の螺旋
+STR_0925    :{SMALLFONT}{BLACK}上の螺旋
 STR_0926    :Can't remove this...
 STR_0927    :Can't construct this here...
 STR_0928    :{SMALLFONT}{BLACK}Chain lift, to pull cars up slopes
@@ -941,21 +941,21 @@ STR_0935    :Ride exit in the way
 STR_0936    :Park entrance in the way
 STR_0937    :{SMALLFONT}{BLACK}View options
 STR_0938    :{SMALLFONT}{BLACK}Adjust land height and slope
-STR_0939    :Underground/Inside View
-STR_0940    :Remove Base Land
-STR_0941    :Remove Vertical Faces
-STR_0942    :See-Through Rides
-STR_0943    :See-Through Scenery
+STR_0939    :地形の穴を表示する
+STR_0940    :地形透明度の切り替え
+STR_0941    :垂直面透明度の切り替え
+STR_0942    :ライド透明度の切り替え
+STR_0943    :景色透明度の切り替え
 STR_0944    :保存する
 STR_0945    :保存しない
 STR_0946    :キャンセル
 STR_0947    :ロードする前に保存しますか？
 STR_0948    :終了する前に保存しますか？
 STR_0949    :終了する前に保存しますか？
-STR_0950    :ゲームをリロードする
+STR_0950    :ゲームをロードする
 STR_0951    :ゲームを閉じる
 STR_0952    :ゲームを閉じる
-STR_0953    :Load Landscape
+STR_0953    :景色をロードする
 STR_0954    :
 STR_0955    :{SMALLFONT}{BLACK}Select seat rotation angle for this track section
 STR_0956    :-180{DEGREE}
@@ -992,7 +992,7 @@ STR_0986    :{BLACK}{CURRENCY2DP}
 STR_0987    :Too many rides/attractions
 STR_0988    :Can't create new ride/attraction...
 STR_0989    :{STRINGID}
-STR_0990    :{SMALLFONT}{BLACK}Construction
+STR_0990    :{SMALLFONT}{BLACK}建設
 STR_0991    :乗り場
 STR_0992    :{SMALLFONT}{BLACK}Demolish entire ride/attraction
 STR_0993    :ライド/アトラクションを解体します
@@ -1011,8 +1011,8 @@ STR_1005    :Can't start construction on {POP16}{POP16}{POP16}{STRINGID}...
 STR_1006    :Must be closed first
 STR_1007    :Unable to create enough vehicles
 STR_1008    :{SMALLFONT}{BLACK}Open, close, or test ride/attraction
-STR_1009    :{SMALLFONT}{BLACK}Open or close all rides/attractions
-STR_1010    :{SMALLFONT}{BLACK}Open or close park
+STR_1009    :{SMALLFONT}{BLACK}全ライド／アトラクションの稼動/閉鎖
+STR_1010    :{SMALLFONT}{BLACK}パークの稼動/閉鎖
 STR_1011    :Close all
 STR_1012    :Open all
 STR_1013    :Close park
@@ -1053,8 +1053,8 @@ STR_1047    :ゲームをセーブが失敗しました！
 STR_1048    :シナリオをセーブが失敗しました！
 STR_1049    :景色をセーブが失敗しました！
 STR_1050    :Failed to load...{NEWLINE}File contains invalid data!
-STR_1051    :Invisible Supports
-STR_1052    :Invisible People
+STR_1051    :支柱の切り替え
+STR_1052    :ゲストの切替え
 STR_1053    :{SMALLFONT}{BLACK}Rides/attractions in park
 STR_1054    :{SMALLFONT}{BLACK}Name ride/attraction
 STR_1055    :{SMALLFONT}{BLACK}Name person
@@ -1068,24 +1068,24 @@ STR_1062    :周回コースモード
 STR_1063    :逆方向発車モード
 STR_1064    :動力発車（乗り場を通過する）
 STR_1065    :往復モード
-STR_1066    :Boat hire mode
+STR_1066    :ボートモード
 STR_1067    :上方向に発射
 STR_1068    :Rotating lift mode
 STR_1069    :Station to station mode
 STR_1070    :Single ride per admission
 STR_1071    :Unlimited rides per admission
-STR_1072    :Maze mode
+STR_1072    :迷路モード
 STR_1073    :レースモード
 STR_1074    :バンパー・カー・モード
-STR_1075    :Swing mode
+STR_1075    :スイングモード
 STR_1076    :ショップモード
 STR_1077    :回転モード
 STR_1078    :正回転モード
 STR_1079    :後方回転モード
 STR_1080    :「飛行家のアベンジャー」の映画
 STR_1081    :「鼠の物語」の３D映画
-STR_1082    :Space rings mode
-STR_1083    :Beginners mode
+STR_1082    :スペースリングモード
+STR_1083    :初心者モード
 STR_1084    :リニアモーター
 STR_1085    :「スリルシーか」の映画
 STR_1086    :「ストームチェーサー」の３D映画
@@ -1094,24 +1094,24 @@ STR_1088    :強烈なモード
 STR_1089    :ベルジェルクモード
 STR_1090    :お化け屋敷モード
 STR_1091    :サーカスモード
-STR_1092    :下りDownward launch
+STR_1092    :下り発車
 STR_1093    :ねじれた家モード
-STR_1094    :Freefall drop mode
-STR_1095    :Continuous circuit block sectioned mode
-STR_1096    :Powered launch (without passing station)
-STR_1097    :Powered launch block sectioned mode
-STR_1098    :Moving to end of {POP16}{STRINGID}
-STR_1099    :Waiting for passengers at {POP16}{STRINGID}
-STR_1100    :Waiting to depart {POP16}{STRINGID}
-STR_1101    :Departing {POP16}{STRINGID}
+STR_1094    :自由落下モード
+STR_1095    :周回コース(排他的セクション)モード
+STR_1096    :動力発車 (without passing station)
+STR_1097    :動力発車(排他的セクション)モード
+STR_1098    :{POP16}{STRINGID}の終わりに移動中
+STR_1099    :{POP16}{STRINGID}で乗客をロード待機中
+STR_1100    :{POP16}{STRINGID}を出発を待機中
+STR_1101    :{POP16}{STRINGID}を出発中
 STR_1102    :{VELOCITY}で走行中
-STR_1103    :Arriving at {POP16}{STRINGID}
+STR_1103    :{POP16}{STRINGID}に到着中
 STR_1104    :{POP16}{STRINGID}にアンロード中
 STR_1105    :{VELOCITY}で走行中
 STR_1106    :クラッシュ中！
 STR_1107    :クラッシュしました！
 STR_1108    :{VELOCITY}で走行中
-STR_1109    :Swinging
+STR_1109    :スイング中
 STR_1110    :回転中
 STR_1111    :回転中
 STR_1112    :操作中
@@ -1119,23 +1119,23 @@ STR_1113    :上映中
 STR_1114    :回転中
 STR_1115    :操作中
 STR_1116    :操作中
-STR_1117    :Doing circus show
+STR_1117    :サーカスショー中
 STR_1118    :操作中
-STR_1119    :Waiting for cable lift
+STR_1119    :ケーブル・リフト待機中
 STR_1120    :{VELOCITY}で走行中
-STR_1121    :Stopping
-STR_1122    :Waiting for passengers
-STR_1123    :Waiting to start
+STR_1121    :停車中
+STR_1122    :乗客をロード待機中
+STR_1123    :スタート待機中
 STR_1124    :始動中
 STR_1125    :操作中
-STR_1126    :Stopping
-STR_1127    :Unloading passengers
-STR_1128    :Stopped by block brakes
+STR_1126    :停車中
+STR_1127    :乗客をアンロード中
+STR_1128    :ブロック・ブレーキで停車した
 STR_1129    :All vehicles in same colours
 STR_1130    :Different colours per {STRINGID}
 STR_1131    :Different colours per vehicle
-STR_1132    :Vehicle {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1133    :Vehicle {POP16}{COMMA16}
+STR_1132    :乗り物 {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1133    :乗り物 {POP16}{COMMA16}
 STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
 STR_1135    :{STRINGID} {COMMA16}
 STR_1136    :{SMALLFONT}{BLACK}Select main colour
@@ -1155,9 +1155,9 @@ STR_1149    :乗車率1/2
 STR_1150    :乗車率3/4
 STR_1151    :満員
 STR_1152    :指定なし
-STR_1153    :Height Marks on Ride Tracks
-STR_1154    :Height Marks on Land
-STR_1155    :Height Marks on Paths
+STR_1153    :ライドの高さ表示の切り替え
+STR_1154    :地形の高さ表示の切り替え
+STR_1155    :歩道の高さ表示の切り替え
 STR_1156    :{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1157    :{TICK}{MOVE_X}{SMALLFONT}{STRINGID}
 STR_1158    :Can't remove this...
@@ -2366,10 +2366,10 @@ STR_2357    :家
 STR_2358    :単位
 STR_2359    :高さの単位
 STR_2360    :{WINDOW_COLOUR_2}ウィンドウ解像度:
-STR_2361    :Landscape Smoothing
-STR_2362    :{SMALLFONT}{BLACK}Toggle landscape tile edge smoothing on/off
+STR_2361    :地形タイルをならす
+STR_2362    :{SMALLFONT}{BLACK}地形タイルをならすの切り替え
 STR_2363    :工事中の標識
-STR_2364    :{SMALLFONT}{BLACK}Toggle gridlines on landscape on/off
+STR_2364    :{SMALLFONT}{BLACK}地形グリッドの切り替え
 STR_2365    :The bank refuses to increase your loan!
 STR_2366    :摂氏 ℃
 STR_2367    :華氏 ℉
@@ -2387,13 +2387,13 @@ STR_2378    :{SMALLFONT}{BLACK}Adjust smaller area of land
 STR_2379    :{SMALLFONT}{BLACK}Adjust larger area of land
 STR_2380    :{SMALLFONT}{BLACK}Adjust smaller area of water
 STR_2381    :{SMALLFONT}{BLACK}Adjust larger area of water
-STR_2382    :Land
+STR_2382    :地形
 STR_2383    :Water
 STR_2384    :{WINDOW_COLOUR_2}あなたの目標:
 STR_2385    :{BLACK}なし
 STR_2386    :{BLACK}To have at least {COMMA16} guests in your park at the end of {MONTHYEAR}, with a park rating of at least 600
 STR_2387    :{BLACK}To achieve a park value of at least {POP16}{POP16}{CURRENCY} at the end of {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}
-STR_2388    :{BLACK}Have Fun!
+STR_2388    :{BLACK}楽しんで下さい！
 STR_2389    :{BLACK}Build the best {STRINGID} you can!
 STR_2390    :{BLACK}To have 10 different types of roller coasters operating in your park, each with an excitement value of at least 6.00
 STR_2391    :{BLACK}To have at least {COMMA16} guests in your park. You must not let the park rating drop below 700 at any time!
@@ -2405,7 +2405,7 @@ STR_2396    :{BLACK}To achieve a monthly profit from food, drink and merchandise
 STR_2397    :なし
 STR_2398    :Number of guests at a given date
 STR_2399    :Park value at a given date
-STR_2400    :Have fun
+STR_2400    :楽しんで下さい
 STR_2401    :Build the best ride you can
 STR_2402    :Build 10 roller coasters
 STR_2403    :Number of guests in park
@@ -2417,28 +2417,28 @@ STR_2408    :Monthly profit from food/merchandise
 STR_2409    :{WINDOW_COLOUR_2}広告宣伝活動
 STR_2410    :{BLACK}なし
 STR_2411    :{WINDOW_COLOUR_2}実施可能なキャンペーン
-STR_2412    :{SMALLFONT}{BLACK}この広告キャンペーンを開始します
+STR_2412    :{SMALLFONT}{BLACK}この広告キャンペーンを開始する
 STR_2413    :{BLACK}({CURRENCY2DP} 週あたり)
-STR_2414    :(Not Selected)
-STR_2415    :{WINDOW_COLOUR_2}Ride:
-STR_2416    :{WINDOW_COLOUR_2}Item:
-STR_2417    :{WINDOW_COLOUR_2}Length of time:
-STR_2418    :Free entry to {STRINGID}
-STR_2419    :Free ride on {STRINGID}
-STR_2420    :Half-price entry to {STRINGID}
-STR_2421    :Free {STRINGID}
+STR_2414    :(選択して下さい)
+STR_2415    :{WINDOW_COLOUR_2}ライド:
+STR_2416    :{WINDOW_COLOUR_2}品物:
+STR_2417    :{WINDOW_COLOUR_2}期間:
+STR_2418    :{STRINGID}に無料の立入
+STR_2419    :{STRINGID}に無料の立入
+STR_2420    :{STRINGID}に半額の立入
+STR_2421    :無料の{STRINGID}
 STR_2422    :{STRINGID}の広告キャンペーン
 STR_2423    :{STRINGID}の広告キャンペーン
-STR_2424    :{WINDOW_COLOUR_2}Vouchers for free entry to the park
-STR_2425    :{WINDOW_COLOUR_2}Vouchers for free rides on a particular ride
-STR_2426    :{WINDOW_COLOUR_2}Vouchers for half-price entry to the park
-STR_2427    :{WINDOW_COLOUR_2}Vouchers for free food or drink
+STR_2424    :{WINDOW_COLOUR_2}パークの無料券のクーポン
+STR_2425    :{WINDOW_COLOUR_2}ライドの無料券のクーポン
+STR_2426    :{WINDOW_COLOUR_2}パークの半額クーポン
+STR_2427    :{WINDOW_COLOUR_2}飲み物の無料券のクーポン
 STR_2428    :{WINDOW_COLOUR_2}パークの広告キャンペーン
-STR_2429    :{WINDOW_COLOUR_2}Advertising campaign for a particular ride
-STR_2430    :{BLACK}Vouchers for free entry to {STRINGID}
-STR_2431    :{BLACK}Vouchers for free ride on {STRINGID}
-STR_2432    :{BLACK}Vouchers for half-price entry to {STRINGID}
-STR_2433    :{BLACK}Vouchers for free {STRINGID}
+STR_2429    :{WINDOW_COLOUR_2}ライドの広告キャンペーン
+STR_2430    :{BLACK}{STRINGID}に無料の立入のクーポン
+STR_2431    :{BLACK}{STRINGID}に無料の立入のクーポン
+STR_2432    :{BLACK}{STRINGID}に半額の立入のクーポン
+STR_2433    :{BLACK}無料の{STRINGID}のクーポン
 STR_2434    :{BLACK}{STRINGID}の広告キャンペーン
 STR_2435    :{BLACK}{STRINGID}の広告キャンペーン
 STR_2436    :1週間
@@ -2451,12 +2451,12 @@ STR_2442    :<removed string - do not use>
 STR_2443    :{WINDOW_COLOUR_2}毎週のコスト: {BLACK}{CURRENCY2DP}
 STR_2444    :{WINDOW_COLOUR_2}総コスト: {BLACK}{CURRENCY2DP}
 STR_2445    :この広告キャンペーンを開始します
-STR_2446    :{YELLOW}Your marketing campaign for free entry to the park has finished
-STR_2447    :{YELLOW}Your marketing campaign for free rides on {STRINGID} has finished
-STR_2448    :{YELLOW}Your marketing campaign for half-price entry to the park has finished
-STR_2449    :{YELLOW}Your marketing campaign for free {STRINGID} has finished
-STR_2450    :{YELLOW}Your advertising campaign for the park has finished
-STR_2451    :{YELLOW}Your advertising campaign for {STRINGID} has finished
+STR_2446    :{YELLOW}パークに無料の立入の広告キャンペーンが終わりました。
+STR_2447    :{YELLOW}{STRINGID}に無料の立入の広告キャンペーンが終わりました。
+STR_2448    :{YELLOW}パークに半額の立入の広告キャンペーンが終わりました。
+STR_2449    :{YELLOW}無料の{STRINGID}の広告キャンペーンが終わりました。
+STR_2450    :{YELLOW}パークの広告キャンペーンが終わりました。
+STR_2451    :{YELLOW}{STRINGID}の広告キャンペーンが終わりました。
 STR_2452    :{WINDOW_COLOUR_2}資金／借入: {BLACK}{CURRENCY2DP}
 STR_2453    :{WINDOW_COLOUR_2}資金／借入: {RED}{CURRENCY2DP}
 STR_2454    :{SMALLFONT}{BLACK}{CURRENCY2DP} -
@@ -2497,16 +2497,16 @@ STR_2488    :{SMALLFONT}{BLACK}Toggle between showing 'real' names of guests and
 STR_2489    :キーバインドの確認…
 STR_2490    :キーバインドの確認
 STR_2491    :キーバインドをリセットする
-STR_2492    :{SMALLFONT}{BLACK}Set all keyboard shortcuts back to default settings
+STR_2492    :{SMALLFONT}{BLACK}全てのキーバインドをデフォルトにリセットする
 STR_2493    :Close top-most window
 STR_2494    :Close all floating windows
 STR_2495    :Cancel construction mode
-STR_2496    :Pause game
-STR_2497    :Zoom view out
-STR_2498    :Zoom view in
-STR_2499    :Rotate view clockwise
+STR_2496    :進行／一時停止
+STR_2497    :ズームアウト
+STR_2498    :ズームイン
+STR_2499    :マップを右へ回転する
 STR_2500    :Rotate construction object
-STR_2501    :Underground view toggle
+STR_2501    :地形の穴を表示する
 STR_2502    :Hide base land toggle
 STR_2503    :Hide vertical land toggle
 STR_2504    :See-through rides toggle
@@ -3065,11 +3065,11 @@ STR_3053    :Golf hole E
 STR_3054    :ローディング中…
 STR_3055    :白
 STR_3056    :半透明
-STR_3057    :{WINDOW_COLOUR_2}Construction Marker:
-STR_3058    :Brick walls
-STR_3059    :Hedges
+STR_3057    :{WINDOW_COLOUR_2}工事中の標識:
+STR_3058    :煉瓦塀
+STR_3059    :生け垣
 STR_3060    :Ice blocks
-STR_3061    :Wooden fences
+STR_3061    :木の柵
 STR_3062    :{SMALLFONT}{BLACK}Standard roller coaster track
 STR_3063    :{SMALLFONT}{BLACK}Water channel (track submerged)
 STR_3064    :初心者のパーク
@@ -3216,7 +3216,7 @@ STR_3204    :Options Selection
 STR_3205    :Objective Selection
 STR_3206    :Save Scenario
 STR_3207    :トラックデザイナー
-STR_3208    :Track Designs Manager
+STR_3208    :トラックデザインマネージャー
 STR_3209    :前のステップに戻る:
 STR_3210    :次のステップに進む:
 STR_3211    :マップサイズ:
@@ -3350,10 +3350,10 @@ STR_3338    :{BLACK}Custom-designed layout
 STR_3339    :{BLACK}{COMMA16} design available, or custom-designed layout
 STR_3340    :{BLACK}{COMMA16} designs available, or custom-designed layout
 STR_3341    :{SMALLFONT}{BLACK}Game tools
-STR_3342    :Scenario Editor
-STR_3343    :Convert Saved Game to Scenario
+STR_3342    :シナリオエディター
+STR_3343    :ゲームセーブをシナリオに変換する
 STR_3344    :トラックデザイナー
-STR_3345    :Track Designs Manager
+STR_3345    :トラックデザインマネージャー
 STR_3346    :Can't save track design...
 STR_3347    :Ride is too large, contains too many elements, or scenery is too spread out
 STR_3348    :Rename
@@ -3496,14 +3496,14 @@ STR_5153    :Edit Themes...
 STR_5154    :Hardware display
 STR_5155    :Allow testing of unfinished tracks
 STR_5156    :{SMALLFONT}{BLACK}Allows testing of most ride types even when the track is unfinished, does not apply to block sectioned modes
-STR_5157    :Unlock all prices
-STR_5158    :Quit to menu
-STR_5159    :Exit OpenRCT2
+STR_5157    :<removed string - do not use>
+STR_5158    :メニューに戻る
+STR_5159    :OpenRCT2終了
 STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID} {POP16}{COMMA16}年
-STR_5161    :Date Format:
+STR_5161    :日付形式:
 STR_5162    :日月年
 STR_5163    :月日年
-STR_5164    :Twitch Channel name
+STR_5164    :Twitchのチャンネル名
 STR_5165    :Name guests after followers
 STR_5166    :{SMALLFONT}{BLACK}Name guests after channel's{NEWLINE}Twitch followers
 STR_5167    :Track follower guests
@@ -3584,36 +3584,36 @@ STR_5241    :Can't change this theme
 STR_5242    :Theme name already exists
 STR_5243    :Invalid characters used
 STR_5244    :スタイル
-STR_5245    :Top Toolbar
-STR_5246    :Bottom Toolbar
-STR_5247    :Track Editor Bottom Toolbar
-STR_5248    :Scenario Editor Bottom Toolbar
+STR_5245    :上のツールバー
+STR_5246    :下のツールバー
+STR_5247    :トラックエディターの下のツールバー
+STR_5248    :シナリオエディターの下のツールバー
 STR_5249    :Title Menu Buttons
 STR_5250    :Title Exit Button
 STR_5251    :Title Options Button
 STR_5252    :Title Scenario Selection
-STR_5253    :Park Information
+STR_5253    :パーク・インフォメーション
 STR_5254    :Create
 STR_5255    :{SMALLFONT}{BLACK}Create a new title sequence from scratch
 STR_5256    :Create a new theme to make changes to
 STR_5257    :{SMALLFONT}{BLACK}Create a new theme based on the current one
 STR_5258    :{SMALLFONT}{BLACK}Delete the current theme
 STR_5259    :{SMALLFONT}{BLACK}Rename the current theme
-STR_5260    :Giant Screenshot
-STR_5261    :Filter
-STR_5262    :Wacky Worlds
-STR_5263    :Time Twister
-STR_5264    :Custom
+STR_5260    :莫大スクリーンショット
+STR_5261    :フィルター
+STR_5262    :ワッキーワールド
+STR_5263    :タイムツイスター
+STR_5264    :カスタム
 STR_5265    :{SMALLFONT}{BLACK}Select which content sources are visible
 STR_5266    :{SMALLFONT}{BLACK}Display
 STR_5267    :{SMALLFONT}{BLACK}Culture and Units
-STR_5268    :{SMALLFONT}{BLACK}Audio
+STR_5268    :{SMALLFONT}{BLACK}音楽
 STR_5269    :{SMALLFONT}{BLACK}Controls and interface
 STR_5270    :{SMALLFONT}{BLACK}Miscellaneous
 STR_5271    :{SMALLFONT}{BLACK}Twitch
-STR_5272    :{SMALLFONT}{BLACK}Small Scenery
-STR_5273    :{SMALLFONT}{BLACK}Large Scenery
-STR_5274    :{SMALLFONT}{BLACK}Footpath
+STR_5272    :{SMALLFONT}{BLACK}小さな景観物
+STR_5273    :{SMALLFONT}{BLACK}大きな景観物
+STR_5274    :{SMALLFONT}{BLACK}歩道
 STR_5275    :Search for Objects
 STR_5276    :Enter the name of an object to search for
 STR_5277    :Clear
@@ -3669,7 +3669,7 @@ STR_5326    :グリッド (緑)
 STR_5327    :濃い色の砂
 STR_5328    :淡い色の砂
 STR_5329    :チェッカーボード (インバーテッド)
-STR_5330    :Underground view
+STR_5330    :地形の穴を表示する
 STR_5331    :岩
 STR_5332    :Wood (red)
 STR_5333    :Wood (black)
@@ -3689,8 +3689,8 @@ STR_5346    :Guest cheats
 STR_5347    :Park cheats
 STR_5348    :Ride cheats
 STR_5349    :{SMALLFONT}{BLACK}All Rides
-STR_5350    :Max
-STR_5351    :Min
+STR_5350    :最大限
+STR_5351    :最小限
 STR_5352    :{BLACK}幸福度:
 STR_5353    :{BLACK}体力:
 STR_5354    :{BLACK}空腹度:
@@ -3782,9 +3782,9 @@ STR_5439    :A wait command with at least 4 seconds is required with a restart c
 STR_5440    :Minimise fullscreen on focus loss
 STR_5441    :{SMALLFONT}{BLACK}Identifies rides by track type{NEWLINE}so vehicles can be changed{NEWLINE}afterwards (RCT1 behaviour)
 STR_5442    :Force park rating:
-STR_5443    :Speed{MOVE_X}{87}{STRINGID}
-STR_5444    :Speed:
-STR_5445    :Speed
+STR_5443    :スピード{MOVE_X}{87}{STRINGID}
+STR_5444    :スピード:
+STR_5445    :スピード
 STR_5446    :Get
 STR_5447    :Type {STRINGID}
 STR_5448    :Ride / Vehicle {STRINGID}
@@ -3802,9 +3802,9 @@ STR_5459    :Rotate anti-clockwise
 STR_5460    :Rotate view anti-clockwise
 STR_5461    :Set guests' parameters
 STR_5462    :{CURRENCY}
-STR_5463    :Goal: Have fun!
+STR_5463    :目的: 楽しんで下さい！
 STR_5464    :General
-STR_5465    :Climate
+STR_5465    :気候
 STR_5466    :スタフ
 STR_5467    :ALT + 
 STR_5468    :最近のメッセージ
@@ -3813,17 +3813,17 @@ STR_5470    :地図を左にスクロールする
 STR_5471    :地図を下にスクロールする
 STR_5472    :地図を右にスクロールする
 STR_5473    :昼/夜のモード切替
-STR_5474    :Display text on banners in uppercase
-STR_5475    :{COMMA16} weeks
-STR_5476    :Hardware
+STR_5474    :バナーのテキストは大文字で表示する
+STR_5475    :{COMMA16} 週間
+STR_5476    :ハードウェア
 STR_5477    :Map rendering
-STR_5478    :Controls
-STR_5479    :Toolbar
-STR_5480    :Show toolbar buttons for:
+STR_5478    :コントロール
+STR_5479    :ツールバー
+STR_5480    :ツールバーにボタンの表示:
 STR_5481    :スタイル
 STR_5482    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}1 minute
-STR_5483    :{BLACK}({COMMA16} weeks remaining)
-STR_5484    :{BLACK}({COMMA16} week remaining)
+STR_5483    :{BLACK}(残り{COMMA16}週間)
+STR_5484    :{BLACK}(残り{COMMA16}週間)
 STR_5485    :{SMALLFONT}{STRING}
 STR_5486    :{BLACK}{COMMA16}
 STR_5487    :{SMALLFONT}{BLACK}Show recent messages
@@ -4020,19 +4020,19 @@ STR_5711    :Enter new name for this group:
 STR_5712    :Can't modify permission that you do not have yourself
 STR_5713    :Kick Player
 STR_5714    :Show options window
-STR_5715    :New Game
+STR_5715    :新しいゲーム
 STR_5716    :Not allowed in multiplayer mode
 # For identifying client network version in server list window
 STR_5717    :Network version: {STRING}
 STR_5718    :{SMALLFONT}{BLACK}Network version: {STRING}
-STR_5719    :Sunny
-STR_5720    :Partially Cloudy
-STR_5721    :Cloudy
-STR_5722    :Rain
-STR_5723    :Heavy Rain
-STR_5724    :Thunderstorm
-STR_5725    :{BLACK}Force weather:
-STR_5726    :{SMALLFONT}{BLACK}Sets the current weather in park
+STR_5719    :晴れ
+STR_5720    :晴れ/曇り
+STR_5721    :曇り
+STR_5722    :小雨
+STR_5723    :大雨
+STR_5724    :雷雨
+STR_5725    :{BLACK}天気を設定する:
+STR_5726    :{SMALLFONT}{BLACK}パークの天気を設定する
 STR_5727    :Scaling quality
 STR_5728    :Requires hardware display option
 STR_5729    :{SMALLFONT}{BLACK}Requires hardware display option
@@ -4729,7 +4729,7 @@ STR_DESC    :不気味な廊下と薄気味悪い部屋を持つ、多層式の�
 STR_CPTY    :定員15名
 
 [HMAZE]
-STR_NAME    :Maze
+STR_NAME    :迷路
 STR_DESC    :高さ6フィート(約1.8m)の生垣または壁を持つ迷路で、出口が見つからないと出られません
 
 [HMCAR]
