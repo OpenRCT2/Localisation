@@ -22,4 +22,4 @@ Updated in:
 - [ ] ja-JP
 
 Notification when new strings arrive:
-@Nubbie @Goddesen
+@Nubbie @Goddesen @octaroot
