@@ -1855,12 +1855,12 @@ STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16}人の来客
 STR_1849    :{WINDOW_COLOUR_2}音楽を流す
 STR_1850    :{SMALLFONT}{BLACK}このライドで流す音楽の選択
 STR_1851    :{WINDOW_COLOUR_2}維持費: {BLACK}{CURRENCY2DP} 時間あたり
-STR_1852    :{WINDOW_COLOUR_2}維持費: {BLACK}Unknown
+STR_1852    :{WINDOW_COLOUR_2}維持費: {BLACK}未知
 STR_1853    :{WINDOW_COLOUR_2}建設: {BLACK}今年
 STR_1854    :{WINDOW_COLOUR_2}建設: {BLACK}昨年
 STR_1855    :{WINDOW_COLOUR_2}建設: {BLACK}{COMMA16}年前
-STR_1856    :{WINDOW_COLOUR_2}itemからの収益: {BLACK}{CURRENCY2DP}
-STR_1857    :{WINDOW_COLOUR_2}itemからの損失: {BLACK}{CURRENCY2DP}
+STR_1856    :{WINDOW_COLOUR_2}売るべき品物からの収益: {BLACK}{CURRENCY2DP}
+STR_1857    :{WINDOW_COLOUR_2}売るべき品物からの損失: {BLACK}{CURRENCY2DP}
 STR_1858    :{WINDOW_COLOUR_2}毎月コスト: {BLACK}{CURRENCY2DP}
 STR_1859    :清掃員
 STR_1860    :整備士
@@ -3246,12 +3246,12 @@ STR_3234    :パークの設定
 STR_3235    :{SMALLFONT}{BLACK}財務の設定の表示
 STR_3236    :{SMALLFONT}{BLACK}ゲストの設定の表示
 STR_3237    :{SMALLFONT}{BLACK}パークの設定の表示
-STR_3238    :No Money
-STR_3239    :{SMALLFONT}{BLACK}Make this park a 'no money' park with no financial restrictions
+STR_3238    :資金無制限
+STR_3239    :{SMALLFONT}{BLACK}パークは資金無制限の設定です。
 STR_3240    :{WINDOW_COLOUR_2}金銭 初期値:
 STR_3241    :{WINDOW_COLOUR_2}借金 初期値:
-STR_3242    :{WINDOW_COLOUR_2}Maximum loan size:
-STR_3243    :{WINDOW_COLOUR_2}Annual interest rate:
+STR_3242    :{WINDOW_COLOUR_2}借入上限額:
+STR_3243    :{WINDOW_COLOUR_2}年利息:
 STR_3244    :広告宣伝キャンペーンを禁止する
 STR_3245    :{SMALLFONT}{BLACK}広告宣伝キャンペーンを禁止の設定です。
 STR_3246    :{WINDOW_COLOUR_2}{CURRENCY}
@@ -3303,16 +3303,16 @@ STR_3291    :南国
 STR_3292    :砂漠
 STR_3293    :冬
 STR_3294    :変更する...
-STR_3295    :{SMALLFONT}{BLACK}Change name of park
-STR_3296    :{SMALLFONT}{BLACK}Change name of scenario
-STR_3297    :{SMALLFONT}{BLACK}Change detail notes about park / scenario
-STR_3298    :{WINDOW_COLOUR_2}Park Name: {BLACK}{STRINGID}
-STR_3299    :{WINDOW_COLOUR_2}Park/Scenario Details:
-STR_3300    :{WINDOW_COLOUR_2}Scenario Name: {BLACK}{STRINGID}
+STR_3295    :{SMALLFONT}{BLACK}パーク名を変更する
+STR_3296    :{SMALLFONT}{BLACK}シナリオ名を変更する
+STR_3297    :{SMALLFONT}{BLACK}シナリオ設定を変更する
+STR_3298    :{WINDOW_COLOUR_2}パーク名: {BLACK}{STRINGID}
+STR_3299    :{WINDOW_COLOUR_2}パーク／シナリオの説明:
+STR_3300    :{WINDOW_COLOUR_2}シナリオ名: {BLACK}{STRINGID}
 STR_3301    :{WINDOW_COLOUR_2}Objective Date:
 STR_3302    :{WINDOW_COLOUR_2}{MONTHYEAR}
-STR_3303    :{WINDOW_COLOUR_2}Number of guests:
-STR_3304    :{WINDOW_COLOUR_2}Park value:
+STR_3303    :{WINDOW_COLOUR_2}ゲストの数:
+STR_3304    :{WINDOW_COLOUR_2}パーク評価額:
 STR_3305    :{WINDOW_COLOUR_2}Monthly income:
 STR_3306    :{WINDOW_COLOUR_2}Monthly profit:
 STR_3307    :{WINDOW_COLOUR_2}Minimum length:
@@ -3323,17 +3323,17 @@ STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
 STR_3312    :{WINDOW_COLOUR_2}Rides/attractions under a preservation order:
 STR_3313    :シナリオ名
 STR_3314    :シナリオ名を入力して下さい。
-STR_3315    :Park/Scenario Details
-STR_3316    :Enter description of this scenario:
-STR_3317    :No details yet
-STR_3318    :{SMALLFONT}{BLACK}Select which group this scenario appears in
-STR_3319    :{WINDOW_COLOUR_2}Scenario Group:
-STR_3320    :Unable to save scenario file...
-STR_3321    :New objects installed successfully
+STR_3315    :パーク／シナリオの説明
+STR_3316    :シナリオの説明を入力して下さい。
+STR_3317    :説明がなし
+STR_3318    :{SMALLFONT}{BLACK}シナリオグループを選択する
+STR_3319    :{WINDOW_COLOUR_2}シナリオグループ:
+STR_3320    :シナリオのセーブが失敗しました…
+STR_3321    :新しいオブジェクトが正常にインストールされました。
 STR_3322    :{WINDOW_COLOUR_2}目標: {BLACK}{STRINGID}
 STR_3323    :Missing object data, ID: 
-STR_3324    :Requires Add-On Pack: {STRINGID}
-STR_3325    :Requires an Add-On Pack
+STR_3324    :必要のアドオンキット: {STRINGID}
+STR_3325    :アドオンキットが必要
 STR_3326    :{WINDOW_COLOUR_2}(no image)
 STR_3327    :Starting positions for people not set
 STR_3328    :Can't advance to next editor stage...
@@ -3368,26 +3368,26 @@ STR_3356    :Delete File
 STR_3357    :{WINDOW_COLOUR_2}Are you sure you want to permanently delete {STRING} ?
 STR_3358    :Can't delete track design...
 STR_3359    :{BLACK}No track designs of this type
-STR_3360    :Warning!
+STR_3360    :ご注意！
 STR_3361    :Too many track designs of this type - Some will not be listed.
 STR_3362    :<removed string - do not use>
 STR_3363    :<removed string - do not use>
-STR_3364    :Advanced
+STR_3364    :上級
 STR_3365    :{SMALLFONT}{BLACK}Allow selection of individual items of scenery in addition to scenery groups
-STR_3366    :{BLACK}= Ride
-STR_3367    :{BLACK}= Food Stall
-STR_3368    :{BLACK}= Drink Stall
-STR_3369    :{BLACK}= Souvenir Stall
-STR_3370    :{BLACK}= Info. Kiosk
-STR_3371    :{BLACK}= First Aid
-STR_3372    :{BLACK}= Cash Machine
-STR_3373    :{BLACK}= Toilet
+STR_3366    :{BLACK}= ライド
+STR_3367    :{BLACK}= 食べ物ショップ
+STR_3368    :{BLACK}= 飲み物ショップ
+STR_3369    :{BLACK}= お土産ショップ
+STR_3370    :{BLACK}= インフォメーション
+STR_3371    :{BLACK}= 救護所
+STR_3372    :{BLACK}= ATM
+STR_3373    :{BLACK}= トイレ
 STR_3374    :Warning: Too many objects selected!
 STR_3375    :Not all objects in this scenery group could be selected
 STR_3376    :Install new
 STR_3377    :{SMALLFONT}{BLACK}Install a new track design file
-STR_3378    :Install
-STR_3379    :Cancel
+STR_3378    :インストール
+STR_3379    :キャンセル
 STR_3380    :Unable to install this track design...
 STR_3381    :File is not compatible or contains invalid data
 STR_3382    :File copy failed
@@ -3493,7 +3493,7 @@ STR_5150    :Enable debugging tools
 STR_5151    :,
 STR_5152    :.
 STR_5153    :テーマを変更する
-STR_5154    :Hardware display
+STR_5154    :ハードウェア表示
 STR_5155    :Allow testing of unfinished tracks
 STR_5156    :{SMALLFONT}{BLACK}Allows testing of most ride types even when the track is unfinished, does not apply to block sectioned modes
 STR_5157    :<removed string - do not use>
@@ -3605,11 +3605,11 @@ STR_5262    :ワッキーワールド
 STR_5263    :タイムツイスター
 STR_5264    :カスタム
 STR_5265    :{SMALLFONT}{BLACK}Select which content sources are visible
-STR_5266    :{SMALLFONT}{BLACK}Display
-STR_5267    :{SMALLFONT}{BLACK}Culture and Units
+STR_5266    :{SMALLFONT}{BLACK}表示
+STR_5267    :{SMALLFONT}{BLACK}文化と単位
 STR_5268    :{SMALLFONT}{BLACK}音楽
-STR_5269    :{SMALLFONT}{BLACK}Controls and interface
-STR_5270    :{SMALLFONT}{BLACK}Miscellaneous
+STR_5269    :{SMALLFONT}{BLACK}コントロールとインターフェイス
+STR_5270    :{SMALLFONT}{BLACK}雑貨
 STR_5271    :{SMALLFONT}{BLACK}Twitch
 STR_5272    :{SMALLFONT}{BLACK}小さな景観物
 STR_5273    :{SMALLFONT}{BLACK}大きな景観物
@@ -3671,8 +3671,8 @@ STR_5328    :淡い色の砂
 STR_5329    :チェッカーボード (インバーテッド)
 STR_5330    :地形の穴を表示する
 STR_5331    :岩
-STR_5332    :Wood (red)
-STR_5333    :Wood (black)
+STR_5332    :木製 (赤)
+STR_5333    :木製 (黒)
 STR_5334    :氷
 STR_5335    :ライド入口
 STR_5336    :ライド出口
@@ -3772,10 +3772,10 @@ STR_5429    :Zoom level:
 STR_5430    :Milliseconds to wait:
 STR_5431    :Save to load:
 STR_5432    :Command:
-STR_5433    :Title Sequences
+STR_5433    :タイトルシーケンス
 STR_5434    :Command Editor
 STR_5435    :Rename save
-STR_5436    :Edit Title Sequences...
+STR_5436    :タイトルシーケンスを変更する...
 STR_5437    :No save selected
 STR_5438    :Can't make changes while command editor is open
 STR_5439    :A wait command with at least 4 seconds is required with a restart command
@@ -3790,13 +3790,13 @@ STR_5447    :タイプ {STRINGID}
 STR_5448    :ライド／乗り物 {STRINGID}
 STR_5449    :ゲームのスピードを下げる
 STR_5450    :ゲームのスピードを上げる
-STR_5451    :Open cheats window
-STR_5452    :Toggle visibility of toolbars
+STR_5451    :カニングウィンドウの表示
+STR_5452    :ツールバーの表示を切り替える
 STR_5453    :他のライドを選択する
 STR_5454    :Uncap FPS
-STR_5455    :Enable sandbox mode
-STR_5456    :Disable clearance checks
-STR_5457    :Disable support limits
+STR_5455    :サンドボックスモードを有効にする
+STR_5456    :クリアランスチェックを無効にする
+STR_5457    :サポート制限を無効にする
 STR_5458    :右へ回転する
 STR_5459    :左へ回転する
 STR_5460    :ビュウを左へ回転する
@@ -3816,7 +3816,7 @@ STR_5473    :昼/夜のモード切替
 STR_5474    :バナーのテキストは大文字で表示する
 STR_5475    :{COMMA16} 週間
 STR_5476    :ハードウェア
-STR_5477    :Map rendering
+STR_5477    :地図のレンダリング
 STR_5478    :コントロール
 STR_5479    :ツールバー
 STR_5480    :ツールバーにボタンの表示:
@@ -3843,50 +3843,50 @@ STR_5500    :新しいサーバ
 STR_5501    :サーバをスタートする
 STR_5502    :マルチプレイ
 STR_5503    :ホスト名またはIPアドレスを入力してください:
-STR_5504    :{SMALLFONT}{BLACK}Show multiplayer status
+STR_5504    :{SMALLFONT}{BLACK}マルチプレイのステイタスの表示
 STR_5505    :サーバーに接続できない
 STR_5506    :Guests ignore intensities
 STR_5507    :Handymen mow grass by default
 STR_5508    :Allow loading files with incorrect checksums
 STR_5509    :{SMALLFONT}{BLACK}Allows loading scenarios and saves{NEWLINE}that have an incorrect checksum,{NEWLINE}like the scenarios from the demo{NEWLINE}or damaged saves.
-STR_5510    :Default sound device
+STR_5510    :デフォルトのサウンドデバイス
 STR_5511    :(未知)
 STR_5512    :名前を保存
 STR_5513    :(Quick) save game
 STR_5514    :Disable vandalism
 STR_5515    :{SMALLFONT}{BLACK}Stops guests from vandalising your park when they're angry
-STR_5516    :{SMALLFONT}{BLACK}黒
+STR_5516    :{SMALLFONT}{BLACK}黒色
 STR_5517    :{SMALLFONT}{BLACK}灰色
-STR_5518    :{SMALLFONT}{BLACK}白
-STR_5519    :{SMALLFONT}{BLACK}Dark purple
-STR_5520    :{SMALLFONT}{BLACK}Light purple
-STR_5521    :{SMALLFONT}{BLACK}Bright purple
+STR_5518    :{SMALLFONT}{BLACK}白色
+STR_5519    :{SMALLFONT}{BLACK}ダーク紫色
+STR_5520    :{SMALLFONT}{BLACK}ライト紫色
+STR_5521    :{SMALLFONT}{BLACK}明るい紫色
 STR_5522    :{SMALLFONT}{BLACK}紺色
 STR_5523    :{SMALLFONT}{BLACK}水色
-STR_5524    :{SMALLFONT}{BLACK}Icy blue
-STR_5525    :{SMALLFONT}{BLACK}Dark water
-STR_5526    :{SMALLFONT}{BLACK}Light water
-STR_5527    :{SMALLFONT}{BLACK}Saturated green
-STR_5528    :{SMALLFONT}{BLACK}Dark green
-STR_5529    :{SMALLFONT}{BLACK}Moss green
-STR_5530    :{SMALLFONT}{BLACK}Bright green
-STR_5531    :{SMALLFONT}{BLACK}Olive green
-STR_5532    :{SMALLFONT}{BLACK}Dark olive green
-STR_5533    :{SMALLFONT}{BLACK}Bright yellow
+STR_5524    :{SMALLFONT}{BLACK}氷青色
+STR_5525    :{SMALLFONT}{BLACK}ダーク水色
+STR_5526    :{SMALLFONT}{BLACK}ライト水色
+STR_5527    :{SMALLFONT}{BLACK}飽和緑色
+STR_5528    :{SMALLFONT}{BLACK}ダーク緑色
+STR_5529    :{SMALLFONT}{BLACK}モス緑色
+STR_5530    :{SMALLFONT}{BLACK}明るい緑色
+STR_5531    :{SMALLFONT}{BLACK}オリーブ緑色
+STR_5532    :{SMALLFONT}{BLACK}ダークオリーブ緑色
+STR_5533    :{SMALLFONT}{BLACK}明るい黄色
 STR_5534    :{SMALLFONT}{BLACK}黄色
-STR_5535    :{SMALLFONT}{BLACK}Dark yellow
-STR_5536    :{SMALLFONT}{BLACK}Light orange
-STR_5537    :{SMALLFONT}{BLACK}Dark orange
-STR_5538    :{SMALLFONT}{BLACK}Light brown
-STR_5539    :{SMALLFONT}{BLACK}Saturated brown
-STR_5540    :{SMALLFONT}{BLACK}Dark brown
-STR_5541    :{SMALLFONT}{BLACK}Salmon pink
-STR_5542    :{SMALLFONT}{BLACK}Bordeaux red
-STR_5543    :{SMALLFONT}{BLACK}Saturated red
-STR_5544    :{SMALLFONT}{BLACK}Bright red
-STR_5545    :{SMALLFONT}{BLACK}Dark pink
-STR_5546    :{SMALLFONT}{BLACK}Bright pink
-STR_5547    :{SMALLFONT}{BLACK}Light pink
+STR_5535    :{SMALLFONT}{BLACK}ダーク黄色
+STR_5536    :{SMALLFONT}{BLACK}ライトオレンジ色
+STR_5537    :{SMALLFONT}{BLACK}ダークオレンジ色
+STR_5538    :{SMALLFONT}{BLACK}明るい褐色
+STR_5539    :{SMALLFONT}{BLACK}飽和褐色
+STR_5540    :{SMALLFONT}{BLACK}ダーク褐色
+STR_5541    :{SMALLFONT}{BLACK}鮭のピンク色
+STR_5542    :{SMALLFONT}{BLACK}ボルドー赤色
+STR_5543    :{SMALLFONT}{BLACK}飽和赤色
+STR_5544    :{SMALLFONT}{BLACK}明るい赤色
+STR_5545    :{SMALLFONT}{BLACK}ダークピンク色
+STR_5546    :{SMALLFONT}{BLACK}明るいピンク色
+STR_5547    :{SMALLFONT}{BLACK}ライトピンク色
 STR_5548    :全て操作方式を見える
 STR_5549    :年月日
 STR_5550    :{POP16}{POP16}{COMMA16}年 {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
@@ -3901,7 +3901,7 @@ STR_5558    :A restart is required for this setting to take effect
 STR_5559    :10 min. inspections
 STR_5560    :{SMALLFONT}{BLACK}Sets the inspection time to 'Every 10 minutes' on all rides
 STR_5561    :Failed to load language
-STR_5562    :注意!
+STR_5562    :ご注意！
 STR_5563    :This feature is currently unstable, take extra caution.
 STR_5564    :Insert Corrupt Element
 STR_5565    :{SMALLFONT}{BLACK}Inserts a corrupt map element at top of tile. This will hide any element above the corrupt element.
@@ -3980,22 +3980,22 @@ STR_5637    :それはできません…
 STR_5638    :アクセス拒否
 STR_5639    :{SMALLFONT}{BLACK}Show list of players
 STR_5640    :{SMALLFONT}{BLACK}Manage groups
-STR_5641    :Default Group:
-STR_5642    :Group:
-STR_5643    :Add Group
+STR_5641    :デファルトのグループ:
+STR_5642    :グループ:
+STR_5643    :新しいグループ
 STR_5644    :Remove Group
 STR_5645    :チャット
-STR_5646    :Terraform
+STR_5646    :テラフォーム
 STR_5647    :Toggle Pause
 STR_5648    :Set Water Level
 STR_5649    :Create Ride
 STR_5650    :Remove Ride
 STR_5651    :Build Ride
 STR_5652    :Ride Properties
-STR_5653    :Scenery
-STR_5654    :Path
-STR_5655    :Guest
-STR_5656    :Staff
+STR_5653    :景色物
+STR_5654    :歩道
+STR_5655    :ゲスト
+STR_5656    :スタフ
 STR_5657    :Park Properties
 STR_5658    :Park Funding
 STR_5659    :Kick Player
@@ -4003,28 +4003,28 @@ STR_5660    :Modify Groups
 STR_5661    :Set Player Group
 STR_5662    :N/A
 STR_5663    :Clear Landscape
-STR_5664    :Cheat
+STR_5664    :カンニング
 STR_5665    :Toggle Scenery Cluster
 STR_5666    :Passwordless Login
 STR_5701    :{WINDOW_COLOUR_2}Last action: {BLACK}{STRINGID}
 STR_5702    :{SMALLFONT}{BLACK}Locate player's most recent action
 STR_5703    :Can't kick the host
-STR_5704    :Last Action:
+STR_5704    :最後のアクション:
 STR_5705    :Can't set to this group
 STR_5706    :Can't remove group that players belong to
 STR_5707    :This group cannot be modified
 STR_5708    :Can't change the group that the host belongs to
 STR_5709    :Rename Group
-STR_5710    :Group name
-STR_5711    :Enter new name for this group:
+STR_5710    :グループ名
+STR_5711    :グループ名を入力してください。
 STR_5712    :Can't modify permission that you do not have yourself
 STR_5713    :Kick Player
-STR_5714    :Show options window
+STR_5714    :設定ウィンドウの表示
 STR_5715    :新しいゲーム
 STR_5716    :Not allowed in multiplayer mode
 # For identifying client network version in server list window
-STR_5717    :Network version: {STRING}
-STR_5718    :{SMALLFONT}{BLACK}Network version: {STRING}
+STR_5717    :ネットワーク・バージョン: {STRING}
+STR_5718    :{SMALLFONT}{BLACK}ネットワーク・バージョン: {STRING}
 STR_5719    :晴れ
 STR_5720    :晴れ/曇り
 STR_5721    :曇り
@@ -4033,32 +4033,32 @@ STR_5723    :大雨
 STR_5724    :雷雨
 STR_5725    :{BLACK}天気を設定する:
 STR_5726    :{SMALLFONT}{BLACK}パークの天気を設定する
-STR_5727    :Scaling quality
-STR_5728    :Requires hardware display option
-STR_5729    :{SMALLFONT}{BLACK}Requires hardware display option
-STR_5730    :Nearest neighbour
-STR_5731    :Linear
-STR_5732    :Anisotropic
-STR_5733    :Use NN scaling at integer scales
+STR_5727    :スケーリング質
+STR_5728    :ハードウェア表示が必要です。
+STR_5729    :{SMALLFONT}{BLACK}ハードウェア表示が必要です。
+STR_5730    :近傍法
+STR_5731    :線形補間
+STR_5732    :異方
+STR_5733    :近傍法スケーリングを使う
 # tooltip for tab in options window
-STR_5734    :{SMALLFONT}{BLACK}Rendering
-STR_5735    :Network Status
-STR_5736    :Player
-STR_5737    :Closed, {COMMA16} person still on ride
-STR_5738    :Closed, {COMMA16} people still on ride
-STR_5739    :{WINDOW_COLOUR_2}Customers on ride: {BLACK}{COMMA16}
-STR_5740    :Never-ending marketing campaigns
-STR_5741    :{SMALLFONT}{BLACK}Marketing campaigns never end
-STR_5742    :Authenticating ...
-STR_5743    :Connecting ...
-STR_5744    :Resolving ...
+STR_5734    :{SMALLFONT}{BLACK}レンダリング
+STR_5735    :ネットワーク・ステータス
+STR_5736    :プレヤー
+STR_5737    :閉鎖中, まだ{COMMA16}人の乗客
+STR_5738    :閉鎖中, まだ{COMMA16}人の乗客
+STR_5739    :{WINDOW_COLOUR_2}人の乗客: {BLACK}{COMMA16}
+STR_5740    :終わりのないの広告宣伝キャンペーン
+STR_5741    :{SMALLFONT}{BLACK}広告宣伝キャンペーンが終わりのないの設定です。
+STR_5742    :認証中 ...
+STR_5743    :接続中 ...
+STR_5744    :解決中　...
 STR_5745    :Network desync detected
 STR_5746    :Disconnected
 STR_5747    :Disconnected: {STRING}
-STR_5748    :Kicked
-STR_5749    :Get out of the server!
+STR_5748    :蹴られました
+STR_5749    :サーバから出ていけ！
 STR_5750    :Connection Closed
-STR_5751    :No Data
+STR_5751    :データなし
 STR_5752    :{OUTLINE}{RED}{STRING} has disconnected
 STR_5753    :{OUTLINE}{RED}{STRING} has disconnected ({STRING})
 STR_5754    :Bad Player Name
@@ -4184,11 +4184,11 @@ STR_5871    :Plants don't age
 STR_5872    :{SMALLFONT}{BLACK}Disable plant ageing such that they don't wilt.
 STR_5873    :Allow chain lifts on all track pieces
 STR_5874    :{SMALLFONT}{BLACK}Allows any piece of track to be made into a chain lift
-STR_5875    :Drawing Engine:
-STR_5876    :{SMALLFONT}{BLACK}The engine to use for drawing the game.
-STR_5877    :Software
-STR_5878    :Software (hardware display)
-STR_5879    :OpenGL (experimental)
+STR_5875    :レンダリングエンジン:
+STR_5876    :{SMALLFONT}{BLACK}ゲームのレンダリングに使用するエンジン。
+STR_5877    :ソフトウェア
+STR_5878    :ソフトウェア（ハードウェア表示）
+STR_5879    :OpenGL（試験的）
 STR_5880    :選定だけ
 STR_5881    :選定ないだけ
 STR_5882    :カスタム通貨記号
@@ -4206,7 +4206,7 @@ STR_5893    :円相場
 STR_5894    :円相場を入力して下さい。
 STR_5895    :トラックをセーブする
 STR_5896    :Track save failed!
-STR_5897    :Window limit:
+STR_5897    :ウィンドウ制限:
 STR_5898    :{BLACK}Can't load the track, the file might be {newline}corrupted, broken or missing!
 STR_5899    :Toggle paint debug window
 STR_5900    :Use original drawing code
@@ -4310,7 +4310,7 @@ STR_5997    :Add/set money
 STR_5998    :Add money
 STR_5999    :Set money
 STR_6000    :Enter new value
-STR_6001    :Enable lighting effects (experimental)
+STR_6001    :Enable lighting effects（試験的）
 STR_6002    :{SMALLFONT}{BLACK}Lamps and rides will be lit up at night.{NEWLINE}Requires rendering engine to be set to hardware display.
 STR_6003    :切り欠きビュー
 STR_6004    :切り欠きビュー
