@@ -39,6 +39,7 @@ One simple way to test the new language is to copy the whole document you've tra
 
 | Language | Maintainer | Status Bars |
 | -------- | ---------- | ----------- | 
+| [![](https://img.shields.io/badge/ar--EG-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ar-EG.txt) | [Omaranwa](https://github.com/Omaranwa)          | ![](https://api.openrct2.website/localisation/status/badges/ar-EG) | 
 | [![](https://img.shields.io/badge/en--GB-maintained-green.svg)](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt   ) | -Anyone-                                           | ![](https://api.openrct2.website/localisation/status/badges/en-GB) | 
 | [![](https://img.shields.io/badge/ca--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ca-ES.txt) | [J0anJosep](https://github.com/J0anJosep)          | ![](https://api.openrct2.website/localisation/status/badges/ca-ES) | 
 | [![](https://img.shields.io/badge/cs--CZ-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/cs-CZ.txt) | [octaroot](https://github.com/octaroot)            | ![](https://api.openrct2.website/localisation/status/badges/cs-CZ) | 
