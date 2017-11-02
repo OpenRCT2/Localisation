@@ -20,6 +20,7 @@ Updated in:
 - [ ] zh-TW
 - [ ] ca-ES
 - [ ] ja-JP
+- [ ] ar-EG
 
 Notification when new strings arrive:
 @Nubbie @Goddesen @octaroot
