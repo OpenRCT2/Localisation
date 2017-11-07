@@ -23,4 +23,4 @@ Updated in:
 - [ ] ar-EG
 
 Notification when new strings arrive:
-@Nubbie @Goddesen @octaroot
+@Nubbie @Goddesen @octaroot @telk5093
