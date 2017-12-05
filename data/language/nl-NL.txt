@@ -4027,13 +4027,13 @@ STR_5723    :Flinke regen
 STR_5724    :Onweer
 STR_5725    :{BLACK}Weer forceren:
 STR_5726    :{SMALLFONT}{BLACK}Stelt het huidige weer in het park in
-STR_5727    :Opschaalkwaliteit
+STR_5727    :Opschaalkwaliteit:
 STR_5728    :Dit vereist 'weergave door hardware'
 STR_5729    :{SMALLFONT}{BLACK}Dit vereist 'weergave door hardware'
-STR_5730    :Nearest neighbour
+STR_5730    :<removed string - do not use>
 STR_5731    :Lineair
-STR_5732    :Anisotropisch
-STR_5733    :Bij opschalen met gehele getallen NN gebruiken
+STR_5732    :<removed string - do not use>
+STR_5733    :<removed string - do not use>
 # tooltip for tab in options window
 STR_5734    :{SMALLFONT}{BLACK}Rendering
 STR_5735    :Netwerkstatus
@@ -4118,8 +4118,8 @@ STR_5813    :{OPENQUOTES}{STRING}{ENDQUOTES}
 STR_5814    :{WINDOW_COLOUR_1}{OPENQUOTES}{STRING}{ENDQUOTES}
 STR_5815    :{SMALLFONT}{BLACK}Toont FPS-teller aan de bovenkant van het scherm.
 STR_5816    :{SMALLFONT}{BLACK}Stelt de factor in waarmee alles vergroot moet worden.{NEWLINE}Vooral handig als je met een hoge schermresolutie speelt.
-STR_5817    :{SMALLFONT}{BLACK}[Vereist 'Weergave uitgevoerd door hardware']{NEWLINE}Stelt manier van vergroten in.{NEWLINE}{NEWLINE}NN is scherp maar alleen bij vergroting met een geheel getal. Lineair en anisotropisch zijn vloeiend, maar niet zo scherp. SNN is scherp bij elke vergrotingsfactor maar kost iets meer verwerkingskracht.
-STR_5818    :{SMALLFONT}{BLACK}[Vereist 'Weergave uitgevoerd door hardware']{NEWLINE}Gebruik 'nearest neighbour' als de vergrotingsfactor{NEWLINE}is ingesteld op een geheel getal (1, 2, 3, etc.).
+STR_5817    :{SMALLFONT}{BLACK}(Vereist weergave via hardware){NEWLINE}Stelt manier van vergroten in.{NEWLINE}{NEWLINE}Lineair is sneller, maar niet zo scherp. SNN is scherp maar kost iets meer verwerkingskracht.
+STR_5818    :<removed string - do not use>
 STR_5819    :{SMALLFONT}{BLACK}[Vereist 'Weergave uitgevoerd door hardware']{NEWLINE}Pauzeert het spel als de Steam-overlay wordt geopend.
 STR_5820    :{SMALLFONT}{BLACK}Minimaliseert het spel als het de focus verliest tijdens het spelen op volledig scherm.
 STR_5821    :{SMALLFONT}{BLACK}Verandert hoe wordt aangegeven dat een attractie, winkel, decorstuk, etc. in aanbouw is.
