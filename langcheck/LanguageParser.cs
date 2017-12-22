@@ -16,7 +16,7 @@ namespace langcheck
         private LanguageEntryType _currentEntryType;
         private readonly HashSet<string> _groupItemIdentifiers = new HashSet<string>();
 
-        private readonly string[] ObjectOverrideIdentifiers = new[] { "NAME", "DESC", "CPTY", "VEHN" };
+        private readonly string[] ObjectOverrideIdentifiers = new[] { "NAME", "DESC", "CPTY" };
         private readonly string[] ScenarioOverrideIdentifiers = new[] { "SCNR", "PARK", "DTLS" };
 
         public LanguageParser(IErrorLogger logger)
