@@ -3968,7 +3968,7 @@ STR_5626    :Other Parks
 STR_5627    :Group scenario list by:
 STR_5628    :اللعبة المصدر
 STR_5629    :مستوي الصعوبة
-STR_5630    :Enable unlocking of scenarios
+STR_5630    :تفعيل الإفراج التدريجي
 STR_5631    :Original DLC Parks
 STR_5632    :Build your own...
 STR_5633    :CMD +
@@ -4151,7 +4151,7 @@ STR_5839    :{SMALLFONT}{BLACK}Show a separate button for the research and devel
 STR_5840    :{SMALLFONT}{BLACK}Show a separate button for the cheats window in the toolbar
 STR_5841    :{SMALLFONT}{BLACK}Show a separate button for the recent news window in the toolbar
 STR_5842    :{SMALLFONT}{BLACK}Sort scenarios into tabs by their difficulty (RCT2 behaviour) or their source game (RCT1 behaviour)
-STR_5843    :{SMALLFONT}{BLACK}Enable scenario unlocking (RCT1 behaviour)
+STR_5843    :{SMALLFONT}{BLACK}تفعيل الإفراج التدريجي عن السيناريوهات (RCT1 مثل)
 STR_5844    :{SMALLFONT}{BLACK}Stay connected to a multiplayer server{NEWLINE}even if a desync or error occurs
 STR_5845    :{SMALLFONT}{BLACK}Adds a button for{NEWLINE}debugging tools to the toolbar.{NEWLINE}Enables keyboard shortcut for developer console
 STR_5846    :{SMALLFONT}{BLACK}Set often OpenRCT2 automatically saves
@@ -4472,7 +4472,16 @@ STR_6160    :{WINDOW_COLOUR_2}المركبات المتوفرة: {BLACK}{STRING}
 STR_6161    :إظهار/إخفاء شبكة الإرشاد
 STR_6162    :الفأر البري الدوار
 STR_6163    :سيارات بشكل فأر تسرع  في اللفات الضيقة والنزلات الصغيرة، تدور بشكل لطيف للإرباك الراكبين
-
+STR_6164    :{WHITE}{CROSS}
+STR_6165    :إستخدام المزامنة العمودية
+STR_6166    :{SMALLFONT}{BLACK}مزامنة كل فريم إلي معدل تحديث الشاشة، مما يمنع تمزيق وتمييع الشاشة.
+STR_6167    :{SMALLFONT}{BLACK}متقدم
+STR_6168    :تسلسل العنوان
+STR_6169    :تحديد السيناريو
+STR_6170    :الضبط
+STR_6171    :البحث
+STR_6172    :{SMALLFONT}{BLACK}بحث
+STR_6173    :من فضلك وفر الأسم للبحث:
 #############
 # Scenarios #
 #############
@@ -4494,13 +4503,13 @@ STR_PARK    :بحيرة ليفي
 STR_DTLS    :إبدء من لاشئ، إبني حديقة مزدهرة حول بركة كبيرة
 
 <Diamond Heights>
-STR_SCNR    :Diamond Heights
-STR_PARK    :Diamond Heights
+STR_SCNR    :المرتفعات الألماسية
+STR_PARK    :المرتفعات الألماسية
 STR_DTLS    :Diamond Heights is already a successful theme park with great rides - develop it to double its value
 
 <Evergreen Gardens>
-STR_SCNR    :Evergreen Gardens
-STR_PARK    :Evergreen Gardens
+STR_SCNR    :الحدائق الخضراء دائماً
+STR_PARK    :الحدائق الخضراء دائماً
 STR_DTLS    :Convert the beautiful Evergreen Gardens into a thriving theme park
 
 <Bumbly Beach>
@@ -4524,8 +4533,8 @@ STR_PARK    :Pokey Park
 STR_DTLS    :A small, cramped amusement park which requires major expansion
 
 <White Water Park>
-STR_SCNR    :White Water Park
-STR_PARK    :White Water Park
+STR_SCNR    :حديقة المياه البيضاء
+STR_PARK    :حديقة المياه البيضاء
 STR_DTLS    :A park with some excellent water-based rides requires expansion
 
 <Millennium Mines>
@@ -4574,8 +4583,8 @@ STR_PARK    :Ivory Towers
 STR_DTLS    :A well-established park, which has a few problems
 
 <Rainbow Valley>
-STR_SCNR    :Rainbow Valley
-STR_PARK    :Rainbow Valley
+STR_SCNR    :وادي قوس القزح
+STR_PARK    :وادي قوس القزح
 STR_DTLS    :Rainbow Valley's local authority won't allow any landscape changes or large tree removal, but you must develop the area into a large theme park
 
 <Thunder Rock>
@@ -4595,8 +4604,8 @@ STR_PARK    :Whispering Cliffs
 STR_DTLS    :Develop the seaside cliffs into a thriving amusement park
 
 <Three Monkeys Park>
-STR_SCNR    :Three Monkeys Park
-STR_PARK    :Three Monkeys Park
+STR_SCNR    :حديقة القرود الثلاثة
+STR_PARK    :حديقة القرود الثلاثة
 STR_DTLS    :Central to this large developing park is a giant triple-track racing/duelling steel coaster
 
 <Canary Mines>
@@ -4615,8 +4624,8 @@ STR_PARK    :Funtopia
 STR_DTLS    :Covering land both sides of a highway, this park has several rides already operating
 
 <Haunted Harbour>
-STR_SCNR    :Haunted Harbour
-STR_PARK    :Haunted Harbour
+STR_SCNR    :الميناء المسكون
+STR_PARK    :الميناء المسكون
 STR_DTLS    :The local authority has agreed to sell nearby land cheaply to this small seaside park, on the condition that certain rides are preserved
 
 <Fun Fortress>
@@ -4625,8 +4634,8 @@ STR_PARK    :قلعة المرح
 STR_DTLS    :This castle is all yours to turn into a theme park
 
 <Future World>
-STR_SCNR    :Future World
-STR_PARK    :Future World
+STR_SCNR    :عالم المستقبل
+STR_PARK    :عالم المستقبل
 STR_DTLS    :This futuristic park has plenty of space for new rides on its alien landscape
 
 <Gentle Glen>
@@ -4655,13 +4664,13 @@ STR_PARK    :Magic Quarters
 STR_DTLS    :A large area of land has been cleared and partially themed ready for you to develop into a landscaped theme park
 
 <Fruit Farm>
-STR_SCNR    :Fruit Farm
-STR_PARK    :Fruit Farm
+STR_SCNR    :مزرعة الفواكه
+STR_PARK    :مزرعة الفواكه
 STR_DTLS    :A thriving fruit farm has built a railroad to boost its income, your job is to develop it into a full-blown amusement park
 
 <Butterfly Dam>
-STR_SCNR    :Butterfly Dam
-STR_PARK    :Butterfly Dam
+STR_SCNR    :سد الفراشات
+STR_PARK    :سد الفراشات
 STR_DTLS    :The area around a dam is available for you to develop into an amusement park
 
 <Coaster Canyon>
@@ -4670,8 +4679,8 @@ STR_PARK    :Coaster Canyon
 STR_DTLS    :A vast canyon is yours to turn into a theme park
 
 <Thunderstorm Park>
-STR_SCNR    :Thunderstorm Park
-STR_PARK    :Thunderstorm Park
+STR_SCNR    :حديقة العاصفة البرقية
+STR_PARK    :حديقة العاصفة البرقية
 STR_DTLS    :The weather is so wet here that a giant pyramid has been built to allow some rides to be built under cover
 
 <Harmonic Hills>
@@ -4680,8 +4689,8 @@ STR_PARK    :Harmonic Hills
 STR_DTLS    :The local authority won't allow you to build above tree height in this park
 
 <Roman Village>
-STR_SCNR    :Roman Village
-STR_PARK    :Roman Village
+STR_SCNR    :القرية الرومانية
+STR_PARK    :القرية الرومانية
 STR_DTLS    :Develop this Roman-themed park by adding rides and roller coasters
 
 <Swamp Cove>
