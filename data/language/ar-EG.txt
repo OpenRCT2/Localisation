@@ -896,8 +896,8 @@ STR_0890    :<removed string - do not use>
 STR_0891    :لقطة شاشة
 STR_0892    :لقطة شاشة حفظت للهارد بـ '{STRINGID}'
 STR_0893    :فشل لقطة الشاشة !
-STR_0894    :Landscape data area full !
-STR_0895    :Can't build partly above and partly below ground
+STR_0894    :بيانات منطقة المشهد ممتلئة !
+STR_0895    :لا يمكن البناء بجزء في الأعلي وجزء في الأسفل
 STR_0896    :{POP16}{POP16}{STRINGID} البناء
 STR_0897    :الإتجاه
 STR_0898    :{SMALLFONT}{BLACK}Left-hand curve
@@ -940,7 +940,7 @@ STR_0934    :مدخل الرحلة في الطريق
 STR_0935    :مخرج الرحلة في الطريق
 STR_0936    :مدخل الحديقة في الطريق
 STR_0937    :{SMALLFONT}{BLACK}أظهر الإغدادات
-STR_0938    :{SMALLFONT}{BLACK}Adjust land height and slope
+STR_0938    :{SMALLFONT}{BLACK}تعديل إرتفاع الأرض والإنحدار
 STR_0939    :Underground/Inside View
 STR_0940    :Hide Base Land
 STR_0941    :Hide Vertical Faces
@@ -1020,12 +1020,12 @@ STR_1014    :إفتح الحديقة
 STR_1015    :Unable to operate with more than one station platform in this mode
 STR_1016    :Unable to operate with less than two stations in this mode
 STR_1017    :Can't change operating mode...
-STR_1018    :Can't make changes...
-STR_1019    :Can't make changes...
-STR_1020    :Can't make changes...
+STR_1018    :لا يمكن إجراء التغيير...
+STR_1019    :ا يمكن إجراء التغيير...
+STR_1020    :ا يمكن إجراء التغيير...
 STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_1022    :{POP16}{POP16}{POP16}{COMMA16} car per train
-STR_1023    :{POP16}{POP16}{POP16}{COMMA16} cars per train
+STR_1022    :{POP16}{POP16}{POP16}{COMMA16} سيارة لكل قطر
+STR_1023    :{POP16}{POP16}{POP16}{COMMA16} سيارات لكل قطر
 STR_1024    :{COMMA16} سيارة لكل قطار
 STR_1025    :{COMMA16} سيارات لكل قطار
 STR_1026    :Station platform too long!
@@ -1033,25 +1033,25 @@ STR_1027    :{SMALLFONT}{BLACK}Locate this on Main View
 STR_1028    :قريب من حد الخريطة!
 STR_1029    :Cannot build partly above and partly below water!
 STR_1030    :Can only build this underwater!
-STR_1031    :Can't build this underwater!
-STR_1032    :Can only build this on water!
+STR_1031    :لا يمكن بناء هذا تحت الماء!
+STR_1032    :يمكن بناء هذا فقط فوق الماء!
 STR_1033    :Can only build this above ground!
 STR_1034    :Can only build this on land!
 STR_1035    :Local authority won't allow construction above tree-height!
 STR_1036    :تحميل اللعبة
-STR_1037    :Load Landscape
-STR_1038    :Convert saved game to scenario
+STR_1037    :تحميل مشهد
+STR_1038    :تحويل اللعبة المحفوظة إلي مشهد
 STR_1039    :Install new track design
 STR_1040    :إحفظ اللعبة
 STR_1041    :حفظ السيناريو
-STR_1042    :Save Landscape
+STR_1042    :إحفظ المشهد
 STR_1043    :OpenRCT2 Saved Game
 STR_1044    :OpenRCT2 Scenario File
 STR_1045    :OpenRCT2 Landscape File
 STR_1046    :OpenRCT2 Track Design File
 STR_1047    :حفظ اللعبة فشل!
 STR_1048    :حفظ السيناريو فشل!
-STR_1049    :Landscape save failed!
+STR_1049    :حفظ المشهد فشل!
 STR_1050    :فشل في التحميل...{NEWLINE}الملف يحتوي علي بيانات خاطئة!
 STR_1051    :دعم غير مرئي
 STR_1052    :أناس غير مرئيين
@@ -1069,7 +1069,7 @@ STR_1063    :Reverse-Incline launched shuttle mode
 STR_1064    :Powered launch (passing station)
 STR_1065    :Shuttle mode
 STR_1066    :Boat hire mode
-STR_1067    :Upward launch
+STR_1067    :إطلاق علوي
 STR_1068    :Rotating lift mode
 STR_1069    :Station to station mode
 STR_1070    :Single ride per admission
@@ -1077,17 +1077,17 @@ STR_1071    :Unlimited rides per admission
 STR_1072    :وضع المتاهة
 STR_1073    :وضع السباق
 STR_1074    :Bumper-car mode
-STR_1075    :Swing mode
+STR_1075    :وضع التأرجح
 STR_1076    :Shop stall mode
-STR_1077    :Rotation mode
-STR_1078    :Forward rotation
-STR_1079    :Backward rotation
-STR_1080    :Film: {ENDQUOTES}Avenging aviators{ENDQUOTES}
-STR_1081    :3D film: {ENDQUOTES}Mouse tails{ENDQUOTES}
+STR_1077    :وضع التدوير
+STR_1078    :تدوير أمامي
+STR_1079    :تدوير خلفي
+STR_1080    :فيلم: {ENDQUOTES}الطيارين المنتقمين{ENDQUOTES}
+STR_1081    :فيلم ثر دي: {ENDQUOTES}ذيول الماوس{ENDQUOTES}
 STR_1082    :Space rings mode
 STR_1083    :Beginners mode
 STR_1084    :LIM-powered launch
-STR_1085    :Film: {ENDQUOTES}Thrill riders{ENDQUOTES}
+STR_1085    :فيلم: {ENDQUOTES}راكبي الإثارة{ENDQUOTES}
 STR_1086    :فيلم ثري دي: {ENDQUOTES}مطاردوا العاصفة{ENDQUOTES}
 STR_1087    :فيلم ثري دي: {ENDQUOTES}غزاة الفضاء{ENDQUOTES}
 STR_1088    :Intense mode
@@ -1114,20 +1114,20 @@ STR_1108    :{VELOCITY}يسافر بسرعة
 STR_1109    :يتارجح
 STR_1110    :يدور
 STR_1111    :يدور
-STR_1112    :Operating
-STR_1113    :Showing film
+STR_1112    :يعمل
+STR_1113    :يُظهر الفيلم
 STR_1114    :يدور
-STR_1115    :Operating
-STR_1116    :Operating
-STR_1117    :Doing circus show
-STR_1118    :Operating
+STR_1115    :يعمل
+STR_1116    :يعمل
+STR_1117    :يعمل عرض للسيرك
+STR_1118    :يعمل
 STR_1119    :Waiting for cable lift
 STR_1120    :{VELOCITY}يسافر بسرعة
 STR_1121    :يتوقف
 STR_1122    :ينتظر الركاب
 STR_1123    :ينتظر ليبدء
 STR_1124    :يبدأ
-STR_1125    :Operating
+STR_1125    :يعمل
 STR_1126    :يتوقف
 STR_1127    :تنزيل الركاب
 STR_1128    :Stopped by block brakes
@@ -1178,12 +1178,12 @@ STR_1172    :{YELLOW}{STRINGID} - -
 STR_1173    :{SMALLFONT}{BLACK}Build footpaths and queue lines
 STR_1174    :Banner sign in the way
 STR_1175    :Can't build this on sloped footpath
-STR_1176    :Can't build footpath here...
+STR_1176    :لا يمكن بناء ممشي هنا...
 STR_1177    :Can't remove footpath from here...
 STR_1178    :Land slope unsuitable
-STR_1179    :Footpath in the way
+STR_1179    :ممشي في الطريق
 STR_1180    :لا يمكن بناء هذا تحت الماء!
-STR_1181    :خطوات أقدام
+STR_1181    :ممشي
 STR_1182    :النوع
 STR_1183    :الإتجاة
 STR_1184    :الإنحدار
@@ -1363,8 +1363,8 @@ STR_1357    :{WINDOW_COLOUR_2}Holes: {BLACK}{COMMA16}
 STR_1358    :{WINDOW_COLOUR_2}Total 'air' time: {BLACK}{COMMA2DP32}secs
 STR_1359    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minute
 STR_1360    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minutes
-STR_1361    :Can't change speed...
-STR_1362    :Can't change launch speed...
+STR_1361    :لا يمكن تغيير السرعة...
+STR_1362    :لا يمكن تغيير سرعة الإطلاق...
 STR_1363    :Too high for supports!
 STR_1364    :Supports for track above can't be extended any further!
 STR_1365    :In-line Twist (left)
