@@ -879,10 +879,10 @@ STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}{DOWN}
-STR_0877    :Muito baixo !
-STR_0878    :Muito alto !
-STR_0879    :Não é possível abaixar o terreno aqui...
-STR_0880    :Não é possível aumentar o terreno aqui...
+STR_0877    :Muito baixo!
+STR_0878    :Muito alto!
+STR_0879    :Impossível abaixar o terreno aqui...
+STR_0880    :Impossível aumentar o terreno aqui...
 STR_0881    :Objeto no caminho
 STR_0882    :Carregar Jogo
 STR_0883    :Salvar Jogo
@@ -894,21 +894,21 @@ STR_0888    :Sair do Construtor de Pista
 STR_0889    :Sair do Gerenciador de Projetos de Pista
 STR_0890    :<removed string - do not use>
 STR_0891    :Captura de tela
-STR_0892    :Captura de tela salvo no disco como '{STRINGID}'
-STR_0893    :Capturas de tela falhou !
-STR_0894    :Dados da área da paisagem cheios !
-STR_0895    :Impossível construir parcialmente em cima e embaixo do chão
+STR_0892    :Captura de tela salva no disco como '{STRINGID}'
+STR_0893    :Captura de tela falhou!
+STR_0894    :Dados da área da paisagem cheios!
+STR_0895    :Impossível construir parcialmente acima e abaixo do chão
 STR_0896    :{POP16}{POP16}{STRINGID} Construção
 STR_0897    :Sentido
-STR_0898    :{SMALLFONT}{BLACK}Curva para esquerda
-STR_0899    :{SMALLFONT}{BLACK}Curva para direita
-STR_0900    :{SMALLFONT}{BLACK}Curva para esquerda (raio pequeno)
-STR_0901    :{SMALLFONT}{BLACK}Curva para direita (raio pequeno)
-STR_0902    :{SMALLFONT}{BLACK}Curva para esquerda (raio muito pequeno)
-STR_0903    :{SMALLFONT}{BLACK}Curva para esquerda (raio muito pequeno)
-STR_0904    :{SMALLFONT}{BLACK}Curva para esquerda (raio grande)
-STR_0905    :{SMALLFONT}{BLACK}Curva para esquerda (raio grande)
-STR_0906    :{SMALLFONT}{BLACK}Linha reta
+STR_0898    :{SMALLFONT}{BLACK}Curva à Esquerda
+STR_0899    :{SMALLFONT}{BLACK}Curva à Direita
+STR_0900    :{SMALLFONT}{BLACK}Curva à Esquerda (Raio Pequeno)
+STR_0901    :{SMALLFONT}{BLACK}Curva à Direita (Raio Pequeno)
+STR_0902    :{SMALLFONT}{BLACK}Curva à Esquerda (Raio Muito Pequeno)
+STR_0903    :{SMALLFONT}{BLACK}Curva à Direita (Raio Muito Pequeno)
+STR_0904    :{SMALLFONT}{BLACK}Curva à Esquerda (Raio Grande)
+STR_0905    :{SMALLFONT}{BLACK}Curva à Direita (Raio Grande)
+STR_0906    :{SMALLFONT}{BLACK}Linha Reta
 STR_0907    :Inclinação
 STR_0908    :Giro/Inclinação
 STR_0909    :Rot. Banco
@@ -3169,7 +3169,7 @@ STR_3158    :gráfico
 STR_3159    :lista
 STR_3160    :{SMALLFONT}{BLACK}Seleciona o número de circuitos por passeio
 STR_3161    :<removed string - do not use>
-STR_3162    :Não é possível alocar memória necessária
+STR_3162    :Impossível alocar memória o suficiente
 STR_3163    :Instalando novos dados: 
 STR_3164    :{BLACK}{COMMA16} selecionado(s) (no máximo {COMMA16})
 STR_3165    :
