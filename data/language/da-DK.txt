@@ -999,24 +999,24 @@ STR_0993    :Nedriv forlystelse/attraktion
 STR_0994    :Nedriv
 STR_0995    :{WINDOW_COLOUR_1}Er du sikke på at du vil nedrive {STRINGID}?
 STR_0996    :Oversigtsvisning
-STR_0997    :{SMALLFONT}{BLACK}View selection
-STR_0998    :No more stations allowed on this ride
-STR_0999    :Requires a station platform
-STR_1000    :Track is not a complete circuit
-STR_1001    :Track unsuitable for type of train
-STR_1002    :Can't open {POP16}{POP16}{POP16}{STRINGID}...
-STR_1003    :Can't test {POP16}{POP16}{POP16}{STRINGID}...
-STR_1004    :Can't close {POP16}{POP16}{POP16}{STRINGID}...
+STR_0997    :{SMALLFONT}{BLACK}Visnings valg
+STR_0998    :Ikke flere stationer tilladt for denne forlystelse
+STR_0999    :Kræver en station platform
+STR_1000    :Banen er ikke en komplet bane
+STR_1001    :Banen pa´sser ikke til denne type vogn
+STR_1002    :Kan ikke åbne {POP16}{POP16}{POP16}{STRINGID}...
+STR_1003    :Kan ikke teste {POP16}{POP16}{POP16}{STRINGID}...
+STR_1004    :Kan ikke lukke {POP16}{POP16}{POP16}{STRINGID}...
 STR_1005    :Can't start construction on {POP16}{POP16}{POP16}{STRINGID}...
 STR_1006    :Must be closed first
 STR_1007    :Unable to create enough vehicles
-STR_1008    :{SMALLFONT}{BLACK}Open, close, or test forlystelse/attraktion
-STR_1009    :{SMALLFONT}{BLACK}Open or close all rides/attractions
-STR_1010    :{SMALLFONT}{BLACK}Open or close park
-STR_1011    :Close all
-STR_1012    :Open all
-STR_1013    :Close park
-STR_1014    :Open park
+STR_1008    :{SMALLFONT}{BLACK}Åben, test eller luk forlystelse/attraktion
+STR_1009    :{SMALLFONT}{BLACK}Åben eller luk alle forlystelser/attraktioner
+STR_1010    :{SMALLFONT}{BLACK}Åben eller luk parken
+STR_1011    :Luk alle
+STR_1012    :Åben alle
+STR_1013    :Luk park
+STR_1014    :Åben park
 STR_1015    :Unable to operate with more than one station platform in this mode
 STR_1016    :Unable to operate with less than two stations in this mode
 STR_1017    :Can't change operating mode...
@@ -1056,13 +1056,13 @@ STR_1050    :Failed to load...{NEWLINE}File contains invalid data!
 STR_1051    :Invisible Supports
 STR_1052    :Invisible People
 STR_1053    :{SMALLFONT}{BLACK}Rides/attractions in park
-STR_1054    :{SMALLFONT}{BLACK}Name forlystelse/attraktion
-STR_1055    :{SMALLFONT}{BLACK}Name person
-STR_1056    :{SMALLFONT}{BLACK}Name staff member
+STR_1054    :{SMALLFONT}{BLACK}Navngiv forlystelse/attraktion
+STR_1055    :{SMALLFONT}{BLACK}Navngiv person
+STR_1056    :{SMALLFONT}{BLACK}Navngiv ansat
 STR_1057    :Ride/attraction name
-STR_1058    :Enter new name for this forlystelse/attraktion:
-STR_1059    :Can't rename forlystelse/attraktion...
-STR_1060    :Invalid forlystelse/attraktion name
+STR_1058    :Angiv et nyt navn for forlystelsen/attraktionen:
+STR_1059    :Kan ikke omdøbe forlystelsen/attraktionen...
+STR_1060    :Ugyldigt forlystelse/attraktion navn
 STR_1061    :Normal mode
 STR_1062    :Continuous circuit mode
 STR_1063    :Reverse-Incline launched shuttle mode
@@ -1146,8 +1146,8 @@ STR_1140    :{SMALLFONT}{BLACK}Select vehicle colour scheme option
 STR_1141    :{SMALLFONT}{BLACK}Select which vehicle/train to modify
 STR_1142    :{MOVE_X}{10}{STRINGID}
 STR_1143    :{RIGHTGUILLEMET}{MOVE_X}{10}{STRINGID}
-STR_1144    :Can't build/move entrance for this forlystelse/attraktion...
-STR_1145    :Can't build/move exit for this forlystelse/attraktion...
+STR_1144    :Kan ikke bygge/flytte indgangen for denne forlystelse/attraktion...
+STR_1145    :Kan ikke bygge/flytte udgangen for denne  forlystelse/attraktion...
 STR_1146    :Entrance not yet built
 STR_1147    :Exit not yet built
 STR_1148    :Quarter load
@@ -1173,7 +1173,7 @@ STR_1167    :Can't raise water level here...
 STR_1168    :Options
 STR_1169    :(None)
 STR_1170    :{STRING}
-STR_1171    :{RED}Closed - - 
+STR_1171    :{RED}Lukket - - 
 STR_1172    :{YELLOW}{STRINGID} - - 
 STR_1173    :{SMALLFONT}{BLACK}Build footpaths and queue lines
 STR_1174    :Banner sign in the way
@@ -1394,7 +1394,7 @@ STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
 STR_1390    :{CURRENCY2DP}
 STR_1391    :{RED}{CURRENCY2DP}
-STR_1392    :{SMALLFONT}{BLACK}View of forlystelse/attraktion
+STR_1392    :{SMALLFONT}{BLACK}Oversigt over forlystelse/attraktion
 STR_1393    :{SMALLFONT}{BLACK}Vehicle details and options
 STR_1394    :{SMALLFONT}{BLACK}Operating options
 STR_1395    :{SMALLFONT}{BLACK}Maintenance options
@@ -1404,8 +1404,8 @@ STR_1398    :{SMALLFONT}{BLACK}Measurements and test data
 STR_1399    :{SMALLFONT}{BLACK}Graphs
 STR_1400    :Entrance
 STR_1401    :Exit
-STR_1402    :{SMALLFONT}{BLACK}Build or move entrance to forlystelse/attraktion
-STR_1403    :{SMALLFONT}{BLACK}Build or move exit from forlystelse/attraktion
+STR_1402    :{SMALLFONT}{BLACK}Byg eller flyt indgangen til forlystelse/attraktion
+STR_1403    :{SMALLFONT}{BLACK}Byg eller flyt udgangen fra forlystelse/attraktion
 STR_1404    :{SMALLFONT}{BLACK}Rotate 90{DEGREE}
 STR_1405    :{SMALLFONT}{BLACK}Mirror image
 STR_1406    :{SMALLFONT}{BLACK}Toggle scenery on/off (if available for this design)
@@ -1825,9 +1825,9 @@ STR_1819    :{WINDOW_COLOUR_2}All guests (summarised)
 STR_1820    :{WINDOW_COLOUR_2}Guests {STRINGID}
 STR_1821    :{WINDOW_COLOUR_2}Guests thinking {STRINGID}
 STR_1822    :{WINDOW_COLOUR_2}Guests thinking about {POP16}{STRINGID}
-STR_1823    :{SMALLFONT}{BLACK}Show guests' thoughts about this forlystelse/attraktion
-STR_1824    :{SMALLFONT}{BLACK}Show guests on this forlystelse/attraktion
-STR_1825    :{SMALLFONT}{BLACK}Show guests queuing for this forlystelse/attraktion
+STR_1823    :{SMALLFONT}{BLACK}Vis gæsters tanker omkring forlystelse/attraktion
+STR_1824    :{SMALLFONT}{BLACK}Vis gæster på denne forlystelse/attraktion
+STR_1825    :{SMALLFONT}{BLACK}Vis gæster i kø til denne forlystelse/attraktion
 STR_1826    :Status
 STR_1827    :Popularity
 STR_1828    :Satisfaction
