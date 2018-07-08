@@ -516,15 +516,15 @@ STR_0511    :
 STR_0512    :En kompakt rutschebane med en spiral stigning og bløde, twisting fald.
 STR_0513    :En loopende rutschebane hvor passagerne er i en stående position
 STR_0514    :Vogne suspenderet under rutschebane sporet, svinger ud til siden i svingene
-STR_0515    :En stål rutschebane med vogne der er monteret under sporet, med mange komplekse og drejende spor elementer
+STR_0515    :En stålrutschebane med vogne der er monteret under sporet, med mange komplekse og drejende spor elementer
 STR_0516    :En rolig rutschebane for folk der endnu ikke har modet til at prøve de større rutschebaner
-STR_0517    :Passaserer kører i miniature vogne langs en smal-sporet skinde.
-STR_0518    :Passengers travel in electric trains along a monorail track
-STR_0519    :Passengers ride in small cars hanging beneath the single-rail track, swinging freely from side to side around corners
+STR_0517    :Passaserer sidder i miniature vogne, som kører på en smal-sporet skinde.
+STR_0518    :Passaserer sidder i et electrisk tog, som kører på en monorail skinne
+STR_0519    :Passaserer sidder i små vogne, som hænger under et monorail spor, som svinger frit fra side til side i svingene
 STR_0520    :En kaj platform hvor gæster kan ro/sejle med personlige fartøjer på vandet
-STR_0521    :A fast and twisting rutschebane with tight turns and steep drops. Intensity is bound to be high.
-STR_0522    :A smaller rutschebane where the riders sit above the track with no car around them
-STR_0523    :Riders travel slowly in powered vehicles along a track-based route
+STR_0521    :En hurtig rutschebane with skarpe sving and store fald. Intensiteten bliver sikkert høj
+STR_0522    :En mindre rutschebane hvor passagerne sidder oven på vognen, som er udformet som en hest
+STR_0523    :Passagerer sidder i et køretøj, og kører rundt på en bane.
 STR_0524    :Freefall car is pneumatically launched up a tall steel tower and then allowed to freefall down
 STR_0525    :Riders career down a twisting track guided only by the curvature and banking of the semi-circular track
 STR_0526    :Passengers travel in a rotating observation cabin which travels up a tall tower
@@ -823,22 +823,22 @@ STR_0818    :Sep
 STR_0819    :Okt
 STR_0820    :Nov
 STR_0821    :Dec
-STR_0822    :Unable to access graphic data file
-STR_0823    :Missing or inaccessible data file
+STR_0822    :Kan ikke tilgå grafik data fil
+STR_0823    :Manglende eller utilgængelig data fil
 STR_0824    :{BLACK}{CROSS}
-STR_0825    :Chosen name in use already
-STR_0826    :Too many names defined
-STR_0827    :Not enough cash - requires {CURRENCY2DP}
-STR_0828    :{SMALLFONT}{BLACK}Close window
-STR_0829    :{SMALLFONT}{BLACK}Window title - Drag this to move window
-STR_0830    :{SMALLFONT}{BLACK}Zoom view in
-STR_0831    :{SMALLFONT}{BLACK}Zoom view out
-STR_0832    :{SMALLFONT}{BLACK}Rotate view 90{DEGREE} clockwise
-STR_0833    :{SMALLFONT}{BLACK}Pause game
-STR_0834    :{SMALLFONT}{BLACK}Disk and game options
-STR_0835    :Game initialisation failed
-STR_0836    :Unable to start game in a minimised state
-STR_0837    :Unable to initialise graphics system
+STR_0825    :Valgte navn er allerede i brug
+STR_0826    :For mange navne defineret
+STR_0827    :Ikke penge nok - Der kræves {CURRENCY2DP}
+STR_0828    :{SMALLFONT}{BLACK}Luk vindue
+STR_0829    :{SMALLFONT}{BLACK}Vindues titel - Træk her for at flytte vinduet
+STR_0830    :{SMALLFONT}{BLACK}Zoom ind
+STR_0831    :{SMALLFONT}{BLACK}Zoom ud
+STR_0832    :{SMALLFONT}{BLACK}Roter synsvinklen 90{DEGREE} med uret
+STR_0833    :{SMALLFONT}{BLACK}Sæt spillet på pause
+STR_0834    :{SMALLFONT}{BLACK}Disk og spil indstillinger
+STR_0835    :Fejl under initialisering af spillet
+STR_0836    :Kan ikke starte spillet i en minimeret tilstand
+STR_0837    :Kan ikke initialisere grafik systemet
 STR_0838    :<removed string - do not use>
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
@@ -852,14 +852,14 @@ STR_0846    :<removed string - do not use>
 STR_0847    :Om 'OpenRCT2'
 STR_0848    :RollerCoaster Tycoon 2
 STR_0849    :<removed string - do not use>
-STR_0850    :{WINDOW_COLOUR_2}Copyright {COPYRIGHT} 2002 Chris Sawyer, all rights reserved
-STR_0851    :{WINDOW_COLOUR_2}Designed and programmed by Chris Sawyer
-STR_0852    :{WINDOW_COLOUR_2}Graphics by Simon Foster
-STR_0853    :{WINDOW_COLOUR_2}Sound and music by Allister Brimble
-STR_0854    :{WINDOW_COLOUR_2}Additional sounds recorded by David Ellis
-STR_0855    :{WINDOW_COLOUR_2}Representation by Jacqui Lyons at Marjacq Ltd.
-STR_0856    :{WINDOW_COLOUR_2}Thanks to:
-STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, and John Wardley
+STR_0850    :{WINDOW_COLOUR_2}Copyright {COPYRIGHT} 2002 Chris Sawyer, alle rettigheder forbeholdt
+STR_0851    :{WINDOW_COLOUR_2}Designet og programmeret af Chris Sawyer
+STR_0852    :{WINDOW_COLOUR_2}Grafik af Simon Foster
+STR_0853    :{WINDOW_COLOUR_2}Lyd og musik af Allister Brimble
+STR_0854    :{WINDOW_COLOUR_2}Yderligere lyde optaget af David Ellis
+STR_0855    :{WINDOW_COLOUR_2}Representaion af Jacqui Lyons ved Marjacq Ltd.
+STR_0856    :{WINDOW_COLOUR_2}Tak til:
+STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, og John Wardley
 STR_0858    :<removed string - do not use>
 STR_0859    :<removed string - do not use>
 STR_0860    :<removed string - do not use>
@@ -879,85 +879,85 @@ STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}{DOWN}
-STR_0877    :Too low !
-STR_0878    :Too high !
-STR_0879    :Can't lower land here...
-STR_0880    :Can't raise land here...
-STR_0881    :Object in the way
-STR_0882    :Load Game
-STR_0883    :Save Game
-STR_0884    :Load Landscape
-STR_0885    :Save Landscape
+STR_0877    :For lavt !
+STR_0878    :For højt !
+STR_0879    :Kan ikke sænke landskabet her...
+STR_0880    :Kan ikke hæve landskabet her...
+STR_0881    :Objekt i vejen
+STR_0882    :Hent spil
+STR_0883    :Gem spil
+STR_0884    :Hent Landskab
+STR_0885    :Gem Landskab
 STR_0886    :<removed string - do not use>
-STR_0887    :Quit Scenario Editor
-STR_0888    :Quit Track Designer
-STR_0889    :Quit Track Designs Manager
+STR_0887    :Afslut Landskabs Editor
+STR_0888    :Afslut Bane Designer
+STR_0889    :Afslut Bane Design Manager
 STR_0890    :<removed string - do not use>
-STR_0891    :Screenshot
-STR_0892    :Screenshot saved to disk as '{STRINGID}'
-STR_0893    :Screenshot failed !
-STR_0894    :Landscape data area full !
-STR_0895    :Can't build partly above and partly below ground
-STR_0896    :{POP16}{POP16}{STRINGID} Construction
-STR_0897    :Direction
-STR_0898    :{SMALLFONT}{BLACK}Left-hand curve
-STR_0899    :{SMALLFONT}{BLACK}Right-hand curve
-STR_0900    :{SMALLFONT}{BLACK}Left-hand curve (small radius)
-STR_0901    :{SMALLFONT}{BLACK}Right-hand curve (small radius)
-STR_0902    :{SMALLFONT}{BLACK}Left-hand curve (very small radius)
-STR_0903    :{SMALLFONT}{BLACK}Right-hand curve (very small radius)
-STR_0904    :{SMALLFONT}{BLACK}Left-hand curve (large radius)
-STR_0905    :{SMALLFONT}{BLACK}Right-hand curve (large radius)
-STR_0906    :{SMALLFONT}{BLACK}Straight
-STR_0907    :Slope
-STR_0908    :Roll/Banking
-STR_0909    :Seat Rot.
-STR_0910    :{SMALLFONT}{BLACK}Roll for left-hand curve
-STR_0911    :{SMALLFONT}{BLACK}Roll for right-hand curve
-STR_0912    :{SMALLFONT}{BLACK}No roll
-STR_0913    :{SMALLFONT}{BLACK}Move to previous section
-STR_0914    :{SMALLFONT}{BLACK}Move to next section
-STR_0915    :{SMALLFONT}{BLACK}Construct the selected section
-STR_0916    :{SMALLFONT}{BLACK}Remove the highlighted section
-STR_0917    :{SMALLFONT}{BLACK}Vertical drop
-STR_0918    :{SMALLFONT}{BLACK}Steep slope down
-STR_0919    :{SMALLFONT}{BLACK}Slope down
-STR_0920    :{SMALLFONT}{BLACK}Level
-STR_0921    :{SMALLFONT}{BLACK}Slope up
-STR_0922    :{SMALLFONT}{BLACK}Steep slope up
-STR_0923    :{SMALLFONT}{BLACK}Vertical rise
-STR_0924    :{SMALLFONT}{BLACK}Helix down
-STR_0925    :{SMALLFONT}{BLACK}Helix up
-STR_0926    :Can't remove this...
-STR_0927    :Can't construct this here...
-STR_0928    :{SMALLFONT}{BLACK}Chain lift, to pull cars up slopes
+STR_0891    :Skærmbillede
+STR_0892    :Skærmbillede gemt på disken som '{STRINGID}'
+STR_0893    :Skærmbillede fejlet !
+STR_0894    :Landskab data område fuld !
+STR_0895    :Kan ikke bygge delvist over og under overfladen
+STR_0896    :{POP16}{POP16}{STRINGID} Konstruktion
+STR_0897    :Retning
+STR_0898    :{SMALLFONT}{BLACK}Venstresving
+STR_0899    :{SMALLFONT}{BLACK}Højresving
+STR_0900    :{SMALLFONT}{BLACK}Venstresving (lille radius)
+STR_0901    :{SMALLFONT}{BLACK}Højresving (lille radius)
+STR_0902    :{SMALLFONT}{BLACK}Venstresving (meget lille radius)
+STR_0903    :{SMALLFONT}{BLACK}Højresving (meget lille radius)
+STR_0904    :{SMALLFONT}{BLACK}Venstresving (stor radius)
+STR_0905    :{SMALLFONT}{BLACK}Højresving (stor radius)
+STR_0906    :{SMALLFONT}{BLACK}Ligeud
+STR_0907    :Stigning
+STR_0908    :Hældning
+STR_0909    :Sæde Rot.
+STR_0910    :{SMALLFONT}{BLACK}Hældning for venstresving
+STR_0911    :{SMALLFONT}{BLACK}Hældning for højresving
+STR_0912    :{SMALLFONT}{BLACK}Ingen hældning
+STR_0913    :{SMALLFONT}{BLACK}Flyt til forrige sektion
+STR_0914    :{SMALLFONT}{BLACK}Flyt til næste section
+STR_0915    :{SMALLFONT}{BLACK}Konstruer den valgte sektion
+STR_0916    :{SMALLFONT}{BLACK}Fjern den markerede sektion
+STR_0917    :{SMALLFONT}{BLACK}Vertikal fald
+STR_0918    :{SMALLFONT}{BLACK}Stejlt fald ned
+STR_0919    :{SMALLFONT}{BLACK}Fald ned
+STR_0920    :{SMALLFONT}{BLACK}Vandret
+STR_0921    :{SMALLFONT}{BLACK}Stigning
+STR_0922    :{SMALLFONT}{BLACK}Stejl stigning
+STR_0923    :{SMALLFONT}{BLACK}Vertikal stigning
+STR_0924    :{SMALLFONT}{BLACK}Spiral ned
+STR_0925    :{SMALLFONT}{BLACK}Spiral op
+STR_0926    :Kan ikke fjerne denne...
+STR_0927    :Kan ikke bygge her...
+STR_0928    :{SMALLFONT}{BLACK}Kædetræk, til at trække vogne op ad bakke
 STR_0929    :'S' Sving (venstre)
-STR_0930    :'S' Sving (Højre)
-STR_0931    :Vertical Loop (left)
-STR_0932    :Vertical Loop (right)
-STR_0933    :Raise or lower land first
-STR_0934    :Ride entrance in the way
-STR_0935    :Ride exit in the way
-STR_0936    :Park entrance in the way
-STR_0937    :{SMALLFONT}{BLACK}View options
-STR_0938    :{SMALLFONT}{BLACK}Adjust land height and slope
-STR_0939    :Underground/Inside View
-STR_0940    :Hide Base Land
-STR_0941    :Hide Vertical Faces
-STR_0942    :See-Through Rides
-STR_0943    :See-Through Scenery
-STR_0944    :Save
-STR_0945    :Don't Save
-STR_0946    :Cancel
-STR_0947    :Save this before loading ?
-STR_0948    :Save this before quitting ?
-STR_0949    :Save this before quitting ?
-STR_0950    :Load Game
-STR_0951    :Quit Game
-STR_0952    :Quit Game
-STR_0953    :Load Landscape
+STR_0930    :'S' Sving (højre)
+STR_0931    :Vertikal Loop (venstre)
+STR_0932    :Vertikal Loop (højre)
+STR_0933    :Hæv eller sænk landskabet først
+STR_0934    :Forlystelsesindgang i vejen
+STR_0935    :Forlystelsesudgang i vejen
+STR_0936    :Parkindgang i vejen
+STR_0937    :{SMALLFONT}{BLACK}Vis indstillinger
+STR_0938    :{SMALLFONT}{BLACK}Juster landskab højde og bakker
+STR_0939    :Undergrunds/indendørs visning
+STR_0940    :Skjul jordoverflade
+STR_0941    :Skjul Vertikale Flader
+STR_0942    :Gennemsigtig Forlystelser
+STR_0943    :Gennemsigtig Sceneri
+STR_0944    :Gem
+STR_0945    :Gem ikke
+STR_0946    :Afbryd
+STR_0947    :Gem dette før hentning ?
+STR_0948    :Gem dette før afslutning ?
+STR_0949    :Gem dette før afslutning ?
+STR_0950    :Hent spil
+STR_0951    :Afslut spil
+STR_0952    :Afslut spil
+STR_0953    :Hent Landskab
 STR_0954    :
-STR_0955    :{SMALLFONT}{BLACK}Select seat rotation angle for this track section
+STR_0955    :{SMALLFONT}{BLACK}Vælg sæde rotation for denne banesektion
 STR_0956    :-180{DEGREE}
 STR_0957    :-135{DEGREE}
 STR_0958    :-90{DEGREE}
@@ -974,31 +974,31 @@ STR_0968    :+360{DEGREE}
 STR_0969    :+405{DEGREE}
 STR_0970    :+450{DEGREE}
 STR_0971    :+495{DEGREE}
-STR_0972    :Cancel
+STR_0972    :Afbryd
 STR_0973    :OK
-STR_0974    :Rides
-STR_0975    :Shops and Stalls
-STR_0976    :Toilets and Information Kiosks
-STR_0977    :New Transport Rides
-STR_0978    :New Gentle Rides
-STR_0979    :New Roller Coasters
-STR_0980    :New Thrill Rides
-STR_0981    :New Water Rides
-STR_0982    :New Shops & Stalls
-STR_0983    :Research & Development
+STR_0974    :Forlystelser
+STR_0975    :Butikker og boder
+STR_0976    :Toiletter og Informations Kiosker
+STR_0977    :Nye Transport Forlystelser
+STR_0978    :Nye Rolige Forlystelser
+STR_0979    :Nye Rutschebaner
+STR_0980    :New Vilde Forlystelser
+STR_0981    :New Vand Forlystelser
+STR_0982    :New Butikker & Boder
+STR_0983    :Forskning og Udvikling
 STR_0984    :{WINDOW_COLOUR_2}{UP}{BLACK}  {CURRENCY2DP}
 STR_0985    :{WINDOW_COLOUR_2}{DOWN}{BLACK}  {CURRENCY2DP}
 STR_0986    :{BLACK}{CURRENCY2DP}
-STR_0987    :Too many rides/attractions
-STR_0988    :Can't create new ride/attraction...
+STR_0987    :For mange Forlystelser/attraktioner
+STR_0988    :Kan ikke oprette ny forlystelse/attraktion...
 STR_0989    :{STRINGID}
-STR_0990    :{SMALLFONT}{BLACK}Construction
-STR_0991    :Station platform
-STR_0992    :{SMALLFONT}{BLACK}Demolish entire ride/attraction
-STR_0993    :Demolish ride/attraction
-STR_0994    :Demolish
-STR_0995    :{WINDOW_COLOUR_1}Are you sure you want to completely demolish {STRINGID}?
-STR_0996    :Overall view
+STR_0990    :{SMALLFONT}{BLACK}Konstruktion
+STR_0991    :Stations platform
+STR_0992    :{SMALLFONT}{BLACK}Nedriv hele forlystelsen/attraktionen
+STR_0993    :Nedriv forlystelse/attraktion
+STR_0994    :Nedriv
+STR_0995    :{WINDOW_COLOUR_1}Er du sikke på at du vil nedrive {STRINGID}?
+STR_0996    :Oversigtsvisning
 STR_0997    :{SMALLFONT}{BLACK}View selection
 STR_0998    :No more stations allowed on this ride
 STR_0999    :Requires a station platform
@@ -1010,7 +1010,7 @@ STR_1004    :Can't close {POP16}{POP16}{POP16}{STRINGID}...
 STR_1005    :Can't start construction on {POP16}{POP16}{POP16}{STRINGID}...
 STR_1006    :Must be closed first
 STR_1007    :Unable to create enough vehicles
-STR_1008    :{SMALLFONT}{BLACK}Open, close, or test ride/attraction
+STR_1008    :{SMALLFONT}{BLACK}Open, close, or test forlystelse/attraktion
 STR_1009    :{SMALLFONT}{BLACK}Open or close all rides/attractions
 STR_1010    :{SMALLFONT}{BLACK}Open or close park
 STR_1011    :Close all
@@ -1056,13 +1056,13 @@ STR_1050    :Failed to load...{NEWLINE}File contains invalid data!
 STR_1051    :Invisible Supports
 STR_1052    :Invisible People
 STR_1053    :{SMALLFONT}{BLACK}Rides/attractions in park
-STR_1054    :{SMALLFONT}{BLACK}Name ride/attraction
+STR_1054    :{SMALLFONT}{BLACK}Name forlystelse/attraktion
 STR_1055    :{SMALLFONT}{BLACK}Name person
 STR_1056    :{SMALLFONT}{BLACK}Name staff member
 STR_1057    :Ride/attraction name
-STR_1058    :Enter new name for this ride/attraction:
-STR_1059    :Can't rename ride/attraction...
-STR_1060    :Invalid ride/attraction name
+STR_1058    :Enter new name for this forlystelse/attraktion:
+STR_1059    :Can't rename forlystelse/attraktion...
+STR_1060    :Invalid forlystelse/attraktion name
 STR_1061    :Normal mode
 STR_1062    :Continuous circuit mode
 STR_1063    :Reverse-Incline launched shuttle mode
@@ -1146,8 +1146,8 @@ STR_1140    :{SMALLFONT}{BLACK}Select vehicle colour scheme option
 STR_1141    :{SMALLFONT}{BLACK}Select which vehicle/train to modify
 STR_1142    :{MOVE_X}{10}{STRINGID}
 STR_1143    :{RIGHTGUILLEMET}{MOVE_X}{10}{STRINGID}
-STR_1144    :Can't build/move entrance for this ride/attraction...
-STR_1145    :Can't build/move exit for this ride/attraction...
+STR_1144    :Can't build/move entrance for this forlystelse/attraktion...
+STR_1145    :Can't build/move exit for this forlystelse/attraktion...
 STR_1146    :Entrance not yet built
 STR_1147    :Exit not yet built
 STR_1148    :Quarter load
@@ -1394,7 +1394,7 @@ STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
 STR_1390    :{CURRENCY2DP}
 STR_1391    :{RED}{CURRENCY2DP}
-STR_1392    :{SMALLFONT}{BLACK}View of ride/attraction
+STR_1392    :{SMALLFONT}{BLACK}View of forlystelse/attraktion
 STR_1393    :{SMALLFONT}{BLACK}Vehicle details and options
 STR_1394    :{SMALLFONT}{BLACK}Operating options
 STR_1395    :{SMALLFONT}{BLACK}Maintenance options
@@ -1404,8 +1404,8 @@ STR_1398    :{SMALLFONT}{BLACK}Measurements and test data
 STR_1399    :{SMALLFONT}{BLACK}Graphs
 STR_1400    :Entrance
 STR_1401    :Exit
-STR_1402    :{SMALLFONT}{BLACK}Build or move entrance to ride/attraction
-STR_1403    :{SMALLFONT}{BLACK}Build or move exit from ride/attraction
+STR_1402    :{SMALLFONT}{BLACK}Build or move entrance to forlystelse/attraktion
+STR_1403    :{SMALLFONT}{BLACK}Build or move exit from forlystelse/attraktion
 STR_1404    :{SMALLFONT}{BLACK}Rotate 90{DEGREE}
 STR_1405    :{SMALLFONT}{BLACK}Mirror image
 STR_1406    :{SMALLFONT}{BLACK}Toggle scenery on/off (if available for this design)
@@ -1466,9 +1466,9 @@ STR_1460    :{SMALLFONT}{BLACK}'U' shaped open track
 STR_1461    :{SMALLFONT}{BLACK}'O' shaped enclosed track
 STR_1462    :Too steep for lift hill
 STR_1463    :Guests
-STR_1464    :Helix up (small)
+STR_1464    :Helix up (lille)
 STR_1465    :Helix up (large)
-STR_1466    :Helix down (small)
+STR_1466    :Helix down (lille)
 STR_1467    :Helix down (large)
 STR_1468    :Staff
 STR_1469    :Ride must start and end with stations
@@ -1825,9 +1825,9 @@ STR_1819    :{WINDOW_COLOUR_2}All guests (summarised)
 STR_1820    :{WINDOW_COLOUR_2}Guests {STRINGID}
 STR_1821    :{WINDOW_COLOUR_2}Guests thinking {STRINGID}
 STR_1822    :{WINDOW_COLOUR_2}Guests thinking about {POP16}{STRINGID}
-STR_1823    :{SMALLFONT}{BLACK}Show guests' thoughts about this ride/attraction
-STR_1824    :{SMALLFONT}{BLACK}Show guests on this ride/attraction
-STR_1825    :{SMALLFONT}{BLACK}Show guests queuing for this ride/attraction
+STR_1823    :{SMALLFONT}{BLACK}Show guests' thoughts about this forlystelse/attraktion
+STR_1824    :{SMALLFONT}{BLACK}Show guests on this forlystelse/attraktion
+STR_1825    :{SMALLFONT}{BLACK}Show guests queuing for this forlystelse/attraktion
 STR_1826    :Status
 STR_1827    :Popularity
 STR_1828    :Satisfaction
@@ -2528,7 +2528,7 @@ STR_2520    :Show guest list
 STR_2521    :Show staff list
 STR_2522    :Show recent messages
 STR_2523    :Show map
-STR_2524    :Screenshot
+STR_2524    :Skærmbillede
 ### The following need to be reordered to match SDL_keycode layout.
 STR_2525    :???
 STR_2526    :???
@@ -3596,7 +3596,7 @@ STR_5256    :Create a new theme to make changes to
 STR_5257    :{SMALLFONT}{BLACK}Create a new theme based on the current one
 STR_5258    :{SMALLFONT}{BLACK}Delete the current theme
 STR_5259    :{SMALLFONT}{BLACK}Rename the current theme
-STR_5260    :Giant Screenshot
+STR_5260    :Giant Skærmbillede
 STR_5261    :Filter
 STR_5262    :Wacky Worlds
 STR_5263    :Time Twister
