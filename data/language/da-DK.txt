@@ -1330,7 +1330,7 @@ STR_1324    :{COMMA16} bane
 STR_1325    :{COMMA16} baner
 STR_1326    :Bane {COMMA16}
 STR_1327    :{SMALLFONT}{BLACK}Roter objekts med 90{DEGREE}
-STR_1328    :fladt land påkrævet
+STR_1328    :Fladt land påkrævet
 STR_1329    :{WINDOW_COLOUR_2}Afsendelses hastighed:
 STR_1330    :{SMALLFONT}{BLACK}Maximum hastighed ved afgang fra stationen
 STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
@@ -1349,11 +1349,11 @@ STR_1343    :{DURATION} /
 STR_1344    :{WINDOW_COLOUR_2}Forlystelses længde: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
 STR_1346    :{LENGTH} / 
-STR_1347    :{WINDOW_COLOUR_2}Average speed: {BLACK}{VELOCITY}
-STR_1348    :{WINDOW_COLOUR_2}Max. positiv vertical G: {BLACK}{COMMA2DP32}g
-STR_1349    :{WINDOW_COLOUR_2}Max. positiv vertical G: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1350    :{WINDOW_COLOUR_2}Max. negativ vertical G: {BLACK}{COMMA2DP32}g
-STR_1351    :{WINDOW_COLOUR_2}Max. negativ vertical G: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1347    :{WINDOW_COLOUR_2}Gennemsnitshastighed: {BLACK}{VELOCITY}
+STR_1348    :{WINDOW_COLOUR_2}Max. positiv vertikal G: {BLACK}{COMMA2DP32}g
+STR_1349    :{WINDOW_COLOUR_2}Max. positiv vertikal G: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1350    :{WINDOW_COLOUR_2}Max. negativ vertikal G: {BLACK}{COMMA2DP32}g
+STR_1351    :{WINDOW_COLOUR_2}Max. negativ vertikal G: {OUTLINE}{RED}{COMMA2DP32}g
 STR_1352    :{WINDOW_COLOUR_2}Max. lodret G: {BLACK}{COMMA2DP32}g
 STR_1353    :{WINDOW_COLOUR_2}Max. lodret G: {OUTLINE}{RED}{COMMA2DP32}g
 STR_1354    :{WINDOW_COLOUR_2}Højeste fald: {BLACK}{LENGTH}
@@ -1441,7 +1441,7 @@ STR_1435    :På {STRINGID}
 STR_1436    :I {STRINGID}
 STR_1437    :Ved {STRINGID}
 STR_1438    :Sidder
-STR_1439    :(select location)
+STR_1439    :(Vælg placering)
 STR_1440    :Slår græs
 STR_1441    :Fejer sti
 STR_1442    :Tømmer skraldespand
@@ -1471,41 +1471,41 @@ STR_1465    :Spiral op (stor)
 STR_1466    :Spiral ned (lille)
 STR_1467    :Spiral ned (stor)
 STR_1468    :Ansat
-STR_1469    :Ride must start and end with stations
-STR_1470    :Station not long enough
-STR_1471    :{WINDOW_COLOUR_2}Speed:
-STR_1472    :{SMALLFONT}{BLACK}Speed of this ride
-STR_1473    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1474    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}Not yet available
-STR_1475    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1476    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}Not yet available
-STR_1477    :{WINDOW_COLOUR_2}Intensity rating: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
-STR_1478    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1479    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}Not yet available
-STR_1480    :{SMALLFONT}{OPENQUOTES}I can't afford {STRINGID}{ENDQUOTES}
-STR_1481    :{SMALLFONT}{OPENQUOTES}I've spent all my money{ENDQUOTES}
-STR_1482    :{SMALLFONT}{OPENQUOTES}I feel sick{ENDQUOTES}
-STR_1483    :{SMALLFONT}{OPENQUOTES}I feel very sick{ENDQUOTES}
-STR_1484    :{SMALLFONT}{OPENQUOTES}I want to go on something more thrilling than {STRINGID}{ENDQUOTES}
-STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} looks too intense for me{ENDQUOTES}
-STR_1486    :{SMALLFONT}{OPENQUOTES}I haven't finished my {STRINGID} yet{ENDQUOTES}
-STR_1487    :{SMALLFONT}{OPENQUOTES}Just looking at {STRINGID} makes me feel sick{ENDQUOTES}
-STR_1488    :{SMALLFONT}{OPENQUOTES}I'm not paying that much to go on {STRINGID}{ENDQUOTES}
-STR_1489    :{SMALLFONT}{OPENQUOTES}I want to go home{ENDQUOTES}
-STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} is really good value{ENDQUOTES}
-STR_1491    :{SMALLFONT}{OPENQUOTES}I've already got {STRINGID}{ENDQUOTES}
-STR_1492    :{SMALLFONT}{OPENQUOTES}I can't afford {STRINGID}{ENDQUOTES}
-STR_1493    :{SMALLFONT}{OPENQUOTES}I'm not hungry{ENDQUOTES}
-STR_1494    :{SMALLFONT}{OPENQUOTES}I'm not thirsty{ENDQUOTES}
-STR_1495    :{SMALLFONT}{OPENQUOTES}Help! I'm drowning!{ENDQUOTES}
-STR_1496    :{SMALLFONT}{OPENQUOTES}I'm lost!{ENDQUOTES}
-STR_1497    :{SMALLFONT}{OPENQUOTES}{STRINGID} was great{ENDQUOTES}
-STR_1498    :{SMALLFONT}{OPENQUOTES}I've been queuing for {STRINGID} for ages{ENDQUOTES}
-STR_1499    :{SMALLFONT}{OPENQUOTES}I'm tired{ENDQUOTES}
-STR_1500    :{SMALLFONT}{OPENQUOTES}I'm hungry{ENDQUOTES}
-STR_1501    :{SMALLFONT}{OPENQUOTES}I'm thirsty{ENDQUOTES}
-STR_1502    :{SMALLFONT}{OPENQUOTES}I need to go to the toilet{ENDQUOTES}
-STR_1503    :{SMALLFONT}{OPENQUOTES}I can't find {STRINGID}{ENDQUOTES}
+STR_1469    :Forlystelse skal starte og slutte med en station
+STR_1470    :Station er ikke lang nok
+STR_1471    :{WINDOW_COLOUR_2}Hastighed:
+STR_1472    :{SMALLFONT}{BLACK}Hastighed på denne forlystelse
+STR_1473    :{WINDOW_COLOUR_2}Begejstring bedømmelse: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1474    :{WINDOW_COLOUR_2}Begejstring bedømmelse: {BLACK}Ikke tilgængelig endnu
+STR_1475    :{WINDOW_COLOUR_2}Intensitet bedømmelse: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1476    :{WINDOW_COLOUR_2}Intensitet bedømmelse: {BLACK}Ikke tilgængelig endnu
+STR_1477    :{WINDOW_COLOUR_2}Intensitet bedømmelse: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
+STR_1478    :{WINDOW_COLOUR_2}Kvalme bedømmelse: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1479    :{WINDOW_COLOUR_2}Kvalme bedømmelse: {BLACK}Ikke tilgængelig endnu
+STR_1480    :{SMALLFONT}{OPENQUOTES}Jeg har ikke råd til {STRINGID}{ENDQUOTES}
+STR_1481    :{SMALLFONT}{OPENQUOTES}Jeg har brugt alle min penge{ENDQUOTES}
+STR_1482    :{SMALLFONT}{OPENQUOTES}Jeg har det dårligt{ENDQUOTES}
+STR_1483    :{SMALLFONT}{OPENQUOTES}Jeg har det virkelig dårligt{ENDQUOTES}
+STR_1484    :{SMALLFONT}{OPENQUOTES}Jeg vil gerne prøve noget vildere end {STRINGID}{ENDQUOTES}
+STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} ser for intens ud til mig {ENDQUOTES}
+STR_1486    :{SMALLFONT}{OPENQUOTES}Jeg er ikke færdig med min {STRINGID} endnu{ENDQUOTES}
+STR_1487    :{SMALLFONT}{OPENQUOTES}Bare jeg kigge på {STRINGID} får jeg det dårligt{ENDQUOTES}
+STR_1488    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for at komme op i {STRINGID}{ENDQUOTES}
+STR_1489    :{SMALLFONT}{OPENQUOTES}Jeg vil gerne hjem{ENDQUOTES}
+STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} er rigtig god{ENDQUOTES}
+STR_1491    :{SMALLFONT}{OPENQUOTES}Jeg har allerede {STRINGID}{ENDQUOTES}
+STR_1492    :{SMALLFONT}{OPENQUOTES}Jeg har ikke råd til {STRINGID}{ENDQUOTES}
+STR_1493    :{SMALLFONT}{OPENQUOTES}Jeg er ikke sulten{ENDQUOTES}
+STR_1494    :{SMALLFONT}{OPENQUOTES}Jeg er ikke tørstig{ENDQUOTES}
+STR_1495    :{SMALLFONT}{OPENQUOTES}Hjælp! jeg drukner!{ENDQUOTES}
+STR_1496    :{SMALLFONT}{OPENQUOTES}JEg er faret vild!{ENDQUOTES}
+STR_1497    :{SMALLFONT}{OPENQUOTES}{STRINGID} var fantastisk{ENDQUOTES}
+STR_1498    :{SMALLFONT}{OPENQUOTES}Jeg har stået i kø til {STRINGID} i en evighed{ENDQUOTES}
+STR_1499    :{SMALLFONT}{OPENQUOTES}Jeg er træt{ENDQUOTES}
+STR_1500    :{SMALLFONT}{OPENQUOTES}Jeg er sulten{ENDQUOTES}
+STR_1501    :{SMALLFONT}{OPENQUOTES}Jeg er tørstig{ENDQUOTES}
+STR_1502    :{SMALLFONT}{OPENQUOTES}Jeg skal på toilet{ENDQUOTES}
+STR_1503    :{SMALLFONT}{OPENQUOTES}Jeg kan ikek finde {STRINGID}{ENDQUOTES}
 STR_1504    :{SMALLFONT}{OPENQUOTES}I'm not paying that much to use {STRINGID}{ENDQUOTES}
 STR_1505    :{SMALLFONT}{OPENQUOTES}I'm not going on {STRINGID} while it's raining{ENDQUOTES}
 STR_1506    :{SMALLFONT}{OPENQUOTES}The litter here is really bad{ENDQUOTES}
@@ -2315,9 +2315,9 @@ STR_2307    :Select {STRINGID} design
 STR_2308    :{STRINGID} Track Designs
 STR_2309    :Install New Track Design
 STR_2310    :Build custom design
-STR_2311    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2312    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2313    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32} (approx.)
+STR_2311    :{WINDOW_COLOUR_2}Excitement bedømmelse: {BLACK}{COMMA2DP32} (approx.)
+STR_2312    :{WINDOW_COLOUR_2}Intensity bedømmelse: {BLACK}{COMMA2DP32} (approx.)
+STR_2313    :{WINDOW_COLOUR_2}Nausea bedømmelse: {BLACK}{COMMA2DP32} (approx.)
 STR_2314    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}
 STR_2315    :{WINDOW_COLOUR_2}Cost: {BLACK}around {CURRENCY}
 STR_2316    :{WINDOW_COLOUR_2}Space required: {BLACK}{COMMA16} x {COMMA16} blocks
