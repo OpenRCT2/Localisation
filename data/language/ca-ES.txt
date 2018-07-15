@@ -1218,7 +1218,7 @@ STR_1212    :{WINDOW_COLOUR_2}Temps d'espera màxim:
 STR_1213    :{SMALLFONT}{BLACK}Seleccioneu el temps d'espera mínim abans d'arrencar.
 STR_1214    :{SMALLFONT}{BLACK}Seleccioneu el temps d'espera màxim abans d'arrencar.
 STR_1215    :{WINDOW_COLOUR_2}Sincronitza l'arrencada amb les estacions adjacents.
-STR_1216    :{SMALLFONT}{BLACK}Seleccioneu si cal sincronitzar la posada en marxa dels vehicles de l'estació ambs els d'estacions adjacents.
+STR_1216    :{SMALLFONT}{BLACK}Seleccioneu si cal sincronitzar la posada en marxa dels vehicles de l'estació amb els d'estacions adjacents.
 STR_1217    :{COMMA16} segons
 STR_1218    :{BLACK}+
 STR_1219    :{BLACK}-
@@ -4396,7 +4396,7 @@ STR_6084    :El/la {STRING} ha modificat les opcions dels vehicles de l'atracci�
 STR_6085    :El/la {STRING} ha modificat les opcions d'atracció de {LEFTGUILLEMET}{STRING}{RIGHTGUILLEMET}.
 STR_6086    :El/la {STRING} ha canviat el nom de l'atracció {LEFTGUILLEMET}{STRING}{RIGHTGUILLEMET} a {LEFTGUILLEMET}{STRING}{RIGHTGUILLEMET}.
 STR_6087    :El/la {STRING} ha canviat el preu de l'atracció {LEFTGUILLEMET}{STRING}{RIGHTGUILLEMET} a {STRING}
-STR_6088    :El/la {STRING} ha canviat el preu secunadri de l'atracció {LEFTGUILLEMET}{STRING}{RIGHTGUILLEMET} a {STRING}.
+STR_6088    :El/la {STRING} ha canviat el preu secundari de l'atracció {LEFTGUILLEMET}{STRING}{RIGHTGUILLEMET} a {STRING}.
 STR_6089    :El/la {STRING} ha canviat el nom del parc {LEFTGUILLEMET}{STRING}{RIGHTGUILLEMET} a {LEFTGUILLEMET}{STRING}{RIGHTGUILLEMET}.
 STR_6090    :El/la {STRING} ha obert el parc.
 STR_6091    :El/la {STRING} ha tancat el parc.
@@ -4487,7 +4487,7 @@ STR_DTLS    :Construïu un parc pròsper a l'àrea que s'ha netejat ben endins d
 <Dynamite Dunes>
 STR_SCNR    :Les dunes Dinamita
 STR_PARK    :Les dunes Dinamita
-STR_DTLS    :Construït al bell mig del desert, aquest parc temàtic npmés té una muntanya russa però disposa d'espai per expandir-se.
+STR_DTLS    :Construït al bell mig del desert, aquest parc temàtic només té una muntanya russa però disposa d'espai per expandir-se.
 
 <Leafy Lake>
 STR_SCNR    :El llac frondós
@@ -4502,7 +4502,7 @@ STR_DTLS    :{LEFTGUILLEMET}Els cims diamantins{RIGHTGUILLEMET} ja és un parc e
 <Evergreen Gardens>
 STR_SCNR    :Els jardins perennes
 STR_PARK    :Els jardins perennes
-STR_DTLS    :Convertïu aquests preciosos jardins perennes en un parc temàtic pròsper.
+STR_DTLS    :Convertiu aquests preciosos jardins perennes en un parc temàtic pròsper.
 
 <Bumbly Beach>
 STR_SCNR    :La platja Bumbly
