@@ -4032,13 +4032,13 @@ STR_5723    :Pluja forta
 STR_5724    :Tempesta
 STR_5725    :{BLACK}Força el clima:
 STR_5726    :{SMALLFONT}{BLACK}Escolliu el temps que farà al parc.
-STR_5727    :Qualitat d'escalat
+STR_5727    :Qualitat d'escalat:
 STR_5728    :Requereix l'opció de renderitzat amb maquinari
 STR_5729    :{SMALLFONT}{BLACK}Requereix que s'activi l'opció per realitzar el renderitzat via maquinari gràfic.
-STR_5730    :{LEFTGUILLEMET}Nearest Neighbour{RIGHTGUILLEMET}
+STR_5730    :<removed string - do not use>
 STR_5731    :Lineal
-STR_5732    :Anisotròpic
-STR_5733    :Empra l'escalat pròxim per escales enteres
+STR_5732    :<removed string - do not use>
+STR_5733    :<removed string - do not use>
 # tooltip for tab in options window
 STR_5734    :{SMALLFONT}{BLACK}Renderitzat
 STR_5735    :Estat de la xarxa
@@ -4125,8 +4125,8 @@ STR_5814    :{WINDOW_COLOUR_1}{OPENQUOTES}{STRING}{ENDQUOTES}
 #tooltips
 STR_5815    :{SMALLFONT}{BLACK}Mostra el comptador de FPS del joc.
 STR_5816    :{SMALLFONT}{BLACK}Estableix la relació d'escala del joc.{NEWLINE}Sol ser útil quan es juga amb{NEWLINE}pantalles d'alta resolució.
-STR_5817    :{SMALLFONT}{BLACK}[Requereix renderitzat per maquinari]{NEWLINE}Estableix el tipus d'escalat de la interfície gràfica.{NEWLINE}{NEWLINE}El mètode {LEFTGUILLEMET}Nearest Neighbour{RIGHTGUILLEMET} crea imatges nítides però les distorsiona  en escales no enteres.{NEWLINE}Lineal i anisotròpic són més suaus però la imatge pot semblar borrosa.{NEWLINE}{LEFTGUILLEMET}Nearest Neighbour{RIGHTGUILLEMET} suau genera imatges nítides, fins i tot amb escales no enteres (pot causar problemes de rendiment).
-STR_5818    :{SMALLFONT}{BLACK}[Requereix renderitzat per maquinari]{NEWLINE}Usa el mètode {LEFTGUILLEMET}Nearest Neighbour{RIGHTGUILLEMET}{NEWLINE}quan s'estableix l'escalat de finestres{NEWLINE}a valors enters (1, 2, 3...).
+STR_5817    :{SMALLFONT}{BLACK}Estableix el tipus d'escalat de la interfície gràfica. Requereix renderitzat per maquinari.{NEWLINE}El mètode lineal és més suau, però la imatge pot semblar borrosa. El mètode {LEFTGUILLEMET}Nearest Neighbour suau{RIGHTGUILLEMET} crea imatges nítides, però pot causar problemes de rendiment.
+STR_5818    :<removed string - do not use>
 STR_5819    :{SMALLFONT}{BLACK}[Requereix renderitzat per maquinari]{NEWLINE}Posa la partida en pausa{NEWLINE}si s'activa l'Steam.
 STR_5820    :{SMALLFONT}{BLACK}Minimitza el joc si es perd el focus{NEWLINE}mentre s'està en mode de pantalla completa.
 STR_5821    :<removed string - do not use>
