@@ -2801,76 +2801,76 @@ STR_2790    :Angiv dit navn til scenarie listen
 STR_2791    :Angiv Navn
 STR_2792    :Angiv venligst dit navn til scenarie listen:
 STR_2793    :{SMALLFONT}(Gennemført af {STRINGID})
-STR_2794    :{WINDOW_COLOUR_2}Gennemført af: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} med en firmaværdi på: {BLACK}{CURRENCY}
+STR_2794    :{WINDOW_COLOUR_2}Gennemført af: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} med en virksomheds værdi på: {BLACK}{CURRENCY}
 STR_2795    :Sorter
-STR_2796    :{SMALLFONT}{BLACK}Sort the ride list into order using the information type displayed
-STR_2797    :Scroll view when pointer at screen edge
+STR_2796    :{SMALLFONT}{BLACK}Sorter ordnen af forlystelseslisten ved hjælp af den viste informationstype
+STR_2797    :Flyt visning når markøren rør ved kanten af skærmen
 STR_2798    :{SMALLFONT}{BLACK}Scroll the view when the mouse pointer is at the screen edge
-STR_2799    :{SMALLFONT}{BLACK}View or change control key assignments
-STR_2800    :{WINDOW_COLOUR_2}Total admissions: {BLACK}{COMMA32}
-STR_2801    :{WINDOW_COLOUR_2}Income from admissions: {BLACK}{CURRENCY2DP}
-STR_2802    :Map
-STR_2803    :{SMALLFONT}{BLACK}Vis these guests highlighted on map
-STR_2804    :{SMALLFONT}{BLACK}Vis these staff members highlighted on map
-STR_2805    :{SMALLFONT}{BLACK}Vis map of park
-STR_2806    :{RED}Guests are complaining about the disgusting state of the paths in your park{NEWLINE}Check where your handymen are and consider organising them better
-STR_2807    :{RED}Guests are complaining about the amount of litter in your park{NEWLINE}Check where your handymen are and consider organising them better
-STR_2808    :{RED}Guests are complaining about the vandalism in your park{NEWLINE}Check where your Skikkerhedsvagter are and consider organising them better
-STR_2809    :{RED}Guests are hungry and can't find anywhere to buy food
-STR_2810    :{RED}Guests are thirsty and can't find anywhere to buy drinks
-STR_2811    :{RED}Guests are complaining because they can't find the toilets in your park
-STR_2812    :{RED}Guests are getting lost or stuck{NEWLINE}Check whether the layout of your footpaths needs improving to help the guests find their way around
-STR_2813    :{RED}Your park entrance fee is too high!{NEWLINE}Reduce your entrance fee or improve the value of the park to attract more guests
-STR_2814    :{WINDOW_COLOUR_2}Most untidy park award
-STR_2815    :{WINDOW_COLOUR_2}Tidiest park award
-STR_2816    :{WINDOW_COLOUR_2}Award for the park with the best rutschebaner
-STR_2817    :{WINDOW_COLOUR_2}Best value park award
-STR_2818    :{WINDOW_COLOUR_2}Most beautiful park award
-STR_2819    :{WINDOW_COLOUR_2}Worst value park award
-STR_2820    :{WINDOW_COLOUR_2}Safest park award
-STR_2821    :{WINDOW_COLOUR_2}Best staff award
-STR_2822    :{WINDOW_COLOUR_2}Best park food award
-STR_2823    :{WINDOW_COLOUR_2}Worst park food award
-STR_2824    :{WINDOW_COLOUR_2}Best park toilets award
-STR_2825    :{WINDOW_COLOUR_2}Most disappointing park award
-STR_2826    :{WINDOW_COLOUR_2}Best water forlystelser award
-STR_2827    :{WINDOW_COLOUR_2}Best custom-designed forlystelser award
-STR_2828    :{WINDOW_COLOUR_2}Most dazzling ride colour schemes award
-STR_2829    :{WINDOW_COLOUR_2}Most confusing park layout award
-STR_2830    :{WINDOW_COLOUR_2}Best gentle ride award
-STR_2831    :{TOPAZ}Your park has received an award for being 'The most untidy park in the country'!
-STR_2832    :{TOPAZ}Your park has received an award for being 'The tidiest park in the country'!
-STR_2833    :{TOPAZ}Your park has received an award for being 'The park with the best rutschebaner'!
-STR_2834    :{TOPAZ}Your park has received an award for being 'The best value park in the country'!
-STR_2835    :{TOPAZ}Your park has received an award for being 'The most beautiful park in the country'!
-STR_2836    :{TOPAZ}Your park has received an award for being 'The worst value park in the country'!
-STR_2837    :{TOPAZ}Your park has received an award for being 'The safest park in the country'!
-STR_2838    :{TOPAZ}Your park has received an award for being 'The park with the best staff'!
-STR_2839    :{TOPAZ}Your park has received an award for being 'The park with the best food in the country'!
-STR_2840    :{TOPAZ}Your park has received an award for being 'The park with the worst food in the country'!
-STR_2841    :{TOPAZ}Your park has received an award for being 'The park with the best toilet facilities in the country'!
-STR_2842    :{TOPAZ}Your park has received an award for being 'The most disappointing park in the country'!
-STR_2843    :{TOPAZ}Your park has received an award for being 'The park with the best water forlystelser in the country'!
-STR_2844    :{TOPAZ}Your park has received an award for being 'The park with the best custom-designed forlystelser'!
-STR_2845    :{TOPAZ}Your park has received an award for being 'The park with the most dazzling choice of colour schemes'!
-STR_2846    :{TOPAZ}Your park has received an award for being 'The park with the most confusing layout'!
-STR_2847    :{TOPAZ}Your park has received an award for being 'The park with the best gentle forlystelser'!
-STR_2848    :{WINDOW_COLOUR_2}No recent awards
-STR_2849    :New scenario installed successfully
-STR_2850    :New track design installed successfully
-STR_2851    :Scenario already installed
-STR_2852    :Track design already installed
-STR_2853    :Forbidden by the local authority!
-STR_2854    :{RED}Guests can't get to the entrance of {STRINGID} !{NEWLINE}Construct a path to the entrance
-STR_2855    :{RED}{STRINGID} has no path leading from its exit !{NEWLINE}Construct a path from the ride exit
+STR_2799    :{SMALLFONT}{BLACK}Få vist eller ændre kontrol tasttildelinger
+STR_2800    :{WINDOW_COLOUR_2}Total entré: {BLACK}{COMMA32}
+STR_2801    :{WINDOW_COLOUR_2}indkomst fra entré: {BLACK}{CURRENCY2DP}
+STR_2802    :Kort
+STR_2803    :{SMALLFONT}{BLACK}Vis disse gæster som fremhævet på kortet
+STR_2804    :{SMALLFONT}{BLACK}Vis dette personale som fremhævet på kortet
+STR_2805    :{SMALLFONT}{BLACK}Vis kort over parken
+STR_2806    :{RED}Gæster klager over den modbydelige tilstand af stier i din Park{NEWLINE}Tjek, hvor dine Handymænd er, og overvej at organisere dem bedre
+STR_2807    :{RED}Gæster klager over mængden af affald i din Park{NEWLINE}Tjek, hvor dine Handymænd er, og overvej at organisere dem bedre
+STR_2808    :{RED}Gæster klager over hærværk i din Park{NEWLINE}Tjek, hvor dine Skikkerhedsvagter er, og overvej at organisere dem bedre
+STR_2809    :{RED}Gæster er sultne og kan ikke finde noget sted at købe mad
+STR_2810    :{RED}Gæster er tørstige og kan ikke finde nogen steder at købe drinkkevarer
+STR_2811    :{RED}Gæster klager, fordi de ikke kan finde toiletterne i din Park
+STR_2812    :{RED}Gæster farer vild eller sidder fast{NEWLINE}Undersøg, om dine gangstier skal forbedres for at hjælpe gæsterne med at finde rundt
+STR_2813    :{RED}Din park entré er for høj!{NEWLINE}Reducer din entré eller forbedre værdien af parken for at tiltrække flere gæster
+STR_2814    :{WINDOW_COLOUR_2}Præmie for den mest beskidte park
+STR_2815    :{WINDOW_COLOUR_2}Præmie for den reneste park
+STR_2816    :{WINDOW_COLOUR_2}Præmie for parken med de bedste rutschebaner
+STR_2817    :{WINDOW_COLOUR_2}Præmie for parken med bedste værdi for pengene
+STR_2818    :{WINDOW_COLOUR_2}Præmie for den smukkeste park
+STR_2819    :{WINDOW_COLOUR_2}Præmie for parken med den dårligste værdi
+STR_2820    :{WINDOW_COLOUR_2}Præmie for den sikreste park
+STR_2821    :{WINDOW_COLOUR_2}Præmie for parken med det bedste personale
+STR_2822    :{WINDOW_COLOUR_2}Præmie for parken med det bedste mad
+STR_2823    :{WINDOW_COLOUR_2}Præmie for parken med det værste mad
+STR_2824    :{WINDOW_COLOUR_2}Præmie for parken med de bedste toiletter
+STR_2825    :{WINDOW_COLOUR_2}Præmie for den mest skuffende park
+STR_2826    :{WINDOW_COLOUR_2}Præmie for parken med de bedste vandforlystelser
+STR_2827    :{WINDOW_COLOUR_2}Præmie for parken med de beste hjemmedesignede forlystelser
+STR_2828    :{WINDOW_COLOUR_2}Præmie for parken med de mest farverige forlystelser
+STR_2829    :{WINDOW_COLOUR_2}Præmie for parken med den mest forvirrende opbygning
+STR_2830    :{WINDOW_COLOUR_2}Præmie for parken med de bedste rolige forlystelser
+STR_2831    :{TOPAZ}Din park har fået en premie for at være 'Den mest beskidte park i landet'!
+STR_2832    :{TOPAZ}Din park har fået en premie for at være 'den renligste park i landet'!
+STR_2833    :{TOPAZ}Din park har fået en premie for at være 'Parken med de bedste rutschebaner'!
+STR_2834    :{TOPAZ}Din park har fået en premie for at være 'Parken med mest for pengene i landet'!
+STR_2835    :{TOPAZ}Din park har fået en premie for at være 'Den smukkeste park i landet'!
+STR_2836    :{TOPAZ}Din park har fået en premie for at være 'Den dårligste værdi for pengene, park i landet'!
+STR_2837    :{TOPAZ}Din park har fået en premie for at være 'Den sikreste park i landet'!
+STR_2838    :{TOPAZ}Din park har fået en premie for at være 'Parken med det bedste personale'!
+STR_2839    :{TOPAZ}Din park har fået en premie for at være 'Parken med det bedste mad, i landet'!
+STR_2840    :{TOPAZ}Din park har fået en premie for at være 'Parken med den værste mad, food i landet'!
+STR_2841    :{TOPAZ}Din park har fået en premie for at være 'Parken med de bedste toiletfaciliteter i landet'!
+STR_2842    :{TOPAZ}Din park har fået en premie for at være 'Den mest skuffende park i landet'!
+STR_2843    :{TOPAZ}Din park har fået en premie for at være 'Parken med de bedste vand forlystelser, i landet'!
+STR_2844    :{TOPAZ}Din park har fået en premie for at være 'Parken med de beste hjemmedesignede forlystelser'!
+STR_2845    :{TOPAZ}Din park har fået en premie for at være 'Parken med de mest farverige forlystelser'!
+STR_2846    :{TOPAZ}Din park har fået en premie for at være 'Parken med den mest forvirrende opbygning'!
+STR_2847    :{TOPAZ}Din park har fået en premie for at være 'Parken med de bedste rolige forlystelser'!
+STR_2848    :{WINDOW_COLOUR_2}Ingen nyelige præmier
+STR_2849    :Nyt scenarie successfuldt installeret
+STR_2850    :Nyt bane design successfuldt installeret
+STR_2851    :Scenarie allerede installeret
+STR_2852    :Bane design allerede installeret
+STR_2853    :Forbudt af de lokale myndigheder!
+STR_2854    :{RED}Gæster kan ikke komme til indgangen af {STRINGID} !{NEWLINE}Konstruer en kø-sti til indgangen af forlystelsen
+STR_2855    :{RED}{STRINGID} Har ikke nogen gangsti fra udgangen!{NEWLINE}Konstruer en sti fra forlystelsens udgang
 STR_2856    :<removed string - do not use>
 STR_2857    :<removed string - do not use>
 STR_2858    :Kan ikke start marketing campaign...
-STR_2859    :Another instance of OpenRCT2 is already running
+STR_2859    :en anden instans af OpenRCT2 kører allerede
 STR_2860    :<removed string - do not use>
 STR_2861    :{WINDOW_COLOUR_2}Licenseret til Infogrames Interactive Inc.
-STR_2862    :Music acknowledgements...
-STR_2863    :Music acknowledgements
+STR_2862    :Musik tilkendegivelser...
+STR_2863    :Musik tilkendegivelser
 STR_2864    :{WINDOW_COLOUR_2}March - Children of the Regiment:   (Fucik) non copyright
 STR_2865    :{WINDOW_COLOUR_2}Heyken's Serenade:   (J.Heyken) British Standard Music Coy; GEMA, BRITICO
 STR_2866    :{WINDOW_COLOUR_2}La Belle Espagnole:   (Robert Vollstedt) non copyright
@@ -2978,31 +2978,31 @@ STR_2967    :
 STR_2968    :
 STR_2969    :<removed string - do not use>
 STR_2970    :<removed string - do not use>
-STR_2971    :Main colour scheme
-STR_2972    :Alternative colour scheme 1
-STR_2973    :Alternative colour scheme 2
-STR_2974    :Alternative colour scheme 3
-STR_2975    :{SMALLFONT}{BLACK}Select which colour scheme to change, or paint ride with
-STR_2976    :{SMALLFONT}{BLACK}Paint an individual area of this ride using the selected colour scheme
-STR_2977    :Staff member name
-STR_2978    :Enter new name for this member of staff:
-STR_2979    :Kan ikke name staff member...
-STR_2980    :Too many banners in game
-STR_2981    :{RED}No entry - - 
-STR_2982    :Banner text
-STR_2983    :Enter new text for this banner:
-STR_2984    :Kan ikke set new text for banner...
+STR_2971    :Grundfarveskema
+STR_2972    :Alternativ farveskema 1
+STR_2973    :Alternativ farveskema 2
+STR_2974    :Alternativ farveskema 3
+STR_2975    :{SMALLFONT}{BLACK}Vælg, hvilket farveskema der skal ændres, eller males forlystelse med
+STR_2976    :{SMALLFONT}{BLACK}Mal et enkelt område af denne forlystelse med det valgte farveskema
+STR_2977    :Navn på ansat
+STR_2978    :Angiv et navn for denne ansat:
+STR_2979    :Kan ikke navngive ansat...
+STR_2980    :For mange bannere i spillet
+STR_2981    :{RED}Ingen indhold - - 
+STR_2982    :Banner tekst
+STR_2983    :Angiv ny tekst på dette banner:
+STR_2984    :Kan ikke sætte ny tekst på banner...
 STR_2985    :Banner
-STR_2986    :{SMALLFONT}{BLACK}Change text on banner
-STR_2987    :{SMALLFONT}{BLACK}Set this banner as a 'no-entry' sign for guests
-STR_2988    :{SMALLFONT}{BLACK}Demolish this banner
-STR_2989    :{SMALLFONT}{BLACK}Select main colour
-STR_2990    :{SMALLFONT}{BLACK}Select text colour
-STR_2991    :Sign
-STR_2992    :Sign text
-STR_2993    :Enter new text for this sign:
-STR_2994    :{SMALLFONT}{BLACK}Change text on sign
-STR_2995    :{SMALLFONT}{BLACK}Demolish this sign
+STR_2986    :{SMALLFONT}{BLACK}Ændre banner tekst
+STR_2987    :{SMALLFONT}{BLACK}Sæt dette banner som et 'Ingen adgang' skilt for gæster
+STR_2988    :{SMALLFONT}{BLACK}Nedriv dette banner
+STR_2989    :{SMALLFONT}{BLACK}Vælg grundfarve
+STR_2990    :{SMALLFONT}{BLACK}Vælg tekstfarve
+STR_2991    :Skilt
+STR_2992    :Skilttekst
+STR_2993    :Angiv ny tekst for dette skilt:
+STR_2994    :{SMALLFONT}{BLACK}Angiv tekst på skilt
+STR_2995    :{SMALLFONT}{BLACK}Nedriv dette skilt
 STR_2996    :{BLACK}ABC
 STR_2997    :{GREY}ABC
 STR_2998    :{WHITE}ABC
@@ -3017,7 +3017,7 @@ STR_3006    :{PALEGOLD}ABC
 STR_3007    :{LIGHTPINK}ABC
 STR_3008    :{PEARLAQUA}ABC
 STR_3009    :{PALESILVER}ABC
-STR_3010    :Unable to load file...
+STR_3010    :Kan ikke indlæse fil...
 STR_3011    :File contains invalid data
 STR_3012    :Dodgems beat style
 STR_3013    :Fairground organ style
