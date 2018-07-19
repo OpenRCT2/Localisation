@@ -267,7 +267,7 @@ STR_0890    :<removed string - do not use>
 STR_0891    :Zrzut ekranu
 STR_0892    :Zrzut ekranu zapisany jako '{STRINGID}'
 STR_0893    :Zrzut ekranu nieudany !
-STR_0894    :Landscape data area full !
+#STR_0894
 STR_0895    :Nie można wybudować częściowo nad i pod ziemią
 STR_0896    :{POP16}{POP16}{STRINGID} Budowanie
 STR_0897    :Kierunek
@@ -436,41 +436,41 @@ STR_1059    :Nie można zmienić nazwy atrakcji...
 STR_1060    :Nieprawidłowa nazwa atrakcji
 STR_1061    :Tryb normalny
 STR_1062    :Tryb pracy ciągłej
-STR_1063    :Reverse-Incline launched shuttle mode
-STR_1064    :Powered launch (passing station)
-STR_1065    :Shuttle mode
+#STR_1063    :
+#STR_1064    :
+#STR_1065    :
 STR_1066    :Tryb wynajmu łodzi
-STR_1067    :Upward launch
-STR_1068    :Rotating lift mode
+#STR_1067    :
+#STR_1068    :
 STR_1069    :Tryb od stacji do stacji
 STR_1070    :Pojedyńczy przejazd na wstęp
 STR_1071    :Nieograniczone przejażdy za wstęp
 STR_1072    :Tryb labiryntu
 STR_1073    :Tryb wyścigowy
 STR_1074    :Tryb zbijaków
-STR_1075    :Swing mode
-STR_1076    :Shop stall mode
+#STR_1075    :
+#STR_1076    :
 STR_1077    :Tryb obrotowy
 STR_1078    :Obroty do przodu
 STR_1079    :Obroty do tyłu
-STR_1080    :Film: {ENDQUOTES}Avenging aviators{ENDQUOTES}
-STR_1081    :3D film: {ENDQUOTES}Mouse tails{ENDQUOTES}
+#STR_1080    :
+#STR_1081    :
 STR_1082    :Tryb gwiezdnych pierścieni
 STR_1083    :Tryb początkującegoca
-STR_1084    :LIM-powered launch
-STR_1085    :Film: {ENDQUOTES}Thrill riders{ENDQUOTES}
-STR_1086    :3D film: {ENDQUOTES}Storm chasers{ENDQUOTES}
-STR_1087    :3D film: {ENDQUOTES}Space raiders{ENDQUOTES}
-STR_1088    :Intense mode
-STR_1089    :Berserk mode
+#STR_1084    :
+#STR_1085    :
+#STR_1086    :
+#STR_1087    :
+#STR_1088    :
+#STR_1089    :
 STR_1090    :Tryb nawiedzonego domu
 STR_1091    :Tryb cyrkowy
-STR_1092    :Downward launch
-STR_1093    :Crooked house mode
+#STR_1092    :
+#STR_1093    :
 STR_1094    :Tryb wolnego spaku
 STR_1095    :Sekcyjny tryb pracy ciągłej
-STR_1096    :Powered launch (without passing station)
-STR_1097    :Powered launch block sectioned mode
+#STR_1096    :
+#STR_1097    :
 STR_1098    :Przemieszcza się na koniec {POP16}{STRINGID}
 STR_1099    :Oczekiwania na pasażerów w {POP16}{STRINGID}
 STR_1100    :Oczekuje na odjazd {POP16}{STRINGID}
@@ -485,7 +485,7 @@ STR_1108    :Jedzie {VELOCITY}
 STR_1109    :Huśta
 STR_1110    :Obraca się
 STR_1111    :Obraca się
-STR_1112    :Operating
+#STR_1112    :
 STR_1113    :Wyświetla firm
 STR_1114    :Obraca się
 STR_1115    :Działa
@@ -878,7 +878,7 @@ STR_1493    :{SMALLFONT}{OPENQUOTES}Nie jestem głodny{ENDQUOTES}
 STR_1494    :{SMALLFONT}{OPENQUOTES}Nie jestem spragniony{ENDQUOTES}
 STR_1495    :{SMALLFONT}{OPENQUOTES}Pomocy! Tonę!{ENDQUOTES}
 STR_1496    :{SMALLFONT}{OPENQUOTES}Zgubiłem się!{ENDQUOTES}
-STR_1497    :{SMALLFONT}{OPENQUOTES}Na atrakcji {STRINGID} było świetne{ENDQUOTES}
+STR_1497    :{SMALLFONT}{OPENQUOTES}Na atrakcji {STRINGID} było świetnie{ENDQUOTES}
 STR_1498    :{SMALLFONT}{OPENQUOTES}Czekam już wieki w kolejce na {STRINGID}{ENDQUOTES}
 STR_1499    :{SMALLFONT}{OPENQUOTES}Jestem zmęczony{ENDQUOTES}
 STR_1500    :{SMALLFONT}{OPENQUOTES}Jestem głodny{ENDQUOTES}
@@ -2317,12 +2317,12 @@ STR_2974    :Alternatywny schemat koloru nr 3
 STR_2975    :{SMALLFONT}{BLACK}Wybierz schemat kolorów malowania atrakcji
 STR_2976    :{SMALLFONT}{BLACK}Pomaluj elementy atrakcji korzystająć z indywidualnego schematu koloru
 STR_2977    :Nazwa pracownika
-STR_2978    :Wprowadż nazwę tego pracownika:
+STR_2978    :Wprowadź nazwę tego pracownika:
 STR_2979    :Nie można zmienić nazwy pracownika...
 STR_2980    :Za dużo banerów w grze
 STR_2981    :{RED}Brak wejścia - - 
 STR_2982    :Tekst baneru
-STR_2983    :Wprowadż nową treść baneru:
+STR_2983    :Wprowadź nową treść baneru:
 STR_2984    :Nie można wprowadzić nowego treść baneru...
 STR_2985    :Baner
 STR_2986    :{SMALLFONT}{BLACK}Zmień treść baneru
@@ -2332,7 +2332,7 @@ STR_2989    :{SMALLFONT}{BLACK}Wybierz główny kolor
 STR_2990    :{SMALLFONT}{BLACK}Wybierz kolor treści
 STR_2991    :Znak
 STR_2992    :Treść znaku
-STR_2993    :Wprowadż nową nazwę znaku:
+STR_2993    :Wprowadź nową nazwę znaku:
 STR_2994    :{SMALLFONT}{BLACK}Zmień treść na znaku
 STR_2995    :{SMALLFONT}{BLACK}Usuń ten znak
 STR_2996    :{BLACK}ABC
@@ -2413,7 +2413,7 @@ STR_3113    :Wybierz inny projekt
 STR_3114    :{SMALLFONT}{BLACK}Wróć do okna wyboru projektu
 STR_3115    :{SMALLFONT}{BLACK}Zapisz projekt trasy
 STR_3116    :{SMALLFONT}{BLACK}Zapisz projekt trasy (niedostępne do czasu sprawdzenia atrakcji i wygenerowania statystyk)
-STR_3117    :{BLACK}Wzywane jest mechanik...ć
+STR_3117    :{BLACK}Wzywane jest mechanik...
 STR_3118    :{BLACK}{STRINGID} zmierza w stronę atrakcji
 STR_3119    :{BLACK}{STRINGID} naprawia atrakcję
 STR_3120    :{SMALLFONT}{BLACK}Znajdź najbliższego wolnego mechanika lub mechanika naprawiającego atrakcję
@@ -2428,7 +2428,7 @@ STR_3128    :Zapisz Projekt Trasy
 STR_3129    :Zapisz Projekt Trasy ze Scenerią
 STR_3130    :Zapisz
 STR_3131    :Anuluj
-STR_3132    :{BLACK}Wybierz elementy scenerii który chcesz zapisać z porjektem trasy...
+STR_3132    :{BLACK}Wybierz elementy scenerii które chcesz zapisać z projektem trasy...
 STR_3133    :Nie można tego zbudować na zboczu
 STR_3134    :{RED}(Projekt zawiera niedostępne elementy scenerii)
 STR_3135    :{RED}(Projekt wagoników niedostępny - może mieć to wpływ na atrakcyjność atrakcji)
@@ -2468,6 +2468,7 @@ STR_3170    :Brak odpowiedniej ilości pamięci na grafikę
 STR_3171    :Wybrano za dużo elementów danego typu
 STR_3172    :Następujący obiekt musi zostać wybrany najpierw: {STRING}
 STR_3173    :Ten obiekt jest aktualnie w użyciu
+STR_3173    :Ten obiekt jest aktualnie w użyciu
 STR_3174    :Ten obiekt jest wymagany przez inny użyty
 STR_3175    :Ten obiekt jest zawsze wymagany
 STR_3176    :Nie można wybrać tego obiektu
@@ -2480,7 +2481,7 @@ STR_3182    :Wejście do parku musi zostać wybrane
 STR_3183    :Rodzaj wody musi zostać wybrany
 STR_3184    :Atrakcje przejazdowe/pojazdy
 STR_3185    :Drobna scenografia
-STR_3186    :Duża scenogrania
+STR_3186    :Duża scenografia
 STR_3187    :Ściany/Ogrodzenia
 STR_3188    :Znaki drogowe
 STR_3189    :Ścieżki
@@ -2562,9 +2563,9 @@ STR_3317    :Brak szczegółów
 STR_3318    :{SMALLFONT}{BLACK}Wybierz w jakich grupach występuje ten scenariusz
 STR_3319    :{WINDOW_COLOUR_2}Grupa scenariuszy:
 STR_3320    :Nie można zapisać pliku scenariusza...
-STR_3321    :Nowe elementy zainstalowano pomyślnie
+STR_3321    :Nowe elementy zainstalowane pomyślnie
 STR_3322    :{WINDOW_COLOUR_2}Cel: {BLACK}{STRINGID}
-STR_3323    :Missing object data, ID:
+#STR_3323    :
 STR_3324    :Wymaga dodatku: {STRINGID}
 STR_3325    :Wymaga zawartości dodatkowej
 STR_3326    :{WINDOW_COLOUR_2}(brak obrazka)
@@ -2572,8 +2573,8 @@ STR_3327    :Nieustawiona pozycja poczatkowa dla ludzi
 STR_3328    :Nie można przejść do dalszego etapu edytora...
 STR_3329    :Nie wybudowano jeszcze wejścia do parku
 STR_3330    :Park musi posiadać jakiś teren na własność
-STR_3331    :Path from park entrance to map edge either not complete or too complex - Path must be single-width with as few junctions and corners as possible
-STR_3332    :Park entrance is the wrong way round or has no path leading to the map edge
+#STR_3331
+#STR_3332
 STR_3333    :Eksportuj elementy dodatkowe do zapisów gier
 STR_3334    :{SMALLFONT}{BLACK}Select whether to save any additional plug-in object data required (add-in data not supplied with the main product) in saved game or scenario files, allowing them to be loaded by someone who doesn't have the additional object data
 STR_3335    :Projektant Tras - Wybierz rodzaj trasy i pojazdu
@@ -2817,7 +2818,7 @@ STR_5278    :Tryb piaskownicy
 STR_5279    :Tryb piaskownicy wyłączony
 STR_5285    :BUM!!!
 STR_5286    :{SMALLFONT}{BLACK}Niektórzy goście eksplodują
-STR_5287    :Atrakcja jet zepsuta
+STR_5287    :Atrakcja jest zepsuta
 STR_5288    :Atrakcja jest zamknięta
 STR_5289    :Brak uszkodzeń dla tej atrakcji
 STR_5290    :Napraw przejażdżkę
@@ -2906,9 +2907,9 @@ STR_5432    :Komenda:
 STR_5435    :Zmień nazwę zapisu
 STR_5436    :Edytuj sekwencje tytułowe...
 STR_5437    :Nie wybrano zapisu
-STR_5438    :Nie można dokonać zmian dopóki edytor komand jest uruchomiony
+STR_5438    :Nie można dokonać zmian dopóki edytor komend jest uruchomiony
 STR_5439    :Przynajmniej 4 sekundowa komenda oczekiwania jest wymagana przy użyciu komendy restartu
-STR_5440    :Zmniej utratę ostrości przy pełnym ekranie
+STR_5440    :Zmniejsz utratę ostrości przy pełnym ekranie
 STR_5441    :{SMALLFONT}{BLACK}Identyfikuj rodzaj przejażdzki po trasie{NEWLINE}dzięki czemu mogą zostać zmienone wagoniki{NEWLINE} (zaszłość z RCT1)
 STR_5442    :Wymuś ocenę parku:
 STR_5443    :Prędkość{MOVE_X}{87}{STRINGID}
@@ -3178,7 +3179,7 @@ STR_5796    :{SMALLFONT}{BLACK}Wymusza zamknięcie/otwarcie parku
 STR_5797    :{SMALLFONT}{BLACK}Wyłącza zmienność pogody{NEWLINE}i ustawia wybrany jej rodzaj
 STR_5798    :{SMALLFONT}{BLACK}Pozwala budować atrakcje w trakcie pauzy
 STR_5799    :{SMALLFONT}{BLACK}Wyłącza awarie i katastrofy związane z uszkodzeniem hamulców
-STR_5800    :{SMALLFONT}{BLACK}Zapobiera awarii atrakcji
+STR_5800    :{SMALLFONT}{BLACK}Zapobiega awariom atrakcji
 STR_5801    :Wyłącz śmiecenie
 STR_5802    :{SMALLFONT}{BLACK}Uniemożliwij śmiecenie i wymiotowanie przez gości
 STR_5803    :{SMALLFONT}{BLACK}Obróć wybrany element mapy
@@ -3236,7 +3237,7 @@ STR_5852    :{SMALLFONT}{BLACK}Ustaw nazwę kanału TwitchTV który będzie uży
 STR_5853    :{SMALLFONT}{BLACK}Przełącznik włączania/wyłączania efektów dźwiękowych
 STR_5854    :{SMALLFONT}{BLACK}Przełącznik włączania/wyłączania dźwięków na atrakcjach
 STR_5855    :{SMALLFONT}{BLACK}Ustaw normalny pełny ekran, bezramkowy pełny ekran{NEWLINE}klub tryb okienkowy
-STR_5856    :{SMALLFONT}{BLACK}Ustaw rozdzielność ekranu w trybie pełnoekranowym
+STR_5856    :{SMALLFONT}{BLACK}Ustaw rozdzielczość ekranu w trybie pełnoekranowym
 STR_5857    :{SMALLFONT}{BLACK}Ustawienia gry
 STR_5858    :{SMALLFONT}{BLACK}Użyć do wyświetlania GPU zamiast CPU. Pomoże to w poprawie kompatybilności z oprogramowaniem do przechwytywania ekranu. Jednak może wpłynąć negatywnie na wydajność.
 STR_5859    :{SMALLFONT}{BLACK}Włącz zmienną ilość klatek dla {NEWLINE}płynniejszej gry. Gdy wyłączone,{NEWLINE}gra będzie używała stałych 40 FPS.
@@ -3246,7 +3247,7 @@ STR_5862    :Blokuj nieznanych graczy.
 STR_5863    :{SMALLFONT}{BLACK}Pozwól na połączenie graczy znających klucz.
 STR_5864    :Dostęp do serwera mają tylko gracze z białej listy.
 STR_5865    :Logowanie histori czatu
-STR_5866    :{SMALLFONT}{BLACK}Zapisój treść czatów do plików w katalogu domowym.
+STR_5866    :{SMALLFONT}{BLACK}Zapisuj treść czatów do plików w katalogu domowym.
 STR_5867    :{WINDOW_COLOUR_2}Nazwa hostującego: {BLACK}{STRING}
 STR_5868    :{WINDOW_COLOUR_2}E-mail hostującego: {BLACK}{STRING}
 STR_5869    :{WINDOW_COLOUR_2}Strona hostującego: {BLACK}{STRING}
