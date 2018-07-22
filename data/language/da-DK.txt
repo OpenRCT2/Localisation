@@ -3119,37 +3119,37 @@ STR_3108    :Test
 STR_3109    :Åben
 STR_3110    :{WINDOW_COLOUR_2}Blok Sektioner: {BLACK}{COMMA16}
 STR_3111    :{SMALLFONT}{BLACK}Klik på et design for at bygge det
-STR_3112    :{SMALLFONT}{BLACK}Click on design to rename or delete it
-STR_3113    :Select a different design
-STR_3114    :{SMALLFONT}{BLACK}Go back to design selection window
-STR_3115    :{SMALLFONT}{BLACK}Save track design
-STR_3116    :{SMALLFONT}{BLACK}Save track design (Not possible until ride has been tested and statistics have been generated)
-STR_3117    :{BLACK}Calling mechanic...
-STR_3118    :{BLACK}{STRINGID} is heading for the ride
-STR_3119    :{BLACK}{STRINGID} is fixing the ride
-STR_3120    :{SMALLFONT}{BLACK}Locate nearest available mechanic, or mechanic fixing ride
-STR_3121    :Unable to locate mechanic, or all nearby mekanikere are busy
-STR_3122    :{WINDOW_COLOUR_2}Favourite ride of: {BLACK}{COMMA16} guest
-STR_3123    :{WINDOW_COLOUR_2}Favourite ride of: {BLACK}{COMMA16} guests
-STR_3124    :Broken {STRINGID}
-STR_3125    :{WINDOW_COLOUR_2}Excitement Factor: {BLACK}+{COMMA16}%
-STR_3126    :{WINDOW_COLOUR_2}Intensity Factor: {BLACK}+{COMMA16}%
-STR_3127    :{WINDOW_COLOUR_2}Nausea Factor: {BLACK}+{COMMA16}%
-STR_3128    :Save Track Design
-STR_3129    :Save Track Design with Scenery
-STR_3130    :Save
-STR_3131    :Cancel
-STR_3132    :{BLACK}Click items of scenery to select them to be saved with track design...
-STR_3133    :Unable to build this on a slope
-STR_3134    :{RED}(Design includes scenery which is unavailable)
-STR_3135    :{RED}(Vehicle design unavailable - Ride performance may be affected)
-STR_3136    :Warning: This design will be built with an alternative vehicle type and may not perform as expected
-STR_3137    :Select Nearby Scenery
-STR_3138    :Reset Selection
-STR_3139    :Cable lift unable to work in this operating mode
-STR_3140    :Cable lift hill must start immediately after station
-STR_3141    :Multi-circuit per ride not possible with cable lift hill
-STR_3142    :{WINDOW_COLOUR_2}Kapasitet: {BLACK}{STRINGID}
+STR_3112    :{SMALLFONT}{BLACK}Klik på et design, for at omdøbe eller slette det
+STR_3113    :Vælg et andet design
+STR_3114    :{SMALLFONT}{BLACK}Gå tilbage til designvalgs vinduet
+STR_3115    :{SMALLFONT}{BLACK}Gem banedesign
+STR_3116    :{SMALLFONT}{BLACK}Gem banedesign (Ikke muligt for benen er testet og der er genereret statistik over banen)
+STR_3117    :{BLACK}Tilkalder mekaniker...
+STR_3118    :{BLACK}{STRINGID} er på vej til forlystelsen
+STR_3119    :{BLACK}{STRINGID} er igang med at reparere forlystelsen
+STR_3120    :{SMALLFONT}{BLACK}Find nærmeste ledige mekaniker, eller mekaniker der er igang med at reparere en forlystelse
+STR_3121    :Kan ikke finde en makaniker, eller alle mekanikere er optaget
+STR_3122    :{WINDOW_COLOUR_2}Ynglingsforlystelse for: {BLACK}{COMMA16} gæst
+STR_3123    :{WINDOW_COLOUR_2}Ynglingsforlystelse for: {BLACK}{COMMA16} guests
+STR_3124    :I stykker {STRINGID}
+STR_3125    :{WINDOW_COLOUR_2}Spændings Faktor: {BLACK}+{COMMA16}%
+STR_3126    :{WINDOW_COLOUR_2}Intensitets Faktor: {BLACK}+{COMMA16}%
+STR_3127    :{WINDOW_COLOUR_2}Kvalme Faktor: {BLACK}+{COMMA16}%
+STR_3128    :Gem banedesignesign
+STR_3129    :Gem banedesignesign med sceneri
+STR_3130    :Gem
+STR_3131    :Afbrud
+STR_3132    :{BLACK}Klik på sceneri, for at vælge dem der skal gemmes sammen med benedesignet...
+STR_3133    :Kan ikke bygges på en hældning
+STR_3134    :{RED}(Designet indeholder sceneri der ikke er tilgængeligt)
+STR_3135    :{RED}(Vogndesign ikke tilgængelig - Køreegenskaber kan blive påvirket)
+STR_3136    :Advarsel: Denne forlystelse vil blive bygget med en alternativ vogn type, så den måske ikke fungerer som forventet
+STR_3137    :Vælg sceneri i nærheden
+STR_3138    :nulstil valg
+STR_3139    :Kædeløft virker ikke i denne operations tilstand
+STR_3140    :Kædeløft bakke skal starte umiddelbart efter stationen
+STR_3141    :Multi-kredsløb per tur ikke muligt med kædeløft bakke
+STR_3142    :{WINDOW_COLOUR_2}Kapacitet: {BLACK}{STRINGID}
 STR_3143    :{SMALLFONT}{BLACK}Vis folk på kortet
 STR_3144    :{SMALLFONT}{BLACK}Vis forlystelser og boder på kortet
 STR_3145    :{SMALLFONT}{BLACK}Scroll {STRINGID} venstre
@@ -3167,75 +3167,75 @@ STR_3156    :
 STR_3157    :kort
 STR_3158    :graf
 STR_3159    :liste
-STR_3160    :{SMALLFONT}{BLACK}Select the number of circuits per ride
+STR_3160    :{SMALLFONT}{BLACK}Vælg antal omgange per tur
 STR_3161    :<removed string - do not use>
-STR_3162    :Unable to allocate enough memory
-STR_3163    :Installing new data: 
-STR_3164    :{BLACK}{COMMA16} selected (maximum {COMMA16})
+STR_3162    :Kan ikke allokere nok hukommelse
+STR_3163    :Insatllerer ny data: 
+STR_3164    :{BLACK}{COMMA16} valgt (maximum {COMMA16})
 STR_3165    :
 STR_3166    :{BLACK}(ID: 
-STR_3167    :{WINDOW_COLOUR_2}Includes: {BLACK}{COMMA16} objects
-STR_3168    :{WINDOW_COLOUR_2}Text: {BLACK}{STRINGID}
-STR_3169    :Data for the following object not found: 
-STR_3170    :Not enough space for graphics
-STR_3171    :Too many objects of this type selected
-STR_3172    :The following object must be selected first: {STRING}
-STR_3173    :This object is currently in use
-STR_3174    :This object is required by another object
-STR_3175    :This object is always required
-STR_3176    :Unable to select this object
-STR_3177    :Unable to de-select this object
-STR_3178    :At least one path object must be selected
-STR_3179    :At least one ride vehicle/attraction object must be selected
-STR_3180    :Invalid selection of objects
-STR_3181    :Object Selection - {STRINGID}
-STR_3182    :Park indgang type must be selected
-STR_3183    :Water type must be selected
+STR_3167    :{WINDOW_COLOUR_2}Inkluderer: {BLACK}{COMMA16} objekter
+STR_3168    :{WINDOW_COLOUR_2}Tekst: {BLACK}{STRINGID}
+STR_3169    :Data for følgende opbekt ikke fundet: 
+STR_3170    :Ikke nok plads til grafik
+STR_3171    :For mange objekter for denne type valgt
+STR_3172    :Følgende objekt skal vælges først: {STRING}
+STR_3173    :Dette objekt bruges i øjeblikket
+STR_3174    :Dette objekt kræves af et andet objekt
+STR_3175    :Dette objekt er altid påkrævet
+STR_3176    :Kan ikke vælge dette objekt
+STR_3177    :Kan ikke fravælge dette objekt
+STR_3178    :Mindst et stiobjekt skal vælges
+STR_3179    :Mindst et forlystelse/attraktion objekt skal vælges
+STR_3180    :Ugyldigt udvalg af objekter
+STR_3181    :Objekt valg - {STRINGID}
+STR_3182    :Park indgangstype skal vælges
+STR_3183    :Vandtype skal vælges
 STR_3184    :Ride Vehicles/Attractions
-STR_3185    :Small Scenery
-STR_3186    :Large Scenery
-STR_3187    :Walls/Fences
-STR_3188    :Path Signs
-STR_3189    :Footpaths
+STR_3185    :Lille Sceneri
+STR_3186    :Stort Sceneri
+STR_3187    :Vægge/Hegn
+STR_3188    :Stiskilte
+STR_3189    :Gangstier
 STR_3190    :Path Extras
-STR_3191    :Scenery Groups
-STR_3192    :Park Entrance
-STR_3193    :Water
-STR_3194    :Scenario Description
-STR_3195    :Invention List
-STR_3196    :{WINDOW_COLOUR_2}Research Group: {BLACK}{STRINGID}
-STR_3197    :{WINDOW_COLOUR_2}Items pre-invented at start of game:
-STR_3198    :{WINDOW_COLOUR_2}Items to invent during game:
-STR_3199    :Random Shuffle
-STR_3200    :{SMALLFONT}{BLACK}Randomly shuffle the list of items to invent during the game
-STR_3201    :Object Selection
-STR_3202    :Landscape Editor
-STR_3203    :Invention List Set Up
-STR_3204    :Options Selection
-STR_3205    :Objective Selection
-STR_3206    :Save Scenario
-STR_3207    :Track Designer
-STR_3208    :Track Designs Manager
-STR_3209    :Back to Previous Step:
-STR_3210    :Forward to Next Step:
-STR_3211    :Map size:
+STR_3191    :Sceneri Grupper
+STR_3192    :Park indgang
+STR_3193    :Vand
+STR_3194    :Scenarie Beskrivelse
+STR_3195    :Opfindelses liste
+STR_3196    :{WINDOW_COLOUR_2}forskningsgruppe: {BLACK}{STRINGID}
+STR_3197    :{WINDOW_COLOUR_2}Enheder der er tilgængelig i starten af spillet:
+STR_3198    :{WINDOW_COLOUR_2}Enheder der skal opfindet i løbet af spillet:
+STR_3199    :Tilfældig blanding
+STR_3200    :{SMALLFONT}{BLACK}Blander tilfældig, alle de ting der skal opfindet i løbet af spillet 
+STR_3201    :Objekt valg
+STR_3202    :Landskabs redigering
+STR_3203    :Opfindelses opsætning
+STR_3204    :Indstillings valg
+STR_3205    :Objekt udvælgelse
+STR_3206    :Gem Scenarie
+STR_3207    :Banedesigner
+STR_3208    :Banedesign Manager
+STR_3209    :Tilbage til tidligere skridt:
+STR_3210    :Videre til næste skridt:
+STR_3211    :Kortstørrelse:
 STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
-STR_3213    :Kan ikke decrease map size any further
-STR_3214    :Kan ikke increase map size any further
-STR_3215    :Too close to edge of map
-STR_3216    :{SMALLFONT}{BLACK}Select park-owned land etc.
-STR_3217    :Land Owned
-STR_3218    :Construction Rights Owned
-STR_3219    :Land For Sale
-STR_3220    :Construction Rights For Sale
+STR_3213    :Kan ikke reducere korttsørrelsen yderligere
+STR_3214    :Kan ikke forøge korttsørrelsen yderligere
+STR_3215    :For tæt på kanten af kortet
+STR_3216    :{SMALLFONT}{BLACK}Vælg park-ejet land osv.
+STR_3217    :Land ejet
+STR_3218    :Konstruktionsrettigheder ejet
+STR_3219    :Land til salg
+STR_3220    :Konstruktionsrettigheder til salg
 STR_3221    :{SMALLFONT}{BLACK}Set land to be owned by the park
 STR_3222    :{SMALLFONT}{BLACK}Set construction rights only to be owned by the park
 STR_3223    :{SMALLFONT}{BLACK}Set land to be available to purchase by the park
 STR_3224    :{SMALLFONT}{BLACK}Set construction rights to be available to purchase by the park
 STR_3225    :{SMALLFONT}{BLACK}Toggle on/off building a random cluster of objects around the selected position
 STR_3226    :{SMALLFONT}{BLACK}Build park indgang
-STR_3227    :Too many park entrances!
-STR_3228    :{SMALLFONT}{BLACK}Set starting positions for people
+STR_3227    :For mange park indgange!
+STR_3228    :{SMALLFONT}{BLACK}Sæt start punkt for personer
 STR_3229    :Block Brakes cannot be used directly after station
 STR_3230    :Block Brakes cannot be used directly after each other
 STR_3231    :Block Brakes cannot be used directly after the top of this lift hill
@@ -3245,17 +3245,17 @@ STR_3234    :Options - Park
 STR_3235    :{SMALLFONT}{BLACK}Vis financial options
 STR_3236    :{SMALLFONT}{BLACK}Vis guest options
 STR_3237    :{SMALLFONT}{BLACK}Vis park options
-STR_3238    :No Money
+STR_3238    :Ingen penge
 STR_3239    :{SMALLFONT}{BLACK}Make this park a 'no money' park with no financial restrictions
-STR_3240    :{WINDOW_COLOUR_2}Initial cash:
-STR_3241    :{WINDOW_COLOUR_2}Initial loan:
-STR_3242    :{WINDOW_COLOUR_2}Maximum loan size:
-STR_3243    :{WINDOW_COLOUR_2}Annual interest rate:
-STR_3244    :Forbid marketing campaigns
+STR_3240    :{WINDOW_COLOUR_2}Startkapital:
+STR_3241    :{WINDOW_COLOUR_2}Startlån:
+STR_3242    :{WINDOW_COLOUR_2}Maximum lånstørrelse:
+STR_3243    :{WINDOW_COLOUR_2}Årlig rentesats:
+STR_3244    :Forbyd markedsføringskampagner
 STR_3245    :{SMALLFONT}{BLACK}Forbid advertising, promotional schemes, and other marketing campaigns
 STR_3246    :{WINDOW_COLOUR_2}{CURRENCY}
 STR_3247    :{WINDOW_COLOUR_2}{COMMA16}%
-STR_3248    :Kan ikke increase initial cash any further!
+STR_3248    :Kan ikke forøge startkapital ydderligere!
 STR_3249    :Kan ikke reduce initial cash any further!
 STR_3250    :Kan ikke increase initial loan any further!
 STR_3251    :Kan ikke reduce initial loan any further!
@@ -3397,7 +3397,7 @@ STR_3386    :<removed string - do not use>
 STR_3387    :<removed string - do not use>
 STR_3388    :Unable to switch to selected mode
 STR_3389    :Unable to select additional item of scenery...
-STR_3390    :Too many items selected
+STR_3390    :For mange enheder valgt
 STR_3391    :<removed string - do not use>
 STR_3392    :<removed string - do not use>
 STR_3393    :<removed string - do not use>
@@ -3444,16 +3444,16 @@ STR_3433    :<removed string - do not use>
 STR_3434    :<removed string - do not use>
 STR_3435    :<removed string - do not use>
 STR_3436    :<removed string - do not use>
-STR_3437    :{SMALLFONT}{BLACK}Clear large areas of scenery from landscape
-STR_3438    :Unable to remove all scenery from here...
-STR_3439    :Clear Scenery
-STR_3440    :Page 1
-STR_3441    :Page 2
-STR_3442    :Page 3
-STR_3443    :Page 4
-STR_3444    :Page 5
-STR_3445    :Set Patrol Area
-STR_3446    :Cancel Patrol Area
+STR_3437    :{SMALLFONT}{BLACK}Ryd et stort område for sceneri
+STR_3438    :Kan ikke fjerne al sceneri herfra...
+STR_3439    :Ryd sceneri
+STR_3440    :Side 1
+STR_3441    :Side 2
+STR_3442    :Side 3
+STR_3443    :Side 4
+STR_3444    :Side 5
+STR_3445    :Sæt patruljeområde
+STR_3446    :Anuller patruljeområde
 
 # New strings, cleaner
 STR_5120    :Finances
