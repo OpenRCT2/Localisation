@@ -3211,7 +3211,7 @@ STR_3200    :{SMALLFONT}{BLACK}Blander tilfældig, alle de ting der skal opfinde
 STR_3201    :Objekt valg
 STR_3202    :Landskabs redigering
 STR_3203    :Opfindelses opsætning
-STR_3204    :Indstillings valg
+STR_3204    :Indstillinger
 STR_3205    :Objekt udvælgelse
 STR_3206    :Gem Scenarie
 STR_3207    :Banedesigner
@@ -3220,50 +3220,50 @@ STR_3209    :Tilbage til tidligere skridt:
 STR_3210    :Videre til næste skridt:
 STR_3211    :Kortstørrelse:
 STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
-STR_3213    :Kan ikke reducere korttsørrelsen yderligere
-STR_3214    :Kan ikke forøge korttsørrelsen yderligere
+STR_3213    :Kan ikke reducere kortstørrelsen yderligere
+STR_3214    :Kan ikke forøge kortstørrelsen yderligere
 STR_3215    :For tæt på kanten af kortet
 STR_3216    :{SMALLFONT}{BLACK}Vælg park-ejet land osv.
 STR_3217    :Land ejet
 STR_3218    :Konstruktionsrettigheder ejet
 STR_3219    :Land til salg
 STR_3220    :Konstruktionsrettigheder til salg
-STR_3221    :{SMALLFONT}{BLACK}Set land to be owned by the park
-STR_3222    :{SMALLFONT}{BLACK}Set construction rights only to be owned by the park
-STR_3223    :{SMALLFONT}{BLACK}Set land to be available to purchase by the park
-STR_3224    :{SMALLFONT}{BLACK}Set construction rights to be available to purchase by the park
-STR_3225    :{SMALLFONT}{BLACK}Toggle on/off building a random cluster of objects around the selected position
-STR_3226    :{SMALLFONT}{BLACK}Build park indgang
+STR_3221    :{SMALLFONT}{BLACK}Indstil land ejet af parken
+STR_3222    :{SMALLFONT}{BLACK}Indstil konstruktionsrettigheder ejet af parken
+STR_3223    :{SMALLFONT}{BLACK}Indstil land der kan købes af parken
+STR_3224    :{SMALLFONT}{BLACK}Indstil konstruktionsrettigheder der kan købes af parken
+STR_3225    :{SMALLFONT}{BLACK}Aktiver/deaktiver bygning en tilfældig klynge, af objekter omkring den valgte position
+STR_3226    :{SMALLFONT}{BLACK}Byg park indgang
 STR_3227    :For mange park indgange!
 STR_3228    :{SMALLFONT}{BLACK}Sæt start punkt for personer
-STR_3229    :Block Brakes cannot be used directly after station
-STR_3230    :Block Brakes cannot be used directly after each other
-STR_3231    :Block Brakes cannot be used directly after the top of this lift hill
-STR_3232    :Options - Financial
-STR_3233    :Options - Guests
-STR_3234    :Options - Park
-STR_3235    :{SMALLFONT}{BLACK}Vis financial options
-STR_3236    :{SMALLFONT}{BLACK}Vis guest options
-STR_3237    :{SMALLFONT}{BLACK}Vis park options
+STR_3229    :Blokbremser kan ikke bruges lige efter stationen
+STR_3230    :Blokbremser kan ikke bruges lige efter hinanden
+STR_3231    :Blokbremser kan ikke bruges lige efter toppen af en løftekæde
+STR_3232    :Indstillinger - Financiel
+STR_3233    :Indstillinger - Gæster
+STR_3234    :Indstillinger - Park
+STR_3235    :{SMALLFONT}{BLACK}Vis finansindstillinger
+STR_3236    :{SMALLFONT}{BLACK}Vis gæsteindstillinger
+STR_3237    :{SMALLFONT}{BLACK}Vis parkindstillinger
 STR_3238    :Ingen penge
-STR_3239    :{SMALLFONT}{BLACK}Make this park a 'no money' park with no financial restrictions
+STR_3239    :{SMALLFONT}{BLACK}Gør denne park til en 'pengeløs' park, unde financielle restriktioner
 STR_3240    :{WINDOW_COLOUR_2}Startkapital:
 STR_3241    :{WINDOW_COLOUR_2}Startlån:
 STR_3242    :{WINDOW_COLOUR_2}Maximum lånstørrelse:
 STR_3243    :{WINDOW_COLOUR_2}Årlig rentesats:
 STR_3244    :Forbyd markedsføringskampagner
-STR_3245    :{SMALLFONT}{BLACK}Forbid advertising, promotional schemes, and other marketing campaigns
+STR_3245    :{SMALLFONT}{BLACK}Forbyd reklamer, salgsfremmende ordninger, og andre marketingskampagner
 STR_3246    :{WINDOW_COLOUR_2}{CURRENCY}
 STR_3247    :{WINDOW_COLOUR_2}{COMMA16}%
-STR_3248    :Kan ikke forøge startkapital ydderligere!
-STR_3249    :Kan ikke reduce initial cash any further!
-STR_3250    :Kan ikke increase initial loan any further!
-STR_3251    :Kan ikke reduce initial loan any further!
+STR_3248    :Kan ikke forøge startkapital yderligere!
+STR_3249    :Kan ikke reducere startkapital yderligere!
+STR_3250    :Kan ikke forøge startlån yderligere!
+STR_3251    :Kan ikke reducere startlån yderligere!
 STR_3252    :Kan ikke increase maximum loan size any further!
 STR_3253    :Kan ikke reduce maximum loan size any further!
 STR_3254    :Kan ikke increase interest rate any further!
 STR_3255    :Kan ikke reduce interest rate any further!
-STR_3256    :Guests prefer less intense forlystelser
+STR_3256    :Gæster foretrækker mindre intense forlystelser
 STR_3257    :{SMALLFONT}{BLACK}Select whether guests should generally prefer less intense forlystelser only
 STR_3258    :Guests prefer more intense forlystelser
 STR_3259    :{SMALLFONT}{BLACK}Select whether guests should generally prefer more intense forlystelser only
@@ -3286,26 +3286,26 @@ STR_3275    :Guests are more difficult to attract
 STR_3276    :{SMALLFONT}{BLACK}Make it more difficult to attract guests to the park
 STR_3277    :{WINDOW_COLOUR_2}Cost to buy land:
 STR_3278    :{WINDOW_COLOUR_2}Cost to buy construction rights:
-STR_3279    :Free park entry / Pay per ride
-STR_3280    :Pay to enter park / Free forlystelser
-STR_3281    :{WINDOW_COLOUR_2}Entry pris:
+STR_3279    :Gratis park Entré / Betal for forlystelser
+STR_3280    :Betal Parkentré / Gratis forlystelser
+STR_3281    :{WINDOW_COLOUR_2}Entré pris:
 STR_3282    :{SMALLFONT}{BLACK}Select objective and park name
 STR_3283    :{SMALLFONT}{BLACK}Select forlystelser to be preserved
 STR_3284    :Objective Selection
 STR_3285    :Preserved Rides
 STR_3286    :{SMALLFONT}{BLACK}Select objective for this scenario
 STR_3287    :{WINDOW_COLOUR_2}Objective:
-STR_3288    :{SMALLFONT}{BLACK}Select climate
-STR_3289    :{WINDOW_COLOUR_2}Climate:
-STR_3290    :Cool and wet
-STR_3291    :Warm
-STR_3292    :Hot and dry
-STR_3293    :Cold
-STR_3294    :Change...
+STR_3288    :{SMALLFONT}{BLACK}Vælg klima
+STR_3289    :{WINDOW_COLOUR_2}Klima:
+STR_3290    :Koldt og vådt
+STR_3291    :Varmt
+STR_3292    :Varmt og tørt
+STR_3293    :Koldt
+STR_3294    :Skift...
 STR_3295    :{SMALLFONT}{BLACK}Change name of park
 STR_3296    :{SMALLFONT}{BLACK}Change name of scenario
 STR_3297    :{SMALLFONT}{BLACK}Change detail notes about park / scenario
-STR_3298    :{WINDOW_COLOUR_2}Park Name: {BLACK}{STRINGID}
+STR_3298    :{WINDOW_COLOUR_2}Park Navn: {BLACK}{STRINGID}
 STR_3299    :{WINDOW_COLOUR_2}Park/Scenario Details:
 STR_3300    :{WINDOW_COLOUR_2}Scenario Name: {BLACK}{STRINGID}
 STR_3301    :{WINDOW_COLOUR_2}Objective Date:
