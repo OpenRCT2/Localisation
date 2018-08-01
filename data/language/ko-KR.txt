@@ -3957,7 +3957,7 @@ STR_5616    :{SMALLFONT}{BLACK}타일 플래그의 마지막 요소
 STR_5617    :{SMALLFONT}{BLACK}선택한 요소를 위로 이동합니다.
 STR_5618    :{SMALLFONT}{BLACK}선택한 요소를 아래로 이동합니다.
 STR_5619    :롤러코스터 타이쿤
-STR_5620    :애디드 어트랙션
+STR_5620    :어트랙션 팩
 STR_5621    :루피 랜드스케이프
 STR_5622    :롤러코스터 타이쿤 2
 STR_5623    :와키 월드
@@ -4576,573 +4576,658 @@ STR_6261    :넓은 보도 표시
 # RCT Original #
 ################
 <Forest Frontiers>
-STR_SCNR    :Forest Frontiers
-STR_PARK    :미개척된 숲
+STR_SCNR    :숲의 개척지
+STR_PARK    :Forest Frontiers
 STR_DTLS    :깊은 숲 속 넓은 공터에 번창한 놀이공원을 건설하세요.
 
 <Dynamite Dunes>
-STR_SCNR    :Dynamite Dunes
-STR_PARK    :다이너마이트 모래언덕
+STR_SCNR    :다이너마이트 모래언덕
+STR_PARK    :Dynamite Dunes
 STR_DTLS    :사막 한가운데 건설된 이 놀이공원에는 롤러코스터 한 대만이 있지만 확장할 수 있는 곳이 많습니다.
 
 <Leafy Lake>
-STR_SCNR    :Leafy Lake
-STR_PARK    :나뭇잎 호수
+STR_SCNR    :울창한 호수
+STR_PARK    :Leafy Lake
 STR_DTLS    :처음부터 시작하여 큰 호수 주변에 놀이공원을 건설하세요.
 
 <Diamond Heights>
-STR_SCNR    :Diamond Heights
-STR_PARK    :다이아몬드 언덕
+STR_SCNR    :다이아몬드 언덕
+STR_PARK    :Diamond Heights
 STR_DTLS    :다이아몬드 언덕은 멋진 놀이기구를 통해 이미 성공한 놀이공원입니다. 공원의 가치를 두 배로 늘려 보세요.
 
 <Evergreen Gardens>
-STR_SCNR    :Evergreen Gardens
-STR_PARK    :상록수 정원
+STR_SCNR    :상록수 정원
+STR_PARK    :Evergreen Gardens
 STR_DTLS    :아름다운 상록수 정원을 번창한 놀이공원으로 바꿔보세요.
 
 <Bumbly Beach>
-STR_SCNR    :Bumbly Beach
-STR_PARK    :범블리 해변
-STR_DTLS    :범블리 해변의 작은 놀이공원을 번창한 놀이공원으로 발전시키세요.
+STR_SCNR    :아담한 해변
+STR_PARK    :Bumbly Beach
+STR_DTLS    :아담한 해변의 작은 놀이공원을 번창한 놀이공원으로 발전시키세요.
 
 <Trinity Islands>
-STR_SCNR    :Trinity Islands
-STR_PARK    :삼위일체 섬
+STR_SCNR    :트리니티 섬
+STR_PARK    :Trinity Islands
 STR_DTLS    :몇 개의 섬이 이 새로운 공원의 기반입니다.
 
 <Katie's Dreamland>
-STR_SCNR    :Katie's Dreamland
-STR_PARK    :케이티의 드림랜드
+STR_SCNR    :케이티의 드림랜드
+STR_PARK    :Katie's Dreamland
 STR_DTLS    :몇 개의 놀이기구와 확장할 공간이 있는 작은 놀이공원으로, 여러분의 목표는 공원 가치를 두 배로 늘리는 것입니다.
 
 <Pokey Park>
-STR_SCNR    :Pokey Park
-STR_PARK    :비좁은 공원
+STR_SCNR    :비좁은 공원
+STR_PARK    :Pokey Park
 STR_DTLS    :대대적인 확장을 해야하는 비좁은 놀이공원입니다.
 
 <White Water Park>
-STR_SCNR    :White Water Park
-STR_PARK    :맑은 물 공원
+STR_SCNR    :화이트워터 공원
+STR_PARK    :White Water Park
 STR_DTLS    :훌륭한 물 놀이기구를 몇 개 갖고있지만 확장이 필요한 공원입니다.
 
 <Millennium Mines>
-STR_SCNR    :Millennium Mines
-STR_PARK    :밀레니엄 광산
+STR_SCNR    :밀레니엄 광산
+STR_PARK    :Millennium Mines
 STR_DTLS    :버려져있는 커다란 탄광을 관광시설에서 놀이공원으로 바꿔보세요.
 
 <Karts & Coasters>
-STR_SCNR    :Karts & Coasters
-STR_PARK    :카트 & 코스터
+STR_SCNR    :카트 & 코스터
+STR_PARK    :Karts & Coasters
 STR_DTLS    :몇 개의 고 카트 트랙과 우든 롤러코스터만이 숲 속에 숨겨져 있는 대형 놀이공원입니다.
 
 <Mel's World>
-STR_SCNR    :Mel's World
-STR_PARK    :멜의 세계
+STR_SCNR    :멜의 세계
+STR_PARK    :Mel's World
 STR_DTLS    :이 놀이공원에는 잘 디자인된 현대식 놀이기구가 있지만 아직도 확장해야 할 곳이 많습니다.
 
 <Mystic Mountain>
-STR_SCNR    :Mystic Mountain
-STR_PARK    :신비한 산
+STR_SCNR    :신비한 산
+STR_PARK    :Mystic Mountain
 STR_DTLS    :비밀스런 숲 속 언덕에 처음부터 놀이공원을 건설하세요.
 
 <Pacific Pyramids>
-STR_SCNR    :Pacific Pyramids
-STR_PARK    :평화로운 피라미드
+STR_SCNR    :평화로운 피라미드
+STR_PARK    :Pacific Pyramids
 STR_DTLS    :이집트 유적 관광지를 번창한 놀이공원으로 바꿔 보세요.
 
 <Crumbly Woods>
-STR_SCNR    :Crumbly Woods
-STR_PARK    :부서지기 쉬운 숲
+STR_SCNR    :부스러져가는 목재
+STR_PARK    :Crumbly Woods
 STR_DTLS    :잘 디자인되었지만 다소 낡은 놀이기구를 가진 대형 공원입니다. 오래된 놀이기구를 교체하거나 새로운 놀이기구를 추가하여 보다 인기있는 공원을 만들어보세요.
 
 <Paradise Pier>
-STR_SCNR    :Paradise Pier
-STR_PARK    :파라다이스 부두
+STR_SCNR    :파라다이스 부두
+STR_PARK    :Paradise Pier
 STR_DTLS    :이 조용한 마을의 부두를 번창한 놀이공원으로 바꿔보세요.
 
 <Lightning Peaks>
-STR_SCNR    :Lightning Peaks
-STR_PARK    :번개치는 산꼭대기
+STR_SCNR    :번개치는 산꼭대기
+STR_PARK    :Lightning Peaks
 STR_DTLS    :번개치는 산꼭대기의 아름다운 산은 경치를 즐기며 산책을 즐기는 사람들에게 인기가 높습니다. 사용 가능한 땅을 이용해서 스릴을 찾는 새로운 고객을 유혹해보세요.
 
 <Ivory Towers>
-STR_SCNR    :Ivory Towers
-STR_PARK    :상아 탑
+STR_SCNR    :상아탑
+STR_PARK    :Ivory Towers
 STR_DTLS    :문제가 몇 가지 있지만 잘 구성된 공원입니다.
 
 <Rainbow Valley>
-STR_SCNR    :Rainbow Valley
-STR_PARK    :무지개 계곡
+STR_SCNR    :무지개 계곡
+STR_PARK    :Rainbow Valley
 STR_DTLS    :무지개 계곡의 지역 당국은 풍경을 바꾸거나 큰 나무를 제거할 수 없게 했지만, 이 지역을 개발하여 대형 놀이공원으로 바꿔야만 합니다.
 
 <Thunder Rock>
-STR_SCNR    :Thunder Rock
-STR_PARK    :천둥 바위
+STR_SCNR    :천둥 바위
+STR_PARK    :Thunder Rock
 STR_DTLS    :천둥 바위는 사막 한가운데에서 많은 관광객을 끌어 모으고 있습니다. 사용 가능한 공간을 이용해 놀이기구를 건설해서 더 많은 사람들을 끌어 보세요.
 
 <Mega Park>
-STR_SCNR    :Mega Park
-STR_PARK    :대공원
+STR_SCNR    :거대한 공원
+STR_PARK    :Mega Park
 STR_DTLS    :그냥 즐기세요!
 
 ## Added Attractions
 <Whispering Cliffs>
-STR_SCNR    :Whispering Cliffs
-STR_PARK    :속삭이는 절벽
+STR_SCNR    :속삭이는 절벽
+STR_PARK    :Whispering Cliffs
 STR_DTLS    :해변의 절벽을 인기있는 놀이공원으로 발전시키세요.
 
 <Three Monkeys Park>
-STR_SCNR    :Three Monkeys Park
-STR_PARK    :세 원숭이 공원
+STR_SCNR    :세 원숭이 공원
+STR_PARK    :Three Monkeys Park
 STR_DTLS    :개발 중인 이 거대한 공원의 한 가운데에는 동시에 경주하는 거대한 세 쌍둥이 스틸 롤러코스터가 있습니다.
 
 <Canary Mines>
-STR_SCNR    :Canary Mines
-STR_PARK    :카나리아 광산
+STR_SCNR    :카나리아 광산
+STR_PARK    :Canary Mines
 STR_DTLS    :이 버려진 탄광은 모형 기차와 수직 낙하 롤러코스터로 이미 관광객의 인기를 끌고 있습니다.
 
 <Barony Bridge>
-STR_SCNR    :Barony Bridge
-STR_PARK    :남작의 다리
+STR_SCNR    :바로니 다리
+STR_PARK    :Barony Bridge
 STR_DTLS    :필요없는 오래된 다리를 놀이공원으로 개발할 수 있습니다.
 
 <Funtopia>
-STR_SCNR    :Funtopia
-STR_PARK    :펀토피아
+STR_SCNR    :펀토피아
+STR_PARK    :Funtopia
 STR_DTLS    :고속도로 양쪽을 잘 활용한 이 공원은 이미 몇 가지 놀이기구를 운영하고 있습니다.
 
 <Haunted Harbour>
-STR_SCNR    :Haunted Harbour
-STR_PARK    :유령 항구
+STR_SCNR    :유령 항구
+STR_PARK    :Haunted Harbour
 STR_DTLS    :지역 당국은 특정 놀이기구는 파괴할 수 없다는 조건을 걸고 이 작은 해변 공원 근처의 땅을 저렴하게 팔기로 합의했습니다.
 
 <Fun Fortress>
-STR_SCNR    :Fun Fortress
-STR_PARK    :즐거운 요새
+STR_SCNR    :재미의 요새
+STR_PARK    :Fun Fortress
 STR_DTLS    :이 성은 이제 당신의 소유입니다. 이 성을 놀이공원으로 바꾸어보세요.
 
 <Future World>
-STR_SCNR    :Future World
-STR_PARK    :미래 세계
+STR_SCNR    :미래 세계
+STR_PARK    :Future World
 STR_DTLS    :이 미래지향적인 공원에는 새로운 놀이기구를 그 외계 지형 위에 지을 넓은 공간이 있습니다.
 
 <Gentle Glen>
-STR_SCNR    :Gentle Glen
-STR_PARK    :얌전한 골짜기
+STR_SCNR    :잔잔한 골짜기
+STR_PARK    :Gentle Glen
 STR_DTLS    :이 지역의 주민들은 격렬하지 않고 얌전한 놀이기구를 선호하기 때문에 이 공원을 그들의 취향에 맞게 확장해보세요.
 
 <Jolly Jungle>
-STR_SCNR    :Jolly Jungle
-STR_PARK    :즐거운 정글
+STR_SCNR    :호쾌한 정글
+STR_PARK    :Jolly Jungle
 STR_DTLS    :정글 속 깊은 곳에 놀이공원으로 탈바꿈할 수 있는 넓은 대지가 있습니다.
 
 <Hydro Hills>
-STR_SCNR    :Hydro Hills
-STR_PARK    :하이드로 언덕
+STR_SCNR    :호수 동산
+STR_PARK    :Hydro Hills
 STR_DTLS    :몇 개의 호수를 기반으로 새로운 공원을 건설할 수 있습니다.
 
 <Sprightly Park>
-STR_SCNR    :Sprightly Park
-STR_PARK    :활기 넘치는 공원
+STR_SCNR    :활기충만 공원
+STR_PARK    :Sprightly Park
 STR_DTLS    :이 오래된 공원에는 아주 역사적인 놀이기구가 많이 있지만 심각한 적자에 시달리고 있습니다.
 
 <Magic Quarters>
-STR_SCNR    :Magic Quarters
-STR_PARK    :매직 쿼터
+STR_SCNR    :마법의 4등분
+STR_PARK    :Magic Quarters
 STR_DTLS    :비어있는 넓은 지역의 일부분을 아름다운 풍경의 테마파크로 개발될 준비가 되었습니다.
 
 <Fruit Farm>
-STR_SCNR    :Fruit Farm
-STR_PARK    :과일 농장
+STR_SCNR    :과일 농장
+STR_PARK    :Fruit Farm
 STR_DTLS    :무성한 과일 농장에 모형 기차를 건설해서 수익을 극대화하고 있습니다. 여러분의 임무는 이 농장을 최고의 놀이공원으로 만드는 것입니다.
 
 <Butterfly Dam>
-STR_SCNR    :Butterfly Dam
-STR_PARK    :나비 댐
+STR_SCNR    :나비 댐
+STR_PARK    :Butterfly Dam
 STR_DTLS    :댐 주변 지역을 놀이공원으로 개발할 수 있습니다.
 
 <Coaster Canyon>
-STR_SCNR    :Coaster Canyon
-STR_PARK    :코스터 협곡
+STR_SCNR    :코스터 협곡
+STR_PARK    :Coaster Canyon
 STR_DTLS    :광대한 협곡을 테마파크로 개발할 수 있습니다.
 
 <Thunderstorm Park>
-STR_SCNR    :Thunderstorm Park
-STR_PARK    :폭풍우 공원
+STR_SCNR    :폭풍우 공원
+STR_PARK    :Thunderstorm Park
 STR_DTLS    :날씨가 너무 습해서 거대한 피라미드를 짓고 몇몇 놀이기구를 그 속에 두기로 했습니다.
 
 <Harmonic Hills>
-STR_SCNR    :Harmonic Hills
-STR_PARK    :조화로운 언덕
+STR_SCNR    :자연친화 언덕
+STR_PARK    :Harmonic Hills
 STR_DTLS    :지역 당국은 이 공원에서 나무 높이 이상의 건설을 허용하지 않습니다.
 
 <Roman Village>
-STR_SCNR    :Roman Village
-STR_PARK    :로마의 마을
+STR_SCNR    :로마식 마을
+STR_PARK    :Roman Village
 STR_DTLS    :이 로마 스타일의 테마파크에 놀이기구와 롤러코스터를 추가해서 더욱 발전시켜보세요.
 
 <Swamp Cove>
-STR_SCNR    :Swamp Cove
-STR_PARK    :습지 골짜기
+STR_SCNR    :늪지대 골짜기
+STR_PARK    :Swamp Cove
 STR_DTLS    :몇 개의 작은 섬에 부분 부분 건설된 이 공원에는 이미 중앙에 한 쌍의 거대한 롤러코스터가 있습니다.
 
 <Adrenaline Heights>
-STR_SCNR    :Adrenaline Heights
-STR_PARK    :아드레날린 언덕
+STR_SCNR    :아드레날린 언덕
+STR_PARK    :Adrenaline Heights
 STR_DTLS    :격렬한 스릴을 즐기는 사람들을 위한 공원을 건설하세요.
 
 <Utopia Park>
-STR_SCNR    :Utopia Park
-STR_PARK    :유토피아 공원
+STR_SCNR    :유토피아 공원
+STR_PARK    :Utopia Park
 STR_DTLS    :사막 한가운데의 오아시스에 놀이공원을 건설해보세요.
 
 <Rotting Heights>
-STR_SCNR    :Rotting Heights
-STR_PARK    :썩어버린 언덕
+STR_SCNR    :퇴락하는 언덕
+STR_PARK    :Rotting Heights
 STR_DTLS    :지나치게 성장해서 황폐화되어버린 이 곳을 다시 멋진 공원으로 바꿀 수 있습니까?
 
 <Fiasco Forest>
-STR_SCNR    :Fiasco Forest
-STR_PARK    :실패한 숲
+STR_SCNR    :엉망진창 숲
+STR_PARK    :Fiasco Forest
 STR_DTLS    :위험하고 잘못 설계된 놀이기구가 많이 있습니다. 공원을 둘러보고 문제를 수정할 시간과 예산이 매우 부족합니다.
 
 <Pickle Park>
-STR_SCNR    :Pickle Park
-STR_PARK    :피클 공원
+STR_SCNR    :짠지 공원
+STR_PARK    :Pickle Park
 STR_DTLS    :지역 당국에서는 광고나 홍보를 허용하지 않으므로 이 공원은 사람들의 입을 통해서만 알릴 수 있습니다.
 
 <Giggle Downs>
-STR_SCNR    :Giggle Downs
-STR_PARK    :웃기는 구릉 지대
+STR_SCNR    :낄낄 구릉지
+STR_PARK    :Giggle Downs
 STR_DTLS    :이 넓은 공원의 중앙에는 네 쌍둥이 스티플체이스 놀이기구가 있습니다.
 
 <Mineral Park>
-STR_SCNR    :Mineral Park
-STR_PARK    :광물 공원
+STR_SCNR    :광물채석 공원
+STR_PARK    :Mineral Park
 STR_DTLS    :이 버려진 채석장을 스릴을 찾는 사람들을 유혹할만한 장소로 바꿔보세요.
 
 <Coaster Crazy>
-STR_SCNR    :Coaster Crazy
-STR_PARK    :미친 코스터
+STR_SCNR    :미친 코스터
+STR_PARK    :Coaster Crazy
 STR_DTLS    :이 산악 지대에 다양한 롤러코스터를 건설해보세요. 예산은 한정되어 있지만 시간은 제한이 없습니다.
 
 <Urban Park>
-STR_SCNR    :Urban Park
-STR_PARK    :도시 공원
+STR_SCNR    :도심 공원
+STR_PARK    :Urban Park
 STR_DTLS    :이 작은 공원은 이 도시뿐만 아니라 근교 도시의 주민들에게까지 인기를 모으고 있습니다.
 
 <Geoffrey Gardens>
-STR_SCNR    :Geoffrey Gardens
-STR_PARK    :제프리의 정원
+STR_SCNR    :제프리의 정원
+STR_PARK    :Geoffrey Gardens
 STR_DTLS    :대규모의 정원 공원을 북적이는 놀이공원으로 바꿔야 합니다.
 
 
 ## Loopy Landscapes
 <Iceberg Islands>
-STR_SCNR    :Iceberg Islands
-STR_PARK    :빙산 섬
+STR_SCNR    :빙산 섬
+STR_PARK    :Iceberg Islands
 STR_DTLS    :빙산이 이 야심찬 놀이공원에 차가운 이미지를 더하고 있습니다.
 
 <Volcania>
-STR_SCNR    :Volcania
-STR_PARK    :볼케이니아
+STR_SCNR    :볼케니아 화산
+STR_PARK    :Volcania
 STR_DTLS    :이번 롤러코스터 건설 도전에서는 휴화산이 무대가 됩니다.
 
 <Arid Heights>
-STR_SCNR    :Arid Heights
-STR_PARK    :건조한 언덕
+STR_SCNR    :바짝 마른 언덕
+STR_PARK    :Arid Heights
 STR_DTLS    :아무런 재정적 제한 없는 상황에서, 지속적으로 손님들을 행복하게 만들 수 있는 공원을 사막에 건설해보세요.
 
 <Razor Rocks>
-STR_SCNR    :Razor Rocks
-STR_PARK    :날카로운 바위
+STR_SCNR    :칼날 바위
+STR_PARK    :Razor Rocks
 STR_DTLS    :여러분의 임무는 날카로운 바위 사이에 롤러코스터로 가득한 거대한 공원을 만드는 것입니다.
 
 <Crater Lake>
-STR_SCNR    :Crater Lake
-STR_PARK    :분화구 호수
+STR_SCNR    :분화구 호수
+STR_PARK    :Crater Lake
 STR_DTLS    :이 공원의 부지는 고대 분화구에 만들어진 커다란 호수입니다.
 
 <Vertigo Views>
-STR_SCNR    :Vertigo Views
-STR_PARK    :어지러운 풍경
+STR_SCNR    :아찔한 전망
+STR_PARK    :Vertigo Views
 STR_DTLS    :이 거대한 공원에는 이미 훌륭한 하이퍼코스터가 있습니다. 여러분의 임무는 그 매출을 아주 극대화시키는 것입니다.
 
 <Paradise Pier 2>
-STR_SCNR    :Paradise Pier 2
-STR_PARK    :파라다이스 부두 2
+STR_SCNR    :파라다이스 부두 2
+STR_PARK    :Paradise Pier 2
 STR_DTLS    :파라다이스 부두는 바다 위의 산책로를 확장했습니다. 여러분의 임무는 이 새로운 공간을 이용하여 공원을 확장하는 것 입니다.
 
 <Dragon's Cove>
-STR_SCNR    :Dragon's Cove
-STR_PARK    :용의 동굴
+STR_SCNR    :용의 동굴
+STR_PARK    :Dragon's Cove
 STR_DTLS    :이번 롤러코스터 건설 도전에서는 해안 동굴이 무대가 됩니다.
 
 <Good Knight Park>
-STR_SCNR    :Good Knight Park
-STR_PARK    :훌륭한 기사 공원
+STR_SCNR    :중세기사 공원
+STR_PARK    :Good Knight Park
 STR_DTLS    :한 쌍의 롤러코스터가 있는 성을 더 큰 놀이공원으로 발전시켜야 합니다.
 
 <Wacky Warren>
-STR_SCNR    :Wacky Warren
-STR_PARK    :괴짜 미로
+STR_SCNR    :괴짜 미로
+STR_PARK    :Wacky Warren
 STR_DTLS    :대부분의 보도와 롤러코스터가 지하에 있는 공원입니다.
 
 <Grand Glacier>
-STR_SCNR    :Grand Glacier
-STR_PARK    :웅장한 빙하
+STR_SCNR    :웅장한 빙하
+STR_PARK    :Grand Glacier
 STR_DTLS    :놀이공원으로 만들기 위해 당신에게 빙하가 가득한 계곡이 주어졌습니다.
 
 <Crazy Craters>
-STR_SCNR    :Crazy Craters
-STR_PARK    :미친 분화구
+STR_SCNR    :미친 분화구
+STR_PARK    :Crazy Craters
 STR_DTLS    :돈이 필요없는 머나먼 세상에서, 여러분은 사람들을 행복하게 해줄 놀이공원을 건설해야 합니다.
 
 <Dusty Desert>
-STR_SCNR    :Dusty Desert
-STR_PARK    :먼지투성이 사막
+STR_SCNR    :황량한 사막
+STR_PARK    :Dusty Desert
 STR_DTLS    :이 사막 공원에 있는 다섯 대의 롤러코스터를 완성하십시오.
 
 <Woodworm Park>
-STR_SCNR    :Woodworm Park
-STR_PARK    :나무좀벌레 공원
+STR_SCNR    :송충이 공원
+STR_PARK    :Woodworm Park
 STR_DTLS    :이 역사적인 공원에는 오직 오래된 스타일의 놀이기구만을 건설할 수 있습니다.
 
 <Icarus Park>
-STR_SCNR    :Icarus Park
-STR_PARK    :이카루스 공원
+STR_SCNR    :이카루스 공원
+STR_PARK    :Icarus Park
 STR_DTLS    :이 외계 공원을 개발하여 최대한의 매출을 올리세요.
 
 <Sunny Swamps>
-STR_SCNR    :Sunny Swamps
-STR_PARK    :맑은 늪지
+STR_SCNR    :태양의 늪지
+STR_PARK    :Sunny Swamps
 STR_DTLS    :이 잘 구성된 놀이공원에는 이미 몇 개의 놀이기구가 있지만, 아직 확장할 수 있는 공간은 충분합니다.
 
 <Frightmare Hills>
-STR_SCNR    :Frightmare Hills
-STR_PARK    :무시무시한 언덕
+STR_SCNR    :악몽의 언덕
+STR_PARK    :Frightmare Hills
 STR_DTLS    :거대한 롤러코스터가 공원 가운데에 있는 무시무시한 공원
 
 <Thunder Rocks>
-STR_SCNR    :Thunder Rocks
-STR_PARK    :천둥 바위들
+STR_SCNR    :천둥 쌍바위
+STR_PARK    :Thunder Rocks
 STR_DTLS    :놀이공원의 기초가 될 두 개의 커다란 바위가 사막의 모래 위에 솟아 있습니다.
 
 <Octagon Park>
-STR_SCNR    :Octagon Park
-STR_PARK    :팔각형 공원
+STR_SCNR    :팔각 공원
+STR_PARK    :Octagon Park
 STR_DTLS    :이 거대한 공원에 여러분은 10개의 거대한 롤러코스터를 디자인하고 만들어야 합니다.
 
 <Pleasure Island>
-STR_SCNR    :Pleasure Island
-STR_PARK    :즐거운 섬
+STR_SCNR    :쾌락의 섬
+STR_PARK    :Pleasure Island
 STR_DTLS    :길고 가느다란 섬에서 롤러코스터 건설에 도전해보세요.
 
 <Icicle Worlds>
-STR_SCNR    :Icicle Worlds
-STR_PARK    :고드름 세상
+STR_SCNR    :고드름 세상
+STR_PARK    :Icicle Worlds
 STR_DTLS    :얼음으로 덮인 땅을 번창하는 놀이공원으로 바꿔보세요.
 
 <Southern Sands>
-STR_SCNR    :Southern Sands
-STR_PARK    :남부 사막
+STR_SCNR    :남부 모래사막
+STR_PARK    :Southern Sands
 STR_DTLS    :빈틈없이 세워진 롤러코스터가 있는 사막 공원이 확장을 위해 여러분에게 주어졌습니다.
 
 <Tiny Towers>
-STR_SCNR    :Tiny Towers
-STR_PARK    :조그마한 탑
+STR_SCNR    :작은 기둥들
+STR_PARK    :Tiny Towers
 STR_DTLS    :이 조그마한 공원에 있는 다섯 개의 미완성된 롤러코스터를 모두 완성해야 합니다.
 
 <Nevermore Park>
-STR_SCNR    :Nevermore Park
-STR_PARK    :네버모어 공원
+STR_SCNR    :네버모어 공원
+STR_PARK    :Nevermore Park
 STR_DTLS    :공원 주변에 참신한 운송수단이 설치된 거대한 공원
 
 <Pacifica>
-STR_SCNR    :Pacifica
-STR_PARK    :패시피카
+STR_SCNR    :패시피카 섬
+STR_PARK    :Pacifica
 STR_DTLS    :놀이공원으로 개발하기 위해 이 거대한 섬이 여러분에게 주어졌습니다.
 
 <Urban Jungle>
-STR_SCNR    :Urban Jungle
-STR_PARK    :도시의 정글
+STR_SCNR    :도시의 정글
+STR_PARK    :Urban Jungle
 STR_DTLS    :버려진 거대한 마천루 빌딩은 놀이공원 개발자에게는 독특한 기회일 것입니다.
 
 <Terror Town>
-STR_SCNR    :Terror Town
-STR_PARK    :공포스러운 마을
+STR_SCNR    :무서운 마을
+STR_PARK    :Terror Town
 STR_DTLS    :놀이공원으로 개발하기 위해 이 도시 지역이 여러분에게 주어졌습니다.
 
 <Megaworld Park>
-STR_SCNR    :Megaworld Park
-STR_PARK    :대세상 공원
+STR_SCNR    :거대세상 공원
+STR_PARK    :Megaworld Park
 STR_DTLS    :이미 놀이기구로 가득한 거대한 공원을 확장해야 합니다.
 
 <Venus Ponds>
-STR_SCNR    :Venus Ponds
-STR_PARK    :비너스의 연못
+STR_SCNR    :비너스의 연못
+STR_PARK    :Venus Ponds
 STR_DTLS    :멀리 떨어진 행성에 있는 이 지역을 놀이공원으로 바꿔야 합니다.
 
 <Micro Park>
-STR_SCNR    :Micro Park
-STR_PARK    :마이크로 공원
+STR_SCNR    :손바닥 공원
+STR_PARK    :Micro Park
 STR_DTLS    :세상에서 가장 작지만 수익이 좋은 공원을 만들어보세요.
 
 ## Real Parks from RCT1
 # None of them had details
 <Alton Towers>
-STR_SCNR    :Alton Towers
-STR_PARK    :알턴 타워스
+STR_SCNR    :알턴 타워스
+STR_PARK    :Alton Towers
 STR_DTLS    :
 
 <Heide-Park>
-STR_SCNR    :Heide-Park
-STR_PARK    :하이데 파르크
+STR_SCNR    :하이데 파르크
+STR_PARK    :Heide-Park
 STR_DTLS    :
 
 <Blackpool Pleasure Beach>
-STR_SCNR    :Blackpool Pleasure Beach
-STR_PARK    :블랙풀 플레저 비치
+STR_SCNR    :블랙풀 플레저 비치
+STR_PARK    :Blackpool Pleasure Beach
 STR_DTLS    :
 
 ## Misc parks from RCT1
 # Had no details
 <Fort Anachronism>
-STR_SCNR    :Fort Anachronism
-STR_PARK    :역사적인 성채
+STR_SCNR    :시대착오 성채
+STR_PARK    :Fort Anachronism
 STR_DTLS    :
+
+###########
+# Scenery #
+###########
+
+## Start OpenRCT2 Official
+[XXBBBR01]
+STR_NAME    :Base Block
+
+[TTRFTL02]
+STR_NAME    :Roof
+
+[TTRFTL03]
+STR_NAME    :Roof
+
+[TTRFTL04]
+STR_NAME    :Roof
+
+[TTRFTL07]
+STR_NAME    :Roof
+
+[TTRFTL08]
+STR_NAME    :Roof
+
+[TTPIRF02]
+STR_NAME    :Roof
+
+[TTPIRF03]
+STR_NAME    :Roof
+
+[TTPIRF04]
+STR_NAME    :Roof
+
+[TTPIRF05]
+STR_NAME    :Roof
+
+[TTPIRF07]
+STR_NAME    :Roof
+
+[TTPIRF08]
+STR_NAME    :Roof
+
+[MG-PRAR]
+STR_NAME    :Wall with Passageway
+
+[TTRFWD01]
+STR_NAME    :Roof
+
+[TTRFWD02]
+STR_NAME    :Roof
+
+[TTRFWD03]
+STR_NAME    :Roof
+
+[TTRFWD04]
+STR_NAME    :Roof
+
+[TTRFWD05]
+STR_NAME    :Roof
+
+[TTRFWD06]
+STR_NAME    :Roof
+
+[TTRFWD07]
+STR_NAME    :Roof
+
+[TTRFWD08]
+STR_NAME    :Roof
+
+[TTRFGL01]
+STR_NAME    :Glass Roof
+
+[TTRFGL02]
+STR_NAME    :Glass Roof
+
+[TTRFGL03]
+STR_NAME    :Glass Roof
+
+[ACWW33]
+STR_NAME    :Wooden Post Wall
+
+[ACWWF32]
+STR_NAME    :Wooden Post Wall
+
+## End OpenRCT2 Official
 
 ###############################################################################
 ## RCT2 Scenarios
 ###############################################################################
 <Alpine Adventures>
 STR_SCNR    :알프스의 모험
-STR_PARK    :알프스의 모험
+STR_PARK    :Alpine Adventures
 STR_DTLS    :작은 산악 스키 리조트를 눈 테마 놀이공원으로 바꿔보세요.
 
 <Amity Airfield>
-STR_SCNR    :우호 비행장
-STR_PARK    :우호 비행장
+STR_SCNR    :아미티 비행장
+STR_PARK    :Amity Airfield
 STR_DTLS    :이 버려진 비행장에 날아다니는 것을 주제로 한 놀이공원을 만들어보세요.
 
 <Botany Breakers>
-STR_SCNR    :보타니의 하얀 파도
-STR_PARK    :보타니의 하얀 파도
+STR_SCNR    :수목원 휴양지
+STR_PARK    :Botany Breakers
 STR_DTLS    :당신의 목표는 이 파라다이스 섬에 고수익 공원을 만드는 것입니다.
 
 <Build your own Six Flags Belgium>
 STR_SCNR    :식스 플래그 벨기에 건설
-STR_PARK    :식스 플래그 벨기에
+STR_PARK    :Six Flags Belgium
 STR_DTLS    :이 유럽의 식스 플래그 공원을 당신만의 스타일으로 만들어 보세요.
 
 <Build your own Six Flags Great Adventure>
 STR_SCNR    :식스 플래그 그레이트 어드벤처 건설
-STR_PARK    :그레이트 어드벤처
+STR_PARK    :Six Flags Great Adventure
 STR_DTLS    :이 식스 플래그 공원을 당신의 디자인 기술로 재탄생시키십시오.
 
 <Build your own Six Flags Holland>
 STR_SCNR    :식스 플래그 네덜란드 건설
-STR_PARK    :식스 플래그 네덜란드
+STR_PARK    :Six Flags Holland
 STR_DTLS    :이 유럽의 식스 플래그 공원을 당신이 원하는 대로 만들어 보세요.
 
 <Build your own Six Flags Magic Mountain>
 STR_SCNR    :식스 플래그 매직 마운틴 건설
-STR_PARK    :매직 마운틴
+STR_PARK    :Six Flags Magic Mountain
 STR_DTLS    :이 대형 식스 플래그 공원을 당신만의 스타일로 만들어 보세요.
 
 <Build your own Six Flags over Texas>
 STR_SCNR    :식스 플래그 오버 텍사스 건설
-STR_PARK    :오버 텍사스
+STR_PARK    :Six Flags over Texas
 STR_DTLS    :이 식스 플래그 공원에 처음부터 놀이기구를 건설하여 시작해보세요.
 
 <Build your own Six Flags Park>
 STR_SCNR    :당신만의 식스 플래그 공원 건설
-STR_PARK    :식스 플래그
+STR_PARK    :Six Flags
 STR_DTLS    :당신만의 디자인대로 식스 플래그 공원을 만드세요. 다른 식스 플래그 공원의 놀이기구를 짓거나 자신만의 놀이기구를 만들어보세요.
 
 <Bumbly Bazaar>
-STR_SCNR    :북적이는 시장
-STR_PARK    :북적이는 시장
+STR_SCNR    :아담한 전통시장
+STR_PARK    :Bumbly Bazaar
 STR_DTLS    :이 작은 시장에 고객들을 유치하기 위해 놀이기구와 롤러코스터를 지어 상점과 가게의 수익을 늘리는 것이 목표입니다.
 
 <Crazy Castle>
 STR_SCNR    :이상한 성
-STR_PARK    :이상한 성
+STR_PARK    :Crazy Castle
 STR_DTLS    :당신은 큰 성을 물려받았습니다. 이제 이 성을 작은 놀이공원으로 바꾸는 것이 당신이 해야할 일입니다.
 
 <Dusty Greens>
-STR_SCNR    :먼지투성이 그린
-STR_PARK    :먼지투성이 그린
+STR_SCNR    :황량한 골프장
+STR_PARK    :Dusty Greens
 STR_DTLS    :사막의 고속도로 교차로 근처에 있는 먼지투성이 그린을 작은 골프 리조트에서 번화한 놀이공원으로 개발할 수 있는 기회가 생겼습니다.
 
 <Electric Fields>
-STR_SCNR    :일렉트릭 농장
-STR_PARK    :일렉트릭 농장
+STR_SCNR    :찌릿찌릿 농장
+STR_PARK    :Electric Fields
 STR_DTLS    :당신은 작은 농장을 물려받았습니다. 각 지역과 농장의 건물 사이에 작은 놀이공원을 건설하는 것이 당신의 목표입니다.
 
 <Extreme Heights>
 STR_SCNR    :극한의 높이
-STR_PARK    :극한의 높이
+STR_PARK    :Extreme Heights
 STR_DTLS    :재정적 제한이 없는 이 사막 공원을 사람들이 극한의 스릴을 찾는 곳으로 확장하는 것이 당신의 목표입니다.
 
 <Factory Capers>
 STR_SCNR    :공장 놀이터
-STR_PARK    :공장 놀이터
+STR_PARK    :Factory Capers
 STR_DTLS    :버려진 공장 지대에 기계를 주제로 한 놀이공원을 만들어보세요.
 
 <Fungus Woods>
-STR_SCNR    :버섯 숲
-STR_PARK    :버섯 숲
+STR_SCNR    :버섯의 숲
+STR_PARK    :Fungus Woods
 STR_DTLS    :당신의 목표는 오직 오래된 나무 놀이기구만을 사용해서 버섯 숲에 번화한 놀이공원을 만드는 것입니다.
 
 <Ghost Town>
 STR_SCNR    :유령 도시
-STR_PARK    :유령 도시
+STR_PARK    :Ghost Town
 STR_DTLS    :대형 놀이공원 회사에 고용된 당신의 임무는 버려진 광산촌 주위에 대형 롤러코스터 공원을 건설하는 것입니다.
 
 <Gravity Gardens>
-STR_SCNR    :그래비티 정원
-STR_PARK    :그래비티 정원
+STR_SCNR    :떨어지는 정원
+STR_PARK    :Gravity Gardens
 STR_DTLS    :당신의 목표는 아름다운 그래비티 정원에 롤러코스터 공원을 만드는 것입니다. 다른 놀이기구는 안 됩니다. 롤러코스터만 만드세요!
 
 <Infernal Views>
 STR_SCNR    :지옥 풍경
-STR_PARK    :지옥 풍경
+STR_PARK    :Infernal Views
 STR_DTLS    :마그마 강이 흐르는 용암으로 위태롭게 둘러싸인 공원입니다.
 
 <Lucky Lake>
 STR_SCNR    :행운의 호수
-STR_PARK    :행운의 호수
+STR_PARK    :Lucky Lake
 STR_DTLS    :자본에는 제한이 없지만 호수가 있는 곳이기 때문에 이 공원을 확장하고 관리하는 건 많이 힘들 것입니다.
 
 <Rainbow Summit>
-STR_SCNR    :무지개 정상
-STR_PARK    :무지개 정상
+STR_SCNR    :무지개 꼭대기
+STR_PARK    :Rainbow Summit
 STR_DTLS    :이 공원은 산 허리에 만들어야 하고, 높은 건물은 지을 수 없습니다. 공원을 확장하여 성공할 자신이 있습니까?
 
 <Six Flags Belgium>
 STR_SCNR    :식스 플래그 벨기에
-STR_PARK    :식스 플래그 벨기에
+STR_PARK    :Six Flags Belgium
 STR_DTLS    :직접 팔을 걷어붙이고 이 식스 플래그 공원을 개선해보세요.
 
 <Six Flags Great Adventure>
 STR_SCNR    :식스 플래그 그레이트 어드벤처
-STR_PARK    :그레이트 어드벤처
+STR_PARK    :Six Flags Great Adventure
 STR_DTLS    :식스 플래그의 빠진 놀이기구를 건설해보거나, 공원을 개선하기 위해 자신만의 놀이기구를 건설해보세요! 하지만 공원에 더 많은 손님을 모아야 한다는 궁극적인 목표를 잊어서는 안됩니다!
 
 <Six Flags Holland>
 STR_SCNR    :식스 플래그 네덜란드
-STR_PARK    :식스 플래그 네덜란드
+STR_PARK    :Six Flags Holland
 STR_DTLS    :직접 팔을 걷어붙이고 이 식스 플래그 공원을 개선해보세요.
 
 <Six Flags Magic Mountain>
 STR_SCNR    :식스 플래그 매직 마운틴
-STR_PARK    :매직 마운틴
+STR_PARK    :Six Flags Magic Mountain
 STR_DTLS    :식스 플래그의 빠진 놀이기구를 건설해보거나, 공원을 개선하기 위해 자신만의 놀이기구를 건설해보세요! 하지만 대출을 갚고 공원 가치를 높여야 한다는 궁극적인 목표를 잊으면 안됩니다!
 
 <Six Flags over Texas>
 STR_SCNR    :식스 플래그 오버 텍사스
-STR_PARK    :오버 텍사스
+STR_PARK    :Six Flags over Texas
 STR_DTLS    :식스 플래그의 빠진 놀이기구를 건설해보거나, 공원을 개선하기 위해 자신만의 놀이기구를 건설해보세요! 하지만 공원에 더 많은 손님을 모아야 한다는 궁극적인 목표를 잊어서는 안됩니다!
 
 ###############################################################################
@@ -5150,160 +5235,160 @@ STR_DTLS    :식스 플래그의 빠진 놀이기구를 건설해보거나, 공�
 ###############################################################################
 <Africa - African Diamond Mine>
 STR_SCNR    :아프리카 - 아프리카 다이아몬드 광산
-STR_PARK    :아프리카의 광산
+STR_PARK    :Mines of Africa
 STR_DTLS    :다이아몬드 폐광을 물려받은 당신은 값비싼 다이아몬드를 발견했고 그 판매 수익으로 세계 일류의 테마파크를 짓기로 결심했습니다.
 
 <Africa - Oasis>
 STR_SCNR    :아프리카 - 오아시스
-STR_PARK    :신기루의 광기
+STR_PARK    :Mirage Madness
 STR_DTLS    :사막에서 놀이공원을 짓기에 아주 적당한 오아시스를 발견했습니다. 오아시스로 가는 교통편은 이미 존재합니다.
 
 <Africa - Victoria Falls>
 STR_SCNR    :아프리카 - 빅토리아 폭포
-STR_PARK    :폭포 너머
+STR_PARK    :Over The Edge
 STR_DTLS    :공원을 운영하기 충분하고 값싼 전기를 생산하는 수력 발전 댐이 지어졌습니다. 댐을 건설하느라 진 빚을 갚기 위해 높은 가치의 놀이공원을 지어야 합니다.
 
 <Antarctic - Ecological Salvage>
-STR_SCNR    :남극 - 버려진 환경 복구
-STR_PARK    :얼음에 뒤덮인 모험
+STR_SCNR    :남극 - 파괴된 환경복구
+STR_PARK    :Icy Adventures
 STR_DTLS    :환경부에서 눈꼴사납고 낡은 정유 시설을 최고의 관광 명소로 만들어달라고 합니다. 땅값은 싸지만 대출 이자는 높습니다. 오래된 건물은 고철로 팔아 버릴 수 있습니다.
 
 <Asia - Great Wall of China Tourism Enhancement>
-STR_SCNR    :아시아 - 중국 만리장성의 관광 진흥
-STR_PARK    :만리장성
+STR_SCNR    :아시아 - 중국 만리장성 관광진흥
+STR_PARK    :Great Wall of China
 STR_DTLS    :관광 당국이 만리장성 주변의 땅에 놀이공원을 지어서 관광객 수를 늘리기로 결정했습니다. 돈이 문제가 아니군요!
 
 <Asia - Japanese Coastal Reclaim>
-STR_SCNR    :아시아 - 일본 연안 간척
-STR_PARK    :오키나와 해변
+STR_SCNR    :아시아 - 일본 해안 간척지
+STR_PARK    :Okinawa Coast
 STR_DTLS    :기존 공원은 이미 공간이 모자랍니다. 대출을 받아서 바다로 확장해나갈 수밖에 없습니다. 지진 우려와 약한 기반을 이유로 건설 높이가 제한됩니다.
 
 <Asia - Maharaja Palace>
 STR_SCNR    :아시아 - 마하라자 궁전
-STR_PARK    :마하라자 공원
+STR_PARK    :Park Maharaja
 STR_DTLS    :인도의 왕에게서 국민들에게 즐길 거리를 만들어달라는 임무를 받았습니다. 마하라자 궁전을 연상시키는 공원을 만들어보세요.
 
 <Australasia - Ayers Rock>
-STR_SCNR    :오스트레일리아 - 에어즈 록
-STR_PARK    :에어즈 어드벤처
+STR_SCNR    :호주 - 에어즈 락
+STR_PARK    :Ayers Adventure
 STR_DTLS    :문화 인식 프로그램의 일환으로, 오스트레일리아 원주민들을 도와서 공원을 개발하려 합니다. 원주민들의 독특한 문화유산을 알리기 위해 많은 관광객을 모아야 합니다.
 
 <Australasia - Fun at the Beach>
-STR_SCNR    :오스트레일리아 - 해변의 즐거움
-STR_PARK    :해변의 바베큐 파티
+STR_SCNR    :호주 - 해변의 즐거움
+STR_PARK    :Beach Barbecue Blast
 STR_DTLS    :근처 지역 사업가의 해안 공원이 파산해버렸습니다. 이미 작은 공원을 운영하고 있는 당신은 건설사로부터 그 공원을 구입하였습니다. 두 공원을 합쳐 크게 사업을 확장해보세요.
 
 <Europe - European Cultural Festival>
 STR_SCNR    :유럽 - 유럽 문화 축제
-STR_PARK    :유럽의 축제
+STR_PARK    :European Extravaganza
 STR_DTLS    :유럽 문화 축제의 경영권을 확보한 당신은 이제 유럽 연합의 보조금을 갚기 위해 현재의 유럽 의회 임기가 끝날 때까지 손님을 늘려야합니다.
 
 <Europe - Renovation>
-STR_SCNR    :유럽 - 혁신
-STR_PARK    :잿더미를 딛고
+STR_SCNR    :유럽 - 재단장
+STR_PARK    :From The Ashes
 STR_DTLS    :방치되어 있는 낡은 공원이 있습니다. 이 공원이 과거에 누렸던 영광을 재현하기 위해 유럽 연합의 허가를 받았습니다! 허가를 받은 만큼 공원을 혁신해서 보답하세요.
 
 <N. America - Extreme Hawaiian Island>
-STR_SCNR    :북 아메리카 - 최고의 하와이 섬
-STR_PARK    :왁자지껄 와이키키
+STR_SCNR    :북아메리카 - 극한의 하와이 섬
+STR_PARK    :Wacky Waikiki
 STR_DTLS    :하와이 주민들이 이제 파도타기가 지겨워져서 좀 더 자극적인 뭔가를 원하고 있습니다. 주민들도 만족시키면서 이 지역의 관광객들이 찾아오고 싶어하는 공원을 만드세요.
 
 <North America - Grand Canyon>
-STR_SCNR    :북 아메리카 - 그랜드 캐니언
-STR_PARK    :불행의 계곡
+STR_SCNR    :북아메리카 - 그랜드 캐니언
+STR_PARK    :Canyon Calamities
 STR_DTLS    :이 아름답지만 제한적인 공간에 공원을 만들어야 합니다. 미국 원주민에게서 반대편 땅을 구입할 수 있습니다. 줄어들고 있는 마을 인구를 유지하기 위해서라도 목표를 달성해야 합니다.
 
 <North America - Rollercoaster Heaven>
-STR_SCNR    :북 아메리카 - 롤러코스터 천국
-STR_PARK    :롤러코스터 천국
+STR_SCNR    :북아메리카 - 롤러코스터 천국
+STR_PARK    :Rollercoaster Heaven
 STR_DTLS    :당신은 긴 휴식기를 가지는 동안 이 도시 공원을 롤러코스터 천국으로 바꾸고자 하는 성공한 사업 거물입니다. 돈은 문제가 되지 않는군요!
 
 <South America - Inca Lost City>
-STR_SCNR    :남 아메리카 - 잉카의 잊혀진 도시
-STR_PARK    :잊혀진 도시의 발견자
+STR_SCNR    :남아메리카 - 잉카의 잊혀진 도시
+STR_PARK    :Lost City Founder
 STR_DTLS    :이 지역의 관광산업을 보다 활기차게 만들기 위해서는 주변 환경과 잘 어울리는 공원을 지어야 합니다. 높이 제한이 있습니다.
 
 <South America - Rain Forest Plateau>
-STR_SCNR    :남 아메리카 - 열대우림 고원
-STR_PARK    :열대우림 고원
+STR_SCNR    :남아메리카 - 열대우림 고원
+STR_PARK    :Rainforest Romp
 STR_DTLS    :소중한 열대우림 속의 제한된 공간만을 받았습니다. 이곳의 벌목 산업을 대신할 수 있는 방법을 제공하기 위해 기존의 빈 공간을 최대한 많이 활용해야 합니다.
 
 <South America - Rio Carnival>
-STR_SCNR    :남 아메리카 - 리오 축제
-STR_PARK    :슈거로프 해안
+STR_SCNR    :남아메리카 - 리오 축제
+STR_PARK    :Sugarloaf Shores
 STR_DTLS    :리오 근처의 작은 공원을 운영하고 있는데 은행이 대출금을 조기 회수하려 합니다. 때이른 빚 독촉을 갚기 위해서 빨리 돈을 벌어야 합니다.
 
 ###############################################################################
 ## Time Twister Scenarios
 ###############################################################################
 <Dark Age - Castle>
-STR_SCNR    :암흑시대 - 성
-STR_PARK    :클리프사이드 성
+STR_SCNR    :암흑시대 - 중세 성
+STR_PARK    :Cliffside Castle
 STR_DTLS    :이 지역의 전투 재현 단체는 자신들의 취미를 진지하게 생각하고 있습니다. 그들은 당신에게 클리프사이드 성 부지에 암흑시대 테마파크를 건설해달라고 요청해왔습니다.
 
 <Dark Age - Robin Hood>
 STR_SCNR    :암흑 시대 - 로빈 후드
-STR_PARK    :셔우드 숲
+STR_PARK    :Sherwood Forest
 STR_DTLS    :부자들의 재산을 빼앗아 필요한 사람들에게 나누어주기 위해서 당신과 수하들은 셔우드 숲에 놀이공원을 만들기로 결정했습니다.
 
 <Future - First Encounters>
-STR_SCNR    :미래 - 첫 만남
-STR_PARK    :외계인의 축제
+STR_SCNR    :미래 - 최초 조우
+STR_PARK    :Extraterrestrial Extravaganza
 STR_DTLS    :먼 행성에서 생명체가 발견되었습니다. 외계인을 주제로 한 놀이공원을 만들어서 전에 없던 뜨거운 관심을 받아 돈을 벌어보세요.
 
 <Future - Future World>
 STR_SCNR    :미래 - 미래 세계
-STR_PARK    :제미니 시티
+STR_PARK    :Gemini City
 STR_DTLS    :당신의 미래에 대한 독창적이고 이상적인 시각을 보여줄 때입니다. 첨단의 매력이 느껴지는 미래의 공원 디자인을 제안해봅시다.
 
 <Mythological - Animatronic Film Set>
-STR_SCNR    :신화 - 영화 세트장
-STR_PARK    :애니매트로닉 앤틱스
+STR_SCNR    :신화 - 자동인형 영화 세트
+STR_PARK    :Animatronic Antics
 STR_DTLS    :이번 임무는 옛 영화 세트장에 설립된 기존 테마파크를 운영하고 발전시키는 것입니다. 흑백 스크린에 신화 속 인물을 옮겨놓은 스톱 모션 애니메이션의 선구자들에게 이 공원을 헌정합시다.
 
 <Mythological - Cradle of Civilisation>
 STR_SCNR    :신화 - 문명의 요람
-STR_PARK    :신화의 광기
+STR_PARK    :Mythological Madness
 STR_DTLS    :특별한 고고학적 가치를 가진 섬을 소유하게 되었습니다. 이 지역의 풍부한 신화적 유산을 기반으로 한 테마파크를 건설해서 유산 보존 기금을 마련하기로 결정했습니다.
 
 <Prehistoric - After the Asteroid>
 STR_SCNR    :선사시대 - 소행성 충돌 후
-STR_PARK    :크레이터 대학살
+STR_PARK    :Crater Carnage
 STR_DTLS    :당신은 오래된 운석공을 소유하고 있습니다. 기업가 정신을 발휘한 당신은 운석 테마 파크를 건설해서 쓸모없어 보이는 이 땅을 엄청난 행운의 땅으로 바꾸기로 결심했습니다.
 
 <Prehistoric - Jurassic Safari>
 STR_SCNR    :선사시대 - 쥐라기 사파리
-STR_PARK    :코스터사우르스
+STR_PARK    :Coastersaurus
 STR_DTLS    :당신은 쥐라기 시대 놀이공원을 건설하는 임무를 받았습니다. 색다른 식물과 동물 전시장에 관객이 쉽게 접근할 수 있도록 하려면, 계곡을 가로지르는 놀이기구를 만들어야 할 것입니다.
 
 <Prehistoric - Stone Age>
 STR_SCNR    :선사시대 - 석기시대
-STR_PARK    :돌무더기 산책
+STR_PARK    :Rocky Rambles
 STR_DTLS    :고속도로 개발자들을 막고 고대 열석을 보호하기 위해, 석기 시대 테마파크를 건설하여 수익을 내야 합니다. 하지만 사람이 살기 조금 힘든 곳인만큼 손님을 모으기가 어려울 것입니다.
 
 <Roaring Twenties - Prison Island>
 STR_SCNR    :광란의 20년대 - 감옥 섬
-STR_PARK    :앨커트래즈
+STR_PARK    :Alcatraz
 STR_DTLS    :주류 밀매자와 폭력범으로 득실대던 악명 높은 감옥 섬이 경매에 부쳐졌습니다. 이곳을 최고의 관광지로 바꾸기로 한 당신에게 돈은 신경 쓸 필요가 없네요.
 
 <Roaring Twenties - Schneider Cup>
-STR_SCNR    :광란의 20년대 - 슈나이더 컵
-STR_PARK    :슈나이더 해안
+STR_SCNR    :광란의 20년대 - 슈나이더 우승컵
+STR_PARK    :Schneider Shores
 STR_DTLS    :할아버지의 슈나이더 컵 우승 75주년이 얼마 남지 않았습니다. 당신은 할아버지의 업적을 기리기 위해 유명한 수상비행기 경주를 딴 놀이공원을 짓기로 했습니다.
 
 <Roaring Twenties - Skyscrapers>
 STR_SCNR    :광란의 20년대 - 마천루
-STR_PARK    :메트로폴리스
+STR_PARK    :Metropolis
 STR_DTLS    :당신은 도시 저층부 근처의 빈 공간을 갖게 되었습니다. 최대한 이익을 많이 얻기 위해, 20년대에 유행했던 아르데코식 건축물을 본딴 마천루 테마파크를 지어보세요.
 
 <Rock 'n' Roll - Flower Power>
 STR_SCNR    :로큰롤 - 사랑과 평화
-STR_PARK    :우드스톡
+STR_PARK    :Woodstock
 STR_DTLS    :매년 열리는 대형 음악 축제가 당신의 땅에서 열립니다. 최신 유행하는 놀이공원을 지어, 자유로운 영혼을 가진 관객들이 즐거워할 수 있게 만드세요.
 
 <Rock 'n' Roll - Rock 'n' Roll>
 STR_SCNR    :로큰롤 - 로큰롤
-STR_PARK    :로큰롤 부흥
+STR_PARK    :Rock 'n' Roll Revival
 STR_DTLS    :이 오래된 놀이공원은 더 나은 미래를 기대하고 있습니다. 소유자를 도와 이 공원을 복고풍의 로큰롤 공원으로 바꾸어 성공적인 장소로 변모시켜보세요.
 
 ###############################################################################
@@ -5311,5 +5396,5 @@ STR_DTLS    :이 오래된 놀이공원은 더 나은 미래를 기대하고 있
 ###############################################################################
 <Panda World>
 STR_SCNR    :판다 월드
-STR_PARK    :판다 월드
+STR_PARK    :Panda World
 STR_DTLS    :이 판다 테마의 공원에 놀이기구를 더 지어서 손님들을 더 끌어모으세요.
