@@ -3368,7 +3368,7 @@ STR_3357    :{WINDOW_COLOUR_2}Er du sikker på at du vil slette {STRING} permane
 STR_3358    :Kan ikke slette banedesign...
 STR_3359    :{BLACK}Ingen banedesign af denne type
 STR_3360    :Advarsel!
-STR_3361    :For mange banedesigns af denne type - nogle vil ikke blive vist.
+STR_3361    :For mange banedesigns af denne type - nogle designs vil ikke blive vist.
 STR_3362    :<removed string - do not use>
 STR_3363    :<removed string - do not use>
 STR_3364    :Avanceret
@@ -3456,266 +3456,266 @@ STR_3445    :Sæt patruljeområde
 STR_3446    :Anuller patruljeområde
 
 # New strings, cleaner
-STR_5120    :Finances
-STR_5121    :Research
-STR_5122    :Select forlystelser by track type (like in RCT1)
-STR_5123    :Renew forlystelser
+STR_5120    :Finanser
+STR_5121    :Forskning
+STR_5122    :Valg forlystelser efter spor type (som i RCT1)
+STR_5123    :Forny forlystelser
 STR_5124    :<removed string - do not use>
-STR_5125    :All destructible
-STR_5126    :Random title music
-STR_5127    :{SMALLFONT}{BLACK}While dragging, paint landscape instead of changing elevation
-STR_5128    :Selection size
-STR_5129    :Enter selection size between {COMMA16} and {COMMA16}
-STR_5130    :Map size
-STR_5131    :Enter map size between {COMMA16} and {COMMA16}
-STR_5132    :Fix all forlystelser
-STR_5133    :{SMALLFONT}{BLACK}Adjust smaller area of land rights
-STR_5134    :{SMALLFONT}{BLACK}Adjust larger area of land rights
-STR_5135    :{SMALLFONT}{BLACK}Buy land rights and construction rights
-STR_5136    :Land rights
-STR_5137    :Unlock operating limits
+STR_5125    :Alle der kan fjernes
+STR_5126    :Tilfældig titel musik
+STR_5127    :{SMALLFONT}{BLACK}Ved trækning med mus, mal landskab i stedet for at ændre højde
+STR_5128    :Valg størrelse
+STR_5129    :Angiv markerings størrelsen mellem {COMMA16} og {COMMA16}
+STR_5130    :Kortstørrelse
+STR_5131    :EAngiv kortstørrelse mellem {COMMA16} og {COMMA16}
+STR_5132    :Reparer alle forlystelser
+STR_5133    :{SMALLFONT}{BLACK}Justere mindre areal af land rettigheder
+STR_5134    :{SMALLFONT}{BLACK}Justere større areal af land rettigheder
+STR_5135    :{SMALLFONT}{BLACK}Køb land rettigheder og byggetilladelser
+STR_5136    :Land rettigheder
+STR_5137    :Lås op for driftsbegrænsninger
 STR_5138    :{SMALLFONT}{WINDOW_COLOUR_2}{STRINGID}
 STR_5139    :{WHITE}{STRINGID}
-STR_5140    :Disable brakes failure
-STR_5141    :Disable all breakdowns
-STR_5142    :Normal Speed
-STR_5143    :Quick Speed
-STR_5144    :Fast Speed
-STR_5145    :Turbo Speed
-STR_5146    :Hyper Speed
+STR_5140    :Deaktiver bremsefejl
+STR_5141    :Deaktiver alle nedbrud
+STR_5142    :Normal hastighed
+STR_5143    :Kvik hastighed
+STR_5144    :Hurtig hastighed
+STR_5145    :Turbo hastighed
+STR_5146    :Hyper hastighed
 STR_5147    :Snyd
-STR_5148    :{SMALLFONT}{BLACK}Change the game speed
-STR_5149    :{SMALLFONT}{BLACK}Vis cheat options
-STR_5150    :Enable debugging tools
+STR_5148    :{SMALLFONT}{BLACK}Skift hastigheden på spillet
+STR_5149    :{SMALLFONT}{BLACK}Vis Snydemuligheder
+STR_5150    :Aktiver debug værktøj
 STR_5151    :,
 STR_5152    :.
-STR_5153    :Edit Themes...
-STR_5154    :Hardware display
-STR_5155    :Allow testing of unfinished tracks
-STR_5156    :{SMALLFONT}{BLACK}Allows testing of most ride types even when the track is unfinished, does not apply to block sectioned modes
+STR_5153    :Rediger Temaer...
+STR_5154    :Hardware Skærm
+STR_5155    :Tillad test af ufærdige spor
+STR_5156    :{SMALLFONT}{BLACK}Tillader test af de fleste forlystelsestyper, selv når sporet er ufærdige, gælder ikke for blok sektionerede tilstande
 STR_5157    :<removed string - do not use>
-STR_5158    :Quit to menu
-STR_5159    :Exit OpenRCT2
-STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, Year {POP16}{COMMA16}
-STR_5161    :Date Format:
-STR_5162    :Day/Month/Year
-STR_5163    :Month/Day/Year
-STR_5164    :Twitch Channel name
-STR_5165    :Name guests after followers
-STR_5166    :{SMALLFONT}{BLACK}Name guests after channel's{NEWLINE}Twitch followers
-STR_5167    :Track follower guests
-STR_5168    :{SMALLFONT}{BLACK}Enable tracking information for guests named after channel's Twitch followers
-STR_5169    :Name guests after people in Twitch chat
-STR_5170    :{SMALLFONT}{BLACK}Name guests after people in Twitch chat
-STR_5171    :Track chat guests
-STR_5172    :{SMALLFONT}{BLACK}Enable tracking information for guests named after Twitch chat participants
-STR_5173    :Pull Twitch chat as news
-STR_5174    :{SMALLFONT}{BLACK}Use Twitch chat messages preceded by !news for in game notifications
-STR_5175    :Input the name of your Twitch channel
-STR_5176    :Enable Twitch integration
-STR_5177    :Screen mode:
-STR_5178    :{SMALLFONT}{BLACK}Vis financial cheats
-STR_5179    :{SMALLFONT}{BLACK}Vis guest cheats
-STR_5180    :{SMALLFONT}{BLACK}Vis park cheats
-STR_5181    :{SMALLFONT}{BLACK}Vis ride cheats
+STR_5158    :Afslut til hovedmenu
+STR_5159    :Afslut OpenRCT2
+STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, År {POP16}{COMMA16}
+STR_5161    :Dato Format:
+STR_5162    :Dag/Måned/År
+STR_5163    :Måned/Dag/År
+STR_5164    :Twitch Kanal navn
+STR_5165    :Navngiv gæster efter følgere på Twitch
+STR_5166    :{SMALLFONT}{BLACK}Navngiv gæster efter dem der er {NEWLINE}følgere på din Twitch konto
+STR_5167    :Overvåg gæster der er følgere på Twitch
+STR_5168    :{SMALLFONT}{BLACK}Aktiverer overvågnings information for gæster der er navngivet efter følgere på Twitch
+STR_5169    :Navngiv gæster efter chat-brugere på Twitch
+STR_5170    :{SMALLFONT}{BLACK}Giv gæster et navn fra personer der chatter på Twitch
+STR_5171    :Overvåg gæster der er i Twitch chat
+STR_5172    :{SMALLFONT}{BLACK}Aktiverer overvågnings information for gæster der er navngivet efter deltager i chatten på Twitch
+STR_5173    :Træk Twitch chat som nyheder
+STR_5174    :{SMALLFONT}{BLACK}Brug Twitch chat meddelelser efterfulgt af !nyhed for meddelelser i spillet
+STR_5175    :Angiv dit navn på din Twitch kanal
+STR_5176    :Aktiver Twitch integration
+STR_5177    :Skærmtilstand:
+STR_5178    :{SMALLFONT}{BLACK}Vis finansiel snyd
+STR_5179    :{SMALLFONT}{BLACK}Vis gæste snyd
+STR_5180    :{SMALLFONT}{BLACK}Vis park snyd
+STR_5181    :{SMALLFONT}{BLACK}Vis forlystelses snyd
 STR_5182    :{INT32}
-STR_5183    :Base height
-STR_5184    :Enter base height between {COMMA16} and {COMMA16}
-STR_5185    :Water level
-STR_5186    :Enter water level between {COMMA16} and {COMMA16} 
-STR_5187    :Finances
-STR_5188    :New Campaign
-STR_5189    :Research
-STR_5190    :Map
-STR_5191    :Viewport
-STR_5192    :Recent News
+STR_5183    :Basis højde
+STR_5184    :Angiv en basis højde imellem {COMMA16} og {COMMA16}
+STR_5185    :Vandstand
+STR_5186    :Angiv vandstand imellem {COMMA16} og {COMMA16} 
+STR_5187    :Finanser
+STR_5188    :Ny kampagne
+STR_5189    :Forskning
+STR_5190    :Kort
+STR_5191    :Udseende
+STR_5192    :Seneste nyheder
 STR_5193    :Land
-STR_5194    :Water
-STR_5195    :Clear Scenery
-STR_5196    :Land Rights
-STR_5197    :Scenery
-STR_5198    :Footpath
-STR_5199    :Ride Construction
-STR_5200    :Track Design Place
-STR_5201    :New Ride
-STR_5202    :Track Design Selection
-STR_5203    :Ride
-STR_5204    :Ride List
-STR_5205    :Guest
-STR_5206    :Guest List
-STR_5207    :Staff
-STR_5208    :Staff List
+STR_5194    :Vand
+STR_5195    :Ryd sceneri
+STR_5196    :Land rettigheder
+STR_5197    :Sceneri
+STR_5198    :Gangsti
+STR_5199    :Forlystelse konstruktion
+STR_5200    :Banedesign plads
+STR_5201    :Ny forlystelse
+STR_5202    :Banedesign valg
+STR_5203    :Forlystelse
+STR_5204    :Forlystelseliste
+STR_5205    :Gæster
+STR_5206    :Gæsteliste
+STR_5207    :Personale
+STR_5208    :Personaleliste
 STR_5209    :Banner
-STR_5210    :Object Selection
-STR_5211    :Invention List
-STR_5212    :Scenario Options
-STR_5213    :Objective Options
-STR_5214    :Map Generation
-STR_5215    :Track Design Manager
-STR_5216    :Track Design Manager List
-STR_5217    :Cheats
-STR_5218    :Themes
-STR_5219    :Options
-STR_5220    :Keyboard Shortcuts
-STR_5221    :Change Keyboard Shortcut
-STR_5222    :Load/Save
-STR_5223    :Save Prompt
-STR_5224    :Demolish Ride Prompt
-STR_5225    :Fire Staff Prompt
-STR_5226    :Track Delete Prompt
-STR_5227    :Save Overwrite Prompt
-STR_5228    :{SMALLFONT}{BLACK}Main UI
+STR_5210    :Objekt Valg
+STR_5211    :Opfindelsesliste
+STR_5212    :Scenarie indstillinger
+STR_5213    :Mål indstillinger
+STR_5214    :Kortgenerering
+STR_5215    :Banedesign Manager
+STR_5216    :Banedesign Manager Liste
+STR_5217    :Snyd
+STR_5218    :Temaer
+STR_5219    :Indstillinger
+STR_5220    :Tastatur genveje
+STR_5221    :Ændre tastatur genveje
+STR_5222    :Hent/gem
+STR_5223    :Gem prompt
+STR_5224    :Nedriv forlystelse prompt
+STR_5225    :Brand personale prompt
+STR_5226    :Slet bane prompt
+STR_5227    :Overskriv gemt spil prompt
+STR_5228    :{SMALLFONT}{BLACK}Hovedskærm
 STR_5229    :{SMALLFONT}{BLACK}Park
-STR_5230    :{SMALLFONT}{BLACK}Tools
-STR_5231    :{SMALLFONT}{BLACK}Rides and Guests
-STR_5232    :{SMALLFONT}{BLACK}Editors
+STR_5230    :{SMALLFONT}{BLACK}Værktøj
+STR_5231    :{SMALLFONT}{BLACK}Forlystelser og gæster
+STR_5232    :{SMALLFONT}{BLACK}Redigering
 STR_5233    :{SMALLFONT}{BLACK}Diverse
 STR_5234    :{SMALLFONT}{BLACK}Prompts
-STR_5235    :{SMALLFONT}{BLACK}Settings
-STR_5236    :Window
+STR_5235    :{SMALLFONT}{BLACK}Indstillinger
+STR_5236    :Vindue
 STR_5237    :Palette
-STR_5238    :Current Theme:
-STR_5239    :Duplicate
-STR_5240    :Enter a name for the theme
-STR_5241    :Kan ikke change this theme
-STR_5242    :Theme name already exists
-STR_5243    :Invalid characters used
-STR_5244    :Themes
-STR_5245    :Top Toolbar
-STR_5246    :Bottom Toolbar
-STR_5247    :Track Editor Bottom Toolbar
-STR_5248    :Scenario Editor Bottom Toolbar
-STR_5249    :Title Menu Buttons
-STR_5250    :Title Exit Button
-STR_5251    :Title Options Button
-STR_5252    :Title Scenario Selection
+STR_5238    :Nuværende tema:
+STR_5239    :Dupliker
+STR_5240    :Angiv et navn for dette tema
+STR_5241    :Kan ikke ændre dette tema
+STR_5242    :Tema navnet findes allerede
+STR_5243    :Ugyldige karakterer brugt
+STR_5244    :Temaer
+STR_5245    :Top værktøjslinje
+STR_5246    :Bund værktøjslinje
+STR_5247    :Bane redigerings bund værktøjslinje
+STR_5248    :Scenarie redigerings bund værktøjslinje
+STR_5249    :Titelskærm Menu knapper
+STR_5250    :Titelskærm Afslut knap
+STR_5251    :Titelskærm indstillings knap
+STR_5252    :Titelskærm Scenarie vælger
 STR_5253    :Park Information
-STR_5254    :Create
-STR_5255    :{SMALLFONT}{BLACK}Create a new title sequence from scratch
-STR_5256    :Create a new theme to make changes to
-STR_5257    :{SMALLFONT}{BLACK}Create a new theme based on the current one
-STR_5258    :{SMALLFONT}{BLACK}Delete the current theme
-STR_5259    :{SMALLFONT}{BLACK}Rename the current theme
-STR_5260    :Giant Skærmbillede
+STR_5254    :Opret
+STR_5255    :{SMALLFONT}{BLACK}Opret en ny titel sekvens fra bunden af
+STR_5256    :Opret et nyt tema som der kan ændres i
+STR_5257    :{SMALLFONT}{BLACK}Opret et nyt tema, baseret på det nuværende
+STR_5258    :{SMALLFONT}{BLACK}Slet nuværende tema
+STR_5259    :{SMALLFONT}{BLACK}Omdøb nuværende tema
+STR_5260    :Gigantisk Skærmbillede
 STR_5261    :Filter
 STR_5262    :Wacky Worlds
 STR_5263    :Time Twister
-STR_5264    :Custom
-STR_5265    :{SMALLFONT}{BLACK}Select which content sources are visible
-STR_5266    :{SMALLFONT}{BLACK}Display
-STR_5267    :{SMALLFONT}{BLACK}Culture and Units
-STR_5268    :{SMALLFONT}{BLACK}Audio
-STR_5269    :{SMALLFONT}{BLACK}Controls and interface
+STR_5264    :Brugerdefinerede
+STR_5265    :{SMALLFONT}{BLACK}Vælg hvilke indholdskilder der er synlige
+STR_5266    :{SMALLFONT}{BLACK}Skærm
+STR_5267    :{SMALLFONT}{BLACK}Kultur og enheder
+STR_5268    :{SMALLFONT}{BLACK}Lyd
+STR_5269    :{SMALLFONT}{BLACK}Kontrol og udseende
 STR_5270    :{SMALLFONT}{BLACK}Diverse
 STR_5271    :{SMALLFONT}{BLACK}Twitch
-STR_5272    :{SMALLFONT}{BLACK}Small Scenery
-STR_5273    :{SMALLFONT}{BLACK}Large Scenery
-STR_5274    :{SMALLFONT}{BLACK}Footpath
-STR_5275    :Search for Objects
-STR_5276    :Enter the name of an object to search for
-STR_5277    :Clear
-STR_5278    :Sandbox mode
-STR_5279    :Sandbox mode off
-STR_5280    :{SMALLFONT}{BLACK}Allow editing land ownership settings through the Map window and other options that are normally restricted to the Scenario Editor
-STR_5281    :{SMALLFONT}{BLACK}Features
-STR_5282    :RCT1 Ride Open/Close Lights
-STR_5283    :RCT1 Park Open/Close Lights
-STR_5284    :RCT1 Scenario Selection Font
-STR_5285    :EXPLODE!!!
-STR_5286    :{SMALLFONT}{BLACK}Makes some guests explode
-STR_5287    :Ride is already broken down
-STR_5288    :Ride is closed
-STR_5289    :No breakdowns available for this ride
-STR_5290    :Fix ride
-STR_5291    :Kan ikke force breakdown
-STR_5292    :{SMALLFONT}{BLACK}Force a breakdown
-STR_5293    :{SMALLFONT}{BLACK}Close ride/attraction
-STR_5294    :{SMALLFONT}{BLACK}Test ride/attraction
-STR_5295    :{SMALLFONT}{BLACK}Open ride/attraction
-STR_5296    :{SMALLFONT}{BLACK}Close park
-STR_5297    :{SMALLFONT}{BLACK}Open park
+STR_5272    :{SMALLFONT}{BLACK}Lille Sceneri
+STR_5273    :{SMALLFONT}{BLACK}Stort Sceneri
+STR_5274    :{SMALLFONT}{BLACK}Gangstier
+STR_5275    :Søg efter objekter
+STR_5276    :Angiv navnet på objektet, du vil søge efter
+STR_5277    :Ryd
+STR_5278    :Sandbox tilstand
+STR_5279    :Sandbox tilstand fra
+STR_5280    :{SMALLFONT}{BLACK}Tillad redigering af indstillinger for jordbesiddelse via kort vinduet og andre indstillinger, der normalt er begrænset til scenarie editoren
+STR_5281    :{SMALLFONT}{BLACK}Funktioner
+STR_5282    :RCT1 forlystelse åben/lukket lys
+STR_5283    :RCT1 Park åben/lukket lys
+STR_5284    :RCT1 Scenarie udvælgelse skrifttype
+STR_5285    :EKSPLODER!!!
+STR_5286    :{SMALLFONT}{BLACK}Får nogle gæster til at eksplodere
+STR_5287    :Forlystelse er allerede brudt sammen
+STR_5288    :Forlystelse er lukket
+STR_5289    :Ingen nedbrud tilgængelig for denne forlystelse
+STR_5290    :Reparer forlystelse
+STR_5291    :Kan ikke fremprovokere et nedbrud
+STR_5292    :{SMALLFONT}{BLACK}Fremprovoker et nedbrud
+STR_5293    :{SMALLFONT}{BLACK}Luk forlystelse/attraktion
+STR_5294    :{SMALLFONT}{BLACK}Test forlystelse/attraktion
+STR_5295    :{SMALLFONT}{BLACK}Åben forlystelse/attraktion
+STR_5296    :{SMALLFONT}{BLACK}Luk park
+STR_5297    :{SMALLFONT}{BLACK}Åben park
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
-STR_5300    :{SMALLFONT}{BLACK}Quick fire staff
-STR_5301    :{MEDIUMFONT}{BLACK}Clear your loan
-STR_5302    :Clear loan
-STR_5303    :Allow building in pause mode
-STR_5304    :Title Sequence:
+STR_5300    :{SMALLFONT}{BLACK}Hurtig brandpersonale
+STR_5301    :{MEDIUMFONT}{BLACK}Fjern dit lån
+STR_5302    :Fjern lån
+STR_5303    :Tillad bygning i pausetilstand
+STR_5304    :Titel sekvens:
 STR_5305    :RollerCoaster Tycoon 1
 STR_5306    :RollerCoaster Tycoon 1 (AA)
 STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
 STR_5308    :RollerCoaster Tycoon 2
 STR_5309    :OpenRCT2
-STR_5310    :Random
-STR_5311    :{SMALLFONT}{BLACK}Debug tools
-STR_5312    :Vis console
-STR_5313    :Vis tile inspector
-STR_5314    :Tile inspector
-STR_5315    :Grass
+STR_5310    :Tilfældig
+STR_5311    :{SMALLFONT}{BLACK}Debug værktøj
+STR_5312    :Vis konsol
+STR_5313    :Vis feltinspektion
+STR_5314    :Feltinspektion
+STR_5315    :Græs
 STR_5316    :Sand
-STR_5317    :Dirt
-STR_5318    :Rock
-STR_5319    :Martian
-STR_5320    :Checkerboard
-STR_5321    :Grass clumps
-STR_5322    :Ice
-STR_5323    :Grid (red)
-STR_5324    :Grid (yellow)
-STR_5325    :Grid (blue)
-STR_5326    :Grid (green)
-STR_5327    :Sand (dark)
-STR_5328    :Sand (light)
-STR_5329    :Checkerboard (inverted)
-STR_5330    :Underground view
-STR_5331    :Rock
-STR_5332    :Wood (red)
-STR_5333    :Wood (black)
-STR_5334    :Ice
-STR_5335    :Ride indgang
-STR_5336    :Ride exit
+STR_5317    :Jord
+STR_5318    :Sten
+STR_5319    :Marsmand
+STR_5320    :Skakbræt
+STR_5321    :Græsklumper
+STR_5322    :Is
+STR_5323    :Gitter (rød)
+STR_5324    :Gitter (gul)
+STR_5325    :Gitter (blå)
+STR_5326    :Gitter (grøn)
+STR_5327    :Sand (mørk)
+STR_5328    :Sand (lys)
+STR_5329    :Skakbræt (inverteret)
+STR_5330    :Undergrunds visning
+STR_5331    :Sten
+STR_5332    :Træ (rød)
+STR_5333    :Træ (sort)
+STR_5334    :Is
+STR_5335    :Forlystelse indgang
+STR_5336    :Forlystelse Udgang
 STR_5337    :Park indgang
 STR_5338    :Element type
-STR_5339    :{SMALLFONT}{BLACK}Base height
-STR_5340    :{SMALLFONT}{BLACK}Clearance height
+STR_5339    :{SMALLFONT}{BLACK}Basis højde
+STR_5340    :{SMALLFONT}{BLACK}Frihøjde
 STR_5341    :<removed string - do not use>
 STR_5342    :<removed string - do not use>
-STR_5343    :Automatically place staff
-STR_5344    :Changelog
-STR_5345    :Financial cheats
-STR_5346    :Guest cheats
-STR_5347    :Park cheats
-STR_5348    :Ride cheats
-STR_5349    :{SMALLFONT}{BLACK}All Rides
+STR_5343    :Automatisk placer ansat
+STR_5344    :Ændrings log
+STR_5345    :Finansiel snyd
+STR_5346    :Gæst snyd
+STR_5347    :Park snyd
+STR_5348    :Forlystelse snyd
+STR_5349    :{SMALLFONT}{BLACK}Alle forlystelser
 STR_5350    :Max
 STR_5351    :Min
-STR_5352    :{BLACK}Happiness:
-STR_5353    :{BLACK}Energy:
-STR_5354    :{BLACK}Hunger:
-STR_5355    :{BLACK}Thirst:
-STR_5356    :{BLACK}Nausea:
-STR_5357    :{BLACK}Nausea tolerance:
+STR_5352    :{BLACK}Glæde:
+STR_5353    :{BLACK}Energi:
+STR_5354    :{BLACK}Sult:
+STR_5355    :{BLACK}Tørst:
+STR_5356    :{BLACK}Kvalme:
+STR_5357    :{BLACK}Kvalme tolerance:
 STR_5358    :{BLACK}Toilet:
-STR_5359    :Remove guests
-STR_5360    :{SMALLFONT}{BLACK}Removes all guests from the map
-STR_5361    :Give all guests:
-STR_5362    :{BLACK}Set all guests' preferred ride intensitet to:
-STR_5363    :More than 1
-STR_5364    :Less than 15
-STR_5365    :{BLACK}Staff speed:
+STR_5359    :Fjern gæster
+STR_5360    :{SMALLFONT}{BLACK}Fjerner alle gæster fra kortet
+STR_5361    :Giv alle gæster:
+STR_5362    :{BLACK}sæt alle gæster' foretrukket forlystelses intensitet til:
+STR_5363    :Mere end 1
+STR_5364    :Mindre end 15
+STR_5365    :{BLACK}Personale hastighed:
 STR_5366    :Normal
-STR_5367    :Fast
-STR_5368    :Reset crash status
-STR_5369    :Park parameters...
-STR_5370    :{SMALLFONT}{BLACK}Click this button to modify park{NEWLINE}parameters like restrictions,{NEWLINE}guest generation and money.
-STR_5371    :Object selection
-STR_5372    :Invert right mouse dragging
-STR_5373    :Name {STRINGID}
-STR_5374    :Date {STRINGID}
+STR_5367    :Hurtig
+STR_5368    :Nulstil nedbruds-status
+STR_5369    :Park parametere...
+STR_5370    :{SMALLFONT}{BLACK}Klik på denne knap for at modificere {NEWLINE}parametere som begrænsninger,{NEWLINE}gæstegenerering og penge.
+STR_5371    :Objekt udvælgelse
+STR_5372    :Omvendt højre muse træk
+STR_5373    :Navn {STRINGID}
+STR_5374    :Dato {STRINGID}
 STR_5375    :{UP}
 STR_5376    :{DOWN}
-STR_5377    :{SMALLFONT}{BLACK}Saves
+STR_5377    :{SMALLFONT}{BLACK}Gemte
 STR_5378    :{SMALLFONT}{BLACK}Script
-STR_5379    :{SMALLFONT}{BLACK}Skip to next wait command
+STR_5379    :{SMALLFONT}{BLACK}Skip til næste ventekommando
 STR_5380    :{SMALLFONT}{BLACK}Start playing title sequence
 STR_5381    :{SMALLFONT}{BLACK}Stop playing title sequence
 STR_5382    :{SMALLFONT}{BLACK}Restart title sequence
@@ -3732,7 +3732,7 @@ STR_5392    :{SMALLFONT}{BLACK}Add a save to the title sequence
 STR_5393    :{SMALLFONT}{BLACK}Remove the selected save from the title sequence
 STR_5394    :{SMALLFONT}{BLACK}Rename the selected save
 STR_5395    :{SMALLFONT}{BLACK}Load the selected save in game
-STR_5396    :{SMALLFONT}{BLACK}Reload the title sequence if changes have been made to it outside of the game
+STR_5396    :{SMALLFONT}{BLACK}Genindlæs the title sequence if changes have been made to it outside of the game
 STR_5397    :Can only be used on the title screen
 STR_5398    :Cannot edit title sequence while it's playing
 STR_5399    :Press the stop button to continue editing
@@ -3740,19 +3740,19 @@ STR_5400    :Kan ikke change this title sequence
 STR_5401    :Create a new title sequence to make changes to
 STR_5402    :Failed to load title sequence
 STR_5403    :There may be no Load or Wait command or a save may be invalid
-STR_5404    :Name already exists
+STR_5404    :Navn eksisterer allerede
 STR_5405    :Enter a name for the save
 STR_5406    :Enter a name for the title sequence
-STR_5407    :Add
-STR_5408    :Remove
-STR_5409    :Insert
-STR_5410    :Edit
-STR_5411    :Reload
-STR_5412    :Skip to
-STR_5413    :Load
-STR_5414    :Load{MOVE_X}{87}Six Flags Magic Mountain.SC6
-STR_5415    :Load{MOVE_X}{87}{STRING}
-STR_5416    :Load{MOVE_X}{87}No save selected
+STR_5407    :Tilføj
+STR_5408    :Fjern
+STR_5409    :Indsæt
+STR_5410    :Rediger
+STR_5411    :Genindlæs
+STR_5412    :Skip til
+STR_5413    :Hent
+STR_5414    :Hent{MOVE_X}{87}Six Flags Magic Mountain.SC6
+STR_5415    :Hent{MOVE_X}{87}{STRING}
+STR_5416    :Hent{MOVE_X}{87}Ingen gemt valgt
 STR_5417    :Location
 STR_5418    :Location{MOVE_X}{87}{COMMA16}   {COMMA16}
 STR_5419    :Rotate
@@ -3779,15 +3779,15 @@ STR_5439    :A wait command with at least 4 seconds is required with a restart c
 STR_5440    :Minimise fullscreen on focus loss
 STR_5441    :{SMALLFONT}{BLACK}Identifies forlystelser by track type{NEWLINE}so vehicles can be changed{NEWLINE}afterwards (RCT1 behaviour)
 STR_5442    :Force park rating:
-STR_5443    :Speed{MOVE_X}{87}{STRINGID}
-STR_5444    :Speed:
-STR_5445    :Speed
+STR_5443    :Hastighed{MOVE_X}{87}{STRINGID}
+STR_5444    :Hastighed:
+STR_5445    :Hastighed
 STR_5446    :Get
 STR_5447    :Type {STRINGID}
-STR_5448    :Ride / Vehicle {STRINGID}
+STR_5448    :Forlystelse / Vehicle {STRINGID}
 STR_5449    :Reduce game speed
 STR_5450    :Increase game speed
-STR_5451    :Open cheats window
+STR_5451    :Open snyd window
 STR_5452    :Toggle visibility of toolbars
 STR_5453    :Select another ride
 STR_5454    :Uncap FPS
@@ -3797,11 +3797,11 @@ STR_5457    :Disable support limits
 STR_5458    :Rotate clockwise
 STR_5459    :Rotate anti-clockwise
 STR_5460    :Rotate view anti-clockwise
-STR_5461    :Set guests' parameters
+STR_5461    :Set gæster' parameters
 STR_5462    :{CURRENCY}
-STR_5463    :Goal: Have fun!
-STR_5464    :General
-STR_5465    :Climate
+STR_5463    :Mål: Ha' det sjovt!
+STR_5464    :Generelt
+STR_5465    :Klima
 STR_5466    :Staff
 STR_5467    :ALT + 
 STR_5468    :Recent messages
@@ -3825,7 +3825,7 @@ STR_5485    :{SMALLFONT}{STRING}
 STR_5486    :{BLACK}{COMMA16}
 STR_5487    :{SMALLFONT}{BLACK}Vis recent messages
 STR_5488    :No indgang (OpenRCT2 only!)
-STR_5489    :{SMALLFONT}{BLACK}Vis only tracked guests
+STR_5489    :{SMALLFONT}{BLACK}Vis only tracked gæster
 STR_5490    :Disable audio on focus loss
 STR_5491    :Inventions list
 STR_5492    :Scenario options
@@ -3846,41 +3846,41 @@ STR_5506    :Guests ignore intensities
 STR_5507    :<removed string - do not use>
 STR_5508    :Allow loading files with incorrect checksums
 STR_5509    :{SMALLFONT}{BLACK}Allows loading scenarios and saves{NEWLINE}that have an incorrect checksum,{NEWLINE}like the scenarios from the demo{NEWLINE}or damaged saves.
-STR_5510    :Default sound device
-STR_5511    :(UNKNOWN)
-STR_5512    :Save Game As
-STR_5513    :(Quick) save game
-STR_5514    :Disable vandalism
-STR_5515    :{SMALLFONT}{BLACK}Stops guests from vandalising your park when they're angry
+STR_5510    :Standard lydenhed
+STR_5511    :(UKENDT)
+STR_5512    :Gem spil som
+STR_5513    :(Hurtig) gem spil
+STR_5514    :Deaktiver hærværk
+STR_5515    :{SMALLFONT}{BLACK}Stopper gæster fra at lave hærværk i din park , når de er sure
 STR_5516    :{SMALLFONT}{BLACK}Black
 STR_5517    :{SMALLFONT}{BLACK}Grey
 STR_5518    :{SMALLFONT}{BLACK}White
 STR_5519    :{SMALLFONT}{BLACK}Dark purple
 STR_5520    :{SMALLFONT}{BLACK}Light purple
 STR_5521    :{SMALLFONT}{BLACK}Bright purple
-STR_5522    :{SMALLFONT}{BLACK}Dark blue
-STR_5523    :{SMALLFONT}{BLACK}Light blue
-STR_5524    :{SMALLFONT}{BLACK}Icy blue
+STR_5522    :{SMALLFONT}{BLACK}Dark blå
+STR_5523    :{SMALLFONT}{BLACK}Light blå
+STR_5524    :{SMALLFONT}{BLACK}Icy blå
 STR_5525    :{SMALLFONT}{BLACK}Dark water
 STR_5526    :{SMALLFONT}{BLACK}Light water
-STR_5527    :{SMALLFONT}{BLACK}Saturated green
-STR_5528    :{SMALLFONT}{BLACK}Dark green
-STR_5529    :{SMALLFONT}{BLACK}Moss green
-STR_5530    :{SMALLFONT}{BLACK}Bright green
-STR_5531    :{SMALLFONT}{BLACK}Olive green
-STR_5532    :{SMALLFONT}{BLACK}Dark olive green
-STR_5533    :{SMALLFONT}{BLACK}Bright yellow
+STR_5527    :{SMALLFONT}{BLACK}Saturated grøn
+STR_5528    :{SMALLFONT}{BLACK}Dark grøn
+STR_5529    :{SMALLFONT}{BLACK}Moss grøn
+STR_5530    :{SMALLFONT}{BLACK}Bright grøn
+STR_5531    :{SMALLFONT}{BLACK}Olive grøn
+STR_5532    :{SMALLFONT}{BLACK}Dark olive grøn
+STR_5533    :{SMALLFONT}{BLACK}Bright gul
 STR_5534    :{SMALLFONT}{BLACK}Yellow
-STR_5535    :{SMALLFONT}{BLACK}Dark yellow
+STR_5535    :{SMALLFONT}{BLACK}Dark gul
 STR_5536    :{SMALLFONT}{BLACK}Light orange
 STR_5537    :{SMALLFONT}{BLACK}Dark orange
 STR_5538    :{SMALLFONT}{BLACK}Light brown
 STR_5539    :{SMALLFONT}{BLACK}Saturated brown
 STR_5540    :{SMALLFONT}{BLACK}Dark brown
 STR_5541    :{SMALLFONT}{BLACK}Salmon pink
-STR_5542    :{SMALLFONT}{BLACK}Bordeaux red
-STR_5543    :{SMALLFONT}{BLACK}Saturated red
-STR_5544    :{SMALLFONT}{BLACK}Bright red
+STR_5542    :{SMALLFONT}{BLACK}Bordeaux rød
+STR_5543    :{SMALLFONT}{BLACK}Saturated rød
+STR_5544    :{SMALLFONT}{BLACK}Bright rød
 STR_5545    :{SMALLFONT}{BLACK}Dark pink
 STR_5546    :{SMALLFONT}{BLACK}Bright pink
 STR_5547    :{SMALLFONT}{BLACK}Light pink
@@ -3909,7 +3909,7 @@ STR_5569    :This server requires a password
 STR_5570    :Fetch Servers
 STR_5571    :Join Game
 STR_5572    :Add To Favourites
-STR_5573    :Remove From Favourites
+STR_5573    :Fjern From Favourites
 STR_5574    :Server Name:
 STR_5575    :Max Players:
 STR_5576    :Port:
@@ -3930,19 +3930,19 @@ STR_5590    :Park awards
 STR_5591    :Marketing campaign has finished
 STR_5592    :Park warnings
 STR_5593    :Park rating warnings
-STR_5594    :Ride has broken down
-STR_5595    :Ride has crashed
-STR_5596    :Ride warnings
-STR_5597    :Ride / scenery researched
-STR_5598    :Guest warnings
-STR_5599    :Guest is lost
-STR_5600    :Guest has left the park
-STR_5601    :Guest is queuing for ride
-STR_5602    :Guest is on ride
-STR_5603    :Guest has left ride
-STR_5604    :Guest has bought item
-STR_5605    :Guest has used facility
-STR_5606    :Guest has died
+STR_5594    :Forlystelse has broken down
+STR_5595    :Forlystelse has crashed
+STR_5596    :Forlystelse warnings
+STR_5597    :Forlystelse / scenery researched
+STR_5598    :Gæst warnings
+STR_5599    :Gæst is lost
+STR_5600    :Gæst has left the park
+STR_5601    :Gæst is queuing for ride
+STR_5602    :Gæst is on ride
+STR_5603    :Gæst has left ride
+STR_5604    :Gæst has bought item
+STR_5605    :Gæst has used facility
+STR_5606    :Gæst has died
 STR_5607    :{SMALLFONT}{BLACK}Forcefully remove selected map element.
 STR_5608    :BH
 STR_5609    :CH
@@ -3980,18 +3980,18 @@ STR_5640    :{SMALLFONT}{BLACK}Manage groups
 STR_5641    :Default Group:
 STR_5642    :Group
 STR_5643    :Add Group
-STR_5644    :Remove Group
+STR_5644    :Fjern Group
 STR_5645    :Chat
 STR_5646    :Terraform
 STR_5647    :Toggle Pause
 STR_5648    :Set Water Level
 STR_5649    :Create Ride
-STR_5650    :Remove Ride
+STR_5650    :Fjern Ride
 STR_5651    :Build Ride
-STR_5652    :Ride Properties
+STR_5652    :Forlystelse Properties
 STR_5653    :Scenery
 STR_5654    :Path
-STR_5655    :Guest
+STR_5655    :Gæst
 STR_5656    :Staff
 STR_5657    :Park Properties
 STR_5658    :Park Funding
@@ -4097,7 +4097,7 @@ STR_5789    :Disable lightning effect
 STR_5790    :{SMALLFONT}{BLACK}Toggles RCT1-style pricing{NEWLINE}(e.g. both ride price and indgang price)
 STR_5791    :{SMALLFONT}{BLACK}Sets the reliability of all forlystelser to 100%{NEWLINE}and resets their built date to {OPENQUOTES}this year{ENDQUOTES}
 STR_5792    :{SMALLFONT}{BLACK}Fixes all broken down forlystelser
-STR_5793    :{SMALLFONT}{BLACK}Resets the crash history of a ride,{NEWLINE}so guests will not complain that its unsafe
+STR_5793    :{SMALLFONT}{BLACK}Resets the crash history of a ride,{NEWLINE}so gæster will not complain that its unsafe
 STR_5794    :{SMALLFONT}{BLACK}Some scenarios disable editing of some{NEWLINE}of the forlystelser already in the park.{NEWLINE}This cheat lifts the restriction
 STR_5795    :{SMALLFONT}{BLACK}Guests ride every attraction in the park{NEWLINE}even if the intensitet is extremely high
 STR_5796    :{SMALLFONT}{BLACK}Forces the park to close or open
@@ -4106,7 +4106,7 @@ STR_5798    :{SMALLFONT}{BLACK}Allows building actions in pause mode
 STR_5799    :{SMALLFONT}{BLACK}Disables ride breakdowns and crashes due to brake failure
 STR_5800    :{SMALLFONT}{BLACK}Prevents forlystelser from breaking down
 STR_5801    :Disable littering
-STR_5802    :{SMALLFONT}{BLACK}Stops guests from littering and vomiting
+STR_5802    :{SMALLFONT}{BLACK}Stops gæster from littering and vomiting
 STR_5803    :{SMALLFONT}{BLACK}Rotate selected map element
 STR_5804    :Mute sound
 STR_5805    :{SMALLFONT}{BLACK}If checked, your server will be added to the{NEWLINE}public server list so everyone can find it
@@ -4550,12 +4550,12 @@ STR_6240    :Horizontal Clipping
 STR_6241    :Select area
 STR_6242    :Clear selection
 STR_6243    :{SMALLFONT}{BLACK}Refurbishes the ride,{NEWLINE}makes it like new
-STR_6244    :Kan ikke refurbish ride...
+STR_6244    :Kan ikke renovere ride...
 STR_6245    :{SMALLFONT}{BLACK}Ride doesn't need refurbishing
-STR_6246    :Refurbish
-STR_6247    :Refurbish ride/attraction
-STR_6248    :{WINDOW_COLOUR_1}Do you want to refurbish {STRINGID} for {CURRENCY}?
-STR_6249    :{WINDOW_COLOUR_1}Do you want to refurbish {STRINGID}?
+STR_6246    :Renovér
+STR_6247    :Renovér ride/attraction
+STR_6248    :{WINDOW_COLOUR_1}Do you want to renovere {STRINGID} for {CURRENCY}?
+STR_6249    :{WINDOW_COLOUR_1}Do you want to renovere {STRINGID}?
 STR_6250    :{WINDOW_COLOUR_1}Are you sure you want to completely demolish {STRINGID} and gain {CURRENCY}?
 STR_6251    :Ride is not empty yet
 STR_6252    :Twitch API URL
