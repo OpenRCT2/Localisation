@@ -3716,33 +3716,33 @@ STR_5376    :{DOWN}
 STR_5377    :{SMALLFONT}{BLACK}Gemte
 STR_5378    :{SMALLFONT}{BLACK}Script
 STR_5379    :{SMALLFONT}{BLACK}Skip til næste ventekommando
-STR_5380    :{SMALLFONT}{BLACK}Start playing title sequence
-STR_5381    :{SMALLFONT}{BLACK}Stop playing title sequence
-STR_5382    :{SMALLFONT}{BLACK}Restart title sequence
-STR_5383    :{SMALLFONT}{BLACK}Create a new title sequence based on the current one
-STR_5384    :{SMALLFONT}{BLACK}Delete the current title sequence
-STR_5385    :{SMALLFONT}{BLACK}Rename the current title sequence
-STR_5386    :{SMALLFONT}{BLACK}Insert a new command
-STR_5387    :{SMALLFONT}{BLACK}Edit the selected command
-STR_5388    :{SMALLFONT}{BLACK}Delete the selected command
-STR_5389    :{SMALLFONT}{BLACK}Skip to the selected command in the title sequence
-STR_5390    :{SMALLFONT}{BLACK}Move the selected command down
-STR_5391    :{SMALLFONT}{BLACK}Move the selected command up
-STR_5392    :{SMALLFONT}{BLACK}Add a save to the title sequence
-STR_5393    :{SMALLFONT}{BLACK}Remove the selected save from the title sequence
-STR_5394    :{SMALLFONT}{BLACK}Rename the selected save
+STR_5380    :{SMALLFONT}{BLACK}Start afspiling af titelsekvens
+STR_5381    :{SMALLFONT}{BLACK}Stop afspiling af titelsekvens
+STR_5382    :{SMALLFONT}{BLACK}Genstart af titelsekvens
+STR_5383    :{SMALLFONT}{BLACK}Opret en ny titelsekvens basseret på den nuværende
+STR_5384    :{SMALLFONT}{BLACK}Slet nuværende titelsekvens
+STR_5385    :{SMALLFONT}{BLACK}Omdøb nuværende titelsekvens
+STR_5386    :{SMALLFONT}{BLACK}Indsæt en ny kommando
+STR_5387    :{SMALLFONT}{BLACK}Rediger valgte kommando
+STR_5388    :{SMALLFONT}{BLACK}Slet valgte kommando
+STR_5389    :{SMALLFONT}{BLACK}spring til den valgte kommando i titelsekvensen
+STR_5390    :{SMALLFONT}{BLACK}Flyt valgte kommando ned
+STR_5391    :{SMALLFONT}{BLACK}Flyt valgte kommando op
+STR_5392    :{SMALLFONT}{BLACK}Tilføj en gemning til den valgte sekvens
+STR_5393    :{SMALLFONT}{BLACK}Fejrn en gemning fra den valgte sekvens
+STR_5394    :{SMALLFONT}{BLACK}Omdøb det valgte gemte spil
 STR_5395    :{SMALLFONT}{BLACK}Load the selected save in game
-STR_5396    :{SMALLFONT}{BLACK}Genindlæs the title sequence if changes have been made to it outside of the game
-STR_5397    :Can only be used on the title screen
-STR_5398    :Cannot edit title sequence while it's playing
-STR_5399    :Press the stop button to continue editing
-STR_5400    :Kan ikke change this title sequence
-STR_5401    :Create a new title sequence to make changes to
-STR_5402    :Failed to load title sequence
-STR_5403    :There may be no Load or Wait command or a save may be invalid
+STR_5396    :{SMALLFONT}{BLACK}Genindlæs titelsekvens, hvis der er lavet ændringer uden for spillet
+STR_5397    :Kan kun bruges på titelskærmen
+STR_5398    :Kan ikke redigere titelsekvensen imens den afspilles
+STR_5399    :Tryk på stop for at fortsætte redigeringen
+STR_5400    :Kan ikke ændre denne titel sekvens
+STR_5401    :Opret en ny titelsekvens at lave ændringer i
+STR_5402    :Kunne ikke indælse titelsekvens
+STR_5403    :Der er muligvis ingen 'hent' eller 'vent' kommando eller det gemte spil er ugyldigt
 STR_5404    :Navn eksisterer allerede
-STR_5405    :Enter a name for the save
-STR_5406    :Enter a name for the title sequence
+STR_5405    :Angiv en navn for denne gemning
+STR_5406    :Angiv et navn til titelsekvensen
 STR_5407    :Tilføj
 STR_5408    :Fjern
 STR_5409    :Indsæt
@@ -3753,51 +3753,51 @@ STR_5413    :Hent
 STR_5414    :Hent{MOVE_X}{87}Six Flags Magic Mountain.SC6
 STR_5415    :Hent{MOVE_X}{87}{STRING}
 STR_5416    :Hent{MOVE_X}{87}Ingen gemt valgt
-STR_5417    :Location
-STR_5418    :Location{MOVE_X}{87}{COMMA16}   {COMMA16}
-STR_5419    :Rotate
-STR_5420    :Rotate{MOVE_X}{87}{COMMA16}
+STR_5417    :Lokation
+STR_5418    :Lokation{MOVE_X}{87}{COMMA16}   {COMMA16}
+STR_5419    :Roter
+STR_5420    :Roter{MOVE_X}{87}{COMMA16}
 STR_5421    :Zoom
 STR_5422    :Zoom{MOVE_X}{87}{COMMA16}
-STR_5423    :Wait
-STR_5424    :Wait{MOVE_X}{87}{UINT16}
-STR_5425    :Restart
-STR_5426    :End
-STR_5427    :Coordinates:
-STR_5428    :Anticlockwise rotations:
-STR_5429    :Zoom level:
-STR_5430    :Milliseconds to wait:
-STR_5431    :Save to load:
-STR_5432    :Command:
-STR_5433    :Title Sequences
-STR_5434    :Command Editor
-STR_5435    :Rename save
-STR_5436    :Edit Title Sequences...
-STR_5437    :No save selected
-STR_5438    :Kan ikke make changes while command editor is open
-STR_5439    :A wait command with at least 4 seconds is required with a restart command
-STR_5440    :Minimise fullscreen on focus loss
-STR_5441    :{SMALLFONT}{BLACK}Identifies forlystelser by track type{NEWLINE}so vehicles can be changed{NEWLINE}afterwards (RCT1 behaviour)
-STR_5442    :Force park rating:
+STR_5423    :Vent
+STR_5424    :Vent{MOVE_X}{87}{UINT16}
+STR_5425    :Genstart
+STR_5426    :Slut
+STR_5427    :Koordinater:
+STR_5428    :Mod uret rotation:
+STR_5429    :Zoom niveau:
+STR_5430    :Millisekunder der skal ventes:
+STR_5431    :Gemte der skal hentes:
+STR_5432    :Kommando:
+STR_5433    :Titelsekvens
+STR_5434    :Komando redigering
+STR_5435    :Omdøb gemte
+STR_5436    :Rediger Titelsekvens...
+STR_5437    :Ingen gemninger valgt
+STR_5438    :Kan ikke lave ændringer med kommando redigering åben
+STR_5439    :Der kræves en ventekommando med mindst 4 sekunder med en genstart kommando
+STR_5440    :Minimer fuldskærm ved tab af fokus
+STR_5441    :{SMALLFONT}{BLACK}Identificer forlystelser Efter skinde type{NEWLINE}Så køretøjer kan skiftes{NEWLINE}bagefter (RCT1 opførsel)
+STR_5442    :Tving parkvurdering:
 STR_5443    :Hastighed{MOVE_X}{87}{STRINGID}
 STR_5444    :Hastighed:
 STR_5445    :Hastighed
-STR_5446    :Get
+STR_5446    :Hent
 STR_5447    :Type {STRINGID}
 STR_5448    :Forlystelse / Vehicle {STRINGID}
-STR_5449    :Reduce game speed
-STR_5450    :Increase game speed
-STR_5451    :Open snyd window
-STR_5452    :Toggle visibility of toolbars
-STR_5453    :Select another ride
-STR_5454    :Uncap FPS
-STR_5455    :Enable sandbox mode
-STR_5456    :Disable clearance checks
+STR_5449    :Reducér spil hastighed
+STR_5450    :Forøg spil hastighed
+STR_5451    :Åben snyd vindue
+STR_5452    :Skift synlighed af værktøjslinjer
+STR_5453    :Vælg en anden forlystelse
+STR_5454    :Ubegrænset FPS
+STR_5455    :Aktiver sandbox tilstand
+STR_5456    :Fjern rydnings-check
 STR_5457    :Disable support limits
-STR_5458    :Rotate clockwise
-STR_5459    :Rotate anti-clockwise
-STR_5460    :Rotate view anti-clockwise
-STR_5461    :Set gæster' parameters
+STR_5458    :Rotér med uret
+STR_5459    :Rotér mod uret
+STR_5460    :Rotér visning mod uret
+STR_5461    :Sæt gæsters parametre
 STR_5462    :{CURRENCY}
 STR_5463    :Mål: Ha' det sjovt!
 STR_5464    :Generelt
@@ -3805,94 +3805,94 @@ STR_5465    :Klima
 STR_5466    :Staff
 STR_5467    :ALT + 
 STR_5468    :Recent messages
-STR_5469    :Scroll map up
-STR_5470    :Scroll map left
-STR_5471    :Scroll map down
-STR_5472    :Scroll map right
-STR_5473    :Cycle day / night
-STR_5474    :Display text on banners in uppercase
-STR_5475    :{COMMA16} weeks
+STR_5469    :Rul kort op
+STR_5470    :Rul kort til venstre
+STR_5471    :Rul kort ned
+STR_5472    :Rul kort til højre
+STR_5473    :Skift imellem dag / nat
+STR_5474    :Vi tekst på bannere med store bogstaver
+STR_5475    :{COMMA16} uger
 STR_5476    :Hardware
-STR_5477    :Map rendering
-STR_5478    :Controls
-STR_5479    :Toolbar
-STR_5480    :Vis toolbar buttons for:
-STR_5481    :Themes
-STR_5482    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}1 minute
-STR_5483    :{BLACK}({COMMA16} weeks remaining)
-STR_5484    :{BLACK}({COMMA16} week remaining)
+STR_5477    :Kort rendering
+STR_5478    :Kontrol
+STR_5479    :Værktøjslinje
+STR_5480    :Vis værktøjslinje knapper for:
+STR_5481    :Themaer
+STR_5482    :{WINDOW_COLOUR_2}Tid siden sidste inspektion: {BLACK}1 minut
+STR_5483    :{BLACK}({COMMA16} uger tilbage)
+STR_5484    :{BLACK}({COMMA16} uge tilbage)
 STR_5485    :{SMALLFONT}{STRING}
 STR_5486    :{BLACK}{COMMA16}
-STR_5487    :{SMALLFONT}{BLACK}Vis recent messages
-STR_5488    :No indgang (OpenRCT2 only!)
-STR_5489    :{SMALLFONT}{BLACK}Vis only tracked gæster
-STR_5490    :Disable audio on focus loss
-STR_5491    :Inventions list
-STR_5492    :Scenario options
-STR_5493    :Send Message
+STR_5487    :{SMALLFONT}{BLACK}Vis foregående meddelse
+STR_5488    :Ingen indgang (kun OpenRCT2!)
+STR_5489    :{SMALLFONT}{BLACK}Vis kun overvågede gæster
+STR_5490    :Sluk lyd ved tabt fokus
+STR_5491    :Opfindelsesliste
+STR_5492    :Scenarie instillinger
+STR_5493    :Send besked
 STR_5494    :<removed string - do not use>
-STR_5495    :Player List
-STR_5496    :Player
+STR_5495    :Spillerliste
+STR_5496    :Spiller
 STR_5497    :Ping
-STR_5498    :Server List
-STR_5499    :Player Name:
-STR_5500    :Add Server
-STR_5501    :Start Server
+STR_5498    :Serverliste
+STR_5499    :Spillernavn:
+STR_5500    :Tilføj server
+STR_5501    :Start server
 STR_5502    :Multiplayer
-STR_5503    :Enter hostname or IP address:
+STR_5503    :Angiv computernavn eller IP addresse:
 STR_5504    :{SMALLFONT}{BLACK}Vis multiplayer status
-STR_5505    :Unable to connect to server.
-STR_5506    :Guests ignore intensities
+STR_5505    :Kan ikke forbinde til server server.
+STR_5506    :Gæster ignorer intensitet
 STR_5507    :<removed string - do not use>
-STR_5508    :Allow loading files with incorrect checksums
-STR_5509    :{SMALLFONT}{BLACK}Allows loading scenarios and saves{NEWLINE}that have an incorrect checksum,{NEWLINE}like the scenarios from the demo{NEWLINE}or damaged saves.
+STR_5508    :Tilland indlæsning af filer med forkert checksums
+STR_5509    :{SMALLFONT}{BLACK}Tillad indlæsning af gemte spil og scenarier{NEWLINE}der har en forkert checksum,{NEWLINE}Som scenarierne fra demoen{NEWLINE}Eller beskadiget gemte spil.
 STR_5510    :Standard lydenhed
 STR_5511    :(UKENDT)
 STR_5512    :Gem spil som
 STR_5513    :(Hurtig) gem spil
 STR_5514    :Deaktiver hærværk
 STR_5515    :{SMALLFONT}{BLACK}Stopper gæster fra at lave hærværk i din park , når de er sure
-STR_5516    :{SMALLFONT}{BLACK}Black
-STR_5517    :{SMALLFONT}{BLACK}Grey
-STR_5518    :{SMALLFONT}{BLACK}White
-STR_5519    :{SMALLFONT}{BLACK}Dark purple
-STR_5520    :{SMALLFONT}{BLACK}Light purple
-STR_5521    :{SMALLFONT}{BLACK}Bright purple
-STR_5522    :{SMALLFONT}{BLACK}Dark blå
-STR_5523    :{SMALLFONT}{BLACK}Light blå
-STR_5524    :{SMALLFONT}{BLACK}Icy blå
-STR_5525    :{SMALLFONT}{BLACK}Dark water
-STR_5526    :{SMALLFONT}{BLACK}Light water
-STR_5527    :{SMALLFONT}{BLACK}Saturated grøn
-STR_5528    :{SMALLFONT}{BLACK}Dark grøn
-STR_5529    :{SMALLFONT}{BLACK}Moss grøn
-STR_5530    :{SMALLFONT}{BLACK}Bright grøn
-STR_5531    :{SMALLFONT}{BLACK}Olive grøn
-STR_5532    :{SMALLFONT}{BLACK}Dark olive grøn
-STR_5533    :{SMALLFONT}{BLACK}Bright gul
-STR_5534    :{SMALLFONT}{BLACK}Yellow
-STR_5535    :{SMALLFONT}{BLACK}Dark gul
-STR_5536    :{SMALLFONT}{BLACK}Light orange
-STR_5537    :{SMALLFONT}{BLACK}Dark orange
-STR_5538    :{SMALLFONT}{BLACK}Light brown
-STR_5539    :{SMALLFONT}{BLACK}Saturated brown
-STR_5540    :{SMALLFONT}{BLACK}Dark brown
-STR_5541    :{SMALLFONT}{BLACK}Salmon pink
+STR_5516    :{SMALLFONT}{BLACK}Sort
+STR_5517    :{SMALLFONT}{BLACK}Grå
+STR_5518    :{SMALLFONT}{BLACK}Hvid
+STR_5519    :{SMALLFONT}{BLACK}Mørkelilla
+STR_5520    :{SMALLFONT}{BLACK}Lyslilla
+STR_5521    :{SMALLFONT}{BLACK}Kraftig lilla
+STR_5522    :{SMALLFONT}{BLACK}Mørkeblå
+STR_5523    :{SMALLFONT}{BLACK}Lyseblå
+STR_5524    :{SMALLFONT}{BLACK}Isblå
+STR_5525    :{SMALLFONT}{BLACK}Mørk vand
+STR_5526    :{SMALLFONT}{BLACK}Lys vand
+STR_5527    :{SMALLFONT}{BLACK}Neongrøn
+STR_5528    :{SMALLFONT}{BLACK}Mørkegrøn
+STR_5529    :{SMALLFONT}{BLACK}Mos grøn
+STR_5530    :{SMALLFONT}{BLACK}Kraftig grøn
+STR_5531    :{SMALLFONT}{BLACK}Olivengrøn
+STR_5532    :{SMALLFONT}{BLACK}Mørk olivengrøn
+STR_5533    :{SMALLFONT}{BLACK}Kraftig gul
+STR_5534    :{SMALLFONT}{BLACK}Gul
+STR_5535    :{SMALLFONT}{BLACK}Mørkegul
+STR_5536    :{SMALLFONT}{BLACK}Lys orange
+STR_5537    :{SMALLFONT}{BLACK}Mørk orange
+STR_5538    :{SMALLFONT}{BLACK}Lysebrun
+STR_5539    :{SMALLFONT}{BLACK}Kraftig brun
+STR_5540    :{SMALLFONT}{BLACK}Mørkbrun
+STR_5541    :{SMALLFONT}{BLACK}Laksefarvet
 STR_5542    :{SMALLFONT}{BLACK}Bordeaux rød
-STR_5543    :{SMALLFONT}{BLACK}Saturated rød
-STR_5544    :{SMALLFONT}{BLACK}Bright rød
-STR_5545    :{SMALLFONT}{BLACK}Dark pink
-STR_5546    :{SMALLFONT}{BLACK}Bright pink
-STR_5547    :{SMALLFONT}{BLACK}Light pink
-STR_5548    :Vis all operating modes
-STR_5549    :Year/Month/Day
-STR_5550    :{POP16}{POP16}Year {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
-STR_5551    :Year/Day/Month
-STR_5552    :{POP16}{POP16}Year {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
-STR_5553    :Pause game when Steam overlay is open
-STR_5554    :{SMALLFONT}{BLACK}Enable mountain tool
-STR_5555    :Vis vehicles from other track types
-STR_5556    :{SMALLFONT}{BLACK}Kick player
+STR_5543    :{SMALLFONT}{BLACK}Neonrød
+STR_5544    :{SMALLFONT}{BLACK}Kraftig rød
+STR_5545    :{SMALLFONT}{BLACK}Mørk pink
+STR_5546    :{SMALLFONT}{BLACK}Kraftig pink
+STR_5547    :{SMALLFONT}{BLACK}Lys pink
+STR_5548    :Vis alle operationstilstande
+STR_5549    :År/Måned/Dag
+STR_5550    :{POP16}{POP16}År {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
+STR_5551    :År/Dag/Måned
+STR_5552    :{POP16}{POP16}År {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
+STR_5553    :Sæt spillet på pause når 'Steam' er åben
+STR_5554    :{SMALLFONT}{BLACK}Aktiver bjergværktøj
+STR_5555    :Vis vogne fra andre sportype
+STR_5556    :{SMALLFONT}{BLACK}Smid spiller ud
 STR_5557    :Stay connected after desynchronisation (Multiplayer)
 STR_5558    :A restart is required for this setting to take effect
 STR_5559    :10 min. inspections
