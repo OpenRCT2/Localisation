@@ -3891,232 +3891,232 @@ STR_5551    :År/Dag/Måned
 STR_5552    :{POP16}{POP16}År {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
 STR_5553    :Sæt spillet på pause når 'Steam' er åben
 STR_5554    :{SMALLFONT}{BLACK}Aktiver bjergværktøj
-STR_5555    :Vis vogne fra andre sportype
+STR_5555    :Vis vogne fra andre spor type
 STR_5556    :{SMALLFONT}{BLACK}Smid spiller ud
-STR_5557    :Stay connected after desynchronisation (Multiplayer)
-STR_5558    :A restart is required for this setting to take effect
-STR_5559    :10 min. inspections
-STR_5560    :{SMALLFONT}{BLACK}Sets the inspection time to 'Every 10 minutes' on all forlystelser
-STR_5561    :Failed to load language
+STR_5557    :Forbliv forbundet efter afbrudt forbindelse (Multiplayer)
+STR_5558    :En genstart er påkrævet før indstillingerne træder i kraft
+STR_5559    :10 min. inspektioner
+STR_5560    :{SMALLFONT}{BLACK}Sæt inspektions interval til 'hvert 10. minut' på alle forlystelser
+STR_5561    :Kan ikke indlæse sprog
 STR_5562    :ADVARSEL!
-STR_5563    :This feature is currently unstable, take extra caution.
-STR_5564    :Insert Corrupt Element
-STR_5565    :{SMALLFONT}{BLACK}Inserts a corrupt map element at top of tile. This will hide any element above the corrupt element.
-STR_5566    :Password:
-STR_5567    :Advertise
-STR_5568    :Password Required
-STR_5569    :This server requires a password
-STR_5570    :Fetch Servers
-STR_5571    :Join Game
-STR_5572    :Add To Favourites
-STR_5573    :Fjern From Favourites
-STR_5574    :Server Name:
-STR_5575    :Max Players:
+STR_5563    :Denne funktion er i øjeblikket ustabil, vær ekstra forsigtig.
+STR_5564    :Indsæt beskadiget element
+STR_5565    :{SMALLFONT}{BLACK}Indsætter et beskadiget kort element på dette felt. Dette vil dække elementet oven på det beskadiget element.
+STR_5566    :Kode:
+STR_5567    :Offentliggør
+STR_5568    :Kode påkrævet
+STR_5569    :Denne server kræver en kode
+STR_5570    :Opdater Serverliste
+STR_5571    :Tilslut spil
+STR_5572    :Tilføj til favoritter
+STR_5573    :Fjern fra favoritter
+STR_5574    :Server Navn:
+STR_5575    :Max spillere:
 STR_5576    :Port:
-STR_5577    :South Korean Won (W)
-STR_5578    :Russian Rouble (R)
-STR_5579    :Window scale factor:
-STR_5580    :Czech koruna (Kc)
+STR_5577    :Syd Koreanske Won (W)
+STR_5578    :Russiske Rubler (R)
+STR_5579    :Vindues skalarings faktor:
+STR_5580    :Tjekkiske koruna (Kc)
 STR_5581    :Vis FPS
-STR_5582    :Trap mouse cursor in window
+STR_5582    :Lås musemarkør til vinduet
 STR_5583    :{COMMA1DP16}ms{POWERNEGATIVEONE}
 STR_5584    :SI
 STR_5585    :{SMALLFONT}{BLACK}Unlocks ride operation limits, allowing for things like {VELOCITY} lift hills
-STR_5586    :Automatically open butikker og boder
-STR_5587    :{SMALLFONT}{BLACK}Shops and stalls will be automatically opened after building them
-STR_5588    :{SMALLFONT}{BLACK}Play with other players
-STR_5589    :Notification Settings
-STR_5590    :Park awards
-STR_5591    :Marketing campaign has finished
-STR_5592    :Park warnings
-STR_5593    :Park rating warnings
-STR_5594    :Forlystelse has broken down
-STR_5595    :Forlystelse has crashed
-STR_5596    :Forlystelse warnings
-STR_5597    :Forlystelse / scenery researched
-STR_5598    :Gæst warnings
-STR_5599    :Gæst is lost
-STR_5600    :Gæst has left the park
-STR_5601    :Gæst is queuing for ride
-STR_5602    :Gæst is on ride
-STR_5603    :Gæst has left ride
-STR_5604    :Gæst has bought item
-STR_5605    :Gæst has used facility
-STR_5606    :Gæst has died
-STR_5607    :{SMALLFONT}{BLACK}Forcefully remove selected map element.
+STR_5586    :Åben butikker og boder automatisk
+STR_5587    :{SMALLFONT}{BLACK}Butikker og boder vil automatisk blive åbnet ,når de bliver bygget
+STR_5588    :{SMALLFONT}{BLACK}Spil med andre spillere
+STR_5589    :Indstillinger for underretninger
+STR_5590    :Park præmier
+STR_5591    :Marketingskampagne afsluttet
+STR_5592    :Park advarsler
+STR_5593    :Park vurdering advarsler
+STR_5594    :Forlystelse er brudt sammen
+STR_5595    :Forlystelse er forulykket
+STR_5596    :Forlystelses advarsler
+STR_5597    :Forlystelses / sceneri udforsket
+STR_5598    :Gæst advarsler
+STR_5599    :Gæst er faret vild
+STR_5600    :Gæst har forladt parken
+STR_5601    :Gæst sår i kø ved forlystelse
+STR_5602    :Gæst er i forlystelse
+STR_5603    :Gæst har forladt forlystelsen
+STR_5604    :Gæst har købt genstand
+STR_5605    :Gæst har brugt facilitet
+STR_5606    :Gæst døde
+STR_5607    :{SMALLFONT}{BLACK}Tvungen fjernelse af kortelement.
 STR_5608    :BH
 STR_5609    :CH
-STR_5610    :{SMALLFONT}{BLACK}Remove the currently selected map element. This will forcefully remove it, so no cash will be used/gained. Use with caution.
+STR_5610    :{SMALLFONT}{BLACK}Fjern det aktuelt valgte kortelement. Dette vil tvunget fjerne det, så ingen kontanter vil blive brugt/vundet. Brug med forsigtighed.
 STR_5611    :G
-STR_5612    :{SMALLFONT}{BLACK}Ghost flag
+STR_5612    :{SMALLFONT}{BLACK}Spøgelses flag
 STR_5613    :B
-STR_5614    :{SMALLFONT}{BLACK}Broken flag
+STR_5614    :{SMALLFONT}{BLACK}Defekt flag
 STR_5615    :L
-STR_5616    :{SMALLFONT}{BLACK}Last element for tile flag
-STR_5617    :{SMALLFONT}{BLACK}Move selected element up.
-STR_5618    :{SMALLFONT}{BLACK}Move selected element down.
+STR_5616    :{SMALLFONT}{BLACK}Sidste element for felt flag
+STR_5617    :{SMALLFONT}{BLACK}Flyt valgte element op.
+STR_5618    :{SMALLFONT}{BLACK}Flyt valgte element ned.
 STR_5619    :RollerCoaster Tycoon
 STR_5620    :Added Attractions
 STR_5621    :Loopy Landscapes
 STR_5622    :RollerCoaster Tycoon 2
 STR_5623    :Wacky Worlds
 STR_5624    :Time Twister
-STR_5625    :{OPENQUOTES}Real{ENDQUOTES} Parks
-STR_5626    :Other Parks
-STR_5627    :Group scenario list by:
-STR_5628    :Source game
-STR_5629    :Difficulty level
-STR_5630    :Enable progressive unlocking
-STR_5631    :Original DLC Parks
-STR_5632    :Build your own...
+STR_5625    :{OPENQUOTES}Rigtige {ENDQUOTES} Parker
+STR_5626    :Andre Parker
+STR_5627    :Grupper scenarie lister efter:
+STR_5628    :Kilde spil
+STR_5629    :Sværhedsgrad
+STR_5630    :Aktiver progressiv frigørelse
+STR_5631    :Originale DLC parker
+STR_5632    :Byg din egen...
 STR_5633    :CMD + 
 STR_5634    :OPTION + 
-STR_5635    :{WINDOW_COLOUR_2}Money spent: {BLACK}{CURRENCY2DP}
-STR_5636    :{WINDOW_COLOUR_2}Commands ran: {BLACK}{COMMA16}
-STR_5637    :Kan ikke do this...
-STR_5638    :Permission denied
-STR_5639    :{SMALLFONT}{BLACK}Vis list of players
-STR_5640    :{SMALLFONT}{BLACK}Manage groups
-STR_5641    :Default Group:
-STR_5642    :Group
-STR_5643    :Add Group
-STR_5644    :Fjern Group
+STR_5635    :{WINDOW_COLOUR_2}Penge brugt: {BLACK}{CURRENCY2DP}
+STR_5636    :{WINDOW_COLOUR_2}Kommandoer kørt: {BLACK}{COMMA16}
+STR_5637    :Kan ikke gøre dette...
+STR_5638    :Tilladelse nægtet
+STR_5639    :{SMALLFONT}{BLACK}Vis liste over spillere
+STR_5640    :{SMALLFONT}{BLACK}Administrer grupper
+STR_5641    :Standardgruppe:
+STR_5642    :Gruppe
+STR_5643    :Tilføj Gruppe
+STR_5644    :Fjern Gruppe
 STR_5645    :Chat
 STR_5646    :Terraform
-STR_5647    :Toggle Pause
-STR_5648    :Set Water Level
-STR_5649    :Create Ride
-STR_5650    :Fjern Ride
-STR_5651    :Build Ride
-STR_5652    :Forlystelse Properties
-STR_5653    :Scenery
-STR_5654    :Path
+STR_5647    :Skift mellem pause
+STR_5648    :Indstil vandstanden
+STR_5649    :Opret forlystelse
+STR_5650    :Fjern forlystelse
+STR_5651    :Byg forlystelse
+STR_5652    :Forlystelse egenskaber
+STR_5653    :Sceneri
+STR_5654    :Sti
 STR_5655    :Gæst
-STR_5656    :Staff
-STR_5657    :Park Properties
-STR_5658    :Park Funding
-STR_5659    :Kick Player
-STR_5660    :Modify Groups
-STR_5661    :Set Player Group
+STR_5656    :Personale
+STR_5657    :Park indstillinger
+STR_5658    :Park finansiering
+STR_5659    :Smid spiller ud
+STR_5660    :Modificer Grupper
+STR_5661    :sæt spiller gruppe
 STR_5662    :N/A
-STR_5663    :Clear Landscape
-STR_5664    :Cheat
-STR_5665    :Toggle Scenery Cluster
-STR_5666    :Passwordless Login
-STR_5701    :{WINDOW_COLOUR_2}Last action: {BLACK}{STRINGID}
-STR_5702    :{SMALLFONT}{BLACK}Locate player's most recent action
-STR_5703    :Kan ikke kick the host
-STR_5704    :Last Action
-STR_5705    :Kan ikke set to this group
-STR_5706    :Kan ikke remove group that players belong to
-STR_5707    :This group cannot be modified
-STR_5708    :Kan ikke change the group that the host belongs to
-STR_5709    :Rename Group
-STR_5710    :Group name
-STR_5711    :Enter new name for this group:
-STR_5712    :Kan ikke modify permission that you do not have yourself
-STR_5713    :Kick Player
-STR_5714    :Vis options window
-STR_5715    :New Game
-STR_5716    :Not allowed in multiplayer mode
+STR_5663    :Ryd landskab
+STR_5664    :Snyd
+STR_5665    :Skift sceneri-klynge
+STR_5666    :Kodefrit Logind
+STR_5701    :{WINDOW_COLOUR_2}Sidste handling: {BLACK}{STRINGID}
+STR_5702    :{SMALLFONT}{BLACK}Lokaliser spillers sidste handling
+STR_5703    :Kan ikke smide værten ud
+STR_5704    :Sidste handling
+STR_5705    :Kan ikke sætte i denne gruppe
+STR_5706    :Kan ikke fjerne en gruppe med spillere i
+STR_5707    :Denne gruppe kan ikke ændres
+STR_5708    :Kan ikke ændre gruppen som værten er medlem af
+STR_5709    :Omdøb Gruppe
+STR_5710    :Gruppe navn
+STR_5711    :Angiv nyt navn for denne gruppe:
+STR_5712    :Kan ikke redigere tilladelser, som du ikke selv har
+STR_5713    :Smid spiller ud
+STR_5714    :Vis indstillingsvindue
+STR_5715    :Nyt spil
+STR_5716    :Ikke tilladt i multiplayer tilstand
 # For identifying client network version in server list window
-STR_5717    :Network version: {STRING}
-STR_5718    :{SMALLFONT}{BLACK}Network version: {STRING}
-STR_5719    :Sunny
-STR_5720    :Partially Cloudy
-STR_5721    :Cloudy
-STR_5722    :Rain
-STR_5723    :Heavy Rain
-STR_5724    :Thunderstorm
-STR_5725    :{BLACK}Force weather:
-STR_5726    :{SMALLFONT}{BLACK}Sets the current weather i parken
-STR_5727    :Scaling quality:
-STR_5728    :Requires hardware display option
-STR_5729    :{SMALLFONT}{BLACK}Requires hardware display option
+STR_5717    :Netværks version: {STRING}
+STR_5718    :{SMALLFONT}{BLACK}Netværks version: {STRING}
+STR_5719    :Solskin
+STR_5720    :Skyet
+STR_5721    :Overskyet
+STR_5722    :Regn
+STR_5723    :Kraftig regn
+STR_5724    :Skybrud
+STR_5725    :{BLACK}Tving vejr:
+STR_5726    :{SMALLFONT}{BLACK}Indstiller det nuværende vejr i parken
+STR_5727    :Skalerings kvalitet:
+STR_5728    :Kræver hardware Skærmindstillinger
+STR_5729    :{SMALLFONT}{BLACK}Kræver hardware skærmindstillinger
 STR_5730    :<removed string - do not use>
-STR_5731    :Linear
+STR_5731    :Lineær
 STR_5732    :<removed string - do not use>
 STR_5733    :<removed string - do not use>
 # tooltip for tab in options window
-STR_5734    :{SMALLFONT}{BLACK}Rendering
-STR_5735    :Network Status
-STR_5736    :Player
-STR_5737    :Closed, {COMMA16} person still on ride
-STR_5738    :Closed, {COMMA16} people still on ride
-STR_5739    :{WINDOW_COLOUR_2}Customers on ride: {BLACK}{COMMA16}
-STR_5740    :Never-ending marketing campaigns
-STR_5741    :{SMALLFONT}{BLACK}Marketing campaigns never end
-STR_5742    :Authenticating ...
-STR_5743    :Connecting ...
-STR_5744    :Resolving ...
-STR_5745    :Network desync detected
-STR_5746    :Disconnected
-STR_5747    :Disconnected: {STRING}
-STR_5748    :Kicked
-STR_5749    :Get out of the server!
-STR_5750    :Connection Closed
-STR_5751    :No Data
-STR_5752    :{OUTLINE}{RED}{STRING} has disconnected
-STR_5753    :{OUTLINE}{RED}{STRING} has disconnected ({STRING})
-STR_5754    :Bad Player Name
-STR_5755    :Incorrect Software Version (Server is using {STRING})
-STR_5756    :Bad Password
-STR_5757    :Server Full
-STR_5758    :{OUTLINE}{GREEN}{STRING} has joined the game
-STR_5759    :Downloading map ... ({INT32} / {INT32}) KiB
+STR_5734    :{SMALLFONT}{BLACK}Gengivelse
+STR_5735    :Netværks Status
+STR_5736    :Spiller
+STR_5737    :Lukket, {COMMA16} person stadig i forlystelse
+STR_5738    :Lukket, {COMMA16} personer stadig i forlystelse
+STR_5739    :{WINDOW_COLOUR_2}Kunder i forlystelsen: {BLACK}{COMMA16}
+STR_5740    :Endeløse marketingkampagner
+STR_5741    :{SMALLFONT}{BLACK}Marketingkampagner slutter aldrig
+STR_5742    :Godkender ...
+STR_5743    :Forbinder ...
+STR_5744    :Tilslutter ...
+STR_5745    :Netværks synkroniserings fejl opstået
+STR_5746    :Afbrudt
+STR_5747    :Afbrudt: {STRING}
+STR_5748    :Smidt ud
+STR_5749    :Forlad denne server!
+STR_5750    :Forbindelse lukket
+STR_5751    :Ingen data
+STR_5752    :{OUTLINE}{RED}{STRING} har afbrudt
+STR_5753    :{OUTLINE}{RED}{STRING} har afbrudt ({STRING})
+STR_5754    :Ugyldigt spillernavn
+STR_5755    :Forkert spil version (Serveren kører med {STRING})
+STR_5756    :Ugyldig kode
+STR_5757    :Serveren er fyldt
+STR_5758    :{OUTLINE}{GREEN}{STRING} har sluttet sig til spillet
+STR_5759    :Henter kortet ... ({INT32} / {INT32}) KB
 STR_5760    :Hong Kong Dollars (HK$)
 STR_5761    :New Taiwan Dollar (NT$)
 STR_5762    :Chinese Yuan (CN{YEN})
-STR_5763    :All files
-STR_5764    :Invalid ride type
-STR_5765    :Cannot edit forlystelser of invalid type
+STR_5763    :Alle filer
+STR_5764    :Ugyldig forlystelses type
+STR_5765    :Kan ikke redigere ugyldige forlystelses typer
 STR_5766    :<available string id>
-STR_5767    :Income
-STR_5768    :Total customers
+STR_5767    :Indkomst
+STR_5768    :Total kunder
 STR_5769    :Total profit
-STR_5770    :Customers per hour
-STR_5771    :Running cost
-STR_5772    :Age
-STR_5773    :Total customers: {COMMA32}
+STR_5770    :Kunder per time
+STR_5771    :Driftsomkostninger
+STR_5772    :Alder
+STR_5773    :Total kunder: {COMMA32}
 STR_5774    :Total profit: {CURRENCY2DP}
-STR_5775    :Customers: {COMMA32} per hour
-STR_5776    :Built: This Year
-STR_5777    :Built: Last Year
-STR_5778    :Built: {COMMA16} Years Ago
-STR_5779    :Income: {CURRENCY2DP} per hour
-STR_5780    :Running cost: {CURRENCY2DP} per hour
-STR_5781    :Running cost: Ukendt
-STR_5782    :You are now connected. Press '{STRING}' to chat.
-STR_5783    :{WINDOW_COLOUR_2}Scenario Locked
-STR_5784    :{BLACK}Complete earlier scenarios to unlock this scenario.
-STR_5785    :Kan ikke rename group...
-STR_5786    :Invalid group name
-STR_5787    :{COMMA32} players online
-STR_5788    :Default inspection interval:
-STR_5789    :Disable lightning effect
-STR_5790    :{SMALLFONT}{BLACK}Toggles RCT1-style pricing{NEWLINE}(e.g. both ride price and indgang price)
-STR_5791    :{SMALLFONT}{BLACK}Sets the reliability of all forlystelser to 100%{NEWLINE}and resets their built date to {OPENQUOTES}this year{ENDQUOTES}
-STR_5792    :{SMALLFONT}{BLACK}Fixes all broken down forlystelser
-STR_5793    :{SMALLFONT}{BLACK}Resets the crash history of a ride,{NEWLINE}so gæster will not complain that its unsafe
-STR_5794    :{SMALLFONT}{BLACK}Some scenarios disable editing of some{NEWLINE}of the forlystelser already in the park.{NEWLINE}This cheat lifts the restriction
-STR_5795    :{SMALLFONT}{BLACK}Guests ride every attraction in the park{NEWLINE}even if the intensitet is extremely high
-STR_5796    :{SMALLFONT}{BLACK}Forces the park to close or open
-STR_5797    :{SMALLFONT}{BLACK}Disables weather changes and{NEWLINE}freezes the selected weather
-STR_5798    :{SMALLFONT}{BLACK}Allows building actions in pause mode
-STR_5799    :{SMALLFONT}{BLACK}Disables ride breakdowns and crashes due to brake failure
-STR_5800    :{SMALLFONT}{BLACK}Prevents forlystelser from breaking down
-STR_5801    :Disable littering
-STR_5802    :{SMALLFONT}{BLACK}Stops gæster from littering and vomiting
-STR_5803    :{SMALLFONT}{BLACK}Rotate selected map element
-STR_5804    :Mute sound
-STR_5805    :{SMALLFONT}{BLACK}If checked, your server will be added to the{NEWLINE}public server list so everyone can find it
-STR_5806    :Toggle windowed mode
-STR_5807    :{WINDOW_COLOUR_2}Number of forlystelser: {BLACK}{COMMA16}
-STR_5808    :{WINDOW_COLOUR_2}Number of butikker og boder: {BLACK}{COMMA16}
-STR_5809    :{WINDOW_COLOUR_2}Number of information kiosks and other facilities: {BLACK}{COMMA16}
-STR_5810    :Disable vehicle limits
-STR_5811    :{SMALLFONT}{BLACK}If checked, you can have up to{NEWLINE}255 cars per train and 31{NEWLINE}trains per ride
-STR_5812    :Vis multiplayer window
+STR_5775    :Kunder: {COMMA32} i timen
+STR_5776    :Bygget: Dette år
+STR_5777    :Bygget: Sidste år
+STR_5778    :Bygget: for {COMMA16} år siden
+STR_5779    :Indkomst: {CURRENCY2DP} i timen
+STR_5780    :Driftsomkostninger: {CURRENCY2DP} i timen
+STR_5781    :Driftsomkostninger: Ukendt
+STR_5782    :Du er nu forbundet. tryk på '{STRING}' for at chatte.
+STR_5783    :{WINDOW_COLOUR_2}Scenarie låst
+STR_5784    :{BLACK}Fuldfør tidligere scenarier for at låse dette scenario op.
+STR_5785    :Kan ikke omdøbe gruppe...
+STR_5786    :Ugyldigt gruppe navn
+STR_5787    :{COMMA32} Spillere online
+STR_5788    :Standard inspektions interval:
+STR_5789    :Deaktiver lyseffekter
+STR_5790    :{SMALLFONT}{BLACK}Skift imellem RCT1-stil prissætning{NEWLINE}(f.eks. både forlystelse pris og entrépris)
+STR_5791    :{SMALLFONT}{BLACK}Sætter pålideligheden af alle forlystelser til 100%{NEWLINE}og nulstiller alle byggedatoer til {OPENQUOTES}dette år{ENDQUOTES}
+STR_5792    :{SMALLFONT}{BLACK}Reparerer alle forlystelser der er brudt sammen
+STR_5793    :{SMALLFONT}{BLACK}Nulstiller ulykke statistikken for forlystelsen,{NEWLINE}så gæster ikke klager over at den er for usikker
+STR_5794    :{SMALLFONT}{BLACK}Nogle scenarier deaktiverer redigering af nogle {NEWLINE}af forlystelserne allerede i parken.{NEWLINE}Denne snydefunktion fjerner begrænsningen
+STR_5795    :{SMALLFONT}{BLACK}Gæster prøver alle forlystelser i parken{NEWLINE}Selv hvis intensiteten er ekstremt høj
+STR_5796    :{SMALLFONT}{BLACK}Tvinger parken til at åbne eller lukke
+STR_5797    :{SMALLFONT}{BLACK}Deaktiverer vejrændringer,{NEWLINE}og fastlåser det valgte vejr
+STR_5798    :{SMALLFONT}{BLACK}Gør det muligt at bygge i pausetilstand
+STR_5799    :{SMALLFONT}{BLACK}Deaktiverer forlystelse nedbrud og nedbrud på grund af bremse svigt
+STR_5800    :{SMALLFONT}{BLACK}Forhindrer forlystelser i at bryde sammen
+STR_5801    :Deaktiver henkastning
+STR_5802    :{SMALLFONT}{BLACK}Forhindrer gæster i at smide affald og kaste op
+STR_5803    :{SMALLFONT}{BLACK}Rotér valgte kort element
+STR_5804    :Lydløs
+STR_5805    :{SMALLFONT}{BLACK}Hvis dette felt er markeret, vil din server blive føjet til den offentlige serverliste,{NEWLINE}så alle kan finde den
+STR_5806    :Skift vinduestilstand
+STR_5807    :{WINDOW_COLOUR_2}Antal forlystelser: {BLACK}{COMMA16}
+STR_5808    :{WINDOW_COLOUR_2}Antal butikker og boder: {BLACK}{COMMA16}
+STR_5809    :{WINDOW_COLOUR_2}Antal information kiosker og andre faciliteter: {BLACK}{COMMA16}
+STR_5810    :Deaktiver vogn begrænsninger
+STR_5811    :{SMALLFONT}{BLACK}Hvis det er markeret, kan du have op til{NEWLINE}255 vogne per tog, og{newline}31 tog per tur
+STR_5812    :Vis multiplayer vindue
 STR_5813    :{OPENQUOTES}{STRING}{ENDQUOTES}
 STR_5814    :{WINDOW_COLOUR_1}{OPENQUOTES}{STRING}{ENDQUOTES}
 
@@ -4376,12 +4376,12 @@ STR_6066    :{SMALLFONT}{BLACK}Logs all user actions to files in your user direc
 STR_6067    :Server started.
 STR_6068    :Server shutdown.
 STR_6069    :{STRING} was kicked from the server by {STRING}.
-STR_6070    :{STRING} was set to group '{STRING}' by {STRING}.
-STR_6071    :{STRING} created new player group '{STRING}'.
-STR_6072    :{STRING} deleted player group '{String}'.
-STR_6073    :{STRING} edited permissions for player group '{String}'.
-STR_6074    :{STRING} changed player group name from '{String}' to '{String}'.
-STR_6075    :{STRING} changed the default player group to '{String}'.
+STR_6070    :{STRING} was set to gruppe '{STRING}' by {STRING}.
+STR_6071    :{STRING} created new player gruppe '{STRING}'.
+STR_6072    :{STRING} deleted player gruppe '{String}'.
+STR_6073    :{STRING} edited permissions for player gruppe '{String}'.
+STR_6074    :{STRING} changed player gruppe name from '{String}' to '{String}'.
+STR_6075    :{STRING} changed the default player gruppe to '{String}'.
 STR_6076    :{STRING} used/toggled cheat '{STRING}'.
 STR_6077    :Add Money
 STR_6078    :{STRING} created ride '{STRING}'.
@@ -5145,7 +5145,7 @@ STR_DTLS    :Build your own design of Six Flags park - Either build forlystelser
 <Bumbly Bazaar>
 STR_SCNR    :Bumbly Bazaar
 STR_PARK    :Bumbly Bazaar
-STR_DTLS    :Starting with a small market bazaar, your challenge is to increase the profit from butikker og boder by building forlystelser and rutschebaner to attract more customers
+STR_DTLS    :Starting with a small market bazaar, your challenge is to increase the profit from butikker og boder by building forlystelser and rutschebaner to attract more kunder
 
 <Crazy Castle>
 STR_SCNR    :Crazy Castle
