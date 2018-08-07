@@ -519,7 +519,7 @@ STR_0514    :Vogne suspenderet under rutschebane sporet, svinger ud til siden i 
 STR_0515    :En stålrutschebane med vogne der er monteret under sporet, med mange komplekse og drejende spor elementer
 STR_0516    :En rolig rutschebane for folk der endnu ikke har modet til at prøve de større rutschebaner
 STR_0517    :Passaserer sidder i miniature vogne, som kører på en smal-sporet skinde.
-STR_0518    :Passaserer sidder i et electrisk tog, som kører på en monorail skinne
+STR_0518    :Passaserer sidder i et elektrisk tog, som kører på en monorail skinne
 STR_0519    :Passaserer sidder i små vogne, som hænger under et monorail spor, som svinger frit fra side til side i svingene
 STR_0520    :En kaj platform hvor gæster kan ro/sejle med personlige fartøjer på vandet
 STR_0521    :En hurtig rutschebane with skarpe sving and store fald. Intensiteten bliver sikkert høj
@@ -533,12 +533,12 @@ STR_0528    :Passagerer sidder i en oppustelig gummibåd ned af et snoet halv-ci
 STR_0529    :Minevogns rutschebane, kører på en stålskinne som er lavet til at se ud som en gammel jernbane
 STR_0530    :Vogne hænger i et stålkabel, som kører kontinuerligt fra den ene ende af banen, til den anden, og tilbage igen
 STR_0531    :En kompakt stålbane rutschebane, hvor vognene kører igennem proptrækkersving og loops
-STR_0532    :Labyrinth konstrueret af 2 meter høje hække og vægge, og gæsterne bevæger sig rundt i labyrinthen, og kommer kun ud hvis de finder udgangen
+STR_0532    :Labyrint konstrueret af 2 meter høje hække og væge, og gæsterne bevæger sig rundt i labyrinthen, og kommer kun ud hvis de finder udgangen
 STR_0533    :Træbygning med en intern trappe, og en ekstern traditionel rutschebane, hvor gæster sidder på måtter
 STR_0534    :Gæster kører i benzin drevet go karts
 STR_0535    :Træstammeformet både sejler langs en vandfyldt bane, plasker ned af stejle fald, for at gøre passagerne våde
 STR_0536    :Runde både sejler rundt i en bred kanal, med bølger og små fald, vandfald, og uroligt vand
-STR_0537    :Gæster kører i eletriske radiobiler
+STR_0537    :Gæster kører i elektriske radiobiler
 STR_0538    :Stort svingende piratskib
 STR_0539    :Et skib monteret på en arm, med en stor kontravægt i den modsatte ende, som kan køre 360 grader rundt.
 STR_0540    :En bod, hvor gæster kan købe madvarer
@@ -1065,7 +1065,7 @@ STR_1059    :Kan ikke omdøbe forlystelsen/attraktionen...
 STR_1060    :Ugyldigt forlystelse/attraktion navn
 STR_1061    :Normal tilstand
 STR_1062    :Kontinuerlig kredsløb tilstand
-STR_1063    :Baglens-stignings afsendelse tilstand
+STR_1063    :Baglæns-stignings afsendelse tilstand
 STR_1064    :Kraftfuld afsendelse (forbi stationen)
 STR_1065    :Afsendelses tilstand
 STR_1066    :Bådudlejnings tilstand
@@ -1074,7 +1074,7 @@ STR_1068    :Roterende lift tilstand
 STR_1069    :Station til station tilstand
 STR_1070    :Enkelt tur per adgang
 STR_1071    :uendelige ture per adgang
-STR_1072    :Labyrinth tilstand
+STR_1072    :Labyrint tilstand
 STR_1073    :Racer tilstand
 STR_1074    :Radiobil tilstand
 STR_1075    :Gynge tilstand
@@ -1091,7 +1091,7 @@ STR_1085    :Film: {ENDQUOTES}Thrill riders{ENDQUOTES}
 STR_1086    :3D film: {ENDQUOTES}Storm chasers{ENDQUOTES}
 STR_1087    :3D film: {ENDQUOTES}Space raiders{ENDQUOTES}
 STR_1088    :Intens tilstand
-STR_1089    :Berserk tilstand
+STR_1089    :Bersærk tilstand
 STR_1090    :Spøgelseshus tilstand
 STR_1091    :Cirkus tilstand
 STR_1092    :Nedadgående afsendelse
@@ -1170,7 +1170,7 @@ STR_1164    :{STRINGID}{NEWLINE}(Højre-klik for at fjerne)
 STR_1165    :{STRINGID} - {STRINGID} {COMMA16}
 STR_1166    :Kan ikke sænke vand her...
 STR_1167    :Kan ikke hæve vand her...
-STR_1168    :Indtsillinger
+STR_1168    :Indstillinger
 STR_1169    :(ingen)
 STR_1170    :{STRING}
 STR_1171    :{RED}Lukket - - 
@@ -1214,9 +1214,9 @@ STR_1208    :{WINDOW_COLOUR_2}sejl hvis en anden båd ankommer til stationen
 STR_1209    :{SMALLFONT}{BLACK}Vælg om der skal ventes på passagerer før afgang
 STR_1210    :{SMALLFONT}{BLACK}Vælg afgang, hvis der ankommer et andet tog til stationen
 STR_1211    :{WINDOW_COLOUR_2}Minimum ventetid:
-STR_1212    :{WINDOW_COLOUR_2}Maximum ventetid:
+STR_1212    :{WINDOW_COLOUR_2}Maksimum ventetid:
 STR_1213    :{SMALLFONT}{BLACK}Vælg minimum ventetid før afgang
-STR_1214    :{SMALLFONT}{BLACK}Vælg maximum ventetid før afgang
+STR_1214    :{SMALLFONT}{BLACK}Vælg maksimum ventetid før afgang
 STR_1215    :{WINDOW_COLOUR_2}Synkroniser med tilhørende stationer
 STR_1216    :{SMALLFONT}{BLACK}Vælg synkronisering af afgang for flere stationer (for 'racerløb')
 STR_1217    :{COMMA16} sekunder
@@ -1273,24 +1273,24 @@ STR_1267    :Biler
 STR_1268    :{COMMA16} bil
 STR_1269    :{COMMA16} biler
 STR_1270    :Bil {COMMA16}
-STR_1271    :bybning
+STR_1271    :bygning
 STR_1272    :bygninger
 STR_1273    :Bygning
 STR_1274    :Bygninger
 STR_1275    :{COMMA16} bygning
 STR_1276    :{COMMA16} Bygninger
 STR_1277    :Bygning {COMMA16}
-STR_1278    :structur
-STR_1279    :structurer
-STR_1280    :Structur
-STR_1281    :Structurer
-STR_1282    :{COMMA16} structur
-STR_1283    :{COMMA16} structurer
-STR_1284    :Structur {COMMA16}
+STR_1278    :struktur
+STR_1279    :struturer
+STR_1280    :Struktur
+STR_1281    :Strukturer
+STR_1282    :{COMMA16} struktur
+STR_1283    :{COMMA16} strukturer
+STR_1284    :Struktur {COMMA16}
 STR_1285    :skib
 STR_1286    :skibe
 STR_1287    :Skib
-STR_1288    :Sskibe
+STR_1288    :Skibe
 STR_1289    :{COMMA16} skib
 STR_1290    :{COMMA16} skibe
 STR_1291    :Skib {COMMA16}
@@ -1332,7 +1332,7 @@ STR_1326    :Bane {COMMA16}
 STR_1327    :{SMALLFONT}{BLACK}Roter objekts med 90{DEGREE}
 STR_1328    :Fladt land påkrævet
 STR_1329    :{WINDOW_COLOUR_2}Afsendelses hastighed:
-STR_1330    :{SMALLFONT}{BLACK}Maximum hastighed ved afgang fra stationen
+STR_1330    :{SMALLFONT}{BLACK}Maksimum hastighed ved afgang fra stationen
 STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_1332    :{VELOCITY}
 STR_1333    :{STRINGID} - {STRINGID}{POP16}
@@ -1397,7 +1397,7 @@ STR_1391    :{RED}{CURRENCY2DP}
 STR_1392    :{SMALLFONT}{BLACK}Oversigt over forlystelse/attraktion
 STR_1393    :{SMALLFONT}{BLACK}Vogn detaljer og indstillinger
 STR_1394    :{SMALLFONT}{BLACK}Operations indstillinger
-STR_1395    :{SMALLFONT}{BLACK}Vedligeholdeses indstillinger
+STR_1395    :{SMALLFONT}{BLACK}Vedligeholdelses indstillinger
 STR_1396    :{SMALLFONT}{BLACK}Farve udsmykning indstillinger
 STR_1397    :{SMALLFONT}{BLACK}Lyd & musik indstillinger
 STR_1398    :{SMALLFONT}{BLACK}Målinger og test data
@@ -1408,7 +1408,7 @@ STR_1402    :{SMALLFONT}{BLACK}Byg eller flyt indgangen til forlystelse/attrakti
 STR_1403    :{SMALLFONT}{BLACK}Byg eller flyt udgangen fra forlystelse/attraktion
 STR_1404    :{SMALLFONT}{BLACK}Roter 90{DEGREE}
 STR_1405    :{SMALLFONT}{BLACK}Spejlvend billede
-STR_1406    :{SMALLFONT}{BLACK}Slå scenerei til/fra (hvis muligt for dette design)
+STR_1406    :{SMALLFONT}{BLACK}Slå sceneri til/fra (hvis muligt for dette design)
 STR_1407    :{WINDOW_COLOUR_2}Byg denne...
 STR_1408    :{WINDOW_COLOUR_2}Pris: {BLACK}{CURRENCY}
 STR_1409    :Indgang/udgang Platform
@@ -1537,7 +1537,7 @@ STR_1531    :{SMALLFONT}{OPENQUOTES}Pizza'en fra {STRINGID} er et godt køb{ENDQ
 STR_1532    :
 STR_1533    :{SMALLFONT}{OPENQUOTES}Popcorn'ene fra {STRINGID} er et godt køb{ENDQUOTES}
 STR_1534    :{SMALLFONT}{OPENQUOTES}Denne Hot dog fra {STRINGID} er et godt køb{ENDQUOTES}
-STR_1535    :{SMALLFONT}{OPENQUOTES}Denne tentacle fra {STRINGID} er et godt køb{ENDQUOTES}
+STR_1535    :{SMALLFONT}{OPENQUOTES}Denne tentakel fra {STRINGID} er et godt køb{ENDQUOTES}
 STR_1536    :{SMALLFONT}{OPENQUOTES}Hatten fra {STRINGID} er et godt køb{ENDQUOTES}
 STR_1537    :{SMALLFONT}{OPENQUOTES}Det kandiserede æble fra {STRINGID} er et godt køb{ENDQUOTES}
 STR_1538    :{SMALLFONT}{OPENQUOTES}T-shirt'en fra {STRINGID} er et godt køb{ENDQUOTES}
@@ -1553,7 +1553,7 @@ STR_1547    :
 STR_1548    :
 STR_1549    :
 STR_1550    :{SMALLFONT}{OPENQUOTES}Wow!{ENDQUOTES}
-STR_1551    :{SMALLFONT}{OPENQUOTES}Jeg har en under fornemmelse, af at der er noger, der holder øje med mig{ENDQUOTES}
+STR_1551    :{SMALLFONT}{OPENQUOTES}Jeg har en under fornemmelse, af at der er nogen, der holder øje med mig{ENDQUOTES}
 STR_1552    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for en ballon fra {STRINGID}{ENDQUOTES}
 STR_1553    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for et krammedyr fra {STRINGID}{ENDQUOTES}
 STR_1554    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for et park kort fra {STRINGID}{ENDQUOTES}
@@ -1571,7 +1571,7 @@ STR_1565    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for pizza fra 
 STR_1566    :
 STR_1567    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for popcorn fra {STRINGID}{ENDQUOTES}
 STR_1568    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for en hot dog fra {STRINGID}{ENDQUOTES}
-STR_1569    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for en tentacle fra {STRINGID}{ENDQUOTES}
+STR_1569    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for en tentakel fra {STRINGID}{ENDQUOTES}
 STR_1570    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for en hat fra {STRINGID}{ENDQUOTES}
 STR_1571    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for et kandiseret æble fra {STRINGID}{ENDQUOTES}
 STR_1572    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for en T-shirt fra {STRINGID}{ENDQUOTES}
@@ -1594,7 +1594,7 @@ STR_1588    :{SMALLFONT}{OPENQUOTES}Den varme chokolade fra {STRINGID} er et god
 STR_1589    :{SMALLFONT}{OPENQUOTES}Is the'en fra {STRINGID} er et godt køb{ENDQUOTES}
 STR_1590    :{SMALLFONT}{OPENQUOTES}Churrios'ene fra {STRINGID} er et godt køb{ENDQUOTES}
 STR_1591    :{SMALLFONT}{OPENQUOTES}Solbrillerne fra {STRINGID} er et godt køb{ENDQUOTES}
-STR_1592    :{SMALLFONT}{OPENQUOTES}Nuddlerne fra {STRINGID} er et godt køb{ENDQUOTES}
+STR_1592    :{SMALLFONT}{OPENQUOTES}Nudlerne fra {STRINGID} er et godt køb{ENDQUOTES}
 STR_1593    :{SMALLFONT}{OPENQUOTES}De ristede ris nuddler fra {STRINGID} er et godt køb{ENDQUOTES}
 STR_1594    :{SMALLFONT}{OPENQUOTES}Wonton suppen fra {STRINGID} er et godt køb{ENDQUOTES}
 STR_1595    :{SMALLFONT}{OPENQUOTES}Kødbolle suppen fra {STRINGID} er et godt køb{ENDQUOTES}
@@ -1626,8 +1626,8 @@ STR_1620    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for varm choko
 STR_1621    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for is the fra {STRINGID}{ENDQUOTES}
 STR_1622    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for en churrio fra {STRINGID}{ENDQUOTES}
 STR_1623    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for solbriller fra {STRINGID}{ENDQUOTES}
-STR_1624    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for nuddler fra {STRINGID}{ENDQUOTES}
-STR_1625    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for ristede ris nuddler fra {STRINGID}{ENDQUOTES}
+STR_1624    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for nudler fra {STRINGID}{ENDQUOTES}
+STR_1625    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for ristede ris nudler fra {STRINGID}{ENDQUOTES}
 STR_1626    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for wonton suppe fra {STRINGID}{ENDQUOTES}
 STR_1627    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for kødbolle suppe fra {STRINGID}{ENDQUOTES}
 STR_1628    :{SMALLFONT}{OPENQUOTES}Jeg vil ikke betale så meget for frugt juice fra {STRINGID}{ENDQUOTES}
@@ -1742,10 +1742,10 @@ STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COM
 STR_1737    :{COMMA16}
 STR_1738    :Kan ikke ændre antallet af omgange...
 STR_1739    :Løb vundet af gæst {INT32}
-STR_1740    :Løb vindet af {STRINGID}
+STR_1740    :Løb vundet af {STRINGID}
 STR_1741    :Ikke konstrueret endnu !
 STR_1742    :{WINDOW_COLOUR_2}Max. personer på forlystelse:
-STR_1743    :{SMALLFONT}{BLACK}Maximum antal af personer på forlystelsen på samme tid
+STR_1743    :{SMALLFONT}{BLACK}Maksimum antal af personer på forlystelsen på samme tid
 STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1745    :{COMMA16}
 STR_1746    :Kan ikke ændre dette...
@@ -1813,9 +1813,9 @@ STR_1807    :Kontrolfejl
 STR_1808    :{WINDOW_COLOUR_2}Sidste nedbrud: {BLACK}{STRINGID}
 STR_1809    :{WINDOW_COLOUR_2}Nuværende nedbrud: {OUTLINE}{RED}{STRINGID}
 STR_1810    :{WINDOW_COLOUR_2}Bærer:
-STR_1811    :Kan ikke byggge det her...
+STR_1811    :Kan ikke bygge det her...
 STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
-STR_1813    :Forskellige opjekter
+STR_1813    :Forskellige objekter
 STR_1814    :Aktiviteter
 STR_1815    :Tanker
 STR_1816    :{SMALLFONT}{BLACK}Vælg typen af information der vises i gæste listen
@@ -1824,7 +1824,7 @@ STR_1818    :{WINDOW_COLOUR_2}Alle gæster
 STR_1819    :{WINDOW_COLOUR_2}Alle gæster (opsummeret)
 STR_1820    :{WINDOW_COLOUR_2}Gæster {STRINGID}
 STR_1821    :{WINDOW_COLOUR_2}Gæster tænker {STRINGID}
-STR_1822    :{WINDOW_COLOUR_2}Guests tænker på {POP16}{STRINGID}
+STR_1822    :{WINDOW_COLOUR_2}Gæster tænker på {POP16}{STRINGID}
 STR_1823    :{SMALLFONT}{BLACK}Vis gæsters tanker omkring forlystelse/attraktion
 STR_1824    :{SMALLFONT}{BLACK}Vis gæster på denne forlystelse/attraktion
 STR_1825    :{SMALLFONT}{BLACK}Vis gæster i kø til denne forlystelse/attraktion
@@ -1901,11 +1901,11 @@ STR_1893    :<removed string - do not use>
 STR_1894    :{WINDOW_COLOUR_2}{STRINGID} solgt: {BLACK}{COMMA32}
 STR_1895    :{SMALLFONT}{BLACK}Byg en ny forlystelse
 STR_1896    :{WINDOW_COLOUR_2}Udgifter/indtægter
-STR_1897    :{WINDOW_COLOUR_2}Forlystelse kontruktion
-STR_1898    :{WINDOW_COLOUR_2}Forlystelse driftomkostninger
+STR_1897    :{WINDOW_COLOUR_2}Forlystelse konstruktion
+STR_1898    :{WINDOW_COLOUR_2}Forlystelse driftsomkostninger
 STR_1899    :{WINDOW_COLOUR_2}Landopkøb
 STR_1900    :{WINDOW_COLOUR_2}Ændring af landskab
-STR_1901    :{WINDOW_COLOUR_2}Entrébiletter
+STR_1901    :{WINDOW_COLOUR_2}Entrébilletter
 STR_1902    :{WINDOW_COLOUR_2}Forlystelsesbiletter
 STR_1903    :{WINDOW_COLOUR_2}Butikssalg
 STR_1904    :{WINDOW_COLOUR_2}Butikslager
@@ -1922,7 +1922,7 @@ STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
 STR_1916    :{WINDOW_COLOUR_2}Lån:
 STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
-STR_1918    :Kan ikek låne flere penge!
+STR_1918    :Kan ikke låne flere penge!
 STR_1919    :Ikke nok penge til rådighed!
 STR_1920    :Kan ikke tilbagebetale lån!
 STR_1921    :{SMALLFONT}{BLACK}Start et nyt spil
@@ -1946,19 +1946,19 @@ STR_1938    :{SMALLFONT}{BLACK}Vis oversigt over gæster
 STR_1939    :{SMALLFONT}{BLACK}Vis oversigt over personale
 STR_1940    :{SMALLFONT}{BLACK}Vis glæde, energi, sult osv. for denne gæst
 STR_1941    :{SMALLFONT}{BLACK}Vis hvilke forlystelser denne gæst har været på
-STR_1942    :{SMALLFONT}{BLACK}Vis financiel information for denne gæst
+STR_1942    :{SMALLFONT}{BLACK}Vis finansiel information for denne gæst
 STR_1943    :{SMALLFONT}{BLACK}Vis gæstens seneste tanker
 STR_1944    :{SMALLFONT}{BLACK}Vis hvad denne gæst har med sig
 STR_1945    :{SMALLFONT}{BLACK}Vis ordrer og indstillinger for denne ansat
 STR_1946    :{SMALLFONT}{BLACK}vælg kostume til denne entertainer
 STR_1947    :{SMALLFONT}{BLACK}Vis område som pliver patruljeret af den valgte personaletype, og find den nærmeste ansat
 STR_1948    :{SMALLFONT}{BLACK}Ansæt nyt personale af den valgte type
-STR_1949    :Financiel Overblik
-STR_1950    :Financiel Graf
+STR_1949    :Finansiel Overblik
+STR_1950    :Finansiel Graf
 STR_1951    :Park Værdi Graf
 STR_1952    :Profit Graf
 STR_1953    :Markedsføring
-STR_1954    :Forsknings finnanciering
+STR_1954    :Forsknings finansiering
 STR_1955    :{WINDOW_COLOUR_2}Antal omgange:
 STR_1956    :{SMALLFONT}{BLACK}Antallet af omgange per tur
 STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
@@ -1981,7 +1981,7 @@ STR_1973    :{WINDOW_COLOUR_2}Pizza pris:
 STR_1974    :{WINDOW_COLOUR_2}
 STR_1975    :{WINDOW_COLOUR_2}Popcorn pris:
 STR_1976    :{WINDOW_COLOUR_2}Hot Dog pris:
-STR_1977    :{WINDOW_COLOUR_2}Tentacle pris:
+STR_1977    :{WINDOW_COLOUR_2}Tentakel pris:
 STR_1978    :{WINDOW_COLOUR_2}Hat pris:
 STR_1979    :{WINDOW_COLOUR_2}Kandiseret æble pris:
 STR_1980    :{WINDOW_COLOUR_2}T-Shirt pris:
@@ -2009,7 +2009,7 @@ STR_2001    :Pizza
 STR_2002    :Værdikupon
 STR_2003    :Popcorn
 STR_2004    :Hot Dog
-STR_2005    :Tentacle
+STR_2005    :Tentakel
 STR_2006    :Hat
 STR_2007    :Kandiseret æble
 STR_2008    :T-Shirt
@@ -2026,7 +2026,7 @@ STR_2018    :Park Kort
 STR_2019    :On-Ride Foto
 STR_2020    :Paraplyer
 STR_2021    :Drikke
-STR_2022    :Burger'ere
+STR_2022    :Burgere
 STR_2023    :Pommes Fritter
 STR_2024    :Is
 STR_2025    :Candyfloss
@@ -2034,10 +2034,10 @@ STR_2026    :Tomme dåser
 STR_2027    :Affald
 STR_2028    :Tomme Burger Æsker
 STR_2029    :Pizzaer
-STR_2030    :Værdikoponer
+STR_2030    :Værdikuponer
 STR_2031    :Popcorn
 STR_2032    :Hot Dogs
-STR_2033    :Tentacles
+STR_2033    :Tentakler
 STR_2034    :Hatte
 STR_2035    :Kandiserede æbler
 STR_2036    :T-Shirts
@@ -2065,7 +2065,7 @@ STR_2057    :en Pizza
 STR_2058    :en Værdikupon
 STR_2059    :nogle Popcorn
 STR_2060    :en Hot Dog
-STR_2061    :en Tentacle
+STR_2061    :en Tentakel
 STR_2062    :en Hat
 STR_2063    :et kandiseret æble
 STR_2064    :en T-Shirt
@@ -2090,10 +2090,10 @@ STR_2082    :Tom dåse
 STR_2083    :Affald
 STR_2084    :Tom Burger æske
 STR_2085    :Pizza
-STR_2086    :Vørdikupon til {STRINGID}
+STR_2086    :Værdikupon til {STRINGID}
 STR_2087    :Popcorn
 STR_2088    :Hot Dog
-STR_2089    :Tentacle
+STR_2089    :Tentakel
 STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Hat
 STR_2091    :Kandiseret Æble
 STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} T-Shirt
@@ -2134,7 +2134,7 @@ STR_2126    :Varm Chokolade
 STR_2127    :IS The
 STR_2128    :Churrios
 STR_2129    :Solbriller
-STR_2130    :Nuddler
+STR_2130    :Nudler
 STR_2131    :Ristet ris nudler
 STR_2132    :Wonton Suppe
 STR_2133    :Kødbolle Suppe
@@ -2142,7 +2142,7 @@ STR_2134    :Frugt Juice
 STR_2135    :Soyamælk
 STR_2136    :Sujeonggwa
 STR_2137    :Sub Sandwich
-STR_2138    :Cookie
+STR_2138    :Småkage
 STR_2139    :Tom skål
 STR_2140    :Tom Drikkekarton
 STR_2141    :Tomt Juice glas
@@ -2196,7 +2196,7 @@ STR_2188    :On-Ride Foto fra {STRINGID}
 STR_2189    :On-Ride Foto fra {STRINGID}
 STR_2190    :On-Ride Foto fra {STRINGID}
 STR_2191    :Pretzel
-STR_2192    :Varm Chocolade
+STR_2192    :Varm Chokolade
 STR_2193    :Is Te
 STR_2194    :Churrios
 STR_2195    :Solbriller
@@ -2214,10 +2214,10 @@ STR_2206    :Tom Drikkekarton
 STR_2207    :Tomt Juice glas
 STR_2208    :Ristet pølse
 STR_2209    :Tom skål
-STR_2210    :{SMALLFONT}{BLACK}Vis list over handymen i parken
-STR_2211    :{SMALLFONT}{BLACK}Vis list of mekanikere i parken
-STR_2212    :{SMALLFONT}{BLACK}Vis list of Skikkerhedsvagter i parken
-STR_2213    :{SMALLFONT}{BLACK}Vis list of entertainerre i parken
+STR_2210    :{SMALLFONT}{BLACK}Vis liste over handymen i parken
+STR_2211    :{SMALLFONT}{BLACK}Vis liste over mekanikere i parken
+STR_2212    :{SMALLFONT}{BLACK}Vis liste over Sikkerhedsvagter i parken
+STR_2213    :{SMALLFONT}{BLACK}Vis liste over entertainere i parken
 STR_2214    :Konstruktion er ikke muligt, når spillet er sat på pause!
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}C
@@ -2267,23 +2267,23 @@ STR_2259    :Sceneri og temaer
 STR_2260    :Ingen finansiering
 STR_2261    :Minimum finansiering
 STR_2262    :Normal finansiering
-STR_2263    :Maximum finansiering
+STR_2263    :Maksimum finansiering
 STR_2264    :Forsknings finansiering
-STR_2265    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY} per month
+STR_2265    :{WINDOW_COLOUR_2}Koster: {BLACK}{CURRENCY} per måned
 STR_2266    :Forsknings prioriteter
 STR_2267    :Under udvikling nu
 STR_2268    :Sidst udviklet
 STR_2269    :{WINDOW_COLOUR_2}Type: {BLACK}{STRINGID}
 STR_2270    :{WINDOW_COLOUR_2}Fremskridt: {BLACK}{STRINGID}
 STR_2271    :{WINDOW_COLOUR_2}Forventet: {BLACK}{STRINGID}
-STR_2272    :{WINDOW_COLOUR_2}Forlystelse/attraction:{NEWLINE}{BLACK}{STRINGID}
+STR_2272    :{WINDOW_COLOUR_2}Forlystelse/attraktion:{NEWLINE}{BLACK}{STRINGID}
 STR_2273    :{WINDOW_COLOUR_2}Sceneri/tema:{NEWLINE}{BLACK}{STRINGID}
-STR_2274    :{SMALLFONT}{BLACK}Vis detalver om opfindelse eller udvikling
+STR_2274    :{SMALLFONT}{BLACK}Vis detaljer om opfindelse eller udvikling
 STR_2275    :{SMALLFONT}{BLACK}Vis finansiering and options for research & development
 STR_2276    :{SMALLFONT}{BLACK}Vis research & development status
 STR_2277    :Ukendt
 STR_2278    :Transport Forlystelse
-STR_2279    :Gentle Forlystelse
+STR_2279    :Rolige Forlystelse
 STR_2280    :Rutschebane
 STR_2281    :Vild Forlystelse
 STR_2282    :Vand Forlystelse
@@ -2291,7 +2291,7 @@ STR_2283    :Butik/bod
 STR_2284    :Sceneri/tema
 STR_2285    :Begynder udvikling
 STR_2286    :Designer
-STR_2287    :Færdigør design
+STR_2287    :Færdiggør design
 STR_2288    :Ukendt
 STR_2289    :{STRINGID} {STRINGID}
 STR_2290    :<removed string - do not use>
@@ -2299,7 +2299,7 @@ STR_2291    :Vælg scenarie til nyt spil
 STR_2292    :{WINDOW_COLOUR_2}Forlystelser været i:
 STR_2293    :{BLACK} Ingenting
 STR_2294    :{SMALLFONT}{BLACK}Ændre basis land stil
-STR_2295    :{SMALLFONT}{BLACK}Ændre lodrette kanter på land
+STR_2295    :{SMALLFONT}{BLACK}Ændre lodrete kanter på land
 STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} betalt i park entré
 STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} brugt på {BLACK}{COMMA16} forlystelse
 STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} brugt på {BLACK}{COMMA16} forlystelser
@@ -2319,7 +2319,7 @@ STR_2311    :{WINDOW_COLOUR_2}Begejstring bedømmelse: {BLACK}{COMMA2DP32} (ca.)
 STR_2312    :{WINDOW_COLOUR_2}Intensitet bedømmelse: {BLACK}{COMMA2DP32} (ca.)
 STR_2313    :{WINDOW_COLOUR_2}Kvalme bedømmelse: {BLACK}{COMMA2DP32} (ca.)
 STR_2314    :{WINDOW_COLOUR_2}Forlystelse længde: {BLACK}{STRINGID}
-STR_2315    :{WINDOW_COLOUR_2}Pris: {BLACK}around {CURRENCY}
+STR_2315    :{WINDOW_COLOUR_2}Pris: {BLACK}omkring {CURRENCY}
 STR_2316    :{WINDOW_COLOUR_2}Krævet plads: {BLACK}{COMMA16} x {COMMA16} felter
 STR_2317    :<removed string - do not use>
 STR_2318    :<removed string - do not use>
@@ -2398,7 +2398,7 @@ STR_2390    :{BLACK}At have 10 forskellige typer rutschebaner igang i parken på
 STR_2391    :{BLACK}At have mindst {COMMA16} gæster i parken. Du må ikke lade park vurderingen flade under 700 på noget tidspunkt!
 STR_2392    :{BLACK}At opnå en månedlig indkomst fra forlystelser på mindst {POP16}{POP16}{CURRENCY}
 STR_2393    :{BLACK}At have 10 forskellige typer rutschebaner igang i parken på samme tid, hver med en minimums længde på {LENGTH}, og en spændings vurdering på mindst 7.00
-STR_2394    :{BLACK}At færdigøre alle 5 af de delvist færdige byggede rutschebaneri denne park, design dem til at have at opnå en spændings virdering på mindst {POP16}{POP16}{COMMA2DP32} hver
+STR_2394    :{BLACK}At færdiggøre alle 5 af de delvist færdige byggede rutschebaner i denne park, design dem til at have at opnå en spændings virdering på mindst {POP16}{POP16}{COMMA2DP32} hver
 STR_2395    :{BLACK}At tilbagebetale dit lån og opnå en park vurdering på mindst {POP16}{POP16}{CURRENCY}
 STR_2396    :{BLACK}At opnå en månedlig profit far mad, drikkevarer og merchandise salg på mindst {POP16}{POP16}{CURRENCY}
 STR_2397    :Ingen
@@ -2407,8 +2407,8 @@ STR_2399    :Park værdi ved en given dato
 STR_2400    :Hav det sjovt
 STR_2401    :Byge den bedste rutschebane du kan
 STR_2402    :Byg 10 rutschebaner
-STR_2403    :Antal gøster i parken
-STR_2404    :Månedlig inkomst fra rutschebaner
+STR_2403    :Antal gæster i parken
+STR_2404    :Månedlig indkomst fra rutschebaner
 STR_2405    :Byg 10 rutschebaner i en given længde
 STR_2406    :Færdiggør opførelsen af 5 rutschebaner
 STR_2407    :Indfri tit lån og opnå en given park værdi
@@ -2428,7 +2428,7 @@ STR_2420    :Halv pris på {STRINGID}
 STR_2421    :Gratis {STRINGID}
 STR_2422    :Reklame kampagne for {STRINGID}
 STR_2423    :Reklame kampagne for {STRINGID}
-STR_2424    :{WINDOW_COLOUR_2}Værdikoponer til gratis entré til parken
+STR_2424    :{WINDOW_COLOUR_2}Værdikuponer til gratis entré til parken
 STR_2425    :{WINDOW_COLOUR_2}Værdikuponer til gratis ture i en bestemt forlystelse
 STR_2426    :{WINDOW_COLOUR_2}Værdikuponer til halv-pris entré til parken
 STR_2427    :{WINDOW_COLOUR_2}Værdikuponer til gratis mad og drikkevarer
@@ -2465,7 +2465,7 @@ STR_2457    :{SMALLFONT}{BLACK}Vis finanskonti
 STR_2458    :{SMALLFONT}{BLACK}Vis graf for penge (uden lån) over tid
 STR_2459    :{SMALLFONT}{BLACK}Vis graf for park værdi over tid
 STR_2460    :{SMALLFONT}{BLACK}Vis graf for ugentlig profit
-STR_2461    :{SMALLFONT}{BLACK}Vis markedsførringskampagner
+STR_2461    :{SMALLFONT}{BLACK}Vis markedsføringskampagner
 STR_2462    :{SMALLFONT}{BLACK}Vis oversigt over park indgang
 STR_2463    :{SMALLFONT}{BLACK}Vis graf for park vurdering over tid
 STR_2464    :{SMALLFONT}{BLACK}Vis graf for antal gæster over tid
@@ -2484,12 +2484,12 @@ STR_2476    :{SMALLFONT}{BLACK}Udforsk nye sceneri og temaer
 STR_2477    :{SMALLFONT}{BLACK}vælg operations tilstand for denne forlystelse/attraktion
 STR_2478    :{SMALLFONT}{BLACK}Vis graf for hastighed over tid
 STR_2479    :{SMALLFONT}{BLACK}Vis graf for højde over tid
-STR_2480    :{SMALLFONT}{BLACK}Vis graf for vertical acceleration over tid
+STR_2480    :{SMALLFONT}{BLACK}Vis graf for vertikal acceleration over tid
 STR_2481    :{SMALLFONT}{BLACK}Vis graf for lodret acceleration over tid
 STR_2482    :{SMALLFONT}{BLACK}Profit: {CURRENCY} per uge,  Park Værdi: {CURRENCY}
 STR_2483    :{WINDOW_COLOUR_2}Ugentlig profit: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Ugentlig profit: {RED}{CURRENCY2DP}
-STR_2485    :Controls
+STR_2485    :Kontrol
 STR_2486    :Generel
 STR_2487    :Vis 'rigtige' navne på gæsterne
 STR_2488    :{SMALLFONT}{BLACK}Skift imellem at vise 'rigtige' navne på gæster og gæst nummre
@@ -2499,14 +2499,14 @@ STR_2491    :Nulstil genveje
 STR_2492    :{SMALLFONT}{BLACK}Sæt alle tastatur genveje tilbage til standard indstillinger
 STR_2493    :Luk det forreste vindue
 STR_2494    :Luk alle flydende vinduer
-STR_2495    :Aflut konstruktions tilstand
+STR_2495    :Afslut konstruktions tilstand
 STR_2496    :Pause
 STR_2497    :Zoom ud
 STR_2498    :Zoom ind
 STR_2499    :Roter visning med uret
 STR_2500    :Roter konstruktions object
 STR_2501    :Skift undergrundsvisning
-STR_2502    :Hide base land toggle
+STR_2502    :Skift imellem skjult basis land
 STR_2503    :Skift skjul lodret land
 STR_2504    :Skift gennemsigtige forlystelser
 STR_2505    :Skift gennemsigtige sceneri
@@ -2520,12 +2520,12 @@ STR_2512    :Juster vand
 STR_2513    :Byg sceneri
 STR_2514    :Byg gangstier
 STR_2515    :Byg ny forlystelse
-STR_2516    :Vis financiel information
+STR_2516    :Vis finansiel information
 STR_2517    :Vis forsknings information
 STR_2518    :Vis forlystelsesliste
 STR_2519    :Vis park information
 STR_2520    :Vis gæste liste
-STR_2521    :Vis persolane liste
+STR_2521    :Vis personale liste
 STR_2522    :Vis seneste meddelelser
 STR_2523    :Vis kort
 STR_2524    :Skærmbillede
@@ -2781,7 +2781,7 @@ STR_2771    :Langsommere spilhastighed
 STR_2772    :Hurtigere spilhastighed
 STR_2773    :Vinduestilstand
 STR_2774    :Fuldskærm
-STR_2775    :Fuldskærm (kantløs vindue)
+STR_2775    :Fuldskærm (kantløst vindue)
 STR_2776    :Sprog:
 STR_2777    :{MOVE_X}{10}{STRING}
 STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{10}{STRING}
@@ -2805,8 +2805,8 @@ STR_2794    :{WINDOW_COLOUR_2}Gennemført af: {BLACK}{STRINGID}{NEWLINE}{WINDOW_
 STR_2795    :Sorter
 STR_2796    :{SMALLFONT}{BLACK}Sorter ordnen af forlystelseslisten ved hjælp af den viste informationstype
 STR_2797    :Flyt visning når markøren rør ved kanten af skærmen
-STR_2798    :{SMALLFONT}{BLACK}Scroll the view when the mouse pointer is at the screen edge
-STR_2799    :{SMALLFONT}{BLACK}Få vist eller ændre kontrol tasttildelinger
+STR_2798    :{SMALLFONT}{BLACK}Scroll oversigten når musen rører kanten
+STR_2799    :{SMALLFONT}{BLACK}Få vist eller ændre kontrol tast tildelinger
 STR_2800    :{WINDOW_COLOUR_2}Total entré: {BLACK}{COMMA32}
 STR_2801    :{WINDOW_COLOUR_2}indkomst fra entré: {BLACK}{CURRENCY2DP}
 STR_2802    :Kort
@@ -2838,26 +2838,26 @@ STR_2827    :{WINDOW_COLOUR_2}Præmie for parken med de beste hjemmedesignede fo
 STR_2828    :{WINDOW_COLOUR_2}Præmie for parken med de mest farverige forlystelser
 STR_2829    :{WINDOW_COLOUR_2}Præmie for parken med den mest forvirrende opbygning
 STR_2830    :{WINDOW_COLOUR_2}Præmie for parken med de bedste rolige forlystelser
-STR_2831    :{TOPAZ}Din park har fået en premie for at være 'Den mest beskidte park i landet'!
-STR_2832    :{TOPAZ}Din park har fået en premie for at være 'den renligste park i landet'!
-STR_2833    :{TOPAZ}Din park har fået en premie for at være 'Parken med de bedste rutschebaner'!
-STR_2834    :{TOPAZ}Din park har fået en premie for at være 'Parken med mest for pengene i landet'!
-STR_2835    :{TOPAZ}Din park har fået en premie for at være 'Den smukkeste park i landet'!
-STR_2836    :{TOPAZ}Din park har fået en premie for at være 'Den dårligste værdi for pengene, park i landet'!
-STR_2837    :{TOPAZ}Din park har fået en premie for at være 'Den sikreste park i landet'!
-STR_2838    :{TOPAZ}Din park har fået en premie for at være 'Parken med det bedste personale'!
-STR_2839    :{TOPAZ}Din park har fået en premie for at være 'Parken med det bedste mad, i landet'!
-STR_2840    :{TOPAZ}Din park har fået en premie for at være 'Parken med den værste mad, food i landet'!
-STR_2841    :{TOPAZ}Din park har fået en premie for at være 'Parken med de bedste toiletfaciliteter i landet'!
-STR_2842    :{TOPAZ}Din park har fået en premie for at være 'Den mest skuffende park i landet'!
-STR_2843    :{TOPAZ}Din park har fået en premie for at være 'Parken med de bedste vand forlystelser, i landet'!
-STR_2844    :{TOPAZ}Din park har fået en premie for at være 'Parken med de beste hjemmedesignede forlystelser'!
-STR_2845    :{TOPAZ}Din park har fået en premie for at være 'Parken med de mest farverige forlystelser'!
-STR_2846    :{TOPAZ}Din park har fået en premie for at være 'Parken med den mest forvirrende opbygning'!
-STR_2847    :{TOPAZ}Din park har fået en premie for at være 'Parken med de bedste rolige forlystelser'!
-STR_2848    :{WINDOW_COLOUR_2}Ingen nyelige præmier
-STR_2849    :Nyt scenarie successfuldt installeret
-STR_2850    :Nyt bane design successfuldt installeret
+STR_2831    :{TOPAZ}Din park har fået en præmie for at være 'Den mest beskidte park i landet'!
+STR_2832    :{TOPAZ}Din park har fået en præmie for at være 'den renligste park i landet'!
+STR_2833    :{TOPAZ}Din park har fået en præmie for at være 'Parken med de bedste rutschebaner'!
+STR_2834    :{TOPAZ}Din park har fået en præmie for at være 'Parken med mest for pengene i landet'!
+STR_2835    :{TOPAZ}Din park har fået en præmie for at være 'Den smukkeste park i landet'!
+STR_2836    :{TOPAZ}Din park har fået en præmie for at være 'Den dårligste værdi for pengene, park i landet'!
+STR_2837    :{TOPAZ}Din park har fået en præmie for at være 'Den sikreste park i landet'!
+STR_2838    :{TOPAZ}Din park har fået en præmie for at være 'Parken med det bedste personale'!
+STR_2839    :{TOPAZ}Din park har fået en præmie for at være 'Parken med det bedste mad, i landet'!
+STR_2840    :{TOPAZ}Din park har fået en præmie for at være 'Parken med den værste mad, food i landet'!
+STR_2841    :{TOPAZ}Din park har fået en præmie for at være 'Parken med de bedste toiletfaciliteter i landet'!
+STR_2842    :{TOPAZ}Din park har fået en præmie for at være 'Den mest skuffende park i landet'!
+STR_2843    :{TOPAZ}Din park har fået en præmie for at være 'Parken med de bedste vand forlystelser, i landet'!
+STR_2844    :{TOPAZ}Din park har fået en præmie for at være 'Parken med de beste hjemmedesignede forlystelser'!
+STR_2845    :{TOPAZ}Din park har fået en præmie for at være 'Parken med de mest farverige forlystelser'!
+STR_2846    :{TOPAZ}Din park har fået en præmie for at være 'Parken med den mest forvirrende opbygning'!
+STR_2847    :{TOPAZ}Din park har fået en præmie for at være 'Parken med de bedste rolige forlystelser'!
+STR_2848    :{WINDOW_COLOUR_2}Ingen nylige præmier
+STR_2849    :Nyt scenarie succesfuldt installeret
+STR_2850    :Nyt bane design succesfuldt installeret
 STR_2851    :Scenarie allerede installeret
 STR_2852    :Bane design allerede installeret
 STR_2853    :Forbudt af de lokale myndigheder!
@@ -2865,7 +2865,7 @@ STR_2854    :{RED}Gæster kan ikke komme til indgangen af {STRINGID} !{NEWLINE}K
 STR_2855    :{RED}{STRINGID} Har ikke nogen gangsti fra udgangen!{NEWLINE}Konstruer en sti fra forlystelsens udgang
 STR_2856    :<removed string - do not use>
 STR_2857    :<removed string - do not use>
-STR_2858    :Kan ikke start marketing campaign...
+STR_2858    :Kan ikke starte markedsføringskampagne...
 STR_2859    :en anden instans af OpenRCT2 kører allerede
 STR_2860    :<removed string - do not use>
 STR_2861    :{WINDOW_COLOUR_2}Licenseret til Infogrames Interactive Inc.
@@ -2999,7 +2999,7 @@ STR_2988    :{SMALLFONT}{BLACK}Nedriv dette banner
 STR_2989    :{SMALLFONT}{BLACK}Vælg grundfarve
 STR_2990    :{SMALLFONT}{BLACK}Vælg tekstfarve
 STR_2991    :Skilt
-STR_2992    :Skilttekst
+STR_2992    :Skilt tekst
 STR_2993    :Angiv ny tekst for dette skilt:
 STR_2994    :{SMALLFONT}{BLACK}Angiv tekst på skilt
 STR_2995    :{SMALLFONT}{BLACK}Nedriv dette skilt
@@ -3026,7 +3026,7 @@ STR_3015    :Orientalsk stil
 STR_3016    :Maritim stil
 STR_3017    :Jungletrommer stil
 STR_3018    :Egyptisk stil
-STR_3019    :Legetøjsland stil
+STR_3019    :Legetøjs land stil
 STR_3020    :
 STR_3021    :Rum stil
 STR_3022    :Gyser stil
@@ -3128,17 +3128,17 @@ STR_3117    :{BLACK}Tilkalder mekaniker...
 STR_3118    :{BLACK}{STRINGID} er på vej til forlystelsen
 STR_3119    :{BLACK}{STRINGID} er igang med at reparere forlystelsen
 STR_3120    :{SMALLFONT}{BLACK}Find nærmeste ledige mekaniker, eller mekaniker der er igang med at reparere en forlystelse
-STR_3121    :Kan ikke finde en makaniker, eller alle mekanikere er optaget
-STR_3122    :{WINDOW_COLOUR_2}Ynglingsforlystelse for: {BLACK}{COMMA16} gæst
-STR_3123    :{WINDOW_COLOUR_2}Ynglingsforlystelse for: {BLACK}{COMMA16} guests
+STR_3121    :Kan ikke finde en mekaniker, eller alle mekanikere er optaget
+STR_3122    :{WINDOW_COLOUR_2}Ynglings forlystelse for: {BLACK}{COMMA16} gæst
+STR_3123    :{WINDOW_COLOUR_2}Ynglings forlystelse for: {BLACK}{COMMA16} guests
 STR_3124    :I stykker {STRINGID}
 STR_3125    :{WINDOW_COLOUR_2}Spændings Faktor: {BLACK}+{COMMA16}%
 STR_3126    :{WINDOW_COLOUR_2}Intensitets Faktor: {BLACK}+{COMMA16}%
 STR_3127    :{WINDOW_COLOUR_2}Kvalme Faktor: {BLACK}+{COMMA16}%
-STR_3128    :Gem banedesignesign
-STR_3129    :Gem banedesignesign med sceneri
+STR_3128    :Gem banedesign
+STR_3129    :Gem banedesign med sceneri
 STR_3130    :Gem
-STR_3131    :Afbrud
+STR_3131    :Afbryd
 STR_3132    :{BLACK}Klik på sceneri, for at vælge dem der skal gemmes sammen med benedesignet...
 STR_3133    :Kan ikke bygges på en hældning
 STR_3134    :{RED}(Designet indeholder sceneri der ikke er tilgængeligt)
@@ -3170,13 +3170,13 @@ STR_3159    :liste
 STR_3160    :{SMALLFONT}{BLACK}Vælg antal omgange per tur
 STR_3161    :<removed string - do not use>
 STR_3162    :Kan ikke allokere nok hukommelse
-STR_3163    :Insatllerer ny data: 
+STR_3163    :Installerer ny data: 
 STR_3164    :{BLACK}{COMMA16} valgt (maximum {COMMA16})
 STR_3165    :
 STR_3166    :{BLACK}(ID: 
 STR_3167    :{WINDOW_COLOUR_2}Inkluderer: {BLACK}{COMMA16} objekter
 STR_3168    :{WINDOW_COLOUR_2}Tekst: {BLACK}{STRINGID}
-STR_3169    :Data for følgende opbekt ikke fundet: 
+STR_3169    :Data for følgende objekt ikke fundet: 
 STR_3170    :Ikke nok plads til grafik
 STR_3171    :For mange objekter for denne type valgt
 STR_3172    :Følgende objekt skal vælges først: {STRING}
@@ -3191,13 +3191,13 @@ STR_3180    :Ugyldigt udvalg af objekter
 STR_3181    :Objekt valg - {STRINGID}
 STR_3182    :Park indgangstype skal vælges
 STR_3183    :Vandtype skal vælges
-STR_3184    :Ride Vehicles/Attractions
+STR_3184    :rutschebane vogne/attraktioner
 STR_3185    :Lille Sceneri
 STR_3186    :Stort Sceneri
-STR_3187    :Vægge/Hegn
+STR_3187    :Væge/Hegn
 STR_3188    :Stiskilte
 STR_3189    :Gangstier
-STR_3190    :Path Extras
+STR_3190    :Sti udstyr
 STR_3191    :Sceneri Grupper
 STR_3192    :Park indgang
 STR_3193    :Vand
@@ -3239,7 +3239,7 @@ STR_3228    :{SMALLFONT}{BLACK}Sæt start punkt for personer
 STR_3229    :Blokbremser kan ikke bruges lige efter stationen
 STR_3230    :Blokbremser kan ikke bruges lige efter hinanden
 STR_3231    :Blokbremser kan ikke bruges lige efter toppen af en løftekæde
-STR_3232    :Indstillinger - Financiel
+STR_3232    :Indstillinger - Finansiel
 STR_3233    :Indstillinger - Gæster
 STR_3234    :Indstillinger - Park
 STR_3235    :{SMALLFONT}{BLACK}Vis finansindstillinger
@@ -3249,7 +3249,7 @@ STR_3238    :Ingen penge
 STR_3239    :{SMALLFONT}{BLACK}Gør denne park til en 'pengeløs' park, unde financielle restriktioner
 STR_3240    :{WINDOW_COLOUR_2}Startkapital:
 STR_3241    :{WINDOW_COLOUR_2}Startlån:
-STR_3242    :{WINDOW_COLOUR_2}Maximum lånstørrelse:
+STR_3242    :{WINDOW_COLOUR_2}Maksimum lånstørrelse:
 STR_3243    :{WINDOW_COLOUR_2}Årlig rentesats:
 STR_3244    :Forbyd markedsføringskampagner
 STR_3245    :{SMALLFONT}{BLACK}Forbyd reklamer, salgsfremmende ordninger, og andre marketingskampagner
@@ -3259,8 +3259,8 @@ STR_3248    :Kan ikke forøge startkapital yderligere!
 STR_3249    :Kan ikke reducere startkapital yderligere!
 STR_3250    :Kan ikke forøge startlån yderligere!
 STR_3251    :Kan ikke reducere startlån yderligere!
-STR_3252    :Kan ikke forøge maximum lånstørrelse yderligere!
-STR_3253    :Kan ikke reducere maximum lånstørrelse yderligere!
+STR_3252    :Kan ikke forøge maksimum lånestørrelse yderligere!
+STR_3253    :Kan ikke reducere maksimum lånestørrelse yderligere!
 STR_3254    :Kan ikke forøge rentesats yderligere!
 STR_3255    :Kan ikke reducere rentesats yderligere!
 STR_3256    :Gæster foretrækker mindre intense forlystelser
@@ -4216,7 +4216,7 @@ STR_5906    :Zoom to cursor position
 STR_5907    :{SMALLFONT}{BLACK}When enabled, zooming in will centre around the cursor, as opposed to the screen centre.
 STR_5908    :Allow arbitrary ride type changes
 STR_5909    :{SMALLFONT}{BLACK}Allows changing ride type freely. May cause crashes.
-STR_5910    :Apply
+STR_5910    :Anvend
 STR_5911    :See-Through Paths
 STR_5912    :See-through paths toggle
 STR_5913    :Chat
@@ -4226,11 +4226,11 @@ STR_5916    :{COMMA16} spiller
 STR_5917    :{COMMA16} spillere
 STR_5918    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_5919    :{COMMA16}
-STR_5920    :Render weather effects
+STR_5920    :Gengiv vejreffekter
 STR_5921    :{SMALLFONT}{BLACK}If enabled, rain and gloomy colours will be rendered during storms.
 STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Max {STRINGID}
 STR_5923    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Max {COMMA16} {STRINGID} per train
-STR_5924    :Surface details
+STR_5924    :Overflade detaljer
 STR_5925    :Path details
 STR_5926    :Track details
 STR_5927    :Scenery details
@@ -4262,10 +4262,10 @@ STR_5952    :{WINDOW_COLOUR_2}Sequence number: {BLACK}{COMMA16}
 STR_5953    :{SMALLFONT}{BLACK}Sort the map elements on the current tile based on their base height.
 STR_5954    :{WINDOW_COLOUR_2}Scenery age: {BLACK}{COMMA16}
 STR_5955    :{WINDOW_COLOUR_2}Quadrant placement: {BLACK}{STRINGID}
-STR_5956    :Southwest
-STR_5957    :Northwest
-STR_5958    :Northeast
-STR_5959    :Southeast
+STR_5956    :Sydvest
+STR_5957    :Nordvest
+STR_5958    :Nordøst
+STR_5959    :Sydøst
 STR_5960    :{WINDOW_COLOUR_2}Quadrant placement:
 STR_5961    :{WINDOW_COLOUR_2}Entry index: {BLACK}{COMMA16}
 STR_5962    :{WINDOW_COLOUR_2}Collision detection:
@@ -4274,8 +4274,8 @@ STR_5964    :{WINDOW_COLOUR_2}Diagonal
 STR_5965    :{WINDOW_COLOUR_2}Entrance type: {BLACK}{STRINGID}
 STR_5966    :{WINDOW_COLOUR_2}Park indgang part: {BLACK}{STRINGID}
 STR_5967    :Middle
-STR_5968    :Left
-STR_5969    :Right
+STR_5968    :Venstre
+STR_5969    :Højre
 STR_5970    :{WINDOW_COLOUR_2}Entrance ID: {BLACK}{COMMA16}
 STR_5971    :{WINDOW_COLOUR_2}Exit ID: {BLACK}{COMMA16}
 STR_5972    :{WINDOW_COLOUR_2}Ride ID: {BLACK}{COMMA16}
@@ -4337,8 +4337,8 @@ STR_6027    :Ride construction - Next track
 STR_6028    :Ride construction - Build current
 STR_6029    :Ride construction - Demolish current
 STR_6030    :{SMALLFONT}{BLACK}Scenery picker. Click any scenery on the map to select the same piece for construction.
-STR_6031    :Server Description:
-STR_6032    :Server Greeting:
+STR_6031    :Server Beskrivelse:
+STR_6032    :Server Velkomst:
 STR_6033    :Path to RCT1 installation:
 STR_6034    :{SMALLFONT}{BLACK}{STRING}
 STR_6035    :Please select your RCT1 directory
@@ -4575,112 +4575,112 @@ STR_6259    :Disabled
 <Forest Frontiers>
 STR_SCNR    :Forest Frontiers
 STR_PARK    :Forest Frontiers
-STR_DTLS    :Deep in the forest, build a thriving theme park in a large cleared area
+STR_DTLS    :Dybt inde i skoven, Byg en blomstrende forlystelsespark i et stort ryddet område
 
 <Dynamite Dunes>
 STR_SCNR    :Dynamite Dunes
 STR_PARK    :Dynamite Dunes
-STR_DTLS    :Built in the middle of the desert, this theme park contains just one rutschebane but has space for expansion
+STR_DTLS    :BDenne forlystelsespark, der er bygget midt i ørkenen, indeholder kun en rutschebane, men har plads til udvidelser
 
 <Leafy Lake>
 STR_SCNR    :Leafy Lake
 STR_PARK    :Leafy Lake
-STR_DTLS    :Starting from scratch, build a theme park around a large lake
+STR_DTLS    :Start fra bunden, Byg en forlystelsespark omkring en stor sø
 
 <Diamond Heights>
 STR_SCNR    :Diamond Heights
 STR_PARK    :Diamond Heights
-STR_DTLS    :Diamond Heights is already a successful theme park with great forlystelser - develop it to double its value
+STR_DTLS    :Diamond Heights er allerede en succesfuld forlystelsespark med store forlystelser. Forbedre den til at fordoble sin værdi
 
 <Evergreen Gardens>
 STR_SCNR    :Evergreen Gardens
 STR_PARK    :Evergreen Gardens
-STR_DTLS    :Convert the beautiful Evergreen Gardens into a thriving theme park
+STR_DTLS    :Konverter den smukke 'Evergreen Gardens' om til en blomstrende forlystelsespark
 
 <Bumbly Beach>
 STR_SCNR    :Bumbly Beach
 STR_PARK    :Bumbly Beach
-STR_DTLS    :Develop Bumbly Beach's small amusement park into a thriving theme park
+STR_DTLS    :Udvikl Bumbly Beach's lille park i en blomstrende forlystelsespark
 
 <Trinity Islands>
 STR_SCNR    :Trinity Islands
 STR_PARK    :Trinity Islands
-STR_DTLS    :Several islands form the basis for this new park
+STR_DTLS    :Flere øer danner grundlag for denne nye forlystelsespark
 
 <Katie's Dreamland>
 STR_SCNR    :Katie's Dreamland
 STR_PARK    :Katie's Dreamland
-STR_DTLS    :A small theme park with a few forlystelser and room for expansion - Your aim is to double the park værdi
+STR_DTLS    :En lille forlystelsespark med et par forlystelser og plads til udvidelser - Dit mål er at fordoble parkens værdi
 
 <Pokey Park>
 STR_SCNR    :Pokey Park
 STR_PARK    :Pokey Park
-STR_DTLS    :A small, cramped amusement park which requires major expansion
+STR_DTLS    :En lille, trang forlystelsespark, som kræver større udvidelse
 
 <White Water Park>
 STR_SCNR    :White Water Park
 STR_PARK    :White Water Park
-STR_DTLS    :A park with some excellent water-based forlystelser requires expansion
+STR_DTLS    :En park med nogle fremragende vand-baserede forlystelser, kræver udvidelse
 
 <Millennium Mines>
 STR_SCNR    :Millennium Mines
 STR_PARK    :Millennium Mines
-STR_DTLS    :Convert a large abandoned mine from a tourist attraction into a theme park
+STR_DTLS    :Konverter en stor forladt mine fra en turistattraktion i en forlystelsespark
 
 <Karts & Coasters>
 STR_SCNR    :Karts & Coasters
 STR_PARK    :Karts & Coasters
-STR_DTLS    :A large park hidden in the forest, with only go-kart tracks and wooden rutschebaner
+STR_DTLS    :En stor park skjult i skoven, med kun Go-Kart bane og træ rutschebaner
 
 <Mel's World>
 STR_SCNR    :Mel's World
 STR_PARK    :Mel's World
-STR_DTLS    :This theme park has some well-designed modern forlystelser, but plenty of space for expansion
+STR_DTLS    :Denne forlystelsespark har nogle godt designede moderne forlystelser, men masser af plads til udvidelse
 
 <Mystic Mountain>
 STR_SCNR    :Mystic Mountain
 STR_PARK    :Mystic Mountain
-STR_DTLS    :In the hilly forests of Mystic Mountain, build a theme park from scratch
+STR_DTLS    :I de bjergrige skove i Mystic Mountain, Byg en forlystelsespark fra bunden
 
 <Pacific Pyramids>
 STR_SCNR    :Pacific Pyramids
 STR_PARK    :Pacific Pyramids
-STR_DTLS    :Convert the Egyptian Ruins tourist attraction into a thriving theme park
+STR_DTLS    :Konverter turistattraktion, egyptiske ruiner til en blomstrende forlystelsespark
 
 <Crumbly Woods>
 STR_SCNR    :Crumbly Woods
 STR_PARK    :Crumbly Woods
-STR_DTLS    :A large park with well-designed but rather old forlystelser - Replace the old forlystelser or add new forlystelser to make the park more popular
+STR_DTLS    :En stor park med godt designet, men med gamle forlystelser - Erstat de gamle forlystelser eller tilføj nye forlystelser, for at gøre parken mere populær
 
 <Paradise Pier>
 STR_SCNR    :Paradise Pier
 STR_PARK    :Paradise Pier
-STR_DTLS    :Convert this sleepy town's pier into a thriving attraction
+STR_DTLS    :Konverter denne søvnige bys mole til en blomstrende attraktion
 
 <Lightning Peaks>
 STR_SCNR    :Lightning Peaks
 STR_PARK    :Lightning Peaks
-STR_DTLS    :The beautiful mountains of Lightning Peaks are popular with walkers and sightseers - Use the available land to attract a new thrill-seeking clientele
+STR_DTLS    :De smukke bjerge 'Lightning Peaks' er populære hos vandrere og turister - brug de tilgængelige jord til at tiltrække nyt spændings-søgende klientel
 
 <Ivory Towers>
 STR_SCNR    :Ivory Towers
 STR_PARK    :Ivory Towers
-STR_DTLS    :A well-established park, which has a few problems
+STR_DTLS    :En veletableret Park, som har et par problemer
 
 <Rainbow Valley>
 STR_SCNR    :Rainbow Valley
 STR_PARK    :Rainbow Valley
-STR_DTLS    :Rainbow Valley's local authority won't allow any landscape changes or large tree removal, but you must develop the area into a large theme park
+STR_DTLS    :Rainbow Valley lokale myndighed vil ikke tillade nogen landskabsændringer eller store træ fjernelse, men du skal udvikle området til en stor forlystelsespark
 
 <Thunder Rock>
 STR_SCNR    :Thunder Rock
 STR_PARK    :Thunder Rock
-STR_DTLS    :Thunder Rock stands in the middle of a desert and attracts many tourists - Use the available space to build forlystelser to attract more people
+STR_DTLS    :Thunder rock står i midten af en ørken og tiltrækker mange turister - Brug den tilgængelige plads til at bygge forlystelser, for at tiltrække flere mennesker
 
 <Mega Park>
 STR_SCNR    :Mega Park
 STR_PARK    :Mega Park
-STR_DTLS    :Just for fun!
+STR_DTLS    :Kun for sjov!
 
 ## Added Attractions
 <Whispering Cliffs>
@@ -4948,33 +4948,32 @@ STR_DTLS    :A desert park with some cleverly designed coasters is yours to expa
 <Tiny Towers>
 STR_SCNR    :Tiny Towers
 STR_PARK    :Tiny Towers
-STR_DTLS    :In this tiny park you must finish building the five existing coasters
+STR_DTLS    :I denne lille forlystelsespark skal du færdigbygge de fem eksisterende rutschebaner
 
 <Nevermore Park>
 STR_SCNR    :Nevermore Park
 STR_PARK    :Nevermore Park
-STR_DTLS    :A large park with a novel transportation system around its edge
+STR_DTLS    :En stor park med et gammelt transportsystem langs kanten
 
 <Pacifica>
 STR_SCNR    :Pacifica
 STR_PARK    :Pacifica
-STR_DTLS    :This large island is all yours to develop as an amusement park
+STR_DTLS    :Denne store ø er klar til at du udvikler den til en forlystelsespark
 
 <Urban Jungle>
 STR_SCNR    :Urban Jungle
 STR_PARK    :Urban Jungle
-STR_DTLS    :A giant abandoned skyscraper is a unique opportunity for a theme park developer
+STR_DTLS    :En kæmpe forladt skyskraber er en enestående mulighed for en forlystelsespark udvikler
 
 <Terror Town>
 STR_SCNR    :Terror Town
 STR_PARK    :Terror Town
-STR_DTLS    :This urban area is all yours to develop into an amusement park
+STR_DTLS    :Dette byområde er klar til at udvikle sig til en forlystelsespark
 
 <Megaworld Park>
 STR_SCNR    :Megaworld Park
 STR_PARK    :Megaworld Park
-STR_DTLS    :A giant park already packed full of forlystelser needs improving
-
+STR_DTLS    :En kæmpe forlystelses som allerede er fuld af forlystelser, med et behov for forbedringer
 <Venus Ponds>
 STR_SCNR    :Venus Ponds
 STR_PARK    :Venus Ponds
@@ -4983,24 +4982,24 @@ STR_DTLS    :On a far-away planet this area of land needs turning into a theme p
 <Micro Park>
 STR_SCNR    :Micro Park
 STR_PARK    :Micro Park
-STR_DTLS    :Try to create the world's smallest profitable park
+STR_DTLS    :Prøv at skabe verdens mindste rentable Park
 
 ## Real Parks from RCT1
 # None of them had details
 <Alton Towers>
 STR_SCNR    :Alton Towers
 STR_PARK    :Alton Towers
-STR_DTLS    :
+STR_DTLS    :Forlystelsespark der ligger i Alton, Staffordshire i England
 
 <Heide-Park>
 STR_SCNR    :Heide-Park
 STR_PARK    :Heide-Park
-STR_DTLS    :
+STR_DTLS    :Stor park der ligger i det nordlige Tyskland
 
 <Blackpool Pleasure Beach>
 STR_SCNR    :Blackpool Pleasure Beach
 STR_PARK    :Blackpool Pleasure Beach
-STR_DTLS    :
+STR_DTLS    :Forlystelsespark der ligger i Blackpool, Lancashire i England
 
 ## Misc parks from RCT1
 # Had no details
