@@ -3572,8 +3572,8 @@ STR_5232    :{SMALLFONT}{BLACK}Redigerare
 STR_5233    :{SMALLFONT}{BLACK}Övrigt
 STR_5234    :{SMALLFONT}{BLACK}Hanterare
 STR_5235    :{SMALLFONT}{BLACK}Inställningar
-STR_5236    :Fönster:
-STR_5237    :Palett:
+STR_5236    :Fönster
+STR_5237    :Palett
 STR_5238    :Nuvarande Tema:
 STR_5239    :Kopiera
 STR_5240    :Döp ditt tema
@@ -3832,15 +3832,15 @@ STR_5492    :Scenarioinställningar
 STR_5493    :Skicka Meddelande
 STR_5494    :<removed string - do not use>
 STR_5495    :Spelarlista
-STR_5496    :Spelare:
-STR_5497    :Ping:
+STR_5496    :Spelare
+STR_5497    :Ping
 STR_5498    :Serverlista
 STR_5499    :Spelarens Namn:
 STR_5500    :Lägg till server
 STR_5501    :Starta en server
-STR_5502    :Flera spelare
+STR_5502    :Online
 STR_5503    :Skriv in hostnamn eller IP-adress:
-STR_5504    :{SMALLFONT}{BLACK}Visa alla spelare
+STR_5504    :{SMALLFONT}{BLACK}Visa online-status
 STR_5505    :Kunde inte ansluta till servern.
 STR_5506    :Gästerna ignorerar intensivitetnivån
 STR_5507    :<removed string - do not use>
@@ -3978,7 +3978,7 @@ STR_5638    :Åtkomst nekad
 STR_5639    :{SMALLFONT}{BLACK}Visa lista över spelare på servern
 STR_5640    :{SMALLFONT}{BLACK}Hantera grupper
 STR_5641    :Standardgrupp:
-STR_5642    :Grupp:
+STR_5642    :Grupp
 STR_5643    :Lägg till Grupp
 STR_5644    :Ta bort Grupp
 STR_5645    :Chatta
@@ -4006,7 +4006,7 @@ STR_5666    :Lösenordslös Inloggning
 STR_5701    :{WINDOW_COLOUR_2}Senaste handling: {BLACK}{STRINGID}
 STR_5702    :{SMALLFONT}{BLACK}Visa spelarens senaste handling
 STR_5703    :Kan inte sparka ut ägaren
-STR_5704    :Senaste Handling:
+STR_5704    :Senaste Handling
 STR_5705    :Kan inte välja denna grupp
 STR_5706    :Kan inte ta bort grupper spelare finns i
 STR_5707    :Denna grupp kan inte modifieras
@@ -4311,7 +4311,7 @@ STR_6002    :{SMALLFONT}{BLACK}Lampor och åkturer kommer lysa upp i natten.{NEW
 STR_6003    :Avskärnings-vy
 STR_6004    :Avskärnings-vy
 STR_6005    :Aktivera Avskärnings-vy
-STR_6006    :{SMALLFONT}{BLACK}Avskärnings-vyn kommer endast visa element på eller under den avskurna höjden, allt ovanför blir dolt
+STR_6006    :{SMALLFONT}{BLACK}Avskärnings-vyn kommer endast visa element på eller under den avskurna höjden (vertikal avskärning)och det markerade området (horizontal avskärning)
 STR_6007    :Höjd
 STR_6008    :{SMALLFONT}{BLACK}Klicka för att växla råa-värden<->värden i måttenheter
 STR_6009    :{SMALLFONT}{BLACK}Välj höjd på avskärning
@@ -4459,7 +4459,7 @@ STR_6150    :Ogiltigt svar från huvudservern (inget JSON-nummer)
 STR_6151    :Huvudservern misslyckades att söka upp servrar
 STR_6152    :Ogiltigt svar från huvudservern (ingen JSON-array)
 STR_6153    :Betala för inträde / Betala för åktur
-STR_6154    :Det är inte rekommenderat att köra OpenRCT2 med extra behörigheter.
+STR_6154    :Av säkerhetsskäl är det inte rekommenderat att köra OpenRCT2 med extra behörigheter.
 STR_6155    :Varken KDialog eller Zenity är installerade. Vänligen installera en av dem eller konfigurera från kommandoraden.
 STR_6156    :Namn är reserverat
 STR_6157    :Utvecklarkonsol
@@ -4475,7 +4475,7 @@ STR_6166    :{SMALLFONT}{BLACK}Synkroniserar varje bild som ritas med skärmens 
 STR_6167    :{SMALLFONT}{BLACK}Avancerat
 STR_6168    :Titelsekvens
 STR_6169    :Scenarioväljaren
-STR_6170    :Anpassa
+STR_6170    :Anpassa gränssnittet
 STR_6171    :Sök
 STR_6172    :{SMALLFONT}{BLACK}Sök
 STR_6173    :Vänligen skriv in ett namn att söka:
@@ -4507,19 +4507,66 @@ STR_6198    :{BLACK}Dag:
 STR_6199    :Välj datum
 STR_6200    :Återställ datum
 STR_6201    :{MONTH}
-STR_6202    :Aktivera virtuella golv
+STR_6202    :Stil på virutiella golv
 STR_6203    :{SMALLFONT}{BLACK}När aktiverad, kommer ett rutnät att ritas i samma höjd som elementen är på när du håller in Ctrl eller Shift vilket förenklar vertikala placeringar.
-
+STR_6204    :Tegel
+STR_6205    :Järn
+STR_6206    :Grå stuck
+STR_6207    :Gul stuck
+STR_6208    :Röd stuck
+STR_6209    :Lila stuck
+STR_6210    :Grön stuck
+STR_6211    :Brun sandsten
+STR_6212    :Grå sandsten
+STR_6213    :Skyskrapa A
+STR_6214    :Skyskrapa B
 STR_6215    :Konstruktion
 STR_6216    :Manövrering
 STR_6217    :Åktur-/spårtillgänglighet
 STR_6218    :Officiella OpenRCT2
 STR_6219    :Visa problem på gångvägar
-
+STR_6220    :Skapa gång
+STR_6221    :{SMALLFONT}{BLACK}Detta kommer ställa in åkturens kända ingång- eller utgångsposition till den nuvarande valda rutan. Endast en ingång/utgång kan ställas in per station.
+STR_6222    :Kan inte placera en ingångspunkt här...
+STR_6223    :Måste vara utanför parkens gränser!
+STR_6224    :{STRING} placerade en ingångspunkt.
+STR_6225    :Visningen stöds inte i OpenGL-rendering
+STR_6226    :Tillåt vinst innan scenarions tid gått ut
+STR_6227    :{SMALLFONT}{BLACK}Räknas som att scenarion avklarades när alla mål i scenarion är slutförda innan det satta datumet.
+STR_6228    :Scenario-inställningar
 STR_6229    :{WINDOW_COLOUR_2}{STRINGID}: {STRINGID}
 STR_6230    :{STRINGID}:
 STR_6231    :{WINDOW_COLOUR_2}{STRINGID}: {MOVE_X}{185}{STRINGID}
-
+STR_6232    :Frys
+STR_6233    :Avskärnings-vy
+STR_6234    :Visa problem på gångvägar
+STR_6235    :Server information
+STR_6236    :Spelare
+STR_6237    :Grupper
+STR_6238    :Inställningar online
+STR_6239    :Vertikal avskärning
+STR_6240    :Horisontal avskärning
+STR_6241    :Markera område
+STR_6242    :Rensa område
+STR_6243    :{SMALLFONT}{BLACK}Renoverar åkturen,{NEWLINE}blir som ny igen
+STR_6244    :Kan inte renovera åkturen...
+STR_6245    :{SMALLFONT}{BLACK}Åkturen behöver inte renoveras
+STR_6246    :Renovera
+STR_6247    :Renovera åkturen/attraktionen
+STR_6248    :{WINDOW_COLOUR_1}Vill du renovera {STRINGID} för {CURRENCY}?
+STR_6249    :{WINDOW_COLOUR_1}Vill du renovera {STRINGID}?
+STR_6250    :{WINDOW_COLOUR_1}Är du säker på att du vill riva {STRINGID} och tjäna {CURRENCY}?
+STR_6251    :Åkturen är inte tom
+STR_6252    :Twitch API-URL
+STR_6253    :{SMALLFONT}{BLACK}Skriv in URL:en för Twitch integrerade-API. Krävs för att aktivera Twitch integration.
+STR_6254    :URL:en av Twitch integrerade-API:
+STR_6255    :URL:en är inte giltig
+STR_6256    :Rendering-effekt
+STR_6257    :Glasaktig (genomskinlig)
+STR_6258    :Klar (genomskinlig)
+STR_6259    :Inaktivera
+STR_6260    :Visa blockerade rutor
+STR_6261    :Visa breda gångar
 
 
 
