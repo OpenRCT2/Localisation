@@ -1576,7 +1576,7 @@ STR_1770    :{SMALLFONT}{BLACK}Number of complete swings
 STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1773    :Only one on-ride photo section allowed per ride
 STR_1774    :Only one cable lift hill allowed per ride
-STR_1777    :{WINDOW_COLOUR_2}Ride music
+STR_1777    :موسيقي الرحلة
 STR_1778    :{STRINGID} - - 
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Panda costume
 STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Tiger costume
@@ -2468,7 +2468,7 @@ STR_2703    :كل 15 دقيقة
 STR_2704    :كل 30 دقيقة
 STR_2705    :كل ساعة
 STR_2706    :أبداً
-STR_2707    :Use system dialog window
+STR_2707    :إستخدم متصفح ملف النظام
 STR_2708    :{WINDOW_COLOUR_1}Are you sure you want to overwrite {STRINGID}?
 STR_2709    :Overwrite
 STR_2710    :Type the name of the file.
@@ -4152,7 +4152,12 @@ STR_6252    :رابط واجهة تطبيق تويتش
 STR_6253    :{SMALLFONT}{BLACK}وفر الرابط لواجهة تطبيق تويتش. مطلوبة من أجل .
 STR_6254    :الرابط لواجهة برمجة تطبيق تويتش:
 STR_6255    :رابط غير صالح
-
+STR_6260    :Show blocked tiles
+STR_6261    :أظهر المسارات الواسعة
+STR_6262    :الصوت الرئيسي
+STR_6263    :{SMALLFONT}{BLACK}إجعل كل الأصوات مفتوحة أو مغلقة
+STR_6264    :إستخدم متصفح ملفات النظام دائماً
+STR_6265    :{SMALLFONT}{BLACK}When enabled, your operating system's file browser will be used instead of OpenRCT2's.
 #############
 # Scenarios #
 #############
