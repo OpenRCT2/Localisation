@@ -533,7 +533,7 @@ STR_0528    :Riders travel in inflatable dinghies down a twisting semi-circular 
 STR_0529    :Mine train themed roller coaster trains career along steel roller coaster track made to look like old railway track
 STR_0530    :Cars hang from a steel cable which runs continuously from one end of the ride to the other and back again
 STR_0531    :A compact steel-tracked roller coaster where the train travels through corkscrews and loops
-STR_0532    :تم بناء المتاهة من السياجات أو الجدران بطول 6 أقدام، يتجول الضيوف حول المتاهة ويمكنهم المغادرة فقط عندما يعثورن على المخرج
+STR_0532    :تم بناء المتاهة من السياجات أو الجدران بطول 6 أقدام، يتجول الزوار حول المتاهة ويمكنهم المغادرة فقط عندما يعثورن على المخرج
 STR_0533    :مبنى خشبي مع درج داخلي ومزلفة لولبية خارجية للاستخدام مع المزالق
 STR_0534    :سيارات الكارتينج ذاتية القيادة بمحرك يعمل بالبنزين
 STR_0535    :Log-shaped boats travel along a water channel, splashing down steep slopes to soak the riders
@@ -768,7 +768,7 @@ STR_0763    :<removed string - do not use>
 STR_0764    :<removed string - do not use>
 STR_0765    :<removed string - do not use>
 STR_0766    :<removed string - do not use>
-STR_0767    :ضيف {INT32}
+STR_0767    :زائر {INT32}
 STR_0768    :رجل مساعد {INT32}
 STR_0769    :ميكانيكي {INT32}
 STR_0770    :رجل الأمن {INT32}
@@ -1454,10 +1454,10 @@ STR_1448    :Watching new ride being constructed
 STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
-STR_1452    :إسم الضيف
-STR_1453    :أدخل أسم لهذا الضيف:
-STR_1454    :لا يمكن تسمية الضيف...
-STR_1455    :إسم خاطئ للضيف
+STR_1452    :إسم الزائر
+STR_1453    :أدخل أسم لهذا الزائر:
+STR_1454    :لا يمكن تسمية الزائر...
+STR_1455    :إسم خاطئ للزائر
 STR_1456    :{WINDOW_COLOUR_2}النقود المنفقة: {BLACK}{CURRENCY2DP}
 STR_1457    :{WINDOW_COLOUR_2}المال في المحفظة: {BLACK}{CURRENCY2DP}
 STR_1458    :{WINDOW_COLOUR_2}الوقت في الحديقة: {BLACK}{REALTIME}
@@ -1695,7 +1695,7 @@ STR_1689    :Block brakes
 STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
 STR_1691    :{WINDOW_COLOUR_2}  السعر: {BLACK}{CURRENCY}
 STR_1692    :{WINDOW_COLOUR_2}  السعر: {BLACK}من {CURRENCY}
-STR_1693    :{SMALLFONT}{BLACK}الضيوف
+STR_1693    :{SMALLFONT}{BLACK}الزوار
 STR_1694    :{SMALLFONT}{BLACK}العاملين
 STR_1695    :{SMALLFONT}{BLACK}الدخل و المصروفات
 STR_1696    :{SMALLFONT}{BLACK}معلومات العميل
@@ -1741,7 +1741,7 @@ STR_1735    :{SMALLFONT}{BLACK}Number of laps of circuit
 STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1737    :{COMMA16}
 STR_1738    :Can't change number of laps...
-STR_1739    :السياق فاز به الضيف {INT32}
+STR_1739    :السباق فاز به الزائر {INT32}
 STR_1740    :Race won by {STRINGID}
 STR_1741    :لم يبني بعد !
 STR_1742    :{WINDOW_COLOUR_2}Max. people on ride:
@@ -3684,7 +3684,7 @@ STR_5342    :<removed string - do not use>
 STR_5343    :Automatically place staff
 STR_5344    :سجل التغيير
 STR_5345    :شفرات الأموال
-STR_5346    :شفرات الضيوف
+STR_5346    :شفرات الزوار
 STR_5347    :شفرات الحديقة
 STR_5348    :شفرات الرحلة
 STR_5349    :{SMALLFONT}{BLACK}كل الرحلات
@@ -3697,7 +3697,7 @@ STR_5355    :{BLACK}العطش:
 STR_5356    :{BLACK}Nausea:
 STR_5357    :{BLACK}Nausea tolerance:
 STR_5358    :{BLACK}الحمام:
-STR_5359    :مسح الضيوف
+STR_5359    :مسح الزوار
 STR_5360    :{SMALLFONT}{BLACK}Removes all guests from the map
 STR_5361    :Give all guests:
 STR_5362    :{BLACK}Set all guests' preferred ride intensity to:
@@ -3853,7 +3853,7 @@ STR_5511    :(غير معروف)
 STR_5512    :حفظ اللعبة كـ
 STR_5513    :(سريع) حفظ اللعبة
 STR_5514    :تعطيل التخريب
-STR_5515    :{SMALLFONT}{BLACK}أوقف الضيوف عن تخريب حديقتك حينما يكونون غاضبون
+STR_5515    :{SMALLFONT}{BLACK}أوقف الزوار عن تخريب حديقتك حينما يكونون غاضبون
 STR_5516    :{SMALLFONT}{BLACK}أسود
 STR_5517    :{SMALLFONT}{BLACK}رمادي
 STR_5518    :{SMALLFONT}{BLACK}أبيض
@@ -3936,15 +3936,15 @@ STR_5594    :الرحلة قد تفككت
 STR_5595    :الرحلة قد تحطمت
 STR_5596    :تحذيرات الرحلة
 STR_5597    :Ride / scenery researched
-STR_5598    :تحذيرات الضيف
-STR_5599    :الضيف تائة
-STR_5600    :الضيف قد غادر الحديقة
-STR_5601    :الضيف يقف في طابور إنتظار الرحلة
-STR_5602    :الضيف في الرحلة
-STR_5603    :الضيف قد ترك الرحلة
-STR_5604    :الضيف قد إشتري عنصر
-STR_5605    :الضيف قد إستخدم المؤسسة
-STR_5606    :الضيف مات
+STR_5598    :تحذيرات الزائر
+STR_5599    :الزائر تائة
+STR_5600    :الزائر قد غادر الحديقة
+STR_5601    :الزائر يقف في طابور إنتظار الرحلة
+STR_5602    :الزائر في الرحلة
+STR_5603    :الزائر قد ترك الرحلة
+STR_5604    :الزائر قد إشتري عنصر
+STR_5605    :الزائر قد إستخدم المؤسسة
+STR_5606    :الزائر مات
 STR_5607    :{SMALLFONT}{BLACK}Forcefully remove selected map element.
 STR_5608    :BH
 STR_5609    :CH
@@ -3993,7 +3993,7 @@ STR_5651    :Build Ride
 STR_5652    :Ride Properties
 STR_5653    :Scenery
 STR_5654    :Path
-STR_5655    :ضيف
+STR_5655    :زائر
 STR_5656    :العاملين
 STR_5657    :خصائص الحديقة
 STR_5658    :تمويل الحديقة
@@ -4007,7 +4007,7 @@ STR_5665    :Toggle Scenery Cluster
 STR_5666    :Passwordless Login
 STR_5701    :{WINDOW_COLOUR_2}Last action: {BLACK}{STRINGID}
 STR_5702    :{SMALLFONT}{BLACK}Locate player's most recent action
-STR_5703    :لا يمكن طرد المُضيف
+STR_5703    :لا يمكن طرد المُزائر
 STR_5704    :أخر فعل
 STR_5705    :Can't set to this group
 STR_5706    :Can't remove group that players belong to
@@ -4368,7 +4368,7 @@ STR_6056    :{SMALLFONT}{BLACK}تصميت
 STR_6057    :{SMALLFONT}{BLACK}Show a separate button for the Mute Option in the toolbar
 STR_6058    :تصميت
 STR_6059    :{RIGHTGUILLEMET}
-STR_6060    :Show guest purchases as animation
+STR_6060    :أظهر مشتريات الزوار كإنميشن
 STR_6061    :{SMALLFONT}{BLACK}Show animated money effect{NEWLINE}when guests make purchases.
 STR_6062    :{OUTLINE}{GREEN}+ {CURRENCY2DP}
 STR_6063    :{OUTLINE}{RED}- {CURRENCY2DP}
@@ -4377,7 +4377,7 @@ STR_6065    :تسجيل أفعال اللاعب
 STR_6066    :{SMALLFONT}{BLACK}يُسجل أفعال اللاعب بالكامل إلي ملف سجل في المستندات علي جهازك.
 STR_6067    :السرفر بدء.
 STR_6068    :السرفر أغلق.
-STR_6069    :{STRING} was kicked from the server by {STRING}.
+STR_6069    :{STRING} طُرد من السرفر بواسطة {STRING}.
 STR_6070    :{STRING} was set to group '{STRING}' by {STRING}.
 STR_6071    :{STRING} created new player group '{STRING}'.
 STR_6072    :{STRING} deleted player group '{String}'.
@@ -4398,7 +4398,7 @@ STR_6086    :{STRING} renamed the ride '{STRING}' to '{STRING}'.
 STR_6087    :{STRING} changed the price of ride '{STRING}' to {STRING}
 STR_6088    :{STRING} تم تغيير سعر الرحلة الثانوي من '{STRING}' إلي {STRING}
 STR_6089    :{STRING} تم تغيير أسم الحديقة من '{STRING}'إلي '{STRING}'.
-STR_6090    :{STRING} إفتح الحديقة.
+STR_6090    :{STRING} فتح الحديقة.
 STR_6091    :{STRING} إغلاق الحديقة.
 STR_6092    :{STRING} تم تغيير رسول دخول الحديقة إلي {STRING}
 STR_6093    :{STRING} placed new scenery.
@@ -4436,7 +4436,7 @@ STR_6124    :أسم العنصر
 STR_6125    :نوع العنصر
 STR_6126    :نوع غير معروف
 STR_6127    :الملف: {STRING}
-STR_6128    :The file could not be loaded as some of the objects referenced in it are missing or corrupt. A list of these objects is given below.
+STR_6128    :الملف لا يمكن تحملية لأن هناك بعض العناصر المُشار إليها فيه مفقودة أو ربما تكون متضررة. قائمة بهذه العناصر معروضة في الأسفل.
 STR_6129    :إنسخ المحدد إلي الحافظة
 STR_6130    :إنسخ القائمة كاملة إلي الحافظة
 STR_6131    :مصدر العنصر
@@ -4471,7 +4471,7 @@ STR_6159    :تنعيم الجار الأقرب
 STR_6160    :{WINDOW_COLOUR_2}المركبات المتوفرة: {BLACK}{STRING}
 STR_6161    :إظهار/إخفاء شبكة الإرشاد
 STR_6162    :الفأر البري الدوار
-STR_6163    :سيارات بشكل فأر تسرع  في اللفات الضيقة والنزلات الصغيرة، تدور بشكل لطيف للإرباك الراكبين
+STR_6163    :سيارات بشكل فأر تسرع  في اللفات الضيقة والنزلات الصغيرة، تدور بشكل لطيف لإرباك الراكبين
 STR_6164    :{WHITE}{CROSS}
 STR_6165    :إستخدام المزامنة العمودية
 STR_6166    :{SMALLFONT}{BLACK}مزامنة كل فريم إلي معدل تحديث الشاشة، مما يمنع تمزيق وتمييع الشاشة.
@@ -4501,9 +4501,9 @@ STR_6189    :إدخال
 STR_6190    :{SMALLFONT}{BLACK}لا يمكنك تحديد نقطة في حين أن القائمة الرئيسية مفعلة.
 STR_6191    :السطح
 STR_6192    :الحائط
-STR_6193    :{COMMA16} ضيف
-STR_6194    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} ضيف
-STR_6195    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} ضيف
+STR_6193    :{COMMA16} زائر
+STR_6194    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} زائر
+STR_6195    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} زائر
 STR_6196    :{BLACK}سنة:
 STR_6197    :{BLACK}شهر:
 STR_6198    :{BLACK}يوم:
@@ -4530,9 +4530,9 @@ STR_6218    :الرسمية OpenRCT2
 STR_6219    :تعليم مشاكل المسار
 STR_6220    :أجعله مُستخدم
 STR_6221    :{SMALLFONT}{BLACK هذا سوف يحدد المدخل والمخرج المعروف للرحلة للمنطقة هذه. فقط مدخل ومخرج واحد يمكن إسخدامة لكل  محطة.
-STR_6222    :لا يمكن وضع نقطة دخول الضيوف هنا...
+STR_6222    :لا يمكن وضع نقطة دخول الزوار هنا...
 STR_6223    :يجب أن يكون خارج حدود الحديقة!
-STR_6224    :{STRING} تم وضع نقطة دخول الضيوف.
+STR_6224    :{STRING} تم وضع نقطة دخول الزوار.
 STR_6225    :غير مدعومة من تصيير أوبن جي إل
 STR_6226    :تمكين استكمال السيناريو المبكر
 STR_6227    :{SMALLFONT}{BLACK}يتم إطلاق إستكمال السيناريو عندما يتم استيفاء جميع أهداف السيناريو قبل الموعد المحدد.
@@ -4573,12 +4573,12 @@ STR_6255    :رابط غير صالح
 <Forest Frontiers>
 STR_SCNR    :حدود الغابات
 STR_PARK    :حدود الغابات
-STR_DTLS    :عميقا في الغابة، بناء متنزه مزدهر في منطقة خالية كبيرة
+STR_DTLS    :عميقا في الغابة، أبني متنزه مزدهر في منطقة خالية كبيرة
 
 <Dynamite Dunes>
 STR_SCNR    :كثبان الديناميت
 STR_PARK    :كثبان الديناميت
-STR_DTLS    :بنيت في وسط الصحراء، هذا المتنزه يحتوي على أفعوانية دوارة واحدة فقط ولكن لديه مساحة للتوسع
+STR_DTLS    :بُني في وسط الصحراء، هذا المتنزه يحتوي على أفعوانية دوارة واحدة فقط ولكن لديه مساحة للتوسع
 
 <Leafy Lake>
 STR_SCNR    :بحيرة ليفي
@@ -4618,12 +4618,12 @@ STR_DTLS    :A small, cramped amusement park which requires major expansion
 <White Water Park>
 STR_SCNR    :حديقة المياه البيضاء
 STR_PARK    :حديقة المياه البيضاء
-STR_DTLS    :A park with some excellent water-based rides requires expansion
+STR_DTLS    :حديقة مع أفعوانيات بحرية ممتازة تتطلب التوسيع
 
 <Millennium Mines>
-STR_SCNR    :Millennium Mines
-STR_PARK    :Millennium Mines
-STR_DTLS    :Convert a large abandoned mine from a tourist attraction into a theme park
+STR_SCNR    :منجم الألفية
+STR_PARK    :منجم الألفية
+STR_DTLS    :حول منجم مهجور كبير من جازب للسياح إلي حديقة ترفيهية
 
 <Karts & Coasters>
 STR_SCNR    :Karts & Coasters
@@ -4636,8 +4636,8 @@ STR_PARK    :Mel's World
 STR_DTLS    :This theme park has some well-designed modern rides, but plenty of space for expansion
 
 <Mystic Mountain>
-STR_SCNR    :Mystic Mountain
-STR_PARK    :Mystic Mountain
+STR_SCNR    :الجبل السحري
+STR_PARK    :الجبل السحري
 STR_DTLS    :In the hilly forests of Mystic Mountain, build a theme park from scratch
 
 <Pacific Pyramids>
@@ -4702,8 +4702,8 @@ STR_PARK    :Barony Bridge
 STR_DTLS    :An old redundant bridge is yours to develop into an amusement park
 
 <Funtopia>
-STR_SCNR    :Funtopia
-STR_PARK    :Funtopia
+STR_SCNR    :فينتوبيا
+STR_PARK    :فينتوبيا
 STR_DTLS    :Covering land both sides of a highway, this park has several rides already operating
 
 <Haunted Harbour>
@@ -4714,12 +4714,12 @@ STR_DTLS    :The local authority has agreed to sell nearby land cheaply to this 
 <Fun Fortress>
 STR_SCNR    :قلعة المرح
 STR_PARK    :قلعة المرح
-STR_DTLS    :This castle is all yours to turn into a theme park
+STR_DTLS    :هذه الحديقة كلها لك لكي تحولها إلي حديقة ترفيهية
 
 <Future World>
 STR_SCNR    :عالم المستقبل
 STR_PARK    :عالم المستقبل
-STR_DTLS    :This futuristic park has plenty of space for new rides on its alien landscape
+STR_DTLS    :هذه الحديقة المستقبلية لديها الكثير من المساحة لتبني العديد من الإفعوانيات علي أرضها الفضائية
 
 <Gentle Glen>
 STR_SCNR    :Gentle Glen
@@ -4754,12 +4754,12 @@ STR_DTLS    :A thriving fruit farm has built a railroad to boost its income, you
 <Butterfly Dam>
 STR_SCNR    :سد الفراشات
 STR_PARK    :سد الفراشات
-STR_DTLS    :The area around a dam is available for you to develop into an amusement park
+STR_DTLS    :المنطقة حول السد متوفرة لكي تطورها إلي حديقة ترفيهية
 
 <Coaster Canyon>
 STR_SCNR    :وادي الإفعوانيات
 STR_PARK    :وادي الإفعوانيات
-STR_DTLS    :A vast canyon is yours to turn into a theme park
+STR_DTLS    :وادي كبير متوفر لك لكي تطورة إلي حديقة أفعوانيات
 
 <Thunderstorm Park>
 STR_SCNR    :حديقة العاصفة البرقية
