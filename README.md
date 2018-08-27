@@ -25,7 +25,7 @@ For more information, visit GitHub's official [forking guide](https://guides.git
 If you want to begin translating OpenRCT2 for a new language, create a new file in the data directory with the correct two letter [language](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes#Partial_ISO_639_table) and [country codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Decoding_table) (e.g. `cs-CZ`), then paste the contents of the [en-GB](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt) file into it and start translating the strings.
 
 ### Maintainers & Maintaining languages
-In each commit you create regarding a language file change, start the commit message with the language you're translating into (i.e. `git commit "es-ES: text of the commit"` )
+In each commit you create regarding a language file change, start the commit description (aka message) with the language [ISO 639-1 code](https://en.wikipedia.org/wiki/ISO_639-1) you're translating into (i.e. `git commit -m "es-ES: text of the commit"` )
 
 As this project always are moving forward, new strings get added from time to time which means they need to be added to the language files and be translated. All the new strings that are being added can be found in ['issues'](https://github.com/OpenRCT2/Localisation/issues) on the localisation webpage here on GitHub. To be a maintainer means that you have to add the new strings found on the issues page into the language you're translating in numerical order.
 
