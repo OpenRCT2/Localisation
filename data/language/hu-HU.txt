@@ -1,17 +1,110 @@
 # STR_XXXX part is read and XXXX becomes the string id number.
 # Everything after the colon and before the new line will be saved as the string.
 # Use # at the beginning of a line to leave a comment.
+STR_0000    :
+STR_0001    :{STRINGID} {COMMA16}
+STR_0002    :Spirális hullámvasút
+STR_0003    :Álló hullámvasút
+STR_0004    :Felfüggesztett lengő hullámvasút
+STR_0005    :Fordított hullámvasút
+STR_0006    :Gyerek hullámvasút 
+STR_0008    :Egysínű vasút
+STR_0007    :Kisvasút
+STR_0009    :Mini felfüggesztett hullámvasút
+STR_0010    :Csónakkölcsönző
+STR_0011    :Fa vad egér
+STR_0012    :Akadályverseny
+STR_0013    :Autós attrakció
+STR_0014    :Kilövéses szabadesés
+STR_0015    :Bobpálya hullámvasút
+STR_0016    :Megfigyelőtorony 
+STR_0017    :Átfordulós hullámvasút
+STR_0018    :Csónakcsúszda
+STR_0019    :Bányavonat hullámvasút
 STR_0020    :Libegő
-STR_0054    :Fa hullámvasút
-STR_0056    :Vad egér
+STR_0021    :Dugóhúzó hullámvasút
+STR_0022    :Útvesztő
+STR_0023    :Spirál csúszda
+STR_0024    :Gokart
+STR_0025    :Faúsztató
+STR_0026    :Folyami gyorslányok
+STR_0027    :Dodzsem
+STR_0028    :Hajóhinta
+STR_0029    :Fejreálló hajóhinta 
+STR_0030    :Büfés bódé
+STR_0031    :Ismeretlen bódé (1D)
+STR_0032    :Italos bódé
+STR_0033    :Ismeretlen bódé (1F)
+STR_0034    :Bolt
+STR_0035    :Körhinta
+STR_0036    :Ismeretlen bódé (22)
+STR_0037    :Információs bódé
+STR_0038    :WC
+STR_0039    :Óriáskerék 
+STR_0040    :Mozgás-szimulátor
+STR_0041    :3D mozi
+STR_0042    :Top Spin
+STR_0043    :Űrgyűrűk 
+STR_0044    :Fordított szabadeséses hullámvasút
+STR_0045    :Lift
+STR_0046    :Függőleges esésű hullámvasút
+STR_0047    :Bankautomata
+STR_0048    :Csavar
+STR_0049    :Elvarázsolt kastély
+STR_0050    :Elsősegélynyújtó hely
+STR_0051    :Cirkusz
+STR_0052    :Szellemvasút
+STR_0053    :Csavaró hullámvasút
+STR_0054    :Favázas hullámvasút
+STR_0055    :Oldalirányú súrlódásos hullámvasút
+STR_0056    :Fém vad egér
+STR_0057    :Többdimenziós hullámvasút
+STR_0058    :Ismeretlen attrakció (38)
+STR_0059    :Repülő hullámvasút
+STR_0060    :Ismeretlen attrakció (3A)
+STR_0061    :Virginia Reel
+STR_0062    :Csobbanó csónakok
+STR_0063    :Mini helikopterek
+STR_0064    :Fekvő hullámvasút
 STR_0065    :Felfüggesztett egysínű
+STR_0066    :Ismeretlen attrakció (40)
+STR_0067    :Irányváltó hullámvasút
+STR_0068    :Szívvonalcsavró hullámvasút
+STR_0069    :Minigolf
+STR_0070    :Giga-hullámvasút
+STR_0071    :Forgóesés
+STR_0072    :Repülő csészealjak
+STR_0073    :Ferde ház
+STR_0074    :Egysínű biciklik
+STR_0075    :Kompakt fordított hullámvasút
+STR_0076    :Vízi hullámvasút 
+STR_0077    :Levegővel működtetett függőleges hullámvasút
+STR_0078    :Fordított hajtű hullámvasút
+STR_0079    :Varázsszőnyeg
+STR_0080    :Tengeralattjáró-utazás
+STR_0081    :Folyami tutajok
+STR_0082    :Ismeretlen attrakció (50)
+STR_0083    :Enterprise
+STR_0084    :Ismeretlen attrakció (52)
+STR_0085    :Ismeretlen attrakció (53)
+STR_0086    :Ismeretlen attrakció (54)
+STR_0087    :Ismeretlen attrakció (55)
+STR_0088    :Fordított impulzus hullámvasút
 STR_0089    :Mini hullámvasút
+STR_0090    :Bányavasút
+STR_0091    :Ismeretlen attrakció (59)
+STR_0092    :Aszinkronmotoros hullámvasút
+STR_0537    :Önvezető elektromos dodzsem-autók
+STR_0547    :Egy bódé, ahol parktérképeket és esernyőket vehetnek a vendégek
+STR_0548    :Egy illemhely
+STR_0557    :Egy ATM (bankautomata), amit a vendégek használhatnak, ha elfogy a pénzük
 STR_0767    :{INT32}. vendég
 STR_0768    :{INT32}. mindenes
 STR_0769    :{INT32}. szerelő
 STR_0770    :{INT32}. biztonsági őr
 STR_0771    :{INT32}. szórakoztató
 STR_0777    :Névtelen park{POP16}{POP16}
+STR_0778    :Jelzőtábla
 STR_0779    :1.
 STR_0780    :2.
 STR_0781    :3.
@@ -55,29 +148,112 @@ STR_0818    :Sze
 STR_0819    :Okt
 STR_0820    :Nov
 STR_0821    :Dec
-STR_0822    :Nem sikerült hozzáférni az adatfájlhoz
+STR_0822    :Nem sikerült hozzáférni a grafikai adatfájlhoz
 STR_0823    :Hiányzó vagy nem elérhető adatfájl
 STR_0824    :{BLACK}{CROSS}
 STR_0825    :A választott név már használatban van
+STR_0826    :Túl sok név van megadva
+STR_0827    :Nincs elég pénz - {CURRENCY2DP} kellene
 STR_0828    :{SMALLFONT}{BLACK}Ablak bezárása
 STR_0829    :{SMALLFONT}{BLACK}Az albak címsora - Húzd az ablak mozgatásához
 STR_0830    :{SMALLFONT}{BLACK}Nagyítás
-STR_0831    :{SMALLFONT}{BLACK}KicsinyítésZoom view out
+STR_0831    :{SMALLFONT}{BLACK}Kicsinyítés
 STR_0832    :{SMALLFONT}{BLACK}Forgatás 90{DEGREE}-kal órajárás szerint
 STR_0833    :{SMALLFONT}{BLACK}Játék megállítása
+STR_0834    :{SMALLFONT}{BLACK}Lemez és játék beállítások
+STR_0839    :{UINT16} x {UINT16}
+STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
+STR_0847    :Az 'OpenRCT2'-ről
+STR_0850    :{WINDOW_COLOUR_2}Copyright {COPYRIGHT} 2002 Chris Sawyer, minden jog fenntartva
+STR_0851    :{WINDOW_COLOUR_2}Tervezés és programozás: Chris Sawyer
+STR_0852    :{WINDOW_COLOUR_2}Grafika: Simon Foster
+STR_0853    :{WINDOW_COLOUR_2}Hang és zene: Allister Brimble
+STR_0854    :{WINDOW_COLOUR_2}Kiegészítő hangok rögzítése: David Ellis
+STR_0855    :{WINDOW_COLOUR_2}Képviselet: Jacqui Lyons a Marjacq Ltd.-től
+STR_0856    :{WINDOW_COLOUR_2}Köszönet:
+STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, and John Wardley
+STR_0865    :{STRINGID}
+STR_0866    :{POP16}{STRINGID}
+STR_0867    :{POP16}{POP16}{STRINGID}
+STR_0868    :{POP16}{POP16}{POP16}{STRINGID}
+STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_0876    :{BLACK}{DOWN}
 STR_0877    :Túl alacsony !
 STR_0878    :Túl magas !
-STR_0881    :Egy tárgy van az útba
+STR_0881    :Egy tárgy van az útban
 STR_0882    :Játék betöltése
 STR_0883    :Játék mentése
+STR_0884    :Táj betöltése
+STR_0885    :Táj mentése
+STR_0891    :Képernyőkép
+STR_0894    :Táj-adatterület megtelt !
+STR_0895    :Nem építhetsz részben a föld felett és részben alatta
+STR_0896    :{POP16}{POP16}{STRINGID} építése
+STR_0897    :Irány
+STR_0898    :{SMALLFONT}{BLACK}Balkanyar
+STR_0899    :{SMALLFONT}{BLACK}Jobbkanyar
+STR_0900    :{SMALLFONT}{BLACK}Balkanyar (kis ívű)
+STR_0901    :{SMALLFONT}{BLACK}Jobbkanyar (kis ívű)
+STR_0902    :{SMALLFONT}{BLACK}Balkanyar (nagyon kis ívű)
+STR_0903    :{SMALLFONT}{BLACK}Jobbkanyar (nagyon kis ívű)
+STR_0904    :{SMALLFONT}{BLACK}Balkanyar (nagy ívű)
+STR_0905    :{SMALLFONT}{BLACK}Jobbkanyar (nagy ívű)
+STR_0906    :{SMALLFONT}{BLACK}Egyenes
+STR_0907    :Lejtés
+STR_0908    :Dőlés
+STR_0909    :Ülés forg.
+STR_0920    :{SMALLFONT}{BLACK}Vízszintes
+STR_0926    :Nem távolítható el...
+STR_0927    :Nem építhető itt...
+STR_0929    :S kanyar (balra)
+STR_0930    :S kanyar (jobbra)
+STR_0931    :Függőleges hurok (balra)
+STR_0932    :Függőleges hurok (jobbra)
+STR_0939    :Földalatti/belső nézet
 STR_0944    :Mentés
 STR_0945    :Nincs mentés
 STR_0946    :Mégse
 STR_0950    :Játék betöltése
 STR_0951    :Kilépés a játékból
 STR_0952    :Kilépés a játékból
+STR_0953    :Táj betöltése
+STR_0954    :
+STR_0955    :{SMALLFONT}{BLACK}Select seat rotation angle for this track section
+STR_0956    :-180{DEGREE}
+STR_0957    :-135{DEGREE}
+STR_0958    :-90{DEGREE}
+STR_0959    :-45{DEGREE}
+STR_0960    :0{DEGREE}
+STR_0961    :+45{DEGREE}
+STR_0962    :+90{DEGREE}
+STR_0963    :+135{DEGREE}
+STR_0964    :+180{DEGREE}
+STR_0965    :+225{DEGREE}
+STR_0966    :+270{DEGREE}
+STR_0967    :+315{DEGREE}
+STR_0968    :+360{DEGREE}
+STR_0969    :+405{DEGREE}
+STR_0970    :+450{DEGREE}
+STR_0971    :+495{DEGREE}
 STR_0972    :Mégse
 STR_0973    :OK
+STR_0974    :Attrakciók
+STR_0975    :Boltok és bódék
+STR_0976    :WC-k és információs bódék
+STR_0979    :Új hullámvasutak
+STR_0982    :Új boltok & bódék
+STR_0983    :Kutatás & fejlesztés
+STR_0984    :{WINDOW_COLOUR_2}{UP}{BLACK}  {CURRENCY2DP}
+STR_0985    :{WINDOW_COLOUR_2}{DOWN}{BLACK}  {CURRENCY2DP}
+STR_0986    :{BLACK}{CURRENCY2DP}
+STR_0987    :Túl sok jármű/attrakció
+STR_0989    :{STRINGID}
 STR_1011    :Összes bezárása
 STR_1012    :Összes megnyitása
 STR_1013    :Park bezárása
@@ -85,8 +261,22 @@ STR_1014    :Park megnyitása
 STR_1036    :Játék betöltése
 STR_1040    :Játék mentése
 STR_1043    :OpenRCT2 mentett játék
-STR_1047    :Játék mentése sikertelen!
+STR_1047    :A játék mentése sikertelen!
+STR_1085    :Film: {OPENQUOTES}Adrenalinvadászok{ENDQUOTES}
+STR_1086    :3D film: {OPENQUOTES}Viharkergetők{ENDQUOTES}
+STR_1087    :3D film: {OPENQUOTES}Az űr fosztogatói{ENDQUOTES}
+STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
+STR_1135    :{STRINGID} {COMMA16}
+STR_1142    :{MOVE_X}{10}{STRINGID}
+STR_1143    :{RIGHTGUILLEMET}{MOVE_X}{10}{STRINGID}
+STR_1156    :{MOVE_X}{10}{STRINGID}
+STR_1157    :{TICK}{MOVE_X}{10}{STRINGID}
+STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
+STR_1165    :{STRINGID} - {STRINGID} {COMMA16}
 STR_1168    :Beállítások
+STR_1169    :(semmi)
+STR_1170    :{STRING}
+STR_1172    :{YELLOW}{STRINGID} - - 
 STR_1180    :Nem építhető víz alá!
 STR_1182    :Típus
 STR_1183    :Irány
@@ -98,34 +288,135 @@ STR_1198    :Baleset!
 STR_1201    :Senki nem várakozik
 STR_1202    :Egy ember várakozik
 STR_1203    :{COMMA16} ember várakozik
+STR_1204    :{COMMA16} perc a sorbanállási idő
+STR_1205    :{COMMA16} perc a sorbanállási idő
+STR_1217    :{COMMA16} másodperc
+STR_1218    :{BLACK}+
+STR_1219    :{BLACK}-
 STR_1223    :{SMALLFONT}{BLACK}Szállító járművek
 STR_1224    :{SMALLFONT}{BLACK}Enyhe játékok
 STR_1225    :{SMALLFONT}{BLACK}Hullámvasutak
 STR_1226    :{SMALLFONT}{BLACK}Izgalmas játékok
 STR_1227    :{SMALLFONT}{BLACK}Vízi játékok
 STR_1228    :{SMALLFONT}{BLACK}Boltok és bódék
+STR_1229    :vonat
+STR_1230    :vonat
+STR_1231    :Vonat
+STR_1232    :Vonat
+STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
+STR_1332    :{VELOCITY}
+STR_1333    :{STRINGID} - {STRINGID}{POP16}
+STR_1334    :{STRINGID} - {STRINGID} {COMMA16}
+STR_1342    :{DURATION}
+STR_1343    :{DURATION} / 
+STR_1345    :{LENGTH}
+STR_1346    :{LENGTH} / 
+STR_1384    :{YELLOW}{STRINGID}
+STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
+STR_1389    :{OUTLINE}{RED}- {CURRENCY}
+STR_1390    :{CURRENCY2DP}
+STR_1391    :{RED}{CURRENCY2DP}
+STR_1411    :{STRINGID} útban van
 STR_1426    :Várósor
 STR_1427    :{WINDOW_COLOUR_2}Látogatók: {BLACK}óránként {COMMA32}
 STR_1428    :{WINDOW_COLOUR_2}Belépési díj:
+STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :Ingyenes
 STR_1431    :Sétál
 STR_1432    :A következő felé tart: {STRINGID}
 STR_1433    :Várakozik a következőre: {STRINGID}
+STR_1434    :Fulladozik
 STR_1438    :Ül
+STR_1439    :(hely kiválasztása)
 STR_1440    :Füvet nyír
 STR_1441    :Utat takarít
 STR_1442    :Kukát ürít
 STR_1443    :Kertet locsol
+STR_1444    :Ezt nézi: {STRINGID}
+STR_1445    :{STRINGID} építését nézi
+STR_1447    :Elhagyja a parkot
+STR_1448    :Nézi, ahogy új játék épül
+STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
+STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
+STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
 STR_1452    :Vendég neve
 STR_1453    :Add meg a vendég nevét:
+STR_1454    :Nem nevezető el a vendég...
+STR_1455    :Érvnytelen vendég név
+STR_1463    :Vendégek
+STR_1468    :Személyzet
+STR_1471    :{WINDOW_COLOUR_2}Sebesség:
+STR_1528    :
+STR_1529    :
+STR_1530    :
+STR_1532    :
+STR_1541    :
+STR_1544    :
+STR_1545    :
+STR_1546    :
+STR_1547    :
+STR_1548    :
+STR_1549    :
+STR_1562    :
+STR_1563    :
+STR_1564    :
+STR_1566    :
+STR_1575    :
+STR_1578    :
+STR_1579    :
+STR_1580    :
+STR_1581    :
+STR_1582    :
+STR_1583    :
+STR_1601    :
+STR_1602    :
+STR_1603    :
+STR_1605    :
+STR_1606    :
+STR_1607    :
+STR_1608    :
+STR_1609    :
+STR_1610    :
+STR_1611    :
+STR_1612    :
+STR_1613    :
+STR_1614    :
+STR_1615    :
+STR_1633    :
+STR_1634    :
+STR_1635    :
+STR_1637    :
+STR_1638    :
+STR_1639    :
+STR_1640    :
+STR_1641    :
+STR_1642    :
+STR_1643    :
+STR_1644    :
+STR_1645    :
+STR_1646    :
+STR_1647    :
+STR_1675    :{POP16}{VELOCITY}
+STR_1699    :Túl sok ember van a játékban
 STR_1700    :Új mindenes felvétele
 STR_1701    :Új szerelő felvétele
 STR_1702    :Új biztonsági őr felvétele
 STR_1703    :Új szórakoztató felvétele
-STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Utak takarítása
-STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Kertek locsolása
-STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Kukák ürítése
-STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Fűnyírás
+STR_1704    :Nem vehető fel új alkamazott...
+STR_1705    :{SMALLFONT}{BLACK}Alkalmazott kirúgása
+STR_1718    :Park neve
+STR_1719    :Add meg a park nevét:
+STR_1721    :Park zárva
+STR_1722    :Park nyitva
+STR_1731    :{WHITE}{STRINGID} - - 
+STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1749    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{DURATION}
+STR_1754    :{BLACK}{COMMA16} vendég
+STR_1755    :{BLACK}{COMMA16} vendég
+STR_1757    :{WINDOW_COLOUR_2}Megbízhatóság: {MOVE_X}{255}{BLACK}{COMMA16}%
+STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1778    :{STRINGID} - - 
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Pandakosztüm
 STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Tigriskosztüm
 STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Elefántkosztüm
@@ -138,6 +429,19 @@ STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Banditakosztüm
 STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Seriffkosztüm
 STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Kalózkosztüm
 STR_1791    :{WINDOW_COLOUR_2}Egyenruha színe:
+STR_1798    :Örvény
+STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
+STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
+STR_1813    :Egyéb tárgyak
+STR_1814    :Tevékenységek
+STR_1815    :Gondolatok
+STR_1817    :({COMMA16})
+STR_1818    :{WINDOW_COLOUR_2}Minden vendég
+STR_1827    :Népszerűség
+STR_1845    :{MONTHYEAR}
+STR_1846    :{COMMA16} vendég
+STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} vendég
+STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} vendég
 STR_1859    :mindenes
 STR_1860    :szerelő
 STR_1861    :biztonsági őr
@@ -146,15 +450,37 @@ STR_1863    :mindenes
 STR_1864    :szerelő
 STR_1865    :biztonsági őr
 STR_1866    :szórakoztató
+STR_1867    :{BLACK}{COMMA16} {STRINGID}
+STR_1871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1875    :{BLACK} {SPRITE}{BLACK} {STRINGID}
 STR_1878    :{WINDOW_COLOUR_2}Ellenőrzés:
-STR_1879    :Minden 10 percben
-STR_1880    :Minden 20 percben
-STR_1881    :Minden 30 percben
-STR_1882    :Minden 45 percben
+STR_1879    :Minden 10. percben
+STR_1880    :Minden 20. percben
+STR_1881    :Minden 30. percben
+STR_1882    :Minden 45. percben
 STR_1883    :Minden órában
 STR_1884    :Minden második órában
 STR_1885    :Soha
+STR_1886    :Ezt vizsgálja: {STRINGID}
+STR_1912    :{MONTH}
+STR_1913    :{BLACK}+{CURRENCY2DP}
+STR_1914    :{BLACK}{CURRENCY2DP}
+STR_1915    :{RED}{CURRENCY2DP}
+STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
+STR_1924    :{SMALLFONT}{BLACK}Kilépés
+STR_1926    :{SMALLFONT}
+STR_1954    :Kutatás finanszírozása
+STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1958    :{COMMA16}
+STR_1970    :{WINDOW_COLOUR_2}
+STR_1971    :{WINDOW_COLOUR_2}
+STR_1972    :{WINDOW_COLOUR_2}
+STR_1974    :{WINDOW_COLOUR_2}
+STR_1983    :{WINDOW_COLOUR_2}
+STR_1986    :{WINDOW_COLOUR_2}
+STR_1987    :{WINDOW_COLOUR_2}
 STR_1988    :Léggömb
+STR_1989    :Plüssjáték
 STR_1990    :Térkép
 STR_1992    :Esernyő
 STR_1993    :Innivaló
@@ -168,7 +494,8 @@ STR_2001    :Pizza
 STR_2002    :Kupon
 STR_2003    :Popcorn
 STR_2004    :Hotdog
-STR_2006    :Kalap
+STR_2005    :Csáp
+STR_2006    :Sapka
 STR_2008    :Póló
 STR_2010    :Kávé
 STR_2011    :Üres pohár
@@ -176,6 +503,33 @@ STR_2012    :Sült csirke
 STR_2013    :Limonádé
 STR_2014    :Üres doboz
 STR_2015    :Üres flakon
+STR_2016    :Léggömbök
+STR_2017    :Plüssállatok
+STR_2018    :Parktérképek
+STR_2020    :Esernyők
+STR_2021    :Italok
+STR_2027    :Szemét
+STR_2031    :Popcorn
+STR_2033    :Csáp
+STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Léggömb
+STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Plüssállat
+STR_2074    :{STRINGID} térképe
+STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Esernyő
+STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Sapka
+STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Póló
+STR_2117    :{WINDOW_COLOUR_2}
+STR_2118    :{WINDOW_COLOUR_2}
+STR_2119    :{WINDOW_COLOUR_2}
+STR_2121    :{WINDOW_COLOUR_2}
+STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
+STR_2216    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}C
+STR_2217    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}F
+STR_2220    :{WINDOW_COLOUR_2}Park értékelése: {BLACK}{COMMA16}
+STR_2221    :{SMALLFONT}{BLACK}Park értékelése: {COMMA16}
+STR_2222    :{SMALLFONT}{BLACK}{STRINGID}
+STR_2233    :{SMALLFONT}{BLACK}Park információ
+STR_2234    :Legutóbbi üzenetek
+STR_2235    :{SMALLFONT}{STRINGID} {STRINGID}
 STR_2236    :Január
 STR_2237    :Februáy
 STR_2238    :Március
@@ -188,6 +542,11 @@ STR_2244    :Szeptember
 STR_2245    :Október
 STR_2246    :November
 STR_2247    :December
+STR_2277    :Ismeretlen
+STR_2288    :Ismeretlen
+STR_2289    :{STRINGID} {STRINGID}
+STR_2292    :{WINDOW_COLOUR_2}Az alábbi játékokon volt:
+STR_2293    :{BLACK} Még nem volt semmin
 STR_2334    :Font ({POUND})
 STR_2335    :Dollár ($)
 STR_2336    :Frank (F)
@@ -198,26 +557,455 @@ STR_2340    :Líra (L)
 STR_2341    :Gulden (ƒ)
 STR_2342    :Korona (kr)
 STR_2343    :Euró ({EURO})
-STR_2344    :Birodalmi
+STR_2344    :Angolszász
 STR_2345    :Metrikus
-STR_2347    :{RED}{STRINGID} megfulladt!
+STR_2383    :Víz
+STR_2385    :{BLACK}Nincs
+STR_2397    :Nincs
+STR_2410    :{BLACK}Nincs
+STR_2414    :(Nincs kiválasztva)
 STR_2436    :1 hét
 STR_2443    :{WINDOW_COLOUR_2}Költség hetente: {BLACK}{CURRENCY2DP}
 STR_2444    :{WINDOW_COLOUR_2}Teljes költség: {BLACK}{CURRENCY2DP}
 STR_2445    :Reklámkampány indítása
+STR_2483    :{WINDOW_COLOUR_2}Heti bevétel: {BLACK}+{CURRENCY2DP}
+STR_2484    :{WINDOW_COLOUR_2}Heti bevétel: {RED}{CURRENCY2DP}
+STR_2487    :Vendégek "igazi" nevének mutatása
 STR_2496    :Játék megállítása
+STR_2524    :Képernyőkép
+### The following need to be reordered to match SDL_keycode layout.
+STR_2525    :???
+STR_2526    :???
+STR_2527    :???
+STR_2528    :???
+STR_2529    :???
+STR_2530    :???
+STR_2531    :???
+STR_2532    :???
+STR_2533    :Backspace
+STR_2534    :Tab
+STR_2535    :???
+STR_2536    :???
+STR_2537    :Clear
+STR_2538    :Enter
+STR_2539    :???
+STR_2540    :???
+STR_2541    :???
+STR_2542    :???
+STR_2543    :Alt/Menü
+STR_2544    :Pause
+STR_2545    :Caps
+STR_2546    :???
+STR_2547    :???
+STR_2548    :???
+STR_2549    :???
+STR_2550    :???
+STR_2551    :???
+STR_2552    :Esc
+STR_2553    :???
+STR_2554    :???
+STR_2555    :???
+STR_2556    :???
+STR_2557    :Szóköz
+STR_2558    :PgUp
+STR_2559    :PgDn
+STR_2560    :End
+STR_2561    :Home
+STR_2562    :Balra nyíl
+STR_2563    :Felfelé nyíl
+STR_2564    :Jobbra nyíl
+STR_2565    :Lefelé nyíl
+STR_2566    :Select
+STR_2567    :Print
+STR_2568    :Execute
+STR_2569    :Snapshot
+STR_2570    :Insert
+STR_2571    :Delete
+STR_2572    :Help
+STR_2573    :0
+STR_2574    :1
+STR_2575    :2
+STR_2576    :3
+STR_2577    :4
+STR_2578    :5
+STR_2579    :6
+STR_2580    :7
+STR_2581    :8
+STR_2582    :9
+STR_2583    :???
+STR_2584    :???
+STR_2585    :???
+STR_2586    :???
+STR_2587    :???
+STR_2588    :???
+STR_2589    :???
+STR_2590    :A
+STR_2591    :B
+STR_2592    :C
+STR_2593    :D
+STR_2594    :E
+STR_2595    :F
+STR_2596    :G
+STR_2597    :H
+STR_2598    :I
+STR_2599    :J
+STR_2600    :K
+STR_2601    :L
+STR_2602    :M
+STR_2603    :N
+STR_2604    :O
+STR_2605    :P
+STR_2606    :Q
+STR_2607    :R
+STR_2608    :S
+STR_2609    :T
+STR_2610    :U
+STR_2611    :V
+STR_2612    :W
+STR_2613    :X
+STR_2614    :Y
+STR_2615    :Z
+STR_2616    :???
+STR_2617    :???
+STR_2618    :Menü
+STR_2619    :???
+STR_2620    :???
+STR_2621    :Num. bill. 0
+STR_2622    :Num. bill. 1
+STR_2623    :Num. bill. 2
+STR_2624    :Num. bill. 3
+STR_2625    :Num. bill. 4
+STR_2626    :Num. bill. 5
+STR_2627    :Num. bill. 6
+STR_2628    :Num. bill. 7
+STR_2629    :Num. bill. 8
+STR_2630    :Num. bill. 9
+STR_2631    :Num. bill. *
+STR_2632    :Num. bill. +
+STR_2633    :???
+STR_2634    :Num. bill. -
+STR_2635    :Num. bill. .
+STR_2636    :Num. bill. /
+STR_2637    :F1
+STR_2638    :F2
+STR_2639    :F3
+STR_2640    :F4
+STR_2641    :F5
+STR_2642    :F6
+STR_2643    :F7
+STR_2644    :F8
+STR_2645    :F9
+STR_2646    :F10
+STR_2647    :F11
+STR_2648    :F12
+STR_2649    :F13
+STR_2650    :F14
+STR_2651    :F15
+STR_2652    :F16
+STR_2653    :F17
+STR_2654    :F18
+STR_2655    :F19
+STR_2656    :F20
+STR_2657    :F21
+STR_2658    :F22
+STR_2659    :F23
+STR_2660    :F24
+STR_2661    :???
+STR_2662    :???
+STR_2663    :???
+STR_2664    :???
+STR_2665    :???
+STR_2666    :???
+STR_2667    :???
+STR_2668    :???
+STR_2669    :NumLock
+STR_2670    :Scroll
+STR_2671    :???
+STR_2672    :???
+STR_2673    :???
+STR_2674    :???
+STR_2675    :???
+STR_2676    :???
+STR_2677    :???
+STR_2678    :???
+STR_2679    :???
+STR_2680    :Minden kutatás kész
+STR_2686    :Alacsony:
+STR_2687    :Magas:
+STR_2689    :Oktávok:
+STR_2691    :Alapmagasság:
+STR_2692    :Víz szintje:
+STR_2693    :Táj:
+STR_2694    :Létrehozás
+STR_2695    :Véletlenszerű táj
+STR_2696    :Fák lerakása
+STR_2697    :???
+STR_2698    :???
+STR_2699    :???
+STR_2700    :Automatikus mentés időköze:
 STR_2701    :Minden percben
-STR_2702    :Minden 5 percben
-STR_2703    :Minden 15 percben
-STR_2704    :Minden 30 percben
+STR_2702    :Minden 5. percben
+STR_2703    :Minden 15. percben
+STR_2704    :Minden 30. percben
 STR_2705    :Minden órában
 STR_2706    :Soha
+STR_2707    :Rendszer fájlkezelőjének használata
+STR_2709    :Felülírás
+STR_2710    :Írd be a fájl nevét.
+STR_2711    :;
+STR_2712    :=
+STR_2713    :,
+STR_2714    :-
+STR_2715    :.
+STR_2716    :/
+STR_2717    :'
+STR_2718    :Fel
+STR_2719    :Új fájl
+STR_2720    :{UINT16}mp
+STR_2721    :{UINT16}mp
+STR_2722    :{UINT16}perc:{UINT16}mp
+STR_2723    :{UINT16}perc:{UINT16}mp
+STR_2724    :{UINT16}perc:{UINT16}mp
+STR_2725    :{UINT16}perc:{UINT16}mp
+STR_2726    :{UINT16}perc
+STR_2727    :{UINT16}perc
+STR_2728    :{UINT16}óra:{UINT16}perc
+STR_2729    :{UINT16}óra:{UINT16}perc
+STR_2730    :{UINT16}óra:{UINT16}perc
+STR_2731    :{UINT16}óra:{UINT16}perc
+STR_2732    :{COMMA16}ft
+STR_2733    :{COMMA16}m
+STR_2734    :{COMMA16}mph
+STR_2735    :{COMMA16}km/h
+STR_2736    :{MONTH}, Év {COMMA16}
+STR_2737    :{STRINGID} {MONTH}, Év {COMMA16}
+STR_2738    :Főcímzene:
+STR_2739    :Nincs
+STR_2740    :RollerCoaster Tycoon 1
+STR_2741    :RollerCoaster Tycoon 2
+STR_2742    :css50.dat nem található
+STR_2744    :[
+STR_2745    :\
+STR_2746    :]
+STR_2747    :{ENDQUOTES}
+# New strings used in the cheats window previously these were ???
+STR_2763    :???
+STR_2765    :Nagy villamos
+STR_2773    :Ablak
+STR_2774    :Teljes képernyő
+STR_2775    :Teljes képernyő (keret nélküli ablak)
 STR_2776    :Nyelv:
+STR_2777    :{MOVE_X}{10}{STRING}
+STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{10}{STRING}
+# End of new strings
+STR_2781    :{STRINGID}:{MOVE_X}{255}{STRINGID}
+STR_2782    :SHIFT + 
+STR_2783    :CTRL + 
+STR_2802    :Térkép
+STR_2971    :Fő színséma
+STR_2977    :Alkalmazott neve
+STR_2978    :Írj be egy új nevet az alkalmazottad számára:
+STR_3130    :Mentés
+STR_3131    :Mégse
+STR_3211    :Térkép mérete:
+STR_3232    :Beállítások - pénzügyi
+STR_3233    :Beállítások - vendégek
+STR_3234    :Beállítások - park
+STR_3238    :Nincs pénz
+STR_3288    :{SMALLFONT}{BLACK}Éghajlat kiválasztása
+STR_3289    :{WINDOW_COLOUR_2}Éghajlat:
+STR_3290    :Hűvös és nedves
+STR_3291    :Meleg
+STR_3292    :Forró és száraz
+STR_3293    :Hideg
+STR_3348    :Átnevezés
+STR_3349    :Törlés
+STR_3356    :Fájl törlése
+STR_3360    :Figyelmeztetés!
+STR_3364    :Haladó
+STR_3378    :Telepítés
+STR_3379    :Mégse
+STR_3440    :1. oldal
+STR_3441    :2. oldal
+STR_3442    :3. oldal
+STR_3443    :4. oldal
+STR_3444    :5. oldal
 
-#Thousands separator
-STR_5151    :.
-#Decimal separator
-STR_5152    :,
+# New strings, cleaner
+STR_5130    :Térkép mérete
+STR_5147    :Csalások
+STR_5151    :,
+STR_5152    :.
+STR_5153    :Témák szerkesztése...
+STR_5158    :Kilépés a menübe
+STR_5159    :Kilépés OpenRCT2-ből
+STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, Év {POP16}{COMMA16}
+STR_5177    :Képernyőmód:
+STR_5182    :{INT32}
+STR_5187    :Pénzügyek
+STR_5188    :Új kampány
+STR_5189    :Kutatás
+STR_5190    :Térkép
+STR_5192    :Friss hírek
+STR_5194    :Víz
+STR_5217    :Csalások
+STR_5218    :Témák
+STR_5222    :Betöltés/mentés
+STR_5236    :Ablak
+STR_5244    :Témák
+STR_5260    :Képmentés a teljes térképről
+STR_5298    :{RED}{STRINGID}
+STR_5299    :{LIGHTPINK}{STRINGID}
+STR_5304    :Title Sequence:
+STR_5305    :RollerCoaster Tycoon 1
+STR_5306    :RollerCoaster Tycoon 1 (AA)
+STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
+STR_5308    :RollerCoaster Tycoon 2
+STR_5309    :OpenRCT2
+STR_5310    :Véletlenszerű
+STR_5334    :Jég
+STR_5344    :Változási napló
+STR_5349    :{SMALLFONT}{BLACK}Minden játék
+STR_5350    :Max
+STR_5351    :Min
+STR_5352    :{BLACK}Boldogság:
+STR_5353    :{BLACK}Energia:
+STR_5354    :{BLACK}Éhség:
+STR_5355    :{BLACK}Szomjúság:
+STR_5356    :{BLACK}Émelygés:
+STR_5357    :{BLACK}Émelygéstűrő képesség:
+STR_5358    :{BLACK}WC:
+STR_5359    :Vendégek eltávolítása
+STR_5363    :Több mint 1
+STR_5364    :Kevesebb mint 15
+STR_5365    :{BLACK}Személyzet sebessége:
+STR_5366    :Átlagos
+STR_5367    :Gyors
+STR_5375    :{UP}
+STR_5376    :{DOWN}
+STR_5462    :{CURRENCY}
+STR_5465    :Éghajlat
+STR_5466    :Személyzet
+STR_5467    :ALT + 
+STR_5475    :{COMMA16} hét
+STR_5476    :Hardver
+STR_5481    :Témák
+STR_5496    :Játékos
+STR_5497    :Ping
+STR_5499    :Játékos neve:
+STR_5501    :Szerver indítása
+STR_5511    :(ISMERETLEN)
+STR_5512    :Save Game As
+STR_5513    :(Gyors)mentés
+STR_5514    :Vandalizmus kikapcsolása
+STR_5549    :év/hónap/nap
+STR_5550    :{POP16}{POP16}Év {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
+STR_5551    :év/nap/hónap
+STR_5552    :{POP16}{POP16}Év {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
+STR_5562    :FIGYELMEZTETÉS!
+STR_5713    :Játékos kirúgása
+STR_5715    :Új játék
+# For identifying client network version in server list window
+STR_5719    :Napos
+STR_5720    :Részlegesen felhős
+STR_5722    :Esős
+STR_5723    :Heves esőzés
+STR_5724    :Viharos
+# tooltip for tab in options window
+STR_5736    :Játékos
+STR_5742    :Hitelesítés ...
+STR_5743    :Csatlakozás ...
+STR_5748    :Kirúgva
+STR_5750    :Kapcsolat lezárva
+STR_5751    :Nincs adat
+STR_5754    :Hibás játékos név
+STR_5756    :Hibás jelszó
+STR_5758    :{OUTLINE}{GREEN}{STRING} csatlakozott a játékhoz
+STR_5759    :Térkép letöltése ... ({INT32} / {INT32}) KiB
+STR_5763    :Minden fájl
+STR_5767    :Bevétel
+STR_5813    :{OPENQUOTES}{STRING}{ENDQUOTES}
+STR_5814    :{WINDOW_COLOUR_1}{OPENQUOTES}{STRING}{ENDQUOTES}
 
-# This language is unmaintained. All untranslated strings have been removed. 
-# If you intend to become the maintainer, please copy the missing strings from en-GB.txt and translate them.
+#tooltips
+STR_5877    :Szoftveres
+STR_5879    :OpenGL (kísérleti)
+STR_5887    :Előtag
+STR_5888    :Utótag
+STR_5910    :Alkalmazás
+STR_5913    :Chat
+STR_5914    :Ismeretlen attrakció
+STR_5915    :Játékos
+STR_5916    :{COMMA16} játékos
+STR_5917    :{COMMA16} játékos
+STR_5918    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_5919    :{COMMA16}
+STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Max {STRINGID}
+STR_5956    :Délnyugat
+STR_5957    :Északnyugat
+STR_5958    :Északkelet
+STR_5959    :Délkelet
+STR_5985    :Új mappa
+STR_6010    :{COMMA2DP32}m
+STR_6011    :{COMMA1DP16}ft
+STR_6055    :OpenRCT2 magasságtérkép fájl
+STR_6056    :{SMALLFONT}{BLACK}Némítás
+STR_6058    :Némítás
+STR_6059    :{RIGHTGUILLEMET}
+STR_6104    :Dugóhúzú hullámvasút
+STR_6105    :Hypercoaster
+STR_6106    :Autós attrakció
+STR_6110    :Gyerek hullámvasút
+STR_6127    :Fájl: {STRING}
+STR_6140    :Változási napló...
+STR_6157    :Konzol
+STR_6158    :Fájl betöltése sikertelen...{NEWLINE}Nem kompatibilis RCTC verzió: {COMMA16}
+STR_6162    :Forgó vad egér
+STR_6164    :{WHITE}{CROSS}
+STR_6167    :{SMALLFONT}{BLACK}Haladó
+STR_6171    :Keresés
+STR_6172    :{SMALLFONT}{BLACK}Keresés
+STR_6174    :Mentés betöltése
+STR_6187    :{MEDIUMFONT}{OUTLINE}{WINDOW_COLOUR_2}{STRING}
+STR_6188    :Hányás
+STR_6189    :Kacsa
+STR_6191    :Felület
+STR_6192    :Fal
+STR_6193    :{COMMA16} vendég
+STR_6194    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} vendég
+STR_6195    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} vendég
+STR_6196    :{BLACK}Év:
+STR_6197    :{BLACK}Hónap:
+STR_6198    :{BLACK}Nap:
+STR_6201    :{MONTH}
+STR_6218    :OpenRCT2 hivatalos
+STR_6229    :{WINDOW_COLOUR_2}{STRINGID}: {STRINGID}
+STR_6230    :{STRINGID}:
+STR_6231    :{WINDOW_COLOUR_2}{STRINGID}: {MOVE_X}{185}{STRINGID}
+STR_6236    :Játékosok
+STR_6237    :Csoportok
+STR_6259    :Letiltva
+
+#############
+# Scenarios #
+################
+# RCT Original #
+################
+
+###########
+# Scenery #
+###########
+
+## End OpenRCT2 Official
+
+###############################################################################
+## RCT2 Scenarios
+###############################################################################
+
+###############################################################################
+## Wacky Worlds Scenarios
+###############################################################################
+
+###############################################################################
+## Time Twister Scenarios
+###############################################################################
