@@ -27,7 +27,7 @@ STR_0022    :Útvesztő
 STR_0023    :Spirál csúszda
 STR_0024    :Gokart
 STR_0025    :Faúsztató
-STR_0026    :Folyami gyorslányok
+STR_0026    :Vadvízi evezés
 STR_0027    :Dodzsem
 STR_0028    :Hajóhinta
 STR_0029    :Fejreálló hajóhinta 
@@ -69,7 +69,7 @@ STR_0064    :Fekvő hullámvasút
 STR_0065    :Felfüggesztett egysínű
 STR_0066    :Ismeretlen attrakció (40)
 STR_0067    :Irányváltó hullámvasút
-STR_0068    :Szívvonalcsavró hullámvasút
+STR_0068    :Szívvonal csavaró hullámvasút
 STR_0069    :Minigolf
 STR_0070    :Giga-hullámvasút
 STR_0071    :Forgóesés
@@ -171,7 +171,7 @@ STR_0853    :{WINDOW_COLOUR_2}Hang és zene: Allister Brimble
 STR_0854    :{WINDOW_COLOUR_2}Kiegészítő hangok rögzítése: David Ellis
 STR_0855    :{WINDOW_COLOUR_2}Képviselet: Jacqui Lyons a Marjacq Ltd.-től
 STR_0856    :{WINDOW_COLOUR_2}Köszönet:
-STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, and John Wardley
+STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth és John Wardley
 STR_0865    :{STRINGID}
 STR_0866    :{POP16}{STRINGID}
 STR_0867    :{POP16}{POP16}{STRINGID}
@@ -186,11 +186,16 @@ STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP
 STR_0876    :{BLACK}{DOWN}
 STR_0877    :Túl alacsony !
 STR_0878    :Túl magas !
-STR_0881    :Egy tárgy van az útban
+STR_0879    :Nem süllyesztheted le itt a földet...
+STR_0880    :Nem emelheted fel itt a földet...
+STR_0881    :Egy objektum van az útban
 STR_0882    :Játék betöltése
 STR_0883    :Játék mentése
 STR_0884    :Táj betöltése
 STR_0885    :Táj mentése
+STR_0887    :Kilépés a pályaszerkesztőből
+STR_0888    :Kilépés a vágánytervezőből
+STR_0889    :Kilépés a vágányterv-kezelőből
 STR_0891    :Képernyőkép
 STR_0894    :Táj-adatterület megtelt !
 STR_0895    :Nem építhetsz részben a föld felett és részben alatta
@@ -429,6 +434,8 @@ STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Banditakosztüm
 STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Seriffkosztüm
 STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Kalózkosztüm
 STR_1791    :{WINDOW_COLOUR_2}Egyenruha színe:
+STR_1794    :Ezt javítja: {STRINGID}
+STR_1795    :Rádióhívásra válaszol
 STR_1798    :Örvény
 STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
@@ -492,7 +499,7 @@ STR_1999    :Szemét
 STR_2000    :Üres hamburgerdoboz
 STR_2001    :Pizza
 STR_2002    :Kupon
-STR_2003    :Popcorn
+STR_2003    :Pattogatott kukorica
 STR_2004    :Hotdog
 STR_2005    :Csáp
 STR_2006    :Sapka
@@ -509,7 +516,7 @@ STR_2018    :Parktérképek
 STR_2020    :Esernyők
 STR_2021    :Italok
 STR_2027    :Szemét
-STR_2031    :Popcorn
+STR_2031    :Pattogatott kukorica
 STR_2033    :Csáp
 STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Léggömb
 STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Plüssállat
@@ -531,7 +538,7 @@ STR_2233    :{SMALLFONT}{BLACK}Park információ
 STR_2234    :Legutóbbi üzenetek
 STR_2235    :{SMALLFONT}{STRINGID} {STRINGID}
 STR_2236    :Január
-STR_2237    :Februáy
+STR_2237    :Február
 STR_2238    :Március
 STR_2239    :Április
 STR_2240    :Május
@@ -586,14 +593,14 @@ STR_2533    :Backspace
 STR_2534    :Tab
 STR_2535    :???
 STR_2536    :???
-STR_2537    :Clear
+STR_2537    :Törlés
 STR_2538    :Enter
 STR_2539    :???
 STR_2540    :???
 STR_2541    :???
 STR_2542    :???
 STR_2543    :Alt/Menü
-STR_2544    :Pause
+STR_2544    :Szünet
 STR_2545    :Caps
 STR_2546    :???
 STR_2547    :???
@@ -615,13 +622,13 @@ STR_2562    :Balra nyíl
 STR_2563    :Felfelé nyíl
 STR_2564    :Jobbra nyíl
 STR_2565    :Lefelé nyíl
-STR_2566    :Select
-STR_2567    :Print
-STR_2568    :Execute
-STR_2569    :Snapshot
+STR_2566    :Kiválasztás
+STR_2567    :Nyomtatás
+STR_2568    :Végrehajtás
+STR_2569    :Képernyőkép
 STR_2570    :Insert
 STR_2571    :Delete
-STR_2572    :Help
+STR_2572    :Segítség
 STR_2573    :0
 STR_2574    :1
 STR_2575    :2
@@ -856,7 +863,7 @@ STR_5244    :Témák
 STR_5260    :Képmentés a teljes térképről
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
-STR_5304    :Title Sequence:
+STR_5304    :Címképernyős  játékpillanatok:
 STR_5305    :RollerCoaster Tycoon 1
 STR_5306    :RollerCoaster Tycoon 1 (AA)
 STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
@@ -896,7 +903,7 @@ STR_5499    :Játékos neve:
 STR_5501    :Szerver indítása
 STR_5511    :(ISMERETLEN)
 STR_5512    :Save Game As
-STR_5513    :(Gyors)mentés
+STR_5513    :(f)mentés
 STR_5514    :Vandalizmus kikapcsolása
 STR_5549    :év/hónap/nap
 STR_5550    :{POP16}{POP16}Év {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
@@ -933,7 +940,7 @@ STR_5879    :OpenGL (kísérleti)
 STR_5887    :Előtag
 STR_5888    :Utótag
 STR_5910    :Alkalmazás
-STR_5913    :Chat
+STR_5913    :Csevegés
 STR_5914    :Ismeretlen attrakció
 STR_5915    :Játékos
 STR_5916    :{COMMA16} játékos
@@ -953,7 +960,7 @@ STR_6056    :{SMALLFONT}{BLACK}Némítás
 STR_6058    :Némítás
 STR_6059    :{RIGHTGUILLEMET}
 STR_6104    :Dugóhúzú hullámvasút
-STR_6105    :Hypercoaster
+STR_6105    :Hiperhullámvasút
 STR_6106    :Autós attrakció
 STR_6110    :Gyerek hullámvasút
 STR_6127    :Fájl: {STRING}
