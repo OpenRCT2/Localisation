@@ -55,7 +55,7 @@ STR_0050    :Elsősegélynyújtó hely
 STR_0051    :Cirkusz
 STR_0052    :Szellemvasút
 STR_0053    :Csavaró hullámvasút
-STR_0054    :Favázas hullámvasút
+STR_0054    :Fa hullámvasút
 STR_0055    :Oldalirányú súrlódásos hullámvasút
 STR_0056    :Fém vad egér
 STR_0057    :Többdimenziós hullámvasút
@@ -224,12 +224,15 @@ STR_0939    :Földalatti/belső nézet
 STR_0944    :Mentés
 STR_0945    :Nincs mentés
 STR_0946    :Mégse
+STR_0947    :Mented mielőtt betöltenéd ?
+STR_0948    :Mented mielőtt kilépnél ?
+STR_0949    :Mented mielőtt kilépnél ?
 STR_0950    :Játék betöltése
 STR_0951    :Kilépés a játékból
 STR_0952    :Kilépés a játékból
 STR_0953    :Táj betöltése
 STR_0954    :
-STR_0955    :{SMALLFONT}{BLACK}Select seat rotation angle for this track section
+STR_0955    :{SMALLFONT}{BLACK}Válasszd ki az ülések elfordulási szögét ezen a vágányszakaszon
 STR_0956    :-180{DEGREE}
 STR_0957    :-135{DEGREE}
 STR_0958    :-90{DEGREE}
@@ -264,6 +267,7 @@ STR_1012    :Összes megnyitása
 STR_1013    :Park bezárása
 STR_1014    :Park megnyitása
 STR_1036    :Játék betöltése
+STR_1037    :Táj betöltése
 STR_1040    :Játék mentése
 STR_1043    :OpenRCT2 mentett játék
 STR_1047    :A játék mentése sikertelen!
@@ -347,7 +351,7 @@ STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
 STR_1452    :Vendég neve
 STR_1453    :Add meg a vendég nevét:
 STR_1454    :Nem nevezető el a vendég...
-STR_1455    :Érvnytelen vendég név
+STR_1455    :Érvénytelen vendég név
 STR_1463    :Vendégek
 STR_1468    :Személyzet
 STR_1471    :{WINDOW_COLOUR_2}Sebesség:
@@ -863,7 +867,7 @@ STR_5244    :Témák
 STR_5260    :Képmentés a teljes térképről
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
-STR_5304    :Címképernyős  játékpillanatok:
+STR_5304    :Címképernyős játékpillanatok:
 STR_5305    :RollerCoaster Tycoon 1
 STR_5306    :RollerCoaster Tycoon 1 (AA)
 STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
@@ -873,8 +877,8 @@ STR_5310    :Véletlenszerű
 STR_5334    :Jég
 STR_5344    :Változási napló
 STR_5349    :{SMALLFONT}{BLACK}Minden játék
-STR_5350    :Max
-STR_5351    :Min
+STR_5350    :Max.
+STR_5351    :Min.
 STR_5352    :{BLACK}Boldogság:
 STR_5353    :{BLACK}Energia:
 STR_5354    :{BLACK}Éhség:
@@ -902,8 +906,8 @@ STR_5497    :Ping
 STR_5499    :Játékos neve:
 STR_5501    :Szerver indítása
 STR_5511    :(ISMERETLEN)
-STR_5512    :Save Game As
-STR_5513    :(f)mentés
+STR_5512    :Játék mentése másként
+STR_5513    :(Gyors)mentés
 STR_5514    :Vandalizmus kikapcsolása
 STR_5549    :év/hónap/nap
 STR_5550    :{POP16}{POP16}Év {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
