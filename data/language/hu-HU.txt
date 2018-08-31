@@ -268,7 +268,10 @@ STR_1013    :Park bezárása
 STR_1014    :Park megnyitása
 STR_1036    :Játék betöltése
 STR_1037    :Táj betöltése
+STR_1038    :Mentett játék pályává alakítása
 STR_1040    :Játék mentése
+STR_1041    :Pálya mentése
+STR_1042    :Táj mentése
 STR_1043    :OpenRCT2 mentett játék
 STR_1047    :A játék mentése sikertelen!
 STR_1085    :Film: {OPENQUOTES}Adrenalinvadászok{ENDQUOTES}
@@ -541,23 +544,24 @@ STR_2222    :{SMALLFONT}{BLACK}{STRINGID}
 STR_2233    :{SMALLFONT}{BLACK}Park információ
 STR_2234    :Legutóbbi üzenetek
 STR_2235    :{SMALLFONT}{STRINGID} {STRINGID}
-STR_2236    :Január
-STR_2237    :Február
-STR_2238    :Március
-STR_2239    :Április
-STR_2240    :Május
-STR_2241    :Június
-STR_2242    :Július
-STR_2243    :Augusztus
-STR_2244    :Szeptember
-STR_2245    :Október
-STR_2246    :November
-STR_2247    :December
+STR_2236    :január
+STR_2237    :február
+STR_2238    :március
+STR_2239    :április
+STR_2240    :május
+STR_2241    :június
+STR_2242    :július
+STR_2243    :augusztus
+STR_2244    :szeptember
+STR_2245    :október
+STR_2246    :november
+STR_2247    :december
 STR_2277    :Ismeretlen
 STR_2288    :Ismeretlen
 STR_2289    :{STRINGID} {STRINGID}
 STR_2292    :{WINDOW_COLOUR_2}Az alábbi játékokon volt:
-STR_2293    :{BLACK} Még nem volt semmin
+STR_2293    :{BLACK} Semmi
+STR_2327    :Beállítások
 STR_2334    :Font ({POUND})
 STR_2335    :Dollár ($)
 STR_2336    :Frank (F)
@@ -570,14 +574,49 @@ STR_2342    :Korona (kr)
 STR_2343    :Euró ({EURO})
 STR_2344    :Angolszász
 STR_2345    :Metrikus
+STR_2358    :Egységek
+STR_2359    :Valós értékek
+STR_2360    :Képernyőfelbontás:
+STR_2368    :Nincs
+STR_2369    :Alacsony
+STR_2370    :Átlagos
+STR_2371    :Magas
+STR_2372    :Alacsony
+STR_2373    :Közepes
+STR_2374    :Magas
+STR_2375    :Nagyon magas
+STR_2376    :Extrém
+STR_2377    :Hihetetlenül extrém
 STR_2383    :Víz
 STR_2385    :{BLACK}Nincs
 STR_2397    :Nincs
+STR_2409    :{WINDOW_COLOUR_2}Folyamatban lévő marketing kampányok 
 STR_2410    :{BLACK}Nincs
+STR_2411    :{WINDOW_COLOUR_2}Rendelkezésre álló marketing kampányok
+STR_2412    :{SMALLFONT}{BLACK}Marketing kampány indítása
+STR_2413    :{BLACK}(heti {CURRENCY2DP})
 STR_2414    :(Nincs kiválasztva)
+STR_2415    :{WINDOW_COLOUR_2}Játék:
+STR_2416    :{WINDOW_COLOUR_2}Tárgy:
+STR_2417    :{WINDOW_COLOUR_2}Időtartama:
+STR_2418    :Ingyenes belépés ide:{STRINGID}
+STR_2419    :Ingyenes utazás ezen: {STRINGID}
+STR_2420    :Féláras belépés ide: {STRINGID}
+STR_2421    :Ingyen {STRINGID}
+STR_2424    :{WINDOW_COLOUR_2}Ingyenes parkbelépésre jogosító kuponok
+STR_2425    :{WINDOW_COLOUR_2}Egy adott játék ingyenes igénybevételére jogosító kuponok
+STR_2426    :{WINDOW_COLOUR_2}Féláras parkbelépésre jogosító kuponok
+STR_2427    :{WINDOW_COLOUR_2}Ingyenes enni- és innivalóra jogosító kuponok
+STR_2428    :{WINDOW_COLOUR_2}Reklámkampány a park számára
+STR_2429    :{WINDOW_COLOUR_2}Reklámkampány egy adott játék számára
+STR_2430    :{BLACK}Ingyenes belépésre jogosító kuponok - {STRINGID}
+STR_2431    :{BLACK}Ingyenes igénybevételre jogosító kuponok - {STRINGID}
+STR_2432    :{BLACK}Féláras belépésre jogosító kuponok - {STRINGID}
+STR_2433    :{BLACK}Ingyen {STRINGID} kuponok
+STR_2434    :{BLACK}Reklámkampány {STRINGID} számára
 STR_2436    :1 hét
-STR_2443    :{WINDOW_COLOUR_2}Költség hetente: {BLACK}{CURRENCY2DP}
-STR_2444    :{WINDOW_COLOUR_2}Teljes költség: {BLACK}{CURRENCY2DP}
+STR_2443    :{WINDOW_COLOUR_2}Heti költség: {BLACK}{CURRENCY2DP}
+STR_2444    :{WINDOW_COLOUR_2}Összköltség: {BLACK}{CURRENCY2DP}
 STR_2445    :Reklámkampány indítása
 STR_2483    :{WINDOW_COLOUR_2}Heti bevétel: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Heti bevétel: {RED}{CURRENCY2DP}
@@ -788,8 +827,8 @@ STR_2732    :{COMMA16}ft
 STR_2733    :{COMMA16}m
 STR_2734    :{COMMA16}mph
 STR_2735    :{COMMA16}km/h
-STR_2736    :{MONTH}, Év {COMMA16}
-STR_2737    :{STRINGID} {MONTH}, Év {COMMA16}
+STR_2736    :{MONTH} {COMMA16}. év
+STR_2737    :{STRINGID} {MONTH} {COMMA16}. év
 STR_2738    :Főcímzene:
 STR_2739    :Nincs
 STR_2740    :RollerCoaster Tycoon 1
@@ -829,6 +868,10 @@ STR_3290    :Hűvös és nedves
 STR_3291    :Meleg
 STR_3292    :Forró és száraz
 STR_3293    :Hideg
+STR_3342    :Pályaszerkesztő
+STR_3343    :Mentett játék pályává alakítása
+STR_3344    :Vágánytervező
+STR_3345    :Vágányterv-kezelő
 STR_3348    :Átnevezés
 STR_3349    :Törlés
 STR_3356    :Fájl törlése
@@ -841,6 +884,7 @@ STR_3441    :2. oldal
 STR_3442    :3. oldal
 STR_3443    :4. oldal
 STR_3444    :5. oldal
+STR_3364    :Haladó
 
 # New strings, cleaner
 STR_5130    :Térkép mérete
@@ -850,7 +894,9 @@ STR_5152    :.
 STR_5153    :Témák szerkesztése...
 STR_5158    :Kilépés a menübe
 STR_5159    :Kilépés OpenRCT2-ből
-STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, Év {POP16}{COMMA16}
+STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID} {POP16}{COMMA16}. év
+STR_5162    :nap/hónap/év
+STR_5163    :hónap/nap/év
 STR_5177    :Képernyőmód:
 STR_5182    :{INT32}
 STR_5187    :Pénzügyek
@@ -861,6 +907,7 @@ STR_5192    :Friss hírek
 STR_5194    :Víz
 STR_5217    :Csalások
 STR_5218    :Témák
+STR_5219    :Beállítások
 STR_5222    :Betöltés/mentés
 STR_5236    :Ablak
 STR_5244    :Témák
@@ -910,10 +957,11 @@ STR_5512    :Játék mentése másként
 STR_5513    :(Gyors)mentés
 STR_5514    :Vandalizmus kikapcsolása
 STR_5549    :év/hónap/nap
-STR_5550    :{POP16}{POP16}Év {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
+STR_5550    :{POP16}{POP16}{COMMA16}. év {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_5551    :év/nap/hónap
-STR_5552    :{POP16}{POP16}Év {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
+STR_5552    :{POP16}{POP16}{COMMA16}. év {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
 STR_5562    :FIGYELMEZTETÉS!
+STR_5581    :FPS mutatása
 STR_5713    :Játékos kirúgása
 STR_5715    :Új játék
 # For identifying client network version in server list window
