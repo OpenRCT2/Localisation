@@ -18,7 +18,7 @@ STR_0013    :Autós attrakció
 STR_0014    :Kilövéses szabadesés
 STR_0015    :Bobpálya hullámvasút
 STR_0016    :Megfigyelőtorony 
-STR_0017    :Átfordulós hullámvasút
+STR_0017    :Átforduló hullámvasút
 STR_0018    :Csónakcsúszda
 STR_0019    :Bányavonat hullámvasút
 STR_0020    :Libegő
@@ -27,11 +27,11 @@ STR_0022    :Útvesztő
 STR_0023    :Spirál csúszda
 STR_0024    :Gokart
 STR_0025    :Faúsztató
-STR_0026    :Vadvízi evezés
+STR_0026    :Vadvízi utazás
 STR_0027    :Dodzsem
 STR_0028    :Hajóhinta
 STR_0029    :Fejreálló hajóhinta 
-STR_0030    :Büfés bódé
+STR_0030    :Falatozó
 STR_0031    :Ismeretlen bódé (1D)
 STR_0032    :Italos bódé
 STR_0033    :Ismeretlen bódé (1F)
@@ -163,7 +163,7 @@ STR_0833    :{SMALLFONT}{BLACK}Játék megállítása
 STR_0834    :{SMALLFONT}{BLACK}Lemez és játék beállítások
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
-STR_0847    :Az 'OpenRCT2'-ről
+STR_0847    :Az OpenRCT2 névjegye
 STR_0850    :{WINDOW_COLOUR_2}Copyright {COPYRIGHT} 2002 Chris Sawyer, minden jog fenntartva
 STR_0851    :{WINDOW_COLOUR_2}Tervezés és programozás: Chris Sawyer
 STR_0852    :{WINDOW_COLOUR_2}Grafika: Simon Foster
@@ -195,10 +195,10 @@ STR_0884    :Táj betöltése
 STR_0885    :Táj mentése
 STR_0887    :Kilépés a pályaszerkesztőből
 STR_0888    :Kilépés a vágánytervezőből
-STR_0889    :Kilépés a vágányterv-kezelőből
-STR_0891    :Képernyőkép
+STR_0889    :Kilépés a vágánytervkezelőből
+STR_0891    :Képmentés
 STR_0894    :Táj-adatterület megtelt !
-STR_0895    :Nem építhetsz részben a föld felett és részben alatta
+STR_0895    :Nem építheted részben a föld felett és részben alatta
 STR_0896    :{POP16}{POP16}{STRINGID} építése
 STR_0897    :Irány
 STR_0898    :{SMALLFONT}{BLACK}Balkanyar
@@ -251,32 +251,168 @@ STR_0970    :+450{DEGREE}
 STR_0971    :+495{DEGREE}
 STR_0972    :Mégse
 STR_0973    :OK
-STR_0974    :Attrakciók
+STR_0974    :Játékok
 STR_0975    :Boltok és bódék
 STR_0976    :WC-k és információs bódék
+STR_0977    :Új szállító járművek
+STR_0978    :Új enyhe játékok
+STR_0979    :Új hullámvasutak
+STR_0980    :Új izgalmas játékok
+STR_0981    :Új vízi játékok
+STR_0982    :Új boltok és bódék
+STR_0983    :Kutatás & fejlesztés
 STR_0979    :Új hullámvasutak
 STR_0982    :Új boltok & bódék
 STR_0983    :Kutatás & fejlesztés
 STR_0984    :{WINDOW_COLOUR_2}{UP}{BLACK}  {CURRENCY2DP}
 STR_0985    :{WINDOW_COLOUR_2}{DOWN}{BLACK}  {CURRENCY2DP}
 STR_0986    :{BLACK}{CURRENCY2DP}
-STR_0987    :Túl sok jármű/attrakció
+STR_0987    :Túl sok játék/épület
 STR_0989    :{STRINGID}
-STR_1011    :Összes bezárása
-STR_1012    :Összes megnyitása
-STR_1013    :Park bezárása
-STR_1014    :Park megnyitása
+STR_0990    :{SMALLFONT}{BLACK}Építkezés
+STR_0991    :Állomáselem
+STR_0992    :{SMALLFONT}{BLACK}A játék/épület teljes lerombolása
+STR_0993    :Játék/épület lerombolása
+STR_0994    :Lerombolás
+STR_0995    :{WINDOW_COLOUR_1}Biztosan le akarod bontani ezt:{STRINGID}?
+STR_0996    :Teljes nézet
+STR_0997    :{SMALLFONT}{BLACK}Kijelölés mutatása
+STR_0998    :A játék nem tartalmazhat több állomást
+STR_0999    :Állomáselemre van szüksége
+STR_1000    :A vágány nem teljes körpálya 
+STR_1001    :A vonattípus számára nem megfelelő pálya
+STR_1002    :{POP16}{POP16}{POP16}{STRINGID} nem nyitható meg...
+STR_1003    :{POP16}{POP16}{POP16}{STRINGID} nem tesztelhető...
+STR_1004    :{POP16}{POP16}{POP16}{STRINGID} nem zárható be...
+STR_1005    :{POP16}{POP16}{POP16}{STRINGID} nem építhető át...
+STR_1006    :Először be kell zárni
+STR_1007    :Nem lehet elég járművet létrehozni
+STR_1008    :{SMALLFONT}{BLACK}Játék/épület megnyitása, bezárása vagy tesztelése
+STR_1009    :{SMALLFONT}{BLACK}Minden játék/épület megnyitása vagy bezárása 
+STR_1010    :{SMALLFONT}{BLACK}Park megnyitása vagy bezárása
+STR_1011    :Az összes bezárása
+STR_1012    :Az összes megnyitása
+STR_1013    :A park bezárása
+STR_1014    :A park megnyitása
+STR_1015    :Nem működik több mint egy állomáselemmel ebben az üzemmódban
+STR_1016    :Nem működik kettőnél kevesebb állomással ebben az üzemmódban
+STR_1017    :Nem változtatható meg az üzemmód...
+STR_1018    :Nem változtatható meg...
+STR_1019    :Nem változtatható meg...
+STR_1020    :Nem változtatható meg...
+STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_1022    :{POP16}{POP16}{POP16}{COMMA16} kocsi vonatonként
+STR_1023    :{POP16}{POP16}{POP16}{COMMA16} kocsi vonatonként
+STR_1024    :{COMMA16} kocsi vonatonként
+STR_1025    :{COMMA16} kocsi vonatonként
+STR_1026    :Az állomás túl hosszú!
+STR_1027    :{SMALLFONT}{BLACK}Mutatás a fő nézetben
+STR_1028    :Túl van a térkép szélén!
+STR_1029    :Nem építheted részben a víz felett és részben alatta!
+STR_1030    :Csak víz alatt építhető!
+STR_1031    :Nem építhető víz alatt!
+STR_1032    :Csak vízre építhető!
+STR_1033    :Csak föld felett építhető!
+STR_1034    :Csak a földön építhető!
+STR_1035    :A helyi önkormányzat nem engedélyezi a fák szintje feletti építkezést!
 STR_1036    :Játék betöltése
 STR_1037    :Táj betöltése
 STR_1038    :Mentett játék pályává alakítása
+STR_1039    :Új vágányterv telepítése
 STR_1040    :Játék mentése
 STR_1041    :Pálya mentése
 STR_1042    :Táj mentése
 STR_1043    :OpenRCT2 mentett játék
-STR_1047    :A játék mentése sikertelen!
+STR_1044    :OpenRCT2 pályafájl
+STR_1045    :OpenRCT2 tájfájl
+STR_1046    :OpenRCT2 vágánytervfájl
+STR_1047    :A játék mentése meghiúsult!
+STR_1048    :A pálya mentése meghiúsult!
+STR_1049    :A táj mentése meghiúsult!
+STR_1050    :Sikertelen betöltés...{NEWLINE}A fájl érvénytelen adatot tartalmaz!
+STR_1051    :Láthatatlan támpillérek 
+STR_1052    :Láthatatlan emberek
+STR_1053    :{SMALLFONT}{BLACK}Játékok/épületek a parkban
+STR_1054    :{SMALLFONT}{BLACK}Játék/épület átnevezése
+STR_1055    :{SMALLFONT}{BLACK}Személy átnevezése
+STR_1056    :{SMALLFONT}{BLACK}Alkalmazott átnevezése
+STR_1057    :A játék/épület neve
+STR_1058    :Írj be egy új nevet a játék/épület számára:
+STR_1059    :A játék/épület nem nevezhető át...
+STR_1060    :Érvénytelen játék-/épületnév
+STR_1061    :Normál üzemmód
+STR_1062    :Folyamatos körözés üzemmód
+STR_1063    :Fordított lejtős motoros ingajárat üzemmód
+STR_1064    :Motoros kilövés (áthalad az állomáson)
+STR_1065    :Ingajárat üzemmód
+STR_1066    :Csónakkölcsönző üzemmód
+STR_1067    :Kilövés felfelé
+STR_1068    :Forgó lift üzemmód
+STR_1069    :Állomástól állomásig üzemmód
+STR_1070    :Egy belépőjeggyel egy menet
+STR_1071    :Egy belépőjeggyel korlátlan használat
+STR_1072    :Útvesztő üzemmód
+STR_1073    :Verseny üzemmód
+STR_1074    :Dodzsem üzemmód
+STR_1075    :Hinta üzemmód
+STR_1076    :Bolt/bódé üzemmód
+STR_1077    :Forgó üzemmód
+STR_1078    :Előreforgás
+STR_1079    :Hátraforgás
+STR_1080    :Film: {OPENQUOTES}Légi bosszúállók{ENDQUOTES}
+STR_1081    :3D film: {OPENQUOTES}Egérmesék{ENDQUOTES}
+STR_1082    :Űrgyűrűk üzemmód
+STR_1083    :Kezdő üzemmód
+STR_1084    :Aszinkronmotor kilövés
 STR_1085    :Film: {OPENQUOTES}Adrenalinvadászok{ENDQUOTES}
 STR_1086    :3D film: {OPENQUOTES}Viharkergetők{ENDQUOTES}
-STR_1087    :3D film: {OPENQUOTES}Az űr fosztogatói{ENDQUOTES}
+STR_1087    :3D film: {OPENQUOTES}Űrbanditák{ENDQUOTES}
+STR_1088    :Intenzív üzemmód
+STR_1089    :Megvadult üzemmód
+STR_1090    :Elvarázsolt kastély üzemmód
+STR_1091    :Cirkusz üzemmód
+STR_1092    :Kilövés lefelé
+STR_1093    :Ferde ház üzemmód
+STR_1094    :Szabadeséses zuhanás üzemmód
+STR_1095    :Térközszakaszos folyamatos körözés üzemmód
+STR_1096    :Motoros kilövés (nem halad át az állomáson)
+STR_1097    :Motoros kilövésű térközszakaszos üzemmód
+STR_1098    :{POP16}{STRINGID} végébe megy
+STR_1099    :Utasokra vár itt: {POP16}{STRINGID}
+STR_1100    :Várja, hogy elhagyhassa ezt: {POP16}{STRINGID}
+STR_1101    :{POP16}{STRINGID} elhagyása
+STR_1102    :{VELOCITY} sebességgel halad
+STR_1103    :Megérkezik ide: {POP16}{STRINGID}
+STR_1104    :Kirakja az utasokat itt: {POP16}{STRINGID}
+STR_1105    :{VELOCITY} sebességgel halad
+STR_1106    :Ütközik!
+STR_1107    :Ütközött!
+STR_1108    :{VELOCITY} sebességgel halad
+STR_1109    :Leng
+STR_1110    :Forog
+STR_1111    :Forog
+STR_1112    :Üzemel
+STR_1113    :Filmet vetít
+STR_1114    :Forog
+STR_1115    :Üzemel
+STR_1116    :Üzemel
+STR_1117    :Cirkuszi előadást tart
+STR_1118    :Üzemel
+STR_1119    :A kábeles felvonóra vár
+STR_1120    :{VELOCITY} sebességgel halad
+STR_1121    :Megáll
+STR_1122    :Utasokra vár
+STR_1123    :Indulásra vár
+STR_1124    :Elindul
+STR_1125    :Üzemel
+STR_1126    :Megáll
+STR_1127    :Kirakja az utasokat
+STR_1128    :Megállították a blokkoló fékek
+STR_1129    :Minden jármű azonos színű
+STR_1130    :Minden {STRINGID} más színű
+STR_1131    :Minden jármű más színű
+STR_1132    :Jármű {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1133    :Jármű {POP16}{COMMA16}
 STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
 STR_1135    :{STRINGID} {COMMA16}
 STR_1142    :{MOVE_X}{10}{STRINGID}
@@ -352,8 +488,8 @@ STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
 STR_1452    :Vendég neve
-STR_1453    :Add meg a vendég nevét:
-STR_1454    :Nem nevezető el a vendég...
+STR_1453    :Írd be a vendég nevét:
+STR_1454    :Nem nevezető át a vendég...
 STR_1455    :Érvénytelen vendég név
 STR_1463    :Vendégek
 STR_1468    :Személyzet
@@ -417,7 +553,7 @@ STR_1703    :Új szórakoztató felvétele
 STR_1704    :Nem vehető fel új alkamazott...
 STR_1705    :{SMALLFONT}{BLACK}Alkalmazott kirúgása
 STR_1718    :Park neve
-STR_1719    :Add meg a park nevét:
+STR_1719    :Írd be a park nevét:
 STR_1721    :Park zárva
 STR_1722    :Park nyitva
 STR_1731    :{WHITE}{STRINGID} - - 
@@ -861,7 +997,7 @@ STR_3211    :Térkép mérete:
 STR_3232    :Beállítások - pénzügyi
 STR_3233    :Beállítások - vendégek
 STR_3234    :Beállítások - park
-STR_3238    :Nincs pénz
+STR_3238    :Nem kell pénz
 STR_3288    :{SMALLFONT}{BLACK}Éghajlat kiválasztása
 STR_3289    :{WINDOW_COLOUR_2}Éghajlat:
 STR_3290    :Hűvös és nedves
@@ -931,7 +1067,7 @@ STR_5353    :{BLACK}Energia:
 STR_5354    :{BLACK}Éhség:
 STR_5355    :{BLACK}Szomjúság:
 STR_5356    :{BLACK}Émelygés:
-STR_5357    :{BLACK}Émelygéstűrő képesség:
+STR_5357    :{BLACK}Émelygéstűrés:
 STR_5358    :{BLACK}WC:
 STR_5359    :Vendégek eltávolítása
 STR_5363    :Több mint 1
