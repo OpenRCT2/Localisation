@@ -14,7 +14,7 @@ STR_0009    :Mini felfüggesztett hullámvasút
 STR_0010    :Csónakkölcsönző
 STR_0011    :Fa vad egér
 STR_0012    :Akadályverseny
-STR_0013    :Autós attrakció
+STR_0013    :Autós utazás
 STR_0014    :Kilövéses szabadesés
 STR_0015    :Bobpálya hullámvasút
 STR_0016    :Megfigyelőtorony 
@@ -59,15 +59,15 @@ STR_0054    :Fa hullámvasút
 STR_0055    :Oldalirányú súrlódásos hullámvasút
 STR_0056    :Fém vad egér
 STR_0057    :Többdimenziós hullámvasút
-STR_0058    :Ismeretlen attrakció (38)
+STR_0058    :Ismeretlen játék (38)
 STR_0059    :Repülő hullámvasút
-STR_0060    :Ismeretlen attrakció (3A)
+STR_0060    :Ismeretlen játék (3A)
 STR_0061    :Virginia Reel
 STR_0062    :Csobbanó csónakok
 STR_0063    :Mini helikopterek
 STR_0064    :Fekvő hullámvasút
 STR_0065    :Felfüggesztett egysínű
-STR_0066    :Ismeretlen attrakció (40)
+STR_0066    :Ismeretlen játék (40)
 STR_0067    :Irányváltó hullámvasút
 STR_0068    :Szívvonal csavaró hullámvasút
 STR_0069    :Minigolf
@@ -83,16 +83,16 @@ STR_0078    :Fordított hajtű hullámvasút
 STR_0079    :Varázsszőnyeg
 STR_0080    :Tengeralattjáró-utazás
 STR_0081    :Folyami tutajok
-STR_0082    :Ismeretlen attrakció (50)
+STR_0082    :Ismeretlen játék (50)
 STR_0083    :Enterprise
-STR_0084    :Ismeretlen attrakció (52)
-STR_0085    :Ismeretlen attrakció (53)
-STR_0086    :Ismeretlen attrakció (54)
-STR_0087    :Ismeretlen attrakció (55)
+STR_0084    :Ismeretlen játék (52)
+STR_0085    :Ismeretlen játék (53)
+STR_0086    :Ismeretlen játék (54)
+STR_0087    :Ismeretlen játék (55)
 STR_0088    :Fordított impulzus hullámvasút
 STR_0089    :Mini hullámvasút
 STR_0090    :Bányavasút
-STR_0091    :Ismeretlen attrakció (59)
+STR_0091    :Ismeretlen játék (59)
 STR_0092    :Aszinkronmotoros hullámvasút
 STR_0537    :Önvezető elektromos dodzsem-autók
 STR_0547    :Egy bódé, ahol parktérképeket és esernyőket vehetnek a vendégek
@@ -493,12 +493,81 @@ STR_1454    :Nem nevezető át a vendég...
 STR_1455    :Érvénytelen vendég név
 STR_1463    :Vendégek
 STR_1468    :Személyzet
+STR_1469    :A játéknak állomással kell kezdődnie és végződnie
+STR_1470    :Az állomás nem elég hosszú
 STR_1471    :{WINDOW_COLOUR_2}Sebesség:
+STR_1472    :{SMALLFONT}{BLACK}A játék sebessége
+STR_1473    :{WINDOW_COLOUR_2}Izgalmi érték: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1474    :{WINDOW_COLOUR_2}Izgalmi érték: {BLACK}Még nem áll rendelkezésre
+STR_1475    :{WINDOW_COLOUR_2}Intenzitási érték: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1476    :{WINDOW_COLOUR_2}Intenzitási érték: {BLACK}Még nem áll rendelkezésre
+STR_1477    :{WINDOW_COLOUR_2}Intenzitási érték: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
+STR_1478    :{WINDOW_COLOUR_2}Émelygési érték: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1479    :{WINDOW_COLOUR_2}Émelygési érték: {BLACK}Még nem áll rendelkezésre
+STR_1480    :{SMALLFONT}{OPENQUOTES}Nincs elég pénzem erre: {STRINGID}{ENDQUOTES}
+STR_1481    :{SMALLFONT}{OPENQUOTES}Minden pénzem elköltöttem{ENDQUOTES}
+STR_1482    :{SMALLFONT}{OPENQUOTES}Rosszul érzem magam{ENDQUOTES}
+STR_1483    :{SMALLFONT}{OPENQUOTES}Nagyon rosszul érzem magam{ENDQUOTES}
+STR_1484    :{SMALLFONT}{OPENQUOTES}Valami izgalmasabbra vágyom, mint {STRINGID}{ENDQUOTES}
+STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} túl intenzívnek tűnik számomra{ENDQUOTES}
+STR_1486    :{SMALLFONT}{OPENQUOTES}Még nem fogyasztottam el ezt: {STRINGID}{ENDQUOTES}
+STR_1487    :{SMALLFONT}{OPENQUOTES}{STRINGID} már ránézésre is rosszullétet keltő{ENDQUOTES}
+STR_1488    :{SMALLFONT}{OPENQUOTES}Ennyit nem fizetek ezért: {STRINGID}{ENDQUOTES}
+STR_1489    :{SMALLFONT}{OPENQUOTES}Haza akarok menni{ENDQUOTES}
+STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} igazán megéri az árát{ENDQUOTES}
+STR_1491    :{SMALLFONT}{OPENQUOTES}Már van nálam {STRINGID}{ENDQUOTES}
+STR_1492    :{SMALLFONT}{OPENQUOTES}Nincs elég pénzem erre: {STRINGID}{ENDQUOTES}
+STR_1493    :{SMALLFONT}{OPENQUOTES}Nem vagyok éhes{ENDQUOTES}
+STR_1494    :{SMALLFONT}{OPENQUOTES}Nem vagyok szomjas{ENDQUOTES}
+STR_1495    :{SMALLFONT}{OPENQUOTES}Segítség! Megfulladok!{ENDQUOTES}
+STR_1496    :{SMALLFONT}{OPENQUOTES}Eltévedtem!{ENDQUOTES}
+STR_1497    :{SMALLFONT}{OPENQUOTES}{STRINGID} remek volt{ENDQUOTES}
+STR_1498    :{SMALLFONT}{OPENQUOTES}Már túl régóta állok a sorban {STRINGID} előtt{ENDQUOTES}
+STR_1499    :{SMALLFONT}{OPENQUOTES}Fáradt vagyok{ENDQUOTES}
+STR_1500    :{SMALLFONT}{OPENQUOTES}Éhes vagyok{ENDQUOTES}
+STR_1501    :{SMALLFONT}{OPENQUOTES}Szomjas vagyok{ENDQUOTES}
+STR_1502    :{SMALLFONT}{OPENQUOTES}WC-re kell mennem{ENDQUOTES}
+STR_1503    :{SMALLFONT}{OPENQUOTES}Merre lehet {STRINGID}?{ENDQUOTES}
+STR_1504    :{SMALLFONT}{OPENQUOTES}Nem fizetek ennyit {STRINGID} használatáért{ENDQUOTES}
+STR_1505    :{SMALLFONT}{OPENQUOTES}{STRINGID} esőben nem tűnik jó választásnak{ENDQUOTES}
+STR_1506    :{SMALLFONT}{OPENQUOTES}Túl sok itt a szemét{ENDQUOTES}
+STR_1507    :{SMALLFONT}{OPENQUOTES}Nem találom a park kijáratát{ENDQUOTES}
+STR_1508    :{SMALLFONT}{OPENQUOTES}Le akarok szállni erről: {STRINGID}{ENDQUOTES}
+STR_1509    :{SMALLFONT}{OPENQUOTES}Ki akarok jönni ebből: {STRINGID}{ENDQUOTES}
+STR_1510    :{SMALLFONT}{OPENQUOTES}Nem szállok fel erre: {STRINGID} - Nem biztonságos{ENDQUOTES}
+STR_1511    :{SMALLFONT}{OPENQUOTES}Ez az út gusztustalan{ENDQUOTES}
+STR_1512    :{SMALLFONT}{OPENQUOTES}Túl nagy itt a tömeg{ENDQUOTES}
+STR_1513    :{SMALLFONT}{OPENQUOTES}Nagyon elharapódzott itt a vandalizmus{ENDQUOTES}
+STR_1514    :{SMALLFONT}{OPENQUOTES}Csodásak a díszletek!{ENDQUOTES}
+STR_1515    :{SMALLFONT}{OPENQUOTES}Ez a park nagyon tiszta és rendezett{ENDQUOTES}
+STR_1516    :{SMALLFONT}{OPENQUOTES}Nagyszerűek ezek az ugráló szökőkutak{ENDQUOTES}
+STR_1517    :{SMALLFONT}{OPENQUOTES}Jó itt a zene{ENDQUOTES}
+STR_1518    :{SMALLFONT}{OPENQUOTES}{STRINGID} lufija igazán megéri az árát{ENDQUOTES}
+STR_1519    :{SMALLFONT}{OPENQUOTES}{STRINGID} plüssállata igazán megéri az árát{ENDQUOTES}
+STR_1520    :{SMALLFONT}{OPENQUOTES}{STRINGID} parktérképe igazán megéri az árát{ENDQUOTES}
+STR_1521    :{SMALLFONT}{OPENQUOTES}{STRINGID} utazás közbeni fotója igazán megéri az árát{ENDQUOTES}
+STR_1522    :{SMALLFONT}{OPENQUOTES}{STRINGID} esernyője igazán megéri az árát{ENDQUOTES}
+STR_1523    :{SMALLFONT}{OPENQUOTES}{STRINGID} innivalója igazán megéri az árát{ENDQUOTES}
+STR_1524    :{SMALLFONT}{OPENQUOTES}{STRINGID} hamburgere igazán megéri az árát{ENDQUOTES}
+STR_1525    :{SMALLFONT}{OPENQUOTES}{STRINGID} sültkrumplija igazán megéri az árát{ENDQUOTES}
+STR_1526    :{SMALLFONT}{OPENQUOTES}{STRINGID} jégkréme igazán megéri az árát{ENDQUOTES}
+STR_1527    :{SMALLFONT}{OPENQUOTES}{STRINGID} vattacukra igazán megéri az árát{ENDQUOTES}
 STR_1528    :
 STR_1529    :
 STR_1530    :
+STR_1531    :{SMALLFONT}{OPENQUOTES}{STRINGID} pizzája igazán megéri az árát{ENDQUOTES}
 STR_1532    :
+STR_1533    :{SMALLFONT}{OPENQUOTES}{STRINGID} pattogatott kukoricája igazán megéri az árát{ENDQUOTES}
+STR_1534    :{SMALLFONT}{OPENQUOTES}{STRINGID} hot dogja igazán megéri az árát{ENDQUOTES}
+STR_1535    :{SMALLFONT}{OPENQUOTES}{STRINGID} csápja igazán megéri az árát{ENDQUOTES}
+STR_1536    :{SMALLFONT}{OPENQUOTES}{STRINGID} sapkája igazán megéri az árát{ENDQUOTES}
+STR_1537    :{SMALLFONT}{OPENQUOTES}{STRINGID} karamellás almája igazán megéri az árát{ENDQUOTES}
+STR_1538    :{SMALLFONT}{OPENQUOTES}{STRINGID} pólója igazán megéri az árát{ENDQUOTES}
+STR_1539    :{SMALLFONT}{OPENQUOTES}{STRINGID} fánkja igazán megéri az árát{ENDQUOTES}
+STR_1540    :{SMALLFONT}{OPENQUOTES}{STRINGID} kávéja igazán megéri az árát{ENDQUOTES}
 STR_1541    :
+STR_1542    :{SMALLFONT}{OPENQUOTES}{STRINGID} sült csirkéje igazán megéri az árát{ENDQUOTES}
+STR_1543    :{SMALLFONT}{OPENQUOTES}{STRINGID} limonádéja igazán megéri az árát{ENDQUOTES}
 STR_1544    :
 STR_1545    :
 STR_1546    :
@@ -1029,7 +1098,7 @@ STR_5151    :,
 STR_5152    :.
 STR_5153    :Témák szerkesztése...
 STR_5158    :Kilépés a menübe
-STR_5159    :Kilépés OpenRCT2-ből
+STR_5159    :Kilépés az OpenRCT2-ből
 STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID} {POP16}{COMMA16}. év
 STR_5162    :nap/hónap/év
 STR_5163    :hónap/nap/év
@@ -1129,7 +1198,7 @@ STR_5887    :Előtag
 STR_5888    :Utótag
 STR_5910    :Alkalmazás
 STR_5913    :Csevegés
-STR_5914    :Ismeretlen attrakció
+STR_5914    :Ismeretlen játék
 STR_5915    :Játékos
 STR_5916    :{COMMA16} játékos
 STR_5917    :{COMMA16} játékos
@@ -1149,7 +1218,7 @@ STR_6058    :Némítás
 STR_6059    :{RIGHTGUILLEMET}
 STR_6104    :Dugóhúzú hullámvasút
 STR_6105    :Hiperhullámvasút
-STR_6106    :Autós attrakció
+STR_6106    :Autós utazás
 STR_6110    :Gyerek hullámvasút
 STR_6127    :Fájl: {STRING}
 STR_6140    :Változási napló...
