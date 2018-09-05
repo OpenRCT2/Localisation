@@ -274,7 +274,7 @@ STR_0991    :Állomáselem
 STR_0992    :{SMALLFONT}{BLACK}A játék/épület teljes lerombolása
 STR_0993    :Játék/épület lerombolása
 STR_0994    :Lerombolás
-STR_0995    :{WINDOW_COLOUR_1}Biztosan le akarod bontani ezt:{STRINGID}?
+STR_0995    :{WINDOW_COLOUR_1}Biztosan le akarod bontani ezt: {STRINGID}?
 STR_0996    :Teljes nézet
 STR_0997    :{SMALLFONT}{BLACK}Kijelölés mutatása
 STR_0998    :A játék nem tartalmazhat több állomást
@@ -512,7 +512,7 @@ STR_1484    :{SMALLFONT}{OPENQUOTES}Valami izgalmasabbra vágyom, mint {STRINGID
 STR_1485    :{SMALLFONT}{OPENQUOTES}{STRINGID} túl intenzívnek tűnik számomra{ENDQUOTES}
 STR_1486    :{SMALLFONT}{OPENQUOTES}Még nem fogyasztottam el ezt: {STRINGID}{ENDQUOTES}
 STR_1487    :{SMALLFONT}{OPENQUOTES}{STRINGID} már ránézésre is rosszullétet keltő{ENDQUOTES}
-STR_1488    :{SMALLFONT}{OPENQUOTES}Ennyit nem fizetek ezért: {STRINGID}{ENDQUOTES}
+STR_1488    :{SMALLFONT}{OPENQUOTES}{STRINGID} túl sokba kerül számomra{ENDQUOTES}
 STR_1489    :{SMALLFONT}{OPENQUOTES}Haza akarok menni{ENDQUOTES}
 STR_1490    :{SMALLFONT}{OPENQUOTES}{STRINGID} igazán megéri az árát{ENDQUOTES}
 STR_1491    :{SMALLFONT}{OPENQUOTES}Már van nálam {STRINGID}{ENDQUOTES}
@@ -574,9 +574,22 @@ STR_1546    :
 STR_1547    :
 STR_1548    :
 STR_1549    :
+STR_1550    :{SMALLFONT}{OPENQUOTES}Hűha!{ENDQUOTES}
+STR_1551    :{SMALLFONT}{OPENQUOTES}Az a felettéb különös érzésem van, hogy valaki figyel{ENDQUOTES}
+STR_1552    :{SMALLFONT}{OPENQUOTES}{STRINGID} lufija túl sokba kerül számomra{ENDQUOTES}
+STR_1553    :{SMALLFONT}{OPENQUOTES}{STRINGID} plüssállata túl sokba kerül számomra{ENDQUOTES}
+STR_1554    :{SMALLFONT}{OPENQUOTES}{STRINGID} parktérképe túl sokba kerül számomra{ENDQUOTES}
+STR_1555    :{SMALLFONT}{OPENQUOTES}{STRINGID} utazás közbeni fotója túl sokba kerül számomra{ENDQUOTES}
+STR_1556    :{SMALLFONT}{OPENQUOTES}{STRINGID} esernyője túl sokba kerül számomra{ENDQUOTES}
+STR_1557    :{SMALLFONT}{OPENQUOTES}{STRINGID} innivalója túl sokba kerül számomra{ENDQUOTES}
+STR_1558    :{SMALLFONT}{OPENQUOTES}{STRINGID} hamburgere túl sokba kerül számomra{ENDQUOTES}
+STR_1559    :{SMALLFONT}{OPENQUOTES}{STRINGID} sültkrumplija túl sokba kerül számomra{ENDQUOTES}
+STR_1560    :{SMALLFONT}{OPENQUOTES}{STRINGID} jégkréme túl sokba kerül számomra{ENDQUOTES}
+STR_1561    :{SMALLFONT}{OPENQUOTES}{STRINGID} vattacukra túl sokba kerül számomra{ENDQUOTES}
 STR_1562    :
 STR_1563    :
 STR_1564    :
+STR_1565    :{SMALLFONT}{OPENQUOTES}{STRINGID} pizzája túl sokba kerül számomra{ENDQUOTES}
 STR_1566    :
 STR_1575    :
 STR_1578    :
@@ -621,6 +634,10 @@ STR_1702    :Új biztonsági őr felvétele
 STR_1703    :Új szórakoztató felvétele
 STR_1704    :Nem vehető fel új alkamazott...
 STR_1705    :{SMALLFONT}{BLACK}Alkalmazott kirúgása
+STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Utak takarítása
+STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Kertek locsolása
+STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Kukák ürítése
+STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Fűnyírás
 STR_1718    :Park neve
 STR_1719    :Írd be a park nevét:
 STR_1721    :Park zárva
