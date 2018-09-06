@@ -21,6 +21,8 @@ Updated in:
 - [ ] ca-ES
 - [ ] ja-JP
 - [ ] ar-EG
+- [ ] da-DK
+- [ ] tr-TR
 
 Notification when new strings arrive:
-@Nubbie @Goddesen @octaroot @telk5093 @Omaranwa @danidoedel
+@Nubbie @Goddesen @octaroot @telk5093 @Omaranwa @danidoedel @LPSGizmo @BobbyS38
