@@ -471,8 +471,8 @@ STR_1428    :{WINDOW_COLOUR_2}Belépési díj:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :Ingyenes
 STR_1431    :Sétál
-STR_1432    :A következő felé tart: {STRINGID}
-STR_1433    :Várakozik a következőre: {STRINGID}
+STR_1432    :{STRINGID} felé tart
+STR_1433    :Sorban áll {STRINGID} előtt
 STR_1434    :Fulladozik
 STR_1438    :Ül
 STR_1439    :(hely kiválasztása)
@@ -622,7 +622,7 @@ STR_1594    :{SMALLFONT}{OPENQUOTES}{STRINGID} wonton levese igazán megéri az 
 STR_1595    :{SMALLFONT}{OPENQUOTES}{STRINGID} húsgombócevese igazán megéri az árát{ENDQUOTES}
 STR_1596    :{SMALLFONT}{OPENQUOTES}{STRINGID} gyümölcsleve igazán megéri az árát{ENDQUOTES}
 STR_1597    :{SMALLFONT}{OPENQUOTES}{STRINGID} szójateje igazán megéri az árát{ENDQUOTES}
-STR_1598    :{SMALLFONT}{OPENQUOTES}{STRINGID} szudzsongvája igazán megéri az árát{ENDQUOTES}
+STR_1598    :{SMALLFONT}{OPENQUOTES}{STRINGID} szudzsonggvája igazán megéri az árát{ENDQUOTES}
 STR_1599    :{SMALLFONT}{OPENQUOTES}{STRINGID} szendvicse igazán megéri az árát{ENDQUOTES}
 STR_1600    :{SMALLFONT}{OPENQUOTES}{STRINGID} sütije igazán megéri az árát{ENDQUOTES}
 STR_1601    :
@@ -809,23 +809,108 @@ STR_2012    :Sült csirke
 STR_2013    :Limonádé
 STR_2014    :Üres doboz
 STR_2015    :Üres flakon
-STR_2016    :Léggömbök
-STR_2017    :Plüssállatok
-STR_2018    :Parktérképek
-STR_2020    :Esernyők
-STR_2021    :Italok
+STR_2016    :Lufi
+STR_2017    :Plüssjáték
+STR_2018    :Parktérkép
+STR_2019    :Utazás közbeni fotó
+STR_2020    :Esernyő
+STR_2021    :Innivaló
+STR_2022    :Hamburger
+STR_2023    :Sült krumpli
+STR_2024    :Jégkrém
+STR_2025    :Vattacukor
+STR_2026    :Üres italos doboz
 STR_2027    :Szemét
+STR_2028    :Üres hamburgerdoboz
+STR_2029    :Pizza
+STR_2030    :Kupon
 STR_2031    :Pattogatott kukorica
+STR_2032    :Hot dog
 STR_2033    :Csáp
-STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Léggömb
-STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Plüssállat
+STR_2034    :Sapka
+STR_2035    :Karamellás alma
+STR_2036    :Póló
+STR_2037    :Fánk
+STR_2038    :Kávé
+STR_2039    :Üres pohár
+STR_2040    :Sült csirke
+STR_2041    :Limonádé
+STR_2042    :Üres doboz
+STR_2043    :Üres flakon
+STR_2044    :egy lufi
+STR_2045    :egy plüssjáték
+STR_2046    :egy parktérkép
+STR_2047    :egy utazás közbeni fotó
+STR_2048    :egy esernyő
+STR_2049    :innivaló
+STR_2050    :egy hamburger
+STR_2051    :sült krumpli
+STR_2052    :egy jégkrém
+STR_2053    :egy vattacukor
+STR_2054    :egy üres italos doboz
+STR_2055    :szemét
+STR_2056    :egy üres hamburgerdoboz
+STR_2057    :egy pizza
+STR_2058    :egy kupon
+STR_2059    :pattogatott kukorica
+STR_2060    :egy hot dog
+STR_2061    :egy csáp
+STR_2062    :egy sapka
+STR_2063    :egy karamellás alma
+STR_2064    :egy póló
+STR_2065    :egy fánk
+STR_2066    :kávé
+STR_2067    :egy üres pohár
+STR_2068    :sült csirke
+STR_2069    :limonádé
+STR_2070    :egy üres doboz
+STR_2071    :egy üres flakon
+STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES} lufi
+STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES} plüssjáték
 STR_2074    :{STRINGID} térképe
-STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Esernyő
-STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Sapka
-STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Póló
+STR_2075    :{STRINGID} utazás közbeni fotója
+STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} esernyő
+STR_2077    :Innivaló
+STR_2078    :Hamburger
+STR_2079    :Sült krumpli
+STR_2080    :Jégkrém
+STR_2081    :Vattacukor
+STR_2082    :Üres italos doboz
+STR_2083    :Szemét
+STR_2084    :Üres hamburgerdoboz
+STR_2085    :Pizza
+STR_2086    :{STRINGID} kupon
+STR_2087    :Pattogatott kukorica
+STR_2088    :Hot dog
+STR_2089    :Csáp
+STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} sapka
+STR_2091    :Karamellás alma
+STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} póló
+STR_2093    :Fánk
+STR_2094    :Kávé
+STR_2095    :Üres pohár
+STR_2096    :Sült csirke
+STR_2097    :Limonádé
+STR_2098    :Üres doboz
+STR_2099    :Üres flakon
+STR_2103    :{WINDOW_COLOUR_2}Perec ára:
+STR_2104    :{WINDOW_COLOUR_2}Forró csoki ára:
+STR_2105    :{WINDOW_COLOUR_2}Jeges tea ára:
+STR_2106    :{WINDOW_COLOUR_2}Tölcsérfánk ára:
+STR_2107    :{WINDOW_COLOUR_2}Napszemüveg ára:
+STR_2108    :{WINDOW_COLOUR_2}Marhahúsos tészta ára:
+STR_2109    :{WINDOW_COLOUR_2}Pirított rizstészta ára:
+STR_2110    :{WINDOW_COLOUR_2}Wonton leves ára:
+STR_2111    :{WINDOW_COLOUR_2}Húsgombóceves ára:
+STR_2112    :{WINDOW_COLOUR_2}Gyümölcslé ára:
+STR_2113    :{WINDOW_COLOUR_2}Szójatej ára:
+STR_2114    :{WINDOW_COLOUR_2}Szudzsonggva ára:
+STR_2115    :{WINDOW_COLOUR_2}Szendvics ára:
+STR_2116    :{WINDOW_COLOUR_2}Süti ára:
 STR_2117    :{WINDOW_COLOUR_2}
 STR_2118    :{WINDOW_COLOUR_2}
 STR_2119    :{WINDOW_COLOUR_2}
+STR_2120    :{WINDOW_COLOUR_2}Sült kolbász ára:
 STR_2121    :{WINDOW_COLOUR_2}
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOUR_2}{COMMA16}{DEGREE}C
@@ -1135,7 +1220,7 @@ STR_2763    :???
 STR_2765    :Nagy villamos
 STR_2773    :Ablak
 STR_2774    :Teljes képernyő
-STR_2775    :Teljes képernyő (keret nélküli ablak)
+STR_2775    :Telj. kép. (keret nélküli a.)
 STR_2776    :Nyelv:
 STR_2777    :{MOVE_X}{10}{STRING}
 STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{10}{STRING}
@@ -1206,7 +1291,7 @@ STR_5244    :Témák
 STR_5260    :Képmentés a teljes térképről
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
-STR_5304    :Címképernyős játékpillanatok:
+STR_5304    :Címkép pillanatai:
 STR_5305    :RollerCoaster Tycoon 1
 STR_5306    :RollerCoaster Tycoon 1 (AA)
 STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
