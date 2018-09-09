@@ -4123,17 +4123,17 @@ STR_5813    :{OPENQUOTES}{STRING}{ENDQUOTES}
 STR_5814    :{WINDOW_COLOUR_1}{OPENQUOTES}{STRING}{ENDQUOTES}
 
 #tooltips
-STR_5815    :{SMALLFONT}{BLACK}Display FPS counter in-game
-STR_5816    :{SMALLFONT}{BLACK}Sets ratio to scale the game by.{NEWLINE}Most useful when playing in{NEWLINE}high resolutions
-STR_5817    :{SMALLFONT}{BLACK}Sets UI scaling type. Requires hardware display to be used.{NEWLINE}Linear scaling is smooth, but blurry. Smooth Nearest Neighbour scaling is sharp, but can cause a minor performance hit.
+STR_5815    :{SMALLFONT}{BLACK}Vis billeder-per-sekund (FPS) i spillet
+STR_5816    :{SMALLFONT}{BLACK}Indstiller forholdet til at skalere spillet efter.{NEWLINE} Mest nyttigt, når du spiller i {NEWLINE} høje opløsninger
+STR_5817    :{SMALLFONT}{BLACK}Angiver brugergrænseflade skalering. Kræver, at der bruges hardware visning.{NEWLINE}Lineær skalering er glat, men sløret. En jævn og tydelig nabo-pixel skalering er skarp, men kan forårsage et mindre præstations tab.
 STR_5818    :<removed string - do not use>
-STR_5819    :{SMALLFONT}{BLACK}[Requires hardware display]{NEWLINE}Pause the game if Steam{NEWLINE}in-game overlay is opened
-STR_5820    :{SMALLFONT}{BLACK}Minimise the game if focus is{NEWLINE}lost while in fullscreen mode
+STR_5819    :{SMALLFONT}{BLACK}[kræver hardware-visning]{NEWLINE}sæt spillet på pause, hvis Steam(NEWLINE)in-game overlay er åbnet
+STR_5820    :{SMALLFONT}{BLACK}Minimer spillet, hvis fokus{NEWLINE}tabes i fuldskærmstilstand
 STR_5821    :<removed string - do not use>
-STR_5822    :{SMALLFONT}{BLACK}Cycle between day and night.{NEWLINE}Full cycle takes one in-game month
-STR_5823    :{SMALLFONT}{BLACK}Display banners in uppercase (RCT1 behaviour)
-STR_5824    :{SMALLFONT}{BLACK}Disables lightning effect{NEWLINE}during a thunderstorm
-STR_5825    :{SMALLFONT}{BLACK}Keep the mouse cursor in the window
+STR_5822    :{SMALLFONT}{BLACK}Skift imellem dag og nat.{NEWLINE}Et døgn tager en "i spil måned"
+STR_5823    :{SMALLFONT}{BLACK}Vis bannere med store bogstaver (RCT1 opførsel)
+STR_5824    :{SMALLFONT}{BLACK}Fjern lyn effekter{NEWLINE}under tordenvejr
+STR_5825    :{SMALLFONT}{BLACK}Hold musepilen inde i vinduet
 STR_5826    :{SMALLFONT}{BLACK}Invert right mouse dragging of the viewport
 STR_5827    :{SMALLFONT}{BLACK}Sets the colour scheme used for the GUI
 STR_5828    :{SMALLFONT}{BLACK}Changes what measurement format is used for distances, speed, etc.
@@ -4233,22 +4233,22 @@ STR_5921    :{SMALLFONT}{BLACK}If enabled, rain and gloomy colours will be rende
 STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Max {STRINGID}
 STR_5923    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Max {COMMA16} {STRINGID} per train
 STR_5924    :Overflade detaljer
-STR_5925    :Path details
-STR_5926    :Track details
-STR_5927    :Scenery details
-STR_5928    :Entrance details
-STR_5929    :Wall details
-STR_5930    :Large scenery details
-STR_5931    :Banner details
-STR_5932    :Corrupt element details
-STR_5933    :Properties
+STR_5925    :Sti detaljer
+STR_5926    :Bane detaljer
+STR_5927    :Sceneri detaljer
+STR_5928    :Indgang detaljer
+STR_5929    :Væg detaljer
+STR_5930    :Stort sceneri detaljer
+STR_5931    :Banner detaljer
+STR_5932    :Fejl element detaljer
+STR_5933    :Egenskaber
 STR_5934    :{WINDOW_COLOUR_2}Terrain texture: {BLACK}{STRINGID}
 STR_5935    :{WINDOW_COLOUR_2}Terrain edge: {BLACK}{STRINGID}
 STR_5936    :{WINDOW_COLOUR_2}Land ownership: {BLACK}{STRINGID}
-STR_5937    :Not owned and not for sale
+STR_5937    :Ikke ejet, og ikke til salg
 STR_5938    :{WINDOW_COLOUR_2}Water level: {BLACK}{COMMA16}
-STR_5939    :Remove park fences
-STR_5940    :Restore park fences
+STR_5939    :Fjern park hegn
+STR_5940    :Gendan park hegn
 STR_5941    :{WINDOW_COLOUR_2}Base height:
 STR_5942    :{WINDOW_COLOUR_2}Path name: {BLACK}{STRINGID}
 STR_5943    :{WINDOW_COLOUR_2}Additions: {BLACK}{STRINGID}
@@ -4275,31 +4275,31 @@ STR_5963    :{WINDOW_COLOUR_2}Raised Corners:
 STR_5964    :{WINDOW_COLOUR_2}Diagonal
 STR_5965    :{WINDOW_COLOUR_2}Entrance type: {BLACK}{STRINGID}
 STR_5966    :{WINDOW_COLOUR_2}Park indgang part: {BLACK}{STRINGID}
-STR_5967    :Middle
+STR_5967    :Midten
 STR_5968    :Venstre
 STR_5969    :Højre
-STR_5970    :{WINDOW_COLOUR_2}Entrance ID: {BLACK}{COMMA16}
-STR_5971    :{WINDOW_COLOUR_2}Exit ID: {BLACK}{COMMA16}
-STR_5972    :{WINDOW_COLOUR_2}Ride ID: {BLACK}{COMMA16}
+STR_5970    :{WINDOW_COLOUR_2}Indgang ID: {BLACK}{COMMA16}
+STR_5971    :{WINDOW_COLOUR_2}Udgang ID: {BLACK}{COMMA16}
+STR_5972    :{WINDOW_COLOUR_2}Forlystelse ID: {BLACK}{COMMA16}
 STR_5973    :Clamp to next
 STR_5974    :{SMALLFONT}{BLACK}Changes the base- and clearance height so that it's at the same as the next element on the current tile. Doing this makes it easier to build on this tile.
-STR_5975    :Slope:
-STR_5976    :Flat
+STR_5975    :Bakke:
+STR_5976    :Flad
 STR_5977    :Right side up
 STR_5978    :Left side up
-STR_5979    :{WINDOW_COLOUR_2}Wall type: {BLACK}{COMMA16}
-STR_5980    :{WINDOW_COLOUR_2}Banner text: {BLACK}{STRINGID}
-STR_5981    :{WINDOW_COLOUR_2}Not a banner
+STR_5979    :{WINDOW_COLOUR_2}Væg type: {BLACK}{COMMA16}
+STR_5980    :{WINDOW_COLOUR_2}Banner tekst: {BLACK}{STRINGID}
+STR_5981    :{WINDOW_COLOUR_2}Ikke et banner
 STR_5982    :{WINDOW_COLOUR_2}Large scenery type: {BLACK}{COMMA16}
 STR_5983    :{WINDOW_COLOUR_2}Large scenery piece ID: {BLACK}{COMMA16}
-STR_5984    :Blocked paths:
-STR_5985    :New folder
-STR_5986    :Type the name of the new folder.
-STR_5987    :Unable to create folder
+STR_5984    :Blokerede stier:
+STR_5985    :Ny mappe
+STR_5986    :Angiv navnet på den nye mappe.
+STR_5987    :Kan ikke oprette mappe
 STR_5988    :{SMALLFONT}{BLACK}No remaining land rights for sale
 STR_5989    :{SMALLFONT}{BLACK}No remaining construction rights for sale
 STR_5990    :{SMALLFONT}{BLACK}No remaining land rights or construction rights for sale
-STR_5991    :Kan ikke paste element...
+STR_5991    :Kan ikke indsætte element...
 STR_5992    :The map elements limit has been reached
 STR_5993    :{SMALLFONT}{BLACK}Copy selected element
 STR_5994    :{SMALLFONT}{BLACK}Paste copied element
@@ -4979,7 +4979,7 @@ STR_DTLS    :En kæmpe forlystelses som allerede er fuld af forlystelser, med et
 <Venus Ponds>
 STR_SCNR    :Venus Ponds
 STR_PARK    :Venus Ponds
-STR_DTLS    :On a far-away planet this area of land needs turning into a theme park
+STR_DTLS    :På en planet langt væk, har dette landområde har brug for at blive til en forlystelsespark
 
 <Micro Park>
 STR_SCNR    :Micro Park
