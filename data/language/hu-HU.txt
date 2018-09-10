@@ -221,6 +221,8 @@ STR_0930    :S kanyar (jobbra)
 STR_0931    :Függőleges hurok (balra)
 STR_0932    :Függőleges hurok (jobbra)
 STR_0939    :Földalatti/belső nézet
+STR_0942    :Átlátszó játékok
+STR_0943    :Átlátszó díszletek
 STR_0944    :Mentés
 STR_0945    :Nincs mentés
 STR_0946    :Mégse
@@ -1013,6 +1015,10 @@ STR_2244    :szeptember
 STR_2245    :október
 STR_2246    :november
 STR_2247    :december
+STR_2248    :A játék/épület nem rombolható le...
+STR_2249    :{BABYBLUE}Új játék/épület érhető el:{NEWLINE}{STRINGID}
+STR_2251    :Csak utakra építhető!
+STR_2252    :Csak az utakon kereszetbe építhető!
 STR_2277    :Ismeretlen
 STR_2288    :Ismeretlen
 STR_2289    :{STRINGID} {STRINGID}
@@ -1079,7 +1085,7 @@ STR_2483    :{WINDOW_COLOUR_2}Heti bevétel: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Heti bevétel: {RED}{CURRENCY2DP}
 STR_2487    :Vendégek "igazi" nevének mutatása
 STR_2496    :Játék megállítása
-STR_2524    :Képernyőkép
+STR_2524    :Képmentés
 ### The following need to be reordered to match SDL_keycode layout.
 STR_2525    :???
 STR_2526    :???
@@ -1237,6 +1243,8 @@ STR_2677    :???
 STR_2678    :???
 STR_2679    :???
 STR_2680    :Minden kutatás kész
+STR_2681    :{MEDIUMFONT}{BLACK}Ennyivel növeli a pénzed: {CURRENCY}
+STR_2684    :{SMALLFONT}{BLACK}Egy nagy csopot vendég érkezik
 STR_2686    :Alacsony:
 STR_2687    :Magas:
 STR_2689    :Oktávok:
@@ -1249,7 +1257,7 @@ STR_2696    :Fák lerakása
 STR_2697    :???
 STR_2698    :???
 STR_2699    :???
-STR_2700    :Automatikus mentés időköze:
+STR_2700    :Automatikus mentés:
 STR_2701    :Minden percben
 STR_2702    :Minden 5. percben
 STR_2703    :Minden 15. percben
@@ -1295,9 +1303,20 @@ STR_2744    :[
 STR_2745    :\
 STR_2746    :]
 STR_2747    :{ENDQUOTES}
+STR_2749    :Az új pályám
 # New strings used in the cheats window previously these were ???
+STR_2752    :Gyommentesítés
+STR_2753    :Fű lenyírása
+STR_2754    :Növények öntözése
+STR_2755    :Vandalizm. helyreáll.
+STR_2756    :Szemét eltávolítása
 STR_2763    :???
 STR_2765    :Nagy villamos
+STR_2766    :Pálya megnyerése
+STR_2767    :Időjárás-változás ki
+STR_2768    :Időjárás-változás be
+STR_2769    :Park megnyitása
+STR_2770    :Park bezárása
 STR_2773    :Ablak
 STR_2774    :Teljes képernyő
 STR_2775    :Telj. kép. (keret nélküli a.)
@@ -1367,8 +1386,14 @@ STR_5218    :Témák
 STR_5219    :Beállítások
 STR_5222    :Betöltés/mentés
 STR_5236    :Ablak
+STR_5237    :Paletta
+STR_5238    :Jelenlegi téma:
+STR_5239    :Megkettőzés
+STR_5240    :Írj be egy nevet a téma számára
+STR_5241    :Ez a téma nem változtatható meg
 STR_5244    :Témák
 STR_5260    :Képmentés a teljes térképről
+STR_5285    :ROBBANJANAK!!!
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
 STR_5304    :Címkép pillanatai:
@@ -1391,6 +1416,7 @@ STR_5356    :{BLACK}Émelygés:
 STR_5357    :{BLACK}Émelygéstűrés:
 STR_5358    :{BLACK}WC:
 STR_5359    :Vendégek eltávolítása
+STR_5361    :Minden vendég kapjon:
 STR_5363    :Több mint 1
 STR_5364    :Kevesebb mint 15
 STR_5365    :{BLACK}Személyzet sebessége:
@@ -1424,9 +1450,12 @@ STR_5715    :Új játék
 # For identifying client network version in server list window
 STR_5719    :Napos
 STR_5720    :Részlegesen felhős
+STR_5721    :Felhős
 STR_5722    :Esős
 STR_5723    :Heves esőzés
 STR_5724    :Viharos
+STR_5725    :{BLACK}Az időjárás legyen:
+STR_5726    :{SMALLFONT}{BLACK}A park jelenlegi időjárásának beállítása
 # tooltip for tab in options window
 STR_5736    :Játékos
 STR_5742    :Hitelesítés ...
@@ -1449,6 +1478,7 @@ STR_5879    :OpenGL (kísérleti)
 STR_5887    :Előtag
 STR_5888    :Utótag
 STR_5910    :Alkalmazás
+STR_5911    :Átlátszó utak
 STR_5913    :Csevegés
 STR_5914    :Ismeretlen játék
 STR_5915    :Játékos
@@ -1462,8 +1492,13 @@ STR_5957    :Északnyugat
 STR_5958    :Északkelet
 STR_5959    :Délkelet
 STR_5985    :Új mappa
+STR_5986    :Írd be az új mapa nevét.
+STR_5987    :A mappát nem lehet létrehozni
 STR_6010    :{COMMA2DP32}m
 STR_6011    :{COMMA1DP16}ft
+STR_6031    :Szerver leírása:
+STR_6032    :Szerver üdvözlő üzenete:
+STR_6033    :Az RCT1 telepítési útvonala:
 STR_6055    :OpenRCT2 magasságtérkép fájl
 STR_6056    :{SMALLFONT}{BLACK}Némítás
 STR_6058    :Némítás
@@ -1474,6 +1509,7 @@ STR_6106    :Autós utazás
 STR_6110    :Gyerek hullámvasút
 STR_6127    :Fájl: {STRING}
 STR_6140    :Változási napló...
+STR_6156    :A név le van foglalva
 STR_6157    :Konzol
 STR_6158    :Fájl betöltése sikertelen...{NEWLINE}Nem kompatibilis RCTC verzió: {COMMA16}
 STR_6162    :Forgó vad egér
@@ -1481,6 +1517,7 @@ STR_6164    :{WHITE}{CROSS}
 STR_6167    :{SMALLFONT}{BLACK}Haladó
 STR_6171    :Keresés
 STR_6172    :{SMALLFONT}{BLACK}Keresés
+STR_6173    :Kérlek add meg a keresni kívánt nevet:
 STR_6174    :Mentés betöltése
 STR_6187    :{MEDIUMFONT}{OUTLINE}{WINDOW_COLOUR_2}{STRING}
 STR_6188    :Hányás
@@ -1493,7 +1530,20 @@ STR_6195    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} vendég
 STR_6196    :{BLACK}Év:
 STR_6197    :{BLACK}Hónap:
 STR_6198    :{BLACK}Nap:
+STR_6199    :Dátum beállítása
+STR_6200    :Dátum visszaállítása
 STR_6201    :{MONTH}
+STR_6204    :Tégla
+STR_6205    :Vas
+STR_6206    :Szürke díszvakolat
+STR_6207    :Sárga díszvakolat
+STR_6208    :Piros díszvakolat
+STR_6209    :Lila díszvakolat
+STR_6210    :Zöld díszvakolat
+STR_6211    :Barna homokkő
+STR_6212    :Szürke homokkő
+STR_6213    :Felhőkarcoló A
+STR_6214    :Felhőkarcoló B
 STR_6218    :OpenRCT2 hivatalos
 STR_6229    :{WINDOW_COLOUR_2}{STRINGID}: {STRINGID}
 STR_6230    :{STRINGID}:
@@ -1501,6 +1551,8 @@ STR_6231    :{WINDOW_COLOUR_2}{STRINGID}: {MOVE_X}{185}{STRINGID}
 STR_6236    :Játékosok
 STR_6237    :Csoportok
 STR_6259    :Letiltva
+STR_6264    :Mindig a rendszer fájlkezelőjét használja
+STR_6265    :{SMALLFONT}{BLACK}Ha ki van jelölve, az operációs rendszered fájlkezelője lesz használva az OpenRCT2-é helyett.
 
 #############
 # Scenarios #
