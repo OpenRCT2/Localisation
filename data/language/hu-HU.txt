@@ -435,11 +435,15 @@ STR_1195    :Tesztüzem
 STR_1196    :Nyitva
 STR_1197    :Lerobbant
 STR_1198    :Baleset!
-STR_1201    :Senki nem várakozik
-STR_1202    :Egy ember várakozik
-STR_1203    :{COMMA16} ember várakozik
+STR_1201    :Senki nem áll a sorban
+STR_1202    :Egy ember áll a sorban
+STR_1203    :{COMMA16} ember áll a sorban
 STR_1204    :{COMMA16} perc a sorbanállási idő
 STR_1205    :{COMMA16} perc a sorbanállási idő
+STR_1211    :{WINDOW_COLOUR_2}Minimum várakozási idő
+STR_1212    :{WINDOW_COLOUR_2}Maximum várakozási idő:
+STR_1213    :{SMALLFONT}{BLACK}Az indulás előtti minimum várakozási idő kiválasztása
+STR_1214    :{SMALLFONT}{BLACK}Az indulás előtti maximum várakozási idő kiválasztása
 STR_1217    :{COMMA16} másodperc
 STR_1218    :{BLACK}+
 STR_1219    :{BLACK}-
@@ -674,6 +678,22 @@ STR_1644    :
 STR_1645    :
 STR_1646    :
 STR_1647    :
+STR_1657    :{WINDOW_COLOUR_2}előnyben részesített játék-
+STR_1658    :{WINDOW_COLOUR_2}intenzitás: {BLACK}kevesebb mint {COMMA16}
+STR_1659    :{WINDOW_COLOUR_2}intenzitás: {BLACK}{COMMA16} és {COMMA16} között
+STR_1660    :{WINDOW_COLOUR_2}intenzitás: {BLACK}több mint {COMMA16}
+STR_1661    :{WINDOW_COLOUR_2}Émelygéstűrés: {BLACK}{STRINGID}
+STR_1662    :{WINDOW_COLOUR_2}Boldogság:
+STR_1663    :{WINDOW_COLOUR_2}Émelygés:
+STR_1664    :{WINDOW_COLOUR_2}Energia:
+STR_1665    :{WINDOW_COLOUR_2}Éhség:
+STR_1666    :{WINDOW_COLOUR_2}Szomjúság:
+STR_1667    :{WINDOW_COLOUR_2}WC:
+STR_1668    :{WINDOW_COLOUR_2}Elégedettség: {BLACK}Unknown
+STR_1669    :{WINDOW_COLOUR_2}Elégedettség: {BLACK}{COMMA16}%
+STR_1670    :{WINDOW_COLOUR_2}Összes vásárló: {BLACK}{COMMA32}
+STR_1671    :{WINDOW_COLOUR_2}Teljes haszon: {BLACK}{CURRENCY2DP}
+STR_1672    :Fékek
 STR_1675    :{POP16}{VELOCITY}
 STR_1699    :Túl sok ember van a játékban
 STR_1700    :Új mindenes felvétele
@@ -726,6 +746,8 @@ STR_1845    :{MONTHYEAR}
 STR_1846    :{COMMA16} vendég
 STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} vendég
 STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} vendég
+STR_1849    :{WINDOW_COLOUR_2}Zene játszása
+STR_1850    :{SMALLFONT}{BLACK}Válaszd ki, hogy legyen-e zene ezen a játékon
 STR_1859    :mindenes
 STR_1860    :szerelő
 STR_1861    :biztonsági őr
@@ -753,6 +775,8 @@ STR_1915    :{RED}{CURRENCY2DP}
 STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1924    :{SMALLFONT}{BLACK}Kilépés
 STR_1926    :{SMALLFONT}
+STR_1927    :{YELLOW}{STRINGID} elromlott
+STR_1928    :{RED}{STRINGID} ütközött!
 STR_1954    :Kutatás finanszírozása
 STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1958    :{COMMA16}
@@ -990,7 +1014,7 @@ STR_2206    :Üres kis dobozos üdítő
 STR_2207    :Üres gyümölcsleves pohár
 STR_2208    :Sült kolbász
 STR_2209    :Üres tál
-STR_2210    :{SMALLFONT}{BLACK}A park takarítóinak listája
+STR_2210    :{SMALLFONT}{BLACK}A park mindeneseinek listája
 STR_2211    :{SMALLFONT}{BLACK}A park szerelőinek listája
 STR_2212    :{SMALLFONT}{BLACK}A park biztonsági őreinek listája
 STR_2213    :{SMALLFONT}{BLACK}A park szórakoztatóinak listája
@@ -1323,11 +1347,22 @@ STR_2775    :Telj. kép. (keret nélküli a.)
 STR_2776    :Nyelv:
 STR_2777    :{MOVE_X}{10}{STRING}
 STR_2778    :{RIGHTGUILLEMET}{MOVE_X}{10}{STRING}
+STR_2779    :{COMMA16}. látkép
+STR_2780    :Extra látkép
 # End of new strings
 STR_2781    :{STRINGID}:{MOVE_X}{255}{STRINGID}
 STR_2782    :SHIFT + 
 STR_2783    :CTRL + 
 STR_2802    :Térkép
+STR_2805    :{SMALLFONT}{BLACK}A park térképének mutatása
+STR_2806    :{RED}A vendégek panaszkodnak, mert az utak a parkodban gusztustalan állapotban vannak{NEWLINE}Ellenőrizd, hogy merre járnak a mindeneseid és gondold át, hogyan lehetnének szervezettebbek
+STR_2807    :{RED}A vendégek panaszkodnak a parkodban található szemét mennyisége miatt{NEWLINE}Ellenőrizd, hogy merre járnak a mindeneseid és gondold át, hogyan lehetnének szervezettebbek
+STR_2808    :{RED}A vendégek panaszkodnak a parkodban lévő vandalizmus miatt{NEWLINE}Ellenőrizd, hogy merre járnak a biztonsági őreid és gondold át, hogyan lehetnének szervezettebbek
+STR_2809    :{RED}A vendégek éhesek és sehol nem tudnak ennivalót venni
+STR_2810    :{RED}A vendégek szomjasak és sehol nem tudnak innivalót venni
+STR_2811    :{RED}A vendégek panaszkodnak, mert nem találják a WC-ket a parkodban
+STR_2812    :{RED}A vendégek eltévednek vagy beragadnak{NEWLINE}Ellenőrizd, hogy tudnál-e javítani az úthálózatodon, hogy a vendégek biztosan elérjék a céljukat
+STR_2813    :{RED}A parkod belépési díja túl magas!{NEWLINE}Csökkentsd a belépési díjad, vagy növeld a park értékét, hogy több vendéget vonzz
 STR_2971    :Fő színséma
 STR_2977    :Alkalmazott neve
 STR_2978    :Írj be egy új nevet az alkalmazottad számára:
