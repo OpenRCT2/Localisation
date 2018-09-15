@@ -256,7 +256,7 @@ STR_0973    :OK
 STR_0974    :Játékok
 STR_0975    :Boltok és bódék
 STR_0976    :WC-k és információs bódék
-STR_0977    :Új szállító járművek
+STR_0977    :Új szállító játékok
 STR_0978    :Új enyhe játékok
 STR_0979    :Új hullámvasutak
 STR_0980    :Új izgalmas játékok
@@ -308,7 +308,7 @@ STR_1023    :{POP16}{POP16}{POP16}{COMMA16} kocsi vonatonként
 STR_1024    :{COMMA16} kocsi vonatonként
 STR_1025    :{COMMA16} kocsi vonatonként
 STR_1026    :Az állomás túl hosszú!
-STR_1027    :{SMALLFONT}{BLACK}Mutatás a fő nézetben
+STR_1027    :{SMALLFONT}{BLACK}Ráközelítés a fő nézetben
 STR_1028    :Túl van a térkép szélén!
 STR_1029    :Nem építheted részben a víz felett és részben alatta!
 STR_1030    :Csak víz alatt építhető!
@@ -447,7 +447,7 @@ STR_1214    :{SMALLFONT}{BLACK}Az indulás előtti maximum várakozási idő kiv
 STR_1217    :{COMMA16} másodperc
 STR_1218    :{BLACK}+
 STR_1219    :{BLACK}-
-STR_1223    :{SMALLFONT}{BLACK}Szállító járművek
+STR_1223    :{SMALLFONT}{BLACK}Szállító játékok
 STR_1224    :{SMALLFONT}{BLACK}Enyhe játékok
 STR_1225    :{SMALLFONT}{BLACK}Hullámvasutak
 STR_1226    :{SMALLFONT}{BLACK}Izgalmas játékok
@@ -768,6 +768,8 @@ STR_1883    :Minden órában
 STR_1884    :Minden második órában
 STR_1885    :Soha
 STR_1886    :Ezt vizsgálja: {STRINGID}
+STR_1887    :{WINDOW_COLOUR_2}Az utolsó ellenőrzés óta eltelt idő: {BLACK}{COMMA16} perc
+STR_1888    :{WINDOW_COLOUR_2}Az utolsó ellenőrzés óta eltelt idő: {BLACK}több, mint 4 óra
 STR_1912    :{MONTH}
 STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
@@ -1422,7 +1424,7 @@ STR_3047    :A helyi önkormányzat nem engedélyezi a játék lerombolását va
 STR_3048    :A helyi önkormányzat nem engedélyezi marketingkampányok indítását
 STR_3078    :Sima bejárat
 STR_3079    :Fa bejárat
-STR_3080    :Vászon sátor bejárat
+STR_3080    :Vászonsátor bejárat
 STR_3081    :Kastély bejárat (szürke)
 STR_3082    :Kastély bejárat (barna)
 STR_3083    :Dzsungel bejárat
@@ -1464,6 +1466,12 @@ STR_3444    :5. oldal
 STR_3364    :Haladó
 
 # New strings, cleaner
+STR_5120    :Pénzügyek
+STR_5121    :Kutatás
+STR_5122    :A játékok vágánytípus szerinti kiválasztása (mint az RCT1-ben)
+STR_5123    :Játékok felújítása
+STR_5125    :Minden lerombolható
+STR_5126    :Véletlenszerű főcímzene
 STR_5130    :Térkép mérete
 STR_5147    :Csalások
 STR_5151    :,
@@ -1532,6 +1540,8 @@ STR_5467    :ALT +
 STR_5475    :{COMMA16} hét
 STR_5476    :Hardver
 STR_5481    :Témák
+STR_5482    :{WINDOW_COLOUR_2}Az utolsó ellenőrzés óta eltelt idő: {BLACK}1 perc
+STR_5488    :Nincs bejárat (Csak az OpenRCT2-ben!)
 STR_5496    :Játékos
 STR_5497    :Ping
 STR_5499    :Játékos neve:
@@ -1540,6 +1550,39 @@ STR_5511    :(ISMERETLEN)
 STR_5512    :Játék mentése másként
 STR_5513    :(Gyors)mentés
 STR_5514    :Vandalizmus kikapcsolása
+STR_5515    :{SMALLFONT}{BLACK}A mérges vendégek nem vandalizálják a parkodat
+STR_5516    :{SMALLFONT}{BLACK}Fekete
+STR_5517    :{SMALLFONT}{BLACK}Szürke
+STR_5518    :{SMALLFONT}{BLACK}Fehér
+STR_5519    :{SMALLFONT}{BLACK}Sötétlila
+STR_5520    :{SMALLFONT}{BLACK}Világoslila
+STR_5521    :{SMALLFONT}{BLACK}Élénklila
+STR_5522    :{SMALLFONT}{BLACK}Sötétkék
+STR_5523    :{SMALLFONT}{BLACK}Világoskék
+STR_5524    :{SMALLFONT}{BLACK}Jégkék
+STR_5525    :{SMALLFONT}{BLACK}Sötét víz
+STR_5526    :{SMALLFONT}{BLACK}Világos víz
+STR_5527    :{SMALLFONT}{BLACK}Telített zöld
+STR_5528    :{SMALLFONT}{BLACK}Sötétzöld
+STR_5529    :{SMALLFONT}{BLACK}Mohazöld
+STR_5530    :{SMALLFONT}{BLACK}Élénkzöld
+STR_5531    :{SMALLFONT}{BLACK}Olívazöld
+STR_5532    :{SMALLFONT}{BLACK}Sötét olívazöld
+STR_5533    :{SMALLFONT}{BLACK}Világossárga
+STR_5534    :{SMALLFONT}{BLACK}Sárga
+STR_5535    :{SMALLFONT}{BLACK}Sötétsárga
+STR_5536    :{SMALLFONT}{BLACK}Világos narancssárga
+STR_5537    :{SMALLFONT}{BLACK}Sötét narancssárga
+STR_5538    :{SMALLFONT}{BLACK}Világosbarna
+STR_5539    :{SMALLFONT}{BLACK}Telített barna
+STR_5540    :{SMALLFONT}{BLACK}Sötétbarna
+STR_5541    :{SMALLFONT}{BLACK}Lazac rózsaszín
+STR_5542    :{SMALLFONT}{BLACK}Bordóvörös
+STR_5543    :{SMALLFONT}{BLACK}Telített piros
+STR_5544    :{SMALLFONT}{BLACK}Élénkpiros
+STR_5545    :{SMALLFONT}{BLACK}Sötét rózsaszín
+STR_5546    :{SMALLFONT}{BLACK}Élénk rózsaszín
+STR_5547    :{SMALLFONT}{BLACK}Világos rózsaszín
 STR_5549    :év/hónap/nap
 STR_5550    :{POP16}{POP16}{COMMA16}. év {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_5551    :év/nap/hónap
@@ -1656,6 +1699,16 @@ STR_6230    :{STRINGID}:
 STR_6231    :{WINDOW_COLOUR_2}{STRINGID}: {MOVE_X}{185}{STRINGID}
 STR_6236    :Játékosok
 STR_6237    :Csoportok
+STR_6243    :{SMALLFONT}{BLACK}Felújítja a játékot,{NEWLINE}olyan lesz, mintha új lenne
+STR_6244    :Nem újítható fel a játék...
+STR_6245    :{SMALLFONT}{BLACK}A játéknak nincs szüksége felújításra
+STR_6246    :Felújítás
+STR_6247    :Játék/épület felújítása
+STR_6248    :{WINDOW_COLOUR_1}Biztos, hogy fel akarod újítani ezt: {STRINGID}? A költsége: {CURRENCY}
+STR_6249    :{WINDOW_COLOUR_1}Biztos, hogy fel akarod újítani ezt: {STRINGID}?
+STR_6250    :{WINDOW_COLOUR_1}Biztos, hogy le akarod rombolni ezt: {STRINGID}? A visszatérítés összege: {CURRENCY}
+STR_6262    :Fő hangerő
+STR_6263    :{SMALLFONT}{BLACK}Minden hang be- és kikapcsolása
 STR_6259    :Letiltva
 STR_6264    :Mindig a rendszer fájlkezelőjét használja
 STR_6265    :{SMALLFONT}{BLACK}Ha ki van jelölve, az operációs rendszered fájlkezelője lesz használva az OpenRCT2-é helyett.
