@@ -233,7 +233,7 @@ STR_0828    :{SMALLFONT}{BLACK}Fechar Janela
 STR_0829    :{SMALLFONT}{BLACK}Título da janela - Arraste para mover a janela
 STR_0830    :{SMALLFONT}{BLACK}Aumentar Zoom
 STR_0831    :{SMALLFONT}{BLACK}Reduzir Zoom
-STR_0832    :{SMALLFONT}{BLACK}Rotacionar visão em 90{DEGREE} no sentido horário
+STR_0832    :{SMALLFONT}{BLACK}Girar visão em 90{DEGREE} no sentido horário
 STR_0833    :{SMALLFONT}{BLACK}Pausar Jogo
 STR_0834    :{SMALLFONT}{BLACK}Opções de disco e jogo
 STR_0839    :{UINT16} x {UINT16}
@@ -707,7 +707,7 @@ STR_1323    :Cursos
 STR_1324    :{COMMA16} curso
 STR_1325    :{COMMA16} cursos
 STR_1326    :Curso {COMMA16}
-STR_1327    :{SMALLFONT}{BLACK}Rotacionar objetos em 90{DEGREE}
+STR_1327    :{SMALLFONT}{BLACK}Girar objetos em 90{DEGREE}
 STR_1328    :Necessário nivelar terreno
 STR_1329    :{WINDOW_COLOUR_2}Velocidade de lançamento:
 STR_1330    :{SMALLFONT}{BLACK}Velocidade máxima quando sair da estação
@@ -784,7 +784,7 @@ STR_1400    :Entrada
 STR_1401    :Saída
 STR_1402    :{SMALLFONT}{BLACK}Construir ou mover a entrada da atração
 STR_1403    :{SMALLFONT}{BLACK}Construir ou mover a saída da atração
-STR_1404    :{SMALLFONT}{BLACK}Rotacionar 90{DEGREE}
+STR_1404    :{SMALLFONT}{BLACK}Girar 90{DEGREE}
 STR_1405    :{SMALLFONT}{BLACK}Imagem espelhada
 STR_1406    :{SMALLFONT}{BLACK}Liga/Desliga cenário (se disponível para este projeto)
 STR_1407    :{WINDOW_COLOUR_2}Construir isto...
@@ -1832,8 +1832,8 @@ STR_2495    :Cancelar modo construção
 STR_2496    :Pausar jogo
 STR_2497    :Afastar vista
 STR_2498    :Aproximar vista
-STR_2499    :Rotacionar vista no sentido horário
-STR_2500    :Rotacionar objeto de construção
+STR_2499    :Girar vista no sentido horário
+STR_2500    :Girar objeto de construção
 STR_2501    :Alternar vista subterrânea
 STR_2502    :Alternar terreno base escondido
 STR_2503    :Alternar terreno vertical escondido
@@ -1841,9 +1841,9 @@ STR_2504    :Alternar ver através dos brinquedos
 STR_2505    :Alternar ver através dos cenários
 STR_2506    :Alternar suportes invisíveis
 STR_2507    :Alternar pessoas invisíveis
-STR_2508    :Alternar marcas de altura no terreno
-STR_2509    :Alternar marcas de altura nos trilhos
-STR_2510    :Alternar marcas de altura nos caminhos
+STR_2508    :Marcas de altura no terreno
+STR_2509    :Marcas de altura nos trilhos
+STR_2510    :Marcas de altura nos caminhos
 STR_2511    :Ajustar terreno
 STR_2512    :Ajustar água
 STR_2513    :Construir cenário
@@ -2920,8 +2920,8 @@ STR_5415    :Carregar{MOVE_X}{87}{STRING}
 STR_5416    :Carregar{MOVE_X}{87}Jogo salvo não selecionado
 STR_5417    :Localização
 STR_5418    :Localização{MOVE_X}{87}{COMMA16}   {COMMA16}
-STR_5419    :Rotacionar
-STR_5420    :Rotacionar{MOVE_X}{87}{COMMA16}
+STR_5419    :Girar
+STR_5420    :Girar{MOVE_X}{87}{COMMA16}
 STR_5421    :Ampliar
 STR_5422    :Ampliar{MOVE_X}{87}{COMMA16}
 STR_5423    :Aguardar
@@ -2953,15 +2953,15 @@ STR_5448    :Atração / Veículo {STRINGID}
 STR_5449    :Reduzir a velocidade do jogo
 STR_5450    :Aumentar a velocidade do jogo
 STR_5451    :Abrir janela de trapaças
-STR_5452    :Alternar a visibilidade da barra de ferramentas
+STR_5452    :Alternar barra de ferramentas
 STR_5453    :Selecione outra atração
 STR_5454    :Remover limite de FPS
 STR_5455    :Ativar o modo sandbox
 STR_5456    :Desabilitar as verificações de depuração
 STR_5457    :Desativar limites de apoio
-STR_5458    :Rotacionar no sentido horário
-STR_5459    :Rotacionar no sentido anti-horário
-STR_5460    :Rotacionar visão no sentido anti-horário
+STR_5458    :Girar no sentido horário
+STR_5459    :Girar no sentido anti-horário
+STR_5460    :Girar visão no sentido anti-horário
 STR_5461    :Definir parâmetros dos visitantes
 STR_5462    :{CURRENCY}
 STR_5463    :Objetivo: Divirta-se!
@@ -3321,7 +3321,7 @@ STR_5856    :{SMALLFONT}{BLACK}Define a resolução de jogo quando estiver em te
 STR_5857    :{SMALLFONT}{BLACK}Opções de jogo
 STR_5858    :{SMALLFONT}{BLACK}Usa GPU para mostrar ao invés da CPU. Melhora compatibilidade com software de captura de tela. Desempenho pode cair sutilmente.
 STR_5859    :{SMALLFONT}{BLACK}Habilita interpolação de quadros para{NEWLINE}um gameplay mais suave. Quando desabilitado,{NEWLINE}o jogo vai rodar em 40 FPS.
-STR_5860    :Alternar desenho de pista original/decompilado
+STR_5860    :Alternar desenho pista orig./decomp.
 STR_5861    :Falha na verificação de chave.
 STR_5862    :Bloquear jogadores desconhecidos.
 STR_5863    :{SMALLFONT}{BLACK}Só permite a entrada de jogadores com chaves conhecidas.
@@ -3359,7 +3359,7 @@ STR_5894    :Insira a taxa de câmbio
 STR_5895    :Salvar pista
 STR_5896    :Falha ao salvar pista!
 STR_5898    :{BLACK}Não é possível carregar pista, o arquivo pode estar {newline}corrompido, quebrado ou faltando!
-STR_5899    :Alternar janela de depuração de pintura
+STR_5899    :Alternar janela de depur. de pintura
 STR_5900    :Usar código original de desenho
 STR_5901    :Mostrar altura de segmentos
 STR_5902    :Mostrar caixas delimitadoras
@@ -3478,18 +3478,18 @@ STR_6014    :{SMALLFONT}{BLACK}Visitantes pagarão apenas o ingresso para entrar
 STR_6015    :Inclinado
 STR_6016    :Modificar Azulejo
 STR_6017    :Por favor, diminua a velocidade
-STR_6018    :Construção da atração - Virar à esquerda
-STR_6019    :Construção da atração - Virar à direita
-STR_6020    :Construção da atração - Usar pista padrão
-STR_6021    :Construção da atração - Inclinar para baixo
-STR_6022    :Construção da atração - Inclinar para cima
-STR_6023    :Construção da atração - Alternar corrente de elevação
-STR_6024    :Construção da atração - Torcer para a esquerda
-STR_6025    :Construção da atração - Torcer para a direita
-STR_6026    :Construção da atração - Peça anterior
-STR_6027    :Construção da atração - Próxima peça
-STR_6028    :Construção da atração - Construir atual
-STR_6029    :Construção da atração - Demolir atual
+STR_6018    :Construir atraç.: Virar à esquerda
+STR_6019    :Construir atraç.: Virar à direita
+STR_6020    :Construir atraç.: Usar pista padrão
+STR_6021    :Construir atraç.: Inclinar para baixo
+STR_6022    :Construir atraç.: Inclinar para cima
+STR_6023    :Construir atraç.: Corrente de elevação
+STR_6024    :Construir atraç.: Torcer à esquerda
+STR_6025    :Construir atraç.: Torcer à direita
+STR_6026    :Construir atraç.: Peça anterior
+STR_6027    :Construir atraç.: Próxima peça
+STR_6028    :Construir atraç.: Construir atual
+STR_6029    :Construir atraç.: Demolir atual
 STR_6030    :{SMALLFONT}{BLACK}Apanhador de cenário. Clique em qualquer cenário do mapa para selecionar a mesma peça para construção.
 STR_6031    :Descrição do Servidor:
 STR_6032    :Saudação do Servidor:
@@ -3726,6 +3726,8 @@ STR_6262    :Volume principal
 STR_6263    :{SMALLFONT}{BLACK}Liga/Desliga todos os sons
 STR_6264    :Sempre usar explorador de arquivos do sistema
 STR_6265    :{SMALLFONT}{BLACK}Quando habilitado, o explorador de arquivos do seu sistema operacional será usado ao invés do explorador do OpenRCT2.
+STR_6266    :Abrir pasta de conteúdo personalizada
+STR_6267    :Abrir inspetor de azulejo
 
 #############
 # Scenarios #
