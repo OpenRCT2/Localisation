@@ -23,6 +23,7 @@ Updated in:
 - [ ] ar-EG
 - [ ] da-DK
 - [ ] tr-TR
+- [ ] hu-HU
 
 Notification when new strings arrive:
 @Nubbie @Goddesen @octaroot @telk5093 @Omaranwa @danidoedel @LPSGizmo @BobbyS38 @frenchiveruti @anon569
