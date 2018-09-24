@@ -209,8 +209,8 @@ STR_0883    :Játék mentése
 STR_0884    :Táj betöltése
 STR_0885    :Táj mentése
 STR_0887    :Kilépés a pályaszerkesztőből
-STR_0888    :Kilépés a vágánytervezőből
-STR_0889    :Kilépés a vágánytervkezelőből
+STR_0888    :Kilépés a hullámvasút-tervezőből
+STR_0889    :Kilépés a hullámvasútterv-kezelőből
 STR_0891    :Képmentés
 STR_0894    :Táj-adatterület megtelt !
 STR_0895    :Nem építheted részben a föld felett és részben alatta
@@ -249,7 +249,7 @@ STR_0951    :Kilépés a játékból
 STR_0952    :Kilépés a játékból
 STR_0953    :Táj betöltése
 STR_0954    :
-STR_0955    :{SMALLFONT}{BLACK}Válasszd ki az ülések elfordulási szögét ezen a vágányszakaszon
+STR_0955    :{SMALLFONT}{BLACK}Válasszd ki az ülések elfordulási szögét ezen a pályaszakaszon
 STR_0956    :-180°
 STR_0957    :-135°
 STR_0958    :-90°
@@ -296,7 +296,7 @@ STR_0996    :Teljes nézet
 STR_0997    :{SMALLFONT}{BLACK}Kijelölés mutatása
 STR_0998    :A játék nem tartalmazhat több állomást
 STR_0999    :Állomáselemre van szüksége
-STR_1000    :A vágány nem teljes körpálya 
+STR_1000    :A pálya nem teljes körpálya 
 STR_1001    :A vonattípus számára nem megfelelő pálya
 STR_1002    :{POP16}{POP16}{POP16}{STRINGID} nem nyitható meg...
 STR_1003    :{POP16}{POP16}{POP16}{STRINGID} nem tesztelhető...
@@ -335,14 +335,14 @@ STR_1035    :A helyi önkormányzat nem engedélyezi a fák szintje feletti ép�
 STR_1036    :Játék betöltése
 STR_1037    :Táj betöltése
 STR_1038    :Mentett játék pályává alakítása
-STR_1039    :Új vágányterv telepítése
+STR_1039    :Új hullámvasútterv telepítése
 STR_1040    :Játék mentése
 STR_1041    :Pálya mentése
 STR_1042    :Táj mentése
 STR_1043    :OpenRCT2 mentett játék
 STR_1044    :OpenRCT2 pályafájl
 STR_1045    :OpenRCT2 tájfájl
-STR_1046    :OpenRCT2 vágánytervfájl
+STR_1046    :OpenRCT2 hullámvasúttervfájl
 STR_1047    :A játék mentése meghiúsult!
 STR_1048    :A pálya mentése meghiúsult!
 STR_1049    :A táj mentése meghiúsult!
@@ -556,7 +556,7 @@ STR_1507    :{SMALLFONT}“Nem találom a park kijáratát”
 STR_1508    :{SMALLFONT}“Le akarok szállni erről: {STRINGID}”
 STR_1509    :{SMALLFONT}“Ki akarok jönni ebből: {STRINGID}”
 STR_1510    :{SMALLFONT}“Nem szállok fel erre: {STRINGID} - Nem biztonságos”
-STR_1511    :{SMALLFONT}“Ez az út gusztustalan”
+STR_1511    :{SMALLFONT}“Ez az út gyomorforgató”
 STR_1512    :{SMALLFONT}“Túl nagy itt a tömeg”
 STR_1513    :{SMALLFONT}“Nagyon elharapódzott itt a vandalizmus”
 STR_1514    :{SMALLFONT}“Csodásak a díszletek!”
@@ -1069,6 +1069,7 @@ STR_2246    :november
 STR_2247    :december
 STR_2248    :A játék/épület nem rombolható le...
 STR_2249    :{BABYBLUE}Új játék/épület érhető el:{NEWLINE}{STRINGID}
+STR_2250    :{BABYBLUE}Új díszlet/téma érhető el:{NEWLINE}{STRINGID}
 STR_2251    :Csak utakra építhető!
 STR_2252    :Csak az utakon kereszetbe építhető!
 STR_2277    :Ismeretlen
@@ -1077,6 +1078,10 @@ STR_2289    :{STRINGID} {STRINGID}
 STR_2292    :{WINDOW_COLOUR_2}Az alábbi játékokon volt:
 STR_2293    :{BLACK} Semmi
 STR_2327    :Beállítások
+STR_2328    :{WINDOW_COLOUR_2}Pénznem:
+STR_2329    :{WINDOW_COLOUR_2}Távolság és sebesség:
+STR_2330    :{WINDOW_COLOUR_2}Hőmérséklet:
+STR_2331    :{WINDOW_COLOUR_2}Magasságcímkék:
 STR_2334    :Font (£)
 STR_2335    :Dollár ($)
 STR_2336    :Frank (F)
@@ -1384,8 +1389,8 @@ STR_2782    :SHIFT +
 STR_2783    :CTRL + 
 STR_2802    :Térkép
 STR_2805    :{SMALLFONT}{BLACK}A park térképének mutatása
-STR_2806    :{RED}A vendégek panaszkodnak, mert az utak a parkodban gusztustalan állapotban vannak{NEWLINE}Ellenőrizd, hogy merre járnak a mindeneseid és gondold át, hogyan lehetnének szervezettebbek
-STR_2807    :{RED}A vendégek panaszkodnak a parkodban található szemét mennyisége miatt{NEWLINE}Ellenőrizd, hogy merre járnak a mindeneseid és gondold át, hogyan lehetnének szervezettebbek
+STR_2806    :{RED}A vendégek panaszkodnak, mert az utak a parkodban gyomorforgatóak{NEWLINE}Ellenőrizd, hogy merre járnak a mindeneseid és gondold át, hogyan lehetnének szervezettebbek
+STR_2807    :{RED}A vendégek panaszkodnak a parkodban lévő szemét mennyisége miatt{NEWLINE}Ellenőrizd, hogy merre járnak a mindeneseid és gondold át, hogyan lehetnének szervezettebbek
 STR_2808    :{RED}A vendégek panaszkodnak a parkodban lévő vandalizmus miatt{NEWLINE}Ellenőrizd, hogy merre járnak a biztonsági őreid és gondold át, hogyan lehetnének szervezettebbek
 STR_2809    :{RED}A vendégek éhesek és sehol nem tudnak ennivalót venni
 STR_2810    :{RED}A vendégek szomjasak és sehol nem tudnak innivalót venni
@@ -1476,8 +1481,8 @@ STR_3293    :Hideg
 STR_3341    :{SMALLFONT}{BLACK}Játékeszközök
 STR_3342    :Pályaszerkesztő
 STR_3343    :Mentett játék pályává alakítása
-STR_3344    :Vágánytervező
-STR_3345    :Vágányterv-kezelő
+STR_3344    :Hullámvasút-tervező
+STR_3345    :Hullámvasútterv-kezelő
 STR_3348    :Átnevezés
 STR_3349    :Törlés
 STR_3356    :Fájl törlése
@@ -1495,7 +1500,7 @@ STR_3364    :Haladó
 # New strings, cleaner
 STR_5120    :Pénzügyek
 STR_5121    :Kutatás
-STR_5122    :A játékok vágánytípus szerinti kiválasztása (mint az RCT1-ben)
+STR_5122    :A játékok pályatípus szerinti kiválasztása (mint az RCT1-ben)
 STR_5123    :Játékok felújítása
 STR_5125    :Minden lerombolható
 STR_5126    :Véletlenszerű főcímzene
@@ -1507,6 +1512,7 @@ STR_5153    :Témák szerkesztése...
 STR_5158    :Kilépés a menübe
 STR_5159    :Kilépés az OpenRCT2-ből
 STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID} {POP16}{COMMA16}. év
+STR_5161    :Dátumformátum:
 STR_5162    :nap/hónap/év
 STR_5163    :hónap/nap/év
 STR_5177    :Képernyőmód:
@@ -1530,9 +1536,16 @@ STR_5241    :Ez a téma nem változtatható meg
 STR_5244    :Témák
 STR_5245    :Felső eszköztár
 STR_5246    :Alsó eszköztár
-STR_5247    :Vágánytervező alsó eszköztára
+STR_5247    :Hullámvasút-tervező alsó eszköztára
 STR_5248    :Pályaszerkesztő alsó eszköztára
+STR_5257    :{SMALLFONT}{BLACK}Új téma létehozása a jelenlegi alapján
+STR_5258    :{SMALLFONT}{BLACK}A jelenlegi téma törlése
+STR_5259    :{SMALLFONT}{BLACK}A jelenlegi téma átnevezése
 STR_5260    :Képmentés a teljes térképről
+STR_5261    :Szűrés
+STR_5262    :Wacky Worlds
+STR_5263    :Time Twister
+STR_5264    :Egyedi
 STR_5275    :Objektumok keresése
 STR_5276    :Add meg a keresendő objektum nevét
 STR_5277    :Törlés
@@ -1686,6 +1699,7 @@ STR_5859    :{SMALLFONT}{BLACK}A képkocka fázisolás bekapcsolása, hogy {NEWL
 STR_5877    :Szoftveres
 STR_5878    :Szoftveres (hardveres gyorsítás)
 STR_5879    :OpenGL (kísérleti)
+STR_5882    :Egyedi pénznem
 STR_5887    :Előtag
 STR_5888    :Utótag
 STR_5891    :Alapértelmezett
