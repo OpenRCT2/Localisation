@@ -97,18 +97,28 @@ STR_0092    :Aszinkronmotoros hullámvasút
 STR_0512    :Egy kompakt hullámvasút spirális felvonórésszel és sima, kanyargó esésekkel
 STR_0513    :Egy átforduló hullámvasút, melyen az utasok álló helyzetben utaznak
 STR_0514    :A hullámvasút pályája alatt felfüggesztett vonatok oldalt kilengenek a kanyarokban
-STR_0515    :Egy acél hullámvasút pálya alatt felfüggesztett vonatokkal, valamint számos összetett és kanyargó pályaelemmel
+STR_0515    :Egy acél hullámvasút, pálya alatt felfüggesztett vonatokkal, valamint számos összetett és kanyargó pályaelemmel
 STR_0516    :Egy enyhe hullámvasút azok számára, akik még nem éreznek magukban elég bátorságot ahhoz, hogy felüljenek a nagyobb játékokra
 STR_0517    :Az utasok miniatűr vonatokban utaznak egy keskeny nyomtávú vasúti pályán
 STR_0518    :Az utasok elektromos vonatokon utaznak egy egysínű pályán
 STR_0519    :Az utasok az egysínű pálya alatt felfüggesztett kocsikban utaznak, melyek kétoldalt szabadon kilengenek a kanyarokban
 STR_0520    :Egy kikötőállomás, ahonnan a vendégek saját vízi járművel utazhatnak/evezhetnek ki a vízre
-STR_0521    :Egy gyors és kanyargó hullámvasút éles kanyarokkal és meredek esésekkel. Nagy intenzitással rendelkezik.
+STR_0521    :Egy gyors és kanyargó hullámvasút éles kanyarokkal és meredek esésekkel. Nagy intenzitással rendelkezik
 STR_0522    :Egy kisebb hullámvasút, melyen az utasok a pálya felett ülnek, anélkül, hogy kocsik vennék körbe őket
-STR_0523    :Az utasok motoros járműveikkel lassan haladnak egy kötött pályán.
+STR_0523    :Az utasok motoros járműveikkel lassan haladnak egy kötött pályán
 STR_0524    :A szabadeséses kocsit pneumatikusan lövik ki egy magas acéltorony tetejére, majd szabadesésben zuhan le onnan
 STR_0525    :Az utasok egy kanyargó pályán száguldanak le, csak a félkör alakú pálya görbületére és dőlésére hagyatkozva
 STR_0526    :Az utasok egy forgó megfigyelőfülkében utaznak, ami felmegy egy magas torony tetejére
+STR_0527    :Egy sima acélpályás hullámvasút, melyen függőleges hurkok is lehetségesek
+STR_0528    :Az utasok gumicsónakokban utaznak lefelé egy kanyargó, félkör, vagy teljes kör alakú csőpályán
+STR_0529    :A hullámvasút bányavonat témájú vonatai acél hullámvasútpályán futnak, amit egy régi vasúti pályához tettek hasonlatossá
+STR_0530    :Az autók egy acélkábelről lógnak, ami folyamtosan a játék egyik végétől a másikig fut, majd újra vissza
+STR_0531    :Egy kompakt, acélpályás hullámvasút, melyen a vonat dugóhúzókon es hurkokon halad át
+STR_0532    :Az útvesztő közel 2 méteres sövényekből vagy falakból áll és a vendégek addig bolyonganak benne, amíg rá nem lelnek a kijáratra
+STR_0533    :Egy  belső lépcsős faépület kívül spirál csúszdával, melyről csúszómatracokal lehet lecsúszni
+STR_0534    :Önvezető benzinmotoros gokartok
+STR_0535    :Farönkhöz hasonlító csónakok utaznak a vízcsatorna mentén, melyek nagyokat csobbannak a meredek lejtőknél, eláztatva az utasokat
+STR_0536    :Kerek csónakok kanyarognak egy széles vízcsatorna mentén, vízeséseken átcsobbanva és habzó zuhatagokon keresztül izgalomba hozva az utasokat.
 STR_0537    :Önvezető elektromos dodzsemautók
 STR_0547    :Egy bódé, ahol parktérképeket és esernyőket vehetnek a vendégek
 STR_0548    :Egy illemhely
@@ -178,7 +188,7 @@ STR_0833    :{SMALLFONT}{BLACK}Játék megállítása
 STR_0834    :{SMALLFONT}{BLACK}Lemez és játék beállítások
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
-STR_0847    :Az OpenRCT2 névjegye
+STR_0847    :Az 'OpenRCT2' névjegye
 STR_0850    :{WINDOW_COLOUR_2}Copyright © 2002 Chris Sawyer, minden jog fenntartva
 STR_0851    :{WINDOW_COLOUR_2}Tervezés és programozás: Chris Sawyer
 STR_0852    :{WINDOW_COLOUR_2}Grafika: Simon Foster
@@ -235,6 +245,7 @@ STR_0929    :S kanyar (balra)
 STR_0930    :S kanyar (jobbra)
 STR_0931    :Függőleges hurok (balra)
 STR_0932    :Függőleges hurok (jobbra)
+STR_0937    :{SMALLFONT}{BLACK}Nézet beállítások
 STR_0939    :Földalatti/belső nézet
 STR_0942    :Átlátszó játékok
 STR_0943    :Átlátszó díszletek
@@ -249,7 +260,7 @@ STR_0951    :Kilépés a játékból
 STR_0952    :Kilépés a játékból
 STR_0953    :Táj betöltése
 STR_0954    :
-STR_0955    :{SMALLFONT}{BLACK}Válasszd ki az ülések elfordulási szögét ezen a pályaszakaszon
+STR_0955    :{SMALLFONT}{BLACK}Válasszd ki az ülések forgási szögét ezen a pályaszakaszon
 STR_0956    :-180°
 STR_0957    :-135°
 STR_0958    :-90°
@@ -734,6 +745,7 @@ STR_1718    :Park neve
 STR_1719    :Írd be a park nevét:
 STR_1721    :Park zárva
 STR_1722    :Park nyitva
+STR_1730    :{RED}Zárva - - 
 STR_1731    :{WHITE}{STRINGID} - - 
 STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
@@ -1110,7 +1122,8 @@ STR_2377    :Hihetetlenül extrém
 STR_2383    :Víz
 STR_2385    :{BLACK}Nincs
 STR_2397    :Nincs
-
+STR_2398    :A vendégek száma 
+STR_2399    :A park értéke egy meghatározott időpontban
 STR_2409    :{WINDOW_COLOUR_2}Folyamatban lévő marketingkampányok
 STR_2410    :{BLACK}Nincs
 STR_2411    :{WINDOW_COLOUR_2}Rendelkezésre álló marketingkampányok
@@ -1143,6 +1156,7 @@ STR_2483    :{WINDOW_COLOUR_2}Heti bevétel: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Heti bevétel: {RED}{CURRENCY2DP}
 STR_2487    :Vendégek "igazi" nevének mutatása
 STR_2496    :Játék megállítása
+STR_2523    :Térkép megjelenítése
 STR_2524    :Képmentés
 ### The following need to be reordered to match SDL_keycode layout.
 STR_2525    :???
@@ -1388,7 +1402,7 @@ STR_2781    :{STRINGID}:{MOVE_X}{255}{STRINGID}
 STR_2782    :SHIFT + 
 STR_2783    :CTRL + 
 STR_2802    :Térkép
-STR_2805    :{SMALLFONT}{BLACK}A park térképének mutatása
+STR_2805    :{SMALLFONT}{BLACK}A park térképének megjelenítése
 STR_2806    :{RED}A vendégek panaszkodnak, mert az utak a parkodban gyomorforgatóak{NEWLINE}Ellenőrizd, hogy merre járnak a mindeneseid és gondold át, hogyan lehetnének szervezettebbek
 STR_2807    :{RED}A vendégek panaszkodnak a parkodban lévő szemét mennyisége miatt{NEWLINE}Ellenőrizd, hogy merre járnak a mindeneseid és gondold át, hogyan lehetnének szervezettebbek
 STR_2808    :{RED}A vendégek panaszkodnak a parkodban lévő vandalizmus miatt{NEWLINE}Ellenőrizd, hogy merre járnak a biztonsági őreid és gondold át, hogyan lehetnének szervezettebbek
@@ -1467,6 +1481,8 @@ STR_3088    :Pagoda bejárat
 STR_3089    :Űrbéli bejárat
 STR_3130    :Mentés
 STR_3131    :Mégse
+STR_3143    :{SMALLFONT}{BLACK}Emberek megjelenítése a térképen
+STR_3144    :{SMALLFONT}{BLACK}Játékok és bódék megjelenítése a térképen
 STR_3211    :Térkép mérete:
 STR_3232    :Beállítások - pénzügyi
 STR_3233    :Beállítások - vendégek
@@ -1488,6 +1504,14 @@ STR_3349    :Törlés
 STR_3356    :Fájl törlése
 STR_3360    :Figyelmeztetés!
 STR_3364    :Haladó
+STR_3366    :{BLACK}= Játék
+STR_3367    :{BLACK}= Ételes bódé
+STR_3368    :{BLACK}= Italos bódé
+STR_3369    :{BLACK}= Szuveníres bódé
+STR_3370    :{BLACK}= Információs bodé
+STR_3371    :{BLACK}= Elsősegély
+STR_3372    :{BLACK}= Bankautomata
+STR_3373    :{BLACK}= WC
 STR_3378    :Telepítés
 STR_3379    :Mégse
 STR_3440    :1. oldal
@@ -1506,6 +1530,8 @@ STR_5125    :Minden lerombolható
 STR_5126    :Véletlenszerű főcímzene
 STR_5130    :Térkép mérete
 STR_5147    :Csalások
+STR_5148    :{SMALLFONT}{BLACK}A játék sebsségének megváltoztatása
+STR_5149    :{SMALLFONT}{BLACK}A csalások beállításainak megjelenítése
 STR_5151    :,
 STR_5152    :.
 STR_5153    :Témák szerkesztése...
@@ -1546,6 +1572,16 @@ STR_5261    :Szűrés
 STR_5262    :Wacky Worlds
 STR_5263    :Time Twister
 STR_5264    :Egyedi
+STR_5265    :{SMALLFONT}{BLACK}Válaszd ki, mely tartalomforrások legyenek láthatóak
+STR_5266    :{SMALLFONT}{BLACK}Megjelenítés
+STR_5267    :{SMALLFONT}{BLACK}Kultúra és egységek
+STR_5268    :{SMALLFONT}{BLACK}Hang
+STR_5269    :{SMALLFONT}{BLACK}Irányítás és felhasználói felület
+STR_5270    :{SMALLFONT}{BLACK}Egyéb
+STR_5271    :{SMALLFONT}{BLACK}Twitch
+STR_5272    :{SMALLFONT}{BLACK}Kis díszletek
+STR_5273    :{SMALLFONT}{BLACK}Nagy díszletek
+STR_5274    :{SMALLFONT}{BLACK}Gyalogút
 STR_5275    :Objektumok keresése
 STR_5276    :Add meg a keresendő objektum nevét
 STR_5277    :Törlés
@@ -1559,7 +1595,7 @@ STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
 STR_5308    :RollerCoaster Tycoon 2
 STR_5309    :OpenRCT2
 STR_5310    :Véletlenszerű
-STR_5313    :Mezővizsgáló mutatása
+STR_5313    :Mezővizsgáló megjelenítése
 STR_5314    :Mezővizsgáló
 STR_5334    :Jég
 STR_5344    :Változási napló
@@ -1659,8 +1695,19 @@ STR_5576    :Port:
 STR_5577    :Dél-koreai von (W)
 STR_5578    :Orosz rubel (R)
 STR_5580    :Cseh korona (Kč)
-STR_5581    :FPS mutatása
+STR_5581    :FPS megjelenítése
 STR_5588    :{SMALLFONT}{BLACK}Online játék másokkal
+STR_5619    :RollerCoaster Tycoon
+STR_5620    :Added Attractions
+STR_5621    :Loopy Landscapes
+STR_5622    :RollerCoaster Tycoon 2
+STR_5623    :Wacky Worlds
+STR_5624    :Time Twister
+STR_5625    :“Igazi” parkok
+STR_5626    :Egyéb parkok
+STR_5627    :Pályák csoportosítása:
+STR_5628    :Eredeti játék
+STR_5629    :Nehézségi szint
 STR_5713    :Játékos kirúgása
 STR_5715    :Új játék
 # For identifying client network version in server list window
@@ -1750,6 +1797,7 @@ STR_6158    :Fájl betöltése sikertelen...{NEWLINE}Nem kompatibilis RCTC verzi
 STR_6159    :Sima legközelebbi szomszéd
 STR_6162    :Forgó vad egér
 STR_6164    :{WHITE}❌
+STR_6165    :Vertikális szinkron használata
 STR_6167    :{SMALLFONT}{BLACK}Haladó
 STR_6171    :Keresés
 STR_6172    :{SMALLFONT}{BLACK}Keresés
@@ -1809,10 +1857,130 @@ STR_6268    :Tovább a következő megszakításra
 ################
 # RCT Original #
 ################
+<Forest Frontiers>
+STR_SCNR    :Elkerített Erdő
+STR_PARK    :Elkerített Erdő
+STR_DTLS    :Építs egy virágzó vidámparkot az erdő mélyén lévő nagy tisztáson
+
+<Dynamite Dunes>
+STR_SCNR    :Dinamit Dűnék
+STR_PARK    :Dinamit Dűnék
+STR_DTLS    :Ez a sivatag közepén épült vidámpark csak egy hullámvasúttal rendelkezik, de van helye a terjeszkedésre
+
+<Leafy Lake>
+STR_SCNR    :Leveles-tó
+STR_PARK    :Leveles-tó
+STR_DTLS    :A nulláról kezdve építs egy vidámparkot a nagy tó körül
+
+<Diamond Heights>
+STR_SCNR    :Gyémánt-fennsík
+STR_PARK    :Gyémánt-fennsík
+STR_DTLS    :Gyémánt-fennsík már egy sikeres vidámpark, remek játékokkal - fejleszd, hogy megduplázd az értékét
+
+<Evergreen Gardens>
+STR_SCNR    :Örökzöld Kertek
+STR_PARK    :Örökzöld Kertek
+STR_DTLS    :Alakítsd át a csodaszép Örökzöld Kerteket egy virágzó vidámparkká
+
+<Bumbly Beach>
+STR_SCNR    :Suta Strand
+STR_PARK    :Suta Strand
+STR_DTLS    :Virágoztasd fel Suta Strand apró vidámparkját
+
+<Trinity Islands>
+STR_SCNR    :Hármas-sziget
+STR_PARK    :Hármas-sziget
+STR_DTLS    :Egy frissen nyílt park, melyet több sziget alkot
+
+<Katie's Dreamland>
+STR_SCNR    :Kati Álomvilága
+STR_PARK    :Kati Álomvilága
+STR_DTLS    :Egy kis méretű vidámpark, pár játékkal és hellyel a terjeszkedéshez - A célod, hogy megduplázd a park értékét
+
+<Pokey Park>
+STR_SCNR    :Parányi Park
+STR_PARK    :Parányi Park
+STR_DTLS    :Egy kis méretű, zsúfolt vidámpark, melynek jelentős terjeszkedésre van szüksége
+
+<White Water Park>
+STR_SCNR    :Fehérvíz Park
+STR_PARK    :Fehérvíz Park
+STR_DTLS    :Ez a park néhány igazán kiváló vízi játékkal rendelkezik, de terjeszkedésre van szüksége
+
+<Millennium Mines>
+STR_SCNR    :Ezeréves Bányák
+STR_PARK    :Ezeréves Bányák
+STR_DTLS    :Alakíts át egy nagy, elhagyatott bányát túristalátványosságból vidámparkká
+
+<Karts & Coasters>
+STR_SCNR    :Gokartok & Hullámvasutak
+STR_PARK    :Gokartok & Hullámvasutak
+STR_DTLS    :Egy nagy park, elrejtve az erdőben, melyben csak gokart pályák és fa hullámvasutak találhatóak
+
+<Mel's World>
+STR_SCNR    :Mel Világa
+STR_PARK    :Mel Világa
+STR_DTLS    :Ez a vidámpark már rendelkezik pár jól tervezett, modern játékkal, de bőven van helye a terjeszekdésre
+
+<Mystic Mountain>
+STR_SCNR    :Misztikus Hegy
+STR_PARK    :Misztikus Hegy
+STR_DTLS    :A nulláról kezdve építs egy vidámparkot Misztikus Hegy dombos erdőiben
+
+<Pacific Pyramids>
+STR_SCNR    :Pihenő Piramisok
+STR_PARK    :Pihenő Piramisok
+STR_DTLS    :Alakítsd át a turistalátványosságként szolgáló egyiptomi romokat egy virágzó vidámparkká
+
+<Crumbly Woods>
+STR_SCNR    :Recsegő Rengeteg
+STR_PARK    :Recsegő Rengeteg
+STR_DTLS    :Egy nagy park jól tervezett, de meglehetősen öreg játékokkal - Cseréld le az öreg játékokat, vagy építs újakat, hogy népszerűbb legyen a park
+
+<Paradise Pier>
+STR_SCNR    :Paradicsomi Móló
+STR_PARK    :Paradicsomi Móló
+STR_DTLS    :Alakítsd át ennek az álmos kisvárosnak a mólóját virágzó attrakcióvá
+
+<Lightning Peaks>
+STR_SCNR    :Villámcsúcsok
+STR_PARK    :Villámcsúcsok
+STR_DTLS    :Villámcsúcsok gyönyörű hegyei népszerűek a természetjárók és a turisták körében - Használd a rendelkezésre álló területet, hogy új, izgalmak után kutató vendégeket csábíts a parkba
+
+<Ivory Towers>
+STR_SCNR    :Elefántcsonttornyok
+STR_PARK    :Elefántcsonttornyok
+STR_DTLS    :Egy patinás park, néhány problémával
+
+<Rainbow Valley>
+STR_SCNR    :Szivárványvölgy
+STR_PARK    :Szivárványvölgy
+STR_DTLS    :Szivárványvölgy helyi önkormányzata egyáltalán nem engedélyezi a táj módosítását, vagy a nagy fák eltávolítását, de neked egy hatalmas vidámparkká kell alakítanod a területet
+
+<Thunder Rock>
+STR_SCNR    :Mennydörgő Szikla
+STR_PARK    :Mennydörgő Szikla
+STR_DTLS    :Mennydörgő Szikla a sivatag közepén áll és számos turistát csábít magához - Használd a rendelkezésre álló teret játékok építésére, hogy még több embert vonzz a parkba
+
+<Mega Park>
+STR_SCNR    :Mega Park
+STR_PARK    :Mega Park
+STR_DTLS    :Csak a móka kedvéért!
+
+## Added Attractions
+
+
+## Loopy Landscapes
+
+## Real Parks from RCT1
+
+## Misc parks from RCT1
 
 ###########
 # Scenery #
 ###########
+
+## Start OpenRCT2 Official
 
 ## End OpenRCT2 Official
 
