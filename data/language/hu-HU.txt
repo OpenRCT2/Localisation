@@ -1141,6 +1141,10 @@ STR_2356    :{WINDOW_COLOUR_2}Ellenőrzött játékok: {BLACK}{COMMA16}
 STR_2358    :Egységek
 STR_2359    :Valós értékek
 STR_2360    :Képernyőfelbontás:
+STR_2361    :Táj simítása
+STR_2362    :{SMALLFONT}{BLACK}A táj mezőszéleinek simítása
+STR_2363    :Rácsvonalak a tájon
+STR_2364    :{SMALLFONT}{BLACK}Rácsvonalak megjelenítése a tájon
 STR_2368    :Nincs
 STR_2369    :Alacsony
 STR_2370    :Átlagos
@@ -1585,6 +1589,14 @@ STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID} {POP16}{COMMA16}. év
 STR_5161    :Dátumformátum:
 STR_5162    :nap/hónap/év
 STR_5163    :hónap/nap/év
+STR_5164    :Twitch csatorna neve
+STR_5165    :Vendégek követők utáni elnevezése
+STR_5166    :{SMALLFONT}{BLACK}A vendégek a csatorna Twitch követői{NEWLINE}után kapják a nevüket
+STR_5167    :Követőkről elnevezett vendégek követése
+STR_5169    :Vendégek Twitch chat résztvevők utáni elnevezése
+STR_5170    :{SMALLFONT}{BLACK}A vendégek Twitch chat résztvevők utáni elnevezése
+STR_5171    :Chat részvevőkről elnevezett vendégek követése
+STR_5173    :Twitch chat hírként történő megjelenítése
 STR_5177    :Képernyőmód:
 STR_5182    :{INT32}
 STR_5187    :Pénzügyek
@@ -1617,7 +1629,7 @@ STR_5262    :Wacky Worlds
 STR_5263    :Time Twister
 STR_5264    :Egyedi
 STR_5265    :{SMALLFONT}{BLACK}Válaszd ki, mely tartalomforrások legyenek láthatóak
-STR_5266    :{SMALLFONT}{BLACK}Megjelenítés
+STR_5266    :{SMALLFONT}{BLACK}Képernyő
 STR_5267    :{SMALLFONT}{BLACK}Kultúra és egységek
 STR_5268    :{SMALLFONT}{BLACK}Hang
 STR_5269    :{SMALLFONT}{BLACK}Irányítás és felhasználói felület
@@ -1674,8 +1686,13 @@ STR_5462    :{CURRENCY}
 STR_5465    :Éghajlat
 STR_5466    :Személyzet
 STR_5467    :ALT + 
+STR_5468    :Legutóbbi üzenetek
 STR_5475    :{COMMA16} hét
 STR_5476    :Hardver
+STR_5477    :Térkép megjelenítése
+STR_5478    :Irányítás
+STR_5479    :Eszköztár
+STR_5480    :Gombok az eszköztáron:
 STR_5481    :Témák
 STR_5482    :{WINDOW_COLOUR_2}Az utolsó ellenőrzés óta eltelt idő: {BLACK}1 perc
 STR_5488    :Nincs bejárat (Csak az OpenRCT2-ben!)
@@ -1725,6 +1742,7 @@ STR_5549    :év/hónap/nap
 STR_5550    :{POP16}{POP16}{COMMA16}. év {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_5551    :év/nap/hónap
 STR_5552    :{POP16}{POP16}{COMMA16}. év {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
+STR_5553    :Szünet, mikor a Steam Átfedés meg van nyitva
 STR_5562    :FIGYELMEZTETÉS!
 STR_5566    :Jelszó:
 STR_5567    :Hirdetés
@@ -1739,6 +1757,7 @@ STR_5575    :Max. játékosszám:
 STR_5576    :Port:
 STR_5577    :Dél-koreai von (W)
 STR_5578    :Orosz rubel (R)
+STR_5579    :Ablak méretezése:
 STR_5580    :Cseh korona (Kč)
 STR_5581    :FPS megjelenítése
 STR_5588    :{SMALLFONT}{BLACK}Online játék másokkal
@@ -1770,6 +1789,7 @@ STR_5726    :{SMALLFONT}{BLACK}A park jelenlegi időjárásának beállítása
 STR_5727    :Skálázás minősége:
 STR_5731    :Lineáris
 # tooltip for tab in options window
+STR_5734    :{SMALLFONT}{BLACK}Megjelenítés
 STR_5736    :Játékos
 STR_5742    :Hitelesítés ...
 STR_5743    :Csatlakozás ...
@@ -1798,6 +1818,7 @@ STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 
 #tooltips
 STR_5815    :{SMALLFONT}{BLACK}FPS-számláló megjelenítése a játékban
+STR_5816    :{SMALLFONT}{BLACK}A játék méretezési tényezőjének beállítása.{NEWLINE}Főleg akkor hasznos, ha magasabb{NEWLINE} felbontásokban játszol.
 STR_5835    :{SMALLFONT}{BLACK}A játék némítása, ha az ablak elveszti a fókuszt
 STR_5859    :{SMALLFONT}{BLACK}A képkocka fázisolás bekapcsolása, hogy {NEWLINE}folyamatosabb legyen a játékmenet megjelenítése. Ha ki van kapcsolva,{NEWLINE}a játék 40 FPS-el fut.
 STR_5877    :Szoftveres
@@ -1874,6 +1895,7 @@ STR_6198    :{BLACK}Nap:
 STR_6199    :Dátum beállítása
 STR_6200    :Dátum visszaállítása
 STR_6201    :{MONTH}
+STR_6202    :Virtuális padló stílusa:
 STR_6204    :Tégla
 STR_6205    :Vas
 STR_6206    :Szürke díszvakolat
@@ -1900,6 +1922,13 @@ STR_6247    :Játék/épület felújítása
 STR_6248    :{WINDOW_COLOUR_1}Biztos, hogy fel akarod újítani ezt: {STRINGID}? A költsége: {CURRENCY}
 STR_6249    :{WINDOW_COLOUR_1}Biztos, hogy fel akarod újítani ezt: {STRINGID}?
 STR_6250    :{WINDOW_COLOUR_1}Biztos, hogy le akarod rombolni ezt: {STRINGID}? A visszatérítés összege: {CURRENCY}
+STR_6252    :Twitch API URL-je
+STR_6253    :{SMALLFONT}{BLACK}A Twitch inetgrációs API URL-jének megadása. Szükséges a Twitch integráció használatához.
+STR_6254    :A Twitch integrációs API URL-je:
+STR_6255    :Érvénytelen URL
+STR_6256    :Megjelenítési hatások
+STR_6257    :Üveges (áttetsző)
+STR_6258    :Tiszta (átlátszó)
 STR_6262    :Fő hangerő
 STR_6263    :{SMALLFONT}{BLACK}Minden hang be- és kikapcsolása
 STR_6259    :Kikapcsolva
