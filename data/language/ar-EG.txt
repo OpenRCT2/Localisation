@@ -3488,18 +3488,18 @@ STR_6014    :{SMALLFONT}{BLACK}Guests will only pay entrance tickets for rides a
 STR_6015    :منحدر
 STR_6016    :عدل المُربع
 STR_6017    :من فضلك أبطئ
-STR_6018    :Ride construction - Turn left
-STR_6019    :Ride construction - Turn right
-STR_6020    :Ride construction - Use default track
-STR_6021    :Ride construction - Slope down
-STR_6022    :Ride construction - Slope up
-STR_6023    :Ride construction - Toggle chain lift
-STR_6024    :Ride construction - Bank left
-STR_6025    :Ride construction - Bank right
-STR_6026    :Ride construction - Previous track
-STR_6027    :Ride construction - Next track
-STR_6028    :Ride construction - Build current
-STR_6029    :Ride construction - Demolish current
+STR_6018    :بناء الرحلة - أستدر شمالاً
+STR_6019    :بناء الرحلة - أستدر يميناً
+STR_6020    :بناء الرحلة - أستخدم المسار الإفتراضي
+STR_6021    :بنال الرحلة - أنحدر للآسفل
+STR_6022    :بناء الرحلة - أصعد للأعلي
+STR_6023    :بناء الرحلة - Toggle chain lift
+STR_6024    :بناء الرحلة - Bank left
+STR_6025    :بناء الرحلة - Bank right
+STR_6026    :بناء الرحلة - المسار السابق
+STR_6027    :بناء الرحلة - المسار التالي
+STR_6028    :بناء الرحلة - بناء المحدد
+STR_6029    :بناء الرحلة - إهدم المحدد
 STR_6030    :{SMALLFONT}{BLACK}Scenery picker. Click any scenery on the map to select the same piece for construction.
 STR_6031    ::وصف السرفر
 STR_6032    :Server Greeting:
@@ -3531,7 +3531,7 @@ STR_6057    :{SMALLFONT}{BLACK}Show a separate button for the Mute Option in the
 STR_6058    :تصميت
 STR_6059    :»
 STR_6060    :أظهر مشتريات الزوار كإنميشن
-STR_6061    :{SMALLFONT}{BLACK}Show animated money effect{NEWLINE}when guests make purchases.
+STR_6061    :{SMALLFONT}{BLACK}أظهر تأثيرات النقود المتحركة{NEWLINE}عندما يقوم الزوار بمشتريات.
 STR_6062    :{OUTLINE}{GREEN}+ {CURRENCY2DP}
 STR_6063    :{OUTLINE}{RED}- {CURRENCY2DP}
 STR_6064    :إمتلك كل الأراضي
@@ -3550,14 +3550,14 @@ STR_6076    :{STRING} used/toggled cheat '{STRING}'.
 STR_6077    :أضف نقود
 STR_6078    :{STRING} .'{STRING}' إصنع اللعبة
 STR_6079    :{STRING} .'{STRING}' دمر الرحلة
-STR_6080    :{STRING} changed the appearance of ride '{STRING}'.
-STR_6081    :{STRING} changed the status of ride '{STRING}' to closed.
-STR_6082    :{STRING} changed the status of ride '{STRING}' to open.
-STR_6083    :{STRING} changed the status of ride '{STRING}' to testing.
-STR_6084    :{STRING} changed the vehicle settings of ride '{STRING}'.
-STR_6085    :{STRING} changed the ride settings of ride '{STRING}'.
-STR_6086    :{STRING} renamed the ride '{STRING}' to '{STRING}'.
-STR_6087    :{STRING} changed the price of ride '{STRING}' to {STRING}
+STR_6080    :{STRING} تم تغيير مظهر الرحلة '{STRING}'.
+STR_6081    :{STRING} تم تغيير حالة الرحلة '{STRING}' إلي مغلقة.
+STR_6082    :{STRING} تم تغيير حالة الرحلة '{STRING}' إلي مفتوحة.
+STR_6083    :{STRING} تم تغيير حالة الرحلة '{STRING}' إلي تُختبر.
+STR_6084    :{STRING} تم تغيير إعدادات الشاحنة في الرحلة '{STRING}'.
+STR_6085    :{STRING} تم تغيير إعدادات الرحلة للرحلة '{STRING}'.
+STR_6086    :{STRING} تم إعادة تسمية الرحلة من '{STRING}' إلي '{STRING}'.
+STR_6087    :{STRING} تم تغيير سعر الرحلة '{STRING}' إلي {STRING}
 STR_6088    :{STRING} تم تغيير سعر الرحلة الثانوي من '{STRING}' إلي {STRING}
 STR_6089    :{STRING} تم تغيير أسم الحديقة من '{STRING}'إلي '{STRING}'.
 STR_6090    :{STRING} .فتح الحديقة
@@ -3577,7 +3577,7 @@ STR_6103    :{SMALLFONT}{BLACK}This option is disabled during network play.
 STR_6104    :Corkscrew Roller Coaster
 STR_6105    :Hypercoaster
 STR_6106    :رحلة سيارة
-STR_6107    :Monster Trucks
+STR_6107    :شاحنات الوحش
 STR_6108    :Steel Twister
 STR_6109    :Hyper-Twister
 STR_6110    :Junior Roller Coaster
