@@ -523,7 +523,7 @@ STR_1439    :(hely kiválasztása)
 STR_1440    :Füvet nyír
 STR_1441    :Utat takarít
 STR_1442    :Kukát ürít
-STR_1443    :Kertet locsol
+STR_1443    :Kertet öntöz
 STR_1444    :Ezt nézi: {STRINGID}
 STR_1445    :{STRINGID} építését nézi
 STR_1447    :Elhagyja a parkot
@@ -748,9 +748,15 @@ STR_1701    :Új szerelő felvétele
 STR_1702    :Új biztonsági őr felvétele
 STR_1703    :Új szórakoztató felvétele
 STR_1704    :Nem vehető fel új alkamazott...
-STR_1705    :{SMALLFONT}{BLACK}Alkalmazott kirúgása
+STR_1705    :{SMALLFONT}{BLACK}Az alkalmazott kirúgása
+STR_1706    :{SMALLFONT}{BLACK}Személy áthelyezése új helyre
+STR_1707    :Túl sok alkalmazott van a játékban
+STR_1708    :{SMALLFONT}{BLACK}Járőrözési terültet kijelölése az alkalmazott számára
+STR_1709    :Alkalmazott kirúgása
+STR_1710    :Igen
+STR_1711    :{WINDOW_COLOUR_1}Biztos, hogy ki akarod rúgni őt: {STRINGID}?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Utak takarítása
-STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Kertek locsolása
+STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Kertek öntözése
 STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Kukák ürítése
 STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Fűnyírás
 STR_1718    :Park neve
@@ -779,6 +785,7 @@ STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Bandita jelmez
 STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Seriff jelmez
 STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Kalóz jelmez
 STR_1791    :{WINDOW_COLOUR_2}Egyenruha színe:
+STR_1793    :{STRINGID} felé tart ellenőrzésre
 STR_1794    :Ezt javítja: {STRINGID}
 STR_1795    :Rádióhívásra válaszol
 STR_1798    :Örvény
@@ -796,6 +803,7 @@ STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} vendég
 STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} vendég
 STR_1849    :{WINDOW_COLOUR_2}Zene játszása
 STR_1850    :{SMALLFONT}{BLACK}Válaszd ki, hogy legyen-e zene ezen a játékon
+STR_1858    :{WINDOW_COLOUR_2}Bér: {BLACK}{CURRENCY2DP} havonta
 STR_1859    :mindenes
 STR_1860    :szerelő
 STR_1861    :biztonsági őr
@@ -827,7 +835,7 @@ STR_1921    :{SMALLFONT}{BLACK}Új játék indítása
 STR_1922    :{SMALLFONT}{BLACK}Mentett játék folytatása
 STR_1924    :{SMALLFONT}{BLACK}Kilépés
 STR_1926    :{SMALLFONT}
-STR_1927    :{YELLOW}{STRINGID} elromlott
+STR_1927    :{YELLOW}{STRINGID} lerobbant
 STR_1928    :{RED}{STRINGID} ütközött!
 STR_1954    :Kutatás finanszírozása
 STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
@@ -1106,6 +1114,8 @@ STR_2328    :{WINDOW_COLOUR_2}Pénznem:
 STR_2329    :{WINDOW_COLOUR_2}Távolság és sebesség:
 STR_2330    :{WINDOW_COLOUR_2}Hőmérséklet:
 STR_2331    :{WINDOW_COLOUR_2}Magasságcímkék:
+STR_2332    :Egységek
+STR_2333    :Hanghatások
 STR_2334    :Font (£)
 STR_2335    :Dollár ($)
 STR_2336    :Frank (F)
@@ -1118,6 +1128,16 @@ STR_2342    :Korona (kr)
 STR_2343    :Euró (€)
 STR_2344    :Angolszász
 STR_2345    :Metrikus
+STR_2347    :{RED}{STRINGID} megfulladt!
+STR_2348    :{SMALLFONT}{BLACK}Az alkalmazott statisztikái
+STR_2349    :{WINDOW_COLOUR_2}Munkabér: {BLACK}{CURRENCY} havonta
+STR_2350    :{WINDOW_COLOUR_2}Felvéve: {BLACK}{MONTHYEAR}
+STR_2351    :{WINDOW_COLOUR_2}Lenyírt füvek: {BLACK}{COMMA16}
+STR_2352    :{WINDOW_COLOUR_2}Megöntözöttt kertek: {BLACK}{COMMA16}
+STR_2353    :{WINDOW_COLOUR_2}Felsepert szemetek: {BLACK}{COMMA16}
+STR_2354    :{WINDOW_COLOUR_2}Kiürített kukák: {BLACK}{COMMA16}
+STR_2355    :{WINDOW_COLOUR_2}Megjavított játékok: {BLACK}{COMMA16}
+STR_2356    :{WINDOW_COLOUR_2}Ellenőrzött játékok: {BLACK}{COMMA16}
 STR_2358    :Egységek
 STR_2359    :Valós értékek
 STR_2360    :Képernyőfelbontás:
@@ -1378,8 +1398,8 @@ STR_2732    :{COMMA16}ft
 STR_2733    :{COMMA16}m
 STR_2734    :{COMMA16}mph
 STR_2735    :{COMMA16}km/h
-STR_2736    :{MONTH} {COMMA16}. év
-STR_2737    :{STRINGID} {MONTH} {COMMA16}. év
+STR_2736    :{POP16}{COMMA16}. év {PUSH16}{PUSH16}{MONTH} 
+STR_2737    :{POP16}{POP16}{COMMA16}. év {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_2738    :Főcímzene:
 STR_2739    :Nincs
 STR_2740    :RollerCoaster Tycoon 1
@@ -1542,7 +1562,8 @@ STR_3441    :2. oldal
 STR_3442    :3. oldal
 STR_3443    :4. oldal
 STR_3444    :5. oldal
-STR_3364    :Haladó
+STR_3445    :Járőrözési terület kijelölése
+STR_3446    :Járörözési terület törlése
 
 # New strings, cleaner
 STR_5120    :Pénzügyek
@@ -1555,8 +1576,8 @@ STR_5130    :Térkép mérete
 STR_5147    :Csalások
 STR_5148    :{SMALLFONT}{BLACK}A játék sebsségének megváltoztatása
 STR_5149    :{SMALLFONT}{BLACK}A csalások beállításainak megjelenítése
-STR_5151    :,
-STR_5152    :.
+STR_5151    : 
+STR_5152    :,
 STR_5153    :Témák szerkesztése...
 STR_5158    :Kilépés a menübe
 STR_5159    :Kilépés az OpenRCT2-ből
@@ -1658,6 +1679,7 @@ STR_5476    :Hardver
 STR_5481    :Témák
 STR_5482    :{WINDOW_COLOUR_2}Az utolsó ellenőrzés óta eltelt idő: {BLACK}1 perc
 STR_5488    :Nincs bejárat (Csak az OpenRCT2-ben!)
+STR_5490    :Hang kikapcsolása fókuszvesztés esetén
 STR_5496    :Játékos
 STR_5497    :Ping
 STR_5499    :Játékos neve:
@@ -1776,6 +1798,7 @@ STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 
 #tooltips
 STR_5815    :{SMALLFONT}{BLACK}FPS-számláló megjelenítése a játékban
+STR_5835    :{SMALLFONT}{BLACK}A játék némítása, ha az ablak elveszti a fókuszt
 STR_5859    :{SMALLFONT}{BLACK}A képkocka fázisolás bekapcsolása, hogy {NEWLINE}folyamatosabb legyen a játékmenet megjelenítése. Ha ki van kapcsolva,{NEWLINE}a játék 40 FPS-el fut.
 STR_5877    :Szoftveres
 STR_5878    :Szoftveres (hardveres gyorsítás)
