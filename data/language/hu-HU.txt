@@ -41,7 +41,7 @@ STR_0036    :Ismeretlen bódé (22)
 STR_0037    :Információs bódé
 STR_0038    :WC
 STR_0039    :Óriáskerék 
-STR_0040    :Mozgás-szimulátor
+STR_0040    :Mozgásszimulátor
 STR_0041    :3D mozi
 STR_0042    :Top Spin
 STR_0043    :Űrgyűrűk 
@@ -130,6 +130,7 @@ STR_0547    :Egy bódé, ahol parktérképeket és esernyőket vehetnek a vendé
 STR_0548    :Egy illemhely
 STR_0557    :Egy ATM (bankautomata), amit a vendégek használhatnak, ha elfogy a pénzük
 STR_0549    :Nagy forgó kerék, nyitott székekkel
+STR_0550    :Az utasok filmet néznek a mozgászimulátor kabinjában, miközben azt egy hidraulikus kar csavarja és mozgatja
 STR_0767    :{INT32}. vendég
 STR_0768    :{INT32}. mindenes
 STR_0769    :{INT32}. szerelő
@@ -187,12 +188,12 @@ STR_0825    :A választott név már használatban van
 STR_0826    :Túl sok név van megadva
 STR_0827    :Nincs elég pénz - {CURRENCY2DP} kellene
 STR_0828    :{SMALLFONT}{BLACK}Ablak bezárása
-STR_0829    :{SMALLFONT}{BLACK}Az albak címsora - Húzd az ablak mozgatásához
+STR_0829    :{SMALLFONT}{BLACK}Az ablak címsora - Húzd az ablak mozgatásához
 STR_0830    :{SMALLFONT}{BLACK}Nagyítás
 STR_0831    :{SMALLFONT}{BLACK}Kicsinyítés
 STR_0832    :{SMALLFONT}{BLACK}Forgatás 90°-kal órajárás szerint
-STR_0833    :{SMALLFONT}{BLACK}Játék megállítása
-STR_0834    :{SMALLFONT}{BLACK}Lemez és játék beállítások
+STR_0833    :{SMALLFONT}{BLACK}A játék megállítása
+STR_0834    :{SMALLFONT}{BLACK}Mentési és játékbeállítások
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
 STR_0847    :Az 'OpenRCT2' névjegye
@@ -508,6 +509,10 @@ STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
 STR_1390    :{CURRENCY2DP}
 STR_1391    :{RED}{CURRENCY2DP}
+STR_1399    :{SMALLFONT}{BLACK}Grafikonok
+STR_1400    :Bejárat
+STR_1401    :Kijárat
+STR_1410    :Fűggőleges torony
 STR_1411    :{STRINGID} útban van
 STR_1426    :Várósor
 STR_1427    :{WINDOW_COLOUR_2}Látogatók: {BLACK}óránként {COMMA32}
@@ -534,7 +539,8 @@ STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
 STR_1452    :Vendég neve
 STR_1453    :Írd be a vendég nevét:
 STR_1454    :Nem nevezető át a vendég...
-STR_1455    :Érvénytelen vendég név
+STR_1455    :Érvénytelen vendégnév
+STR_1458    :{WINDOW_COLOUR_2}Parkban töltött idő: {BLACK}{REALTIME}
 STR_1463    :Vendégek
 STR_1468    :Személyzet
 STR_1469    :A játéknak állomással kell kezdődnie és végződnie
@@ -732,12 +738,14 @@ STR_1664    :{WINDOW_COLOUR_2}Energia:
 STR_1665    :{WINDOW_COLOUR_2}Éhség:
 STR_1666    :{WINDOW_COLOUR_2}Szomjúság:
 STR_1667    :{WINDOW_COLOUR_2}WC:
-STR_1668    :{WINDOW_COLOUR_2}Elégedettség: {BLACK}Unknown
+STR_1668    :{WINDOW_COLOUR_2}Elégedettség: {BLACK}ismeretlen
 STR_1669    :{WINDOW_COLOUR_2}Elégedettség: {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}Összes vendég: {BLACK}{COMMA32}
 STR_1671    :{WINDOW_COLOUR_2}Teljes haszon: {BLACK}{CURRENCY2DP}
 STR_1672    :Fékek
 STR_1675    :{POP16}{VELOCITY}
+STR_1677    :{WINDOW_COLOUR_2}Népszerűség: {BLACK}ismeretlen
+STR_1678    :{WINDOW_COLOUR_2}Népszerűség: {BLACK}{COMMA16}%
 STR_1693    :{SMALLFONT}{BLACK}Vendégek
 STR_1694    :{SMALLFONT}{BLACK}Személyzet
 STR_1695    :{SMALLFONT}{BLACK}Bevételek és kiadások
@@ -759,18 +767,28 @@ STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Utak takarítása
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Kertek öntözése
 STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Kukák ürítése
 STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Fűnyírás
+STR_1716    :Érvénytelen parknév
+STR_1717    :Nem nevezhető át a park...
 STR_1718    :Park neve
 STR_1719    :Írd be a park nevét:
+STR_1720    :{SMALLFONT}{BLACK}A park átnevezése
 STR_1721    :Park zárva
 STR_1722    :Park nyitva
 STR_1730    :{RED}Zárva - - 
 STR_1731    :{WHITE}{STRINGID} - - 
+STR_1732    :Építés
+STR_1733    :Mód
 STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1749    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{DURATION}
 STR_1754    :{BLACK}{COMMA16} vendég
 STR_1755    :{BLACK}{COMMA16} vendég
+STR_1756    :{WINDOW_COLOUR_2}Belépési díj:
 STR_1757    :{WINDOW_COLOUR_2}Megbízhatóság: {MOVE_X}{255}{BLACK}{COMMA16}%
+STR_1758    :{SMALLFONT}{BLACK}Építő mód
+STR_1759    :{SMALLFONT}{BLACK}Mozgató mód
+STR_1760    :{SMALLFONT}{BLACK}Kitöltő mód
+STR_1761    :{SMALLFONT}{BLACK}Útvesztő építése ebbe az irányba
 STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1778    :{STRINGID} - - 
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Panda jelmez
@@ -803,6 +821,13 @@ STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} vendég
 STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} vendég
 STR_1849    :{WINDOW_COLOUR_2}Zene játszása
 STR_1850    :{SMALLFONT}{BLACK}Válaszd ki, hogy legyen-e zene ezen a játékon
+STR_1851    :{WINDOW_COLOUR_2}Üzemeltetési költség: {BLACK}óránként {CURRENCY2DP}
+STR_1852    :{WINDOW_COLOUR_2}Üzemeltetési költség: {BLACK}ismeretlen
+STR_1853    :{WINDOW_COLOUR_2}Építés ideje: {BLACK}idén
+STR_1854    :{WINDOW_COLOUR_2}Építés ideje: {BLACK}tavaly
+STR_1855    :{WINDOW_COLOUR_2}Építés ideje: {BLACK}{COMMA16} éve
+STR_1856    :{WINDOW_COLOUR_2}Eladási haszon: {BLACK}{CURRENCY2DP}
+STR_1857    :{WINDOW_COLOUR_2}Eladási veszteség: {BLACK}{CURRENCY2DP}
 STR_1858    :{WINDOW_COLOUR_2}Bér: {BLACK}{CURRENCY2DP} havonta
 STR_1859    :mindenes
 STR_1860    :szerelő
@@ -1107,6 +1132,7 @@ STR_2252    :Csak az utakon kereszetbe építhető!
 STR_2277    :Ismeretlen
 STR_2288    :Ismeretlen
 STR_2289    :{STRINGID} {STRINGID}
+STR_2291    :Válaszd ki az új játék pályáját
 STR_2292    :{WINDOW_COLOUR_2}Az alábbi játékokon volt:
 STR_2293    :{BLACK} Semmi
 STR_2327    :Beállítások
@@ -1158,6 +1184,17 @@ STR_2377    :Hihetetlenül extrém
 STR_2383    :Víz
 STR_2384    :{WINDOW_COLOUR_2}A célod:
 STR_2385    :{BLACK}Nincs
+STR_2386    :{BLACK}Legyen legalább {COMMA16} vendég a parkodban {MONTHYEAR} végéig, a parkod értékelése pedig legyen legalább 600
+STR_2387    :{BLACK}{PUSH16}{PUSH16}{PUSH16}{MONTHYEAR} végén a parkod értéke legyen legalább {POP16}{POP16}{CURRENCY}
+STR_2388    :{BLACK}Érezd jól magad!
+STR_2389    :{BLACK}A lehető legjobb {STRINGID} megépítése!
+STR_2390    :{BLACK}Építs 10 különböző, egyenként legalább 6,00 izgalmi értékű hullámvasutat a parkodban
+STR_2391    :{BLACK}Legyen legalább {COMMA16} vendég a parkodban. A park értékelése soha nem eshet 700 alá!
+STR_2392    :{BLACK}A játékok belépési díja utáni havi bevételed legyen legalább {POP16}{POP16}{CURRENCY}
+STR_2393    :{BLACK}Működjön 10 különböző, egyenként legalább {LENGTH} hosszú hullámvasút a parkodban, amelyek izgalmi értéke legalább 7,00
+STR_2394    :{BLACK}Fejezd be az 5 félkész hullámvasút építését, úgy, hogy mindegyik izgalmi értéke legalább {POP16}{POP16}{COMMA2DP32} legyen
+STR_2395    :{BLACK}Fizesd vissza a kölcsönödet és a park értéke legyen legalább {POP16}{POP16}{CURRENCY}
+STR_2396    :{BLACK}Az ételek, italok és szuvenírek utáni havi bevételed legyen legalább {POP16}{POP16}{CURRENCY}
 STR_2397    :Nincs
 STR_2398    :A vendégek száma 
 STR_2399    :A park értéke egy meghatározott időpontban
@@ -1511,6 +1548,8 @@ STR_3065    :Haladó parkok
 STR_3066    :Nehéz parkok
 STR_3067    :“Igazi” parkok
 STR_3068    :Egyéb parkok
+STR_3071    :{WINDOW_COLOUR_2}Ugyanez az ár mindenhol a parkban
+STR_3072    :{SMALLFONT}{BLACK}Válaszd ki, hogy ezt az árat használják-e mindenhol a parkban
 STR_3078    :Sima bejárat
 STR_3079    :Fa bejárat
 STR_3080    :Vászonsátor bejárat
@@ -1523,10 +1562,23 @@ STR_3086    :Absztrakt bejárat
 STR_3087    :Havas/jeges bejárat
 STR_3088    :Pagoda bejárat
 STR_3089    :Űrbéli bejárat
+STR_3093    :{WINDOW_COLOUR_2}Kedvence: {BLACK}{STRINGID}
+STR_3094    :nincs adat
 STR_3130    :Mentés
 STR_3131    :Mégse
 STR_3143    :{SMALLFONT}{BLACK}Emberek megjelenítése a térképen
 STR_3144    :{SMALLFONT}{BLACK}Játékok és bódék megjelenítése a térképen
+STR_3164    :{BLACK}{COMMA16} kiválasztva (maximum {COMMA16})
+STR_3194    :Pálya leírása
+STR_3195    :Találmányok listája
+STR_3201    :Objektumok kiválasztása
+STR_3209    :Vissza az előző lépésre:
+STR_3210    :Tovább a következő lépésre:
+STR_3211    :Térkép mérete:
+STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
+STR_3213    :Nem csökkenthető tovább a térkép mérete
+STR_3214    :Nem növelhető tovább a térkép mérete
+STR_3215    :Túl közel van a térkép széléhez
 STR_3211    :Térkép mérete:
 STR_3232    :Beállítások - pénzügyi
 STR_3233    :Beállítások - vendégek
@@ -1539,6 +1591,13 @@ STR_3290    :Hűvös és nedves
 STR_3291    :Meleg
 STR_3292    :Forró és száraz
 STR_3293    :Hideg
+STR_3313    :Pálya neve
+STR_3314    :Add meg a pálya nevét:
+STR_3315    :Park/pálya részletei
+STR_3316    :Add meg a pálya leírását:
+STR_3317    :Még nincsenek részletek
+STR_3318    :{SMALLFONT}{BLACK}Válaszd ki melyik csoportban jelenjen meg ez a pálya
+STR_3319    :{WINDOW_COLOUR_2}Pályacsoport:
 STR_3322    :{WINDOW_COLOUR_2}Cél: {BLACK}{STRINGID}
 STR_3326    :{WINDOW_COLOUR_2}(nincs kép)
 STR_3341    :{SMALLFONT}{BLACK}Játékeszközök
@@ -1605,6 +1664,7 @@ STR_5189    :Kutatás
 STR_5190    :Térkép
 STR_5192    :Friss hírek
 STR_5194    :Víz
+STR_5214    :Térkép generálása
 STR_5217    :Csalások
 STR_5218    :Témák
 STR_5219    :Beállítások
@@ -1642,6 +1702,8 @@ STR_5275    :Objektumok keresése
 STR_5276    :Add meg a keresendő objektum nevét
 STR_5277    :Törlés
 STR_5285    :ROBBANJANAK!!!
+STR_5296    :{SMALLFONT}{BLACK}A park bezárása
+STR_5297    :{SMALLFONT}{BLACK}A park megnyitása
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
 STR_5304    :Címkép pillanatai:
@@ -1654,7 +1716,12 @@ STR_5310    :Véletlenszerű
 STR_5313    :Mezővizsgáló megjelenítése
 STR_5314    :Mezővizsgáló
 STR_5334    :Jég
+STR_5343    :Alkalmazottak automatikus lerakása
 STR_5344    :Változási napló
+STR_5345    :Pénzügyi csalások
+STR_5346    :Vendég-csalások
+STR_5347    :Park-csalások
+STR_5348    :Játék-csalások
 STR_5349    :{SMALLFONT}{BLACK}Minden játék
 STR_5350    :Max.
 STR_5351    :Min.
@@ -1687,6 +1754,7 @@ STR_5465    :Éghajlat
 STR_5466    :Személyzet
 STR_5467    :ALT + 
 STR_5468    :Legutóbbi üzenetek
+STR_5474    :Nagybetűs szöveg a jelzőtáblákon
 STR_5475    :{COMMA16} hét
 STR_5476    :Hardver
 STR_5477    :Térkép megjelenítése
@@ -1760,6 +1828,8 @@ STR_5578    :Orosz rubel (R)
 STR_5579    :Ablak méretezése:
 STR_5580    :Cseh korona (Kč)
 STR_5581    :FPS megjelenítése
+STR_5584    :SI
+STR_5586    :Boltok és bódék automatikus megnyitása
 STR_5588    :{SMALLFONT}{BLACK}Online játék másokkal
 STR_5619    :RollerCoaster Tycoon
 STR_5620    :Added Attractions
@@ -1804,7 +1874,23 @@ STR_5760    :Hongkongi dollár (HK$)
 STR_5761    :Tajvani új dollár (NT$)
 STR_5762    :Kínai jüan (CN¥)
 STR_5763    :Minden fájl
+STR_5764    :Érvénytelen játéktípus
+STR_5765    :Az érvénytelen típusú játékok nem szerkeszthetőek
 STR_5767    :Bevétel
+STR_5768    :Összes vendég
+STR_5769    :Teljes haszon
+STR_5770    :Vendégek óránként
+STR_5771    :Működtetési költség
+STR_5772    :Kor
+STR_5773    :Összes vendég: {COMMA32}
+STR_5774    :Teljes haszon: {CURRENCY2DP}
+STR_5775    :Vendégek: óránként {COMMA32}
+STR_5776    :Építés ideje: idén
+STR_5777    :Építés ideje: tavaly
+STR_5778    :Építés ideje: {COMMA16} éve
+STR_5779    :Bevétel: óránként {CURRENCY2DP}
+STR_5780    :Üzemeltetési költség: óránként {CURRENCY2DP} 
+STR_5781    :Üzemeltetési költség: ismeretlen
 STR_5782    :Kapcsolódva vagy. A(z) '{STRING}' lenyomásával cseveghetsz.
 STR_5783    :{WINDOW_COLOUR_2}Lezárt pálya
 STR_5784    :{BLACK}Teljesíts korábbi pályákat a feloldásához.
@@ -1819,7 +1905,9 @@ STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 #tooltips
 STR_5815    :{SMALLFONT}{BLACK}FPS-számláló megjelenítése a játékban
 STR_5816    :{SMALLFONT}{BLACK}A játék méretezési tényezőjének beállítása.{NEWLINE}Főleg akkor hasznos, ha magasabb{NEWLINE} felbontásokban játszol.
+STR_5823    :{SMALLFONT}{BLACK}Nagybetűs megjelenítés a jelzőtáblákon (RCT1-beli viselkedés)
 STR_5835    :{SMALLFONT}{BLACK}A játék némítása, ha az ablak elveszti a fókuszt
+STR_5857    :{SMALLFONT}{BLACK}Játékbeállítások
 STR_5859    :{SMALLFONT}{BLACK}A képkocka fázisolás bekapcsolása, hogy {NEWLINE}folyamatosabb legyen a játékmenet megjelenítése. Ha ki van kapcsolva,{NEWLINE}a játék 40 FPS-el fut.
 STR_5877    :Szoftveres
 STR_5878    :Szoftveres (hardveres gyorsítás)
@@ -1855,6 +1943,10 @@ STR_6055    :OpenRCT2 magasságtérkép fájl
 STR_6056    :{SMALLFONT}{BLACK}Némítás
 STR_6058    :Némítás
 STR_6059    :»
+STR_6060    :Vendégek vásárlásainak animálása
+STR_6061    :{SMALLFONT}{BLACK}Animált pénzhatás megjelenítése,{NEWLINE}mikor a vendégek vásárolnak valamit.
+STR_6062    :{OUTLINE}{GREEN}+ {CURRENCY2DP}
+STR_6063    :{OUTLINE}{RED}- {CURRENCY2DP}
 STR_6104    :Dugóhúzú hullámvasút
 STR_6105    :Hiperhullámvasút
 STR_6106    :Autós utazás
