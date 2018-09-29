@@ -69,7 +69,7 @@ STR_0064    :Fekvő hullámvasút
 STR_0065    :Felfüggesztett egysínű
 STR_0066    :Ismeretlen játék (40)
 STR_0067    :Irányváltó hullámvasút
-STR_0068    :Szívvonal csavaró hullámvasút
+STR_0068    :Palástorsózó hullámvasút
 STR_0069    :Minigolf
 STR_0070    :Giga-hullámvasút
 STR_0071    :Forgóesés
@@ -112,7 +112,7 @@ STR_0526    :Az utasok egy forgó megfigyelőfülkében utaznak, ami felmegy egy
 STR_0527    :Egy sima acélpályás hullámvasút, amelyen függőleges hurkok is lehetségesek
 STR_0528    :Az utasok gumicsónakokban utaznak lefelé egy kanyargó, félkör, vagy teljes kör alakú csőpályán
 STR_0529    :A hullámvasút bányavonat témájú vonatai acél hullámvasútpályán futnak, amit egy régi vasúti pályához tettek hasonlatossá
-STR_0530    :Az autók egy acélkábelről lógnak, ami folyamtosan a játék egyik végétől a másikig fut, majd újra vissza
+STR_0530    :A kocsik egy acélkábelről lógnak, ami folyamatosan a játék egyik végétől a másikig fut, majd újra vissza
 STR_0531    :Egy kompakt, acélpályás hullámvasút, amelyen a vonat dugóhúzókon es hurkokon halad át
 STR_0532    :Az útvesztő közel 2 méteres sövényekből vagy falakból áll és a vendégek addig bolyonganak benne, amíg rá nem lelnek a kijáratra
 STR_0533    :Egy  belső lépcsős faépület kívül spirál csúszdával, amelyről csúszómatracokal lehet lecsúszni
@@ -128,9 +128,11 @@ STR_0544    :Egy szuvenírokat árusító bódé
 STR_0545    :Egy hagyományos forgó körhinta, faragott falovakkal
 STR_0547    :Egy bódé, ahol parktérképeket és esernyőket vehetnek a vendégek
 STR_0548    :Egy illemhely
-STR_0557    :Egy ATM (bankautomata), amit a vendégek használhatnak, ha elfogy a pénzük
 STR_0549    :Nagy forgó kerék, nyitott székekkel
 STR_0550    :Az utasok filmet néznek a mozgászimulátor kabinjában, miközben azt egy hidraulikus kar csavarja és mozgatja
+STR_0551    :Mozi, amely 3D-s filmeket vetít egy geodéziai gömb alakú épületben
+STR_0557    :Egy ATM (bankautomata), amit a vendégek használhatnak, ha elfogy a pénzük
+STR_0578    :A kocsik egy abroncsokkal körbefogott, meredek esésekkel és palástorsókkal teli pálya mentén haladnak
 STR_0767    :{INT32}. vendég
 STR_0768    :{INT32}. mindenes
 STR_0769    :{INT32}. szerelő
@@ -504,6 +506,8 @@ STR_1342    :{DURATION}
 STR_1343    :{DURATION} / 
 STR_1345    :{LENGTH}
 STR_1346    :{LENGTH} / 
+STR_1377    :Palástorsó (balra)
+STR_1378    :Palástorsó (jobbra)
 STR_1384    :{YELLOW}{STRINGID}
 STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
@@ -790,6 +794,7 @@ STR_1759    :{SMALLFONT}{BLACK}Mozgató mód
 STR_1760    :{SMALLFONT}{BLACK}Kitöltő mód
 STR_1761    :{SMALLFONT}{BLACK}Útvesztő építése ebbe az irányba
 STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1777    :Játékok zenéje
 STR_1778    :{STRINGID} - - 
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Panda jelmez
 STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Tigris jelmez
@@ -862,6 +867,7 @@ STR_1924    :{SMALLFONT}{BLACK}Kilépés
 STR_1926    :{SMALLFONT}
 STR_1927    :{YELLOW}{STRINGID} lerobbant
 STR_1928    :{RED}{STRINGID} ütközött!
+STR_1929    :{RED}{STRINGID} még mindig nincs megjavítva{NEWLINE}Ellenőrizd, hogy merre járnak a szerelőid és gondold át, hogyan lehetnének szervezettebbek
 STR_1954    :Kutatás finanszírozása
 STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1958    :{COMMA16}
@@ -1464,9 +1470,9 @@ STR_2767    :Időjárás-változás ki
 STR_2768    :Időjárás-változás be
 STR_2769    :Park megnyitása
 STR_2770    :Park bezárása
-STR_2773    :Ablak
-STR_2774    :Teljes képernyő
-STR_2775    :Telj. kép. (keret nélküli a.)
+STR_2773    :Ablakos
+STR_2774    :Teljes képernyős
+STR_2775    :Telj. kép. (keret nélküli abl.)
 STR_2776    :Nyelv:
 STR_2777    :{MOVE_X}{10}{STRING}
 STR_2778    :»{MOVE_X}{10}{STRING}
@@ -1654,7 +1660,7 @@ STR_5166    :{SMALLFONT}{BLACK}A vendégek a csatorna Twitch követői{NEWLINE}u
 STR_5167    :Követőkről elnevezett vendégek követése
 STR_5169    :Vendégek Twitch chat résztvevők utáni elnevezése
 STR_5170    :{SMALLFONT}{BLACK}A vendégek Twitch chat résztvevők utáni elnevezése
-STR_5171    :Chat részvevőkről elnevezett vendégek követése
+STR_5171    :Chat résztvevőkről elnevezett vendégek követése
 STR_5173    :Twitch chat hírként történő megjelenítése
 STR_5177    :Képernyőmód:
 STR_5182    :{INT32}
@@ -1743,6 +1749,7 @@ STR_5373    :Név {STRINGID}
 STR_5374    :Dátum {STRINGID}
 STR_5375    :▲
 STR_5376    :▼
+STR_5440    :Teljes képernyőnél minimalizálás fókuszvesztéskor
 STR_5449    :A játék sebességének csökkentése
 STR_5450    :A játék sebsségének növelése
 STR_5451    :A csalások ablak megnyitása
@@ -1765,9 +1772,14 @@ STR_5481    :Témák
 STR_5482    :{WINDOW_COLOUR_2}Az utolsó ellenőrzés óta eltelt idő: {BLACK}1 perc
 STR_5488    :Nincs bejárat (Csak az OpenRCT2-ben!)
 STR_5490    :Hang kikapcsolása fókuszvesztés esetén
+STR_5491    :Találmányok listája
+STR_5492    :Pálya beállításai
+STR_5493    :Üzenet küldése
+STR_5495    :Játékosok listája
 STR_5496    :Játékos
 STR_5497    :Ping
 STR_5499    :Játékos neve:
+STR_5500    :Szerver hozzáadása
 STR_5501    :Szerver indítása
 STR_5511    :(ISMERETLEN)
 STR_5512    :Játék mentése másként
@@ -1816,7 +1828,7 @@ STR_5566    :Jelszó:
 STR_5567    :Hirdetés
 STR_5568    :Jelszó szükséges
 STR_5569    :Ehhez a szerverhez jelszó szükséges
-STR_5570    :Szerverek keresése
+STR_5570    :Szerver keresése
 STR_5571    :Csatlakozás a játékhoz
 STR_5572    :Hozzáadás a kedvencekhez
 STR_5573    :Eltávolítás a kedvencekből
@@ -1905,10 +1917,15 @@ STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 #tooltips
 STR_5815    :{SMALLFONT}{BLACK}FPS-számláló megjelenítése a játékban
 STR_5816    :{SMALLFONT}{BLACK}A játék méretezési tényezőjének beállítása.{NEWLINE}Főleg akkor hasznos, ha magasabb{NEWLINE} felbontásokban játszol.
+STR_5820    :{SMALLFONT}{BLACK}A játék minimalizálása, ha elveszti a fókuszt{NEWLINE}teljes képernyős módban
 STR_5823    :{SMALLFONT}{BLACK}Nagybetűs megjelenítés a jelzőtáblákon (RCT1-beli viselkedés)
 STR_5835    :{SMALLFONT}{BLACK}A játék némítása, ha az ablak elveszti a fókuszt
+STR_5853    :{SMALLFONT}{BLACK}A hanghatások be- és kikapcsolása
+STR_5854    :{SMALLFONT}{BLACK}A játékok zenéjének be- és kikapcsolása
 STR_5857    :{SMALLFONT}{BLACK}Játékbeállítások
 STR_5859    :{SMALLFONT}{BLACK}A képkocka fázisolás bekapcsolása, hogy {NEWLINE}folyamatosabb legyen a játékmenet megjelenítése. Ha ki van kapcsolva,{NEWLINE}a játék 40 FPS-el fut.
+STR_5875    :Grafikus motor:
+STR_5876    :{SMALLFONT}{BLACK}A játék grafikus megjelenítő motorja.
 STR_5877    :Szoftveres
 STR_5878    :Szoftveres (hardveres gyorsítás)
 STR_5879    :OpenGL (kísérleti)
@@ -2000,10 +2017,22 @@ STR_6212    :Szürke homokkő
 STR_6213    :Felhőkarcoló A
 STR_6214    :Felhőkarcoló B
 STR_6218    :OpenRCT2 hivatalos
+STR_6219    :Útproblémák kiemelése
+STR_6220    :Legyen használható
+STR_6221    :{SMALLFONT}{BLACK}A játék által használt bejárati vagy kijárati helyet a jelenleg kiválasztott mezőre állítja. Állomásonként csak egy bejárati és kijárati helyet lehet létrehozni.
+STR_6222    :Nem helyezhetsz ide vendég belépési pontot...
+STR_6223    :A park határain kívül kell lennie!
+STR_6224    :{STRING} lehelyezett egy vendég belépési pontot.
+STR_6225    :Nem támogatott OpenGL megjelenítéssel 
+STR_6226    :Korai pályateljesítés
+STR_6227    :{SMALLFONT}{BLACK}A pálya teljesítése, ha az összes cél teljesül a kítűzött idő előtt.
+STR_6228    :Pálya beállítások
 STR_6229    :{WINDOW_COLOUR_2}{STRINGID}: {STRINGID}
 STR_6230    :{STRINGID}:
 STR_6231    :{WINDOW_COLOUR_2}{STRINGID}: {MOVE_X}{185}{STRINGID}
 STR_6232    :Dermedt
+STR_6234    :Útproblémák kiemelése
+STR_6235    :Szerver információ
 STR_6236    :Játékosok
 STR_6237    :Csoportok
 STR_6243    :{SMALLFONT}{BLACK}Felújítja a játékot,{NEWLINE}olyan lesz, mintha új lenne
