@@ -808,9 +808,11 @@ STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Bandita jelmez
 STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Seriff jelmez
 STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Kalóz jelmez
 STR_1791    :{WINDOW_COLOUR_2}Egyenruha színe:
+STR_1792    :{STRINGID} segélykérésére válaszol
 STR_1793    :{STRINGID} felé tart ellenőrzésre
 STR_1794    :Ezt javítja: {STRINGID}
 STR_1795    :Rádióhívásra válaszol
+STR_1796    :Lerobbant és javításra van szüksége
 STR_1798    :Örvény
 STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
@@ -1236,6 +1238,10 @@ STR_2467    :{SMALLFONT}{BLACK}A jelenlegi játék céljainak mutatása
 STR_2483    :{WINDOW_COLOUR_2}Heti bevétel: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Heti bevétel: {RED}{CURRENCY2DP}
 STR_2487    :Vendégek “igazi” nevének mutatása
+STR_2489    :Billentyűparancsok...
+STR_2490    :Billentyűparancsok
+STR_2491    :Alapértékek visszaállítása 
+STR_2492    :{SMALLFONT}{BLACK}A billentyűparancsok alapértékeinek visszaállítása
 STR_2496    :Játék megállítása
 STR_2523    :Térkép megjelenítése
 STR_2524    :Képmentés
@@ -1404,7 +1410,7 @@ STR_2689    :Oktávok:
 STR_2691    :Alapmagasság:
 STR_2692    :Víz szintje:
 STR_2693    :Táj:
-STR_2694    :Létrehozás
+STR_2694    :Generálás
 STR_2695    :Véletlenszerű táj
 STR_2696    :Fák lerakása
 STR_2697    :???
@@ -1643,8 +1649,9 @@ STR_5125    :Minden lerombolható
 STR_5126    :Véletlenszerű főcímzene
 STR_5130    :Térkép mérete
 STR_5147    :Csalások
-STR_5148    :{SMALLFONT}{BLACK}A játék sebsségének megváltoztatása
+STR_5148    :{SMALLFONT}{BLACK}A játék sebességének megváltoztatása
 STR_5149    :{SMALLFONT}{BLACK}A csalások beállításainak megjelenítése
+STR_5150    :Hibakereső eszköszök engedélyezése
 STR_5151    : 
 STR_5152    :,
 STR_5153    :Témák szerkesztése...
@@ -1719,6 +1726,7 @@ STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
 STR_5308    :RollerCoaster Tycoon 2
 STR_5309    :OpenRCT2
 STR_5310    :Véletlenszerű
+STR_5311    :{SMALLFONT}{BLACK}Hibakereső eszközök
 STR_5313    :Mezővizsgáló megjelenítése
 STR_5314    :Mezővizsgáló
 STR_5334    :Jég
@@ -1761,6 +1769,7 @@ STR_5465    :Éghajlat
 STR_5466    :Személyzet
 STR_5467    :ALT + 
 STR_5468    :Legutóbbi üzenetek
+STR_5473    :Nappalok és éjszakák váltakozása
 STR_5474    :Nagybetűs szöveg a jelzőtáblákon
 STR_5475    :{COMMA16} hét
 STR_5476    :Hardver
@@ -1822,8 +1831,10 @@ STR_5549    :év/hónap/nap
 STR_5550    :{POP16}{POP16}{COMMA16}. év {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_5551    :év/nap/hónap
 STR_5552    :{POP16}{POP16}{COMMA16}. év {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
-STR_5553    :Szünet, mikor a Steam Átfedés meg van nyitva
+STR_5553    :Játék megállítása, ha a Steam Átfedés nyitva van
 STR_5562    :FIGYELMEZTETÉS!
+STR_5564    :Sérült elem beillesztése
+STR_5565    :{SMALLFONT}{BLACK}Egy sérült elemet illeszt be a mező fölé. A sérült elem feletti elemek nem fognak látszani.
 STR_5566    :Jelszó:
 STR_5567    :Hirdetés
 STR_5568    :Jelszó szükséges
@@ -1910,7 +1921,7 @@ STR_5785    :A csoport nem nevezhető át...
 STR_5786    :Érvénytelen csoportnév
 STR_5787    :{COMMA32} játékos van online
 STR_5788    :Alapértelmezett ellenőrzési idő:
-STR_5789    :Villámhatások kikapcsolása
+STR_5789    :Villámhatás kikapcsolása
 STR_5813    :“{STRING}”
 STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 
@@ -1918,7 +1929,9 @@ STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 STR_5815    :{SMALLFONT}{BLACK}FPS-számláló megjelenítése a játékban
 STR_5816    :{SMALLFONT}{BLACK}A játék méretezési tényezőjének beállítása.{NEWLINE}Főleg akkor hasznos, ha magasabb{NEWLINE} felbontásokban játszol.
 STR_5820    :{SMALLFONT}{BLACK}A játék minimalizálása, ha elveszti a fókuszt{NEWLINE}teljes képernyős módban
+STR_5822    :{SMALLFONT}{BLACK}A nap és az éjszaka váltakozásásának bekapcsolása.{NEWLINE}A teljes ciklus egy játékbeli hónapig tart
 STR_5823    :{SMALLFONT}{BLACK}Nagybetűs megjelenítés a jelzőtáblákon (RCT1-beli viselkedés)
+STR_5845    :{SMALLFONT}{BLACK}Hozzáadja a hibakereső{NEWLINE}eszközök gombját az eszköztárhoz.{NEWLINE}Engedélyezi a fejlesztői konzol billentyűparancsát
 STR_5835    :{SMALLFONT}{BLACK}A játék némítása, ha az ablak elveszti a fókuszt
 STR_5853    :{SMALLFONT}{BLACK}A hanghatások be- és kikapcsolása
 STR_5854    :{SMALLFONT}{BLACK}A játékok zenéjének be- és kikapcsolása
@@ -1943,7 +1956,19 @@ STR_5916    :{COMMA16} játékos
 STR_5917    :{COMMA16} játékos
 STR_5918    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_5919    :{COMMA16}
+STR_5920    :Időjárási hatások megjelenítése
+STR_5921    :{SMALLFONT}{BLACK}Ha be van kapcsolva, viharok idején esős és komor színű lesz a játék.
 STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Max {STRINGID}
+STR_5924    :Felszín részletei
+STR_5925    :Út részletei
+STR_5926    :Pálya részleti
+STR_5927    :Díszlet részleti
+STR_5928    :Bejárat részletei
+STR_5929    :Fal részletei
+STR_5930    :Nagy díszlet részletei
+STR_5931    :Jelzőtábla részletei
+STR_5932    :Sérült elem részletei
+STR_5933    :Tulajdonságok
 STR_5956    :Délnyugat
 STR_5957    :Északnyugat
 STR_5958    :Északkelet
@@ -1951,6 +1976,8 @@ STR_5959    :Délkelet
 STR_5985    :Új mappa
 STR_5986    :Írd be az új mapa nevét.
 STR_5987    :A mappát nem lehet létrehozni
+STR_6001    :Fényhatások bekapcsolása (kísérleti)
+STR_6002    :{SMALLFONT}{BLACK}A lámpák és a játékok éjjelente világítani fognak.{NEWLINE}A grafikus motort hardveres gyorsítára kell állítani hozzá.
 STR_6010    :{COMMA2DP32}m
 STR_6011    :{COMMA1DP16}ft
 STR_6031    :Szerver leírása:
@@ -1976,8 +2003,16 @@ STR_6124    :Objektum neve
 STR_6125    :Objektum típusa
 STR_6126    :Ismeretlen típus
 STR_6127    :Fájl: {STRING}
-STR_6128    :A fájl nem tölthető be, mert néhány általa hivatkozott objektum hiányzik vagy hibás. Lentebb láthatod a problémás objektumok listáját.
+STR_6128    :A fájl nem tölthető be, mert néhány általa hivatkozott objektum hiányzik vagy sérült. Lentebb láthatod a problémás objektumok listáját.
 STR_6140    :Változási napló...
+STR_6141    :RCT1 alsó eszköztár
+STR_6142    :{WINDOW_COLOUR_2}Pálya neve: {BLACK}{STRING}
+STR_6143    :{WINDOW_COLOUR_2}Játék típusa: {BLACK}{STRINGID}
+STR_6148    :Csatlakozás a főszerverhez...
+STR_6149    :Nem sikerült csatlakozni a főszerverhez
+STR_6150    :Érvénytelen válasz a főszervertől (nincs JSON-szám)
+STR_6151    :A főszerver nem tudja listázni a szervereket
+STR_6152    :Érvénytelen válasz a főszervertől (nincs JSON-tömb)
 STR_6156    :A név le van foglalva
 STR_6157    :Konzol
 STR_6158    :Fájl betöltése sikertelen...{NEWLINE}Nem kompatibilis RCTC verzió: {COMMA16}
