@@ -301,10 +301,10 @@ STR_0979    :Új hullámvasutak
 STR_0980    :Új izgalmas játékok
 STR_0981    :Új vízi játékok
 STR_0982    :Új boltok és bódék
-STR_0983    :Kutatás & fejlesztés
+STR_0983    :Kutatás-fejlesztés
 STR_0979    :Új hullámvasutak
 STR_0982    :Új boltok & bódék
-STR_0983    :Kutatás & fejlesztés
+STR_0983    :Kutatás-fejlesztés
 STR_0984    :{WINDOW_COLOUR_2}▲{BLACK}  {CURRENCY2DP}
 STR_0985    :{WINDOW_COLOUR_2}▼{BLACK}  {CURRENCY2DP}
 STR_0986    :{BLACK}{CURRENCY2DP}
@@ -462,9 +462,9 @@ STR_1144    :Nem építhető/mozgatható a játék/épület bejárata...
 STR_1145    :Nem építhető/mozgatható a játék/épület kijárata...
 STR_1146    :Még nem épült bejárat
 STR_1147    :Még nem épült kijárat
-STR_1153    :Magassági jelek a játékok pályáin
-STR_1154    :Magassági jelek a talajon
-STR_1155    :Magassági jelek az utakon
+STR_1153    :Magasságjelek a játékok pályáin
+STR_1154    :Magasságjelek a talajon
+STR_1155    :Magasságjelek az utakon
 STR_1156    :{MOVE_X}{10}{STRINGID}
 STR_1157    :✓{MOVE_X}{10}{STRINGID}
 STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
@@ -481,6 +481,10 @@ STR_1177    :Nem távolítható el az út...
 STR_1180    :Nem építhető víz alá!
 STR_1182    :Típus
 STR_1183    :Irány
+STR_1184    :Lejtő
+STR_1185    :{SMALLFONT}{BLACK}Irány
+STR_1189    :{SMALLFONT}{BLACK}A kiválasztott útszakasz megépítése
+STR_1190    :{SMALLFONT}{BLACK}Az előző útszakasz eltávolítása
 STR_1194    :Zárva
 STR_1195    :Tesztüzem
 STR_1196    :Nyitva
@@ -788,8 +792,8 @@ STR_1717    :Nem nevezhető át a park...
 STR_1718    :Park neve
 STR_1719    :Írd be a park nevét:
 STR_1720    :{SMALLFONT}{BLACK}A park átnevezése
-STR_1721    :Park zárva
-STR_1722    :Park nyitva
+STR_1721    :A park zárva van
+STR_1722    :A park nyitva van
 STR_1730    :{RED}Zárva - - 
 STR_1731    :{WHITE}{STRINGID} - - 
 STR_1732    :Építés
@@ -1167,7 +1171,34 @@ STR_2249    :{BABYBLUE}Új játék/épület érhető el:{NEWLINE}{STRINGID}
 STR_2250    :{BABYBLUE}Új díszlet/téma érhető el:{NEWLINE}{STRINGID}
 STR_2251    :Csak utakra építhető!
 STR_2252    :Csak az utakon kereszetbe építhető!
+STR_2260    :Nincs finanszírozás
+STR_2261    :Minimális finanszírozás
+STR_2262    :Átlagos finanszírozás
+STR_2263    :Maximális finanszírozás
+STR_2264    :Kutatásfinanszírozás
+STR_2265    :{WINDOW_COLOUR_2}Költség: {BLACK}{CURRENCY} havonta
+STR_2266    :Kutatási irányok
+STR_2267    :Jelenleg fejlesztés alatt
+STR_2268    :Legutóbbi fejlesztés
+STR_2269    :{WINDOW_COLOUR_2}Típus: {BLACK}{STRINGID}
+STR_2270    :{WINDOW_COLOUR_2}Állapot: {BLACK}{STRINGID}
+STR_2271    :{WINDOW_COLOUR_2}Várható elkészülés: {BLACK}{STRINGID}
+STR_2272    :{WINDOW_COLOUR_2}Játék/épület:{NEWLINE}{BLACK}{STRINGID}
+STR_2273    :{WINDOW_COLOUR_2}Díszlet/téma:{NEWLINE}{BLACK}{STRINGID}
+STR_2274    :{SMALLFONT}{BLACK}A kutatás vagy fejlesztés részletei
+STR_2275    :{SMALLFONT}{BLACK}A kutatás és fejlesztés finanszírozási lehetőségei
+STR_2276    :{SMALLFONT}{BLACK}A kutatás és fejlesztés állapota
 STR_2277    :Ismeretlen
+STR_2278    :Szállító játék
+STR_2279    :Enyhe játék
+STR_2280    :Hullámvasűt
+STR_2281    :Izgalmas játék
+STR_2282    :Vízi játék
+STR_2283    :Bolt/bódé
+STR_2284    :Díszlet/téma
+STR_2285    :Kezdeti kutatás
+STR_2286    :Tervezés
+STR_2287    :Terv véglegesítése
 STR_2288    :Ismeretlen
 STR_2289    :{STRINGID} {STRINGID}
 STR_2291    :Válaszd ki az új játék pályáját
@@ -1222,8 +1253,8 @@ STR_2377    :Hihetetlenül extrém
 STR_2383    :Víz
 STR_2384    :{WINDOW_COLOUR_2}A célod:
 STR_2385    :{BLACK}Nincs
-STR_2386    :{BLACK}Legyen legalább {COMMA16} vendég a parkodban {MONTHYEAR} végén, a parkod értékelése pedig legyen legalább 600
-STR_2387    :{BLACK}{PUSH16}{PUSH16}{PUSH16}{MONTHYEAR} végén a parkod értéke legyen legalább {POP16}{POP16}{CURRENCY}
+STR_2386    :{BLACK}Legyen legalább {COMMA16} vendég a parkodban {MONTHYEAR} végére, a parkod értékelése pedig legyen legalább 600
+STR_2387    :{BLACK}Legyen legalább {POP16}{POP16}{CURRENCY} a parkod értéke {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR} végére
 STR_2388    :{BLACK}Érezd jól magad!
 STR_2389    :{BLACK}A lehető legjobb {STRINGID} megépítése!
 STR_2390    :{BLACK}Építs 10 különböző, egyenként legalább 6,00 izgalmi értékű hullámvasutat a parkodban
@@ -1244,7 +1275,7 @@ STR_2413    :{BLACK}(heti {CURRENCY2DP})
 STR_2414    :(Nincs kiválasztva)
 STR_2415    :{WINDOW_COLOUR_2}Játék:
 STR_2416    :{WINDOW_COLOUR_2}Tárgy:
-STR_2417    :{WINDOW_COLOUR_2}Időtartama:
+STR_2417    :{WINDOW_COLOUR_2}Időtartam:
 STR_2418    :Ingyenes belépés ide:{STRINGID}
 STR_2419    :Ingyenes utazás ezen: {STRINGID}
 STR_2420    :Féláras belépés ide: {STRINGID}
@@ -1260,19 +1291,67 @@ STR_2431    :{BLACK}Ingyenes igénybevételre jogosító kuponok - {STRINGID}
 STR_2432    :{BLACK}Féláras belépésre jogosító kuponok - {STRINGID}
 STR_2433    :{BLACK}Ingyen {STRINGID} kuponok
 STR_2434    :{BLACK}Reklámkampány {STRINGID} számára
+STR_2435    :{BLACK}Reklámkampány {STRINGID} számára
 STR_2436    :1 hét
 STR_2443    :{WINDOW_COLOUR_2}Heti költség: {BLACK}{CURRENCY2DP}
 STR_2444    :{WINDOW_COLOUR_2}Összköltség: {BLACK}{CURRENCY2DP}
 STR_2445    :Reklámkampány indítása
-STR_2467    :{SMALLFONT}{BLACK}A jelenlegi játék céljainak mutatása
+STR_2457    :{SMALLFONT}{BLACK}A pénzügyi számlák adatai
+STR_2458    :{SMALLFONT}{BLACK}A pénz (kölcsön nélküli) időbeli változása
+STR_2459    :{SMALLFONT}{BLACK}A park értékének időbeli változása
+STR_2460    :{SMALLFONT}{BLACK}A heti nyereség grafikonja
+STR_2461    :{SMALLFONT}{BLACK}Marketingkampányok
+STR_2462    :{SMALLFONT}{BLACK}A park bejáratának látképe
+STR_2463    :{SMALLFONT}{BLACK}A park értékelésének időbeli változása
+STR_2464    :{SMALLFONT}{BLACK}A vendégek számának időbeli változása
+STR_2465    :{SMALLFONT}{BLACK}A park belépési díja és információja
+STR_2466    :{SMALLFONT}{BLACK}A park statisztikái
+STR_2467    :{SMALLFONT}{BLACK}A jelenlegi játék céljai
+STR_2468    :{SMALLFONT}{BLACK}A park által mostanában elnyert díjak
+STR_2469    :{SMALLFONT}{BLACK}Válaszd ki a kutatás-fejlesztés finaszírozásának szintjét
+STR_2470    :{SMALLFONT}{BLACK}Új szállító játékok kutatása
+STR_2471    :{SMALLFONT}{BLACK}Új enyhe játékok kutatása
+STR_2472    :{SMALLFONT}{BLACK}Új hullámvasutak kutatása
+STR_2473    :{SMALLFONT}{BLACK}Új izgalmas játékok kutatása
+STR_2474    :{SMALLFONT}{BLACK}Új vízi játékok kutatása
+STR_2475    :{SMALLFONT}{BLACK}Új boltok és bódék kutatása
+STR_2476    :{SMALLFONT}{BLACK}Új díszletek és témák kutatása
+STR_2477    :{SMALLFONT}{BLACK}A játék/épület üzemmódjának kiválasztása
 STR_2483    :{WINDOW_COLOUR_2}Heti bevétel: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Heti bevétel: {RED}{CURRENCY2DP}
 STR_2487    :Vendégek “igazi” nevének mutatása
-STR_2489    :Billentyűparancsok...
-STR_2490    :Billentyűparancsok
+STR_2489    :Gyorsbillentyűk...
+STR_2490    :Gyorsbillentyűk
 STR_2491    :Alapértékek visszaállítása 
-STR_2492    :{SMALLFONT}{BLACK}A billentyűparancsok alapértékeinek visszaállítása
+STR_2492    :{SMALLFONT}{BLACK}A gyorsbillentyűk alapértékeinek visszaállítása
+STR_2493    :Legfelső ablak bezárása
+STR_2494    :Összes lebegő ablak bezárása
+STR_2495    :Kilépés az építési módból
 STR_2496    :Játék megállítása
+STR_2497    :Kicsinyítés
+STR_2498    :Nagyítás
+STR_2499    :Nézet forgatása órajárás szerint
+STR_2500    :Építési objektum forgatása
+STR_2501    :Földalatti nézet be/ki
+STR_2502    :Talaj elrejtése be/ki
+STR_2503    :Függőleges felületek elrejtése be/ki
+STR_2504    :Átlátszó játékok be/ki
+STR_2505    :Átlátszó díszletek be/ki
+STR_2506    :Láthatatlan támpillérek be/ki
+STR_2507    :Láthatatlan emberek be/ki
+STR_2508    :Magasságjelek a talajon be/ki
+STR_2509    :Magasságjelek a játékok pályáin be/ki
+STR_2510    :Magasságjelek az utakon be/ki
+STR_2513    :Díszlet építése
+STR_2514    :Utak építése
+STR_2515    :Új játék építése
+STR_2516    :Pénzügyi információk
+STR_2517    :Kutatási információk
+STR_2518    :Játékok listája
+STR_2519    :Park információk
+STR_2520    :Vendéglista
+STR_2521    :Alkalmazottak listája
+STR_2522    :Legutóbbi üzenetek megjelenítése
 STR_2523    :Térkép megjelenítése
 STR_2524    :Képmentés
 ### The following need to be reordered to match SDL_keycode layout.
@@ -1518,6 +1597,15 @@ STR_2780    :Extra látkép
 STR_2781    :{STRINGID}:{MOVE_X}{255}{STRINGID}
 STR_2782    :SHIFT + 
 STR_2783    :CTRL + 
+STR_2784    :Gyorsbillentyűk beállítása
+STR_2785    :{WINDOW_COLOUR_2}Add meg az új gyorsbillentyűjét:{NEWLINE}“{STRINGID}”
+STR_2786    :{SMALLFONT}{BLACK}Kattints a parancs leírására új gyorsbillentyű megadásához
+STR_2787    :{WINDOW_COLOUR_2}A park értéke: {BLACK}{CURRENCY}
+STR_2788    :{WINDOW_COLOUR_2}Gratulálunk !{NEWLINE}{BLACK}Sikeresen teljesítetted a kitűzött célt egy {CURRENCY} értékű vállalattal !
+STR_2789    :{WINDOW_COLOUR_2}Nem sikerült teljesíteni a kitűzött célt !
+STR_2790    :Írd be a neved az eredménytáblába
+STR_2791    :Írd be a neved
+STR_2792    :Kérlek írd be a neved az eredménytáblába:
 STR_2795    :Rendezés
 STR_2802    :Térkép
 STR_2805    :{SMALLFONT}{BLACK}A park térképének megjelenítése
@@ -1687,6 +1775,11 @@ STR_5123    :Játékok felújítása
 STR_5125    :Minden lerombolható
 STR_5126    :Véletlenszerű főcímzene
 STR_5130    :Térkép mérete
+STR_5142    :Normál
+STR_5143    :Gyors
+STR_5144    :Extra gyors
+STR_5145    :Turbó
+STR_5146    :Hipersebesség
 STR_5147    :Csalások
 STR_5148    :{SMALLFONT}{BLACK}A játék sebességének megváltoztatása
 STR_5149    :{SMALLFONT}{BLACK}A csalások beállításainak megjelenítése
@@ -1810,10 +1903,10 @@ STR_5374    :Dátum {STRINGID}
 STR_5375    :▲
 STR_5376    :▼
 STR_5440    :Teljes képernyőnél minimalizálás fókuszvesztéskor
-STR_5449    :A játék sebességének csökkentése
-STR_5450    :A játék sebsségének növelése
+STR_5449    :Játék sebességének csökkentése
+STR_5450    :Játék sebsségének növelése
 STR_5451    :A csalások ablak megnyitása
-STR_5452    :Az eszköztárak láthatóságának be- és kikapcsolása
+STR_5452    :Eszköztárak megjelenítése be/ki
 STR_5453    :Másik játék kiválasztása
 STR_5454    :Korlátlan FPS
 STR_5462    :{CURRENCY}
@@ -2008,7 +2101,7 @@ STR_5816    :{SMALLFONT}{BLACK}A játék méretezési tényezőjének beállít�
 STR_5820    :{SMALLFONT}{BLACK}A játék minimalizálása, ha elveszti a fókuszt{NEWLINE}teljes képernyős módban
 STR_5822    :{SMALLFONT}{BLACK}A nap és az éjszaka váltakozásának bekapcsolása.{NEWLINE}A teljes ciklus egy játékbeli hónapig tart
 STR_5823    :{SMALLFONT}{BLACK}Nagybetűs megjelenítés a jelzőtáblákon (RCT1-beli viselkedés)
-STR_5845    :{SMALLFONT}{BLACK}Hozzáadja a hibakereső{NEWLINE}eszközök gombját az eszköztárhoz.{NEWLINE}Engedélyezi a fejlesztői konzol billentyűparancsát
+STR_5845    :{SMALLFONT}{BLACK}Hozzáadja a hibakereső{NEWLINE}eszközök gombját az eszköztárhoz.{NEWLINE}Engedélyezi a fejlesztői konzol gyorsbillentyűjét
 STR_5835    :{SMALLFONT}{BLACK}A játék némítása, ha az ablak elveszti a fókuszt
 STR_5853    :{SMALLFONT}{BLACK}A hanghatások be- és kikapcsolása
 STR_5854    :{SMALLFONT}{BLACK}A játékok zenéjének be- és kikapcsolása
@@ -2169,7 +2262,7 @@ STR_6264    :Mindig a rendszer fájlkezelőjét használja
 STR_6265    :{SMALLFONT}{BLACK}Ha ki van jelölve, az operációs rendszered fájlkezelője lesz használva az OpenRCT2-é helyett.
 STR_6266    :Egyedi tartalmak mappájának megnyitása
 STR_6267    :Mezővizsgáló megnyitása
-STR_6268    :Tovább a következő megszakításra
+STR_6268    :Megállított játék léptetése
 
 #############
 # Scenarios #
