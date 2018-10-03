@@ -249,9 +249,24 @@ STR_0904    :{SMALLFONT}{BLACK}Balkanyar (nagy ívű)
 STR_0905    :{SMALLFONT}{BLACK}Jobbkanyar (nagy ívű)
 STR_0906    :{SMALLFONT}{BLACK}Egyenes
 STR_0907    :Lejtés
-STR_0908    :Dőlés
+STR_0908    :Döntés
 STR_0909    :Ülés forg.
+STR_0910    :{SMALLFONT}{BLACK}Döntés a balkanyarhoz
+STR_0911    :{SMALLFONT}{BLACK}Döntés a jobbkanyarhoz
+STR_0912    :{SMALLFONT}{BLACK}Nincs döntés
+STR_0913    :{SMALLFONT}{BLACK}Vissza az előző szakaszra
+STR_0914    :{SMALLFONT}{BLACK}Tovább a következő szakaszra
+STR_0915    :{SMALLFONT}{BLACK}A kiválasztott szakasz megépítése
+STR_0916    :{SMALLFONT}{BLACK}A kiválasztott szakasz eltávolítása
+STR_0917    :{SMALLFONT}{BLACK}Függőleges esés
+STR_0918    :{SMALLFONT}{BLACK}Meredek lejtő
+STR_0919    :{SMALLFONT}{BLACK}Lejtő
 STR_0920    :{SMALLFONT}{BLACK}Vízszintes
+STR_0921    :{SMALLFONT}{BLACK}Emelkedő
+STR_0922    :{SMALLFONT}{BLACK}Meredek emelkedő
+STR_0923    :{SMALLFONT}{BLACK}Függőleges emelkedés
+STR_0924    :{SMALLFONT}{BLACK}Spirálvonal lefelé
+STR_0925    :{SMALLFONT}{BLACK}Spirálvonal felfelé
 STR_0926    :Nem távolítható el...
 STR_0927    :Nem építhető ide...
 STR_0929    :S kanyar (balra)
@@ -260,6 +275,8 @@ STR_0931    :Függőleges hurok (balra)
 STR_0932    :Függőleges hurok (jobbra)
 STR_0937    :{SMALLFONT}{BLACK}Nézet beállítások
 STR_0939    :Földalatti/belső nézet
+STR_0940    :Talaj elrejtése
+STR_0941    :Függőleges felületek elrejtése
 STR_0942    :Átlátszó játékok
 STR_0943    :Átlátszó díszletek
 STR_0944    :Mentés
@@ -467,6 +484,7 @@ STR_1154    :Magasságjelek a talajon
 STR_1155    :Magasságjelek az utakon
 STR_1156    :{MOVE_X}{10}{STRINGID}
 STR_1157    :✓{MOVE_X}{10}{STRINGID}
+STR_1161    :Nem rakhatod így ide...
 STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
 STR_1165    :{STRINGID} - {STRINGID} {COMMA16}
 STR_1168    :Beállítások
@@ -479,12 +497,19 @@ STR_1175    :Nem építhető lejtős úton
 STR_1176    :Nem építhető ide út...
 STR_1177    :Nem távolítható el az út...
 STR_1180    :Nem építhető víz alá!
+STR_1181    :Utak
 STR_1182    :Típus
 STR_1183    :Irány
-STR_1184    :Lejtő
+STR_1184    :Lejtés
 STR_1185    :{SMALLFONT}{BLACK}Irány
+STR_1186    :{SMALLFONT}{BLACK}Lejtő
+STR_1187    :{SMALLFONT}{BLACK}Vízszintes
+STR_1188    :{SMALLFONT}{BLACK}Emelkedő
 STR_1189    :{SMALLFONT}{BLACK}A kiválasztott útszakasz megépítése
 STR_1190    :{SMALLFONT}{BLACK}Az előző útszakasz eltávolítása
+STR_1191    :{BLACK}{STRINGID}
+STR_1192    :{OUTLINE}{RED}{STRINGID}
+STR_1193    :{WINDOW_COLOUR_2}{STRINGID}
 STR_1194    :Zárva
 STR_1195    :Tesztüzem
 STR_1196    :Nyitva
@@ -532,6 +557,9 @@ STR_1391    :{RED}{CURRENCY2DP}
 STR_1399    :{SMALLFONT}{BLACK}Grafikonok
 STR_1400    :Bejárat
 STR_1401    :Kijárat
+STR_1407    :{WINDOW_COLOUR_2}Építés
+STR_1408    :{WINDOW_COLOUR_2}Ár: {BLACK}{CURRENCY}
+STR_1409    :Be- és kilépő terasz
 STR_1410    :Fűggőleges torony
 STR_1411    :{STRINGID} útban van
 STR_1426    :Várósor
@@ -794,6 +822,13 @@ STR_1719    :Írd be a park nevét:
 STR_1720    :{SMALLFONT}{BLACK}A park átnevezése
 STR_1721    :A park zárva van
 STR_1722    :A park nyitva van
+STR_1723    :Nem nyitható meg a park...
+STR_1724    :Nem zárható be a park...
+STR_1725    :Nem vásárolható meg a terület...
+STR_1726    :A terület nem eladó!
+STR_1727    :Az építési jogok nem eladók!
+STR_1728    :Nem vásárolhatók meg az építési jogok...
+STR_1729    :A terület nem a park tulajdona!
 STR_1730    :{RED}Zárva - - 
 STR_1731    :{WHITE}{STRINGID} - - 
 STR_1732    :Építés
@@ -904,6 +939,11 @@ STR_1926    :{SMALLFONT}
 STR_1927    :{YELLOW}{STRINGID} lerobbant
 STR_1928    :{RED}{STRINGID} ütközött!
 STR_1929    :{RED}{STRINGID} még mindig nincs megjavítva{NEWLINE}Ellenőrizd, hogy merre járnak a szerelőid és gondold át, hogyan lehetnének szervezettebbek
+STR_1949    :Pénzügyi összefoglaló
+STR_1950    :Pénzügyi grafikon
+STR_1951    :Park érték grafikon
+STR_1952    :Nyereség grafikon
+STR_1953    :Marketing
 STR_1954    :Kutatás finanszírozása
 STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1958    :{COMMA16}
@@ -1169,11 +1209,18 @@ STR_2247    :december
 STR_2248    :A játék/épület nem rombolható le...
 STR_2249    :{BABYBLUE}Új játék/épület érhető el:{NEWLINE}{STRINGID}
 STR_2250    :{BABYBLUE}Új díszlet/téma érhető el:{NEWLINE}{STRINGID}
-STR_2251    :Csak utakra építhető!
-STR_2252    :Csak az utakon kereszetbe építhető!
+STR_2251    :Csak útra építhető!
+STR_2252    :Csak úton kereszetbe építhető!
+STR_2253    :Szállító játékok
+STR_2254    :Enyhe játékok
+STR_2255    :Hullámvasutak
+STR_2256    :Izgalmas játékok
+STR_2257    :Vízi játékok
+STR_2258    :Boltok és bódék
+STR_2259    :Díszletek és témák
 STR_2260    :Nincs finanszírozás
 STR_2261    :Minimális finanszírozás
-STR_2262    :Átlagos finanszírozás
+STR_2262    :Normál finanszírozás
 STR_2263    :Maximális finanszírozás
 STR_2264    :Kutatásfinanszírozás
 STR_2265    :{WINDOW_COLOUR_2}Költség: {BLACK}{CURRENCY} havonta
@@ -1186,8 +1233,8 @@ STR_2271    :{WINDOW_COLOUR_2}Várható elkészülés: {BLACK}{STRINGID}
 STR_2272    :{WINDOW_COLOUR_2}Játék/épület:{NEWLINE}{BLACK}{STRINGID}
 STR_2273    :{WINDOW_COLOUR_2}Díszlet/téma:{NEWLINE}{BLACK}{STRINGID}
 STR_2274    :{SMALLFONT}{BLACK}A kutatás vagy fejlesztés részletei
-STR_2275    :{SMALLFONT}{BLACK}A kutatás és fejlesztés finanszírozási lehetőségei
-STR_2276    :{SMALLFONT}{BLACK}A kutatás és fejlesztés állapota
+STR_2275    :{SMALLFONT}{BLACK}A kutatás-fejlesztés finanszírozási lehetőségei
+STR_2276    :{SMALLFONT}{BLACK}A kutatás-fejlesztés állapota
 STR_2277    :Ismeretlen
 STR_2278    :Szállító játék
 STR_2279    :Enyhe játék
@@ -1204,6 +1251,8 @@ STR_2289    :{STRINGID} {STRINGID}
 STR_2291    :Válaszd ki az új játék pályáját
 STR_2292    :{WINDOW_COLOUR_2}Az alábbi játékokon volt:
 STR_2293    :{BLACK} Semmi
+STR_2325    :{SMALLFONT}{BLACK}A park kibővítése új területek vásárlásával
+STR_2326    :{SMALLFONT}{BLACK}Építési jogok vásárlása, hogy a parkon kívüli területek alatt és felett is lehessen építeni
 STR_2327    :Beállítások
 STR_2328    :{WINDOW_COLOUR_2}Pénznem:
 STR_2329    :{WINDOW_COLOUR_2}Távolság és sebesség:
@@ -1250,6 +1299,7 @@ STR_2374    :Magas
 STR_2375    :Nagyon magas
 STR_2376    :Extrém
 STR_2377    :Hihetetlenül extrém
+STR_2382    :Föld
 STR_2383    :Víz
 STR_2384    :{WINDOW_COLOUR_2}A célod:
 STR_2385    :{BLACK}Nincs
@@ -1281,14 +1331,14 @@ STR_2419    :Ingyenes utazás ezen: {STRINGID}
 STR_2420    :Féláras belépés ide: {STRINGID}
 STR_2421    :Ingyen {STRINGID}
 STR_2424    :{WINDOW_COLOUR_2}Ingyenes parkbelépésre jogosító kuponok
-STR_2425    :{WINDOW_COLOUR_2}Egy adott játék ingyenes igénybevételére jogosító kuponok
+STR_2425    :{WINDOW_COLOUR_2}Egy játék ingyenes használatára jogosító kuponok
 STR_2426    :{WINDOW_COLOUR_2}Féláras parkbelépésre jogosító kuponok
-STR_2427    :{WINDOW_COLOUR_2}Ingyenes enni- és innivalóra jogosító kuponok
+STR_2427    :{WINDOW_COLOUR_2}Ingyen ételre vagy italra jogosító kuponok
 STR_2428    :{WINDOW_COLOUR_2}Reklámkampány a park számára
-STR_2429    :{WINDOW_COLOUR_2}Reklámkampány egy adott játék számára
-STR_2430    :{BLACK}Ingyenes belépésre jogosító kuponok - {STRINGID}
-STR_2431    :{BLACK}Ingyenes igénybevételre jogosító kuponok - {STRINGID}
-STR_2432    :{BLACK}Féláras belépésre jogosító kuponok - {STRINGID}
+STR_2429    :{WINDOW_COLOUR_2}Reklámkampány egy játék számára
+STR_2430    :{BLACK}Kuponok ingyenes {STRINGID} belépésre
+STR_2431    :{BLACK}Kuponok ingyenes {STRINGID} használatra
+STR_2432    :{BLACK}Kuponok féláras {STRINGID} belépésre
 STR_2433    :{BLACK}Ingyen {STRINGID} kuponok
 STR_2434    :{BLACK}Reklámkampány {STRINGID} számára
 STR_2435    :{BLACK}Reklámkampány {STRINGID} számára
@@ -1602,7 +1652,7 @@ STR_2785    :{WINDOW_COLOUR_2}Add meg az új gyorsbillentyűjét:{NEWLINE}“{ST
 STR_2786    :{SMALLFONT}{BLACK}Kattints a parancs leírására új gyorsbillentyű megadásához
 STR_2787    :{WINDOW_COLOUR_2}A park értéke: {BLACK}{CURRENCY}
 STR_2788    :{WINDOW_COLOUR_2}Gratulálunk !{NEWLINE}{BLACK}Sikeresen teljesítetted a kitűzött célt egy {CURRENCY} értékű vállalattal !
-STR_2789    :{WINDOW_COLOUR_2}Nem sikerült teljesíteni a kitűzött célt !
+STR_2789    :{WINDOW_COLOUR_2}Nem sikerült teljesítened a kitűzött célt !
 STR_2790    :Írd be a neved az eredménytáblába
 STR_2791    :Írd be a neved
 STR_2792    :Kérlek írd be a neved az eredménytáblába:
@@ -1775,6 +1825,10 @@ STR_5123    :Játékok felújítása
 STR_5125    :Minden lerombolható
 STR_5126    :Véletlenszerű főcímzene
 STR_5130    :Térkép mérete
+STR_5133    :{SMALLFONT}{BLACK}Vásárlás kisebb területen
+STR_5134    :{SMALLFONT}{BLACK}Vásárlás nagyobb területen
+STR_5135    :{SMALLFONT}{BLACK}Földterületek és építési jogok vásárlása
+STR_5136    :Földjogok
 STR_5142    :Normál
 STR_5143    :Gyors
 STR_5144    :Extra gyors
@@ -1896,7 +1950,7 @@ STR_5361    :Minden vendég kapjon:
 STR_5363    :Több mint 1
 STR_5364    :Kevesebb mint 15
 STR_5365    :{BLACK}Személyzet gyors.:
-STR_5366    :Átlagos
+STR_5366    :Normál
 STR_5367    :Gyors
 STR_5373    :Név {STRINGID}
 STR_5374    :Dátum {STRINGID}
@@ -1909,6 +1963,8 @@ STR_5451    :A csalások ablak megnyitása
 STR_5452    :Eszköztárak megjelenítése be/ki
 STR_5453    :Másik játék kiválasztása
 STR_5454    :Korlátlan FPS
+STR_5455    :Homokozó mód be
+STR_5456    :Távolság-ellenőrzés ki
 STR_5462    :{CURRENCY}
 STR_5465    :Éghajlat
 STR_5466    :Személyzet
@@ -2146,6 +2202,10 @@ STR_5959    :Délkelet
 STR_5985    :Új mappa
 STR_5986    :Írd be az új mapa nevét.
 STR_5987    :A mappát nem lehet létrehozni
+STR_5988    :{SMALLFONT}{BLACK}Nincs több eladó földterület
+STR_5989    :{SMALLFONT}{BLACK}Nincs több eladó építési jog
+STR_5990    :{SMALLFONT}{BLACK}Nincs több eladó földterület vagy építési jog
+STR_5991    :Nem illeszthető be az elem...
 STR_6001    :Fényhatások bekapcsolása (kísérleti)
 STR_6002    :{SMALLFONT}{BLACK}A lámpák és a játékok éjjelente világítani fognak.{NEWLINE}A grafikus motort hardveres gyorsítára kell állítani hozzá.
 STR_6010    :{COMMA2DP32}m
@@ -2190,7 +2250,9 @@ STR_6159    :Sima legközelebbi szomszéd
 STR_6162    :Forgó vad egér
 STR_6164    :{WHITE}❌
 STR_6165    :Vertikális szinkron használata
+STR_6166    :{SMALLFONT}{BLACK}A megjelenített képkockákat a kijelző frissítési gyakoriságához igazítja, így megakadályozza a kép szétcsúszását.
 STR_6167    :{SMALLFONT}{BLACK}Haladó
+STR_6169    :Pályaválasztás
 STR_6171    :Keresés
 STR_6172    :{SMALLFONT}{BLACK}Keresés
 STR_6173    :Kérlek add meg a keresendő nevet:
