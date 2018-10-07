@@ -139,11 +139,11 @@ STR_0556    :Extra széles kocsik zuhannak le a teljesen függőleges pályán, 
 STR_0557    :Egy ATM (bankautomata) a pénz nélkül maradt vendégek számára
 STR_0578    :A kocsik egy abroncsokkal körbefogott, meredek esésekkel és palástorsókkal teli pálya mentén haladnak
 STR_0579    :Egy enyhe minigolf-játék
-STR_0767    :{INT32}. vendég
-STR_0768    :{INT32}. mindenes
-STR_0769    :{INT32}. szerelő
-STR_0770    :{INT32}. biztonsági őr
-STR_0771    :{INT32}. szórakoztató
+STR_0767    :Vendég {INT32}
+STR_0768    :Mindenes {INT32}
+STR_0769    :Gépész {INT32}
+STR_0770    :Biztonsági őr {INT32}
+STR_0771    :Szórakoztató {INT32}
 STR_0777    :Névtelen park{POP16}{POP16}
 STR_0778    :Jelzőtábla
 STR_0779    :1.
@@ -259,8 +259,8 @@ STR_0911    :{SMALLFONT}{BLACK}Döntés a jobbkanyarhoz
 STR_0912    :{SMALLFONT}{BLACK}Nincs döntés
 STR_0913    :{SMALLFONT}{BLACK}Vissza az előző szakaszra
 STR_0914    :{SMALLFONT}{BLACK}Tovább a következő szakaszra
-STR_0915    :{SMALLFONT}{BLACK}A kiválasztott szakasz megépítése
-STR_0916    :{SMALLFONT}{BLACK}A kiválasztott szakasz eltávolítása
+STR_0915    :{SMALLFONT}{BLACK}A kiválasztott szakasz építése
+STR_0916    :{SMALLFONT}{BLACK}A kiválasztott szakasz törlése
 STR_0917    :{SMALLFONT}{BLACK}Függőleges esés
 STR_0918    :{SMALLFONT}{BLACK}Meredek lejtő
 STR_0919    :{SMALLFONT}{BLACK}Lejtő
@@ -508,8 +508,8 @@ STR_1185    :{SMALLFONT}{BLACK}Irány
 STR_1186    :{SMALLFONT}{BLACK}Lejtő
 STR_1187    :{SMALLFONT}{BLACK}Vízszintes
 STR_1188    :{SMALLFONT}{BLACK}Emelkedő
-STR_1189    :{SMALLFONT}{BLACK}A kiválasztott útszakasz megépítése
-STR_1190    :{SMALLFONT}{BLACK}Az előző útszakasz eltávolítása
+STR_1189    :{SMALLFONT}{BLACK}A kiválasztott útszakasz építése
+STR_1190    :{SMALLFONT}{BLACK}Az előző útszakasz törlése
 STR_1191    :{BLACK}{STRINGID}
 STR_1192    :{OUTLINE}{RED}{STRINGID}
 STR_1193    :{WINDOW_COLOUR_2}{STRINGID}
@@ -649,8 +649,19 @@ STR_1340    :{WINDOW_COLOUR_2}Max. sebesség: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Játékon töltött idő: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
 STR_1343    :{DURATION} / 
+STR_1344    :{WINDOW_COLOUR_2}Pályahossz: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
 STR_1346    :{LENGTH} / 
+STR_1347    :{WINDOW_COLOUR_2}Átlagos sebesség: {BLACK}{VELOCITY}
+STR_1348    :{WINDOW_COLOUR_2}Max. pozitív függőleges gyorsulás: {BLACK}{COMMA2DP32}g
+STR_1349    :{WINDOW_COLOUR_2}Max. pozitív függőleges gyorsulás: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1350    :{WINDOW_COLOUR_2}Max. negatív függőleges gyorsulás: {BLACK}{COMMA2DP32}g
+STR_1351    :{WINDOW_COLOUR_2}Max. negatív függőleges gyorsulás: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1352    :{WINDOW_COLOUR_2}Max. oldalirányú gyorsulás: {BLACK}{COMMA2DP32}g
+STR_1353    :{WINDOW_COLOUR_2}Max. oldalirányú gyorsulás: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1354    :{WINDOW_COLOUR_2}Legmagasabb esés: {BLACK}{LENGTH}
+STR_1355    :{WINDOW_COLOUR_2}Esések: {BLACK}{COMMA16}
+STR_1358    :{WINDOW_COLOUR_2}Összes levegőben töltött idő: {BLACK}{COMMA2DP32} mp
 STR_1359    :{WINDOW_COLOUR_2}Sorbanállási idő: {BLACK}{COMMA16} perc
 STR_1360    :{WINDOW_COLOUR_2}Sorbanállási idő: {BLACK}{COMMA16} perc
 STR_1377    :Palástorsó (balra)
@@ -676,8 +687,18 @@ STR_1408    :{WINDOW_COLOUR_2}Ár: {BLACK}{CURRENCY}
 STR_1409    :Be- és kilépő terasz
 STR_1410    :Fűggőleges torony
 STR_1411    :{STRINGID} útban van
+STR_1412    :{WINDOW_COLOUR_3}A játéktípus számára nem elérhető az adatnaplózás
+STR_1414    :{SMALLFONT}{BLACK}{DURATION}
+STR_1415    :{WINDOW_COLOUR_2}Sebesség
+STR_1416    :{WINDOW_COLOUR_2}Magasság
+STR_1417    :{WINDOW_COLOUR_2}Függ. gyors.
+STR_1418    :{WINDOW_COLOUR_2}Old.ir. gyors.
+STR_1419    :{SMALLFONT}{BLACK}{VELOCITY}
+STR_1420    :{SMALLFONT}{BLACK}{LENGTH}
+STR_1421    :{SMALLFONT}{BLACK}{COMMA16}g
+STR_1422    :{SMALLFONT}{BLACK}Adatnaplózás: {POP16}{STRINGID}
 STR_1426    :Várósor
-STR_1427    :{WINDOW_COLOUR_2}Látogatók: {BLACK}Óránként {COMMA32} 
+STR_1427    :{WINDOW_COLOUR_2}Óránkénti vendégek: {BLACK}{COMMA32} 
 STR_1428    :{WINDOW_COLOUR_2}Belépési díj:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :Ingyenes
@@ -914,13 +935,13 @@ STR_1678    :{WINDOW_COLOUR_2}Népszerűség: {BLACK}{COMMA16}%
 STR_1693    :{SMALLFONT}{BLACK}Vendégek
 STR_1694    :{SMALLFONT}{BLACK}Személyzet
 STR_1695    :{SMALLFONT}{BLACK}Bevételek és kiadások
-STR_1696    :{SMALLFONT}{BLACK}Információk a vendégekről
+STR_1696    :{SMALLFONT}{BLACK}Vendég információk
 STR_1699    :Túl sok ember van a játékban
 STR_1700    :Új mindenes felvétele
-STR_1701    :Új szerelő felvétele
+STR_1701    :Új gépész felvétele
 STR_1702    :Új biztonsági őr felvétele
 STR_1703    :Új szórakoztató felvétele
-STR_1704    :Nem vehető fel új alkamazott...
+STR_1704    :Nem vehetsz fel új alkamazottat...
 STR_1705    :{SMALLFONT}{BLACK}Az alkalmazott kirúgása
 STR_1706    :{SMALLFONT}{BLACK}Személy áthelyezése új helyre
 STR_1707    :Túl sok alkalmazott van a játékban
@@ -1047,11 +1068,11 @@ STR_1856    :{WINDOW_COLOUR_2}Eladási haszon: {BLACK}{CURRENCY2DP}
 STR_1857    :{WINDOW_COLOUR_2}Eladási veszteség: {BLACK}{CURRENCY2DP}
 STR_1858    :{WINDOW_COLOUR_2}Bér: {BLACK}{CURRENCY2DP} havonta
 STR_1859    :mindenes
-STR_1860    :szerelő
+STR_1860    :gépész
 STR_1861    :biztonsági őr
 STR_1862    :szórakoztató
 STR_1863    :mindenes
-STR_1864    :szerelő
+STR_1864    :gépész
 STR_1865    :biztonsági őr
 STR_1866    :szórakoztató
 STR_1867    :{BLACK}{COMMA16} {STRINGID}
@@ -1085,7 +1106,7 @@ STR_1924    :{SMALLFONT}{BLACK}Kilépés
 STR_1926    :{SMALLFONT}
 STR_1927    :{YELLOW}{STRINGID} meghibásodott
 STR_1928    :{RED}{STRINGID} ütközött!
-STR_1929    :{RED}{STRINGID} még mindig nincs megjavítva{NEWLINE}Ellenőrizd, hogy merre járnak a szerelőid és gondold át, hogyan lehetnének szervezettebbek
+STR_1929    :{RED}{STRINGID} még mindig nincs megjavítva{NEWLINE}Ellenőrizd, hogy merre járnak a gépészeid és gondold át, hogyan lehetnének szervezettebbek
 STR_1949    :Pénzügyi összefoglaló
 STR_1950    :Pénzügyi grafikon
 STR_1951    :Park érték grafikon
@@ -1329,8 +1350,8 @@ STR_2207    :Üres gyümölcsleves pohár
 STR_2208    :Sült kolbász
 STR_2209    :Üres tál
 STR_2210    :{SMALLFONT}{BLACK}A park mindeneseinek listája
-STR_2211    :{SMALLFONT}{BLACK}A park szerelőinek listája
-STR_2212    :{SMALLFONT}{BLACK}A park biztonsági őreinek listája
+STR_2211    :{SMALLFONT}{BLACK}A park gépészeinek listája
+STR_2212    :{SMALLFONT}{BLACK}A park biztonsági őreinek lilistája
 STR_2213    :{SMALLFONT}{BLACK}A park szórakoztatóinak listája
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOUR_2}{COMMA16}°C
@@ -1807,7 +1828,7 @@ STR_2775    :Telj. kép. (keret nélküli abl.)
 STR_2776    :Nyelv:
 STR_2777    :{MOVE_X}{10}{STRING}
 STR_2778    :»{MOVE_X}{10}{STRING}
-STR_2779    :{COMMA16}. látkép
+STR_2779    :Látkép {COMMA16}
 STR_2780    :Extra látkép
 # End of new strings
 STR_2781    :{STRINGID}:{MOVE_X}{255}{STRINGID}
@@ -1822,6 +1843,8 @@ STR_2789    :{WINDOW_COLOUR_2}Nem sikerült teljesítened a kitűzött célt !
 STR_2790    :Írd be a neved az eredménytáblába
 STR_2791    :Írd be a neved
 STR_2792    :Kérlek írd be a neved az eredménytáblába:
+STR_2793    :{SMALLFONT}(Teljesítette: {STRINGID})
+STR_2794    :{BLACK}{STRINGID} {WINDOW_COLOUR_2}teljesítette{NEWLINE}{WINDOW_COLOUR_2}egy {BLACK}{CURRENCY} {WINDOW_COLOUR_2}értékű vállalattal
 STR_2795    :Rendezés
 STR_2796    :{SMALLFONT}{BLACK}A játékok listájának rendezése a megjelenített információtípus szerint
 STR_2797    :Görgetés, ha a mutató a képernyő szélén van
@@ -1933,6 +1956,14 @@ STR_3109    :Megnyitás
 STR_3110    :{WINDOW_COLOUR_2}Térközszakaszok: {BLACK}{COMMA16}
 STR_3111    :{SMALLFONT}{BLACK}Az építéshez kattints a tervre
 STR_3112    :{SMALLFONT}{BLACK}Az átnevezéshez vagy a törléshez kattints a tervre
+STR_3114    :{SMALLFONT}{BLACK}Vissza a tervek választásához
+STR_3115    :{SMALLFONT}{BLACK}A játékterv mentése
+STR_3116    :{SMALLFONT}{BLACK}A játékterv mentése (Nem lehet, amíg a játék nem lett letesztelve és nincsenek statisztikák generálva)
+STR_3117    :{BLACK}Gépész hívása...
+STR_3118    :{BLACK}{STRINGID} a játék felé tart
+STR_3119    :{BLACK}{STRINGID} javítja a játékot
+STR_3120    :{SMALLFONT}{BLACK}A legközelebbi elérhető vagy a játékot javító gépész megkeresése
+STR_3121    :Nem található gépész, vagy az összes közeli gépész elfoglalt
 STR_3122    :{WINDOW_COLOUR_2}Kedvenc játéka: {BLACK}{COMMA16} vendégnek
 STR_3123    :{WINDOW_COLOUR_2}Kedvenc játéka: {BLACK}{COMMA16} vendégnek
 STR_3130    :Mentés
@@ -2379,16 +2410,16 @@ STR_5761    :Tajvani új dollár (NT$)
 STR_5762    :Kínai jüan (CN¥)
 STR_5763    :Minden fájl
 STR_5764    :Érvénytelen játéktípus
-STR_5765    :Az érvénytelen típusú játékok nem szerkeszthetőek
+STR_5765    :Az érvénytelen típusú játékok nem szerkeszthetők
 STR_5767    :Bevétel
 STR_5768    :Összes vendég
 STR_5769    :Teljes nyereség
-STR_5770    :Vendégek óránként
+STR_5770    :Óránkénti vendégek
 STR_5771    :Működtetési költség
 STR_5772    :Kor
 STR_5773    :Összes vendég: {COMMA32}
 STR_5774    :Teljes nyereség: {CURRENCY2DP}
-STR_5775    :Vendégek: Óránként {COMMA32}
+STR_5775    :Óránkénti vendégek: {COMMA32}
 STR_5776    :Építés ideje: Idén
 STR_5777    :Építés ideje: Tavaly
 STR_5778    :Építés ideje: {COMMA16} éve
@@ -2488,7 +2519,7 @@ STR_6011    :{COMMA1DP16}ft
 STR_6031    :Szerver leírása:
 STR_6032    :Szerver üdvözlés:
 STR_6033    :Az RCT1 telepítési útvonala:
-STR_6041    :{BLACK}Nem vettél fel szerelőket!
+STR_6041    :{BLACK}Nem vettél fel gépészt!
 STR_6055    :OpenRCT2 magasságtérkép fájl
 STR_6056    :{SMALLFONT}{BLACK}Némítás
 STR_6058    :Némítás
@@ -2788,8 +2819,8 @@ STR_PARK    :Hidro-hegyek
 STR_DTLS    :Egy lépcsőzetes tórendszer adja ennek az új parknak az alapját
 
 <Sprightly Park>
-STR_SCNR    :Nyüzsgő Park
-STR_PARK    :Nyüzsgő Park
+STR_SCNR    :Pezsgő Park
+STR_PARK    :Pezsgő Park
 STR_DTLS    :Ez az idős park számos történelmi játékkal rendelkezik, de súlyosan el van adósodva
 
 <Magic Quarters>
