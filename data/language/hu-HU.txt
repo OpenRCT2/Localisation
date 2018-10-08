@@ -7,7 +7,7 @@ STR_0002    :Spirális hullámvasút
 STR_0003    :Álló hullámvasút
 STR_0004    :Felfüggesztett lengő hullámvasút
 STR_0005    :Fordított hullámvasút
-STR_0006    :Gyerek hullámvasút 
+STR_0006    :Kezdő hullámvasút 
 STR_0008    :Egysínű vasút
 STR_0007    :Kisvasút
 STR_0009    :Mini felfüggesztett hullámvasút
@@ -71,8 +71,8 @@ STR_0066    :Ismeretlen játék (40)
 STR_0067    :Irányváltó hullámvasút
 STR_0068    :Palástorsózó hullámvasút
 STR_0069    :Minigolf
-STR_0070    :Giga-hullámvasút
-STR_0071    :Forgóesés
+STR_0070    :Gigahullámvasút
+STR_0071    :Forgó zuhanás
 STR_0072    :Repülő csészealjak
 STR_0073    :Ferde ház
 STR_0074    :Egysínű biciklik
@@ -118,25 +118,29 @@ STR_0532    :Az útvesztő közel 2 méteres sövényekből vagy falakból áll 
 STR_0533    :Egy  belső lépcsős faépület kívül spirál csúszdával, amelyről csúszómatracokal lehet lecsúszni
 STR_0534    :Önvezető benzinmotoros gokartok
 STR_0535    :Farönkhöz hasonlító csónakok utaznak a vízcsatorna mentén, amelyek nagyokat csobbannak a meredek lejtőknél, eláztatva az utasokat
-STR_0536    :Kerek csónakok kanyarognak egy széles vízcsatorna mentén, vízeséseken átcsobbanva és habzó zuhatagokon keresztül izgalomba hozva az utasokat.
+STR_0536    :Kerek csónakok kanyarognak egy széles vízcsatorna mentén, miközben csobogó vízesések és habzó zuhatagok biztosítják az izgalmat az utasok számára
 STR_0537    :Önvezető elektromos dodzsemautók
 STR_0538    :Nagy lengő kalózhajó
 STR_0539    :A hajó egy karhoz van rögzítve, amelynek másik végén ellensúly van és teljes 360 fokban körbefordul
-STR_0540    :Egy bódé, ahol a vendégek ennivalót vehetnek
-STR_0542    :Egy bódé, ahol a vendégek innivalót vehetnek
-STR_0544    :Egy szuvenírokat árusító bódé
+STR_0540    :Egy bódé, ahol a vendégek ételt vehetnek
+STR_0542    :Egy bódé, ahol a vendégek italt vehetnek
+STR_0544    :Egy szuveníreket árusító bódé
 STR_0545    :Egy hagyományos forgó körhinta, faragott falovakkal
 STR_0547    :Egy bódé, ahol parktérképeket és esernyőket vehetnek a vendégek
 STR_0548    :Egy illemhely
 STR_0549    :Nagy forgó kerék, nyitott székekkel
-STR_0550    :Az utasok filmet néznek a mozgászimulátor kabinjában, miközben azt egy hidraulikus kar csavarja és mozgatja
-STR_0551    :Mozi, amely 3D-s filmeket vetít egy geodéziai gömb alakú épületben
+STR_0550    :Az utasok filmet néznek a mozgászimulátor kabinjában, miközben azt egy hidraulikus kar forgatja és rázza
+STR_0551    :3D-s filmeket vetítő mozi egy geodéziai gömb alakú épületben
 STR_0552    :A nagy forgó karokkal felfüggesztett kabinban az utasok előre-hátra forognak és bukfenceznek 
 STR_0553    :Koncentrikus forgó gyűrűk, amelyekben az utasok szabadon forghatnak minden irányba
 STR_0554    :A kocsi aszinkronmotoros gyorsítással hagyja el az állomást egy hosszú vízszintes pálya mentén, hogy felmenjen egy teljesen függőleges emelkedőn, ahonnan szabadeséssel zuhan le, hogy visszatérjen az állomásra
 STR_0555    :Az utasok egy függőleges torony lifjtében utazhatnak a szintek között
 STR_0556    :Extra széles kocsik zuhannak le a teljesen függőleges pályán, a tökéletes szabadesés hullámvasút élmény kedvéért
 STR_0557    :Egy ATM (bankautomata) a pénz nélkül maradt vendégek számára
+STR_0558    :Az utasok a három hosszú forgó kar végei körül forgó székpárokban utaznak
+STR_0559    :Nagy tematizált épület, tele ijesztő folyosókkal és kísérteties szobákkal
+STR_0560    :Egy hely, ahol a rosszul lett vendégek gyorsabban összeszedhetik magukat
+STR_0561    :Cirkuszi állatprodukció egy nagy sátorban
 STR_0578    :A kocsik egy abroncsokkal körbefogott, meredek esésekkel és palástorsókkal teli pálya mentén haladnak
 STR_0579    :Egy enyhe minigolf-játék
 STR_0767    :Vendég {INT32}
@@ -277,6 +281,7 @@ STR_0930    :S kanyar (jobbra)
 STR_0931    :Függőleges hurok (balra)
 STR_0932    :Függőleges hurok (jobbra)
 STR_0937    :{SMALLFONT}{BLACK}Nézet beállítások
+STR_0938    :{SMALLFONT}{BLACK}A föld magasságának és lejtésének módosítása
 STR_0939    :Földalatti/belső nézet
 STR_0940    :Talaj elrejtése
 STR_0941    :Függőleges felületek elrejtése
@@ -339,7 +344,7 @@ STR_0995    :{WINDOW_COLOUR_1}Biztosan le akarod bontani ezt: {STRINGID}?
 STR_0996    :Teljes nézet
 STR_0997    :{SMALLFONT}{BLACK}A látkép kiválasztása
 STR_0998    :A játék nem tartalmazhat több állomást
-STR_0999    :Állomáselemre van szüksége
+STR_0999    :Állomásra van szüksége
 STR_1000    :A pálya nem teljes körpálya 
 STR_1001    :A vonattípus számára nem megfelelő pálya
 STR_1002    :{POP16}{POP16}{POP16}{STRINGID} nem nyitható meg...
@@ -688,6 +693,7 @@ STR_1409    :Be- és kilépő terasz
 STR_1410    :Fűggőleges torony
 STR_1411    :{STRINGID} útban van
 STR_1412    :{WINDOW_COLOUR_3}A játéktípus számára nem elérhető az adatnaplózás
+STR_1413    :{WINDOW_COLOUR_3}Az adatnaplózás akkor indul, amikor a következő {STRINGID} elhagyja ezt: {STRINGID}
 STR_1414    :{SMALLFONT}{BLACK}{DURATION}
 STR_1415    :{WINDOW_COLOUR_2}Sebesség
 STR_1416    :{WINDOW_COLOUR_2}Magasság
@@ -726,6 +732,8 @@ STR_1452    :Vendég neve
 STR_1453    :Írd be a vendég nevét:
 STR_1454    :Nem nevezető át a vendég...
 STR_1455    :Érvénytelen vendégnév
+STR_1456    :{WINDOW_COLOUR_2}Elköltött pénz: {BLACK}{CURRENCY2DP}
+STR_1457    :{WINDOW_COLOUR_2}Pénz a zsebében: {BLACK}{CURRENCY2DP}
 STR_1458    :{WINDOW_COLOUR_2}Parkban töltött idő: {BLACK}{REALTIME}
 STR_1463    :Vendégek
 STR_1468    :Személyzet
@@ -783,7 +791,7 @@ STR_1519    :{SMALLFONT}“{STRINGID} plüssállata igazán megéri az árát”
 STR_1520    :{SMALLFONT}“{STRINGID} parktérképe igazán megéri az árát”
 STR_1521    :{SMALLFONT}“{STRINGID} élményfotója igazán megéri az árát”
 STR_1522    :{SMALLFONT}“{STRINGID} esernyője igazán megéri az árát”
-STR_1523    :{SMALLFONT}“{STRINGID} innivalója igazán megéri az árát”
+STR_1523    :{SMALLFONT}“{STRINGID} üdítője igazán megéri az árát”
 STR_1524    :{SMALLFONT}“{STRINGID} hamburgere igazán megéri az árát”
 STR_1525    :{SMALLFONT}“{STRINGID} sült krumplija igazán megéri az árát”
 STR_1526    :{SMALLFONT}“{STRINGID} jégkréme igazán megéri az árát”
@@ -817,7 +825,7 @@ STR_1553    :{SMALLFONT}“{STRINGID} plüssállata túl sokba kerül számomra�
 STR_1554    :{SMALLFONT}“{STRINGID} parktérképe túl sokba kerül számomra”
 STR_1555    :{SMALLFONT}“{STRINGID} élményfotója túl sokba kerül számomra”
 STR_1556    :{SMALLFONT}“{STRINGID} esernyője túl sokba kerül számomra”
-STR_1557    :{SMALLFONT}“{STRINGID} innivalója túl sokba kerül számomra”
+STR_1557    :{SMALLFONT}“{STRINGID} üdítője túl sokba kerül számomra”
 STR_1558    :{SMALLFONT}“{STRINGID} hamburgere túl sokba kerül számomra”
 STR_1559    :{SMALLFONT}“{STRINGID} sült krumplija túl sokba kerül számomra”
 STR_1560    :{SMALLFONT}“{STRINGID} jégkréme túl sokba kerül számomra”
@@ -1095,6 +1103,9 @@ STR_1886    :Ezt ellenőrzi: {STRINGID}
 STR_1887    :{WINDOW_COLOUR_2}Legutóbbi ellenőrzés óta eltelt idő: {BLACK}{COMMA16} perc
 STR_1888    :{WINDOW_COLOUR_2}Legutóbbi ellenőrzés óta eltelt idő: {BLACK}több, mint 4 óra
 STR_1889    :{WINDOW_COLOUR_2}Üzemszünet: {MOVE_X}{255}{BLACK}{COMMA16}%
+STR_1890    :{SMALLFONT}{BLACK}Válaszd ki, hogy milyen gyakran ellenőrizze gépész a játékot
+STR_1891    :Még nincs {STRINGID} a parkban!
+STR_1894    :{WINDOW_COLOUR_2}{STRINGID} eladva: {BLACK}{COMMA32}
 STR_1912    :{MONTH}
 STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
@@ -1106,10 +1117,28 @@ STR_1924    :{SMALLFONT}{BLACK}Kilépés
 STR_1926    :{SMALLFONT}
 STR_1927    :{YELLOW}{STRINGID} meghibásodott
 STR_1928    :{RED}{STRINGID} ütközött!
-STR_1929    :{RED}{STRINGID} még mindig nincs megjavítva{NEWLINE}Ellenőrizd, hogy merre járnak a gépészeid és gondold át, hogyan lehetnének szervezettebbek
+STR_1929    :{RED}{STRINGID} még mindig nincs megjavítva{NEWLINE}Nézd meg hol vannak a gépészeid és próbáld meg jobban szervezni őket
+STR_1930    :{SMALLFONT}{BLACK}A vendég követési információinak be- és kikapcsolása - (Ha a követés be van kapcsolva, a vendég mozgásáról értesítések fognak megjelenni az üzenetek között)
+STR_1931    :{STRINGID} beállt a sorba {STRINGID} előtt
+STR_1932    :{STRINGID} ezen van: {STRINGID}
+STR_1933    :{STRINGID} ebben van: {STRINGID}
+STR_1934    :{STRINGID} elhagyta ezt: {STRINGID}
+STR_1935    :{STRINGID} elhagyta a parkot
+STR_1936    :{STRINGID} ezt vásárolta: {STRINGID}
+STR_1937    :{SMALLFONT}{BLACK}Információk az üzenet tárgyáról
+STR_1938    :{SMALLFONT}{BLACK}A vendég látképe
+STR_1939    :{SMALLFONT}{BLACK}Az alkalmazott látképe
+STR_1940    :{SMALLFONT}{BLACK}A vendég boldogsága, energiája, éhsége stb.
+STR_1941    :{SMALLFONT}{BLACK}A vendég által használt játékok
+STR_1942    :{SMALLFONT}{BLACK}A vendég pénzügyi információi
+STR_1943    :{SMALLFONT}{BLACK}A vendég legutóbbi gondolatai
+STR_1944    :{SMALLFONT}{BLACK}A vendégnél lévő dolgok
+STR_1946    :{SMALLFONT}{BLACK}A szórakoztató jelmezének kiválasztása
+STR_1947    :{SMALLFONT}{BLACK}A választott típusú alkalmazottak járőrözési területe és a legközelebbi alkalmazott megkeresése
+STR_1948    :{SMALLFONT}{BLACK}Új alkalmazott felvétele a kiválasztott munkakörbe
 STR_1949    :Pénzügyi összefoglaló
 STR_1950    :Pénzügyi grafikon
-STR_1951    :Park érték grafikon
+STR_1951    :Parkérték grafikon
 STR_1952    :Nyereség grafikon
 STR_1953    :Marketing
 STR_1954    :Kutatás finanszírozása
@@ -1121,7 +1150,7 @@ STR_1961    :{WINDOW_COLOUR_2}Plüssjáték ára:
 STR_1962    :{WINDOW_COLOUR_2}Parktérkép ára:
 STR_1963    :{WINDOW_COLOUR_2}Élményfotó ára:
 STR_1964    :{WINDOW_COLOUR_2}Esernyő ára:
-STR_1965    :{WINDOW_COLOUR_2}Innivaló ára:
+STR_1965    :{WINDOW_COLOUR_2}Üdítőital ára:
 STR_1966    :{WINDOW_COLOUR_2}Hamburger ára:
 STR_1967    :{WINDOW_COLOUR_2}Sült krumpli ára:
 STR_1968    :{WINDOW_COLOUR_2}Jégkrém ára:
@@ -1149,7 +1178,7 @@ STR_1989    :Plüssjáték
 STR_1990    :Parktérkép
 STR_1991    :Élményfotó
 STR_1992    :Esernyő
-STR_1993    :Innivaló
+STR_1993    :Üdítőital
 STR_1994    :Hamburger
 STR_1995    :Sült krumpli
 STR_1996    :Jégkrém
@@ -1164,6 +1193,7 @@ STR_2005    :Csáp
 STR_2006    :Sapka
 STR_2007    :Karamellás alma
 STR_2008    :Póló
+STR_2009    :Fánk
 STR_2010    :Kávé
 STR_2011    :Üres pohár
 STR_2012    :Sült csirke
@@ -1175,7 +1205,7 @@ STR_2017    :Plüssjáték
 STR_2018    :Parktérkép
 STR_2019    :Élményfotó
 STR_2020    :Esernyő
-STR_2021    :Innivaló
+STR_2021    :Üdítőital
 STR_2022    :Hamburger
 STR_2023    :Sült krumpli
 STR_2024    :Jégkrém
@@ -1203,7 +1233,7 @@ STR_2045    :egy plüssjáték
 STR_2046    :egy parktérkép
 STR_2047    :egy élményfotó
 STR_2048    :egy esernyő
-STR_2049    :innivaló
+STR_2049    :üdítőital
 STR_2050    :egy hamburger
 STR_2051    :sült krumpli
 STR_2052    :egy jégkrém
@@ -1231,7 +1261,7 @@ STR_2073    :“{STRINGID}” plüssjáték
 STR_2074    :{STRINGID} térképe
 STR_2075    :{STRINGID} élményfotója
 STR_2076    :“{STRINGID}” esernyő
-STR_2077    :Innivaló
+STR_2077    :Üdítőital
 STR_2078    :Hamburger
 STR_2079    :Sült krumpli
 STR_2080    :Jégkrém
@@ -1421,6 +1451,17 @@ STR_2289    :{POP16}{STRINGID} {PUSH16}{PUSH16}{STRINGID}
 STR_2291    :Válaszd ki az új játék pályáját
 STR_2292    :{WINDOW_COLOUR_2}Az alábbi játékokon volt:
 STR_2293    :{BLACK} Semmi
+STR_2294    :{SMALLFONT}{BLACK}A talajtípus megváltoztatása
+STR_2295    :{SMALLFONT}{BLACK}A föld függőleges széleinek megváltoztatása
+STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kiadás {BLACK}park belépőre
+STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kiadás {BLACK}{COMMA16} játékra
+STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kiadás {BLACK}{COMMA16} játékra
+STR_2299    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kiadás {BLACK}{COMMA16} ételre
+STR_2300    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kiadás {BLACK}{COMMA16} ételre
+STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kiadás {BLACK}{COMMA16} italra
+STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kiadás {BLACK}{COMMA16} italra
+STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kiadás {BLACK}{COMMA16} szuvenírre
+STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kiadás {BLACK}{COMMA16} szuvenírre
 STR_2305    :Játéktervfájlok
 STR_2306    :Játékterv mentése
 STR_2307    :{STRINGID} terv kiválasztása
@@ -1538,9 +1579,9 @@ STR_2459    :{SMALLFONT}{BLACK}Grafikon a park értékének alakulásáról
 STR_2460    :{SMALLFONT}{BLACK}Grafikon a heti nyereség alakulásáról
 STR_2461    :{SMALLFONT}{BLACK}Marketingkampányok
 STR_2462    :{SMALLFONT}{BLACK}A park bejáratának látképe
-STR_2463    :{SMALLFONT}{BLACK}A park értékelésének időbeli változása
-STR_2464    :{SMALLFONT}{BLACK}A vendégek számának időbeli változása
-STR_2465    :{SMALLFONT}{BLACK}A park belépési díja és információja
+STR_2463    :{SMALLFONT}{BLACK}Grafikon a park értékelésének alakulásáról
+STR_2464    :{SMALLFONT}{BLACK}Grafikon a vendégek számának alakulásáról
+STR_2465    :{SMALLFONT}{BLACK}A park belépési díja és bevétele
 STR_2466    :{SMALLFONT}{BLACK}A park statisztikái
 STR_2467    :{SMALLFONT}{BLACK}A jelenlegi játék céljai
 STR_2468    :{SMALLFONT}{BLACK}A park által mostanában elnyert díjak
@@ -1810,6 +1851,8 @@ STR_2746    :]
 STR_2747    :”
 STR_2749    :Az új pályám
 # New strings used in the cheats window previously these were ???
+STR_2750    :Összes tétel áthelyezése felülre 
+STR_2751    :Összes tétel áthelyezése alulra 
 STR_2752    :Gyommentesítés
 STR_2753    :Fű lenyírása
 STR_2754    :Növények öntözése
@@ -1854,15 +1897,15 @@ STR_2800    :{WINDOW_COLOUR_2}Összes belépő: {BLACK}{COMMA32}
 STR_2801    :{WINDOW_COLOUR_2}Bevétel a belépőkből: {BLACK}{CURRENCY2DP}
 STR_2802    :Térkép
 STR_2805    :{SMALLFONT}{BLACK}A park térképének megjelenítése
-STR_2806    :{RED}A vendégek panaszkodnak, mert az utak a parkodban gyomorforgatóak{NEWLINE}Ellenőrizd, hogy merre járnak a mindeneseid és gondold át, hogyan lehetnének szervezettebbek
-STR_2807    :{RED}A vendégek panaszkodnak a parkodban lévő szemét mennyisége miatt{NEWLINE}Ellenőrizd, hogy merre járnak a mindeneseid és gondold át, hogyan lehetnének szervezettebbek
-STR_2808    :{RED}A vendégek panaszkodnak a parkodban lévő vandalizmus miatt{NEWLINE}Ellenőrizd, hogy merre járnak a biztonsági őreid és gondold át, hogyan lehetnének szervezettebbek
-STR_2809    :{RED}A vendégek éhesek és sehol nem tudnak ennivalót venni
-STR_2810    :{RED}A vendégek szomjasak és sehol nem tudnak innivalót venni
+STR_2806    :{RED}A vendégek panaszkodnak, mert az utak a parkodban gyomorforgatóak{NEWLINE}Nézd meg hol vannak a mindeneseid és próbáld meg jobban szervezni őket
+STR_2807    :{RED}A vendégek panaszkodnak a parkodban lévő szemét mennyisége miatt{NEWLINE}Nézd meg hol vannak a mindeneseid és próbáld meg jobban szervezni őket
+STR_2808    :{RED}A vendégek panaszkodnak a parkodban lévő vandalizmus miatt{NEWLINE}Nézd meg hol vannak a biztonsági őreid és próbáld meg jobban szervezni őket
+STR_2809    :{RED}A vendégek éhesek és sehol nem tudnak ételt venni
+STR_2810    :{RED}A vendégek szomjasak és sehol nem tudnak italt venni
 STR_2811    :{RED}A vendégek panaszkodnak, mert nem találják a WC-ket a parkodban
-STR_2812    :{RED}A vendégek eltévednek vagy beragadnak{NEWLINE}Ellenőrizd, hogy tudnál-e javítani az úthálózatodon, hogy a vendégek biztosan elérjék a céljukat
+STR_2812    :{RED}A vendégek eltévednek vagy beragadnak{NEWLINE}Nézd meg lehet-e javítani az úthálózatodon, hogy a vendégek biztosan elérjék a céljukat
 STR_2813    :{RED}A parkod belépési díja túl magas!{NEWLINE}Csökkentsd a belépési díjad, vagy növeld a park értékét, hogy több vendéget vonzz
-STR_2848    :{WINDOW_COLOUR_2}Nem kaptál mostanában díjakat
+STR_2848    :{WINDOW_COLOUR_2}Nincsenek friss díjak
 STR_2849    :Az új pálya sikeresen telepítve
 STR_2851    :A pálya már telepítve van
 STR_2853    :A helyi önkormányzat nem engedélyezi!
@@ -1966,6 +2009,12 @@ STR_3120    :{SMALLFONT}{BLACK}A legközelebbi elérhető vagy a játékot javí
 STR_3121    :Nem található gépész, vagy az összes közeli gépész elfoglalt
 STR_3122    :{WINDOW_COLOUR_2}Kedvenc játéka: {BLACK}{COMMA16} vendégnek
 STR_3123    :{WINDOW_COLOUR_2}Kedvenc játéka: {BLACK}{COMMA16} vendégnek
+STR_3124    :Hibás {STRINGID}
+STR_3125    :{WINDOW_COLOUR_2}Izgalmi tényező: {BLACK}+{COMMA16}%
+STR_3126    :{WINDOW_COLOUR_2}Intenzitási tényező: {BLACK}+{COMMA16}%
+STR_3127    :{WINDOW_COLOUR_2}Émelygési tényező: {BLACK}+{COMMA16}%
+STR_3128    :Játékterv mentése
+STR_3129    :Játékterv mentése díszletekkel
 STR_3130    :Mentés
 STR_3131    :Mégse
 STR_3142    :{WINDOW_COLOUR_2}Befogadóképesség: {BLACK}{STRINGID}
@@ -1974,6 +2023,11 @@ STR_3144    :{SMALLFONT}{BLACK}Játékok és bódék megjelenítése a térképe
 STR_3164    :{BLACK}{COMMA16} kiválasztva (maximum {COMMA16})
 STR_3194    :Pálya leírása
 STR_3195    :Találmányok listája
+STR_3196    :{WINDOW_COLOUR_2}Kutatási csoport: {BLACK}{STRINGID}
+STR_3197    :{WINDOW_COLOUR_2}A játék kezdetekor már elérhető találmányok:
+STR_3198    :{WINDOW_COLOUR_2}A játék során felfedezhető találmányok:
+STR_3199    :Véletlenszerű keverés
+STR_3200    :{SMALLFONT}{BLACK}Véletlenszerűen megkeveri a játék során felfedezhető találmányok listáját
 STR_3201    :Objektumok kiválasztása
 STR_3209    :Vissza az előző lépésre:
 STR_3210    :Tovább a következő lépésre:
@@ -2242,7 +2296,7 @@ STR_5434    :Parancsszerkesztő
 STR_5435    :Mentés átnevezése
 STR_5436    :Főcímek szerkesztése...
 STR_5437    :Nincs kiválasztva mentés
-STR_5438    :Nem módosítható, amíg a Paranszerkesztő meg van nyitva
+STR_5438    :Nem módosítható, amíg a parancsszerkesztő meg van nyitva
 STR_5439    :Az újraindítás parancshoz egy legalább 4 másodperces várakozás parancs szükséges
 STR_5440    :Teljes képernyőnél minimalizálás fókuszvesztéskor
 STR_5441    :{SMALLFONT}{BLACK}A játékok pályatípus szerinti azonosítása,{NEWLINE}hogy a járműveket később meg lehessen {NEWLINE}változatni (RCT1-beli viselkedés)
@@ -2471,7 +2525,10 @@ STR_5882    :Egyedi pénznem
 STR_5887    :Előtag
 STR_5888    :Utótag
 STR_5891    :Alapértelmezett
-STR_5892    :{SMALLFONT}{BLACK}Menj az alapértelmezett mappába
+STR_5892    :{SMALLFONT}{BLACK}Vissza az alapértelmezett mappába
+STR_5893    :Árfolyam
+STR_5894    :Írd be az árfolyamot
+STR_5895    :Terv mentése
 STR_5910    :Alkalmazás
 STR_5911    :Átlátszó utak
 STR_5913    :Csevegés
@@ -2541,6 +2598,10 @@ STR_6125    :Objektum típusa
 STR_6126    :Ismeretlen típus
 STR_6127    :Fájl: {STRING}
 STR_6128    :A fájl nem tölthető be, mert néhány általa hivatkozott objektum hiányzik vagy sérült. Lentebb láthatod a problémás objektumok listáját.
+STR_6129    :Kiválasztott elem vágólapra másolása
+STR_6130    :Teljes lista vágólapra másolása
+STR_6131    :Objektum forrása
+STR_6132    :Kutatási állapot figyelmen kívül hagyása
 STR_6140    :Változási napló...
 STR_6141    :RCT1 alsó eszköztár
 STR_6142    :{WINDOW_COLOUR_2}Pálya neve: {BLACK}{STRING}
@@ -2826,7 +2887,7 @@ STR_DTLS    :Ez az idős park számos történelmi játékkal rendelkezik, de s�
 <Magic Quarters>
 STR_SCNR    :Mágikus Negyedek
 STR_PARK    :Mágikus Negyedek
-STR_DTLS    :Egy nagy területet megtisztítottak és részben témáztak, így készen áll arra, hogy parkosított vidámparkká alakítsd
+STR_DTLS    :Egy nagy területet megtisztítottak és részben tematizáltak, így készen áll arra, hogy parkosított vidámparkká alakítsd
 
 <Fruit Farm>
 STR_SCNR    :Gyümölcsös
@@ -2881,7 +2942,7 @@ STR_DTLS    :Képes vagy feltámasztani ezt a valaha szebb napokat látott, ám 
 <Fiasco Forest>
 STR_SCNR    :Elbaltázott Erdő
 STR_PARK    :Elbaltázott Erdő
-STR_DTLS    :Meglehetősen korlátozottak az anyagi és időbeli lehetőségeid arra, hogy rendbe rakd ezt a rosszul tervezett és veszélyes játékokkal teli parkot.
+STR_DTLS    :Meglehetősen korlátozottak az anyagi és időbeli lehetőségeid arra, hogy rendbe rakd ezt a rosszul tervezett és veszélyes játékokkal teli parkot
 
 <Pickle Park>
 STR_SCNR    :Pác Park
@@ -2918,9 +2979,27 @@ STR_DTLS    :Egy nagy kertnek arra van szüksége, hogy sikeres vidámpark legye
 
 ## Real Parks from RCT1
 # None of them had details
+<Alton Towers>
+STR_SCNR    :Alton Towers
+STR_PARK    :Alton Towers
+STR_DTLS    :
+
+<Heide-Park>
+STR_SCNR    :Heide Park
+STR_PARK    :Heide Park
+STR_DTLS    :
+
+<Blackpool Pleasure Beach>
+STR_SCNR    :Blackpool Pleasure Beach
+STR_PARK    :Blackpool Pleasure Beach
+STR_DTLS    :
 
 ## Misc parks from RCT1
 # Had no details
+<Fort Anachronism>
+STR_SCNR    :Anakronizmus-erőd
+STR_PARK    :Anakronizmus-erőd
+STR_DTLS    :
 
 ###########
 # Scenery #
