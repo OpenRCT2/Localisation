@@ -143,6 +143,7 @@ STR_0560    :Egy hely, ahol a rosszul lett vendégek gyorsabban összeszedhetik 
 STR_0561    :Cirkuszi állatprodukció egy nagy sátorban
 STR_0578    :A kocsik egy abroncsokkal körbefogott, meredek esésekkel és palástorsókkal teli pálya mentén haladnak
 STR_0579    :Egy enyhe minigolf-játék
+STR_0600    :Motoros bányavonatok futnak egy sima és kanyargós pálya mentén
 STR_0767    :Vendég {INT32}
 STR_0768    :Mindenes {INT32}
 STR_0769    :Gépész {INT32}
@@ -485,6 +486,8 @@ STR_1142    :{MOVE_X}{10}{STRINGID}
 STR_1143    :»{MOVE_X}{10}{STRINGID}
 STR_1144    :Nem építhető/mozgatható a játék/épület bejárata...
 STR_1145    :Nem építhető/mozgatható a játék/épület kijárata...
+STR_1166    :Nem süllyesztheted le itt a vízszintet....
+STR_1167    :Nem emelheted fel itt a vízszintet....
 STR_1146    :Még nem épült bejárat
 STR_1147    :Még nem épült kijárat
 STR_1153    :Magasságjelek a játékok pályáin
@@ -494,6 +497,8 @@ STR_1156    :{MOVE_X}{10}{STRINGID}
 STR_1157    :✓{MOVE_X}{10}{STRINGID}
 STR_1161    :Nem rakhatod ide...
 STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
+STR_1163    :{STRINGID}{NEWLINE}(Jobb kattintás módosítja)
+STR_1164    :{STRINGID}{NEWLINE}(Jobb kattintás törli)
 STR_1165    :{STRINGID} - {STRINGID} {COMMA16}
 STR_1168    :Beállítások
 STR_1169    :(semmi)
@@ -2065,6 +2070,8 @@ STR_3318    :{SMALLFONT}{BLACK}Válaszd ki melyik csoportban jelenjen meg ez a p
 STR_3319    :{WINDOW_COLOUR_2}Pályacsoport:
 STR_3322    :{WINDOW_COLOUR_2}Cél: {BLACK}{STRINGID}
 STR_3326    :{WINDOW_COLOUR_2}(nincs kép)
+STR_3333    :Plug-in objektumok exportálása a mentett játékokkal
+STR_3334    :{SMALLFONT}{BLACK} Válaszd ki, hogy mentésre kerüljenek-e szükséges hozzáadott plug-in objektumok adatai (a játékhoz nem mellékelt kiegészítő adatok) a mentett játékok vagy pályák fájlaiban, hogy azok is betölthessék őket, akik nem rendelkeznek a hozzáadott objektumok adataival
 STR_3341    :{SMALLFONT}{BLACK}Játékeszközök
 STR_3342    :Pályaszerkesztő
 STR_3343    :Mentett játék pályává alakítása
@@ -2233,6 +2240,8 @@ STR_5364    :Kevesebb mint 15
 STR_5365    :{BLACK}Személyzet gyors.:
 STR_5366    :Normál
 STR_5367    :Gyors
+STR_5369    :Park paraméterei...
+STR_5370    :{SMALLFONT}{BLACK}Kattints erre a gombra, hogy módosítsd{NEWLINE}a park olyan paramétereit, mint{NEWLINE}a vendégek generálása és a pénz.
 STR_5373    :Név {STRINGID}
 STR_5374    :Dátum {STRINGID}
 STR_5375    :▲
@@ -2318,6 +2327,7 @@ STR_5456    :Távolság-ellenőrzés ki
 STR_5458    :Forgatás órajárás szerint
 STR_5459    :Forgatás órajárással ellentétesen
 STR_5460    :Forgatás órajárással ellentétesen
+STR_5461    :Vendégek paramétereinek beállítása
 STR_5462    :{CURRENCY}
 STR_5465    :Éghajlat
 STR_5466    :Személyzet
@@ -2339,6 +2349,7 @@ STR_5485    :{SMALLFONT}{STRING}
 STR_5486    :{BLACK}{COMMA16}
 STR_5487    :{SMALLFONT}{BLACK}A legutóbbi üzenetek megjelenítése
 STR_5488    :Nincs bejárat (Csak az OpenRCT2-ben!)
+STR_5489    :{SMALLFONT}{BLACK}Csak a követett vendégek megjelenítése
 STR_5490    :Hang kikapcsolása fókuszvesztés esetén
 STR_5491    :Találmányok listája
 STR_5492    :Pálya beállításai
@@ -2346,6 +2357,7 @@ STR_5493    :Üzenet küldése
 STR_5495    :Játékosok listája
 STR_5496    :Játékos
 STR_5497    :Ping
+STR_5498    :Szerver lista
 STR_5499    :Játékos neve:
 STR_5500    :Szerver hozzáadása
 STR_5501    :Szerver indítása
@@ -2393,6 +2405,7 @@ STR_5550    :{POP16}{POP16}{COMMA16}. év {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH1
 STR_5551    :év/nap/hónap
 STR_5552    :{POP16}{POP16}{COMMA16}. év {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
 STR_5553    :Játék megállítása, ha a Steam Átfedés nyitva van
+STR_5557    :Kapcsolat fenntartása hiba esetén (többjátékos mód)
 STR_5562    :FIGYELMEZTETÉS!
 STR_5564    :Sérült elem beillesztése
 STR_5565    :{SMALLFONT}{BLACK}Egy sérült elemet illeszt be a mező fölé. A sérült elem feletti elemek nem fognak látszani.
@@ -2414,7 +2427,26 @@ STR_5580    :Cseh korona (Kč)
 STR_5581    :FPS megjelenítése
 STR_5584    :SI
 STR_5586    :Boltok és bódék automatikus megnyitása
+STR_5587    :{SMALLFONT}{BLACK}Az újonnan épült boltok és bódék automatikus megnyitása
 STR_5588    :{SMALLFONT}{BLACK}Online játék másokkal
+STR_5589    :Értesítési beállítások
+STR_5590    :Park díjak
+STR_5591    :Véget ért egy marketingkampány
+STR_5592    :Park figyelmeztetések
+STR_5593    :Park értékelés figyelmeztetések
+STR_5594    :A játék meghibásodott
+STR_5595    :A játék ütközött
+STR_5596    :Játék figyelmeztetések
+STR_5597    :Játék / díszlet felfedezése
+STR_5598    :Vendég figyelmeztetések
+STR_5599    :A vendég eltévedt
+STR_5600    :A vendég elhagyta a parkot
+STR_5601    :A vendég sorban áll egy játék előtt
+STR_5602    :A vendég egy játékon van
+STR_5603    :A vendég elhagyott egy játékot
+STR_5604    :A vendég vett valamit
+STR_5605    :A vendég használt egy létesítményt
+STR_5606    :A vendég meghalt
 STR_5619    :RollerCoaster Tycoon
 STR_5620    :Added Attractions
 STR_5621    :Loopy Landscapes
@@ -2429,9 +2461,14 @@ STR_5629    :Nehézségi szint
 STR_5630    :Haladás általi feloldás bekapcsolása
 STR_5631    :Eredeti DLC parkok
 STR_5632    :Építsd meg a saját...
+STR_5712    :Nem módosíthatsz olyan engedélyt, amellyel te sem rendelkezel
 STR_5713    :Játékos kirúgása
+STR_5714    :Beállítások ablak
 STR_5715    :Új játék
+STR_5716    :Nem engedélyezett a többjátékos módban
 # For identifying client network version in server list window
+STR_5717    :Hálózati verzió: {STRING}
+STR_5718    :{SMALLFONT}{BLACK}Hálózati verzió: {STRING}
 STR_5719    :Napos
 STR_5720    :Részlegesen felhős
 STR_5721    :Felhős
@@ -2452,6 +2489,8 @@ STR_5740    :Véget nem érő marketingkapányok
 STR_5741    :{SMALLFONT}{BLACK}A marketingkapányok soha nem érnek véget
 STR_5742    :Hitelesítés ...
 STR_5743    :Csatlakozás ...
+STR_5744    :Feloldás ...
+STR_5745    :Hálózati szinkronizációs hiba észlelve
 STR_5748    :Kirúgva
 STR_5750    :Kapcsolat lezárva
 STR_5751    :Nincs adat
@@ -2499,7 +2538,7 @@ STR_5807    :{WINDOW_COLOUR_2}Játékok száma: {BLACK}{COMMA16}
 STR_5808    :{WINDOW_COLOUR_2}Boltok és bódék száma: {BLACK}{COMMA16}
 STR_5809    :{WINDOW_COLOUR_2}Információs bódék és egyéb létesítmények száma: {BLACK}{COMMA16}
 STR_5810    :Járműkorlátok feloldása
-STR_5811    :{SMALLFONT}{BLACK}Ha ki van pipálva, {NEWLINE}255 kocsid is lehet vonatonként és 31{NEWLINE}vonatod játékokként
+STR_5811    :{SMALLFONT}{BLACK}Ha ki van pipálva,{NEWLINE}255 kocsid is lehet vonatonként és 31{NEWLINE}vonatod játékokként
 STR_5812    :Többjátékos mód ablakának megjelenítése
 STR_5813    :“{STRING}”
 STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
@@ -2510,8 +2549,11 @@ STR_5816    :{SMALLFONT}{BLACK}A játék méretezési tényezőjének beállít�
 STR_5820    :{SMALLFONT}{BLACK}A játék minimalizálása, ha elveszti a fókuszt{NEWLINE}teljes képernyős módban
 STR_5822    :{SMALLFONT}{BLACK}A nap és az éjszaka váltakozásának bekapcsolása.{NEWLINE}A teljes ciklus egy játékbeli hónapig tart
 STR_5823    :{SMALLFONT}{BLACK}Nagybetűs megjelenítés a jelzőtáblákon (RCT1-beli viselkedés)
-STR_5845    :{SMALLFONT}{BLACK}Hozzáadja a hibakereső{NEWLINE}eszközök gombját az eszköztárhoz.{NEWLINE}Engedélyezi a fejlesztői konzol gyorsbillentyűjét
 STR_5835    :{SMALLFONT}{BLACK}A játék némítása, ha az ablak elveszti a fókuszt
+STR_5844    :{SMALLFONT}{BLACK}Tartsa fenn a kapcsolatot a többjátékos{NEWLINE}szerverrel akkor is, ha szinkronizációs vagy egyéb hiba jelentkezik
+STR_5845    :{SMALLFONT}{BLACK}Hozzáadja a hibakereső{NEWLINE}eszközök gombját az eszköztárhoz.{NEWLINE}Engedélyezi a fejlesztői konzol gyorsbillentyűjét
+STR_5849    :{SMALLFONT}{BLACK}Az újonnan felvett alkalmazottak{NEWLINE}automatikus lerakása
+STR_5850    :<már nincs használatban>
 STR_5853    :{SMALLFONT}{BLACK}A hanghatások be- és kikapcsolása
 STR_5854    :{SMALLFONT}{BLACK}A játékok zenéjének be- és kikapcsolása
 STR_5857    :{SMALLFONT}{BLACK}Játékbeállítások
