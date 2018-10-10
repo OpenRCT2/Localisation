@@ -137,7 +137,7 @@ STR_0554    :A kocsi aszinkronmotoros gyorsítással hagyja el az állomást egy
 STR_0555    :Az utasok egy függőleges torony lifjtében utazhatnak a szintek között
 STR_0556    :Extra széles kocsik zuhannak le a teljesen függőleges pályán, a tökéletes szabadesés hullámvasút élmény kedvéért
 STR_0557    :Egy ATM (bankautomata) a pénz nélkül maradt vendégek számára
-STR_0558    :Az utasok a három hosszú forgó kar végei körül forgó székpárokban utaznak
+STR_0558    :Az utasok a három hosszú, forgó kar végei körül forgó székpárokban utaznak
 STR_0559    :Nagy tematizált épület, tele ijesztő folyosókkal és kísérteties szobákkal
 STR_0560    :Egy hely, ahol a rosszul lett vendégek gyorsabban összeszedhetik magukat
 STR_0561    :Cirkuszi állatprodukció egy nagy sátorban
@@ -2458,7 +2458,7 @@ STR_5626    :Egyéb parkok
 STR_5627    :Pályák csoportosítása:
 STR_5628    :Eredeti játék
 STR_5629    :Nehézségi szint
-STR_5630    :Haladás általi feloldás bekapcsolása
+STR_5630    :Progresszív feloldás bekapcsolása
 STR_5631    :Eredeti DLC parkok
 STR_5632    :Építsd meg a saját...
 STR_5712    :Nem módosíthatsz olyan engedélyt, amellyel te sem rendelkezel
@@ -2549,7 +2549,9 @@ STR_5816    :{SMALLFONT}{BLACK}A játék méretezési tényezőjének beállít�
 STR_5820    :{SMALLFONT}{BLACK}A játék minimalizálása, ha elveszti a fókuszt{NEWLINE}teljes képernyős módban
 STR_5822    :{SMALLFONT}{BLACK}A nap és az éjszaka váltakozásának bekapcsolása.{NEWLINE}A teljes ciklus egy játékbeli hónapig tart
 STR_5823    :{SMALLFONT}{BLACK}Nagybetűs megjelenítés a jelzőtáblákon (RCT1-beli viselkedés)
+STR_5824    :{SMALLFONT}{BLACK}A  villámhatás kikapcsolása{NEWLINE}a viharok alatt
 STR_5835    :{SMALLFONT}{BLACK}A játék némítása, ha az ablak elveszti a fókuszt
+STR_5843    :{SMALLFONT}{BLACK}A pályák progresszív feloldásának engedélyezése (RCT1-beli viselkedés)
 STR_5844    :{SMALLFONT}{BLACK}Tartsa fenn a kapcsolatot a többjátékos{NEWLINE}szerverrel akkor is, ha szinkronizációs vagy egyéb hiba jelentkezik
 STR_5845    :{SMALLFONT}{BLACK}Hozzáadja a hibakereső{NEWLINE}eszközök gombját az eszköztárhoz.{NEWLINE}Engedélyezi a fejlesztői konzol gyorsbillentyűjét
 STR_5849    :{SMALLFONT}{BLACK}Az újonnan felvett alkalmazottak{NEWLINE}automatikus lerakása
@@ -2613,8 +2615,8 @@ STR_5999    :Pénz beállítása
 STR_6000    :Add meg az új értéket
 STR_6001    :Fényhatások bekapcsolása (kísérleti)
 STR_6002    :{SMALLFONT}{BLACK}A lámpák és a játékok éjjelente világítani fognak.{NEWLINE}A grafikus motort hardveres gyorsítára kell állítani hozzá.
-STR_6010    :{COMMA2DP32}m
-STR_6011    :{COMMA1DP16}ft
+STR_6010    :{COMMA2DP32} m
+STR_6011    :{COMMA1DP16} ft
 STR_6031    :Szerver leírása:
 STR_6032    :Szerver üdvözlés:
 STR_6033    :Az RCT1 telepítési útvonala:
@@ -3048,6 +3050,83 @@ STR_DTLS    :
 ###########
 
 ## Start OpenRCT2 Official
+[XXBBBR01]
+STR_NAME    :Alap blokk
+
+[TTRFTL02]
+STR_NAME    :Tető
+
+[TTRFTL03]
+STR_NAME    :Tető
+
+[TTRFTL04]
+STR_NAME    :Tető
+
+[TTRFTL07]
+STR_NAME    :Tető
+
+[TTRFTL08]
+STR_NAME    :Tető
+
+[TTPIRF02]
+STR_NAME    :Tető
+
+[TTPIRF03]
+STR_NAME    :Tető
+
+[TTPIRF04]
+STR_NAME    :Tető
+
+[TTPIRF05]
+STR_NAME    :Tető
+
+[TTPIRF07]
+STR_NAME    :Tető
+
+[TTPIRF08]
+STR_NAME    :Tető
+
+[MG-PRAR]
+STR_NAME    :Fal átjáróval
+
+[TTRFWD01]
+STR_NAME    :Tető
+
+[TTRFWD02]
+STR_NAME    :Tető
+
+[TTRFWD03]
+STR_NAME    :Tető
+
+[TTRFWD04]
+STR_NAME    :Tető
+
+[TTRFWD05]
+STR_NAME    :Tető
+
+[TTRFWD06]
+STR_NAME    :Tető
+
+[TTRFWD07]
+STR_NAME    :Tető
+
+[TTRFWD08]
+STR_NAME    :Tető
+
+[TTRFGL01]
+STR_NAME    :Üvegtető
+
+[TTRFGL02]
+STR_NAME    :Üvegtető
+
+[TTRFGL03]
+STR_NAME    :Üvegtető
+
+[ACWW33]
+STR_NAME    :Fa sánckerítés
+
+[ACWWF32]
+STR_NAME    :Fa sánckerítés
 
 ## End OpenRCT2 Official
 
