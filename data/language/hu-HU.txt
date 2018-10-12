@@ -143,6 +143,7 @@ STR_0560    :Egy hely, ahol a rosszul lett vendégek gyorsabban összeszedhetik 
 STR_0561    :Cirkuszi állatprodukció egy nagy sátorban
 STR_0578    :A kocsik egy abroncsokkal körbefogott, meredek esésekkel és palástorsókkal teli pálya mentén haladnak
 STR_0579    :Egy enyhe minigolf-játék
+STR_0588    :Különálló kocsik futnak a cikcakkos, hajtűkanyarokkal és éles esésekkel teli pálya alatt
 STR_0600    :Motoros bányavonatok futnak egy sima és kanyargós pálya mentén
 STR_0767    :Vendég {INT32}
 STR_0768    :Mindenes {INT32}
@@ -1482,7 +1483,7 @@ STR_2316    :{WINDOW_COLOUR_2}Szükséges hely: {BLACK}{COMMA16} x {COMMA16} blo
 STR_2321    :{WINDOW_COLOUR_2}Játékok/épületek száma: {BLACK}{COMMA16}
 STR_2322    :{WINDOW_COLOUR_2}Alkalmazottak: {BLACK}{COMMA16}
 STR_2323    :{WINDOW_COLOUR_2}Park mérete: {BLACK}{COMMA32} m²
-STR_2324    :{WINDOW_COLOUR_2}Park mérete: {BLACK}{COMMA32} sq.ft.
+STR_2324    :{WINDOW_COLOUR_2}Park mérete: {BLACK}{COMMA32} négyzetláb
 STR_2325    :{SMALLFONT}{BLACK}A park bővítése új területek vásárlásával
 STR_2326    :{SMALLFONT}{BLACK}Építési jogok vásárlása, hogy a parkon kívüli területek alatt és felett is lehessen építeni
 STR_2327    :Beállítások
@@ -1839,7 +1840,7 @@ STR_2728    :{UINT16} óra {UINT16} perc
 STR_2729    :{UINT16} óra {UINT16} perc
 STR_2730    :{UINT16} óra {UINT16} perc
 STR_2731    :{UINT16} óra {UINT16} perc
-STR_2732    :{COMMA16} ft
+STR_2732    :{COMMA16} láb
 STR_2733    :{COMMA16} m
 STR_2734    :{COMMA16} mph
 STR_2735    :{COMMA16} km/h
@@ -2425,6 +2426,7 @@ STR_5578    :Orosz rubel (R)
 STR_5579    :Ablak méretezése:
 STR_5580    :Cseh korona (Kč)
 STR_5581    :FPS megjelenítése
+STR_5583    :{COMMA1DP16} m/s 
 STR_5584    :SI
 STR_5586    :Boltok és bódék automatikus megnyitása
 STR_5587    :{SMALLFONT}{BLACK}Az újonnan épült boltok és bódék automatikus megnyitása
@@ -2556,10 +2558,20 @@ STR_5844    :{SMALLFONT}{BLACK}Tartsa fenn a kapcsolatot a többjátékos{NEWLIN
 STR_5845    :{SMALLFONT}{BLACK}Hozzáadja a hibakereső{NEWLINE}eszközök gombját az eszköztárhoz.{NEWLINE}Engedélyezi a fejlesztői konzol gyorsbillentyűjét
 STR_5849    :{SMALLFONT}{BLACK}Az újonnan felvett alkalmazottak{NEWLINE}automatikus lerakása
 STR_5850    :<már nincs használatban>
+STR_5852    :{SMALLFONT}{BLACK}A Twitch integrációhoz használni kívánt TwitchTV csatorna nevének megadása
 STR_5853    :{SMALLFONT}{BLACK}A hanghatások be- és kikapcsolása
 STR_5854    :{SMALLFONT}{BLACK}A játékok zenéjének be- és kikapcsolása
+STR_5855    :{SMALLFONT}{BLACK}Váltás a hagyományos teljes képernyős,{NEWLINE}keret nélküli teljes képernyős és az{NEWLINE}ablakos megjelenítési módok között
+STR_5856    :{SMALLFONT}{BLACK}A játék teljes képernyős felbontásának beállítása
 STR_5857    :{SMALLFONT}{BLACK}Játékbeállítások
+STR_5858    :{SMALLFONT}{BLACK}CPU helyett a GPU használata megjelenítéshez. Nagyobb kompatibilitást biztosít a képernyőrögzítő programokkal. Némileg csökkentheti a teljesítményt.
 STR_5859    :{SMALLFONT}{BLACK}A képkocka fázisolás bekapcsolása, hogy {NEWLINE}folyamatosabb legyen a játékmenet megjelenítése. Ha ki van kapcsolva,{NEWLINE}a játék 40 FPS-el fut.
+STR_5860    :Váltás az eredeti és a visszafejtett pályarajzok között
+STR_5867    :{WINDOW_COLOUR_2}Szolgáltató neve: {BLACK}{STRING}
+STR_5868    :{WINDOW_COLOUR_2}Szolgáltató e-mail címe: {BLACK}{STRING}
+STR_5869    :{WINDOW_COLOUR_2}Szolgáltató weboldala: {BLACK}{STRING}
+STR_5871    :Nem öregedő növények
+STR_5872    :{SMALLFONT}{BLACK}A növények öregedésének kikapcsolása, hogy ne hervadjanak el
 STR_5875    :Grafikus motor:
 STR_5876    :{SMALLFONT}{BLACK}A játék grafikus megjelenítő motorja.
 STR_5877    :Szoftveres
@@ -2616,7 +2628,7 @@ STR_6000    :Add meg az új értéket
 STR_6001    :Fényhatások bekapcsolása (kísérleti)
 STR_6002    :{SMALLFONT}{BLACK}A lámpák és a játékok éjjelente világítani fognak.{NEWLINE}A grafikus motort hardveres gyorsítára kell állítani hozzá.
 STR_6010    :{COMMA2DP32} m
-STR_6011    :{COMMA1DP16} ft
+STR_6011    :{COMMA1DP16} láb
 STR_6031    :Szerver leírása:
 STR_6032    :Szerver üdvözlés:
 STR_6033    :Az RCT1 telepítési útvonala:
