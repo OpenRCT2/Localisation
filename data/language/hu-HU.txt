@@ -210,7 +210,7 @@ STR_0833    :{SMALLFONT}{BLACK}A játék megállítása
 STR_0834    :{SMALLFONT}{BLACK}Mentési és játékbeállítások
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
-STR_0847    :Az 'OpenRCT2' névjegye
+STR_0847    :Az ’OpenRCT2’ névjegye
 STR_0850    :{WINDOW_COLOUR_2}Copyright © 2002 Chris Sawyer, minden jog fenntartva
 STR_0851    :{WINDOW_COLOUR_2}Tervezés és programozás: Chris Sawyer
 STR_0852    :{WINDOW_COLOUR_2}Grafika: Simon Foster
@@ -427,14 +427,14 @@ STR_1076    :Bolt/bódé üzemmód
 STR_1077    :Forgó üzemmód
 STR_1078    :Előreforgás
 STR_1079    :Hátraforgás
-STR_1080    :Film: “Légi bosszúállók”
-STR_1081    :3D film: “Egérmesék”
+STR_1080    :Film: „Légi bosszúállók”
+STR_1081    :3D film: „Egérmesék”
 STR_1082    :Űrgyűrűk üzemmód
 STR_1083    :Kezdő üzemmód
 STR_1084    :Aszinkronmotor kilövés
-STR_1085    :Film: “Adrenalinvadászok”
-STR_1086    :3D film: “Viharkergetők”
-STR_1087    :3D film: “Űrbanditák”
+STR_1085    :Film: „Adrenalinvadászok”
+STR_1086    :3D film: „Viharkergetők”
+STR_1087    :3D film: „Űrbanditák”
 STR_1088    :Intenzív üzemmód
 STR_1089    :Megvadult üzemmód
 STR_1090    :Elvarázsolt kastély üzemmód
@@ -678,6 +678,8 @@ STR_1360    :{WINDOW_COLOUR_2}Sorbanállási idő: {BLACK}{COMMA16} perc
 STR_1377    :Palástorsó (balra)
 STR_1378    :Palástorsó (jobbra)
 STR_1384    :{YELLOW}{STRINGID}
+STR_1385    :{SMALLFONT}{BLACK}Egyéb pályaelemek
+STR_1386    :Speciális...
 STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
 STR_1390    :{CURRENCY2DP}
@@ -754,127 +756,127 @@ STR_1476    :{WINDOW_COLOUR_2}Intenzitási érték: {BLACK}Még nem áll rendelk
 STR_1477    :{WINDOW_COLOUR_2}Intenzitási érték: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
 STR_1478    :{WINDOW_COLOUR_2}Émelygési érték: {BLACK}{COMMA2DP32}  ({STRINGID})
 STR_1479    :{WINDOW_COLOUR_2}Émelygési érték: {BLACK}Még nem áll rendelkezésre
-STR_1480    :{SMALLFONT}“Nincs elég pénzem erre: {STRINGID}”
-STR_1481    :{SMALLFONT}“Minden pénzem elköltöttem”
-STR_1482    :{SMALLFONT}“Rosszul érzem magam”
-STR_1483    :{SMALLFONT}“Nagyon rosszul érzem magam”
-STR_1484    :{SMALLFONT}“Valami izgalmasabbra vágyom, mint {STRINGID}”
-STR_1485    :{SMALLFONT}“{STRINGID} túl intenzívnek tűnik számomra”
-STR_1486    :{SMALLFONT}“Még nem fogyasztottam el ezt: {STRINGID}”
-STR_1487    :{SMALLFONT}“{STRINGID} már ránézésre is rosszullétet keltő”
-STR_1488    :{SMALLFONT}“{STRINGID} túl sokba kerül számomra”
-STR_1489    :{SMALLFONT}“Haza akarok menni”
-STR_1490    :{SMALLFONT}“{STRINGID} igazán megéri az árát”
-STR_1491    :{SMALLFONT}“Már van nálam {STRINGID}”
-STR_1492    :{SMALLFONT}“Nincs elég pénzem erre: {STRINGID}”
-STR_1493    :{SMALLFONT}“Nem vagyok éhes”
-STR_1494    :{SMALLFONT}“Nem vagyok szomjas”
-STR_1495    :{SMALLFONT}“Segítség! Megfulladok!”
-STR_1496    :{SMALLFONT}“Eltévedtem!”
-STR_1497    :{SMALLFONT}“{STRINGID} remek volt”
-STR_1498    :{SMALLFONT}“Már túl régóta állok a sorban {STRINGID} előtt”
-STR_1499    :{SMALLFONT}“Fáradt vagyok”
-STR_1500    :{SMALLFONT}“Éhes vagyok”
-STR_1501    :{SMALLFONT}“Szomjas vagyok”
-STR_1502    :{SMALLFONT}“WC-re kell mennem”
-STR_1503    :{SMALLFONT}“Merre lehet {STRINGID}?”
-STR_1504    :{SMALLFONT}“Nem fizetek ennyit {STRINGID} használatáért”
-STR_1505    :{SMALLFONT}“{STRINGID} esőben nem tűnik jó választásnak”
-STR_1506    :{SMALLFONT}“Túl sok itt a szemét”
-STR_1507    :{SMALLFONT}“Nem találom a park kijáratát”
-STR_1508    :{SMALLFONT}“Le akarok szállni erről: {STRINGID}”
-STR_1509    :{SMALLFONT}“Ki akarok jönni ebből: {STRINGID}”
-STR_1510    :{SMALLFONT}“Nem szállok fel erre: {STRINGID} - Nem biztonságos”
-STR_1511    :{SMALLFONT}“Ez az út gyomorforgató”
-STR_1512    :{SMALLFONT}“Túl nagy itt a tömeg”
-STR_1513    :{SMALLFONT}“Nagyon elharapódzott itt a vandalizmus”
-STR_1514    :{SMALLFONT}“Csodásak a díszletek!”
-STR_1515    :{SMALLFONT}“Ez a park nagyon tiszta és rendezett”
-STR_1516    :{SMALLFONT}“Nagyszerűek ezek az ugráló szökőkutak”
-STR_1517    :{SMALLFONT}“Jó itt a zene”
-STR_1518    :{SMALLFONT}“{STRINGID} lufija igazán megéri az árát”
-STR_1519    :{SMALLFONT}“{STRINGID} plüssállata igazán megéri az árát”
-STR_1520    :{SMALLFONT}“{STRINGID} parktérképe igazán megéri az árát”
-STR_1521    :{SMALLFONT}“{STRINGID} élményfotója igazán megéri az árát”
-STR_1522    :{SMALLFONT}“{STRINGID} esernyője igazán megéri az árát”
-STR_1523    :{SMALLFONT}“{STRINGID} üdítője igazán megéri az árát”
-STR_1524    :{SMALLFONT}“{STRINGID} hamburgere igazán megéri az árát”
-STR_1525    :{SMALLFONT}“{STRINGID} sült krumplija igazán megéri az árát”
-STR_1526    :{SMALLFONT}“{STRINGID} jégkréme igazán megéri az árát”
-STR_1527    :{SMALLFONT}“{STRINGID} vattacukra igazán megéri az árát”
+STR_1480    :{SMALLFONT}„Nincs elég pénzem erre: {STRINGID}”
+STR_1481    :{SMALLFONT}„Minden pénzem elköltöttem”
+STR_1482    :{SMALLFONT}„Rosszul érzem magam”
+STR_1483    :{SMALLFONT}„Nagyon rosszul érzem magam”
+STR_1484    :{SMALLFONT}„Valami izgalmasabbra vágyom, mint {STRINGID}”
+STR_1485    :{SMALLFONT}„{STRINGID} túl intenzívnek tűnik számomra”
+STR_1486    :{SMALLFONT}„Még nem fogyasztottam el ezt: {STRINGID}”
+STR_1487    :{SMALLFONT}„{STRINGID} már ránézésre is rosszullétet keltő”
+STR_1488    :{SMALLFONT}„{STRINGID} túl sokba kerül számomra”
+STR_1489    :{SMALLFONT}„Haza akarok menni”
+STR_1490    :{SMALLFONT}„{STRINGID} igazán megéri az árát”
+STR_1491    :{SMALLFONT}„Már van nálam {STRINGID}”
+STR_1492    :{SMALLFONT}„Nincs elég pénzem erre: {STRINGID}”
+STR_1493    :{SMALLFONT}„Nem vagyok éhes”
+STR_1494    :{SMALLFONT}„Nem vagyok szomjas”
+STR_1495    :{SMALLFONT}„Segítség! Megfulladok!”
+STR_1496    :{SMALLFONT}„Eltévedtem!”
+STR_1497    :{SMALLFONT}„{STRINGID} remek volt”
+STR_1498    :{SMALLFONT}„Már túl régóta állok a sorban {STRINGID} előtt”
+STR_1499    :{SMALLFONT}„Fáradt vagyok”
+STR_1500    :{SMALLFONT}„Éhes vagyok”
+STR_1501    :{SMALLFONT}„Szomjas vagyok”
+STR_1502    :{SMALLFONT}„WC-re kell mennem”
+STR_1503    :{SMALLFONT}„Merre lehet {STRINGID}?”
+STR_1504    :{SMALLFONT}„Nem fizetek ennyit {STRINGID} használatáért”
+STR_1505    :{SMALLFONT}„{STRINGID} esőben nem tűnik jó választásnak”
+STR_1506    :{SMALLFONT}„Túl sok itt a szemét”
+STR_1507    :{SMALLFONT}„Nem találom a park kijáratát”
+STR_1508    :{SMALLFONT}„Le akarok szállni erről: {STRINGID}”
+STR_1509    :{SMALLFONT}„Ki akarok jönni ebből: {STRINGID}”
+STR_1510    :{SMALLFONT}„Nem szállok fel erre: {STRINGID} - Nem biztonságos”
+STR_1511    :{SMALLFONT}„Ez az út gyomorforgató”
+STR_1512    :{SMALLFONT}„Túl nagy itt a tömeg”
+STR_1513    :{SMALLFONT}„Nagyon elharapódzott itt a vandalizmus”
+STR_1514    :{SMALLFONT}„Csodásak a díszletek!”
+STR_1515    :{SMALLFONT}„Ez a park nagyon tiszta és rendezett”
+STR_1516    :{SMALLFONT}„Nagyszerűek ezek az ugráló szökőkutak”
+STR_1517    :{SMALLFONT}„Jó itt a zene”
+STR_1518    :{SMALLFONT}„{STRINGID} lufija igazán megéri az árát”
+STR_1519    :{SMALLFONT}„{STRINGID} plüssállata igazán megéri az árát”
+STR_1520    :{SMALLFONT}„{STRINGID} parktérképe igazán megéri az árát”
+STR_1521    :{SMALLFONT}„{STRINGID} élményfotója igazán megéri az árát”
+STR_1522    :{SMALLFONT}„{STRINGID} esernyője igazán megéri az árát”
+STR_1523    :{SMALLFONT}„{STRINGID} üdítője igazán megéri az árát”
+STR_1524    :{SMALLFONT}„{STRINGID} hamburgere igazán megéri az árát”
+STR_1525    :{SMALLFONT}„{STRINGID} sült krumplija igazán megéri az árát”
+STR_1526    :{SMALLFONT}„{STRINGID} jégkréme igazán megéri az árát”
+STR_1527    :{SMALLFONT}„{STRINGID} vattacukra igazán megéri az árát”
 STR_1528    :
 STR_1529    :
 STR_1530    :
-STR_1531    :{SMALLFONT}“{STRINGID} pizzája igazán megéri az árát”
+STR_1531    :{SMALLFONT}„{STRINGID} pizzája igazán megéri az árát”
 STR_1532    :
-STR_1533    :{SMALLFONT}“{STRINGID} pattogatott kukoricája igazán megéri az árát”
-STR_1534    :{SMALLFONT}“{STRINGID} hot dogja igazán megéri az árát”
-STR_1535    :{SMALLFONT}“{STRINGID} csápja igazán megéri az árát”
-STR_1536    :{SMALLFONT}“{STRINGID} sapkája igazán megéri az árát”
-STR_1537    :{SMALLFONT}“{STRINGID} karamellás almája igazán megéri az árát”
-STR_1538    :{SMALLFONT}“{STRINGID} pólója igazán megéri az árát”
-STR_1539    :{SMALLFONT}“{STRINGID} fánkja igazán megéri az árát”
-STR_1540    :{SMALLFONT}“{STRINGID} kávéja igazán megéri az árát”
+STR_1533    :{SMALLFONT}„{STRINGID} pattogatott kukoricája igazán megéri az árát”
+STR_1534    :{SMALLFONT}„{STRINGID} hot dogja igazán megéri az árát”
+STR_1535    :{SMALLFONT}„{STRINGID} csápja igazán megéri az árát”
+STR_1536    :{SMALLFONT}„{STRINGID} sapkája igazán megéri az árát”
+STR_1537    :{SMALLFONT}„{STRINGID} karamellás almája igazán megéri az árát”
+STR_1538    :{SMALLFONT}„{STRINGID} pólója igazán megéri az árát”
+STR_1539    :{SMALLFONT}„{STRINGID} fánkja igazán megéri az árát”
+STR_1540    :{SMALLFONT}„{STRINGID} kávéja igazán megéri az árát”
 STR_1541    :
-STR_1542    :{SMALLFONT}“{STRINGID} sült csirkéje igazán megéri az árát”
-STR_1543    :{SMALLFONT}“{STRINGID} limonádéja igazán megéri az árát”
+STR_1542    :{SMALLFONT}„{STRINGID} sült csirkéje igazán megéri az árát”
+STR_1543    :{SMALLFONT}„{STRINGID} limonádéja igazán megéri az árát”
 STR_1544    :
 STR_1545    :
 STR_1546    :
 STR_1547    :
 STR_1548    :
 STR_1549    :
-STR_1550    :{SMALLFONT}“Hűha!”
-STR_1551    :{SMALLFONT}“Az a felettéb különös érzésem van, hogy valaki figyel”
-STR_1552    :{SMALLFONT}“{STRINGID} lufija túl sokba kerül számomra”
-STR_1553    :{SMALLFONT}“{STRINGID} plüssállata túl sokba kerül számomra”
-STR_1554    :{SMALLFONT}“{STRINGID} parktérképe túl sokba kerül számomra”
-STR_1555    :{SMALLFONT}“{STRINGID} élményfotója túl sokba kerül számomra”
-STR_1556    :{SMALLFONT}“{STRINGID} esernyője túl sokba kerül számomra”
-STR_1557    :{SMALLFONT}“{STRINGID} üdítője túl sokba kerül számomra”
-STR_1558    :{SMALLFONT}“{STRINGID} hamburgere túl sokba kerül számomra”
-STR_1559    :{SMALLFONT}“{STRINGID} sült krumplija túl sokba kerül számomra”
-STR_1560    :{SMALLFONT}“{STRINGID} jégkréme túl sokba kerül számomra”
-STR_1561    :{SMALLFONT}“{STRINGID} vattacukra túl sokba kerül számomra”
+STR_1550    :{SMALLFONT}„Hűha!”
+STR_1551    :{SMALLFONT}„Az a felettéb különös érzésem van, hogy valaki figyel”
+STR_1552    :{SMALLFONT}„{STRINGID} lufija túl sokba kerül számomra”
+STR_1553    :{SMALLFONT}„{STRINGID} plüssállata túl sokba kerül számomra”
+STR_1554    :{SMALLFONT}„{STRINGID} parktérképe túl sokba kerül számomra”
+STR_1555    :{SMALLFONT}„{STRINGID} élményfotója túl sokba kerül számomra”
+STR_1556    :{SMALLFONT}„{STRINGID} esernyője túl sokba kerül számomra”
+STR_1557    :{SMALLFONT}„{STRINGID} üdítője túl sokba kerül számomra”
+STR_1558    :{SMALLFONT}„{STRINGID} hamburgere túl sokba kerül számomra”
+STR_1559    :{SMALLFONT}„{STRINGID} sült krumplija túl sokba kerül számomra”
+STR_1560    :{SMALLFONT}„{STRINGID} jégkréme túl sokba kerül számomra”
+STR_1561    :{SMALLFONT}„{STRINGID} vattacukra túl sokba kerül számomra”
 STR_1562    :
 STR_1563    :
 STR_1564    :
-STR_1565    :{SMALLFONT}“{STRINGID} pizzája túl sokba kerül számomra”
+STR_1565    :{SMALLFONT}„{STRINGID} pizzája túl sokba kerül számomra”
 STR_1566    :
-STR_1567    :{SMALLFONT}“{STRINGID} pattogatott kukoricája túl sokba kerül számomra”
-STR_1568    :{SMALLFONT}“{STRINGID} hot dogja túl sokba kerül számomra”
-STR_1569    :{SMALLFONT}“{STRINGID} csápja túl sokba kerül számomra”
-STR_1570    :{SMALLFONT}“{STRINGID} sapkája túl sokba kerül számomra”
-STR_1571    :{SMALLFONT}“{STRINGID} karamellás almája túl sokba kerül számomra”
-STR_1572    :{SMALLFONT}“{STRINGID} pólója túl sokba kerül számomra”
-STR_1573    :{SMALLFONT}“{STRINGID} fánkja túl sokba kerül számomra”
-STR_1574    :{SMALLFONT}“{STRINGID} kávéja túl sokba kerül számomra”
+STR_1567    :{SMALLFONT}„{STRINGID} pattogatott kukoricája túl sokba kerül számomra”
+STR_1568    :{SMALLFONT}„{STRINGID} hot dogja túl sokba kerül számomra”
+STR_1569    :{SMALLFONT}„{STRINGID} csápja túl sokba kerül számomra”
+STR_1570    :{SMALLFONT}„{STRINGID} sapkája túl sokba kerül számomra”
+STR_1571    :{SMALLFONT}„{STRINGID} karamellás almája túl sokba kerül számomra”
+STR_1572    :{SMALLFONT}„{STRINGID} pólója túl sokba kerül számomra”
+STR_1573    :{SMALLFONT}„{STRINGID} fánkja túl sokba kerül számomra”
+STR_1574    :{SMALLFONT}„{STRINGID} kávéja túl sokba kerül számomra”
 STR_1575    :
-STR_1576    :{SMALLFONT}“{STRINGID} sült csirkéje túl sokba kerül számomra”
-STR_1577    :{SMALLFONT}“{STRINGID} limonádéja túl sokba kerül számomra”
+STR_1576    :{SMALLFONT}„{STRINGID} sült csirkéje túl sokba kerül számomra”
+STR_1577    :{SMALLFONT}„{STRINGID} limonádéja túl sokba kerül számomra”
 STR_1578    :
 STR_1579    :
 STR_1580    :
 STR_1581    :
 STR_1582    :
 STR_1583    :
-STR_1584    :{SMALLFONT}“{STRINGID} élményfotója igazán megéri az árát”
-STR_1585    :{SMALLFONT}“{STRINGID} élményfotója igazán megéri az árát”
-STR_1586    :{SMALLFONT}“{STRINGID} élményfotója igazán megéri az árát”
-STR_1587    :{SMALLFONT}“{STRINGID} perece igazán megéri az árát”
-STR_1588    :{SMALLFONT}“{STRINGID} forró csokija igazán megéri az árát”
-STR_1589    :{SMALLFONT}“{STRINGID} jeges teája igazán megéri az árát”
-STR_1590    :{SMALLFONT}“{STRINGID} tölcsérfánkja igazán megéri az árát”
-STR_1591    :{SMALLFONT}“{STRINGID} napszemüvege igazán megéri az árát”
-STR_1592    :{SMALLFONT}“{STRINGID} marhahúsos tésztája igazán megéri az árát”
-STR_1593    :{SMALLFONT}“{STRINGID} pirított rizstésztája igazán megéri az árát”
-STR_1594    :{SMALLFONT}“{STRINGID} wonton levese igazán megéri az árát”
-STR_1595    :{SMALLFONT}“{STRINGID} húsgombócevese igazán megéri az árát”
-STR_1596    :{SMALLFONT}“{STRINGID} gyümölcsleve igazán megéri az árát”
-STR_1597    :{SMALLFONT}“{STRINGID} szójateje igazán megéri az árát”
-STR_1598    :{SMALLFONT}“{STRINGID} szudzsonggvája igazán megéri az árát”
-STR_1599    :{SMALLFONT}“{STRINGID} szendvicse igazán megéri az árát”
-STR_1600    :{SMALLFONT}“{STRINGID} sütije igazán megéri az árát”
+STR_1584    :{SMALLFONT}„{STRINGID} élményfotója igazán megéri az árát”
+STR_1585    :{SMALLFONT}„{STRINGID} élményfotója igazán megéri az árát”
+STR_1586    :{SMALLFONT}„{STRINGID} élményfotója igazán megéri az árát”
+STR_1587    :{SMALLFONT}„{STRINGID} perece igazán megéri az árát”
+STR_1588    :{SMALLFONT}„{STRINGID} forró csokija igazán megéri az árát”
+STR_1589    :{SMALLFONT}„{STRINGID} jeges teája igazán megéri az árát”
+STR_1590    :{SMALLFONT}„{STRINGID} tölcsérfánkja igazán megéri az árát”
+STR_1591    :{SMALLFONT}„{STRINGID} napszemüvege igazán megéri az árát”
+STR_1592    :{SMALLFONT}„{STRINGID} marhahúsos tésztája igazán megéri az árát”
+STR_1593    :{SMALLFONT}„{STRINGID} pirított rizstésztája igazán megéri az árát”
+STR_1594    :{SMALLFONT}„{STRINGID} wonton levese igazán megéri az árát”
+STR_1595    :{SMALLFONT}„{STRINGID} húsgombócevese igazán megéri az árát”
+STR_1596    :{SMALLFONT}„{STRINGID} gyümölcsleve igazán megéri az árát”
+STR_1597    :{SMALLFONT}„{STRINGID} szójateje igazán megéri az árát”
+STR_1598    :{SMALLFONT}„{STRINGID} szudzsonggvája igazán megéri az árát”
+STR_1599    :{SMALLFONT}„{STRINGID} szendvicse igazán megéri az árát”
+STR_1600    :{SMALLFONT}„{STRINGID} sütije igazán megéri az árát”
 STR_1601    :
 STR_1602    :
 STR_1603    :
@@ -890,27 +892,27 @@ STR_1612    :
 STR_1613    :
 STR_1614    :
 STR_1615    :
-STR_1616    :{SMALLFONT}“{STRINGID} élményfotója túl sokba kerül számomra”
-STR_1617    :{SMALLFONT}“{STRINGID} élményfotója túl sokba kerül számomra”
-STR_1618    :{SMALLFONT}“{STRINGID} élményfotója túl sokba kerül számomra”
-STR_1619    :{SMALLFONT}“{STRINGID} perece túl sokba kerül számomra”
-STR_1620    :{SMALLFONT}“{STRINGID} forró csokija túl sokba kerül számomra”
-STR_1621    :{SMALLFONT}“{STRINGID} jeges teája túl sokba kerül számomra”
-STR_1622    :{SMALLFONT}“{STRINGID} tölcsérfánkja túl sokba kerül számomra”
-STR_1623    :{SMALLFONT}“{STRINGID} napszemüvege túl sokba kerül számomra”
-STR_1624    :{SMALLFONT}“{STRINGID} marhahúsos tésztája túl sokba kerül számomra”
-STR_1625    :{SMALLFONT}“{STRINGID} pirított rizstésztája túl sokba kerül számomra”
-STR_1626    :{SMALLFONT}“{STRINGID} wonton levese túl sokba kerül számomra”
-STR_1627    :{SMALLFONT}“{STRINGID} húsgombócevese túl sokba kerül számomra”
-STR_1628    :{SMALLFONT}“{STRINGID} gyümölcsleve túl sokba kerül számomra”
-STR_1629    :{SMALLFONT}“{STRINGID} szójateje túl sokba kerül számomra”
-STR_1630    :{SMALLFONT}“{STRINGID} szudzsonggvája túl sokba kerül számomra”
-STR_1631    :{SMALLFONT}“{STRINGID} szendvicse túl sokba kerül számomra”
-STR_1632    :{SMALLFONT}“{STRINGID} sütije túl sokba kerül számomra”
+STR_1616    :{SMALLFONT}„{STRINGID} élményfotója túl sokba kerül számomra”
+STR_1617    :{SMALLFONT}„{STRINGID} élményfotója túl sokba kerül számomra”
+STR_1618    :{SMALLFONT}„{STRINGID} élményfotója túl sokba kerül számomra”
+STR_1619    :{SMALLFONT}„{STRINGID} perece túl sokba kerül számomra”
+STR_1620    :{SMALLFONT}„{STRINGID} forró csokija túl sokba kerül számomra”
+STR_1621    :{SMALLFONT}„{STRINGID} jeges teája túl sokba kerül számomra”
+STR_1622    :{SMALLFONT}„{STRINGID} tölcsérfánkja túl sokba kerül számomra”
+STR_1623    :{SMALLFONT}„{STRINGID} napszemüvege túl sokba kerül számomra”
+STR_1624    :{SMALLFONT}„{STRINGID} marhahúsos tésztája túl sokba kerül számomra”
+STR_1625    :{SMALLFONT}„{STRINGID} pirított rizstésztája túl sokba kerül számomra”
+STR_1626    :{SMALLFONT}„{STRINGID} wonton levese túl sokba kerül számomra”
+STR_1627    :{SMALLFONT}„{STRINGID} húsgombócevese túl sokba kerül számomra”
+STR_1628    :{SMALLFONT}„{STRINGID} gyümölcsleve túl sokba kerül számomra”
+STR_1629    :{SMALLFONT}„{STRINGID} szójateje túl sokba kerül számomra”
+STR_1630    :{SMALLFONT}„{STRINGID} szudzsonggvája túl sokba kerül számomra”
+STR_1631    :{SMALLFONT}„{STRINGID} szendvicse túl sokba kerül számomra”
+STR_1632    :{SMALLFONT}„{STRINGID} sütije túl sokba kerül számomra”
 STR_1633    :
 STR_1634    :
 STR_1635    :
-STR_1636    :{SMALLFONT}“{STRINGID} sült kolbásza túl sokba kerül számomra”
+STR_1636    :{SMALLFONT}„{STRINGID} sült kolbásza túl sokba kerül számomra”
 STR_1637    :
 STR_1638    :
 STR_1639    :
@@ -922,10 +924,10 @@ STR_1644    :
 STR_1645    :
 STR_1646    :
 STR_1647    :
-STR_1648    :{SMALLFONT}“Segítség! Tegyél le!”
-STR_1649    :{SMALLFONT}“Mindjárt elfogy a pénzem!”
-STR_1650    :{SMALLFONT}“Hű! Egy új játék épül!”
-STR_1653    :{SMALLFONT}“...és itt vagyunk ezen: {STRINGID}!”
+STR_1648    :{SMALLFONT}„Segítség! Tegyél le!”
+STR_1649    :{SMALLFONT}„Mindjárt elfogy a pénzem!”
+STR_1650    :{SMALLFONT}„Hű! Egy új játék épül!”
+STR_1653    :{SMALLFONT}„...és itt vagyunk ezen: {STRINGID}!”
 STR_1654    :{WINDOW_COLOUR_2}Legutóbbi gondolatok:
 STR_1657    :{WINDOW_COLOUR_2}Előnyben részesített játék-
 STR_1658    :{WINDOW_COLOUR_2}intenzitás: {BLACK}kevesebb mint {COMMA16}
@@ -1112,11 +1114,32 @@ STR_1889    :{WINDOW_COLOUR_2}Üzemszünet: {MOVE_X}{255}{BLACK}{COMMA16}%
 STR_1890    :{SMALLFONT}{BLACK}Válaszd ki, hogy milyen gyakran ellenőrizze gépész a játékot
 STR_1891    :Még nincs {STRINGID} a parkban!
 STR_1894    :{WINDOW_COLOUR_2}{STRINGID} eladva: {BLACK}{COMMA32}
+STR_1895    :{SMALLFONT}{BLACK}Új játék/épület építése
+STR_1896    :{WINDOW_COLOUR_2}Kiadások/Bevételek 
+STR_1897    :{WINDOW_COLOUR_2}Játékok építése
+STR_1898    :{WINDOW_COLOUR_2}Játékok üzemeltetése
+STR_1899    :{WINDOW_COLOUR_2}Földvásárlás
+STR_1900    :{WINDOW_COLOUR_2}Tereprendezés
+STR_1901    :{WINDOW_COLOUR_2}Park belépőjegyek
+STR_1902    :{WINDOW_COLOUR_2}Játék jegyek
+STR_1903    :{WINDOW_COLOUR_2}Bolti eladások
+STR_1904    :{WINDOW_COLOUR_2}Bolti készletek
+STR_1905    :{WINDOW_COLOUR_2}Étel/ital eladások
+STR_1906    :{WINDOW_COLOUR_2}Étel/ital készletek
+STR_1907    :{WINDOW_COLOUR_2}Alkalmazottak bére
+STR_1908    :{WINDOW_COLOUR_2}Marketing
+STR_1909    :{WINDOW_COLOUR_2}Kutatás
+STR_1910    :{WINDOW_COLOUR_2}Hitelkamat
+STR_1911    :{BLACK} {COMMA16}%-os éves kamattal
 STR_1912    :{MONTH}
 STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
+STR_1916    :{WINDOW_COLOUR_2}Hitel:
 STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
+STR_1918    :Nem vehetsz fel több pénzt!
+STR_1919    :Nincs elég pénz!
+STR_1920    :Nem tudod visszafizetni a hitelt!
 STR_1921    :{SMALLFONT}{BLACK}Új játék indítása
 STR_1922    :{SMALLFONT}{BLACK}Mentett játék folytatása
 STR_1924    :{SMALLFONT}{BLACK}Kilépés
@@ -1262,11 +1285,11 @@ STR_2068    :sült csirke
 STR_2069    :limonádé
 STR_2070    :egy üres doboz
 STR_2071    :egy üres flakon
-STR_2072    :“{STRINGID}” lufi
-STR_2073    :“{STRINGID}” plüssjáték
+STR_2072    :„{STRINGID}” lufi
+STR_2073    :„{STRINGID}” plüssjáték
 STR_2074    :{STRINGID} térképe
 STR_2075    :{STRINGID} élményfotója
-STR_2076    :“{STRINGID}” esernyő
+STR_2076    :„{STRINGID}” esernyő
 STR_2077    :Üdítőital
 STR_2078    :Hamburger
 STR_2079    :Sült krumpli
@@ -1280,9 +1303,9 @@ STR_2086    :{STRINGID} kupon
 STR_2087    :Pattogatott kukorica
 STR_2088    :Hot dog
 STR_2089    :Csáp
-STR_2090    :“{STRINGID}” sapka
+STR_2090    :„{STRINGID}” sapka
 STR_2091    :Karamellás alma
-STR_2092    :“{STRINGID}” póló
+STR_2092    :„{STRINGID}” póló
 STR_2093    :Fánk
 STR_2094    :Kávé
 STR_2095    :Üres pohár
@@ -1396,6 +1419,11 @@ STR_2220    :{WINDOW_COLOUR_2}Park értékelése: {BLACK}{COMMA16}
 STR_2221    :{SMALLFONT}{BLACK}Park értékelése: {COMMA16}
 STR_2222    :{SMALLFONT}{BLACK}{STRINGID}
 STR_2223    :{WINDOW_COLOUR_2}Vendégek a parkban: {BLACK}{COMMA16}
+STR_2224    :{WINDOW_COLOUR_2}Pénz: {BLACK}{CURRENCY2DP}
+STR_2225    :{WINDOW_COLOUR_2}Pénz: {RED}{CURRENCY2DP}
+STR_2226    :{WINDOW_COLOUR_2}Park értéke: {BLACK}{CURRENCY}
+STR_2227    :{WINDOW_COLOUR_2}Vállalati érték: {BLACK}{CURRENCY}
+STR_2228    :{WINDOW_COLOUR_2}Az előző havi nyereség étel/ital és{NEWLINE}szuvenír eladásokból: {BLACK}{CURRENCY}
 STR_2232    :Kábeles felvonószakasz
 STR_2233    :{SMALLFONT}{BLACK}Park információk
 STR_2234    :Legutóbbi üzenetek
@@ -1522,6 +1550,9 @@ STR_2361    :Táj simítása
 STR_2362    :{SMALLFONT}{BLACK}A táj mezőszéleinek simítása
 STR_2363    :Rácsvonalak a tájon
 STR_2364    :{SMALLFONT}{BLACK}Rácsvonalak megjelenítése a tájon
+STR_2365    :A bank nem engedélyezi a hitelkereted növelését!
+STR_2366    :Celsius (°C)
+STR_2367    :Fahrenheit (°F)
 STR_2368    :Nincs
 STR_2369    :Alacsony
 STR_2370    :Átlagos
@@ -1579,6 +1610,8 @@ STR_2436    :1 hét
 STR_2443    :{WINDOW_COLOUR_2}Heti költség: {BLACK}{CURRENCY2DP}
 STR_2444    :{WINDOW_COLOUR_2}Összköltség: {BLACK}{CURRENCY2DP}
 STR_2445    :Reklámkampány indítása
+STR_2452    :{WINDOW_COLOUR_2}Pénz (hitel nélkül: {BLACK}{CURRENCY2DP}
+STR_2453    :{WINDOW_COLOUR_2}Pénz (hitel nélkül: {RED}{CURRENCY2DP}
 STR_2457    :{SMALLFONT}{BLACK}A pénzügyi számlák adatai
 STR_2458    :{SMALLFONT}{BLACK}Grafikon a pénz (kölcsön nélküli) alakulásáról
 STR_2459    :{SMALLFONT}{BLACK}Grafikon a park értékének alakulásáról
@@ -1603,7 +1636,7 @@ STR_2477    :{SMALLFONT}{BLACK}A játék/épület üzemmódjának kiválasztása
 STR_2482    :{SMALLFONT}{BLACK}Nyereség: {CURRENCY} hetente,  Park értéke: {CURRENCY}
 STR_2483    :{WINDOW_COLOUR_2}Heti nyereség: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Heti nyereség: {RED}{CURRENCY2DP}
-STR_2487    :Vendégek “igazi” nevének mutatása
+STR_2487    :Vendégek „igazi” nevének mutatása
 STR_2489    :Gyorsbillentyűk...
 STR_2490    :Gyorsbillentyűk
 STR_2491    :Alapértékek visszaállítása 
@@ -1825,7 +1858,7 @@ STR_2713    :,
 STR_2714    :-
 STR_2715    :.
 STR_2716    :/
-STR_2717    :'
+STR_2717    :’
 STR_2718    :Fel
 STR_2719    :Új fájl
 STR_2720    :{UINT16} mp
@@ -1884,7 +1917,7 @@ STR_2781    :{STRINGID}:{MOVE_X}{255}{STRINGID}
 STR_2782    :SHIFT + 
 STR_2783    :CTRL + 
 STR_2784    :Gyorsbillentyűk beállítása
-STR_2785    :{WINDOW_COLOUR_2}Add meg az új gyorsbillentyűjét:{NEWLINE}“{STRINGID}”
+STR_2785    :{WINDOW_COLOUR_2}Add meg az új gyorsbillentyűjét:{NEWLINE}„{STRINGID}”
 STR_2786    :{SMALLFONT}{BLACK}Kattints a parancs leírására új gyorsbillentyű megadásához
 STR_2787    :{WINDOW_COLOUR_2}A park értéke: {BLACK}{CURRENCY}
 STR_2788    :{WINDOW_COLOUR_2}Gratulálunk !{NEWLINE}{BLACK}Sikeresen teljesítetted a kitűzött célt egy {CURRENCY} értékű vállalattal !
@@ -1921,6 +1954,7 @@ STR_2858    :Nem indítható marketingkampány...
 STR_2861    :{WINDOW_COLOUR_2}Az Infogrames Interactive Inc. számára licencelve
 STR_2862    :Zenei köszönetnyilvánítások...
 STR_2863    :Zenei köszönetnyilvánítások
+STR_2901    :{WINDOW_COLOUR_2}(A minták a Spectrasonics „Liquid Grooves”-ának köszönhetőek)
 STR_2971    :Fő színséma
 STR_2972    :Alternatív színséma 1
 STR_2973    :Alternatív színséma 2
@@ -1970,7 +2004,7 @@ STR_3048    :A helyi önkormányzat nem engedélyezi marketingkampányok indít�
 STR_3064    :Kezdő parkok
 STR_3065    :Haladó parkok
 STR_3066    :Nehéz parkok
-STR_3067    :“Igazi” parkok
+STR_3067    :„Igazi” parkok
 STR_3068    :Egyéb parkok
 STR_3071    :{WINDOW_COLOUR_2}Ugyanez az ár mindenhol a parkban
 STR_3072    :{SMALLFONT}{BLACK}Válaszd ki, hogy ezt az árat használják-e mindenhol a parkban
@@ -2046,7 +2080,15 @@ STR_3211    :Térkép mérete:
 STR_3232    :Beállítások - pénzügyi
 STR_3233    :Beállítások - vendégek
 STR_3234    :Beállítások - park
+STR_3235    :{SMALLFONT}{BLACK}Pénzügyi beállítások
+STR_3236    :{SMALLFONT}{BLACK}A vendégek beállításai
+STR_3237    :{SMALLFONT}{BLACK}A park beállításai
 STR_3238    :Nem kell pénz
+STR_3239    :{SMALLFONT}{BLACK}Legyen ez a park egy pénzügyi korlátok nélküli, ’nem kell pénz’ park
+STR_3240    :{WINDOW_COLOUR_2}Kezdőtöke:
+STR_3241    :{WINDOW_COLOUR_2}Kezdeti hitel:
+STR_3242    :{WINDOW_COLOUR_2}Maximális hitelösszeg:
+STR_3243    :{WINDOW_COLOUR_2}Éves kamatláb:
 STR_3279    :Ingyenes parkbelépő / Fizetős játékok
 STR_3280    :Fizetős parkbelépő / Ingyenes játékok
 STR_3281    :{WINDOW_COLOUR_2}Belépési díj:
@@ -2455,7 +2497,7 @@ STR_5621    :Loopy Landscapes
 STR_5622    :RollerCoaster Tycoon 2
 STR_5623    :Wacky Worlds
 STR_5624    :Time Twister
-STR_5625    :“Igazi” parkok
+STR_5625    :„Igazi” parkok
 STR_5626    :Egyéb parkok
 STR_5627    :Pályák csoportosítása:
 STR_5628    :Eredeti játék
@@ -2521,7 +2563,7 @@ STR_5778    :Építés ideje: {COMMA16} éve
 STR_5779    :Bevétel: {CURRENCY2DP} óránként
 STR_5780    :Üzemeltetési költség: {CURRENCY2DP} óránként
 STR_5781    :Üzemeltetési költség: Ismeretlen
-STR_5782    :Kapcsolódva vagy. A(z) '{STRING}' lenyomásával cseveghetsz.
+STR_5782    :Kapcsolódva vagy. A(z) ’{STRING}’ lenyomásával cseveghetsz.
 STR_5783    :{WINDOW_COLOUR_2}Lezárt pálya
 STR_5784    :{BLACK}Teljesíts korábbi pályákat a feloldásához.
 STR_5785    :A csoport nem nevezhető át...
@@ -2542,8 +2584,8 @@ STR_5809    :{WINDOW_COLOUR_2}Információs bódék és egyéb létesítmények 
 STR_5810    :Járműkorlátok feloldása
 STR_5811    :{SMALLFONT}{BLACK}Ha ki van pipálva,{NEWLINE}255 kocsid is lehet vonatonként és 31{NEWLINE}vonatod játékokként
 STR_5812    :Többjátékos mód ablakának megjelenítése
-STR_5813    :“{STRING}”
-STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
+STR_5813    :„{STRING}”
+STR_5814    :{WINDOW_COLOUR_1}„{STRING}”
 
 #tooltips
 STR_5815    :{SMALLFONT}{BLACK}FPS-számláló megjelenítése a játékban
@@ -2627,6 +2669,13 @@ STR_5999    :Pénz beállítása
 STR_6000    :Add meg az új értéket
 STR_6001    :Fényhatások bekapcsolása (kísérleti)
 STR_6002    :{SMALLFONT}{BLACK}A lámpák és a játékok éjjelente világítani fognak.{NEWLINE}A grafikus motort hardveres gyorsítára kell állítani hozzá.
+STR_6003    :Levágó nézet
+STR_6004    :Levágó nézet
+STR_6005    :Levágó nézet bekapcsolása
+STR_6006    :{SMALLFONT}{BLACK}A levágó nézet a térképnek csak a vágási magasságon és alatta levő részeit mutatja (függőleges levágás), vagy a kiválasztott területen találhatóakat (vízszintes levágás).
+STR_6007    :Magasság:
+STR_6008    :{SMALLFONT}{BLACK}Kattints ide a nyers értékek<->mértékegységek közti váltáshoz
+STR_6009    :{SMALLFONT}{BLACK}Válaszd ki a vágási magasságot
 STR_6010    :{COMMA2DP32} m
 STR_6011    :{COMMA1DP16} láb
 STR_6031    :Szerver leírása:
@@ -2667,6 +2716,7 @@ STR_6149    :Nem sikerült csatlakozni a főszerverhez
 STR_6150    :Érvénytelen válasz a főszervertől (nincs JSON-szám)
 STR_6151    :A főszerver nem tudja listázni a szervereket
 STR_6152    :Érvénytelen válasz a főszervertől (nincs JSON-tömb)
+STR_6153    :Fizetős parkbelépő / Fizetős játékok
 STR_6156    :A név le van foglalva
 STR_6157    :Konzol
 STR_6158    :Fájl betöltése sikertelen...{NEWLINE}Nem kompatibilis RCTC verzió: {COMMA16}
@@ -2740,6 +2790,10 @@ STR_6234    :Útproblémák kiemelése
 STR_6235    :Szerver információ
 STR_6236    :Játékosok
 STR_6237    :Csoportok
+STR_6239    :Függőleges levágás
+STR_6240    :Vízszintes levágás
+STR_6241    :Terület kiválasztása
+STR_6242    :Kiválasztás törlése
 STR_6243    :{SMALLFONT}{BLACK}Felújítja a játékot,{NEWLINE}olyan lesz, mintha új lenne
 STR_6244    :Nem újítható fel a játék...
 STR_6245    :{SMALLFONT}{BLACK}A játéknak nincs szüksége felújításra
