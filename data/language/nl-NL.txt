@@ -549,8 +549,8 @@ STR_1167    :Kan het waterniveau hier niet verhogen…
 STR_1168    :Opties
 STR_1169    :(Geen)
 STR_1170    :{STRING}
-STR_1171    :{RED}Gesloten - -
-STR_1172    :{YELLOW}{STRINGID} - -
+STR_1171    :{RED}Gesloten - - 
+STR_1172    :{YELLOW}{STRINGID} - - 
 STR_1173    :{SMALLFONT}{BLACK}Voetpaden en wachtrijen aanleggen
 STR_1174    :Lichtkrant in de weg
 STR_1175    :Kan dit niet op hellend voetpad neerzetten
@@ -721,10 +721,10 @@ STR_1339    :{BLACK}Nog geen testresultaten…
 STR_1340    :{WINDOW_COLOUR_2}Max. snelheid: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Ritduur: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
-STR_1343    :{DURATION} /
+STR_1343    :{DURATION} / 
 STR_1344    :{WINDOW_COLOUR_2}Lengte: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
-STR_1346    :{LENGTH} /
+STR_1346    :{LENGTH} / 
 STR_1347    :{WINDOW_COLOUR_2}Gem. snelheid: {BLACK}{VELOCITY}
 STR_1348    :{WINDOW_COLOUR_2}Max. pos. vert. G-krachten: {BLACK}{COMMA2DP32}g
 STR_1349    :{WINDOW_COLOUR_2}Max. pos. vert. G-krachten: {OUTLINE}{RED}{COMMA2DP32}g
@@ -1107,8 +1107,8 @@ STR_1726    :Dit land is niet te koop!
 STR_1727    :Voor dit land zijn geen bouwrechten te koop!
 STR_1728    :Kan hier geen bouwrechten kopen…
 STR_1729    :Land is geen eigendom van het park!
-STR_1730    :{RED}Gesloten - -
-STR_1731    :{WHITE}{STRINGID} - -
+STR_1730    :{RED}Gesloten - - 
+STR_1731    :{WHITE}{STRINGID} - - 
 STR_1732    :Bouwen
 STR_1733    :Modus
 STR_1734    :{WINDOW_COLOUR_2}Aantal rondes:
@@ -1149,7 +1149,7 @@ STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COM
 STR_1773    :Een attractie mag maar één actiefotogedeelte hebben
 STR_1774    :Een attractie mag maar één kabellift hebben
 STR_1777    :Attractiemuziek
-STR_1778    :{STRINGID} - -
+STR_1778    :{STRINGID} - - 
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Pandapak
 STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Tijgerpak
 STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Olifantenpak
@@ -2104,8 +2104,8 @@ STR_2778    :»{MOVE_X}{SMALLFONT}{STRING}
 STR_2779    :Kijkvenster {COMMA16}
 STR_2780    :Extra kijkvenster
 STR_2781    :{STRINGID}:{MOVE_X}{255}{STRINGID}
-STR_2782    :SHIFT +
-STR_2783    :CTRL +
+STR_2782    :SHIFT + 
+STR_2783    :CTRL + 
 STR_2784    :Sneltoets wijzigen
 STR_2785    :{WINDOW_COLOUR_2}Voer een nieuwe sneltoets in voor:{NEWLINE}‘{STRINGID}’
 STR_2786    :{SMALLFONT}{BLACK}Klik op de beschrijving om een nieuwe sneltoets in te stellen
@@ -2235,7 +2235,7 @@ STR_2977    :Naam werknemer
 STR_2978    :Voer een nieuwe naam in voor deze werknemer:
 STR_2979    :Kan de naam van deze werknemer niet veranderen…
 STR_2980    :Teveel lichtkranten in dit park
-STR_2981    :{RED}Geen toegang - -
+STR_2981    :{RED}Geen toegang - - 
 STR_2982    :Lichtkranttekst
 STR_2983    :Voer een nieuwe tekst in voer deze lichtkrant:
 STR_2984    :Kan de tekst op deze lichtkrant niet veranderen…
@@ -2398,10 +2398,10 @@ STR_3158    :grafiek
 STR_3159    :lijst
 STR_3160    :{SMALLFONT}{BLACK}Selecteer het aantal rondes dat de trein per rit zal afleggen
 STR_3162    :Kan niet voldoende geheugen toewijzen
-STR_3163    :Nieuwe data installeren:
+STR_3163    :Nieuwe data installeren: 
 STR_3164    :{BLACK}{COMMA16} geselecteerd (maximum: {COMMA16})
 STR_3167    :{WINDOW_COLOUR_2}Bevat {BLACK}{COMMA16} objecten
-STR_3169    :Data voor de volgende objecten niet gevonden:
+STR_3169    :Data voor de volgende objecten niet gevonden: 
 STR_3170    :Niet genoeg ruimte voor graphics.
 STR_3171    :er zijn teveel objecten van dit type geselecteerd.
 STR_3172    :De volgende objecten moeten eerst geselecteerd worden:
@@ -2970,7 +2970,7 @@ STR_5463    :Doel: Plezier hebben!
 STR_5464    :Algemeen
 STR_5465    :Weer
 STR_5466    :Werknemers
-STR_5467    :ALT +
+STR_5467    :ALT + 
 STR_5468    :Recente berichten
 STR_5469    :Kaart naar boven scrollen
 STR_5470    :Kaart naar links scrollen
@@ -3134,8 +3134,8 @@ STR_5629    :Moeilijkheidsgraad
 STR_5630    :Moeilijke scenario's ontgrendelden met gemakkelijke
 STR_5631    :Originele DLC
 STR_5632    :Bouw je eigen…
-STR_5633    :CMD +
-STR_5634    :OPTION +
+STR_5633    :CMD + 
+STR_5634    :OPTION + 
 STR_5635    :{WINDOW_COLOUR_2}Uitgegeven geld: {BLACK}{CURRENCY2DP}
 STR_5636    :{WINDOW_COLOUR_2}Uitgevoerde commando's: {BLACK}{COMMA16}
 STR_5637    :Kan dit niet uitvoeren…
