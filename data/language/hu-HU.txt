@@ -49,7 +49,7 @@ STR_0044    :Fordított szabadeséses hullámvasút
 STR_0045    :Lift
 STR_0046    :Függőleges esésű hullámvasút
 STR_0047    :Bankautomata
-STR_0048    :Csavar
+STR_0048    :Csavaró
 STR_0049    :Elvarázsolt kastély
 STR_0050    :Elsősegélynyújtó hely
 STR_0051    :Cirkusz
@@ -94,21 +94,21 @@ STR_0089    :Mini hullámvasút
 STR_0090    :Bányavasút
 STR_0091    :Ismeretlen játék (59)
 STR_0092    :Aszinkronmotoros hullámvasút
-STR_0512    :Egy kompakt hullámvasút spirális felvonórésszel és sima, kanyargó esésekkel
+STR_0512    :Egy kompakt hullámvasút spirális felvonórésszel és sima, csavaros esésekkel
 STR_0513    :Egy átforduló hullámvasút, amelyen az utasok álló helyzetben utaznak
 STR_0514    :A hullámvasút pályája alatt felfüggesztett vonatok oldalt kilengenek a kanyarokban
-STR_0515    :Egy acél hullámvasút, pálya alatt felfüggesztett vonatokkal, valamint számos összetett és kanyargó pályaelemmel
+STR_0515    :Egy acél hullámvasút, pálya alatt felfüggesztett vonatokkal, valamint számos összetett és csavarodó pályaelemmel
 STR_0516    :Egy enyhe hullámvasút azok számára, akik még nem éreznek magukban elég bátorságot ahhoz, hogy felüljenek a nagyobb játékokra
 STR_0517    :Az utasok miniatűr vonatokban utaznak egy keskeny nyomtávú vasúti pályán
 STR_0518    :Az utasok elektromos vonatokon utaznak egy egysínű pályán
 STR_0519    :Az utasok az egysínű pálya alatt felfüggesztett kocsikban utaznak, amelyek kétoldalt szabadon kilengenek a kanyarokban
 STR_0520    :Egy kikötőállomás, ahonnan a vendégek saját vízi járművel utazhatnak/evezhetnek ki a vízre
-STR_0521    :Egy gyors és kanyargó hullámvasút éles kanyarokkal és meredek esésekkel. Nagy intenzitással rendelkezik
+STR_0521    :Egy gyors és csavaros hullámvasút, tele éles kanyarokkal és meredek esésekkel. Nagy intenzitással rendelkezik
 STR_0522    :Egy kisebb hullámvasút, amelyen az utasok a pálya felett ülnek, anélkül, hogy kocsik vennék körbe őket
-STR_0523    :Az utasok motoros járműveikkel lassan haladnak egy kötött pályán
+STR_0523    :Az utasok lassú, motoros járművekben utaznak egy kötött pálya mentén
 STR_0524    :A szabadeséses kocsit pneumatikusan lövik ki egy magas acéltorony tetejére, majd szabadesésben zuhan le onnan
 STR_0525    :Az utasok egy kanyargó pályán száguldanak le, csak a félkör alakú pálya görbületére és dőlésére hagyatkozva
-STR_0526    :Az utasok egy forgó megfigyelőfülkében utaznak fel egy egy magas torony tetejére
+STR_0526    :Az utasok egy forgó megfigyelőfülkében utaznak fel egy magas torony tetejére
 STR_0527    :Egy sima acélpályás hullámvasút, amelyen függőleges hurkok is lehetségesek
 STR_0528    :Az utasok gumicsónakokban utaznak lefelé egy kanyargó, félkör, vagy teljes kör alakú csőpályán
 STR_0529    :A hullámvasút bányavonat témájú vonatai acél hullámvasútpályán futnak, amit egy régi vasúti pályához tettek hasonlatossá
@@ -143,8 +143,11 @@ STR_0560    :Egy hely, ahol a rosszul lett vendégek gyorsabban összeszedhetik 
 STR_0561    :Cirkuszi állatprodukció egy nagy sátorban
 STR_0578    :A kocsik egy abroncsokkal körbefogott, meredek esésekkel és palástorsókkal teli pálya mentén haladnak
 STR_0579    :Egy enyhe minigolf-játék
+STR_0582    :Önvezető légpárnás járművek
 STR_0588    :Különálló kocsik futnak a cikcakkos, hajtűkanyarokkal és éles esésekkel teli pálya alatt
-STR_0600    :Motoros bányavonatok futnak egy sima és kanyargós pálya mentén
+STR_0599    :Egy kompakt hullámvasút különálló kocsikkal és sima, csavaros esésekkel
+STR_0600    :Motoros bányavonatok futnak egy sima és csavaros pálya mentén
+STR_0602    :A hullámvasút vonatai aszinkronmotoros gyorsítással hagyják el az állomást, hogy átszáguldjanak a csavaros fordítókon
 STR_0767    :Vendég {INT32}
 STR_0768    :Mindenes {INT32}
 STR_0769    :Gépész {INT32}
@@ -672,6 +675,8 @@ STR_1352    :{WINDOW_COLOUR_2}Max. oldalirányú gyorsulás: {BLACK}{COMMA2DP32}
 STR_1353    :{WINDOW_COLOUR_2}Max. oldalirányú gyorsulás: {OUTLINE}{RED}{COMMA2DP32}g
 STR_1354    :{WINDOW_COLOUR_2}Legmagasabb esés: {BLACK}{LENGTH}
 STR_1355    :{WINDOW_COLOUR_2}Esések: {BLACK}{COMMA16}
+STR_1356    :{WINDOW_COLOUR_2}Fordítások: {BLACK}{COMMA16}
+STR_1357    :{WINDOW_COLOUR_2}Lyukak: {BLACK}{COMMA16}
 STR_1358    :{WINDOW_COLOUR_2}Összes levegőben töltött idő: {BLACK}{COMMA2DP32} mp
 STR_1359    :{WINDOW_COLOUR_2}Sorbanállási idő: {BLACK}{COMMA16} perc
 STR_1360    :{WINDOW_COLOUR_2}Sorbanállási idő: {BLACK}{COMMA16} perc
@@ -1610,8 +1615,8 @@ STR_2436    :1 hét
 STR_2443    :{WINDOW_COLOUR_2}Heti költség: {BLACK}{CURRENCY2DP}
 STR_2444    :{WINDOW_COLOUR_2}Összköltség: {BLACK}{CURRENCY2DP}
 STR_2445    :Reklámkampány indítása
-STR_2452    :{WINDOW_COLOUR_2}Pénz (hitel nélkül: {BLACK}{CURRENCY2DP}
-STR_2453    :{WINDOW_COLOUR_2}Pénz (hitel nélkül: {RED}{CURRENCY2DP}
+STR_2452    :{WINDOW_COLOUR_2}Pénz (hitel nélkül): {BLACK}{CURRENCY2DP}
+STR_2453    :{WINDOW_COLOUR_2}Pénz (hitel nélkül): {RED}{CURRENCY2DP}
 STR_2457    :{SMALLFONT}{BLACK}A pénzügyi számlák adatai
 STR_2458    :{SMALLFONT}{BLACK}Grafikon a pénz (kölcsön nélküli) alakulásáról
 STR_2459    :{SMALLFONT}{BLACK}Grafikon a park értékének alakulásáról
@@ -2001,6 +2006,18 @@ STR_3044    :Cukorka stílus
 STR_3045    :{SMALLFONT}{BLACK}Válaszd ki, hogy milyen stílusú zenét játsszon
 STR_3047    :A helyi önkormányzat nem engedélyezi a játék lerombolását vagy módosítását
 STR_3048    :A helyi önkormányzat nem engedélyezi marketingkampányok indítását
+STR_3049    :Golflyuk A
+STR_3050    :Golflyuk B
+STR_3051    :Golflyuk C
+STR_3052    :Golflyuk D
+STR_3053    :Golflyuk E
+STR_3054    :Betöltés...
+STR_3058    :Téglafalak
+STR_3059    :Sövények
+STR_3060    :Jégtömbök
+STR_3061    :Fakerítések
+STR_3062    :{SMALLFONT}{BLACK}Szabványos hullámvasútpálya
+STR_3063    :{SMALLFONT}{BLACK}Vízcsatorna (víz alatti pálya)
 STR_3064    :Kezdő parkok
 STR_3065    :Haladó parkok
 STR_3066    :Nehéz parkok
@@ -2120,11 +2137,24 @@ STR_3342    :Pályaszerkesztő
 STR_3343    :Mentett játék pályává alakítása
 STR_3344    :Játéktervező
 STR_3345    :Játékterv-kezelő
+STR_3346    :A játékterv nem menthető el...
+STR_3347    :A játék túl nagy, túl sok elemből áll, vagy a díszlet túl kiterjedt
 STR_3348    :Átnevezés
 STR_3349    :Törlés
+STR_3350    :Játékterv neve
+STR_3351    :Írj be egy új nevet a játékterv számára:
+STR_3352    :Nem nevezhető át a játékterv...
+STR_3353    :Az új név érvénytelen karaktereket tartalmaz
+STR_3354    :Létezik ezen a néven egy másik fájl, vagy a fájl írásvédett
+STR_3355    :A fájl írásvédett vagy zárolt
 STR_3356    :Fájl törlése
+STR_3357    :{WINDOW_COLOUR_2}Biztos, hogy véglegesen törölni akarod ezt: {STRING} ?
+STR_3358    :A játékterv nem törölhető...
+STR_3359    :{BLACK}Nincs ilyen típusú játékterv
 STR_3360    :Figyelmeztetés!
+STR_3361    :Túl sok játékterv van ebből a típusból - Néhány nem lesz listázva.
 STR_3364    :Haladó
+STR_3365    :{SMALLFONT}{BLACK}A díszletcsoportok mellé egyedi díszletelemek is választhatóak
 STR_3366    :{BLACK}= Játék
 STR_3367    :{BLACK}= Ételes bódé
 STR_3368    :{BLACK}= Italos bódé
@@ -2133,8 +2163,22 @@ STR_3370    :{BLACK}= Információs bodé
 STR_3371    :{BLACK}= Elsősegély
 STR_3372    :{BLACK}= Bankautomata
 STR_3373    :{BLACK}= WC
+STR_3374    :Figyelem: Túl sok objektum van kiválasztva!
+STR_3375    :A díszletcsoport nem minden objektumát lehetett kiválasztani
+STR_3376    :Új telepítése
+STR_3377    :{SMALLFONT}{BLACK}Új játéktervfájl telepítése
 STR_3378    :Telepítés
 STR_3379    :Mégse
+STR_3380    :A játékterv nem telepíthető...
+STR_3381    :A fájl nem kompatibilis, vagy érvénytelen adatokat tartalmaz
+STR_3382    :A fájl másolása meghiúsult
+STR_3383    :Válassz egy új nevet a játékterv számára
+STR_3384    :Már létezik egy játékterv ezen a néven  - Kérlek válassz egy új nevet a terv számára:
+STR_3389    :Nem választható ki több díszletelem...
+STR_3390    :Túl sok elem van kiválasztva
+STR_3437    :{SMALLFONT}{BLACK}Nagy földterületek megtisztítása a díszletektől
+STR_3438    :Nem távolítható el az összes díszlet innen...
+STR_3439    :Díszlet törlése
 STR_3440    :1. oldal
 STR_3441    :2. oldal
 STR_3442    :3. oldal
@@ -2227,7 +2271,7 @@ STR_5270    :{SMALLFONT}{BLACK}Egyéb
 STR_5271    :{SMALLFONT}{BLACK}Twitch
 STR_5272    :{SMALLFONT}{BLACK}Kis díszletek
 STR_5273    :{SMALLFONT}{BLACK}Nagy díszletek
-STR_5274    :{SMALLFONT}{BLACK}Gyalogút
+STR_5274    :{SMALLFONT}{BLACK}Út
 STR_5275    :Objektumok keresése
 STR_5276    :Add meg a keresendő objektum nevét
 STR_5277    :Törlés
