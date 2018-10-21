@@ -147,6 +147,7 @@ STR_0579    :Egy enyhe minigolf-játék
 STR_0582    :Önvezető légpárnás járművek
 STR_0584    :Speciális, az utasok pedálozásával hajtott biciklik futnak egy acél egysínű pályán
 STR_0588    :Különálló kocsik futnak a cikcakkos, hajtűkanyarokkal és éles esésekkel teli pálya alatt
+STR_0589    :Egy nagy, repülőszőnyeg-témájú kocsi, amely ciklikusan fel-le mozog a 4 kar végén
 STR_0590    :Az utasok egy alámerült tengeralattjáróban utaznak végig egy víz alatti pályán
 STR_0599    :Egy kompakt hullámvasút különálló kocsikkal és sima, csavaros esésekkel
 STR_0600    :Motoros bányavonatok futnak egy sima és csavaros pálya mentén
@@ -286,6 +287,7 @@ STR_0924    :{SMALLFONT}{BLACK}Spirálpálya lefelé
 STR_0925    :{SMALLFONT}{BLACK}Spirálpálya felfelé
 STR_0926    :Nem távolítható el...
 STR_0927    :Nem építhető ide...
+STR_0928    :{SMALLFONT}{BLACK}Láncos felvonó, a kocsik emelkedőkön történő felhúzására
 STR_0929    :S kanyar (balra)
 STR_0930    :S kanyar (jobbra)
 STR_0931    :Függőleges hurok (balra)
@@ -706,8 +708,19 @@ STR_1357    :{WINDOW_COLOUR_2}Lyukak: {BLACK}{COMMA16}
 STR_1358    :{WINDOW_COLOUR_2}Összes levegőben töltött idő: {BLACK}{COMMA2DP32} mp
 STR_1359    :{WINDOW_COLOUR_2}Sorbanállási idő: {BLACK}{COMMA16} perc
 STR_1360    :{WINDOW_COLOUR_2}Sorbanállási idő: {BLACK}{COMMA16} perc
+STR_1361    :Nem változtatható meg a sebesség...
+STR_1362    :Nem változtatható meg a kilövési sebesség...
+STR_1367    :Félhurok
+STR_1368    :Fél dugóhúzó (balra)
+STR_1369    :Fél dugóhúzó (jobbra)
+STR_1370    :Orsó (balra)
+STR_1371    :Orsó (jobbra)
+STR_1372    :Kilövős felvonószakasz
+STR_1373    :Nagy félhurok (balra)
+STR_1374    :Nagy félhurok (jobbra)
 STR_1377    :Palástorsó (balra)
 STR_1378    :Palástorsó (jobbra)
+STR_1383    :Negyed hurok
 STR_1384    :{YELLOW}{STRINGID}
 STR_1385    :{SMALLFONT}{BLACK}Egyéb pályaelemek
 STR_1386    :Speciális...
@@ -2015,6 +2028,8 @@ STR_2799    :{SMALLFONT}{BLACK}A billentyűparancsok megtekintése vagy módosí
 STR_2800    :{WINDOW_COLOUR_2}Összes belépő: {BLACK}{COMMA32}
 STR_2801    :{WINDOW_COLOUR_2}Bevétel a belépőkből: {BLACK}{CURRENCY2DP}
 STR_2802    :Térkép
+STR_2803    :{SMALLFONT}{BLACK}A kiválasztott vendégek kiemelése a térképen
+STR_2804    :{SMALLFONT}{BLACK}A kiválasztott alkalmazottak kiemelése a térképen
 STR_2805    :{SMALLFONT}{BLACK}A park térképének megjelenítése
 STR_2806    :{RED}A vendégek panaszkodnak, mert az utak a parkodban gyomorforgatóak{NEWLINE}Nézd meg hol vannak a mindeneseid és próbáld meg jobban szervezni őket
 STR_2807    :{RED}A vendégek panaszkodnak a parkodban lévő szemét mennyisége miatt{NEWLINE}Nézd meg hol vannak a mindeneseid és próbáld meg jobban szervezni őket
@@ -2024,6 +2039,40 @@ STR_2810    :{RED}A vendégek szomjasak és sehol nem tudnak italt venni
 STR_2811    :{RED}A vendégek panaszkodnak, mert nem találják a WC-ket a parkodban
 STR_2812    :{RED}A vendégek eltévednek vagy beragadnak{NEWLINE}Nézd meg lehet-e javítani az úthálózatodon, hogy a vendégek biztosan elérjék a céljukat
 STR_2813    :{RED}A parkod belépési díja túl magas!{NEWLINE}Csökkentsd a belépési díjad, vagy növeld a park értékét, hogy több vendéget vonzz
+STR_2814    :{WINDOW_COLOUR_2}A legkoszosabb park díja
+STR_2815    :{WINDOW_COLOUR_2}A legtisztább park díja
+STR_2816    :{WINDOW_COLOUR_2}A legjobb hullámvasutakkal rendelkező park díja
+STR_2817    :{WINDOW_COLOUR_2}A legjobb értékű park díja
+STR_2818    :{WINDOW_COLOUR_2}A legszebb park díja
+STR_2819    :{WINDOW_COLOUR_2}A legrosszabb értékű park díja
+STR_2820    :{WINDOW_COLOUR_2}A legbiztonságosabb park díja
+STR_2821    :{WINDOW_COLOUR_2}A legjobb személyzet díja
+STR_2822    :{WINDOW_COLOUR_2}A legjobb ételekkel rendelkező park díja
+STR_2823    :{WINDOW_COLOUR_2}A legrosszabb ételekkel rendelkező park díja
+STR_2824    :{WINDOW_COLOUR_2}A legjobb WC-kkel rendelkező park díja
+STR_2825    :{WINDOW_COLOUR_2}A legkiábrándítóbb park díja
+STR_2826    :{WINDOW_COLOUR_2}A legjobb vízi játékok díja
+STR_2827    :{WINDOW_COLOUR_2}A legjobb egyedi tervezésű játékok díja
+STR_2828    :{WINDOW_COLOUR_2}A legkáprázatosabb színsémájú játékok díja
+STR_2829    :{WINDOW_COLOUR_2}A legzavarbaejtőbb alaprajzú park díja
+STR_2830    :{WINDOW_COLOUR_2}A legjobb enyhe játékok díja
+STR_2831    :{TOPAZ}A parkod megkapta „A legkoszosabb park az országban” díjat!
+STR_2832    :{TOPAZ}A parkod megkapta „A legtisztább park az országban” díjat!
+STR_2833    :{TOPAZ}A parkod megkapta „A legjobb hullámvasutakkal rendelkező park” díjat!
+STR_2834    :{TOPAZ}A parkod megkapta „A legjobb értékű park az országban” díjat!
+STR_2835    :{TOPAZ}A parkod megkapta „A legszebb park az országban” díjat!
+STR_2836    :{TOPAZ}A parkod megkapta „A legrosszabb értékű park az országban” díjat!
+STR_2837    :{TOPAZ}A parkod megkapta „A legbiztonságosabb park az országban” díjat!
+STR_2838    :{TOPAZ}A parkod megkapta „A legjobb személyzetű park” díjat!
+STR_2839    :{TOPAZ}A parkod megkapta „A legjobb ételekkel rendelkező park az országban” díjat!
+STR_2840    :{TOPAZ}A parkod megkapta „A legrosszabb ételekkel rendelkező park az országban” díjat!
+STR_2841    :{TOPAZ}A parkod megkapta „A legjobb illemhelyekkel rendelkező park az országban” díjat!
+STR_2842    :{TOPAZ}A parkod megkapta „A legkiábrándítóbb park az országban” díjat!
+STR_2843    :{TOPAZ}A parkod megkapta „A legjobb vízi játékokkal rendelkező park az országban” díjat!
+STR_2844    :{TOPAZ}A parkod megkapta „A legjobb egyedi tervezésű játékokkal rendelkező park” díjat!
+STR_2845    :{TOPAZ}A parkod megkapta „A legkáprázatosabb színsémájú játékokal rendelkező park” díjat!
+STR_2846    :{TOPAZ}A parkod megkapta „A legzavarbaejtőbb alaprajzú park” díjat!
+STR_2847    :{TOPAZ}A parkod megkapta „A legjobb enyhe játékokal rendelkező rendelkező park” díjat!
 STR_2848    :{WINDOW_COLOUR_2}Nincsenek friss díjak
 STR_2849    :Az új pálya sikeresen telepítve
 STR_2850    :Az új játékterv sikeresen telepítve
@@ -2347,6 +2396,10 @@ STR_5133    :{SMALLFONT}{BLACK}Vásárlás kisebb területen
 STR_5134    :{SMALLFONT}{BLACK}Vásárlás nagyobb területen
 STR_5135    :{SMALLFONT}{BLACK}Földterületek és építési jogok vásárlása
 STR_5136    :Földjogok
+STR_5138    :{SMALLFONT}{WINDOW_COLOUR_2}{STRINGID}
+STR_5139    :{WHITE}{STRINGID}
+STR_5140    :Fékhibák kikapcsolása
+STR_5141    :Meghibásodások kikapcsolása
 STR_5142    :Normál
 STR_5143    :Gyors
 STR_5144    :Extra gyors
@@ -2377,7 +2430,15 @@ STR_5170    :{SMALLFONT}{BLACK}A vendégek Twitch chat résztvevők utáni elnev
 STR_5171    :Chat résztvevőkről elnevezett vendégek követése
 STR_5173    :Twitch chat hírként történő megjelenítése
 STR_5177    :Képernyőmód:
+STR_5178    :{SMALLFONT}{BLACK}Pénzügyi csalások
+STR_5179    :{SMALLFONT}{BLACK}Vendég-csalások
+STR_5180    :{SMALLFONT}{BLACK}Park-csalások
+STR_5181    :{SMALLFONT}{BLACK}Játék-csalások
 STR_5182    :{INT32}
+STR_5183    :Alapmagasság
+STR_5184    :Add meg az alapmagasságot {COMMA16} és {COMMA16} között
+STR_5185    :Vízszint
+STR_5186    :Add meg az vízszintet {COMMA16} és {COMMA16} között
 STR_5187    :Pénzügyek
 STR_5188    :Új kampány
 STR_5189    :Kutatás
