@@ -5,25 +5,25 @@ STR_0000    :...
 ```
 
 Updated in:
-- [ ] en-US
+- [ ] ar-EG
+- [ ] ca-ES
 - [ ] cs-CZ
-- [ ] nl-NL
-- [ ] fr-FR
+- [ ] da-DK
 - [ ] de-DE
-- [ ] pt-BR
+- [ ] en-US
 - [ ] es-ES
+- [ ] fr-FR
+- [ ] hu-HU
 - [ ] it-IT
-- [ ] sv-SE
-- [ ] nb-NO
+- [ ] ja-JP
 - [ ] ko-KR
+- [ ] nb-NO
+- [ ] nl-NL
+- [ ] pt-BR
+- [ ] sv-SE
+- [ ] tr-TR
 - [ ] zh-CN
 - [ ] zh-TW
-- [ ] ca-ES
-- [ ] ja-JP
-- [ ] ar-EG
-- [ ] da-DK
-- [ ] tr-TR
-- [ ] hu-HU
 
 Notification when new strings arrive:
 @Nubbie @Goddesen @octaroot @telk5093 @Omaranwa @danidoedel @LPSGizmo @BobbyS38 @frenchiveruti @anon569
