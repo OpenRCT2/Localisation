@@ -2225,7 +2225,7 @@ STR_2896    :{WINDOW_COLOUR_2}Hypothermia:   (Allister Brimble) copyright © Chr
 STR_2897    :{WINDOW_COLOUR_2}Last Sleigh Ride:   (Allister Brimble) copyright © Chris Sawyer
 STR_2898    :{WINDOW_COLOUR_2}Pipes of Glencairn:   (Allister Brimble) copyright © Chris Sawyer
 STR_2899    :{WINDOW_COLOUR_2}Traffic Jam:   (Allister Brimble) copyright © Chris Sawyer
-STR_2901    :{WINDOW_COLOUR_2}(Samples courtesy of Spectrasonics ”Liquid Grooves”)
+STR_2901    :{WINDOW_COLOUR_2}(Samplet fra Spectrasonics ”Liquid Grooves”)
 STR_2902    :{WINDOW_COLOUR_2}Toccata:   (C.M.Widor, played by Peter James Adcock) recording © Chris Sawyer
 STR_2903    :{WINDOW_COLOUR_2}Space Rock:   (Allister Brimble) copyright © Chris Sawyer
 STR_2904    :{WINDOW_COLOUR_2}Manic Mechanic:   (Allister Brimble) copyright © Chris Sawyer
@@ -2498,7 +2498,7 @@ STR_3255    :Kan ikke reducere rentesats yderligere!
 STR_3256    :Gæster foretrækker mindre intense forlystelser
 STR_3257    :{SMALLFONT}{BLACK}Vælg om gæster generelt foretrækker mindre intelse forlystelser
 STR_3258    :Gæster foretrækker mere intnse forlystelser
-STR_3259    :{SMALLFONT}{BLACK}SVælg om gæster generelt foretrækker mere intelse forlystelser
+STR_3259    :{SMALLFONT}{BLACK}Vælg om gæster generelt foretrækker mere intelse forlystelser
 STR_3260    :{WINDOW_COLOUR_2}Penge per gæst (gennemsnit):
 STR_3261    :{WINDOW_COLOUR_2}Gæsters start-glæde:
 STR_3262    :{WINDOW_COLOUR_2}Gæsters start-sult:
@@ -2901,7 +2901,7 @@ STR_5389    :{SMALLFONT}{BLACK}spring til den valgte kommando i titelsekvensen
 STR_5390    :{SMALLFONT}{BLACK}Flyt valgte kommando ned
 STR_5391    :{SMALLFONT}{BLACK}Flyt valgte kommando op
 STR_5392    :{SMALLFONT}{BLACK}Tilføj en gemning til den valgte sekvens
-STR_5393    :{SMALLFONT}{BLACK}Fejrn en gemning fra den valgte sekvens
+STR_5393    :{SMALLFONT}{BLACK}Fjern en gemning fra den valgte sekvens
 STR_5394    :{SMALLFONT}{BLACK}Omdøb det valgte gemte spil
 STR_5395    :{SMALLFONT}{BLACK}Load the selected save in game
 STR_5396    :{SMALLFONT}{BLACK}Genindlæs titelsekvens, hvis der er lavet ændringer uden for spillet
@@ -3288,7 +3288,7 @@ STR_5813    :“{STRING}”
 STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 
 #tooltips
-STR_5815    :{SMALLFONT}{BLACK}Display FPS counter in-game
+STR_5815    :{SMALLFONT}{BLACK}Vis FPS tæller i spillet
 STR_5816    :{SMALLFONT}{BLACK}Sets ratio to scale the game by.{NEWLINE}Most useful when playing in{NEWLINE}high resolutions
 STR_5817    :{SMALLFONT}{BLACK}Sets UI scaling type. Requires hardware display to be used.{NEWLINE}Linear scaling is smooth, but blurry. Smooth Nearest Neighbour scaling is sharp, but can cause a minor performance hit.
 STR_5819    :{SMALLFONT}{BLACK}[Requires hardware display]{NEWLINE}Pause the game if Steam{NEWLINE}in-game overlay is opened
@@ -3714,14 +3714,14 @@ STR_6240    :Horizontal Clipping
 STR_6241    :Select area
 STR_6242    :Clear selection
 STR_6243    :{SMALLFONT}{BLACK}Refurbishes the ride,{NEWLINE}makes it like new
-STR_6244    :Kan ikke renovere ride...
-STR_6245    :{SMALLFONT}{BLACK}Ride doesn't need refurbishing
+STR_6244    :Kan ikke renovere forlystelse...
+STR_6245    :{SMALLFONT}{BLACK}Forlystelse har ikke brug for renovering
 STR_6246    :Renovér
-STR_6247    :Renovér ride/attraction
-STR_6248    :{WINDOW_COLOUR_1}Do you want to renovere {STRINGID} for {CURRENCY}?
-STR_6249    :{WINDOW_COLOUR_1}Do you want to renovere {STRINGID}?
+STR_6247    :Renovér forlystelse/attraktion
+STR_6248    :{WINDOW_COLOUR_1}Vil du renovere {STRINGID} for {CURRENCY}?
+STR_6249    :{WINDOW_COLOUR_1}Vil du renovere {STRINGID}?
 STR_6250    :{WINDOW_COLOUR_1}Are you sure you want to completely demolish {STRINGID} and gain {CURRENCY}?
-STR_6251    :Ride is not empty yet
+STR_6251    :Forlystelse er ikke tom endnu
 STR_6252    :Twitch API URL
 STR_6253    :{SMALLFONT}{BLACK}Provide URL of Twitch integration API. Required in order to enable Twitch integration.
 STR_6254    :URL of Twitch integration API:
@@ -3729,7 +3729,24 @@ STR_6255    :URL is not valid
 STR_6256    :Rendering effects
 STR_6257    :Glassy (translucent)
 STR_6258    :Clear (transparent)
-STR_6259    :Disabled
+STR_6259    :Deaktiveret
+STR_6260    :Vis blokerede felter
+STR_6261    :Vis brede stier
+STR_6262    :Master volume
+STR_6263    :{SMALLFONT}{BLACK}Toggle all sound on/off
+STR_6264    :Always use system file browser
+STR_6265    :{SMALLFONT}{BLACK}Når aktiv, operatingsystemets stifinder vil blive benyttet i stedet for det indbygget i OpenRCT2's.
+STR_6266    :Åben folder til brugerdefineret indhold
+STR_6267    :Åben feltinspektion
+STR_6268    :frem til næste tick
+STR_6269    :Ugyldig klima ID
+STR_6270    :Terræn overflader
+STR_6271    :Terræn kanter
+STR_6272    :Stationer
+STR_6273    :Musik
+STR_6274    :Kan ikke sætte farveskema...
+STR_6275    :{WINDOW_COLOUR_2}Stations stil:
+STR_6276    :{RED}{STRINGID} har fastklemte gæster, muligvis på grund af forkert forlystelsetype eller operations tilstand.
 
 #############
 # Scenarios #
