@@ -3586,8 +3586,8 @@ STR_6125    :Tipo objeto
 STR_6126    :Tipo desconocido
 STR_6127    :Archivo: {STRING}
 STR_6128    :El archivo no se puede cargar ya que algunos de los objetos a los que hace referencia en él faltan o están corruptos. Se muestra un listado de estos objetos:
-STR_6129    :Copiar elemento seleccionado
-STR_6130    :Copiar todos los elementos
+STR_6129    :Copiar
+STR_6130    :Copiar todo
 STR_6131    :Origen
 STR_6132    :Ignorar estado de investigación
 STR_6133    :{SMALLFONT}{BLACK}Acceder a atracciones y escenarios que aún no han sido inventados
@@ -3756,6 +3756,11 @@ STR_6295    :MiB
 STR_6296    :GiB
 STR_6297    :TiB
 STR_6298    :{STRING}/seg
+STR_6299    :Descargar todo
+STR_6300    :{SMALLFONT}{BLACK}Descargar todos los objetos faltantes si están disponibles en línea.
+STR_6301    :{SMALLFONT}{BLACK}Copia el nombre del objeto seleccionado al portapapeles.
+STR_6302    :{SMALLFONT}{BLACK}Copia la lista completa de objetos faltantes en el portapapeles.
+STR_6303    :Descargando objeto ({COMMA16} / {COMMA16}): [{STRING}]
 
 ##############
 # Escenarios #
