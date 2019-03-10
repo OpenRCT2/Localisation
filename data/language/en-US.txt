@@ -118,7 +118,7 @@ STR_1438    :Sitting
 STR_1439    :(select location)
 STR_1440    :Mowing grass
 STR_1441    :Sweeping footpath
-STR_1442    :Emptying litter bin
+STR_1442    :Emptying trash can
 STR_1443    :Watering gardens
 STR_1444    :Watching {STRINGID}
 STR_1445    :Watching construction of {STRINGID}
@@ -182,7 +182,7 @@ STR_1502    :{SMALLFONT}“I need to go to the bathroom”
 STR_1503    :{SMALLFONT}“I can't find {STRINGID}”
 STR_1504    :{SMALLFONT}“I'm not paying that much to use {STRINGID}”
 STR_1505    :{SMALLFONT}“I'm not going on {STRINGID} while it's raining”
-STR_1506    :{SMALLFONT}“The litter here is really bad”
+STR_1506    :{SMALLFONT}“The trash here is really bad”
 STR_1507    :{SMALLFONT}“I can't find the park exit”
 STR_1508    :{SMALLFONT}“I want to get off {STRINGID}”
 STR_1509    :{SMALLFONT}“I want to get out of {STRINGID}”
@@ -389,7 +389,7 @@ STR_1710    :Yes
 STR_1711    :{WINDOW_COLOUR_1}Are you sure you want to sack {STRINGID}?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Sweep footpaths
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Water gardens
-STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Empty litter bins
+STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Empty trash cans
 STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Mow grass
 STR_1716    :Invalid name for park
 STR_1717    :Can't rename park...
@@ -847,12 +847,17 @@ STR_2207    :Empty Juice Cup
 STR_2208    :Roast Sausage
 STR_2209    :Empty Bowl
 
+STR_2353    :{WINDOW_COLOUR_2}Trash swept: {BLACK}{COMMA16}
+STR_2354    :{WINDOW_COLOUR_2}Trash cans emptied: {BLACK}{COMMA16}
+
 STR_2707    :Use system dialog window
 
 STR_2735    :{COMMA16}km/h
 
+STR_2756    :Remove trash
+
 STR_2806    :{RED}Guests are complaining about the disgusting state of the paths in your park{NEWLINE}Check where your handymen are and consider organizing them better
-STR_2807    :{RED}Guests are complaining about the amount of litter in your park{NEWLINE}Check where your handymen are and consider organizing them better
+STR_2807    :{RED}Guests are complaining about the amount of trash in your park{NEWLINE}Check where your handymen are and consider organizing them better
 STR_2808    :{RED}Guests are complaining about the vandalism in your park{NEWLINE}Check where your security guards are and consider organizing them better
 
 STR_2811    :{RED}Guests are complaining because they can't find the bathrooms in your park
