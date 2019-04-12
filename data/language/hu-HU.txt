@@ -2239,7 +2239,6 @@ STR_3190    :Úti extrák
 STR_3191    :Díszletcsoportok
 STR_3192    :Park bejárata
 STR_3193    :Víz
-STR_3194    :Pálya leírása
 STR_3195    :Találmányok listája
 STR_3196    :{WINDOW_COLOUR_2}Kutatási csoport: {BLACK}{STRINGID}
 STR_3197    :{WINDOW_COLOUR_2}A játék kezdetekor már elérhető találmányok:
@@ -2792,6 +2791,7 @@ STR_5762    :Kínai jüan (CN¥)
 STR_5763    :Minden fájl
 STR_5764    :Érvénytelen játéktípus
 STR_5765    :Az érvénytelen típusú játékok nem szerkeszthetők
+STR_5766    :Magyar forint (Ft)
 STR_5767    :Bevétel
 STR_5768    :Összes vendég
 STR_5769    :Teljes nyereség
@@ -2807,7 +2807,7 @@ STR_5778    :Építés ideje: {COMMA16} éve
 STR_5779    :Bevétel: {CURRENCY2DP} óránként
 STR_5780    :Üzemeltetési költség: {CURRENCY2DP} óránként
 STR_5781    :Üzemeltetési költség: Ismeretlen
-STR_5782    :Kapcsolódva vagy. A(z) ’{STRING}’ lenyomásával cseveghetsz.
+STR_5782    :Csatlakoztál. A(z) ’{STRING}’ lenyomásával cseveghetsz.
 STR_5783    :{WINDOW_COLOUR_2}Lezárt pálya
 STR_5784    :{BLACK}Teljesíts korábbi pályákat a feloldásához.
 STR_5785    :A csoport nem nevezhető át...
@@ -2935,6 +2935,7 @@ STR_6010    :{COMMA2DP32} m
 STR_6011    :{COMMA1DP16} láb
 STR_6016    :Mező módosítása
 STR_6017    :Kérlek lassíts
+STR_6030    :{SMALLFONT}{BLACK}Díszletválasztó. Kattints bármelyik díszletre a térképen, hogy újat építhess ugyanabból a darabból.
 STR_6031    :Szerver leírása:
 STR_6032    :Szerver üdvözlés:
 STR_6033    :Az RCT1 telepítési útvonala:
@@ -2997,7 +2998,7 @@ STR_6159    :Sima legközelebbi szomszéd
 STR_6161    :Rácsok megjelenítése be/ki
 STR_6162    :Forgó vad egér
 STR_6164    :{WHITE}❌
-STR_6165    :Vertikális szinkron használata
+STR_6165    :Vertikális szinkron
 STR_6166    :{SMALLFONT}{BLACK}A megjelenített képkockákat a kijelző frissítési gyakoriságához igazítja, így megakadályozza a kép szétcsúszását.
 STR_6167    :{SMALLFONT}{BLACK}Haladó
 STR_6168    :Főcím
@@ -3134,6 +3135,9 @@ STR_6300    :{SMALLFONT}{BLACK}Az összes hiányzó objektum letöltése, ha el�
 STR_6301    :{SMALLFONT}{BLACK}A kiválasztott objektumnév vágólapra másolása.
 STR_6302    :{SMALLFONT}{BLACK}A hiányzó objektumok teljes listájának vágólapra másolása.
 STR_6303    :Objektum letöltése ({COMMA16} / {COMMA16}): [{STRING}]
+STR_6304    :Díszletválasztó megnyitása
+STR_6305    :Többszálúság
+STR_6306    :{SMALLFONT}{BLACK}Kísérleti beállítás, mellyel bekapcsolható a több szálon történő megjelenítés, instabilitást okozhat.
 
 #############
 # Scenarios #
@@ -3403,6 +3407,155 @@ STR_DTLS    :Egy nagy kertnek arra van szüksége, hogy sikeres vidámpark legye
 
 
 ## Loopy Landscapes
+<Iceberg Islands>
+STR_SCNR    :Jéghegy-szigetek
+STR_PARK    :Jéghegy-szigetek
+STR_DTLS    :Ez az ambiciózus vidámpark egy csoportnyi jéghegyre épült
+
+<Volcania>
+STR_SCNR    :Vulkánia
+STR_PARK    :Vulkánia
+STR_DTLS    :Egy szunnyadó vulkán adja ennek a hullámvasút-építő kihívásnak a helyszínét
+
+<Arid Heights>
+STR_SCNR    :Száraz Magasságok
+STR_PARK    :Száraz Magasságok
+STR_DTLS    :Az a kihívásod, hogy gondoskodj a park fejlesztéséről, miközben biztosítod a vendégek jókedvét, pénzügyi korlátok nélkül
+
+<Razor Rocks>
+STR_SCNR    :Borotva Sziklák
+STR_PARK    :Borotva Sziklák
+STR_DTLS    :Az a feladatod, hogy egy masszív, hullámvasutakkal teli parkot alakíts ki a Borotva Sziklák között
+
+<Crater Lake>
+STR_SCNR    :Kráter-tó
+STR_PARK    :Kráter-tó
+STR_DTLS    :Egy ősi kráterben elterülő hatalmas tó a park a helyszíne
+
+<Vertigo Views>
+STR_SCNR    :Szédítő Kilátások
+STR_PARK    :Szédítő Kilátások
+STR_DTLS    :Ebben a nagy parkban már van egy kiváló hiperhullámvasút, de sokkal nyereségesebbé kell tenned
+
+<Paradise Pier 2>
+STR_SCNR    :Paradicsomi Móló 2
+STR_PARK    :Paradicsomi Móló 2
+STR_DTLS    :Paradicsomi Móló kiterjesztette a tenger feletti sétány-hálózatát és a feladatod az, hogy a park bővítésével biztosítsd az extra hely kihasználtságát
+
+<Dragon's Cove>
+STR_SCNR    :Sárkány-öböl
+STR_PARK    :Sárkány-öböl
+STR_DTLS    :Ez a tengerparti öböl a helyszíne ennek a hullámvasút-építő kihívásnak
+
+<Good Knight Park>
+STR_SCNR    :Jó Lovag Park
+STR_PARK    :Jó Lovag Park
+STR_DTLS    :Egy kastély két hullámvasúttal, amit egy nagyobb vidámparkká kell fejlesztened
+
+<Wacky Warren>
+STR_SCNR    :Nyüzsgő Nyúlkert
+STR_PARK    :Nyüzsgő Nyúlkert
+STR_DTLS    :Egy park, ahol az utak és hullámvasutak nagy része föld alatt van
+
+<Grand Glacier>
+STR_SCNR    :Nagy Gleccser
+STR_PARK    :Nagy Gleccser
+STR_DTLS    :Fejleszd vidámparkká ezt a gleccserekkel teli völgyet
+
+<Crazy Craters>
+STR_SCNR    :Őrült Kráterek
+STR_PARK    :Őrült Kráterek
+STR_DTLS    :Egy messzi világban, ahol nincs szükség pénzre, szórakoztató központot kell építened, hogy biztosítsd az emberek boldogságát
+
+<Dusty Desert>
+STR_SCNR    :Sivár Sivatag
+STR_PARK    :Sivár Sivatag
+STR_DTLS    :Öt hullámvasutat kell befejezni ebben a sivatagi parkban
+
+<Woodworm Park>
+STR_SCNR    :Fakukac Park
+STR_PARK    :Fakukac Park
+STR_DTLS    :Ez a történelmi park csak régi stílusú játékokat építhet
+
+<Icarus Park>
+STR_SCNR    :Ikarusz Park
+STR_PARK    :Ikarusz Park
+STR_DTLS    :Fejleszd ezt a földönkívüli parkot, hogy maximalizáld a nyereségét
+
+<Sunny Swamps>
+STR_SCNR    :Napos Mocsarak
+STR_PARK    :Napos Mocsarak
+STR_DTLS    :Ennek a jól tematizált vidámparknak már számos játéka van, de bőven van helye a terjeszkedésre
+
+<Frightmare Hills>
+STR_SCNR    :Rémálom Dombok
+STR_PARK    :Rémálom Dombok
+STR_DTLS    :Egy rémisztő vidámpark, a közepén egy hatalmas hullámvasúttal
+
+<Thunder Rocks>
+STR_SCNR    :Mennydörgő-sziklák
+STR_PARK    :Mennydörgő-sziklák
+STR_DTLS    :A homokból két nagydarab szikla áll ki, melyeken megkezdődött egy vidámpark építése
+
+<Octagon Park>
+STR_SCNR    :Oktogon Park
+STR_PARK    :Oktogon Park
+STR_DTLS    :Tíz hullámvasutat kell építened ebben a nagy parkban
+
+<Pleasure Island>
+STR_SCNR    :Élménysziget
+STR_PARK    :Élménysziget
+STR_DTLS    :A hosszú, keskeny sziget kihívásokkal teli helyszín a megadott hullámvasutak építésére
+
+<Icicle Worlds>
+STR_SCNR    :Jégcsap Világok
+STR_PARK    :Jégcsap Világok
+STR_DTLS    :Alakítsd át a jeges tájat virágzó vidámparkká
+
+<Southern Sands>
+STR_SCNR    :Déli Homok
+STR_PARK    :Déli Homok
+STR_DTLS    :Ez a néhány okosan tervezett hullámvasúttal rendelkező sivatagi park arra vár, hogy kibővítsd
+
+<Tiny Towers>
+STR_SCNR    :Törpe Tornyok
+STR_PARK    :Törpe Tornyok
+STR_DTLS    : Öt meglévő hullámvasutat kell befejezned ebben a kis parkban
+
+<Nevermore Park>
+STR_SCNR    :Sohamár Park
+STR_PARK    :Sohamár Park
+STR_DTLS    :Egy nagy park, egyedi közlekedési rendszerrel a széle körül
+
+<Pacifica>
+STR_SCNR    :Pacifica
+STR_PARK    :Pacifica
+STR_DTLS    :Ez a nagy sziget csak a tiéd, hogy vidámparkká fejleszd
+
+<Urban Jungle>
+STR_SCNR    :Városi Dzsungel
+STR_PARK    :Városi Dzsungel
+STR_DTLS    :Ez a hatalmas elhagyatott felhőkarcoló egyedi lehetőség egy vidámpark-fejlesztő számára
+
+<Terror Town>
+STR_SCNR    :Terrorváros
+STR_PARK    :Terrorváros
+STR_DTLS    :Ez a városi terület csak a tiéd, hogy vidámparkká fejleszd
+
+<Megaworld Park>
+STR_SCNR    :Megavilág Park
+STR_PARK    :Megavilág Park
+STR_DTLS    :Van mit javítani ezen az óriási, játékokkal teli parkon
+
+<Venus Ponds>
+STR_SCNR    :Vénuszi Tavak
+STR_PARK    :Vénuszi Tavak
+STR_DTLS    :Alakítsd át egy messzi bolygó földterületét vidámparkká
+
+<Micro Park>
+STR_SCNR    :Mikro Park
+STR_PARK    :Mikro Park
+STR_DTLS    :Próbáld meg létrehozni a világ legkisebb nyereséges parkját
 
 ## Real Parks from RCT1
 # None of them had details
