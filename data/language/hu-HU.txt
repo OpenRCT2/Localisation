@@ -1,4 +1,4 @@
-# STR_XXXX part is read and XXXX becomes the string id number.
+https://github.com/OpenRCT2/Localisation/issues/1691# STR_XXXX part is read and XXXX becomes the string id number.
 # Everything after the colon and before the new line will be saved as the string.
 # Use # at the beginning of a line to leave a comment.
 STR_0000    :
@@ -1260,7 +1260,7 @@ STR_1906    :{WINDOW_COLOUR_2}Étel/ital készletek
 STR_1907    :{WINDOW_COLOUR_2}Alkalmazottak bére
 STR_1908    :{WINDOW_COLOUR_2}Marketing
 STR_1909    :{WINDOW_COLOUR_2}Kutatás
-STR_1910    :{WINDOW_COLOUR_2}Kölcsön kamat:
+STR_1910    :{WINDOW_COLOUR_2}Kölcsön kamat
 STR_1911    :{BLACK} {COMMA16}%-os éves kamattal
 STR_1912    :{MONTH}
 STR_1913    :{BLACK}+{CURRENCY2DP}
@@ -3316,7 +3316,7 @@ STR_6304    :Díszletválasztó megnyitása
 STR_6305    :Többszálúság
 STR_6306    :{SMALLFONT}{BLACK}Kísérleti beállítás, mellyel bekapcsolható a több szálon történő megjelenítés, instabilitást okozhat.
 STR_6307    :Színséma: {BLACK}{STRINGID}
-STR_6308    :“{STRINGID}{OUTLINE}{TOPAZ}”{NEWLINE}{STRINGID}
+STR_6308    :„{STRINGID}{OUTLINE}{TOPAZ}”{NEWLINE}{STRINGID}
 
 #############
 # Scenarios #
