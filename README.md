@@ -15,7 +15,7 @@ Changes to the master branch are merged into the develop branch of OpenRCT2/Open
 [![Gitter](https://img.shields.io/badge/gitter-development-yellowgreen.svg)](https://gitter.im/OpenRCT2/OpenRCT2)
 
 ### Build Status
-[![AppVeyor](https://ci.appveyor.com/api/projects/status/muc7co3bxvcayp5t?svg=true)](https://ci.appveyor.com/project/IntelOrca/localisation)
+[![AppVeyor](https://ci.appveyor.com/api/projects/status/fkf22bp6tw8lxg6m?svg=true)](https://ci.appveyor.com/project/OpenRCT2/localisation)
 
 To contribute to the translation of OpenRCT2, you will need to fork this repository.<br/>
 This allows you to edit and push changes of files to your fork so that you can then open a pull request.<br/>
