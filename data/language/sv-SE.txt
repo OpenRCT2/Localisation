@@ -1084,13 +1084,13 @@ STR_1701    :Anställ ny Mekaniker
 STR_1702    :Anställ ny Säkerhetsvakt
 STR_1703    :Anställ ny Underhållare
 STR_1704    :Kan inte anställa ny personal …
-STR_1705    :{SMALLFONT}{BLACK}Sparka den här personalen
+STR_1705    :{SMALLFONT}{BLACK}Avskeda den här personen
 STR_1706    :{SMALLFONT}{BLACK}Flytta den här personen till en ny plats
 STR_1707    :För mycket personal i spelet
 STR_1708    :{SMALLFONT}{BLACK}Bestäm patrullområde för den här personalen
-STR_1709    :Sparka personal
+STR_1709    :Avskeda personal
 STR_1710    :Ja
-STR_1711    :{WINDOW_COLOUR_1}Är du säker på att du vill sparka {STRINGID}?
+STR_1711    :{WINDOW_COLOUR_1}Är du säker på att du vill avskeda {STRINGID}?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Sopa gångvägar
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Vattna trädgårdar
 STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Töm sopkorgar
@@ -1119,9 +1119,9 @@ STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COM
 STR_1738    :Kan inte ändra antal varv …
 STR_1739    :Gäst {INT32} vann rallyt
 STR_1740    :{STRINGID} vann rallyt
-STR_1741    :Inte byggt än !
-STR_1742    :{WINDOW_COLOUR_2}Max. personer på Åktur:
-STR_1743    :{SMALLFONT}{BLACK}Maximalt antal personer på denna Åktur samtidigt
+STR_1741    :Inte byggt än!
+STR_1742    :{WINDOW_COLOUR_2}Max. personer på åktur:
+STR_1743    :{SMALLFONT}{BLACK}Maximalt antal personer på denna åktur samtidigt
 STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1746    :Kan inte ändra detta …
 STR_1747    :{WINDOW_COLOUR_2}Tidsgräns:
@@ -1227,7 +1227,7 @@ STR_1851    :{WINDOW_COLOUR_2}Underhållskostnad: {BLACK}{CURRENCY2DP} per timme
 STR_1852    :{WINDOW_COLOUR_2}Underhållskostnad: {BLACK}Okänd
 STR_1853    :{WINDOW_COLOUR_2}Byggd: {BLACK}Detta år
 STR_1854    :{WINDOW_COLOUR_2}Byggd: {BLACK}Förra året
-STR_1855    :{WINDOW_COLOUR_2}Byggd: {BLACK}{COMMA16} År sedan
+STR_1855    :{WINDOW_COLOUR_2}Byggd: {BLACK}För {COMMA16} år sedan
 STR_1856    :{WINDOW_COLOUR_2}Vinst per styck: {BLACK}{CURRENCY2DP}
 STR_1857    :{WINDOW_COLOUR_2}Förlust per styck: {BLACK}{CURRENCY2DP}
 STR_1858    :{WINDOW_COLOUR_2}Kostnad: {BLACK}{CURRENCY} per månad
@@ -1264,23 +1264,23 @@ STR_1889    :{WINDOW_COLOUR_2}Dötid: {MOVE_X}{255}{BLACK}{COMMA16}%
 STR_1890    :{SMALLFONT}{BLACK}Välj hur ofta en mekaniker ska göra underhåll på den här åkturen
 STR_1891    :Ingen {STRINGID} i parken än!
 STR_1894    :{WINDOW_COLOUR_2}{STRINGID} sålde: {BLACK}{COMMA32}
-STR_1895    :{SMALLFONT}{BLACK}Bygg ny Åktur/attraktion
-STR_1896    :{WINDOW_COLOUR_2}Utgifter/Inkomster
-STR_1897    :{WINDOW_COLOUR_2}Åkturs konstruktioner
-STR_1898    :{WINDOW_COLOUR_2}Åkturs underhållnad
+STR_1895    :{SMALLFONT}{BLACK}Bygg ny åktur eller attraktion
+STR_1896    :{WINDOW_COLOUR_2}Utgifter och inkomster
+STR_1897    :{WINDOW_COLOUR_2}Konstruktion av åkturer
+STR_1898    :{WINDOW_COLOUR_2}Underhållning av åkturer
 STR_1899    :{WINDOW_COLOUR_2}Markinköp
 STR_1900    :{WINDOW_COLOUR_2}Terrängmodifiering
 STR_1901    :{WINDOW_COLOUR_2}Parkinträde
 STR_1902    :{WINDOW_COLOUR_2}Åktursbiljetter
 STR_1903    :{WINDOW_COLOUR_2}Sålda varor
 STR_1904    :{WINDOW_COLOUR_2}Affärslager
-STR_1905    :{WINDOW_COLOUR_2}Såld mat/dryck
-STR_1906    :{WINDOW_COLOUR_2}Mat/dryck-lager
+STR_1905    :{WINDOW_COLOUR_2}Såld mat och dryck
+STR_1906    :{WINDOW_COLOUR_2}Mat- och dryckeslager
 STR_1907    :{WINDOW_COLOUR_2}Löner
 STR_1908    :{WINDOW_COLOUR_2}Marknadsföring
 STR_1909    :{WINDOW_COLOUR_2}Forskning
 STR_1910    :{WINDOW_COLOUR_2}Låneränta
-STR_1911    :{BLACK} på {COMMA16}% per år
+STR_1911    :{BLACK} vid {COMMA16}% per år
 STR_1912    :{MONTH}
 STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
@@ -1297,8 +1297,8 @@ STR_1925    :Kan inte placera personen här …
 STR_1926    :{SMALLFONT}
 STR_1927    :{YELLOW}{STRINGID} har gått sönder
 STR_1928    :{RED}{STRINGID} har kraschat!
-STR_1929    :{RED}{STRINGID} har fortfarande inte blivit fixad{NEWLINE}Undersök var dina mekaniker är och överväg att organisera dem bättre
-STR_1930    :{SMALLFONT}{BLACK}Aktivera/inaktivera spårning av denna gäst – (Om spårning är på kommer gästens handlingar att visas i meddelandeområdet)
+STR_1929    :{RED}{STRINGID} har fortfarande inte blivit fixad{NEWLINE}Ta reda på var dina mekaniker är och överväg att organisera dem bättre
+STR_1930    :{SMALLFONT}{BLACK}Slå av eller på spårning av denna gäst – (Om spårning är på kommer gästens handlingar att visas i meddelandeområdet)
 STR_1931    :{STRINGID} har ställt sig i kö till {STRINGID}
 STR_1932    :{STRINGID} är på {STRINGID}
 STR_1933    :{STRINGID} är i {STRINGID}
@@ -1315,9 +1315,9 @@ STR_1943    :{SMALLFONT}{BLACK}Visa gästens nyliga tankar
 STR_1944    :{SMALLFONT}{BLACK}Visa souvenirer som gästen bär på
 STR_1945    :{SMALLFONT}{BLACK}Visa order och inställningar för personal
 STR_1946    :{SMALLFONT}{BLACK}Välj dräkt för den här underhållaren
-STR_1947    :{SMALLFONT}{BLACK}Visa områden som patrulleras av den valda personaltypen, och hitta den närmsta personalen
+STR_1947    :{SMALLFONT}{BLACK}Visa områden som patrulleras av den valda personaltypen, och hitta den närmsta personalmedlemmen
 STR_1948    :{SMALLFONT}{BLACK}Anställ ny personal av den valda typen
-STR_1949    :Ekonomisk Sammanfattning
+STR_1949    :Ekonomisk sammanfattning
 STR_1950    :Ekonomigraf
 STR_1951    :Parkvärdesgraf
 STR_1952    :Vinstgraf
@@ -1328,32 +1328,32 @@ STR_1956    :{SMALLFONT}{BLACK}Antal varv per åk
 STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1958    :{COMMA16}
 STR_1959    :Kan inte ändra antal varv …
-STR_1960    :{WINDOW_COLOUR_2}Pris på Ballong:
-STR_1961    :{WINDOW_COLOUR_2}Pris på Mjukisdjur:
-STR_1962    :{WINDOW_COLOUR_2}Pris på Karta:
-STR_1963    :{WINDOW_COLOUR_2}Pris på Åktursfoto:
-STR_1964    :{WINDOW_COLOUR_2}Pris på Paraply:
-STR_1965    :{WINDOW_COLOUR_2}Pris på Dricka:
-STR_1966    :{WINDOW_COLOUR_2}Pris på Hamburgare:
-STR_1967    :{WINDOW_COLOUR_2}Pris på Pommes frites:
-STR_1968    :{WINDOW_COLOUR_2}Pris på Glass:
-STR_1969    :{WINDOW_COLOUR_2}Pris på Sockervadd:
+STR_1960    :{WINDOW_COLOUR_2}Pris på ballong:
+STR_1961    :{WINDOW_COLOUR_2}Pris på mjukisdjur:
+STR_1962    :{WINDOW_COLOUR_2}Pris på karta:
+STR_1963    :{WINDOW_COLOUR_2}Pris på åktursfoto:
+STR_1964    :{WINDOW_COLOUR_2}Pris på paraply:
+STR_1965    :{WINDOW_COLOUR_2}Pris på dricka:
+STR_1966    :{WINDOW_COLOUR_2}Pris på hamburgare:
+STR_1967    :{WINDOW_COLOUR_2}Pris på pommes frites:
+STR_1968    :{WINDOW_COLOUR_2}Pris på glass:
+STR_1969    :{WINDOW_COLOUR_2}Pris på sockervadd:
 STR_1970    :{WINDOW_COLOUR_2}
 STR_1971    :{WINDOW_COLOUR_2}
 STR_1972    :{WINDOW_COLOUR_2}
-STR_1973    :{WINDOW_COLOUR_2}Pris på Pizza:
+STR_1973    :{WINDOW_COLOUR_2}Pris på pizza:
 STR_1974    :{WINDOW_COLOUR_2}
-STR_1975    :{WINDOW_COLOUR_2}Pris på Popcorn:
-STR_1976    :{WINDOW_COLOUR_2}Pris på Varmkorv:
-STR_1977    :{WINDOW_COLOUR_2}Pris på Tentakel:
-STR_1978    :{WINDOW_COLOUR_2}Pris på Hatt:
-STR_1979    :{WINDOW_COLOUR_2}Pris på Kanderat Äpple:
-STR_1980    :{WINDOW_COLOUR_2}Pris på T-Shirt:
-STR_1981    :{WINDOW_COLOUR_2}Pris på Munk:
-STR_1982    :{WINDOW_COLOUR_2}Pris på Kaffe:
+STR_1975    :{WINDOW_COLOUR_2}Pris på popcorn:
+STR_1976    :{WINDOW_COLOUR_2}Pris på varmkorv:
+STR_1977    :{WINDOW_COLOUR_2}Pris på tentakel:
+STR_1978    :{WINDOW_COLOUR_2}Pris på hatt:
+STR_1979    :{WINDOW_COLOUR_2}Pris på kanderat äpple:
+STR_1980    :{WINDOW_COLOUR_2}Pris på T-shirt:
+STR_1981    :{WINDOW_COLOUR_2}Pris på munk:
+STR_1982    :{WINDOW_COLOUR_2}Pris på kaffe:
 STR_1983    :{WINDOW_COLOUR_2}
-STR_1984    :{WINDOW_COLOUR_2}Pris på Friterad Kyckling:
-STR_1985    :{WINDOW_COLOUR_2}Pris på Saft:
+STR_1984    :{WINDOW_COLOUR_2}Pris på friterad kyckling:
+STR_1985    :{WINDOW_COLOUR_2}Pris på saft:
 STR_1986    :{WINDOW_COLOUR_2}
 STR_1987    :{WINDOW_COLOUR_2}
 STR_1988    :Ballong
@@ -1363,26 +1363,26 @@ STR_1991    :Åktursfoto
 STR_1992    :Paraply
 STR_1993    :Dricka
 STR_1994    :Hamburgare
-STR_1995    :Pommes Frites
+STR_1995    :Pommes frites
 STR_1996    :Glass
 STR_1997    :Sockervadd
-STR_1998    :Tom Mugg
+STR_1998    :Tomburk
 STR_1999    :Skräp
-STR_2000    :Tom Förpackning
+STR_2000    :Tom hamburgerförpackning
 STR_2001    :Pizza
 STR_2002    :Kupong
 STR_2003    :Popcorn
 STR_2004    :Varmkorv
 STR_2005    :Tentakel
 STR_2006    :Hatt
-STR_2007    :Kanderat Äpple
-STR_2008    :T-Shirt
+STR_2007    :Kanderat äpple
+STR_2008    :T-shirt
 STR_2009    :Munk
 STR_2010    :Kaffe
-STR_2011    :Tom Mugg
+STR_2011    :Tom mugg
 STR_2012    :Friterad Kyckling
 STR_2013    :Saft
-STR_2014    :Tom Låda
+STR_2014    :Tom låda
 STR_2015    :Tomflaska
 STR_2016    :Ballonger
 STR_2017    :Mjukisdjur
@@ -1391,109 +1391,109 @@ STR_2019    :Åktursfoton
 STR_2020    :Paraplyn
 STR_2021    :Drickor
 STR_2022    :Hamburgare
-STR_2023    :Pommes Frites
+STR_2023    :Pommes frites
 STR_2024    :Glassar
 STR_2025    :Sockervadd
 STR_2026    :Tomburkar
 STR_2027    :Skräp
-STR_2028    :Tomma Förpackningar
+STR_2028    :Tomma förpackningar
 STR_2029    :Pizzor
 STR_2030    :Kuponger
 STR_2031    :Popcorn
 STR_2032    :Varmkorvar
 STR_2033    :Tentakler
 STR_2034    :Hattar
-STR_2035    :Kanderade Äpplen
-STR_2036    :T-Shirts
+STR_2035    :Kanderade äpplen
+STR_2036    :T-shirtar
 STR_2037    :Munkar
 STR_2038    :Kaffekoppar
-STR_2039    :Tomma Muggar
-STR_2040    :Friterad Kyckling
+STR_2039    :Tomma muggar
+STR_2040    :Friterad kyckling
 STR_2041    :Saft
-STR_2042    :Tomma Lådor
+STR_2042    :Tomlådor
 STR_2043    :Tomflaskor
-STR_2044    :en Ballong
-STR_2045    :ett Mjukisdjur
-STR_2046    :en Karta
-STR_2047    :ett Åktursfoto
-STR_2048    :ett Paraply
-STR_2049    :en Dricka
-STR_2050    :en Hamburgare
-STR_2051    :Pommes Frites
-STR_2052    :en Glass
-STR_2053    :Sockervadd
-STR_2054    :en Tomburk
-STR_2055    :Skräp
-STR_2056    :en Tom Förpackning
-STR_2057    :en Pizza
-STR_2058    :en Kupong
-STR_2059    :Popcorn
-STR_2060    :en Varmkorv
-STR_2061    :en Tentakel
-STR_2062    :en Hatt
-STR_2063    :ett Kanderat Äpple
+STR_2044    :en ballong
+STR_2045    :ett mjukisdjur
+STR_2046    :en karta
+STR_2047    :ett åktursfoto
+STR_2048    :ett paraply
+STR_2049    :en dricka
+STR_2050    :en hamburgare
+STR_2051    :lite pommes frites
+STR_2052    :en glass
+STR_2053    :lite sockervadd
+STR_2054    :en tomburk
+STR_2055    :lite skräp
+STR_2056    :en tom förpackning
+STR_2057    :en pizza
+STR_2058    :en kupong
+STR_2059    :lite popcorn
+STR_2060    :en varmkorv
+STR_2061    :en tentakel
+STR_2062    :en hatt
+STR_2063    :ett kanderat äpple
 STR_2064    :en T-Shirt
 STR_2065    :en Munk
 STR_2066    :en Kaffe
 STR_2067    :en Tom Mugg
-STR_2068    :Friterad Kyckling
-STR_2069    :Saft
-STR_2070    :en Tom Låda
-STR_2071    :en Tomflaska
-STR_2072    :”{STRINGID}” Ballong
-STR_2073    :”{STRINGID}” Mjukisdjur
+STR_2068    :lite friterad kyckling
+STR_2069    :lite saft
+STR_2070    :en tomlåda
+STR_2071    :en tomflaska
+STR_2072    :Ballong från ”{STRINGID}”
+STR_2073    :Mjukisdjur från ”{STRINGID}”
 STR_2074    :Karta över {STRINGID}
 STR_2075    :Åktursfoto från {STRINGID}
-STR_2076    :”{STRINGID}” Paraply
+STR_2076    :Paraply från ”{STRINGID}”
 STR_2077    :Dricka
 STR_2078    :Hamburgare
-STR_2079    :Pommes Frites
+STR_2079    :Pommes frites
 STR_2080    :Glass
 STR_2081    :Sockervadd
 STR_2082    :Tomburk
 STR_2083    :Skräp
-STR_2084    :Tom Förpackning
+STR_2084    :Tom förpackning
 STR_2085    :Pizza
 STR_2086    :Kupong för {STRINGID}
 STR_2087    :Popcorn
 STR_2088    :Varmkorv
 STR_2089    :Tentakel
-STR_2090    :”{STRINGID}” Hatt
-STR_2091    :Kanderat Äpple
-STR_2092    :”{STRINGID}” T-Shirt
+STR_2090    :Hatt från ”{STRINGID}”
+STR_2091    :Kanderat äpple
+STR_2092    :T-shirt från ”{STRINGID}”
 STR_2093    :Munk
 STR_2094    :Kaffe
 STR_2095    :Tom Mugg
-STR_2096    :Friterad Kyckling
+STR_2096    :Friterad kyckling
 STR_2097    :Saft
-STR_2098    :Tom Låda
+STR_2098    :Tom låda
 STR_2099    :Tomflaska
-STR_2103    :{WINDOW_COLOUR_2}Pris på Kringla:
-STR_2104    :{WINDOW_COLOUR_2}Pris på Varm Choklad:
-STR_2105    :{WINDOW_COLOUR_2}Pris på Isté:
-STR_2106    :{WINDOW_COLOUR_2}Pris på Struva:
-STR_2107    :{WINDOW_COLOUR_2}Pris på Solglasögon:
-STR_2108    :{WINDOW_COLOUR_2}Pris på Biffnudlar:
-STR_2109    :{WINDOW_COLOUR_2}Pris på Stekta Nudlar:
-STR_2110    :{WINDOW_COLOUR_2}Pris på Wontonsoppa:
-STR_2111    :{WINDOW_COLOUR_2}Pris på Köttbullssoppa:
-STR_2112    :{WINDOW_COLOUR_2}Pris på Fruktjuice:
-STR_2113    :{WINDOW_COLOUR_2}Pris på Sojamjölk:
-STR_2114    :{WINDOW_COLOUR_2}Pris på Sujeonggwa:
-STR_2115    :{WINDOW_COLOUR_2}Pris på Macka:
-STR_2116    :{WINDOW_COLOUR_2}Pris på Kaka:
+STR_2103    :{WINDOW_COLOUR_2}Pris på kringla:
+STR_2104    :{WINDOW_COLOUR_2}Pris på varm choklad:
+STR_2105    :{WINDOW_COLOUR_2}Pris på iste:
+STR_2106    :{WINDOW_COLOUR_2}Pris på struva:
+STR_2107    :{WINDOW_COLOUR_2}Pris på solglasögon:
+STR_2108    :{WINDOW_COLOUR_2}Pris på nudlar med biff:
+STR_2109    :{WINDOW_COLOUR_2}Pris på stekta nudlar:
+STR_2110    :{WINDOW_COLOUR_2}Pris på wontonsoppa:
+STR_2111    :{WINDOW_COLOUR_2}Pris på köttbullssoppa:
+STR_2112    :{WINDOW_COLOUR_2}Pris på fruktjuice:
+STR_2113    :{WINDOW_COLOUR_2}Pris på sojamjölk:
+STR_2114    :{WINDOW_COLOUR_2}Pris på sujeonggwa:
+STR_2115    :{WINDOW_COLOUR_2}Pris på macka:
+STR_2116    :{WINDOW_COLOUR_2}Pris på kaka:
 STR_2117    :{WINDOW_COLOUR_2}
 STR_2118    :{WINDOW_COLOUR_2}
 STR_2119    :{WINDOW_COLOUR_2}
-STR_2120    :{WINDOW_COLOUR_2}Pris på Ugnskorv:
+STR_2120    :{WINDOW_COLOUR_2}Pris på ugnskorv:
 STR_2121    :{WINDOW_COLOUR_2}
 STR_2125    :Kringla
-STR_2126    :Varm Choklad
-STR_2127    :Isté
+STR_2126    :Varm choklad
+STR_2127    :Iste
 STR_2128    :Struva
 STR_2129    :Solglasögon
-STR_2130    :Biffnudlar
-STR_2131    :Stekta Nudlar
+STR_2130    :Nudlar med biff
+STR_2131    :Stekta nudlar
 STR_2132    :Wontonsoppa
 STR_2133    :Köttbullssoppa
 STR_2134    :Fruktjuice
@@ -1501,56 +1501,56 @@ STR_2135    :Sojamjölk
 STR_2136    :Sujeonggwa
 STR_2137    :Macka
 STR_2138    :Kaka
-STR_2139    :Tom Skål
-STR_2140    :Tom Pappmugg
-STR_2141    :Tom Juiceförpackning
+STR_2139    :Tom skål
+STR_2140    :Tom pappmugg
+STR_2141    :Tom juiceförpackning
 STR_2142    :Ugnskorv
-STR_2143    :Tom Skål
+STR_2143    :Tom skål
 STR_2147    :Kringla
-STR_2148    :Muggar Varm Choklad
-STR_2149    :Istéer
+STR_2148    :Muggar med varm choklad
+STR_2149    :Isteer
 STR_2150    :Struvor
 STR_2151    :Solglasögon
-STR_2152    :Biffnudlar
-STR_2153    :Friterade Nudlar
+STR_2152    :Nudlar med biff
+STR_2153    :Friterade nudlar
 STR_2154    :Wontonsoppor
 STR_2155    :Köttbullssoppor
 STR_2156    :Fruktjuicer
-STR_2157    :Glas Sojamjölk
+STR_2157    :Glas med sojamjölk
 STR_2158    :Sujeonggwas
 STR_2159    :Mackor
 STR_2160    :Kakor
-STR_2161    :Tomma Skålar
-STR_2162    :Tomma Pappmuggar
-STR_2163    :Tomma Juiceförpackningar
+STR_2161    :Tomma skålar
+STR_2162    :Tomma pappmuggar
+STR_2163    :Tomma juiceförpackningar
 STR_2164    :Ugnskorvar
-STR_2165    :Tomma Skålar
-STR_2169    :en Kringla
-STR_2170    :en Varm Choklad
-STR_2171    :en Isté
-STR_2172    :en Struva
-STR_2173    :ett par Solglasögon
-STR_2174    :Biffnudlar
-STR_2175    :Stekta Nudlar
-STR_2176    :Wontonsoppa
-STR_2177    :Köttbullssoppa
-STR_2178    :en Fruktjuice
-STR_2179    :Sojamjölk
-STR_2180    :Sujeonggwa
-STR_2181    :en Macka
-STR_2182    :en Kaka
-STR_2183    :en Tom Skål
-STR_2184    :en Tom Pappmugg
-STR_2185    :en Tom Juiceförpackning
-STR_2186    :en Ugnskorv
-STR_2187    :en Tom Skål
+STR_2165    :Tomma skålar
+STR_2169    :en kringla
+STR_2170    :en varm choklad
+STR_2171    :en iste
+STR_2172    :en struva
+STR_2173    :ett par solglasögon
+STR_2174    :lite nudlar med biff
+STR_2175    :lite stekta nudlar
+STR_2176    :lite wontonsoppa
+STR_2177    :lite köttbullssoppa
+STR_2178    :en fruktjuice
+STR_2179    :lite sojamjölk
+STR_2180    :lite sujeonggwa
+STR_2181    :en macka
+STR_2182    :en kaka
+STR_2183    :en tom skål
+STR_2184    :en tom pappmugg
+STR_2185    :en tom juiceförpackning
+STR_2186    :en ugnskorv
+STR_2187    :en tom skål
 STR_2191    :Kringla
-STR_2192    :Varm Choklad
-STR_2193    :Isté
+STR_2192    :Varm choklad
+STR_2193    :Iste
 STR_2194    :Struva
 STR_2195    :Solglasögon
-STR_2196    :Biffnudlar
-STR_2197    :Stekta Nudlar
+STR_2196    :Nudlar med biff
+STR_2197    :Stekta nudlar
 STR_2198    :Wontonsoppa
 STR_2199    :Köttbullssoppa
 STR_2200    :Fruktjuice
@@ -1558,20 +1558,20 @@ STR_2201    :Sojamjölk
 STR_2202    :Sujeonggwa
 STR_2203    :Macka
 STR_2204    :Kaka
-STR_2205    :Tom Skål
-STR_2206    :Tom Pappmugg
-STR_2207    :Tom Juiceförpackning
+STR_2205    :Tom skål
+STR_2206    :Tom pappmugg
+STR_2207    :Tom juiceförpackning
 STR_2208    :Ugnskorv
-STR_2209    :Tom Skål
-STR_2210    :{SMALLFONT}{BLACK}Visa en lista över alla vaktmästare
-STR_2211    :{SMALLFONT}{BLACK}Visa en lista över alla mekaniker
-STR_2212    :{SMALLFONT}{BLACK}Visa en lista över alla säkerhetsvakter
-STR_2213    :{SMALLFONT}{BLACK}Visa en lista över alla underhållare
+STR_2209    :Tom skål
+STR_2210    :{SMALLFONT}{BLACK}Visa listan över alla vaktmästare
+STR_2211    :{SMALLFONT}{BLACK}Visa listan över alla mekaniker
+STR_2212    :{SMALLFONT}{BLACK}Visa listan över alla säkerhetsvakter
+STR_2213    :{SMALLFONT}{BLACK}Visa listan över alla underhållare
 STR_2214    :Konstruktion är inte möjligt när spelet är pausat!
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOUR_2}{COMMA16}°C
 STR_2217    :{WINDOW_COLOUR_2}{COMMA16}°F
-STR_2218    :{RED}{STRINGID} på {STRINGID} har inte kommit tillbaka till {STRINGID} än!{NEWLINE}Kolla om den är fast
+STR_2218    :{RED}{STRINGID} på {STRINGID} har inte kommit tillbaka till {STRINGID} än!{NEWLINE}Kolla om den sitter fast eller har fått motorstopp
 STR_2219    :{RED}{COMMA16} personer har dött i en olycka på {STRINGID}
 STR_2220    :{WINDOW_COLOUR_2}Parkomdöme: {BLACK}{COMMA16}
 STR_2221    :{SMALLFONT}{BLACK}Parkomdöme: {COMMA16}
@@ -1581,13 +1581,13 @@ STR_2224    :{WINDOW_COLOUR_2}Pengar: {BLACK}{CURRENCY2DP}
 STR_2225    :{WINDOW_COLOUR_2}Pengar: {RED}{CURRENCY2DP}
 STR_2226    :{WINDOW_COLOUR_2}Parkvärde: {BLACK}{CURRENCY}
 STR_2227    :{WINDOW_COLOUR_2}Företagsvärde: {BLACK}{CURRENCY}
-STR_2228    :{WINDOW_COLOUR_2}Förra månadens vinst från mat/dricka och{NEWLINE}souvenirer: {BLACK}{CURRENCY}
+STR_2228    :{WINDOW_COLOUR_2}Förra månadens vinst från mat, dryck och{NEWLINE}souvenirer: {BLACK}{CURRENCY}
 STR_2229    :Uppförsbacke till vertikalt
 STR_2230    :Vertikalt
 STR_2231    :Stoppbroms för nedförsbacke
 STR_2232    :Upplyftsbacke
 STR_2233    :{SMALLFONT}{BLACK}Parkinformation
-STR_2234    :Nyliga meddelanden
+STR_2234    :Senaste meddelanden
 STR_2235    :{SMALLFONT}{STRINGID} {STRINGID}
 STR_2236    :januari
 STR_2237    :februari
@@ -1601,18 +1601,18 @@ STR_2244    :september
 STR_2245    :oktober
 STR_2246    :november
 STR_2247    :december
-STR_2248    :Kan inte riva åktur/attraktion …
-STR_2249    :{BABYBLUE}Ny åktur/attraktion är nu tillgänglig:{NEWLINE}{STRINGID}
-STR_2250    :{BABYBLUE}Nya dekorationer/teman är nu tillgängliga:{NEWLINE}{STRINGID}
-STR_2251    :Kan bara byggas på gångvägar!
-STR_2252    :Kan bara byggas över gångvägar!
+STR_2248    :Kan inte riva åktur eller attraktion …
+STR_2249    :{BABYBLUE}Ny åktur eller attraktion är nu tillgänglig:{NEWLINE}{STRINGID}
+STR_2250    :{BABYBLUE}Nya dekorationer eller teman är nu tillgängliga:{NEWLINE}{STRINGID}
+STR_2251    :Kan endast byggas på gångvägar!
+STR_2252    :Kan endast byggas över gångvägar!
 STR_2253    :Transportåkturer
-STR_2254    :Lugna Åkturer
+STR_2254    :Lugna åkturer
 STR_2255    :Berg- och dalbanor
-STR_2256    :Spännande Åkturer
+STR_2256    :Spännande åkturer
 STR_2257    :Vattenåkturer
-STR_2258    :Affärer & Stånd
-STR_2259    :Dekorationer & Teman
+STR_2258    :Affärer och stånd
+STR_2259    :Dekorationer och teman
 STR_2260    :Ingen finansiering
 STR_2261    :Minimal finansiering
 STR_2262    :Normal finansiering
@@ -1625,19 +1625,19 @@ STR_2268    :Tidigare utveckling
 STR_2269    :{WINDOW_COLOUR_2}Typ: {BLACK}{STRINGID}
 STR_2270    :{WINDOW_COLOUR_2}Status: {BLACK}{STRINGID}
 STR_2271    :{WINDOW_COLOUR_2}Slutfört: {BLACK}{STRINGID}
-STR_2272    :{WINDOW_COLOUR_2}Åktur/attraktion:{NEWLINE}{BLACK}{STRINGID}
-STR_2273    :{WINDOW_COLOUR_2}Dekorationer/teman:{NEWLINE}{BLACK}{STRINGID}
+STR_2272    :{WINDOW_COLOUR_2}Åktur eller attraktion:{NEWLINE}{BLACK}{STRINGID}
+STR_2273    :{WINDOW_COLOUR_2}Dekorationer och teman:{NEWLINE}{BLACK}{STRINGID}
 STR_2274    :{SMALLFONT}{BLACK}Visa detaljer kring denna uppfinning eller utveckling
 STR_2275    :{SMALLFONT}{BLACK}Visa finansiering och inställningar för forskning & utveckling
 STR_2276    :{SMALLFONT}{BLACK}Visa status för forskning och utveckling
 STR_2277    :Okänd
 STR_2278    :Transportåktur
-STR_2279    :Lugn Åktur
-STR_2280    :Berg- och Dalbana
-STR_2281    :Spännande Åktur
+STR_2279    :Lugn åktur
+STR_2280    :Berg- och dalbana
+STR_2281    :Spännande åktur
 STR_2282    :Vattenåktur
-STR_2283    :Affär/Stånd
-STR_2284    :Dekorationer/Teman
+STR_2283    :Affär eller stånd
+STR_2284    :Dekorationer och teman
 STR_2285    :Inledande forskning
 STR_2286    :Design
 STR_2287    :Slutför design
@@ -1660,24 +1660,24 @@ STR_2304    :{BLACK}Spenderade {CURRENCY2DP}{WINDOW_COLOUR_2} på {BLACK}{COMMA1
 STR_2305    :Bandesignfiler
 STR_2306    :Spara bandesign
 STR_2307    :Välj designen {STRINGID}
-STR_2308    :{STRINGID} Bandesigns
+STR_2308    :{STRINGID} bandesigner
 STR_2309    :Installera ny bandesign
 STR_2310    :Bygg egen design
-STR_2311    :{WINDOW_COLOUR_2}Glädjenivå: {BLACK}{COMMA2DP32} (approx.)
-STR_2312    :{WINDOW_COLOUR_2}Intensitetsnivå: {BLACK}{COMMA2DP32} (approx.)
-STR_2313    :{WINDOW_COLOUR_2}Illamående nivå: {BLACK}{COMMA2DP32} (approx.)
+STR_2311    :{WINDOW_COLOUR_2}Glädjenivå: {BLACK}{COMMA2DP32} (ungefär)
+STR_2312    :{WINDOW_COLOUR_2}Intensitetsnivå: {BLACK}{COMMA2DP32} (ungefär)
+STR_2313    :{WINDOW_COLOUR_2}Illamående nivå: {BLACK}{COMMA2DP32} (ungefär)
 STR_2314    :{WINDOW_COLOUR_2}Åktur längd: {BLACK}{STRINGID}
-STR_2315    :{WINDOW_COLOUR_2}Kostnad: {BLACK}ca {CURRENCY}
-STR_2316    :{WINDOW_COLOUR_2}Storlek: {BLACK}{COMMA16} x {COMMA16} blocks
-STR_2321    :{WINDOW_COLOUR_2}Antal åkturer/attraktioner: {BLACK}{COMMA16}
+STR_2315    :{WINDOW_COLOUR_2}Kostnad: {BLACK}omkring {CURRENCY}
+STR_2316    :{WINDOW_COLOUR_2}Storlek: {BLACK}{COMMA16} x {COMMA16} block
+STR_2321    :{WINDOW_COLOUR_2}Antal åkturer och attraktioner: {BLACK}{COMMA16}
 STR_2322    :{WINDOW_COLOUR_2}Personal: {BLACK}{COMMA16}
 STR_2323    :{WINDOW_COLOUR_2}Parkstorlek: {BLACK}{COMMA32}m²
-STR_2324    :{WINDOW_COLOUR_2}Parkstorlek: {BLACK}{COMMA32}sq.ft.
+STR_2324    :{WINDOW_COLOUR_2}Parkstorlek: {BLACK}{COMMA32}ft²
 STR_2325    :{SMALLFONT}{BLACK}Köp land för att utöka parken
 STR_2326    :{SMALLFONT}{BLACK}Köp bygglov för att tillåta konstruktion över eller under land utanför parken
 STR_2327    :Inställningar
 STR_2328    :{WINDOW_COLOUR_2}Valuta:
-STR_2329    :{WINDOW_COLOUR_2}Avstånd och Hastighet:
+STR_2329    :{WINDOW_COLOUR_2}Avstånd och hastighet:
 STR_2330    :{WINDOW_COLOUR_2}Temperatur:
 STR_2331    :{WINDOW_COLOUR_2}Höjdmarkeringar:
 STR_2332    :Enheter
@@ -1685,7 +1685,7 @@ STR_2333    :Ljudeffekter
 STR_2334    :Pund (£)
 STR_2335    :Dollar ($)
 STR_2336    :Franc (F)
-STR_2337    :Deutsche mark (DM)
+STR_2337    :Tyska mark (DM)
 STR_2338    :Yen (¥)
 STR_2339    :Peseta (Pts)
 STR_2340    :Lira (L)
@@ -1702,15 +1702,15 @@ STR_2351    :{WINDOW_COLOUR_2}Klippta gräsmattor: {BLACK}{COMMA16}
 STR_2352    :{WINDOW_COLOUR_2}Vattnade trädgårdar: {BLACK}{COMMA16}
 STR_2353    :{WINDOW_COLOUR_2}Svepta sopor: {BLACK}{COMMA16}
 STR_2354    :{WINDOW_COLOUR_2}Tömda sopkorgar: {BLACK}{COMMA16}
-STR_2355    :{WINDOW_COLOUR_2}åkturer fixade: {BLACK}{COMMA16}
-STR_2356    :{WINDOW_COLOUR_2}åkturer inspekterade: {BLACK}{COMMA16}
+STR_2355    :{WINDOW_COLOUR_2}Reparerade åkturer: {BLACK}{COMMA16}
+STR_2356    :{WINDOW_COLOUR_2}Inspekterade åkturer: {BLACK}{COMMA16}
 STR_2358    :Enheter
-STR_2359    :Riktiga Värden
+STR_2359    :Riktiga värden
 STR_2360    :{WINDOW_COLOUR_2}Skärmupplösning:
 STR_2361    :Terrängutjämning
-STR_2362    :{SMALLFONT}{BLACK}Sätt på/av terrängkantutjämning
+STR_2362    :{SMALLFONT}{BLACK}Slå på eller av terrängkantutjämning
 STR_2363    :Rutmönster på terräng
-STR_2364    :{SMALLFONT}{BLACK}Sätt på/av rutmönster på terrängen
+STR_2364    :{SMALLFONT}{BLACK}Slå på eller av rutmönster på terrängen
 STR_2365    :Banken vägrar att utöka ditt lån!
 STR_2366    :Celsius (°C)
 STR_2367    :Fahrenheit (°F)
@@ -1723,7 +1723,7 @@ STR_2373    :Mellan
 STR_2374    :Hög
 STR_2375    :Väldigt hög
 STR_2376    :Extrem
-STR_2377    :Ultra-Extrem
+STR_2377    :Ultraextrem
 STR_2378    :{SMALLFONT}{BLACK}Justera ett mindre landområde
 STR_2379    :{SMALLFONT}{BLACK}Justera ett större landområde
 STR_2380    :{SMALLFONT}{BLACK}Justera ett mindre vattenområde
@@ -1734,13 +1734,13 @@ STR_2384    :{WINDOW_COLOUR_2}Ditt uppdrag:
 STR_2385    :{BLACK}Inget
 STR_2386    :{BLACK}Att ha minst {COMMA16} gäster i parken tills {MONTHYEAR}, med ett parkomdöme över 600
 STR_2387    :{BLACK}Att uppnå ett parkvärde över {POP16}{POP16}{CURRENCY} tills {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}
-STR_2388    :{BLACK}Ha Kul!
+STR_2388    :{BLACK}Ha kul!
 STR_2389    :{BLACK}Bygg den bästa {STRINGID} du kan!
-STR_2390    :{BLACK}Att ha 10 olika sorters berg- och dalbanor i din park, alla med en glädjenivå över 6.00
+STR_2390    :{BLACK}Att ha tio olika sorters berg- och dalbanor i din park, alla med en glädjenivå över 6.00
 STR_2391    :{BLACK}Att ha minst {COMMA16} gäster i din park. Du får inte låta parkomdömet gå under 700!
 STR_2392    :{BLACK}Att få en månadsinkomst från åkturs biljetter på minst {POP16}{POP16}{CURRENCY}
-STR_2393    :{BLACK}Att ha 10 olika sorters berg- och dalbanor i din park, alla ska vara längre än {LENGTH}, och med en glädjenivå över 7.00
-STR_2394    :{BLACK}Att bygga klart alla 5 delvis byggda berg- och dalbanor i parken, designade så att de alla får en glädjenivå över {POP16}{POP16}{COMMA2DP32}
+STR_2393    :{BLACK}Att ha tio olika sorters berg- och dalbanor i din park, alla ska vara längre än {LENGTH}, och med en glädjenivå över 7.00
+STR_2394    :{BLACK}Att bygga klart alla fem delvis byggda berg- och dalbanor i parken, designade så att de alla får en glädjenivå över {POP16}{POP16}{COMMA2DP32}
 STR_2395    :{BLACK}Att betala tillbaka ditt lån och uppnå ett parkvärde över {POP16}{POP16}{CURRENCY}
 STR_2396    :{BLACK}Att få en månadsinkomst från mat, dricka och souvenirer på minst {POP16}{POP16}{CURRENCY}
 STR_2397    :Inga
@@ -1748,11 +1748,11 @@ STR_2398    :Antal gäster vid ett visst datum
 STR_2399    :Parkvärde vid ett visst datum
 STR_2400    :Ha kul
 STR_2401    :Bygg den bästa åkturen du kan
-STR_2402    :Bygg 10 berg- och dalbanor
+STR_2402    :Bygg tio berg- och dalbanor
 STR_2403    :Antal gäster i parken
 STR_2404    :Månadsinkomst från åkturs biljetter
-STR_2405    :Bygg 10 berg- och dalbanor med en viss längd
-STR_2406    :Bygg klart 5 berg- och dalbanor
+STR_2405    :Bygg tio berg- och dalbanor med en viss längd
+STR_2406    :Bygg klart fem berg- och dalbanor
 STR_2407    :Betala tillbaka lån och uppnå ett visst parkvärde
 STR_2408    :Månadsinkomst från mat/souvenirer
 STR_2409    :{WINDOW_COLOUR_2}Aktiva kampanjer
@@ -1813,7 +1813,7 @@ STR_2473    :{SMALLFONT}{BLACK}Forska fram nya spännande åkturer
 STR_2474    :{SMALLFONT}{BLACK}Forska fram nya vattenåkturer
 STR_2475    :{SMALLFONT}{BLACK}Forska fram nya affärer och stånd
 STR_2476    :{SMALLFONT}{BLACK}Forska fram nya dekorationer and teman
-STR_2477    :{SMALLFONT}{BLACK}Välj körläge för denna åktur/attraktion
+STR_2477    :{SMALLFONT}{BLACK}Välj körläge för denna åktur eller attraktion
 STR_2478    :{SMALLFONT}{BLACK}Visa graf med hastighet över tid
 STR_2479    :{SMALLFONT}{BLACK}Visa graf med höjd över tid
 STR_2480    :{SMALLFONT}{BLACK}Visa graf med vertikal acceleration över tid
@@ -1877,7 +1877,7 @@ STR_2539    :???
 STR_2540    :???
 STR_2541    :???
 STR_2542    :???
-STR_2543    :Alt/Meny
+STR_2543    :Alt / Meny
 STR_2544    :Pause
 STR_2545    :Caps
 STR_2546    :???
@@ -2017,18 +2017,18 @@ STR_2679    :???
 STR_2680    :All forskning färdig
 STR_2681    :{MEDIUMFONT}{BLACK}Ökar pengarna med {CURRENCY}
 STR_2684    :{SMALLFONT}{BLACK}En stor grupp anländer
-STR_2685    :Simpla Brusinställningar
+STR_2685    :Parametrar för simplex-brus
 STR_2686    :Låg:
 STR_2687    :Hög:
 STR_2688    :Basfrekvens:
-STR_2689    :Oktav:
+STR_2689    :Oktaver:
 STR_2690    :Markgenerator
-STR_2691    :Bas höjd:
-STR_2692    :Vatten:
+STR_2691    :Bashöjd:
+STR_2692    :Vattennivå:
 STR_2693    :Terräng:
 STR_2694    :Generera
-STR_2695    :Slumpvis terräng
-STR_2696    :Placera trä
+STR_2695    :Slumpmässig terräng
+STR_2696    :Placera träd
 STR_2697    :???
 STR_2698    :???
 STR_2699    :???
@@ -2052,18 +2052,18 @@ STR_2716    :/
 STR_2717    :'
 STR_2718    :(upp)
 STR_2719    :(Ny fil)
-STR_2720    :{UINT16}sek
-STR_2721    :{UINT16}sek
-STR_2722    :{UINT16}min:{UINT16}sek
-STR_2723    :{UINT16}min:{UINT16}sek
-STR_2724    :{UINT16}mins:{UINT16}sek
-STR_2725    :{UINT16}mins:{UINT16}sek
+STR_2720    :{UINT16}s
+STR_2721    :{UINT16}s
+STR_2722    :{UINT16}min:{UINT16}s
+STR_2723    :{UINT16}min:{UINT16}s
+STR_2724    :{UINT16}mins:{UINT16}s
+STR_2725    :{UINT16}mins:{UINT16}s
 STR_2726    :{UINT16}min
-STR_2727    :{UINT16}mins
+STR_2727    :{UINT16}min
 STR_2728    :{UINT16}tim:{UINT16}min
-STR_2729    :{UINT16}tim:{UINT16}mins
+STR_2729    :{UINT16}tim:{UINT16}min
 STR_2730    :{UINT16}tim:{UINT16}min
-STR_2731    :{UINT16}tim:{UINT16}mins
+STR_2731    :{UINT16}tim:{UINT16}min
 STR_2732    :{COMMA16}ft
 STR_2733    :{COMMA16}m
 STR_2734    :{COMMA16}mph
@@ -2075,7 +2075,7 @@ STR_2739    :Ingen
 STR_2740    :RollerCoaster Tycoon 1
 STR_2741    :RollerCoaster Tycoon 2
 STR_2742    :css50.dat hittades inte
-STR_2743    :Kopiera 'data/css17.dat' från din RCT1-installation till 'data/css50.dat' i din RCT2-installation eller kolla så att sökvägen till RCT1 i 'Diverse' fliken är korrekt.
+STR_2743    :Kopiera 'data/css17.dat' från din RCT1-installation till 'data/css50.dat' i din RCT2-installation eller kolla så att sökvägen till RCT1 under fliken 'Diverse' är korrekt.
 STR_2744    :[
 STR_2745    :\
 STR_2746    :]
@@ -2085,13 +2085,13 @@ STR_2749    :Mitt nya scenario
 STR_2750    :Flytta alla föremål till toppen
 STR_2751    :Flytta alla föremål till botten
 STR_2752    :Plocka ogräs
-STR_2753    :Klipp gräsmattan
+STR_2753    :Klippte gräs
 STR_2754    :Vattna blommorna
-STR_2755    :Fixa skadegörelsen
+STR_2755    :Fixa skadegörelse
 STR_2756    :Städa nedskräpning
 # New strings used in the cheats window previously these were
 STR_2763    :???
-STR_2765    :Stort Tåg
+STR_2765    :Stort tåg
 STR_2766    :Vinn scenario
 STR_2767    :Frys väder
 STR_2768    :Avfrys väder
@@ -2113,8 +2113,8 @@ STR_2784    :Ändra snabbtangenter
 STR_2785    :{WINDOW_COLOUR_2}Välj ny snabbtangent för:{NEWLINE}”{STRINGID}”
 STR_2786    :{SMALLFONT}{BLACK}Klicka på en beskrivning för att välja en ny snabbtangent
 STR_2787    :{WINDOW_COLOUR_2}Parkvärde: {BLACK}{CURRENCY}
-STR_2788    :{WINDOW_COLOUR_2}Grattis !{NEWLINE}{BLACK}Du uppnådde ditt mål med ett företagsvärde på {CURRENCY} !
-STR_2789    :{WINDOW_COLOUR_2}Du har misslyckats med ditt mål !
+STR_2788    :{WINDOW_COLOUR_2}Grattis!{NEWLINE}{BLACK}Du uppnådde ditt mål med ett företagsvärde på {CURRENCY}!
+STR_2789    :{WINDOW_COLOUR_2}Du har misslyckats med ditt mål!
 STR_2790    :Skriv in namn i scenariolistan
 STR_2791    :Skriv in namn
 STR_2792    :Var god skriv in ditt namn i scenariolistan:
@@ -2179,7 +2179,7 @@ STR_2850    :Ny bandesign installerad
 STR_2851    :Scenario redan installerat
 STR_2852    :Bandesign redan installerad
 STR_2853    :Förbjuden av lokala myndigheter!
-STR_2854    :{RED}Gäster kan inte komma fram till ingången till {STRINGID} !{NEWLINE}Bygg en gångväg till ingången
+STR_2854    :{RED}Gäster kan inte komma fram till ingången till {STRINGID}!{NEWLINE}Bygg en gångväg till ingången
 STR_2855    :{RED}{STRINGID} har ingen gångväg från sin utgång !{NEWLINE}Bygg en gångväg från åkturens utgång
 STR_2858    :Kan inte påbörja kampanj …
 STR_2861    :{WINDOW_COLOUR_2}Licensed to Infogrames Interactive Inc.
