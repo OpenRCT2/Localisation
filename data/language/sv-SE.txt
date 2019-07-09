@@ -2331,18 +2331,6 @@ STR_3074    :{RED}VARNING: Ditt parkomdöme är fortfarande under 700!{NEWLINE}D
 STR_3075    :{RED}VARNING: Ditt parkomdöme är fortfarande under 700!{NEWLINE}Du har bara två veckor på dig att höja parkomdömet, annars kommer din park att stängas
 STR_3076    :{RED}SISTA VARNING: Ditt parkomdöme är fortfarande under 700!{NEWLINE}Om bara sju dagar kommer din park att stängas om du inte kan höja parkomdömet
 STR_3077    :{RED}STÄNGNINGSNOTIS: Din park har stängts!
-STR_3078    :Vanlig ingång
-STR_3079    :Träingång
-STR_3080    :Tältingång
-STR_3081    :Slottsingång (grå)
-STR_3082    :Slottsingång (brun)
-STR_3083    :Djungelingång
-STR_3084    :Timmerstugeingång
-STR_3085    :Romersk ingång
-STR_3086    :Abstrakt ingång
-STR_3087    :Snö och is-ingång
-STR_3088    :Pagodaingång
-STR_3089    :Rymdingång
 STR_3090    :{SMALLFONT}{BLACK}Välj stil för ingången, utgången och stationen
 STR_3091    :Du får inte ta bort den här sektionen!
 STR_3092    :Du får inte flytta eller modifiera stationen för den här åkturen!
@@ -2397,8 +2385,6 @@ STR_3141    :Kontinuerligt banläge går inte att kombinera med en uppskjutskull
 STR_3142    :{WINDOW_COLOUR_2}Kapacitet: {BLACK}{STRINGID}
 STR_3143    :{SMALLFONT}{BLACK}Visa besökare på kartan
 STR_3144    :{SMALLFONT}{BLACK}Visa åkturer och stånd på kartan
-STR_3158    :graf
-STR_3159    :lista
 STR_3160    :{SMALLFONT}{BLACK}Välj hur många gånger åkturen åker runt
 STR_3162    :Kan inte allokera tillräckligt med minne
 STR_3163    :Installerar ny data: 
@@ -2429,7 +2415,6 @@ STR_3190    :Gångvägsdetaljer
 STR_3191    :Dekorationsgrupper
 STR_3192    :Parkentré
 STR_3193    :Vatten
-STR_3194    :Scenariobeskrivning
 STR_3195    :Uppfinningslista
 STR_3196    :{WINDOW_COLOUR_2}Forskningsgrupp: {BLACK}{STRINGID}
 STR_3197    :{WINDOW_COLOUR_2}Saker som är utvecklade vid spelets början:
@@ -2994,7 +2979,6 @@ STR_5484    :{BLACK}({COMMA16} vecka återstår)
 STR_5485    :{SMALLFONT}{STRING}
 STR_5486    :{BLACK}{COMMA16}
 STR_5487    :{SMALLFONT}{BLACK}Visa nyliga meddelanden
-STR_5488    :Ingen ingång (endast OpenRCT2!)
 STR_5489    :{SMALLFONT}{BLACK}Visa endast gäster du följer
 STR_5490    :Stäng av ljudet vid minimerat spel
 STR_5491    :Uppfinningslist
@@ -3199,8 +3183,6 @@ STR_5724    :Åska
 STR_5725    :{BLACK}Tvinga Väder:
 STR_5726    :{SMALLFONT}{BLACK}Sätter vädret i parken
 STR_5727    :Skalningskvalité:
-STR_5728    :Kräver att Hårdvaruhantering är ikryssad
-STR_5729    :{SMALLFONT}{BLACK}Kräver att Hårdvaruhantering är ikryssad
 STR_5731    :Linjär
 # tooltip for tab in options window
 STR_5734    :{SMALLFONT}{BLACK}Rendering
