@@ -551,8 +551,8 @@ STR_1167    :Impossível aumentar o nível da água aqui...
 STR_1168    :Opções
 STR_1169    :(Nenhum)
 STR_1170    :{STRING}
-STR_1171    :{RED}Fechado
-STR_1172    :{YELLOW}{STRINGID}
+STR_1171    :{RED}Fechado 
+STR_1172    :{YELLOW}{STRINGID} 
 STR_1173    :{SMALLFONT}{BLACK}Construir calçadas e filas de espera
 STR_1174    :Banner está no caminho
 STR_1175    :Impossível construir isto na calçada inclinada
@@ -723,10 +723,10 @@ STR_1339    :{BLACK}Nenhum resultado de teste ainda...
 STR_1340    :{WINDOW_COLOUR_2}Velocidade máx.: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Duração da atração: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
-STR_1343    :{DURATION} /
+STR_1343    :{DURATION} / 
 STR_1344    :{WINDOW_COLOUR_2}Extensão do percurso: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
-STR_1346    :{LENGTH} /
+STR_1346    :{LENGTH} / 
 STR_1347    :{WINDOW_COLOUR_2}Velocidade média: {BLACK}{VELOCITY}
 STR_1348    :{WINDOW_COLOUR_2}G vertical positivo máx.: {BLACK}{COMMA2DP32}g
 STR_1349    :{WINDOW_COLOUR_2}G vertical positivo máx.: {OUTLINE}{RED}{COMMA2DP32}g
@@ -1108,8 +1108,8 @@ STR_1726    :Região não está à venda!
 STR_1727    :Direitos de construção não está à venda!
 STR_1728    :Não pode comprar os direitos de construção aqui...
 STR_1729    :Os terrenos não são propriedade do parque!
-STR_1730    :{RED}Fechado
-STR_1731    :{WHITE}{STRINGID} - -
+STR_1730    :{RED}Fechado 
+STR_1731    :{WHITE}{STRINGID} - - 
 STR_1732    :Construir
 STR_1733    :Modo
 STR_1734    :{WINDOW_COLOUR_2}Número de voltas:
@@ -1150,7 +1150,7 @@ STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COM
 STR_1773    :Somente uma seção de fotos é permitida por atração
 STR_1774    :Somente uma subida com cabo de elevação é permitida por atração
 STR_1777    :Música da atração
-STR_1778    :{STRINGID} - -
+STR_1778    :{STRINGID} - - 
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Fantasia de panda
 STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Fantasia de tigre
 STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Fantasia de elefante
@@ -2106,8 +2106,8 @@ STR_2779    :Janela de Exibição #{COMMA16}
 STR_2780    :Janela de Exibição Grande
 # End of new strings
 STR_2781    :{STRINGID}:{MOVE_X}{195}{STRINGID}
-STR_2782    :SHIFT +
-STR_2783    :CTRL +
+STR_2782    :SHIFT + 
+STR_2783    :CTRL + 
 STR_2784    :Alterar atalhos do teclado
 STR_2785    :{WINDOW_COLOUR_2}Pressione uma nova tecla de atalho para:{NEWLINE}“{STRINGID}”
 STR_2786    :{SMALLFONT}{BLACK}Clique na descrição do atalho para selecionar uma nova tecla
@@ -2237,7 +2237,7 @@ STR_2977    :Nome do Funcionário
 STR_2978    :Inserir novo nove para este funcionário:
 STR_2979    :Impossível nomear funcionário...
 STR_2980    :Muitos banners no jogo
-STR_2981    :{RED}Entrada Proibida
+STR_2981    :{RED}Entrada Proibida 
 STR_2982    :Texto do banner
 STR_2983    :Insira um novo texto para este banner:
 STR_2984    :Impossível definir novo texto para banner...
@@ -2386,10 +2386,10 @@ STR_3143    :{SMALLFONT}{BLACK}Mostrar pessoas no mapa
 STR_3144    :{SMALLFONT}{BLACK}Mostrar atrações e barracas no mapa
 STR_3160    :{SMALLFONT}{BLACK}Seleciona o número de circuitos por passeio
 STR_3162    :Impossível alocar memória o suficiente
-STR_3163    :Instalando novos dados:
+STR_3163    :Instalando novos dados: 
 STR_3164    :{BLACK}{COMMA16} selecionado(s) (no máximo {COMMA16})
 STR_3167    :{WINDOW_COLOUR_2}Inclui: {BLACK}{COMMA16} objetos
-STR_3169    :Dados dos objetos seguintes não encontrados:
+STR_3169    :Dados dos objetos seguintes não encontrados: 
 STR_3170    :Espaço insuficiente para gráficos
 STR_3171    :Muitos objetos deste tipo selecionados
 STR_3172    :O objeto seguinte deve ser selecionado primeiro: {STRING}
@@ -2955,7 +2955,7 @@ STR_5463    :Objetivo: Divirta-se!
 STR_5464    :Geral
 STR_5465    :Clima
 STR_5466    :Funcionários
-STR_5467    :ALT +
+STR_5467    :ALT + 
 STR_5468    :Mensagens recentes
 STR_5469    :Desloca mapa para cima
 STR_5470    :Desloca mapa para esquerda
@@ -3118,8 +3118,8 @@ STR_5629    :Nível de dificuldade
 STR_5630    :Habilitar destravamento progressivo
 STR_5631    :Parques Originais Baixados (DLC)
 STR_5632    :Construa seu próprio...
-STR_5633    :CMD +
-STR_5634    :OPTION +
+STR_5633    :CMD + 
+STR_5634    :OPTION + 
 STR_5635    :{WINDOW_COLOUR_2}Dinheiro gasto: {BLACK}{CURRENCY2DP}
 STR_5636    :{WINDOW_COLOUR_2}Comandos executados: {BLACK}{COMMA16}
 STR_5637    :Não é possível fazer isto...
@@ -3331,7 +3331,7 @@ STR_5880    :Somente selecionados
 STR_5881    :Somente não selecionados
 STR_5882    :Moeda Personalizada
 STR_5883    :Configuração de moeda personalizada
-STR_5884    :{WINDOW_COLOUR_2}Taxa de Câmbio:
+STR_5884    :{WINDOW_COLOUR_2}Taxa de Câmbio: 
 STR_5885    :{WINDOW_COLOUR_2}é equivalente a {COMMA32} GBP (£)
 STR_5886    :{WINDOW_COLOUR_2}Símbolo da moeda:
 STR_5887    :Prefixo
