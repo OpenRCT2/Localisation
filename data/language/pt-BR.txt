@@ -3756,6 +3756,14 @@ STR_6306    :{SMALLFONT}{BLACK}Opção experimental que usa múltiplas threads p
 STR_6307    :Esquema de cores: {BLACK}{STRINGID}
 STR_6308    :“{STRINGID}{OUTLINE}{TOPAZ}”{NEWLINE}{STRINGID}
 STR_6309    :Reconectar
+STR_6310    :{WINDOW_COLOUR_2}Posição: {BLACK}{INT32} {INT32} {INT32}
+STR_6311    :{WINDOW_COLOUR_2}Próxima: {BLACK}{INT32} {INT32} {INT32}
+STR_6312    :(superfície)
+STR_6313    :(inclinação {INT32})
+STR_6314    :{WINDOW_COLOUR_2}Dest: {BLACK}{INT32}, {INT32} tolerância {INT32}
+STR_6315    :{WINDOW_COLOUR_2}Objetivo de Desbravamento: {BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
+STR_6316    :{WINDOW_COLOUR_2}Histórico de Desbravamento:
+STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
 
 #############
 # Scenarios #
