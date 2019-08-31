@@ -3770,6 +3770,14 @@ STR_6306    :{SMALLFONT}{BLACK}Eksperimentelt valg for å bruke flere tråder t
 STR_6307    :Fargeskjema: {BLACK}{STRINGID}
 STR_6308    :“{STRINGID}{OUTLINE}{TOPAZ}”{NEWLINE}{STRINGID}
 STR_6309    :Koble til på nytt
+STR_6310    :{WINDOW_COLOUR_2}Posisjon: {BLACK}{INT32} {INT32} {INT32}
+STR_6311    :{WINDOW_COLOUR_2}Neste: {BLACK}{INT32} {INT32} {INT32}
+STR_6312    :(flate)
+STR_6313    :(bakke {INT32})
+STR_6314    :{WINDOW_COLOUR_2}Destinasjon: {BLACK}{INT32}, {INT32} slingring {INT32}
+STR_6315    :{WINDOW_COLOUR_2}Stifinner: {BLACK}{INT32}, {INT32}, {INT32} retning {INT32}
+STR_6316    :{WINDOW_COLOUR_2}Stifinnerhistorie:
+STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} retning {INT32}
 
 #############
 # Scenarios #
