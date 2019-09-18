@@ -3760,6 +3760,8 @@ STR_6300    :{SMALLFONT}{BLACK}Descargar todos los objetos faltantes si están d
 STR_6301    :{SMALLFONT}{BLACK}Copia el nombre del objeto seleccionado al portapapeles.
 STR_6302    :{SMALLFONT}{BLACK}Copia la lista completa de objetos faltantes en el portapapeles.
 STR_6303    :Descargando objeto ({COMMA16} / {COMMA16}): [{STRING}]
+STR_6305    :Multihilo
+STR_6306    :{SMALLFONT}{BLACK}Opción experimental para usar múltiples hilos en el renderizado, puede causar inestabilidad.
 
 ##############
 # Escenarios #
