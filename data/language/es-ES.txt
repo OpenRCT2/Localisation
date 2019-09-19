@@ -3764,6 +3764,14 @@ STR_6305    :Multihilo
 STR_6306    :{SMALLFONT}{BLACK}Opción experimental para usar múltiples hilos en el renderizado, puede causar inestabilidad.
 STR_6307    :Esquema de color: {BLACK}{STRINGID}
 STR_6309    :Reconectar
+STR_6310    :{WINDOW_COLOUR_2}Posición: {BLACK}{INT32} {INT32} {INT32}
+STR_6311    :{WINDOW_COLOUR_2}Siguiente: {BLACK}{INT32} {INT32} {INT32}
+STR_6312    :(surface)
+STR_6313    :(slope {INT32})
+STR_6314    :{WINDOW_COLOUR_2}Dest: {BLACK}{INT32}, {INT32} tolerancia {INT32}
+STR_6315    :{WINDOW_COLOUR_2}Objetivo Pathfind: {BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
+STR_6316    :{WINDOW_COLOUR_2}Historia Pathfind:
+STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
 
 ##############
 # Escenarios #
