@@ -1150,7 +1150,7 @@ STR_1770    :{SMALLFONT}{BLACK}Anzahl kompletter Schwünge
 STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1773    :Nur ein Fahrtfoto-Bereich pro Bahn erlaubt
 STR_1774    :Nur ein Kabellifthügel pro Bahn erlaubt
-STR_1777    :{WINDOW_COLOUR_2}Attraktionsmusik
+STR_1777    :Attraktionsmusik
 STR_1778    :{STRINGID} - - 
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Pandakostüm
 STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Tigerkostüm
@@ -2332,18 +2332,6 @@ STR_3074    :{RED}WARNUNG: Ihre Parkbewertung liegt immer noch unter dem Wert 70
 STR_3075    :{RED}WARNUNG: Ihre Parkbewertung liegt immer noch unter dem Wert 700!{NEWLINE}Sie haben noch 2 Wochen Zeit, um die Parkbewertung zu erhöhen, oder Ihr Park wird geschlossen
 STR_3076    :{RED}LETZTE WARNUNG: Ihre Parkbewertung liegt immer noch unter dem Wert 700!{NEWLINE}In 7 Tagen wird Ihr Park geschlossen, es sei denn, Sie können die Bewertung erhöhen
 STR_3077    :{RED}SCHLIESSUNGSNACHRICHT: Ihr Park wurde geschlossen!
-STR_3078    :Normaler Eingang
-STR_3079    :Holzeingang
-STR_3080    :Zelteingang
-STR_3081    :Burgeingang (grau)
-STR_3082    :Burgeingang (braun)
-STR_3083    :Dschungeleingang
-STR_3084    :Blockhütteneingang
-STR_3085    :Klassischer/Römischer Eingang
-STR_3086    :Abstrakter Eingang
-STR_3087    :Schnee-/Eis-Eingang
-STR_3088    :Pagodeneingang
-STR_3089    :Weltraumeingang
 STR_3090    :{SMALLFONT}{BLACK}Wählen Sie Stil für den Eingang,{NEWLINE}Ausgang und die Station aus
 STR_3091    :Sie dürfen diesen Abschnitt nicht entfernen!
 STR_3092    :Sie dürfen die Station für diese Bahn nicht verschieben oder verändern!
@@ -3230,7 +3218,7 @@ STR_5762    :Chinesischer Yuan (CN¥)
 STR_5763    :Alle Dateien
 STR_5764    :Ungültiger Bahntyp
 STR_5765    :Kann Bahnen eines ungültigen Typs nicht bearbeiten
-STR_5766    :<available string id>
+STR_5766    :Ungarischer Forint (Ft)
 STR_5767    :Einkünfte
 STR_5768    :Besucher gesamt
 STR_5769    :Gesamtgewinn
@@ -3722,6 +3710,8 @@ STR_6258    :Klar (transparent)
 STR_6259    :Deaktiviert
 STR_6260    :Blockierte Kacheln anzeigen
 STR_6261    :Breite Wege anzeigen
+STR_6262    :Hauptlautstärke
+STR_6263    :{SMALLFONT}{BLACK}Ton insgesamt ein-/ausschalten
 STR_6264    :Verwenden Sie immer den Systemdateibrowser
 STR_6265    :{SMALLFONT}{BLACK}Wenn Optionsfeld aktiviert wird, dann wird der Dateibrowser Ihres Systems verwendet im Gegensatz zu dem von OpenRCT2.
 STR_6266    :Benutzerdefinierten Inhaltsordner öffnen
@@ -3776,6 +3766,21 @@ STR_6314    :{WINDOW_COLOUR_2}Ziel: {BLACK}{INT32}, {INT32} Toleranz {INT32}
 STR_6315    :{WINDOW_COLOUR_2}Wegfindungsziel: {BLACK}{INT32}, {INT32}, {INT32} Richt. {INT32}
 STR_6316    :{WINDOW_COLOUR_2}Wegfindungshistorie:
 STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} Richtung {INT32}
+STR_6318    :Netzwerkdesynchronisation erkannt.{NEWLINE}Logdatei: {STRING}
+STR_6319    :{WINDOW_COLOUR_2}Blockbremse geschlossen
+STR_6320    :{WINDOW_COLOUR_2}Unzerstörbar
+STR_6321    :{WINDOW_COLOUR_2}Zusatz ist kaputt
+STR_6322    :{WINDOW_COLOUR_2}Sprite-ID: {BLACK}{INT32}
+STR_6323    :Simulierend
+STR_6324    :Simulieren
+STR_6325    :{SMALLFONT}{BLACK}Fahrgeschäft/Attraktion simulieren
+STR_6326    :{POP16}{POP16}{POP16}{STRINGID} kann nicht simuliert werden ...
+STR_6327    :Transparenter Hintergrund für riesige Screenshots
+STR_6328    :{SMALLFONT}{BLACK}Mit dieser Option werden riesige Screenshots einen transparenten Hintergrund statt der standardmäßig verwendeten schwarzen Farbe verwenden.
+STR_6329    :{STRING}{STRINGID}
+STR_6330    :Lade [{STRING}] von {STRING} herunter ({COMMA16} / {COMMA16})
+STR_6331    :Enten erzeugen
+STR_6332    :Enten entfernen
 
 #############
 # Scenarios #
