@@ -1127,7 +1127,6 @@ STR_1746    :これを変更することはできません。
 STR_1747    :{WINDOW_COLOUR_2}達成期限:
 STR_1748    :{SMALLFONT}{BLACK}ライドの達成期限
 STR_1749    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{DURATION}
-STR_1750    :{DURATION}
 STR_1751    :乗物のタイムリミットを変更できません...
 STR_1752    :{SMALLFONT}{BLACK}園内の各入園客のリストを表示
 STR_1753    :{SMALLFONT}{BLACK}園内の入園客の概要リストを表示
@@ -1264,8 +1263,6 @@ STR_1888    :{WINDOW_COLOUR_2}最後の点検からの経過時間: {BLACK}4時�
 STR_1889    :{WINDOW_COLOUR_2}停止時間: {MOVE_X}{255}{BLACK}{COMMA16}%
 STR_1890    :{SMALLFONT}{BLACK}整備士が点検する時間の選定
 STR_1891    :パークで{STRINGID}がまだいません！
-# The following two strings were used to display an error when the disc was missing.
-# This has been replaced in OpenRCT2.
 STR_1894    :{WINDOW_COLOUR_2}売上{STRINGID}: {BLACK}{COMMA32}
 STR_1895    :{SMALLFONT}{BLACK}ライド建設費
 STR_1896    :{WINDOW_COLOUR_2}支出／収入
@@ -1605,8 +1602,8 @@ STR_2245    :10月
 STR_2246    :11月
 STR_2247    :12月
 STR_2248    :ライド／アトラクションが解体できません。
-STR_2249    :{BABYBLUE}新しいアトラクション:{NEWLINE}{STRINGID}
-STR_2250    :{BABYBLUE}新しい発明品:{NEWLINE}{STRINGID}
+STR_2249    :{BABYBLUE}新しいライ／アトラクション:{NEWLINE}{STRINGID}
+STR_2250    :{BABYBLUE}新しいシーナーリ:{NEWLINE}{STRINGID}
 STR_2251    :歩道でだけ建設できます！
 STR_2252    :歩道の上だけに建設できます！
 STR_2253    :トランスポートライド
@@ -1955,7 +1952,7 @@ STR_2739    :なし
 STR_2740    :RollerCoaster Tycoon 1
 STR_2741    :RollerCoaster Tycoon 2
 STR_2742    :css50.dat not found
-STR_2743    :Copy 'data/css17.dat' from your RCT1 installation to 'data/css50.dat' in your RCT2 installation, or make sure the path to RCT1 in the Miscellaneous tab is correct.
+STR_2743    :Copy 'data/css17.dat' from your RCT1 installation to 'data/css50.dat' in your RCT2 installation, or make sure the path to RCT1 in the Advanced tab is correct.
 STR_2749    :題名なしのシナリオ
 # New strings used in the cheats window previously these were ???
 STR_2750    :全てのオブジェクト上に移動する
@@ -2070,7 +2067,7 @@ STR_2868    :{WINDOW_COLOUR_2}Tales from the Vienna Woods:   (Johann Strauss) no
 STR_2869    :{WINDOW_COLOUR_2}Slavonic Dance:   (Traditional)
 STR_2870    :{WINDOW_COLOUR_2}Das Alpenhorn:   (Traditional)
 STR_2871    :{WINDOW_COLOUR_2}The Blond Sailor:   (Traditional)
-STR_2872    :{WINDOW_COLOUR_2}Overture - Poet and Peasant:   (Suppe) non copyright
+STR_2872    :{WINDOW_COLOUR_2}Overture - Poet and Peasant:   (Franz von Suppé) non copyright
 STR_2873    :{WINDOW_COLOUR_2}Waltz Medley:   (Johann Strauss) non copyright
 STR_2874    :{WINDOW_COLOUR_2}Bella Bella Bimba:   (Traditional)
 STR_2875    :{WINDOW_COLOUR_2}Original recordings (P) 1976 C.J.Mears Organization, used with consent
@@ -2098,7 +2095,7 @@ STR_2896    :{WINDOW_COLOUR_2}Hypothermia:   (Allister Brimble) copyright © Chr
 STR_2897    :{WINDOW_COLOUR_2}Last Sleigh Ride:   (Allister Brimble) copyright © Chris Sawyer
 STR_2898    :{WINDOW_COLOUR_2}Pipes of Glencairn:   (Allister Brimble) copyright © Chris Sawyer
 STR_2899    :{WINDOW_COLOUR_2}Traffic Jam:   (Allister Brimble) copyright © Chris Sawyer
-STR_2901    :{WINDOW_COLOUR_2}(Samples courtesy of Spectrasonics ”Liquid Grooves”)
+STR_2901    :{WINDOW_COLOUR_2}(Samples courtesy of Spectrasonics “Liquid Grooves”)
 STR_2902    :{WINDOW_COLOUR_2}Toccata:   (C.M.Widor, played by Peter James Adcock) recording © Chris Sawyer
 STR_2903    :{WINDOW_COLOUR_2}Space Rock:   (Allister Brimble) copyright © Chris Sawyer
 STR_2904    :{WINDOW_COLOUR_2}Manic Mechanic:   (Allister Brimble) copyright © Chris Sawyer
@@ -2180,7 +2177,6 @@ STR_3042    :パイレーツ・スタイル
 STR_3043    :ロック・スタイル ３番
 STR_3044    :キャンディ・スタイル
 STR_3045    :{SMALLFONT}{BLACK}音楽のスタイルの選定
-STR_3046    :この乗物を改造することはできません
 STR_3047    :この乗物の除去や改造は、地方自治体により禁止されています
 STR_3048    :キャンペーンは地方自治体により禁止されています
 STR_3049    :ゴルフホール A
@@ -2217,7 +2213,6 @@ STR_3094    :非適用
 STR_3095    :{WINDOW_COLOUR_2}リフト巻き上げ速度:
 STR_3096    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_3097    :{SMALLFONT}{BLACK}リフトヒルのチェーン速度を選択
-STR_3098    :リフトヒルの速度を変更できません...
 STR_3099    :{SMALLFONT}{BLACK}色を選択
 STR_3100    :{SMALLFONT}{BLACK}ふたつ目の色を選択
 STR_3101    :{SMALLFONT}{BLACK}3つ目の色を選択
@@ -2264,8 +2259,6 @@ STR_3141    :ケーブルリフトヒルでは各乗物の複数周回路は不�
 STR_3142    :{WINDOW_COLOUR_2}収容能力: {BLACK}{STRINGID}
 STR_3143    :{SMALLFONT}{BLACK}マップ上の人々を表示
 STR_3144    :{SMALLFONT}{BLACK}マップ上の乗物と売店を表示
-STR_3158    :グラフ
-STR_3159    :リスト
 STR_3160    :{SMALLFONT}{BLACK}Select the number of circuits per ride
 STR_3162    :充分なメモリーを割り当てられません
 STR_3163    :新規データをインストール中: 
@@ -2485,11 +2478,6 @@ STR_3390    :選択アイテムが多すぎます
 STR_3437    :{SMALLFONT}{BLACK}木、壁、小さな景観アイテムを地形から除去する
 STR_3438    :ここから全ての景観を除去することができませんでした...
 STR_3439    :景色物をクリアする
-STR_3440    :1ページ目
-STR_3441    :2ページ目
-STR_3442    :3ページ目
-STR_3443    :4ページ目
-STR_3444    :5ページ目
 STR_3445    :巡回エリアにセットする
 STR_3446    :巡回エリアをキャンセル
 
@@ -2857,7 +2845,6 @@ STR_5484    :{BLACK}(残り{COMMA16}週間)
 STR_5485    :{SMALLFONT}{STRING}
 STR_5486    :{BLACK}{COMMA16}
 STR_5487    :{SMALLFONT}{BLACK}最近のメッセージの表示
-STR_5488    :入口なし (OpenRCT2だけ!)
 STR_5489    :{SMALLFONT}{BLACK}Show only tracked guests
 STR_5490    :フォーカス損失時に音を切る
 STR_5491    :発明品リスト
@@ -3062,8 +3049,6 @@ STR_5724    :雷雨
 STR_5725    :{BLACK}天気を設定する:
 STR_5726    :{SMALLFONT}{BLACK}パークの天気を設定する
 STR_5727    :スケーリング質
-STR_5728    :ハードウェア表示が必要です。
-STR_5729    :{SMALLFONT}{BLACK}ハードウェア表示が必要です。
 STR_5731    :線形補間
 # tooltip for tab in options window
 STR_5734    :{SMALLFONT}{BLACK}レンダリング
@@ -3098,6 +3083,7 @@ STR_5762    :人民元 (CN¥)
 STR_5763    :全てのファイル
 STR_5764    :Invalid ride type
 STR_5765    :Cannot edit rides of invalid type
+STR_5766    :ハンガリーのフォリント(Ft)
 STR_5767    :収入
 STR_5768    :顧客総数
 STR_5769    :総収益
@@ -3315,8 +3301,8 @@ STR_5981    :{WINDOW_COLOUR_2}Not a banner
 STR_5982    :{WINDOW_COLOUR_2}Large scenery type: {BLACK}{COMMA16}
 STR_5983    :{WINDOW_COLOUR_2}Large scenery piece ID: {BLACK}{COMMA16}
 STR_5984    :Blocked paths:
-STR_5985    :新しフォルダ
-STR_5986    :新しフォルダの名を入力して下さい。
+STR_5985    :新しいフォルダ
+STR_5986    :新しいフォルダの名を入力して下さい。
 STR_5987    :Unable to create folder
 STR_5988    :{SMALLFONT}{BLACK}No remaining land rights for sale
 STR_5989    :{SMALLFONT}{BLACK}No remaining construction rights for sale
@@ -3330,7 +3316,7 @@ STR_5996    :ブースターのスピード
 STR_5997    :Add/set money
 STR_5998    :Add money
 STR_5999    :Set money
-STR_6000    :Enter new value
+STR_6000    :新しい価値を入力して下さい。
 STR_6001    :電灯効果を表示にする（試験的）
 STR_6002    :{SMALLFONT}{BLACK}Lamps and rides will be lit up at night.{NEWLINE}Requires rendering engine to be set to hardware display.
 STR_6003    :切り欠きビュー
@@ -3450,7 +3436,7 @@ STR_6116    :Wide roller coaster trains glide along smooth steel track, travelli
 STR_6117    :Sitting in comfortable trains with only simple lap restraints riders enjoy giant smooth drops and twisting track as well as plenty of 'air time' over the hills
 STR_6118    :A gentle roller coaster for people who haven't yet got the courage to face the larger rides
 STR_6119    :A cheap and easy to build roller coaster, but with a limited height
-STR_6120    :{BABYBLUE}New vehicle now available for {STRINGID}:{NEWLINE}{STRINGID}
+STR_6120    :{BABYBLUE}{STRINGID}に新しい車両:{NEWLINE}{STRINGID}
 STR_6121    :{SMALLFONT}{BLACK}Extends the park's land rights all the way to the edges of the map
 STR_6122    :There are not enough roller coasters in this scenario!
 STR_6123    :Error loading objects for park
@@ -3555,7 +3541,7 @@ STR_6221    :{SMALLFONT}{BLACK}This will set the ride's known entrance or exit l
 STR_6222    :Can't place guest entry point here...
 STR_6223    :Must be outside park boundaries!
 STR_6224    :{STRING} placed a guest entry point.
-STR_6225    :Not supported with OpenGL renderer
+STR_6225    :OpenGLレンダラーではサポートされていません
 STR_6226    :Enable early scenario completion
 STR_6227    :{SMALLFONT}{BLACK}Triggers scenario completion when all scenario goals are met before the target date.
 STR_6228    :シナリオ設定
@@ -3606,7 +3592,90 @@ STR_6272    :乗り場
 STR_6273    :音楽
 STR_6274    :配色の設定できません…
 STR_6275    :{WINDOW_COLOUR_2}乗り場スタイル:
+STR_6276    :{RED}{STRINGID} has guests getting stuck, possibly due to invalid ride type or operating mode.
+STR_6277    :{WINDOW_COLOUR_2}Station index: {BLACK}{STRINGID}
+STR_6278    :Autosave amount
+STR_6279    :{SMALLFONT}{BLACK}Number of autosaves that should be kept
+STR_6280    :{SMALLFONT}{BLACK}チャット
+STR_6281    :{SMALLFONT}{BLACK}Show a separate button for the チャット window in the toolbar
+STR_6282    :チャット
+STR_6283    :チャット not available at this time. Are you connected to a server?
+STR_6284    :Network
+STR_6285    :Network Information
+STR_6286    :Receive
+STR_6287    :Send
+STR_6288    :Total received
+STR_6289    :Total sent
+STR_6290    :Base protocol
+STR_6291    :Commands
+STR_6292    :Map
+STR_6293    :B
+STR_6294    :KiB
+STR_6295    :MiB
+STR_6296    :GiB
+STR_6297    :TiB
+STR_6298    :{STRING}/sec
+STR_6299    :全部のダウンロード
+STR_6300    :{SMALLFONT}{BLACK}Download all missing objects if available online.
+STR_6301    :{SMALLFONT}{BLACK}Copy the selected object name to the clipboard.
+STR_6302    :{SMALLFONT}{BLACK}Copy the entire list of missing objects to the clipboard.
+STR_6303    :オブジェクトのダウンロード中 ({COMMA16} / {COMMA16}): [{STRING}]
+STR_6304    :Open scenery picker
+STR_6305    :マルチスレッド
+STR_6306    :{SMALLFONT}{BLACK}Experimental option to use multiple threads to render, may cause instability.
+STR_6307    :配色: {BLACK}{STRINGID}
 STR_6308    :「{STRINGID}{OUTLINE}{TOPAZ}」{NEWLINE}{STRINGID}
+STR_6309    :再接続
+STR_6310    :{WINDOW_COLOUR_2}Position: {BLACK}{INT32} {INT32} {INT32}
+STR_6311    :{WINDOW_COLOUR_2}Next: {BLACK}{INT32} {INT32} {INT32}
+STR_6312    :(surface)
+STR_6313    :(slope {INT32})
+STR_6314    :{WINDOW_COLOUR_2}Dest: {BLACK}{INT32}, {INT32} tolerance {INT32}
+STR_6315    :{WINDOW_COLOUR_2}Pathfind Goal: {BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
+STR_6316    :{WINDOW_COLOUR_2}Pathfind history:
+STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
+STR_6318    :Network desync detected.{NEWLINE}Log file: {STRING}
+STR_6319    :{WINDOW_COLOUR_2}Block Brake Closed
+STR_6320    :{WINDOW_COLOUR_2}Indestructible
+STR_6321    :{WINDOW_COLOUR_2}Addition is broken
+STR_6322    :{WINDOW_COLOUR_2}Sprite Id: {BLACK}{INT32}
+STR_6323    :シミュレート中
+STR_6324    :シミュレート
+STR_6325    :{SMALLFONT}{BLACK}Simulate ride/attraction
+STR_6326    :{POP16}{POP16}{POP16}{STRINGID}をシミュレートできません…
+STR_6327    :Transparent background for giant screenshots
+STR_6328    :{SMALLFONT}{BLACK}With this option enabled, giant screenshots will have a transparent background instead of the default black colour.
+STR_6329    :{STRING}{STRINGID}
+STR_6330    :Downloading [{STRING}] from {STRING} ({COMMA16} / {COMMA16})
+STR_6331    :Create Ducks
+STR_6332    :Remove Ducks
+STR_6333    :ウインドウのスケール係数を上げる
+STR_6334    :ウインドウのスケール係数を下げる
+STR_6335    :タイルインスペクター：Insert corrupt 要素
+STR_6336    :タイルインスペクター：要素のコピー
+STR_6337    :タイルインスペクター：Paste 要素
+STR_6338    :タイルインスペクター：Delete 要素
+STR_6339    :タイルインスペクター：Move 要素 up
+STR_6340    :タイルインスペクター：Move 要素 down
+STR_6341    :タイルインスペクター：Xコーディネートを上げる
+STR_6342    :タイルインスペクター：Xコーディネートを下げる
+STR_6343    :タイルインスペクター：Yコーディネートを上げる
+STR_6344    :タイルインスペクター：Yコーディネートを下げる
+STR_6345    :タイルインスペクター：要素 heightを上げる
+STR_6346    :タイルインスペクター：要素 heightを下げる
+STR_6347    :Path additions cannot be placed on level crossings!
+STR_6348    :Remove level crossing first!
+STR_6349    :Random title sequence
+STR_6350    :散布
+STR_6351    :シーナリー散布ツール
+STR_6352    :密度
+STR_6353    :{SMALLFONT}{BLACK}小密度
+STR_6354    :{SMALLFONT}{BLACK}中密度
+STR_6355    :{SMALLFONT}{BLACK}高密度
+STR_6356    :{SMALLFONT}{BLACK}Spawns ducks if park contains water
+STR_6357    :{SMALLFONT}{BLACK}Removes all ducks from the map
+STR_6358    :1ページ{UINT16}目
+STR_6359    :{POP16}{POP16}1ページ{UINT16}目
 STR_6360    :{SMALLFONT}{BLACK}{COMMA32}
 
 #############
