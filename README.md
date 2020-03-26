@@ -54,7 +54,7 @@ One simple way to test the new language is to copy the whole document you've tra
 | [![](https://img.shields.io/badge/ja--JP-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ja-JP.txt) | [AaronVanGeffen](https://github.com/AaronVanGeffen)|
 | [![](https://img.shields.io/badge/ko--KR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ko-KR.txt) | [telk5093](https://github.com/telk5093)            |
 | [![](https://img.shields.io/badge/nb--NO-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt) | [Goddesen](https://github.com/Goddesen)            |
-| [![](https://img.shields.io/badge/nl--NL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nl-NL.txt) | [Gymnasiast ](https://github.com/Gymnasiast )      |
+| [![](https://img.shields.io/badge/nl--NL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nl-NL.txt) | [Gymnasiast](https://github.com/Gymnasiast )      |
 | [![](https://img.shields.io/badge/pt--BR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pt-BR.txt) | [renansimoes](https://github.com/renansimoes), [Tupaschoal](https://github.com/Tupaschoal)      |
 | [![](https://img.shields.io/badge/sv--SE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/sv-SE.txt) | [Nubbie](https://github.com/Nubbie)                |
 | [![](https://img.shields.io/badge/tr--TR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/tr-TR.txt) | [BobbyS38](https://github.com/BobbyS38)                |
