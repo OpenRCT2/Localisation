@@ -3313,12 +3313,12 @@ STR_5993    :{SMALLFONT}{BLACK}Copy selected element
 STR_5994    :{SMALLFONT}{BLACK}Paste copied element
 STR_5995    :ブースター
 STR_5996    :ブースターのスピード
-STR_5997    :Add/set money
-STR_5998    :Add money
-STR_5999    :Set money
+STR_5997    :資金を追加/設定
+STR_5998    :資金を追加
+STR_5999    :資金を設定
 STR_6000    :新しい価値を入力して下さい。
-STR_6001    :電灯効果を表示にする（試験的）
-STR_6002    :{SMALLFONT}{BLACK}Lamps and rides will be lit up at night.{NEWLINE}Requires rendering engine to be set to hardware display.
+STR_6001    :ライトの効果を表示にする（試験的）
+STR_6002    :{SMALLFONT}{BLACK}ランプと乗り物は夜にライトアップされます。{NEWLINE}レンダリングエンジンをハードウェア表示に設定する必要があります。
 STR_6003    :切り欠きビュー
 STR_6004    :切り欠きビュー
 STR_6005    :切り欠きビューを使う
@@ -3536,14 +3536,14 @@ STR_6216    :操作
 STR_6217    :ライドやトラックの可用性
 STR_6218    :OpenRCT2オフィシャル
 STR_6219    :歩道の問題表示の切り替え
-STR_6220    :Make Usable
-STR_6221    :{SMALLFONT}{BLACK}This will set the ride's known entrance or exit location to the currently selected tile. Only one entrance and exit location can be made usable per station.
+STR_6220    :使用可能にする
+STR_6221    :{SMALLFONT}{BLACK}これはライドの既知の入口または出口の位置が現在選択されているタイルに設定されます。 1つの駅で使用できる入口と出口の場所は1つだけです。
 STR_6222    :Can't place guest entry point here...
 STR_6223    :Must be outside park boundaries!
 STR_6224    :{STRING} placed a guest entry point.
 STR_6225    :OpenGLレンダラーではサポートされていません
-STR_6226    :Enable early scenario completion
-STR_6227    :{SMALLFONT}{BLACK}Triggers scenario completion when all scenario goals are met before the target date.
+STR_6226    :シナリオの早期完了を有効にする
+STR_6227    :{SMALLFONT}{BLACK}すべてのシナリオの目標が目標日の前に達成されたときに、シナリオの完了をトリガーします。
 STR_6228    :シナリオ設定
 STR_6229    :{WINDOW_COLOUR_2}{STRINGID}: {STRINGID}
 STR_6230    :{STRINGID}:
@@ -3592,29 +3592,29 @@ STR_6272    :乗り場
 STR_6273    :音楽
 STR_6274    :配色の設定できません…
 STR_6275    :{WINDOW_COLOUR_2}乗り場スタイル:
-STR_6276    :{RED}{STRINGID} has guests getting stuck, possibly due to invalid ride type or operating mode.
-STR_6277    :{WINDOW_COLOUR_2}Station index: {BLACK}{STRINGID}
+STR_6276    :{RED}{STRINGID}には来客が行き詰まっています。無効な配車タイプまたは操作モードが原因である可能性があります。
+STR_6277    :{WINDOW_COLOUR_2}乗り場インデックス: {BLACK}{STRINGID}
 STR_6278    :自動保存量
 STR_6279    :{SMALLFONT}{BLACK}保たれるべきで自動保存の数
 STR_6280    :{SMALLFONT}{BLACK}チャット
-STR_6281    :{SMALLFONT}{BLACK}Show a separate button for the チャット window in the toolbar
+STR_6281    :{SMALLFONT}{BLACK}チャットのウィンドウのボタンをツールバーに表示する
 STR_6282    :チャット
-STR_6283    :チャット not available at this time. Are you connected to a server?
+STR_6283    :チャットは利用できません。サーバーに接続していますか？
 STR_6284    :ネットワーク
 STR_6285    :ネットワーク報告
-STR_6286    :Receive
-STR_6287    :Send
-STR_6288    :Total received
-STR_6289    :Total sent
-STR_6290    :Base protocol
-STR_6291    :Commands
-STR_6292    :Map
+STR_6286    :受信
+STR_6287    :送信
+STR_6288    :受信合計
+STR_6289    :送信合計
+STR_6290    :プロトコル
+STR_6291    :コマンド
+STR_6292    :マップ
 STR_6293    :B
 STR_6294    :KiB
 STR_6295    :MiB
 STR_6296    :GiB
 STR_6297    :TiB
-STR_6298    :{STRING}/sec
+STR_6298    :1秒あたり{STRING}
 STR_6299    :全部のダウンロード
 STR_6300    :{SMALLFONT}{BLACK}Download all missing objects if available online.
 STR_6301    :{SMALLFONT}{BLACK}Copy the selected object name to the clipboard.
@@ -3626,14 +3626,14 @@ STR_6306    :{SMALLFONT}{BLACK}Experimental option to use multiple threads to re
 STR_6307    :配色: {BLACK}{STRINGID}
 STR_6308    :「{STRINGID}{OUTLINE}{TOPAZ}」{NEWLINE}{STRINGID}
 STR_6309    :再接続
-STR_6310    :{WINDOW_COLOUR_2}Position: {BLACK}{INT32} {INT32} {INT32}
-STR_6311    :{WINDOW_COLOUR_2}Next: {BLACK}{INT32} {INT32} {INT32}
+STR_6310    :{WINDOW_COLOUR_2}拠点: {BLACK}{INT32} {INT32} {INT32}
+STR_6311    :{WINDOW_COLOUR_2}次: {BLACK}{INT32} {INT32} {INT32}
 STR_6312    :(surface)
 STR_6313    :(slope {INT32})
-STR_6314    :{WINDOW_COLOUR_2}Dest: {BLACK}{INT32}, {INT32} tolerance {INT32}
-STR_6315    :{WINDOW_COLOUR_2}Pathfind Goal: {BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
-STR_6316    :{WINDOW_COLOUR_2}Pathfind history:
-STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
+STR_6314    :{WINDOW_COLOUR_2}目的地: {BLACK}{INT32}, {INT32} 寛大 {INT32}
+STR_6315    :{WINDOW_COLOUR_2}経路探索の目標: {BLACK}{INT32}, {INT32}, {INT32} 方 {INT32}
+STR_6316    :{WINDOW_COLOUR_2}経路探索の歴史:
+STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} 方 {INT32}
 STR_6318    :Network desync detected.{NEWLINE}Log file: {STRING}
 STR_6319    :{WINDOW_COLOUR_2}Block Brake Closed
 STR_6320    :{WINDOW_COLOUR_2}Indestructible
@@ -3674,12 +3674,12 @@ STR_6354    :{SMALLFONT}{BLACK}中密度
 STR_6355    :{SMALLFONT}{BLACK}高密度
 STR_6356    :{SMALLFONT}{BLACK}パークに水があれば、カモを投入する
 STR_6357    :{SMALLFONT}{BLACK}全部のカモを取り除く
-STR_6358    :1ページ{UINT16}目
-STR_6359    :{POP16}{POP16}1ページ{UINT16}目
+STR_6358    :{UINT16}ページ目
+STR_6359    :{POP16}{POP16}{UINT16}ページ目
 STR_6360    :{SMALLFONT}{BLACK}{COMMA32}
-STR_6361    :Enable lighting effects on rides (experimental)
-STR_6362    :{SMALLFONT}{BLACK}If enabled, vehicles for tracked rides will be lit up at night.
-STR_6363    :Copied text to clipboard
+STR_6361    :乗り物のライトの効果を表示にする（試験的）
+STR_6362    :{SMALLFONT}{BLACK}有効になっている場合、追跡された乗り物の車両は夜間にライトアップされます。
+STR_6363    :テキストをクリップボードにコピーしました。
 
 #############
 # Scenarios #
