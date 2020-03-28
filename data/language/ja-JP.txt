@@ -1131,8 +1131,8 @@ STR_1750    :{DURATION}
 STR_1751    :乗物のタイムリミットを変更できません...
 STR_1752    :{SMALLFONT}{BLACK}園内の各入園客のリストを表示
 STR_1753    :{SMALLFONT}{BLACK}園内の入園客の概要リストを表示
-STR_1754    :{BLACK}{COMMA16} 来客
-STR_1755    :{BLACK}{COMMA16} 来客
+STR_1754    :{BLACK}{COMMA32} 来客
+STR_1755    :{BLACK}{COMMA32} 来客
 STR_1756    :{WINDOW_COLOUR_2}入場料:
 STR_1757    :{WINDOW_COLOUR_2}信頼度: {MOVE_X}{255}{BLACK}{COMMA16}%
 STR_1758    :{SMALLFONT}{BLACK}建設モード
@@ -1190,7 +1190,7 @@ STR_1813    :雑貨のオブジェックト
 STR_1814    :活動
 STR_1815    :思考
 STR_1816    :{SMALLFONT}{BLACK}来園客のリストで表示したい情報の種類を選択
-STR_1817    :({COMMA16})
+STR_1817    :({COMMA32})
 STR_1818    :{WINDOW_COLOUR_2}全てのゲスト
 STR_1819    :{WINDOW_COLOUR_2}全てのゲスト (要約)
 STR_1820    :{WINDOW_COLOUR_2}{STRINGID}のゲスト
@@ -1219,9 +1219,9 @@ STR_1842    :{COMMA16}人の来客のお気に入り
 STR_1843    :{COMMA16}人の来客のお気に入り
 STR_1844    :{SMALLFONT}{BLACK}乗物/施設のリストで表示したい情報の種類を選択
 STR_1845    :{MONTHYEAR}
-STR_1846    :{COMMA16}人の来客
-STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16}人の来客
-STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16}人の来客
+STR_1846    :{COMMA32}人の来客
+STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA32}人の来客
+STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA32}人の来客
 STR_1849    :{WINDOW_COLOUR_2}音楽を流す
 STR_1850    :{SMALLFONT}{BLACK}このライドで流す音楽の選択
 STR_1851    :{WINDOW_COLOUR_2}維持費: {BLACK}{CURRENCY2DP} 時間あたり
@@ -1579,7 +1579,7 @@ STR_2219    :{RED}{COMMA16}人の来客は{STRINGID}上の事故で死亡して�
 STR_2220    :{WINDOW_COLOUR_2}パーク評価値: {BLACK}{COMMA16}
 STR_2221    :{SMALLFONT}{BLACK}パーク評価値: {COMMA16}
 STR_2222    :{SMALLFONT}{BLACK}{STRINGID}
-STR_2223    :{WINDOW_COLOUR_2}パーク内の人: {BLACK}{COMMA16}
+STR_2223    :{WINDOW_COLOUR_2}パーク内の人: {BLACK}{COMMA32}
 STR_2224    :{WINDOW_COLOUR_2}現金: {BLACK}{CURRENCY2DP}
 STR_2225    :{WINDOW_COLOUR_2}現金: {RED}{CURRENCY2DP}
 STR_2226    :{WINDOW_COLOUR_2}パーク評価額: {BLACK}{CURRENCY}
