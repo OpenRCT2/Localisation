@@ -47,7 +47,7 @@ One simple way to test the new language is to copy the whole document you've tra
 | [![](https://img.shields.io/badge/da--DK-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/da-DK.txt) | [LPSGizmo](https://github.com/LPSGizmo)          |
 | [![](https://img.shields.io/badge/de--DE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/de-DE.txt) | [danidoedel](https://github.com/danidoedel), [Wuzzy2](https://github.com/Wuzzy2)        |
 | [![](https://img.shields.io/badge/en--GB-maintained-green.svg)](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt   ) | -Anyone-                                           |
-| [![](https://img.shields.io/badge/es--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/es-ES.txt) | [Wirlie](https://github.com/Wirlie), [frenchiveruti](https://github.com/frenchiveruti)                |
+| [![](https://img.shields.io/badge/es--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/es-ES.txt) | [Wirlie](https://github.com/Wirlie)                |
 | [![](https://img.shields.io/badge/fr--FR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-FR.txt) | [JoelTroch](https://github.com/JoelTroch)          |
 | [![](https://img.shields.io/badge/hu--HU-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/hu-HU.txt) | [anon569](https://github.com/anon569)              |
 | [![](https://img.shields.io/badge/it--IT-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/it-IT.txt) | [LucaRed](https://github.com/LucaRed)              |
