@@ -26,4 +26,4 @@ Updated in:
 - [ ] zh-TW
 
 Notification when new strings arrive:
-@Nubbie @Goddesen @octaroot @telk5093 @Omaranwa @danidoedel @LPSGizmo @BobbyS38 @frenchiveruti @anon569 @JoelTroch @Wuzzy2
+@Omaranwa @J0anJosep @octaroot @LPSGizmo @danidoedel @Wuzzy2 @Wirlie @JoelTroch @anon569 @LucaRed @AaronVanGeffen @telk5093 @Goddesen @Gymnasiast @renansimoes @Tupaschoal @Nubbie @BobbyS38 @izhangfei @daihakken
