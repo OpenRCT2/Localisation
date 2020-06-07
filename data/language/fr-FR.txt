@@ -2395,7 +2395,7 @@ STR_3293    :Froid
 STR_3294    :Modifier...
 STR_3295    :{SMALLFONT}{BLACK}Modifier nom du parc
 STR_3296    :{SMALLFONT}{BLACK}Modifier nom du scénario
-STR_3297    :{SMALLFONT}{BLACK}Modifier détails sur le parc / scénario
+STR_3297    :{SMALLFONT}{BLACK}Modifier détails sur le parc/scénario
 STR_3298    :{WINDOW_COLOUR_2}Nom du parc : {BLACK}{STRINGID}
 STR_3299    :{WINDOW_COLOUR_2}Détails parc/scén. :
 STR_3300    :{WINDOW_COLOUR_2}Nom du scénario : {BLACK}{STRINGID}
@@ -2822,7 +2822,7 @@ STR_5469    :Défiler la carte vers le haut
 STR_5470    :Défiler la carte vers la gauche
 STR_5471    :Défiler la carte vers le bas
 STR_5472    :Défiler la carte vers la droite
-STR_5473    :Cycle jour / nuit
+STR_5473    :Cycle jour/nuit
 STR_5474    :Afficher le texte des bannières en majuscule
 STR_5475    :{COMMA16} semaines
 STR_5476    :Matériel
@@ -3071,7 +3071,7 @@ STR_5755    :Mauvaise version du programme (le serveur utilise {STRING})
 STR_5756    :Mauvais mot de passe
 STR_5757    :Serveur plein
 STR_5758    :{OUTLINE}{GREEN}{STRING} a rejoint la partie
-STR_5759    :Téléchargement de la carte... ({INT32} / {INT32} Kio)
+STR_5759    :Téléchargement de la carte... ({INT32}/{INT32} Kio)
 STR_5760    :Dollars de Hong Kong (HK$)
 STR_5761    :Nouveau Dollar Taïwanais (NT$)
 STR_5762    :Yuan Chinois (CN¥)
@@ -3115,7 +3115,7 @@ STR_5799    :{SMALLFONT}{BLACK}Empêche les accidents sur les attractions en dé
 STR_5800    :{SMALLFONT}{BLACK}Empêche les attractions de tomber en panne
 STR_5801    :Désactiver déchets
 STR_5802    :{SMALLFONT}{BLACK}Empêche les visiteurs de jeter leurs détritus et de vomir par terre
-STR_5803    :{SMALLFONT}{BLACK}Fais pivoter l'élément sélectionné
+STR_5803    :{SMALLFONT}{BLACK}Fait pivoter l'élément sélectionné
 STR_5804    :Couper le son
 STR_5805    :{SMALLFONT}{BLACK}Ajoute le serveur à la liste des serveurs publics pour que tout le monde puisse le trouver
 STR_5806    :Mode fenêtré
@@ -3129,12 +3129,12 @@ STR_5813    :“{STRING}”
 STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 
 #tooltips
-STR_5815    :{SMALLFONT}{BLACK}Affiche le nombre d'images par seconde durant le jeu
-STR_5816    :{SMALLFONT}{BLACK}Définit le ratio de mise à l'échelle du jeu.{NEWLINE}Utile lors de l'utilisation de résolutions élevées
-STR_5817    :{SMALLFONT}{BLACK}[Requiert l'affichage matériel]{NEWLINE}Définit le type de mise à l'échelle de l'interface graphique{NEWLINE}{NEWLINE}La mise à l'échelle est linéaire est lisse mais le résultat est flou. La mise à l'échelle en mode voisinage proche est précise mais peut causer un dégradement des performances mineure.
+STR_5815    :{SMALLFONT}{BLACK}Affiche le nombre d'images par seconde durant le jeu.
+STR_5816    :{SMALLFONT}{BLACK}Définit le ratio de mise à l'échelle du jeu.{NEWLINE}Utile lors de l'utilisation de résolutions élevées.
+STR_5817    :{SMALLFONT}{BLACK}[Requiert l'affichage matériel]{NEWLINE}Définit le type de mise à l'échelle des graphismes.{NEWLINE}La mise à l'échelle linéaire est lisse mais le résultat est flou. La mise à l'échelle au plus proche voisinage est précise mais peut causer une dégradation mineure des performances.
 STR_5819    :{SMALLFONT}{BLACK}[Requiert l'affichage matériel]{NEWLINE}Met le jeu en pause quand l'overlay Steam est ouvert
 STR_5820    :{SMALLFONT}{BLACK}Minimise le jeu si le focus est perdu en plein écran
-STR_5822    :{SMALLFONT}{BLACK}Active le cycle jour / nuit.{NEWLINE}Chaque cycle dure un mois de jeu
+STR_5822    :{SMALLFONT}{BLACK}Active le cycle jour/nuit.{NEWLINE}Chaque cycle dure un mois de jeu.
 STR_5823    :{SMALLFONT}{BLACK}Affiche le texte des bannières en majuscule (comme dans RCT1)
 STR_5824    :{SMALLFONT}{BLACK}Désactive les éclairs pendant les orages
 STR_5825    :{SMALLFONT}{BLACK}Garde le curseur dans la fenêtre
@@ -3317,7 +3317,7 @@ STR_6003    :Vue en coupe
 STR_6004    :Vue en coupe
 STR_6005    :Active la vue en coupe
 STR_6006    :{SMALLFONT}{BLACK}La vue en coupe affiche les éléments de la carte qui sont à la hauteur de coupe ou en-dessous (coupe verticale) dans une zone sélectionnée (coupe horizontale).
-STR_6007    :Hauteur de coupe
+STR_6007    :Haut. de coupe
 STR_6008    :{SMALLFONT}{BLACK}Cliquer pour permuter entre valeur brute/valeur en unités du système de mesure
 STR_6009    :{SMALLFONT}{BLACK}Sélectionner hauteur de coupe
 STR_6010    :{COMMA2DP32}m
@@ -3463,7 +3463,7 @@ STR_6149    :Impossible de se connecter au serveur maître
 STR_6150    :Réponse invalide du serveur maître (pas de numéro JSON)
 STR_6151    :Le serveur maître n'a pas réussi à renvoyer les serveurs
 STR_6152    :Réponse invalide du serveur maître (pas de tableau JSON)
-STR_6153    :Payer pour entrer dans le parc / Payer par attraction
+STR_6153    :Payer pour entrer dans le parc/Payer par attraction
 STR_6154    :Pour des raisons de sécurité, il n'est pas recommandé de démarrer OpenRCT2 avec des permissions élevées.
 STR_6155    :Ni KDialog ni Zenity ne sont installés. Veuillez installer l'un des deux, ou configurez depuis la ligne de commande.
 STR_6156    :Le nom est réservé
@@ -3613,7 +3613,7 @@ STR_6299    :Tout télécharger
 STR_6300    :{SMALLFONT}{BLACK}Télécharge tous les objets manquants s'ils sont disponible en ligne.
 STR_6301    :{SMALLFONT}{BLACK}Copie les noms des objets sélectionnés dans le presse-papier.
 STR_6302    :{SMALLFONT}{BLACK}Copie la liste des objets manquants dans le presse-papier.
-STR_6303    :Téléchargement de l'objet ({COMMA16} / {COMMA16}): [{STRING}]
+STR_6303    :Téléchargement de l'objet ({COMMA16}/{COMMA16}): [{STRING}]
 STR_6304    :Ouvrir le sélecteur de décor
 STR_6305    :Multithreading
 STR_6306    :{SMALLFONT}{BLACK}Option expérimentale pour utiliser plusieurs fils d'exécution pour le rendu, peut causer des problèmes d'instabilité.
@@ -3640,7 +3640,7 @@ STR_6326    :Impossible de simuler {POP16}{POP16}{POP16}{STRINGID}...
 STR_6327    :Fond transparent pour les captures d'écran géantes
 STR_6328    :{SMALLFONT}{BLACK}Quand cette option est activée, les captures d'écran auront un fond transparent plutôt qu'un fond noir.
 STR_6329    :{STRING}{STRINGID}
-STR_6330    :Téléchargement [{STRING}] depuis {STRING} ({COMMA16} / {COMMA16})
+STR_6330    :Téléchargement [{STRING}] depuis {STRING} ({COMMA16}/{COMMA16})
 STR_6331    :Créer des canards
 STR_6332    :Suppr. les canards
 STR_6333    :Augmenter l'échelle
