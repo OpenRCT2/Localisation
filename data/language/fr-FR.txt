@@ -501,7 +501,7 @@ STR_1115    :Fonctionne
 STR_1116    :Fonctionne
 STR_1117    :Spectacle de cirque en cours
 STR_1118    :Fonctionne
-STR_1119    :Attend la montée par câble
+STR_1119    :Attend la remontée à chaîne
 STR_1120    :Se déplace à{VELOCITY}
 STR_1121    :S'arrête
 STR_1122    :Attend des passagers
@@ -788,7 +788,7 @@ STR_1402    :{SMALLFONT}{BLACK}Construire ou déplacer l'entrée de l'attraction
 STR_1403    :{SMALLFONT}{BLACK}Construire ou déplacer la sortie de l'attraction
 STR_1404    :{SMALLFONT}{BLACK}Rotation de 90°
 STR_1405    :{SMALLFONT}{BLACK}Miroir
-STR_1406    :{SMALLFONT}{BLACK}Activer/Désactiver le décor (si disponible pour ce modèle)
+STR_1406    :{SMALLFONT}{BLACK}Activer/désactiver le décor (si disponible pour ce modèle)
 STR_1407    :{WINDOW_COLOUR_2}Construire ceci...
 STR_1408    :{WINDOW_COLOUR_2}Prix : {BLACK}{CURRENCY}
 STR_1409    :Quai d'entrée/sortie
@@ -1151,7 +1151,7 @@ STR_1769    :{WINDOW_COLOUR_2}Nombre de vrilles :
 STR_1770    :{SMALLFONT}{BLACK}Nombre de vrilles complètes
 STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1773    :Une seule section photo sur le vif autorisée par attraction
-STR_1774    :Une seule montée par câble autorisée par attraction
+STR_1774    :Une seule remontée à chaîne autorisée par attraction
 STR_1777    :Musique de l'attraction
 STR_1778    :{STRINGID} - - 
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Costume de panda
@@ -1302,7 +1302,7 @@ STR_1926    :{SMALLFONT}
 STR_1927    :{YELLOW}{STRINGID} est tombé en panne
 STR_1928    :{RED}{STRINGID} a eu un accident!
 STR_1929    :{RED}{STRINGID} n'est toujours pas réparé{NEWLINE}Vérifiez où sont vos mécaniciens et pensez à leur attribuer des zones de patrouilles
-STR_1930    :{SMALLFONT}{BLACK}Activer/Désactiver la surveillance de ce visiteur - (Si la surveillance est activée, les mouvements du visiteur seront annoncés dans la zone de notifications)
+STR_1930    :{SMALLFONT}{BLACK}Activer/désactiver la surveillance de ce visiteur - (Si la surveillance est activée, les mouvements du visiteur seront annoncés dans la zone de notifications)
 STR_1931    :{STRINGID} a rejoint la file d'attente pour {STRINGID}
 STR_1932    :{STRINGID} est sur {STRINGID}
 STR_1933    :{STRINGID} est dans {STRINGID}
@@ -1589,7 +1589,7 @@ STR_2228    :{WINDOW_COLOUR_2}Profits du mois dernier provenant de l'alimentatio
 STR_2229    :Incl. jusque vertical
 STR_2230    :Voie verticale
 STR_2231    :Maint. frein en chute
-STR_2232    :Montée par câble
+STR_2232    :Remontée à chaîne
 STR_2233    :{SMALLFONT}{BLACK}Informations sur le parc
 STR_2234    :Messages récents
 STR_2235    :{SMALLFONT}{STRINGID} {STRINGID}
@@ -1630,7 +1630,7 @@ STR_2269    :{WINDOW_COLOUR_2}Type : {BLACK}{STRINGID}
 STR_2270    :{WINDOW_COLOUR_2}Progression : {BLACK}{STRINGID}
 STR_2271    :{WINDOW_COLOUR_2}Fin prévue : {BLACK}{STRINGID}
 STR_2272    :{WINDOW_COLOUR_2}Attraction :{NEWLINE}{BLACK}{STRINGID}
-STR_2273    :{WINDOW_COLOUR_2}Décor/thème:{NEWLINE}{BLACK}{STRINGID}
+STR_2273    :{WINDOW_COLOUR_2}Décor/thème :{NEWLINE}{BLACK}{STRINGID}
 STR_2274    :{SMALLFONT}{BLACK}Afficher les détails de cette invention
 STR_2275    :{SMALLFONT}{BLACK}Afficher le financement et les options de la recherche et du développement
 STR_2276    :{SMALLFONT}{BLACK}Afficher le statut de la recherche et du développement
@@ -1712,9 +1712,9 @@ STR_2358    :Unités
 STR_2359    :Valeurs réelles
 STR_2360    :{WINDOW_COLOUR_2}Résolution d'affichage :
 STR_2361    :Lissage du paysage
-STR_2362    :{SMALLFONT}{BLACK}Activer/Désactiver le lissage des arrêtes des cases de paysage
+STR_2362    :{SMALLFONT}{BLACK}Activer/désactiver le lissage des arrêtes des cases de paysage
 STR_2363    :Quadrillage du paysage
-STR_2364    :{SMALLFONT}{BLACK}Activer/Désactiver quadrillage du paysage
+STR_2364    :{SMALLFONT}{BLACK}Activer/désactiver quadrillage du paysage
 STR_2365    :La banque refuse d'augmenter votre emprunt !
 STR_2366    :Celsius (°C)
 STR_2367    :Fahrenheit (°F)
@@ -1794,8 +1794,8 @@ STR_2448    :{YELLOW}Votre campagne marketing d'entrées demi-tarif est terminé
 STR_2449    :{YELLOW}Votre campagne marketing pour les {STRINGID} gratuits est terminée
 STR_2450    :{YELLOW}Votre campagne marketing pour le parc est terminée
 STR_2451    :{YELLOW}Votre campagne marketing pour {STRINGID} est terminée
-STR_2452    :{WINDOW_COLOUR_2}Argent (moins l'emprunt): {BLACK}{CURRENCY2DP}
-STR_2453    :{WINDOW_COLOUR_2}Argent (moins l'emprunt): {RED}{CURRENCY2DP}
+STR_2452    :{WINDOW_COLOUR_2}Argent (moins l'emprunt) : {BLACK}{CURRENCY2DP}
+STR_2453    :{WINDOW_COLOUR_2}Argent (moins l'emprunt) : {RED}{CURRENCY2DP}
 STR_2454    :{SMALLFONT}{BLACK}{CURRENCY2DP} -
 STR_2457    :{SMALLFONT}{BLACK}Voir comptes financiers
 STR_2458    :{SMALLFONT}{BLACK}Voir graphique Argent (moins emprunt) sur durée
@@ -2120,7 +2120,7 @@ STR_2983    :Saisir nouveau texte pour cette bannière :
 STR_2984    :Impossible de placer nouveau texte pour la bannière...
 STR_2985    :Bannière
 STR_2986    :{SMALLFONT}{BLACK}Modifier texte sur la bannière
-STR_2987    :{SMALLFONT}{BLACK}Transformer cette bannière en panneau 'Accès interdit'
+STR_2987    :{SMALLFONT}{BLACK}Transformer cette bannière en panneau “Accès interdit”
 STR_2988    :{SMALLFONT}{BLACK}Démolir cette bannière
 STR_2989    :{SMALLFONT}{BLACK}Choisir couleur principale
 STR_2990    :{SMALLFONT}{BLACK}Choisir couleur du texte
@@ -2255,9 +2255,9 @@ STR_3135    :{RED}(Conception véhicule non disponible - les performances de l'a
 STR_3136    :Attention: cette construction sera fabriquée avec un autre type de véhicule et ses performances pourraient donc être différentes de celles prévues initialement
 STR_3137    :Choisir décor proche
 STR_3138    :Recomm. sélection
-STR_3139    :Impossible d'appliquer une remontée au câble dans ce mode de fonctionnement
-STR_3140    :La remontée au câble doit commencer immédiatement à la sortie de la station
-STR_3141    :La remontée au câble n'est pas compatible avec une attraction multi-parcours
+STR_3139    :Impossible d'appliquer une remontée à chaîne dans ce mode de fonctionnement
+STR_3140    :La remontée à chaîne doit commencer immédiatement à la sortie de la station
+STR_3141    :La remontée à chaîne n'est pas compatible avec une attraction multi-parcours
 STR_3142    :{WINDOW_COLOUR_2}Capacité : {BLACK}{STRINGID}
 STR_3143    :{SMALLFONT}{BLACK}Voir les personnes sur la carte
 STR_3144    :{SMALLFONT}{BLACK}Voir les attractions et boutiques sur la carte
@@ -2323,7 +2323,7 @@ STR_3221    :{SMALLFONT}{BLACK}Définir le terrain sur lequel s'étend le parc
 STR_3222    :{SMALLFONT}{BLACK}Définir les droits de construction exclusifs du parc
 STR_3223    :{SMALLFONT}{BLACK}Définir le terrain disponible à l'achat
 STR_3224    :{SMALLFONT}{BLACK}Définir les droits de construction disponibles à l'achat
-STR_3225    :{SMALLFONT}{BLACK}Activer/Désactiver la formation aléatoire d'un ensemble d'objets autour de la position sélectionnée
+STR_3225    :{SMALLFONT}{BLACK}Activer/désactiver la formation aléatoire d'un ensemble d'objets autour de la position sélectionnée
 STR_3226    :{SMALLFONT}{BLACK}Construire entrée parc
 STR_3227    :Trop d'entrée de parc !
 STR_3228    :{SMALLFONT}{BLACK}Définir position de départ pour les visiteurs
@@ -3061,7 +3061,7 @@ STR_5745    :Désynchronisation détectée
 STR_5746    :Déconnecté
 STR_5747    :Déconnecté : {STRING}
 STR_5748    :Expulsé
-STR_5749    :Sort du serveur !
+STR_5749    :Sors du serveur !
 STR_5750    :Connexion fermée
 STR_5751    :Aucune données
 STR_5752    :{OUTLINE}{RED}{STRING} s'est déconnecté
@@ -3094,7 +3094,7 @@ STR_5778    :Construit : {COMMA16} ans
 STR_5779    :Revenu : {CURRENCY2DP} par heure
 STR_5780    :Coût d'exploitation : {CURRENCY2DP} par heure
 STR_5781    :Coût d'exploitation : inconnu
-STR_5782    :Vous êtes maintenant connecté. Pressez '{STRING}' pour discuter.
+STR_5782    :Vous êtes maintenant connecté. Pressez “{STRING}” pour discuter.
 STR_5783    :{WINDOW_COLOUR_2}Scénario verrouillé
 STR_5784    :{BLACK}Complétez les scénarios précédents pour déverrouiller ce scénario
 STR_5785    :Impossible de renommer le groupe...
@@ -3166,7 +3166,7 @@ STR_5850    :<removed string - do not use>
 STR_5851    :{SMALLFONT}{BLACK}Définit le délai d'inspection par défaut sur les nouvelles attractions
 STR_5853    :{SMALLFONT}{BLACK}Active/désactive les effets sonores
 STR_5854    :{SMALLFONT}{BLACK}Active/désactive les musiques des attractions
-STR_5855    :{SMALLFONT}{BLACK}Définit le mode fenêtré, plein écran, ou plein écran dans un nouveau bureau
+STR_5855    :{SMALLFONT}{BLACK}Définit le mode fenêtré, plein écran normal, ou plein écran sans bordure
 STR_5856    :{SMALLFONT}{BLACK}Définit la résolution du jeu en plein écran
 STR_5857    :{SMALLFONT}{BLACK}Options du jeu
 STR_5858    :{SMALLFONT}{BLACK}Utilise la carte graphique au lieu du processeur pour l'affichage. Améliore la compatibilité avec les logiciels de capture. Peut dégrader légèrement les performances
@@ -3317,7 +3317,7 @@ STR_6003    :Vue en coupe
 STR_6004    :Vue en coupe
 STR_6005    :Active la vue en coupe
 STR_6006    :{SMALLFONT}{BLACK}La vue en coupe affiche les éléments de la carte qui sont à la hauteur de coupe ou en-dessous (coupe verticale) dans une zone sélectionnée (coupe horizontale).
-STR_6007    :Haut. de coupe
+STR_6007    :Haut. de coupe :
 STR_6008    :{SMALLFONT}{BLACK}Cliquer pour permuter entre valeur brute/valeur en unités du système de mesure
 STR_6009    :{SMALLFONT}{BLACK}Sélectionner hauteur de coupe
 STR_6010    :{COMMA2DP32}m
@@ -3333,7 +3333,7 @@ STR_6019    :Construction d'attraction - Tourner à droite
 STR_6020    :Construction d'attraction - Utiliser la voie par défaut
 STR_6021    :Construction d'attraction - Pente descendante
 STR_6022    :Construction d'attraction - Pente ascendante
-STR_6023    :Construction d'attraction - Activer/Désactiver la remontée à chaîne
+STR_6023    :Construction d'attraction - Activer/désactiver la remontée à chaîne
 STR_6024    :Construction d'attraction - Incliner à gauche
 STR_6025    :Construction d'attraction - Incliner à droite
 STR_6026    :Construction d'attraction - Morceau précédent
@@ -3380,41 +3380,41 @@ STR_6066    :{SMALLFONT}{BLACK}Journalise toutes les actions des utilisateurs da
 STR_6067    :Serveur démarré.
 STR_6068    :Serveur arrêté.
 STR_6069    :{STRING} a été expulsé(e) du serveur par {STRING}.
-STR_6070    :{STRING} a été ajouté(e) au groupe '{STRING}' par {STRING}.
-STR_6071    :{STRING} a créé le groupe de joueurs '{STRING}'.
-STR_6072    :{STRING} a supprimé le groupe de joueurs '{STRING}'.
-STR_6073    :{STRING} a changé les permissions du groupe de joueurs '{STRING}'.
-STR_6074    :{STRING} a changé le nom du groupe de joueurs '{STRING}' en '{STRING}'.
-STR_6075    :{STRING} a changé le groupe de joueurs par défaut à '{STRING}'.
-STR_6076    :{STRING} a utilisé/permuté la triche '{STRING}'.
+STR_6070    :{STRING} a été ajouté(e) au groupe “{STRING}” par {STRING}.
+STR_6071    :{STRING} a créé le groupe de joueurs “{STRING}”.
+STR_6072    :{STRING} a supprimé le groupe de joueurs “{STRING}”.
+STR_6073    :{STRING} a changé les permissions du groupe de joueurs “{STRING}”.
+STR_6074    :{STRING} a changé le nom du groupe de joueurs “{STRING}” en “{STRING}”.
+STR_6075    :{STRING} a changé le groupe de joueurs par défaut à “{STRING}”.
+STR_6076    :{STRING} a utilisé/permuté la triche “{STRING}”.
 STR_6077    :Ajouter argent
-STR_6078    :{STRING} a créé l'attraction '{STRING}'.
-STR_6079    :{STRING} a détruit l'attraction '{STRING}'.
-STR_6080    :{STRING} a changé l'apparence de l'attraction '{STRING}'.
-STR_6081    :{STRING} a fermé l'attraction '{STRING}'.
-STR_6082    :{STRING} a ouvert l'attraction '{STRING}' au public.
-STR_6083    :{STRING} a ouvert l'attraction '{STRING}' pour les tests.
-STR_6084    :{STRING} a changé les paramètres des véhicules de l'attraction '{STRING}'.
-STR_6085    :{STRING} a changé les paramètres de l'attraction '{STRING}'.
-STR_6086    :{STRING} a renommé l'attraction '{STRING}' en '{STRING}'.
-STR_6087    :{STRING} a changé le prix de l'attraction '{STRING}' à {STRING}
-STR_6088    :{STRING} a changé le prix secondaire de l'attraction '{STRING}' à {STRING}
-STR_6089    :{STRING} a renommé le parc '{STRING}' en '{STRING}'.
+STR_6078    :{STRING} a créé l'attraction “{STRING}”.
+STR_6079    :{STRING} a détruit l'attraction “{STRING}”.
+STR_6080    :{STRING} a changé l'apparence de l'attraction “{STRING}”.
+STR_6081    :{STRING} a fermé l'attraction “{STRING}”.
+STR_6082    :{STRING} a ouvert l'attraction “{STRING}” au public.
+STR_6083    :{STRING} a ouvert l'attraction “{STRING}” pour les tests.
+STR_6084    :{STRING} a changé les paramètres des véhicules de l'attraction “{STRING}”.
+STR_6085    :{STRING} a changé les paramètres de l'attraction “{STRING}”.
+STR_6086    :{STRING} a renommé l'attraction “{STRING}” en “{STRING}”.
+STR_6087    :{STRING} a changé le prix de l'attraction “{STRING}” à {STRING}
+STR_6088    :{STRING} a changé le prix secondaire de l'attraction “{STRING}” à {STRING}.
+STR_6089    :{STRING} a renommé le parc “{STRING}” en “{STRING}”.
 STR_6090    :{STRING} a ouvert le parc.
 STR_6091    :{STRING} a fermé le parc.
 STR_6092    :{STRING} a changé le prix du parc à {STRING}
 STR_6093    :{STRING} a placé du nouveau décor.
 STR_6094    :{STRING} a détruit du décor.
 STR_6095    :{STRING} a changé le décor.
-STR_6096    :{STRING} a défini le texte d'un panneau à '{STRING}'.
-STR_6097    :{STRING} a placé une pièce pour l'attraction '{STRING}'.
+STR_6096    :{STRING} a défini le texte d'un panneau à “{STRING}”.
+STR_6097    :{STRING} a placé une pièce pour l'attraction “{STRING}”.
 STR_6098    :{STRING} a détruit une pièce d'attraction.
 STR_6099    :Vous êtes connecté(e) au serveur.
 STR_6100    :Vous êtes déconnecté(e) du serveur.
 STR_6101    :Les attractions ne perdent pas de valeur{NEWLINE}au fil du temps.
 STR_6102    :{SMALLFONT}{BLACK}La valeur d'une attraction ne se dégradera pas au fil du temps, les visiteurs ne penseront plus que l'attraction est trop chère.
 STR_6103    :{SMALLFONT}{BLACK}Cette option est désactivée dans les parties multijoueurs.
-STR_6104    :Montagnes russes Tire-Bouchon
+STR_6104    :Montagnes russes tire-bouchon
 STR_6105    :Hyper montagnes russes
 STR_6106    :Balade en voitures
 STR_6107    :Camions monstrueux
@@ -3427,7 +3427,7 @@ STR_6113    :Une grande montagne russe sans inversions avec de grandes descentes
 STR_6114    :Les visisteurs parcourent lentement des véhicules propulsés qui suivent un parcours spécifique
 STR_6115    :Des camions 4 x 4 géants qui peuvent grimper de pentes fortes
 STR_6116    :Des trains de montagnes russes larges glissent le long d'un parcours fluide en métal, et parcourent une variété d'inversions
-STR_6117    :Les visiteurs sont assis dans des trains confortables avec des ceintures simples en se réjouissant de descentes douces, d'un tracé sinueux et également plein "de temps en l'air" au-dessus des montagnes
+STR_6117    :Les visiteurs sont assis dans des trains confortables avec des ceintures simples en profitant de descentes douces, d'un tracé sinueux et également plein “de temps en l'air” au-dessus des collines
 STR_6118    :Des montagnes russes calmes pour les gens qui n'ont pas le courage de parcourir les plus imposants
 STR_6119    :Des montagnes russes peu chères et faciles à construire, mais avec une hauteur limitée
 STR_6120    :{BABYBLUE}Nouveau véhicule disponible pour {STRINGID}:{NEWLINE}{STRINGID}
@@ -3618,7 +3618,7 @@ STR_6304    :Ouvrir le sélecteur de décor
 STR_6305    :Multithreading
 STR_6306    :{SMALLFONT}{BLACK}Option expérimentale pour utiliser plusieurs fils d'exécution pour le rendu, peut causer des problèmes d'instabilité.
 STR_6307    :Palette de couleurs : {BLACK}{STRINGID}
-STR_6308    :"{STRINGID}{OUTLINE}{TOPAZ}"{NEWLINE}{STRINGID}
+STR_6308    :“{STRINGID}{OUTLINE}{TOPAZ}”{NEWLINE}{STRINGID}
 STR_6309    :Reconnecter
 STR_6310    :{WINDOW_COLOUR_2}Position : {BLACK}{INT32} {INT32} {INT32}
 STR_6311    :{WINDOW_COLOUR_2}Suivant : {BLACK}{INT32} {INT32} {INT32}
@@ -3681,7 +3681,7 @@ STR_6367    :{WINDOW_COLOUR_2}Image de l'animation :
 STR_6368    :Pour des raisons de compatibilité, il n'est pas recommandé d'exécuter OpenRCT2 avec Wine. OpenRCT2 supporte nativement macOS, Linux, FreeBSD et OpenBSD.
 STR_6369    :Autoriser la construction de voies à des hauteurs invalides
 STR_6370    :{SMALLFONT}{BLACK}Autorise le placement de morceaux de voie à n'importe quelle hauteur
-STR_6371    :Le chemin spécifié contient une installation de RollerCoaster Tycoon 1, mais le fichier "csg1i.dat" est manquant. Ce fichier doit être copié depuis le CD de RollerCoaster Tycoon 1 vers le dossier "Data" de l'installation de RollerCoaster Tycoon 1 sur votre disque dur.
+STR_6371    :Le chemin spécifié contient une installation de RollerCoaster Tycoon 1, mais le fichier "csg1i.dat" est manquant. Ce fichier doit être copié depuis le CD de RollerCoaster Tycoon 1 vers le dossier “Data” de l'installation de RollerCoaster Tycoon 1 sur votre disque dur.
 STR_6372    :Le chemin spécifié contient une installation de RollerCoaster Tycoon 1, mais cette version n'est pas compatible. OpenRCT2 a besoin d'une installation Looping En Folie ou RCT Deluxe pour pouvoir utiliser les données de RollerCoaster Tycoon 1.
 STR_6373    :Activer/désactiver les collisions
 STR_6374    :C
