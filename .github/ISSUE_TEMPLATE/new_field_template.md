@@ -1,7 +1,7 @@
 ---
 name: New Strings
 about: Advertise new strings that were merged on OpenRCT2
-title: 'String XXXXX'
+title: 'String XXXX'
 labels: 'new field'
 assignees: ''
 
