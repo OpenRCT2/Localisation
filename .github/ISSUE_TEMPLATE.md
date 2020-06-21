@@ -1,3 +1,12 @@
+---
+name: New Strings
+about: Advertise new strings that were merged on OpenRCT2
+title: 'String XXXXX'
+labels: 'new field'
+assignees: ''
+
+---
+
 New strings from PR OpenRCT2/OpenRCT2#0000.
 
 ```
