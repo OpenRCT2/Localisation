@@ -2,9 +2,7 @@
 name: New and Changed Strings
 about: Advertise new strings and updates on pre-existing ones that were merged on OpenRCT2
 title: 'String XXXX'
-labels: 
-  - 'new field'
-  - 'changed field'
+labels: new field, changed field
 assignees: ''
 
 ---
