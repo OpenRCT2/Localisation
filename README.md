@@ -10,9 +10,11 @@ Other languages are maintained in this repository.<br/>
 Changes to the master branch are merged into the develop branch of OpenRCT2/OpenRCT2 every day at 4:00 AM UTC.
 
 ### Chat
-[![Gitter](https://img.shields.io/badge/gitter-general-blue.svg)](https://gitter.im/OpenRCT2/OpenRCT2/non-dev)<br/>
-[![Gitter](https://img.shields.io/badge/gitter-localisation-green.svg)](https://gitter.im/OpenRCT2/Localisation)<br/>
-[![Gitter](https://img.shields.io/badge/gitter-development-yellowgreen.svg)](https://gitter.im/OpenRCT2/OpenRCT2)
+| Language | Non Developer | Developer | Localisation |
+|----------|---------------|-----------|--------------|
+| English | [![Discord](https://img.shields.io/badge/discord-general-blue.svg)](https://discord.gg/ZXZd8D8) | [![Discord](https://img.shields.io/badge/discord-development-yellowgreen.svg)](https://discord.gg/fsEwSWs) | [![Discord](https://img.shields.io/badge/discord-localisation-green.svg)](https://discord.gg/sxnrvX9) |
+| Nederlands | [![Discord](https://img.shields.io/badge/discord-general-blue.svg)](https://discord.gg/cQYSXzW) | | |
+
 
 ### Build Status
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/fkf22bp6tw8lxg6m?svg=true)](https://ci.appveyor.com/project/OpenRCT2/localisation)
@@ -29,7 +31,7 @@ In each commit you create regarding a language file change, start the commit des
 
 As this project always are moving forward, new strings get added from time to time which means they need to be added to the language files and be translated. All the new strings that are being added can be found in ['issues'](https://github.com/OpenRCT2/Localisation/issues) on the localisation webpage here on GitHub. To be a maintainer means that you have to add the new strings found on the issues page into the language you're translating in numerical order.
 
-If you want to become a maintainer, tell us what language you will maintain on [Gitter](https://gitter.im/OpenRCT2/Localisation)
+If you want to become a maintainer, tell us what language you will be maintaining on [Discord](https://discord.gg/sxnrvX9). 
 
 ### Checking & testing strings in-game
 You can always test the translated strings in-game before publishing a pull request which could be good if the string has limited space/has a ``<newline>`` formating in it.<br/>
@@ -74,5 +76,4 @@ Anyone can still contribute to the languages.
 
 ### Questions & Support
 
-If you have any question or issues, please don't hesitate at contacting us at<br/>
-[![Gitter](https://img.shields.io/badge/gitter-localisation-green.svg)](https://gitter.im/OpenRCT2/Localisation)<br />
+If you have any question or issues, you can always ask us on [Discord](https://discord.gg/sxnrvX9).
