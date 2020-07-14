@@ -223,30 +223,30 @@ STR_0818    :Sep
 STR_0819    :Okt
 STR_0820    :Nov
 STR_0821    :Dec
-STR_0822    :Unable to access graphic data file
-STR_0823    :Missing or inaccessible data file
+STR_0822    :Ne povas atingi la dosieron de grafikaj datumoj
+STR_0823    :Mankanta aŭ malatingebla datumdosieron
 STR_0824    :{BLACK}❌
-STR_0825    :Chosen name in use already
-STR_0826    :Too many names defined
-STR_0827    :Not enough cash - requires {CURRENCY2DP}
-STR_0828    :{SMALLFONT}{BLACK}Close window
-STR_0829    :{SMALLFONT}{BLACK}Window title - Drag this to move window
-STR_0830    :{SMALLFONT}{BLACK}Zoom view in
-STR_0831    :{SMALLFONT}{BLACK}Zoom view out
-STR_0832    :{SMALLFONT}{BLACK}Rotate view 90° clockwise
-STR_0833    :{SMALLFONT}{BLACK}Pause game
-STR_0834    :{SMALLFONT}{BLACK}Disk and game options
+STR_0825    :Elektita nomo estas jam uzata
+STR_0826    :Tro da nomoj difinitaj
+STR_0827    :Ne sufiĉe de mono - bezonas {CURRENCY2DP}
+STR_0828    :{SMALLFONT}{BLACK}Fermi la fenestron
+STR_0829    :{SMALLFONT}{BLACK}Ŝovi ĉi tion por movi la fenestron
+STR_0830    :{SMALLFONT}{BLACK}Zomi la vidon
+STR_0831    :{SMALLFONT}{BLACK}Malzomi la vidon
+STR_0832    :{SMALLFONT}{BLACK}Turni la vidon 90° dekstrume
+STR_0833    :{SMALLFONT}{BLACK}Paŭzigi la ludon
+STR_0834    :{SMALLFONT}{BLACK}Agordoj de disko kaj ludo
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
-STR_0847    :About 'OpenRCT2'
-STR_0850    :{WINDOW_COLOUR_2}Copyright © 2002 Chris Sawyer, all rights reserved
-STR_0851    :{WINDOW_COLOUR_2}Designed and programmed by Chris Sawyer
-STR_0852    :{WINDOW_COLOUR_2}Graphics by Simon Foster
-STR_0853    :{WINDOW_COLOUR_2}Sound and music by Allister Brimble
-STR_0854    :{WINDOW_COLOUR_2}Additional sounds recorded by David Ellis
-STR_0855    :{WINDOW_COLOUR_2}Representation by Jacqui Lyons at Marjacq Ltd.
-STR_0856    :{WINDOW_COLOUR_2}Thanks to:
-STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, and John Wardley
+STR_0847    :Pri 'OpenRCT2'
+STR_0850    :{WINDOW_COLOUR_2}Copyright © 2002 Chris Sawyer, tuta rajtoj estas rezervitaj
+STR_0851    :{WINDOW_COLOUR_2}Desegnita kaj programita de Chris Sawyer
+STR_0852    :{WINDOW_COLOUR_2}Grafikoj de Simon Foster
+STR_0853    :{WINDOW_COLOUR_2}Sonoj kaj muzikoj de Allister Brimble
+STR_0854    :{WINDOW_COLOUR_2}Aldonaj sonoj rekorditaj de David Ellis
+STR_0855    :{WINDOW_COLOUR_2}Reprezentita de Jacqui Lyons al Marjacq Ltd.
+STR_0856    :{WINDOW_COLOUR_2}Danke al:
+STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, kaj John Wardley
 STR_0865    :{STRINGID}
 STR_0866    :{POP16}{STRINGID}
 STR_0867    :{POP16}{POP16}{STRINGID}
@@ -259,23 +259,23 @@ STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}▼
-STR_0877    :Too low!
-STR_0878    :Too high!
-STR_0879    :Can't lower land here...
-STR_0880    :Can't raise land here...
-STR_0881    :Object in the way
-STR_0882    :Load Game
-STR_0883    :Save Game
-STR_0884    :Load Landscape
-STR_0885    :Save Landscape
-STR_0887    :Quit Scenario Editor
-STR_0888    :Quit Track Designer
-STR_0889    :Quit Track Designs Manager
-STR_0891    :Screenshot
-STR_0892    :Screenshot saved to disk as '{STRINGID}'
-STR_0893    :Screenshot failed!
-STR_0894    :Landscape data area full!
-STR_0895    :Can't build partly above and partly below ground
+STR_0877    :Tro malalte!
+STR_0878    :Tro alte!
+STR_0879    :Ne povas malalti la bienon ĉi tie...
+STR_0880    :Ne povas alti la bienon ĉi tie...
+STR_0881    :Objekto baradas
+STR_0882    :Ŝargi ludon
+STR_0883    :Konservi ludon
+STR_0884    :Ŝargi pejzaĝon
+STR_0885    :Konservi pejzaĝon
+STR_0887    :Forlasi scenaroredaktilo
+STR_0888    :Forlasi trakdesegnilo
+STR_0889    :Forlasi administrilo de trakdesegnoj
+STR_0891    :Ekrankopio
+STR_0892    :Ekrankopio estis konservita al disko laŭ '{STRINGID}'
+STR_0893    :Ne povas konservi ekrankopion!
+STR_0894    :La zono de pejzaĝa datumo estas plena!
+STR_0895    :Ne povas konstrui kaj parte supertere kaj parte subtere
 STR_0896    :{POP16}{POP16}{STRINGID} Konstruo
 STR_0897    :Direkto
 STR_0898    :{SMALLFONT}{BLACK}Maldekstra kurbo
