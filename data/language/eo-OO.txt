@@ -176,7 +176,7 @@ STR_0602    :Linia-induktaj motoroj plirapidigas la ĉarojn de la onda fervojo, 
 STR_0767    :Gasto {INT32}
 STR_0768    :Asistanto {INT32}
 STR_0769    :Mekanikisto {INT32}
-STR_0770    :Sekuriga oficisto {INT32}
+STR_0770    :Sekuriga Oficisto {INT32}
 STR_0771    :Amuzisto {INT32}
 STR_0777    :Parko malnomita{POP16}{POP16}
 STR_0778    :Afiŝo
@@ -264,17 +264,17 @@ STR_0878    :Tro alte!
 STR_0879    :Ne povas malalti la bienon ĉi tie...
 STR_0880    :Ne povas alti la bienon ĉi tie...
 STR_0881    :Objekto baradas
-STR_0882    :Ŝargi ludon
-STR_0883    :Konservi ludon
-STR_0884    :Ŝargi pejzaĝon
-STR_0885    :Konservi pejzaĝon
-STR_0887    :Forlasi scenaroredaktilo
-STR_0888    :Forlasi trakdesegnilo
-STR_0889    :Forlasi administrilo de trakdesegnoj
+STR_0882    :Ŝargi Ludon
+STR_0883    :Konservi Ludon
+STR_0884    :Ŝargi Pejzaĝon
+STR_0885    :Konservi Pejzaĝon
+STR_0887    :Forlasi Scenaroredaktilo
+STR_0888    :Forlasi Trakdesegnilo
+STR_0889    :Forlasi Administrilo de Trakdesegnoj
 STR_0891    :Ekrankopio
 STR_0892    :Ekrankopio estis konservita al disko laŭ '{STRINGID}'
 STR_0893    :Ne povas konservi ekrankopion!
-STR_0894    :La zono de pejzaĝa datumo estas plena!
+STR_0894    :Zono de pejzaĝa datumo estas plena!
 STR_0895    :Ne povas konstrui kaj parte supertere kaj parte subtere
 STR_0896    :{POP16}{POP16}{STRINGID} Konstruo
 STR_0897    :Direkto
@@ -288,8 +288,8 @@ STR_0904    :{SMALLFONT}{BLACK}Maldekstra kurbo (granda radiuso)
 STR_0905    :{SMALLFONT}{BLACK}Dekstra kurbo (granda radiuso)
 STR_0906    :{SMALLFONT}{BLACK}Rekte
 STR_0907    :Dekliveco
-STR_0908    :Ruliĝeco
-STR_0909    :Direkto de sidejo
+STR_0908    :Ruliĝeco/Turnkliniĝeco
+STR_0909    :Direkto de Sidejo
 STR_0910    :{SMALLFONT}{BLACK}Ruliĝi por maldekstra kurbo
 STR_0911    :{SMALLFONT}{BLACK}Ruliĝi por dekstra kurbo
 STR_0912    :{SMALLFONT}{BLACK}Ne ruliĝi
@@ -309,31 +309,31 @@ STR_0925    :{SMALLFONT}{BLACK}Helico supren
 STR_0926    :Ne povas forigi tion...
 STR_0927    :Ne povas konstrui tion ĉi tie...
 STR_0928    :{SMALLFONT}{BLACK}Ĉenlifto, por tiri ĉaroj sur deklivecoj supren
-STR_0929    :'S' kurbo (maldekstre)
-STR_0930    :'S' kurbo (dekstre)
-STR_0931    :Vertikala lopo (maldekstre)
-STR_0932    :Vertikala lopo (dekstre)
+STR_0929    :'S' Kurbo (maldekstre)
+STR_0930    :'S' Kurbo (dekstre)
+STR_0931    :Vertikala Lopo (maldekstre)
+STR_0932    :Vertikala Lopo (dekstre)
 STR_0933    :Unue alti aŭ malalti la bienon
 STR_0934    :Rideniro baradas
 STR_0935    :Rideliro baradas
 STR_0936    :Parkeniro baradas
 STR_0937    :{SMALLFONT}{BLACK}Vidi agordojn
 STR_0938    :{SMALLFONT}{BLACK}Agordi la altecon kaj deklivecon de bieno
-STR_0939    :Subtera/interna vido
-STR_0940    :Kaŝi bazan bienon
-STR_0941    :Kaŝi vertikalajn facojn
-STR_0942    :Travideblaj rajdoj
-STR_0943    :Travidebla pejzaĝo
+STR_0939    :Subtera/Interna Vido
+STR_0940    :Kaŝi Bazan Bienon
+STR_0941    :Kaŝi Vertikalajn Facojn
+STR_0942    :Travideblaj Rajdoj
+STR_0943    :Travidebla Pejzaĝo
 STR_0944    :Konservi
 STR_0945    :Ne Konservi
 STR_0946    :Nuligi
 STR_0947    :Konservi antaŭ ŝargado?
 STR_0948    :Konservi antaŭ forlasado?
 STR_0949    :Konservi antaŭ forlasado?
-STR_0950    :Ŝargi la ludon
-STR_0951    :Forlasi la ludon
-STR_0952    :Forlasi la ludon
-STR_0953    :Ŝargi la pejzaĝo
+STR_0950    :Ŝargi Ludon
+STR_0951    :Forlasi Ludon
+STR_0952    :Forlasi Ludon
+STR_0953    :Ŝargi Pejzaĝo
 STR_0954    :
 STR_0955    :{SMALLFONT}{BLACK}Elekti direkton de sidejo por ĉi tiu parto de trako
 STR_0956    :-180°
@@ -416,13 +416,13 @@ STR_1032    :Can only build this on water!
 STR_1033    :Can only build this above ground!
 STR_1034    :Can only build this on land!
 STR_1035    :Local authority won't allow construction above tree-height!
-STR_1036    :Load Game
-STR_1037    :Load Landscape
-STR_1038    :Convert saved game to scenario
-STR_1039    :Install new track design
-STR_1040    :Save Game
-STR_1041    :Save Scenario
-STR_1042    :Save Landscape
+STR_1036    :Ŝarĝi Lodon
+STR_1037    :Ŝarĝi Pejzaĵon
+STR_1038    :Konverti konservludon al scenaro
+STR_1039    :Instali novan trakan desegon
+STR_1040    :Konservi Ludon
+STR_1041    :Konservi Scenaron
+STR_1042    :Konservi Pejzaĵon
 STR_1043    :OpenRCT2 Saved Game
 STR_1044    :OpenRCT2 Scenario File
 STR_1045    :OpenRCT2 Landscape File
@@ -2515,8 +2515,8 @@ STR_5153    :Edit Themes...
 STR_5154    :Hardware display
 STR_5155    :Allow testing of unfinished tracks
 STR_5156    :{SMALLFONT}{BLACK}Allows testing of most ride types even when the track is unfinished, does not apply to block sectioned modes
-STR_5158    :Quit to menu
-STR_5159    :Exit OpenRCT2
+STR_5158    :Forlasi al menuo
+STR_5159    :Eliri OpenRCT2
 STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, Jaro {POP16}{COMMA16}
 STR_5161    :Datoprezento:
 STR_5162    :Tago/Monato/Jaro
@@ -2563,7 +2563,7 @@ STR_5215    :Track Design Manager
 STR_5216    :Track Design Manager List
 STR_5217    :Cheats
 STR_5218    :Themes
-STR_5219    :Options
+STR_5219    :Agordoj
 STR_5220    :Keyboard Shortcuts
 STR_5221    :Change Keyboard Shortcut
 STR_5222    :Load/Save
@@ -2604,7 +2604,7 @@ STR_5256    :Create a new theme to make changes to
 STR_5257    :{SMALLFONT}{BLACK}Create a new theme based on the current one
 STR_5258    :{SMALLFONT}{BLACK}Delete the current theme
 STR_5259    :{SMALLFONT}{BLACK}Rename the current theme
-STR_5260    :Giant Screenshot
+STR_5260    :Giganta Ekrankopio
 STR_5261    :Filter
 STR_5262    :Wacky Worlds
 STR_5263    :Time Twister
@@ -2849,8 +2849,8 @@ STR_5508    :Allow loading files with incorrect checksums
 STR_5509    :{SMALLFONT}{BLACK}Allows loading scenarios and saves{NEWLINE}that have an incorrect checksum,{NEWLINE}like the scenarios from the demo{NEWLINE}or damaged saves.
 STR_5510    :Default sound device
 STR_5511    :(UNKNOWN)
-STR_5512    :Save Game As
-STR_5513    :(Quick) save game
+STR_5512    :Ŝarĝi Ludon Kiel
+STR_5513    :(Quick) ŝarĝi ludon
 STR_5514    :Disable vandalism
 STR_5515    :{SMALLFONT}{BLACK}Stops guests from vandalising your park when they're angry
 STR_5516    :{SMALLFONT}{BLACK}Black
@@ -3017,7 +3017,7 @@ STR_5711    :Enter new name for this group:
 STR_5712    :Can't modify permission that you do not have yourself
 STR_5713    :Kick Player
 STR_5714    :Show options window
-STR_5715    :New Game
+STR_5715    :Nova Ludon
 STR_5716    :Not allowed in multiplayer mode
 # For identifying client network version in server list window
 STR_5717    :Network version: {STRING}
