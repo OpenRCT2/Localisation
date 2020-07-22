@@ -276,7 +276,7 @@ STR_0892    :Ekrankopio estis konservita al disko laŭ '{STRINGID}'
 STR_0893    :Ne povas konservi ekrankopion!
 STR_0894    :Zono de pejzaĝa datumo estas plena!
 STR_0895    :Ne povas konstrui kaj parte supertere kaj parte subtere
-STR_0896    :{POP16}{POP16}{STRINGID} Konstruo
+STR_0896    :{POP16}{POP16}{STRINGID} Konstruado
 STR_0897    :Direkto
 STR_0898    :{SMALLFONT}{BLACK}Maldekstra kurbo
 STR_0899    :{SMALLFONT}{BLACK}Dekstra kurbo
@@ -286,7 +286,7 @@ STR_0902    :{SMALLFONT}{BLACK}Maldekstra kurbo (tre malgranda radiuso)
 STR_0903    :{SMALLFONT}{BLACK}Dekstra kurbo (tre malgranda radiuso)
 STR_0904    :{SMALLFONT}{BLACK}Maldekstra kurbo (granda radiuso)
 STR_0905    :{SMALLFONT}{BLACK}Dekstra kurbo (granda radiuso)
-STR_0906    :{SMALLFONT}{BLACK}Rekte
+STR_0906    :{SMALLFONT}{BLACK}Rekta trako
 STR_0907    :Dekliveco
 STR_0908    :Ruliĝeco/Turnkliniĝeco
 STR_0909    :Direkto de Sidejo
@@ -295,20 +295,20 @@ STR_0911    :{SMALLFONT}{BLACK}Ruliĝi por dekstra kurbo
 STR_0912    :{SMALLFONT}{BLACK}Ne ruliĝi
 STR_0913    :{SMALLFONT}{BLACK}Movi al pasinta parto
 STR_0914    :{SMALLFONT}{BLACK}Movi al sekva parto
-STR_0915    :{SMALLFONT}{BLACK}Konstrui la elektidan parton
-STR_0916    :{SMALLFONT}{BLACK}Malkonstrui la emfazidan parton
-STR_0917    :{SMALLFONT}{BLACK}Vertikala malsupren
-STR_0918    :{SMALLFONT}{BLACK}Kruta deklivo malsupren
-STR_0919    :{SMALLFONT}{BLACK}Deklivo malsupren
-STR_0920    :{SMALLFONT}{BLACK}Ebena
-STR_0921    :{SMALLFONT}{BLACK}Deklivo supren
-STR_0922    :{SMALLFONT}{BLACK}Kruta deklivo supren
-STR_0923    :{SMALLFONT}{BLACK}Vertikala supren
-STR_0924    :{SMALLFONT}{BLACK}Helico malsupren
-STR_0925    :{SMALLFONT}{BLACK}Helico supren
+STR_0915    :{SMALLFONT}{BLACK}Konstrui la elektitan parton
+STR_0916    :{SMALLFONT}{BLACK}Malkonstrui la emfazitan parton
+STR_0917    :{SMALLFONT}{BLACK}Vertikala malkreskado
+STR_0918    :{SMALLFONT}{BLACK}Kruta malkreska deklivo
+STR_0919    :{SMALLFONT}{BLACK}Malkreska deklivo
+STR_0920    :{SMALLFONT}{BLACK}Ebena trako
+STR_0921    :{SMALLFONT}{BLACK}Kreska deklivo
+STR_0922    :{SMALLFONT}{BLACK}Kruta kreska deklivo
+STR_0923    :{SMALLFONT}{BLACK}Vertikala kreskado
+STR_0924    :{SMALLFONT}{BLACK}Malkreska helico
+STR_0925    :{SMALLFONT}{BLACK}Kreska helico
 STR_0926    :Ne povas forigi tion...
 STR_0927    :Ne povas konstrui tion ĉi tie...
-STR_0928    :{SMALLFONT}{BLACK}Ĉenlifto, por tiri ĉaroj sur deklivecoj supren
+STR_0928    :{SMALLFONT}{BLACK}Ĉenlifto, por tiri ĉarojn sur kreskaj deklivecoj
 STR_0929    :'S' Kurbo (maldekstre)
 STR_0930    :'S' Kurbo (dekstre)
 STR_0931    :Vertikala Lopo (maldekstre)
@@ -327,9 +327,9 @@ STR_0943    :Travidebla Pejzaĝo
 STR_0944    :Konservi
 STR_0945    :Ne Konservi
 STR_0946    :Nuligi
-STR_0947    :Konservi antaŭ ŝargado?
-STR_0948    :Konservi antaŭ forlasado?
-STR_0949    :Konservi antaŭ forlasado?
+STR_0947    :Konservi antaŭ la ŝargado?
+STR_0948    :Konservi antaŭ la forlasado?
+STR_0949    :Konservi antaŭ la forlasado?
 STR_0950    :Ŝargi Ludon
 STR_0951    :Forlasi Ludon
 STR_0952    :Forlasi Ludon
@@ -362,8 +362,8 @@ STR_0978    :Novaj Mildaj rajdoj
 STR_0979    :Novaj Ondaj Fervojoj
 STR_0980    :Novaj Ekscitaj rajdoj
 STR_0981    :Novaj Akvarajdoj
-STR_0982    :Novaj Vendejoj & Budoj
-STR_0983    :Esplorado & Disvolvado
+STR_0982    :Novaj Vendejoj k Budoj
+STR_0983    :Esplorado k Disvolvado
 STR_0984    :{WINDOW_COLOUR_2}▲{BLACK}  {CURRENCY2DP}
 STR_0985    :{WINDOW_COLOUR_2}▼{BLACK}  {CURRENCY2DP}
 STR_0986    :{BLACK}{CURRENCY2DP}
@@ -372,8 +372,8 @@ STR_0988    :Ne povas krei novan rajdon/allogaĵon...
 STR_0989    :{STRINGID}
 STR_0990    :{SMALLFONT}{BLACK}Konstruo
 STR_0991    :Staciplatformo
-STR_0992    :{SMALLFONT}{BLACK}Malkonstrui tutan rajdon/allogaĵon
-STR_0993    :Malkonstrui rajdon/allogaĵon
+STR_0992    :{SMALLFONT}{BLACK}Malkonstrui la tutan rajdon/allogaĵon
+STR_0993    :Malkonstrui la rajdon/allogaĵon
 STR_0994    :Malkonstruiĝi
 STR_0995    :{WINDOW_COLOUR_1}Ĉu vi vere volas malkonstrui {STRINGID}?
 STR_0996    :Tuta vido
