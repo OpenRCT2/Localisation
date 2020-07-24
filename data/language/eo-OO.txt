@@ -386,7 +386,7 @@ STR_1002    :Ne povas malfermi {POP16}{POP16}{POP16}{STRINGID}...
 STR_1003    :Ne povas elprovi {POP16}{POP16}{POP16}{STRINGID}...
 STR_1004    :Ne povas fermi {POP16}{POP16}{POP16}{STRINGID}...
 STR_1005    :Ne povas ekkonstrui {POP16}{POP16}{POP16}{STRINGID}...
-STR_1006    :Unue tio devas esti fermita
+STR_1006    :Tio unue devas esti fermita
 STR_1007    :Ne povas krei sufiĉe da ĉaroj
 STR_1008    :{SMALLFONT}{BLACK}Malfermi, fermi, aŭ elprovi rajdon/allogaĵon
 STR_1009    :{SMALLFONT}{BLACK}Malfermi aŭ fermi tutajn rajdojn/allogaĵojn
@@ -397,10 +397,10 @@ STR_1013    :Fermi la parkon
 STR_1014    :Malfermi la parkon
 STR_1015    :Ne povas funkcii kun pli ol unu staciplatformo ĉi-maniere
 STR_1016    :Ne povas funkcii kun malpli ol du staciplatformoj ĉi-maniere
-STR_1017    :Ne povas ŝanĝi la manieron de funkcio
-STR_1018    :Ne povas ŝanĝi...
-STR_1019    :Ne povas ŝanĝi...
-STR_1020    :Ne povas ŝanĝi...
+STR_1017    :Ne povas ŝanĝi la manieron de funkciado
+STR_1018    :Ne povas ŝanĝi tion...
+STR_1019    :Ne povas ŝanĝi tion...
+STR_1020    :Ne povas ŝanĝi tion...
 STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_1022    :Po {POP16}{POP16}{POP16}{COMMA16} ĉaro por trajno
 STR_1023    :Po {POP16}{POP16}{POP16}{COMMA16} ĉaroj por trajno
@@ -415,7 +415,7 @@ STR_1031    :Ne povas konstrui ĉi tion subakve!
 STR_1032    :Povas konstrui ĉi tion nur sur la akvo!
 STR_1033    :Povas konstrui ĉi tion nur nesubtere!
 STR_1034    :Povas konstrui ĉi tion nur sur la tero!
-STR_1035    :Loka aŭtoritato ne permesos konstruadon pli alta ol la arbalteco!
+STR_1035    :Loka aŭtoritato ne permesas konstruaĵojn pli alta ol la arbalteco!
 STR_1036    :Ŝargi Ludon
 STR_1037    :Ŝargi Pejzaĝon
 STR_1038    :Ŝanĝi ludon konservitan al scenaro
@@ -439,47 +439,47 @@ STR_1055    :{SMALLFONT}{BLACK}Nomi la homon
 STR_1056    :{SMALLFONT}{BLACK}Nomi la oficiston
 STR_1057    :Nomo de la rajdo/allogaĵo
 STR_1058    :Renomi ĉi tiun rajdon/allogaĵon:
-STR_1059    :Ne povas renomi rajdon/allogaĵon...
+STR_1059    :Ne povas renomi la rajdon/allogaĵon...
 STR_1060    :Malvalida nomo de rajdo/allogaĵo
 STR_1061    :Maniero norma
-STR_1062    :Maniero de senhalta kanalo
-STR_1063    :Reverse-Incline launched shuttle mode
-STR_1064    :Powered launch (passing station)
-STR_1065    :Shuttle mode
+STR_1062    :Maniero de fermita vojo
+STR_1063    :Maniero de lanĉo kun renversita deklivo
+STR_1064    :Forta lanĉo (trapasas la stacion)
+STR_1065    :Maniero prama
 STR_1066    :Maniero de boatluo
-STR_1067    :Upward launch
-STR_1068    :Rotating lift mode
-STR_1069    :Maniero de interstacio
+STR_1067    :Lanĉo kreska
+STR_1068    :Maniero de turnanta lifto
+STR_1069    :Maniero interstacia
 STR_1070    :Po unu rajdo por bileto
 STR_1071    :Po senlimaj rajdoj por bileto
 STR_1072    :Maniero de labirinto
 STR_1073    :Maniero de vetkuro
-STR_1074    :Bumper-car mode
-STR_1075    :Swing mode
+STR_1074    :Maniero de albatiĝantaj aŭtetoj
+STR_1075    :Maniero svingiĝanta
 STR_1076    :Maniero de vendejbudo
-STR_1077    :Rotation mode
-STR_1078    :Forward rotation
-STR_1079    :Backward rotation
-STR_1080    :Film: “Avenging aviators”
-STR_1081    :3D film: “Mouse tails”
-STR_1082    :Space rings mode
+STR_1077    :Maniero de turnado
+STR_1078    :Antaŭa turnado
+STR_1079    :Malantaŭa turnado
+STR_1080    :Filmo: “Venĝantaj aviadistoj”
+STR_1081    :3D filmo: “Musvostoj”
+STR_1082    :Maniero de giroskopegoj
 STR_1083    :Maniero de komencantoj
 STR_1084    :Lanĉo per linearaj induktaj motoroj
-STR_1085    :Film: “Thrill riders”
-STR_1086    :3D film: “Storm chasers”
-STR_1087    :3D film: “Space raiders”
-STR_1088    :Intense mode
-STR_1089    :Berserk mode
-STR_1090    :Haunted house mode
-STR_1091    :Circus mode
-STR_1092    :Downward launch
-STR_1093    :Crooked house mode
-STR_1094    :Freefall drop mode
-STR_1095    :Continuous circuit block sectioned mode
-STR_1096    :Powered launch (without passing station)
-STR_1097    :Powered launch block sectioned mode
-STR_1098    :Moving to end of {POP16}{STRINGID}
-STR_1099    :Waiting for passengers at {POP16}{STRINGID}
+STR_1085    :Filmo: “Rajdantoj de ekscitaĵo”
+STR_1086    :3D filmo: “Ŝtormĉasistoj”
+STR_1087    :3D filmo: “Kosmomarodisto”
+STR_1088    :Maniero intensa
+STR_1089    :Maniero freneza
+STR_1090    :Maniero de fantomita domo
+STR_1091    :Maniero cirka
+STR_1092    :Lanĉo malkreska
+STR_1093    :Maniero de malrekta domo
+STR_1094    :Maniero de libera falo
+STR_1095    :Maniero de fermita vojo kun blokpartoj
+STR_1096    :Forta lanĉo (ne trapasas la stacion)
+STR_1097    :Forta lanĉo kun blokpartoj
+STR_1098    :Movas al la fino de {POP16}{STRINGID}
+STR_1099    :Atendas pasaĝerojn ĉe {POP16}{STRINGID}
 STR_1100    :Waiting to depart {POP16}{STRINGID}
 STR_1101    :Departing {POP16}{STRINGID}
 STR_1102    :Travelling at {VELOCITY}
