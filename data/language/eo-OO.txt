@@ -431,7 +431,7 @@ STR_1047    :Konservado de la ludon malsukcesis!
 STR_1048    :Konservado de la scenaro malsukcesis!
 STR_1049    :Konservado de la pejzaĝo malsukcesis!
 STR_1050    :Ne povas ŝargi...{NEWLINE}La dosiero enhavas malvalidan datumon!
-STR_1051    :Nevideblaj Apogoj
+STR_1051    :Nevideblaj Apogiloj
 STR_1052    :Nevideblaj Homoj
 STR_1053    :{SMALLFONT}{BLACK}Rajdoj/allogaĵoj en la parko
 STR_1054    :{SMALLFONT}{BLACK}Nomi la rajdon/allogaĵon
@@ -509,76 +509,76 @@ STR_1125    :Operating
 STR_1126    :Stopping
 STR_1127    :Unloading passengers
 STR_1128    :Stopped by block brakes
-STR_1129    :All vehicles in same colours
-STR_1130    :Different colours per {STRINGID}
-STR_1131    :Different colours per vehicle
-STR_1132    :Vehicle {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1133    :Vehicle {POP16}{COMMA16}
+STR_1129    :Ĉiuj veturiloj havas la saman koloron
+STR_1130    :Malsamaj koloroj po {STRINGID}
+STR_1131    :Malsamaj koloroj po veturilo
+STR_1132    :Veturilo {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1133    :Veturilo {POP16}{COMMA16}
 STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
 STR_1135    :{STRINGID} {COMMA16}
-STR_1136    :{SMALLFONT}{BLACK}Select main colour
-STR_1137    :{SMALLFONT}{BLACK}Select additional colour 1
-STR_1138    :{SMALLFONT}{BLACK}Select additional colour 2
-STR_1139    :{SMALLFONT}{BLACK}Select support structure colour
-STR_1140    :{SMALLFONT}{BLACK}Select vehicle colour scheme option
-STR_1141    :{SMALLFONT}{BLACK}Select which vehicle/train to modify
+STR_1136    :{SMALLFONT}{BLACK}Elekti la ĉefan koloron
+STR_1137    :{SMALLFONT}{BLACK}Elekti aldonan koloron 1
+STR_1138    :{SMALLFONT}{BLACK}Elekti aldonan koloron 2
+STR_1139    :{SMALLFONT}{BLACK}Elekti la koloron de la apogiloj
+STR_1140    :{SMALLFONT}{BLACK}Elekti la kolorskemon de la veturiloj
+STR_1141    :{SMALLFONT}{BLACK}Elekti la veturilon/trajnon redaktotan
 STR_1142    :{MOVE_X}{10}{STRINGID}
 STR_1143    :»{MOVE_X}{10}{STRINGID}
-STR_1144    :Can't build/move entrance for this ride/attraction...
-STR_1145    :Can't build/move exit for this ride/attraction...
-STR_1146    :Entrance not yet built
-STR_1147    :Exit not yet built
-STR_1148    :Quarter load
-STR_1149    :Half load
-STR_1150    :Three-quarter load
-STR_1151    :Full load
-STR_1152    :Any load
-STR_1153    :Height Marks on Ride Tracks
-STR_1154    :Height Marks on Land
-STR_1155    :Height Marks on Paths
+STR_1144    :Ne povas konstrui/movi la enirejon por ĉi tiu rajdo/allogaĵo...
+STR_1145    :Ne povas konstrui/movi la elirejon por ĉi tiu rajdo/allogaĵo...
+STR_1146    :La enirejo ne estas jam konstruita
+STR_1147    :La elirejo ne estas jam konstruita
+STR_1148    :Kvarona-plena ŝarĝo
+STR_1149    :Duona-plena ŝarĝo
+STR_1150    :Tri-kvaronaj-plena ŝarĝo
+STR_1151    :Plena ŝarĝo
+STR_1152    :Iom ajn ŝarĝo
+STR_1153    :Notoj de alteco sur rajdotrakoj
+STR_1154    :Notoj de alteco sur la tero
+STR_1155    :Notoj de alteco sur vojoj
 STR_1156    :{MOVE_X}{10}{STRINGID}
 STR_1157    :✓{MOVE_X}{10}{STRINGID}
-STR_1158    :Can't remove this...
-STR_1159    :{SMALLFONT}{BLACK}Place scenery, gardens, and other accessories
-STR_1160    :{SMALLFONT}{BLACK}Create/adjust lakes & water
-STR_1161    :Can't position this here...
+STR_1158    :Ne povas forigi ĉi tion...
+STR_1159    :{SMALLFONT}{BLACK}Meti pejzaĝon, ĝardenojn, kaj aliajn akcesoraĵojn
+STR_1160    :{SMALLFONT}{BLACK}Krei/redakti lagojn k akvon
+STR_1161    :Ne povas meti tion ĉi tie...
 STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
-STR_1163    :{STRINGID}{NEWLINE}(Right-Click to Modify)
-STR_1164    :{STRINGID}{NEWLINE}(Right-Click to Remove)
+STR_1163    :{STRINGID}{NEWLINE}(Dekstre alklaki por Redakti)
+STR_1164    :{STRINGID}{NEWLINE}(Dekstre alklaki por Forigi)
 STR_1165    :{STRINGID} - {STRINGID} {COMMA16}
-STR_1166    :Can't lower water level here...
-STR_1167    :Can't raise water level here...
+STR_1166    :Ne povas malalti la akvonivelon ĉi tie...
+STR_1167    :Ne povas alti la akvonivelon ĉi tie...
 STR_1168    :Agordoj
 STR_1169    :(None)
 STR_1170    :{STRING}
-STR_1171    :{RED}Closed
+STR_1171    :{RED}Fermita
 STR_1172    :{YELLOW}{STRINGID}
-STR_1173    :{SMALLFONT}{BLACK}Build footpaths and queue lines
-STR_1174    :Banner sign in the way
-STR_1175    :Can't build this on sloped footpath
-STR_1176    :Can't build footpath here...
-STR_1177    :Can't remove footpath from here...
-STR_1178    :Land slope unsuitable
-STR_1179    :Footpath in the way
-STR_1180    :Can't build this underwater!
-STR_1181    :Footpaths
-STR_1182    :Type
-STR_1183    :Direction
-STR_1184    :Slope
-STR_1185    :{SMALLFONT}{BLACK}Direction
-STR_1186    :{SMALLFONT}{BLACK}Slope down
-STR_1187    :{SMALLFONT}{BLACK}Level
-STR_1188    :{SMALLFONT}{BLACK}Slope up
-STR_1189    :{SMALLFONT}{BLACK}Construct the selected footpath section
-STR_1190    :{SMALLFONT}{BLACK}Remove previous footpath section
+STR_1173    :{SMALLFONT}{BLACK}Konstrui trotuarojn kaj atendovicojn
+STR_1174    :Surskribaĵo baras ĝin
+STR_1175    :Ne povas konstrui ĉi tion sur dekliva trotuaro
+STR_1176    :Ne povas konstrui trotuaron ĉi tie...
+STR_1177    :Ne povas forigi la trotuaron ĉi tie...
+STR_1178    :La dekliveco de la bieno ne estas taŭga
+STR_1179    :Trotuaro baras ĝin
+STR_1180    :Ne povas konstrui ĉi tion subakve!
+STR_1181    :Trotuaroj
+STR_1182    :Tipo
+STR_1183    :Direkto
+STR_1184    :Dekliveco
+STR_1185    :{SMALLFONT}{BLACK}Direkto
+STR_1186    :{SMALLFONT}{BLACK}Malkreska deklivo
+STR_1187    :{SMALLFONT}{BLACK}Ebena parto
+STR_1188    :{SMALLFONT}{BLACK}Kreska deklivo
+STR_1189    :{SMALLFONT}{BLACK}Konstrui la elektitan trotuaroparton
+STR_1190    :{SMALLFONT}{BLACK}Forigi la pasintan trotuaroparton
 STR_1191    :{BLACK}{STRINGID}
 STR_1192    :{OUTLINE}{RED}{STRINGID}
 STR_1193    :{WINDOW_COLOUR_2}{STRINGID}
-STR_1194    :Closed
-STR_1195    :Test Run
-STR_1196    :Open
-STR_1197    :Broken Down
-STR_1198    :Crashed!
+STR_1194    :Fermita
+STR_1195    :Elprovata
+STR_1196    :Malfermita
+STR_1197    :Nefunkcianta
+STR_1198    :Koliziis!
 STR_1199    :{COMMA16} person on ride
 STR_1200    :{COMMA16} people on ride
 STR_1201    :Nobody in queue line
