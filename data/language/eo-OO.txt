@@ -44,7 +44,7 @@ STR_0039    :Spektoradego
 STR_0040    :Moviĝadosimulilo
 STR_0041    :Tri-Dimensia Kinejo
 STR_0042    :Supera Turno
-STR_0043    :Giroskopegoj
+STR_0043    :Eksterteraj Ringoj
 STR_0044    :Onda Fervojo kun Renversita Libera Falo
 STR_0045    :Lifto
 STR_0046    :Onda Fervojo kun Vertikalaj Faloj
@@ -600,118 +600,6 @@ STR_1216    :{SMALLFONT}{BLACK}Elekti ĉu la elveturado estas sinkronigita kun �
 STR_1217    :{COMMA16} sekundoj
 STR_1218    :{BLACK}+
 STR_1219    :{BLACK}-
-<<<<<<< HEAD
-STR_1220    :Nur por eliri
-STR_1221    :Sen enirejo
-STR_1222    :Sen elirejo
-STR_1223    :{SMALLFONT}{BLACK}Transport-Atrakcioj
-STR_1224    :{SMALLFONT}{BLACK}Mildaj Atrakcioj
-STR_1225    :{SMALLFONT}{BLACK}Ondaj Fervojoj
-STR_1226    :{SMALLFONT}{BLACK}Ekscitaj Atrakcioj
-STR_1227    :{SMALLFONT}{BLACK}Akvo-Atrakcioj
-STR_1228    :{SMALLFONT}{BLACK}Vendejoj k Budoj
-STR_1229    :train
-STR_1230    :trains
-STR_1231    :Train
-STR_1232    :Trains
-STR_1233    :{COMMA16} train
-STR_1234    :{COMMA16} trains
-STR_1235    :Train {COMMA16}
-STR_1236    :boat
-STR_1237    :boats
-STR_1238    :Boat
-STR_1239    :Boats
-STR_1240    :{COMMA16} boat
-STR_1241    :{COMMA16} boats
-STR_1242    :Boat {COMMA16}
-STR_1243    :track
-STR_1244    :tracks
-STR_1245    :Track
-STR_1246    :Tracks
-STR_1247    :{COMMA16} track
-STR_1248    :{COMMA16} tracks
-STR_1249    :Track {COMMA16}
-STR_1250    :docking platform
-STR_1251    :docking platforms
-STR_1252    :Docking platform
-STR_1253    :Docking platforms
-STR_1254    :{COMMA16} docking platform
-STR_1255    :{COMMA16} docking platforms
-STR_1256    :Docking platform {COMMA16}
-STR_1257    :station
-STR_1258    :stations
-STR_1259    :Station
-STR_1260    :Stations
-STR_1261    :{COMMA16} station
-STR_1262    :{COMMA16} stations
-STR_1263    :Station {COMMA16}
-STR_1264    :car
-STR_1265    :cars
-STR_1266    :Car
-STR_1267    :Cars
-STR_1268    :{COMMA16} car
-STR_1269    :{COMMA16} cars
-STR_1270    :Car {COMMA16}
-STR_1271    :building
-STR_1272    :buildings
-STR_1273    :Building
-STR_1274    :Buildings
-STR_1275    :{COMMA16} building
-STR_1276    :{COMMA16} buildings
-STR_1277    :Building {COMMA16}
-STR_1278    :structure
-STR_1279    :structures
-STR_1280    :Structure
-STR_1281    :Structures
-STR_1282    :{COMMA16} structure
-STR_1283    :{COMMA16} structures
-STR_1284    :Structure {COMMA16}
-STR_1285    :ship
-STR_1286    :ships
-STR_1287    :Ship
-STR_1288    :Ships
-STR_1289    :{COMMA16} ship
-STR_1290    :{COMMA16} ships
-STR_1291    :Ship {COMMA16}
-STR_1292    :cabin
-STR_1293    :cabins
-STR_1294    :Cabin
-STR_1295    :Cabins
-STR_1296    :{COMMA16} cabin
-STR_1297    :{COMMA16} cabins
-STR_1298    :Cabin {COMMA16}
-STR_1299    :wheel
-STR_1300    :wheels
-STR_1301    :Wheel
-STR_1302    :Wheels
-STR_1303    :{COMMA16} wheel
-STR_1304    :{COMMA16} wheels
-STR_1305    :Wheel {COMMA16}
-STR_1306    :ring
-STR_1307    :rings
-STR_1308    :Ring
-STR_1309    :Rings
-STR_1310    :{COMMA16} ring
-STR_1311    :{COMMA16} rings
-STR_1312    :Ring {COMMA16}
-STR_1313    :player
-STR_1314    :players
-STR_1315    :Player
-STR_1316    :Players
-STR_1317    :{COMMA16} player
-STR_1318    :{COMMA16} players
-STR_1319    :Player {COMMA16}
-STR_1320    :course
-STR_1321    :courses
-STR_1322    :Course
-STR_1323    :Courses
-STR_1324    :{COMMA16} course
-STR_1325    :{COMMA16} courses
-STR_1326    :Course {COMMA16}
-STR_1327    :{SMALLFONT}{BLACK}Turni objektojn 90°
-STR_1328    :Ebena bieno estas necesita
-STR_1329    :{WINDOW_COLOUR_2}Rapideco de la lanĉo:
-STR_1330    :{SMALLFONT}{BLACK}Maksimuma ekveturada rapideco:
 STR_1220    :Nur por eliri
 STR_1221    :Sen enirejo
 STR_1222    :Sen elirejo
@@ -798,13 +686,13 @@ STR_1302    :Radegoj
 STR_1303    :{COMMA16} radego
 STR_1304    :{COMMA16} radegoj
 STR_1305    :Radego {COMMA16}
-STR_1306    :giroskopego
-STR_1307    :giroskopegoj
-STR_1308    :Giroskopego
-STR_1309    :Giroskopegoj
-STR_1310    :{COMMA16} giroskopego
-STR_1311    :{COMMA16} giroskopegoj
-STR_1312    :Giroskopego {COMMA16}
+STR_1306    :ringo
+STR_1307    :ringoj
+STR_1308    :Ringo
+STR_1309    :Ringoj
+STR_1310    :{COMMA16} ringo
+STR_1311    :{COMMA16} ringoj
+STR_1312    :Ringo {COMMA16}
 STR_1313    :ludanto
 STR_1314    :ludantoj
 STR_1315    :Ludanto
