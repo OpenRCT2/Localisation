@@ -430,7 +430,7 @@ STR_1046    :OpenRCT2 Dosiero de Trakdesegno
 STR_1047    :Konservado de la ludon malsukcesis!
 STR_1048    :Konservado de la scenaro malsukcesis!
 STR_1049    :Konservado de la pejzaĝo malsukcesis!
-STR_1050    :Ne eblas ŝargi...{NEWLINE}La dosiero enhavas malvalidan datumon!
+STR_1050    :Ne eblas ŝargi...{NEWLINE}La dosiero enhavas nevalidan datumon!
 STR_1051    :Nevideblaj Apogiloj
 STR_1052    :Nevideblaj Homoj
 STR_1053    :{SMALLFONT}{BLACK}Atrakcioj en la parko
@@ -440,7 +440,7 @@ STR_1056    :{SMALLFONT}{BLACK}Nomi la oficiston
 STR_1057    :Nomo de la atrakcio
 STR_1058    :Renomi ĉi tiun atrakcion:
 STR_1059    :Ne eblas renomi la atrakcion...
-STR_1060    :Malvalida nomo de atrakcio
+STR_1060    :Nevalida nomo de atrakcio
 STR_1061    :Maniero norma
 STR_1062    :Maniero de fermita vojo
 STR_1063    :Maniero de lanĉo kun renversita deklivo
@@ -1032,144 +1032,144 @@ STR_1648    :{SMALLFONT}“Helpu! Metu min!”
 STR_1649    :{SMALLFONT}“Mi estas preskaŭ sen mono!”
 STR_1650    :{SMALLFONT}“Ŭaŭ! Nova atrakcio konstruata!”
 STR_1653    :{SMALLFONT}“...kaj jen ni estas sur {STRINGID}!”
-STR_1654    :{WINDOW_COLOUR_2}Recent thoughts:
-STR_1655    :{SMALLFONT}{BLACK}Construct footpath on land
-STR_1656    :{SMALLFONT}{BLACK}Construct bridge or tunnel footpath
-STR_1657    :{WINDOW_COLOUR_2}Preferred ride
-STR_1658    :{WINDOW_COLOUR_2}intensity: {BLACK}less than {COMMA16}
-STR_1659    :{WINDOW_COLOUR_2}intensity: {BLACK}between {COMMA16} and {COMMA16}
-STR_1660    :{WINDOW_COLOUR_2}intensity: {BLACK}more than {COMMA16}
-STR_1661    :{WINDOW_COLOUR_2}Nausea tolerance: {BLACK}{STRINGID}
-STR_1662    :{WINDOW_COLOUR_2}Happiness:
-STR_1663    :{WINDOW_COLOUR_2}Nausea:
-STR_1664    :{WINDOW_COLOUR_2}Energy:
-STR_1665    :{WINDOW_COLOUR_2}Hunger:
-STR_1666    :{WINDOW_COLOUR_2}Thirst:
-STR_1667    :{WINDOW_COLOUR_2}Toilet:
-STR_1668    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}Unknown
-STR_1669    :{WINDOW_COLOUR_2}Satisfaction: {BLACK}{COMMA16}%
-STR_1670    :{WINDOW_COLOUR_2}Total customers: {BLACK}{COMMA32}
-STR_1671    :{WINDOW_COLOUR_2}Total profit: {BLACK}{CURRENCY2DP}
-STR_1672    :Brakes
-STR_1673    :Spinning Control Toggle Track
-STR_1674    :Brake speed
+STR_1654    :{WINDOW_COLOUR_2}Lastaj pensoj:
+STR_1655    :{SMALLFONT}{BLACK}Konstrui trotuaron sur la tero
+STR_1656    :{SMALLFONT}{BLACK}Konstrui pontan aŭ tunelan trotuaron
+STR_1657    :{WINDOW_COLOUR_2}Preferata atrakcio
+STR_1658    :{WINDOW_COLOUR_2}intenseco: {BLACK}malpli ol {COMMA16}
+STR_1659    :{WINDOW_COLOUR_2}intenseco: {BLACK}inter {COMMA16} kaj {COMMA16}
+STR_1660    :{WINDOW_COLOUR_2}intenseco: {BLACK}pli ol {COMMA16}
+STR_1661    :{WINDOW_COLOUR_2}Naŭzotolero: {BLACK}{STRINGID}
+STR_1662    :{WINDOW_COLOUR_2}Feliĉeco:
+STR_1663    :{WINDOW_COLOUR_2}Vomemeco:
+STR_1664    :{WINDOW_COLOUR_2}Energio:
+STR_1665    :{WINDOW_COLOUR_2}Malsateco:
+STR_1666    :{WINDOW_COLOUR_2}Soifeco:
+STR_1667    :{WINDOW_COLOUR_2}Bezonas necesejon:
+STR_1668    :{WINDOW_COLOUR_2}Kontento: {BLACK}Nekonata
+STR_1669    :{WINDOW_COLOUR_2}Kontento: {BLACK}{COMMA16}%
+STR_1670    :{WINDOW_COLOUR_2}Totalaj klientoj: {BLACK}{COMMA32}
+STR_1671    :{WINDOW_COLOUR_2}Totala gajno: {BLACK}{CURRENCY2DP}
+STR_1672    :Bremsoj
+STR_1673    :Turnadokontrolista Baskulotrakparto
+STR_1674    :Rapideco de bremsoj
 STR_1675    :{POP16}{VELOCITY}
-STR_1676    :{SMALLFONT}{BLACK}Set speed limit for brakes
-STR_1677    :{WINDOW_COLOUR_2}Popularity: {BLACK}Unknown
-STR_1678    :{WINDOW_COLOUR_2}Popularity: {BLACK}{COMMA16}%
-STR_1679    :Helix up (left)
-STR_1680    :Helix up (right)
-STR_1681    :Helix down (left)
-STR_1682    :Helix down (right)
-STR_1683    :Base size 2 x 2
-STR_1684    :Base size 4 x 4
-STR_1685    :Base size 2 x 4
-STR_1686    :Base size 5 x 1
-STR_1687    :Water splash
-STR_1688    :Base size 4 x 1
-STR_1689    :Block brakes
+STR_1676    :{SMALLFONT}{BLACK}Agordi la rapidlimo de la bremsoj
+STR_1677    :{WINDOW_COLOUR_2}Populareco: {BLACK}Nekonata
+STR_1678    :{WINDOW_COLOUR_2}Populareco: {BLACK}{COMMA16}%
+STR_1679    :Kreska Helikso (maldekstre)
+STR_1680    :Kreska Helikso (dekstre)
+STR_1681    :Malkreska Helikso (maldekstre)
+STR_1682    :Malkreska Helikso (dekstre)
+STR_1683    :Bazdimensioj 2 x 2
+STR_1684    :Bazdimensioj 4 x 4
+STR_1685    :Bazdimensioj 2 x 4
+STR_1686    :Bazdimensioj 5 x 1
+STR_1687    :Trako kun Akvoplaŭdo
+STR_1688    :Bazdimensioj 4 x 1
+STR_1689    :Bremsoj de Blokparto
 STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
-STR_1691    :{WINDOW_COLOUR_2}  Cost: {BLACK}{CURRENCY}
-STR_1692    :{WINDOW_COLOUR_2}  Cost: {BLACK}from {CURRENCY}
-STR_1693    :{SMALLFONT}{BLACK}Guests
-STR_1694    :{SMALLFONT}{BLACK}Staff
-STR_1695    :{SMALLFONT}{BLACK}Income and costs
-STR_1696    :{SMALLFONT}{BLACK}Customer information
-STR_1697    :Cannot place these on queue line area
-STR_1698    :Can only place these on queue area
-STR_1699    :Too many people in game
-STR_1700    :Hire new Handyman
-STR_1701    :Hire new Mechanic
-STR_1702    :Hire new Security Guard
-STR_1703    :Hire new Entertainer
-STR_1704    :Can't hire new staff...
-STR_1705    :{SMALLFONT}{BLACK}Sack this staff member
-STR_1706    :{SMALLFONT}{BLACK}Move this person to a new location
-STR_1707    :Too many staff in game
-STR_1708    :{SMALLFONT}{BLACK}Set patrol area for this staff member
-STR_1709    :Sack staff
-STR_1710    :Yes
-STR_1711    :{WINDOW_COLOUR_1}Are you sure you want to sack {STRINGID}?
-STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Sweep footpaths
-STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Water gardens
-STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Empty litter bins
-STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Mow grass
-STR_1716    :Invalid name for park
-STR_1717    :Can't rename park...
-STR_1718    :Park Name
-STR_1719    :Enter name for park:
-STR_1720    :{SMALLFONT}{BLACK}Name park
-STR_1721    :Park closed
-STR_1722    :Park open
-STR_1723    :Can't open park...
-STR_1724    :Can't close park...
-STR_1725    :Can't buy land...
-STR_1726    :Land not for sale!
-STR_1727    :Construction rights not for sale!
-STR_1728    :Can't buy construction rights here...
-STR_1729    :Land not owned by park!
-STR_1730    :{RED}Closed
+STR_1691    :{WINDOW_COLOUR_2}  Kosto: {BLACK}{CURRENCY}
+STR_1692    :{WINDOW_COLOUR_2}  Kosto: {BLACK}almenaŭ {CURRENCY}
+STR_1693    :{SMALLFONT}{BLACK}Gastoj
+STR_1694    :{SMALLFONT}{BLACK}Laboristoj
+STR_1695    :{SMALLFONT}{BLACK}Enspezoj kaj Elspezoj
+STR_1696    :{SMALLFONT}{BLACK}Klientinformo
+STR_1697    :Ne eblas meti ĉi tion ĉe atendovicoj
+STR_1698    :Eblas meti ĉi tion nur ĉe atendovicoj
+STR_1699    :Tro da homoj en la ludo
+STR_1700    :Dungi novan Asistanton
+STR_1701    :Dungi novan Mekanikiston
+STR_1702    :Dungi novan Sekurigan Oficiston
+STR_1703    :Dungi novan Amuziston
+STR_1704    :Ne eblas dungi novan laboriston...
+STR_1705    :{SMALLFONT}{BLACK}Eksigi ĉi tiun laboriston
+STR_1706    :{SMALLFONT}{BLACK}Movi ĉi tiun homon al nova loko
+STR_1707    :Tro da laboristoj en la ludo
+STR_1708    :{SMALLFONT}{BLACK}Agordi la patrolzonon de ĉi tiu laboristo
+STR_1709    :Eksigi laboriston
+STR_1710    :Jes
+STR_1711    :{WINDOW_COLOUR_1}Ĉu vi vere volas eksigi je {STRINGID}?
+STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Balaas trotuarojn
+STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Akvumadas ĝardenojn
+STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Malplenigas rubujojn
+STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Falĉas la herbon
+STR_1716    :Nevalida nomo de la parko
+STR_1717    :Ne eblas renomi la parkon...
+STR_1718    :Nomo de la Parko
+STR_1719    :Entajpi la nomon de la parko:
+STR_1720    :{SMALLFONT}{BLACK}Nomi la parkon
+STR_1721    :Parko fermita
+STR_1722    :Parko malfermita
+STR_1723    :Ne eblas malfermi la parkon...
+STR_1724    :Ne eblas fermi la parkon...
+STR_1725    :Ne eblas aĉeti bienon...
+STR_1726    :La bieno ne estas aĉetebla!
+STR_1727    :Konstruadaj rajtoj ne estas aĉeteblaj!
+STR_1728    :Ne eblas aĉeti konstruadaj rajtoj ĉi tie...
+STR_1729    :La bieno ne estas posedata de la parko!
+STR_1730    :{RED}Fermita
 STR_1731    :{WHITE}{STRINGID} - - 
-STR_1732    :Build
-STR_1733    :Mode
-STR_1734    :{WINDOW_COLOUR_2}Number of laps:
-STR_1735    :{SMALLFONT}{BLACK}Number of laps of circuit
+STR_1732    :Konstrui
+STR_1733    :Maniero
+STR_1734    :{WINDOW_COLOUR_2}Nombro de etapoj:
+STR_1735    :{SMALLFONT}{BLACK}Nombro de etapoj de la vojo
 STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1738    :Can't change number of laps...
-STR_1739    :Race won by guest {INT32}
-STR_1740    :Race won by {STRINGID}
-STR_1741    :Not yet constructed!
-STR_1742    :{WINDOW_COLOUR_2}Max. people on ride:
-STR_1743    :{SMALLFONT}{BLACK}Maximum number of people allowed on this ride at one time
+STR_1738    :Ne eblas ŝanĝi la nombron de etapoj...
+STR_1739    :Vetkuro estis gajnita de gasto {INT32}
+STR_1740    :Vetkuro estis gajnita de {STRINGID}
+STR_1741    :Ne estas jam konstruita!
+STR_1742    :{WINDOW_COLOUR_2}Maks. homoj en la atrakcio:
+STR_1743    :{SMALLFONT}{BLACK}Maksimuma nombro de homoj permesitaj en la atrakcio iutempe
 STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1746    :Can't change this...
-STR_1747    :{WINDOW_COLOUR_2}Time limit:
-STR_1748    :{SMALLFONT}{BLACK}Time limit for ride
+STR_1746    :Ne eblas ŝanĝi tion...
+STR_1747    :{WINDOW_COLOUR_2}Templimo:
+STR_1748    :{SMALLFONT}{BLACK}Templimo de la atrakcio
 STR_1749    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{DURATION}
-STR_1751    :Can't change time limit for ride...
-STR_1752    :{SMALLFONT}{BLACK}Show list of individual guests in park
-STR_1753    :{SMALLFONT}{BLACK}Show summarised list of guests in park
-STR_1754    :{BLACK}{COMMA32} guests
-STR_1755    :{BLACK}{COMMA32} guest
-STR_1756    :{WINDOW_COLOUR_2}Admission price:
-STR_1757    :{WINDOW_COLOUR_2}Reliability: {MOVE_X}{255}{BLACK}{COMMA16}%
-STR_1758    :{SMALLFONT}{BLACK}Build mode
-STR_1759    :{SMALLFONT}{BLACK}Move mode
-STR_1760    :{SMALLFONT}{BLACK}Fill-in mode
-STR_1761    :{SMALLFONT}{BLACK}Build maze in this direction
-STR_1762    :Waterfalls
-STR_1763    :Rapids
-STR_1764    :Log Bumps
-STR_1765    :On-ride photo section
-STR_1766    :Reverser turntable
-STR_1767    :Spinning tunnel
-STR_1768    :Can't change number of swings...
-STR_1769    :{WINDOW_COLOUR_2}Number of swings:
-STR_1770    :{SMALLFONT}{BLACK}Number of complete swings
+STR_1751    :Ne eblas ŝanĝi la templimon de la atrakcio...
+STR_1752    :{SMALLFONT}{BLACK}Montri la liston de individuaj gastoj en la parko
+STR_1753    :{SMALLFONT}{BLACK}Montri la resumitan liston de la gastoj en la parko
+STR_1754    :{BLACK}{COMMA32} gastoj
+STR_1755    :{BLACK}{COMMA32} gasto
+STR_1756    :{WINDOW_COLOUR_2}Enirokosto:
+STR_1757    :{WINDOW_COLOUR_2}Fidindo: {MOVE_X}{255}{BLACK}{COMMA16}%
+STR_1758    :{SMALLFONT}{BLACK}Maniero de konstruado
+STR_1759    :{SMALLFONT}{BLACK}Maniero de movado
+STR_1760    :{SMALLFONT}{BLACK}Maniero de plenado
+STR_1761    :{SMALLFONT}{BLACK}Konstrui la labirinton en tiu direkto
+STR_1762    :Akvofaloj
+STR_1763    :Rapidfluo
+STR_1764    :Ŝtipoĝiboj
+STR_1765    :Sur-Atrakcia Fotoparto
+STR_1766    :Renversilo
+STR_1767    :Turniĝanta Tunelo
+STR_1768    :Ne eblas ŝanĝi la nombron de svingoj...
+STR_1769    :{WINDOW_COLOUR_2}Nombro de svingoj:
+STR_1770    :{SMALLFONT}{BLACK}Nombro de plenaj svingoj
 STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1773    :Only one on-ride photo section allowed per ride
-STR_1774    :Only one cable lift hill allowed per ride
-STR_1777    :Ride music
+STR_1773    :Nur unu sur-atrakcia fotoparto permesita po atrakcio
+STR_1774    :Nur unu kablolifta monteto permesita po atrakcio
+STR_1777    :Muziko de la atrakcio
 STR_1778    :{STRINGID} - - 
-STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Panda costume
-STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Tiger costume
-STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Elephant costume
-STR_1782    :{INLINE_SPRITE}{01}{20}{00}{00} Roman costume
-STR_1783    :{INLINE_SPRITE}{02}{20}{00}{00} Gorilla costume
-STR_1784    :{INLINE_SPRITE}{03}{20}{00}{00} Snowman costume
-STR_1785    :{INLINE_SPRITE}{04}{20}{00}{00} Knight costume
-STR_1786    :{INLINE_SPRITE}{05}{20}{00}{00} Astronaut costume
-STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Bandit costume
-STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Sheriff costume
-STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Pirate costume
-STR_1790    :{SMALLFONT}{BLACK}Select uniform colour for this type of staff
-STR_1791    :{WINDOW_COLOUR_2}Uniform colour:
-STR_1792    :Responding to {STRINGID} breakdown call
-STR_1793    :Heading to {STRINGID} for an inspection
-STR_1794    :Fixing {STRINGID}
-STR_1795    :Answering radio call
-STR_1796    :Has broken down and requires fixing
-STR_1798    :Whirlpool
+STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Panda kostumo
+STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Tigra kostumo
+STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Elefanta kostumo
+STR_1782    :{INLINE_SPRITE}{01}{20}{00}{00} Roma kostumo
+STR_1783    :{INLINE_SPRITE}{02}{20}{00}{00} Gorila kostumo
+STR_1784    :{INLINE_SPRITE}{03}{20}{00}{00} Neĝhoma kostumo
+STR_1785    :{INLINE_SPRITE}{04}{20}{00}{00} Kavalira kostumo
+STR_1786    :{INLINE_SPRITE}{05}{20}{00}{00} Astronaŭta kostumo
+STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Bandita kostumo
+STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Ŝerifa kostumo
+STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Pirata kostumo
+STR_1790    :{SMALLFONT}{BLACK}Elekti la uniformkoloron por ĉi tiaj laboristoj
+STR_1791    :{WINDOW_COLOUR_2}Uniformkoloro:
+STR_1792    :Reagas al la paneo de {STRINGID}
+STR_1793    :Iras al {STRINGID} por inspekti ĝin
+STR_1794    :Riparas je {STRINGID}
+STR_1795    :Respondi al radiovoko
+STR_1796    :Rompita kaj bezonas riparon
+STR_1798    :Akvoturno
 STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1800    :Safety cut-out
 STR_1801    :Restraints stuck closed
