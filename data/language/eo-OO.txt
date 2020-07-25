@@ -263,7 +263,7 @@ STR_0877    :Tro malalte!
 STR_0878    :Tro alte!
 STR_0879    :Ne eblas malalti la bienon ĉi tie...
 STR_0880    :Ne eblas alti la bienon ĉi tie...
-STR_0881    :Objekto baradas
+STR_0881    :Objekto baras ĝin
 STR_0882    :Ŝargi Ludon
 STR_0883    :Konservi Ludon
 STR_0884    :Ŝargi Pejzaĝon
@@ -314,9 +314,9 @@ STR_0930    :'S' Kurbo (dekstre)
 STR_0931    :Vertikala Lopo (maldekstre)
 STR_0932    :Vertikala Lopo (dekstre)
 STR_0933    :Unue alti aŭ malalti la bienon
-STR_0934    :Rideniro baradas
-STR_0935    :Rideliro baradas
-STR_0936    :Parkeniro baradas
+STR_0934    :Enirejo de atrakcio baras ĝin
+STR_0935    :Elirejo de atrakcio baras ĝin
+STR_0936    :Parkenirejo baras ĝin
 STR_0937    :{SMALLFONT}{BLACK}Vidi agordojn
 STR_0938    :{SMALLFONT}{BLACK}Agordi la altecon kaj deklivecon de bieno
 STR_0939    :Subtera/Interna Vido
@@ -436,7 +436,7 @@ STR_1052    :Nevideblaj Homoj
 STR_1053    :{SMALLFONT}{BLACK}Atrakcioj en la parko
 STR_1054    :{SMALLFONT}{BLACK}Nomi la atrakcion
 STR_1055    :{SMALLFONT}{BLACK}Nomi la homon
-STR_1056    :{SMALLFONT}{BLACK}Nomi la oficiston
+STR_1056    :{SMALLFONT}{BLACK}Nomi la laboriston
 STR_1057    :Nomo de la atrakcio
 STR_1058    :Renomi ĉi tiun atrakcion:
 STR_1059    :Ne eblas renomi la atrakcion...
@@ -780,86 +780,86 @@ STR_1396    :{SMALLFONT}{BLACK}Agordoj de kolorskemo
 STR_1397    :{SMALLFONT}{BLACK}Agordoj de sono kaj muziko
 STR_1398    :{SMALLFONT}{BLACK}Mezuroj kaj testdatenoj
 STR_1399    :{SMALLFONT}{BLACK}Diagramoj
-STR_1400    :Entrance
-STR_1401    :Exit
-STR_1402    :{SMALLFONT}{BLACK}Build or move entrance to ride/attraction
-STR_1403    :{SMALLFONT}{BLACK}Build or move exit from ride/attraction
-STR_1404    :{SMALLFONT}{BLACK}Rotate 90°
-STR_1405    :{SMALLFONT}{BLACK}Mirror image
-STR_1406    :{SMALLFONT}{BLACK}Toggle scenery on/off (if available for this design)
-STR_1407    :{WINDOW_COLOUR_2}Build this...
-STR_1408    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY}
-STR_1409    :Entry/Exit Platform
-STR_1410    :Vertical Tower
-STR_1411    :{STRINGID} in the way
-STR_1412    :{WINDOW_COLOUR_3}Data logging not available for this type of ride
-STR_1413    :{WINDOW_COLOUR_3}Data logging will start when next {STRINGID} leaves {STRINGID}
+STR_1400    :Enirejo
+STR_1401    :Elirejo
+STR_1402    :{SMALLFONT}{BLACK}Konstrui aŭ movi la enirejon de la atrakcio
+STR_1403    :{SMALLFONT}{BLACK}Konstrui aŭ movi la elirejon de la atrakcio
+STR_1404    :{SMALLFONT}{BLACK}Turni la desegnon 90°
+STR_1405    :{SMALLFONT}{BLACK}Speguli la desegnon
+STR_1406    :{SMALLFONT}{BLACK}Baskuli la pejzaĝon de la desegno (se disponebla)
+STR_1407    :{WINDOW_COLOUR_2}Konstrui ĉi tion...
+STR_1408    :{WINDOW_COLOUR_2}Kosto: {BLACK}{CURRENCY}
+STR_1409    :Platformo por Eniri/Eliri
+STR_1410    :Vertikala Turo
+STR_1411    :{STRINGID} baras ĝin
+STR_1412    :{WINDOW_COLOUR_3}Protokolado de datumoj ne estas disponebla por ĉi tia atrakcio
+STR_1413    :{WINDOW_COLOUR_3}Protokolado de datumoj komenciĝos kiam la sekva {STRINGID} ekveturas el {STRINGID}
 STR_1414    :{SMALLFONT}{BLACK}{DURATION}
-STR_1415    :{WINDOW_COLOUR_2}Velocity
-STR_1416    :{WINDOW_COLOUR_2}Altitude
-STR_1417    :{WINDOW_COLOUR_2}Vert.G's
-STR_1418    :{WINDOW_COLOUR_2}Lat.G's
+STR_1415    :{WINDOW_COLOUR_2}Rapideco
+STR_1416    :{WINDOW_COLOUR_2}Alteco
+STR_1417    :{WINDOW_COLOUR_2}Vertikala Graviteco
+STR_1418    :{WINDOW_COLOUR_2}Flanka Graviteco
 STR_1419    :{SMALLFONT}{BLACK}{VELOCITY}
 STR_1420    :{SMALLFONT}{BLACK}{LENGTH}
 STR_1421    :{SMALLFONT}{BLACK}{COMMA16}g
-STR_1422    :{SMALLFONT}{BLACK}Logging data from {POP16}{STRINGID}
-STR_1423    :{SMALLFONT}{BLACK}Queue line path
-STR_1424    :{SMALLFONT}{BLACK}Footpath
-STR_1425    :Footpath
-STR_1426    :Queue Line
-STR_1427    :{WINDOW_COLOUR_2}Customers: {BLACK}{COMMA32} per hour
-STR_1428    :{WINDOW_COLOUR_2}Admission price:
+STR_1422    :{SMALLFONT}{BLACK}Protokolado de datumoj de {POP16}{STRINGID}
+STR_1423    :{SMALLFONT}{BLACK}Atendovica vojo
+STR_1424    :{SMALLFONT}{BLACK}Trotuaro
+STR_1425    :Trotuaro
+STR_1426    :Atendovico
+STR_1427    :{WINDOW_COLOUR_2}Klientoj: po {BLACK}{COMMA32} por horo
+STR_1428    :{WINDOW_COLOUR_2}Enirokosto:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
-STR_1430    :Libera
-STR_1431    :Marŝanta
-STR_1432    :Direktiĝante al {STRINGID}
-STR_1433    :Viciĝante por {STRINGID}
-STR_1434    :Dronanta
+STR_1430    :Senkosta
+STR_1431    :Marŝas
+STR_1432    :Iras al {STRINGID}
+STR_1433    :Vicatendas {STRINGID}
+STR_1434    :Dronas
 STR_1435    :Sur {STRINGID}
 STR_1436    :En {STRINGID}
 STR_1437    :Ĉe {STRINGID}
-STR_1438    :Sidanta
-STR_1439    :(elekti pozicio)
-STR_1440    :Falĉante herbon
-STR_1441    :Balaante vojeton
-STR_1442    :Malplenigante rubujon
-STR_1443    :Akvumadante ĝardenojn
-STR_1444    :Spektanta {STRINGID}
-STR_1445    :Spektante konstruon de {STRINGID}
-STR_1446    :Rigardante pejzaĵon
-STR_1447    :Forirante la parkon
-STR_1448    :Spektante novan atrakcion konstruatan
+STR_1438    :Sidas
+STR_1439    :(elekti lokon)
+STR_1440    :Falĉas la herbon
+STR_1441    :Balaas trotuaron
+STR_1442    :Malplenigas rubujon
+STR_1443    :Akvumas ĝardenojn
+STR_1444    :Spektas {STRINGID}
+STR_1445    :Spektas la konstruon de {STRINGID}
+STR_1446    :Rigardas pejzaĵon
+STR_1447    :Foriras la parkon
+STR_1448    :Spektas novan atrakcion konstruatan
 STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
-STR_1452    :Guest's name
-STR_1453    :Enter name for this guest:
-STR_1454    :Can't name guest...
-STR_1455    :Invalid name for guest
-STR_1456    :{WINDOW_COLOUR_2}Cash spent: {BLACK}{CURRENCY2DP}
-STR_1457    :{WINDOW_COLOUR_2}Cash in pocket: {BLACK}{CURRENCY2DP}
-STR_1458    :{WINDOW_COLOUR_2}Time in park: {BLACK}{REALTIME}
-STR_1459    :Track style
-STR_1460    :{SMALLFONT}{BLACK}'U' shaped open track
-STR_1461    :{SMALLFONT}{BLACK}'O' shaped enclosed track
-STR_1462    :Too steep for lift hill
-STR_1463    :Guests
-STR_1464    :Helix up (small)
-STR_1465    :Helix up (large)
-STR_1466    :Helix down (small)
-STR_1467    :Helix down (large)
-STR_1468    :Staff
-STR_1469    :Ride must start and end with stations
-STR_1470    :Station not long enough
-STR_1471    :{WINDOW_COLOUR_2}Speed:
-STR_1472    :{SMALLFONT}{BLACK}Speed of this ride
-STR_1473    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1474    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}Not yet available
-STR_1475    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1476    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}Not yet available
-STR_1477    :{WINDOW_COLOUR_2}Intensity rating: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
-STR_1478    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1479    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}Not yet available
+STR_1452    :Nomo de la gasto
+STR_1453    :Entajpi la nomon de ĉi tiu gasto:
+STR_1454    :Ne eblas nomi la gaston...
+STR_1455    :Tiu gastonomo ne estas valida
+STR_1456    :{WINDOW_COLOUR_2}Kontanto elspezita: {BLACK}{CURRENCY2DP}
+STR_1457    :{WINDOW_COLOUR_2}Kontanto en la poŝo: {BLACK}{CURRENCY2DP}
+STR_1458    :{WINDOW_COLOUR_2}Daŭro en la parko: {BLACK}{REALTIME}
+STR_1459    :Trakstilo
+STR_1460    :{SMALLFONT}{BLACK}'U'-trakformo
+STR_1461    :{SMALLFONT}{BLACK}'O'-trakformo
+STR_1462    :Tro krute por liftparto
+STR_1463    :Gastoj
+STR_1464    :Kreska Helikso (malgranda)
+STR_1465    :Kreska Helikso (granda)
+STR_1466    :Malkreska Helikso (malgranda)
+STR_1467    :Malkreska Helikso (granda)
+STR_1468    :Laboristo
+STR_1469    :La atrakcio devas havi staciojn por ĝiaj komencejo kaj finejo
+STR_1470    :La stacio ne estas sufiĉe longa
+STR_1471    :{WINDOW_COLOUR_2}Rapideco:
+STR_1472    :{SMALLFONT}{BLACK}Rapideco de ĉi tiu atrakcio
+STR_1473    :{WINDOW_COLOUR_2}Pritakso de eksciteco: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1474    :{WINDOW_COLOUR_2}Pritakso de eksciteco: {BLACK}Ne disponeblas ĝis nun
+STR_1475    :{WINDOW_COLOUR_2}Pritakso de intenseco: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1476    :{WINDOW_COLOUR_2}Pritakso de intenseco: {BLACK}Ne disponeblas ĝis nun
+STR_1477    :{WINDOW_COLOUR_2}Pritakso de intenseco: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
+STR_1478    :{WINDOW_COLOUR_2}Pritakso de vomemeco: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1479    :{WINDOW_COLOUR_2}Pritakso de vomemeco: {BLACK}Ne disponeblas ĝis nun
 STR_1480    :{SMALLFONT}“Mi ne povas pagi por {STRINGID}”
 STR_1481    :{SMALLFONT}“Mi elspezis mian tutan monon”
 STR_1482    :{SMALLFONT}“Mi sentas min malsana”
