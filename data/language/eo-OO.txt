@@ -707,79 +707,79 @@ STR_1323    :Courses
 STR_1324    :{COMMA16} course
 STR_1325    :{COMMA16} courses
 STR_1326    :Course {COMMA16}
-STR_1327    :{SMALLFONT}{BLACK}Rotate objects by 90°
-STR_1328    :Level land required
-STR_1329    :{WINDOW_COLOUR_2}Launch speed:
-STR_1330    :{SMALLFONT}{BLACK}Maximum speed when leaving station
+STR_1327    :{SMALLFONT}{BLACK}Turni objektojn 90°
+STR_1328    :Ebena bieno estas necesita
+STR_1329    :{WINDOW_COLOUR_2}Rapideco de la lanĉo:
+STR_1330    :{SMALLFONT}{BLACK}Maksimuma ekveturada rapideco:
 STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_1332    :{VELOCITY}
 STR_1333    :{STRINGID} - {STRINGID}{POP16}
 STR_1334    :{STRINGID} - {STRINGID} {COMMA16}
-STR_1335    :{STRINGID} - Entrance{POP16}{POP16}
-STR_1336    :{STRINGID} - Station {POP16}{COMMA16} Entrance
-STR_1337    :{STRINGID} - Exit{POP16}{POP16}
-STR_1338    :{STRINGID} - Station {POP16}{COMMA16} Exit
-STR_1339    :{BLACK}No test results yet...
-STR_1340    :{WINDOW_COLOUR_2}Max. speed: {BLACK}{VELOCITY}
-STR_1341    :{WINDOW_COLOUR_2}Ride time: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
+STR_1335    :{STRINGID} - Enirejo{POP16}{POP16}
+STR_1336    :{STRINGID} - Enirejo de Stacio {POP16}{COMMA16}
+STR_1337    :{STRINGID} - Elirejo{POP16}{POP16}
+STR_1338    :{STRINGID} - Elirejo de Stacio {POP16}{COMMA16}
+STR_1339    :{BLACK}Neniuj testrezultoj ĝis nun...
+STR_1340    :{WINDOW_COLOUR_2}Maks. rapideco: {BLACK}{VELOCITY}
+STR_1341    :{WINDOW_COLOUR_2}Daŭro de la atrakcio: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
 STR_1343    :{DURATION} / 
-STR_1344    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
+STR_1344    :{WINDOW_COLOUR_2}Longeco de la atrakcio: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
 STR_1346    :{LENGTH} / 
-STR_1347    :{WINDOW_COLOUR_2}Average speed: {BLACK}{VELOCITY}
-STR_1348    :{WINDOW_COLOUR_2}Max. positive vertical G's: {BLACK}{COMMA2DP32}g
-STR_1349    :{WINDOW_COLOUR_2}Max. positive vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1350    :{WINDOW_COLOUR_2}Max. negative vertical G's: {BLACK}{COMMA2DP32}g
-STR_1351    :{WINDOW_COLOUR_2}Max. negative vertical G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1352    :{WINDOW_COLOUR_2}Max. lateral G's: {BLACK}{COMMA2DP32}g
-STR_1353    :{WINDOW_COLOUR_2}Max. lateral G's: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1354    :{WINDOW_COLOUR_2}Highest drop height: {BLACK}{LENGTH}
-STR_1355    :{WINDOW_COLOUR_2}Drops: {BLACK}{COMMA16}
-STR_1356    :{WINDOW_COLOUR_2}Inversions: {BLACK}{COMMA16}
-STR_1357    :{WINDOW_COLOUR_2}Holes: {BLACK}{COMMA16}
-STR_1358    :{WINDOW_COLOUR_2}Total 'air' time: {BLACK}{COMMA2DP32}secs
-STR_1359    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minute
-STR_1360    :{WINDOW_COLOUR_2}Queue time: {BLACK}{COMMA16} minutes
-STR_1361    :Can't change speed...
-STR_1362    :Can't change launch speed...
-STR_1363    :Too high for supports!
-STR_1364    :Supports for track above can't be extended any further!
-STR_1365    :In-line Twist (left)
-STR_1366    :In-line Twist (right)
-STR_1367    :Half Loop
-STR_1368    :Half Corkscrew (left)
-STR_1369    :Half Corkscrew (right)
-STR_1370    :Barrel Roll (left)
-STR_1371    :Barrel Roll (right)
-STR_1372    :Launched Lift Hill
-STR_1373    :Large Half Loop (left)
-STR_1374    :Large Half Loop (right)
-STR_1375    :Upper Transfer
-STR_1376    :Lower Transfer
-STR_1377    :Heartline Roll (left)
-STR_1378    :Heartline Roll (right)
-STR_1379    :Reverser (left)
-STR_1380    :Reverser (right)
-STR_1381    :Curved Lift Hill (left)
-STR_1382    :Curved Lift Hill (right)
-STR_1383    :Quarter Loop
+STR_1347    :{WINDOW_COLOUR_2}Meznombra rapideco: {BLACK}{VELOCITY}
+STR_1348    :{WINDOW_COLOUR_2}Maks. pozitiva vertikala graviteco: {BLACK}{COMMA2DP32}g
+STR_1349    :{WINDOW_COLOUR_2}Maks. pozitiva vertikala graviteco: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1350    :{WINDOW_COLOUR_2}Maks. negativa vertikala graviteco: {BLACK}{COMMA2DP32}g
+STR_1351    :{WINDOW_COLOUR_2}Maks. negativa vertikala graviteco: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1352    :{WINDOW_COLOUR_2}Maks. flanka graviteco: {BLACK}{COMMA2DP32}g
+STR_1353    :{WINDOW_COLOUR_2}Maks. flanka graviteco: {OUTLINE}{RED}{COMMA2DP32}g
+STR_1354    :{WINDOW_COLOUR_2}Alteco de la plej alta falo: {BLACK}{LENGTH}
+STR_1355    :{WINDOW_COLOUR_2}Faloj: {BLACK}{COMMA16}
+STR_1356    :{WINDOW_COLOUR_2}Inversigoj: {BLACK}{COMMA16}
+STR_1357    :{WINDOW_COLOUR_2}Truoj: {BLACK}{COMMA16}
+STR_1358    :{WINDOW_COLOUR_2}Tuta 'en-aero' tempo: {BLACK}{COMMA2DP32}secs
+STR_1359    :{WINDOW_COLOUR_2}Vicatendada daŭro: {BLACK}{COMMA16} minuto
+STR_1360    :{WINDOW_COLOUR_2}Vicatendada daŭro: {BLACK}{COMMA16} minutoj
+STR_1361    :Ne eblas ŝanĝi la rapidecon...
+STR_1362    :Ne eblas ŝanĝi la rapidecon de la lanĉo...
+STR_1363    :Tro alta por apogiloj!
+STR_1364    :Apogiloj por la trako supera ne eblas esti etenditaj pli!
+STR_1365    :Ĉirkaŭtraka Rulo (left)
+STR_1366    :Ĉirkaŭtraka Rulo (right)
+STR_1367    :Duona Buklo
+STR_1368    :Duona Korktirilo (maldekstre)
+STR_1369    :Duona Korktirilo (dekstre)
+STR_1370    :Barelforma Rulo (maldekstre)
+STR_1371    :Barelforma Rulo (dekstre)
+STR_1372    :Lanĉanta Liftparto
+STR_1373    :Granda Duona Buklo (maldekstre)
+STR_1374    :Granda Duona Buklo (dekstre)
+STR_1375    :Supra Transportilo
+STR_1376    :Malsupra Transportilo
+STR_1377    :Ĉe-Kora Rulo (maldekstre)
+STR_1378    :Ĉe-Kora Rulo (dekstre)
+STR_1379    :Renversilo (maldekstre)
+STR_1380    :Renversilo (dekstre)
+STR_1381    :Kurba Liftparto (maldekstre)
+STR_1382    :Kurba Liftparto (dekstre)
+STR_1383    :Kvarona Buklo
 STR_1384    :{YELLOW}{STRINGID}
-STR_1385    :{SMALLFONT}{BLACK}Other track configurations
-STR_1386    :Special...
-STR_1387    :Can't change land type...
+STR_1385    :{SMALLFONT}{BLACK}Aliaj trakfiguroj
+STR_1386    :Specialaĵoj...
+STR_1387    :Ne eblas ŝanĝi la tipon de la bieno...
 STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
 STR_1390    :{CURRENCY2DP}
 STR_1391    :{RED}{CURRENCY2DP}
-STR_1392    :{SMALLFONT}{BLACK}View of ride/attraction
-STR_1393    :{SMALLFONT}{BLACK}Vehicle details and options
-STR_1394    :{SMALLFONT}{BLACK}Operating options
-STR_1395    :{SMALLFONT}{BLACK}Maintenance options
-STR_1396    :{SMALLFONT}{BLACK}Colour scheme options
-STR_1397    :{SMALLFONT}{BLACK}Sound & music options
-STR_1398    :{SMALLFONT}{BLACK}Measurements and test data
-STR_1399    :{SMALLFONT}{BLACK}Graphs
+STR_1392    :{SMALLFONT}{BLACK}Vido de la atrakcio
+STR_1393    :{SMALLFONT}{BLACK}Agordoj kaj detaloj de veturilo
+STR_1394    :{SMALLFONT}{BLACK}Agordoj de funkciado
+STR_1395    :{SMALLFONT}{BLACK}Agordoj de prizorgado
+STR_1396    :{SMALLFONT}{BLACK}Agordoj de kolorskemo
+STR_1397    :{SMALLFONT}{BLACK}Agordoj de sono kaj muziko
+STR_1398    :{SMALLFONT}{BLACK}Mezuroj kaj testdatenoj
+STR_1399    :{SMALLFONT}{BLACK}Diagramoj
 STR_1400    :Entrance
 STR_1401    :Exit
 STR_1402    :{SMALLFONT}{BLACK}Build or move entrance to ride/attraction
