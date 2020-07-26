@@ -510,8 +510,8 @@ STR_1126    :Haltas
 STR_1127    :Malŝarĝas pasaĝerojn
 STR_1128    :Haltita per bremsoj de blokparto
 STR_1129    :Ĉiuj veturiloj havas la saman koloron
-STR_1130    :Malsamaj koloroj po {STRINGID}
-STR_1131    :Malsamaj koloroj po veturilo
+STR_1130    :Malsamaj koloroj por ĉiu {STRINGID}
+STR_1131    :Malsamaj koloroj por ĉiu veturilo
 STR_1132    :Veturilo {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1133    :Veturilo {POP16}{COMMA16}
 STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
@@ -719,7 +719,7 @@ STR_1335    :{STRINGID} - Enirejo{POP16}{POP16}
 STR_1336    :{STRINGID} - Enirejo de Stacio {POP16}{COMMA16}
 STR_1337    :{STRINGID} - Elirejo{POP16}{POP16}
 STR_1338    :{STRINGID} - Elirejo de Stacio {POP16}{COMMA16}
-STR_1339    :{BLACK}Neniuj testrezultoj ĝis nun...
+STR_1339    :{BLACK}Neniuj testrezultoj ankoraŭ...
 STR_1340    :{WINDOW_COLOUR_2}Maks. rapideco: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Daŭro de la atrakcio: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
@@ -854,12 +854,12 @@ STR_1470    :La stacio ne estas sufiĉe longa
 STR_1471    :{WINDOW_COLOUR_2}Rapideco:
 STR_1472    :{SMALLFONT}{BLACK}Rapideco de ĉi tiu atrakcio
 STR_1473    :{WINDOW_COLOUR_2}Pritakso de eksciteco: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1474    :{WINDOW_COLOUR_2}Pritakso de eksciteco: {BLACK}Ne disponeblas ĝis nun
+STR_1474    :{WINDOW_COLOUR_2}Pritakso de eksciteco: {BLACK}Ne disponeblas ankoraŭ
 STR_1475    :{WINDOW_COLOUR_2}Pritakso de intenseco: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1476    :{WINDOW_COLOUR_2}Pritakso de intenseco: {BLACK}Ne disponeblas ĝis nun
+STR_1476    :{WINDOW_COLOUR_2}Pritakso de intenseco: {BLACK}Ne disponeblas ankoraŭ
 STR_1477    :{WINDOW_COLOUR_2}Pritakso de intenseco: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
 STR_1478    :{WINDOW_COLOUR_2}Pritakso de vomemeco: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1479    :{WINDOW_COLOUR_2}Pritakso de vomemeco: {BLACK}Ne disponeblas ĝis nun
+STR_1479    :{WINDOW_COLOUR_2}Pritakso de vomemeco: {BLACK}Ne disponeblas ankoraŭ
 STR_1480    :{SMALLFONT}“Mi ne povas pagi por {STRINGID}”
 STR_1481    :{SMALLFONT}“Mi elspezis mian tutan monon”
 STR_1482    :{SMALLFONT}“Mi sentas min malsana”
@@ -1049,7 +1049,7 @@ STR_1667    :{WINDOW_COLOUR_2}Bezonas necesejon:
 STR_1668    :{WINDOW_COLOUR_2}Kontento: {BLACK}Nekonata
 STR_1669    :{WINDOW_COLOUR_2}Kontento: {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}Totalaj klientoj: {BLACK}{COMMA32}
-STR_1671    :{WINDOW_COLOUR_2}Totala gajno: {BLACK}{CURRENCY2DP}
+STR_1671    :{WINDOW_COLOUR_2}Totala profito: {BLACK}{CURRENCY2DP}
 STR_1672    :Bremsoj
 STR_1673    :Turnadokontrolista Baskulotrakparto
 STR_1674    :Rapideco de bremsoj
@@ -1147,8 +1147,8 @@ STR_1768    :Ne eblas ŝanĝi la nombron de svingoj...
 STR_1769    :{WINDOW_COLOUR_2}Nombro de svingoj:
 STR_1770    :{SMALLFONT}{BLACK}Nombro de plenaj svingoj
 STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1773    :Nur unu sur-atrakcia fotoparto permesita po atrakcio
-STR_1774    :Nur unu kablolifta monteto permesita po atrakcio
+STR_1773    :Nur unu sur-atrakcia fotoparto permesita por la atrakcio
+STR_1774    :Nur unu kablolifta monteto permesita por la atrakcio
 STR_1777    :Muziko de la atrakcio
 STR_1778    :{STRINGID} - - 
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Panda kostumo
@@ -1171,103 +1171,103 @@ STR_1795    :Respondi al radiovoko
 STR_1796    :Rompita kaj bezonas riparon
 STR_1798    :Akvoturno
 STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
-STR_1800    :Safety cut-out
-STR_1801    :Restraints stuck closed
-STR_1802    :Restraints stuck open
-STR_1803    :Doors stuck closed
-STR_1804    :Doors stuck open
-STR_1805    :Vehicle malfunction
-STR_1806    :Brakes failure
-STR_1807    :Control failure
-STR_1808    :{WINDOW_COLOUR_2}Last breakdown: {BLACK}{STRINGID}
-STR_1809    :{WINDOW_COLOUR_2}Current breakdown: {OUTLINE}{RED}{STRINGID}
-STR_1810    :{WINDOW_COLOUR_2}Carrying:
-STR_1811    :Can't build this here...
+STR_1800    :Kriza malŝaltado
+STR_1801    :Sekurzonoj ne eblas malŝlosiĝi
+STR_1802    :Sekurzonoj ne eblas ŝlosiĝi
+STR_1803    :Pordoj ne eblas malfermi
+STR_1804    :Pordoj ne eblas fermi
+STR_1805    :Paneo de veturilo
+STR_1806    :Paneo de bremsoj
+STR_1807    :Paneo de regulilo
+STR_1808    :{WINDOW_COLOUR_2}Lasta paneo: {BLACK}{STRINGID}
+STR_1809    :{WINDOW_COLOUR_2}Aktuala paneo: {OUTLINE}{RED}{STRINGID}
+STR_1810    :{WINDOW_COLOUR_2}Portas:
+STR_1811    :Ne eblas konstrui tion ĉi tie...
 STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
-STR_1813    :Miscellaneous Objects
-STR_1814    :Actions
-STR_1815    :Thoughts
-STR_1816    :{SMALLFONT}{BLACK}Select information type to show in guest list
+STR_1813    :Diversaĵoj
+STR_1814    :Agadoj
+STR_1815    :Pensoj
+STR_1816    :{SMALLFONT}{BLACK}Elekti la tipon de informoj por montri en la gastlisto
 STR_1817    :({COMMA32})
-STR_1818    :{WINDOW_COLOUR_2}All guests
-STR_1819    :{WINDOW_COLOUR_2}All guests (summarised)
-STR_1820    :{WINDOW_COLOUR_2}Guests {STRINGID}
-STR_1821    :{WINDOW_COLOUR_2}Guests thinking {STRINGID}
-STR_1822    :{WINDOW_COLOUR_2}Guests thinking about {POP16}{STRINGID}
-STR_1823    :{SMALLFONT}{BLACK}Show guests' thoughts about this ride/attraction
-STR_1824    :{SMALLFONT}{BLACK}Show guests on this ride/attraction
-STR_1825    :{SMALLFONT}{BLACK}Show guests queuing for this ride/attraction
-STR_1826    :Status
-STR_1827    :Popularity
-STR_1828    :Satisfaction
-STR_1829    :Profit
-STR_1830    :Queue length
-STR_1831    :Queue time
-STR_1832    :Reliability
-STR_1833    :Down-time
-STR_1834    :Guests favourite
-STR_1835    :Popularity: Unknown
-STR_1836    :Popularity: {COMMA16}%
-STR_1837    :Satisfaction: Unknown
-STR_1838    :Satisfaction: {COMMA16}%
-STR_1839    :Reliability: {COMMA16}%
-STR_1840    :Down-time: {COMMA16}%
-STR_1841    :Profit: {CURRENCY2DP} per hour
-STR_1842    :Favourite of: {COMMA16} guest
-STR_1843    :Favourite of: {COMMA16} guests
-STR_1844    :{SMALLFONT}{BLACK}Select information type to show in ride/attraction list
+STR_1818    :{WINDOW_COLOUR_2}Ĉiuj gastoj
+STR_1819    :{WINDOW_COLOUR_2}Ĉiuj gastoj (resumitaj)
+STR_1820    :{WINDOW_COLOUR_2}Gastoj {STRINGID}
+STR_1821    :{WINDOW_COLOUR_2}Gastoj, kiuj pensas {STRINGID}
+STR_1822    :{WINDOW_COLOUR_2}Gastoj pensantaj pri {POP16}{STRINGID}
+STR_1823    :{SMALLFONT}{BLACK}Montri la pensojn de gastoj pri ĉi tiu atrakcio
+STR_1824    :{SMALLFONT}{BLACK}Montri la gastojn en ĉi tiu atrakcio
+STR_1825    :{SMALLFONT}{BLACK}Montri la gastojn, kiuj vicatendas ĉi tiun atrakcion
+STR_1826    :Stato
+STR_1827    :Populareco
+STR_1828    :Kontento
+STR_1829    :Profito
+STR_1830    :Longeco de la atendovico
+STR_1831    :Daŭro de la vicatendado
+STR_1832    :Fidindo
+STR_1833    :Periodo de nefunkciado
+STR_1834    :Favorato de ĉi tiom gastoj
+STR_1835    :Populareco: Nekonata
+STR_1836    :Populareco: {COMMA16}%
+STR_1837    :Kontento: Nekonata
+STR_1838    :Kontento: {COMMA16}%
+STR_1839    :Fidindo: {COMMA16}%
+STR_1840    :Periodo de nefunkciado: {COMMA16}%
+STR_1841    :Profito: po {CURRENCY2DP} por horo
+STR_1842    :Favorato de: {COMMA16} gasto
+STR_1843    :Favorato de: {COMMA16} gastoj
+STR_1844    :{SMALLFONT}{BLACK}Elekti la tipon de informoj por montri en la listo de atrakcioj
 STR_1845    :{MONTHYEAR}
-STR_1846    :{COMMA32} guests
-STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA32} guests
-STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA32} guests
-STR_1849    :{WINDOW_COLOUR_2}Play music
-STR_1850    :{SMALLFONT}{BLACK}Select whether music should be played for this ride
-STR_1851    :{WINDOW_COLOUR_2}Running cost: {BLACK}{CURRENCY2DP} per hour
-STR_1852    :{WINDOW_COLOUR_2}Running cost: {BLACK}Unknown
-STR_1853    :{WINDOW_COLOUR_2}Built: {BLACK}This Year
-STR_1854    :{WINDOW_COLOUR_2}Built: {BLACK}Last Year
-STR_1855    :{WINDOW_COLOUR_2}Built: {BLACK}{COMMA16} Years Ago
-STR_1856    :{WINDOW_COLOUR_2}Profit per item sold: {BLACK}{CURRENCY2DP}
-STR_1857    :{WINDOW_COLOUR_2}Loss per item sold: {BLACK}{CURRENCY2DP}
-STR_1858    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY2DP} per month
-STR_1859    :Handymen
-STR_1860    :Mechanics
-STR_1861    :Security Guards
-STR_1862    :Entertainers
-STR_1863    :Handyman
-STR_1864    :Mechanic
-STR_1865    :Security Guard
-STR_1866    :Entertainer
+STR_1846    :{COMMA32} gastoj
+STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA32} gastoj
+STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA32} gastoj
+STR_1849    :{WINDOW_COLOUR_2}Ludi muzikon
+STR_1850    :{SMALLFONT}{BLACK}Elekti ĉu la muziko ludas por ĉi tiu atrakcio
+STR_1851    :{WINDOW_COLOUR_2}Kosto por funkciado: po {BLACK}{CURRENCY2DP} por horo
+STR_1852    :{WINDOW_COLOUR_2}Kosto por funkciado: {BLACK}Nekonata
+STR_1853    :{WINDOW_COLOUR_2}Konstruita: {BLACK}Ĉi tiu jaro
+STR_1854    :{WINDOW_COLOUR_2}Konstruita: {BLACK}La pasinta jaro
+STR_1855    :{WINDOW_COLOUR_2}Konstruita: Ankaŭ {BLACK}{COMMA16} jaroj
+STR_1856    :{WINDOW_COLOUR_2}Profito por ĉiu ero vendita: {BLACK}{CURRENCY2DP}
+STR_1857    :{WINDOW_COLOUR_2}Malprofito por ĉiu ero vendita: {BLACK}{CURRENCY2DP}
+STR_1858    :{WINDOW_COLOUR_2}Kosto: po {BLACK}{CURRENCY2DP} por monato
+STR_1859    :Asistantoj
+STR_1860    :Mekanikistoj
+STR_1861    :Sekurigaj Oficistoj
+STR_1862    :Amuzistoj
+STR_1863    :Asistanto
+STR_1864    :Mekanikisto
+STR_1865    :Sekuriga Oficisto
+STR_1866    :Amuzisto
 STR_1867    :{BLACK}{COMMA16} {STRINGID}
-STR_1868    :Can't change number of rotations...
-STR_1869    :{WINDOW_COLOUR_2}Number of rotations:
-STR_1870    :{SMALLFONT}{BLACK}Number of complete rotations
+STR_1868    :Ne eblas ŝanĝi la nombron de turnoj...
+STR_1869    :{WINDOW_COLOUR_2}Nombro de turnoj:
+STR_1870    :{SMALLFONT}{BLACK}Nombro de plenaj turnoj
 STR_1871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1873    :{WINDOW_COLOUR_2}Income: {BLACK}{CURRENCY2DP} per hour
-STR_1874    :{WINDOW_COLOUR_2}Profit: {BLACK}{CURRENCY2DP} per hour
+STR_1873    :{WINDOW_COLOUR_2}Enspezo: po {BLACK}{CURRENCY2DP} por horo
+STR_1874    :{WINDOW_COLOUR_2}Profito: po {BLACK}{CURRENCY2DP} por horo
 STR_1875    :{BLACK} {SPRITE}{BLACK} {STRINGID}
-STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Inspect Rides
-STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Fix Rides
-STR_1878    :{WINDOW_COLOUR_2}Inspection:
-STR_1879    :Every 10 minutes
-STR_1880    :Every 20 minutes
-STR_1881    :Every 30 minutes
-STR_1882    :Every 45 minutes
-STR_1883    :Every hour
-STR_1884    :Every 2 hours
-STR_1885    :Never
-STR_1886    :Inspecting {STRINGID}
-STR_1887    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}{COMMA16} minutes
-STR_1888    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}more than 4 hours
-STR_1889    :{WINDOW_COLOUR_2}Down-Time: {MOVE_X}{255}{BLACK}{COMMA16}%
-STR_1890    :{SMALLFONT}{BLACK}Select how often a mechanic should check this ride
-STR_1891    :No {STRINGID} in park yet!
-STR_1894    :{WINDOW_COLOUR_2}{STRINGID} sold: {BLACK}{COMMA32}
-STR_1895    :{SMALLFONT}{BLACK}Build new ride/attraction
-STR_1896    :{WINDOW_COLOUR_2}Expenditure/Income
-STR_1897    :{WINDOW_COLOUR_2}Ride construction
-STR_1898    :{WINDOW_COLOUR_2}Ride running costs
-STR_1899    :{WINDOW_COLOUR_2}Land purchase
+STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Inspekti Atrakciojn
+STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Ripari Atrakciojn
+STR_1878    :{WINDOW_COLOUR_2}Inspekti:
+STR_1879    :Post ĉiu 10 minutoj
+STR_1880    :Post ĉiu 20 minutoj
+STR_1881    :Post ĉiu 30 minutoj
+STR_1882    :Post ĉiu 45 minutoj
+STR_1883    :Post ĉiu horo
+STR_1884    :Post ĉiu 2 horoj
+STR_1885    :Neniam
+STR_1886    :Inspektas {STRINGID}
+STR_1887    :{WINDOW_COLOUR_2}Daŭro de la lasta inspekto: {BLACK}{COMMA16} minutoj
+STR_1888    :{WINDOW_COLOUR_2}Daŭro de la lasta inspekto: {BLACK}pli ol 4 horoj
+STR_1889    :{WINDOW_COLOUR_2}Periodo de nefunkciado: {MOVE_X}{255}{BLACK}{COMMA16}%
+STR_1890    :{SMALLFONT}{BLACK}Elekti kiel ofte mekanikisto kontrolas ĉi tiun atrakcion
+STR_1891    :Neniu {STRINGID} ankoraŭ estas en la parko!
+STR_1894    :{WINDOW_COLOUR_2}{STRINGID} venditaj: {BLACK}{COMMA32}
+STR_1895    :{SMALLFONT}{BLACK}Konstrui novan atrakcion
+STR_1896    :{WINDOW_COLOUR_2}Elspezo/Enspezo
+STR_1897    :{WINDOW_COLOUR_2}Konstruado de atrakcio
+STR_1898    :{WINDOW_COLOUR_2}Kostoj por funkciigi atrakciojn
+STR_1899    :{WINDOW_COLOUR_2}Aĉetoj de la bieno
 STR_1900    :{WINDOW_COLOUR_2}Landscaping
 STR_1901    :{WINDOW_COLOUR_2}Park entrance tickets
 STR_1902    :{WINDOW_COLOUR_2}Ride tickets
