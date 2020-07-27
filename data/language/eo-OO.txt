@@ -1168,7 +1168,7 @@ STR_1792    :Reagas al la paneo de {STRINGID}
 STR_1793    :Iras al {STRINGID} por inspekti ĝin
 STR_1794    :Riparas je {STRINGID}
 STR_1795    :Respondi al radiovoko
-STR_1796    :Rompita kaj bezonas riparon
+STR_1796    :Paneita kaj bezonas riparon
 STR_1798    :Akvoturno
 STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1800    :Kriza malŝaltado
@@ -1268,65 +1268,65 @@ STR_1896    :{WINDOW_COLOUR_2}Elspezo/Enspezo
 STR_1897    :{WINDOW_COLOUR_2}Konstruado de atrakcio
 STR_1898    :{WINDOW_COLOUR_2}Kostoj por funkciigi atrakciojn
 STR_1899    :{WINDOW_COLOUR_2}Aĉetoj de la bieno
-STR_1900    :{WINDOW_COLOUR_2}Landscaping
-STR_1901    :{WINDOW_COLOUR_2}Park entrance tickets
-STR_1902    :{WINDOW_COLOUR_2}Ride tickets
-STR_1903    :{WINDOW_COLOUR_2}Shop sales
-STR_1904    :{WINDOW_COLOUR_2}Shop stock
-STR_1905    :{WINDOW_COLOUR_2}Food/drink sales
-STR_1906    :{WINDOW_COLOUR_2}Food/drink stock
-STR_1907    :{WINDOW_COLOUR_2}Staff wages
-STR_1908    :{WINDOW_COLOUR_2}Marketing
-STR_1909    :{WINDOW_COLOUR_2}Research
-STR_1910    :{WINDOW_COLOUR_2}Loan interest
-STR_1911    :{BLACK} at {COMMA16}% per year
+STR_1900    :{WINDOW_COLOUR_2}Ŝanĝado de la pejzaĝo
+STR_1901    :{WINDOW_COLOUR_2}Biletoj por parkeniro
+STR_1902    :{WINDOW_COLOUR_2}Biletoj por atrakcioj
+STR_1903    :{WINDOW_COLOUR_2}Vendoj de budoj
+STR_1904    :{WINDOW_COLOUR_2}Stokoj de budoj
+STR_1905    :{WINDOW_COLOUR_2}Vendoj de manĝaĵoj/trinkaĵoj
+STR_1906    :{WINDOW_COLOUR_2}Stokoj de manĝaĵoj/trinkaĵoj
+STR_1907    :{WINDOW_COLOUR_2}Salajroj de laboristoj
+STR_1908    :{WINDOW_COLOUR_2}Merkatado
+STR_1909    :{WINDOW_COLOUR_2}Esplorado
+STR_1910    :{WINDOW_COLOUR_2}Pruntinterezo
+STR_1911    :{BLACK} po {COMMA16}% por jaro
 STR_1912    :{MONTH}
 STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
-STR_1916    :{WINDOW_COLOUR_2}Loan:
+STR_1916    :{WINDOW_COLOUR_2}Prunto:
 STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
-STR_1918    :Can't borrow any more money!
-STR_1919    :Not enough cash available!
-STR_1920    :Can't pay back loan!
-STR_1921    :{SMALLFONT}{BLACK}Start a new game
-STR_1922    :{SMALLFONT}{BLACK}Continue playing a saved game
-STR_1924    :{SMALLFONT}{BLACK}Exit
-STR_1925    :Can't place person here...
+STR_1918    :Ne eblas prunti pli da monoj!
+STR_1919    :La monosumo ne sufiĉas!
+STR_1920    :Ne eblas repagi la prunton!
+STR_1921    :{SMALLFONT}{BLACK}Komenci novan ludon
+STR_1922    :{SMALLFONT}{BLACK}Daŭrigi ludi konservitan ludon
+STR_1924    :{SMALLFONT}{BLACK}Eliri
+STR_1925    :Ne eblas meti la homon ĉi tie...
 STR_1926    :{SMALLFONT}
-STR_1927    :{YELLOW}{STRINGID} has broken down
-STR_1928    :{RED}{STRINGID} has crashed!
-STR_1929    :{RED}{STRINGID} still hasn't been fixed{NEWLINE}Check where your mechanics are and consider organizing them better
-STR_1930    :{SMALLFONT}{BLACK}Turn on/off tracking information for this guest - (If tracking is on, guest's movements will be reported in the message area)
-STR_1931    :{STRINGID} has joined the queue line for {STRINGID}
-STR_1932    :{STRINGID} is on {STRINGID}
-STR_1933    :{STRINGID} is in {STRINGID}
-STR_1934    :{STRINGID} has left {STRINGID}
-STR_1935    :{STRINGID} has left the park
-STR_1936    :{STRINGID} has bought {STRINGID}
-STR_1937    :{SMALLFONT}{BLACK}Show information about the subject of this message
-STR_1938    :{SMALLFONT}{BLACK}Show view of guest
-STR_1939    :{SMALLFONT}{BLACK}Show view of staff member
-STR_1940    :{SMALLFONT}{BLACK}Show happiness, energy, hunger etc. for this guest
-STR_1941    :{SMALLFONT}{BLACK}Show which rides this guest has been on
-STR_1942    :{SMALLFONT}{BLACK}Show financial information about this guest
-STR_1943    :{SMALLFONT}{BLACK}Show guest's recent thoughts
-STR_1944    :{SMALLFONT}{BLACK}Show items guest is carrying
-STR_1945    :{SMALLFONT}{BLACK}Show orders and options for this staff member
-STR_1946    :{SMALLFONT}{BLACK}Select costume for this entertainer
-STR_1947    :{SMALLFONT}{BLACK}Show areas patrolled by selected staff type, and locate the nearest staff member
-STR_1948    :{SMALLFONT}{BLACK}Hire a new staff member of the selected type
-STR_1949    :Financial Summary
-STR_1950    :Financial Graph
-STR_1951    :Park Value Graph
-STR_1952    :Profit Graph
-STR_1953    :Marketing
-STR_1954    :Research Funding
-STR_1955    :{WINDOW_COLOUR_2}Number of circuits:
-STR_1956    :{SMALLFONT}{BLACK}Number of circuits of track per ride
+STR_1927    :{YELLOW}{STRINGID} paneis
+STR_1928    :{RED}{STRINGID} koliziis!
+STR_1929    :{RED}{STRINGID} ankoraŭ ne estis riparita{NEWLINE}Kontrolu kie viaj mekanikistoj troviĝas, kaj eble organizu ilin pli bone
+STR_1930    :{SMALLFONT}{BLACK}Ŝalti/malŝalti informojn de spurado por ĉi tiu gasto - (Se la spurado estas ŝaltita, la movoj de la gasto aperos en la mesaĝzono)
+STR_1931    :{STRINGID} aliĝis al la atendovico de {STRINGID}
+STR_1932    :{STRINGID} estas sur {STRINGID}
+STR_1933    :{STRINGID} estas en {STRINGID}
+STR_1934    :{STRINGID} foriris el {STRINGID}
+STR_1935    :{STRINGID} foriris el la parko
+STR_1936    :{STRINGID} aĉetis je {STRINGID}
+STR_1937    :{SMALLFONT}{BLACK}Montri informojn pri la subjekto de ĉi tiu mesaĝo
+STR_1938    :{SMALLFONT}{BLACK}Montri vidon de la gasto
+STR_1939    :{SMALLFONT}{BLACK}Montri vidon de la laboristo
+STR_1940    :{SMALLFONT}{BLACK}Montri la feliĉecon, la energion, la malsatecon, ktp. de ĉi tiu gasto
+STR_1941    :{SMALLFONT}{BLACK}Montri kiujn atrakciojn ĉi tiu gasto vizitis
+STR_1942    :{SMALLFONT}{BLACK}Montri la financajn informojn de ĉi tiu gasto
+STR_1943    :{SMALLFONT}{BLACK}Montri la lastajn pensojn de ĉi tiu gasto
+STR_1944    :{SMALLFONT}{BLACK}Montri la aferojn, kiujn la gasto portas
+STR_1945    :{SMALLFONT}{BLACK}Montri la komandojn kaj agordojn por ĉi tiu laboristo
+STR_1946    :{SMALLFONT}{BLACK}Elekti la kostumon de ĉi tiu amuzisto
+STR_1947    :{SMALLFONT}{BLACK}Montri la zonojn patrolatajn de la elektita laboristotipo, kaj trovi la plej proksiman laboriston
+STR_1948    :{SMALLFONT}{BLACK}Dungi novan laboriston de la elektita tipo
+STR_1949    :Resumo de la Financoj
+STR_1950    :Diagramo de la Financoj
+STR_1951    :Diagramo de la Parkvaloro
+STR_1952    :Diagramo de la Profito
+STR_1953    :Merkatado
+STR_1954    :Financado por Esplorado
+STR_1955    :{WINDOW_COLOUR_2}Nombro de etapoj:
+STR_1956    :{SMALLFONT}{BLACK}Nombro de etapoj ĉirkau la trako por ĉiu rajdo
 STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1958    :{COMMA16}
-STR_1959    :Can't change number of circuits...
+STR_1959    :Ne eblas ŝanĝi la nombron de etapoj...
 STR_1960    :{WINDOW_COLOUR_2}Prezo de Balono:
 STR_1961    :{WINDOW_COLOUR_2}Prezo de Pluŝludilo:
 STR_1962    :{WINDOW_COLOUR_2}Prezo de Mapo de la Parko:
