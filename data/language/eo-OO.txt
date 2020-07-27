@@ -380,7 +380,7 @@ STR_0996    :Tuta vido
 STR_0997    :{SMALLFONT}{BLACK}Vidi elekto
 STR_0998    :Ne permesi pli da stacioj por ĉi tiu atrakcio
 STR_0999    :Bezonas staciplatformon
-STR_1000    :La trako ne estas kompleta kanalo
+STR_1000    :La trako ne estas kompleta cirkvito
 STR_1001    :La trako ne taŭgas tian trajnon
 STR_1002    :Ne eblas malfermi {POP16}{POP16}{POP16}{STRINGID}...
 STR_1003    :Ne eblas elprovi {POP16}{POP16}{POP16}{STRINGID}...
@@ -442,7 +442,7 @@ STR_1058    :Renomi ĉi tiun atrakcion:
 STR_1059    :Ne eblas renomi la atrakcion...
 STR_1060    :Nevalida nomo de atrakcio
 STR_1061    :Maniero norma
-STR_1062    :Maniero de fermita vojo
+STR_1062    :Maniero de fermita cirkvito
 STR_1063    :Maniero de lanĉo kun renversita deklivo
 STR_1064    :Forta lanĉo (trapasas la stacion)
 STR_1065    :Maniero prama
@@ -465,7 +465,7 @@ STR_1081    :3D filmo: “Musvostoj”
 STR_1082    :Maniero de giroskopegoj
 STR_1083    :Maniero de komencantoj
 STR_1084    :Lanĉo per linearaj induktaj motoroj
-STR_1085    :Filmo: “Rajdantoj de ekscitaĵo”
+STR_1085    :Filmo: “Rajdantoj de la ekscitaĵo”
 STR_1086    :3D filmo: “Ŝtormĉasistoj”
 STR_1087    :3D filmo: “Kosmomarodisto”
 STR_1088    :Maniero intensa
@@ -475,7 +475,7 @@ STR_1091    :Maniero cirka
 STR_1092    :Lanĉo malkreska
 STR_1093    :Maniero de malrekta domo
 STR_1094    :Maniero de libera falo
-STR_1095    :Maniero de fermita vojo kun blokpartoj
+STR_1095    :Maniero de fermita cirkvito kun blokpartoj
 STR_1096    :Forta lanĉo (ne trapasas la stacion)
 STR_1097    :Forta lanĉo kun blokpartoj
 STR_1098    :Movas al la fino de {POP16}{STRINGID}
@@ -591,8 +591,8 @@ STR_1207    :{WINDOW_COLOUR_2}Ekveturi se alia trajno alveturas al la stacio
 STR_1208    :{WINDOW_COLOUR_2}Ekveturi se alia boato alveturas al la stacio
 STR_1209    :{SMALLFONT}{BLACK}Elekti ĉu la veturilo atendas pasaĝeron antaŭ la ekveturado
 STR_1210    :{SMALLFONT}{BLACK}Elekti ĉu la veturilo ekveturas se alia veturilo alveturas al la sama stacio
-STR_1211    :{WINDOW_COLOUR_2}La minimuma tempo por atendi:
-STR_1212    :{WINDOW_COLOUR_2}La maksimuma tempo por atendi:
+STR_1211    :{WINDOW_COLOUR_2}La minimuma daŭro por atendi:
+STR_1212    :{WINDOW_COLOUR_2}La maksimuma daŭro por atendi:
 STR_1213    :{SMALLFONT}{BLACK}Elekti la minimuma longeco de tempo por atendi antaŭ la ekveturado
 STR_1214    :{SMALLFONT}{BLACK}Elekti la maksimuma longeco de tempo por atendi antaŭ la ekveturado
 STR_1215    :{WINDOW_COLOUR_2}Sinkronigi kun apudaj stacioj
@@ -738,7 +738,7 @@ STR_1354    :{WINDOW_COLOUR_2}Alteco de la plej alta malleviĝo: {BLACK}{LENGTH}
 STR_1355    :{WINDOW_COLOUR_2}Malleviĝoj: {BLACK}{COMMA16}
 STR_1356    :{WINDOW_COLOUR_2}Inversigoj: {BLACK}{COMMA16}
 STR_1357    :{WINDOW_COLOUR_2}Truoj: {BLACK}{COMMA16}
-STR_1358    :{WINDOW_COLOUR_2}Tuta 'en-aero' tempo: {BLACK}{COMMA2DP32}secs
+STR_1358    :{WINDOW_COLOUR_2}Tuta 'en-aera' daŭro: {BLACK}{COMMA2DP32} sekundoj
 STR_1359    :{WINDOW_COLOUR_2}Vicatendada daŭro: {BLACK}{COMMA16} minuto
 STR_1360    :{WINDOW_COLOUR_2}Vicatendada daŭro: {BLACK}{COMMA16} minutoj
 STR_1361    :Ne eblas ŝanĝi la rapidecon...
@@ -885,12 +885,12 @@ STR_1501    :{SMALLFONT}“Mi estas soifa”
 STR_1502    :{SMALLFONT}“Mi bezonas iri al la necesejo”
 STR_1503    :{SMALLFONT}“Mi ne povas trovi je {STRINGID}”
 STR_1504    :{SMALLFONT}“Mi ne pagas tiom por uzi je {STRINGID}”
-STR_1505    :{SMALLFONT}“Mi ne rajdas je {STRINGID} dum pluvo”
+STR_1505    :{SMALLFONT}“Mi ne rajdas sur {STRINGID} dum pluvas”
 STR_1506    :{SMALLFONT}“La rubo ĉi tie estas vere malbona”
 STR_1507    :{SMALLFONT}“Mi ne povas trovi la elirejon de la parko”
 STR_1508    :{SMALLFONT}“Mi volas eliri de {STRINGID}”
 STR_1509    :{SMALLFONT}“Mi volas eliri el {STRINGID}”
-STR_1510    :{SMALLFONT}“Mi ne rajdas je {STRINGID} - ĝi ne estas sekura”
+STR_1510    :{SMALLFONT}“Mi ne rajdas sur {STRINGID} - ĝi ne estas sekura”
 STR_1511    :{SMALLFONT}“Ĉi tiu vojo naŭzas min”
 STR_1512    :{SMALLFONT}“Estas tro homplene ĉi tie”
 STR_1513    :{SMALLFONT}“La vandalismo ĉi tie estas vere malbona”
@@ -1113,7 +1113,7 @@ STR_1731    :{WHITE}{STRINGID} - -
 STR_1732    :Konstrui
 STR_1733    :Maniero
 STR_1734    :{WINDOW_COLOUR_2}Nombro de etapoj:
-STR_1735    :{SMALLFONT}{BLACK}Nombro de etapoj de la vojo
+STR_1735    :{SMALLFONT}{BLACK}Nombro de etapoj de la cirkvito
 STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1738    :Ne eblas ŝanĝi la nombron de etapoj...
 STR_1739    :Vetkuro estis gajnita de gasto {INT32}
@@ -1322,11 +1322,11 @@ STR_1951    :Diagramo de la Parkvaloro
 STR_1952    :Diagramo de la Profito
 STR_1953    :Merkatado
 STR_1954    :Financado por Esplorado
-STR_1955    :{WINDOW_COLOUR_2}Nombro de etapoj:
-STR_1956    :{SMALLFONT}{BLACK}Nombro de etapoj ĉirkau la trako por ĉiu rajdo
+STR_1955    :{WINDOW_COLOUR_2}Nombro de cirkvitoj:
+STR_1956    :{SMALLFONT}{BLACK}Nombro de cirkvitoj de la trako por ĉiu rajdo
 STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1958    :{COMMA16}
-STR_1959    :Ne eblas ŝanĝi la nombron de etapoj...
+STR_1959    :Ne eblas ŝanĝi la nombron de cirkvitoj...
 STR_1960    :{WINDOW_COLOUR_2}Prezo de Balono:
 STR_1961    :{WINDOW_COLOUR_2}Prezo de Pluŝludilo:
 STR_1962    :{WINDOW_COLOUR_2}Prezo de Mapo de la Parko:
