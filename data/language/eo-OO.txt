@@ -47,7 +47,7 @@ STR_0042    :Supera Turno
 STR_0043    :Eksterteraj Ringoj
 STR_0044    :Onda Fervojo kun Renversita Libera Falo
 STR_0045    :Lifto
-STR_0046    :Onda Fervojo kun Vertikalaj Faloj
+STR_0046    :Onda Fervojo kun Vertikalaj Malleviĝoj
 STR_0047    :Bankaŭtomato
 STR_0048    :Tvisto
 STR_0049    :Fantomita Domo
@@ -171,8 +171,8 @@ STR_0591    :Raft-shaped boats gently meander around a river track
 STR_0593    :Rotating wheel with suspended passenger pods, which first starts spinning and is then tilted up by a supporting arm
 STR_0598    :Inverted roller coaster trains are accelerated out of the station to travel up a vertical spike of track, then reverse back through the station to travel backwards up another vertical spike of track
 STR_0599    :A compact roller coaster with individual cars and smooth twisting drops
-STR_0600    :Ŝaltitaj minĉaroj movas rapide laŭ ebena sed kurboplena trakaranĝo
-STR_0602    :Linia-induktaj motoroj plirapidigas la ĉarojn de la onda fervojo, kaj la ĉaroj trapasas kurboplenaj inversioj
+STR_0600    :Ŝaltitaj mintrajnoj movas rapide laŭ glata kurboplena trakaranĝo
+STR_0602    :Linearaj induktaj motoroj plirapidigas la trajnojn de la onda fervojo, por ke tiuj trajnoj trapasas kurboplenajn inversiojn
 STR_0767    :Gasto {INT32}
 STR_0768    :Asistanto {INT32}
 STR_0769    :Mekanikisto {INT32}
@@ -297,13 +297,13 @@ STR_0913    :{SMALLFONT}{BLACK}Movi al pasinta parto
 STR_0914    :{SMALLFONT}{BLACK}Movi al sekva parto
 STR_0915    :{SMALLFONT}{BLACK}Konstrui la elektitan parton
 STR_0916    :{SMALLFONT}{BLACK}Malkonstrui la emfazitan parton
-STR_0917    :{SMALLFONT}{BLACK}Vertikala Falo
+STR_0917    :{SMALLFONT}{BLACK}Vertikala Malleviĝo
 STR_0918    :{SMALLFONT}{BLACK}Kruta Malkreska Deklivo
 STR_0919    :{SMALLFONT}{BLACK}Malkreska Deklivo
 STR_0920    :{SMALLFONT}{BLACK}Ebena Trakoparto
 STR_0921    :{SMALLFONT}{BLACK}Kreska Deklivo
 STR_0922    :{SMALLFONT}{BLACK}Kruta Kreska Deklivo
-STR_0923    :{SMALLFONT}{BLACK}Vertikala Kreskado
+STR_0923    :{SMALLFONT}{BLACK}Vertikala Leviĝo
 STR_0924    :{SMALLFONT}{BLACK}Malkreska Helico
 STR_0925    :{SMALLFONT}{BLACK}Kreska Helico
 STR_0926    :Ne eblas forigi tion...
@@ -734,8 +734,8 @@ STR_1350    :{WINDOW_COLOUR_2}Maks. negativa vertikala graviteco: {BLACK}{COMMA2
 STR_1351    :{WINDOW_COLOUR_2}Maks. negativa vertikala graviteco: {OUTLINE}{RED}{COMMA2DP32}g
 STR_1352    :{WINDOW_COLOUR_2}Maks. flanka graviteco: {BLACK}{COMMA2DP32}g
 STR_1353    :{WINDOW_COLOUR_2}Maks. flanka graviteco: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1354    :{WINDOW_COLOUR_2}Alteco de la plej alta falo: {BLACK}{LENGTH}
-STR_1355    :{WINDOW_COLOUR_2}Faloj: {BLACK}{COMMA16}
+STR_1354    :{WINDOW_COLOUR_2}Alteco de la plej alta malleviĝo: {BLACK}{LENGTH}
+STR_1355    :{WINDOW_COLOUR_2}Malleviĝoj: {BLACK}{COMMA16}
 STR_1356    :{WINDOW_COLOUR_2}Inversigoj: {BLACK}{COMMA16}
 STR_1357    :{WINDOW_COLOUR_2}Truoj: {BLACK}{COMMA16}
 STR_1358    :{WINDOW_COLOUR_2}Tuta 'en-aero' tempo: {BLACK}{COMMA2DP32}secs
@@ -864,15 +864,15 @@ STR_1480    :{SMALLFONT}“Mi ne povas pagi por {STRINGID}”
 STR_1481    :{SMALLFONT}“Mi elspezis mian tutan monon”
 STR_1482    :{SMALLFONT}“Mi sentas min malsana”
 STR_1483    :{SMALLFONT}“Mi sentas min tre malsana”
-STR_1484    :{SMALLFONT}“Mi volas rajdi ion pli ekscitan ol {STRINGID}”
+STR_1484    :{SMALLFONT}“Mi volas rajdi sur io pli ekscita ol {STRINGID}”
 STR_1485    :{SMALLFONT}“{STRINGID} aspektas tro intensa por mi”
 STR_1486    :{SMALLFONT}“Mi ankoraŭ ne finis je mia {STRINGID}”
 STR_1487    :{SMALLFONT}“Simple rigardi al {STRINGID} malsanigas min”
-STR_1488    :{SMALLFONT}“Mi ne pagas tiom por rajdi je {STRINGID}”
+STR_1488    :{SMALLFONT}“Mi ne pagas tiom por rajdi sur {STRINGID}”
 STR_1489    :{SMALLFONT}“Mi volas iri hejmen”
 STR_1490    :{SMALLFONT}“{STRINGID} estas vere bona valoro”
 STR_1491    :{SMALLFONT}“Mi jam havas je {STRINGID}”
-STR_1492    :{SMALLFONT}“Mi ne povas pagi por je {STRINGID}”
+STR_1492    :{SMALLFONT}“Mi ne povas pagi por {STRINGID}”
 STR_1493    :{SMALLFONT}“Mi ne estas malsata”
 STR_1494    :{SMALLFONT}“Mi ne estas soifa”
 STR_1495    :{SMALLFONT}“Helpu! Mi dronas!”
@@ -2848,9 +2848,9 @@ STR_5506    :Guests ignore intensities
 STR_5508    :Allow loading files with incorrect checksums
 STR_5509    :{SMALLFONT}{BLACK}Allows loading scenarios and saves{NEWLINE}that have an incorrect checksum,{NEWLINE}like the scenarios from the demo{NEWLINE}or damaged saves.
 STR_5510    :Default sound device
-STR_5511    :(UNKNOWN)
-STR_5512    :Ŝarĝi Ludon Kiel
-STR_5513    :(Quick) ŝarĝi ludon
+STR_5511    :(NEKONATA)
+STR_5512    :Konservi la Ludon Kiel
+STR_5513    :(Rapide) konservi la ludon
 STR_5514    :Disable vandalism
 STR_5515    :{SMALLFONT}{BLACK}Stops guests from vandalising your park when they're angry
 STR_5516    :{SMALLFONT}{BLACK}Black
