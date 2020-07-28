@@ -860,7 +860,7 @@ STR_1476    :{WINDOW_COLOUR_2}Pritakso de intenseco: {BLACK}Ne disponeblas ankor
 STR_1477    :{WINDOW_COLOUR_2}Pritakso de intenseco: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
 STR_1478    :{WINDOW_COLOUR_2}Pritakso de vomemeco: {BLACK}{COMMA2DP32}  ({STRINGID})
 STR_1479    :{WINDOW_COLOUR_2}Pritakso de vomemeco: {BLACK}Ne disponeblas ankoraŭ
-STR_1480    :{SMALLFONT}“Mi ne povas pagi por {STRINGID}”
+STR_1480    :{SMALLFONT}“Mi ne havas sufiĉe da mono por rajdi sur {STRINGID}”
 STR_1481    :{SMALLFONT}“Mi elspezis mian tutan monon”
 STR_1482    :{SMALLFONT}“Mi sentas min malsana”
 STR_1483    :{SMALLFONT}“Mi sentas min tre malsana”
@@ -871,8 +871,8 @@ STR_1487    :{SMALLFONT}“Simple rigardi al {STRINGID} malsanigas min”
 STR_1488    :{SMALLFONT}“Mi ne pagas tiom por rajdi sur {STRINGID}”
 STR_1489    :{SMALLFONT}“Mi volas iri hejmen”
 STR_1490    :{SMALLFONT}“{STRINGID} estas vere bona valoro”
-STR_1491    :{SMALLFONT}“Mi jam havas je {STRINGID}”
-STR_1492    :{SMALLFONT}“Mi ne povas pagi por {STRINGID}”
+STR_1491    :{SMALLFONT}“Mi jam havas {STRINGID}”
+STR_1492    :{SMALLFONT}“Mi ne havas sufiĉe da mono por aĉeti {STRINGID}”
 STR_1493    :{SMALLFONT}“Mi ne estas malsata”
 STR_1494    :{SMALLFONT}“Mi ne estas soifa”
 STR_1495    :{SMALLFONT}“Helpu! Mi dronas!”
@@ -1303,7 +1303,7 @@ STR_1932    :{STRINGID} estas sur {STRINGID}
 STR_1933    :{STRINGID} estas en {STRINGID}
 STR_1934    :{STRINGID} foriris el {STRINGID}
 STR_1935    :{STRINGID} foriris el la parko
-STR_1936    :{STRINGID} aĉetis je {STRINGID}
+STR_1936    :{STRINGID} aĉetis {STRINGID}
 STR_1937    :{SMALLFONT}{BLACK}Montri informojn pri la subjekto de ĉi tiu mesaĝo
 STR_1938    :{SMALLFONT}{BLACK}Montri vidon de la gasto
 STR_1939    :{SMALLFONT}{BLACK}Montri vidon de la laboristo
@@ -1411,62 +1411,62 @@ STR_2040    :Frititaj Kokaĵoj
 STR_2041    :Limonadoj
 STR_2042    :Malplenaj Skatoloj
 STR_2043    :Malplenaj Boteloj
-STR_2044    :Balono
-STR_2045    :Pluŝludilo
-STR_2046    :Mapo de la Parko
-STR_2047    :Foto sur Atrakcio
-STR_2048    :Ombrelo
-STR_2049    :Trinkaĵo
-STR_2050    :Burgero
+STR_2044    :Balonon
+STR_2045    :Pluŝludilon
+STR_2046    :Mapon de la Parko
+STR_2047    :Foton sur Atrakcio
+STR_2048    :Ombrelon
+STR_2049    :Trinkaĵon
+STR_2050    :Burgeron
 STR_2051    :iom da Fritoj
-STR_2052    :Glaciaĵo
+STR_2052    :Glaciaĵon
 STR_2053    :iom da Sukerŝpinaĵo
-STR_2054    :Malplenan Ladskatolo
+STR_2054    :Malplenan Ladskatolon
 STR_2055    :iom da Rubo
-STR_2056    :Malplenan Burgerujo
-STR_2057    :Pico
-STR_2058    :Kupono
+STR_2056    :Malplenan Burgerujon
+STR_2057    :Picon
+STR_2058    :Kuponon
 STR_2059    :iom da Krevmaizo
-STR_2060    :Kolbasobulko
-STR_2061    :Tentaklo
-STR_2062    :Ĉapelo
-STR_2063    :Sukerpomo
-STR_2064    :T-ĉemizo
-STR_2065    :Benjeto
-STR_2066    :Kafo
-STR_2067    :Malplena Taso
+STR_2060    :Kolbasobulkon
+STR_2061    :Tentaklon
+STR_2062    :Ĉapelon
+STR_2063    :Sukerpomon
+STR_2064    :T-ĉemizon
+STR_2065    :Benjeton
+STR_2066    :Kafon
+STR_2067    :Malplenan Tason
 STR_2068    :iom da Fritita Kokaĵo
 STR_2069    :iom da Limonado
-STR_2070    :Malplena Skatolo
-STR_2071    :Malplena Botelo
-STR_2072    :“{STRINGID}” Balono
-STR_2073    :“{STRINGID}” Pluŝludilo
-STR_2074    :Mapo de {STRINGID}
-STR_2075    :Foto sur la Atrakcio {STRINGID}
-STR_2076    :“{STRINGID}” Ombrelo
-STR_2077    :Trinkaĵo
-STR_2078    :Burgero
-STR_2079    :Fritoj
-STR_2080    :Glaciaĵo
-STR_2081    :Sukerŝpinaĵo
-STR_2082    :Malplena Ladskatolo
-STR_2083    :Rubo
-STR_2084    :Malplena Burgerujo
-STR_2085    :Pico
-STR_2086    :Kupono por {STRINGID}
-STR_2087    :Krevmaizo
-STR_2088    :Kolbasobulko
-STR_2089    :Tentaklo
-STR_2090    :“{STRINGID}” Ĉapelo
-STR_2091    :Sukerpomo
-STR_2092    :“{STRINGID}” T-ĉemizo
-STR_2093    :Benjeto
-STR_2094    :Kafo
-STR_2095    :Malplena Taso
-STR_2096    :Fritita Kokaĵo
-STR_2097    :Limonado
-STR_2098    :Malplena Skatolo
-STR_2099    :Malplena Botelo
+STR_2070    :Malplenan Skatolon
+STR_2071    :Malplenan Botelon
+STR_2072    :Balonon de “{STRINGID}”
+STR_2073    :Pluŝludilon de “{STRINGID}”
+STR_2074    :Mapon de {STRINGID}
+STR_2075    :Foton sur la Atrakcio {STRINGID}
+STR_2076    :Ombrelon de “{STRINGID}”
+STR_2077    :Trinkaĵon
+STR_2078    :Burgeron
+STR_2079    :Fritojn
+STR_2080    :Glaciaĵon
+STR_2081    :Sukerŝpinaĵon
+STR_2082    :Malplenan Ladskatolon
+STR_2083    :Rubon
+STR_2084    :Malplenan Burgerujon
+STR_2085    :Picon
+STR_2086    :Kuponon por {STRINGID}
+STR_2087    :Krevmaizon
+STR_2088    :Kolbasobulkon
+STR_2089    :Tentaklon
+STR_2090    :Ĉapelon de “{STRINGID}”
+STR_2091    :Sukerpomon
+STR_2092    :T-ĉemizon de “{STRINGID}”
+STR_2093    :Benjeton
+STR_2094    :Kafon
+STR_2095    :Malplenan Tason
+STR_2096    :Frititan Kokaĵon
+STR_2097    :Limonadon
+STR_2098    :Malplenan Skatolon
+STR_2099    :Malplenan Botelon
 STR_2103    :{WINDOW_COLOUR_2}Prezo de Breco:
 STR_2104    :{WINDOW_COLOUR_2}Prezo de Varma Ĉokolado:
 STR_2105    :{WINDOW_COLOUR_2}Prezo de Glacia Teo:
@@ -1524,44 +1524,44 @@ STR_2162    :Malplenaj Trinkaĵaj Kartonoj
 STR_2163    :Malplenaj Sukaj Tasoj
 STR_2164    :Rostitaj Kolbasoj
 STR_2165    :Malplenaj Bovloj
-STR_2169    :Breco
-STR_2170    :Varma Ĉokolado
-STR_2171    :Glacia Teo
-STR_2172    :Funelkuko
-STR_2173    :paro de Sunokulvitroj
+STR_2169    :Brecon
+STR_2170    :Varman Ĉokoladon
+STR_2171    :Glacian Teon
+STR_2172    :Funelkukon
+STR_2173    :paron de Sunokulvitroj
 STR_2174    :iom da Bovaĵaj Nudeloj
 STR_2175    :iom da Frititaj Riznudeloj
 STR_2176    :iom da Huntuna Supo
 STR_2177    :iom da Knela Supo
-STR_2178    :Frukta Suko
+STR_2178    :Fruktan Sukon
 STR_2179    :iom da Sojlakto
 STR_2180    :iom da Suĝongvao
-STR_2181    :Subsandviĉo
-STR_2182    :Kekso
-STR_2183    :Malplena Bovlo
-STR_2184    :Malplena Trinkaĵa Kartono
-STR_2185    :Malplena Suka Taso
-STR_2186    :Rostita Kolbaso
-STR_2187    :Malplena Bovlo
-STR_2191    :Breco
-STR_2192    :Varma Ĉokolado
-STR_2193    :Glacia Teo
-STR_2194    :Funelkuko
-STR_2195    :Sunokulvitroj
-STR_2196    :Bovaĵaj Nudeloj
-STR_2197    :Frititaj Riznudeloj
-STR_2198    :Huntuna Supo
-STR_2199    :Knela Supo
-STR_2200    :Frukta Suko
-STR_2201    :Sojlakto
-STR_2202    :Suĝongvao
-STR_2203    :Subsandviĉo
-STR_2204    :Kekso
-STR_2205    :Malplena Bovlo
-STR_2206    :Malplena Trinkaĵa Kartono
-STR_2207    :Malplena Suka Taso
-STR_2208    :Rostita Kolbaso
-STR_2209    :Malplena Bovlo
+STR_2181    :Subsandviĉon
+STR_2182    :Kekson
+STR_2183    :Malplenan Bovlon
+STR_2184    :Malplenan Trinkaĵan Kartonon
+STR_2185    :Malplenan Sukan Tason
+STR_2186    :Rostitan Kolbason
+STR_2187    :Malplenan Bovlon
+STR_2191    :Brecon
+STR_2192    :Varman Ĉokoladon
+STR_2193    :Glacian Teon
+STR_2194    :Funelkukon
+STR_2195    :Sunokulvitrojn
+STR_2196    :Bovaĵajn Nudelojn
+STR_2197    :Frititajn Riznudelojn
+STR_2198    :Huntunan Supon
+STR_2199    :Knelan Supon
+STR_2200    :Fruktan Sukon
+STR_2201    :Sojlakton
+STR_2202    :Suĝongvaon
+STR_2203    :Subsandviĉon
+STR_2204    :Kekson
+STR_2205    :Malplenan Bovlon
+STR_2206    :Malplenan Trinkaĵan Kartonon
+STR_2207    :Malplenan Sukan Tason
+STR_2208    :Rostitan Kolbason
+STR_2209    :Malplenan Bovlon
 STR_2210    :{SMALLFONT}{BLACK}Show list of handymen in park
 STR_2211    :{SMALLFONT}{BLACK}Show list of mechanics in park
 STR_2212    :{SMALLFONT}{BLACK}Show list of security guards in park
