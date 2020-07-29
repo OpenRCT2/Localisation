@@ -1562,31 +1562,31 @@ STR_2206    :Malplenan Trinkaĵoskatolon
 STR_2207    :Malplenan Sukotason
 STR_2208    :Rostitan Kolbason
 STR_2209    :Malplenan Bovlon
-STR_2210    :{SMALLFONT}{BLACK}Show list of handymen in park
-STR_2211    :{SMALLFONT}{BLACK}Show list of mechanics in park
-STR_2212    :{SMALLFONT}{BLACK}Show list of security guards in park
-STR_2213    :{SMALLFONT}{BLACK}Show list of entertainers in park
-STR_2214    :Construction not possible while game is paused!
+STR_2210    :{SMALLFONT}{BLACK}Montri la liston de asistantoj en la parko
+STR_2211    :{SMALLFONT}{BLACK}Montri la liston de mekanikistoj en la parko
+STR_2212    :{SMALLFONT}{BLACK}Montri la liston de sekurigaj oficistoj en la parko
+STR_2213    :{SMALLFONT}{BLACK}Montri la liston de amuzistoj en la parko
+STR_2214    :Ne eblas konstrui, dum la ludo estas paŭzita!
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOUR_2}{COMMA16}°C
 STR_2217    :{WINDOW_COLOUR_2}{COMMA16}°F
-STR_2218    :{RED}{STRINGID} on {STRINGID} hasn't returned to the {STRINGID} yet!{NEWLINE}Check whether it is stuck or has stalled
-STR_2219    :{RED}{COMMA16} people have died in an accident on {STRINGID}
-STR_2220    :{WINDOW_COLOUR_2}Park Rating: {BLACK}{COMMA16}
-STR_2221    :{SMALLFONT}{BLACK}Park Rating: {COMMA16}
+STR_2218    :{RED}{STRINGID} sur {STRINGID} ne revenis jam al la {STRINGID}!{NEWLINE}Kontrolu se ĝi ne povas reveni, aŭ staŭlis
+STR_2219    :{RED}{COMMA16} homoj mortis per akcidento sur {STRINGID}
+STR_2220    :{WINDOW_COLOUR_2}Pritakso de la Parko: {BLACK}{COMMA16}
+STR_2221    :{SMALLFONT}{BLACK}Pritakso de la Parko: {COMMA16}
 STR_2222    :{SMALLFONT}{BLACK}{STRINGID}
-STR_2223    :{WINDOW_COLOUR_2}Guests in park: {BLACK}{COMMA32}
-STR_2224    :{WINDOW_COLOUR_2}Cash: {BLACK}{CURRENCY2DP}
-STR_2225    :{WINDOW_COLOUR_2}Cash: {RED}{CURRENCY2DP}
-STR_2226    :{WINDOW_COLOUR_2}Park value: {BLACK}{CURRENCY}
-STR_2227    :{WINDOW_COLOUR_2}Company value: {BLACK}{CURRENCY}
-STR_2228    :{WINDOW_COLOUR_2}Last month's profit from food/drink and{NEWLINE}merchandise sales: {BLACK}{CURRENCY}
-STR_2229    :Slope up to vertical
-STR_2230    :Vertical track
-STR_2231    :Holding brake for drop
-STR_2232    :Cable lift hill
-STR_2233    :{SMALLFONT}{BLACK}Park information
-STR_2234    :Recent Messages
+STR_2223    :{WINDOW_COLOUR_2}Gastoj en la parko: {BLACK}{COMMA32}
+STR_2224    :{WINDOW_COLOUR_2}Mono: {BLACK}{CURRENCY2DP}
+STR_2225    :{WINDOW_COLOUR_2}Mono: {RED}{CURRENCY2DP}
+STR_2226    :{WINDOW_COLOUR_2}Valoro de la Parko: {BLACK}{CURRENCY}
+STR_2227    :{WINDOW_COLOUR_2}Valoro de la Firmo: {BLACK}{CURRENCY}
+STR_2228    :{WINDOW_COLOUR_2}Profito de la pasinta monato per la vendado de{NEWLINE}manĝaĵoj/trinkaĵoj kaj komercaĵoj: {BLACK}{CURRENCY}
+STR_2229    :Deklivo al Vertikala Parto
+STR_2230    :Vertikala Trako
+STR_2231    :Bremsoj por la Malleviĝo
+STR_2232    :Kablolifto Monteto
+STR_2233    :{SMALLFONT}{BLACK}Informoj de la Parko
+STR_2234    :Lastaj Mesaĝoj
 STR_2235    :{SMALLFONT}{STRINGID} {STRINGID}
 STR_2236    :Januaro
 STR_2237    :Februaro
@@ -1600,57 +1600,57 @@ STR_2244    :Septembro
 STR_2245    :Oktobro
 STR_2246    :Novembro
 STR_2247    :Decembro
-STR_2248    :Can't demolish ride/attraction...
-STR_2249    :{BABYBLUE}New ride/attraction now available:{NEWLINE}{STRINGID}
-STR_2250    :{BABYBLUE}New scenery/theming now available:{NEWLINE}{STRINGID}
-STR_2251    :Can only be built on paths!
-STR_2252    :Can only be built across paths!
-STR_2253    :Transport Rides
-STR_2254    :Gentle Rides
-STR_2255    :Roller Coasters
-STR_2256    :Thrill Rides
-STR_2257    :Water Rides
-STR_2258    :Shops & Stalls
-STR_2259    :Scenery & Theming
-STR_2260    :No funding
-STR_2261    :Minimum funding
-STR_2262    :Normal funding
-STR_2263    :Maximum funding
-STR_2264    :Research funding
-STR_2265    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY} per month
-STR_2266    :Research priorities
-STR_2267    :Currently in development
-STR_2268    :Last development
-STR_2269    :{WINDOW_COLOUR_2}Type: {BLACK}{STRINGID}
-STR_2270    :{WINDOW_COLOUR_2}Progress: {BLACK}{STRINGID}
-STR_2271    :{WINDOW_COLOUR_2}Expected: {BLACK}{STRINGID}
-STR_2272    :{WINDOW_COLOUR_2}Ride/attraction:{NEWLINE}{BLACK}{STRINGID}
-STR_2273    :{WINDOW_COLOUR_2}Scenery/theming:{NEWLINE}{BLACK}{STRINGID}
-STR_2274    :{SMALLFONT}{BLACK}Show details of this invention or development
-STR_2275    :{SMALLFONT}{BLACK}Show funding and options for research & development
-STR_2276    :{SMALLFONT}{BLACK}Show research & development status
-STR_2277    :Unknown
-STR_2278    :Transport Ride
-STR_2279    :Gentle Ride
-STR_2280    :Roller Coaster
-STR_2281    :Thrill Ride
-STR_2282    :Water Ride
-STR_2283    :Shop/Stall
-STR_2284    :Scenery/Theming
-STR_2285    :Initial research
-STR_2286    :Designing
-STR_2287    :Completing design
-STR_2288    :Unknown
+STR_2248    :Ne eblas malkonstrui la atrakcion...
+STR_2249    :{BABYBLUE}Nova atrakcio nun estas disponebla:{NEWLINE}{STRINGID}
+STR_2250    :{BABYBLUE}Nova pejzaĝo/temaĵo nun estas disponebla:{NEWLINE}{STRINGID}
+STR_2251    :Eblas konstrui ĝin nur sur trotuaroj!
+STR_2252    :Eblas konstrui ĝin nur horizontale de trotuaroj!
+STR_2253    :Transport-Atrakcioj
+STR_2254    :Mildaj Atrakcioj
+STR_2255    :Ondaj Fervojoj
+STR_2256    :Ekscitaj Atrakcioj
+STR_2257    :Akvo-Atrakcioj
+STR_2258    :Vendejoj k Budoj
+STR_2259    :Pejzaĝo k Temaĵoj
+STR_2260    :Neniu financado
+STR_2261    :Minimuma financado
+STR_2262    :Normala financado
+STR_2263    :Maksimuma financado
+STR_2264    :Financado por esplorado
+STR_2265    :{WINDOW_COLOUR_2}Kosto: po {BLACK}{CURRENCY} por mono
+STR_2266    :Prioritatoj de esplorado
+STR_2267    :Nune disvolvas
+STR_2268    :Pasinta disvolvado
+STR_2269    :{WINDOW_COLOUR_2}Tipo: {BLACK}{STRINGID}
+STR_2270    :{WINDOW_COLOUR_2}Progreso: {BLACK}{STRINGID}
+STR_2271    :{WINDOW_COLOUR_2}Disponeblos je: {BLACK}{STRINGID}
+STR_2272    :{WINDOW_COLOUR_2}Atrakcio:{NEWLINE}{BLACK}{STRINGID}
+STR_2273    :{WINDOW_COLOUR_2}Pejzaĝo/temaĵo:{NEWLINE}{BLACK}{STRINGID}
+STR_2274    :{SMALLFONT}{BLACK}Montri la detalojn de ĉi tiu inventaĵo aŭ disvolvado
+STR_2275    :{SMALLFONT}{BLACK}Montri la financadon kaj agordojn por la esplorado k disvolvado
+STR_2276    :{SMALLFONT}{BLACK}Montri la staton de la esplorado k disvolvado
+STR_2277    :Nekonata
+STR_2278    :Transport-Atrakcio
+STR_2279    :Milda Atrakcio
+STR_2280    :Onda Fervojo
+STR_2281    :Ekscita Atrakcio
+STR_2282    :Akvo-Atrakcio
+STR_2283    :Vendejo/Budo
+STR_2284    :Pejzaĝo/Temaĵo
+STR_2285    :Komenca esplorado
+STR_2286    :Desegnado
+STR_2287    :Finado de la desegno
+STR_2288    :Nekonata
 STR_2289    :{STRINGID} {STRINGID}
-STR_2291    :Select scenario for new game
-STR_2292    :{WINDOW_COLOUR_2}Rides been on:
-STR_2293    :{BLACK} Nothing
-STR_2294    :{SMALLFONT}{BLACK}Change base land style
-STR_2295    :{SMALLFONT}{BLACK}Change vertical edges of land
-STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} paid to enter park
-STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} ride
-STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} rides
-STR_2299    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} item of food
+STR_2291    :Elekti la scenaron por nova ludo
+STR_2292    :{WINDOW_COLOUR_2}Atrakcioj vizititaj:
+STR_2293    :{BLACK} Neniun
+STR_2294    :{SMALLFONT}{BLACK}Ŝanĝi la stilon de la baza bieno
+STR_2295    :{SMALLFONT}{BLACK}Ŝanĝi la vertikalajn flankojn de la bieno
+STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por eniri la parkon
+STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} atrakcio
+STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} atrakcioj
+STR_2299    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} ero da manĝaĵo
 STR_2300    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} items of food
 STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} drink
 STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} drinks
