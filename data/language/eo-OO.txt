@@ -107,7 +107,7 @@ STR_0521    :Onda fervojo rapida kaj kurboplena, kun subitaj kurbiĝoj kaj kruta
 STR_0522    :Pli malgranda onda fervojo, kie la rajdantoj sidas super la trako, kun neniu ĉaro ĉirkaŭ de ili
 STR_0523    :La rajdantoj veturas malrapide en ŝaltitaj veturiloj laŭ trakeca vojo
 STR_0524    :La liberfaloveturilo estas lanĉita pneŭmatike por supreniri altan ŝtalan turon. Tiam, tiu veturilo falas libere
-STR_0525    :Rajdantoj rapide malsupreniras kurboplenan trakon, kaj estas gviditaj nur per la kurbeco kaj oblikveco de la duoncirkla trako
+STR_0525    :Rajdantoj rapide malsupreniras kurboplenan trakon, kaj estas gviditaj nur per la kurbeco kaj turnkliniĝoj de la duoncirkla trako
 STR_0526    :Pasaĝeroj veturas en turniĝanta observadokajuto, kiu supreniras altan turon
 STR_0527    :Onda fervojo glata kun ŝtala trako, kiu eblas enhavi vertikalajn lopojn
 STR_0528    :Rajdantoj veturas en plenblovitaj boatetoj, kiuj malsupreniras kurboplenan duoncirklan aŭ cirklan tubotrakon
@@ -141,7 +141,7 @@ STR_0558    :Rajdantoj rajdas en duopaj da seĝoj, kiuj turniĝas ĉirkaŭ la fi
 STR_0559    :Granda konstruaĵo, kiu enhavas timigajn koridorojn kaj timigajn ĉambrojn
 STR_0560    :Ejo por malsanaj gastoj, por ke ili bonsanas pli rapide
 STR_0561    :Cirkospektaklo de bestoj en granda cirkotendo
-STR_0562    :Ŝaltitaj veturiloj veturas laŭ multnivela trako, preter timiga pejzaĝo kaj specialaj efektoj
+STR_0562    :Ŝaltitaj veturiloj veturas laŭ multnivela trako, preter timiga pejzaĝo kaj specialaj efikoj
 STR_0563    :Rajdantoj, kiuj sidas en komfortaj seĝoj kun nur simplaj sinosekurzonoj, ĝuas gigantajn glatajn malleviĝojn, kurboplenan trakon, kaj sufiĉe da 'en-aeraj periodoj' irante super la montetoj
 STR_0564    :Tiu onda fervojo, kiu veturas sur ligna trako, estas rapida, malglata, kaj brua, kaj ankaŭ donas 'nedirektebla' sencon, kun sufiĉe da 'en-aeraj periodoj'
 STR_0565    :Simpla ligna onda fervojo, kiu povas enhavi nur mildajn deklivojn kaj kurbiĝojn. Nur la radoj ambaŭflanke, kiu donas froton, kaj la gravito, fiksas la ĉarojn sur la trakon
@@ -288,7 +288,7 @@ STR_0904    :{SMALLFONT}{BLACK}Maldekstra kurbo (granda radiuso)
 STR_0905    :{SMALLFONT}{BLACK}Dekstra kurbo (granda radiuso)
 STR_0906    :{SMALLFONT}{BLACK}Rekta trako
 STR_0907    :Dekliveco
-STR_0908    :Ruliĝeco/Oblikveco
+STR_0908    :Ruliĝoj/Turnkliniĝoj
 STR_0909    :Direkto de Sidejo
 STR_0910    :{SMALLFONT}{BLACK}Ruliĝi por maldekstra kurbo
 STR_0911    :{SMALLFONT}{BLACK}Ruliĝi por dekstra kurbo
@@ -379,7 +379,7 @@ STR_0995    :{WINDOW_COLOUR_1}Ĉu vi vere volas malkonstrui {STRINGID}?
 STR_0996    :Tuta vido
 STR_0997    :{SMALLFONT}{BLACK}Elekti vidon
 STR_0998    :Ne eblas konstrui pli da stacioj por ĉi tiu atrakcio
-STR_0999    :Bezonas staciplatformon
+STR_0999    :Ĝi bezonas staciplatformon
 STR_1000    :La trako ne estas kompleta cirkvito
 STR_1001    :La trako ne taŭgas tian trajnon
 STR_1002    :Ne eblas malfermi {POP16}{POP16}{POP16}{STRINGID}...
@@ -786,7 +786,7 @@ STR_1402    :{SMALLFONT}{BLACK}Konstrui aŭ movi la enirejon de la atrakcio
 STR_1403    :{SMALLFONT}{BLACK}Konstrui aŭ movi la elirejon de la atrakcio
 STR_1404    :{SMALLFONT}{BLACK}Turni la desegnon 90°
 STR_1405    :{SMALLFONT}{BLACK}Speguli la desegnon
-STR_1406    :{SMALLFONT}{BLACK}Baskuli la pejzaĝon de la desegno (se disponebla)
+STR_1406    :{SMALLFONT}{BLACK}Baskuligi la pejzaĝon de la desegno (se disponebla)
 STR_1407    :{WINDOW_COLOUR_2}Konstrui ĉi tion...
 STR_1408    :{WINDOW_COLOUR_2}Kosto: {BLACK}{CURRENCY}
 STR_1409    :Platformo por Eniri/Eliri
@@ -1651,100 +1651,100 @@ STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por eniri la parkon
 STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} atrakcio
 STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} atrakcioj
 STR_2299    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} ero da manĝaĵo
-STR_2300    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} items of food
-STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} drink
-STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} drinks
-STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} souvenir
-STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} spent on {BLACK}{COMMA16} souvenirs
-STR_2305    :Track design files
-STR_2306    :Save track design
-STR_2307    :Select {STRINGID} design
-STR_2308    :{STRINGID} Track Designs
-STR_2309    :Install New Track Design
-STR_2310    :Build custom design
-STR_2311    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2312    :{WINDOW_COLOUR_2}Intensity rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2313    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}{COMMA2DP32} (approx.)
-STR_2314    :{WINDOW_COLOUR_2}Ride length: {BLACK}{STRINGID}
-STR_2315    :{WINDOW_COLOUR_2}Cost: {BLACK}around {CURRENCY}
-STR_2316    :{WINDOW_COLOUR_2}Space required: {BLACK}{COMMA16} x {COMMA16} blocks
-STR_2321    :{WINDOW_COLOUR_2}Number of rides/attractions: {BLACK}{COMMA16}
-STR_2322    :{WINDOW_COLOUR_2}Staff: {BLACK}{COMMA16}
-STR_2323    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}m²
-STR_2324    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}sq.ft.
-STR_2325    :{SMALLFONT}{BLACK}Buy land to extend park
-STR_2326    :{SMALLFONT}{BLACK}Buy construction rights to allow construction above or below land outside the park
+STR_2300    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} eroj de manĝaĵo
+STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} trinkaĵo
+STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} trinkaĵoj
+STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} memoraĵo
+STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} memoraĵoj
+STR_2305    :Dosieroj de trakdesegnoj
+STR_2306    :Konservi la trakdesegnon
+STR_2307    :Elekti desegnon de la {STRINGID}
+STR_2308    :Trakdesegnoj de la {STRINGID}
+STR_2309    :Instali Novan Trakdesegnon
+STR_2310    :Konstrui propran desegnon
+STR_2311    :{WINDOW_COLOUR_2}Pritakso de Eksciteco: {BLACK}{COMMA2DP32} (ĉ.)
+STR_2312    :{WINDOW_COLOUR_2}Pritakso de Intenseco: {BLACK}{COMMA2DP32} (ĉ.)
+STR_2313    :{WINDOW_COLOUR_2}Pritakso de Naŭzo: {BLACK}{COMMA2DP32} (ĉ.)
+STR_2314    :{WINDOW_COLOUR_2}Longeco de la atrakcio: {BLACK}{STRINGID}
+STR_2315    :{WINDOW_COLOUR_2}Kosto: {BLACK}around {CURRENCY}
+STR_2316    :{WINDOW_COLOUR_2}Spaco bezonata: {BLACK}{COMMA16} x {COMMA16} blokoj
+STR_2321    :{WINDOW_COLOUR_2}Nombro de atrakcioj: {BLACK}{COMMA16}
+STR_2322    :{WINDOW_COLOUR_2}Laboristoj: {BLACK}{COMMA16}
+STR_2323    :{WINDOW_COLOUR_2}Areo de la parko: {BLACK}{COMMA32} kvadrataj metroj
+STR_2324    :{WINDOW_COLOUR_2}Areo de la parko: {BLACK}{COMMA32} kvadrataj futoj
+STR_2325    :{SMALLFONT}{BLACK}Aĉeti bienon por etendi la parkon
+STR_2326    :{SMALLFONT}{BLACK}Aĉeti rajtojn de konstruado por ebligi la konstruadon surtere aŭ subtere ĉe bieno ekster de la parko
 STR_2327    :Agordoj
-STR_2328    :{WINDOW_COLOUR_2}Currency:
-STR_2329    :{WINDOW_COLOUR_2}Distance and Speed:
-STR_2330    :{WINDOW_COLOUR_2}Temperature:
-STR_2331    :{WINDOW_COLOUR_2}Height Labels:
-STR_2332    :Units
-STR_2333    :Sound effects
-STR_2334    :Pounds (£)
-STR_2335    :Dollars ($)
-STR_2336    :Franc (F)
-STR_2337    :Deutsche mark (DM)
-STR_2338    :Yen (¥)
-STR_2339    :Peseta (Pts)
-STR_2340    :Lira (L)
-STR_2341    :Guilders (ƒ)
-STR_2342    :Krona (kr)
-STR_2343    :Euros (€)
-STR_2344    :Imperial
-STR_2345    :Metric
-STR_2347    :{RED}{STRINGID} has drowned!
-STR_2348    :{SMALLFONT}{BLACK}Show statistics for this staff member
-STR_2349    :{WINDOW_COLOUR_2}Wages: {BLACK}{CURRENCY} per month
-STR_2350    :{WINDOW_COLOUR_2}Employed: {BLACK}{MONTHYEAR}
-STR_2351    :{WINDOW_COLOUR_2}Lawns mown: {BLACK}{COMMA16}
-STR_2352    :{WINDOW_COLOUR_2}Gardens watered: {BLACK}{COMMA16}
-STR_2353    :{WINDOW_COLOUR_2}Litter swept: {BLACK}{COMMA16}
-STR_2354    :{WINDOW_COLOUR_2}Bins emptied: {BLACK}{COMMA16}
-STR_2355    :{WINDOW_COLOUR_2}Rides fixed: {BLACK}{COMMA16}
-STR_2356    :{WINDOW_COLOUR_2}Rides inspected: {BLACK}{COMMA16}
-STR_2358    :Units
-STR_2359    :Real Values
-STR_2360    :Display Resolution:
-STR_2361    :Landscape Smoothing
-STR_2362    :{SMALLFONT}{BLACK}Toggle landscape tile edge smoothing on/off
-STR_2363    :Gridlines on Landscape
-STR_2364    :{SMALLFONT}{BLACK}Toggle gridlines on landscape on/off
-STR_2365    :The bank refuses to increase your loan!
-STR_2366    :Celsius (°C)
-STR_2367    :Fahrenheit (°F)
-STR_2368    :None
-STR_2369    :Low
-STR_2370    :Average
-STR_2371    :High
-STR_2372    :Low
-STR_2373    :Medium
-STR_2374    :High
-STR_2375    :Very high
-STR_2376    :Extreme
-STR_2377    :Ultra-Extreme
-STR_2378    :{SMALLFONT}{BLACK}Adjust smaller area of land
-STR_2379    :{SMALLFONT}{BLACK}Adjust larger area of land
-STR_2380    :{SMALLFONT}{BLACK}Adjust smaller area of water
-STR_2381    :{SMALLFONT}{BLACK}Adjust larger area of water
-STR_2382    :Land
-STR_2383    :Water
-STR_2384    :{WINDOW_COLOUR_2}Your objective:
-STR_2385    :{BLACK}None
-STR_2386    :{BLACK}To have at least {COMMA16} guests in your park at the end of {MONTHYEAR}, with a park rating of at least 600
-STR_2387    :{BLACK}To achieve a park value of at least {POP16}{POP16}{CURRENCY} at the end of {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}
-STR_2388    :{BLACK}Have Fun!
-STR_2389    :{BLACK}Build the best {STRINGID} you can!
-STR_2390    :{BLACK}To have 10 different types of roller coasters operating in your park, each with an excitement value of at least 6.00
-STR_2391    :{BLACK}To have at least {COMMA16} guests in your park. You must not let the park rating drop below 700 at any time!
-STR_2392    :{BLACK}To achieve a monthly income from ride tickets of at least {POP16}{POP16}{CURRENCY}
-STR_2393    :{BLACK}To have 10 different types of roller coasters operating in your park, each with a minimum length of {LENGTH}, and an excitement rating of at least 7.00
-STR_2394    :{BLACK}To finish building all 5 of the partially built roller coasters in this park, designing them to achieve excitement ratings of at least {POP16}{POP16}{COMMA2DP32} each
-STR_2395    :{BLACK}To repay your loan and achieve a park value of at least {POP16}{POP16}{CURRENCY}
-STR_2396    :{BLACK}To achieve a monthly profit from food, drink and merchandise sales of at least {POP16}{POP16}{CURRENCY}
-STR_2397    :None
-STR_2398    :Number of guests at a given date
-STR_2399    :Park value at a given date
+STR_2328    :{WINDOW_COLOUR_2}Valuto:
+STR_2329    :{WINDOW_COLOUR_2}Longeco kaj Rapideco:
+STR_2330    :{WINDOW_COLOUR_2}Temperaturo:
+STR_2331    :{WINDOW_COLOUR_2}Notoj de la Alteco:
+STR_2332    :Unuoj
+STR_2333    :Sonefikoj
+STR_2334    :Pundo (£)
+STR_2335    :Dolaro ($)
+STR_2336    :Franko (F)
+STR_2337    :Germana marko (DM)
+STR_2338    :Eno (¥)
+STR_2339    :Peseto (Pts)
+STR_2340    :Liro (L)
+STR_2341    :Guldeno (ƒ)
+STR_2342    :Krono (kr)
+STR_2343    :Eŭro (€)
+STR_2344    :Usona-angla mezurunua sistemo
+STR_2345    :Metra decimala sistemo
+STR_2347    :{RED}{STRINGID} dronis!
+STR_2348    :{SMALLFONT}{BLACK}Montri statistikaĵoj por ĉi tiu laboristo
+STR_2349    :{WINDOW_COLOUR_2}Salajro: po {BLACK}{CURRENCY} por monato
+STR_2350    :{WINDOW_COLOUR_2}Dungita: {BLACK}{MONTHYEAR}
+STR_2351    :{WINDOW_COLOUR_2}Gazonoj falĉitaj: {BLACK}{COMMA16}
+STR_2352    :{WINDOW_COLOUR_2}Ĝardenoj akvumitaj: {BLACK}{COMMA16}
+STR_2353    :{WINDOW_COLOUR_2}Eroj de rubo balaitaj: {BLACK}{COMMA16}
+STR_2354    :{WINDOW_COLOUR_2}Rubujoj malplenitaj: {BLACK}{COMMA16}
+STR_2355    :{WINDOW_COLOUR_2}Atrakcioj riparitaj: {BLACK}{COMMA16}
+STR_2356    :{WINDOW_COLOUR_2}Atrakcioj inspektitaj: {BLACK}{COMMA16}
+STR_2358    :Unuoj
+STR_2359    :Faktaj Nombroj
+STR_2360    :Distingivo de Ekrano:
+STR_2361    :Glatigo de la Bieno
+STR_2362    :{SMALLFONT}{BLACK}Baskuligi la glatigon de la randoj de la bienokaheloj
+STR_2363    :Kradlinioj sur la Bieno
+STR_2364    :{SMALLFONT}{BLACK}Baskuligi la kradliniojn sur la bieno
+STR_2365    :La banko rifuzas pliigon de via prunto!
+STR_2366    :Celsio (°C)
+STR_2367    :Farenhejto (°F)
+STR_2368    :Neniu
+STR_2369    :Malalta
+STR_2370    :Meza
+STR_2371    :Alta
+STR_2372    :Malalta
+STR_2373    :Meza
+STR_2374    :Alta
+STR_2375    :Tre Alta
+STR_2376    :Ekstrema
+STR_2377    :Ultra-Ekstrema
+STR_2378    :{SMALLFONT}{BLACK}Agordi pli malgrandan aeron de bieno
+STR_2379    :{SMALLFONT}{BLACK}Agordi pli grandan aeron de bieno
+STR_2380    :{SMALLFONT}{BLACK}Agordi pli malgrandan aeron de akvo
+STR_2381    :{SMALLFONT}{BLACK}Agordi pli grandan aeron de akvo
+STR_2382    :Bieno
+STR_2383    :Akvo
+STR_2384    :{WINDOW_COLOUR_2}Via celo:
+STR_2385    :{BLACK}Neniu
+STR_2386    :{BLACK}Havi almenaŭ {COMMA16} gastojn en via parko al la fino de {MONTHYEAR}, kun pritakso de parko ne malpli ol 600
+STR_2387    :{BLACK}Atingi parkvaloron ne malpli ol {POP16}{POP16}{CURRENCY} al la fino de {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR}
+STR_2388    :{BLACK}Amuzi Vin!
+STR_2389    :{BLACK}Konstrui je la plej bona {STRINGID}, kiun vi povas konstrui!
+STR_2390    :{BLACK}Havi 10 malsamajn tipojn de ondaj fervojoj, kiuj funkcias en via parko, kaj havas po pritakson de eksciteco ne malpli ol 6.00
+STR_2391    :{BLACK}Havi almenaŭ {COMMA16} gastojn en via parko. Ankaŭ, necesas ke la pritakso de la parko neniam falu sub 700!
+STR_2392    :{BLACK}Atingi enspezon monatan ne malpli ol {POP16}{POP16}{CURRENCY}, pro la vendado de biletoj de atrakcioj
+STR_2393    :{BLACK}Havi 10 malsamajn tipojn de ondaj fervojoj, kiuj funkcias en via parko, kaj havas po mimimuman longecon de {LENGTH} kaj pritakson de eksciteco ne malpli ol 7.00
+STR_2394    :{BLACK}Fini la konstruadon de la tutaj 5 ondaj fervojoj, kiuj estas konstruita parte. Desegni ilin, por atingi po pritakson de eksciteco ne malpli ol {POP16}{POP16}{COMMA2DP32}
+STR_2395    :{BLACK}Repagi vian prunton, kaj atingi parkvaloron ne malpli ol {POP16}{POP16}{CURRENCY}
+STR_2396    :{BLACK}Atingi enspezon monatan ne malpli ol {POP16}{POP16}{CURRENCY}, pro la vendado de manĝaĵoj, trinkaĵoj, kaj komercaĵoj
+STR_2397    :Neniu
+STR_2398    :Nombro de gastoj je certa dato
+STR_2399    :Parkvaloro je certa dato
 STR_2400    :Have fun
 STR_2401    :Build the best ride you can
 STR_2402    :Build 10 roller coasters
