@@ -2211,86 +2211,86 @@ STR_3095    :{WINDOW_COLOUR_2}Rapideco de la ĉenlifto:
 STR_3096    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_3097    :{SMALLFONT}{BLACK}Elekti la rapidecon de la ĉenlifto
 STR_3099    :{SMALLFONT}{BLACK}Elekti la koloron
-STR_3100    :{SMALLFONT}{BLACK}Select second colour
-STR_3101    :{SMALLFONT}{BLACK}Select third colour
-STR_3102    :{SMALLFONT}{BLACK}Re-paint coloured scenery on landscape
-STR_3103    :Can't re-paint this...
-STR_3104    :{SMALLFONT}{BLACK}List rides
-STR_3105    :{SMALLFONT}{BLACK}List shops and stalls
-STR_3106    :{SMALLFONT}{BLACK}List information kiosks and other guest facilities
-STR_3107    :Close
-STR_3108    :Test
-STR_3109    :Open
-STR_3110    :{WINDOW_COLOUR_2}Block Sections: {BLACK}{COMMA16}
-STR_3111    :{SMALLFONT}{BLACK}Click on design to build it
-STR_3112    :{SMALLFONT}{BLACK}Click on design to rename or delete it
-STR_3113    :Select a different design
-STR_3114    :{SMALLFONT}{BLACK}Go back to design selection window
-STR_3115    :{SMALLFONT}{BLACK}Save track design
-STR_3116    :{SMALLFONT}{BLACK}Save track design (Not possible until ride has been tested and statistics have been generated)
-STR_3117    :{BLACK}Calling mechanic...
-STR_3118    :{BLACK}{STRINGID} is heading for the ride
-STR_3119    :{BLACK}{STRINGID} is fixing the ride
-STR_3120    :{SMALLFONT}{BLACK}Locate nearest available mechanic, or mechanic fixing ride
-STR_3121    :Unable to locate mechanic, or all nearby mechanics are busy
-STR_3122    :{WINDOW_COLOUR_2}Favourite ride of: {BLACK}{COMMA16} guest
-STR_3123    :{WINDOW_COLOUR_2}Favourite ride of: {BLACK}{COMMA16} guests
-STR_3124    :Broken {STRINGID}
-STR_3125    :{WINDOW_COLOUR_2}Excitement Factor: {BLACK}+{COMMA16}%
-STR_3126    :{WINDOW_COLOUR_2}Intensity Factor: {BLACK}+{COMMA16}%
-STR_3127    :{WINDOW_COLOUR_2}Nausea Factor: {BLACK}+{COMMA16}%
-STR_3128    :Save Track Design
-STR_3129    :Save Track Design with Scenery
-STR_3130    :Save
-STR_3131    :Cancel
-STR_3132    :{BLACK}Click items of scenery to select them to be saved with track design...
-STR_3133    :Unable to build this on a slope
-STR_3134    :{RED}(Design includes scenery which is unavailable)
-STR_3135    :{RED}(Vehicle design unavailable. Ride performance may be affected.)
-STR_3136    :Warning: This design will be built with an alternative vehicle type and may not perform as expected
-STR_3137    :Select Nearby Scenery
-STR_3138    :Reset Selection
-STR_3139    :Cable lift unable to work in this operating mode
-STR_3140    :Cable lift hill must start immediately after station
-STR_3141    :Multi-circuit per ride not possible with cable lift hill
-STR_3142    :{WINDOW_COLOUR_2}Capacity: {BLACK}{STRINGID}
-STR_3143    :{SMALLFONT}{BLACK}Show people on map
-STR_3144    :{SMALLFONT}{BLACK}Show rides and stalls on map
-STR_3160    :{SMALLFONT}{BLACK}Select the number of circuits per ride
-STR_3162    :Unable to allocate enough memory
-STR_3163    :Installing new data: 
-STR_3164    :{BLACK}{COMMA16} selected (maximum {COMMA16})
-STR_3167    :{WINDOW_COLOUR_2}Includes: {BLACK}{COMMA16} objects
-STR_3169    :Data for the following object not found: 
-STR_3170    :Not enough space for graphics
-STR_3171    :Too many objects of this type selected
-STR_3172    :The following object must be selected first: {STRING}
-STR_3173    :This object is currently in use
-STR_3174    :This object is required by another object
-STR_3175    :This object is always required
-STR_3176    :Unable to select this object
-STR_3177    :Unable to de-select this object
-STR_3178    :At least one path object must be selected
-STR_3179    :At least one ride vehicle/attraction object must be selected
-STR_3180    :Invalid selection of objects
-STR_3181    :Object Selection - {STRINGID}
-STR_3182    :Park entrance type must be selected
-STR_3183    :Water type must be selected
-STR_3184    :Ride Vehicles/Attractions
-STR_3185    :Small Scenery
-STR_3186    :Large Scenery
-STR_3187    :Walls/Fences
-STR_3188    :Path Signs
-STR_3189    :Footpaths
-STR_3190    :Path Extras
-STR_3191    :Scenery Groups
-STR_3192    :Park Entrance
-STR_3193    :Water
-STR_3195    :Invention List
-STR_3196    :{WINDOW_COLOUR_2}Research Group: {BLACK}{STRINGID}
-STR_3197    :{WINDOW_COLOUR_2}Items pre-invented at start of game:
-STR_3198    :{WINDOW_COLOUR_2}Items to invent during game:
-STR_3199    :Random Shuffle
+STR_3100    :{SMALLFONT}{BLACK}Elekti la duan koloron
+STR_3101    :{SMALLFONT}{BLACK}Elekti la trian koloron
+STR_3102    :{SMALLFONT}{BLACK}Repentri la pejzaĝon kolorita sur la bieno
+STR_3103    :Ne eblas repentri ĉi tion...
+STR_3104    :{SMALLFONT}{BLACK}Enlistigi la atrakciojn
+STR_3105    :{SMALLFONT}{BLACK}Enlistigi la vendejojn kaj budojn
+STR_3106    :{SMALLFONT}{BLACK}Enlistigi la informokioskojn kaj aliajn gastoservojn
+STR_3107    :Fermi
+STR_3108    :Elprovi
+STR_3109    :Malfermi
+STR_3110    :{WINDOW_COLOUR_2}Blokpartoj: {BLACK}{COMMA16}
+STR_3111    :{SMALLFONT}{BLACK}Alklaku la desegnon por konstrui ĝin
+STR_3112    :{SMALLFONT}{BLACK}Alklaku la desegnon por renomi aŭ forigi ĝin
+STR_3113    :Elekti malsaman desegnon
+STR_3114    :{SMALLFONT}{BLACK}Reiri al la fenestro de desegno-elektado
+STR_3115    :{SMALLFONT}{BLACK}Konservi la trakdesegnon
+STR_3116    :{SMALLFONT}{BLACK}Konservi la trakdesegnon (Ne eblas ĝis la atrakcio estas elprovita, kaj ĝiaj statistikoj estas disponeblaj)
+STR_3117    :{BLACK}Vokas mekanikiston...
+STR_3118    :{BLACK}{STRINGID} iras al la atrakcio
+STR_3119    :{BLACK}{STRINGID} riparas la atrakcion
+STR_3120    :{SMALLFONT}{BLACK}Trovi la plej proksiman disponeblan mekanikiston, aŭ iun mekanikiston, kiu riparas la atrakcion
+STR_3121    :Ne eblas trovi mekanikiston, aŭ ĉiuj proksimaj mekanikistoj ne estas disponeblaj
+STR_3122    :{WINDOW_COLOUR_2}La plej ŝatata atrakcio de: {BLACK}{COMMA16} gasto
+STR_3123    :{WINDOW_COLOUR_2}La plej ŝatata atrakcio de: {BLACK}{COMMA16} gastoj
+STR_3124    :Rompita {STRINGID}
+STR_3125    :{WINDOW_COLOUR_2}Faktoro de Eksciteco: {BLACK}+{COMMA16}%
+STR_3126    :{WINDOW_COLOUR_2}Faktoro de Intenseco: {BLACK}+{COMMA16}%
+STR_3127    :{WINDOW_COLOUR_2}Faktoro de Naŭzo: {BLACK}+{COMMA16}%
+STR_3128    :Konservi la Trakdesegnon
+STR_3129    :Konservi la Trakdesegnon kun Pejzaĝo
+STR_3130    :Konservi
+STR_3131    :Nuligi
+STR_3132    :{BLACK}Alklaku la pejzaĝerojn por konservi ĝin kun la trakdesegnon...
+STR_3133    :Ne eblas konstrui ĉi tion sur deklivo
+STR_3134    :{RED}(Desegnon enhavas pejzaĝon, kiu ne estas disponebla)
+STR_3135    :{RED}(Desegnon de veturilo ne disponeblas. La rendimento de la atrakcio povas ŝanĝi.)
+STR_3136    :Averto: Ĉi tiu desegno estos konstruita per alternativa tipo de veturilo, kaj la rendimento de la atrakcio povas ŝanĝi
+STR_3137    :Elekti proksiman pejzaĝon
+STR_3138    :Vakigi la Elektaĵon
+STR_3139    :Kablolifto ne eblas funkcii por ĉi tiu maniero de funkciado
+STR_3140    :Kablolifto-monteto devas komenci tuj post la stacio
+STR_3141    :Po multaj cirkvitoj por fojo ne eblas kun kablolifto
+STR_3142    :{WINDOW_COLOUR_2}Kapacito: {BLACK}{STRINGID}
+STR_3143    :{SMALLFONT}{BLACK}Montri homojn sur la mapo
+STR_3144    :{SMALLFONT}{BLACK}Montri atrakciojn kaj budojn sur la mapo
+STR_3160    :{SMALLFONT}{BLACK}Elekti la nombron de cirkvitoj por ĉiu fojo
+STR_3162    :Ne eblas asigni sufiĉe da memoro
+STR_3163    :Instalado de novaj datumoj: 
+STR_3164    :{BLACK}{COMMA16} elektita (maksimume {COMMA16})
+STR_3167    :{WINDOW_COLOUR_2}Inkluzivas: {BLACK}{COMMA16} objektojn
+STR_3169    :Datumo de la jena objekto ne troviĝis: 
+STR_3170    :Ne sufiĉe da spaco por grafikoj
+STR_3171    :Tro da objektoj de ĉiu tipo estas elektita
+STR_3172    :Oni devas elekti la jenan objekton unue: {STRING}
+STR_3173    :Ĉi tiu objekto estas aktuale uzata
+STR_3174    :Alia objekto bezonas ĉi tiun objekton
+STR_3175    :Ĉi tiu objekto ĉiam estas bezonata
+STR_3176    :Ne eblas elekti ĉi tiun objekton
+STR_3177    :Ne eblas malelekti ĉi tiun objekton
+STR_3178    :Oni devas elekti almenaŭ unu objekton por trotuaroj
+STR_3179    :Oni devas elekti almenaŭ unu atrakcioveturilon aŭ atrakcion
+STR_3180    :Nevalida elektaĵo de objektoj
+STR_3181    :Elektado de Objektoj - {STRINGID}
+STR_3182    :Oni devas elekti la tipon de la parkeniro
+STR_3183    :Oni devas elekti la tipon de akvo
+STR_3184    :Atrakcioveturiloj/Atrakcioj
+STR_3185    :Malgranda Pejzaĝo
+STR_3186    :Granda Pejzaĝo
+STR_3187    :Muroj/Bariloj
+STR_3188    :Surskribaĵoj por Trotuaroj
+STR_3189    :Trotuaroj
+STR_3190    :Diversaĵoj por Trotuaroj
+STR_3191    :Grupoj de Pejzaĝo
+STR_3192    :Parkeniro
+STR_3193    :Akvo
+STR_3195    :Listo de Inventaĵoj
+STR_3196    :{WINDOW_COLOUR_2}Inventaĵo-Kategorio: {BLACK}{STRINGID}
+STR_3197    :{WINDOW_COLOUR_2}Aferoj inventitaj al la komenco de la ludo:
+STR_3198    :{WINDOW_COLOUR_2}Aferoj, kiuj estos inventitaj dum la ludo:
+STR_3199    :Hazarda Ordo
 STR_3200    :{SMALLFONT}{BLACK}Randomly shuffle the list of items to invent during the game
 STR_3201    :Object Selection
 STR_3202    :Landscape Editor
