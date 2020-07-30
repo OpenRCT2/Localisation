@@ -102,7 +102,7 @@ STR_0516    :Milda onda fervojo por tiuj, kiuj ne ankoraŭ havas la kuraĝon por
 STR_0517    :Pasaĝeroj rajdas en miniaturaj trajnoj laŭ etŝpura fervojotrako
 STR_0518    :Pasaĝeroj veturas en elektraj trajnoj laŭ monorelotrako
 STR_0519    :Pasaĝeroj rajdas en malgrandaj ĉaroj penditaj sub la unuopa-rela trako, svingiĝante libere ambaŭflanken ĉe anguloj
-STR_0520    :Dokplatformo, kie gastoj povas veturigi/remigi ilin proprajn akvoveturilojn sur la akvo
+STR_0520    :Dokplatformo, kie gastoj povas veturigi/remigi iliajn proprajn akvoveturilojn sur la akvo
 STR_0521    :Onda fervojo rapida kaj kurboplena, kun subitaj kurbiĝoj kaj krutaj malleviĝoj. La intenseco verŝajne eblos trea.
 STR_0522    :Pli malgranda onda fervojo, kie la rajdantoj sidas super la trako, kun neniu ĉaro ĉirkaŭ de ili
 STR_0523    :La rajdantoj veturas malrapide en ŝaltitaj veturiloj laŭ trakeca vojo
@@ -231,8 +231,8 @@ STR_0826    :Tro da nomoj difinitaj
 STR_0827    :Ne sufiĉe da mono - tio bezonas {CURRENCY2DP}
 STR_0828    :{SMALLFONT}{BLACK}Fermi la fenestron
 STR_0829    :{SMALLFONT}{BLACK}Ŝovu ĉi tion por movi la fenestron
-STR_0830    :{SMALLFONT}{BLACK}Zomi la vidon
-STR_0831    :{SMALLFONT}{BLACK}Malzomi la vidon
+STR_0830    :{SMALLFONT}{BLACK}Zomigi la vidon
+STR_0831    :{SMALLFONT}{BLACK}Malzomigi la vidon
 STR_0832    :{SMALLFONT}{BLACK}Turni la vidon 90° dekstrume
 STR_0833    :{SMALLFONT}{BLACK}Paŭzigi la ludon
 STR_0834    :{SMALLFONT}{BLACK}Agordoj de disko kaj ludo
@@ -1741,98 +1741,98 @@ STR_2392    :{BLACK}Atingi enspezon monatan ne malpli ol {POP16}{POP16}{CURRENCY
 STR_2393    :{BLACK}Havi 10 malsamajn tipojn de ondaj fervojoj, kiuj funkcias en via parko, kaj havas po mimimuman longecon de {LENGTH} kaj pritakson de eksciteco ne malpli ol 7.00
 STR_2394    :{BLACK}Fini la konstruadon de la tutaj 5 ondaj fervojoj, kiuj estas konstruita parte. Desegni ilin, por atingi po pritakson de eksciteco ne malpli ol {POP16}{POP16}{COMMA2DP32}
 STR_2395    :{BLACK}Repagi vian prunton, kaj atingi parkvaloron ne malpli ol {POP16}{POP16}{CURRENCY}
-STR_2396    :{BLACK}Atingi enspezon monatan ne malpli ol {POP16}{POP16}{CURRENCY}, pro la vendado de manĝaĵoj, trinkaĵoj, kaj komercaĵoj
+STR_2396    :{BLACK}Atingi profiton monatan ne malpli ol {POP16}{POP16}{CURRENCY}, pro la vendado de manĝaĵoj, trinkaĵoj, kaj komercaĵoj
 STR_2397    :Neniu
 STR_2398    :Nombro de gastoj je certa dato
 STR_2399    :Parkvaloro je certa dato
-STR_2400    :Have fun
-STR_2401    :Build the best ride you can
-STR_2402    :Build 10 roller coasters
-STR_2403    :Number of guests in park
-STR_2404    :Monthly income from ride tickets
-STR_2405    :Build 10 roller coasters of a given length
-STR_2406    :Finish building 5 roller coasters
-STR_2407    :Repay loan and achieve a given park value
-STR_2408    :Monthly profit from food/merchandise
-STR_2409    :{WINDOW_COLOUR_2}Marketing campaigns in operation
-STR_2410    :{BLACK}None
-STR_2411    :{WINDOW_COLOUR_2}Marketing campaigns available
-STR_2412    :{SMALLFONT}{BLACK}Start this marketing campaign
-STR_2413    :{BLACK}({CURRENCY2DP} per week)
-STR_2414    :(Not Selected)
-STR_2415    :{WINDOW_COLOUR_2}Ride:
-STR_2416    :{WINDOW_COLOUR_2}Item:
-STR_2417    :{WINDOW_COLOUR_2}Length of time:
-STR_2418    :Free entry to {STRINGID}
-STR_2419    :Free ride on {STRINGID}
-STR_2420    :Half-price entry to {STRINGID}
-STR_2421    :Free {STRINGID}
-STR_2424    :{WINDOW_COLOUR_2}Vouchers for free entry to the park
-STR_2425    :{WINDOW_COLOUR_2}Vouchers for free rides on a particular ride
-STR_2426    :{WINDOW_COLOUR_2}Vouchers for half-price entry to the park
-STR_2427    :{WINDOW_COLOUR_2}Vouchers for free food or drink
-STR_2428    :{WINDOW_COLOUR_2}Advertising campaign for the park
-STR_2429    :{WINDOW_COLOUR_2}Advertising campaign for a particular ride
-STR_2430    :{BLACK}Vouchers for free entry to {STRINGID}
-STR_2431    :{BLACK}Vouchers for free ride on {STRINGID}
-STR_2432    :{BLACK}Vouchers for half-price entry to {STRINGID}
-STR_2433    :{BLACK}Vouchers for free {STRINGID}
-STR_2434    :{BLACK}Advertising campaign for {STRINGID}
-STR_2435    :{BLACK}Advertising campaign for {STRINGID}
-STR_2436    :1 week
-STR_2443    :{WINDOW_COLOUR_2}Cost per week: {BLACK}{CURRENCY2DP}
-STR_2444    :{WINDOW_COLOUR_2}Total cost: {BLACK}{CURRENCY2DP}
-STR_2445    :Start this marketing campaign
-STR_2446    :{YELLOW}Your marketing campaign for free entry to the park has finished
-STR_2447    :{YELLOW}Your marketing campaign for free rides on {STRINGID} has finished
-STR_2448    :{YELLOW}Your marketing campaign for half-price entry to the park has finished
-STR_2449    :{YELLOW}Your marketing campaign for free {STRINGID} has finished
-STR_2450    :{YELLOW}Your advertising campaign for the park has finished
-STR_2451    :{YELLOW}Your advertising campaign for {STRINGID} has finished
-STR_2452    :{WINDOW_COLOUR_2}Cash (less loan): {BLACK}{CURRENCY2DP}
-STR_2453    :{WINDOW_COLOUR_2}Cash (less loan): {RED}{CURRENCY2DP}
+STR_2400    :Amuzi vin
+STR_2401    :Konstrui la plej bonan atrakcion, kiun vi povas konstrui
+STR_2402    :Konstrui 10 ondajn fervojojn
+STR_2403    :Nombro de gastoj en la parko
+STR_2404    :Enspezo monata pro la vendado de biletoj de atrakcioj
+STR_2405    :Konstrui 10 ondajn fervojojn kun certa longeco
+STR_2406    :Fini la konstruadon de 5 ondaj fervojoj
+STR_2407    :Repagi la prunton, kaj atingi certan parkvaloron
+STR_2408    :Profito monata pro la vendado de manĝaĵoj/komercaĵoj
+STR_2409    :{WINDOW_COLOUR_2}Aktualaj kampanjoj de vendado
+STR_2410    :{BLACK}Neniuj
+STR_2411    :{WINDOW_COLOUR_2}Disponeblaj kampanjoj de vendado
+STR_2412    :{SMALLFONT}{BLACK}Komenci ĉi tiun kampanjojn de vendado
+STR_2413    :{BLACK}(po {CURRENCY2DP} por semajno)
+STR_2414    :(Ne elektita)
+STR_2415    :{WINDOW_COLOUR_2}Atrakcio:
+STR_2416    :{WINDOW_COLOUR_2}Afero:
+STR_2417    :{WINDOW_COLOUR_2}Daŭro:
+STR_2418    :Senkosta eniro por {STRINGID}
+STR_2419    :Senkosta fojo sur {STRINGID}
+STR_2420    :Duona-kosta eniro por {STRINGID}
+STR_2421    :Senkosta {STRINGID}
+STR_2424    :{WINDOW_COLOUR_2}Kuponoj por senkosta eniro ĉe la parko
+STR_2425    :{WINDOW_COLOUR_2}Kuponoj por senkostaj fojoj sur certa atrakcio
+STR_2426    :{WINDOW_COLOUR_2}Kuponoj por duona-kosta eniro ĉe la parko
+STR_2427    :{WINDOW_COLOUR_2}Kuponoj por senkostaj manĝaĵo aŭ trinkaĵo
+STR_2428    :{WINDOW_COLOUR_2}Kampanjo de reklamado por la parko
+STR_2429    :{WINDOW_COLOUR_2}Kampanjo de reklamado por iu atrakcio
+STR_2430    :{BLACK}Kuponoj por senkosta eniro ĉe {STRINGID}
+STR_2431    :{BLACK}Kuponoj por senkosta fojo sur {STRINGID}
+STR_2432    :{BLACK}Kuponoj por duona-kosta eniro ĉe {STRINGID}
+STR_2433    :{BLACK}Kuponoj por senkosta {STRINGID}
+STR_2434    :{BLACK}Kampanjo de reklamado por {STRINGID}
+STR_2435    :{BLACK}Kampanjo de reklamado por {STRINGID}
+STR_2436    :1 semajno
+STR_2443    :{WINDOW_COLOUR_2}Kosto ĉiusemajna: {BLACK}{CURRENCY2DP}
+STR_2444    :{WINDOW_COLOUR_2}Totala kosto: {BLACK}{CURRENCY2DP}
+STR_2445    :Komenci ĉi tiun kampanjon de vendado
+STR_2446    :{YELLOW}Via kampanjo de vendado por senkosta eniro ĉe la parko finiĝis
+STR_2447    :{YELLOW}Via kampanjo de vendado por senkostaj fojoj sur {STRINGID} finiĝis
+STR_2448    :{YELLOW}Via kampanjo de vendado por duona-kosta eniro ĉe la parko finiĝis
+STR_2449    :{YELLOW}Via kampanjo de vendado por senkosta {STRINGID} finiĝis
+STR_2450    :{YELLOW}Via kampanjo de reklamado por la parko finiĝis
+STR_2451    :{YELLOW}Via kampanjo de reklamado por {STRINGID} finiĝis
+STR_2452    :{WINDOW_COLOUR_2}Mono (minus la prunto): {BLACK}{CURRENCY2DP}
+STR_2453    :{WINDOW_COLOUR_2}Mono (minus la prunto): {RED}{CURRENCY2DP}
 STR_2454    :{SMALLFONT}{BLACK}{CURRENCY2DP} -
-STR_2457    :{SMALLFONT}{BLACK}Show financial accounts
-STR_2458    :{SMALLFONT}{BLACK}Show graph of cash (less loan) over time
-STR_2459    :{SMALLFONT}{BLACK}Show graph of park value over time
-STR_2460    :{SMALLFONT}{BLACK}Show graph of weekly profit
-STR_2461    :{SMALLFONT}{BLACK}Show marketing campaigns
-STR_2462    :{SMALLFONT}{BLACK}Show view of park entrance
-STR_2463    :{SMALLFONT}{BLACK}Show graph of park ratings over time
-STR_2464    :{SMALLFONT}{BLACK}Show graph of guest numbers over time
-STR_2465    :{SMALLFONT}{BLACK}Show park entrance price and information
-STR_2466    :{SMALLFONT}{BLACK}Show park statistics
-STR_2467    :{SMALLFONT}{BLACK}Show objectives for this game
-STR_2468    :{SMALLFONT}{BLACK}Show recent awards this park has received
-STR_2469    :{SMALLFONT}{BLACK}Select level of research & development
-STR_2470    :{SMALLFONT}{BLACK}Research new transport rides
-STR_2471    :{SMALLFONT}{BLACK}Research new gentle rides
-STR_2472    :{SMALLFONT}{BLACK}Research new roller coasters
-STR_2473    :{SMALLFONT}{BLACK}Research new thrill rides
-STR_2474    :{SMALLFONT}{BLACK}Research new water rides
-STR_2475    :{SMALLFONT}{BLACK}Research new shops and stalls
-STR_2476    :{SMALLFONT}{BLACK}Research new scenery and theming
-STR_2477    :{SMALLFONT}{BLACK}Select operating mode for this ride/attraction
-STR_2478    :{SMALLFONT}{BLACK}Show graph of velocity against time
-STR_2479    :{SMALLFONT}{BLACK}Show graph of altitude against time
-STR_2480    :{SMALLFONT}{BLACK}Show graph of vertical acceleration against time
-STR_2481    :{SMALLFONT}{BLACK}Show graph of lateral acceleration against time
-STR_2482    :{SMALLFONT}{BLACK}Profit: {CURRENCY} per week,  Park Value: {CURRENCY}
-STR_2483    :{WINDOW_COLOUR_2}Weekly profit: {BLACK}+{CURRENCY2DP}
-STR_2484    :{WINDOW_COLOUR_2}Weekly profit: {RED}{CURRENCY2DP}
-STR_2487    :Show 'real' names of guests
-STR_2488    :{SMALLFONT}{BLACK}Toggle between showing 'real' names of guests and guest numbers
-STR_2489    :Shortcut keys...
-STR_2490    :Keyboard shortcuts
-STR_2491    :Reset keys
-STR_2492    :{SMALLFONT}{BLACK}Set all keyboard shortcuts back to default settings
-STR_2493    :Close top-most window
-STR_2494    :Close all floating windows
-STR_2495    :Cancel construction mode
-STR_2496    :Pause game
-STR_2497    :Zoom view out
-STR_2498    :Zoom view in
-STR_2499    :Rotate view clockwise
+STR_2457    :{SMALLFONT}{BLACK}Montri la financajn kontojn
+STR_2458    :{SMALLFONT}{BLACK}Montri la diagramon de mono (minus la prunto) kontraŭ la tempo
+STR_2459    :{SMALLFONT}{BLACK}Montri la diagramon de la parkvaloro kontraŭ la tempo
+STR_2460    :{SMALLFONT}{BLACK}Montri la diagramon de la ĉiusemajna profito
+STR_2461    :{SMALLFONT}{BLACK}Montri la kampanjojn de vendado
+STR_2462    :{SMALLFONT}{BLACK}Montri la vidon de la parkenirejo
+STR_2463    :{SMALLFONT}{BLACK}Montri la diagramon de la pritakso de la parko kontraŭ la tempo
+STR_2464    :{SMALLFONT}{BLACK}Montri la diagramon de la nombro de gastoj kontraŭ la tempo
+STR_2465    :{SMALLFONT}{BLACK}Montri la parkeniro-koston kaj informojn
+STR_2466    :{SMALLFONT}{BLACK}Montri la statistikojn de ĉi tiu parko
+STR_2467    :{SMALLFONT}{BLACK}Montri la celojn por ĉi tiu ludo
+STR_2468    :{SMALLFONT}{BLACK}Montri la lastajn premiojn, kiujn ĉi tiu parko ricevis
+STR_2469    :{SMALLFONT}{BLACK}Elekti la nivelon de la esplorado k disvolvado
+STR_2470    :{SMALLFONT}{BLACK}Esplori novajn transport-atrakciojn
+STR_2471    :{SMALLFONT}{BLACK}Esplori novajn mildajn atrakciojn
+STR_2472    :{SMALLFONT}{BLACK}Esplori novajn ondajn fervojojn
+STR_2473    :{SMALLFONT}{BLACK}Esplori novajn ekscitajn atrakciojn
+STR_2474    :{SMALLFONT}{BLACK}Esplori novajn akvo-atrakciojn
+STR_2475    :{SMALLFONT}{BLACK}Esplori novajn vendejojn kaj budojn
+STR_2476    :{SMALLFONT}{BLACK}Esplori novajn pezaĵon kaj temaĵojn
+STR_2477    :{SMALLFONT}{BLACK}Elekti la manieron de funkciado por ĉi tiu atrakcio
+STR_2478    :{SMALLFONT}{BLACK}Montri la diagramon de la rapideco kontraŭ la tempo
+STR_2479    :{SMALLFONT}{BLACK}Montri la diagramon de la alteco kontraŭ la tempo
+STR_2480    :{SMALLFONT}{BLACK}Montri la diagramon de la vertikala plirapidigo kontraŭ la tempo
+STR_2481    :{SMALLFONT}{BLACK}Montri la diagramon de la flanka plirapidigo kontraŭ la tempo
+STR_2482    :{SMALLFONT}{BLACK}Profito: po {CURRENCY} por semajno,  Parkvaloro: {CURRENCY}
+STR_2483    :{WINDOW_COLOUR_2}Profito semajna: {BLACK}+{CURRENCY2DP}
+STR_2484    :{WINDOW_COLOUR_2}Profito semajna: {RED}{CURRENCY2DP}
+STR_2487    :Montri la 'faktajn' nomojn de la gastoj
+STR_2488    :{SMALLFONT}{BLACK}Baskuligi inter la montrado de la 'faktaj' nomoj de la gastoj, kaj gastnumeroj
+STR_2489    :Klavarokomandojn...
+STR_2490    :Klavarokomandojn
+STR_2491    :Restartigi la klavojn
+STR_2492    :{SMALLFONT}{BLACK}Remeti ĉiujn klavarokomandojn al iliaj defaŭltaj agordoj
+STR_2493    :Fermi la plej supran fenestron
+STR_2494    :Fermi ĉiujn glitajn fenestrojn
+STR_2495    :Nuligi la manieron de konstruado
+STR_2496    :Paŭzigi la ludon
+STR_2497    :Malzomigi la vidon
+STR_2498    :Zomigi la vidon
+STR_2499    :Turni la vidon dekstrumen
 STR_2500    :Turni la konstruatan objekton
 STR_2501    :Baskuligi la subteran vidon
 STR_2502    :Baskuligi la bazan bienon
