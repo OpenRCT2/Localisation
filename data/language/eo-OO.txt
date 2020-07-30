@@ -1205,7 +1205,7 @@ STR_1830    :Longeco de la atendovico
 STR_1831    :Daŭro de la vicatendado
 STR_1832    :Fidindo
 STR_1833    :Periodo de nefunkciado
-STR_1834    :Favorato de ĉi tiom gastoj
+STR_1834    :La plej ŝatataj de tiom da gastoj
 STR_1835    :Populareco: Nekonata
 STR_1836    :Populareco: {COMMA16}%
 STR_1837    :Kontento: Nekonata
@@ -1213,8 +1213,8 @@ STR_1838    :Kontento: {COMMA16}%
 STR_1839    :Fidindo: {COMMA16}%
 STR_1840    :Periodo de nefunkciado: {COMMA16}%
 STR_1841    :Profito: po {CURRENCY2DP} por horo
-STR_1842    :Favorato de: {COMMA16} gasto
-STR_1843    :Favorato de: {COMMA16} gastoj
+STR_1842    :La plej ŝatataj de: {COMMA16} gasto
+STR_1843    :La plej ŝatataj de: {COMMA16} gastoj
 STR_1844    :{SMALLFONT}{BLACK}Elekti la tipon de informoj por montri en la listo de atrakcioj
 STR_1845    :{MONTHYEAR}
 STR_1846    :{COMMA32} gastoj
@@ -1276,7 +1276,7 @@ STR_1904    :{WINDOW_COLOUR_2}Stokoj de budoj
 STR_1905    :{WINDOW_COLOUR_2}Vendoj de manĝaĵoj/trinkaĵoj
 STR_1906    :{WINDOW_COLOUR_2}Stokoj de manĝaĵoj/trinkaĵoj
 STR_1907    :{WINDOW_COLOUR_2}Salajroj de laboristoj
-STR_1908    :{WINDOW_COLOUR_2}Merkatado
+STR_1908    :{WINDOW_COLOUR_2}Vendado
 STR_1909    :{WINDOW_COLOUR_2}Esplorado
 STR_1910    :{WINDOW_COLOUR_2}Pruntinterezo
 STR_1911    :{BLACK} po {COMMA16}% por jaro
@@ -1320,7 +1320,7 @@ STR_1949    :Resumo de la Financoj
 STR_1950    :Diagramo de la Financoj
 STR_1951    :Diagramo de la Parkvaloro
 STR_1952    :Diagramo de la Profito
-STR_1953    :Merkatado
+STR_1953    :Vendado
 STR_1954    :Financado por Esplorado
 STR_1955    :{WINDOW_COLOUR_2}Nombro de cirkvitoj:
 STR_1956    :{SMALLFONT}{BLACK}Nombro de cirkvitoj de la trako por ĉiu rajdanto
@@ -2138,79 +2138,79 @@ STR_3006    :{PALEGOLD}ABC
 STR_3007    :{LIGHTPINK}ABC
 STR_3008    :{PEARLAQUA}ABC
 STR_3009    :{PALESILVER}ABC
-STR_3010    :Unable to load file...
-STR_3011    :File contains invalid data
-STR_3012    :Dodgems beat style
-STR_3013    :Fairground organ style
-STR_3014    :Roman fanfare style
-STR_3015    :Oriental style
-STR_3016    :Martian style
-STR_3017    :Jungle drums style
-STR_3018    :Egyptian style
-STR_3019    :Toyland style
+STR_3010    :Ne eblas ŝargi la dosieron...
+STR_3011    :La doserio enhavas nevalidan datumon
+STR_3012    :Stilo de la takto de albatiĝantaj aŭtetoj
+STR_3013    :Stilo de foirejo-orgeno
+STR_3014    :Stilo de roma fanfaro
+STR_3015    :Stilo orienta
+STR_3016    :Stilo marsa
+STR_3017    :Stilo de ĝangalaj tamburoj
+STR_3018    :Stilo egipta
+STR_3019    :Stilo de ludilejo
 STR_3020    :
-STR_3021    :Space style
-STR_3022    :Horror style
-STR_3023    :Techno style
-STR_3024    :Gentle style
-STR_3025    :Summer style
-STR_3026    :Water style
-STR_3027    :Wild west style
-STR_3028    :Jurassic style
-STR_3029    :Rock style
-STR_3030    :Ragtime style
-STR_3031    :Fantasy style
-STR_3032    :Rock style 2
-STR_3033    :Ice style
-STR_3034    :Snow style
-STR_3035    :Custom music 1
-STR_3036    :Custom music 2
-STR_3037    :Medieval style
-STR_3038    :Urban style
-STR_3039    :Organ style
-STR_3040    :Mechanical style
-STR_3041    :Modern style
-STR_3042    :Pirates style
-STR_3043    :Rock style 3
-STR_3044    :Candy style
-STR_3045    :{SMALLFONT}{BLACK}Select style of music to play
-STR_3047    :Local authority forbids demolition or modifications to this ride
-STR_3048    :Marketing campaigns forbidden by local authority
-STR_3049    :Golf hole A
-STR_3050    :Golf hole B
-STR_3051    :Golf hole C
-STR_3052    :Golf hole D
-STR_3053    :Golf hole E
-STR_3054    :Loading...
-STR_3058    :Brick walls
-STR_3059    :Hedges
-STR_3060    :Ice blocks
-STR_3061    :Wooden fences
-STR_3062    :{SMALLFONT}{BLACK}Standard roller coaster track
-STR_3063    :{SMALLFONT}{BLACK}Water channel (track submerged)
-STR_3064    :Beginner Parks
-STR_3065    :Challenging Parks
-STR_3066    :Expert Parks
-STR_3067    :“Real” Parks
-STR_3068    :Other Parks
-STR_3069    :Top Section
-STR_3070    :Slope to Level
-STR_3071    :{WINDOW_COLOUR_2}Same price throughout park
-STR_3072    :{SMALLFONT}{BLACK}Select whether this price is used throughout the entire park
-STR_3073    :{RED}WARNING: Your park rating has dropped below 700!{NEWLINE}If you haven't raised the park rating in 4 weeks, your park will be closed down
-STR_3074    :{RED}WARNING: Your park rating is still below 700!{NEWLINE}You have 3 weeks to raise the park rating
-STR_3075    :{RED}WARNING: Your park rating is still below 700!{NEWLINE}You have only 2 weeks to raise the park rating, or your park will be closed down
-STR_3076    :{RED}FINAL WARNING: Your park rating is still below 700!{NEWLINE}In just 7 days your park will be closed down unless you can raise the rating
-STR_3077    :{RED}CLOSURE NOTICE: Your park has been closed down!
-STR_3090    :{SMALLFONT}{BLACK}Select style of entrance, exit, and station
-STR_3091    :You are not allowed to remove this section!
-STR_3092    :You are not allowed to move or modify the station for this ride!
-STR_3093    :{WINDOW_COLOUR_2}Favourite: {BLACK}{STRINGID}
-STR_3094    :N/A
-STR_3095    :{WINDOW_COLOUR_2}Lift hill chain speed:
+STR_3021    :Stilo de spaco
+STR_3022    :Stilo de hororo
+STR_3023    :Stilo de tekno
+STR_3024    :Stilo milda
+STR_3025    :Stilo de somero
+STR_3026    :Stilo de akvo
+STR_3027    :Stilo de la sovaĝa okcidento
+STR_3028    :Stilo ĵurasa
+STR_3029    :Stilo de rokmuziko
+STR_3030    :Stilo de ragtimo
+STR_3031    :Stilo fantasta
+STR_3032    :Stilo de rokmuziko 2
+STR_3033    :Stilo de glacio
+STR_3034    :Stilo de neĝo
+STR_3035    :Propra muziko 1
+STR_3036    :Propra muziko 2
+STR_3037    :Stilo mezepoka
+STR_3038    :Stilo urba
+STR_3039    :Stilo de orgeno
+STR_3040    :Stilo mekanika
+STR_3041    :Stilo moderna
+STR_3042    :Stilo de piratoj
+STR_3043    :Stilo de rokmuziko 3
+STR_3044    :Stilo de dolĉaĵo
+STR_3045    :{SMALLFONT}{BLACK}Elekti la stilon de muziko por ludi
+STR_3047    :La loka aŭtoritato malpermesas la malkonstruadon aŭ la redaktadon de ĉi tiu atrakcio
+STR_3048    :La loka aŭtoritato malpermesas kampanjojn de vendado
+STR_3049    :Truo de golfo A
+STR_3050    :Truo de golfo B
+STR_3051    :Truo de golfo C
+STR_3052    :Truo de golfo D
+STR_3053    :Truo de golfo E
+STR_3054    :Ŝargado...
+STR_3058    :Brikaj muroj
+STR_3059    :Heĝoj
+STR_3060    :Blokoj de glacio
+STR_3061    :Lignaj bariloj
+STR_3062    :{SMALLFONT}{BLACK}Normala trako de ondaj fervojoj
+STR_3063    :{SMALLFONT}{BLACK}Akvokanalo (subakva trako)
+STR_3064    :Facilaj Parkoj
+STR_3065    :Malfacilegaj Parkoj
+STR_3066    :Ekspertaj Parkoj
+STR_3067    :“Faktaj” Parkoj
+STR_3068    :Aliaj Parkoj
+STR_3069    :Supra Parto
+STR_3070    :Deklivo al Ebena Parto
+STR_3071    :{WINDOW_COLOUR_2}Sama kosto tra la parko
+STR_3072    :{SMALLFONT}{BLACK}Elekti ĉu ĉi tiu kosto estas uzata tra la tuta parko
+STR_3073    :{RED}AVERTO: La pritakso de la parko falis sub 700!{NEWLINE}Se vi ne plibonigas la pritakson de la parko dum 4 semajnoj, via parko estos fermita
+STR_3074    :{RED}AVERTO: La pritakso de la parko ankoraŭ estas malpli ol 700!{NEWLINE}Vi havas 3 semajnoj por plibonigi la pritakson de la parko
+STR_3075    :{RED}AVERTO: La pritakso de la parko ankoraŭ estas malpli ol 700!{NEWLINE}Vi havas nur 2 semajnoj por plibonigi la pritakson de la parko, aŭ via parko estos fermita alie
+STR_3076    :{RED}FINA AVERTO: La pritakso de la parko ankoraŭ estas malpli ol 700!{NEWLINE}En nur 7 tagoj, via parko estos fermita, krom se vi povas plibonigi la pritakson
+STR_3077    :{RED}ATENTIGO PRI FERMIĜO: Via parko estis fermita!
+STR_3090    :{SMALLFONT}{BLACK}Elekti la stilon de la enirejo, elirejo, kaj stacio
+STR_3091    :Vi ne povas forigi ĉi tiun parton!
+STR_3092    :Vi ne povas movi aŭ redakti la stacion por ĉi tiu atrakcio!
+STR_3093    :{WINDOW_COLOUR_2}Plej ŝatas: {BLACK}{STRINGID}
+STR_3094    :Neaplikebla
+STR_3095    :{WINDOW_COLOUR_2}Rapideco de la ĉenlifto:
 STR_3096    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
-STR_3097    :{SMALLFONT}{BLACK}Select lift hill chain speed
-STR_3099    :{SMALLFONT}{BLACK}Select colour
+STR_3097    :{SMALLFONT}{BLACK}Elekti la rapidecon de la ĉenlifto
+STR_3099    :{SMALLFONT}{BLACK}Elekti la koloron
 STR_3100    :{SMALLFONT}{BLACK}Select second colour
 STR_3101    :{SMALLFONT}{BLACK}Select third colour
 STR_3102    :{SMALLFONT}{BLACK}Re-paint coloured scenery on landscape
