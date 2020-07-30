@@ -2391,92 +2391,92 @@ STR_3296    :{SMALLFONT}{BLACK}Change name of scenario
 STR_3297    :{SMALLFONT}{BLACK}Change detail notes about park / scenario
 STR_3298    :{WINDOW_COLOUR_2}Park Name: {BLACK}{STRINGID}
 STR_3299    :{WINDOW_COLOUR_2}Park/Scenario Details:
-STR_3300    :{WINDOW_COLOUR_2}Scenario Name: {BLACK}{STRINGID}
-STR_3301    :{WINDOW_COLOUR_2}Objective Date:
+STR_3300    :{WINDOW_COLOUR_2}Nomo de la Scenaro: {BLACK}{STRINGID}
+STR_3301    :{WINDOW_COLOUR_2}Dato de la Celo:
 STR_3302    :{WINDOW_COLOUR_2}{MONTHYEAR}
-STR_3303    :{WINDOW_COLOUR_2}Number of guests:
-STR_3304    :{WINDOW_COLOUR_2}Park value:
-STR_3305    :{WINDOW_COLOUR_2}Monthly income:
-STR_3306    :{WINDOW_COLOUR_2}Monthly profit:
-STR_3307    :{WINDOW_COLOUR_2}Minimum length:
-STR_3308    :{WINDOW_COLOUR_2}Excitement rating:
+STR_3303    :{WINDOW_COLOUR_2}Nombro de gastoj:
+STR_3304    :{WINDOW_COLOUR_2}Parkvaloro:
+STR_3305    :{WINDOW_COLOUR_2}Enspezo monata:
+STR_3306    :{WINDOW_COLOUR_2}Profito monata:
+STR_3307    :{WINDOW_COLOUR_2}Minimuma longeco:
+STR_3308    :{WINDOW_COLOUR_2}Pritakso de eksciteco:
 STR_3309    :{WINDOW_COLOUR_2}{COMMA16}
 STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
 STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
-STR_3312    :{WINDOW_COLOUR_2}Rides/attractions under a preservation order:
-STR_3313    :Scenario Name
-STR_3314    :Enter name for scenario:
-STR_3315    :Park/Scenario Details
-STR_3316    :Enter description of this scenario:
-STR_3317    :No details yet
-STR_3318    :{SMALLFONT}{BLACK}Select which group this scenario appears in
-STR_3319    :{WINDOW_COLOUR_2}Scenario Group:
-STR_3320    :Unable to save scenario file...
-STR_3321    :New objects installed successfully
-STR_3322    :{WINDOW_COLOUR_2}Objective: {BLACK}{STRINGID}
-STR_3326    :{WINDOW_COLOUR_2}(no image)
-STR_3327    :Starting positions for people not set
-STR_3328    :Can't advance to next editor stage...
-STR_3329    :Park entrance not yet built
-STR_3330    :Park must own some land
-STR_3331    :Path from park entrance to map edge either not complete or too complex. Path must be single-width with as few junctions and corners as possible.
-STR_3332    :Park entrance is the wrong way round or has no path leading to the map edge
-STR_3333    :Export custom objects with saved games
-STR_3334    :{SMALLFONT}{BLACK}Select whether to save any additional custom object data required (add-in data not supplied with the main product) in saved game or scenario files, allowing them to be loaded by someone who doesn't have the additional object data
-STR_3335    :Track Designer - Select Ride Types & Vehicles
-STR_3336    :Track Designs Manager - Select Ride Type
-STR_3338    :{BLACK}Custom-designed layout
-STR_3339    :{BLACK}{COMMA16} design available, or custom-designed layout
-STR_3340    :{BLACK}{COMMA16} designs available, or custom-designed layout
-STR_3341    :{SMALLFONT}{BLACK}Game tools
-STR_3342    :Scenario Editor
-STR_3343    :Convert saved game to scenario
-STR_3344    :Track Designer
-STR_3345    :Track Designs Manager
-STR_3346    :Can't save track design...
-STR_3347    :Ride is too large, contains too many elements, or scenery is too spread out
-STR_3348    :Rename
-STR_3349    :Delete
-STR_3350    :Track design name
-STR_3351    :Enter new name for this track design:
-STR_3352    :Can't rename track design...
-STR_3353    :New name contains invalid characters
-STR_3354    :Another file exists with this name, or file is write-protected
-STR_3355    :File is write-protected or locked
-STR_3356    :Delete File
-STR_3357    :{WINDOW_COLOUR_2}Are you sure you want to permanently delete {STRING}?
-STR_3358    :Can't delete track design...
-STR_3359    :{BLACK}No track designs of this type
-STR_3360    :Warning!
-STR_3361    :Too many track designs of this type. Some will not be listed.
-STR_3364    :Advanced
-STR_3365    :{SMALLFONT}{BLACK}Allow selection of individual items of scenery in addition to scenery groups
-STR_3366    :{BLACK}= Ride
-STR_3367    :{BLACK}= Food Stall
-STR_3368    :{BLACK}= Drink Stall
-STR_3369    :{BLACK}= Souvenir Stall
-STR_3370    :{BLACK}= Info. Kiosk
-STR_3371    :{BLACK}= First Aid
-STR_3372    :{BLACK}= Cash Machine
-STR_3373    :{BLACK}= Toilet
-STR_3374    :Warning: Too many objects selected!
-STR_3375    :Not all objects in this scenery group could be selected
-STR_3376    :Install new
-STR_3377    :{SMALLFONT}{BLACK}Install a new track design file
-STR_3378    :Install
-STR_3379    :Cancel
-STR_3380    :Unable to install this track design...
-STR_3381    :File is not compatible or contains invalid data
-STR_3382    :File copy failed
-STR_3383    :Select new name for track design
-STR_3384    :An existing track design already has this name. Please select a new name for this design:
-STR_3389    :Unable to select additional item of scenery...
-STR_3390    :Too many items selected
-STR_3437    :{SMALLFONT}{BLACK}Clear large areas of scenery from landscape
-STR_3438    :Unable to remove all scenery from here...
-STR_3439    :Clear Scenery
-STR_3445    :Set Patrol Area
-STR_3446    :Cancel Patrol Area
+STR_3312    :{WINDOW_COLOUR_2}Atrakcioj, kiujn oni ne eblas ŝanĝi por la scenaro:
+STR_3313    :Nomo de Scenaro
+STR_3314    :Entajpi la nomon de la scenaro:
+STR_3315    :Detaloj de la Parko/Scenaro
+STR_3316    :Entajpi la priskribon de ĉi tiu scenaro:
+STR_3317    :Neniuj detaloj ankoraŭ
+STR_3318    :{SMALLFONT}{BLACK}Elekti en kiu grupo ĉi tiu scenaro aperas
+STR_3319    :{WINDOW_COLOUR_2}Scenaro-Grupo:
+STR_3320    :Ne eblas konservi doserion de scenaro...
+STR_3321    :Novaj objektoj instalis sukcese
+STR_3322    :{WINDOW_COLOUR_2}Celo: {BLACK}{STRINGID}
+STR_3326    :{WINDOW_COLOUR_2}(neniu bildo)
+STR_3327    :Ekirejoj de la homoj ne estas agorditaj
+STR_3328    :Ne eblas iri al la sekva etapo de la redaktilo...
+STR_3329    :Parkenirejo ankoraŭ ne estas konstruita
+STR_3330    :La parko devas posedi iom da bieno
+STR_3331    :La vojo de la parkenirejo ĝis la mapbordo estas aŭ nekompleta aŭ tro komplika. La vojo devas havi larĝon de nur 1 bloko, kaj kiel eble plej malmulte da anguloj kaj kunigaĵoj
+STR_3332    :La parkenirejo estas renversita, aŭ ne havas vojon al la mapbordo
+STR_3333    :Eksporti proprajn objektojn kun konservitaj ludoj
+STR_3334    :{SMALLFONT}{BLACK}Elekti ĉu la programo konservas datumojn de aldonaj bezonataj propraj objektoj (aldonaj datumoj, kiuj ne estas provizitaj per la ĉefa produktaĵo) en la dosierojn de konservitaj ludoj aŭ scenaroj. Se jes, iu, kiu ne havas la aldonajn objektodatumojn, povas ŝargi la ludon
+STR_3335    :Trakdesegnilo - Elekti la Tipojn de Atrakcioj k Veturiloj
+STR_3336    :Administrilo de Trakdesegnoj - Elekti la Tipon de la Atrakcio
+STR_3338    :{BLACK}Propra desegno
+STR_3339    :{BLACK}{COMMA16} desegno estas disponebla, aŭ uzu propran desegnon
+STR_3340    :{BLACK}{COMMA16} desegnoj estas disponebla, aŭ uzu propran desegnon
+STR_3341    :{SMALLFONT}{BLACK}Iloj de la ludo
+STR_3342    :Scenaroredaktilo
+STR_3343    :Konverti ludon konservitan al scenaro
+STR_3344    :Trakdesegnilo
+STR_3345    :Administrilo de Trakdesegnoj
+STR_3346    :Ne eblas konservi la trakdesegnon...
+STR_3347    :La atrakcio estas tro granda aŭ enhavas tro da eroj, aŭ la pejzaĝo estas tro maldensa
+STR_3348    :Renomi
+STR_3349    :Forigi
+STR_3350    :Nomo de trakdesegno
+STR_3351    :Entajpi la novan nomon de ĉi tiu trakdesegno:
+STR_3352    :Ne eblas renomi la trakdesegnon...
+STR_3353    :La nova nomo enhavas nevalidajn signojn
+STR_3354    :Alia dosiero kun la sama nomo jam ekzistas, aŭ la dosiero estas kontraŭskribe protektita
+STR_3355    :La dosiero estas kontraŭskribe protektita, aŭ ŝlosita
+STR_3356    :Forigi la Dosieron
+STR_3357    :{WINDOW_COLOUR_2}Ĉu vi vere volas porĉiame forigi je {STRING}?
+STR_3358    :Ne eblas forigi la trakdesegnon...
+STR_3359    :{BLACK}Neniu trakdesegno de ĉi tiu tipo
+STR_3360    :Averto!
+STR_3361    :Tro da trakdesegnoj de ĉi tiu tipo. Iuj ne aperos en listo.
+STR_3364    :Altnivela
+STR_3365    :{SMALLFONT}{BLACK}Permesi la elektadon de individuaj eroj de pejzaĝo kun la grupoj de pejzaĝo
+STR_3366    :{BLACK}= Atrakcio
+STR_3367    :{BLACK}= Budo de Manĝaĵo
+STR_3368    :{BLACK}= Budo de Trinkaĵo
+STR_3369    :{BLACK}= Budo de Komercaĵo
+STR_3370    :{BLACK}= Informokiosko
+STR_3371    :{BLACK}= Sukurejo
+STR_3372    :{BLACK}= Monaŭtomato
+STR_3373    :{BLACK}= Necesejo
+STR_3374    :Averto: Tro da objektoj elektitaj!
+STR_3375    :Ne ĉiuj objektoj en ĉi tiu grupo de pejzaĝo eblas esti elektita
+STR_3376    :Instali nova...
+STR_3377    :{SMALLFONT}{BLACK}Instali dosieron kun nova trakdesegno
+STR_3378    :Instali
+STR_3379    :Nuligi
+STR_3380    :Ne eblas instali ĉi tiun trakdesegnon...
+STR_3381    :Dosiero ne estas kongrua, aŭ enhavas nevalidajn datumojn
+STR_3382    :Kopiado de la doserio malsukcesis
+STR_3383    :Elekti novan nomon de la trakdesegno
+STR_3384    :Iu trakdesegno jam havas ĉi tiun nomon. Bonvolu elekti novan nomon por ĉi tiu desegno:
+STR_3389    :Ne eblas elekti plian eron de pejzaĝo...
+STR_3390    :Tro da eroj elektitaj
+STR_3437    :{SMALLFONT}{BLACK}Vakigi grandajn areojn de pejzaĝon
+STR_3438    :Ne eblas forigi la tutan pejzaĝon de ĉi tie...
+STR_3439    :Vakigi la Pejzaĝon
+STR_3445    :Agordi la Patrolzonon
+STR_3446    :Vakigi la Patrolzonon
 
 # New strings, cleaner
 STR_5120    :Finances
