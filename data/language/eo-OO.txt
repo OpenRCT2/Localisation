@@ -1699,7 +1699,7 @@ STR_2349    :{WINDOW_COLOUR_2}Salajro: po {BLACK}{CURRENCY} por monato
 STR_2350    :{WINDOW_COLOUR_2}Dungita: {BLACK}{MONTHYEAR}
 STR_2351    :{WINDOW_COLOUR_2}Gazonoj falĉitaj: {BLACK}{COMMA16}
 STR_2352    :{WINDOW_COLOUR_2}Ĝardenoj akvumitaj: {BLACK}{COMMA16}
-STR_2353    :{WINDOW_COLOUR_2}Eroj de rubo balaitaj: {BLACK}{COMMA16}
+STR_2353    :{WINDOW_COLOUR_2}Kvanto de rubo balaitaj: {BLACK}{COMMA16}
 STR_2354    :{WINDOW_COLOUR_2}Rubujoj malplenitaj: {BLACK}{COMMA16}
 STR_2355    :{WINDOW_COLOUR_2}Atrakcioj riparitaj: {BLACK}{COMMA16}
 STR_2356    :{WINDOW_COLOUR_2}Atrakcioj inspektitaj: {BLACK}{COMMA16}
@@ -1802,7 +1802,7 @@ STR_2463    :{SMALLFONT}{BLACK}Montri la diagramon de la pritakso de la parko ko
 STR_2464    :{SMALLFONT}{BLACK}Montri la diagramon de la nombro de gastoj kontraŭ la tempo
 STR_2465    :{SMALLFONT}{BLACK}Montri la parkeniro-koston kaj informojn
 STR_2466    :{SMALLFONT}{BLACK}Montri la statistikojn de ĉi tiu parko
-STR_2467    :{SMALLFONT}{BLACK}Montri la celojn por ĉi tiu ludo
+STR_2467    :{SMALLFONT}{BLACK}Montri la celon de ĉi tiu ludo
 STR_2468    :{SMALLFONT}{BLACK}Montri la lastajn premiojn, kiujn ĉi tiu parko ricevis
 STR_2469    :{SMALLFONT}{BLACK}Elekti la nivelon de la esplorado k disvolvado
 STR_2470    :{SMALLFONT}{BLACK}Esplori novajn transport-atrakciojn
@@ -2291,106 +2291,106 @@ STR_3196    :{WINDOW_COLOUR_2}Inventaĵo-Kategorio: {BLACK}{STRINGID}
 STR_3197    :{WINDOW_COLOUR_2}Aferoj inventitaj al la komenco de la ludo:
 STR_3198    :{WINDOW_COLOUR_2}Aferoj, kiuj estos inventitaj dum la ludo:
 STR_3199    :Hazarda Ordo
-STR_3200    :{SMALLFONT}{BLACK}Randomly shuffle the list of items to invent during the game
-STR_3201    :Object Selection
-STR_3202    :Landscape Editor
-STR_3203    :Invention List Set Up
-STR_3204    :Options Selection
-STR_3205    :Objective Selection
-STR_3206    :Save Scenario
-STR_3207    :Track Designer
-STR_3208    :Track Designs Manager
-STR_3209    :Back to Previous Step:
-STR_3210    :Forward to Next Step:
-STR_3211    :Map size:
+STR_3200    :{SMALLFONT}{BLACK}Hazarde ordi la liston de aferoj inventotaj dum la ludo
+STR_3201    :Elektado de Objektoj
+STR_3202    :Bienoredaktilo
+STR_3203    :Instalado de Inventaĵolisto
+STR_3204    :Elektado de Agordoj
+STR_3205    :Elektado de Celo
+STR_3206    :Konservi la Scenaron
+STR_3207    :Trakdesegnilo
+STR_3208    :Administrilo de Trakdesegnoj
+STR_3209    :Reiri al la Pasinta Etapo:
+STR_3210    :Iri al la Sekva Etapo:
+STR_3211    :Dimensioj de la mapo:
 STR_3212    :{POP16}{COMMA16} x {PUSH16}{COMMA16}
-STR_3213    :Can't decrease map size any further
-STR_3214    :Can't increase map size any further
-STR_3215    :Too close to edge of map
-STR_3216    :{SMALLFONT}{BLACK}Select park-owned land etc.
-STR_3217    :Land Owned
-STR_3218    :Construction Rights Owned
-STR_3219    :Land For Sale
-STR_3220    :Construction Rights For Sale
-STR_3221    :{SMALLFONT}{BLACK}Set land to be owned by the park
-STR_3222    :{SMALLFONT}{BLACK}Set construction rights only to be owned by the park
-STR_3223    :{SMALLFONT}{BLACK}Set land to be available to purchase by the park
-STR_3224    :{SMALLFONT}{BLACK}Set construction rights to be available to purchase by the park
-STR_3225    :{SMALLFONT}{BLACK}Toggle on/off building a random cluster of objects around the selected position
-STR_3226    :{SMALLFONT}{BLACK}Build park entrance
-STR_3227    :Too many park entrances!
-STR_3228    :{SMALLFONT}{BLACK}Set starting positions for people
-STR_3229    :Block Brakes cannot be used directly after station
-STR_3230    :Block Brakes cannot be used directly after each other
-STR_3231    :Block Brakes cannot be used directly after the top of this lift hill
-STR_3232    :Options - Financial
-STR_3233    :Options - Guests
-STR_3234    :Options - Park
-STR_3235    :{SMALLFONT}{BLACK}Show financial options
-STR_3236    :{SMALLFONT}{BLACK}Show guest options
-STR_3237    :{SMALLFONT}{BLACK}Show park options
-STR_3238    :No Money
-STR_3239    :{SMALLFONT}{BLACK}Make this park a 'no money' park with no financial restrictions
-STR_3240    :{WINDOW_COLOUR_2}Initial cash:
-STR_3241    :{WINDOW_COLOUR_2}Initial loan:
-STR_3242    :{WINDOW_COLOUR_2}Maximum loan size:
-STR_3243    :{WINDOW_COLOUR_2}Annual interest rate:
-STR_3244    :Forbid marketing campaigns
-STR_3245    :{SMALLFONT}{BLACK}Forbid advertising, promotional schemes, and other marketing campaigns
+STR_3213    :Ne eblas malpliigi la dimensiojn de la mapo plu
+STR_3214    :Ne eblas pliigi la dimensiojn de la mapo plu
+STR_3215    :Tro proksime al mapbordo
+STR_3216    :{SMALLFONT}{BLACK}Elekti bienon poseditan de la parko, ktp.
+STR_3217    :Bieno Posedita
+STR_3218    :Rajtoj de Konstruado Poseditaj
+STR_3219    :Bieno Vendata
+STR_3220    :Rajtoj de Konstruado Vendata
+STR_3221    :{SMALLFONT}{BLACK}Agordi la bienon poseditan de la parko
+STR_3222    :{SMALLFONT}{BLACK}Agordi la rajtojn de konstruado poseditajn nur de la parko
+STR_3223    :{SMALLFONT}{BLACK}Agordi la bienon, kiun la parko povas aĉeti
+STR_3224    :{SMALLFONT}{BLACK}Agordi la rajtojn de konstruado, kiujn la parko povas aĉeti
+STR_3225    :{SMALLFONT}{BLACK}Baskuli la konstruadon de hazarda objektaro ĉirkau la ejo elektita
+STR_3226    :{SMALLFONT}{BLACK}Konstrui la parkenirejon
+STR_3227    :Tro da parkenirejoj!
+STR_3228    :{SMALLFONT}{BLACK}Agordi la ekirejojn de homoj
+STR_3229    :Oni ne eblas uzi Bremsojn de Blokparto tuj post la stacio
+STR_3230    :Oni ne eblas uzi Bremsojn de Blokparto tuj post unu la alian
+STR_3231    :Oni ne eblas uzi Bremsojn de Blockparto tuj post la supro de ĉi tiu liftmonteto
+STR_3232    :Agordoj - Financiaj
+STR_3233    :Agordoj - Gastoj
+STR_3234    :Agordoj - Parko
+STR_3235    :{SMALLFONT}{BLACK}Montri financiajn agordojn
+STR_3236    :{SMALLFONT}{BLACK}Montri agordojn de gastoj
+STR_3237    :{SMALLFONT}{BLACK}Montri agordojn de la parko
+STR_3238    :Neniu Mono
+STR_3239    :{SMALLFONT}{BLACK}Agordi ĉi tiun parkon kiel parko de 'neniu mono', kiu havas neniun limon de mono
+STR_3240    :{WINDOW_COLOUR_2}Komenca mono:
+STR_3241    :{WINDOW_COLOUR_2}Komenca prunto:
+STR_3242    :{WINDOW_COLOUR_2}Maksumima prunto permesita:
+STR_3243    :{WINDOW_COLOUR_2}Jara procento de interezo:
+STR_3244    :Malpermesi kampanjojn de vendado
+STR_3245    :{SMALLFONT}{BLACK}Malpermesi kampanjojn de reklamado, kaj aliajn kampanjojn de vendado
 STR_3246    :{WINDOW_COLOUR_2}{CURRENCY}
 STR_3247    :{WINDOW_COLOUR_2}{COMMA16}%
-STR_3248    :Can't increase initial cash any further!
-STR_3249    :Can't reduce initial cash any further!
-STR_3250    :Can't increase initial loan any further!
-STR_3251    :Can't reduce initial loan any further!
-STR_3252    :Can't increase maximum loan size any further!
-STR_3253    :Can't reduce maximum loan size any further!
-STR_3254    :Can't increase interest rate any further!
-STR_3255    :Can't reduce interest rate any further!
-STR_3256    :Guests prefer less intense rides
-STR_3257    :{SMALLFONT}{BLACK}Select whether guests should generally prefer less intense rides only
-STR_3258    :Guests prefer more intense rides
-STR_3259    :{SMALLFONT}{BLACK}Select whether guests should generally prefer more intense rides only
-STR_3260    :{WINDOW_COLOUR_2}Cash per guest (average):
-STR_3261    :{WINDOW_COLOUR_2}Guests initial happiness:
-STR_3262    :{WINDOW_COLOUR_2}Guests initial hunger:
-STR_3263    :{WINDOW_COLOUR_2}Guests initial thirst:
-STR_3264    :Can't increase this any further!
-STR_3265    :Can't reduce this any further!
-STR_3266    :{SMALLFONT}{BLACK}Select how this park charges for entrance and rides
-STR_3267    :Forbid tree removal
-STR_3268    :{SMALLFONT}{BLACK}Forbid tall trees being removed
-STR_3269    :Forbid landscape changes
-STR_3270    :{SMALLFONT}{BLACK}Forbid any changes to the landscape
-STR_3271    :Forbid high construction
-STR_3272    :{SMALLFONT}{BLACK}Forbid any tall construction
-STR_3273    :Park rating is harder to increase and maintain
-STR_3274    :{SMALLFONT}{BLACK}Make the park rating value more challenging
-STR_3275    :Guests are more difficult to attract
-STR_3276    :{SMALLFONT}{BLACK}Make it more difficult to attract guests to the park
-STR_3277    :{WINDOW_COLOUR_2}Cost to buy land:
-STR_3278    :{WINDOW_COLOUR_2}Cost to buy construction rights:
-STR_3279    :Free park entry / Pay per ride
-STR_3280    :Pay to enter park / Free rides
-STR_3281    :{WINDOW_COLOUR_2}Entry price:
-STR_3282    :{SMALLFONT}{BLACK}Select objective and park name
-STR_3283    :{SMALLFONT}{BLACK}Select rides to be preserved
-STR_3284    :Objective Selection
-STR_3285    :Preserved Rides
-STR_3286    :{SMALLFONT}{BLACK}Select objective for this scenario
-STR_3287    :{WINDOW_COLOUR_2}Objective:
-STR_3288    :{SMALLFONT}{BLACK}Select climate
-STR_3289    :{WINDOW_COLOUR_2}Climate:
-STR_3290    :Cool and wet
-STR_3291    :Warm
-STR_3292    :Hot and dry
-STR_3293    :Cold
-STR_3294    :Change...
-STR_3295    :{SMALLFONT}{BLACK}Change name of park
-STR_3296    :{SMALLFONT}{BLACK}Change name of scenario
-STR_3297    :{SMALLFONT}{BLACK}Change detail notes about park / scenario
-STR_3298    :{WINDOW_COLOUR_2}Park Name: {BLACK}{STRINGID}
-STR_3299    :{WINDOW_COLOUR_2}Park/Scenario Details:
+STR_3248    :Ne eblas pliigi la komencan monon plu!
+STR_3249    :Ne eblas malpliigi la komencan monon plu!
+STR_3250    :Ne eblas pliigi la komencan prunton plu!
+STR_3251    :Ne eblas malpliigi la komencan prunton plu!
+STR_3252    :Ne eblas pliigi la maksimuman prunton plu!
+STR_3253    :Ne eblas malpliigi la maksimuman prunton plu!
+STR_3254    :Ne eblas pliigi la procenton de interezo plu!
+STR_3255    :Ne eblas malpliigi la procenton de interezo plu!
+STR_3256    :Gastoj preferas malpli intensajn atrakciojn
+STR_3257    :{SMALLFONT}{BLACK}Elekti ĉu gastoj kutime preferas nur malpli intensajn atrakciojn
+STR_3258    :Gastoj preferas pli intensajn atrakciojn
+STR_3259    :{SMALLFONT}{BLACK}Elekti ĉu gastoj kutime preferas nur pli intensajn atrakciojn
+STR_3260    :{WINDOW_COLOUR_2}Mono por ĉiu gasto (meznombro):
+STR_3261    :{WINDOW_COLOUR_2}Komenca feliĉeco de la gastoj:
+STR_3262    :{WINDOW_COLOUR_2}Komenca malsateco de la gastoj:
+STR_3263    :{WINDOW_COLOUR_2}Komenca soifeco de la gastoj:
+STR_3264    :Ne eblas pliigi ĉi tion plu!
+STR_3265    :Ne eblas malpliigi ĉi tion plu!
+STR_3266    :{SMALLFONT}{BLACK}Elekti kiel ĉi tiu parko pagigas al la gastoj por la eniro kaj la atrakcioj
+STR_3267    :Malpermesi la forigadon de arbaroj
+STR_3268    :{SMALLFONT}{BLACK}Malpermesi la forigadon de altaj arbaroj
+STR_3269    :Malpermesi la ŝanĝadon de la bieno
+STR_3270    :{SMALLFONT}{BLACK}Malpermesi iun ajn ŝanĝon al la bieno
+STR_3271    :Malpermesi altajn konstruaĵojn
+STR_3272    :{SMALLFONT}{BLACK}Malpermesi iun ajn altan konstruaĵon
+STR_3273    :Plibonigado kaj konservado de la pritakso de la parko estas pli malfacila
+STR_3274    :{SMALLFONT}{BLACK}Fari, ke estas pli malfacila por plibonigi la pritakson de la parko
+STR_3275    :Allogado de la gastoj estas pli malfacila
+STR_3276    :{SMALLFONT}{BLACK}Fari, ke estas pli malfacila por allogi gastojn al la parko
+STR_3277    :{WINDOW_COLOUR_2}Kosto por aĉeti bienon:
+STR_3278    :{WINDOW_COLOUR_2}Kosto por aĉeti rajtojn de konstruado:
+STR_3279    :Senpaga parkeniro / Pagi por ĉiu atrakcio
+STR_3280    :Pagi por la parkeniro / Senpagaj atrakcioj
+STR_3281    :{WINDOW_COLOUR_2}Kosto de la parkeniro:
+STR_3282    :{SMALLFONT}{BLACK}Elekti la celon kaj la nomon de la parko
+STR_3283    :{SMALLFONT}{BLACK}Elekti la atrakciojn, kiujn oni ne povas ŝanĝi
+STR_3284    :Elektado de Celo
+STR_3285    :Atrakcioj Neŝanĝeblaj
+STR_3286    :{SMALLFONT}{BLACK}Elekti la celon por ĉi tiu scenaro
+STR_3287    :{WINDOW_COLOUR_2}Celo:
+STR_3288    :{SMALLFONT}{BLACK}Elekti la klimaton
+STR_3289    :{WINDOW_COLOUR_2}Klimato:
+STR_3290    :Malvarmeta kaj malseka
+STR_3291    :Varmeta
+STR_3292    :Varma kaj seka
+STR_3293    :Malvarma
+STR_3294    :Ŝanĝi...
+STR_3295    :{SMALLFONT}{BLACK}Ŝanĝi la nomon de la parko
+STR_3296    :{SMALLFONT}{BLACK}Ŝanĝi la nomon de la scenaro
+STR_3297    :{SMALLFONT}{BLACK}Ŝanĝi la detalo-notojn pri la parko/scenaro
+STR_3298    :{WINDOW_COLOUR_2}Nomo de la Parko: {BLACK}{STRINGID}
+STR_3299    :{WINDOW_COLOUR_2}Detaloj pri la Parko/Scenaro:
 STR_3300    :{WINDOW_COLOUR_2}Nomo de la Scenaro: {BLACK}{STRINGID}
 STR_3301    :{WINDOW_COLOUR_2}Dato de la Celo:
 STR_3302    :{WINDOW_COLOUR_2}{MONTHYEAR}
