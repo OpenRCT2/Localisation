@@ -34,8 +34,8 @@ As this project always are moving forward, new strings get added from time to ti
 If you want to become a maintainer, tell us what language you will be maintaining on [Discord](https://discord.gg/sxnrvX9). 
 
 ### Checking & testing strings in-game
-You can always test the translated strings in-game before publishing a pull request which could be good if the string has limited space/has a ``<newline>`` formating in it.<br/>
-One simple way to test the new language is to copy the whole document you've translated and go to your games ``\OpenRCT2\data\language`` folder and paste the copied text into the language you want to test.
+You can always test the translated strings in-game before publishing a pull request. This can be especially handy to see if the strings fits the window.<br/>
+To do this, go to the directory where OpenRCT2 resides (not to be confused with the directory where it saves your parks and config!), then go to `data/language` and replace the existing file with your updated version.
 
 ### Language Status
 | Newest strings can be found in [issues](https://github.com/OpenRCT2/Localisation/issues) | 
