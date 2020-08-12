@@ -34,6 +34,7 @@ Updated in:
 - [ ] ko-KR
 - [ ] nb-NO
 - [ ] nl-NL
+- [ ] pl-PL
 - [ ] pt-BR
 - [ ] sv-SE
 - [ ] tr-TR
