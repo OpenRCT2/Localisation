@@ -145,7 +145,7 @@ STR_0562    :Ŝaltitaj veturiloj veturas laŭ multnivela trako, preter timiga pe
 STR_0563    :Rajdantoj, kiuj sidas en komfortaj seĝoj kun nur simplaj sinosekurzonoj, ĝuas gigantajn glatajn malleviĝojn, kurboplenan trakon, kaj sufiĉe da 'en-aeraj periodoj' irante super la montetoj
 STR_0564    :Tiu onda fervojo, kiu veturas sur ligna trako, estas rapida, malglata, kaj brua, kaj ankaŭ donas 'nedirektebla' sencon, kun sufiĉe da 'en-aeraj periodoj'
 STR_0565    :Simpla ligna onda fervojo, kiu povas enhavi nur mildajn deklivojn kaj kurbiĝojn. Nur la radoj ambaŭflanke, kiu donas froton, kaj la gravito, fiksas la ĉarojn sur la trakon
-STR_0566    :Unuopaj ondaj fervojaj ĉaroj rapidas sur kompakta zigzaga trakdesegno, kiu enhavas subitajn angulojn kaj mallongajn subitajn malleviĝojn
+STR_0566    :Unuopaj ondaj fervojaj ĉaroj rapidas sur kompakta zigzaga trakdesegnaĵo, kiu enhavas subitajn angulojn kaj mallongajn subitajn malleviĝojn
 STR_0567    :Rajdantoj, kiuj sidas en seĝoj penditaj ambaŭflanke de la trako, estas renversitaj malsuprenirante krutajn malleviĝojn, kaj veturante tra diversaj inversigantoj
 STR_0569    :Rajdantoj, kiuj rajdas en specialaj jungaĵoj sub la trako, flugas tra la aero por sperti la sencon de flugado
 STR_0571    :Rondaj ĉaroj turniĝas veturante laŭ la zigzaga ligna trako
@@ -270,7 +270,7 @@ STR_0884    :Ŝargi Pejzaĝon
 STR_0885    :Konservi la Pejzaĝon
 STR_0887    :Forlasi la Scenaroredaktilon
 STR_0888    :Forlasi la Trakdesegnilon
-STR_0889    :Forlasi la Administrilon de Trakdesegnoj
+STR_0889    :Forlasi la Administrilon de Trakdesegnaĵoj
 STR_0891    :Ekrankopio
 STR_0892    :Ekrankopio estis konservita al la disko kiel '{STRINGID}'
 STR_0893    :Ne eblas konservi ekrankopion!
@@ -419,14 +419,14 @@ STR_1035    :La loka aŭtoritato ne permesas konstruaĵojn pli alta ol la arbalt
 STR_1036    :Ŝargi Ludon
 STR_1037    :Ŝargi Pejzaĝon
 STR_1038    :Ŝanĝi ludon konservitan al scenaro
-STR_1039    :Instali novan trakdesegnon
+STR_1039    :Instali novan trakdesegnaĵon
 STR_1040    :Konservi la Ludon
 STR_1041    :Konservi la Scenaron
 STR_1042    :Konservi la Pejzaĝon
 STR_1043    :OpenRCT2 Ludo Konservita
 STR_1044    :OpenRCT2 Dosiero de Scenaro
 STR_1045    :OpenRCT2 Dosiero de Pejzaĝo
-STR_1046    :OpenRCT2 Dosiero de Trakdesegno
+STR_1046    :OpenRCT2 Dosiero de Trakdesegnaĵo
 STR_1047    :Konservado de la ludo malsukcesis!
 STR_1048    :Konservado de la scenaro malsukcesis!
 STR_1049    :Konservado de la pejzaĝo malsukcesis!
@@ -784,9 +784,9 @@ STR_1400    :Enirejo
 STR_1401    :Elirejo
 STR_1402    :{SMALLFONT}{BLACK}Konstrui aŭ movi la enirejon de la atrakcio
 STR_1403    :{SMALLFONT}{BLACK}Konstrui aŭ movi la elirejon de la atrakcio
-STR_1404    :{SMALLFONT}{BLACK}Turni la desegnon 90°
-STR_1405    :{SMALLFONT}{BLACK}Speguli la desegnon
-STR_1406    :{SMALLFONT}{BLACK}Baskuligi la pejzaĝon de la desegno (se disponebla)
+STR_1404    :{SMALLFONT}{BLACK}Turni la desegnaĵon 90°
+STR_1405    :{SMALLFONT}{BLACK}Speguli la desegnaĵon
+STR_1406    :{SMALLFONT}{BLACK}Baskuligi la pejzaĝon de la desegnaĵo (se disponebla)
 STR_1407    :{WINDOW_COLOUR_2}Konstrui ĉi tion...
 STR_1408    :{WINDOW_COLOUR_2}Kosto: {BLACK}{CURRENCY}
 STR_1409    :Platformo por Eniri/Eliri
@@ -1639,7 +1639,7 @@ STR_2283    :Vendejo/Budo
 STR_2284    :Pejzaĝo/Temaĵo
 STR_2285    :Komenca esplorado
 STR_2286    :Desegnado
-STR_2287    :Finado de la desegno
+STR_2287    :Finado de la desegnaĵo
 STR_2288    :Nekonata
 STR_2289    :{STRINGID} {STRINGID}
 STR_2291    :Elekti la scenaron por nova ludo
@@ -1656,12 +1656,12 @@ STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16
 STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} trinkaĵoj
 STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} memoraĵo
 STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} memoraĵoj
-STR_2305    :Dosieroj de trakdesegnoj
-STR_2306    :Konservi la trakdesegnon
-STR_2307    :Elekti desegnon de la {STRINGID}
-STR_2308    :Trakdesegnoj de la {STRINGID}
-STR_2309    :Instali Novan Trakdesegnon
-STR_2310    :Konstrui propran desegnon
+STR_2305    :Dosieroj de trakdesegnaĵoj
+STR_2306    :Konservi la trakdesegnaĵon
+STR_2307    :Elekti desegnaĵon de la {STRINGID}
+STR_2308    :Trakdesegnaĵoj de la {STRINGID}
+STR_2309    :Instali Novan Trakdesegnaĵon
+STR_2310    :Konstrui propran desegnaĵon
 STR_2311    :{WINDOW_COLOUR_2}Pritakso de Eksciteco: {BLACK}{COMMA2DP32} (ĉ.)
 STR_2312    :{WINDOW_COLOUR_2}Pritakso de Intenseco: {BLACK}{COMMA2DP32} (ĉ.)
 STR_2313    :{WINDOW_COLOUR_2}Pritakso de Naŭzo: {BLACK}{COMMA2DP32} (ĉ.)
@@ -2046,9 +2046,9 @@ STR_2846    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La parko kun la p
 STR_2847    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La parko kun la plej bonaj mildaj atrakcioj'!
 STR_2848    :{WINDOW_COLOUR_2}Neniuj lastaj premioj
 STR_2849    :Instalado de la nova scenaro sukcesis
-STR_2850    :Instalado de la nova trakdesegno sukcesis
+STR_2850    :Instalado de la nova trakdesegnaĵo sukcesis
 STR_2851    :Scenaro jam estas instalita
-STR_2852    :Trakdesegno jam estas instalita
+STR_2852    :Trakdesegnaĵo jam estas instalita
 STR_2853    :Malpermesita de la loka aŭtoritato!
 STR_2854    :{RED}Gastoj ne eblas iri al la enirejo de {STRINGID}!{NEWLINE}Konstruu vojon al la enirejo
 STR_2855    :{RED}{STRINGID} ne havas vojon el ĝia elirejo!{NEWLINE}Konstruu vojon de la elirejo de la atrakcioj
@@ -2222,12 +2222,12 @@ STR_3107    :Fermi
 STR_3108    :Elprovi
 STR_3109    :Malfermi
 STR_3110    :{WINDOW_COLOUR_2}Blokpartoj: {BLACK}{COMMA16}
-STR_3111    :{SMALLFONT}{BLACK}Alklaku la desegnon por konstrui ĝin
-STR_3112    :{SMALLFONT}{BLACK}Alklaku la desegnon por renomi aŭ forigi ĝin
-STR_3113    :Elekti malsaman desegnon
-STR_3114    :{SMALLFONT}{BLACK}Reiri al la fenestro de desegno-elektado
-STR_3115    :{SMALLFONT}{BLACK}Konservi la trakdesegnon
-STR_3116    :{SMALLFONT}{BLACK}Konservi la trakdesegnon (Ne eblas ĝis la atrakcio estas elprovita, kaj ĝiaj statistikoj estas disponeblaj)
+STR_3111    :{SMALLFONT}{BLACK}Alklaku la desegnaĵon por konstrui ĝin
+STR_3112    :{SMALLFONT}{BLACK}Alklaku la desegnaĵon por renomi aŭ forigi ĝin
+STR_3113    :Elekti malsaman desegnaĵon
+STR_3114    :{SMALLFONT}{BLACK}Reiri al la fenestro de desegnaĵo-elektado
+STR_3115    :{SMALLFONT}{BLACK}Konservi la trakdesegnaĵon
+STR_3116    :{SMALLFONT}{BLACK}Konservi la trakdesegnaĵon (Ne eblas ĝis la atrakcio estas elprovita, kaj ĝiaj statistikoj estas disponeblaj)
 STR_3117    :{BLACK}Vokas mekanikiston...
 STR_3118    :{BLACK}{STRINGID} iras al la atrakcio
 STR_3119    :{BLACK}{STRINGID} riparas la atrakcion
@@ -2239,15 +2239,15 @@ STR_3124    :Rompita {STRINGID}
 STR_3125    :{WINDOW_COLOUR_2}Faktoro de Eksciteco: {BLACK}+{COMMA16}%
 STR_3126    :{WINDOW_COLOUR_2}Faktoro de Intenseco: {BLACK}+{COMMA16}%
 STR_3127    :{WINDOW_COLOUR_2}Faktoro de Naŭzo: {BLACK}+{COMMA16}%
-STR_3128    :Konservi la Trakdesegnon
-STR_3129    :Konservi la Trakdesegnon kun Pejzaĝo
+STR_3128    :Konservi la Trakdesegnaĵon
+STR_3129    :Konservi la Trakdesegnaĵon kun Pejzaĝo
 STR_3130    :Konservi
 STR_3131    :Nuligi
-STR_3132    :{BLACK}Alklaku erojn de la pejzaĝo por konservi ĝin kun la trakdesegnon...
+STR_3132    :{BLACK}Alklaku erojn de la pejzaĝo por konservi ĝin kun la trakdesegnaĵon...
 STR_3133    :Ne eblas konstrui ĉi tion sur deklivo
-STR_3134    :{RED}(Desegno enhavas pejzaĝon, kiu ne estas disponebla)
-STR_3135    :{RED}(Desegno de veturilo ne disponeblas. La rendimento de la atrakcio povas ŝanĝi.)
-STR_3136    :Averto: Ĉi tiu desegno estos konstruita per alternativa tipo de veturilo, kaj la rendimento de la atrakcio povas ŝanĝi
+STR_3134    :{RED}(Desegnaĵo enhavas pejzaĝon, kiu ne estas disponebla)
+STR_3135    :{RED}(Desegnaĵo de veturilo ne disponeblas. La rendimento de la atrakcio povas ŝanĝi.)
+STR_3136    :Averto: Ĉi tiu desegnaĵo estos konstruita per alternativa tipo de veturilo, kaj la rendimento de la atrakcio povas ŝanĝi
 STR_3137    :Elekti Proksiman Pejzaĝon
 STR_3138    :Vakigi la Elektaĵon
 STR_3139    :La kablolifto ne eblas funkcii por ĉi tiu reĝimo de funkciado
@@ -2299,7 +2299,7 @@ STR_3204    :Elektado de Agordoj
 STR_3205    :Elektado de Celo
 STR_3206    :Konservi la Scenaron
 STR_3207    :Trakdesegnilo
-STR_3208    :Administrilo de Trakdesegnoj
+STR_3208    :Administrilo de Trakdesegnaĵoj
 STR_3209    :Reiri al la Pasinta Etapo:
 STR_3210    :Iri al la Sekva Etapo:
 STR_3211    :Dimensioj de la mapo:
@@ -2424,31 +2424,31 @@ STR_3332    :La parkenirejo estas renversita, aŭ ne havas vojon al la mapbordo
 STR_3333    :Eksporti proprajn objektojn kun konservitaj ludoj
 STR_3334    :{SMALLFONT}{BLACK}Elekti ĉu la programo konservas datumojn de aldonaj bezonataj propraj objektoj (aldonaj datumoj, kiuj ne estas provizitaj per la ĉefa produktaĵo) en la dosierojn de konservitaj ludoj aŭ scenaroj. Se jes, iu, kiu ne havas la aldonajn objektodatumojn, povas ŝargi la ludon
 STR_3335    :Trakdesegnilo - Elekti la Tipojn de Atrakcioj k Veturiloj
-STR_3336    :Administrilo de Trakdesegnoj - Elekti la Tipon de la Atrakcio
-STR_3338    :{BLACK}Propra desegno
-STR_3339    :{BLACK}{COMMA16} desegno estas disponebla, aŭ uzu propran desegnon
-STR_3340    :{BLACK}{COMMA16} desegnoj estas disponebla, aŭ uzu propran desegnon
+STR_3336    :Administrilo de Trakdesegnaĵoj - Elekti la Tipon de la Atrakcio
+STR_3338    :{BLACK}Propra desegnaĵo
+STR_3339    :{BLACK}{COMMA16} desegnaĵo estas disponebla, aŭ uzu propran desegnaĵon
+STR_3340    :{BLACK}{COMMA16} desegnaĵoj estas disponebla, aŭ uzu propran desegnaĵon
 STR_3341    :{SMALLFONT}{BLACK}Iloj de la ludo
 STR_3342    :Scenaroredaktilo
 STR_3343    :Konverti ludon konservitan al scenaro
 STR_3344    :Trakdesegnilo
-STR_3345    :Administrilo de Trakdesegnoj
-STR_3346    :Ne eblas konservi la trakdesegnon...
+STR_3345    :Administrilo de Trakdesegnaĵoj
+STR_3346    :Ne eblas konservi la trakdesegnaĵon...
 STR_3347    :La atrakcio estas tro granda aŭ enhavas tro da eroj, aŭ la pejzaĝo estas tro maldensa
 STR_3348    :Renomi
 STR_3349    :Forigi
-STR_3350    :Nomo de trakdesegno
-STR_3351    :Entajpu la novan nomon de ĉi tiu trakdesegno:
-STR_3352    :Ne eblas renomi la trakdesegnon...
+STR_3350    :Nomo de trakdesegnaĵo
+STR_3351    :Entajpu la novan nomon de ĉi tiu trakdesegnaĵo:
+STR_3352    :Ne eblas renomi la trakdesegnaĵon...
 STR_3353    :La nova nomo enhavas nevalidajn signojn
 STR_3354    :Alia dosiero kun la sama nomo jam ekzistas, aŭ la dosiero estas kontraŭskribe protektita
 STR_3355    :La dosiero estas kontraŭskribe protektita, aŭ ŝlosita
 STR_3356    :Forigi la Dosieron
 STR_3357    :{WINDOW_COLOUR_2}Ĉu vi vere volas porĉiame forigi je {STRING}?
-STR_3358    :Ne eblas forigi la trakdesegnon...
-STR_3359    :{BLACK}Neniu trakdesegno de ĉi tiu tipo
+STR_3358    :Ne eblas forigi la trakdesegnaĵon...
+STR_3359    :{BLACK}Neniu trakdesegnaĵo de ĉi tiu tipo
 STR_3360    :Averto!
-STR_3361    :Tro da trakdesegnoj de ĉi tiu tipo. Iuj ne aperos en listo.
+STR_3361    :Tro da trakdesegnaĵoj de ĉi tiu tipo. Iuj ne aperos en listo.
 STR_3364    :Altnivela
 STR_3365    :{SMALLFONT}{BLACK}Permesi la elektadon de individuaj eroj da pejzaĝoj kun pejzaĝo-grupoj
 STR_3366    :{BLACK}= Atrakcio
@@ -2462,14 +2462,14 @@ STR_3373    :{BLACK}= Necesejo
 STR_3374    :Averto: Tro da objektoj elektitaj!
 STR_3375    :Ne ĉiuj objektoj en ĉi tiu grupo de pejzaĝo eblas esti elektita
 STR_3376    :Instali novan...
-STR_3377    :{SMALLFONT}{BLACK}Instali dosieron kun nova trakdesegno
+STR_3377    :{SMALLFONT}{BLACK}Instali dosieron kun nova trakdesegnaĵo
 STR_3378    :Instali
 STR_3379    :Nuligi
-STR_3380    :Ne eblas instali ĉi tiun trakdesegnon...
+STR_3380    :Ne eblas instali ĉi tiun trakdesegnaĵon...
 STR_3381    :Dosiero ne estas kongrua, aŭ enhavas nevalidajn datumojn
 STR_3382    :Kopiado de la doserio malsukcesis
-STR_3383    :Elekti novan nomon de la trakdesegno
-STR_3384    :Iu trakdesegno jam havas ĉi tiun nomon. Bonvolu elekti novan nomon por ĉi tiu desegno:
+STR_3383    :Elekti novan nomon de la trakdesegnaĵo
+STR_3384    :Iu trakdesegnaĵo jam havas ĉi tiun nomon. Bonvolu elekti novan nomon por ĉi tiu desegnaĵo:
 STR_3389    :Ne eblas elekti plian eron da pejzaĝo...
 STR_3390    :Tro da eroj elektitaj
 STR_3437    :{SMALLFONT}{BLACK}Vakigi grandajn areojn da pejzaĝo
@@ -4213,7 +4213,7 @@ STR_DTLS    :Komencante kun malmulto, konstruu la atrakciojn en ĉi tiu parko de
 <Build your own Six Flags Park>
 STR_SCNR    :Konstrui vian propran parko de Ses-Flagoj
 STR_PARK    :Ses-Flagoj
-STR_DTLS    :Konstruu vian propran desegnon de parko de Ses-Flagoj - aŭ konstruu atrakciojn de aliaj parkoj de Ses-Flagoj, aŭ desegnu kaj konstruu viajn proprajn atrakciojn
+STR_DTLS    :Konstruu vian propran desegnaĵon de parko de Ses-Flagoj - aŭ konstruu atrakciojn de aliaj parkoj de Ses-Flagoj, aŭ desegnu kaj konstruu viajn proprajn atrakciojn
 
 <Bumbly Bazaar>
 STR_SCNR    :Burda Bazaro
@@ -4283,7 +4283,7 @@ STR_DTLS    :Provu administri kaj plibonigi ĉi tiun parkon de Ses-Flagoj
 <Six Flags Great Adventure>
 STR_SCNR    :Ses-Flagoj-Bonega-Aventuro
 STR_PARK    :Ses-Flagoj-Bonega-Aventuro
-STR_DTLS    :Konstruu la mankantajn atrakciojn de Ses-Flagoj, aŭ kreu viajn proprajn desegnojn por plibonigi la parkon! Sed ne forgesu vian ĉefan celon: por allogi pli da gastoj al la parko!
+STR_DTLS    :Konstruu la mankantajn atrakciojn de Ses-Flagoj, aŭ kreu viajn proprajn desegnaĵojn por plibonigi la parkon! Sed ne forgesu vian ĉefan celon: por allogi pli da gastoj al la parko!
 
 <Six Flags Holland>
 STR_SCNR    :Ses-Flagoj-Holando
@@ -4293,12 +4293,12 @@ STR_DTLS    :Provu administri kaj plibonigi ĉi tiun parkon de Ses-Flagoj
 <Six Flags Magic Mountain>
 STR_SCNR    :Ses-Flagoj-Magia-Monto
 STR_PARK    :Ses-Flagoj-Magia-Monto
-STR_DTLS    :Konstruu la mankantajn atrakciojn de Ses-Flagoj, aŭ kreu viajn proprajn desegnojn por plibonigi la parko! Sed ne forgesu vian ĉefan celon: por repagi vian prunton, konservante la parkvaloro!
+STR_DTLS    :Konstruu la mankantajn atrakciojn de Ses-Flagoj, aŭ kreu viajn proprajn desegnaĵojn por plibonigi la parko! Sed ne forgesu vian ĉefan celon: por repagi vian prunton, konservante la parkvaloro!
 
 <Six Flags over Texas>
 STR_SCNR    :Ses-Flagoj-sur-Teksaso
 STR_PARK    :Ses-Flagoj-sur-Teksaso
-STR_DTLS    :Konstruu la mankantajn atrakciojn de Ses-Flagoj, aŭ kreu viajn proprajn desegnojn por plibonigi la parkon! Sed ne forgesu vian ĉefan celon: por allogi pli da gastoj al la parko!
+STR_DTLS    :Konstruu la mankantajn atrakciojn de Ses-Flagoj, aŭ kreu viajn proprajn desegnaĵojn por plibonigi la parkon! Sed ne forgesu vian ĉefan celon: por allogi pli da gastoj al la parko!
 
 ###############################################################################
 ## Wacky Worlds Scenarios
