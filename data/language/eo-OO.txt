@@ -1083,13 +1083,13 @@ STR_1701    :Dungi novan Mekanikiston
 STR_1702    :Dungi novan Sekurigan Oficiston
 STR_1703    :Dungi novan Amuziston
 STR_1704    :Ne eblas dungi novan laboriston...
-STR_1705    :{SMALLFONT}{BLACK}Eksigi ĉi tiun laboriston
+STR_1705    :{SMALLFONT}{BLACK}Maldungi ĉi tiun laboriston
 STR_1706    :{SMALLFONT}{BLACK}Movi ĉi tiun homon al nova loko
 STR_1707    :Tro da laboristoj en la ludo
 STR_1708    :{SMALLFONT}{BLACK}Agordi la patrolzonon de ĉi tiu laboristo
-STR_1709    :Eksigi laboriston
+STR_1709    :Maldungi laboriston
 STR_1710    :Jes
-STR_1711    :{WINDOW_COLOUR_1}Ĉu vi vere volas eksigi je {STRINGID}?
+STR_1711    :{WINDOW_COLOUR_1}Ĉu vi vere volas maldungi je {STRINGID}?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Balaas trotuarojn
 STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Akvumadas ĝardenojn
 STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Malplenigas rubujojn
@@ -2643,84 +2643,84 @@ STR_5296    :{SMALLFONT}{BLACK}Close park
 STR_5297    :{SMALLFONT}{BLACK}Open park
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
-STR_5300    :{SMALLFONT}{BLACK}Quick fire staff
-STR_5301    :{MEDIUMFONT}{BLACK}Clear your loan
-STR_5302    :Clear loan
-STR_5303    :Allow building in pause mode
-STR_5304    :Title Sequence:
+STR_5300    :{SMALLFONT}{BLACK}Maldungi rapide la laboristojn
+STR_5301    :{MEDIUMFONT}{BLACK}Vakigi vian prunton
+STR_5302    :Vakigi la prunton
+STR_5303    :Permesi la konstruadon dum paŭzoj
+STR_5304    :Titolosekvenco:
 STR_5305    :RollerCoaster Tycoon 1
 STR_5306    :RollerCoaster Tycoon 1 (AA)
 STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
 STR_5308    :RollerCoaster Tycoon 2
 STR_5309    :OpenRCT2
-STR_5310    :Random
-STR_5311    :{SMALLFONT}{BLACK}Debug tools
-STR_5312    :Show console
-STR_5313    :Show tile inspector
-STR_5314    :Tile inspector
-STR_5335    :Ride entrance
-STR_5336    :Ride exit
-STR_5337    :Park entrance
-STR_5338    :Element type
-STR_5339    :{SMALLFONT}{BLACK}Base height
-STR_5340    :{SMALLFONT}{BLACK}Clearance height
-STR_5343    :Automatically place staff
-STR_5344    :Changelog
-STR_5345    :Financial cheats
-STR_5346    :Guest cheats
-STR_5347    :Park cheats
-STR_5348    :Ride cheats
-STR_5349    :{SMALLFONT}{BLACK}All Rides
-STR_5350    :Max
-STR_5351    :Min
-STR_5352    :{BLACK}Happiness:
-STR_5353    :{BLACK}Energy:
-STR_5354    :{BLACK}Hunger:
-STR_5355    :{BLACK}Thirst:
-STR_5356    :{BLACK}Nausea:
-STR_5357    :{BLACK}Nausea tolerance:
-STR_5358    :{BLACK}Toilet:
-STR_5359    :Remove guests
-STR_5360    :{SMALLFONT}{BLACK}Removes all guests from the map
-STR_5361    :Give all guests:
-STR_5362    :{BLACK}Set all guests' preferred ride intensity to:
-STR_5363    :More than 1
-STR_5364    :Less than 15
-STR_5365    :{BLACK}Staff speed:
-STR_5366    :Normal
-STR_5367    :Fast
-STR_5368    :Reset crash status
-STR_5369    :Park parameters...
-STR_5370    :{SMALLFONT}{BLACK}Click this button to modify park{NEWLINE}parameters like restrictions,{NEWLINE}guest generation and money.
-STR_5371    :Object selection
-STR_5372    :Invert right mouse dragging
-STR_5373    :Name {STRINGID}
-STR_5374    :Date {STRINGID}
+STR_5310    :Hazarda
+STR_5311    :{SMALLFONT}{BLACK}Iloj de sencimigo
+STR_5312    :Montri la terminalon
+STR_5313    :Montri la ekzamenilon de bloko
+STR_5314    :Ekzamenilo de bloko
+STR_5335    :Enirejo de la atrakcio
+STR_5336    :Elirejo de la atrakcio
+STR_5337    :Enirejo de la parko
+STR_5338    :Tipo de ero
+STR_5339    :{SMALLFONT}{BLACK}Baza alteco
+STR_5340    :{SMALLFONT}{BLACK}Alteco super la ero
+STR_5343    :Meti aŭtomate la laboristojn
+STR_5344    :Ŝanĝoprotokolo
+STR_5345    :Trompoj financaj
+STR_5346    :Trompoj de gasto
+STR_5347    :Trompoj de parko
+STR_5348    :Trompoj de atrakcio
+STR_5349    :{SMALLFONT}{BLACK}Ĉiuj atrakcioj
+STR_5350    :Maks.
+STR_5351    :Min.
+STR_5352    :{BLACK}Feliĉeco:
+STR_5353    :{BLACK}Energio:
+STR_5354    :{BLACK}Malsateco:
+STR_5355    :{BLACK}Soifeco:
+STR_5356    :{BLACK}Naŭzo:
+STR_5357    :{BLACK}Naŭzotolero:
+STR_5358    :{BLACK}Veziko:
+STR_5359    :Forigi gastojn
+STR_5360    :{SMALLFONT}{BLACK}Forigi ĉiujn gastojn de la mapo
+STR_5361    :Doni al ĉiu gasto:
+STR_5362    :{BLACK}Agordi la preferatajn intensojn de atrakcioj por ĉiu gasto al:
+STR_5363    :Pli ol 1
+STR_5364    :Malpli ol 15
+STR_5365    :{BLACK}Rapideco de la laboristoj:
+STR_5366    :Normala
+STR_5367    :Rapida
+STR_5368    :Restarigi la staton de akcidentoj
+STR_5369    :Parametroj de la parko...
+STR_5370    :{SMALLFONT}{BLACK}Alklaku ĉi tiun butonon por redakti la parametrojn{NEWLINE}de la parko, kiel la limoj,{NEWLINE}la generado de gastoj, kaj la mono.
+STR_5371    :Elektado de objektoj
+STR_5372    :Inversigi la konduton de la trenadoj per la dekstra musobutono
+STR_5373    :Nomo {STRINGID}
+STR_5374    :Dato {STRINGID}
 STR_5375    :▲
 STR_5376    :▼
-STR_5377    :{SMALLFONT}{BLACK}Saves
-STR_5378    :{SMALLFONT}{BLACK}Script
-STR_5379    :{SMALLFONT}{BLACK}Skip to next wait command
-STR_5380    :{SMALLFONT}{BLACK}Start playing title sequence
-STR_5381    :{SMALLFONT}{BLACK}Stop playing title sequence
-STR_5382    :{SMALLFONT}{BLACK}Restart title sequence
-STR_5383    :{SMALLFONT}{BLACK}Create a new title sequence based on the current one
-STR_5384    :{SMALLFONT}{BLACK}Delete the current title sequence
-STR_5385    :{SMALLFONT}{BLACK}Rename the current title sequence
-STR_5386    :{SMALLFONT}{BLACK}Insert a new command
-STR_5387    :{SMALLFONT}{BLACK}Edit the selected command
-STR_5388    :{SMALLFONT}{BLACK}Delete the selected command
-STR_5389    :{SMALLFONT}{BLACK}Skip to the selected command in the title sequence
-STR_5390    :{SMALLFONT}{BLACK}Move the selected command down
-STR_5391    :{SMALLFONT}{BLACK}Move the selected command up
-STR_5392    :{SMALLFONT}{BLACK}Add a save to the title sequence
-STR_5393    :{SMALLFONT}{BLACK}Remove the selected save from the title sequence
-STR_5394    :{SMALLFONT}{BLACK}Rename the selected save
-STR_5395    :{SMALLFONT}{BLACK}Load the selected save in game
-STR_5396    :{SMALLFONT}{BLACK}Reload the title sequence if changes have been made to it outside of the game
-STR_5397    :Can only be used on the title screen
-STR_5398    :Cannot edit title sequence while it's playing
-STR_5399    :Press the stop button to continue editing
+STR_5377    :{SMALLFONT}{BLACK}Konservaĵoj
+STR_5378    :{SMALLFONT}{BLACK}Skripto
+STR_5379    :{SMALLFONT}{BLACK}Preterpasi al la sekva haltokomando
+STR_5380    :{SMALLFONT}{BLACK}Komenci ludi la titolosekvencon
+STR_5381    :{SMALLFONT}{BLACK}Halti ludi la titolosekvencon
+STR_5382    :{SMALLFONT}{BLACK}Rekomenci la titolosekvencon
+STR_5383    :{SMALLFONT}{BLACK}Krei novan titolosekvencon surbaze de la aktuala
+STR_5384    :{SMALLFONT}{BLACK}Forigi la aktualan titolosekvencon
+STR_5385    :{SMALLFONT}{BLACK}Renomi la aktualan titolosekvencon
+STR_5386    :{SMALLFONT}{BLACK}Enmeti novan komandon
+STR_5387    :{SMALLFONT}{BLACK}Redakti la elektitan komandon
+STR_5388    :{SMALLFONT}{BLACK}Forigi la elektitan komandon
+STR_5389    :{SMALLFONT}{BLACK}Preterpasi al la elektita komando en la titolosekvenco
+STR_5390    :{SMALLFONT}{BLACK}Movi la elektitan komandon malsupren
+STR_5391    :{SMALLFONT}{BLACK}Movi la elektitan komandon supren
+STR_5392    :{SMALLFONT}{BLACK}Aldoni konservaĵon al la titolosekvenco
+STR_5393    :{SMALLFONT}{BLACK}Forigi la elektitan konservaĵon de la titolosekvenco
+STR_5394    :{SMALLFONT}{BLACK}Renomi la elektitan konservaĵon
+STR_5395    :{SMALLFONT}{BLACK}Ŝargi la elektitan konservaĵon en-lude
+STR_5396    :{SMALLFONT}{BLACK}Reŝargi la titolosekvencon se ĝi ŝanĝis ekster de la ludo
+STR_5397    :Eblas esti uzita nur por la titol-ekrano
+STR_5398    :Ne eblas redakti la titolosekvencon dum ĝi ludas
+STR_5399    :Premu la haltobutonon por redakti pli
 STR_5400    :Can't change this title sequence
 STR_5401    :Create a new title sequence to make changes to
 STR_5402    :Failed to load title sequence
