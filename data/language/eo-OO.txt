@@ -1917,9 +1917,9 @@ STR_2695    :Hazarda tereno
 STR_2696    :Meti arbojn
 STR_2700    :Frekvenco de aŭtokonservado:
 STR_2701    :Post ĉiu minuto
-STR_2702    :Post ĉiu 5 minutoj
-STR_2703    :Post ĉiu 15 minutoj
-STR_2704    :Post ĉiu 30 minutoj
+STR_2702    :Post ĉiuj 5 minutoj
+STR_2703    :Post ĉiuj 15 minutoj
+STR_2704    :Post ĉiuj 30 minutoj
 STR_2705    :Post ĉiu horo
 STR_2706    :Neniam
 STR_2707    :Uzi la dosieresplorilon de la sistemo
@@ -1959,7 +1959,7 @@ STR_2751    :Movi ĉiujn aferojn malsupren
 STR_2752    :Vakigi la herbon
 STR_2753    :Herbon falĉita
 STR_2754    :Akvumi la kreskaĵojn
-STR_2755    :Ripari la detruemon
+STR_2755    :Ripari la vandalaĵojn
 STR_2756    :Forigi la rubon
 STR_2763    :???
 STR_2765    :Granda Tramo
@@ -2004,7 +2004,7 @@ STR_2804    :{SMALLFONT}{BLACK}Emfazi ĉi tiujn laboristojn sur la mapo
 STR_2805    :{SMALLFONT}{BLACK}Montri la mapon de la parko
 STR_2806    :{RED}Gastoj plendas pri la naŭza stato de la trotuaroj en via parko{NEWLINE}Kontrolu kie estas viaj asistantoj, kaj eble organizu ilin pli bone
 STR_2807    :{RED}Gastoj plendas pri la kvanto de rubo en via parko{NEWLINE}Kontrolu kie estas viaj asistantoj, kaj eble organizu ilin pli bone
-STR_2808    :{RED}Gastoj plendas pri la detruemo en via parko{NEWLINE}Kontrolu kie estas viaj sekurigaj oficistoj, kaj eble organizu ilin pli bone
+STR_2808    :{RED}Gastoj plendas pri la vandalismo en via parko{NEWLINE}Kontrolu kie estas viaj sekurigaj oficistoj, kaj eble organizu ilin pli bone
 STR_2809    :{RED}Gastoj malsatas, kaj ne eblas trovi ie ajn por aĉeti manĝaĵon
 STR_2810    :{RED}Gastoj soifas, kaj ne eblas trovi ie ajn por aĉeti trinkaĵon
 STR_2811    :{RED}Gastoj plendas, ĉar ili ne eblas trovi necesejon en via parko
@@ -2795,134 +2795,134 @@ STR_5471    :Scroll map down
 STR_5472    :Scroll map right
 STR_5473    :Cycle day / night
 STR_5474    :Display text on banners in uppercase
-STR_5475    :{COMMA16} weeks
+STR_5475    :{COMMA16} semajnoj
 STR_5476    :Hardware
 STR_5477    :Map rendering
 STR_5478    :Controls
 STR_5479    :Toolbar
 STR_5480    :Show toolbar buttons for:
 STR_5481    :Themes
-STR_5482    :{WINDOW_COLOUR_2}Time since last inspection: {BLACK}1 minute
-STR_5483    :{BLACK}({COMMA16} weeks remaining)
-STR_5484    :{BLACK}({COMMA16} week remaining)
+STR_5482    :{WINDOW_COLOUR_2}Daŭro de la lasta inspekto: {BLACK}1 minuto
+STR_5483    :{BLACK}({COMMA16} semajnoj restantaj)
+STR_5484    :{BLACK}({COMMA16} semajno restanta)
 STR_5485    :{SMALLFONT}{STRING}
 STR_5486    :{BLACK}{COMMA16}
-STR_5487    :{SMALLFONT}{BLACK}Show recent messages
-STR_5489    :{SMALLFONT}{BLACK}Show only tracked guests
-STR_5490    :Disable audio on focus loss
-STR_5491    :Inventions list
-STR_5492    :Scenario options
-STR_5493    :Send Message
-STR_5495    :Player List
-STR_5496    :Player
-STR_5497    :Ping
-STR_5498    :Server List
-STR_5499    :Player Name:
-STR_5500    :Add Server
-STR_5501    :Start Server
-STR_5502    :Multiplayer
-STR_5503    :Enter hostname or IP address:
-STR_5504    :{SMALLFONT}{BLACK}Show multiplayer status
-STR_5505    :Unable to connect to server.
-STR_5506    :Guests ignore intensities
-STR_5508    :Allow loading files with incorrect checksums
-STR_5509    :{SMALLFONT}{BLACK}Allows loading scenarios and saves{NEWLINE}that have an incorrect checksum,{NEWLINE}like the scenarios from the demo{NEWLINE}or damaged saves.
-STR_5510    :Default sound device
+STR_5487    :{SMALLFONT}{BLACK}Montri lastajn mesaĝojn
+STR_5489    :{SMALLFONT}{BLACK}Montri nur la gastojn spuratajn
+STR_5490    :Malŝalti la sonon dum defokusigoj
+STR_5491    :Listo de inventaĵoj
+STR_5492    :Agordoj de scenaro
+STR_5493    :Sendi Mesaĝon
+STR_5495    :Ludantolisto
+STR_5496    :Ludanto
+STR_5497    :Eĥosondo
+STR_5498    :Servilolisto
+STR_5499    :Nomo de Ludanto:
+STR_5500    :Aldoni Servilon
+STR_5501    :Komenci Servilon
+STR_5502    :Plurludanta
+STR_5503    :Entajpu la servilonomon aŭ la IP-adreson:
+STR_5504    :{SMALLFONT}{BLACK}Montri la staton plurludantan
+STR_5505    :Ne eblas aliĝi al la servilo.
+STR_5506    :Gastoj malatentas intensecojn
+STR_5508    :Permesi la ŝargadon de dosieroj kun nevalidaj kontrolsumoj
+STR_5509    :{SMALLFONT}{BLACK}Permesi la ŝargadon de scenaroj kaj konservaĵoj{NEWLINE}kiuj havas nevalidan kontrolsumon,{NEWLINE}kiel la scenaroj de la demonstrado{NEWLINE}aŭ difektitaj konservaĵoj.
+STR_5510    :Defaŭlta sonludilo
 STR_5511    :(NEKONATA)
 STR_5512    :Konservi la Ludon Kiel
 STR_5513    :(Rapide) konservi la ludon
-STR_5514    :Disable vandalism
-STR_5515    :{SMALLFONT}{BLACK}Stops guests from vandalising your park when they're angry
-STR_5516    :{SMALLFONT}{BLACK}Black
-STR_5517    :{SMALLFONT}{BLACK}Grey
-STR_5518    :{SMALLFONT}{BLACK}White
-STR_5519    :{SMALLFONT}{BLACK}Dark purple
-STR_5520    :{SMALLFONT}{BLACK}Light purple
-STR_5521    :{SMALLFONT}{BLACK}Bright purple
-STR_5522    :{SMALLFONT}{BLACK}Dark blue
-STR_5523    :{SMALLFONT}{BLACK}Light blue
-STR_5524    :{SMALLFONT}{BLACK}Icy blue
-STR_5525    :{SMALLFONT}{BLACK}Dark water
-STR_5526    :{SMALLFONT}{BLACK}Light water
-STR_5527    :{SMALLFONT}{BLACK}Saturated green
-STR_5528    :{SMALLFONT}{BLACK}Dark green
-STR_5529    :{SMALLFONT}{BLACK}Moss green
-STR_5530    :{SMALLFONT}{BLACK}Bright green
-STR_5531    :{SMALLFONT}{BLACK}Olive green
-STR_5532    :{SMALLFONT}{BLACK}Dark olive green
-STR_5533    :{SMALLFONT}{BLACK}Bright yellow
-STR_5534    :{SMALLFONT}{BLACK}Yellow
-STR_5535    :{SMALLFONT}{BLACK}Dark yellow
-STR_5536    :{SMALLFONT}{BLACK}Light orange
-STR_5537    :{SMALLFONT}{BLACK}Dark orange
-STR_5538    :{SMALLFONT}{BLACK}Light brown
-STR_5539    :{SMALLFONT}{BLACK}Saturated brown
-STR_5540    :{SMALLFONT}{BLACK}Dark brown
-STR_5541    :{SMALLFONT}{BLACK}Salmon pink
-STR_5542    :{SMALLFONT}{BLACK}Bordeaux red
-STR_5543    :{SMALLFONT}{BLACK}Saturated red
-STR_5544    :{SMALLFONT}{BLACK}Bright red
-STR_5545    :{SMALLFONT}{BLACK}Dark pink
-STR_5546    :{SMALLFONT}{BLACK}Bright pink
-STR_5547    :{SMALLFONT}{BLACK}Light pink
-STR_5548    :Show all operating modes
+STR_5514    :Malŝalti la vandalismon
+STR_5515    :{SMALLFONT}{BLACK}Antaŭhaltigi vandalaĵojn de gastoj kiam ili estas koleraj
+STR_5516    :{SMALLFONT}{BLACK}Nigro
+STR_5517    :{SMALLFONT}{BLACK}Grizo
+STR_5518    :{SMALLFONT}{BLACK}Blanko
+STR_5519    :{SMALLFONT}{BLACK}Malhela purpuro
+STR_5520    :{SMALLFONT}{BLACK}Hela purpuro
+STR_5521    :{SMALLFONT}{BLACK}Brila purpuro
+STR_5522    :{SMALLFONT}{BLACK}Malhela bluo
+STR_5523    :{SMALLFONT}{BLACK}Hela bluo
+STR_5524    :{SMALLFONT}{BLACK}Glacia bluo
+STR_5525    :{SMALLFONT}{BLACK}Malhela akvo
+STR_5526    :{SMALLFONT}{BLACK}Hela akvo
+STR_5527    :{SMALLFONT}{BLACK}Saturita verdo
+STR_5528    :{SMALLFONT}{BLACK}Malhela verdo
+STR_5529    :{SMALLFONT}{BLACK}Musko-verdo
+STR_5530    :{SMALLFONT}{BLACK}Brila verdo
+STR_5531    :{SMALLFONT}{BLACK}Olivo-verdo
+STR_5532    :{SMALLFONT}{BLACK}Malhela olivo-verdo
+STR_5533    :{SMALLFONT}{BLACK}Brila flavo
+STR_5534    :{SMALLFONT}{BLACK}Flavo
+STR_5535    :{SMALLFONT}{BLACK}Malhela flavo
+STR_5536    :{SMALLFONT}{BLACK}Hela oranĝo
+STR_5537    :{SMALLFONT}{BLACK}Malhela oranĝo
+STR_5538    :{SMALLFONT}{BLACK}Hela bruno
+STR_5539    :{SMALLFONT}{BLACK}Saturita bruno
+STR_5540    :{SMALLFONT}{BLACK}Malhela bruno
+STR_5541    :{SMALLFONT}{BLACK}Salmo-rozkoloro
+STR_5542    :{SMALLFONT}{BLACK}Burdegalo-ruĝo
+STR_5543    :{SMALLFONT}{BLACK}Saturita ruĝo
+STR_5544    :{SMALLFONT}{BLACK}Brila ruĝo
+STR_5545    :{SMALLFONT}{BLACK}Malhela rozkoloro
+STR_5546    :{SMALLFONT}{BLACK}Brila rozkoloro
+STR_5547    :{SMALLFONT}{BLACK}Hela rozkoloro
+STR_5548    :Montri ĉiujn reĝimojn de funkciado
 STR_5549    :Jaro/Monato/Tago
 STR_5550    :{POP16}{POP16}Jaro {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_5551    :Jaro/Tago/Monato
 STR_5552    :{POP16}{POP16}Jaro {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
-STR_5553    :Pause game when Steam overlay is open
-STR_5554    :{SMALLFONT}{BLACK}Enable mountain tool
-STR_5555    :Show vehicles from other track types
-STR_5556    :{SMALLFONT}{BLACK}Kick player
-STR_5557    :Stay connected after desynchronisation (Multiplayer)
-STR_5558    :This setting will only take effect after you have restarted OpenRCT2
-STR_5559    :10 min. inspections
-STR_5560    :{SMALLFONT}{BLACK}Sets the inspection time to 'Every 10 minutes' on all rides
-STR_5561    :Failed to load language
-STR_5562    :WARNING!
-STR_5563    :This feature is currently unstable, take extra caution.
-STR_5564    :Insert Corrupt Element
-STR_5565    :{SMALLFONT}{BLACK}Inserts a corrupt map element at top of tile. This will hide any element above the corrupt element.
-STR_5566    :Password:
-STR_5567    :Advertise
-STR_5568    :Password Required
-STR_5569    :This server requires a password
-STR_5570    :Fetch Servers
-STR_5571    :Join Game
-STR_5572    :Add To Favourites
-STR_5573    :Remove From Favourites
-STR_5574    :Server Name:
-STR_5575    :Max Players:
-STR_5576    :Port:
-STR_5577    :South Korean Won (W)
-STR_5578    :Russian Rouble (₽)
-STR_5579    :Window scale factor:
-STR_5580    :Czech koruna (Kč)
-STR_5581    :Show FPS
-STR_5582    :Trap mouse cursor in window
+STR_5553    :Paŭzi la ludon kiam la plustavolo de Steam estas malfermita
+STR_5554    :{SMALLFONT}{BLACK}Ŝalti la montilon
+STR_5555    :Montri veturilojn de aliaj traktipoj
+STR_5556    :{SMALLFONT}{BLACK}Forigi la ludanton
+STR_5557    :Resti konektita post desinkronigo (Plurludanta)
+STR_5558    :Ĉi tiu agordo fariĝas valida nur post vi reŝargas je OpenRCT2
+STR_5559    :Inspekti post ĉiuj 10 minutoj
+STR_5560    :{SMALLFONT}{BLACK}Agordi la inspekton al 'Post ĉiuj 10 minutoj' por ĉiu atrakcio
+STR_5561    :Ne eblas ŝargi la lingvon
+STR_5562    :AVERTO!
+STR_5563    :Ĉi tiu funkcio estas aktuale nestabila. Estu singarda.
+STR_5564    :Enmeti Difektitan Eron
+STR_5565    :{SMALLFONT}{BLACK}Enmeti difektitan eron sur la blokon por kaŝi iun ajn eron super ĝi.
+STR_5566    :Pasvorto:
+STR_5567    :Anonci
+STR_5568    :Pasvorto Bezonata
+STR_5569    :Ĉi tiu servilo bezonas pasvorton
+STR_5570    :Venigi la Servilojn
+STR_5571    :Aliĝi al la Ludo
+STR_5572    :Aldoni al listo de preferatoj
+STR_5573    :Forigi el listo de preferatoj
+STR_5574    :Servilonomo:
+STR_5575    :Maks. Ludantoj:
+STR_5576    :Pordo:
+STR_5577    :Sud-Koreia Vono (W)
+STR_5578    :Rusa Rublo (₽)
+STR_5579    :Skalo de fenestro:
+STR_5580    :Ĉeĥia Krono (Kč)
+STR_5581    :Montri la bildrapidon
+STR_5582    :Kapti la muskursoron en fenestro
 STR_5583    :{COMMA1DP16} m/s
 STR_5584    :SI
-STR_5585    :{SMALLFONT}{BLACK}Unlocks ride operation limits, allowing for things like {VELOCITY} lift hills
-STR_5586    :Automatically open shops and stalls
-STR_5587    :{SMALLFONT}{BLACK}Shops and stalls will be automatically opened after building them
-STR_5588    :{SMALLFONT}{BLACK}Play with other players
-STR_5589    :Notification Settings
-STR_5590    :Park awards
-STR_5591    :Marketing campaign has finished
-STR_5592    :Park warnings
-STR_5593    :Park rating warnings
-STR_5594    :Ride has broken down
-STR_5595    :Ride has crashed
-STR_5596    :Ride warnings
-STR_5597    :Ride / scenery researched
-STR_5598    :Guest warnings
-STR_5600    :Guest has left the park
-STR_5601    :Guest is queuing for ride
-STR_5602    :Guest is on ride
-STR_5603    :Guest has left ride
-STR_5604    :Guest has bought item
-STR_5605    :Guest has used facility
-STR_5606    :Guest has died
+STR_5585    :{SMALLFONT}{BLACK}Malŝlosi limojn de funkciado de atrakcioj, kio permesos aferojn kiel {VELOCITY} liftmontetoj
+STR_5586    :Malfermi aŭtomate vendejojn kaj budojn
+STR_5587    :{SMALLFONT}{BLACK}Vendejoj kaj budoj estos aŭtomate malfermitaj post la konstruado
+STR_5588    :{SMALLFONT}{BLACK}Ludi kun aliaj ludantoj
+STR_5589    :Agordoj de Sciigo
+STR_5590    :Premioj de parko
+STR_5591    :Kampanjo surmerkatiga finis
+STR_5592    :Avertoj de parko
+STR_5593    :Avertoj de pritakso de parko
+STR_5594    :Atrakcio paneis
+STR_5595    :Atrakcio koliziis
+STR_5596    :Avertoj de atrakcio
+STR_5597    :Atrakcio / pejzaĝo esplorita
+STR_5598    :Avertoj de gasto
+STR_5600    :Gasto eliris de la parko
+STR_5601    :Gasto vicatendas atrakcion
+STR_5602    :Gasto estas sur atrakcio
+STR_5603    :Gasto eliris de atrakcio
+STR_5604    :Gasto aĉetis ion
+STR_5605    :Gasto uzis servon
+STR_5606    :Gasto mortis
 STR_5607    :{SMALLFONT}{BLACK}Forcefully remove selected map element.
 STR_5608    :BH
 STR_5609    :CH
