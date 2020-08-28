@@ -230,7 +230,7 @@ STR_0825    :Elektita nomo estas jam uzata
 STR_0826    :Tro da nomoj difinitaj
 STR_0827    :Ne sufiĉe da mono - tio bezonas {CURRENCY2DP}
 STR_0828    :{SMALLFONT}{BLACK}Fermi la fenestron
-STR_0829    :{SMALLFONT}{BLACK}Ŝovu ĉi tion por movi la fenestron
+STR_0829    :{SMALLFONT}{BLACK}Trenu ĉi tion por movi la fenestron
 STR_0830    :{SMALLFONT}{BLACK}Zomigi la vidon
 STR_0831    :{SMALLFONT}{BLACK}Malzomigi la vidon
 STR_0832    :{SMALLFONT}{BLACK}Turni la vidon 90° dekstrume
@@ -261,8 +261,8 @@ STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP
 STR_0876    :{BLACK}▼
 STR_0877    :Tro malalte!
 STR_0878    :Tro alte!
-STR_0879    :Ne eblas malalti la bienon ĉi tie...
-STR_0880    :Ne eblas alti la bienon ĉi tie...
+STR_0879    :Ne eblas malaltigi la teron ĉi tie...
+STR_0880    :Ne eblas altigi la teron ĉi tie...
 STR_0881    :Objekto baras ĝin
 STR_0882    :Ŝargi Ludon
 STR_0883    :Konservi la Ludon
@@ -313,14 +313,14 @@ STR_0929    :'S' Kurbo (maldekstre)
 STR_0930    :'S' Kurbo (dekstre)
 STR_0931    :Vertikala Lopo (maldekstre)
 STR_0932    :Vertikala Lopo (dekstre)
-STR_0933    :Unue alti aŭ malalti la bienon
+STR_0933    :Unue altigi aŭ malaltigi la teron
 STR_0934    :Enirejo de atrakcio baras ĝin
 STR_0935    :Elirejo de atrakcio baras ĝin
 STR_0936    :Parkenirejo baras ĝin
 STR_0937    :{SMALLFONT}{BLACK}Vidi agordojn
-STR_0938    :{SMALLFONT}{BLACK}Agordi la altecon kaj deklivecon de bieno
+STR_0938    :{SMALLFONT}{BLACK}Agordi la altecon kaj la deklivecon de la tero
 STR_0939    :Subtera/Interna Vido
-STR_0940    :Kaŝi la Bazan Bienon
+STR_0940    :Kaŝi la Bazan Teron
 STR_0941    :Kaŝi Vertikalajn Facojn
 STR_0942    :Travideblaj Atrakcioj
 STR_0943    :Travidebla Pejzaĝo
@@ -534,7 +534,7 @@ STR_1150    :Tri-kvaronan ŝarĝon
 STR_1151    :Plenan ŝarĝon
 STR_1152    :Iom ajn ŝarĝon
 STR_1153    :Notoj de alteco sur la trakoj de amuzejveturiloj
-STR_1154    :Notoj de alteco sur la bieno
+STR_1154    :Notoj de alteco sur la tero
 STR_1155    :Notoj de alteco sur trotuaroj
 STR_1156    :{MOVE_X}{10}{STRINGID}
 STR_1157    :✓{MOVE_X}{10}{STRINGID}
@@ -546,8 +546,8 @@ STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
 STR_1163    :{STRINGID}{NEWLINE}(Alklaku dekstre por Redakti)
 STR_1164    :{STRINGID}{NEWLINE}(Alklaku dekstre por Forigi)
 STR_1165    :{STRINGID} - {STRINGID} {COMMA16}
-STR_1166    :Ne eblas malalti la akvonivelon ĉi tie...
-STR_1167    :Ne eblas alti la akvonivelon ĉi tie...
+STR_1166    :Ne eblas malaltigi la akvonivelon ĉi tie...
+STR_1167    :Ne eblas altigi la akvonivelon ĉi tie...
 STR_1168    :Agordoj
 STR_1169    :(None)
 STR_1170    :{STRING}
@@ -558,7 +558,7 @@ STR_1174    :Rubando baras ĝin
 STR_1175    :Ne eblas konstrui ĉi tion sur dekliva trotuaro
 STR_1176    :Ne eblas konstrui trotuaron ĉi tie...
 STR_1177    :Ne eblas forigi la trotuaron ĉi tie...
-STR_1178    :Dekliveco de la bieno ne taŭgas
+STR_1178    :Dekliveco de la tero ne taŭgas
 STR_1179    :Trotuaro baras ĝin
 STR_1180    :Ne eblas konstrui ĉi tion subakve!
 STR_1181    :Trotuaroj
@@ -708,7 +708,7 @@ STR_1324    :{COMMA16} golfejo
 STR_1325    :{COMMA16} golfejoj
 STR_1326    :Golfejo {COMMA16}
 STR_1327    :{SMALLFONT}{BLACK}Turni objektojn 90°
-STR_1328    :Ebena bieno estas necesita
+STR_1328    :Ebena tero estas necesita
 STR_1329    :{WINDOW_COLOUR_2}Rapideco de la lanĉo:
 STR_1330    :{SMALLFONT}{BLACK}Maksimuma rapideco ekveturante el la stacio
 STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
@@ -767,7 +767,7 @@ STR_1383    :Kvarona Lopo
 STR_1384    :{YELLOW}{STRINGID}
 STR_1385    :{SMALLFONT}{BLACK}Aliaj trakfiguroj
 STR_1386    :Specialaĵoj...
-STR_1387    :Ne eblas ŝanĝi la tipon de la bieno...
+STR_1387    :Ne eblas ŝanĝi la tipon de tero...
 STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
 STR_1390    :{CURRENCY2DP}
@@ -1645,8 +1645,8 @@ STR_2289    :{STRINGID} {STRINGID}
 STR_2291    :Elekti la scenaron por nova ludo
 STR_2292    :{WINDOW_COLOUR_2}Atrakcioj vizititaj:
 STR_2293    :{BLACK} Neniun
-STR_2294    :{SMALLFONT}{BLACK}Ŝanĝi la stilon de la baza bieno
-STR_2295    :{SMALLFONT}{BLACK}Ŝanĝi la vertikalajn flankojn de la bieno
+STR_2294    :{SMALLFONT}{BLACK}Ŝanĝi la stilon de la baza tero
+STR_2295    :{SMALLFONT}{BLACK}Ŝanĝi la vertikalajn flankojn de la tero
 STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por eniri la parkon
 STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} atrakcio
 STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por {BLACK}{COMMA16} atrakcioj
@@ -1673,7 +1673,7 @@ STR_2322    :{WINDOW_COLOUR_2}Laboristoj: {BLACK}{COMMA16}
 STR_2323    :{WINDOW_COLOUR_2}Areo de la parko: {BLACK}{COMMA32} kvadrataj metroj
 STR_2324    :{WINDOW_COLOUR_2}Areo de la parko: {BLACK}{COMMA32} kvadrataj futoj
 STR_2325    :{SMALLFONT}{BLACK}Aĉeti bienon por etendi la parkon
-STR_2326    :{SMALLFONT}{BLACK}Aĉeti rajtojn de konstruado por ebligi la konstruadon surtere aŭ subtere ĉe bieno ekster de la parko
+STR_2326    :{SMALLFONT}{BLACK}Aĉeti rajtojn de konstruado por ebligi la konstruadon surtere aŭ subtere ĉe tero ekster de la parko
 STR_2327    :Agordoj
 STR_2328    :{WINDOW_COLOUR_2}Valuto:
 STR_2329    :{WINDOW_COLOUR_2}Longeco kaj Rapideco:
@@ -1706,10 +1706,10 @@ STR_2356    :{WINDOW_COLOUR_2}Atrakcioj inspektitaj: {BLACK}{COMMA16}
 STR_2358    :Unuoj
 STR_2359    :Faktaj Nombroj
 STR_2360    :Distingivo de Ekrano:
-STR_2361    :Glatigo de la Bieno
-STR_2362    :{SMALLFONT}{BLACK}Baskuligi la glatigon de la randoj de la bienokaheloj
-STR_2363    :Kradlinioj sur la Bieno
-STR_2364    :{SMALLFONT}{BLACK}Baskuligi la kradliniojn sur la bieno
+STR_2361    :Glatigo de la Tero
+STR_2362    :{SMALLFONT}{BLACK}Baskuligi la glatigon de la randoj de la terokaheloj
+STR_2363    :Kradlinioj sur la Tero
+STR_2364    :{SMALLFONT}{BLACK}Baskuligi la kradliniojn sur la tero
 STR_2365    :La banko rifuzas pliigon de via prunto!
 STR_2366    :Celsio (°C)
 STR_2367    :Farenhejto (°F)
@@ -1723,11 +1723,11 @@ STR_2374    :Alta
 STR_2375    :Tre Alta
 STR_2376    :Ekstrema
 STR_2377    :Ultra-Ekstrema
-STR_2378    :{SMALLFONT}{BLACK}Agordi pli malgrandan areon de bieno
-STR_2379    :{SMALLFONT}{BLACK}Agordi pli grandan areon de bieno
+STR_2378    :{SMALLFONT}{BLACK}Agordi pli malgrandan areon de tero
+STR_2379    :{SMALLFONT}{BLACK}Agordi pli grandan areon de tero
 STR_2380    :{SMALLFONT}{BLACK}Agordi pli malgrandan areon de akvo
 STR_2381    :{SMALLFONT}{BLACK}Agordi pli grandan areon de akvo
-STR_2382    :Bieno
+STR_2382    :Tero
 STR_2383    :Akvo
 STR_2384    :{WINDOW_COLOUR_2}Via celo:
 STR_2385    :{BLACK}Neniu
@@ -1835,16 +1835,16 @@ STR_2498    :Zomigi la vidon
 STR_2499    :Turni la vidon dekstrumen
 STR_2500    :Turni la konstruatan objekton
 STR_2501    :Baskuligi la subteran vidon
-STR_2502    :Baskuligi la bazan bienon
-STR_2503    :Baskuligi vertikalan bienon
+STR_2502    :Baskuligi la bazan teron
+STR_2503    :Baskuligi vertikalan teron
 STR_2504    :Baskuligi la travideblon de la atrakcioj
 STR_2505    :Baskuligi la travideblon de la pejzaĝo
 STR_2506    :Baskuligi la videblon de la apogiloj
 STR_2507    :Baskuligi la videblon de la homoj
-STR_2508    :Baskuligi la notojn de alteco sur la bieno
+STR_2508    :Baskuligi la notojn de alteco sur la tero
 STR_2509    :Baskuligi la notojn de alteco sur la trakoj de amuzejveturiloj
 STR_2510    :Baskuligi la notojn de alteco sur trotuaroj
-STR_2511    :Agordi la bienon
+STR_2511    :Agordi la teron
 STR_2512    :Agordi la akvon
 STR_2513    :Konstrui pejzaĝon
 STR_2514    :Konstrui trotuarojn
@@ -2213,7 +2213,7 @@ STR_3097    :{SMALLFONT}{BLACK}Elekti la rapidecon de la ĉenlifto
 STR_3099    :{SMALLFONT}{BLACK}Elekti la koloron
 STR_3100    :{SMALLFONT}{BLACK}Elekti la duan koloron
 STR_3101    :{SMALLFONT}{BLACK}Elekti la trian koloron
-STR_3102    :{SMALLFONT}{BLACK}Repentri la pejzaĝon kolorita sur la bieno
+STR_3102    :{SMALLFONT}{BLACK}Repentri la pejzaĝon koloritan sur la tero
 STR_3103    :Ne eblas repentri ĉi tion...
 STR_3104    :{SMALLFONT}{BLACK}Enlistigi la atrakciojn
 STR_3105    :{SMALLFONT}{BLACK}Enlistigi la vendejojn kaj budojn
@@ -2293,7 +2293,7 @@ STR_3198    :{WINDOW_COLOUR_2}Aferoj, kiuj estos inventitaj dum la ludo:
 STR_3199    :Hazarda Ordo
 STR_3200    :{SMALLFONT}{BLACK}Ordi hazarde la liston de aferoj inventotaj dum la ludo
 STR_3201    :Elektado de Objektoj
-STR_3202    :Bienoredaktilo
+STR_3202    :Teroredaktilo
 STR_3203    :Instalado de Inventaĵolisto
 STR_3204    :Elektado de Agordoj
 STR_3205    :Elektado de Celo
@@ -2360,8 +2360,8 @@ STR_3265    :Ne eblas malpliigi ĉi tion plu!
 STR_3266    :{SMALLFONT}{BLACK}Elekti kiel ĉi tiu parko pagigas al la gastoj por la eniro kaj la atrakcioj
 STR_3267    :Malpermesi la forigadon de arbaroj
 STR_3268    :{SMALLFONT}{BLACK}Malpermesi la forigadon de altaj arbaroj
-STR_3269    :Malpermesi la ŝanĝadon de la bieno
-STR_3270    :{SMALLFONT}{BLACK}Malpermesi ĉian ajn ŝanĝon de la bieno
+STR_3269    :Malpermesi la ŝanĝadon de la tero
+STR_3270    :{SMALLFONT}{BLACK}Malpermesi ĉian ajn ŝanĝon de la tero
 STR_3271    :Malpermesi altajn konstruaĵojn
 STR_3272    :{SMALLFONT}{BLACK}Malpermesi ĉian ajn altan konstruaĵon
 STR_3273    :Plibonigado kaj konservado de la pritakso de la parko estas pli malfacila
@@ -2485,7 +2485,7 @@ STR_5122    :Elekti la atrakciojn per siaj traktipoj (kiel en RCT1)
 STR_5123    :Renovigi la atrakciojn
 STR_5125    :Ĉiuj detrueblaj
 STR_5126    :Hazarda titolomuziko
-STR_5127    :{SMALLFONT}{BLACK}Ŝovante, pentri la bienon anstataŭ ŝanĝi la altecon
+STR_5127    :{SMALLFONT}{BLACK}Trenante, pentri la teron anstataŭ ŝanĝi la altecon
 STR_5128    :Grando de la elektaĵo
 STR_5129    :Entajpu la grandon de la elektaĵo inter {COMMA16} kaj {COMMA16}
 STR_5130    :Grando de la mapo
@@ -2537,7 +2537,7 @@ STR_5189    :Esplorado
 STR_5190    :Mapo
 STR_5191    :Vidujo
 STR_5192    :Lastaj Novaĵoj
-STR_5193    :Bieno
+STR_5193    :Tero
 STR_5194    :Akvo
 STR_5195    :Vakigi la Pejzaĝon
 STR_5196    :Rajtoj de la Bieno
@@ -3658,7 +3658,7 @@ STR_DTLS    :Konstruita en la mezo de la dezerto, ĉi tiu amuzparko enhavas nur 
 <Leafy Lake>
 STR_SCNR    :Folia Lago
 STR_PARK    :Folia Lago
-STR_DTLS    :Komencante kun malmulto, konstruu amuzparkon ĉirkaŭ granda lago
+STR_DTLS    :Komencante de nulo, konstruu amuzparkon ĉirkaŭ granda lago
 
 <Diamond Heights>
 STR_SCNR    :Diamantaj Altaĵoj
@@ -3713,7 +3713,7 @@ STR_DTLS    :Ĉi tiu amuzparko enhavas kelkajn bone-desegnitajn modernajn atrakc
 <Mystic Mountain>
 STR_SCNR    :Mistika Monto
 STR_PARK    :Mistika Monto
-STR_DTLS    :En la ondaj arbaroj de Mistika Monto, konstruu amuzparkon komencante kun malmulto
+STR_DTLS    :En la ondaj arbaroj de Mistika Monto, konstruu amuzparkon komencante de nulo
 
 <Pacific Pyramids>
 STR_SCNR    :Pacifikaj Piramidoj
@@ -3784,7 +3784,7 @@ STR_DTLS    :Sur ambaŭ flankoj de aŭtovojo, ĉi tiu parko jam havas plurajn fu
 <Haunted Harbour>
 STR_SCNR    :Fantoma Haveno
 STR_PARK    :Fantoma Haveno
-STR_DTLS    :La loka aŭtoritato permesis la malmultekostan vendadon de proksima tero por ĉi tiu malgranda parko, sed certaj atrakcioj devas esti konservata
+STR_DTLS    :La loka aŭtoritato permesis la malmultekostan vendadon de proksima bieno por ĉi tiu malgranda parko, sed certaj atrakcioj devas esti konservataj
 
 <Fun Fortress>
 STR_SCNR    :Amuza Fortreso
@@ -4208,7 +4208,7 @@ STR_DTLS    :Krei vian propran version de ĉi tiu grandega parko de Ses-Flagoj
 <Build your own Six Flags over Texas>
 STR_SCNR    :Konstrui je via propra Ses-Flagoj-sur-Teksaso
 STR_PARK    :Ses-Flagoj-sur-Teksaso
-STR_DTLS    :Komencante kun malmulto, konstruu la atrakciojn en ĉi tiu parko de Ses-Flagoj
+STR_DTLS    :Komencante de nulo, konstruu la atrakciojn en ĉi tiu parko de Ses-Flagoj
 
 <Build your own Six Flags Park>
 STR_SCNR    :Konstrui vian propran parko de Ses-Flagoj
