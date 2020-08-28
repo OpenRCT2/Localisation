@@ -1754,10 +1754,10 @@ STR_2405    :Konstrui 10 ondajn fervojojn kun certa longeco
 STR_2406    :Fini la konstruadon de 5 ondaj fervojoj
 STR_2407    :Repagi la prunton, kaj atingi certan parkvaloron
 STR_2408    :Profito monata pro la vendado de manĝaĵoj/komercaĵoj
-STR_2409    :{WINDOW_COLOUR_2}Aktualaj kampanjoj de vendado
+STR_2409    :{WINDOW_COLOUR_2}Aktualaj kampanjoj surmerkatigaj
 STR_2410    :{BLACK}Neniuj
-STR_2411    :{WINDOW_COLOUR_2}Disponeblaj kampanjoj de vendado
-STR_2412    :{SMALLFONT}{BLACK}Komenci ĉi tiun kampanjojn de vendado
+STR_2411    :{WINDOW_COLOUR_2}Disponeblaj kampanjoj surmerkatigaj
+STR_2412    :{SMALLFONT}{BLACK}Komenci ĉi tiun kampanjon surmerkatigan
 STR_2413    :{BLACK}(po {CURRENCY2DP} por semajno)
 STR_2414    :(Ne elektita)
 STR_2415    :{WINDOW_COLOUR_2}Atrakcio:
@@ -1782,11 +1782,11 @@ STR_2435    :{BLACK}Kampanjo de reklamado por {STRINGID}
 STR_2436    :1 semajno
 STR_2443    :{WINDOW_COLOUR_2}Kosto ĉiusemajna: {BLACK}{CURRENCY2DP}
 STR_2444    :{WINDOW_COLOUR_2}Totala kosto: {BLACK}{CURRENCY2DP}
-STR_2445    :Komenci ĉi tiun kampanjon de vendado
-STR_2446    :{YELLOW}Via kampanjo de vendado por senkosta eniro ĉe la parko finiĝis
-STR_2447    :{YELLOW}Via kampanjo de vendado por senkostaj fojoj sur {STRINGID} finiĝis
-STR_2448    :{YELLOW}Via kampanjo de vendado por duono-kosta eniro ĉe la parko finiĝis
-STR_2449    :{YELLOW}Via kampanjo de vendado por senkosta {STRINGID} finiĝis
+STR_2445    :Komenci ĉi tiun kampanjon surmerkatigan
+STR_2446    :{YELLOW}Via kampanjo surmerkatiga por senkosta eniro ĉe la parko finiĝis
+STR_2447    :{YELLOW}Via kampanjo surmerkatiga por senkostaj fojoj sur {STRINGID} finiĝis
+STR_2448    :{YELLOW}Via kampanjo surmerkatiga por duono-kosta eniro ĉe la parko finiĝis
+STR_2449    :{YELLOW}Via kampanjo surmerkatiga por senkosta {STRINGID} finiĝis
 STR_2450    :{YELLOW}Via kampanjo de reklamado por la parko finiĝis
 STR_2451    :{YELLOW}Via kampanjo de reklamado por {STRINGID} finiĝis
 STR_2452    :{WINDOW_COLOUR_2}Mono (minus la prunto): {BLACK}{CURRENCY2DP}
@@ -1796,7 +1796,7 @@ STR_2457    :{SMALLFONT}{BLACK}Montri la financajn kontojn
 STR_2458    :{SMALLFONT}{BLACK}Montri la diagramon de mono (minus la prunto) kontraŭ la tempo
 STR_2459    :{SMALLFONT}{BLACK}Montri la diagramon de la parkvaloro kontraŭ la tempo
 STR_2460    :{SMALLFONT}{BLACK}Montri la diagramon de la ĉiusemajna profito
-STR_2461    :{SMALLFONT}{BLACK}Montri la kampanjojn de vendado
+STR_2461    :{SMALLFONT}{BLACK}Montri la kampanjojn surmerkatigajn
 STR_2462    :{SMALLFONT}{BLACK}Montri la vidon de la parkenirejo
 STR_2463    :{SMALLFONT}{BLACK}Montri la diagramon de la pritakso de la parko kontraŭ la tempo
 STR_2464    :{SMALLFONT}{BLACK}Montri la diagramon de la nombro de gastoj kontraŭ la tempo
@@ -2052,7 +2052,7 @@ STR_2852    :Trakdesegno jam estas instalita
 STR_2853    :Malpermesita de la loka aŭtoritato!
 STR_2854    :{RED}Gastoj ne eblas iri al la enirejo de {STRINGID}!{NEWLINE}Konstruu vojon al la enirejo
 STR_2855    :{RED}{STRINGID} ne havas vojon el ĝia elirejo!{NEWLINE}Konstruu vojon de la elirejo de la atrakcioj
-STR_2858    :Ne eblas komenci la kampanjon de vendado...
+STR_2858    :Ne eblas komenci la kampanjon surmerkatigan...
 STR_2861    :{WINDOW_COLOUR_2}Rajtigita al Infogrames Interactive Inc.
 STR_2862    :Dankesprimoj por la muziko...
 STR_2863    :Dankesprimoj por la muziko
@@ -2175,7 +2175,7 @@ STR_3043    :Stilo de rokmuziko 3
 STR_3044    :Stilo de dolĉaĵo
 STR_3045    :{SMALLFONT}{BLACK}Elekti la stilon de muziko por ludi
 STR_3047    :La loka aŭtoritato malpermesas la malkonstruadon aŭ la redaktadon de ĉi tiu atrakcio
-STR_3048    :La loka aŭtoritato malpermesas kampanjojn de vendado
+STR_3048    :La loka aŭtoritato malpermesas kampanjojn surmerkatigajn
 STR_3049    :Truo de golfo A
 STR_3050    :Truo de golfo B
 STR_3051    :Truo de golfo C
@@ -2335,8 +2335,8 @@ STR_3240    :{WINDOW_COLOUR_2}Komenca mono:
 STR_3241    :{WINDOW_COLOUR_2}Komenca prunto:
 STR_3242    :{WINDOW_COLOUR_2}Maksumima prunto permesita:
 STR_3243    :{WINDOW_COLOUR_2}Jara procento de interezo:
-STR_3244    :Malpermesi kampanjojn de vendado
-STR_3245    :{SMALLFONT}{BLACK}Malpermesi kampanjojn de reklamado, kaj aliajn kampanjojn de vendado
+STR_3244    :Malpermesi kampanjojn surmerkatigajn
+STR_3245    :{SMALLFONT}{BLACK}Malpermesi kampanjojn de reklamado kaj aliajn kampanjojn surmerkatigajn
 STR_3246    :{WINDOW_COLOUR_2}{CURRENCY}
 STR_3247    :{WINDOW_COLOUR_2}{COMMA16}%
 STR_3248    :Ne eblas pliigi la komencan monon plu!
