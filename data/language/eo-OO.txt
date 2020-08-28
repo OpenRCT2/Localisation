@@ -1978,8 +1978,8 @@ STR_2779    :Vidujo #{COMMA16}
 STR_2780    :Plia vidujo
 # End of new strings
 STR_2781    :{STRINGID}:
-STR_2782    :Majuskliga klavo + 
-STR_2783    :Stirklavo + 
+STR_2782    :MAJ + 
+STR_2783    :STIR + 
 STR_2784    :Ŝanĝi la klavararanĝon
 STR_2785    :{WINDOW_COLOUR_2}Premi la novan klavarokomandon de:{NEWLINE}“{STRINGID}”
 STR_2786    :{SMALLFONT}{BLACK}Alklaku la priskribon de klavarokomando por elekti novan klavon
@@ -2721,87 +2721,87 @@ STR_5396    :{SMALLFONT}{BLACK}Reŝargi la titolosekvencon se ĝi ŝanĝis ekste
 STR_5397    :Eblas esti uzita nur por la titol-ekrano
 STR_5398    :Ne eblas redakti la titolosekvencon dum ĝi ludas
 STR_5399    :Premu la haltobutonon por redakti pli
-STR_5400    :Can't change this title sequence
-STR_5401    :Create a new title sequence to make changes to
-STR_5402    :Failed to load title sequence
-STR_5403    :There may be no Load or Wait command or a save may be invalid
-STR_5404    :Name already exists
-STR_5405    :Enter a name for the save
-STR_5406    :Enter a name for the title sequence
-STR_5407    :Add
-STR_5408    :Remove
-STR_5409    :Insert
-STR_5410    :Edit
-STR_5411    :Reload
-STR_5412    :Skip to
-STR_5413    :Load
-STR_5415    :Load{MOVE_X}{87}{STRING}
-STR_5416    :Load{MOVE_X}{87}No save selected
-STR_5417    :Location
-STR_5418    :Location{MOVE_X}{87}{COMMA16}   {COMMA16}
-STR_5419    :Rotate
-STR_5420    :Rotate{MOVE_X}{87}{COMMA16}
-STR_5421    :Zoom
-STR_5422    :Zoom{MOVE_X}{87}{COMMA16}
-STR_5423    :Wait
-STR_5424    :Wait{MOVE_X}{87}{UINT16}
-STR_5425    :Restart
-STR_5426    :End
-STR_5427    :Coordinates:
-STR_5428    :Anticlockwise rotations:
-STR_5429    :Zoom level:
-STR_5430    :Milliseconds to wait:
-STR_5431    :Save to load:
-STR_5432    :Command:
-STR_5433    :Title Sequences
-STR_5434    :Command Editor
-STR_5435    :Rename save
-STR_5436    :Edit Title Sequences...
-STR_5437    :No save selected
-STR_5438    :Can't make changes while command editor is open
-STR_5439    :A wait command with at least 4 seconds is required with a restart command
-STR_5440    :Minimise fullscreen on focus loss
-STR_5441    :{SMALLFONT}{BLACK}Identifies rides by track type{NEWLINE}so vehicles can be changed{NEWLINE}afterwards (RCT1 behaviour)
-STR_5442    :Force park rating:
-STR_5443    :Speed{MOVE_X}{87}{STRINGID}
-STR_5444    :Speed:
-STR_5445    :Speed
-STR_5446    :Get
-STR_5447    :Type {STRINGID}
-STR_5448    :Ride / Vehicle {STRINGID}
-STR_5449    :Reduce game speed
-STR_5450    :Increase game speed
-STR_5451    :Open cheats window
-STR_5452    :Toggle visibility of toolbars
-STR_5453    :Select another ride
-STR_5454    :Uncap FPS
-STR_5455    :Enable sandbox mode
-STR_5456    :Disable clearance checks
-STR_5457    :Disable support limits
-STR_5458    :Rotate clockwise
-STR_5459    :Rotate anti-clockwise
-STR_5460    :Rotate view anti-clockwise
-STR_5461    :Set guests' parameters
+STR_5400    :Ne eblas ŝanĝi ĉi tiun titolosekvencon
+STR_5401    :Krei novan titolosekvencon por ŝanĝi ĝin
+STR_5402    :Ne eblas ŝargi titolosekvencon
+STR_5403    :Aŭ ne estas Ŝargi aŭ Atendi komandoj, aŭ konservaĵo estas nevalida
+STR_5404    :Nomo jam ekzistas
+STR_5405    :Entajpu la nomon de la konservaĵo
+STR_5406    :Entajpu la nomon de la titolosekvenco
+STR_5407    :Aldoni
+STR_5408    :Forigi
+STR_5409    :Enmeti
+STR_5410    :Redakti
+STR_5411    :Reŝargi
+STR_5412    :Preterpasi al
+STR_5413    :Ŝargi
+STR_5415    :Ŝargi{MOVE_X}{87}{STRING}
+STR_5416    :Ŝargi{MOVE_X}{87}Neniu konservaĵo elektita
+STR_5417    :Loko
+STR_5418    :Loko{MOVE_X}{87}{COMMA16}   {COMMA16}
+STR_5419    :Turni
+STR_5420    :Turni{MOVE_X}{87}{COMMA16}
+STR_5421    :Zomigi
+STR_5422    :Zomigi{MOVE_X}{87}{COMMA16}
+STR_5423    :Atendi
+STR_5424    :Atendi{MOVE_X}{87}{UINT16}
+STR_5425    :Rekomenci
+STR_5426    :Fini
+STR_5427    :Koordinatoj:
+STR_5428    :Maldekstrumaj turnoj:
+STR_5429    :Zomonivelo:
+STR_5430    :Atendi tiom da milisekundoj:
+STR_5431    :Konservi por ŝargi:
+STR_5432    :Komando:
+STR_5433    :Titolosekvencoj
+STR_5434    :Komandoredaktilo
+STR_5435    :Renomi la konservaĵon
+STR_5436    :Redakti Titolosekvencojn...
+STR_5437    :Neniu konservaĵo elektita
+STR_5438    :Ne eblas fari ŝanĝojn dum la komandoredaktilo estas malfermita
+STR_5439    :Atendi-komando de almenaŭ 4 sekundoj estas bezonata kun Rekomenci-komando
+STR_5440    :Minimumigi plenekranan reĝimon dum defokusigoj
+STR_5441    :{SMALLFONT}{BLACK}Identigi atrakciojn per siaj traktipoj{NEWLINE}do veturiloj fariĝas ŝanĝeblaj{NEWLINE}poste (Konduto de RCT1)
+STR_5442    :Agordi la pritakson de parko:
+STR_5443    :Rapideco{MOVE_X}{87}{STRINGID}
+STR_5444    :Rapideco:
+STR_5445    :Rapideco
+STR_5446    :Atingi
+STR_5447    :Tipo {STRINGID}
+STR_5448    :Atrakcio / Veturilo {STRINGID}
+STR_5449    :Malpliigi la rapidecon de la ludo
+STR_5450    :Pliigi la rapidecon de la ludo
+STR_5451    :Malfermi la fenestron de trompoj
+STR_5452    :Baskuli la videblon de la ilobretoj
+STR_5453    :Elekti alian atrakcion
+STR_5454    :Senlimigi la bildrapidon
+STR_5455    :Ŝalti la reĝimon de provejo
+STR_5456    :Malŝalti kontrolojn de interspacoj
+STR_5457    :Malŝalti limojn de apogiloj
+STR_5458    :Turni dekstrumen
+STR_5459    :Turni maldekstrumen
+STR_5460    :Turni vidon maldekstrumen
+STR_5461    :Agordi parametrojn de la gastoj
 STR_5462    :{CURRENCY}
-STR_5463    :Goal: Have fun!
-STR_5464    :General
-STR_5465    :Weather
-STR_5466    :Staff
+STR_5463    :Celo: Amuzi vin!
+STR_5464    :Ĝenerala
+STR_5465    :Vetero
+STR_5466    :Laboristoj
 STR_5467    :ALT + 
-STR_5468    :Recent messages
-STR_5469    :Scroll map up
-STR_5470    :Scroll map left
-STR_5471    :Scroll map down
-STR_5472    :Scroll map right
-STR_5473    :Cycle day / night
-STR_5474    :Display text on banners in uppercase
+STR_5468    :Lastaj mesaĝoj
+STR_5469    :Rulumi la mapon supren
+STR_5470    :Rulumi la mapon maldekstren
+STR_5471    :Rulumi la mapon malsupren
+STR_5472    :Rulumi la mapon dekstren
+STR_5473    :Cikligi la tagon / nokton
+STR_5474    :Elmontri la tekston de rubandoj en la majuskloj
 STR_5475    :{COMMA16} semajnoj
-STR_5476    :Hardware
-STR_5477    :Map rendering
-STR_5478    :Controls
-STR_5479    :Toolbar
-STR_5480    :Show toolbar buttons for:
-STR_5481    :Themes
+STR_5476    :Aparataro
+STR_5477    :Bildigo de la mapo
+STR_5478    :Kontroliloj
+STR_5479    :Ilobreto
+STR_5480    :Montri butonojn de ilobreto por:
+STR_5481    :Temoj
 STR_5482    :{WINDOW_COLOUR_2}Daŭro de la lasta inspekto: {BLACK}1 minuto
 STR_5483    :{BLACK}({COMMA16} semajnoj restantaj)
 STR_5484    :{BLACK}({COMMA16} semajno restanta)
