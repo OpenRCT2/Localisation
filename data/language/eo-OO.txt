@@ -174,9 +174,9 @@ STR_0599    :Kompakta onda fervojo kun unuopaj ĉaroj kaj glataj kurboplenaj mal
 STR_0600    :Ŝaltitaj mintrajnoj movas rapide laŭ glata kurboplena trakaranĝo
 STR_0602    :Linearaj induktaj motoroj plirapidigas la trajnojn de la onda fervojo, kiuj tiam trapasas kurboplenajn inversigantojn
 STR_0767    :Gasto {INT32}
-STR_0768    :Asistanto {INT32}
+STR_0768    :Faktoto  {INT32}
 STR_0769    :Mekanikisto {INT32}
-STR_0770    :Sekuriga Oficisto {INT32}
+STR_0770    :Gardisto {INT32}
 STR_0771    :Amuzisto {INT32}
 STR_0777    :Parko malnomita{POP16}{POP16}
 STR_0778    :Afiŝo
@@ -807,7 +807,7 @@ STR_1423    :{SMALLFONT}{BLACK}Atendovica vojo
 STR_1424    :{SMALLFONT}{BLACK}Trotuaro
 STR_1425    :Trotuaro
 STR_1426    :Atendovico
-STR_1427    :{WINDOW_COLOUR_2}Klientoj: po {BLACK}{COMMA32} por horo
+STR_1427    :{WINDOW_COLOUR_2}Klientoj: {BLACK}{COMMA32} por horo
 STR_1428    :{WINDOW_COLOUR_2}Enirokosto:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :Senkosta
@@ -1078,9 +1078,9 @@ STR_1696    :{SMALLFONT}{BLACK}Klientinformo
 STR_1697    :Ne eblas meti ĉi tion ĉe atendovicoj
 STR_1698    :Eblas meti ĉi tion nur ĉe atendovicoj
 STR_1699    :Tro da homoj en la ludo
-STR_1700    :Dungi novan Asistanton
+STR_1700    :Dungi novan Faktoton
 STR_1701    :Dungi novan Mekanikiston
-STR_1702    :Dungi novan Sekurigan Oficiston
+STR_1702    :Dungi novan Gardiston
 STR_1703    :Dungi novan Amuziston
 STR_1704    :Ne eblas dungi novan laboriston...
 STR_1705    :{SMALLFONT}{BLACK}Maldungi ĉi tiun laboriston
@@ -1230,13 +1230,13 @@ STR_1855    :{WINDOW_COLOUR_2}Konstruita: Ankaŭ {BLACK}{COMMA16} jaroj
 STR_1856    :{WINDOW_COLOUR_2}Profito por ĉiu ero vendita: {BLACK}{CURRENCY2DP}
 STR_1857    :{WINDOW_COLOUR_2}Malprofito por ĉiu ero vendita: {BLACK}{CURRENCY2DP}
 STR_1858    :{WINDOW_COLOUR_2}Kosto: po {BLACK}{CURRENCY2DP} por monato
-STR_1859    :Asistantoj
+STR_1859    :Faktotoj
 STR_1860    :Mekanikistoj
-STR_1861    :Sekurigaj Oficistoj
+STR_1861    :Gardistoj
 STR_1862    :Amuzistoj
-STR_1863    :Asistanto
+STR_1863    :Faktoto
 STR_1864    :Mekanikisto
-STR_1865    :Sekuriga Oficisto
+STR_1865    :Gardisto
 STR_1866    :Amuzisto
 STR_1867    :{BLACK}{COMMA16} {STRINGID}
 STR_1868    :Ne eblas ŝanĝi la nombron de turnoj...
@@ -1562,9 +1562,9 @@ STR_2206    :Malplenan Trinkaĵoskatolon
 STR_2207    :Malplenan Sukotason
 STR_2208    :Rostitan Kolbason
 STR_2209    :Malplenan Bovlon
-STR_2210    :{SMALLFONT}{BLACK}Montri la liston de asistantoj en la parko
+STR_2210    :{SMALLFONT}{BLACK}Montri la liston de faktotoj en la parko
 STR_2211    :{SMALLFONT}{BLACK}Montri la liston de mekanikistoj en la parko
-STR_2212    :{SMALLFONT}{BLACK}Montri la liston de sekurigaj oficistoj en la parko
+STR_2212    :{SMALLFONT}{BLACK}Montri la liston de gardistoj en la parko
 STR_2213    :{SMALLFONT}{BLACK}Montri la liston de amuzistoj en la parko
 STR_2214    :Ne eblas konstrui, dum la ludo estas paŭzita!
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
@@ -2002,9 +2002,9 @@ STR_2802    :Mapo
 STR_2803    :{SMALLFONT}{BLACK}Emfazi ĉi tiujn gastojn sur la mapo
 STR_2804    :{SMALLFONT}{BLACK}Emfazi ĉi tiujn laboristojn sur la mapo
 STR_2805    :{SMALLFONT}{BLACK}Montri la mapon de la parko
-STR_2806    :{RED}Gastoj plendas pri la naŭza stato de la trotuaroj en via parko{NEWLINE}Kontrolu kie estas viaj asistantoj, kaj eble organizu ilin pli bone
-STR_2807    :{RED}Gastoj plendas pri la kvanto de rubo en via parko{NEWLINE}Kontrolu kie estas viaj asistantoj, kaj eble organizu ilin pli bone
-STR_2808    :{RED}Gastoj plendas pri la vandalismo en via parko{NEWLINE}Kontrolu kie estas viaj sekurigaj oficistoj, kaj eble organizu ilin pli bone
+STR_2806    :{RED}Gastoj plendas pri la naŭza stato de la trotuaroj en via parko{NEWLINE}Kontrolu kie estas viaj faktotoj, kaj eble organizu ilin pli bone
+STR_2807    :{RED}Gastoj plendas pri la kvanto de rubo en via parko{NEWLINE}Kontrolu kie estas viaj faktotoj, kaj eble organizu ilin pli bone
+STR_2808    :{RED}Gastoj plendas pri la vandalismo en via parko{NEWLINE}Kontrolu kie estas viaj gardistoj, kaj eble organizu ilin pli bone
 STR_2809    :{RED}Gastoj malsatas, kaj ne eblas trovi ie ajn por aĉeti manĝaĵon
 STR_2810    :{RED}Gastoj soifas, kaj ne eblas trovi ie ajn por aĉeti trinkaĵon
 STR_2811    :{RED}Gastoj plendas, ĉar ili ne eblas trovi necesejon en via parko
@@ -2539,8 +2539,8 @@ STR_5191    :Vidujo
 STR_5192    :Lastaj Novaĵoj
 STR_5193    :Tero
 STR_5194    :Akvo
-STR_5195    :Vakigi la Pejzaĝon
-STR_5196    :Rajtoj de la Bieno
+STR_5195    :Vakigi Pejzaĝon
+STR_5196    :Rajtoj de Bieno
 STR_5197    :Pejzaĝo
 STR_5198    :Trotuaroj
 STR_5199    :Konstruado de la Atrakcioj
@@ -2686,7 +2686,7 @@ STR_5361    :Doni al ĉiu gasto:
 STR_5362    :{BLACK}Agordi la preferatajn intensojn de atrakcioj por ĉiu gasto al:
 STR_5363    :Pli ol 1
 STR_5364    :Malpli ol 15
-STR_5365    :{BLACK}Rapideco de la laboristoj:
+STR_5365    :{BLACK}Rapideco de laboristoj:
 STR_5366    :Normala
 STR_5367    :Rapida
 STR_5368    :Restarigi la staton de akcidentoj
@@ -3188,8 +3188,8 @@ STR_5907    :{SMALLFONT}{BLACK}When enabled, zooming in will centre around the c
 STR_5908    :Allow arbitrary ride type changes
 STR_5909    :{SMALLFONT}{BLACK}Allows changing ride type freely. May cause crashes.
 STR_5910    :Apply
-STR_5911    :See-Through Paths
-STR_5912    :See-through paths toggle
+STR_5911    :Travideblaj Trotuaroj
+STR_5912    :Baskuligi la travideblon de la trotuaroj
 STR_5913    :Chat
 STR_5914    :Unknown ride
 STR_5915    :Player
@@ -3477,7 +3477,7 @@ STR_6215    :Construction
 STR_6216    :Operation
 STR_6217    :Ride / track availability
 STR_6218    :OpenRCT2 Official
-STR_6219    :Highlight path issues
+STR_6219    :Emfazi problemojn de la trotuaroj
 STR_6220    :Make Usable
 STR_6221    :{SMALLFONT}{BLACK}This will set the ride's known entrance or exit location to the currently selected tile. Only one entrance and exit location can be made usable per station.
 STR_6222    :Can't place guest entry point here...
@@ -3492,7 +3492,7 @@ STR_6230    :{STRINGID}:
 STR_6231    :{WINDOW_COLOUR_2}{STRINGID}: {MOVE_X}{185}{STRINGID}
 STR_6232    :Frozen
 STR_6233    :Cut-away view
-STR_6234    :Highlight path issues
+STR_6234    :Emfazi problemojn de la trotuaroj
 STR_6235    :Server Information
 STR_6236    :Players
 STR_6237    :Groups
@@ -4062,17 +4062,17 @@ STR_DTLS    :Provu krei la plej malgrandan profiteblan parkon de la mondo
 # None of them had details
 <Alton Towers>
 STR_SCNR    :Alton-Turoj
-STR_PARK    :Alton-Turoj
+STR_PARK    :Alton Towers
 STR_DTLS    :
 
 <Heide-Park>
-STR_SCNR    :Hajd-Parko
-STR_PARK    :Hajd-Parko
+STR_SCNR    :Heide-Parko
+STR_PARK    :Heide-Park
 STR_DTLS    :
 
 <Blackpool Pleasure Beach>
 STR_SCNR    :Blackpool-Plezuro-Plaĝo
-STR_PARK    :Blackpool-Plezuro-Plaĝo
+STR_PARK    :Blackpool Pleasure Beach
 STR_DTLS    :
 
 ## Misc parks from RCT1
@@ -4276,28 +4276,28 @@ STR_PARK    :Ĉielarko-Supraĵo
 STR_DTLS    :Konstruita ĉe montetoflanko, la aŭtoritato malpermesas altajn konstruaĵojn. Ĉu vi povas disvolvi la parkon, kaj farigi ĝin sukcesa?
 
 <Six Flags Belgium>
-STR_SCNR    :Ses-Flagoj Belgio
-STR_PARK    :Ses-Flagoj Belgio
+STR_SCNR    :Ses-Flagoj-Belgio
+STR_PARK    :Six Flags Belgium
 STR_DTLS    :Provu administri kaj plibonigi ĉi tiun parkon de Ses-Flagoj
 
 <Six Flags Great Adventure>
 STR_SCNR    :Ses-Flagoj-Bonega-Aventuro
-STR_PARK    :Ses-Flagoj-Bonega-Aventuro
+STR_PARK    :Six Flags Great Adventure
 STR_DTLS    :Konstruu la mankantajn atrakciojn de Ses-Flagoj, aŭ kreu viajn proprajn desegnaĵojn por plibonigi la parkon! Sed ne forgesu vian ĉefan celon: por allogi pli da gastoj al la parko!
 
 <Six Flags Holland>
 STR_SCNR    :Ses-Flagoj-Holando
-STR_PARK    :Ses-Flagoj-Holando
+STR_PARK    :Six Flags Holland
 STR_DTLS    :Provu administri kaj plibonigi ĉi tiun parkon de Ses-Flagoj
 
 <Six Flags Magic Mountain>
 STR_SCNR    :Ses-Flagoj-Magia-Monto
-STR_PARK    :Ses-Flagoj-Magia-Monto
+STR_PARK    :Six Flags Magic Mountain
 STR_DTLS    :Konstruu la mankantajn atrakciojn de Ses-Flagoj, aŭ kreu viajn proprajn desegnaĵojn por plibonigi la parko! Sed ne forgesu vian ĉefan celon: por repagi vian prunton, konservante la parkvaloro!
 
 <Six Flags over Texas>
 STR_SCNR    :Ses-Flagoj-sur-Teksaso
-STR_PARK    :Ses-Flagoj-sur-Teksaso
+STR_PARK    :Six Flags over Texas
 STR_DTLS    :Konstruu la mankantajn atrakciojn de Ses-Flagoj, aŭ kreu viajn proprajn desegnaĵojn por plibonigi la parkon! Sed ne forgesu vian ĉefan celon: por allogi pli da gastoj al la parko!
 
 ###############################################################################
@@ -4454,7 +4454,7 @@ STR_DTLS    :Vi posedas malplenan teron proksime de la malaltaĵa parto de la ur
 <Rock 'n' Roll - Flower Power>
 STR_SCNR    :Rokenrolo - La Potenco de Floroj
 STR_PARK    :Woodstock-Festivalo
-STR_DTLS    :Granda jara muzikfestivalo okazas sur via tereno. Konstruu mojosan amuzparkon por teni la liberaminan spektantaron amuzita.
+STR_DTLS    :Granda jara muzikfestivalo okazas sur via tereno. Konstruu mojosan amuzparkon por teni la liberaniman spektantaron amuzita.
 
 <Rock 'n' Roll - Rock 'n' Roll>
 STR_SCNR    :Rokenrolo - Rokenrolo
