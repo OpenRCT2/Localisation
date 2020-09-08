@@ -271,7 +271,7 @@ STR_0885    :Konservi Pejzaĝon
 STR_0887    :Forlasi Scenaroredaktilon
 STR_0888    :Forlasi Trakdesegnilon
 STR_0889    :Forlasi Administrilon de Trakdesegnaĵoj
-STR_0891    :Ekrankopio
+STR_0891    :Ekrankopii
 STR_0892    :Ekrankopio estis konservita al la disko kiel '{STRINGID}'
 STR_0893    :Ne eblas konservi ekrankopion!
 STR_0894    :Zono de pejzaĝodatumoj estas plena!
@@ -509,7 +509,7 @@ STR_1125    :Funkcias
 STR_1126    :Haltas
 STR_1127    :Malŝarĝas pasaĝerojn
 STR_1128    :Haltita per bremsoj de blokparto
-STR_1129    :Ĉiuj veturiloj havas la saman koloron
+STR_1129    :Ĉiuj veturiloj havas saman koloron
 STR_1130    :Malsamaj koloroj por ĉiu {STRINGID}
 STR_1131    :Malsamaj koloroj por ĉiu veturilo
 STR_1132    :Veturilo {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
@@ -721,10 +721,10 @@ STR_1337    :{STRINGID} - Elirejo{POP16}{POP16}
 STR_1338    :{STRINGID} - Elirejo de Stacio {POP16}{COMMA16}
 STR_1339    :{BLACK}Neniuj testrezultoj ankoraŭ...
 STR_1340    :{WINDOW_COLOUR_2}Maks. rapideco: {BLACK}{VELOCITY}
-STR_1341    :{WINDOW_COLOUR_2}Daŭro de la atrakcio: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
+STR_1341    :{WINDOW_COLOUR_2}Daŭro de atrakcio: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
 STR_1343    :{DURATION} / 
-STR_1344    :{WINDOW_COLOUR_2}Longeco de la atrakcio: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
+STR_1344    :{WINDOW_COLOUR_2}Longeco de atrakcio: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
 STR_1346    :{LENGTH} / 
 STR_1347    :{WINDOW_COLOUR_2}Meznombra rapideco: {BLACK}{VELOCITY}
@@ -734,7 +734,7 @@ STR_1350    :{WINDOW_COLOUR_2}Maks. negativa vertikala graviteco: {BLACK}{COMMA2
 STR_1351    :{WINDOW_COLOUR_2}Maks. negativa vertikala graviteco: {OUTLINE}{RED}{COMMA2DP32}g
 STR_1352    :{WINDOW_COLOUR_2}Maks. flanka graviteco: {BLACK}{COMMA2DP32}g
 STR_1353    :{WINDOW_COLOUR_2}Maks. flanka graviteco: {OUTLINE}{RED}{COMMA2DP32}g
-STR_1354    :{WINDOW_COLOUR_2}Alteco de la plej alta malleviĝo: {BLACK}{LENGTH}
+STR_1354    :{WINDOW_COLOUR_2}Alteco de plej alta malleviĝo: {BLACK}{LENGTH}
 STR_1355    :{WINDOW_COLOUR_2}Malleviĝoj: {BLACK}{COMMA16}
 STR_1356    :{WINDOW_COLOUR_2}Inversigoj: {BLACK}{COMMA16}
 STR_1357    :{WINDOW_COLOUR_2}Truoj: {BLACK}{COMMA16}
@@ -1165,7 +1165,7 @@ STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Piratokostumo
 STR_1790    :{SMALLFONT}{BLACK}Elekti la uniformkoloron por ĉi tiaj laboristoj
 STR_1791    :{WINDOW_COLOUR_2}Uniformkoloro:
 STR_1792    :Reagas al la paneo de {STRINGID}
-STR_1793    :Iras al {STRINGID} por inspekti ĝin
+STR_1793    :Iras al {STRINGID} por inspekto
 STR_1794    :Riparas je {STRINGID}
 STR_1795    :Respondi al radiovoko
 STR_1796    :Paneita kaj bezonas riparon
@@ -1257,8 +1257,8 @@ STR_1883    :Post ĉiu horo
 STR_1884    :Post ĉiu 2 horoj
 STR_1885    :Neniam
 STR_1886    :Inspektas {STRINGID}
-STR_1887    :{WINDOW_COLOUR_2}Daŭro de la lasta inspekto: {BLACK}{COMMA16} minutoj
-STR_1888    :{WINDOW_COLOUR_2}Daŭro de la lasta inspekto: {BLACK}pli ol 4 horoj
+STR_1887    :{WINDOW_COLOUR_2}Daŭro de lasta inspekto: {BLACK}{COMMA16} minutoj
+STR_1888    :{WINDOW_COLOUR_2}Daŭro de lasta inspekto: {BLACK}pli ol 4 horoj
 STR_1889    :{WINDOW_COLOUR_2}Periodo de nefunkciado: {MOVE_X}{255}{BLACK}{COMMA16}%
 STR_1890    :{SMALLFONT}{BLACK}Elekti kiel ofte mekanikisto kontrolas ĉi tiun atrakcion
 STR_1891    :Neniu {STRINGID} ankoraŭ estas en la parko!
@@ -1691,7 +1691,7 @@ STR_2340    :Liro (L)
 STR_2341    :Guldeno (ƒ)
 STR_2342    :Krono (kr)
 STR_2343    :Eŭro (€)
-STR_2344    :Usona-angla mezurunua sistemo
+STR_2344    :Usona mezurunua sistemo
 STR_2345    :Metra decimala sistemo
 STR_2347    :{RED}{STRINGID} dronis!
 STR_2348    :{SMALLFONT}{BLACK}Montri statistikaĵoj por ĉi tiu laboristo
@@ -1706,9 +1706,9 @@ STR_2356    :{WINDOW_COLOUR_2}Atrakcioj inspektitaj: {BLACK}{COMMA16}
 STR_2358    :Unuoj
 STR_2359    :Faktaj Nombroj
 STR_2360    :Distingivo de Ekrano:
-STR_2361    :Glatigo de la Tero
+STR_2361    :Glatigo de Tero
 STR_2362    :{SMALLFONT}{BLACK}Baskuligi la glatigon de la randoj de la terokaheloj
-STR_2363    :Kradlinioj sur la Tero
+STR_2363    :Kradlinioj sur Tero
 STR_2364    :{SMALLFONT}{BLACK}Baskuligi la kradliniojn sur la tero
 STR_2365    :La banko rifuzas pliigon de via prunto!
 STR_2366    :Celsio (°C)
@@ -1820,7 +1820,7 @@ STR_2481    :{SMALLFONT}{BLACK}Montri la diagramon de la flanka plirapidigo kont
 STR_2482    :{SMALLFONT}{BLACK}Profito: po {CURRENCY} por semajno,  Parkvaloro: {CURRENCY}
 STR_2483    :{WINDOW_COLOUR_2}Profito semajna: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Profito semajna: {RED}{CURRENCY2DP}
-STR_2487    :Montri la 'faktajn' nomojn de la gastoj
+STR_2487    :Montri 'faktajn' nomojn de gastoj
 STR_2488    :{SMALLFONT}{BLACK}Baskuligi inter la montrado de la 'faktaj' nomoj de la gastoj, kaj gastnumeroj
 STR_2489    :Klavarokomandojn...
 STR_2490    :Klavarokomandojn
@@ -1946,7 +1946,7 @@ STR_2734    :Po {COMMA16} mejloj por horo
 STR_2735    :Po {COMMA16} kilometroj por horo
 STR_2736    :{MONTH}, Jaro {COMMA16}
 STR_2737    :{STRINGID} {MONTH}, Jaro {COMMA16}
-STR_2738    :Musiko de la titola ekrano:
+STR_2738    :Muziko de titola ekrano:
 STR_2739    :Neniu
 STR_2740    :RollerCoaster Tycoon 1
 STR_2741    :RollerCoaster Tycoon 2
@@ -1956,18 +1956,18 @@ STR_2749    :Mia nova scenaro
 # New strings used in the cheats window previously these were ???
 STR_2750    :Movi ĉiujn aferojn supren
 STR_2751    :Movi ĉiujn aferojn malsupren
-STR_2752    :Vakigi la herbon
+STR_2752    :Vakigi herbon
 STR_2753    :Herbon falĉita
-STR_2754    :Akvumi la kreskaĵojn
-STR_2755    :Ripari la vandalaĵojn
-STR_2756    :Forigi la rubon
+STR_2754    :Akvumi kreskaĵojn
+STR_2755    :Ripari vandalaĵojn
+STR_2756    :Forigi rubon
 STR_2763    :???
 STR_2765    :Granda Tramo
-STR_2766    :Gajni la scenaron
-STR_2767    :Fiksi la veteron
-STR_2768    :Malfiksi la veteron
-STR_2769    :Malfermi la Parko
-STR_2770    :Fermi la Parko
+STR_2766    :Gajni scenaron
+STR_2767    :Fiksi veteron
+STR_2768    :Malfiksi veteron
+STR_2769    :Malfermi Parko
+STR_2770    :Fermi Parko
 STR_2773    :En fenestro
 STR_2774    :Plena ekrano
 STR_2775    :Plena ekrano (sen bordoj)
@@ -1993,7 +1993,7 @@ STR_2793    :{SMALLFONT}(Finita de {STRINGID})
 STR_2794    :{WINDOW_COLOUR_2}Finita de: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} kun firmvaloro de: {BLACK}{CURRENCY}
 STR_2795    :Ordigi
 STR_2796    :{SMALLFONT}{BLACK}Ordigi la liston de atrakcioj per la informotipo vidigita
-STR_2797    :Rulumi la vidon kiam la muskursoro troviĝas ĉe bordo de la ekrano
+STR_2797    :Rulumi vidon kiam muskursoro troviĝas ĉe bordo de ekrano
 STR_2798    :{SMALLFONT}{BLACK}Rulumi la vidon kiam la muskursoro troviĝas ĉe bordo de la ekrano
 STR_2799    :{SMALLFONT}{BLACK}Vidigi aŭ ŝanĝi la klavarokomandojn
 STR_2800    :{WINDOW_COLOUR_2}Totalaj eniroj: {BLACK}{COMMA32}
@@ -2140,39 +2140,39 @@ STR_3008    :{PEARLAQUA}ABC
 STR_3009    :{PALESILVER}ABC
 STR_3010    :Ne eblas ŝargi la dosieron...
 STR_3011    :La doserio enhavas nevalidajn datumojn
-STR_3012    :Stilo de la takto de albatiĝantaj aŭtetoj
-STR_3013    :Stilo de foirejo-orgeno
-STR_3014    :Stilo de roma fanfaro
-STR_3015    :Stilo orienta
-STR_3016    :Stilo marsa
-STR_3017    :Stilo de ĝangalaj tamburoj
-STR_3018    :Stilo egipta
-STR_3019    :Stilo de ludilejo
+STR_3012    :Albatiĝantaj-aŭtetoj-taktaj-stilo
+STR_3013    :Foirejo-orgena stilo
+STR_3014    :Roma-fanfara stilo
+STR_3015    :Orienta stilo
+STR_3016    :Marsa stilo
+STR_3017    :Ĝangaloj-tamburaj-stilo
+STR_3018    :Egipta stilo
+STR_3019    :Ludileja stilo
 STR_3020    :
-STR_3021    :Stilo de spaco
-STR_3022    :Stilo de hororo
-STR_3023    :Stilo de tekno
-STR_3024    :Stilo milda
-STR_3025    :Stilo de somero
-STR_3026    :Stilo de akvo
-STR_3027    :Stilo de la sovaĝa okcidento
-STR_3028    :Stilo ĵurasa
-STR_3029    :Stilo de rokmuziko
-STR_3030    :Stilo de ragtimo
-STR_3031    :Stilo fantasta
-STR_3032    :Stilo de rokmuziko 2
-STR_3033    :Stilo de glacio
-STR_3034    :Stilo de neĝo
+STR_3021    :Spaca stilo
+STR_3022    :Horora stilo
+STR_3023    :Tekna stilo
+STR_3024    :Milda stilo
+STR_3025    :Somera stilo
+STR_3026    :Akva stilo
+STR_3027    :Sovaĝa-okcidenta stilo
+STR_3028    :Ĵurasa stilo
+STR_3029    :Rokmuzika stilo
+STR_3030    :Ragtima stilo
+STR_3031    :Fantasta stilo
+STR_3032    :Rokmuzika stilo 2
+STR_3033    :Glacia stilo
+STR_3034    :Neĝa stilo
 STR_3035    :Propra muziko 1
 STR_3036    :Propra muziko 2
-STR_3037    :Stilo mezepoka
-STR_3038    :Stilo urba
-STR_3039    :Stilo de orgeno
-STR_3040    :Stilo mekanika
-STR_3041    :Stilo moderna
-STR_3042    :Stilo de piratoj
-STR_3043    :Stilo de rokmuziko 3
-STR_3044    :Stilo de dolĉaĵo
+STR_3037    :Mezepoka stilo
+STR_3038    :Urba stilo
+STR_3039    :Orgena stilo
+STR_3040    :Mekanika stilo
+STR_3041    :Moderna stilo
+STR_3042    :Pirataj-stilo
+STR_3043    :Rokmuzika stilo 3
+STR_3044    :Dolĉaĵa stilo
 STR_3045    :{SMALLFONT}{BLACK}Elekti la stilon de muziko por ludi
 STR_3047    :La loka aŭtoritato malpermesas la malkonstruadon aŭ la redaktadon de ĉi tiu atrakcio
 STR_3048    :La loka aŭtoritato malpermesas kampanjojn surmerkatigajn
@@ -2474,15 +2474,15 @@ STR_3389    :Ne eblas elekti plian eron da pejzaĝo...
 STR_3390    :Tro da eroj elektitaj
 STR_3437    :{SMALLFONT}{BLACK}Vakigi grandajn areojn da pejzaĝo
 STR_3438    :Ne eblas forigi la tutan pejzaĝon de ĉi tie...
-STR_3439    :Vakigi la Pejzaĝon
-STR_3445    :Agordi la Patrolzonon
-STR_3446    :Vakigi la Patrolzonon
+STR_3439    :Vakigi Pejzaĝon
+STR_3445    :Agordi Patrolzonon
+STR_3446    :Vakigi Patrolzonon
 
 # New strings, cleaner
 STR_5120    :Financoj
 STR_5121    :Esplorado
 STR_5122    :Elekti la atrakciojn per siaj traktipoj (kiel en RCT1)
-STR_5123    :Renovigi la atrakciojn
+STR_5123    :Renovigi atrakciojn
 STR_5125    :Ĉiuj detrueblaj
 STR_5126    :Hazarda titolomuziko
 STR_5127    :{SMALLFONT}{BLACK}Trenante, pentri la teron anstataŭ ŝanĝi la altecon
@@ -2508,7 +2508,7 @@ STR_5146    :Ekstrema Rapideco
 STR_5147    :Trompoj
 STR_5148    :{SMALLFONT}{BLACK}Ŝanĝi la rapidecon de la ludon
 STR_5149    :{SMALLFONT}{BLACK}Montri trompo-agordojn
-STR_5150    :Ŝalti la sencimigilojn
+STR_5150    :Ŝalti sencimigilojn
 STR_5151    :,
 STR_5152    :.
 STR_5153    :Redakti la temojn...
@@ -2604,7 +2604,7 @@ STR_5256    :Krei novan temon por fari ŝanĝojn
 STR_5257    :{SMALLFONT}{BLACK}Krei novan temon surbaze de la aktuala
 STR_5258    :{SMALLFONT}{BLACK}Forigi la aktualan temon
 STR_5259    :{SMALLFONT}{BLACK}Renomi la aktualan temon
-STR_5260    :Giganta Ekrankopion
+STR_5260    :Giganta-Ekrankopii
 STR_5261    :Filtri
 STR_5262    :Frenezaj Mondoj
 STR_5263    :Tempo-Distordilo
@@ -2664,7 +2664,7 @@ STR_5337    :Enirejo de la parko
 STR_5338    :Tipo de ero
 STR_5339    :{SMALLFONT}{BLACK}Baza alteco
 STR_5340    :{SMALLFONT}{BLACK}Alteco super la ero
-STR_5343    :Meti aŭtomate la laboristojn
+STR_5343    :Meti aŭtomate laboristojn
 STR_5344    :Ŝanĝoprotokolo
 STR_5345    :Trompoj financaj
 STR_5346    :Trompoj de gasto
@@ -2683,17 +2683,17 @@ STR_5358    :{BLACK}Veziko:
 STR_5359    :Forigi gastojn
 STR_5360    :{SMALLFONT}{BLACK}Forigi ĉiujn gastojn de la mapo
 STR_5361    :Doni al ĉiu gasto:
-STR_5362    :{BLACK}Agordi la preferatajn intensojn de atrakcioj por ĉiu gasto al:
+STR_5362    :{BLACK}Agordi preferatajn intensojn de atrakcioj por ĉiu gasto al:
 STR_5363    :Pli ol 1
 STR_5364    :Malpli ol 15
 STR_5365    :{BLACK}Rapideco de laboristoj:
 STR_5366    :Normala
 STR_5367    :Rapida
-STR_5368    :Restarigi la staton de akcidentoj
-STR_5369    :Parametroj de la parko...
+STR_5368    :Restarigi staton de akcidentoj
+STR_5369    :Parametroj de parko...
 STR_5370    :{SMALLFONT}{BLACK}Alklaku ĉi tiun butonon por redakti la parametrojn{NEWLINE}de la parko, kiel la limoj,{NEWLINE}la generado de gastoj, kaj la mono.
 STR_5371    :Elektado de objektoj
-STR_5372    :Inversigi la konduton de la trenadoj per la dekstra musobutono
+STR_5372    :Inversigi konduton de trenadoj per dekstra musobutono
 STR_5373    :Nomo {STRINGID}
 STR_5374    :Dato {STRINGID}
 STR_5375    :▲
@@ -2774,14 +2774,14 @@ STR_5450    :Pliigi la rapidecon de la ludo
 STR_5451    :Malfermi la fenestron de trompoj
 STR_5452    :Baskuli la videblon de la ilobretoj
 STR_5453    :Elekti alian atrakcion
-STR_5454    :Senlimigi la bildrapidon
+STR_5454    :Senlimigi bildrapidon
 STR_5455    :Ŝalti reĝimon de provejo
 STR_5456    :Malŝalti kontrolojn de interspacoj
 STR_5457    :Malŝalti limojn de apogiloj
 STR_5458    :Turni dekstrumen
 STR_5459    :Turni maldekstrumen
 STR_5460    :Turni vidon maldekstrumen
-STR_5461    :Agordi parametrojn de la gastoj
+STR_5461    :Agordi parametrojn de gastoj
 STR_5462    :{CURRENCY}
 STR_5463    :Celo: Amuzi vin!
 STR_5464    :Ĝenerala
@@ -2793,7 +2793,7 @@ STR_5469    :Rulumi la mapon supren
 STR_5470    :Rulumi la mapon maldekstren
 STR_5471    :Rulumi la mapon malsupren
 STR_5472    :Rulumi la mapon dekstren
-STR_5473    :Cikligi la tagon / nokton
+STR_5473    :Cikligi tagon / nokton
 STR_5474    :Elmontri la tekston de rubandoj en la majuskloj
 STR_5475    :{COMMA16} semajnoj
 STR_5476    :Aparataro
@@ -2809,7 +2809,7 @@ STR_5485    :{SMALLFONT}{STRING}
 STR_5486    :{BLACK}{COMMA16}
 STR_5487    :{SMALLFONT}{BLACK}Montri lastajn mesaĝojn
 STR_5489    :{SMALLFONT}{BLACK}Montri nur la gastojn spuratajn
-STR_5490    :Malŝalti la sonon dum defokusigoj
+STR_5490    :Malŝalti sonon dum defokusigoj
 STR_5491    :Listo de inventaĵoj
 STR_5492    :Agordoj de scenaro
 STR_5493    :Sendi Mesaĝon
@@ -2825,7 +2825,7 @@ STR_5503    :Entajpu la servilonomon aŭ la IP-adreson:
 STR_5504    :{SMALLFONT}{BLACK}Montri la staton plurludantan
 STR_5505    :Ne eblas aliĝi al la servilo.
 STR_5506    :Gastoj malatentas intensecojn
-STR_5508    :Permesi la ŝargadon de dosieroj kun nevalidaj kontrolsumoj
+STR_5508    :Permesi ŝargadon de dosieroj kun nevalidaj kontrolsumoj
 STR_5509    :{SMALLFONT}{BLACK}Permesi la ŝargadon de scenaroj kaj konservaĵoj{NEWLINE}kiuj havas nevalidan kontrolsumon,{NEWLINE}kiel la scenaroj de la demonstrado{NEWLINE}aŭ difektitaj konservaĵoj.
 STR_5510    :Defaŭlta sonludilo
 STR_5511    :(NEKONATA)
@@ -2870,7 +2870,7 @@ STR_5549    :Jaro/Monato/Tago
 STR_5550    :{POP16}{POP16}Jaro {COMMA16}, {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_5551    :Jaro/Tago/Monato
 STR_5552    :{POP16}{POP16}Jaro {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
-STR_5553    :Paŭzi la ludon kiam la plustavolo de Steam estas malfermita
+STR_5553    :Paŭzi ludon kiam plustavolo de Steam estas malfermita
 STR_5554    :{SMALLFONT}{BLACK}Ŝalti la montilon
 STR_5555    :Montri veturilojn de aliaj traktipoj
 STR_5556    :{SMALLFONT}{BLACK}Forigi la ludanton
@@ -2898,7 +2898,7 @@ STR_5577    :Sud-Koreia Vono (W)
 STR_5578    :Rusa Rublo (₽)
 STR_5579    :Skalo de fenestro:
 STR_5580    :Ĉeĥia Krono (Kč)
-STR_5581    :Montri la bildrapidon
+STR_5581    :Montri bildrapidon
 STR_5582    :Kapti la muskursoron en fenestro
 STR_5583    :{COMMA1DP16} m/s
 STR_5584    :SI
@@ -3018,7 +3018,7 @@ STR_5735    :Network Status
 STR_5736    :Player
 STR_5737    :Closed, {COMMA16} person still on ride
 STR_5738    :Closed, {COMMA16} people still on ride
-STR_5739    :{WINDOW_COLOUR_2}Customers on ride: {BLACK}{COMMA16}
+STR_5739    :{WINDOW_COLOUR_2}Klientoj sur atrakcio: {BLACK}{COMMA16}
 STR_5740    :Never-ending marketing campaigns
 STR_5741    :{SMALLFONT}{BLACK}Marketing campaigns never end
 STR_5742    :Authenticating ...
