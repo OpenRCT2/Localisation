@@ -848,7 +848,7 @@ STR_1464    :Kreska Helico (malgranda)
 STR_1465    :Kreska Helico (granda)
 STR_1466    :Malkreska Helico (malgranda)
 STR_1467    :Malkreska Helico (granda)
-STR_1468    :Laboristo
+STR_1468    :Dungitaro
 STR_1469    :La atrakcio devas havi staciojn por ĝiaj komencejo kaj finejo
 STR_1470    :La stacio ne estas sufiĉe longa
 STR_1471    :{WINDOW_COLOUR_2}Rapideco:
@@ -1072,7 +1072,7 @@ STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
 STR_1691    :{WINDOW_COLOUR_2}  Kosto: {BLACK}{CURRENCY}
 STR_1692    :{WINDOW_COLOUR_2}  Kosto: {BLACK}almenaŭ {CURRENCY}
 STR_1693    :{SMALLFONT}{BLACK}Gastoj
-STR_1694    :{SMALLFONT}{BLACK}Laboristoj
+STR_1694    :{SMALLFONT}{BLACK}Dungitaro
 STR_1695    :{SMALLFONT}{BLACK}Enspezoj kaj Elspezoj
 STR_1696    :{SMALLFONT}{BLACK}Klientinformo
 STR_1697    :Ne eblas meti ĉi tion ĉe atendovicoj
@@ -1162,7 +1162,7 @@ STR_1786    :{INLINE_SPRITE}{05}{20}{00}{00} Astronaŭtokostumo
 STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Banditokostumo
 STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Ŝerifokostumo
 STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Piratokostumo
-STR_1790    :{SMALLFONT}{BLACK}Elekti la uniformkoloron por ĉi tiaj laboristoj
+STR_1790    :{SMALLFONT}{BLACK}Elekti la uniformkoloron por tiaspecaj laboristoj
 STR_1791    :{WINDOW_COLOUR_2}Uniformkoloro:
 STR_1792    :Reagas al la paneo de {STRINGID}
 STR_1793    :Iras al {STRINGID} por inspekto
@@ -1226,7 +1226,7 @@ STR_1851    :{WINDOW_COLOUR_2}Kosto por funkciado: {BLACK}po {CURRENCY2DP} por h
 STR_1852    :{WINDOW_COLOUR_2}Kosto por funkciado: {BLACK}Nekonata
 STR_1853    :{WINDOW_COLOUR_2}Konstruita: {BLACK}Ĉi tiu jaro
 STR_1854    :{WINDOW_COLOUR_2}Konstruita: {BLACK}La pasinta jaro
-STR_1855    :{WINDOW_COLOUR_2}Konstruita: Ankaŭ {BLACK}{COMMA16} jaroj
+STR_1855    :{WINDOW_COLOUR_2}Konstruita: {BLACK}Ankaŭ {COMMA16} jaroj
 STR_1856    :{WINDOW_COLOUR_2}Profito por ĉiu ero vendita: {BLACK}{CURRENCY2DP}
 STR_1857    :{WINDOW_COLOUR_2}Malprofito por ĉiu ero vendita: {BLACK}{CURRENCY2DP}
 STR_1858    :{WINDOW_COLOUR_2}Kosto: {BLACK}po {CURRENCY2DP} por monato
@@ -1275,7 +1275,7 @@ STR_1903    :{WINDOW_COLOUR_2}Vendoj de budoj
 STR_1904    :{WINDOW_COLOUR_2}Stokoj de budoj
 STR_1905    :{WINDOW_COLOUR_2}Vendoj de manĝaĵoj/trinkaĵoj
 STR_1906    :{WINDOW_COLOUR_2}Stokoj de manĝaĵoj/trinkaĵoj
-STR_1907    :{WINDOW_COLOUR_2}Salajroj de laboristoj
+STR_1907    :{WINDOW_COLOUR_2}Salajroj de dungitaro
 STR_1908    :{WINDOW_COLOUR_2}Vendado
 STR_1909    :{WINDOW_COLOUR_2}Esplorado
 STR_1910    :{WINDOW_COLOUR_2}Pruntinterezo
@@ -1666,10 +1666,10 @@ STR_2311    :{WINDOW_COLOUR_2}Pritakso de Eksciteco: {BLACK}{COMMA2DP32} (ĉ.)
 STR_2312    :{WINDOW_COLOUR_2}Pritakso de Intenseco: {BLACK}{COMMA2DP32} (ĉ.)
 STR_2313    :{WINDOW_COLOUR_2}Pritakso de Naŭzo: {BLACK}{COMMA2DP32} (ĉ.)
 STR_2314    :{WINDOW_COLOUR_2}Longeco de la atrakcio: {BLACK}{STRINGID}
-STR_2315    :{WINDOW_COLOUR_2}Kosto: {BLACK}almenaŭ  {CURRENCY}
+STR_2315    :{WINDOW_COLOUR_2}Kosto: {BLACK}almenaŭ {CURRENCY}
 STR_2316    :{WINDOW_COLOUR_2}Spaco bezonata: {BLACK}{COMMA16} x {COMMA16} blokoj
 STR_2321    :{WINDOW_COLOUR_2}Nombro de atrakcioj: {BLACK}{COMMA16}
-STR_2322    :{WINDOW_COLOUR_2}Laboristoj: {BLACK}{COMMA16}
+STR_2322    :{WINDOW_COLOUR_2}Dungitaro: {BLACK}{COMMA16}
 STR_2323    :{WINDOW_COLOUR_2}Areo de la parko: {BLACK}{COMMA32} kvadrataj metroj
 STR_2324    :{WINDOW_COLOUR_2}Areo de la parko: {BLACK}{COMMA32} kvadrataj futoj
 STR_2325    :{SMALLFONT}{BLACK}Aĉeti bienon por etendi la parkon
@@ -1854,7 +1854,7 @@ STR_2517    :Montri informojn de esplorado
 STR_2518    :Montri la liston de atrakcioj
 STR_2519    :Montri informojn de la parko
 STR_2520    :Montri la liston de gastoj
-STR_2521    :Montri la liston de laboristoj
+STR_2521    :Montri la liston de dungitaro
 STR_2522    :Montri la lastajn mesaĝojn
 STR_2523    :Montri mapon
 STR_2524    :Preni ekrankopion
@@ -2017,7 +2017,7 @@ STR_2817    :{WINDOW_COLOUR_2}Premio por la plej bona valoro
 STR_2818    :{WINDOW_COLOUR_2}Premio por la plej bela parko
 STR_2819    :{WINDOW_COLOUR_2}Premio por la plej malbona valoro
 STR_2820    :{WINDOW_COLOUR_2}Premio por la plej sekura parko
-STR_2821    :{WINDOW_COLOUR_2}Premio por la plej bonaj laboristoj
+STR_2821    :{WINDOW_COLOUR_2}Premio por la plej bona dungitaro
 STR_2822    :{WINDOW_COLOUR_2}Premio por la plej bonaj parkmanĝaĵoj
 STR_2823    :{WINDOW_COLOUR_2}Premio por la plej malbonaj parkmanĝaĵoj
 STR_2824    :{WINDOW_COLOUR_2}Premio por la plej bonaj parknecesejoj
@@ -2027,23 +2027,23 @@ STR_2827    :{WINDOW_COLOUR_2}Premio por la plej bonaj propraj atrakcioj
 STR_2828    :{WINDOW_COLOUR_2}Premio por la plej blindigantaj atrakcio-kolorskemoj
 STR_2829    :{WINDOW_COLOUR_2}Premio por la plej konfuzanta parkaranĝo
 STR_2830    :{WINDOW_COLOUR_2}Premio por la plej bonaj mildaj atrakcioj
-STR_2831    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La plej negliĝa parko en la lando'!
-STR_2832    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La plej orda parko en la lando'!
-STR_2833    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La parko kun la plej bonaj ondaj fervojoj'!
-STR_2834    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La parko kun la plej bona valoro en la lando'!
-STR_2835    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La plej bela parko en la lando'!
-STR_2836    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La parko kun la plej malbona valoro en la lando'!
-STR_2837    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La plej sekura parko en la lando'!
-STR_2838    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La parko kun la plej bonaj laboristoj'!
-STR_2839    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La parko kun la plej bonaj manĝaĵoj en la lando'!
-STR_2840    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La parko kun la plej malbonaj manĝaĵoj en la lando'!
-STR_2841    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La parko kun la plej bonaj necesejoj en la lando'!
-STR_2842    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La plej seniluziiganta parko en la lando'!
-STR_2843    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La parko kun la plej bonaj akvoatrakcioj en la lando'!
-STR_2844    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La parko kun la plej bonaj propraj atrakcioj'!
-STR_2845    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La parko kun la plej blindiganta elekto de kolorskemoj'!
-STR_2846    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La parko kun la plej konfuzanta aranĝo'!
-STR_2847    :{TOPAZ}Via parko ricevis premion, ĉar ĝi estas 'La parko kun la plej bonaj mildaj atrakcioj'!
+STR_2831    :{TOPAZ}Via parko ricevis premion pro esti 'La plej negliĝa parko en la lando'!
+STR_2832    :{TOPAZ}Via parko ricevis premion pro esti 'La plej orda parko en la lando'!
+STR_2833    :{TOPAZ}Via parko ricevis premion pro esti 'La parko kun la plej bonaj ondaj fervojoj'!
+STR_2834    :{TOPAZ}Via parko ricevis premion pro esti 'La parko kun la plej bona valoro en la lando'!
+STR_2835    :{TOPAZ}Via parko ricevis premion pro esti 'La plej bela parko en la lando'!
+STR_2836    :{TOPAZ}Via parko ricevis premion pro esti 'La parko kun la plej malbona valoro en la lando'!
+STR_2837    :{TOPAZ}Via parko ricevis premion pro esti 'La plej sekura parko en la lando'!
+STR_2838    :{TOPAZ}Via parko ricevis premion pro esti 'La parko kun la plej bona dungitaro'!
+STR_2839    :{TOPAZ}Via parko ricevis premion pro esti 'La parko kun la plej bonaj manĝaĵoj en la lando'!
+STR_2840    :{TOPAZ}Via parko ricevis premion pro esti 'La parko kun la plej malbonaj manĝaĵoj en la lando'!
+STR_2841    :{TOPAZ}Via parko ricevis premion pro esti 'La parko kun la plej bonaj necesejoj en la lando'!
+STR_2842    :{TOPAZ}Via parko ricevis premion pro esti 'La plej seniluziiganta parko en la lando'!
+STR_2843    :{TOPAZ}Via parko ricevis premion pro esti 'La parko kun la plej bonaj akvoatrakcioj en la lando'!
+STR_2844    :{TOPAZ}Via parko ricevis premion pro esti 'La parko kun la plej bonaj propraj atrakcioj'!
+STR_2845    :{TOPAZ}Via parko ricevis premion pro esti 'La parko kun la plej blindiganta elekto de kolorskemoj'!
+STR_2846    :{TOPAZ}Via parko ricevis premion pro esti 'La parko kun la plej konfuzanta aranĝo'!
+STR_2847    :{TOPAZ}Via parko ricevis premion pro esti 'La parko kun la plej bonaj mildaj atrakcioj'!
 STR_2848    :{WINDOW_COLOUR_2}Neniuj lastaj premioj
 STR_2849    :Instalado de la nova scenaro sukcesis
 STR_2850    :Instalado de la nova trakdesegnaĵo sukcesis
@@ -2106,7 +2106,7 @@ STR_2974    :Alternativa kolorskemo 3
 STR_2975    :{SMALLFONT}{BLACK}Elekti la kolorskemon por redakti, aŭ por uzi je la atrakcio
 STR_2976    :{SMALLFONT}{BLACK}Pentri propran areon de ĉi tiu atrakcio per la elektita kolorskemo
 STR_2977    :Nomo de laboristo
-STR_2978    :Entajpu la novan nomon de ĉi tiu laboristo:
+STR_2978    :Entajpu la novan nomon por ĉi tiu laboristo:
 STR_2979    :Ne eblas nomi la laboriston...
 STR_2980    :Tro da rubandoj en la ludo
 STR_2981    :{RED}Ne eniru
@@ -2551,8 +2551,8 @@ STR_5203    :Atrakcio
 STR_5204    :Atrakciolisto
 STR_5205    :Gastoj
 STR_5206    :Gastolisto
-STR_5207    :Laboristoj
-STR_5208    :Laboristolisto
+STR_5207    :Dungitaro
+STR_5208    :Dungitarolisto
 STR_5209    :Rubando
 STR_5210    :Elektado de Objektoj
 STR_5211    :Listo de Inventaĵoj
@@ -2686,7 +2686,7 @@ STR_5361    :Doni al ĉiu gasto:
 STR_5362    :{BLACK}Agordi preferatajn intensojn de atrakcioj por ĉiu gasto al:
 STR_5363    :Pli ol 1
 STR_5364    :Malpli ol 15
-STR_5365    :{BLACK}Rapideco de laboristoj:
+STR_5365    :{BLACK}Rapideco de dungitaro:
 STR_5366    :Normala
 STR_5367    :Rapida
 STR_5368    :Restarigi staton de akcidentoj
@@ -2786,7 +2786,7 @@ STR_5462    :{CURRENCY}
 STR_5463    :Celo: Amuzi vin!
 STR_5464    :Ĝenerala
 STR_5465    :Vetero
-STR_5466    :Laboristoj
+STR_5466    :Dungitaro
 STR_5467    :ALT + 
 STR_5468    :Lastaj mesaĝoj
 STR_5469    :Rulumi la mapon supren
@@ -2972,7 +2972,7 @@ STR_5652    :Ecoj de Atrakcio
 STR_5653    :Pejzaĵo
 STR_5654    :Vojo
 STR_5655    :Gasto
-STR_5656    :Laboristoj
+STR_5656    :Dungitaro
 STR_5657    :Ecoj de Parko
 STR_5658    :Financado de Parko
 STR_5659    :Forpeli Ludanton
