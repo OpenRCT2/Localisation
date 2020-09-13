@@ -273,7 +273,7 @@ STR_0888    :Forlasi Trakdesegnilon
 STR_0889    :Forlasi Administrilon de Trakdesegnaĵoj
 STR_0891    :Ekrankopii
 STR_0892    :Ekrankopio estis konservita al la disko kiel '{STRINGID}'
-STR_0893    :Ne eblas konservi ekrankopion!
+STR_0893    :Malsukcesis konservi ekrankopion!
 STR_0894    :Zono de pejzaĝodatumoj estas plena!
 STR_0895    :Ne eblas konstrui kaj parte supertere kaj parte subtere
 STR_0896    :{POP16}{POP16}{STRINGID} Konstruado
@@ -430,7 +430,7 @@ STR_1046    :OpenRCT2 Dosiero de Trakdesegnaĵo
 STR_1047    :Konservado de la ludo malsukcesis!
 STR_1048    :Konservado de la scenaro malsukcesis!
 STR_1049    :Konservado de la pejzaĝo malsukcesis!
-STR_1050    :Ne eblas ŝargi...{NEWLINE}La dosiero enhavas nevalidajn datumojn!
+STR_1050    :Malsukcesis ŝargi...{NEWLINE}La dosiero enhavas nevalidajn datumojn!
 STR_1051    :Nevideblaj Apogiloj
 STR_1052    :Nevideblaj Homoj
 STR_1053    :{SMALLFONT}{BLACK}Atrakcioj en la parko
@@ -1180,7 +1180,7 @@ STR_1805    :Paneo de veturilo
 STR_1806    :Paneo de bremsoj
 STR_1807    :Paneo de regulilo
 STR_1808    :{WINDOW_COLOUR_2}Lasta paneo: {BLACK}{STRINGID}
-STR_1809    :{WINDOW_COLOUR_2}Aktuala paneo: {OUTLINE}{RED}{STRINGID}
+STR_1809    :{WINDOW_COLOUR_2}Nuna paneo: {OUTLINE}{RED}{STRINGID}
 STR_1810    :{WINDOW_COLOUR_2}Portas:
 STR_1811    :Ne eblas konstrui tion ĉi tie...
 STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
@@ -1619,7 +1619,7 @@ STR_2263    :Maksimuma financado
 STR_2264    :Financado por esplorado
 STR_2265    :{WINDOW_COLOUR_2}Kosto: {BLACK}po {CURRENCY} por mono
 STR_2266    :Prioritatoj de esplorado
-STR_2267    :Nune disvolvas
+STR_2267    :Nune en disvolvado
 STR_2268    :Pasinta disvolvado
 STR_2269    :{WINDOW_COLOUR_2}Tipo: {BLACK}{STRINGID}
 STR_2270    :{WINDOW_COLOUR_2}Progreso: {BLACK}{STRINGID}
@@ -2206,7 +2206,7 @@ STR_3090    :{SMALLFONT}{BLACK}Elekti la stilon de la enirejo, elirejo, kaj stac
 STR_3091    :Vi ne povas forigi ĉi tiun parton!
 STR_3092    :Vi ne povas movi aŭ redakti la stacion por ĉi tiu atrakcio!
 STR_3093    :{WINDOW_COLOUR_2}Plej ŝatas: {BLACK}{STRINGID}
-STR_3094    :Neaplikebla
+STR_3094    :N/A
 STR_3095    :{WINDOW_COLOUR_2}Rapideco de la ĉenlifto:
 STR_3096    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_3097    :{SMALLFONT}{BLACK}Elekti la rapidecon de la ĉenlifto
@@ -2265,7 +2265,7 @@ STR_3169    :Datumoj de la jena objekto ne troviĝis:
 STR_3170    :Ne sufiĉe da spaco por grafikoj
 STR_3171    :Tro da objektoj de ĉiu tipo estas elektita
 STR_3172    :Oni devas elekti la jenan objekton unue: {STRING}
-STR_3173    :Ĉi tiu objekto estas aktuale uzata
+STR_3173    :Ĉi tiu objekto estas nune uzata
 STR_3174    :Alia objekto bezonas ĉi tiun objekton
 STR_3175    :Ĉi tiu objekto ĉiam estas bezonata
 STR_3176    :Ne eblas elekti ĉi tiun objekton
@@ -2316,7 +2316,7 @@ STR_3221    :{SMALLFONT}{BLACK}Agordi la bienon posedatan de la parko
 STR_3222    :{SMALLFONT}{BLACK}Agordi la rajtojn de konstruado posedatajn nur de la parko
 STR_3223    :{SMALLFONT}{BLACK}Agordi la bienon, kiun la parko povas aĉeti
 STR_3224    :{SMALLFONT}{BLACK}Agordi la rajtojn de konstruado, kiujn la parko povas aĉeti
-STR_3225    :{SMALLFONT}{BLACK}Baskuli la konstruadon de hazarda objektaro ĉirkau la ejo elektita
+STR_3225    :{SMALLFONT}{BLACK}Baskuligi la konstruadon de hazarda objektaro ĉirkau la ejo elektita
 STR_3226    :{SMALLFONT}{BLACK}Konstrui la parkenirejon
 STR_3227    :Tro da parkenirejoj!
 STR_3228    :{SMALLFONT}{BLACK}Agordi la ekirejojn de homoj
@@ -2434,7 +2434,7 @@ STR_3343    :Konverti ludon konservitan al scenaro
 STR_3344    :Trakdesegnilo
 STR_3345    :Administrilo de Trakdesegnaĵoj
 STR_3346    :Ne eblas konservi la trakdesegnaĵon...
-STR_3347    :La atrakcio estas tro granda aŭ enhavas tro da eroj, aŭ la pejzaĝo estas tro maldensa
+STR_3347    :La atrakcio estas tro granda, aŭ enhavas tro da elementoj, aŭ la pejzaĝo estas tro maldensa
 STR_3348    :Renomi
 STR_3349    :Forigi
 STR_3350    :Nomo de trakdesegnaĵo
@@ -2582,7 +2582,7 @@ STR_5234    :{SMALLFONT}{BLACK}Avertoj per dialogo
 STR_5235    :{SMALLFONT}{BLACK}Agordoj
 STR_5236    :Fenestro
 STR_5237    :Paletro
-STR_5238    :Aktuala Temo:
+STR_5238    :Nuna Temo:
 STR_5239    :Duobligi
 STR_5240    :Entajpu la nomon de la temo
 STR_5241    :Ne eblas ŝanĝi ĉi tiun temon
@@ -2601,9 +2601,9 @@ STR_5253    :Parkinformoj
 STR_5254    :Krei
 STR_5255    :{SMALLFONT}{BLACK}Krei novan titolosekvencon
 STR_5256    :Krei novan temon por fari ŝanĝojn
-STR_5257    :{SMALLFONT}{BLACK}Krei novan temon surbaze de la aktuala
-STR_5258    :{SMALLFONT}{BLACK}Forigi la aktualan temon
-STR_5259    :{SMALLFONT}{BLACK}Renomi la aktualan temon
+STR_5257    :{SMALLFONT}{BLACK}Krei novan temon surbaze de la nuna
+STR_5258    :{SMALLFONT}{BLACK}Forigi la nunan temon
+STR_5259    :{SMALLFONT}{BLACK}Renomi la nunan temon
 STR_5260    :Giganta-Ekrankopii
 STR_5261    :Filtri
 STR_5262    :Frenezaj Mondoj
@@ -2661,7 +2661,7 @@ STR_5314    :Ekzamenilo de bloko
 STR_5335    :Enirejo de la atrakcio
 STR_5336    :Elirejo de la atrakcio
 STR_5337    :Enirejo de la parko
-STR_5338    :Tipo de ero
+STR_5338    :Tipo de elemento
 STR_5339    :{SMALLFONT}{BLACK}Baza alteco
 STR_5340    :{SMALLFONT}{BLACK}Alteco super la ero
 STR_5343    :Meti aŭtomate laboristojn
@@ -2704,9 +2704,9 @@ STR_5379    :{SMALLFONT}{BLACK}Preterpasi al la sekva haltokomando
 STR_5380    :{SMALLFONT}{BLACK}Komenci ludi la titolosekvencon
 STR_5381    :{SMALLFONT}{BLACK}Halti ludi la titolosekvencon
 STR_5382    :{SMALLFONT}{BLACK}Rekomenci la titolosekvencon
-STR_5383    :{SMALLFONT}{BLACK}Krei novan titolosekvencon surbaze de la aktuala
-STR_5384    :{SMALLFONT}{BLACK}Forigi la aktualan titolosekvencon
-STR_5385    :{SMALLFONT}{BLACK}Renomi la aktualan titolosekvencon
+STR_5383    :{SMALLFONT}{BLACK}Krei novan titolosekvencon surbaze de la nuna
+STR_5384    :{SMALLFONT}{BLACK}Forigi la nunan titolosekvencon
+STR_5385    :{SMALLFONT}{BLACK}Renomi la nunan titolosekvencon
 STR_5386    :{SMALLFONT}{BLACK}Enmeti novan komandon
 STR_5387    :{SMALLFONT}{BLACK}Redakti la elektitan komandon
 STR_5388    :{SMALLFONT}{BLACK}Forigi la elektitan komandon
@@ -2723,7 +2723,7 @@ STR_5398    :Ne eblas redakti la titolosekvencon dum ĝi ludas
 STR_5399    :Premu la haltobutonon por redakti pli
 STR_5400    :Ne eblas ŝanĝi ĉi tiun titolosekvencon
 STR_5401    :Krei novan titolosekvencon por ŝanĝi ĝin
-STR_5402    :Ne eblas ŝargi titolosekvencon
+STR_5402    :Malsukcesis ŝargi titolosekvencon
 STR_5403    :Aŭ ne estas Ŝargi aŭ Atendi komandoj, aŭ konservaĵo estas nevalida
 STR_5404    :Nomo jam ekzistas
 STR_5405    :Entajpu la nomon de la konservaĵo
@@ -2762,7 +2762,7 @@ STR_5438    :Ne eblas fari ŝanĝojn dum la komandoredaktilo estas malfermita
 STR_5439    :Atendi-komando de almenaŭ 4 sekundoj estas bezonata kun Rekomenci-komando
 STR_5440    :Minimumigi plenekranan reĝimon dum defokusigoj
 STR_5441    :{SMALLFONT}{BLACK}Identigi atrakciojn per siaj traktipoj{NEWLINE}do veturiloj fariĝas ŝanĝeblaj{NEWLINE}poste (Konduto de RCT1)
-STR_5442    :Agordi la pritakson de parko:
+STR_5442    :Devigi la pritakson de parko:
 STR_5443    :Rapideco{MOVE_X}{87}{STRINGID}
 STR_5444    :Rapideco:
 STR_5445    :Rapideco
@@ -2772,7 +2772,7 @@ STR_5448    :Atrakcio / Veturilo {STRINGID}
 STR_5449    :Malpliigi la rapidecon de la ludo
 STR_5450    :Pliigi la rapidecon de la ludo
 STR_5451    :Malfermi la fenestron de trompoj
-STR_5452    :Baskuli la videblon de la ilobretoj
+STR_5452    :Baskuligi la videblon de la ilobretoj
 STR_5453    :Elekti alian atrakcion
 STR_5454    :Senlimigi bildrapidon
 STR_5455    :Ŝalti reĝimon de provejo
@@ -2878,11 +2878,11 @@ STR_5557    :Resti konektita post desinkronigo (Plurludanta)
 STR_5558    :Ĉi tiu agordo fariĝas valida nur post vi reŝargas je OpenRCT2
 STR_5559    :Inspekti post ĉiuj 10 minutoj
 STR_5560    :{SMALLFONT}{BLACK}Agordi la inspekton al 'Post ĉiuj 10 minutoj' por ĉiu atrakcio
-STR_5561    :Ne eblas ŝargi la lingvon
+STR_5561    :Malsukcesis ŝargi la lingvon
 STR_5562    :AVERTO!
-STR_5563    :Ĉi tiu funkcio estas aktuale nestabila. Estu singarda.
-STR_5564    :Enmeti Difektitan Eron
-STR_5565    :{SMALLFONT}{BLACK}Enmeti difektitan eron sur la blokon por kaŝi iun ajn eron super ĝi.
+STR_5563    :Ĉi tiu funkcio estas nune nestabila. Estu singarda.
+STR_5564    :Enmeti Difektitan Elementon
+STR_5565    :{SMALLFONT}{BLACK}Enmeti difektitan mapelementon sur la supro de le blokon por kaŝi iun ajn eron super ĝi.
 STR_5566    :Pasvorto:
 STR_5567    :Anonci
 STR_5568    :Pasvorto Bezonata
@@ -2923,66 +2923,66 @@ STR_5603    :Gasto eliris de atrakcio
 STR_5604    :Gasto aĉetis ion
 STR_5605    :Gasto uzis servon
 STR_5606    :Gasto mortis
-STR_5607    :{SMALLFONT}{BLACK}Forcefully remove selected map element.
+STR_5607    :{SMALLFONT}{BLACK}Devige forigi elektitan mapelementon.
 STR_5608    :BH
 STR_5609    :CH
-STR_5610    :{SMALLFONT}{BLACK}Remove the currently selected map element. This will forcefully remove it, so no cash will be used/gained. Use with caution.
+STR_5610    :{SMALLFONT}{BLACK}Forigi la nunan elektitan mapelementon. Ĉi tio forte forigos ĝin, do neniu mono estos uzita/gajnita. Uzu singarde.
 STR_5611    :G
-STR_5612    :{SMALLFONT}{BLACK}Ghost flag
+STR_5612    :{SMALLFONT}{BLACK}Fantoma flago
 STR_5613    :B
-STR_5614    :{SMALLFONT}{BLACK}Broken flag
+STR_5614    :{SMALLFONT}{BLACK}Rompita flago
 STR_5615    :L
-STR_5616    :{SMALLFONT}{BLACK}Last element for tile flag
-STR_5617    :{SMALLFONT}{BLACK}Move selected element up.
-STR_5618    :{SMALLFONT}{BLACK}Move selected element down.
+STR_5616    :{SMALLFONT}{BLACK}Lasta elemento por blokflago
+STR_5617    :{SMALLFONT}{BLACK}Movi elektitan elementon supren.
+STR_5618    :{SMALLFONT}{BLACK}Movi elektitan elementon malsupren.
 STR_5619    :RollerCoaster Tycoon
 STR_5620    :Added Attractions
 STR_5621    :Loopy Landscapes
 STR_5622    :RollerCoaster Tycoon 2
 STR_5623    :Wacky Worlds
 STR_5624    :Time Twister
-STR_5625    :“Real” Parks
-STR_5626    :Other Parks
-STR_5627    :Group scenario list by:
-STR_5628    :Source game
-STR_5629    :Difficulty level
-STR_5630    :Enable progressive unlocking
-STR_5631    :Original DLC Parks
-STR_5632    :Build your own...
+STR_5625    :“Faktaj” Parkoj
+STR_5626    :Aliaj Parkoj
+STR_5627    :Grupigi la scenaroliston laŭ:
+STR_5628    :Ludo-fonto
+STR_5629    :Malfacileca nivelo
+STR_5630    :Ŝalti progresivan malŝlosadon
+STR_5631    :Originala Elŝutebla-Enhavo-Parkoj
+STR_5632    :Konstrui vian propran...
 STR_5633    :CMD + 
 STR_5634    :OPTION + 
-STR_5635    :{WINDOW_COLOUR_2}Money spent: {BLACK}{CURRENCY2DP}
-STR_5636    :{WINDOW_COLOUR_2}Commands ran: {BLACK}{COMMA16}
-STR_5637    :Can't do this...
-STR_5638    :Permission denied
-STR_5639    :{SMALLFONT}{BLACK}Show list of players
-STR_5640    :{SMALLFONT}{BLACK}Manage groups
-STR_5641    :Default Group:
-STR_5642    :Group
-STR_5643    :Add Group
-STR_5644    :Remove Group
-STR_5645    :Chat
-STR_5646    :Terraform
-STR_5647    :Toggle Pause
-STR_5648    :Set Water Level
-STR_5649    :Create Ride
-STR_5650    :Remove Ride
-STR_5651    :Build Ride
-STR_5652    :Ride Properties
-STR_5653    :Scenery
-STR_5654    :Path
-STR_5655    :Guest
-STR_5656    :Staff
-STR_5657    :Park Properties
-STR_5658    :Park Funding
-STR_5659    :Kick Player
-STR_5660    :Modify Groups
-STR_5661    :Set Player Group
+STR_5635    :{WINDOW_COLOUR_2}Mono elspezita: {BLACK}{CURRENCY2DP}
+STR_5636    :{WINDOW_COLOUR_2}Komandoj rulitaj: {BLACK}{COMMA16}
+STR_5637    :Ne povas fari ĉi tion...
+STR_5638    :Permeso negita
+STR_5639    :{SMALLFONT}{BLACK}Montri liston de ludantoj
+STR_5640    :{SMALLFONT}{BLACK}Administri grupojn
+STR_5641    :Defaŭlta Grupo:
+STR_5642    :Grupo
+STR_5643    :Aldoni Grupon
+STR_5644    :Forigi Grupon
+STR_5645    :Babili
+STR_5646    :Terecigi
+STR_5647    :Baskuligi Paŭzon
+STR_5648    :Agordi Akvonivelon
+STR_5649    :Krei Atrakcion
+STR_5650    :Forigi Atrakcion
+STR_5651    :Konstrui Atrakcion
+STR_5652    :Ecoj de Atrakcio
+STR_5653    :Pejzaĵo
+STR_5654    :Vojo
+STR_5655    :Gasto
+STR_5656    :Laboristoj
+STR_5657    :Ecoj de Parko
+STR_5658    :Financado de Parko
+STR_5659    :Forpeli Ludanton
+STR_5660    :Modifi Grupojn
+STR_5661    :Agordi Ludantogrupon
 STR_5662    :N/A
-STR_5663    :Clear Landscape
-STR_5664    :Cheat
-STR_5665    :Toggle Scenery Cluster
-STR_5666    :Passwordless Login
+STR_5663    :Vakigi Pejzaĝon
+STR_5664    :Trompi
+STR_5665    :Baskuligi Pejzaĝaron
+STR_5666    :Senpasvorta Ensaluto 
 STR_5701    :{WINDOW_COLOUR_2}Last action: {BLACK}{STRINGID}
 STR_5702    :{SMALLFONT}{BLACK}Locate player's most recent action
 STR_5703    :Can't kick the host
