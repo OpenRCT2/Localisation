@@ -438,7 +438,7 @@ STR_1054    :{SMALLFONT}{BLACK}Nomi la atrakcion
 STR_1055    :{SMALLFONT}{BLACK}Nomi la homon
 STR_1056    :{SMALLFONT}{BLACK}Nomi la laboriston
 STR_1057    :Nomo de la atrakcio
-STR_1058    :Renomi ĉi tiun atrakcion:
+STR_1058    :Entajpu novan nomon por ĉi tiun atrakcion:
 STR_1059    :Ne eblas renomi la atrakcion...
 STR_1060    :Nevalida nomo de atrakcio
 STR_1061    :Reĝimo norma
@@ -833,7 +833,7 @@ STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
 STR_1452    :Nomo de la gasto
-STR_1453    :Entajpu la nomon de ĉi tiu gasto:
+STR_1453    :Entajpu nomon por ĉi tiu gasto:
 STR_1454    :Ne eblas nomi la gaston...
 STR_1455    :Tiu gastonomo ne estas valida
 STR_1456    :{WINDOW_COLOUR_2}Kontanto elspezita: {BLACK}{CURRENCY2DP}
@@ -1097,7 +1097,7 @@ STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Falĉas la herbon
 STR_1716    :Nevalida nomo de la parko
 STR_1717    :Ne eblas renomi la parkon...
 STR_1718    :Nomo de la Parko
-STR_1719    :Entajpu la nomon de la parko:
+STR_1719    :Entajpu nomon por la parko:
 STR_1720    :{SMALLFONT}{BLACK}Nomi la parkon
 STR_1721    :Parko fermita
 STR_1722    :Parko malfermita
@@ -1224,8 +1224,8 @@ STR_1849    :{WINDOW_COLOUR_2}Ludi muzikon
 STR_1850    :{SMALLFONT}{BLACK}Elekti ĉu la muziko ludas por ĉi tiu atrakcio
 STR_1851    :{WINDOW_COLOUR_2}Kosto por funkciado: {BLACK}po {CURRENCY2DP} por horo
 STR_1852    :{WINDOW_COLOUR_2}Kosto por funkciado: {BLACK}Nekonata
-STR_1853    :{WINDOW_COLOUR_2}Konstruita: {BLACK}Ĉi tiu jaro
-STR_1854    :{WINDOW_COLOUR_2}Konstruita: {BLACK}La pasinta jaro
+STR_1853    :{WINDOW_COLOUR_2}Konstruita: {BLACK}Ĉi-jare
+STR_1854    :{WINDOW_COLOUR_2}Konstruita: {BLACK}Lastjare
 STR_1855    :{WINDOW_COLOUR_2}Konstruita: {BLACK}Ankaŭ {COMMA16} jaroj
 STR_1856    :{WINDOW_COLOUR_2}Profito por ĉiu ero vendita: {BLACK}{CURRENCY2DP}
 STR_1857    :{WINDOW_COLOUR_2}Malprofito por ĉiu ero vendita: {BLACK}{CURRENCY2DP}
@@ -2106,12 +2106,12 @@ STR_2974    :Alternativa kolorskemo 3
 STR_2975    :{SMALLFONT}{BLACK}Elekti la kolorskemon por redakti, aŭ por uzi je la atrakcio
 STR_2976    :{SMALLFONT}{BLACK}Pentri propran areon de ĉi tiu atrakcio per la elektita kolorskemo
 STR_2977    :Nomo de laboristo
-STR_2978    :Entajpu la novan nomon por ĉi tiu laboristo:
+STR_2978    :Entajpu novan nomon por ĉi tiu laboristo:
 STR_2979    :Ne eblas nomi la laboriston...
 STR_2980    :Tro da rubandoj en la ludo
 STR_2981    :{RED}Ne eniru
 STR_2982    :Teksto de rubando
-STR_2983    :Entajpu la novan tekston de ĉi tiu rubando:
+STR_2983    :Entajpu novan tekston por ĉi tiu rubando:
 STR_2984    :Ne eblas agordi novan tekston por la rubando...
 STR_2985    :Rubando
 STR_2986    :{SMALLFONT}{BLACK}Ŝanĝi la tekston de la rubando
@@ -2203,8 +2203,8 @@ STR_3075    :{RED}AVERTO: La pritakso de la parko ankoraŭ estas malpli ol 700!{
 STR_3076    :{RED}FINA AVERTO: La pritakso de la parko ankoraŭ estas malpli ol 700!{NEWLINE}En nur 7 tagoj, via parko estos fermita, krom se vi povas plibonigi la pritakson
 STR_3077    :{RED}ATENTIGO PRI FERMIĜO: Via parko estis fermita!
 STR_3090    :{SMALLFONT}{BLACK}Elekti la stilon de la enirejo, elirejo, kaj stacio
-STR_3091    :Vi ne povas forigi ĉi tiun parton!
-STR_3092    :Vi ne povas movi aŭ redakti la stacion por ĉi tiu atrakcio!
+STR_3091    :Vi ne permesas forigi ĉi tiun parton!
+STR_3092    :Vi ne permesas movi aŭ redakti la stacion por ĉi tiu atrakcio!
 STR_3093    :{WINDOW_COLOUR_2}Plej ŝatas: {BLACK}{STRINGID}
 STR_3094    :N/A
 STR_3095    :{WINDOW_COLOUR_2}Rapideco de la ĉenlifto:
@@ -2405,9 +2405,9 @@ STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
 STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
 STR_3312    :{WINDOW_COLOUR_2}Atrakcioj, kiujn oni ne eblas ŝanĝi dum la scenaro:
 STR_3313    :Nomo de Scenaro
-STR_3314    :Entajpu la nomon de la scenaro:
+STR_3314    :Entajpu nomon por la scenaro:
 STR_3315    :Detaloj de la Parko/Scenaro
-STR_3316    :Entajpu la priskribon de ĉi tiu scenaro:
+STR_3316    :Entajpu priskribon de ĉi tiu scenaro:
 STR_3317    :Ankoraŭ neniuj detaloj
 STR_3318    :{SMALLFONT}{BLACK}Elekti en kiu grupo ĉi tiu scenaro aperas
 STR_3319    :{WINDOW_COLOUR_2}Scenaro-Grupo:
@@ -2438,7 +2438,7 @@ STR_3347    :La atrakcio estas tro granda, aŭ enhavas tro da elementoj, aŭ la 
 STR_3348    :Renomi
 STR_3349    :Forigi
 STR_3350    :Nomo de trakdesegnaĵo
-STR_3351    :Entajpu la novan nomon de ĉi tiu trakdesegnaĵo:
+STR_3351    :Entajpu novan nomon por ĉi tiu trakdesegnaĵo:
 STR_3352    :Ne eblas renomi la trakdesegnaĵon...
 STR_3353    :La nova nomo enhavas nevalidajn signojn
 STR_3354    :Alia dosiero kun la sama nomo jam ekzistas, aŭ la dosiero estas kontraŭskribe protektita
@@ -2481,15 +2481,15 @@ STR_3446    :Vakigi Patrolzonon
 # New strings, cleaner
 STR_5120    :Financoj
 STR_5121    :Esplorado
-STR_5122    :Elekti la atrakciojn per siaj traktipoj (kiel en RCT1)
+STR_5122    :Elekti atrakciojn per siaj traktipoj (kiel en RCT1)
 STR_5123    :Renovigi atrakciojn
 STR_5125    :Ĉiuj detrueblaj
 STR_5126    :Hazarda titolomuziko
 STR_5127    :{SMALLFONT}{BLACK}Trenante, pentri la teron anstataŭ ŝanĝi la altecon
 STR_5128    :Grando de la elektaĵo
-STR_5129    :Entajpu la grandon de la elektaĵo inter {COMMA16} kaj {COMMA16}
+STR_5129    :Entajpu grandon de la elektaĵo inter {COMMA16} kaj {COMMA16}
 STR_5130    :Grando de la mapo
-STR_5131    :Entajpu la grandon de la mapo inter {COMMA16} kaj {COMMA16}
+STR_5131    :Entajpu grandon de la mapo inter {COMMA16} kaj {COMMA16}
 STR_5132    :Ripari ĉiujn atrakciojn
 STR_5133    :{SMALLFONT}{BLACK}Agordi pli malgrandan areon de rajtoj de la bieno
 STR_5134    :{SMALLFONT}{BLACK}Agordi pli grandan areon de rajtoj de la bieno
@@ -2584,7 +2584,7 @@ STR_5236    :Fenestro
 STR_5237    :Paletro
 STR_5238    :Nuna Temo:
 STR_5239    :Duobligi
-STR_5240    :Entajpu la nomon de la temo
+STR_5240    :Entajpu nomon por la temo
 STR_5241    :Ne eblas ŝanĝi ĉi tiun temon
 STR_5242    :Ĉi tiu nomo de la temo jam ekzistas
 STR_5243    :Nevalidaj signoj estis uzitaj
@@ -2646,7 +2646,7 @@ STR_5299    :{LIGHTPINK}{STRINGID}
 STR_5300    :{SMALLFONT}{BLACK}Maldungi rapide la laboristojn
 STR_5301    :{MEDIUMFONT}{BLACK}Vakigi vian prunton
 STR_5302    :Vakigi la prunton
-STR_5303    :Permesi la konstruadon dum paŭzoj
+STR_5303    :Permesi konstruadon dum paŭzo
 STR_5304    :Titolosekvenco:
 STR_5305    :RollerCoaster Tycoon 1
 STR_5306    :RollerCoaster Tycoon 1 (AA)
@@ -2681,7 +2681,7 @@ STR_5356    :{BLACK}Naŭzo:
 STR_5357    :{BLACK}Naŭzotolero:
 STR_5358    :{BLACK}Veziko:
 STR_5359    :Forigi gastojn
-STR_5360    :{SMALLFONT}{BLACK}Forigi ĉiujn gastojn de la mapo
+STR_5360    :{SMALLFONT}{BLACK}Forigas ĉiujn gastojn de la mapo
 STR_5361    :Doni al ĉiu gasto:
 STR_5362    :{BLACK}Agordi preferatajn intensojn de atrakcioj por ĉiu gasto al:
 STR_5363    :Pli ol 1
@@ -2726,8 +2726,8 @@ STR_5401    :Krei novan titolosekvencon por ŝanĝi ĝin
 STR_5402    :Malsukcesis ŝargi titolosekvencon
 STR_5403    :Aŭ ne estas Ŝargi aŭ Atendi komandoj, aŭ konservaĵo estas nevalida
 STR_5404    :Nomo jam ekzistas
-STR_5405    :Entajpu la nomon de la konservaĵo
-STR_5406    :Entajpu la nomon de la titolosekvenco
+STR_5405    :Entajpu nomon por la konservaĵo
+STR_5406    :Entajpu nomon por la titolosekvenco
 STR_5407    :Aldoni
 STR_5408    :Forigi
 STR_5409    :Enmeti
@@ -2761,7 +2761,7 @@ STR_5437    :Neniu konservaĵo elektita
 STR_5438    :Ne eblas fari ŝanĝojn dum la komandoredaktilo estas malfermita
 STR_5439    :Atendi-komando de almenaŭ 4 sekundoj estas bezonata kun Rekomenci-komando
 STR_5440    :Minimumigi plenekranan reĝimon dum defokusigoj
-STR_5441    :{SMALLFONT}{BLACK}Identigi atrakciojn per siaj traktipoj{NEWLINE}do veturiloj fariĝas ŝanĝeblaj{NEWLINE}poste (Konduto de RCT1)
+STR_5441    :{SMALLFONT}{BLACK}Identigas atrakciojn per siaj traktipoj{NEWLINE}do veturiloj fariĝas ŝanĝeblaj{NEWLINE}poste (Konduto de RCT1)
 STR_5442    :Devigi la pritakson de parko:
 STR_5443    :Rapideco{MOVE_X}{87}{STRINGID}
 STR_5444    :Rapideco:
@@ -2821,12 +2821,12 @@ STR_5499    :Nomo de Ludanto:
 STR_5500    :Aldoni Servilon
 STR_5501    :Komenci Servilon
 STR_5502    :Plurludanta
-STR_5503    :Entajpu la servilonomon aŭ la IP-adreson:
+STR_5503    :Entajpu servilonomon aŭ IP-adreson:
 STR_5504    :{SMALLFONT}{BLACK}Montri la staton plurludantan
 STR_5505    :Ne eblas aliĝi al la servilo.
 STR_5506    :Gastoj malatentas intensecojn
 STR_5508    :Permesi ŝargadon de dosieroj kun nevalidaj kontrolsumoj
-STR_5509    :{SMALLFONT}{BLACK}Permesi la ŝargadon de scenaroj kaj konservaĵoj{NEWLINE}kiuj havas nevalidan kontrolsumon,{NEWLINE}kiel la scenaroj de la demonstrado{NEWLINE}aŭ difektitaj konservaĵoj.
+STR_5509    :{SMALLFONT}{BLACK}Permesas la ŝargadon de scenaroj kaj konservaĵoj{NEWLINE}kiuj havas nevalidan kontrolsumon,{NEWLINE}kiel la scenaroj de la demonstrado{NEWLINE}aŭ difektitaj konservaĵoj.
 STR_5510    :Defaŭlta sonludilo
 STR_5511    :(NEKONATA)
 STR_5512    :Konservi Ludon Kiel
@@ -2877,12 +2877,12 @@ STR_5556    :{SMALLFONT}{BLACK}Forigi la ludanton
 STR_5557    :Resti konektita post desinkronigo (Plurludanta)
 STR_5558    :Ĉi tiu agordo fariĝas valida nur post vi reŝargas je OpenRCT2
 STR_5559    :Inspekti post ĉiuj 10 minutoj
-STR_5560    :{SMALLFONT}{BLACK}Agordi la inspekton al 'Post ĉiuj 10 minutoj' por ĉiu atrakcio
+STR_5560    :{SMALLFONT}{BLACK}Agordas la inspekton al 'Post ĉiuj 10 minutoj' por ĉiu atrakcio
 STR_5561    :Malsukcesis ŝargi la lingvon
 STR_5562    :AVERTO!
 STR_5563    :Ĉi tiu funkcio estas nune nestabila. Estu singarda.
 STR_5564    :Enmeti Difektitan Elementon
-STR_5565    :{SMALLFONT}{BLACK}Enmeti difektitan mapelementon sur la supro de le blokon por kaŝi iun ajn eron super ĝi.
+STR_5565    :{SMALLFONT}{BLACK}Enmetas difektitan mapelementon sur la supro de le blokon por kaŝi iun ajn eron super ĝi.
 STR_5566    :Pasvorto:
 STR_5567    :Anonci
 STR_5568    :Pasvorto Bezonata
@@ -2902,7 +2902,7 @@ STR_5581    :Montri bildrapidon
 STR_5582    :Kapti la muskursoron en fenestro
 STR_5583    :{COMMA1DP16} m/s
 STR_5584    :SI
-STR_5585    :{SMALLFONT}{BLACK}Malŝlosi limojn de funkciado de atrakcioj, kio permesos aferojn kiel {VELOCITY} liftmontetoj
+STR_5585    :{SMALLFONT}{BLACK}Malŝlosas limojn de funkciado de atrakcioj, kio permesos aferojn kiel {VELOCITY} liftmontetoj
 STR_5586    :Malfermi aŭtomate vendejojn kaj budojn
 STR_5587    :{SMALLFONT}{BLACK}Vendejoj kaj budoj estos aŭtomate malfermitaj post la konstruado
 STR_5588    :{SMALLFONT}{BLACK}Ludi kun aliaj ludantoj
@@ -2983,115 +2983,115 @@ STR_5663    :Vakigi Pejzaĝon
 STR_5664    :Trompi
 STR_5665    :Baskuligi Pejzaĝaron
 STR_5666    :Senpasvorta Ensaluto 
-STR_5701    :{WINDOW_COLOUR_2}Last action: {BLACK}{STRINGID}
-STR_5702    :{SMALLFONT}{BLACK}Locate player's most recent action
-STR_5703    :Can't kick the host
-STR_5704    :Last Action
-STR_5705    :Can't set to this group
-STR_5706    :Can't remove group that players belong to
-STR_5707    :This group cannot be modified
-STR_5708    :Can't change the group that the host belongs to
-STR_5709    :Rename Group
-STR_5710    :Group name
-STR_5711    :Enter new name for this group:
-STR_5712    :Can't modify permission that you do not have yourself
-STR_5713    :Kick Player
-STR_5714    :Show options window
+STR_5701    :{WINDOW_COLOUR_2}Lasta ago: {BLACK}{STRINGID}
+STR_5702    :{SMALLFONT}{BLACK}Loki plej lastan agon de ludanto
+STR_5703    :Ne povas forpeli la gastiganton
+STR_5704    :Lasta Ago
+STR_5705    :Ne povas agordi al ĉi tiu grupo
+STR_5706    :Ne povas forigi grupon, ke ludantoj apartenas
+STR_5707    :Ĉi tiu grupo ne eblas modifi
+STR_5708    :Ne povas ŝanĝi la grupon, ke la gastiganto apartenas
+STR_5709    :Renomi Grupon
+STR_5710    :Nomo de grupo
+STR_5711    :Entajpu novan nomon por ĉi tiu grupo:
+STR_5712    :Ne povas modifi permeson, ke vi ne havas mem
+STR_5713    :Forpeli Ludanton
+STR_5714    :Montri fenestron de agordoj
 STR_5715    :Nova Ludon
-STR_5716    :Not allowed in multiplayer mode
+STR_5716    :Ne permesas en plurludanta reĝimo
 # For identifying client network version in server list window
-STR_5717    :Network version: {STRING}
-STR_5718    :{SMALLFONT}{BLACK}Network version: {STRING}
-STR_5719    :Sunny
-STR_5720    :Partially Cloudy
-STR_5721    :Cloudy
-STR_5722    :Rain
-STR_5723    :Heavy Rain
-STR_5724    :Thunderstorm
-STR_5725    :{BLACK}Force weather:
-STR_5726    :{SMALLFONT}{BLACK}Sets the current weather in park
-STR_5727    :Scaling quality:
-STR_5731    :Linear
+STR_5717    :Reta versio: {STRING}
+STR_5718    :{SMALLFONT}{BLACK}Reta versio: {STRING}
+STR_5719    :Suna
+STR_5720    :Parte Nuba
+STR_5721    :Nuba
+STR_5722    :Pluvo
+STR_5723    :Pluvego
+STR_5724    :Fulmotondro
+STR_5725    :{BLACK}Devigi veteron:
+STR_5726    :{SMALLFONT}{BLACK}Agordas la nunan veteron en la parko
+STR_5727    :Kvalito de skalado:
+STR_5731    :Lineara
 # tooltip for tab in options window
-STR_5734    :{SMALLFONT}{BLACK}Rendering
-STR_5735    :Network Status
-STR_5736    :Player
-STR_5737    :Closed, {COMMA16} person still on ride
-STR_5738    :Closed, {COMMA16} people still on ride
+STR_5734    :{SMALLFONT}{BLACK}Bildigo
+STR_5735    :Reta Stato
+STR_5736    :Ludanto
+STR_5737    :Fermita, ankoraŭ {COMMA16} homo sur atrakcio
+STR_5738    :Fermita, ankoraŭ {COMMA16} homoj sur atrakcio
 STR_5739    :{WINDOW_COLOUR_2}Klientoj sur atrakcio: {BLACK}{COMMA16}
-STR_5740    :Never-ending marketing campaigns
-STR_5741    :{SMALLFONT}{BLACK}Marketing campaigns never end
-STR_5742    :Authenticating ...
-STR_5743    :Connecting ...
-STR_5744    :Resolving ...
-STR_5745    :Network desync detected
-STR_5746    :Disconnected
-STR_5747    :Disconnected: {STRING}
-STR_5748    :Kicked
-STR_5749    :Get out of the server!
-STR_5750    :Connection Closed
+STR_5740    :Eternaj surmerkatigaj kampanjoj
+STR_5741    :{SMALLFONT}{BLACK}Surmerkatigaj kampanjoj neniam ĉesas
+STR_5742    :Aŭtentigas ...
+STR_5743    :Konektas ...
+STR_5744    :Adrestrovilas ...
+STR_5745    :Reta atendotempo detektita
+STR_5746    :Nekonektita
+STR_5747    :Nekonektita: {STRING}
+STR_5748    :Forpelita
+STR_5749    :Ekiru de la servilo!
+STR_5750    :Konekto Fermita
 STR_5751    :No Data
-STR_5752    :{OUTLINE}{RED}{STRING} has disconnected
-STR_5753    :{OUTLINE}{RED}{STRING} has disconnected ({STRING})
-STR_5754    :Bad Player Name
-STR_5755    :Incorrect Software Version (Server is using {STRING})
-STR_5756    :Bad Password
-STR_5757    :Server Full
-STR_5758    :{OUTLINE}{GREEN}{STRING} has joined the game
-STR_5759    :Downloading map ... ({INT32} / {INT32}) KiB
-STR_5760    :Hong Kong Dollars (HK$)
-STR_5761    :New Taiwan Dollar (NT$)
-STR_5762    :Chinese Yuan (CN¥)
-STR_5763    :All files
-STR_5764    :Invalid ride type
-STR_5765    :Cannot edit rides of invalid type
-STR_5766    :Hungarian Forint (Ft)
-STR_5767    :Income
-STR_5768    :Total customers
-STR_5769    :Total profit
-STR_5770    :Customers per hour
-STR_5771    :Running cost
-STR_5772    :Age
-STR_5773    :Total customers: {COMMA32}
-STR_5774    :Total profit: {CURRENCY2DP}
-STR_5775    :Customers: {COMMA32} per hour
-STR_5776    :Built: This Year
-STR_5777    :Built: Last Year
-STR_5778    :Built: {COMMA16} Years Ago
-STR_5779    :Income: {CURRENCY2DP} per hour
-STR_5780    :Running cost: {CURRENCY2DP} per hour
-STR_5781    :Running cost: Unknown
-STR_5782    :You are now connected. Press '{STRING}' to chat.
-STR_5783    :{WINDOW_COLOUR_2}Scenario Locked
-STR_5784    :{BLACK}Complete earlier scenarios to unlock this scenario.
-STR_5785    :Can't rename group...
-STR_5786    :Invalid group name
-STR_5787    :{COMMA32} players online
-STR_5788    :Default inspection interval:
-STR_5789    :Disable lightning effect
-STR_5790    :{SMALLFONT}{BLACK}Toggles RCT1-style pricing{NEWLINE}(e.g. both ride price and entrance price)
-STR_5791    :{SMALLFONT}{BLACK}Sets the reliability of all rides to 100%{NEWLINE}and resets their built date to “this year”
-STR_5792    :{SMALLFONT}{BLACK}Fixes all broken down rides
-STR_5793    :{SMALLFONT}{BLACK}Resets the crash history of a ride,{NEWLINE}so guests will not complain that its unsafe
-STR_5794    :{SMALLFONT}{BLACK}Some scenarios disable editing of some{NEWLINE}of the rides already in the park.{NEWLINE}This cheat lifts the restriction
-STR_5795    :{SMALLFONT}{BLACK}Guests ride every attraction in the park{NEWLINE}even if the intensity is extremely high
-STR_5796    :{SMALLFONT}{BLACK}Forces the park to close or open
-STR_5797    :{SMALLFONT}{BLACK}Disables weather changes and{NEWLINE}freezes the selected weather
-STR_5798    :{SMALLFONT}{BLACK}Allows building actions in pause mode
-STR_5799    :{SMALLFONT}{BLACK}Disables ride breakdowns and crashes due to brake failure
-STR_5800    :{SMALLFONT}{BLACK}Prevents rides from breaking down
-STR_5801    :Disable littering
-STR_5802    :{SMALLFONT}{BLACK}Stops guests from littering and vomiting
-STR_5803    :{SMALLFONT}{BLACK}Rotate selected map element
-STR_5804    :Mute sound
-STR_5805    :{SMALLFONT}{BLACK}If checked, your server will be added to the{NEWLINE}public server list so everyone can find it
-STR_5806    :Toggle windowed mode
-STR_5807    :{WINDOW_COLOUR_2}Number of rides: {BLACK}{COMMA16}
-STR_5808    :{WINDOW_COLOUR_2}Number of shops and stalls: {BLACK}{COMMA16}
-STR_5809    :{WINDOW_COLOUR_2}Number of information kiosks and other facilities: {BLACK}{COMMA16}
-STR_5810    :Disable vehicle limits
-STR_5811    :{SMALLFONT}{BLACK}If checked, you can have up to{NEWLINE}255 cars per train and 31{NEWLINE}trains per ride
-STR_5812    :Show multiplayer window
+STR_5752    :{OUTLINE}{RED}{STRING} nekonektita
+STR_5753    :{OUTLINE}{RED}{STRING} nekonektis je ({STRING})
+STR_5754    :Malbona Nomo de Ludanto
+STR_5755    :Malĝusta Versio de Programo (Servilo uzas je {STRING})
+STR_5756    :Malbona Pasvorto
+STR_5757    :Servilo Plena
+STR_5758    :{OUTLINE}{GREEN}{STRING} aliĝis al la ludo
+STR_5759    :Elŝutas mapon ... ({INT32} / {INT32}) KiB
+STR_5760    :Honkongaj Dolaroj (HK$)
+STR_5761    :Nova Tajvana Dolaro (NT$)
+STR_5762    :Ĉina Juano (CN¥)
+STR_5763    :Ĉiuj dosieroj
+STR_5764    :Nevalida tipo de atrakcio
+STR_5765    :Ne povas redakti atrakciojn de nevalida tipo
+STR_5766    :Hungara Forinto (Ft)
+STR_5767    :Enspezo
+STR_5768    :Totalaj klientoj: 
+STR_5769    :Totala profito: 
+STR_5770    :Klientoj por horo
+STR_5771    :Kosto por funkciado
+STR_5772    :Aĝo
+STR_5773    :Totalaj klientoj: {COMMA32}
+STR_5774    :Totala profito: {CURRENCY2DP}
+STR_5775    :Klientoj: {COMMA32} por horo
+STR_5776    :Konstruita: Ĉi-jare
+STR_5777    :Konstruita: Lastjare
+STR_5778    :Konstruita: Ankaŭ {COMMA16} jaroj
+STR_5779    :Enspezo: {CURRENCY2DP} por horo
+STR_5780    :Kosto por funkciado: {CURRENCY2DP} por horo
+STR_5781    :Kosto por funkciado: Nekonata
+STR_5782    :Vi nun estas konektita. Premu '{STRING}' por babili.
+STR_5783    :{WINDOW_COLOUR_2}Scenaro Ŝlosita
+STR_5784    :{BLACK}Finfaru antaŭajn scenarojn por malŝlosi ĉi tiun scenaron.
+STR_5785    :Ne povas renomi grupon...
+STR_5786    :Nevalida nomo de grupo
+STR_5787    :{COMMA32} ludantoj enretaj
+STR_5788    :Defaŭlta intervalo de inspekto:
+STR_5789    :Malŝalti fulmo-efekton
+STR_5790    :{SMALLFONT}{BLACK}Baskuligas RCT1-stilan prezon{NEWLINE}(ekz. kaj atrakcioprezo kaj eniroprezo)
+STR_5791    :{SMALLFONT}{BLACK}Agordas la fidindon de ĉiuj atrakcioj al 100%{NEWLINE}kaj restarigas ilian konstruitan daton al "ĉi-jare"
+STR_5792    :{SMALLFONT}{BLACK}Riparas ĉiujn paneintajn atrakciojn
+STR_5793    :{SMALLFONT}{BLACK}Restarigas la kolizian historion de atrakcio,{NEWLINE}do gastoj ne plendos, ke ĝi estas nesekura
+STR_5794    :{SMALLFONT}{BLACK}Iuj scenaroj malŝaltas redaktadon de iuj{NEWLINE}atrakcioj jam en la parko.{NEWLINE}Ĉi tiu trompo leviĝas la limigon
+STR_5795    :{SMALLFONT}{BLACK}Gastoj rajdas ĉiun atrakcion en la parko{NEWLINE}eĉ se la intenseco estas ekstreme alta
+STR_5796    :{SMALLFONT}{BLACK}Devigas la parkon fermiĝi aŭ malfermiĝi
+STR_5797    :{SMALLFONT}{BLACK}Malŝaltas veterŝanĝojn kaj{NEWLINE}frostigas la elektitan veteron
+STR_5798    :{SMALLFONT}{BLACK}Permesas konstruadajn agojn en paŭzo-reĝimo
+STR_5799    :{SMALLFONT}{BLACK}Malŝaltas atrakciojn paneojn kaj koliziojn pro bremso-fiasko
+STR_5800    :{SMALLFONT}{BLACK}Preventas atrakciojn paneiĝi
+STR_5801    :Malŝalti rubadon
+STR_5802    :{SMALLFONT}{BLACK}Ĉesigas gastojn de rubado kaj vomado
+STR_5803    :{SMALLFONT}{BLACK}Turni elektitan mapelementon
+STR_5804    :Mutigi sonon
+STR_5805    :{SMALLFONT}{BLACK}Se elektita, via servilo estos aldonita al la{NEWLINE}publika servila listo por ke ĉiuj povas trovi ĝin
+STR_5806    :Baskuligi fenestro-reĝimon
+STR_5807    :{WINDOW_COLOUR_2}Nombro de atrakcioj: {BLACK}{COMMA16}
+STR_5808    :{WINDOW_COLOUR_2}Nombro de vendejoj kaj budoj: {BLACK}{COMMA16}
+STR_5809    :{WINDOW_COLOUR_2}Nombro de informokioskoj kaj aliaj servoj: {BLACK}{COMMA16}
+STR_5810    :Malŝalti limojn de veturiloj
+STR_5811    :{SMALLFONT}{BLACK}Se elektita, vi povas havi ĝis{NEWLINE}255 ĉarojn po trajno kaj 31{NEWLINE}trajnojn po atrakcio
+STR_5812    :Montri plurludantan fenestron
 STR_5813    :“{STRING}”
 STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 
