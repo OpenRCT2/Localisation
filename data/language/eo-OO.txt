@@ -765,7 +765,7 @@ STR_1381    :Kurba Liftparto (maldekstre)
 STR_1382    :Kurba Liftparto (dekstre)
 STR_1383    :Kvarona Lopo
 STR_1384    :{YELLOW}{STRINGID}
-STR_1385    :{SMALLFONT}{BLACK}Aliaj trakfiguroj
+STR_1385    :{SMALLFONT}{BLACK}Aliaj trakokonfiguroj
 STR_1386    :Specialaĵoj...
 STR_1387    :Ne eblas ŝanĝi tipon de tero...
 STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
@@ -1951,7 +1951,7 @@ STR_2739    :Neniu
 STR_2740    :RollerCoaster Tycoon 1
 STR_2741    :RollerCoaster Tycoon 2
 STR_2742    :css50.dat ne troviĝis
-STR_2743    :Kopiu 'data/css17.dat' de via RCT1 instalaĵo al 'data/css50.dat' en via RCT2 instalaĵo, aŭ kontrolu, ke la dosierindiko al RCT1 en la tabo Altnivela pravas.
+STR_2743    :Kopiu 'data/css17.dat' de via RCT1 instalaĵo al 'data/css50.dat' en via RCT2 instalaĵo, aŭ kontrolu, ke la dosierindiko al RCT1 en la langeto Altnivela pravas.
 STR_2749    :Mia nova scenaro
 # New strings used in the cheats window previously these were ???
 STR_2750    :Movi ĉiujn aferojn supren
@@ -2761,7 +2761,7 @@ STR_5437    :Neniu konservaĵo elektita
 STR_5438    :Ne eblas fari ŝanĝojn dum komandoredaktilo estas malfermita
 STR_5439    :Atendi-komando de almenaŭ 4 sekundoj estas bezonata kun Rekomenci-komando
 STR_5440    :Minimumigi plenekranan reĝimon dum defokusigoj
-STR_5441    :{SMALLFONT}{BLACK}Identigas atrakciojn per siaj traktipoj{NEWLINE}do veturiloj fariĝas ŝanĝeblaj{NEWLINE}poste (Konduto de RCT1)
+STR_5441    :{SMALLFONT}{BLACK}Identigas atrakciojn per siaj traktipoj{NEWLINE}do veturiloj fariĝas ŝanĝeblaj{NEWLINE}poste (RCT1-konduto)
 STR_5442    :Devigi pritakson de parko:
 STR_5443    :Rapideco{MOVE_X}{87}{STRINGID}
 STR_5444    :Rapideco:
@@ -2875,7 +2875,7 @@ STR_5554    :{SMALLFONT}{BLACK}Ŝalti montilon
 STR_5555    :Montri veturilojn de aliaj traktipoj
 STR_5556    :{SMALLFONT}{BLACK}Forigi ludanton
 STR_5557    :Resti konektita post desinkronigo (Plurludanta)
-STR_5558    :Ĉi tiu agordo fariĝas valida nur post vi reŝargas je OpenRCT2
+STR_5558    :Ĉi tiu agordo fariĝas valida nur post vi reŝargas OpenRCT2
 STR_5559    :Inspekti post ĉiuj 10 minutoj
 STR_5560    :{SMALLFONT}{BLACK}Agordas la inspekton al 'Post ĉiuj 10 minutoj' por ĉiu atrakcio
 STR_5561    :Malsukcesis ŝargi lingvon
@@ -3024,7 +3024,7 @@ STR_5741    :{SMALLFONT}{BLACK}Surmerkatigaj kampanjoj neniam ĉesas
 STR_5742    :Aŭtentigas ...
 STR_5743    :Konektas ...
 STR_5744    :Adrestrovilas ...
-STR_5745    :Reta atendotempo detektita
+STR_5745    :Reta desinkronigo detektita
 STR_5746    :Nekonektita
 STR_5747    :Nekonektita: {STRING}
 STR_5748    :Forpelita
@@ -3096,87 +3096,87 @@ STR_5813    :“{STRING}”
 STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 
 #tooltips
-STR_5815    :{SMALLFONT}{BLACK}Display FPS counter in-game
-STR_5816    :{SMALLFONT}{BLACK}Sets ratio to scale the game by.{NEWLINE}Most useful when playing in{NEWLINE}high resolutions
-STR_5817    :{SMALLFONT}{BLACK}Sets UI scaling type. Requires hardware display to be used.{NEWLINE}Linear scaling is smooth, but blurry. Smooth Nearest Neighbour scaling is sharp, but can cause a minor performance hit.
-STR_5819    :{SMALLFONT}{BLACK}[Requires hardware display]{NEWLINE}Pause the game if Steam{NEWLINE}in-game overlay is opened
-STR_5820    :{SMALLFONT}{BLACK}Minimise the game if focus is{NEWLINE}lost while in fullscreen mode
-STR_5822    :{SMALLFONT}{BLACK}Cycle between day and night.{NEWLINE}Full cycle takes one in-game month
-STR_5823    :{SMALLFONT}{BLACK}Display banners in uppercase (RCT1 behaviour)
-STR_5824    :{SMALLFONT}{BLACK}Disables lightning effect{NEWLINE}during a thunderstorm
-STR_5825    :{SMALLFONT}{BLACK}Keep the mouse cursor in the window
-STR_5826    :{SMALLFONT}{BLACK}Invert right mouse dragging of the viewport
-STR_5827    :{SMALLFONT}{BLACK}Sets the colour scheme used for the GUI
-STR_5828    :{SMALLFONT}{BLACK}Changes what measurement format is used for distances, speed, etc.
-STR_5829    :{SMALLFONT}{BLACK}Changes what currency format is used. Purely visual, there is no exact exchange rate implementation
-STR_5830    :{SMALLFONT}{BLACK}Changes what language is used
-STR_5831    :{SMALLFONT}{BLACK}Changes what format the{NEWLINE}temperature is displayed in
-STR_5832    :{SMALLFONT}{BLACK}Show height as generic units instead of measurement format set under “Distance and Speed”
-STR_5833    :{SMALLFONT}{BLACK}Changes what date format is used
-STR_5834    :{SMALLFONT}{BLACK}Select which audio device OpenRCT2 will use
-STR_5835    :{SMALLFONT}{BLACK}Mute the game if the window loses focus
-STR_5836    :{SMALLFONT}{BLACK}Select music to use on the main menu.{NEWLINE}Selecting RCT1 theme requires that you copy 'data/css17.dat' from your RCT1 game folder to 'data/css50.dat' in your RCT2 folder, or set the path to RCT1 in the Miscellaneous tab.
-STR_5837    :{SMALLFONT}{BLACK}Create and manage custom UI themes
-STR_5838    :{SMALLFONT}{BLACK}Show a separate button for the finance window in the toolbar
-STR_5839    :{SMALLFONT}{BLACK}Show a separate button for the research and development window in the toolbar
-STR_5840    :{SMALLFONT}{BLACK}Show a separate button for the cheats window in the toolbar
-STR_5841    :{SMALLFONT}{BLACK}Show a separate button for the recent news window in the toolbar
-STR_5842    :{SMALLFONT}{BLACK}Sort scenarios into tabs by their difficulty (RCT2 behaviour) or their source game (RCT1 behaviour)
-STR_5843    :{SMALLFONT}{BLACK}Enables progressive unlocking of scenarios (RCT1 behaviour)
-STR_5844    :{SMALLFONT}{BLACK}Stay connected to a multiplayer server{NEWLINE}even if a desync or error occurs
-STR_5845    :{SMALLFONT}{BLACK}Adds a button for{NEWLINE}debugging tools to the toolbar.{NEWLINE}Enables keyboard shortcut for developer console
-STR_5846    :{SMALLFONT}{BLACK}Set how often OpenRCT2 automatically saves
-STR_5847    :{SMALLFONT}{BLACK}Select park sequence used on the title screen.{NEWLINE}Title sequences from RCT1/2 require imported scenarios to function
-STR_5848    :{SMALLFONT}{BLACK}Create and manage custom title sequences
-STR_5849    :{SMALLFONT}{BLACK}Automatically place{NEWLINE}newly hired staff members
+STR_5815    :{SMALLFONT}{BLACK}Montri kadrojn sekunde enlude
+STR_5816    :{SMALLFONT}{BLACK}Agordas proporcion por skali la ludon per.{NEWLINE}Plej utila ludante en{NEWLINE}altaj distingivoj
+STR_5817    :{SMALLFONT}{BLACK}Agordas fasado-skalan tipon. Bezonas aparataran ekranon por uziĝi.{NEWLINE}Lineara skalado estas glata, sed malklara. Glata Plej proksima Najbara skalo estas akra, sed povas kaŭzi etan redukton al rendimento.
+STR_5819    :{SMALLFONT}{BLACK}[Bezonas aparataran ekranon]{NEWLINE}Paŭzi la ludon se enluda plustavolo{NEWLINE}de Steam estas malfermita
+STR_5820    :{SMALLFONT}{BLACK}Minimumigi la ludon se fokuso{NEWLINE}perdiĝas dum plenekrana reĝimo
+STR_5822    :{SMALLFONT}{BLACK}Cikli inter tago kaj nokto.{NEWLINE}Plena ciklo daŭras unu enludan monaton
+STR_5823    :{SMALLFONT}{BLACK}Montri standardojn majuskle (RCT1-konduto)
+STR_5824    :{SMALLFONT}{BLACK}Malŝaltas fulma efiko{NEWLINE}dum fulmotondro
+STR_5825    :{SMALLFONT}{BLACK}Konservi la musmontrilon en la fenestro
+STR_5826    :{SMALLFONT}{BLACK}Inversigi dekstran musan trenadon de la vidujo
+STR_5827    :{SMALLFONT}{BLACK}Agordas la kolorskemon uzatan por la grafika fasado
+STR_5828    :{SMALLFONT}{BLACK}Ŝanĝas kian mezurformaton uzatan por distancoj, rapideco, ktp.
+STR_5829    :{SMALLFONT}{BLACK}Ŝanĝas kian valutan formaton uzas. Simple vida, ne ekzistas ekzakta kurzo-efektivigo
+STR_5830    :{SMALLFONT}{BLACK}Ŝanĝas kian lingvon uzas
+STR_5831    :{SMALLFONT}{BLACK}Ŝanĝas kiu formato la{NEWLINE}temperaturo estas montrata
+STR_5832    :{SMALLFONT}{BLACK}Montri altecon kiel komunaj unuoj anstataŭ mezurformato agordita sub "Distanco kaj Rapideco"
+STR_5833    :{SMALLFONT}{BLACK}Ŝanĝas kian datformaton uzas
+STR_5834    :{SMALLFONT}{BLACK}Elekti kiun sonludilon OpenRCT2 uzos
+STR_5835    :{SMALLFONT}{BLACK}Silentigi la ludon se la fenestro perdas fokuson
+STR_5836    :{SMALLFONT}{BLACK}Elekti muzikon por uzi en la ĉefa menuo.{NEWLINE}Elekti RCT1-temon postulas, ke vi kopiu 'data/css17.dat' de via RCT1-luddosierujo al 'data/css50.dat' en via RCT2-dosierujo, aŭ agordu la dosierindikon al RCT1 en la Diversa langeto.
+STR_5837    :{SMALLFONT}{BLACK}Krei kaj administri proprajn fasado-temojn
+STR_5838    :{SMALLFONT}{BLACK}Montri apartan butonon por la fenestro de financo en la ilobreto
+STR_5839    :{SMALLFONT}{BLACK}Montri apartan butonon por la fenestro de esplorado kaj disvolvado en la ilobreto
+STR_5840    :{SMALLFONT}{BLACK}Montri apartan butonon por la fenestro de trompoj en la ilobreto
+STR_5841    :{SMALLFONT}{BLACK}Montri apartan butonon por la fenestro de lastaj novaĵoj en la ilobreto
+STR_5842    :{SMALLFONT}{BLACK}Ordigi scenarojn en langetoj laŭ ilia malfacileco (RCT2-konduto) aŭ ilia fontludo (RCT1-konduto)
+STR_5843    :{SMALLFONT}{BLACK}Ŝaltas progresivan malŝlosadon de scenaroj (RCT1-konduto)
+STR_5844    :{SMALLFONT}{BLACK}Resti konektita al plurludanta servilo{NEWLINE}eĉ se desinkronigo aŭ eraro okazas
+STR_5845    :{SMALLFONT}{BLACK}Aldonas butonon por{NEWLINE}sencimigilojn al la ilobreto.{NEWLINE}Ŝaltas klavkomandon por programista konzolo
+STR_5846    :{SMALLFONT}{BLACK}Agordi kiom ofte OpenRCT2 aŭtomate konservas
+STR_5847    :{SMALLFONT}{BLACK}Elekti parksinsekvon uzatan sur la titola ekrano.{NEWLINE}Titolsinsekvoj de RCT1/2 bezonas importitajn scenarojn funkcii
+STR_5848    :{SMALLFONT}{BLACK}Krei kaj administri proprajn titolsinsekvojn
+STR_5849    :{SMALLFONT}{BLACK}Aŭtomate meti{NEWLINE}nove dungitajn dungitojn
 STR_5850    :<not used anymore>
-STR_5851    :{SMALLFONT}{BLACK}Sets the default inspection interval{NEWLINE}on newly built rides
-STR_5853    :{SMALLFONT}{BLACK}Toggle sound effects on/off
-STR_5854    :{SMALLFONT}{BLACK}Toggle ride music on/off
-STR_5855    :{SMALLFONT}{BLACK}Set regular fullscreen, borderless fullscreen{NEWLINE}or windowed display
-STR_5856    :{SMALLFONT}{BLACK}Set game resolution when in fullscreen mode
-STR_5857    :{SMALLFONT}{BLACK}Game options
-STR_5858    :{SMALLFONT}{BLACK}Use GPU for displaying instead of CPU. Improves compatibility with screen capture software. May slightly decrease performance.
-STR_5859    :{SMALLFONT}{BLACK}Enables frame tweening for visually{NEWLINE}smoother gameplay. When disabled,{NEWLINE}the game will run at 40 FPS.
-STR_5860    :Toggle original/decompiled track drawing
-STR_5861    :Key verification failure.
-STR_5862    :Block unknown players.
-STR_5863    :{SMALLFONT}{BLACK}Only allow players with known keys to join.
-STR_5864    :This server only allows whitelisted players to connect.
-STR_5865    :Log chat history
-STR_5866    :{SMALLFONT}{BLACK}Logs all chat history to files in your user directory.
-STR_5867    :{WINDOW_COLOUR_2}Provider Name: {BLACK}{STRING}
-STR_5868    :{WINDOW_COLOUR_2}Provider E-mail: {BLACK}{STRING}
-STR_5869    :{WINDOW_COLOUR_2}Provider Website: {BLACK}{STRING}
-STR_5870    :{SMALLFONT}{BLACK}Show server information
-STR_5871    :Plants don't age
-STR_5872    :{SMALLFONT}{BLACK}Disable plant ageing such that they don't wilt.
-STR_5873    :Allow chain lifts on all track pieces
-STR_5874    :{SMALLFONT}{BLACK}Allows any piece of track to be made into a chain lift
-STR_5875    :Drawing Engine:
-STR_5876    :{SMALLFONT}{BLACK}The engine to use for drawing the game.
-STR_5877    :Software
-STR_5878    :Software (hardware display)
-STR_5879    :OpenGL (experimental)
-STR_5880    :Selected only
-STR_5881    :Non-selected only
-STR_5882    :Custom currency
-STR_5883    :Custom currency configuration
-STR_5884    :{WINDOW_COLOUR_2}Exchange rate: 
-STR_5885    :{WINDOW_COLOUR_2}is equivalent to {COMMA32} GBP (£)
-STR_5886    :{WINDOW_COLOUR_2}Currency symbol:
-STR_5887    :Prefix
-STR_5888    :Suffix
-STR_5889    :Custom currency symbol
-STR_5890    :Enter the currency symbol to display
-STR_5891    :Default
-STR_5892    :{SMALLFONT}{BLACK}Go to the default directory
-STR_5893    :Exchange Rate
-STR_5894    :Enter the exchange rate
-STR_5895    :Save Track
-STR_5896    :Track save failed!
-STR_5898    :{BLACK}Can't load the track, the file might be {newline}corrupted, broken or missing!
-STR_5899    :Toggle paint debug window
+STR_5851    :{SMALLFONT}{BLACK}Agordas la defaŭltan inspektan intervalon{NEWLINE}por novkonstruitaj atrakcioj
+STR_5853    :{SMALLFONT}{BLACK}Baskuligi sonefektojn
+STR_5854    :{SMALLFONT}{BLACK}Baskuligi muziko de atrakcio
+STR_5855    :{SMALLFONT}{BLACK}Agordi regulan plenekranon, senborderan plenekranon{NEWLINE}aŭ fenestran ekranon
+STR_5856    :{SMALLFONT}{BLACK}Agordi distingivon de ludo kiam en plenekrana reĝimo
+STR_5857    :{SMALLFONT}{BLACK}Ludagordoj
+STR_5858    :{SMALLFONT}{BLACK}Uzi grafikan procesoron por montri anstataŭ ĉefprocesoro. Plibonigas kongruon kun ekrankopia programaro. Povas iomete malpliigi rendimenton.
+STR_5859    :{SMALLFONT}{BLACK}Ŝaltas kadran interpoladon por vide{NEWLINE}pli glata ludado. Se malŝaltita,{NEWLINE}la ludo funkcios je 40 kadroj sekunde.
+STR_5860    :Baskuligi originalan/retrokompilitan trakdesegnaĵon
+STR_5861    :Ŝlosilokontrolo malsukcesis.
+STR_5862    :Bloki nekonatajn ludantojn.
+STR_5863    :{SMALLFONT}{BLACK}Permesi nur ludantoj kun konataj ŝlosiloj aliĝi.
+STR_5864    :Ĉi tiu servilo nur permesas konekti blanklistajn ludantojn.
+STR_5865    :Protokoli babila historio
+STR_5866    :{SMALLFONT}{BLACK}Protokolas ĉiujn babilajn historiojn al dosieroj en via uzantdosierujo.
+STR_5867    :{WINDOW_COLOUR_2}Nomo de Provizanto: {BLACK}{STRING}
+STR_5868    :{WINDOW_COLOUR_2}Retpoŝtadreso de Provizanto: {BLACK}{STRING}
+STR_5869    :{WINDOW_COLOUR_2}Retejo de Provizanto: {BLACK}{STRING}
+STR_5870    :{SMALLFONT}{BLACK}Montri servilajn informojn
+STR_5871    :Plantoj ne maljuniĝas
+STR_5872    :{SMALLFONT}{BLACK}Malŝalti plantan maljuniĝon tiel, ke ili ne velkas.
+STR_5873    :Permesi ĉenliftojn sur ĉiuj trakeroj
+STR_5874    :{SMALLFONT}{BLACK}Permesas ĉian trakeron fariĝi ĉenlifto
+STR_5875    :Desegnomotoro:
+STR_5876    :{SMALLFONT}{BLACK}La motoro uzata por desegni la ludon.
+STR_5877    :Programaro
+STR_5878    :Programaro (aparatara ekrano)
+STR_5879    :OpenGL (eksperimenta)
+STR_5880    :Elektita nur
+STR_5881    :Ne-elektita nur
+STR_5882    :Propra valuto
+STR_5883    :Propraj valutkonfiguroj
+STR_5884    :{WINDOW_COLOUR_2}Kurzo: 
+STR_5885    :{WINDOW_COLOUR_2}ekvivalentas al {COMMA32} GBP (£)
+STR_5886    :{WINDOW_COLOUR_2}Valuta simbolo:
+STR_5887    :Prefikso
+STR_5888    :Sufikso
+STR_5889    :Propra valuta simbolo
+STR_5890    :Entajpu la valutan simbolon por montri
+STR_5891    :Defaŭlti
+STR_5892    :{SMALLFONT}{BLACK}Iri al la defaŭla dosierujo
+STR_5893    :Kurzo
+STR_5894    :Entajpu la kurzo
+STR_5895    :Konservi Trakon
+STR_5896    :Konservado de trako malsukcesis!
+STR_5898    :{BLACK}Ne eblas ŝarĝi la trakon, la dosiero povus esti{newline}difektita, rompita aŭ mankanta!
+STR_5899    :Baskuligi fenestron por sencimigi farbon
 STR_5900    :Use original drawing code
 STR_5901    :Show segment heights
 STR_5902    :Show bounding boxes
