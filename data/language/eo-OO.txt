@@ -436,7 +436,7 @@ STR_1052    :Nevideblaj Homoj
 STR_1053    :{SMALLFONT}{BLACK}Atrakcioj en parko
 STR_1054    :{SMALLFONT}{BLACK}Nomi atrakcion
 STR_1055    :{SMALLFONT}{BLACK}Nomi homon
-STR_1056    :{SMALLFONT}{BLACK}Nomi laboriston
+STR_1056    :{SMALLFONT}{BLACK}Nomi dungiton
 STR_1057    :Nomo de atrakcio
 STR_1058    :Entajpu novan nomon por ĉi tiun atrakcion:
 STR_1059    :Ne eblas renomi atrakcion...
@@ -1082,12 +1082,12 @@ STR_1700    :Dungi novan Faktoton
 STR_1701    :Dungi novan Mekanikiston
 STR_1702    :Dungi novan Gardiston
 STR_1703    :Dungi novan Amuziston
-STR_1704    :Ne eblas dungi novan laboriston...
-STR_1705    :{SMALLFONT}{BLACK}Maldungi ĉi tiun laboriston
+STR_1704    :Ne eblas dungi novan dungiton...
+STR_1705    :{SMALLFONT}{BLACK}Maldungi ĉi tiun dungiton
 STR_1706    :{SMALLFONT}{BLACK}Movi ĉi tiun homon al nova loko
-STR_1707    :Tro da laboristoj en ludo
-STR_1708    :{SMALLFONT}{BLACK}Agordi patrolzonon de ĉi tiu laboristo
-STR_1709    :Maldungi laboriston
+STR_1707    :Tro da dungitoj en ludo
+STR_1708    :{SMALLFONT}{BLACK}Agordi patrolzonon de ĉi tiu dungito
+STR_1709    :Maldungi dungiton
 STR_1710    :Jes
 STR_1711    :{WINDOW_COLOUR_1}Ĉu vi vere volas maldungi je {STRINGID}?
 STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Balaas trotuarojn
@@ -1162,7 +1162,7 @@ STR_1786    :{INLINE_SPRITE}{05}{20}{00}{00} Astronaŭtokostumo
 STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Banditokostumo
 STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Ŝerifokostumo
 STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Piratokostumo
-STR_1790    :{SMALLFONT}{BLACK}Elekti uniformkoloron por tiaspecaj laboristoj
+STR_1790    :{SMALLFONT}{BLACK}Elekti uniformkoloron por tiaspecaj dungitoj
 STR_1791    :{WINDOW_COLOUR_2}Uniformkoloro:
 STR_1792    :Reagas al paneovoko de {STRINGID}
 STR_1793    :Iras al {STRINGID} por inspekto
@@ -1306,16 +1306,16 @@ STR_1935    :{STRINGID} foriris el la parko
 STR_1936    :{STRINGID} aĉetis {STRINGID}
 STR_1937    :{SMALLFONT}{BLACK}Montri informojn pri la subjekto de ĉi tiu mesaĝo
 STR_1938    :{SMALLFONT}{BLACK}Montri vidon de gasto
-STR_1939    :{SMALLFONT}{BLACK}Montri vidon de laboristo
+STR_1939    :{SMALLFONT}{BLACK}Montri vidon de dungito
 STR_1940    :{SMALLFONT}{BLACK}Montri feliĉecon, energion, malsatecon ktp. de ĉi tiu gasto
 STR_1941    :{SMALLFONT}{BLACK}Montri kiujn atrakciojn ĉi tiu gasto vizitis
 STR_1942    :{SMALLFONT}{BLACK}Montri financajn informojn de ĉi tiu gasto
 STR_1943    :{SMALLFONT}{BLACK}Montri lastajn pensojn de ĉi tiu gasto
 STR_1944    :{SMALLFONT}{BLACK}Montri aferojn, kiujn la gasto portas
-STR_1945    :{SMALLFONT}{BLACK}Montri komandojn kaj agordojn por ĉi tiu laboristo
+STR_1945    :{SMALLFONT}{BLACK}Montri komandojn kaj agordojn por ĉi tiu dungito
 STR_1946    :{SMALLFONT}{BLACK}Elekti kostumon de ĉi tiu amuzisto
-STR_1947    :{SMALLFONT}{BLACK}Montri la zonojn patrolatajn de la elektita laboristotipo, kaj trovi la plej proksiman laboriston
-STR_1948    :{SMALLFONT}{BLACK}Dungi novan laboriston de la elektita tipo
+STR_1947    :{SMALLFONT}{BLACK}Montri la zonojn patrolatajn de la elektita dungitotipo, kaj trovi la plej proksiman dungiton
+STR_1948    :{SMALLFONT}{BLACK}Dungi novan dungiton de la elektita tipo
 STR_1949    :Resumo de Financoj
 STR_1950    :Diagramo de Financoj
 STR_1951    :Diagramo de Parkvaloro
@@ -1694,7 +1694,7 @@ STR_2343    :Eŭro (€)
 STR_2344    :Usona mezurunua sistemo
 STR_2345    :Metra decimala sistemo
 STR_2347    :{RED}{STRINGID} dronis!
-STR_2348    :{SMALLFONT}{BLACK}Montri statistikaĵoj por ĉi tiu laboristo
+STR_2348    :{SMALLFONT}{BLACK}Montri statistikaĵoj por ĉi tiu dungito
 STR_2349    :{WINDOW_COLOUR_2}Salajro: {BLACK}po {CURRENCY} por monato
 STR_2350    :{WINDOW_COLOUR_2}Dungita: {BLACK}{MONTHYEAR}
 STR_2351    :{WINDOW_COLOUR_2}Gazonoj falĉitaj: {BLACK}{COMMA16}
@@ -2000,7 +2000,7 @@ STR_2800    :{WINDOW_COLOUR_2}Totalaj eniroj: {BLACK}{COMMA32}
 STR_2801    :{WINDOW_COLOUR_2}Enspezo pro eniroj: {BLACK}{CURRENCY2DP}
 STR_2802    :Mapo
 STR_2803    :{SMALLFONT}{BLACK}Emfazi ĉi tiujn gastojn sur mapo
-STR_2804    :{SMALLFONT}{BLACK}Emfazi ĉi tiujn laboristojn sur mapo
+STR_2804    :{SMALLFONT}{BLACK}Emfazi ĉi tiujn dungitojn sur mapo
 STR_2805    :{SMALLFONT}{BLACK}Montri mapon de parko
 STR_2806    :{RED}Gastoj plendas pri la naŭza stato de la trotuaroj en via parko{NEWLINE}Kontrolu kie estas viaj faktotoj, kaj eble organizu ilin pli bone
 STR_2807    :{RED}Gastoj plendas pri la kvanto de rubo en via parko{NEWLINE}Kontrolu kie estas viaj faktotoj, kaj eble organizu ilin pli bone
@@ -2105,9 +2105,9 @@ STR_2973    :Alternativa kolorskemo 2
 STR_2974    :Alternativa kolorskemo 3
 STR_2975    :{SMALLFONT}{BLACK}Elekti kun kiu kolorskemo ŝanĝi, aŭ farbi atrakcio
 STR_2976    :{SMALLFONT}{BLACK}Pentri unuopan areon de ĉi tiu atrakcio per la elektita kolorskemo
-STR_2977    :Nomo de laboristo
-STR_2978    :Entajpu novan nomon por ĉi tiu laboristo:
-STR_2979    :Ne eblas nomi laboriston...
+STR_2977    :Nomo de dungito
+STR_2978    :Entajpu novan nomon por ĉi tiu dungito:
+STR_2979    :Ne eblas nomi dungiton...
 STR_2980    :Tro da rubandoj en ludo
 STR_2981    :{RED}Ne eniru
 STR_2982    :Teksto de rubando
@@ -2569,7 +2569,7 @@ STR_5221    :Ŝanĝi klavarokomandon
 STR_5222    :Ŝargi/Konservi
 STR_5223    :Averti antaŭ ol konservi
 STR_5224    :Averti antaŭ ol dekonstrui atrakciojn
-STR_5225    :Averti antaŭ ol maldungi laboriston
+STR_5225    :Averti antaŭ ol maldungi dungiton
 STR_5226    :Averti antaŭ ol forigi trakon
 STR_5227    :Averti antaŭ ol anstataŭigi konservaĵon
 STR_5228    :{SMALLFONT}{BLACK}Ĉefa fasado
@@ -2643,7 +2643,7 @@ STR_5296    :{SMALLFONT}{BLACK}Fermi parkon
 STR_5297    :{SMALLFONT}{BLACK}Malfermi parkon
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
-STR_5300    :{SMALLFONT}{BLACK}Maldungi rapide laboristojn
+STR_5300    :{SMALLFONT}{BLACK}Maldungi rapide dungitojn
 STR_5301    :{MEDIUMFONT}{BLACK}Vakigi vian prunton
 STR_5302    :Vakigi prunton
 STR_5303    :Permesi konstruadon dum paŭzo
@@ -2664,7 +2664,7 @@ STR_5337    :Enirejo de parko
 STR_5338    :Tipo de elemento
 STR_5339    :{SMALLFONT}{BLACK}Baza alteco
 STR_5340    :{SMALLFONT}{BLACK}Alteco super ero
-STR_5343    :Meti aŭtomate laboristojn
+STR_5343    :Meti aŭtomate dungitojn
 STR_5344    :Ŝanĝoprotokolo
 STR_5345    :Trompoj financaj
 STR_5346    :Trompoj de gasto
