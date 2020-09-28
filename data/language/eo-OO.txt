@@ -1644,7 +1644,7 @@ STR_2288    :Nekonata
 STR_2289    :{STRINGID} {STRINGID}
 STR_2291    :Elekti scenaron por nova ludo
 STR_2292    :{WINDOW_COLOUR_2}Atrakcioj vizititaj:
-STR_2293    :{BLACK} Nenion
+STR_2293    :{BLACK} Neniun
 STR_2294    :{SMALLFONT}{BLACK}Ŝanĝi stilon de la baza tero
 STR_2295    :{SMALLFONT}{BLACK}Ŝanĝi vertikalajn flankojn de tero
 STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} elspezita por eniri parkon
@@ -1707,7 +1707,7 @@ STR_2358    :Unuoj
 STR_2359    :Faktaj Nombroj
 STR_2360    :Distingivo de Ekrano:
 STR_2361    :Glatigo de Tero
-STR_2362    :{SMALLFONT}{BLACK}Baskuligi glatigon de randoj de terokaheloj
+STR_2362    :{SMALLFONT}{BLACK}Baskuligi glatigon de randoj de teroblokoj
 STR_2363    :Kradlinioj sur Tero
 STR_2364    :{SMALLFONT}{BLACK}Baskuligi kradliniojn sur tero
 STR_2365    :La banko rifuzas pliigon de via prunto!
@@ -1742,7 +1742,7 @@ STR_2393    :{BLACK}Havi 10 malsamajn tipojn de ondaj fervojoj, kiuj funkcias en
 STR_2394    :{BLACK}Fini la konstruadon de la tutaj 5 ondaj fervojoj, kiuj estas konstruita parte. Desegni ilin, por atingi po pritakson de eksciteco ne malpli ol {POP16}{POP16}{COMMA2DP32}
 STR_2395    :{BLACK}Repagi vian prunton, kaj atingi parkvaloron ne malpli ol {POP16}{POP16}{CURRENCY}
 STR_2396    :{BLACK}Atingi profiton monatan ne malpli ol {POP16}{POP16}{CURRENCY}, pro la vendado de manĝaĵoj, trinkaĵoj, kaj komercaĵoj
-STR_2397    :Nenio
+STR_2397    :Neniu
 STR_2398    :Nombro de gastoj je certa dato
 STR_2399    :Parkvaloro je certa dato
 STR_2400    :Amuzi vin
@@ -2424,7 +2424,7 @@ STR_3332    :Parkenirejo estas renversita, aŭ ne havas vojon al la mapbordo
 STR_3333    :Eksporti proprajn objektojn kun konservitaj ludoj
 STR_3334    :{SMALLFONT}{BLACK}Elekti ĉu programo konservas datumojn de aldonaj bezonataj propraj objektoj (aldonaj datumoj, kiuj ne estas provizitaj per la ĉefa produktaĵo) en dosierojn de konservitaj ludoj aŭ scenaroj. Se jes, iu, kiu ne havas la aldonajn objektodatumojn, povas ŝargi ludon
 STR_3335    :Trakdesegnilo - Elekti Tipojn de Atrakcioj k Veturiloj
-STR_3336    :Administrilo de Trakdesegnaĵoj - Elekti la Tipon de la Atrakcio
+STR_3336    :Administrilo de Trakdesegnaĵoj - Elekti Tipon de Atrakcio
 STR_3338    :{BLACK}Propra desegnaĵo
 STR_3339    :{BLACK}{COMMA16} desegnaĵo estas disponebla, aŭ uzu propran desegnaĵon
 STR_3340    :{BLACK}{COMMA16} desegnaĵoj estas disponebla, aŭ uzu propran desegnaĵon
@@ -2623,7 +2623,7 @@ STR_5276    :Entajpu la nomon de objekto serĉata
 STR_5277    :Vakigi
 STR_5278    :Ŝalti provejo-reĝimon
 STR_5279    :Malŝalti provejo-reĝimon
-STR_5280    :{SMALLFONT}{BLACK}Permesi redaktadon de rajtoj de bieno per la Map-fenestro kaj aliaj agordoj kiuj normale estas limigitaj al la Redaktilo de Scenaro
+STR_5280    :{SMALLFONT}{BLACK}Permesi redaktadon de proprieto de bieno per la Map-fenestro kaj aliaj agordoj kiuj normale estas limigitaj al la Redaktilo de Scenaro
 STR_5281    :{SMALLFONT}{BLACK}Funkcioj
 STR_5282    :Uzi RCT1 lumojn por ŝalti/malŝalti atrakciojn
 STR_5283    :Uzi RCT1 lumojn por ŝalti/malŝalti parkon
@@ -2899,7 +2899,7 @@ STR_5578    :Rusa Rublo (₽)
 STR_5579    :Skalo de fenestro:
 STR_5580    :Ĉeĥia Krono (Kč)
 STR_5581    :Montri bildrapidon
-STR_5582    :Kapti muskursoron en fenestro
+STR_5582    :Kapti musmontrilon en fenestro
 STR_5583    :{COMMA1DP16} m/s
 STR_5584    :SI
 STR_5585    :{SMALLFONT}{BLACK}Malŝlosas limojn de funkciado de atrakcioj, kio permesos aferojn kiel {VELOCITY} liftmontetoj
@@ -3177,67 +3177,67 @@ STR_5895    :Konservi Trakon
 STR_5896    :Konservado de trako malsukcesis!
 STR_5898    :{BLACK}Ne eblas ŝarĝi la trakon, la dosiero povus esti{newline}difektita, rompita aŭ mankanta!
 STR_5899    :Baskuligi fenestron por sencimigi farbon
-STR_5900    :Use original drawing code
-STR_5901    :Show segment heights
-STR_5902    :Show bounding boxes
-STR_5903    :Show paint debug window
-STR_5904    :Reset date
-STR_5905    :{SMALLFONT}{BLACK}A map generation tool that automatically creates a custom landscape
-STR_5906    :Zoom to cursor position
-STR_5907    :{SMALLFONT}{BLACK}When enabled, zooming in will centre around the cursor, as opposed to the screen centre.
-STR_5908    :Allow arbitrary ride type changes
-STR_5909    :{SMALLFONT}{BLACK}Allows changing ride type freely. May cause crashes.
-STR_5910    :Apply
+STR_5900    :Uzi originalan desegnokodon
+STR_5901    :Montri altojn de segmento
+STR_5902    :Montri limigajn kestojn
+STR_5903    :Montri fenestron por sencimigi farbon
+STR_5904    :Restarigi daton
+STR_5905    :{SMALLFONT}{BLACK}Mapogenerilo, kiu aŭtomate kreas propran pejzaĝon
+STR_5906    :Zomi al pozicio de musmontrilo
+STR_5907    :{SMALLFONT}{BLACK}Kiam ŝaltita, zomi en centros ĉirkaŭ la musmontrilo, male al la ekrana centro.
+STR_5908    :Permesi arbitrajn ŝanĝojn al atrakciotipoj
+STR_5909    :{SMALLFONT}{BLACK}Permesas ŝanĝi atrakciotipon libere. Povas kaŭzi programkolapsojn.
+STR_5910    :Apliki
 STR_5911    :Travideblaj Trotuaroj
-STR_5912    :Baskuligi la travideblon de la trotuaroj
-STR_5913    :Chat
-STR_5914    :Unknown ride
-STR_5915    :Player
-STR_5916    :{COMMA16} player
-STR_5917    :{COMMA16} players
+STR_5912    :Travideblaj trotuaroj baskuligi
+STR_5913    :Babilo
+STR_5914    :Nekonata atrakcio
+STR_5915    :Ludanto
+STR_5916    :{COMMA16} ludanto
+STR_5917    :{COMMA16} ludantoj
 STR_5918    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_5919    :{COMMA16}
-STR_5920    :Render weather effects
-STR_5921    :{SMALLFONT}{BLACK}If enabled, rain and gloomy colours will be rendered during storms.
-STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Max {STRINGID}
-STR_5923    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Max {COMMA16} {STRINGID} per train
-STR_5924    :Surface details
-STR_5925    :Path details
-STR_5926    :Track details
-STR_5927    :Scenery details
-STR_5928    :Entrance details
-STR_5929    :Wall details
-STR_5930    :Large scenery details
-STR_5931    :Banner details
-STR_5932    :Corrupt element details
-STR_5933    :Properties
-STR_5934    :{WINDOW_COLOUR_2}Terrain texture: {BLACK}{STRINGID}
-STR_5935    :{WINDOW_COLOUR_2}Terrain edge: {BLACK}{STRINGID}
-STR_5936    :{WINDOW_COLOUR_2}Land ownership: {BLACK}{STRINGID}
-STR_5937    :Not owned and not for sale
-STR_5938    :{WINDOW_COLOUR_2}Water level: {BLACK}{COMMA16}
-STR_5939    :Remove park fences
-STR_5940    :Restore park fences
-STR_5941    :{WINDOW_COLOUR_2}Base height:
-STR_5942    :{WINDOW_COLOUR_2}Path name: {BLACK}{STRINGID}
-STR_5943    :{WINDOW_COLOUR_2}Additions: {BLACK}{STRINGID}
-STR_5944    :{WINDOW_COLOUR_2}Additions: {BLACK}None
-STR_5945    :{WINDOW_COLOUR_2}Connected edges:
-STR_5946    :{WINDOW_COLOUR_2}Ride type: {BLACK}{STRINGID}
-STR_5947    :{WINDOW_COLOUR_2}Ride ID: {BLACK}{COMMA16}
-STR_5948    :{WINDOW_COLOUR_2}Ride name: {BLACK}{STRINGID}
-STR_5949    :{WINDOW_COLOUR_2}Chain lift
-STR_5950    :{WINDOW_COLOUR_2}Apply changes to entire track piece
-STR_5951    :{WINDOW_COLOUR_2}Track piece ID: {BLACK}{COMMA16}
-STR_5952    :{WINDOW_COLOUR_2}Sequence number: {BLACK}{COMMA16}
-STR_5953    :{SMALLFONT}{BLACK}Sort the map elements on the current tile based on their base height.
-STR_5954    :{WINDOW_COLOUR_2}Scenery age: {BLACK}{COMMA16}
-STR_5955    :{WINDOW_COLOUR_2}Quadrant placement: {BLACK}{STRINGID}
-STR_5956    :Southwest
-STR_5957    :Northwest
-STR_5958    :Northeast
-STR_5959    :Southeast
-STR_5960    :{WINDOW_COLOUR_2}Quadrant placement:
+STR_5920    :Bildigi veterefektoj
+STR_5921    :{SMALLFONT}{BLACK}Se ŝaltita, pluvo kaj mallumaj koloroj bildigos dum ŝtormoj.
+STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Maks. {STRINGID}
+STR_5923    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{SMALLFONT}{BLACK}Maks. po {COMMA16} {STRINGID} por trajno
+STR_5924    :Detaloj de surfaco
+STR_5925    :Detaloj de vojoj
+STR_5926    :Detaloj de trako
+STR_5927    :Detaloj de pejzaĵo
+STR_5928    :Detaloj de enirejo
+STR_5929    :Detaloj de muro
+STR_5930    :Detaloj de granda pejzaĵo
+STR_5931    :Detaloj de standardo
+STR_5932    :Detaloj de difektita elemento
+STR_5933    :Ecoj
+STR_5934    :{WINDOW_COLOUR_2}Teksturo de tereno: {BLACK}{STRINGID}
+STR_5935    :{WINDOW_COLOUR_2}Flanko de tereno: {BLACK}{STRINGID}
+STR_5936    :{WINDOW_COLOUR_2}Proprieto de bieno: {BLACK}{STRINGID}
+STR_5937    :Ne estas posedata kaj ne aĉetebla
+STR_5938    :{WINDOW_COLOUR_2}Akvonivelo: {BLACK}{COMMA16}
+STR_5939    :Forigi parkobarilojn
+STR_5940    :Restaŭri parkobarilojn
+STR_5941    :{WINDOW_COLOUR_2}Baza alteco:
+STR_5942    :{WINDOW_COLOUR_2}Dosierindiko: {BLACK}{STRINGID}
+STR_5943    :{WINDOW_COLOUR_2}Adicioj: {BLACK}{STRINGID}
+STR_5944    :{WINDOW_COLOUR_2}Adicioj: {BLACK}Neniu
+STR_5945    :{WINDOW_COLOUR_2}Kunligitaj randoj:
+STR_5946    :{WINDOW_COLOUR_2}Tipo de atrakcio: {BLACK}{STRINGID}
+STR_5947    :{WINDOW_COLOUR_2}Identigilo de atrakcio: {BLACK}{COMMA16}
+STR_5948    :{WINDOW_COLOUR_2}Nomo de atrakcio: {BLACK}{STRINGID}
+STR_5949    :{WINDOW_COLOUR_2}Ĉenlifto
+STR_5950    :{WINDOW_COLOUR_2}Apliki ŝanĝojn al tuta trakero
+STR_5951    :{WINDOW_COLOUR_2}Identigilo de trakero: {BLACK}{COMMA16}
+STR_5952    :{WINDOW_COLOUR_2}Sinsekvonumero: {BLACK}{COMMA16}
+STR_5953    :{SMALLFONT}{BLACK}Ordigi la mapelementojn sur la nuna bloko laŭ ilia baza alteco.
+STR_5954    :{WINDOW_COLOUR_2}Aĝo de pejzaĵo: {BLACK}{COMMA16}
+STR_5955    :{WINDOW_COLOUR_2}Lokado de kvadranto: {BLACK}{STRINGID}
+STR_5956    :Sudokcidento
+STR_5957    :Nordokcidento
+STR_5958    :Nordoriento
+STR_5959    :Sudoriento
+STR_5960    :{WINDOW_COLOUR_2}Lokado de kvadranto:
 STR_5961    :{WINDOW_COLOUR_2}Entry index: {BLACK}{COMMA16}
 STR_5962    :{WINDOW_COLOUR_2}Collision detection:
 STR_5963    :{WINDOW_COLOUR_2}Raised Corners:
