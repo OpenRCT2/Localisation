@@ -3376,100 +3376,100 @@ STR_6095    :{STRING} edited scenery.
 STR_6096    :{STRING} set sign name to '{STRING}'.
 STR_6097    :{STRING} placed a track of ride '{STRING}'.
 STR_6098    :{STRING} removed a track of ride.
-STR_6099    :You connected to the server.
-STR_6100    :You disconnected from the server.
-STR_6101    :Rides don't decrease in value over time
-STR_6102    :{SMALLFONT}{BLACK}The value of a ride won't decrease over time, so guests will not suddenly think that a ride is too expensive.
-STR_6103    :{SMALLFONT}{BLACK}This option is disabled during network play.
-STR_6105    :Hypercoaster
-STR_6107    :Monster Trucks
-STR_6109    :Hyper-Twister
-STR_6111    :Classic Mini Roller Coaster
-STR_6113    :A tall non-inverting roller coaster with large drops, high speed, and comfortable trains with only lap bar restraints
-STR_6115    :Powered giant 4 x 4 trucks which can climb steep slopes
-STR_6116    :Wide roller coaster trains glide along smooth steel track, travelling through a variety of inversions
-STR_6119    :A cheap and easy to build roller coaster, but with a limited height
-STR_6120    :{BABYBLUE}New vehicle now available for {STRINGID}:{NEWLINE}{STRINGID}
-STR_6121    :{SMALLFONT}{BLACK}Extends the park's land rights all the way to the edges of the map
-STR_6122    :There are not enough roller coasters in this scenario!
-STR_6123    :Error loading objects for park
-STR_6124    :Object name
-STR_6125    :Object type
-STR_6126    :Unknown type
-STR_6127    :File: {STRING}
-STR_6128    :The file could not be loaded as some of the objects referenced in it are missing or corrupt. A list of these objects is given below.
-STR_6129    :Copy
-STR_6130    :Copy all
-STR_6131    :Object source
-STR_6132    :Ignore research status
-STR_6133    :{SMALLFONT}{BLACK}Access rides and scenery that have not yet been invented
-STR_6134    :Clear Scenery
-STR_6135    :Client sent invalid request
-STR_6136    :Server sent invalid request
-STR_6137    :OpenRCT2, a free and open source clone of Roller Coaster Tycoon 2.
-STR_6138    :OpenRCT2 is the work of many authors, a full list can be found in “contributors.md”. For more information, visit http://github.com/OpenRCT2/OpenRCT2
-STR_6139    :All product and company names belong to their respective holders. Use of them does not imply any affiliation with or endorsement by them.
-STR_6140    :Changelog...
-STR_6141    :RCT1 Bottom Toolbar
-STR_6142    :{WINDOW_COLOUR_2}Track name: {BLACK}{STRING}
-STR_6143    :{WINDOW_COLOUR_2}Ride type: {BLACK}{STRINGID}
-STR_6144    :Show dirty visuals
-STR_6145    :{SMALLFONT}{BLACK}Set speed limit for boosters
-STR_6146    :Enable all drawable track pieces
-STR_6147    :{SMALLFONT}{BLACK}Enables all track pieces the ride type is capable of in the construction window, regardless of whether the vehicle supports them.
-STR_6148    :Connecting to master server...
-STR_6149    :Unable to connect to master server
-STR_6150    :Invalid response from master server (no JSON number)
-STR_6151    :Master server failed to return servers
-STR_6152    :Invalid response from master server (no JSON array)
-STR_6153    :Pay to enter park / Pay per ride
-STR_6154    :For security reasons, it is not recommended to run OpenRCT2 with elevated permissions.
-STR_6155    :Neither KDialog nor Zenity are installed. Please install one, or configure from the command line.
-STR_6156    :Name is reserved
-STR_6157    :Console
-STR_6158    :Failed to load this file...{NEWLINE}Incompatible RCTC version: {COMMA16}
-STR_6159    :Smooth Nearest Neighbour
-STR_6160    :{WINDOW_COLOUR_2}Available vehicles: {BLACK}{STRING}
-STR_6161    :Gridlines display toggle
-STR_6162    :Spinning Wild Mouse
-STR_6163    :Mouse shaped cars speed through tight corners and short drops, gently spinning around to disorientate the riders
+STR_6099    :Vi aliĝis al la servilo.
+STR_6100    :Vi malaliĝis de la servilo.
+STR_6101    :La valoro de atrakcioj ne malpliiĝas tempe
+STR_6102    :{SMALLFONT}{BLACK}La valoro de atrakcio ne malpliiĝas tempe, do gastoj ne subite pensos, ke atrakcio estas tro multekosta.
+STR_6103    :{SMALLFONT}{BLACK}Ĉi tiu opcio estas malŝaltita dum reĝimo plurludanta.
+STR_6105    :Hipergiganta Onda Fervojo
+STR_6107    :Monstraj Kamionoj
+STR_6109    :Hiper-Tvisto
+STR_6111    :Klasika Miniatura Onda Fervojo
+STR_6113    :Alta onda fervojoj kun neniu inversigo, kiu havas grandajn malaltiĝojn, altan rapidecon, kaj komfortajn trajnojn kun nur sinobridoj
+STR_6115    :Ŝaltitaj gigantaj 4 x 4 kamionoj, kiuj povas eskaladi krutajn deklivecojn
+STR_6116    :Larĝaj ĉaroj de la onda fervojo glisas laŭ glata ŝtala trako kaj veturas trans diversaj inversigoj
+STR_6119    :Onda fervojoj malmultekosta, kiu estas facila por konstrui, sed ankaŭ havas limigitan altecon
+STR_6120    :{BABYBLUE}Nova veturilo nun disponeblas por {STRINGID}:{NEWLINE}{STRINGID}
+STR_6121    :{SMALLFONT}{BLACK}Etendi la rajtojn de bieno de la parko al la mapbordoj
+STR_6122    :Ne estas sufiĉe da ondaj fervojoj en ĉi tiu scenaro!
+STR_6123    :Eraro dum la ŝargado de parkobjektojn
+STR_6124    :Objektonomo
+STR_6125    :Objektotipo
+STR_6126    :Nekonata tipo
+STR_6127    :Dosiero: {STRING}
+STR_6128    :La dosiero ne ŝargeblas, ĉar iuj objektoj en ĝi estas mankantaj aŭ koruptitaj. La listo de tiuj objektoj estas prezentita malsupere.
+STR_6129    :Kopii
+STR_6130    :Kopii ĉiujn
+STR_6131    :Objektofonto
+STR_6132    :Ignori la staton de esplorado
+STR_6133    :{SMALLFONT}{BLACK}Atingi atrakciojn kaj pejzaĝon, kiuj ne estis jam inventitaj
+STR_6134    :Vakigi Pejzaĝon
+STR_6135    :Kliento sendis nevalidan peton
+STR_6136    :Servilo sendis nevalidan peton
+STR_6137    :OpenRCT2 estas libera kaj malfermitkoda klono de Roller Coaster Tycoon 2.
+STR_6138    :OpenRCT2 estas la verko de multaj aŭtoroj, kompleta listo troviĝas al “contributors.md”. Por pli da informaĵoj, vizitu http://github.com/OpenRCT2/OpenRCT2
+STR_6139    :Ĉiuj produktonomoj kaj firmnomoj apartenas al iliaj respektivaj posedantoj. La uzo de ili ne signifas iun ajn filion kun aŭ endosaĵon de ili.
+STR_6140    :Ŝanĝoprotokolo...
+STR_6141    :RCT1 Malsupra Ilobreto
+STR_6142    :{WINDOW_COLOUR_2}Trakonomo: {BLACK}{STRING}
+STR_6143    :{WINDOW_COLOUR_2}Atrakciotipo: {BLACK}{STRINGID}
+STR_6144    :Montri senpolurajn bildojn
+STR_6145    :{SMALLFONT}{BLACK}Agordi rapidlimon de plirapidigiloj
+STR_6146    :Ŝalti ĉiujn desegneblajn trakerojn
+STR_6147    :{SMALLFONT}{BLACK}Ŝalti ĉiujn trakerojn, kiujn la atrakciotipo povas havi, en la fenestro de konstruado, eĉ se la veturilo ne subtenas ilin.
+STR_6148    :Konektas al la ĉefa servilo...
+STR_6149    :Ne eblas konekti al la ĉefa servilo
+STR_6150    :Nevalida respondo de la ĉefa servilo (neniu JSON-numero)
+STR_6151    :Ĉefa servilo ne eblis respondi kun servilolisto
+STR_6152    :Nevalida respondo de la ĉefa servilo (neniu JSON-tabelo)
+STR_6153    :Pagi por eniri la parkon / Pagi por ĉiu atrakcio
+STR_6154    :Pro kialoj sekurigaj, ne estas rekomendita por lanĉi OpenRCT2 kun permesoj administrantecaj.
+STR_6155    :Nek KDialog nek Zenity estas instalita. Bonvolu instali unu, aŭ agordu de la komanda linio.
+STR_6156    :Nomo estas reservita
+STR_6157    :Konzolo
+STR_6158    :Ne eblas ŝargi ĉi tiun dosieron...{NEWLINE}Malkongrua RCTC versio: {COMMA16}
+STR_6159    :Ebena plej proksima najbaro
+STR_6160    :{WINDOW_COLOUR_2}Veturiloj disponeblaj: {BLACK}{STRING}
+STR_6161    :Baskulilo de montrado de kradlinioj
+STR_6162    :Turniĝanta Sovaĝa Muso
+STR_6163    :Musoformaj ĉaroj rapidiras trans subitaj anguloj kaj mallongaj malaltiĝoj, milde turniĝante por malorientigi la gastojn
 STR_6164    :{WHITE}❌
-STR_6165    :Use vertical sync
-STR_6166    :{SMALLFONT}{BLACK}Synchronises each frame displayed to the monitor's refresh rate, preventing screen tearing.
-STR_6167    :{SMALLFONT}{BLACK}Advanced
-STR_6168    :Title Sequence
-STR_6169    :Scenario selection
-STR_6170    :Interface Tweaks
-STR_6171    :Search
-STR_6172    :{SMALLFONT}{BLACK}Search
-STR_6173    :Please provide the name to search:
-STR_6174    :Load Save
-STR_6175    :Load Scenario
-STR_6176    :Scenario to load:
-STR_6177    :Load{MOVE_X}{87}No scenario selected
-STR_6178    :Load{MOVE_X}{87}{RED}Missing scenario
-STR_6179    :Select
-STR_6180    :No scenario selected
-STR_6181    :{RED}Missing scenario
-STR_6182    :Follow{MOVE_X}{87}{STRING}
-STR_6183    :Follow{MOVE_X}{87}No sprite selected
-STR_6184    :Follow Sprite
-STR_6185    :Select Sprite
-STR_6186    :No sprite selected
+STR_6165    :Uzi vertikalan sinkronigon
+STR_6166    :{SMALLFONT}{BLACK}Sinkronigi ĉiun kadron montritan laŭ la ofteco de aktualigo de la ekrano por preventi ŝiron de la ekrano.
+STR_6167    :{SMALLFONT}{BLACK}Altnivela
+STR_6168    :Titolosekvenco
+STR_6169    :Elektado de Scenaro
+STR_6170    :Agordi la Interfacon
+STR_6171    :Serĉi
+STR_6172    :{SMALLFONT}{BLACK}Serĉi
+STR_6173    :Bonvolu entajpi la nomon por serĉi:
+STR_6174    :Ŝargi konservaĵon
+STR_6175    :Ŝargi scenaron
+STR_6176    :Scenaro por ŝargi:
+STR_6177    :Ŝargi{MOVE_X}{87}Neniu scenaro elektita
+STR_6178    :Ŝargi{MOVE_X}{87}{RED}Scenaro mankanta
+STR_6179    :Elekti
+STR_6180    :Neniu scenaro elektita
+STR_6181    :{RED}Mankanta scenaro
+STR_6182    :Sekvi{MOVE_X}{87}{STRING}
+STR_6183    :Sekvi{MOVE_X}{87}Neniu rastrumeto elektita
+STR_6184    :Sekvi rastrumeton
+STR_6185    :Elekti rastrumeton
+STR_6186    :Neniu rastrumeto elektita
 STR_6187    :{MEDIUMFONT}{OUTLINE}{WINDOW_COLOUR_2}{STRING}
-STR_6188    :Vomit
-STR_6189    :Duck
-STR_6190    :{SMALLFONT}{BLACK}You cannot select a sprite while the main title screen is active.
-STR_6191    :Surface
-STR_6192    :Wall
-STR_6193    :{COMMA16} guest
-STR_6194    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} guest
-STR_6195    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} guest
-STR_6196    :{BLACK}Year:
-STR_6197    :{BLACK}Month:
-STR_6198    :{BLACK}Day:
-STR_6199    :Set date
-STR_6200    :Reset date
+STR_6188    :Vomaĵo
+STR_6189    :Anaso
+STR_6190    :{SMALLFONT}{BLACK}Vi ne eblas elekti rastrumeton dum la ĉefa titloekrano estas aktiva.
+STR_6191    :Surfaco
+STR_6192    :Muro
+STR_6193    :{COMMA16} gasto
+STR_6194    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} gasto
+STR_6195    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} gasto
+STR_6196    :{BLACK}Jaro:
+STR_6197    :{BLACK}Monato:
+STR_6198    :{BLACK}Tago:
+STR_6199    :Agordi la daton
+STR_6200    :Rekomencigi la daton
 STR_6201    :{MONTH}
 STR_6202    :Virtual floor style:
 STR_6203    :{SMALLFONT}{BLACK}When enabled, a virtual floor will be rendered when holding Ctrl or Shift to ease vertical placement of elements.
