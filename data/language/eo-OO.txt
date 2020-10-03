@@ -3527,118 +3527,118 @@ STR_6268    :Advance to next tick
 STR_6269    :Invalid climate ID
 STR_6270    :Terrain Surfaces
 STR_6271    :Terrain Edges
-STR_6272    :Stations
-STR_6273    :Music
-STR_6274    :Can't set colour scheme...
-STR_6275    :{WINDOW_COLOUR_2}Station style:
-STR_6276    :{RED}{STRINGID} has guests getting stuck, possibly due to invalid ride type or operating mode.
-STR_6277    :{WINDOW_COLOUR_2}Station index: {BLACK}{STRINGID}
-STR_6278    :Autosave amount
-STR_6279    :{SMALLFONT}{BLACK}Number of autosaves that should be kept
-STR_6280    :{SMALLFONT}{BLACK}Chat
-STR_6281    :{SMALLFONT}{BLACK}Show a separate button for the Chat window in the toolbar
-STR_6282    :Chat
-STR_6283    :Chat not available at this time. Are you connected to a server?
-STR_6284    :Network
-STR_6285    :Network Information
-STR_6286    :Receive
-STR_6287    :Send
-STR_6288    :Total received
-STR_6289    :Total sent
-STR_6290    :Base protocol
-STR_6291    :Commands
-STR_6292    :Map
+STR_6272    :Stacioj
+STR_6273    :Muziko
+STR_6274    :Ne eblas agordi kolorskemon...
+STR_6275    :{WINDOW_COLOUR_2}Staciostilo:
+STR_6276    :{RED}{STRINGID} havas gastojn staŭlitajn, eble pro nevalida atrakciotipo aŭ reĝimo de funkciiado.
+STR_6277    :{WINDOW_COLOUR_2}Stacioindekso: {BLACK}{STRINGID}
+STR_6278    :Kiomo por aŭtokonservi
+STR_6279    :{SMALLFONT}{BLACK}Nombro de aŭtokonservaĵoj por konservi
+STR_6280    :{SMALLFONT}{BLACK}Babili
+STR_6281    :{SMALLFONT}{BLACK}Montri apartan butonon por la fenestro Babilejo en la ilobreto
+STR_6282    :Babilejo
+STR_6283    :Babilejo ne disponeblas jam nun. Ĉu vi konektis al servilo?
+STR_6284    :Reto
+STR_6285    :Retinformaĵo
+STR_6286    :Ricevi
+STR_6287    :Sendi
+STR_6288    :Totalo ricevita
+STR_6289    :Totalo sendita
+STR_6290    :Baza protokolo
+STR_6291    :Komandoj
+STR_6292    :Mapo
 STR_6293    :B
 STR_6294    :KiB
 STR_6295    :MiB
 STR_6296    :GiB
 STR_6297    :TiB
-STR_6298    :{STRING}/sec
-STR_6299    :Download all
-STR_6300    :{SMALLFONT}{BLACK}Download all missing objects if available online.
-STR_6301    :{SMALLFONT}{BLACK}Copy the selected object name to the clipboard.
-STR_6302    :{SMALLFONT}{BLACK}Copy the entire list of missing objects to the clipboard.
-STR_6303    :Downloading object ({COMMA16} / {COMMA16}): [{STRING}]
-STR_6304    :Open scenery picker
-STR_6305    :Multithreading
-STR_6306    :{SMALLFONT}{BLACK}Experimental option to use multiple threads to render, may cause instability.
-STR_6307    :Colour scheme: {BLACK}{STRINGID}
+STR_6298    :{STRING} sekunde
+STR_6299    :Elŝuti ĉiujn
+STR_6300    :{SMALLFONT}{BLACK}Elŝuti ĉiujn mankantajn objektojn, kiuj disponeblas interrete.
+STR_6301    :{SMALLFONT}{BLACK}Kopii la elektitan objektonomon al la tondujo.
+STR_6302    :{SMALLFONT}{BLACK}Kopii la tutan liston de mankantaj objektoj al la tondujo.
+STR_6303    :Elŝuti objekton ({COMMA16} / {COMMA16}): [{STRING}]
+STR_6304    :Malfermi la elektilon de pejzaĝo
+STR_6305    :Disfadenigo
+STR_6306    :{SMALLFONT}{BLACK}Opcio eksperimenta por uzi multoblajn fadenojn por bildiĝi. Povas kaŭzi nestabilecon.
+STR_6307    :Kolorskemo: {BLACK}{STRINGID}
 STR_6308    :“{STRINGID}{OUTLINE}{TOPAZ}”{NEWLINE}{STRINGID}
-STR_6309    :Reconnect
-STR_6310    :{WINDOW_COLOUR_2}Position: {BLACK}{INT32} {INT32} {INT32}
-STR_6311    :{WINDOW_COLOUR_2}Next: {BLACK}{INT32} {INT32} {INT32}
-STR_6312    :(surface)
-STR_6313    :(slope {INT32})
-STR_6314    :{WINDOW_COLOUR_2}Dest: {BLACK}{INT32}, {INT32} tolerance {INT32}
-STR_6315    :{WINDOW_COLOUR_2}Pathfind Goal: {BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
-STR_6316    :{WINDOW_COLOUR_2}Pathfind history:
+STR_6309    :Rekonektiĝi
+STR_6310    :{WINDOW_COLOUR_2}Pozicio: {BLACK}{INT32} {INT32} {INT32}
+STR_6311    :{WINDOW_COLOUR_2}Sekva: {BLACK}{INT32} {INT32} {INT32}
+STR_6312    :(surfaco)
+STR_6313    :(deklivo {INT32})
+STR_6314    :{WINDOW_COLOUR_2}Celzono: {BLACK}{INT32}, {INT32} tolero {INT32}
+STR_6315    :{WINDOW_COLOUR_2}Celo de vojotrovo: {BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
+STR_6316    :{WINDOW_COLOUR_2}Historio de vojotrovo:
 STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
-STR_6318    :Network desync detected.{NEWLINE}Log file: {STRING}
-STR_6319    :{WINDOW_COLOUR_2}Block Brake Closed
-STR_6320    :{WINDOW_COLOUR_2}Indestructible
-STR_6321    :{WINDOW_COLOUR_2}Addition is broken
-STR_6322    :{WINDOW_COLOUR_2}Sprite Id: {BLACK}{INT32}
-STR_6323    :Simulating
-STR_6324    :Simulate
-STR_6325    :{SMALLFONT}{BLACK}Simulate ride/attraction
-STR_6326    :Can't simulate {POP16}{POP16}{POP16}{STRINGID}...
-STR_6327    :Transparent background for giant screenshots
-STR_6328    :{SMALLFONT}{BLACK}With this option enabled, giant screenshots will have a transparent background instead of the default black colour.
+STR_6318    :Dissinkronigo de reto detektita.{NEWLINE}Protokola dosiero: {STRING}
+STR_6319    :{WINDOW_COLOUR_2}Bremso de Blokparto Fermita
+STR_6320    :{WINDOW_COLOUR_2}Nemalkonstruebla
+STR_6321    :{WINDOW_COLOUR_2}Aldonaĵo difektas
+STR_6322    :{WINDOW_COLOUR_2}ID de rastrumeto: {BLACK}{INT32}
+STR_6323    :Simulas
+STR_6324    :Simuli
+STR_6325    :{SMALLFONT}{BLACK}Simuli atrakcion
+STR_6326    :Ne eblas simuli je {POP16}{POP16}{POP16}{STRINGID}...
+STR_6327    :Transvidebla fono por gigantaj ekranokopioj
+STR_6328    :{SMALLFONT}{BLACK}Ŝalti tiun opcion por lasi, ke gigantaj ekranokopioj havas transvideblan fonon anstataŭ la defaŭlta nigra koloro.
 STR_6329    :{STRING}{STRINGID}
-STR_6330    :Downloading [{STRING}] from {STRING} ({COMMA16} / {COMMA16})
-STR_6331    :Create Ducks
-STR_6332    :Remove Ducks
-STR_6333    :Increase scale factor
-STR_6334    :Decrease scale factor
-STR_6335    :Tile Inspector: Insert corrupt element
-STR_6336    :Tile Inspector: Copy element
-STR_6337    :Tile Inspector: Paste element
-STR_6338    :Tile Inspector: Delete element
-STR_6339    :Tile Inspector: Move element up
-STR_6340    :Tile Inspector: Move element down
-STR_6341    :Tile Inspector: Increase X coordinate
-STR_6342    :Tile Inspector: Decrease X coordinate
-STR_6343    :Tile Inspector: Increase Y coordinate
-STR_6344    :Tile Inspector: Decrease Y coordinate
-STR_6345    :Tile Inspector: Increase element height
-STR_6346    :Tile Inspector: Decrease element height
-STR_6347    :Path additions cannot be placed on level crossings!
-STR_6348    :Remove level crossing first!
-STR_6349    :Random title sequence
-STR_6350    :Scatter
-STR_6351    :Scenery Scatter Tool
-STR_6352    :Density
-STR_6353    :{SMALLFONT}{BLACK}Low density
-STR_6354    :{SMALLFONT}{BLACK}Medium density
-STR_6355    :{SMALLFONT}{BLACK}High density
-STR_6356    :{SMALLFONT}{BLACK}Spawns ducks if park contains water
-STR_6357    :{SMALLFONT}{BLACK}Removes all ducks from the map
-STR_6358    :Page {UINT16}
-STR_6359    :{POP16}{POP16}Page {UINT16}
+STR_6330    :Elŝutas [{STRING}] de {STRING} ({COMMA16} / {COMMA16})
+STR_6331    :Krei Anasojn
+STR_6332    :Forigi Anasojn
+STR_6333    :Pliigi skalfaktoron
+STR_6334    :Malpliigi skalfaktoron
+STR_6335    :Inspektilo de Kahelo: Enmeti eron koruptitan
+STR_6336    :Inspektilo de Kahelo: Kopii eron
+STR_6337    :Inspektilo de Kahelo: Alglui eron
+STR_6338    :Inspektilo de Kahelo: Forigi eron
+STR_6339    :Inspektilo de Kahelo: Movi eron supren
+STR_6340    :Inspektilo de Kahelo: Movi eron malsupren
+STR_6341    :Inspektilo de Kahelo: Pliigi X koordinaton
+STR_6342    :Inspektilo de Kahelo: Malpliigi X koordinaton
+STR_6343    :Inspektilo de Kahelo: Pliigi Y koordinaton
+STR_6344    :Inspektilo de Kahelo: Malpliigi Y koordinaton
+STR_6345    :Inspektilo de Kahelo: Pliigi altecon de ero
+STR_6346    :Inspektilo de Kahelo: Malpliigi altecon de ero
+STR_6347    :Diversaĵoj por trotuaroj ne meteblas sur traknivelajn pasejojn!
+STR_6348    :Unue forigu la traknivelan pasejon!
+STR_6349    :Hazarda titolosekvenco
+STR_6350    :Dispersi
+STR_6351    :Dispersilo de pejzaĝo
+STR_6352    :Denseco
+STR_6353    :{SMALLFONT}{BLACK}Malalta denseco
+STR_6354    :{SMALLFONT}{BLACK}Meza denseco
+STR_6355    :{SMALLFONT}{BLACK}Alta denseco
+STR_6356    :{SMALLFONT}{BLACK}Generi anasojn se la parko enhavas akvon
+STR_6357    :{SMALLFONT}{BLACK}Forigi ĉiujn anasojn de la mapo
+STR_6358    :Paĝo {UINT16}
+STR_6359    :{POP16}{POP16}Paĝo {UINT16}
 STR_6360    :{SMALLFONT}{BLACK}{COMMA32}
-STR_6361    :Enable lighting effects on rides (experimental)
-STR_6362    :{SMALLFONT}{BLACK}If enabled, vehicles for tracked rides will be lit up at night.
-STR_6363    :Copied text to clipboard
-STR_6364    :{RED}{COMMA16} person has died in an accident on {STRINGID}
-STR_6365    :Ride casualties
-STR_6366    :Stuck or stalled vehicles
-STR_6367    :{WINDOW_COLOUR_2}Animation frame:
-STR_6368    :For compatibility reasons, it is not recommended to run OpenRCT2 with Wine. OpenRCT2 has native support for macOS, Linux, FreeBSD and OpenBSD.
-STR_6369    :Allow building track at invalid heights
-STR_6370    :{SMALLFONT}{BLACK}Allows placing track pieces at any height interval
-STR_6371    :The specified path contains a RollerCoaster Tycoon 1 installation, but the “csg1i.dat” file is missing. This file needs to be copied from the RollerCoaster Tycoon 1 CD to the “Data” folder of the RollerCoaster Tycoon 1 install on your hard drive.
-STR_6372    :The specified path contains a RollerCoaster Tycoon 1 installation, but this version is not suitable. OpenRCT2 needs a Loopy Landscapes or RCT Deluxe install in order to use RollerCoaster Tycoon 1 assets.
-STR_6373    :Toggle clearance checks
-STR_6374    :C
-STR_6375    :Unknown Ride
-STR_6376    :{WINDOW_COLOUR_2}Ride vehicle:{NEWLINE}{BLACK}{STRINGID} for {STRINGID}
-STR_6377    :{WINDOW_COLOUR_2}Type: {BLACK}{STRINGID} for {STRINGID}
-STR_6378    :Receiving objects list: {INT32} / {INT32}
-STR_6379    :Received invalid data
-STR_6380    :Update available!
-STR_6381    :Join OpenRCT2 Discord!
-STR_6382    :Newer release of OpenRCT2 is available: {STRING}!
-STR_6383    :Open download page
+STR_6361    :Ŝalti lumefektojn sur atrakcioj (eksperimenta)
+STR_6362    :{SMALLFONT}{BLACK}Se ŝaltita, veturiloj por atrakcioj kun trakoj lumos nokte.
+STR_6363    :Teksto kopiita al la tondujo
+STR_6364    :{RED}{COMMA16} homo mortis en akcidento de {STRINGID}
+STR_6365    :Mortoj sur atrakcioj
+STR_6366    :Veturiloj staŭlitaj
+STR_6367    :{WINDOW_COLOUR_2}Kadro de animacio:
+STR_6368    :Por la kialoj de kongruo, ne estas rekomendita por lanĉi OpenRCT2 per Wine. OpenRCT2 funkciigas indiĝene sur macOS, Linukso, FreeBSD kaj OpenBSD.
+STR_6369    :Permesi la konstruadon de trako al nevalidaj altecoj
+STR_6370    :{SMALLFONT}{BLACK}Permesi la metadon de trakpartoj al iu ajn intervalo de altecoj
+STR_6371    :La dosierindiko enhavas instalaĵon de RollerCoaster Tycoon 1, sed la dosiero “csg1i.dat” mankas. Kopiu tiun dosieron de la kompaktdisko de RollerCoaster Tycoon 1 al la “Data” dosiero de la instalaĵo de RollerCoaster Tycoon 1 je via fiksita disko.
+STR_6372    :La dosierindiko enhavas instalaĵon de RollerCoaster Tycoon 1, sed ĉi tiu versio ne taŭgas. OpenRCT2 bezonas instalaĵon de Loopy Landscapes aŭ RCT Deluxe por uzi la erojn de RollerCoaster Tycoon 1.
+STR_6373    :Baskuli kontroladon de altecoj super eroj
+STR_6374    :A
+STR_6375    :Nekonata Atrakcio
+STR_6376    :{WINDOW_COLOUR_2}Atrakcioveturilo:{NEWLINE}{BLACK}{STRINGID} por {STRINGID}
+STR_6377    :{WINDOW_COLOUR_2}Tipo: {BLACK}{STRINGID} por {STRINGID}
+STR_6378    :Ricevas liston de objektoj: {INT32} / {INT32}
+STR_6379    :Ricevis nevalidan datumon
+STR_6380    :Ĝisdatigo disponeblas!
+STR_6381    :Aliĝi al la Diskordo de OpenRCT2!
+STR_6382    :Pli nova versio de OpenRCT2 disponeblas: {STRING}!
+STR_6383    :Malfermi elŝutejon
 STR_6384    :Neĝo
 STR_6385    :Neĝego
 STR_6386    :Blizardo
