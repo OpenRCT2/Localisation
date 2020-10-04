@@ -3378,7 +3378,7 @@ STR_6097    :{STRING} metis trakon de atrakcio '{STRING}'.
 STR_6098    :{STRING} forigis trakon de atrakcio.
 STR_6099    :Vi aliĝis al la servilo.
 STR_6100    :Vi malaliĝis de la servilo.
-STR_6101    :La valoro de atrakcioj ne malpliiĝas tempe
+STR_6101    :Atrakcioj ne malpliiĝas en valoro tempe
 STR_6102    :{SMALLFONT}{BLACK}La valoro de atrakcio ne malpliiĝas tempe, do gastoj ne subite pensos, ke atrakcio estas tro multekosta.
 STR_6103    :{SMALLFONT}{BLACK}Ĉi tiu opcio estas malŝaltita dum reĝimo plurludanta.
 STR_6105    :Hipergiganta Onda Fervojo
@@ -3390,18 +3390,18 @@ STR_6115    :Ŝaltitaj gigantaj 4 x 4 kamionoj, kiuj povas eskaladi krutajn dekl
 STR_6116    :Larĝaj ĉaroj de la onda fervojo glisas laŭ glata ŝtala trako kaj veturas trans diversaj inversigoj
 STR_6119    :Onda fervojoj malmultekosta, kiu estas facila por konstrui, sed ankaŭ havas limigitan altecon
 STR_6120    :{BABYBLUE}Nova veturilo nun disponeblas por {STRINGID}:{NEWLINE}{STRINGID}
-STR_6121    :{SMALLFONT}{BLACK}Etendi la rajtojn de bieno de la parko al la mapbordoj
+STR_6121    :{SMALLFONT}{BLACK}Etendas la rajtojn de bieno de la parko al la mapbordoj
 STR_6122    :Ne estas sufiĉe da ondaj fervojoj en ĉi tiu scenaro!
-STR_6123    :Eraro dum la ŝargado de parkobjektojn
+STR_6123    :Eraro dum ŝargado de parkobjektojn
 STR_6124    :Objektonomo
 STR_6125    :Objektotipo
 STR_6126    :Nekonata tipo
 STR_6127    :Dosiero: {STRING}
-STR_6128    :La dosiero ne ŝargeblas, ĉar iuj objektoj en ĝi estas mankantaj aŭ koruptitaj. La listo de tiuj objektoj estas prezentita malsupere.
+STR_6128    :La dosiero ne ŝargeblas, ĉar iuj objektoj en ĝi estas mankantaj aŭ koruptitaj. Listo de tiuj objektoj estas prezentita malsupere.
 STR_6129    :Kopii
 STR_6130    :Kopii ĉiujn
 STR_6131    :Objektofonto
-STR_6132    :Ignori la staton de esplorado
+STR_6132    :Ignori staton de esplorado
 STR_6133    :{SMALLFONT}{BLACK}Atingi atrakciojn kaj pejzaĝon, kiuj ne estis jam inventitaj
 STR_6134    :Vakigi Pejzaĝon
 STR_6135    :Kliento sendis nevalidan peton
@@ -3416,13 +3416,13 @@ STR_6143    :{WINDOW_COLOUR_2}Atrakciotipo: {BLACK}{STRINGID}
 STR_6144    :Montri senpolurajn bildojn
 STR_6145    :{SMALLFONT}{BLACK}Agordi rapidlimon de plirapidigiloj
 STR_6146    :Ŝalti ĉiujn desegneblajn trakerojn
-STR_6147    :{SMALLFONT}{BLACK}Ŝalti ĉiujn trakerojn, kiujn la atrakciotipo povas havi, en la fenestro de konstruado, eĉ se la veturilo ne subtenas ilin.
-STR_6148    :Konektas al la ĉefa servilo...
-STR_6149    :Ne eblas konekti al la ĉefa servilo
-STR_6150    :Nevalida respondo de la ĉefa servilo (neniu JSON-numero)
+STR_6147    :{SMALLFONT}{BLACK}Ŝaltas ĉiujn trakerojn, kiujn la atrakciotipo povas havi, en la fenestro de konstruado, eĉ se la veturilo ne subtenas ilin.
+STR_6148    :Konektas al ĉefa servilo...
+STR_6149    :Ne eblas konekti al ĉefa servilo
+STR_6150    :Nevalida respondo de ĉefa servilo (neniu JSON-numero)
 STR_6151    :Ĉefa servilo ne eblis respondi kun servilolisto
-STR_6152    :Nevalida respondo de la ĉefa servilo (neniu JSON-tabelo)
-STR_6153    :Pagi por eniri la parkon / Pagi por ĉiu atrakcio
+STR_6152    :Nevalida respondo de ĉefa servilo (neniu JSON-tabelo)
+STR_6153    :Pagi por eniri parkon / Pagi por ĉiu atrakcio
 STR_6154    :Pro kialoj sekurigaj, ne estas rekomendita por lanĉi OpenRCT2 kun permesoj administrantecaj.
 STR_6155    :Nek KDialog nek Zenity estas instalita. Bonvolu instali unu, aŭ agordu de la komanda linio.
 STR_6156    :Nomo estas reservita
@@ -3435,11 +3435,11 @@ STR_6162    :Turniĝanta Sovaĝa Muso
 STR_6163    :Musoformaj ĉaroj rapidiras trans subitaj anguloj kaj mallongaj malaltiĝoj, milde turniĝante por malorientigi la gastojn
 STR_6164    :{WHITE}❌
 STR_6165    :Uzi vertikalan sinkronigon
-STR_6166    :{SMALLFONT}{BLACK}Sinkronigi ĉiun kadron montritan laŭ la ofteco de aktualigo de la ekrano por preventi ŝiron de la ekrano.
+STR_6166    :{SMALLFONT}{BLACK}Sinkronigas ĉiun kadron montritan laŭ la ofteco de aktualigo de la ekrano por preventi ŝiron de la ekrano.
 STR_6167    :{SMALLFONT}{BLACK}Altnivela
 STR_6168    :Titolosekvenco
 STR_6169    :Elektado de Scenaro
-STR_6170    :Agordi la Interfacon
+STR_6170    :Optimumigoj de Interfacoj
 STR_6171    :Serĉi
 STR_6172    :{SMALLFONT}{BLACK}Serĉi
 STR_6173    :Bonvolu entajpi la nomon por serĉi:
@@ -3468,8 +3468,8 @@ STR_6195    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} gasto
 STR_6196    :{BLACK}Jaro:
 STR_6197    :{BLACK}Monato:
 STR_6198    :{BLACK}Tago:
-STR_6199    :Agordi la daton
-STR_6200    :Rekomencigi la daton
+STR_6199    :Agordi daton
+STR_6200    :Rekomencigi daton
 STR_6201    :{MONTH}
 STR_6202    :Stilo de virtuala planko:
 STR_6203    :{SMALLFONT}{BLACK}Se ŝaltita, virtuala planko bildigos per premteni Ctrl aŭ Shift por faciligi vertikalan lokon de elementoj.
@@ -3559,7 +3559,7 @@ STR_6300    :{SMALLFONT}{BLACK}Elŝuti ĉiujn mankantajn objektojn, kiuj dispone
 STR_6301    :{SMALLFONT}{BLACK}Kopii la elektitan objektonomon al la tondujo.
 STR_6302    :{SMALLFONT}{BLACK}Kopii la tutan liston de mankantaj objektoj al la tondujo.
 STR_6303    :Elŝuti objekton ({COMMA16} / {COMMA16}): [{STRING}]
-STR_6304    :Malfermi la elektilon de pejzaĝo
+STR_6304    :Malfermi elektilon de pejzaĝo
 STR_6305    :Disfadenigo
 STR_6306    :{SMALLFONT}{BLACK}Opcio eksperimenta por uzi multoblajn fadenojn por bildiĝi. Povas kaŭzi nestabilecon.
 STR_6307    :Kolorskemo: {BLACK}{STRINGID}
@@ -3603,7 +3603,7 @@ STR_6344    :Inspektilo de Kahelo: Malpliigi Y koordinaton
 STR_6345    :Inspektilo de Kahelo: Pliigi altecon de ero
 STR_6346    :Inspektilo de Kahelo: Malpliigi altecon de ero
 STR_6347    :Diversaĵoj por trotuaroj ne meteblas sur traknivelajn pasejojn!
-STR_6348    :Unue forigu la traknivelan pasejon!
+STR_6348    :Unue forigu traknivelan pasejon!
 STR_6349    :Hazarda titolosekvenco
 STR_6350    :Dispersi
 STR_6351    :Dispersilo de pejzaĝo
@@ -3618,14 +3618,14 @@ STR_6359    :{POP16}{POP16}Paĝo {UINT16}
 STR_6360    :{SMALLFONT}{BLACK}{COMMA32}
 STR_6361    :Ŝalti lumefektojn sur atrakcioj (eksperimenta)
 STR_6362    :{SMALLFONT}{BLACK}Se ŝaltita, veturiloj por atrakcioj kun trakoj lumos nokte.
-STR_6363    :Teksto kopiita al la tondujo
+STR_6363    :Teksto kopiita al tondujo
 STR_6364    :{RED}{COMMA16} homo mortis en akcidento de {STRINGID}
 STR_6365    :Mortoj sur atrakcioj
 STR_6366    :Veturiloj staŭlitaj
 STR_6367    :{WINDOW_COLOUR_2}Kadro de animacio:
-STR_6368    :Por la kialoj de kongruo, ne estas rekomendita por lanĉi OpenRCT2 per Wine. OpenRCT2 funkciigas indiĝene sur macOS, Linukso, FreeBSD kaj OpenBSD.
-STR_6369    :Permesi la konstruadon de trako al nevalidaj altecoj
-STR_6370    :{SMALLFONT}{BLACK}Permesi la metadon de trakpartoj al iu ajn intervalo de altecoj
+STR_6368    :Por kialoj de kongruo, ne estas rekomendita por lanĉi OpenRCT2 per Wine. OpenRCT2 funkciigas indiĝene sur macOS, Linukso, FreeBSD kaj OpenBSD.
+STR_6369    :Permesi konstruadon de trako al nevalidaj altecoj
+STR_6370    :{SMALLFONT}{BLACK}Permesi metadon de trakpartoj al iu ajn intervalo de altecoj
 STR_6371    :La dosierindiko enhavas instalaĵon de RollerCoaster Tycoon 1, sed la dosiero “csg1i.dat” mankas. Kopiu tiun dosieron de la kompaktdisko de RollerCoaster Tycoon 1 al la “Data” dosiero de la instalaĵo de RollerCoaster Tycoon 1 je via fiksita disko.
 STR_6372    :La dosierindiko enhavas instalaĵon de RollerCoaster Tycoon 1, sed ĉi tiu versio ne taŭgas. OpenRCT2 bezonas instalaĵon de Loopy Landscapes aŭ RCT Deluxe por uzi la erojn de RollerCoaster Tycoon 1.
 STR_6373    :Baskuli kontroladon de altecoj super eroj
