@@ -2273,7 +2273,7 @@ STR_3177    :Ne eblas malelekti ĉi tiun objekton
 STR_3178    :Almenaŭ unu objekto por trotuaroj elektendas
 STR_3179    :Almenaŭ unu objekto por atrakcioveturilo aŭ atrakcio elektendas
 STR_3180    :Nevalida elektaĵo de objektoj
-STR_3181    :Elektado de Objektoj - {STRINGID}
+STR_3181    :Elektaro de Objektoj - {STRINGID}
 STR_3182    :Tipo de parkeniro elektendas
 STR_3183    :Tipo de akvo elektendas
 STR_3184    :Atrakcioveturiloj/Atrakcioj
@@ -2292,11 +2292,11 @@ STR_3197    :{WINDOW_COLOUR_2}Aferoj inventitaj al komenco de ludo:
 STR_3198    :{WINDOW_COLOUR_2}Aferoj, kiuj estos inventitaj dum ludo:
 STR_3199    :Hazarda Ordo
 STR_3200    :{SMALLFONT}{BLACK}Ordi hazarde la liston de aferoj inventotaj dum la ludo
-STR_3201    :Elektado de Objektoj
+STR_3201    :Elektaro de Objektoj
 STR_3202    :Teroredaktilo
 STR_3203    :Instalado de Inventaĵolisto
-STR_3204    :Elektado de Agordoj
-STR_3205    :Elektado de Celo
+STR_3204    :Elektaro de Agordoj
+STR_3205    :Elektaro de Celo
 STR_3206    :Konservi Scenaron
 STR_3207    :Trakdesegnilo
 STR_3208    :Administrilo de Trakdesegnaĵoj
@@ -2375,7 +2375,7 @@ STR_3280    :Pagi por parkeniro / Senpagaj atrakcioj
 STR_3281    :{WINDOW_COLOUR_2}Kosto de parkeniro:
 STR_3282    :{SMALLFONT}{BLACK}Elekti celon kaj nomon de parko
 STR_3283    :{SMALLFONT}{BLACK}Elekti atrakciojn, kiujn oni ne povas ŝanĝi
-STR_3284    :Elektado de Celo
+STR_3284    :Elektaro de Celo
 STR_3285    :Atrakcioj Neŝanĝeblaj
 STR_3286    :{SMALLFONT}{BLACK}Elekti celon por ĉi tiu scenaro
 STR_3287    :{WINDOW_COLOUR_2}Celo:
@@ -2546,7 +2546,7 @@ STR_5198    :Trotuaroj
 STR_5199    :Konstruado de Atrakcioj
 STR_5200    :Trakdesegnilo
 STR_5201    :Nova Atrakcio
-STR_5202    :Elektado de Trakdesegnaĵo
+STR_5202    :Elektaro de Trakdesegnaĵo
 STR_5203    :Atrakcio
 STR_5204    :Atrakciolisto
 STR_5205    :Gastoj
@@ -2554,7 +2554,7 @@ STR_5206    :Gastolisto
 STR_5207    :Dungitaro
 STR_5208    :Dungitarolisto
 STR_5209    :Rubando
-STR_5210    :Elektado de Objektoj
+STR_5210    :Elektaro de Objektoj
 STR_5211    :Listo de Inventaĵoj
 STR_5212    :Agordoj de Scenaro
 STR_5213    :Agordoj de Celo
@@ -2596,7 +2596,7 @@ STR_5248    :Malsupra Ilobreto por Scenaroredaktilo
 STR_5249    :Menuo-Butonoj de Titolozono
 STR_5250    :Eliri-Butono de Titolozono
 STR_5251    :Agordoj-Butono de Titolozono
-STR_5252    :Elektado de Scenaro de Titolozono
+STR_5252    :Elektaro de Scenaro de Titolozono
 STR_5253    :Parkinformoj
 STR_5254    :Krei
 STR_5255    :{SMALLFONT}{BLACK}Krei novan titolosekvencon
@@ -2692,7 +2692,7 @@ STR_5367    :Rapida
 STR_5368    :Restarigi staton de akcidentoj
 STR_5369    :Parametroj de parko...
 STR_5370    :{SMALLFONT}{BLACK}Alklaku ĉi tiun butonon por redakti parametrojn{NEWLINE}de parko, kiel limoj,{NEWLINE}generado de gastoj, kaj mono.
-STR_5371    :Elektado de objektoj
+STR_5371    :Elektaro de objektoj
 STR_5372    :Inversigi konduton de trenadoj per dekstra musobutono
 STR_5373    :Nomo {STRINGID}
 STR_5374    :Dato {STRINGID}
@@ -3471,62 +3471,62 @@ STR_6198    :{BLACK}Tago:
 STR_6199    :Agordi la daton
 STR_6200    :Rekomencigi la daton
 STR_6201    :{MONTH}
-STR_6202    :Virtual floor style:
-STR_6203    :{SMALLFONT}{BLACK}When enabled, a virtual floor will be rendered when holding Ctrl or Shift to ease vertical placement of elements.
-STR_6215    :Construction
-STR_6216    :Operation
-STR_6217    :Ride / track availability
-STR_6218    :OpenRCT2 Official
+STR_6202    :Stilo de virtuala planko:
+STR_6203    :{SMALLFONT}{BLACK}Se ŝaltita, virtuala planko bildigos per premteni Ctrl aŭ Shift por faciligi vertikalan lokon de elementoj.
+STR_6215    :Konstruado
+STR_6216    :Funkciado
+STR_6217    :Atrakcio / trako havebleco
+STR_6218    :OpenRCT2 Oficiala
 STR_6219    :Emfazi problemojn de trotuaroj
-STR_6220    :Make Usable
-STR_6221    :{SMALLFONT}{BLACK}This will set the ride's known entrance or exit location to the currently selected tile. Only one entrance and exit location can be made usable per station.
-STR_6222    :Can't place guest entry point here...
-STR_6223    :Must be outside park boundaries!
-STR_6224    :{STRING} placed a guest entry point.
-STR_6225    :Not supported with OpenGL renderer
-STR_6226    :Enable early scenario completion
-STR_6227    :{SMALLFONT}{BLACK}Triggers scenario completion when all scenario goals are met before the target date.
-STR_6228    :Scenario Options
+STR_6220    :Uzebligi
+STR_6221    :{SMALLFONT}{BLACK}Ĉi tio agordos la konitan enirejan aŭ elirejan lokon de la atrakcio al la nune elektita bloko. Nur unu enirejo kaj elirejo povas esti uzebligata po stacio.
+STR_6222    :Ne eblas meti gastan enirpunkton ĉi tie...
+STR_6223    :Devas esti ekster parkaj limoj!
+STR_6224    :{STRING} metis gastan enirpunkton.
+STR_6225    :Ne subtenata kun OpenGL bildigilo
+STR_6226    :Ebligi fruan scenaran kompletigon
+STR_6227    :{SMALLFONT}{BLACK}Ekagigas scenaran kompletigon kiam ĉiuj scenaraj celoj estas atingitaj antaŭ la cela dato.
+STR_6228    :Agordoj de Scenaro
 STR_6229    :{WINDOW_COLOUR_2}{STRINGID}: {STRINGID}
 STR_6230    :{STRINGID}:
 STR_6231    :{WINDOW_COLOUR_2}{STRINGID}: {MOVE_X}{185}{STRINGID}
-STR_6232    :Frozen
-STR_6233    :Cut-away view
+STR_6232    :Frostigita
+STR_6233    :Tranĉita vido
 STR_6234    :Emfazi problemojn de trotuaroj
-STR_6235    :Server Information
-STR_6236    :Players
-STR_6237    :Groups
-STR_6238    :Multiplayer Options
-STR_6239    :Vertical Clipping
-STR_6240    :Horizontal Clipping
-STR_6241    :Select area
-STR_6242    :Clear selection
-STR_6243    :{SMALLFONT}{BLACK}Refurbishes the ride,{NEWLINE}makes it like new
-STR_6244    :Can't refurbish ride...
-STR_6245    :{SMALLFONT}{BLACK}Ride doesn't need refurbishing
-STR_6246    :Refurbish
-STR_6247    :Refurbish ride/attraction
-STR_6248    :{WINDOW_COLOUR_1}Do you want to refurbish {STRINGID} for {CURRENCY}?
-STR_6249    :{WINDOW_COLOUR_1}Do you want to refurbish {STRINGID}?
-STR_6250    :{WINDOW_COLOUR_1}Are you sure you want to completely demolish {STRINGID} and gain {CURRENCY}?
-STR_6251    :Ride is not empty yet
-STR_6255    :URL is not valid
-STR_6256    :Rendering effects
-STR_6257    :Glassy (translucent)
-STR_6258    :Clear (transparent)
-STR_6259    :Disabled
-STR_6260    :Show blocked tiles
-STR_6261    :Show wide paths
-STR_6262    :Master volume
-STR_6263    :{SMALLFONT}{BLACK}Toggle all sound on/off
-STR_6264    :Always use system file browser
-STR_6265    :{SMALLFONT}{BLACK}When enabled, your operating system's file browser will be used instead of OpenRCT2's.
-STR_6266    :Open custom content folder
-STR_6267    :Open tile inspector
-STR_6268    :Advance to next tick
-STR_6269    :Invalid climate ID
-STR_6270    :Terrain Surfaces
-STR_6271    :Terrain Edges
+STR_6235    :Servila Informo
+STR_6236    :Ludantoj
+STR_6237    :Grupoj
+STR_6238    :Plurludantaj Agordoj
+STR_6239    :Vertikala Tondado
+STR_6240    :Horizontala Tondado
+STR_6241    :Elekti areon
+STR_6242    :Nuligi elektaron
+STR_6243    :{SMALLFONT}{BLACK}Renovigas la atrakcion,{NEWLINE}igas ĝin nova
+STR_6244    :Ne eblas renovigi atrakcion...
+STR_6245    :{SMALLFONT}{BLACK}Atrakcio ne bezonas renovigon
+STR_6246    :Renovigi
+STR_6247    :Renovigi atrakcion
+STR_6248    :{WINDOW_COLOUR_1}Ĉu vi volas renovigi je {STRINGID} por {CURRENCY}?
+STR_6249    :{WINDOW_COLOUR_1}Ĉu vi volas renovigi je {STRINGID}?
+STR_6250    :{WINDOW_COLOUR_1}Ĉu vi certas, ke vi volas tute malkonstrui je {STRINGID} kaj gajni {CURRENCY}?
+STR_6251    :Atrakcio ankoraŭ ne estas malplena
+STR_6255    :URL ne estas valida
+STR_6256    :Bildigaj efektoj
+STR_6257    :Vitreca (tralumebla)
+STR_6258    :Klara (travidebla)
+STR_6259    :Malŝaltita
+STR_6260    :Montri blokitajn blokojn
+STR_6261    :Montri larĝajn trotuarojn
+STR_6262    :Ĉefa Laŭteco
+STR_6263    :{SMALLFONT}{BLACK}Baskuligi ĉian sonon
+STR_6264    :Ĉiam uzi systemo-dosieresplorilon
+STR_6265    :{SMALLFONT}{BLACK}Kiam ŝaltita, la dosieresplorilo de via operaciumo, anstataŭ tiu de OpenRCT2, estos uzata.
+STR_6266    :Malfermi dosierujon de propra enhavo
+STR_6267    :Malfermi ekzamenilo de bloko
+STR_6268    :Antaŭeniri al sekva tiktako
+STR_6269    :Nevalida klimata identigilo
+STR_6270    :Terenaj Surfacoj
+STR_6271    :Terenaj Flankoj
 STR_6272    :Stacioj
 STR_6273    :Muziko
 STR_6274    :Ne eblas agordi kolorskemon...
