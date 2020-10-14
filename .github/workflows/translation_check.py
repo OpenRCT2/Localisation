@@ -59,7 +59,7 @@ def run():
     master_branch = count_translations('master/data/language', False)
     pr = count_translations('pr/data/language', True)
     result = '#### Check results\n\n'
-    result += "For details go to `Translation Check` check `Details`. Expand `Run checks` and use the build-in search to find your language (e.g. `pl-PL`)"
+    result += "For details go to `Translation Check` -> `Details`. Expand `Run checks` build stage and use the build-in search to find your language (e.g. `pl-PL`)\n"
     result += "| |Missing| Same as `en-GB` |Not in `en-GB`|\n"
     result += "|---|---|---|---|\n"
 
