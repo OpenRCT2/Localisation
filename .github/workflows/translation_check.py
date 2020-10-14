@@ -56,9 +56,17 @@ def format_result(count_on_master, count_on_pr):
         missing = '**{0}**'.format(missing)
     return missing
 
+
 def run():
     master_branch = count_translations('master/data/language', False)
     pr = count_translations('pr/data/language', True)
+
+    missing = '<p><details><summary>Missing</summary>The translation is not added to translation file. (e.g. STR_9999 is in `en-GB` but is not available in given language)</details></p>'
+    same = '<p><details><summary>Same</summary>The translation and source string is exactly the same.  (e.g. in STR_9999 is `Umbrella` in both `en-GB` and given language)</details></p>'
+    not_needed = '<p><details><summary>Not needed</summary>The translation file contains entries that are not in `en-GB` and should be removed (e.g. STR_9999 exits in given language but is not in `en-GB`)</details></p>'
+
+    table_header = "| |" + missing + " | " + same + " |" + not_needed + "|\n"
+    table_header += "|---|---|---|---|\n"
 
     languages_changed = []
 
@@ -69,11 +77,9 @@ def run():
 
     result = '#### Check results\n\n'
     result += "For details go to `Translation Check` -> `Details`. Expand `Run checks` build stage and use the build-in search to find your language (e.g. `pl-PL`)\n\n"
-    result += "| |Missing| Same as `en-GB` |Not in `en-GB`|\n"
-    result += "|---|---|---|---|\n"
+    result += table_header
 
-    other_table = "\n\n| |Missing| Same as `en-GB` |Not in `en-GB`|\n"
-    other_table += "|---|---|---|---|\n"
+    other_table = "\n\n" + table_header
 
     for lang in languages:
         missing = format_result(master_branch['missing'][lang], pr['missing'][lang])
