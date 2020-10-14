@@ -1,3 +1,5 @@
+import filecmp
+
 languages = ['ar-EG', 'ca-ES', 'cs-CZ', 'da-DK', 'de-DE', 'en-US', 'eo-OO', 'es-ES', 'fi-FI', 'fr-FR', 'hu-HU', 'it-IT',
              'ja-JP', 'ko-KR', 'nb-NO', 'nl-NL', 'pl-PL', 'pt-BR', 'ru-RU', 'sv-SE', 'tr-TR', 'zh-CN', 'zh-TW']
 
@@ -54,21 +56,38 @@ def format_result(count_on_master, count_on_pr):
         missing = '**{0}**'.format(missing)
     return missing
 
-
 def run():
     master_branch = count_translations('master/data/language', False)
     pr = count_translations('pr/data/language', True)
+
+    languages_changed = []
+
+    for lang in languages:
+        filename = lang + '.txt'
+        if not filecmp.cmp('master/data/language/' + filename, 'pr/data/language/' + filename):
+            languages_changed.append(lang)
+
     result = '#### Check results\n\n'
-    result += "For details go to `Translation Check` -> `Details`. Expand `Run checks` build stage and use the build-in search to find your language (e.g. `pl-PL`)\n"
+    result += "For details go to `Translation Check` -> `Details`. Expand `Run checks` build stage and use the build-in search to find your language (e.g. `pl-PL`)\n\n"
     result += "| |Missing| Same as `en-GB` |Not in `en-GB`|\n"
     result += "|---|---|---|---|\n"
+
+    other_table = "\n\n| |Missing| Same as `en-GB` |Not in `en-GB`|\n"
+    other_table += "|---|---|---|---|\n"
 
     for lang in languages:
         missing = format_result(master_branch['missing'][lang], pr['missing'][lang])
         same = format_result(master_branch['same'][lang], pr['same'][lang])
         not_needed = format_result(master_branch['not_needed'][lang], pr['not_needed'][lang])
 
-        result += '|`{0}`|{1}|{2}|{3}|\n'.format(lang, missing, same, not_needed)
+        row = '|`{0}`|{1}|{2}|{3}|\n'.format(lang, missing, same, not_needed)
+
+        if lang in languages_changed:
+            result += row
+        else:
+            other_table += row
+
+    result += '<p><details><summary>Other translations</summary>{}</details></p>'.format(other_table)
 
     text_file = open("result.md", "w")
     text_file.write(result)
