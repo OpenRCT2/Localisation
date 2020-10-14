@@ -1,0 +1,57 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  pull_request:
+    branches: [ master ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name:  Get Pull Request
+        uses: actions/checkout@v2
+        with:
+          path: pr
+
+      - name: Get OpenRCT2 develop (for en-GB.txt)
+        uses: actions/checkout@v2
+        with:
+          repository: OpenRCT2/OpenRCT2
+          ref: develop
+          path: OpenRCT2
+
+      - name: Get translations master (for comparsion)
+        uses: actions/checkout@v2
+        with:
+          ref: master
+          path: master
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: Run checks
+        run: python master/.github/workflows/translation_check.py
+
+      - id: get-comment-body
+        run: |
+          body=$(cat result.md)
+          body="${body//'%'/'%25'}"
+          body="${body//$'\n'/'%0A'}"
+          body="${body//$'\r'/'%0D'}"
+          echo ::set-output name=body::$body
+
+      - name: Create commit comment
+        uses: peter-evans/commit-comment@v1
+        with:
+          body: ${{ steps.get-comment-body.outputs.body }}
