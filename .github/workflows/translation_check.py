@@ -126,13 +126,14 @@ def run():
 
     missing = prepare_spoiler('Missing', 'The translation is not added to translation file. '
                                          '(e.g. STR_9999 is in `en-GB` but is not available in given language)')
-    same = prepare_spoiler('Same', 'The translation and source string is exactly the same.  '
-                                   '(e.g. STR_9999 is `Umbrella` in both `en-GB` and given language)')
     not_needed = prepare_spoiler('Not needed', 'The translation file contains entries that are not in `en-GB` '
                                                'and should be removed '
                                                '(e.g. STR_9999 exits in given language but is not in `en-GB`)')
+    same = prepare_spoiler('Same', 'The translation and source string is exactly the same.  '
+                                   '(e.g. STR_9999 is `Umbrella` in both `en-GB` and given language). '
+                                   'This may be desired in some cases. `April` is the same in English and German)')
 
-    table_header = "| |" + missing + " | " + same + " |" + not_needed + "|\n"
+    table_header = "| |" + missing + " | " + not_needed + " |" + same + "|\n"
     table_header += "|---|---|---|---|\n"
 
     languages_changed = []
@@ -156,10 +157,10 @@ def run():
 
     for lang in languages:
         missing = format_result(master_branch['missing'][lang], pull_request['missing'][lang])
-        same = format_result(master_branch['same'][lang], pull_request['same'][lang])
         not_needed = format_result(master_branch['not_needed'][lang], pull_request['not_needed'][lang])
+        same = format_result(master_branch['same'][lang], pull_request['same'][lang])
 
-        row = f'|`{lang}`|{missing}|{same}|{not_needed}|\n'
+        row = f'|`{lang}`|{missing}|{not_needed}|{same}|\n'
 
         if lang in languages_changed:
             result += row
