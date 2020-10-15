@@ -1,18 +1,64 @@
-import filecmp
+"""
+This script is triggered after a new PR is created on OpenRCT2 Localisation repository.
+It checks the difference in translation count between master and PR branch.
+The results is put to result.md to be later published as a comment.
+"""
 
-languages = ['ar-EG', 'ca-ES', 'cs-CZ', 'da-DK', 'de-DE', 'en-US', 'eo-OO', 'es-ES', 'fi-FI', 'fr-FR', 'hu-HU', 'it-IT',
-             'ja-JP', 'ko-KR', 'nb-NO', 'nl-NL', 'pl-PL', 'pt-BR', 'ru-RU', 'sv-SE', 'tr-TR', 'zh-CN', 'zh-TW']
+import filecmp
+import os
+import re
+
+languages = []
+
+
+def read_languages_from_master_and_pr():
+    """
+    Reads languages from master and pr branches
+    """
+    read_languages_from_filenames("master/data/language")
+    read_languages_from_filenames("pr/data/language")
+
+
+def read_languages_from_filenames(dir_to_search):
+    """
+    Searches given directory for language files and adds them to global languages variable
+    """
+    pattern = re.compile("([a-z]{2}-[A-Z]{2}).txt")
+    for file in os.listdir(dir_to_search):
+        find = pattern.findall(file)
+        if len(find) == 1 and find[0] not in languages:
+            languages.append(find[0])
 
 
 def file_to_dict(filename):
-    with open(filename, encoding="utf8") as f:
-        content = f.readlines()
+    """
+    Loads given file into a dictionary collection
+    """
+    if not os.path.exists(filename):
+        return {}
+
+    with open(filename, encoding="utf8") as file:
+        content = file.readlines()
     lines = [line.strip() for line in content]
     translations = {}
+
+    special_keys = ['STR_SCNR', 'STR_PARK', 'STR_DTLS', 'STR_NAME']
+
+    previous_group_name = ''
+
     for line in lines:
-        if not line.startswith('#') and line.find(':') != -1:
+        if line.startswith('#') or len(line.strip()) == 0:
+            continue
+
+        if line.startswith('<') or line.startswith('['):
+            previous_group_name = line
+            continue
+
+        if line.find(':') != -1:
             split = line.split(':')
             key = split[0].strip()
+            if key in special_keys:
+                key = previous_group_name + key
             value = ':'.join(split[1:]).strip()
             translations[key] = value
 
@@ -20,50 +66,71 @@ def file_to_dict(filename):
 
 
 def count_translations(dir_with_translations, print_info):
+    """
+    Counts missing, same and not needed translations by comparing all files in given location to en-GB
+    """
     en_gb = file_to_dict('OpenRCT2/data/language/en-GB.txt')
 
     missing_counters = dict.fromkeys(languages, 0)
     same_counters = dict.fromkeys(languages, 0)
-    not_in_base_counters = dict.fromkeys(languages, 0)
+    not_needed = dict.fromkeys(languages, 0)
 
     for lang in languages:
         translations = file_to_dict(dir_with_translations + '/' + lang + '.txt')
+
         for base_string in en_gb:
             if base_string not in translations:
                 missing_counters[lang] += 1
                 if print_info:
-                    print('[{}] Missing translation: {}'.format(lang, base_string))
+                    print(f'[{lang}] Missing translation: {base_string}')
             elif en_gb[base_string] == translations[base_string]:
                 same_counters[lang] += 1
                 if print_info:
-                    print('[{}] Same translation: {}'.format(lang, base_string))
+                    print(f'[{lang}] Same translation: {base_string}')
 
         for translation in translations:
             if translation not in en_gb:
-                not_in_base_counters[lang] += 1
+                not_needed[lang] += 1
                 if print_info:
-                    print('[{}] Unnecessary translation: {}'.format(lang, translation))
+                    print(f'[{lang}] Unnecessary translation: {translation}')
 
-    result = {'missing': missing_counters, 'same': same_counters, 'not_needed': not_in_base_counters}
+    result = {'missing': missing_counters, 'same': same_counters, 'not_needed': not_needed}
     return result
 
 
 def format_result(count_on_master, count_on_pr):
+    """
+    Formats the result cell by formatting it bold if there is a difference between master and pr
+    """
     missing = str(count_on_pr)
     diff = count_on_pr - count_on_master
     if diff != 0:
         missing += ' ({0}{1})'.format('+' if diff > 0 else '', diff)
-        missing = '**{0}**'.format(missing)
+        missing = f'**{missing}**'
     return missing
 
 
-def run():
-    master_branch = count_translations('master/data/language', False)
-    pr = count_translations('pr/data/language', True)
+def prepare_spoiler(summary, details):
+    """
+    Prepares a foldable spoiler
+    """
+    return f'<p><details><summary>{summary}</summary>{details}</details></p>'
 
-    missing = '<p><details><summary>Missing</summary>The translation is not added to translation file. (e.g. STR_9999 is in `en-GB` but is not available in given language)</details></p>'
-    same = '<p><details><summary>Same</summary>The translation and source string is exactly the same.  (e.g. in STR_9999 is `Umbrella` in both `en-GB` and given language)</details></p>'
-    not_needed = '<p><details><summary>Not needed</summary>The translation file contains entries that are not in `en-GB` and should be removed (e.g. STR_9999 exits in given language but is not in `en-GB`)</details></p>'
+
+def run():
+    """runs the script and outputs the result in result.md file"""
+    read_languages_from_master_and_pr()
+
+    master_branch = count_translations('master/data/language', False)
+    pull_request = count_translations('pr/data/language', True)
+
+    missing = prepare_spoiler('Missing', 'The translation is not added to translation file. '
+                                         '(e.g. STR_9999 is in `en-GB` but is not available in given language)')
+    same = prepare_spoiler('Same', 'The translation and source string is exactly the same.  '
+                                   '(e.g. STR_9999 is `Umbrella` in both `en-GB` and given language)')
+    not_needed = prepare_spoiler('Not needed', 'The translation file contains entries that are not in `en-GB` '
+                                               'and should be removed '
+                                               '(e.g. STR_9999 exits in given language but is not in `en-GB`)')
 
     table_header = "| |" + missing + " | " + same + " |" + not_needed + "|\n"
     table_header += "|---|---|---|---|\n"
@@ -72,28 +139,34 @@ def run():
 
     for lang in languages:
         filename = lang + '.txt'
-        if not filecmp.cmp('master/data/language/' + filename, 'pr/data/language/' + filename):
+        file_master = 'master/data/language/' + filename
+        file_pr = 'pr/data/language/' + filename
+        if not os.path.exists(file_master) or not os.path.exists(file_pr):
+            languages_changed.append(lang)
+            continue
+        if not filecmp.cmp(file_master, file_pr):
             languages_changed.append(lang)
 
     result = '#### Check results\n\n'
-    result += "For details go to `Translation Check` -> `Details`. Expand `Run checks` build stage and use the build-in search to find your language (e.g. `pl-PL`)\n\n"
+    result += "For details go to `Translation Check` -> `Details`. " \
+              "Expand `Run checks` build stage and use the build-in search to find your language (e.g. `pl-PL`)\n\n"
     result += table_header
 
     other_table = "\n\n" + table_header
 
     for lang in languages:
-        missing = format_result(master_branch['missing'][lang], pr['missing'][lang])
-        same = format_result(master_branch['same'][lang], pr['same'][lang])
-        not_needed = format_result(master_branch['not_needed'][lang], pr['not_needed'][lang])
+        missing = format_result(master_branch['missing'][lang], pull_request['missing'][lang])
+        same = format_result(master_branch['same'][lang], pull_request['same'][lang])
+        not_needed = format_result(master_branch['not_needed'][lang], pull_request['not_needed'][lang])
 
-        row = '|`{0}`|{1}|{2}|{3}|\n'.format(lang, missing, same, not_needed)
+        row = f'|`{lang}`|{missing}|{same}|{not_needed}|\n'
 
         if lang in languages_changed:
             result += row
         else:
             other_table += row
 
-    result += '<p><details><summary>Other translations</summary>{}</details></p>'.format(other_table)
+    result += prepare_spoiler('Other translations', other_table)
 
     text_file = open("result.md", "w")
     text_file.write(result)
