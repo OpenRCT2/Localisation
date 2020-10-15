@@ -131,7 +131,7 @@ def run():
                                                '(e.g. STR_9999 exits in given language but is not in `en-GB`)')
     same = prepare_spoiler('Same', 'The translation and source string is exactly the same.  '
                                    '(e.g. STR_9999 is `Umbrella` in both `en-GB` and given language). '
-                                   'This may be desired in some cases. `April` is the same in English and German)')
+                                   'This may be desired in some cases (e.g. `April` is the same in English and German)')
 
     table_header = "| |" + missing + " | " + not_needed + " |" + same + "|\n"
     table_header += "|---|---|---|---|\n"
