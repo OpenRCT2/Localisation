@@ -78,7 +78,8 @@ def count_translations(dir_with_translations, print_info):
     not_needed = dict.fromkeys(languages, 0)
 
     for lang in languages:
-        translations = file_to_dict(dir_with_translations + '/' + lang + '.txt')
+        filename = lang + '.txt'
+        translations = file_to_dict(os.path.join(dir_with_translations, filename))
 
         for base_string in en_gb:
             if base_string not in translations:
@@ -141,8 +142,8 @@ def prepare_translation_report():
     languages_changed = []
     for lang in languages:
         filename = lang + '.txt'
-        file_master = MASTER_LANG_DIR + '/' + filename
-        file_pr = MASTER_LANG_DIR + '/' + filename
+        file_master = os.path.join(MASTER_LANG_DIR, filename)
+        file_pr = os.path.join(PR_LANG_DIR, filename)
         if not os.path.exists(file_master) or not os.path.exists(file_pr):
             languages_changed.append(lang)
             continue
