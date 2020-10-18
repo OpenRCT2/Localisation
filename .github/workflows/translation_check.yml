@@ -21,11 +21,21 @@ jobs:
           ref: develop
           path: OpenRCT2
 
-      - name: Get translations master (for comparsion)
+      - name: Checkout translations before PR changes (for comparsion)
         uses: actions/checkout@v2
         with:
-          ref: master
           path: master
+          ref: ${{github.event.pull_request.head.ref}}
+          repository: ${{github.event.pull_request.head.repo.full_name}}
+          fetch-depth: 0
+
+      - name: Checkout commit before branch changes
+        run: |
+          cd master
+          git fetch origin master:refs/remotes/origin/master
+          git merge-base refs/remotes/origin/master HEAD
+          git checkout $(git merge-base refs/remotes/origin/master HEAD)
+          cd ..
 
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
