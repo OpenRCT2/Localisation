@@ -4,12 +4,14 @@ It checks the difference in translation count between master and PR branch.
 The results is put to result.md to be later published as a comment.
 """
 
+import argparse
 import filecmp
 import os
 import re
 
 MASTER_LANG_DIR = "master/data/language"
 PR_LANG_DIR = "pr/data/language"
+OPENRCT2_EN_GB_FILE = "OpenRCT2/data/language/en-GB.txt"
 SPECIAL_KEYS = ['STR_SCNR', 'STR_PARK', 'STR_DTLS', 'STR_NAME']
 # Some strings have nothing to be translated and should not appear on the report
 KEYS_TO_IGNORE = ['STR_0000', 'STR_0001', 'STR_0824', 'STR_0839', 'STR_0840', 'STR_0865', 'STR_0866', 'STR_0867',
@@ -43,12 +45,25 @@ KEYS_TO_IGNORE = ['STR_0000', 'STR_0001', 'STR_0824', 'STR_0839', 'STR_0840', 'S
 languages = []
 
 
-def read_languages_from_master_and_pr():
+def get_arg_parser():
+    """ Command line arguments """
+    parser = argparse.ArgumentParser(description='Check translation integrity',
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    parser.add_argument('--reference-lang-file', '-r', default=OPENRCT2_EN_GB_FILE,
+                        help='a reference language file, typically en-GB.txt')
+    parser.add_argument('--master-dir', '-m', default=MASTER_LANG_DIR,
+                        help='the language directory on the master branch')
+    parser.add_argument('--branch-dir', '-b', default=PR_LANG_DIR,
+                        help='the language directory on the pull request branch')
+    return parser
+
+
+def read_languages_from_master_and_pr(master_dir, branch_dir):
     """
     Reads languages from master and pr branches
     """
-    read_languages_from_filenames(MASTER_LANG_DIR)
-    read_languages_from_filenames(PR_LANG_DIR)
+    read_languages_from_filenames(master_dir)
+    read_languages_from_filenames(branch_dir)
 
 
 def read_languages_from_filenames(dir_to_search):
@@ -60,6 +75,7 @@ def read_languages_from_filenames(dir_to_search):
         find = pattern.findall(file)
         if len(find) == 1 and find[0] not in languages:
             languages.append(find[0])
+        languages.sort()
 
 
 def file_to_dict(filename):
@@ -95,11 +111,11 @@ def file_to_dict(filename):
     return translations
 
 
-def count_translations(dir_with_translations, print_info):
+def count_translations(dir_with_translations, print_info, reference_file):
     """
     Counts missing, same and not needed translations by comparing all files in given location to en-GB
     """
-    en_gb = file_to_dict('OpenRCT2/data/language/en-GB.txt')
+    en_gb = file_to_dict(reference_file)
 
     missing_counters = dict.fromkeys(languages, 0)
     same_counters = dict.fromkeys(languages, 0)
@@ -153,13 +169,16 @@ def prepare_spoiler(summary, details):
 
 def run():
     """runs the script and outputs the result in result.md file"""
-    read_languages_from_master_and_pr()
-    prepare_translation_report()
+    parser = get_arg_parser()
+    args = parser.parse_args()
+    read_languages_from_master_and_pr(args.master_dir, args.branch_dir)
+    prepare_translation_report(args.master_dir, args.branch_dir, args.reference_lang_file)
 
 
-def prepare_translation_report():
-    master_branch = count_translations(MASTER_LANG_DIR, False)
-    pull_request = count_translations(PR_LANG_DIR, True)
+def prepare_translation_report(master_dir, branch_dir, reference_file):
+    """ Generates the translation report """
+    master_branch = count_translations(master_dir, False, reference_file)
+    pull_request = count_translations(branch_dir, True, reference_file)
     missing = prepare_spoiler('Missing', 'The translation is not added to translation file. '
                                          '(e.g. STR_9999 is in `en-GB` but is not available in given language)')
     not_needed = prepare_spoiler('Not needed', 'The translation file contains entries that are not in `en-GB` '
@@ -173,8 +192,8 @@ def prepare_translation_report():
     languages_changed = []
     for lang in languages:
         filename = lang + '.txt'
-        file_master = os.path.join(MASTER_LANG_DIR, filename)
-        file_pr = os.path.join(PR_LANG_DIR, filename)
+        file_master = os.path.join(master_dir, filename)
+        file_pr = os.path.join(branch_dir, filename)
         if not os.path.exists(file_master) or not os.path.exists(file_pr):
             languages_changed.append(lang)
             continue
