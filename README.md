@@ -78,3 +78,21 @@ Anyone can still contribute to the languages.
 ### Questions & Support
 
 If you have any question or issues, you can always ask us on [Discord](https://discord.gg/sxnrvX9).
+
+### Checking Translation Integrity
+
+We have an action that automatically runs on every Pull Request and reports, for every supported language:
+
+- If there are any strings left to translate
+- If there are any strings that do not need translation
+- If there are any strings that might not have been translated, as they are the same
+
+The script is on the repository and can be run locally if one wants to anticipate the results, by doing:
+
+```
+python .github\workflows\translation_check.py -r <path to en-GB.txt> -m <path to data/language folder on master branch> -b <path to data/language folder on your branch>
+```
+
+Note that `-b` and `-m` can use the same argument if you don't want differential analysis.
+
+You can use the `--help` switch to read more about what each switch does.
