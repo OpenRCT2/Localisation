@@ -110,8 +110,9 @@ def count_translations(dir_with_translations, print_info):
         translations = file_to_dict(os.path.join(dir_with_translations, filename))
 
         for base_string in en_gb:
-            if base_string in KEYS_TO_IGNORE and en_gb[base_string] != translations[base_string]:
-                print(f'[{lang}] Unexpected translation: {base_string}')
+            if base_string in KEYS_TO_IGNORE:
+                if base_string in translations and en_gb[base_string] != translations[base_string] and print_info:
+                    print(f'[{lang}] Unexpected translation: {base_string}')
             elif base_string not in translations:
                 missing_counters[lang] += 1
                 if print_info:
