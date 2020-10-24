@@ -30,12 +30,34 @@ jobs:
           fetch-depth: 0
 
       - name: Checkout commit before branch changes
+        id: merge-base-commit
         run: |
+          echo "head sha: ${{github.event.pull_request.head.sha}}"
           cd master
-          git fetch origin master:refs/remotes/origin/master
-          git merge-base refs/remotes/origin/master HEAD
-          git checkout $(git merge-base refs/remotes/origin/master HEAD)
+          git remote add upstream https://github.com/${{github.repository}}
+          git fetch upstream
+          merge_base=$(git merge-base refs/remotes/upstream/master HEAD)
+          echo "merge base sha: ${merge_base}"
+          git checkout $merge_base
+          echo ::set-output name=merge_base::$merge_base
           cd ..
+
+      - name: Print debug stuff
+        run: |
+          echo ${{steps.merge-base-commit.outputs.merge_base}}
+          echo ${{github.event.pull_request.head.sha}}
+          echo ${{steps.merge-base-commit.outputs.merge_base == github.event.pull_request.head.sha}}
+
+      - name: Remove master
+        if: ${{ steps.merge-base-commit.outputs.merge_base == github.event.pull_request.head.sha }}
+        run: rm -rf master
+
+      - name: Checkout upstream master as master
+        uses: actions/checkout@v2
+        if: ${{ steps.merge-base-commit.outputs.merge_base == github.event.pull_request.head.sha }}
+        with:
+          ref: master
+          path: master
 
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
