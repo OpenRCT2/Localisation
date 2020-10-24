@@ -71,7 +71,7 @@ jobs:
           ref: master
 
       - name: Run checks
-        run: python upstram_master/.github/workflows/translation_check.py
+        run: python upstream_master/.github/workflows/translation_check.py
 
       - id: get-comment-body
         run: |
