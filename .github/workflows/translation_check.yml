@@ -64,8 +64,14 @@ jobs:
         with:
           python-version: '3.8'
 
+      - name: Checkout upstream master (in order to use the newest version of the script)
+        uses: actions/checkout@v2
+        with:
+          path: upstream_master
+          ref: master
+
       - name: Run checks
-        run: python master/.github/workflows/translation_check.py
+        run: python upstram_master/.github/workflows/translation_check.py
 
       - id: get-comment-body
         run: |
