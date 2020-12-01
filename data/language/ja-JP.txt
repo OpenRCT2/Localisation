@@ -3557,7 +3557,7 @@ STR_6304    :Open scenery picker
 STR_6305    :マルチスレッド
 STR_6306    :{SMALLFONT}{BLACK}Experimental option to use multiple threads to render, may cause instability.
 STR_6307    :配色: {BLACK}{STRINGID}
-STR_6308    :「{STRINGID}{OUTLINE}{TOPAZ}」{NEWLINE}{STRINGID}
+STR_6308    :{TOPAZ}「{STRINGID}{OUTLINE}{TOPAZ}」{NEWLINE}{STRINGID}
 STR_6309    :再接続
 STR_6310    :{WINDOW_COLOUR_2}拠点: {BLACK}{INT32} {INT32} {INT32}
 STR_6311    :{WINDOW_COLOUR_2}次: {BLACK}{INT32} {INT32} {INT32}
