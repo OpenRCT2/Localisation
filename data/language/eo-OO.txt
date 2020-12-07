@@ -417,7 +417,7 @@ STR_1031    :Ne eblas konstrui ĉi tion subakve!
 STR_1032    :Eblas konstrui ĉi tion nur sur akvo!
 STR_1033    :Eblas konstrui ĉi tion nur surtere!
 STR_1034    :Eblas konstrui ĉi tion nur sur tero!
-STR_1035    :La loka aŭtoritato ne permesas konstruado pli alta ol arbalteco!
+STR_1035    :La loka aŭtoritato ne permesas konstruadon pli alta ol arbalteco!
 STR_1036    :Ŝargi Ludon
 STR_1037    :Ŝargi Pejzaĝon
 STR_1038    :Ŝanĝi konservitan ludon al scenaro
@@ -741,8 +741,8 @@ STR_1355    :{WINDOW_COLOUR_2}Malleviĝoj: {BLACK}{COMMA16}
 STR_1356    :{WINDOW_COLOUR_2}Inversigoj: {BLACK}{COMMA16}
 STR_1357    :{WINDOW_COLOUR_2}Truoj: {BLACK}{COMMA16}
 STR_1358    :{WINDOW_COLOUR_2}Tuta 'en-aera' daŭro: {BLACK}{COMMA2DP32} sekundoj
-STR_1359    :{WINDOW_COLOUR_2}Vicatendada daŭro: {BLACK}{COMMA16} minuto
-STR_1360    :{WINDOW_COLOUR_2}Vicatendada daŭro: {BLACK}{COMMA16} minutoj
+STR_1359    :{WINDOW_COLOUR_2}Vicatenda daŭro: {BLACK}{COMMA16} minuto
+STR_1360    :{WINDOW_COLOUR_2}Vicatenda daŭro: {BLACK}{COMMA16} minutoj
 STR_1361    :Ne eblas ŝanĝi rapidecon…
 STR_1362    :Ne eblas ŝanĝi rapidecon de lanĉo…
 STR_1363    :Tro alta por apogiloj!
@@ -787,14 +787,14 @@ STR_1401    :Elirejo
 STR_1402    :{SMALLFONT}{BLACK}Konstrui aŭ movi enirejon al atrakcio
 STR_1403    :{SMALLFONT}{BLACK}Konstrui aŭ movi elirejon el atrakcio
 STR_1404    :{SMALLFONT}{BLACK}Turni 90°
-STR_1405    :{SMALLFONT}{BLACK}Spegulo-bildigi
+STR_1405    :{SMALLFONT}{BLACK}Speguli bildon
 STR_1406    :{SMALLFONT}{BLACK}Baskuligi pejzaĝon (se disponebla)
 STR_1407    :{WINDOW_COLOUR_2}Konstrui ĉi tion…
 STR_1408    :{WINDOW_COLOUR_2}Kosto: {BLACK}{CURRENCY}
 STR_1409    :Platformo por Eniri/Eliri
 STR_1410    :Vertikala Turo
 STR_1411    :{STRINGID} obstrukcas
-STR_1412    :{WINDOW_COLOUR_3}Protokolado de datumoj ne estas disponebla por ĉi tia atrakcio
+STR_1412    :{WINDOW_COLOUR_3}Protokolado de datumoj ne disponeblas por ĉi tia atrakcio
 STR_1413    :{WINDOW_COLOUR_3}Protokolado de datumoj komenciĝos kiam la sekva {STRINGID} ekveturas el {STRINGID}
 STR_1414    :{SMALLFONT}{BLACK}{DURATION}
 STR_1415    :{WINDOW_COLOUR_2}Rapideco
@@ -1010,7 +1010,7 @@ STR_1624    :{SMALLFONT}“Mi ne pagas tiom por bovaĵaj nudeloj de {STRINGID}�
 STR_1625    :{SMALLFONT}“Mi ne pagas tiom por frititaj riznudeloj de {STRINGID}”
 STR_1626    :{SMALLFONT}“Mi ne pagas tiom por huntuna supo de {STRINGID}”
 STR_1627    :{SMALLFONT}“Mi ne pagas tiom por knela supo de {STRINGID}”
-STR_1628    :{SMALLFONT}“Mi ne pagas tiom por frukotsuko de {STRINGID}”
+STR_1628    :{SMALLFONT}“Mi ne pagas tiom por fruktosuko de {STRINGID}”
 STR_1629    :{SMALLFONT}“Mi ne pagas tiom por sojlakto de {STRINGID}”
 STR_1630    :{SMALLFONT}“Mi ne pagas tiom por suĝongvao de {STRINGID}”
 STR_1631    :{SMALLFONT}“Mi ne pagas tiom por subsandviĉo de {STRINGID}”
@@ -1108,7 +1108,7 @@ STR_1724    :Ne eblas fermi parkon…
 STR_1725    :Ne eblas aĉeti bienon…
 STR_1726    :Bieno ne estas aĉetebla!
 STR_1727    :Rajtoj de konstruado ne estas aĉeteblaj!
-STR_1728    :Ne eblas aĉeti rajtoj de konstruado ĉi tie…
+STR_1728    :Ne eblas aĉeti rajtojn de konstruado ĉi tie…
 STR_1729    :Bieno ne estas posedata de parko!
 STR_1730    :{RED}Fermita
 STR_1731    :{WHITE}{STRINGID} - - 
@@ -1164,7 +1164,7 @@ STR_1786    :{INLINE_SPRITE}{05}{20}{00}{00} Astronaŭtokostumo
 STR_1787    :{INLINE_SPRITE}{06}{20}{00}{00} Banditokostumo
 STR_1788    :{INLINE_SPRITE}{07}{20}{00}{00} Ŝerifokostumo
 STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Piratokostumo
-STR_1790    :{SMALLFONT}{BLACK}Elekti uniformkoloron por tiaspecaj dungitoj
+STR_1790    :{SMALLFONT}{BLACK}Elekti uniformkoloron de tiaj dungitoj
 STR_1791    :{WINDOW_COLOUR_2}Uniformkoloro:
 STR_1792    :Reagas al paneovoko de {STRINGID}
 STR_1793    :Iras al {STRINGID} por inspekto
@@ -1174,8 +1174,8 @@ STR_1796    :Paneita kaj bezonas riparon
 STR_1798    :Akvoturno
 STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1800    :Sekuriga malŝaltado
-STR_1801    :Sekurzonoj ne eblas malŝlosiĝi
-STR_1802    :Sekurzonoj ne eblas ŝlosiĝi
+STR_1801    :Bridoj ne eblas malŝlosiĝi
+STR_1802    :Bridoj ne eblas ŝlosiĝi
 STR_1803    :Pordoj ne eblas malfermi
 STR_1804    :Pordoj ne eblas fermi
 STR_1805    :Paneo de veturilo
@@ -1224,8 +1224,8 @@ STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA32} gastoj
 STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA32} gastoj
 STR_1849    :{WINDOW_COLOUR_2}Ludi muzikon
 STR_1850    :{SMALLFONT}{BLACK}Elekti ĉu muziko devus ludi por ĉi tiu atrakcio
-STR_1851    :{WINDOW_COLOUR_2}Kosto por funkciado: {BLACK}po {CURRENCY2DP} por horo
-STR_1852    :{WINDOW_COLOUR_2}Kosto por funkciado: {BLACK}Nekonata
+STR_1851    :{WINDOW_COLOUR_2}Kosto por funkcii: {BLACK}po {CURRENCY2DP} por horo
+STR_1852    :{WINDOW_COLOUR_2}Kosto por funkcii: {BLACK}Nekonata
 STR_1853    :{WINDOW_COLOUR_2}Konstruita: {BLACK}Ĉi-jare
 STR_1854    :{WINDOW_COLOUR_2}Konstruita: {BLACK}Lastjare
 STR_1855    :{WINDOW_COLOUR_2}Konstruita: {BLACK}Antaŭ {COMMA16} jaroj
@@ -1530,7 +1530,7 @@ STR_2169    :Brecon
 STR_2170    :Varman Ĉokoladon
 STR_2171    :Glacian Teon
 STR_2172    :Funelkukon
-STR_2173    :paron de Sunokulvitroj
+STR_2173    :paron da Sunokulvitroj
 STR_2174    :iom da Bovaĵaj Nudeloj
 STR_2175    :iom da Frititaj Riznudeloj
 STR_2176    :iom da Huntuna Supo
@@ -1583,7 +1583,7 @@ STR_2225    :{WINDOW_COLOUR_2}Mono: {RED}{CURRENCY2DP}
 STR_2226    :{WINDOW_COLOUR_2}Parkvaloro: {BLACK}{CURRENCY}
 STR_2227    :{WINDOW_COLOUR_2}Firmvaloro: {BLACK}{CURRENCY}
 STR_2228    :{WINDOW_COLOUR_2}Profito de pasinta monato pro vendado de{NEWLINE}manĝaĵoj/trinkaĵoj kaj komercaĵoj: {BLACK}{CURRENCY}
-STR_2229    :Deklivo vertikala parto
+STR_2229    :Deklivo al vertikala parto
 STR_2230    :Vertikala trako
 STR_2231    :Bremsoj por malleviĝo
 STR_2232    :Kablolifto monteto
