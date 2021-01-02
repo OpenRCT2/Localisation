@@ -1186,7 +1186,7 @@ STR_1808    :{WINDOW_COLOUR_2}Última avaria: {BLACK}{STRINGID}
 STR_1809    :{WINDOW_COLOUR_2}Avaria actual: {OUTLINE}{RED}{STRINGID}
 STR_1810    :{WINDOW_COLOUR_2}Càrrega:
 STR_1811    :No es pot construir aquí…
-STR_1812    :{STRINGID}
+STR_1812    :{SMALLFONT}{BLACK}{STRINGID}
 STR_1813    :Altres objectes
 STR_1814    :Accions
 STR_1815    :Pensaments
@@ -3312,7 +3312,7 @@ STR_6030    :Seleccionador de decoracions. Seleccioneu una decoració del mapa p
 STR_6031    :Descripció del servidor:
 STR_6032    :Missatge de benvinguda:
 STR_6033    :Camí de la instal·lació del RCT1:
-STR_6034    :{STRING}
+STR_6034    :{SMALLFONT}{BLACK}{STRING}
 STR_6035    :Seleccioneu el camí d'instal·lació del RCT1
 STR_6036    :Esborra
 STR_6037    :La carpeta seleccionada no conté una instal·lació del RCT1 vàlida.
@@ -3340,8 +3340,8 @@ STR_6058    :Silencia
 STR_6059    :»
 STR_6060    :Mostra animacions de compres
 STR_6061    :Mostra un efecte mostrant les compres{NEWLINE}que fan els visitants.
-STR_6062    :{OUTLINE}{GREEN}+{CURRENCY2DP}
-STR_6063    :{OUTLINE}{RED}-{CURRENCY2DP}
+STR_6062    :{OUTLINE}{GREEN}+ {CURRENCY2DP}
+STR_6063    :{OUTLINE}{RED}- {CURRENCY2DP}
 STR_6064    :Compra tots els terrenys
 STR_6065    :Registra accions d'usuari
 STR_6066    :Registra totes les accions d'usuari en un arxiu a la vostra carpeta.
