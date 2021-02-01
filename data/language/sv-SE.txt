@@ -1822,7 +1822,7 @@ STR_2478    :Visa graf med hastighet över tid
 STR_2479    :Visa graf med höjd över tid
 STR_2480    :Visa graf med vertikal acceleration över tid
 STR_2481    :Visa graf med lateral acceleration över tid
-STR_2482    :Vinst: {CURRENCY} per vecka,  parkvärde: {CURRENCY}
+STR_2482    :Vinst: {CURRENCY} per vecka, parkvärde: {CURRENCY}
 STR_2483    :{WINDOW_COLOUR_2}Veckovis vinst: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Veckovis vinst: {RED}{CURRENCY2DP}
 STR_2487    :Visa ’riktiga’ namn på besökare
@@ -3631,7 +3631,7 @@ STR_6371    :Den angivna sökvägen innehåller en installation av RollerCoaster
 STR_6372    :Den angivna sökvägen innehåller en installation av RollerCoaster Tycoon 1, men av en version som inte är lämplig. OpenRCT2 behöver en installation av Loopy Landscapes eller RCT Deluxe för att använda resurser från RollerCoaster Tycoon 1.
 STR_6373    :Aktivera eller avaktivera kontroller för fri höjd
 STR_6374    :F
-STR_6375    :Okänd Åktur
+STR_6375    :Okänd åktur
 STR_6376    :{WINDOW_COLOUR_2}Fordon:{NEWLINE}{BLACK}{STRINGID} för {STRINGID}
 STR_6377    :{WINDOW_COLOUR_2}Typ: {BLACK}{STRINGID} för {STRINGID}
 STR_6378    :Mottar objektlista: {INT32} / {INT32}
@@ -3646,7 +3646,7 @@ STR_6386    :Snöstorm
 STR_6387    :Kan inte sänka element här…
 STR_6388    :Kan inte höja element här…
 STR_6389    :Ogiltig fri höjd
-STR_6390    :OpenRCT2 needs files from the original RollerCoaster Tycoon 2 in order to work. Please select the directory where you installed RollerCoaster Tycoon 2.
+STR_6390    :OpenRCT2 behöver filer från det originala RollerCoaster Tycoon 2 för att fungera. Välj mappen där du installerat RollerCoaster Tycoon 2.
 STR_6391    :Välj din RCT2-mapp
 STR_6392    :Kunde inte hitta {STRING} på denna sökvägen.
 STR_6393    :Val av uppdrag
@@ -3654,7 +3654,8 @@ STR_6394    :Uppdrag
 STR_6395    :Underhåll
 STR_6396    :Avaktivera skärmsläckare och strömspar
 STR_6397    :Om markerad, stängs skärmsläckare och andra strömsparfunktioner av medan OpenRCT2 körs.
-STR_6398    :Filen innehåller attraktioner som saknar stöd. Uppdatera till en senare version av OpenRCT2.
+STR_6398    :Filen innehåller attraktioner som det saknas stöd för. Uppdatera till en senare version av OpenRCT2.
+STR_6399    :OpenRCT2 behöver filer från det originala RollerCoaster Tycoon 2 för att fungera. Sätt ”game_path”-variabeln i config.ini till att peka på mappen där du intallerat RollerCoaster Tycoon 2, och starta sedan om OpenRCT2.
 STR_6400    :Jag har GOG offline-installationsfilen för RollerCoaster Tycoon 2, men har inte installerat den
 STR_6401    :Jag har redan installerat RollerCoaster Tycoon 2
 STR_6402    :OpenRCT2 datakonfiguration
@@ -4477,5 +4478,4 @@ STR_SCNR    :Panda World
 STR_PARK    :Panda World
 STR_DTLS    :Bygg flera attraktioner för att locka folk till denna panda-inspirerade park
 
-#Maintainer: Nubbie
 #Everyone is allowed to edit this document
