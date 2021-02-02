@@ -1,25 +1,25 @@
 {
   "rct2.glthent": {
     "reference-name": "'Goliath' Sign",
-    "name": "'Goliath' skylt"
+    "name": "’Goliat’-skylt"
   },
   "rct2.mdsaent": {
     "reference-name": "'Medusa' Sign",
-    "name": "'Medusa' skylt"
+    "name": "’Medusa’-skylt"
   },
   "rct2.nitroent": {
     "reference-name": "'Nitro' Sign",
-    "name": "'Nitro' skylt"
+    "name": "’Nitro’-skylt"
   },
   "rct2.walltxgt": {
     "reference-name": "'Texas Giant' Sign",
-    "name": "'Texas Giant'-skylt"
+    "name": "’Texas Giant’-skylt"
   },
   "rct2.tt.1920racr": {
     "reference-name": "1920s Racing Cars",
     "name": "20-tals-racing",
     "reference-description": "1920s race car themed go-karts",
-    "description": "Förarna tävlar mot varandra i gokarts som ser ut som racerbilar från 20-talet.",
+    "description": "Gokarts inspirerade av racerbilar från 20-talet.",
     "reference-capacity": "Single-seater",
     "capacity": "Ensitsig"
   },
@@ -39,7 +39,7 @@
     "reference-name": "1950s Rockets",
     "name": "50-talsraket",
     "reference-description": "Suspended rocket-shaped roller coaster trains consisting of cars able to swing freely as the train goes around corners",
-    "description": "Berg- och dalbanevagnar accelererar först ut från stationen och färdas snabbt uppför en vertikal bana för att sedan snabbt backa genom stationen och färdas uppför en ny vertikal bana",
+    "description": "Raketformade tåg hängande under banan, som svingar ut åt sidan i kurvorna",
     "reference-capacity": "4 passengers per car",
     "capacity": "4 passagerare per vagn"
   },
@@ -47,7 +47,7 @@
     "reference-name": "3D Cinema",
     "name": "3D-bio",
     "reference-description": "Cinema showing 3D films inside a geodesic sphere shaped building",
-    "description": "Bio som visar 3D filmer inuti en geodetisk sfäriskt formad byggnad",
+    "description": "Bio som visar 3D filmer inuti en byggnad i form av en geodetisk sfär",
     "reference-capacity": "20 guests",
     "capacity": "20 besökare"
   },
@@ -61,17 +61,17 @@
   },
   "rct2.nemt": {
     "reference-name": "4-across Inverted Roller Coaster Trains",
-    "name": "Omvänd berg- och dalbana",
+    "name": "4-i-bredd-vagnar för inverterad berg- och dalbana",
     "reference-description": "Suspended trains in which riders sit in rows",
-    "description": "Passagerarna sitter i säten upphängda under spåret medan de rusar genom jätteloopar, skruvar och stora ryckiga stup",
+    "description": "Upphängda tåg där passagerarna sitter i rader",
     "reference-capacity": "4 passengers per car",
     "capacity": "4 passagerare per vagn"
   },
   "rct2.intbob": {
     "reference-name": "6-seater Bobsleighs",
-    "name": "Flyganfall",
+    "name": "6-sitsiga bobslädevagnar",
     "reference-description": "Bobsleighs with three seating rows, with room for two people on each",
-    "description": "Passagerarna halas nerför ett snott spår i en stor bobsläde som endast styrs av krökningen och påskjutningen av det halvcirkulära spåret",
+    "description": "Bobslädar med tre tvåsitsiga platser i rad",
     "reference-capacity": "6 passengers per car",
     "capacity": "6 passagerare per vagn"
   },
@@ -109,7 +109,7 @@
   },
   "rct2.ww.1x2abr01": {
     "reference-name": "Aboriginal Plain Tile",
-    "name": "Urinnevånares tom platta"
+    "name": "Urinnevånare, tom platta"
   },
   "rct2.ww.1x2abr02": {
     "reference-name": "Aboriginal Snake Artwork",
@@ -121,7 +121,7 @@
   },
   "rct2.station.abstract": {
     "reference-name": "Abstract",
-    "name": "Abstract"
+    "name": "Abstrakt"
   },
   "rct2.scgabstr": {
     "reference-name": "Abstract Theming",
@@ -145,7 +145,7 @@
   },
   "rct2.ww.africent": {
     "reference-name": "Africa Park Entrance",
-    "name": "Ingång till afrikansk park"
+    "name": "Afrikansk parkentré"
   },
   "rct2.ww.scgafric": {
     "reference-name": "Africa Theming",
@@ -153,17 +153,17 @@
   },
   "rct2.thcar": {
     "reference-name": "Air Powered Vertical Coaster Trains",
-    "name": "Lufttrycksdriven lodrät bana",
+    "name": "Vagnar för tryckluftsdriven vertikal bana",
     "reference-description": "Air-powered launched roller coaster trains",
-    "description": "Efter en upprymd luftdriven start ökar tåget hastigheten upp för ett lodrätt spår över toppen och lodrätt ner på andra sidan för att återvända till stationen",
+    "description": "Vagnar för luftdriven katapultbana",
     "reference-capacity": "2 passengers per car",
     "capacity": "2 passagerare per vagn"
   },
   "rct2.tt.zeplelin": {
     "reference-name": "Airship Themed Monorail Trains",
-    "name": "Monorailtåg med luftskeppstema",
+    "name": "Balkbanetåg med luftskeppstema",
     "reference-description": "Large capacity themed monorail trains with streamlined front and rear cars",
-    "description": "Monorailtåg med strömlinjeformade fram- och bakvagnar och med hög kapacitet.",
+    "description": "Balkbanetåg med hög kapaitet och strömlinjeformade fram- och bakvagnar.",
     "reference-capacity": "8 passengers per car",
     "capacity": "8 passagerare per vagn"
   },
@@ -259,13 +259,13 @@
     "reference-name": "American Style Steam Trains",
     "name": "Amerikanska ånglokomotiv",
     "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
-    "description": "Miniångtåg som består av kopior av ånglokomotiv och drar mjukt trävagnarna med tygtak",
+    "description": "Miniatyrångtåg som består av kopior på gammeldags ånglokomotiv med tender, som drar trävagnar med tygtak",
     "reference-capacity": "6 passengers per carriage",
     "capacity": "6 passagerare per fordon"
   },
   "rct2.ww.anaconda": {
     "reference-name": "Anaconda Trains",
-    "name": "Anaconda-bana",
+    "name": "Anaconda-vagnar",
     "reference-description": "Spacious trains with simple lap restraints",
     "description": "Rymliga vagnar med enkel fastspänning",
     "reference-capacity": "6 passengers per car",
@@ -277,7 +277,7 @@
   },
   "rct2.ww.sballoon": {
     "reference-name": "Animated Balloons",
-    "name": "Ballonger 1"
+    "name": "Animerade ballonger"
   },
   "rct2.ww.campfani": {
     "reference-name": "Animated Camp Fire",
@@ -457,7 +457,7 @@
   },
   "rct2.tt.medtrget": {
     "reference-name": "Archery Target",
-    "name": "Piltavla"
+    "name": "Pilbågstavla"
   },
   "rct2.tac": {
     "reference-name": "Arizona Cypress Tree",
@@ -589,7 +589,7 @@
     "reference-name": "Articulated Roller Coaster Trains",
     "name": "Tåg med ledvagnar",
     "reference-description": "Roller coaster trains with short single-row cars and open fronts",
-    "description": "Berg- och dalbanetåg med korta enkelradsvagnar och öppna fronter",
+    "description": "Berg- och dalbanetåg med korta enkelradsvagnar med öppen framsida",
     "reference-capacity": "2 passengers per car",
     "capacity": "2 passagerare per vagn"
   },
@@ -623,7 +623,7 @@
   },
   "rct2.ww.ozentran": {
     "reference-name": "Australasian Park Entrance",
-    "name": "Ingång till australiensisk park"
+    "name": "Australiensk parkentré"
   },
   "rct2.ww.scgaustr": {
     "reference-name": "Australasian Theming",
@@ -679,11 +679,11 @@
   },
   "rct2.ww.balllant": {
     "reference-name": "Ball Lantern",
-    "name": "Cirkelformad lykta"
+    "name": "Klotlykta"
   },
   "rct2.ww.balllan2": {
     "reference-name": "Ball Lantern",
-    "name": "Cirkelformad lykta"
+    "name": "Klotlykta"
   },
   "rct2.balln": {
     "reference-name": "Balloon Stall",
@@ -705,11 +705,11 @@
   },
   "rct2.ww.bamborf1": {
     "reference-name": "Bamboo Roof Corner",
-    "name": "Bambutak"
+    "name": "Taknock på bambutak"
   },
   "rct2.ww.bamborf3": {
     "reference-name": "Bamboo Roof Inverted Corner",
-    "name": "Bambutak"
+    "name": "Bambutak med vinkelränna"
   },
   "official.pandagr": {
     "reference-name": "Bamboo Shoots",
@@ -717,51 +717,51 @@
   },
   "rct2.ww.wbambo13": {
     "reference-name": "Bamboo Wall",
-    "name": "Bambumur"
+    "name": "Bambuvägg"
   },
   "rct2.ww.wbambo05": {
     "reference-name": "Bamboo Wall",
-    "name": "Bambumur"
+    "name": "Bambuvägg"
   },
   "rct2.ww.wbambo21": {
     "reference-name": "Bamboo Wall",
-    "name": "Bambumur"
+    "name": "Bambuvägg"
   },
   "rct2.ww.wbambo02": {
     "reference-name": "Bamboo Wall",
-    "name": "Bambumur"
+    "name": "Bambuvägg"
   },
   "rct2.ww.wbambo11": {
     "reference-name": "Bamboo Wall",
-    "name": "Bambumur"
+    "name": "Bambuvägg"
   },
   "rct2.ww.wbambo03": {
     "reference-name": "Bamboo Wall",
-    "name": "Bambumur"
+    "name": "Bambuvägg"
   },
   "rct2.ww.wbambo04": {
     "reference-name": "Bamboo Wall",
-    "name": "Bambumur"
+    "name": "Bambuvägg"
   },
   "rct2.ww.wbambo15": {
     "reference-name": "Bamboo Wall",
-    "name": "Bambumur"
+    "name": "Bambuvägg"
   },
   "rct2.ww.wbambo01": {
     "reference-name": "Bamboo Wall",
-    "name": "Bambumur"
+    "name": "Bambuvägg"
   },
   "rct2.ww.wbambo14": {
     "reference-name": "Bamboo Wall",
-    "name": "Bambumur"
+    "name": "Bambuvägg"
   },
   "rct2.ww.wbambopc": {
     "reference-name": "Bamboo Wall",
-    "name": "Bambumur"
+    "name": "Bambuvägg"
   },
   "rct2.ww.wbambo12": {
     "reference-name": "Bamboo Wall",
-    "name": "Bambumur"
+    "name": "Bambuvägg"
   },
   "rct2.tt.stgband4": {
     "reference-name": "Band Member",
@@ -785,9 +785,9 @@
   },
   "rct2.tt.barnstrm": {
     "reference-name": "Barnstorming Trains",
-    "name": "Ladugårdsstorm",
+    "name": "Flygande cirkus-tåg",
     "reference-description": "Inverted roller coaster trains for the Inverted Impulse Coaster, in the shape of double decker aeroplanes",
-    "description": "Passagerarna sitter i säten som hänger under spåret och färdas i hög fart genom gigantiska loopar, svängar och höga fall.",
+    "description": "Inverterade berg- och dalbanetåg till inverterad impulsbana, i form av dubbeldäckarflygplan",
     "reference-capacity": "4 passengers per car",
     "capacity": "4 passagerare per vagn"
   },
@@ -827,7 +827,7 @@
     "reference-name": "Battering Ram Trains",
     "name": "Rusande murbräcka",
     "reference-description": "Compact roller coaster trains with cars with in-line seating, themed to look like battering rams from the Dark Age",
-    "description": "En kompakt berg-och dalbana med stålskena, spiralformad lyftbacke och vagnar med säten i rad.",
+    "description": "Kompakta berg- och dalbanetåg med säten i rad, tematiserade för att likna en medeltida murbräcka",
     "reference-capacity": "6 passengers per car",
     "capacity": "6 passagerare per vagn"
   },
@@ -855,9 +855,9 @@
   },
   "rct2.ww.tigrtwst": {
     "reference-name": "Bengal Tiger Cars",
-    "name": "Bengalisk tiger",
+    "name": "Bengalisk tiger-vagn",
     "reference-description": "Roller coaster cars capable of heartline twists, themend to look like Bengal tigers",
-    "description": "Berg- och dalbana med tvära svängar",
+    "description": "Vagnar till skruvberg- och dalbana, målade för att likna bengaliska tigrar",
     "reference-capacity": "4 passengers per car",
     "capacity": "4 passagerare per vagn"
   },
@@ -865,7 +865,7 @@
     "reference-name": "Bicycles",
     "name": "Enspårs-cyklar",
     "reference-description": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
-    "description": "Speciella cyklar kör på en enspårig skena drivna genom passagerarnas pedaler",
+    "description": "Speciella cyklar som passagerarna själva trampar fram längs en stålskensbana",
     "reference-capacity": "1 rider per bicycle",
     "capacity": "1 passagerare per cykel"
   },
@@ -895,9 +895,9 @@
   },
   "rct2.tt.blckdeth": {
     "reference-name": "Black Death Trains",
-    "name": "Digerdöden",
+    "name": "Digerdöden-vagnar",
     "reference-description": "Rat-shaped trains consisting of 2-seater cars where the riders are behind each other",
-    "description": "Passagerarna dundrar nerför ett slingrande spår i råttvagnar som styrs enbart av det halvcirkelformade spårets kurvatur och lutning.",
+    "description": "Tvåsitsiga råttformade vagnar där passagerarna sitter bakom varandra",
     "reference-capacity": "2 passengers per car",
     "capacity": "2 passagerare per vagn"
   },
@@ -907,11 +907,11 @@
   },
   "rct2.tk2": {
     "reference-name": "Black Knight",
-    "name": "Svart riddare"
+    "name": "Svart springare"
   },
   "rct2.tp2": {
     "reference-name": "Black Pawn",
-    "name": "Svart schackpjäs"
+    "name": "Svart bonde"
   },
   "rct2.tbp": {
     "reference-name": "Black Poplar Tree",
@@ -929,7 +929,7 @@
     "reference-name": "Blob from Outer Space",
     "name": "Blobb från yttre rymden",
     "reference-description": "A themed rotating observation cabin shaped like a blob from a sci-fi B-film",
-    "description": "En roterande observationskabin som färdas upp i ett högt torn.",
+    "description": "En roterande observationskabin i form av en sci-fi B-filmsblobb",
     "reference-capacity": "20 passengers",
     "capacity": "20 passagerare"
   },
@@ -943,9 +943,9 @@
   },
   "rct2.bob1": {
     "reference-name": "Bobsleigh Trains",
-    "name": "Bobslädesbana",
+    "name": "Bobslädeståg",
     "reference-description": "Trains consisting of 2-seater cars where the riders are behind each other",
-    "description": "Passagerarna åker ner för ett skruvat spår i en bobslädeformad vagn som endast styrs av svängarna och böjningen av det halvrunda spåret",
+    "description": "Tåg bestående av tvåsitsiga vagnar där passagerarna sitter bakom varandra",
     "reference-capacity": "2 passengers per car",
     "capacity": "2 passagerare per vagn"
   },
@@ -971,15 +971,15 @@
   },
   "rct2.ww.bomerang": {
     "reference-name": "Boomerang Trains",
-    "name": "Bumerangbana",
+    "name": "Bumerangtåg",
     "reference-description": "Air-powered launched roller coaster trains in the shape of boomerangs",
-    "description": "Efter en luftdriven snabbstart susar vagnarna uppför och nedför en vertikal bana innan de återvänder till stationen",
+    "description": "Bumerangformade tåg till luftdriven vertikal bana",
     "reference-capacity": "2 passengers per car",
     "capacity": "2 passagerare per vagn"
   },
   "rct1.edge.brick": {
     "reference-name": "Brick",
-    "name": "Brick"
+    "name": "Tegelsten"
   },
   "rct2.wbr1": {
     "reference-name": "Brick Wall",
@@ -1007,15 +1007,15 @@
   },
   "rct2.tbw": {
     "reference-name": "Broken Wheel",
-    "name": "Trasiga hjul"
+    "name": "Trasigt hjul"
   },
   "rct2.tarmacb": {
     "reference-name": "Brown Tarmac Footpath",
-    "name": "Brun plattformsgång"
+    "name": "Brun asfalterad gångväg"
   },
   "rct1.pathtilb": {
     "reference-name": "Brown Tiled Footpath",
-    "name": "Brown Tiled Footpath"
+    "name": "Brun stenlagd gångväg"
   },
   "rct2.tt.tarpit03": {
     "reference-name": "Bubbling Tarpit",
@@ -1091,9 +1091,9 @@
   },
   "rct2.ww.bullet": {
     "reference-name": "Bullet Trains",
-    "name": "Bulletbana",
+    "name": "Höghastighetståg",
     "reference-description": "Japanese Bullet Train themed roller coaster cars",
-    "description": "Berg- och dalbana med japanska bullet-vagnar",
+    "description": "Berg- och dalbanevagnar som liknar japanska ’Shinkansen’-höghastighetståg",
     "reference-capacity": "4 passengers per car",
     "capacity": "4 passagerare per vagn"
   },
@@ -1105,7 +1105,7 @@
     "reference-name": "Bumper Boats",
     "name": "Krockbåtar",
     "reference-description": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
-    "description": "Små runda skeppsjollar som drivs av en centralmonterad motor som styrs av passagerarna",
+    "description": "Små runda skeppsjollar som drivs av en centralmonterad motor och styrs av passagerarna",
     "reference-capacity": "2 passengers per boat",
     "capacity": "2 passagerare per båt"
   },
