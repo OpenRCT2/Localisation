@@ -31,15 +31,15 @@ In each commit you create regarding a language file change, start the commit des
 
 As this project always are moving forward, new strings get added from time to time which means they need to be added to the language files and be translated. All the new strings that are being added can be found in ['issues'](https://github.com/OpenRCT2/Localisation/issues) on the localisation webpage here on GitHub. To be a maintainer means that you have to add the new strings found on the issues page into the language you're translating in numerical order.
 
-If you want to become a maintainer, tell us what language you will be maintaining on [Discord](https://discord.gg/sxnrvX9). 
+If you want to become a maintainer, tell us what language you will be maintaining on [Discord](https://discord.gg/sxnrvX9).
 
 ### Checking & testing strings in-game
 You can always test the translated strings in-game before publishing a pull request. This can be especially handy to see if the strings fits the window.<br/>
 To do this, go to the directory where OpenRCT2 resides (not to be confused with the directory where it saves your parks and config!), then go to `data/language` and replace the existing file with your updated version.
 
 ### Language Status
-| Newest strings can be found in [issues](https://github.com/OpenRCT2/Localisation/issues) | 
-| -----------------------------------------------------------------------------------------| 
+| Newest strings can be found in [issues](https://github.com/OpenRCT2/Localisation/issues) |
+| -----------------------------------------------------------------------------------------|
 
 | Language | Maintainer |
 | -------- | ---------- |
@@ -60,20 +60,20 @@ To do this, go to the directory where OpenRCT2 resides (not to be confused with 
 | [![](https://img.shields.io/badge/nl--NL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nl-NL.txt) | [Gymnasiast](https://github.com/Gymnasiast )      |
 | [![](https://img.shields.io/badge/pl--PL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pl-PL.txt)  | [marcinkunert](https://github.com/marcinkunert) |
 | [![](https://img.shields.io/badge/pt--BR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pt-BR.txt) | [renansimoes](https://github.com/renansimoes), [Tupaschoal](https://github.com/Tupaschoal)      |
-| [![](https://img.shields.io/badge/sv--SE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/sv-SE.txt) | [Nubbie](https://github.com/Nubbie)                |
 | [![](https://img.shields.io/badge/zh--CN-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-CN.txt) | [izhangfei](https://github.com/izhangfei)          |
 | [![](https://img.shields.io/badge/zh--TW-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-TW.txt) | [daihakken](https://github.com/daihakken)         |
 | Not maintained <!-- Languages that are outdated with strings missing from OpenRCT2/vanilla-->| |                                                 
 | [![](https://img.shields.io/badge/fi--FI-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fi-FI.txt)  |                                                    |
+| [![](https://img.shields.io/badge/sv--SE-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/sv-SE.txt) |                                                    |
 | [![](https://img.shields.io/badge/tr--TR-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/tr-TR.txt)  |                                                    |
 | [![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt)     |                                                    |
 
 | en-US only contains strings that differ from en-GB <!--en-US doesn't get updated more than it's needed-->           
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [![](https://img.shields.io/badge/en--US-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/en-US.txt) |         -Anyone-         |
 
 Note:  The status bars can be inaccurate & some maintainers can be more inactive than others.<br/>
-Anyone can still contribute to the languages. 
+Anyone can still contribute to the languages.
 
 ### Questions & Support
 
