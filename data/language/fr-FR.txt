@@ -1581,7 +1581,7 @@ STR_2218    :{RED}{STRINGID} sur {STRINGID} n’est pas encore revenu à {STRING
 STR_2219    :{RED}{COMMA16} personnes sont décédées dans un accident sur {STRINGID}
 STR_2220    :{WINDOW_COLOUR_2}Evaluation du parc : {BLACK}{COMMA16}
 STR_2221    :Evaluation du parc : {COMMA16}
-STR_2222    :{SMALLFONT}{BLACK}{STRINGID}
+STR_2222    :{BLACK}{STRINGID}
 STR_2223    :{WINDOW_COLOUR_2}Visiteurs dans le parc : {BLACK}{COMMA32}
 STR_2224    :{WINDOW_COLOUR_2}Argent : {BLACK}{CURRENCY2DP}
 STR_2225    :{WINDOW_COLOUR_2}Argent : {RED}{CURRENCY2DP}
@@ -3618,7 +3618,7 @@ STR_6356    :Fait apparaitre des canards si le parc contient de l’eau.
 STR_6357    :Supprime tous les cannards de la carte.
 STR_6358    :Page {UINT16}
 STR_6359    :{POP16}{POP16}Page {UINT16}
-STR_6360    :{SMALLFONT}{BLACK}{COMMA32}
+STR_6360    :{BLACK}{COMMA32}
 STR_6361    :Activer les effets de lumières sur les{NEWLINE}attractions (expérimental)
 STR_6362    :Si activé, les véhicules sur les attractions sur rails seront éclairés la nuit.
 STR_6363    :Texte copié dans le presse-papier

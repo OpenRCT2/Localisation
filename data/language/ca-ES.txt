@@ -1579,7 +1579,7 @@ STR_2218    :{RED}{STRINGID} de {STRINGID} encara no ha tornat a {STRINGID}!{NEW
 STR_2219    :{RED}{COMMA16} persones han mort en l'accident de {STRINGID}
 STR_2220    :{WINDOW_COLOUR_2}Valoració del parc: {BLACK}{COMMA16}
 STR_2221    :Valoració del parc: {COMMA16}
-STR_2222    :{SMALLFONT}{BLACK}{STRINGID}
+STR_2222    :{BLACK}{STRINGID}
 STR_2223    :{WINDOW_COLOUR_2}Visitants del parc: {BLACK}{COMMA32}
 STR_2224    :{WINDOW_COLOUR_2}Efectiu: {BLACK}{CURRENCY2DP}
 STR_2225    :{WINDOW_COLOUR_2}Efectiu: {RED}{CURRENCY2DP}
@@ -3616,7 +3616,7 @@ STR_6356    :Apareixeran ànecs si el parc té aigua.
 STR_6357    :Treu tots els ànecs del mapa.
 STR_6358    :Pàgina {UINT16}
 STR_6359    :{POP16}{POP16}Pàgina {UINT16}
-STR_6360    :{SMALLFONT}{BLACK}{COMMA32}
+STR_6360    :{BLACK}{COMMA32}
 STR_6361    :Activa els efectes d'enllumenat de les atraccions (experimental)
 STR_6362    :Si s'activa, els vehicles de les atraccions amb vies s'encendran durant la nit.
 STR_6363    :S'ha copiat el text al porta-retalls.

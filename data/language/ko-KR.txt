@@ -1582,7 +1582,7 @@ STR_2218    :{RED}{POP16}{POP16}{STRINGID}의 {PUSH16}{PUSH16}{PUSH16}{PUSH16}{P
 STR_2219    :{RED}{COMMA16}명의 손님이 {STRINGID} 사고로 사망하였습니다!
 STR_2220    :{WINDOW_COLOUR_2}공원 등급: {BLACK}{COMMA16}
 STR_2221    :공원 등급: {COMMA16}
-STR_2222    :{SMALLFONT}{BLACK}{STRINGID}
+STR_2222    :{BLACK}{STRINGID}
 STR_2223    :{WINDOW_COLOUR_2}공원에 있는 손님 수: {BLACK}{COMMA32}
 STR_2224    :{WINDOW_COLOUR_2}재정: {BLACK}{CURRENCY2DP}
 STR_2225    :{WINDOW_COLOUR_2}재정: {RED}{CURRENCY2DP}
@@ -3616,7 +3616,7 @@ STR_6356    :공원에 물이 있을 경우 오리를 생성합니다
 STR_6357    :공원에 있는 모든 오리를 제거합니다
 STR_6358    :{UINT16}쪽
 STR_6359    :{POP16}{POP16}{UINT16}쪽
-STR_6360    :{SMALLFONT}{BLACK}{COMMA32}
+STR_6360    :{BLACK}{COMMA32}
 STR_6361    :차량 조명 효과 (실험적 기능)
 STR_6362    :이 설정을 켜면, 밤에 트랙형 놀이기구의 차량에 조명이 들어옵니다.
 STR_6363    :텍스트를 클립보드에 복사하였습니다

@@ -1579,7 +1579,7 @@ STR_2218    :{RED}{STRINGID} på {STRINGID} har inte kommit tillbaka till {STRIN
 STR_2219    :{RED}{COMMA16} personer har omkommit i en olycka på {STRINGID}
 STR_2220    :{WINDOW_COLOUR_2}Parkomdöme: {BLACK}{COMMA16}
 STR_2221    :Parkomdöme: {COMMA16}
-STR_2222    :{SMALLFONT}{BLACK}{STRINGID}
+STR_2222    :{BLACK}{STRINGID}
 STR_2223    :{WINDOW_COLOUR_2}Antal besökare: {BLACK}{COMMA32}
 STR_2224    :{WINDOW_COLOUR_2}Pengar: {BLACK}{CURRENCY2DP}
 STR_2225    :{WINDOW_COLOUR_2}Pengar: {RED}{CURRENCY2DP}
@@ -3616,7 +3616,7 @@ STR_6356    :Sätter ut ankor om parken innehåller vatten
 STR_6357    :Tar bort alla ankor från kartan
 STR_6358    :Sida {UINT16}
 STR_6359    :{POP16}{POP16}Sida {UINT16}
-STR_6360    :{SMALLFONT}{BLACK}{COMMA32}
+STR_6360    :{BLACK}{COMMA32}
 STR_6361    :Aktivera ljuseffekter på åkturer (experiment)
 STR_6362    :Om aktiverad, lyses vagnar på spår upp om natten.
 STR_6363    :Text kopierad till urklipp
