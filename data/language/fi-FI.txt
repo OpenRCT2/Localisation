@@ -9,13 +9,13 @@ STR_0004    :Riippukeinuvuoristorata
 STR_0005    :Käänteinen vuoristorata
 STR_0006    :Juniorivuoristorata
 STR_0007    :Pienoisrautatie
-STR_0008    :Yksiraiteinen rautatie
-STR_0009    :Pieni riippuva vuoristorata
+STR_0008    :Kohorata
+STR_0009    :Riippuva pienoisvuoristorata
 STR_0010    :Veneajelu
 STR_0011    :Puinen villihiiri
 STR_0012    :Estejuoksu
 STR_0013    :Autoajelu
-STR_0014    :Laukaistu vapaapudotus
+STR_0014    :Vapaapudotustorni
 STR_0015    :Rattikelkkarata
 STR_0016    :Näköalatorni
 STR_0017    :Silmukkavuoristorata
@@ -43,16 +43,16 @@ STR_0038    :Vessa
 STR_0039    :Maailmanpyörä
 STR_0040    :Simulaattori
 STR_0041    :3D-teatteri
-STR_0042    :Yläpyörähdys
+STR_0042    :Kieputin
 STR_0043    :Avaruusrenkaat
-STR_0044    :Päinvastainen vapaapudotusrata
+STR_0044    :Käänteinen vapaapudotusrata
 STR_0045    :Hissi
 STR_0046    :Pystysuora tiputusvuoristorata
 STR_0047    :Pankkiautomaatti
 STR_0048    :Vääntö
 STR_0049    :Kummitustalo
 STR_0050    :Ensiapuhuone
-STR_0051    :Sirkusesitys
+STR_0051    :Sirkus
 STR_0052    :Kummitusjuna
 STR_0053    :Teräskiehkuravuoristorata
 STR_0054    :Puinen vuoristorata
@@ -62,20 +62,20 @@ STR_0057    :Moniulottuvuusvuoristorata
 STR_0058    :Tuntematon laite (38)
 STR_0059    :Lentävä vuoristorata
 STR_0060    :Tuntematon laite (3A)
-STR_0061    :Virginian kela
+STR_0061    :Virginia-rulla
 STR_0062    :Roiskahdusveneet
 STR_0063    :Minihelikopterit
 STR_0064    :Makuuvuoristorata
-STR_0065    :Riippuva yksiraiteinen rautatie
+STR_0065    :Riippuva kohorata
 STR_0066    :Tuntematon laite (40)
-STR_0067    :Päinvastainen vuoristorata
+STR_0067    :Käänteinen vuoristorata
 STR_0068    :Sydänviivakiehkurarata
-STR_0069    :Minigolffi
-STR_0070    :Jättirata
+STR_0069    :Minigolf
+STR_0070    :Gigarata
 STR_0071    :Pyörivä tiputus
 STR_0072    :Lentävät lautaset
 STR_0073    :Kiero talo
-STR_0074    :Yksiraiteiset polkupyörät
+STR_0074    :Raidepolkupyörät
 STR_0075    :Tiivis käänteinen rata
 STR_0076    :Vesirata
 STR_0077    :Ilmakäyttöinen pystysuora rata
@@ -94,8 +94,8 @@ STR_0088    :Käänteinen impulssirata
 STR_0089    :Minivuoristorata
 STR_0090    :Kaivosajelu
 STR_0091    :Tuntematon laite (59)
-STR_0092    :Induktiomoottorilaukaisuvuoristorata
-STR_0093    :Hybrid Coaster
+STR_0092    :Laukaisuvuoristorata
+STR_0093    :Hybridivuoristorata
 STR_0094    :Single Rail Roller Coaster
 STR_0512    :A compact roller coaster with a spiral lift hill and smooth, twisting drops.
 STR_0513    :A looping roller coaster where the riders ride in a standing position
@@ -183,7 +183,7 @@ STR_0767    :Vieras {INT32}
 STR_0768    :Yleismies {INT32}
 STR_0769    :Mekaanikko {INT32}
 STR_0770    :Vartija {INT32}
-STR_0771    :Viihdyttjäjä {INT32}
+STR_0771    :Viihdyttäjä {INT32}
 STR_0777    :Nimetön puisto{POP16}{POP16}
 STR_0778    :Kyltti
 STR_0779    :1.
@@ -217,18 +217,18 @@ STR_0806    :28.
 STR_0807    :29.
 STR_0808    :30.
 STR_0809    :31.
-STR_0810    :Tammi
-STR_0811    :Helmi
-STR_0812    :Maalis
-STR_0813    :Huhti
-STR_0814    :Touko
-STR_0815    :Kesä
-STR_0816    :Heinä
-STR_0817    :Elo
-STR_0818    :Syys
-STR_0819    :Loka
-STR_0820    :Marras
-STR_0821    :Joulu
+STR_0810    :tammi
+STR_0811    :helmi
+STR_0812    :maalis
+STR_0813    :huhti
+STR_0814    :touko
+STR_0815    :kesä
+STR_0816    :heinä
+STR_0817    :elo
+STR_0818    :syys
+STR_0819    :loka
+STR_0820    :marras
+STR_0821    :joulu
 STR_0822    :Grafiikkadatatiedostoa ei saada auki
 STR_0823    :Puuttuva tai käyttökelvoton datatiedosto
 STR_0824    :{BLACK}❌
@@ -246,7 +246,7 @@ STR_0839    :{UINT16} × {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} × {UINT16}
 # The following six strings were used for display resolutions, but have been replaced.
 STR_0847    :Lisätietoja 'OpenRCT2'
-STR_0850    :{WINDOW_COLOUR_2}Tekijänoikeus © 2002 Chris Sawyer, kaikki oikeudet pidetään
+STR_0850    :{WINDOW_COLOUR_2}Tekijänoikeus © 2002 Chris Sawyer, kaikki oikeudet pidätetään
 STR_0851    :{WINDOW_COLOUR_2}Suunnitellut ja ohjelmoinut Chris Sawyer
 STR_0852    :{WINDOW_COLOUR_2}Grafiikka Simon Foster
 STR_0853    :{WINDOW_COLOUR_2}Äänet ja musiikki Allister Brimble
@@ -266,8 +266,8 @@ STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}▼
-STR_0877    :Liian matala !
-STR_0878    :Liian korkea !
+STR_0877    :Liian matala!
+STR_0878    :Liian korkea!
 STR_0879    :Maata ei voi alentaa tästä…
 STR_0880    :Maata ei voi nostaa tästä…
 STR_0881    :Esine on tiellä
@@ -280,8 +280,8 @@ STR_0888    :Lopeta vuoristoratasuunnittelu
 STR_0889    :Lopeta ratasuunnitelmahallinta
 STR_0891    :Kuvankaappaus
 STR_0892    :Kuvankaappaus tallennettu levylle nimellä '{STRINGID}'
-STR_0893    :Kuvankaappaus epäonnistui !
-STR_0894    :Maisematietoalue on täynnä !
+STR_0893    :Kuvankaappaus epäonnistui!
+STR_0894    :Maisematietoalue on täynnä!
 STR_0895    :Ei voi rakentaa osittain maan ylle ja alle
 STR_0896    :{POP16}{POP16}{STRINGID} Rakenne
 STR_0897    :Suunta
@@ -334,9 +334,9 @@ STR_0943    :Näe maiseman läpi
 STR_0944    :Tallenna
 STR_0945    :Älä tallenna
 STR_0946    :Peruuta
-STR_0947    :Tallenna ennen lataamista ?
-STR_0948    :Tallenna ennen lopettamista ?
-STR_0949    :Tallenna ennen lopettamista ?
+STR_0947    :Tallenna ennen lataamista?
+STR_0948    :Tallenna ennen lopettamista?
+STR_0949    :Tallenna ennen lopettamista?
 STR_0950    :Lataa peli
 STR_0951    :Lopeta peli
 STR_0952    :Lopeta peli
@@ -1128,7 +1128,7 @@ STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COM
 STR_1738    :Kierrosten määrää ei voitu muuttaa…
 STR_1739    :Kisan voitti vieras {INT32}
 STR_1740    :Kisan voitti {STRINGID}
-STR_1741    :Ei ole vielä rakennettu !
+STR_1741    :Ei ole vielä rakennettu!
 STR_1742    :{WINDOW_COLOUR_2}Laitteen suurin kävijämäärä:
 STR_1743    :Laitteen suurin sallittu kävijämäärä yhdellä kertaa
 STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
@@ -1271,7 +1271,7 @@ STR_1887    :{WINDOW_COLOUR_2}Viimeinen tarkastus: {BLACK}{COMMA16} minuuttia si
 STR_1888    :{WINDOW_COLOUR_2}Viimeinen tarkistus: {BLACK}yli 4 tuntia sitten
 STR_1889    :{WINDOW_COLOUR_2}Keskeytysaika: {MOVE_X}{255}{BLACK}{COMMA16}%
 STR_1890    :Valitse kuinka usein mekaanikko tarkistaa tämän ajelun
-STR_1891    :Puistossa ei vielä ole {STRINGID} !
+STR_1891    :Puistossa ei vielä ole {STRINGID}!
 # The following two strings were used to display an error when the disc was missing.
 # This has been replaced in OpenRCT2.
 STR_1894    :{WINDOW_COLOUR_2}{STRINGID} myyty: {BLACK}{COMMA32}
@@ -1993,8 +1993,8 @@ STR_2784    :Muuta näppäimistön pikanäppäintä
 STR_2785    :{WINDOW_COLOUR_2}Paina uusi näppäinyhdistelmä toiminnolle:{NEWLINE}“{STRINGID}”
 STR_2786    :Paina pikanäppäimen kuvausta valitaksesi uuden näppäinyhdistelmän
 STR_2787    :{WINDOW_COLOUR_2}Puiston arvo: {BLACK}{CURRENCY}
-STR_2788    :{WINDOW_COLOUR_2}Onnittelut !{NEWLINE}{BLACK}Saavutit tavoitteesi ! Yhtiösi arvo: {CURRENCY} !
-STR_2789    :{WINDOW_COLOUR_2}Epäonnistuit tavoitteessasi !
+STR_2788    :{WINDOW_COLOUR_2}Onnittelut!{NEWLINE}{BLACK}Saavutit tavoitteesi! Yhtiösi arvo: {CURRENCY}!
+STR_2789    :{WINDOW_COLOUR_2}Epäonnistuit tavoitteessasi!
 STR_2790    :Enter name into scenario chart
 STR_2791    :Anna nimi
 STR_2792    :Please enter your name for the scenario chart:
@@ -2059,8 +2059,8 @@ STR_2850    :Uusi ratasuunnitelma asennettiin onnistuneesti
 STR_2851    :Skenaario on jo asennettu
 STR_2852    :Ratasuunnitelma on jo asennettu
 STR_2853    :Kiellettyä paikallisten viranomaisten mukaan!
-STR_2854    :{RED}Kävijät eivät pääse laitteen {STRINGID} sisäänkäynnille !{NEWLINE}Rakenna polku sisäänkäynnille
-STR_2855    :{RED}Laitteen {STRINGID} uloskäynnistä ei lähde polkua !{NEWLINE}Rakenna polku uloskäynniltä
+STR_2854    :{RED}Kävijät eivät pääse laitteen {STRINGID} sisäänkäynnille!{NEWLINE}Rakenna polku sisäänkäynnille
+STR_2855    :{RED}Laitteen {STRINGID} uloskäynnistä ei lähde polkua!{NEWLINE}Rakenna polku uloskäynniltä
 STR_2858    :Markkinointikampanjaa ei voitu aloittaa…
 STR_2861    :{WINDOW_COLOUR_2}Lisensoinut Infogrames Interactive Inc.
 STR_2862    :Music acknowledgements…
@@ -2206,11 +2206,11 @@ STR_3069    :Top Section
 STR_3070    :Slope to Level
 STR_3071    :{WINDOW_COLOUR_2}Sama hinta kaikkialla puistossa
 STR_3072    :Valitse käytetäänkö samaa hintaa kaikkialla puistossa
-STR_3073    :{RED}WARNING: Your park rating has dropped below 700 !{NEWLINE}If you haven't raised the park rating in 4 weeks, your park will be closed down
-STR_3074    :{RED}WARNING: Your park rating is still below 700 !{NEWLINE}You have 3 weeks to raise the park rating
-STR_3075    :{RED}WARNING: Your park rating is still below 700 !{NEWLINE}You have only 2 weeks to raise the park rating, or your park will be closed down
-STR_3076    :{RED}FINAL WARNING: Your park rating is still below 700 !{NEWLINE}In just 7 days your park will be closed down unless you can raise the rating
-STR_3077    :{RED}LAKKAUTUSTIEDOTE: Puistosi on suljettu !
+STR_3073    :{RED}WARNING: Your park rating has dropped below 700!{NEWLINE}If you haven't raised the park rating in 4 weeks, your park will be closed down
+STR_3074    :{RED}WARNING: Your park rating is still below 700!{NEWLINE}You have 3 weeks to raise the park rating
+STR_3075    :{RED}WARNING: Your park rating is still below 700!{NEWLINE}You have only 2 weeks to raise the park rating, or your park will be closed down
+STR_3076    :{RED}FINAL WARNING: Your park rating is still below 700!{NEWLINE}In just 7 days your park will be closed down unless you can raise the rating
+STR_3077    :{RED}LAKKAUTUSTIEDOTE: Puistosi on suljettu!
 STR_3090    :Select style of entrance, exit, and station
 STR_3091    :Ei ole sallittua poistaa tätä aluetta!
 STR_3092    :You are not allowed to move or modify the station for this ride!
@@ -2453,7 +2453,7 @@ STR_3353    :Uusi nimi sisältää virheellisiä merkkejä
 STR_3354    :Toinen saman niminen tiedosto on jo olemassa tai tiedosto on kirjoitussuojattu
 STR_3355    :Tiedosto on kirjoitussuojattu tai lukittu
 STR_3356    :Poista tiedosto
-STR_3357    :{WINDOW_COLOUR_2}Are you sure you want to permanently delete {STRING} ?
+STR_3357    :{WINDOW_COLOUR_2}Are you sure you want to permanently delete {STRING}?
 STR_3358    :Can't delete track design…
 STR_3359    :{BLACK}No track designs of this type
 STR_3360    :Varoitus!
