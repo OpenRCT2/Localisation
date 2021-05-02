@@ -137,7 +137,7 @@ STR_0551    :
 STR_0552    :
 STR_0553    :
 STR_0554    :The car is accelerated out of the station along a long level track using Linear Induction Motors, then heads straight up a vertical spike of track, freefalling back down to return to the station
-STR_0555    :Pystysuora torni, jossa vieraat kulkevat hissillä ylös tai alas päästäkseen tasolta toiselle
+STR_0555    :Pystysuora torni, jossa kävijät kulkevat hissillä ylös tai alas päästäkseen tasolta toiselle
 STR_0556    :Leveät vaunut laskevat pystysuoraa rataa täyden vapaapudotuskokemuksen saavuttamiseksi
 STR_0557    :
 STR_0558    :
@@ -179,7 +179,7 @@ STR_0600    :Powered mine trains career along a smooth and twisted track layout
 STR_0602    :Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions
 STR_0603    :A wooden style roller coaster with a steel track, allowing for steep drops and inversions.
 STR_0604    :Riders ride single file on a narrow monorail track, as they race through tight inversions and direction changes.
-STR_0767    :Vieras {INT32}
+STR_0767    :Kävijä {INT32}
 STR_0768    :Yleismies {INT32}
 STR_0769    :Mekaanikko {INT32}
 STR_0770    :Vartija {INT32}
@@ -841,10 +841,10 @@ STR_1448    :Katsoo uuden laitteen rakentamista
 STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
-STR_1452    :Vieraan nimi
-STR_1453    :Kirjoita nimi vieraalle:
-STR_1454    :Vieraan nimeäminen ei onnistu…
-STR_1455    :Virheellinen nimi vieraalle
+STR_1452    :Kävijän nimi
+STR_1453    :Kirjoita nimi kävijälle:
+STR_1454    :Kävijän nimeäminen ei onnistu…
+STR_1455    :Virheellinen nimi kävijälle
 STR_1456    :{WINDOW_COLOUR_2}Rahaa kulutettu: {BLACK}{CURRENCY2DP}
 STR_1457    :{WINDOW_COLOUR_2}Rahaa taskussa: {BLACK}{CURRENCY2DP}
 STR_1458    :{WINDOW_COLOUR_2}Aikaa kulutettu puistossa: {BLACK}{REALTIME}
@@ -852,7 +852,7 @@ STR_1459    :Radan tyyli
 STR_1460    :'U':n muotoinen avoin rata
 STR_1461    :'O':n muotoinen ympäröity rata
 STR_1462    :Liian jyrkkä nostomäkeä varten
-STR_1463    :Vieraat
+STR_1463    :Kävijät
 STR_1464    :Ruuvikierre ylös (pieni)
 STR_1465    :Ruuvikierre ylös (iso)
 STR_1466    :Ruuvikierre alas (pieni)
@@ -1081,7 +1081,7 @@ STR_1689    :Block brakes
 STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
 STR_1691    :{WINDOW_COLOUR_2}  Hinta: {BLACK}{CURRENCY}
 STR_1692    :{WINDOW_COLOUR_2}  Hinta: {BLACK}alk {CURRENCY}
-STR_1693    :Vieraat
+STR_1693    :Kävijät
 STR_1694    :Henkilökunta
 STR_1695    :Tulot ja kulut
 STR_1696    :Asiakkaan tiedot
@@ -1126,7 +1126,7 @@ STR_1734    :{WINDOW_COLOUR_2}Kierrosten määrä:
 STR_1735    :Kierrosten määrä radalla
 STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1738    :Kierrosten määrää ei voitu muuttaa…
-STR_1739    :Kisan voitti vieras {INT32}
+STR_1739    :Kisan voitti kävijä {INT32}
 STR_1740    :Kisan voitti {STRINGID}
 STR_1741    :Ei ole vielä rakennettu!
 STR_1742    :{WINDOW_COLOUR_2}Laitteen suurin kävijämäärä:
@@ -1137,10 +1137,10 @@ STR_1747    :{WINDOW_COLOUR_2}Aikarajoitus:
 STR_1748    :Laitteen aikarajoitus
 STR_1749    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{DURATION}
 STR_1751    :Laitteen aikarajoitusta ei voitu muuttaa…
-STR_1752    :Näytä puiston yksittäiset vieraat
-STR_1753    :Näytä puiston vieraat yhteenvetona
-STR_1754    :{BLACK}{COMMA32} vieraat
-STR_1755    :{BLACK}{COMMA32} vieras
+STR_1752    :Näytä puiston yksittäiset kävijät
+STR_1753    :Näytä puiston kävijät yhteenvetona
+STR_1754    :{BLACK}{COMMA32} kävijää
+STR_1755    :{BLACK}{COMMA32} kävijä
 STR_1756    :{WINDOW_COLOUR_2}Sisäänpääsymaksu:
 STR_1757    :{WINDOW_COLOUR_2}Luotettavuus: {MOVE_X}{255}{BLACK}{COMMA16}%
 STR_1758    :Rakennustoiminto
@@ -1197,16 +1197,16 @@ STR_1812    :{BLACK}{STRINGID}
 STR_1813    :Sekalaiset tavarat
 STR_1814    :Toiminnat
 STR_1815    :Ajatukset
-STR_1816    :Valitse näytettävä tietotyyppi vieras listalle
+STR_1816    :Valitse kävijälistan näyttämä tietotyyppi
 STR_1817    :({COMMA32})
-STR_1818    :{WINDOW_COLOUR_2}Kaikki vieraat
-STR_1819    :{WINDOW_COLOUR_2}Kaikki vieraat (yhteenvetona)
-STR_1820    :{WINDOW_COLOUR_2}Vieraat {STRINGID}
-STR_1821    :{WINDOW_COLOUR_2}Vieraat ajattelevat {SMALLFONT}{STRINGID}
-STR_1822    :{WINDOW_COLOUR_2}Vieraat ajattelevat {POP16}{STRINGID}
-STR_1823    :Näytä vieraiden ajatukset tästä laitteesta/kohteesta
-STR_1824    :Näytä vieraat tässä laitteessa/kohteessa
-STR_1825    :Näytä tähän laitteeseen/kohteesen jonottavat vieraat
+STR_1818    :{WINDOW_COLOUR_2}Kaikki kävijät
+STR_1819    :{WINDOW_COLOUR_2}Kaikki kävijät (yhteenvetona)
+STR_1820    :{WINDOW_COLOUR_2}Kävijät {STRINGID}
+STR_1821    :{WINDOW_COLOUR_2}Kävijät ajattelevat {SMALLFONT}{STRINGID}
+STR_1822    :{WINDOW_COLOUR_2}Kävijät ajattelevat {POP16}{STRINGID}
+STR_1823    :Näytä kävijöiden ajatukset tästä laitteesta/kohteesta
+STR_1824    :Näytä kävijät tässä laitteessa/kohteessa
+STR_1825    :Näytä tähän laitteeseen/kohteesen jonottavat kävijät
 STR_1826    :Tilanne
 STR_1827    :Suosio
 STR_1828    :Tyytyväisyys
@@ -1215,7 +1215,7 @@ STR_1830    :Jonon pituus
 STR_1831    :Jonotusaika
 STR_1832    :Luotettavuus
 STR_1833    :Keskeytysaika
-STR_1834    :Vieraiden suosikki
+STR_1834    :Kävijöiden suosikki
 STR_1835    :Suosio: Tuntematon
 STR_1836    :Suosio: {COMMA16}%
 STR_1837    :Tyytyväisyys: Tuntematon
@@ -1223,13 +1223,13 @@ STR_1838    :Tyytyväisyys: {COMMA16}%
 STR_1839    :Luotettavuus: {COMMA16}%
 STR_1840    :Keskeytysaika: {COMMA16}%
 STR_1841    :Tuotto: {CURRENCY2DP} per tunti
-STR_1842    :{COMMA16} vieraan lempilaite
-STR_1843    :{COMMA16} vieraan lempilaite
+STR_1842    :{COMMA16} kävijän lempilaite
+STR_1843    :{COMMA16} kävijän lempilaite
 STR_1844    :valitse tietotyyppi laite-/kohdelistalle
 STR_1845    :{MONTHYEAR}
-STR_1846    :{COMMA32} vierasta
-STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA32} vierasta
-STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA32} vierasta
+STR_1846    :{COMMA32} kävijää
+STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA32} kävijää
+STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA32} kävijää
 STR_1849    :{WINDOW_COLOUR_2}Toista musiikkia
 STR_1850    :Valitse mitä musiikkia tämä laite soittaa
 STR_1851    :{WINDOW_COLOUR_2}Käyttökustannus: {BLACK}{CURRENCY2DP} per tunti
@@ -1308,7 +1308,7 @@ STR_1925    :Henkilöä ei voi sijoittaa tähän…
 STR_1927    :{YELLOW}{STRINGID} on hajonnut
 STR_1928    :{RED}{STRINGID} on hajonnut!
 STR_1929    :{RED}{STRINGID} ei vieläkään ole korjattu{NEWLINE}tarkista missä mekaanikkosi ovat ja pohdi niiden parempaa sijoittelua
-STR_1930    :Laita vieraan seuranta päälle/pois - (kun seuranta on päällä, vieraan liikkeet raportoidaan viestialueelle)
+STR_1930    :Laita kävijän seuranta päälle/pois - (kun seuranta on päällä, kävijän liikkeet raportoidaan viestialueelle)
 STR_1931    :{STRINGID} on jonottamassa laitteeseen {STRINGID}
 STR_1932    :{STRINGID} on laitteessa {STRINGID}
 STR_1933    :{STRINGID} on laitteessa {STRINGID}
@@ -1316,13 +1316,13 @@ STR_1934    :{STRINGID} poistui laitteesta {STRINGID}
 STR_1935    :{STRINGID} on lähtenyt puistosta
 STR_1936    :{STRINGID} osti {STRINGID}
 STR_1937    :Näytä tietoa tämän viestin kohteesta
-STR_1938    :Näytä vierasnäkymä
+STR_1938    :Näytä kävijänäkymä
 STR_1939    :Näytä henkilöstönäkymä
-STR_1940    :Näytä tämän vieraan iloisuus, energia, nälkä yms.
-STR_1941    :Näytä missä laitteissa tämä vieras on käynyt
-STR_1942    :Näytä vieraan taloustiedot
-STR_1943    :Näytä vieraan viimeiset ajatukset
-STR_1944    :Näytä mitä esineitä vieras kantaa
+STR_1940    :Näytä tämän kävijän iloisuus, energia, nälkä yms.
+STR_1941    :Näytä missä laitteissa tämä kävijä on käynyt
+STR_1942    :Näytä kävijän taloustiedot
+STR_1943    :Näytä kävijän viimeiset ajatukset
+STR_1944    :Näytä mitä esineitä kävijä kantaa
 STR_1945    :Näytä henkilökunnan jäsenen ohjeet ja asetukset
 STR_1946    :Valitse puku viihdyttäjälle
 STR_1947    :Näytä valitun henkilökuntatyypin partiointialueet ja etsi lähin henkilökunnan jäsen
@@ -1586,7 +1586,7 @@ STR_2219    :{RED}{COMMA16} ihmistä kuoli tapaturmassa kohteessa {STRINGID}
 STR_2220    :{WINDOW_COLOUR_2}Puiston taso: {BLACK}{COMMA16}
 STR_2221    :Puiston taso: {COMMA16}
 STR_2222    :{BLACK}{STRINGID}
-STR_2223    :{WINDOW_COLOUR_2}Vieraiden määrä: {BLACK}{COMMA32}
+STR_2223    :{WINDOW_COLOUR_2}Kävijöiden määrä: {BLACK}{COMMA32}
 STR_2224    :{WINDOW_COLOUR_2}Kassa: {BLACK}{CURRENCY2DP}
 STR_2225    :{WINDOW_COLOUR_2}Kassa: {RED}{CURRENCY2DP}
 STR_2226    :{WINDOW_COLOUR_2}Puiston arvo: {BLACK}{CURRENCY}
@@ -1742,24 +1742,24 @@ STR_2382    :Maa
 STR_2383    :Vesi
 STR_2384    :{WINDOW_COLOUR_2}Tavoitteesi:
 STR_2385    :{BLACK}Ei mitään
-STR_2386    :{BLACK}Puistossasi tulee olla vähintään {COMMA16} vierasta {MONTHYEAR} loppuun mennessä ja puiston tason tulee olla vähintään 600
+STR_2386    :{BLACK}Puistossasi tulee olla vähintään {COMMA16} kävijää {MONTHYEAR} loppuun mennessä ja puiston tason tulee olla vähintään 600
 STR_2387    :{BLACK}Saavuta puiston arvoksi vähintään {POP16}{POP16}{CURRENCY} vuoden {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR} loppuun mennessä
 STR_2388    :{BLACK}Pidä hauskaa!
 STR_2389    :{BLACK}Rakenna niin hyvä {STRINGID} kuin voit!
 STR_2390    :{BLACK}Puistossasi tulee olla 10 eri tyyppistä toiminnassa olevaa vuoristorataa joiden innostavuus on vähintään 6.00
-STR_2391    :{BLACK}Puistossasi tulee olla vähintään {COMMA16} vierasta, eikä puiston taso saa pudota hetkeksikään alle 700:n!
+STR_2391    :{BLACK}Puistossasi tulee olla vähintään {COMMA16} kävijää, eikä puiston taso saa pudota hetkeksikään alle 700:n!
 STR_2392    :{BLACK}Sinun tulee saada {POP16}{POP16}{CURRENCY} kuukausituloja laitteiden lipputuloista
 STR_2393    :{BLACK}Puistossasi tulee olla 10 eri tyyppistä toiminnassa olevaa vuoristorataa, joiden pitää olla vähintään {LENGTH} pitkiä ja joiden innostavuus on vähintään 7.00
 STR_2394    :{BLACK}Viimeistele puiston 5 osittain rakennettua vuoristorataa niin, että jokaisen innostavuus on vähintään {POP16}{POP16}{COMMA2DP32} 
 STR_2395    :{BLACK}Maksa lainasi takaisin ja saavuta puistolle arvo {POP16}{POP16}{CURRENCY}
 STR_2396    :{BLACK}Sinun tulee saada {POP16}{POP16}{CURRENCY} kuukausituloja ruoan, juomien ja tavaroiden myynnistä
 STR_2397    :Ei mitään
-STR_2398    :Vieraiden määrä tiettynä päivänä
+STR_2398    :Kävijöiden määrä tiettynä päivänä
 STR_2399    :Puiston arvo tiettynä päivänä
 STR_2400    :Pidä hauskaa
 STR_2401    :Rakenna parhaat radat joita voit
 STR_2402    :Rakenna 10 vuoristorataa
-STR_2403    :Vieraiden määrä puistossa
+STR_2403    :Kävijöiden määrä puistossa
 STR_2404    :Kuukausitulo laitteiden tuloista
 STR_2405    :Rakenna 10 vuoristorataa tietyssä ajassa
 STR_2406    :Rakenna valmiiksi 5 vuoristorataa
@@ -1810,7 +1810,7 @@ STR_2460    :Näytä kuvaaja viikottaisesta tuotosta
 STR_2461    :Näytä markkinointikampanjat
 STR_2462    :Näytä puiston sisäänkäynti
 STR_2463    :Näytä kuvaaja puiston tasosta
-STR_2464    :Näytä kuvaaja vierasmääristä
+STR_2464    :Näytä kuvaaja kävijämääristä
 STR_2465    :Näytä sisäänpääsyhinta ja -tiedot
 STR_2466    :Näytä puiston tilastot
 STR_2467    :Näytä pelin tavoitteet
@@ -1831,8 +1831,8 @@ STR_2481    :Näytä poikittaisen kiihtyvyyden kuvaaja ajalle
 STR_2482    :Tuotto: {CURRENCY} viikossa,  puiston arvo: {CURRENCY}
 STR_2483    :{WINDOW_COLOUR_2}Viikottainen tuotto: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Viikottainen tuotto: {RED}{CURRENCY2DP}
-STR_2487    :Näytä vieraiden 'oikeat' nimet
-STR_2488    :Vaihda vieraiden nimen ja numeron näyttämisen välillä
+STR_2487    :Näytä kävijöiden 'oikeat' nimet
+STR_2488    :Vaihda kävijöiden nimen ja numeron näyttämisen välillä
 STR_2489    :Pikanäppäimet…
 STR_2490    :Näppäimistön pikanäppäimet
 STR_2491    :Palauta näppäinasetukset
@@ -1864,7 +1864,7 @@ STR_2516    :Näytä taloustiedot
 STR_2517    :Näytä kehitystiedot
 STR_2518    :Näytä laitelista
 STR_2519    :Näytä puiston tiedot
-STR_2520    :Näytä vieraslista
+STR_2520    :Näytä kävijälista
 STR_2521    :Näytä henkilöstölista
 STR_2522    :Näytä viimeiset viestit
 STR_2523    :Näytä kartta
@@ -2011,13 +2011,13 @@ STR_2802    :Kartta
 STR_2803    :Näytä nämä kävijät kartalla
 STR_2804    :Näytä nämä henkilökunnan jäsenet kartalla
 STR_2805    :Näytä puiston kartta
-STR_2806    :{RED}Vieraat valittavat puistosi kuvottavista poluista{NEWLINE}Tarkista ja uudelleenjärjestele yleismiestesi sijainnit
-STR_2807    :{RED}Vieraat valittavat roskan määrästä puistossasi{NEWLINE}Tarkista ja uudelleenjärjestele yleismiestesi sijainnit
-STR_2808    :{RED}Vieraat valittavat puistosi vandalismista{NEWLINE}Tarkista ja uudelleenjärjestele yleismiestesi sijainnit
-STR_2809    :{RED}Vieraat ovat nälkäisiä eivätkä löydä paikkaa josta saisi ruokaa
-STR_2810    :{RED}Vieraat ovat janoisia eivätkä löydä paikkaa josta saisi juotavaa
-STR_2811    :{RED}Vieraat valittavat etteivät löydä vessaa puistostasi
-STR_2812    :{RED}Vieraat eksyvät tai jäävät jumiink{NEWLINE}Tarkista polkusi että vieraat löytävä tiensä paikasta toiseen
+STR_2806    :{RED}Kävijät valittavat puistosi kuvottavista poluista{NEWLINE}Tarkista ja uudelleenjärjestele yleismiestesi sijainnit
+STR_2807    :{RED}Kävijät valittavat roskan määrästä puistossasi{NEWLINE}Tarkista ja uudelleenjärjestele yleismiestesi sijainnit
+STR_2808    :{RED}Kävijät valittavat puistosi vandalismista{NEWLINE}Tarkista ja uudelleenjärjestele yleismiestesi sijainnit
+STR_2809    :{RED}Kävijät ovat nälkäisiä eivätkä löydä paikkaa josta saisi ruokaa
+STR_2810    :{RED}Kävijät ovat janoisia eivätkä löydä paikkaa josta saisi juotavaa
+STR_2811    :{RED}Kävijät valittavat etteivät löydä vessaa puistostasi
+STR_2812    :{RED}Kävijät eksyvät tai jäävät jumiink{NEWLINE}Tarkista polkusi että kävijät löytävä tiensä paikasta toiseen
 STR_2813    :{RED}Sisäänpääsyn hinta on liian korkea!{NEWLINE}Laske sisäänpääsyhintaa tai paranna puiston arvoa jotta puistosi houkuttelee enemmän kävijöitä
 STR_2814    :{WINDOW_COLOUR_2}Sotkuisin puisto -palkinto
 STR_2815    :{WINDOW_COLOUR_2}Siistein puisto -palkinto
@@ -2333,7 +2333,7 @@ STR_3229    :Block Brakes cannot be used directly after station
 STR_3230    :Block Brakes cannot be used directly after each other
 STR_3231    :Block Brakes cannot be used directly after the top of this lift hill
 STR_3232    :Asetukset - Talous
-STR_3233    :Asetukset - Vieraat
+STR_3233    :Asetukset - Kävijät
 STR_3234    :Asetukset - Puisto
 STR_3235    :Show financial options
 STR_3236    :Show guest options
@@ -2403,7 +2403,7 @@ STR_3299    :{WINDOW_COLOUR_2}Park/Scenario Details:
 STR_3300    :{WINDOW_COLOUR_2}Scenario Name: {BLACK}{STRINGID}
 STR_3301    :{WINDOW_COLOUR_2}Tavoitepäivä:
 STR_3302    :{WINDOW_COLOUR_2}{MONTHYEAR}
-STR_3303    :{WINDOW_COLOUR_2}Vieraiden määrä:
+STR_3303    :{WINDOW_COLOUR_2}Kävijöiden määrä:
 STR_3304    :{WINDOW_COLOUR_2}Puiston arvo:
 STR_3305    :{WINDOW_COLOUR_2}Kuukausittainen tulo:
 STR_3306    :{WINDOW_COLOUR_2}Kuukausittainen tuotto:
@@ -2532,7 +2532,7 @@ STR_5162    :päivä/kuukausi/vuosi
 STR_5163    :kuukausi/päivä/vuosi
 STR_5177    :Näyttötila:
 STR_5178    :Näytä taloushuijaukset
-STR_5179    :Näytä vierashuijaukset
+STR_5179    :Näytä kävijähuijaukset
 STR_5180    :Näytä puistohuijaukset
 STR_5181    :Näytä laitehuijaukset
 STR_5182    :{INT32}
@@ -2558,8 +2558,8 @@ STR_5201    :Uusi laita
 STR_5202    :Track Design Selection
 STR_5203    :Laite
 STR_5204    :Laitelista
-STR_5205    :Vieras
-STR_5206    :Vieraslista
+STR_5205    :Kävijä
+STR_5206    :Kävijälista
 STR_5207    :Henkilökunta
 STR_5208    :Henkilökuntalista
 STR_5209    :Banneri
@@ -2584,7 +2584,7 @@ STR_5227    :Save Overwrite Prompt
 STR_5228    :Pääkäyttöliittymä
 STR_5229    :Puisto
 STR_5230    :Työkalut
-STR_5231    :Laitteet ja vieraat
+STR_5231    :Laitteet ja kävijät
 STR_5232    :Editors
 STR_5233    :Sekalaiset
 STR_5234    :Kehotteet
@@ -2675,7 +2675,7 @@ STR_5340    :Clearance height
 STR_5343    :Sijoita työntekijät automaattisesti
 STR_5344    :Muutosloki
 STR_5345    :Taloushuijaukset
-STR_5346    :Vierashuijaukset
+STR_5346    :Kävijähuijaukset
 STR_5347    :Puistohuijaukset
 STR_5348    :Laitehuijaukset
 STR_5349    :Kaikki laitteet
@@ -2688,9 +2688,9 @@ STR_5355    :{BLACK}Jano:
 STR_5356    :{BLACK}Pahoinvointi:
 STR_5357    :{BLACK}Pahoinvoinnin sietoraja:
 STR_5358    :{BLACK}Vessa:
-STR_5359    :Poista vieraat
-STR_5360    :Poista kaikki vieraat kartalta
-STR_5361    :Anna kaikille vieraille:
+STR_5359    :Poista kävijät
+STR_5360    :Poista kaikki kävijät kartalta
+STR_5361    :Anna kaikille kävijöille:
 STR_5362    :{BLACK}Set all guests' preferred ride intensity to:
 STR_5363    :Enemmän kuin 1
 STR_5364    :Vähemmän kuin 15
@@ -2787,7 +2787,7 @@ STR_5457    :Disable support limits
 STR_5458    :Käännä myötäpäivään
 STR_5459    :Käännä vastapäivään
 STR_5460    :Käännä näkymää vastapäivään
-STR_5461    :Määritä vieraiden määritteitä
+STR_5461    :Määritä kävijöiden määritteitä
 STR_5462    :{CURRENCY}
 STR_5463    :Tavoite: Pidä hauskaa!
 STR_5464    :Yleiset
@@ -2838,7 +2838,7 @@ STR_5511    :(TUNTEMATON)
 STR_5512    :Tallenna peli nimellä
 STR_5513    :Pikatallennus
 STR_5514    :Disable vandalism
-STR_5515    :Estää vieraita tärvelemästä puistoasi heidän ollessa vihaisia
+STR_5515    :Estää kävijöitä tärvelemästä puistoasi heidän ollessa vihaisia
 STR_5516    :Musta
 STR_5517    :Harmaa
 STR_5518    :Valkoinen
@@ -3342,8 +3342,8 @@ STR_6056    :Mykistä
 STR_6057    :Näytä erillinen painike työkalupalkissa mykistystä varten
 STR_6058    :Mykistä
 STR_6059    :»
-STR_6060    :Näytä vieraiden ostokset animaationa
-STR_6061    :Näyttää animoiden rahatehosteen kun vieraat tekevät ostoksia.
+STR_6060    :Näytä kävijöiden ostokset animaationa
+STR_6061    :Näyttää animoiden rahatehosteen kun kävijät tekevät ostoksia.
 STR_6062    :{OUTLINE}{GREEN}+ {CURRENCY2DP}
 STR_6063    :{OUTLINE}{RED}- {CURRENCY2DP}
 STR_6064    :Own all land
@@ -3800,7 +3800,7 @@ STR_DTLS    :Sateenkaarilaakson paikallisviranomaiset eivät anna lupaa maansiir
 <Thunder Rock>
 STR_SCNR    :Jyrykallio
 STR_PARK    :Jyrykallio
-STR_DTLS    :Jyrykallio seisoo keskellä aavikkoa ja vetää puoleensa paljon turisteja. Rakenna laitteita jotka vetäisivät entistä enemmän vierailijoita.
+STR_DTLS    :Jyrykallio seisoo keskellä aavikkoa ja vetää puoleensa paljon turisteja. Rakenna laitteita jotka vetäisivät entistä enemmän kävijöitä.
 
 <Mega Park>
 STR_SCNR    :Megapuisto
@@ -3973,7 +3973,7 @@ STR_DTLS    :Lepotilassa oleva tulivuori on tämän vuoristoratahaasteen keskipi
 <Arid Heights>
 STR_SCNR    :Santarinne
 STR_PARK    :Santarinne
-STR_DTLS    :Maallisista rahoitushuolista vapaana, sinun tulee kehittää tästä aavikkopuistosta vieraita tyydyttävä huvipuisto
+STR_DTLS    :Maallisista rahoitushuolista vapaana, sinun tulee kehittää tästä aavikkopuistosta kävijöitä tyydyttävä huvipuisto
 
 <Razor Rocks>
 STR_SCNR    :Terälohkare
@@ -4018,7 +4018,7 @@ STR_DTLS    :Jäätiköitä täynnä oleva laakso on sinun huvipuiston kehityst�
 <Crazy Craters>
 STR_SCNR    :Kumma kraateri
 STR_PARK    :Kumma kraateri
-STR_DTLS    :Kaukaisessa maailmassa jossa rahalle ei ole käyttöä, sinun tulee rakentaa huvipuisto joka pitää vieraat tyytyväisenä
+STR_DTLS    :Kaukaisessa maailmassa jossa rahalle ei ole käyttöä, sinun tulee rakentaa huvipuisto joka pitää kävijät tyytyväisenä
 
 <Dusty Desert>
 STR_SCNR    :Aava autiomaa
@@ -4315,7 +4315,7 @@ STR_DTLS    :Kokeile tämän Six Flags -puiston johtamista ja kehitystä
 <Six Flags Great Adventure>
 STR_SCNR    :Six Flags Great Adventure
 STR_PARK    :Six Flags Great Adventure
-STR_DTLS    :Rakenna puuttuvat Six Flags -laitteet, tai tee omat luomuksesi puiston parantamiseksi! Mutta älä unohda tärkeintä tavoitettasi: houkuttele lisää vieraita puistoon!
+STR_DTLS    :Rakenna puuttuvat Six Flags -laitteet, tai tee omat luomuksesi puiston parantamiseksi! Mutta älä unohda tärkeintä tavoitettasi: houkuttele lisää kävijöitä puistoon!
 
 <Six Flags Holland>
 STR_SCNR    :Six Flags Hollanti
@@ -4330,7 +4330,7 @@ STR_DTLS    :Rakenna puuttuvat Six Flags -laitteet, tai tee omat luomuksesi puis
 <Six Flags over Texas>
 STR_SCNR    :Six Flags yllä Teksasin
 STR_PARK    :Six Flags yllä Teksasin
-STR_DTLS    :Rakenna puuttuvat Six Flags -laitteet, tai tee omat luomuksesi puiston parantamiseksi! Mutta älä unohda tärkeintä tavoitettasi: houkuttele lisää vieraita puistoon!
+STR_DTLS    :Rakenna puuttuvat Six Flags -laitteet, tai tee omat luomuksesi puiston parantamiseksi! Mutta älä unohda tärkeintä tavoitettasi: houkuttele lisää kävijöitä puistoon!
 
 ###############################################################################
 ## Wacky Worlds Scenarios
@@ -4461,12 +4461,12 @@ STR_DTLS    :Omistat pölyisen meteorikraaterin. Bisneselämän tosimiehenä ole
 <Prehistoric - Jurassic Safari>
 STR_SCNR    :Esihistoria - Jurassinen safari
 STR_PARK    :Vuoristosaurus
-STR_DTLS    :Tehtävänäsi on rakentaa jurassisen kauden teemapuisto. Jotta vieraat pääsevät helposti näkemään eksoottisia kasveja ja eläimiä, sinun tulee rakentaa laitteita joilla pääsee laakson yli ja alle.
+STR_DTLS    :Tehtävänäsi on rakentaa jurassisen kauden teemapuisto. Jotta kävijät pääsevät helposti näkemään eksoottisia kasveja ja eläimiä, sinun tulee rakentaa laitteita joilla pääsee laakson yli ja alle.
 
 <Prehistoric - Stone Age>
 STR_SCNR    :Esihistoria - Kivikausi
 STR_PARK    :Kivikepposet
-STR_DTLS    :Estääksesi maantien rakennuksen ja mystisten kivirenkaiden tuhoamisen, sinun pitää rakentaa kivikauden teemapuisto ja tehdä voittoa. Vieraiden houkutus saattaa tosin olla vaikeaa, koska maasto ei ole kovin vieraanvaraista.
+STR_DTLS    :Estääksesi maantien rakennuksen ja mystisten kivirenkaiden tuhoamisen, sinun pitää rakentaa kivikauden teemapuisto ja tehdä voittoa. Kävijöiden houkutus saattaa tosin olla vaikeaa, koska maasto ei ole kovin vieraanvaraista.
 
 <Roaring Twenties - Prison Island>
 STR_SCNR    :Kuohuva 20-luku - Vankisaari
@@ -4499,4 +4499,4 @@ STR_DTLS    :Tämä vanha huvipuisto on nähnyt parempia päiviä. Auta sen omis
 <Panda World>
 STR_SCNR    :Pandamaailma
 STR_PARK    :Pandamaailma
-STR_DTLS    :Rakenna lisää laitteita ja houkuttele lisää vieraita tähän panda-teemaiseen puistoon
+STR_DTLS    :Rakenna lisää laitteita ja houkuttele lisää kävijöitä tähän panda-teemaiseen puistoon
