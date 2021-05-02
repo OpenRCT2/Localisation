@@ -30,7 +30,7 @@ STR_0025    :Tukkijoki
 STR_0026    :Koskiseikkailu
 STR_0027    :Törmäysautot
 STR_0028    :Merirosvolaiva
-STR_0029    :Keinuva käänteinen laiva
+STR_0029    :Kääntyvä merirosvolaiva
 STR_0030    :Ruokakoju
 STR_0031    :Tuntematon koju (1D)
 STR_0032    :Juomakoju
@@ -49,7 +49,7 @@ STR_0044    :Käänteinen vapaapudotusrata
 STR_0045    :Hissi
 STR_0046    :Pystysuora tiputusvuoristorata
 STR_0047    :Pankkiautomaatti
-STR_0048    :Vääntö
+STR_0048    :Twister
 STR_0049    :Kummitustalo
 STR_0050    :Ensiapuhuone
 STR_0051    :Sirkus
@@ -62,24 +62,24 @@ STR_0057    :Moniulottuvuusvuoristorata
 STR_0058    :Tuntematon laite (38)
 STR_0059    :Lentävä vuoristorata
 STR_0060    :Tuntematon laite (3A)
-STR_0061    :Virginia-rulla
+STR_0061    :Virginia-kehrä
 STR_0062    :Roiskahdusveneet
 STR_0063    :Minihelikopterit
 STR_0064    :Makuuvuoristorata
 STR_0065    :Riippuva kohorata
 STR_0066    :Tuntematon laite (40)
 STR_0067    :Käänteinen vuoristorata
-STR_0068    :Sydänviivakiehkurarata
+STR_0068    :Sivuttaisvieritysrata
 STR_0069    :Minigolf
 STR_0070    :Gigarata
-STR_0071    :Pyörivä tiputus
+STR_0071    :Pyörivä tiputustorni
 STR_0072    :Lentävät lautaset
-STR_0073    :Kiero talo
+STR_0073    :Huojuva talo
 STR_0074    :Raidepolkupyörät
-STR_0075    :Tiivis käänteinen rata
+STR_0075    :Kompakti käänteinen vuoristorata
 STR_0076    :Vesirata
-STR_0077    :Ilmakäyttöinen pystysuora rata
-STR_0078    :Kääteinenhiusneularata
+STR_0077    :Ilmakäyttöinen pystyvuoristorata
+STR_0078    :Käänteinen hiusneularata
 STR_0079    :Taikamatto
 STR_0080    :Sukellusveneajelu
 STR_0081    :Jokilautat
@@ -96,89 +96,88 @@ STR_0090    :Kaivosajelu
 STR_0091    :Tuntematon laite (59)
 STR_0092    :Laukaisuvuoristorata
 STR_0093    :Hybridivuoristorata
-STR_0094    :Single Rail Roller Coaster
-STR_0512    :A compact roller coaster with a spiral lift hill and smooth, twisting drops.
-STR_0513    :A looping roller coaster where the riders ride in a standing position
-STR_0514    :Trains suspended beneath the roller coaster track swing out to the side around corners
-STR_0515    :A steel roller coaster with trains that are held beneath the track, with many complex and twisting track elements
-STR_0516    :A gentle roller coaster for people who haven't yet got the courage to face the larger rides
-STR_0517    :Passengers ride in miniature trains along a narrow-gauge railway track
+STR_0094    :Yksikiskoinen vuoristorata
+STR_0512    :Kompakti vuoristorata jossa on spiraalimainen nostomäki, ja sulavat, kaartelevat pudotukset.
+STR_0513    :Silmukoiva vuoristorata jossa matkustajat ovat seisoma-asennossa
+STR_0514    :Junat riippuvat vuoristoradan alla, ja heilahtavat sivuttain käänteissä
+STR_0515    :Teräksinen vuoristorata, jonka junat ovat radan alapuolella, ja jossa on monia monimutkaisia ja kiertyviä rataosia
+STR_0516    :Lempeä vuoristorata niille, joilla ei ole vielä rahkeita mennä isompiin laitteisiin
+STR_0517    :Matkustajat kulkevat pienoisjunan kyydissä tällä kapeakiskoisella rautatiellä
 STR_0518    :Matkustajat kulkevat sähköisillä junilla yksittäisellä raiteella
-STR_0519    :Passengers ride in small cars hanging beneath the single-rail track, swinging freely from side to side around corners
-STR_0520    :A dock platform where guests can drive/row personal watercraft on a body of water
-STR_0521    :A fast and twisting roller coaster with tight turns and steep drops. Intensity is bound to be high.
-STR_0522    :A smaller roller coaster where the riders sit above the track with no car around them
-STR_0523    :Riders travel slowly in powered vehicles along a track-based route
-STR_0524    :Freefall car is pneumatically launched up a tall steel tower and then allowed to freefall down
-STR_0525    :Riders career down a twisting track guided only by the curvature and banking of the semi-circular track
-STR_0526    :Passengers travel in a rotating observation cabin which travels up a tall tower
-STR_0527    :A smooth steel-tracked roller coaster capable of vertical loops
-STR_0528    :Riders travel in inflatable dinghies down a twisting semi-circular or completely enclosed tube track
-STR_0529    :Mine train themed roller coaster trains career along steel roller coaster track made to look like old railway track
-STR_0530    :Cars hang from a steel cable which runs continuously from one end of the ride to the other and back again
-STR_0531    :A compact steel-tracked roller coaster where the train travels through corkscrews and loops
-STR_0532    :
-STR_0533    :
-STR_0534    :Itsestään ajavat bensalla kulkevat mikroautot
-STR_0535    :Log-shaped boats travel along a water channel, splashing down steep slopes to soak the riders
-STR_0536    :Circular boats meander along a wide water channel, splashing through waterfalls and thrilling riders through foaming rapids
-STR_0537    :
-STR_0538    :
-STR_0539    :
-STR_0540    :
-STR_0542    :
-STR_0544    :
-STR_0545    :
-STR_0547    :
-STR_0548    :
-STR_0549    :
-STR_0550    :
-STR_0551    :
-STR_0552    :
-STR_0553    :
-STR_0554    :The car is accelerated out of the station along a long level track using Linear Induction Motors, then heads straight up a vertical spike of track, freefalling back down to return to the station
-STR_0555    :Pystysuora torni, jossa kävijät kulkevat hissillä ylös tai alas päästäkseen tasolta toiselle
-STR_0556    :Leveät vaunut laskevat pystysuoraa rataa täyden vapaapudotuskokemuksen saavuttamiseksi
-STR_0557    :
-STR_0558    :
-STR_0559    :
-STR_0560    :
-STR_0561    :
-STR_0562    :Moottoroidut vaunut kulkevat monitasoista rataa pelottavien lavastusten ja erikoistehosteiden läpi
-# 'Air time' is an expression used in finnish too, for the lack of a better word
-STR_0563    :Sitting in comfortable trains with only simple lap restraints riders enjoy giant smooth drops and twisting track as well as plenty of 'air time' over the hills
-STR_0564    :Puisen radan takia tämä vuoristorata on nopea, raaka, meluisa ja tarjoaa 'out of control'-kokemuksen ja paljon airtimeä
-STR_0565    :Yksinkertainen puinen vuoristorata joka kykenee vain lempeisiin mäkiin ja käännöksiin. Vaunut pysyvät radalla sivukitkapyörien ja painovoiman avulla
-STR_0566    :Yksittäiset vuoristoratavaunut singahtelevat pitkin tiukkaa mutkarataa jossa on teräviä kaarteita ja pudotuksia
-STR_0567    :Radan sivuilla olevissa tuoleissa matkustajia pyöritetään ylösalaisin kun vaunu huristaa alas jyrkkiä pudotuksia läpi useiden inversioiden
-STR_0569    :Erikoisvaljaiden ansiosta matkustajat kokevat lentävänsä ilmojen halki
-STR_0571    :Pyöreät vaunut pyörivät ympäri mutkikkaalla puisella radalla
-STR_0572    :Large capacity boats travel along a wide water channel, propelled up slopes by a conveyer belt, accelerating down steep slopes to soak the riders with a gaint splash
-STR_0573    :Powered helicoper shaped cars running on a steel track, controlled by the pedalling of the riders
-STR_0574    :Riders are held in special harnesses in a lying-down position, travlling through twisted track and inversions either on their backs or facing the ground
-STR_0575    :Powered trains hanging from a single rail transport people around the park
-STR_0577    :Bogied cars run on wooden tracks, turning around on special reversing sections
-STR_0578    :Cars run along track enclosed by circular hoops, traversing steep drops and heartline twists
-STR_0579    :
-STR_0580    :A giant steel roller coaster capable of smooth drops and hills of over 300ft
-STR_0581    :Pyöreä tuolirivi nousee korkean tornin huipulle, josta se putoaa vapaasti alas. Alhaalla magneettijarrut pysäyttävät vaunun lempeästi
-STR_0582    :
-STR_0583    :
-STR_0584    :Special bicycles run on a steel monorail track, propelled by the pedalling of the riders
-STR_0585    :Riders sit in pairs of seats suspended beneath the track as they loop and twist through tight inversions
-STR_0586    :Boat shaped cars run on roller coaster track to allow twisting curves and steep drops, splashing down into sections of water for gentle river sections
-STR_0587    :After an exhilarating air-powered launch, the train speeds up a vertical track, over the top, and vertically down the other side to return to the station
-STR_0588    :Individual cars run beneath a zig-zagging track with hairpin turns and sharp drops
-STR_0589    :
-STR_0590    :Riders ride in a submerged submarine through an underwater course
-STR_0591    :Raft-shaped boats gently meander around a river track
-STR_0593    :
-STR_0598    :Inverted roller coaster trains are accelerated out of the station to travel up a vertical spike of track, then reverse back through the station to travel backwards up another vertical spike of track
-STR_0599    :A compact roller coaster with individual cars and smooth twisting drops
-STR_0600    :Powered mine trains career along a smooth and twisted track layout
-STR_0602    :Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions
-STR_0603    :A wooden style roller coaster with a steel track, allowing for steep drops and inversions.
-STR_0604    :Riders ride single file on a narrow monorail track, as they race through tight inversions and direction changes.
+STR_0519    :Matkustajat kulkevat kiskon alta riippuvissa pienoisvaunuissa, vapaasti heilahtaen käänteissä
+STR_0520    :Laituri, josta kävijät voivat astua aluksiin ja ajaa tai soutaa vesistössä
+STR_0521    :Nopea ja kiermuteleva vuoristorata tiukoilla käännöksillä ja jyrkillä pudotuksilla. Intensiteetti on varmasti katossa.
+STR_0522    :Pienempi vuoristorata jossa matkustajat kulkevat raiteilla ilman ympäröivää ajoneuvoa
+STR_0523    :Matkustajat kulkevat verkkaisesti moottoroiduilla ajoneuvoilla rataa pitkin
+STR_0524    :Pneumaattisesti laukaistu kori kohoaa korkean terästornin huipulle, ja putoaa sitten vapaasti takaisin maahan
+STR_0525    :Matkustajat kiitävät kiemurtelevaa rataa alas, ainoastaan puolikuun muotoisen radan kallistumien ja kaarroksien ohjaamana
+STR_0526    :Matkustajat kulkevat pyörivässä näköalakopissa, joka nousee korkean tornin huipulle
+STR_0527    :Lipevä teräskiskoinen vuoristorata joka kykenee pystysuoriin silmukoihin
+STR_0528    :Matkjustajat liukuvat puhallettavissa veneissä alas puolikuun tai umpinaisen putken muotoista rataa
+STR_0529    :Kaivosjunan näköiset vuoristoratavaunut kiitävät vanhalta junaradalta näyttäviä teräskiskoja pitkin
+STR_0530    :Vaunut riippuvat teräskaapelista, joka pyörii jatkuvasti laitteen yhdestä päästä toiseen
+STR_0531    :Kompakti teräskiskoinen vuoristorata jossa juna kiitää läpi korkkikierteiden ja silmukoiden
+STR_0532    :Labyrintti on rakennettu kaksimetrisistä pensasaidoista tai seinistä, ja kävijät pääsevät ulos vasta kun löytävät uloskäynnin
+STR_0533    :Puinen rakennus jonka sisällä olevasta porraskäytävästä pääsee huipulle, josta voi ulkoseinämän liukumäkeä laskea alas
+STR_0534    :Kävijät kilpailevat toisiaan vastaan miniautoissa asfalttiradalla
+STR_0535    :Veneet kulkevat vesikanavaa myöten, ja jyrkissä mäissä roiskeet kastelevat matkustajat
+STR_0536    :Pyöreät veneet kuljeskelevat laajaa vesikanavaa pitkin, roiskuen läpi vesiputousten ja vaahtoavien koskien
+STR_0537    :Kävijät törmäävät toisiinsa ajamissaan sähköautoissa
+STR_0538    :Suuri keinuva merirosvolaiva
+STR_0539    :Laiva on kiinnitetty puomiin, jonka toisessa päässä on vastapaino, ja joka pyörii täydet 360 astetta
+STR_0540    :Koju josta kävijät voivat ostaa ruokaa
+STR_0542    :Koju josta kävijät voivat ostaa juomia
+STR_0544    :Koju joka myy matkamuistoja
+STR_0545    :Vanhanaikainen pyörivä karuselli kaiverrettujen puuhevosien kera
+STR_0547    :Koju josta kävijät voivat ostaa karttoja ja sateenvarjoja
+STR_0548    :WC-rakennus
+STR_0549    :Iso pyörivä pyörä jossa on avoilmapenkit
+STR_0550    :Kävijät katsovat elokuvaa simulaattorin sisällä, samalla kun hydraulinen puomi liikuttaa ja kallistaa simulaattoria
+STR_0551    :Elokuvateatteri joka näyttää 3D-elokuvia geodeettisen pallon muotoisessa rakennuksessa
+STR_0552    :Matkustajat istuvat suurien pyörivien puomien päähän kiinnitetyissä gondolassa, pyörien edestakaisin ja ylösalaisin
+STR_0553    :Sisäkkäiset pyörivät renkaat antavat kävijöiden pyöriä vapaasti joka suuntaan
+STR_0554    :Vaunu laukaistaan asemalta induktiomoottorilla, ja kiipeää sitten pystysuoraa rataa pitkin, lopulta pudoten vapaasti takaisin asemalle
+STR_0555    :Kävijät matkustavat pystysuoralla hissillä ylös tai alas, päästen näin eri tasoille
+STR_0556    :Erikoisleveät vaunut putoavat pystysuoraa rataa pitkin, jotta kävijät voivat kokea äärimmäisen vapaapudotusvuoristoradan
+STR_0557    :Raha-automaatti jota kävijät voivat käyttää jos rahat ovat vähissä
+STR_0558    :Kävijät istuvat pareittain penkeissä kolmen pitkän pyörivän puomin päissä
+STR_0559    :Suuri teemattu rakennus jossa on pelottavia käytäviä ja karmivia huoneita
+STR_0560    :Paikka jossa pahoinvoivat kävijät voivat levätä ja toipua nopeammin
+STR_0561    :Sirkuseläinshow valtavan teltan sisällä
+STR_0562    :Moottoroidut vaunut kulkevat monitasoista rataa pitkin pelottavien lavasteiden ja erikoistehosteiden keskellä
+STR_0563    :Mukavissa junissa istuvat matkustajat kokevat sulavan valtavia pudotuksia ja kääntyileviä ratoja, sekä runsaasti ‘airtime’ä mäkien huipuilla
+STR_0564    :Tämä puisella radalla kulkeva vuoristorata on nopea, raju ja meluisa, ja antaa matkustajille runsaasti hallitsemattomuuden tunnetta ja reilusti ‘airtime’ä
+STR_0565    :Yksinkertainen puinen vuoristorata, joka pystyy vain lempeisiin mäkiin ja kaarteisiin, koska vaunut pysyvät radalla ainoastaan sivuttaiskitkapyörien ja painovoiman ansiosta
+STR_0566    :Yksittäiset vuoristoratavaunut viuhahtavat tiukan siksakkiradan jyrkkien käännösten ja vielä jyrkempien pudotusten läpi
+STR_0567    :Matkustajat pyörivät ylösalaisin radan molemmin puolin sijoitetuissa istuimissa, kun juna kiitää jyrkkien pudotusten ja moninaisten käännösten läpi
+STR_0569    :Matkustajat kokevat lentämisen tunteen, kun he kiitävät ilmojen halki erikoisvaljaissa radan alapuolella
+STR_0571    :Pyöreät vaunut kieppuvat ympäriinsä kulkiessaan siksakkaavaa puista rataa
+STR_0572    :Suuren kapasiteetin veneet kulkevat laajan vesikanavaa, kulkien ylämäkiä liukuhihnalla, ja luistaen alamäkiä roiskeiden kastellessa matkustajia
+STR_0573    :Moottoroidut helikopterin muotoiset vaunut kulkevat teräsradalla, liikkuen matkustajien polkiessa
+STR_0574    :Matkustajat laitetaan makuuasentoon erikoisvaljaisiin, ja laitetaan kiitämään kiemurtelevan ja kääntyilevän radan läpi, joko selin tai vatsallaan
+STR_0575    :Moottoroidut yksittäisestä kiskosta riippuvat junat kuljettavat kävijöitä ympäri puistoa
+STR_0577    :Vaunut kulkevat puisilla kiskoilla, ja kääntyvät ympäri erityisissä kääntöosioissa
+STR_0578    :Vaunut kulkevat renkasmaisten rakenteiden ympäröivää rataa, kulkien läpi jyrkkien pudotusten ja sivuttaisvieritysten
+STR_0579    :Lempeä minigolfkenttä
+STR_0580    :Jättimäinen teräsvuoristorata joka kykenee sulaviin pudotuksiin ja jopa 90 metrin korkuisiin mäkiin
+STR_0581    :Pyörivään ympyrään asetetut istuimet vedetään korkean tornin huipulle, ja annetaan pudota alas, ja pysähtyä hellävaraisesti magneettijarrujen ansiosta
+STR_0582    :Matkustajat kulkevat itse ajamissaan ilmatyynyaluksissa
+STR_0583    :Rakennus täynnä kävijöitä kummastuttavia vääristettyjä huoneita ja kieroutuineita käytäviä
+STR_0584    :Matkustajat itse polkevat näitä erikoisvalmisteisia polkupyöriä yksittäistä teräsrataa pitkin
+STR_0585    :Matkustajat istuvat pareittain radasta roikuvissa istuimissa, poukkoillen ja kierrellen tiukkojen käänteiden läpi
+STR_0586    :Veneen muotoiset vaunut kulkevat vuoristoradan kiertyvien kaarrosten ja jyrkkien pudotusten läpi, välillä polskahtaen lempeämpiin jokiosioihin
+STR_0587    :Jännittävän ilmakäyttöisen laukauksen jälkeen juna After an exhilarating air-powered launch, the train speeds up a vertical track, over the top, and vertically down the other side to return to the station
+STR_0588    :Erilliset vaunut kulkevat siksakkisen radan alla tiukkojen mutkien ja jyrkkien mäkien ohessa
+STR_0589    :Suuri lentävän maton näköinen vaunu joka liikkuu syklisesti ylös ja alas neljän puomin varassa
+STR_0590    :Matkustajat kulkevat sukellusveneessä vedenalaista rataa pitkin
+STR_0591    :Lautan muotoiset veneet lempeästi liplattavat jokirataa pitkin
+STR_0593    :Riippuvilla vaunuilla varustettu pyörivä ratas, joka aluksi pyörii paikallaan, ja sitten nousee pystysuoraksi liikkuvan tukipuomin ansioista
+STR_0598    :Käänteiset vaunut laukaistaan asemalta pystysuoraa rataa ylös, pudoten lopulta aseman läpi kohti toista pystysuoraa rataa
+STR_0599    :Kompakti vuoristorata erillisillä vaunuilla ja sulavilla kiertyvillä pudotuksilla
+STR_0600    :Moottoroidut kaivosjunat kiitävät sulavasti kiemurtelevan radan halki
+STR_0602    :Vuoristorata jonka junat laukaistaan asemalta induktiomoottorilla, ja kiitävät sitten kiermutelevien käännösten läpi
+STR_0603    :Puinen vuoristorata teräskiskoilla, jyrkillä pudotuksilla ja käännöksillä varustettuna
+STR_0604    :Matkustajat kulkevat peräjonossa kapealla yksittäiskiskolla, kiitäen tiukkojen käännösten ja suunnanvaihdoksien läpi
 STR_0767    :Kävijä {INT32}
 STR_0768    :Yleismies {INT32}
 STR_0769    :Mekaanikko {INT32}
@@ -245,13 +244,13 @@ STR_0834    :Levy- ja peliasetukset
 STR_0839    :{UINT16} × {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} × {UINT16}
 # The following six strings were used for display resolutions, but have been replaced.
-STR_0847    :Lisätietoja 'OpenRCT2'
+STR_0847    :Tietoja OpenRCT2:sta
 STR_0850    :{WINDOW_COLOUR_2}Tekijänoikeus © 2002 Chris Sawyer, kaikki oikeudet pidätetään
 STR_0851    :{WINDOW_COLOUR_2}Suunnitellut ja ohjelmoinut Chris Sawyer
 STR_0852    :{WINDOW_COLOUR_2}Grafiikka Simon Foster
 STR_0853    :{WINDOW_COLOUR_2}Äänet ja musiikki Allister Brimble
 STR_0854    :{WINDOW_COLOUR_2}Lisä-äänet nauhoittanut David Ellis
-STR_0855    :{WINDOW_COLOUR_2}Edustaja Jacqui Lyons at Marjacq Ltd.
+STR_0855    :{WINDOW_COLOUR_2}Edustaja Jacqui Lyons Marjacq Ltd.:ssä
 STR_0856    :{WINDOW_COLOUR_2}Kiitoksia:
 STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, ja John Wardley
 STR_0865    :{STRINGID}
@@ -765,8 +764,8 @@ STR_1373    :Iso puolisilmukka (vasen)
 STR_1374    :Iso puolisilmukka (oikea)
 STR_1375    :Siirto ylös
 STR_1376    :Siirto alas
-STR_1377    :Sydänviivakierähdys (vasen)
-STR_1378    :Sydänviivakierähdys (oikea)
+STR_1377    :Sivuttaisvierähdys (vasen)
+STR_1378    :Sivuttaisvierähdys (oikea)
 STR_1379    :Suunnanvaihtaja (vasen)
 STR_1380    :Suunnanvaihtaja (oikea)
 STR_1381    :Kaareva nostomäki (vasen)
@@ -1114,8 +1113,8 @@ STR_1723    :Puiston avaus ei onnistunut…
 STR_1724    :Puiston sulkeminen ei onnistunut…
 STR_1725    :Maan ostaminen ei onnistunut…
 STR_1726    :Maa ei ole myytävänä!
-STR_1727    :Rakennusoikeudet eivät ole myytävänä!
-STR_1728    :Rakennusoikeuksia ei voi ostaa tähän…
+STR_1727    :Rakennusluvat eivät ole myytävänä!
+STR_1728    :Rakennuslupia ei voi ostaa tähän…
 STR_1729    :Maa ei ole puiston omistuksessa!
 STR_1730    :{RED}Suljettu - - 
 STR_1731    :{WHITE}{STRINGID} - - 
@@ -1149,14 +1148,14 @@ STR_1761    :Rakenna labyrinttia tähän suuntaan
 STR_1762    :Vesiputoukset
 STR_1763    :Kosket
 STR_1764    :Log Bumps
-STR_1765    :On-ride photo section
+STR_1765    :Valokuvaosio
 STR_1766    :Reverser turntable
 STR_1767    :Pyörivä tunneli
 STR_1768    :Heilahdusten määrää ei voitu muuttaa…
 STR_1769    :{WINDOW_COLOUR_2}Heilahdusten määrä:
 STR_1770    :Kokonaisten heilahdusten määrä
 STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1773    :Only one on-ride photo section allowed per ride
+STR_1773    :Vain yksi valokuvaosio sallittu per laite
 STR_1774    :Vain yksi nostomäki sallittu per laite
 STR_1777    :{WINDOW_COLOUR_2}Musiikki
 STR_1778    :{STRINGID} - - 
@@ -1340,7 +1339,7 @@ STR_1959    :Kierrosten määrää ei voi muuttaa…
 STR_1960    :{WINDOW_COLOUR_2}Ilmapallon hinta:
 STR_1961    :{WINDOW_COLOUR_2}Pehmolelun hinta:
 STR_1962    :{WINDOW_COLOUR_2}Puiston kartan hinta:
-STR_1963    :{WINDOW_COLOUR_2}On-Ride Photo price:
+STR_1963    :{WINDOW_COLOUR_2}Valokuvan hinta:
 STR_1964    :{WINDOW_COLOUR_2}Sateenvarjon hinta:
 STR_1965    :{WINDOW_COLOUR_2}Juoman hinta:
 STR_1966    :{WINDOW_COLOUR_2}Hampurilaisen hinta:
@@ -1368,7 +1367,7 @@ STR_1987    :{WINDOW_COLOUR_2}
 STR_1988    :Ilmapallo
 STR_1989    :Pehmolelu
 STR_1990    :Puiston kartta
-STR_1991    :On-Ride Photo
+STR_1991    :Valokuva
 STR_1992    :Sateenvarjo
 STR_1993    :Juoma
 STR_1994    :Hampurilainen
@@ -1379,7 +1378,7 @@ STR_1998    :Tyhjä tölkki
 STR_1999    :Roska
 STR_2000    :Tyhjä hampurilaisrasia
 STR_2001    :Pizza
-STR_2002    :Etuseteli
+STR_2002    :Kuponki
 STR_2003    :Popcorn
 STR_2004    :Hot Dog
 STR_2005    :Lonkero
@@ -1396,7 +1395,7 @@ STR_2015    :Tyhjä pullo
 STR_2016    :Ilmapalloja
 STR_2017    :Pehmoleluja
 STR_2018    :Puistokarttoja
-STR_2019    :On-Ride Photos
+STR_2019    :Valokuvia
 STR_2020    :Sateenvarjoja
 STR_2021    :Juomia
 STR_2022    :Hampurilaisia
@@ -1407,7 +1406,7 @@ STR_2026    :Tyhjiä tölkkejä
 STR_2027    :Roska
 STR_2028    :Tyhjiä hampurilaisrasioita
 STR_2029    :Pizzoja
-STR_2030    :Etuseteleitä
+STR_2030    :Kuponkeja
 STR_2031    :Popcorn
 STR_2032    :Hot Dogeja
 STR_2033    :Lonkeroita
@@ -1424,7 +1423,7 @@ STR_2043    :Tyhjiä pulloja
 STR_2044    :Ilmapallo
 STR_2045    :Pehmolelu
 STR_2046    :Puiston kartta
-STR_2047    :an On-Ride Photo
+STR_2047    :Valokuva
 STR_2048    :Sateenvarjo
 STR_2049    :Juoma
 STR_2050    :Hampurilainen
@@ -1435,7 +1434,7 @@ STR_2054    :Tyhjä tölkki
 STR_2055    :Roskaa
 STR_2056    :Tyhjä hampurilaisrasia
 STR_2057    :Pizza
-STR_2058    :Etuseteli
+STR_2058    :Kuponki
 STR_2059    :Popcornia
 STR_2060    :Hot Dog
 STR_2061    :Lonkero
@@ -2182,8 +2181,8 @@ STR_3042    :Merirosvotyyli
 STR_3043    :Kivityyli 3
 STR_3044    :Karkkityyli
 STR_3045    :Valitse toistettavan musiikin tyyli
-STR_3047    :Local authority forbids demolition or modifications to this ride
-STR_3048    :Marketing campaigns forbidden by local authority
+STR_3047    :Paikallisviranomaiset eivät salli tämän laitteen muuttelua tai romuttamista
+STR_3048    :Paikallisviranomaiset eivät salli markkinointikampanjoita
 STR_3049    :Golf-reikä A
 STR_3050    :Golf-reikä B
 STR_3051    :Golf-reikä C
@@ -2205,10 +2204,10 @@ STR_3069    :Top Section
 STR_3070    :Slope to Level
 STR_3071    :{WINDOW_COLOUR_2}Sama hinta koko puistossa
 STR_3072    :Valitse käytetäänkö samaa hintaa kaikkialla puistossa
-STR_3073    :{RED}WARNING: Your park rating has dropped below 700!{NEWLINE}If you haven't raised the park rating in 4 weeks, your park will be closed down
-STR_3074    :{RED}WARNING: Your park rating is still below 700!{NEWLINE}You have 3 weeks to raise the park rating
-STR_3075    :{RED}WARNING: Your park rating is still below 700!{NEWLINE}You have only 2 weeks to raise the park rating, or your park will be closed down
-STR_3076    :{RED}FINAL WARNING: Your park rating is still below 700!{NEWLINE}In just 7 days your park will be closed down unless you can raise the rating
+STR_3073    :{RED}VAROITUS: Puistosi taso on laskennut alle 700!{NEWLINE}Jos et pysty nostamaan puiston tasoa 4 viikon sisään, puistosi suljetaan
+STR_3074    :{RED}VAROITUS: Puistosi taso on vieläkin alle 700!{NEWLINE}Sinulla on 3 viikkoa aikaa nostaa puiston tasoa
+STR_3075    :{RED}VAROITUS: Puistosi taso on vieläkin alle 700!{NEWLINE}Sinulla on vain 2 viikkoa aikaa nostaa puiston tasoa, tai puistosi suljetaan
+STR_3076    :{RED}VIIMEINEN VAROITUS: Puistosi taso on vieläkin alle 700!{NEWLINE}Puistosi suljetaan 7 päivän päästä jos et nosta puiston tasoa
 STR_3077    :{RED}LAKKAUTUSTIEDOTE: Puistosi on suljettu!
 STR_3090    :Valitse sisään- ja uloskäynnin ja aseman tyyli
 STR_3091    :Ei ole sallittua poistaa tätä aluetta!
@@ -2253,34 +2252,34 @@ STR_3130    :Tallenna
 STR_3131    :Peruuta
 STR_3132    :{BLACK}Click items of scenery to select them to be saved with track design…
 STR_3133    :Unable to build this on a slope
-STR_3134    :{RED}(Design includes scenery which is unavailable)
-STR_3135    :{RED}(Vehicle design unavailable - Ride performance may be affected)
-STR_3136    :Warning: This design will be built with an alternative vehicle type and may not perform as expected
-STR_3137    :Select Nearby Scenery
-STR_3138    :Reset Selection
-STR_3139    :Cable lift unable to work in this operating mode
-STR_3140    :Cable lift hill must start immediately after station
-STR_3141    :Multi-circuit per ride not possible with cable lift hill
+STR_3134    :{RED}(Mallissa on maisemointeja joita ei ole saatavilla)
+STR_3135    :{RED}(Ajoneuvotyyppi ei saatavilla - tämä voi vaikuttaa laitteen suorituskykyyn)
+STR_3136    :Varoitus: Tämä malli rakennetaan korvaavalla ajoneuvotyypillä, joka saattaa vaikuttaa laitteen toimintaan
+STR_3137    :Valitse lähistön maisemoinnit
+STR_3138    :Tyhjennä valinta
+STR_3139    :Nostomäki ei toimi tässä toimintatilassa
+STR_3140    :Nostomäen tulee alkaa heti aseman jälkeen
+STR_3141    :Monikierrokset eivät ole mahdollisia nostomäen kanssa
 STR_3142    :{WINDOW_COLOUR_2}Kapasiteetti: {BLACK}{STRINGID}
 STR_3143    :Näytä ihmiset kartalla
 STR_3144    :Näytä laitteet ja kojut kartalla
-STR_3160    :Select the number of circuits per ride
-STR_3162    :Unable to allocate enough memory
-STR_3163    :Installing new data: 
+STR_3160    :Valitse kierroksien määrä per ajo
+STR_3162    :Ei voida varata tarpeeksi muistia
+STR_3163    :Asennetaan uutta dataa: 
 STR_3164    :{BLACK}{COMMA16} valittu (maks. {COMMA16})
-STR_3167    :{WINDOW_COLOUR_2}Sisältää: {BLACK}{COMMA16} objektia
-STR_3169    :Tiedot seuraavalle objektille ei löydy: 
+STR_3167    :{WINDOW_COLOUR_2}Sisältää: {BLACK}{COMMA16} esinettä
+STR_3169    :Tämän esineen tietoja ei löydy: 
 STR_3170    :Tilaa ei ole tarpeeksi grafiikoille
-STR_3171    :Liian montaa tämän tyyppistä objektia valittuna
-STR_3172    :Tämä objekti pitää valita ensiksi: {STRING}
-STR_3173    :Tämä objekti on käytössä
-STR_3174    :Tätä objektia tarvitaan toisessa projektissa
-STR_3175    :Tätä objektia aina tarvitaan
-STR_3176    :Ei onnistunut valita tätä objektia
-STR_3177    :Unable to de-select this object
-STR_3178    :At least one path object must be selected
-STR_3179    :At least one ride vehicle/attraction object must be selected
-STR_3180    :Virheellinen objektien valinta
+STR_3171    :Liian montaa tämän tyyppistä esinettä valittuna
+STR_3172    :Tämä esine pitää valita ensiksi: {STRING}
+STR_3173    :Tämä esine on käytössä
+STR_3174    :Tätä esinettä tarvitaan toisessa projektissa
+STR_3175    :Tätä esinettä tarvitaan aina
+STR_3176    :Tätä esinettä ei voi valita
+STR_3177    :Tämän esineen valintaa ei voi poistaa
+STR_3178    :Ainakin yksi polkuesine tulee olla valittuna
+STR_3179    :Ainakin yksi laiteajoneuvo tai kohde-esine tulee olla valittuna
+STR_3180    :Virheellinen esineiden valinta
 STR_3181    :Esineiden valinta - {STRINGID}
 STR_3182    :Puiston sisäänkäynnin tyyli on valittava
 STR_3183    :Veden tyyppi on valittava
@@ -2376,8 +2375,8 @@ STR_3273    :Park rating higher difficult level
 STR_3274    :Make the park rating value more challenging
 STR_3275    :Guest generation higher difficult level
 STR_3276    :Make it more difficult to attract guests to the park
-STR_3277    :{WINDOW_COLOUR_2}Cost to buy land:
-STR_3278    :{WINDOW_COLOUR_2}Cost to buy construction rights:
+STR_3277    :{WINDOW_COLOUR_2}Maan ostohinta:
+STR_3278    :{WINDOW_COLOUR_2}Maan rakennusluvan hinta:
 STR_3279    :Free park entry / Pay per ride
 STR_3280    :Pay to enter park / Free rides
 STR_3281    :{WINDOW_COLOUR_2}Sisäänpääsyhinta:
@@ -2395,40 +2394,40 @@ STR_3292    :Kuuma ja kuiva
 STR_3293    :Kylmä
 STR_3294    :Muuta…
 STR_3295    :Vaihda puiston nimi
-STR_3296    :Change name of scenario
-STR_3297    :Change detail notes about park / scenario
+STR_3296    :Vaihda skenaarion nimi
+STR_3297    :Muuta skenaarion kuvausta
 STR_3298    :{WINDOW_COLOUR_2}Puiston nimi: {BLACK}{STRINGID}
-STR_3299    :{WINDOW_COLOUR_2}Park/Scenario Details:
-STR_3300    :{WINDOW_COLOUR_2}Scenario Name: {BLACK}{STRINGID}
+STR_3299    :{WINDOW_COLOUR_2}Skenaarion kuvaus:
+STR_3300    :{WINDOW_COLOUR_2}Skenaarion nimi: {BLACK}{STRINGID}
 STR_3301    :{WINDOW_COLOUR_2}Tavoitepäivä:
 STR_3302    :{WINDOW_COLOUR_2}{MONTHYEAR}
 STR_3303    :{WINDOW_COLOUR_2}Kävijöiden määrä:
 STR_3304    :{WINDOW_COLOUR_2}Puiston arvo:
 STR_3305    :{WINDOW_COLOUR_2}Kuukausittainen tulo:
 STR_3306    :{WINDOW_COLOUR_2}Kuukausittainen tuotto:
-STR_3307    :{WINDOW_COLOUR_2}Minimum length:
+STR_3307    :{WINDOW_COLOUR_2}Vähimmäispituus:
 STR_3308    :{WINDOW_COLOUR_2}Excitement rating:
 STR_3309    :{WINDOW_COLOUR_2}{COMMA16}
 STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
 STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
-STR_3312    :{WINDOW_COLOUR_2}Rides/attractions under a preservation order:
-STR_3313    :Scenario Name
-STR_3314    :Enter name for scenario:
-STR_3315    :Park/Scenario Details
-STR_3316    :Enter description of this scenario:
+STR_3312    :{WINDOW_COLOUR_2}Laitteet suojelumääräyksen alla:
+STR_3313    :Skenaarion nimi
+STR_3314    :Anna skenaariolle nimi:
+STR_3315    :Skenaarion kuvaus
+STR_3316    :Anna skenaariolle kuvaus:
 STR_3317    :Lisätietoja ei ole vielä saatavilla
-STR_3318    :Select which group this scenario appears in
-STR_3319    :{WINDOW_COLOUR_2}Scenario Group:
-STR_3320    :Unable to save scenario file…
-STR_3321    :Uusia objekteja asennettu onnistuneesti
+STR_3318    :Valitse missä ryhmässä tämä skenaario esiintyy
+STR_3319    :{WINDOW_COLOUR_2}Skenaarioryhmä:
+STR_3320    :Skenaariotiedostoa ei voi tallentaa…
+STR_3321    :Uudet esineet asennettu onnistuneesti
 STR_3322    :{WINDOW_COLOUR_2}Tavoite: {BLACK}{STRINGID}
 STR_3326    :{WINDOW_COLOUR_2}(ei kuvaa)
-STR_3327    :Starting positions for people not set
-STR_3328    :Can't advance to next editor stage…
+STR_3327    :Ihmisten aloituspaikkaa ei ole määritetty
+STR_3328    :Seuraavaan muokkaintilaan ei voi edetä…
 STR_3329    :Puiston sisäänkäyntiä ei ole vielä rakennettu
 STR_3330    :Puiston pitää omistaa edes jonkin verran maata
-STR_3331    :Path from park entrance to map edge either not complete or too complex - Path must be single-width with as few junctions and corners as possible
-STR_3332    :Park entrance is the wrong way round or has no path leading to the map edge
+STR_3331    :Polku puiston sisäänkäynnistä tason reunalle on joko vaillinainen tai liian monimutkainen; polun tulee olla yhden tiilen levyinen ja mahdollisimman vähän risteyksiä ja käännöksiä
+STR_3332    :Puiston sisäänkäynti on väärin päin, tai siihen ei ole polkua tason reunalta
 STR_3333    :Liitä laajennusesineet tallennustiedostoihin
 STR_3334    :Valitse liitetäänkö tallennuksiin ja skenaariotiedostoihin laajennuksien esineiden lisätiedot (jota ei toimiteta tuotteen mukana), jotta tiedostot voidaan avata myös pelissä jossa ei ole samoja esinetietoja
 STR_3335    :Vuoristoratamuokkain - Valitse laitteen tyyppi ja ajoneuvo
