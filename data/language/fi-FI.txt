@@ -166,7 +166,7 @@ STR_0583    :Rakennus täynnä kävijöitä kummastuttavia vääristettyjä huon
 STR_0584    :Matkustajat itse polkevat näitä erikoisvalmisteisia polkupyöriä yksittäistä teräsrataa pitkin
 STR_0585    :Matkustajat istuvat pareittain radasta roikuvissa istuimissa, poukkoillen ja kierrellen tiukkojen käänteiden läpi
 STR_0586    :Veneen muotoiset vaunut kulkevat vuoristoradan kiertyvien kaarrosten ja jyrkkien pudotusten läpi, välillä polskahtaen lempeämpiin jokiosioihin
-STR_0587    :Jännittävän ilmakäyttöisen laukauksen jälkeen juna After an exhilarating air-powered launch, the train speeds up a vertical track, over the top, and vertically down the other side to return to the station
+STR_0587    :Jännittävän ilmakäyttöisen laukauksen jälkeen juna kiitää ylös pystysuoraa rataa, sujahtaa huipun yli, ja toista pystysuoraa rataa alas palatakseen asemalle
 STR_0588    :Erilliset vaunut kulkevat siksakkisen radan alla tiukkojen mutkien ja jyrkkien mäkien ohessa
 STR_0589    :Suuri lentävän maton näköinen vaunu joka liikkuu syklisesti ylös ja alas neljän puomin varassa
 STR_0590    :Matkustajat kulkevat sukellusveneessä vedenalaista rataa pitkin
@@ -228,14 +228,14 @@ STR_0818    :syys
 STR_0819    :loka
 STR_0820    :marras
 STR_0821    :joulu
-STR_0822    :Grafiikkadatatiedostoa ei saada auki
+STR_0822    :Grafiikkadatatiedostoa ei voi avata
 STR_0823    :Puuttuva tai käyttökelvoton datatiedosto
 STR_0824    :{BLACK}❌
 STR_0825    :Nimi on jo käytössä
 STR_0826    :Liian monta nimeä määritetty
-STR_0827    :Rahaa ei ole tarpeeksi - tarvitaan {CURRENCY2DP}
+STR_0827    :Ei varaa - vaatii {CURRENCY2DP}
 STR_0828    :Sulje ikkuna
-STR_0829    :Ikkunan otsikko - Vedä tätä liikuttaaksesi ikkunaa
+STR_0829    :Ikkunan otsikko - Raahaa tätä liikuttaaksesi ikkunaa
 STR_0830    :Lähennä
 STR_0831    :Loitonna
 STR_0832    :Käännä 90° myötäpäivään
@@ -243,7 +243,6 @@ STR_0833    :Pysäytä peli
 STR_0834    :Levy- ja peliasetukset
 STR_0839    :{UINT16} × {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} × {UINT16}
-# The following six strings were used for display resolutions, but have been replaced.
 STR_0847    :Tietoja OpenRCT2:sta
 STR_0850    :{WINDOW_COLOUR_2}Tekijänoikeus © 2002 Chris Sawyer, kaikki oikeudet pidätetään
 STR_0851    :{WINDOW_COLOUR_2}Suunnitellut ja ohjelmoinut Chris Sawyer
@@ -277,9 +276,9 @@ STR_0885    :Tallenna maisema
 STR_0887    :Lopeta skenaariomuokkain
 STR_0888    :Lopeta vuoristoratamuokkain
 STR_0889    :Lopeta ratamallien hallinta
-STR_0891    :Kuvankaappaus
-STR_0892    :Kuvankaappaus tallennettu levylle nimellä '{STRINGID}'
-STR_0893    :Kuvankaappaus epäonnistui!
+STR_0891    :Ruudunkaappaus
+STR_0892    :Ruudunkaappaus tallennettu levylle nimellä '{STRINGID}'
+STR_0893    :Ruudunkaappaus epäonnistui!
 STR_0894    :Maisematietoalue on täynnä!
 STR_0895    :Ei voi rakentaa osittain maan ylle ja alle
 STR_0896    :{POP16}{POP16}{STRINGID} rakennus
@@ -312,24 +311,24 @@ STR_0922    :Jyrkkä mäki ylös
 STR_0923    :Pystynousu
 STR_0924    :Kierre alas
 STR_0925    :Kierre ylös
-STR_0926    :Tämän poistaminen ei onnistu…
-STR_0927    :Tämän rakentaminen tähän ei onnistu…
-STR_0928    :Ketjumäki, vaunujen mäessä vetämistä varten.
-STR_0929    :'S' mutka (vasen)
-STR_0930    :'S' mutka (oikea)
+STR_0926    :Tätä ei voi poistaa…
+STR_0927    :Tätä ei voi rakentaa tähän…
+STR_0928    :Nostomäki, vaunujen ylämäkiä vetoa varten
+STR_0929    :S-mutka (vasen)
+STR_0930    :S-mutka (oikea)
 STR_0931    :Pystysuora silmukka (vasen)
 STR_0932    :Pystysuora silmukka (oikea)
 STR_0933    :Nosta tai laske maata ensin
-STR_0934    :Laitteen sisäänkäynti edessä
-STR_0935    :Laitteen uloskäynti edessä
-STR_0936    :Puiston sisäänkäynti edessä
+STR_0934    :Laitteen sisäänkäynti tiellä
+STR_0935    :Laitteen uloskäynti tiellä
+STR_0936    :Puiston sisäänkäynti tiellä
 STR_0937    :Näkymäasetukset
 STR_0938    :Muokkaa maan korkeutta ja jyrkkyyttä
 STR_0939    :Maanalainen näkymä
 STR_0940    :Poista kallioperä
 STR_0941    :Poista pystysuorat pinnat
 STR_0942    :Näe laitteiden läpi
-STR_0943    :Näe maiseman läpi
+STR_0943    :Näe maisemoinnin läpi
 STR_0944    :Tallenna
 STR_0945    :Älä tallenna
 STR_0946    :Peruuta
@@ -341,7 +340,7 @@ STR_0951    :Lopeta peli
 STR_0952    :Lopeta peli
 STR_0953    :Lataa maisema
 STR_0954    :
-STR_0955    :Valitse istuimen kiertokulma tähän radan osioon
+STR_0955    :Valitse istuimen kiertokulma tälle rataosalle
 STR_0956    :-180°
 STR_0957    :-135°
 STR_0958    :-90°
@@ -374,26 +373,26 @@ STR_0984    :{WINDOW_COLOUR_2}▲{BLACK}  {CURRENCY2DP}
 STR_0985    :{WINDOW_COLOUR_2}▼{BLACK}  {CURRENCY2DP}
 STR_0986    :{BLACK}{CURRENCY2DP}
 STR_0987    :Liian monta laitetta/kohdetta
-STR_0988    :Ei pysty luomaan uutta laitetta/kohdetta…
+STR_0988    :Uutta laitetta/kohdetta ei voi luoda…
 STR_0989    :{STRINGID}
 STR_0990    :Rakennus
 STR_0991    :Asema
 STR_0992    :Romuta koko laite/kohde
-STR_0993    :Romuta laite/nähtävyys
+STR_0993    :Romuta laite/kohde
 STR_0994    :Romuta
-STR_0995    :{WINDOW_COLOUR_1}Oletko varma että haluat tuhota {STRINGID}:n?
+STR_0995    :{WINDOW_COLOUR_1}Oletko varma että haluat romuttaa {STRINGID}:n?
 STR_0996    :Kokonaisnäkymä
 STR_0997    :Katso valinta
-STR_0998    :Ei lisää asemia sallittu tälle laitteelle
+STR_0998    :Tähän laitteeseen ei voi rakentaa lisää asemia
 STR_0999    :Vaatii aseman
-STR_1000    :Rata ei tee täydellistä kierrosta
-STR_1001    :Rata ei sovi kyseiselle junalajille
-STR_1002    :Avaaminen ei onnistu laitteessa {POP16}{POP16}{POP16}{STRINGID}…
-STR_1003    :Testiajo ei onnistu laitteessa {POP16}{POP16}{POP16}{STRINGID}…
-STR_1004    :Sulkeminen ei onnistu laitteessa {POP16}{POP16}{POP16}{STRINGID}…
-STR_1005    :Rakentaminen ei onnistu laitteessa {POP16}{POP16}{POP16}{STRINGID}…
-STR_1006    :Täytyy ensin sulkea
-STR_1007    :Ei voida luoda tarpeeksi kulkuneuvoja
+STR_1000    :Rata ei tee täyttä kierrosta
+STR_1001    :Rata ei sovellu tälle junatyypille
+STR_1002    :Laitetta {POP16}{POP16}{POP16}{STRINGID} ei voi avata…
+STR_1003    :Laitetta {POP16}{POP16}{POP16}{STRINGID} ei voi testata…
+STR_1004    :Laitetta {POP16}{POP16}{POP16}{STRINGID} ei voi sulkea…
+STR_1005    :Laitetta {POP16}{POP16}{POP16}{STRINGID} ei voi rakentaa…
+STR_1006    :Laitteen täytyy olla kiinni
+STR_1007    :Kulkuneuvoja ei voida luoda tarpeeksi
 STR_1008    :Avaa, sulje tai testaa laitetta/kohdetta
 STR_1009    :Avaa tai sulje kaikki laitteet/kohteet
 STR_1010    :Avaa tai sulje puisto
@@ -403,10 +402,10 @@ STR_1013    :Sulje puisto
 STR_1014    :Avaa puisto
 STR_1015    :Tämä toimintatila ei toimi useamman aseman kanssa
 STR_1016    :Tämä toimintatila vaatii vähintään kaksi asemaa
-STR_1017    :Ei pysty vaihtaamaan toimintatilaa…
-STR_1018    :Muutoksien teko ei onnistu…
-STR_1019    :Muutoksien teko ei onnistu…
-STR_1020    :Muutoksien teko ei onnistu…
+STR_1017    :Toimintatilaa ei voi vaihtaa…
+STR_1018    :Muutoksia ei voi tehdä…
+STR_1019    :Muutoksia ei voi tehdä…
+STR_1020    :Muutoksia ei voi tehdä…
 STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_1022    :{POP16}{POP16}{POP16}{COMMA16} vaunu per juna
 STR_1023    :{POP16}{POP16}{POP16}{COMMA16} vaunua per juna
@@ -414,14 +413,14 @@ STR_1024    :{COMMA16} vaunu per juna
 STR_1025    :{COMMA16} vaunua per juna
 STR_1026    :Asema on liian pitkä!
 STR_1027    :Paikanna tämä päänäkymässä
-STR_1028    :Kentän laidan yli!
-STR_1029    :Ei voi rakentaa osittain veden pinnan ylle ja alle!
+STR_1028    :Tason laidan yli!
+STR_1029    :Ei voi rakentaa osittain vedenpinnan ylle ja alle!
 STR_1030    :Tämän voi rakentaa ainoastaan veden alle!
 STR_1031    :Tätä ei voi rakentaa veden alle!
 STR_1032    :Tämän voi rakentaa ainoastaan veteen!
 STR_1033    :Tämän voi rakentaa ainoastaan maanpinnan ylle!
 STR_1034    :Tämän voi rakentaa ainoastaan maanpinnalle!
-STR_1035    :Paikalliset viranomaiset eivät salli rakentamista puiden latvoja korkeammalle!
+STR_1035    :Paikallisviranomaiset eivät salli rakentamista puiden latvoja korkeammalle!
 STR_1036    :Lataa peli
 STR_1037    :Lataa maisema
 STR_1038    :Muunna tallennettu peli skenaarioksi
@@ -429,10 +428,10 @@ STR_1039    :Asenna uusi ratamalli
 STR_1040    :Tallenna peli
 STR_1041    :Tallenna skenaario
 STR_1042    :Tallenna maisema
-STR_1043    :OpenRCT2 Tallennettu peli
-STR_1044    :OpenRCT2 Skenaariotiedosto
-STR_1045    :OpenRCT2 Maisematiedosto
-STR_1046    :OpenRCT2 Ratamallitiedosto
+STR_1043    :OpenRCT2 tallennettu peli
+STR_1044    :OpenRCT2 skenaariotiedosto
+STR_1045    :OpenRCT2 maisematiedosto
+STR_1046    :OpenRCT2 ratamallitiedosto
 STR_1047    :Pelin tallennus epäonnistui!
 STR_1048    :Skenaarion tallennus epäonnistui!
 STR_1049    :Maisematiedoston tallennus epäonnistui!
@@ -444,12 +443,12 @@ STR_1054    :Nimeä laite/kohde
 STR_1055    :Nimeä henkilö
 STR_1056    :Nimeä henkilöstön jäsen
 STR_1057    :Laitteen/kohteen nimi
-STR_1058    :Kirjoita uusi nimi tälle laitteelle/kohteelle:
-STR_1059    :Ei pysty uudelleennimeämään laitetta/kohdetta…
+STR_1058    :Anna uusi nimi tälle laitteelle/kohteelle:
+STR_1059    :Laitetta/kohdetta ei voi uudelleennimetä…
 STR_1060    :Virheellinen laitteen/kohteen nimi
 STR_1061    :Normaali toimintatila
 STR_1062    :Toistuva kierros -toimintatila
-STR_1063    :Käänteinen-kallistus laukaistu sukkula -toimintatila
+STR_1063    :Käänteiskallistus laukaistu sukkula -toimintatila
 STR_1064    :Voimalaukaisu (aseman ohitus)
 STR_1065    :Sukkulatoimintatila
 STR_1066    :Veneajelutoimintatila
@@ -457,37 +456,37 @@ STR_1067    :Ylöspäin laukaisu
 STR_1068    :Pyörivä hissi -toimintatila
 STR_1069    :Asemalta asemalle -toimintatila
 STR_1070    :Yksi kyyti per sisäänpääsy
-STR_1071    :Loputtomat kyydit per sisäänpääsy
+STR_1071    :Rajattomat kyydit per sisäänpääsy
 STR_1072    :Labyrinttitoimintatila
 STR_1073    :Kilpailutoimintatila
 STR_1074    :Törmäysautotoimintatila
-STR_1075    :Keinutoimintatila
+STR_1075    :Keinumistoimintatila
 STR_1076    :Kojutoimintatila
 STR_1077    :Pyörimistoimintatila
 STR_1078    :Kiertosuunta eteenpäin
 STR_1079    :Kiertosuunta taaksepäin
 STR_1080    :Elokuva: ”Kostavat lentäjät”
 STR_1081    :3D-elokuva: ”Hiiren hännät”
-STR_1082    :Avaruusrenkaat -toimintatila
-STR_1083    :Aloittelijoille -toimintatila
+STR_1082    :Avaruusrenkaat-toimintatila
+STR_1083    :Aloittelijoiden toimintatila
 STR_1084    :Induktiomoottorilaukaisu
 STR_1085    :Elokuva: ”Jännityksen rakastajat”
 STR_1086    :3D-elokuva: ”Myrskyn jahtaajat”
 STR_1087    :3D-elokuva: ”Avaruusryöstäjät”
 STR_1088    :Intensiivinen toimintatila
 STR_1089    :Hullu toimintatila
-STR_1090    :Kummitustalo -toimintatila
-STR_1091    :Sirkusesitys -toimintatila
+STR_1090    :Kummitustalo-toimintatila
+STR_1091    :Sirkusesitys-toimintatila
 STR_1092    :Alaspäin laukaisu
 STR_1093    :Kiero talo -toimintatila
 STR_1094    :Vapaapudotustoimintatila
 STR_1095    :Toistuva kierros lohkojarrutuksella -toimintatila
 STR_1096    :Voimalaukaisu (ilman aseman ohitusta)
 STR_1097    :Voimalaukaisu lohkojarrutuksella -toimintatila
-STR_1098    :Siirrytään {POP16}{STRINGID} loppuun
-STR_1099    :Odotetaan matkustajia {POP16}{STRINGID}
-STR_1100    :Odotetaan lähtöä {POP16}{STRINGID}
-STR_1101    :Lähtemässä asemalta {POP16}{STRINGID}
+STR_1098    :Siirrytään {POP16}{STRINGID}n loppuun
+STR_1099    :Odotetaan matkustajia {POP16}{STRINGID}lla
+STR_1100    :Odotetaan {POP16}{STRINGID}lta lähtöä
+STR_1101    :Lähdössä {POP16}{STRINGID}lta
 STR_1102    :Nopeus {VELOCITY}
 STR_1103    :Saapumassa {POP16}{STRINGID}lle
 STR_1104    :Matkustajat poistuvat {POP16}{STRINGID}lla
@@ -514,7 +513,7 @@ STR_1124    :Käynnistetään
 STR_1125    :Käynnissä
 STR_1126    :Pysäytetään
 STR_1127    :Matkustajia puretaan
-STR_1128    :Pysähtynyt lohkojarruihin.
+STR_1128    :Pysähtynyt lohkojarruihin
 STR_1129    :Kaikki ajoneuvot saman värisiä
 STR_1130    :Eri värit per {STRINGID}
 STR_1131    :Eri värit per ajoneuvo
@@ -649,7 +648,8 @@ STR_1259    :Asema
 STR_1260    :Asemaa
 STR_1261    :{COMMA16} asema
 STR_1262    :{COMMA16} asemaa
-STR_1263    :Asema {COMMA16}
+# Not ideal as it doesn't match the format of the trains in the ride view menu, but better than nothing
+STR_1263    :{COMMA16}. asema
 STR_1264    :auto
 STR_1265    :autoa
 STR_1266    :Auto
@@ -667,7 +667,7 @@ STR_1277    :Rakennus {COMMA16}
 STR_1278    :rakennelma
 STR_1279    :rakennelmia
 STR_1280    :Rakennelma
-STR_1281    :Rakennelmia
+STR_1281    :Rakennelmaa
 STR_1282    :{COMMA16} rakennelma
 STR_1283    :{COMMA16} rakennelmaa
 STR_1284    :Rakennelma {COMMA16}
@@ -716,16 +716,16 @@ STR_1326    :Rata {COMMA16}
 STR_1327    :Käännä esineitä 90°
 STR_1328    :Vaaditaan tasainen maasto
 STR_1329    :{WINDOW_COLOUR_2}Lähtönopeus:
-STR_1330    :Enimmäisnopeus kun lähdetään asemalta
+STR_1330    :Enimmäisnopeus asemalta lähdössä
 STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_1332    :{VELOCITY}
 STR_1333    :{STRINGID} - {STRINGID}{POP16}
 STR_1334    :{STRINGID} - {STRINGID} {COMMA16}
 STR_1335    :{STRINGID} - Sisäänkäynti{POP16}{POP16}
-STR_1336    :{STRINGID} - Asema {POP16}{COMMA16} Sisäänkäynti
+STR_1336    :{STRINGID} - Aseman {POP16}{COMMA16} sisäänkäynti
 STR_1337    :{STRINGID} - Uloskäynti{POP16}{POP16}
-STR_1338    :{STRINGID} - Asema {POP16}{COMMA16} Uloskäynti
-STR_1339    :{BLACK}Testituloksia ei ole vielä saatavilla…
+STR_1338    :{STRINGID} - Aseman {POP16}{COMMA16} uloskäynti
+STR_1339    :{BLACK}Testitulokset eivät ole vielä saatavilla…
 STR_1340    :{WINDOW_COLOUR_2}Suurin nopeus: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Kyydin kesto: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
@@ -748,10 +748,10 @@ STR_1357    :{WINDOW_COLOUR_2}Reikiä: {BLACK}{COMMA16}
 STR_1358    :{WINDOW_COLOUR_2}Airtime yhteensä: {BLACK}{COMMA2DP32}sek
 STR_1359    :{WINDOW_COLOUR_2}Jonotusaika: {BLACK}{COMMA16} minuutti
 STR_1360    :{WINDOW_COLOUR_2}Jonotusaika: {BLACK}{COMMA16} minuuttia
-STR_1361    :Nopeuden muuttaminen ei onnistu…
-STR_1362    :Lähtönopeuden muuttaminen ei onnistu…
-STR_1363    :Liian korkealla tukia varten!
-STR_1364    :Ylemmän radan tukia ei voida laajentaa pidemmälle!
+STR_1361    :Nopeutta ei voi muuttaa…
+STR_1362    :Lähtönopeutta ei voi muuttaa…
+STR_1363    :Liian korkealla tukirakenteita varten!
+STR_1364    :Ylemmän radan tukirakenteita ei voi pidentää!
 STR_1365    :Suora kierre (vasen)
 STR_1366    :Suora kierre (oikea)
 STR_1367    :Puolisilmukka
@@ -773,8 +773,8 @@ STR_1382    :Kaareva nostomäki (oikea)
 STR_1383    :Neljännesosasilmukka
 STR_1384    :{YELLOW}{STRINGID}
 STR_1385    :Muut radan asetukset
-STR_1386    :Erikoinen…
-STR_1387    :Maaston tyyppiä ei voida muuttaa…
+STR_1386    :Erikoisosa…
+STR_1387    :Maaston tyyppiä ei voi muuttaa…
 STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
 STR_1389    :{OUTLINE}{RED}- {CURRENCY}
 STR_1390    :{CURRENCY2DP}
@@ -785,12 +785,12 @@ STR_1394    :Toiminta-asetukset
 STR_1395    :Huoltoasetukset
 STR_1396    :Värityylin asetukset
 STR_1397    :Ääni- ja musiikkiasetukset
-STR_1398    :Mitat- ja testitiedot
+STR_1398    :Mitta- ja testitiedot
 STR_1399    :Kaaviot
 STR_1400    :Sisäänkäynti
 STR_1401    :Uloskäynti
-STR_1402    :Rakenna tai siirrä sisäänkäynti laitteeseen/kohteeseen
-STR_1403    :Rakenna tai siirrä uloskäynti laitteesta/kohteesta
+STR_1402    :Sijoita tai siirrä laitteen/kohteen sisäänkäynti
+STR_1403    :Sijoita tai siirrä laitteen/kohteen uloskäynti
 STR_1404    :Käännä 90°
 STR_1405    :Peilaa rata
 STR_1406    :Vaihda maisema päälle/pois (vain jos saatavilla tälle suunnitelmalle)
@@ -840,15 +840,15 @@ STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
 STR_1452    :Kävijän nimi
-STR_1453    :Kirjoita nimi kävijälle:
+STR_1453    :Anna kävijälle nimi:
 STR_1454    :Kävijän nimeäminen ei onnistu…
 STR_1455    :Virheellinen nimi kävijälle
 STR_1456    :{WINDOW_COLOUR_2}Rahaa kulutettu: {BLACK}{CURRENCY2DP}
 STR_1457    :{WINDOW_COLOUR_2}Rahaa taskussa: {BLACK}{CURRENCY2DP}
 STR_1458    :{WINDOW_COLOUR_2}Aika puistossa: {BLACK}{REALTIME}
 STR_1459    :Radan tyyli
-STR_1460    :'U':n muotoinen avoin rata
-STR_1461    :'O':n muotoinen ympäröity rata
+STR_1460    :U:n muotoinen avoin rata
+STR_1461    :O:n muotoinen ympäröity rata
 STR_1462    :Liian jyrkkä nostomäkeä varten
 STR_1463    :Kävijät
 STR_1464    :Ruuvikierre ylös (pieni)
@@ -861,21 +861,21 @@ STR_1470    :Asema ei ole tarpeeksi pitkä
 STR_1471    :{WINDOW_COLOUR_2}Nopeus:
 STR_1472    :Tämän laitteen nopeus
 STR_1473    :{WINDOW_COLOUR_2}Jännityksen taso: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1474    :{WINDOW_COLOUR_2}Jännityksen taso: {BLACK}Ei viellä saatavilla
+STR_1474    :{WINDOW_COLOUR_2}Jännityksen taso: {BLACK}Ei vielä saatavilla
 STR_1475    :{WINDOW_COLOUR_2}Intensiteettitaso: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1476    :{WINDOW_COLOUR_2}Intensiteettitaso: {BLACK}Ei viellä saatavilla
+STR_1476    :{WINDOW_COLOUR_2}Intensiteettitaso: {BLACK}Ei vielä saatavilla
 STR_1477    :{WINDOW_COLOUR_2}Intensiteettitaso: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
 STR_1478    :{WINDOW_COLOUR_2}Pahoinvoinnin taso: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1479    :{WINDOW_COLOUR_2}Pahoinvoinnin taso: {BLACK}Ei viellä saatavilla
-STR_1480    :“Minulla ei ole varaa mennä {STRINGID}”
+STR_1479    :{WINDOW_COLOUR_2}Pahoinvoinnin taso: {BLACK}Ei vielä saatavilla
+STR_1480    :“Minulla ei ole varaa mennä laitteeseen {STRINGID}”
 STR_1481    :“Kulutin kaikki rahani”
 STR_1482    :“Voin pahoin”
 STR_1483    :“Voin erittäin pahoin”
 STR_1484    :“Tahdon mennä johonkin jännittävämpään kuin {STRINGID}”
 STR_1485    :“{STRINGID} näyttää liian hurjalta minulle”
 STR_1486    :“En ole syönyt/juonut {STRINGID} loppuun vielä”
-STR_1487    :“Pelkästään {STRINGID} katsominen saa minut voimaan pahoin”
-STR_1488    :“En aio maksaa noin paljon päästäkseni {STRINGID}”
+STR_1487    :“Pelkästään laitteen {STRINGID} katsominen saa minut voimaan pahoin”
+STR_1488    :“En aio maksaa noin paljon laitteesta {STRINGID}”
 STR_1489    :“Haluan kotiin”
 STR_1490    :“{STRINGID} on todella reilun hintainen”
 STR_1491    :“Minulla on jo {STRINGID}”
@@ -890,8 +890,8 @@ STR_1499    :“Olen väsynyt”
 STR_1500    :“Minulla on nälkä”
 STR_1501    :“Minulla on jano”
 STR_1502    :“Minun tarvitsee käydä vessassa”
-STR_1503    :“En löydä {STRINGID}”
-STR_1504    :“En aio maksaa noin paljon käyttääkseni {STRINGID}”
+STR_1503    :“En löydä kohdetta {STRINGID}”
+STR_1504    :“En aio maksaa noin paljon kohteesta {STRINGID}”
 STR_1505    :“En halua mennä kohteeseen {STRINGID} sateessa”
 STR_1506    :“Täällä on todella paljon roskaa”
 STR_1507    :“En löydä puiston uloskäyntiä”
@@ -929,7 +929,7 @@ STR_1538    :“Tämä t-paita kojusta {STRINGID} on todella reilun hintainen”
 STR_1539    :“Tämä donitsi kojusta {STRINGID} on todella reilun hintainen”
 STR_1540    :“Tämä kahvi kojusta {STRINGID} on todella reilun hintainen”
 STR_1541    :
-STR_1542    :“Tämä friteerattu kana kojusta {STRINGID} on todella reilun hintainen”
+STR_1542    :“Tämä paistettu kana kojusta {STRINGID} on todella reilun hintainen”
 STR_1543    :“Tämä limsa {STRINGID} on todella reilun hintainen”
 STR_1544    :
 STR_1545    :
@@ -963,7 +963,7 @@ STR_1572    :“En maksa noin paljon t-paidasta kojussa {STRINGID}”
 STR_1573    :“En maksa noin paljon donitsista kojussa {STRINGID}”
 STR_1574    :“En maksa noin paljon kahvista kojussa {STRINGID}”
 STR_1575    :
-STR_1576    :“En maksa noin paljon friteeratusta kanasta kojussa {STRINGID}”
+STR_1576    :“En maksa noin paljon paistetusta kanasta kojussa {STRINGID}”
 STR_1577    :“En maksa noin paljon limsasta kojussa {STRINGID}”
 STR_1578    :
 STR_1579    :
@@ -1173,7 +1173,7 @@ STR_1789    :{INLINE_SPRITE}{08}{20}{00}{00} Merirosvopuku
 STR_1790    :Valitse virka-asun väri tämän tyyppisille henkilökunnille
 STR_1791    :{WINDOW_COLOUR_2}Virka-asun väri:
 STR_1792    :Vastaamassa {STRINGID}:n hajoamisilmoitukseen
-STR_1793    :Matkalla kohti {STRINGID} tarkistusta varten
+STR_1793    :Matkalla kohti {STRINGID} tarkastusta varten
 STR_1794    :Korjataan {STRINGID}
 STR_1795    :Vastataan radiopuheluun
 STR_1796    :Hajonnut ja korjauksen tarpeessa
@@ -1254,9 +1254,9 @@ STR_1871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COM
 STR_1873    :{WINDOW_COLOUR_2}Tulo: {BLACK}{CURRENCY2DP} per tunti
 STR_1874    :{WINDOW_COLOUR_2}Tuotto: {BLACK}{CURRENCY2DP} per tunti
 STR_1875    :{BLACK} {SPRITE}{BLACK} {STRINGID}
-STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Tarkista laitteet
+STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Tarkasta laitteet
 STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Korjaa laitteet
-STR_1878    :{WINDOW_COLOUR_2}Tarkistus:
+STR_1878    :{WINDOW_COLOUR_2}Tarkastus:
 STR_1879    :10 min välein
 STR_1880    :20 min välein
 STR_1881    :30 min välein
@@ -1264,11 +1264,11 @@ STR_1882    :45 min välein
 STR_1883    :Tunnin välein
 STR_1884    :2 tunnin välein
 STR_1885    :Ei koskaan
-STR_1886    :Tarkistetaan {STRINGID}
+STR_1886    :Tarkastetaan {STRINGID}
 STR_1887    :{WINDOW_COLOUR_2}Viimeinen tarkastus: {BLACK}{COMMA16} minuuttia sitten
-STR_1888    :{WINDOW_COLOUR_2}Viimeinen tarkistus: {BLACK}yli 4 tuntia sitten
+STR_1888    :{WINDOW_COLOUR_2}Viimeinen tarkastus: {BLACK}yli 4 tuntia sitten
 STR_1889    :{WINDOW_COLOUR_2}Seisokit: {MOVE_X}{255}{BLACK}{COMMA16}%
-STR_1890    :Valitse kuinka usein mekaanikko tarkistaa tämän laitteen
+STR_1890    :Valitse kuinka usein mekaanikko tarkastaa tämän laitteen
 STR_1891    :Puistossa ei vielä ole {STRINGID}!
 # The following two strings were used to display an error when the disc was missing.
 # This has been replaced in OpenRCT2.
@@ -1305,7 +1305,7 @@ STR_1924    :Lopeta
 STR_1925    :Henkilöä ei voi sijoittaa tähän…
 STR_1927    :{YELLOW}{STRINGID} on hajonnut
 STR_1928    :{RED}{STRINGID} on hajonnut!
-STR_1929    :{RED}{STRINGID} ei vieläkään ole korjattu{NEWLINE}tarkista missä mekaanikkosi ovat ja pohdi niiden parempaa sijoittelua
+STR_1929    :{RED}Laitetta {STRINGID} ei vieläkään ole korjattu{NEWLINE}tarkista missä mekaanikkosi ovat ja pohdi niiden parempaa sijoittelua
 STR_1930    :Laita kävijän seuranta päälle/pois - (kun seuranta on päällä, kävijän liikkeet raportoidaan viestialueelle)
 STR_1931    :{STRINGID} on jonottamassa laitteeseen {STRINGID}
 STR_1932    :{STRINGID} on laitteessa {STRINGID}
@@ -1711,7 +1711,7 @@ STR_2352    :{WINDOW_COLOUR_2}Kukkia kasteltu: {BLACK}{COMMA16}
 STR_2353    :{WINDOW_COLOUR_2}Törkyjä harjattu: {BLACK}{COMMA16}
 STR_2354    :{WINDOW_COLOUR_2}Roskakoreja tyhjennetty: {BLACK}{COMMA16}
 STR_2355    :{WINDOW_COLOUR_2}Laitteita korjattu: {BLACK}{COMMA16}
-STR_2356    :{WINDOW_COLOUR_2}Laitteita tarkistettu: {BLACK}{COMMA16}
+STR_2356    :{WINDOW_COLOUR_2}Laitteita tarkastettu: {BLACK}{COMMA16}
 STR_2358    :Yksiköt
 STR_2359    :Oikeat arvot
 STR_2360    :{WINDOW_COLOUR_2}Näytön tarkkuus:
@@ -1866,7 +1866,7 @@ STR_2520    :Näytä kävijälista
 STR_2521    :Näytä henkilöstölista
 STR_2522    :Näytä uusimmat ilmoitukset
 STR_2523    :Näytä kartta
-STR_2524    :Kuvankaappaus
+STR_2524    :Ruudunkaappaus
 STR_2533    :Askelpalautin
 STR_2534    :Tab
 STR_2537    :Clear
@@ -1909,20 +1909,20 @@ STR_2635    :NumPad .
 STR_2636    :NumPad /
 STR_2669    :NumLock
 STR_2670    :Scroll
-STR_2680    :Kaikki kehitys on tehty
+STR_2680    :Kaikki kehitys on saatu päätökseen
 STR_2684    :Suuri kävijäryhmä saapuu
-STR_2685    :Simplex Noise Parameters
+STR_2685    :Simplex-melun parametrit
 STR_2686    :Matala:
 STR_2687    :Korkea:
-STR_2688    :Base Frequency:
-STR_2689    :Octaves:
+STR_2688    :Perustaajuus:
+STR_2689    :Oktaaveja:
 STR_2690    :Kartan luonti
 STR_2691    :Peruskorkeus:
 STR_2692    :Vedentaso:
 STR_2693    :Ympäristö:
 STR_2694    :Luo
 STR_2695    :Satunnainen ympäristö
-STR_2696    :Aseta puita
+STR_2696    :Sijoita puita
 STR_2700    :Autom. tallennus:
 STR_2701    :1 min välein
 STR_2702    :5 min välein
@@ -1933,21 +1933,21 @@ STR_2706    :Ei koskaan
 STR_2707    :Avaa uusi ikkuna
 STR_2708    :{WINDOW_COLOUR_1}Oletko varma, että haluat korvata tiedoston {STRINGID}?
 STR_2709    :Korvaa
-STR_2710    :Kirjoita tiedoston nimi.
+STR_2710    :Kirjoita tiedoston nimi
 STR_2718    :(ylös)
 STR_2719    :(uusi tiedosto)
 STR_2720    :{UINT16}sek
-STR_2721    :{UINT16}sekuntia
+STR_2721    :{UINT16}sek
 STR_2722    :{UINT16}min:{UINT16}sek
-STR_2723    :{UINT16}min:{UINT16}sekuntia
-STR_2724    :{UINT16}minuuttia:{UINT16}sek
-STR_2725    :{UINT16}minuuttia:{UINT16}sekuntia
+STR_2723    :{UINT16}min:{UINT16}sek
+STR_2724    :{UINT16}min:{UINT16}sek
+STR_2725    :{UINT16}min:{UINT16}sek
 STR_2726    :{UINT16}min
-STR_2727    :{UINT16}minuuttia
-STR_2728    :{UINT16}tunti:{UINT16}min
-STR_2729    :{UINT16}tunti:{UINT16}minuuttia
-STR_2730    :{UINT16}tuntia:{UINT16}min
-STR_2731    :{UINT16}tuntia:{UINT16}minuuttias
+STR_2727    :{UINT16}min
+STR_2728    :{UINT16}t:{UINT16}min
+STR_2729    :{UINT16}t:{UINT16}min
+STR_2730    :{UINT16}t:{UINT16}min
+STR_2731    :{UINT16}t:{UINT16}min
 STR_2732    :{COMMA32}jalka
 STR_2733    :{COMMA32}m
 STR_2734    :{COMMA16}mph
@@ -1967,7 +1967,7 @@ STR_2751    :Siirrä kaikki esineet alas
 STR_2752    :Tyhjennä ruoho
 STR_2753    :Leikattu ruoho
 STR_2754    :Kastele kasvit
-STR_2755    :Korjaa tärvelöinti
+STR_2755    :Korjaa ilkivalta
 STR_2756    :Poista roskat
 STR_2763    :???
 STR_2765    :Large Tram
@@ -1993,9 +1993,9 @@ STR_2786    :Paina pikanäppäimen kuvausta valitaksesi uuden näppäinyhdistelm
 STR_2787    :{WINDOW_COLOUR_2}Puiston arvo: {BLACK}{CURRENCY}
 STR_2788    :{WINDOW_COLOUR_2}Onnittelut!{NEWLINE}{BLACK}Saavutit tavoitteesi! Yhtiösi arvo: {CURRENCY}!
 STR_2789    :{WINDOW_COLOUR_2}Epäonnistuit tavoitteessasi!
-STR_2790    :Enter name into scenario chart
+STR_2790    :Anna nimi skenaariotaulukkoon
 STR_2791    :Anna nimi
-STR_2792    :Please enter your name for the scenario chart:
+STR_2792    :Anna nimesi skenaariotaulukkoa varten:
 STR_2793    :(Suorittanut {STRINGID})
 STR_2794    :{WINDOW_COLOUR_2}Suorittanut: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2}Yhtiön arvolla: {BLACK}{CURRENCY}
 STR_2795    :Järjestä
@@ -2011,7 +2011,7 @@ STR_2804    :Näytä nämä henkilökunnan jäsenet kartalla
 STR_2805    :Näytä puiston kartta
 STR_2806    :{RED}Kävijät valittavat puistosi kuvottavista poluista{NEWLINE}Tarkista ja uudelleenjärjestele yleismiestesi sijainnit
 STR_2807    :{RED}Kävijät valittavat roskan määrästä puistossasi{NEWLINE}Tarkista ja uudelleenjärjestele yleismiestesi sijainnit
-STR_2808    :{RED}Kävijät valittavat puistosi vandalismista{NEWLINE}Tarkista ja uudelleenjärjestele yleismiestesi sijainnit
+STR_2808    :{RED}Kävijät valittavat puistosi ilkivallasta{NEWLINE}Tarkista ja uudelleenjärjestele yleismiestesi sijainnit
 STR_2809    :{RED}Kävijät ovat nälkäisiä eivätkä löydä paikkaa josta saisi ruokaa
 STR_2810    :{RED}Kävijät ovat janoisia eivätkä löydä paikkaa josta saisi juotavaa
 STR_2811    :{RED}Kävijät valittavat etteivät löydä vessaa puistostasi
@@ -2210,8 +2210,8 @@ STR_3075    :{RED}VAROITUS: Puistosi taso on vieläkin alle 700!{NEWLINE}Sinulla
 STR_3076    :{RED}VIIMEINEN VAROITUS: Puistosi taso on vieläkin alle 700!{NEWLINE}Puistosi suljetaan 7 päivän päästä jos et nosta puiston tasoa
 STR_3077    :{RED}LAKKAUTUSTIEDOTE: Puistosi on suljettu!
 STR_3090    :Valitse sisään- ja uloskäynnin ja aseman tyyli
-STR_3091    :Ei ole sallittua poistaa tätä aluetta!
-STR_3092    :You are not allowed to move or modify the station for this ride!
+STR_3091    :Tätä osaa ei ole lupaa poistaa!
+STR_3092    :Tämän laitteen asemaa ei ole lupaa siirtää tai muokata!
 STR_3093    :{WINDOW_COLOUR_2}Suosikki: {BLACK}{STRINGID}
 STR_3094    :Ei saatavilla
 STR_3095    :{WINDOW_COLOUR_2}Nostomäen nopeus:
@@ -2250,8 +2250,8 @@ STR_3128    :Tallenna ratamalli
 STR_3129    :Tallenna ratamalli maiseman kanssa
 STR_3130    :Tallenna
 STR_3131    :Peruuta
-STR_3132    :{BLACK}Click items of scenery to select them to be saved with track design…
-STR_3133    :Unable to build this on a slope
+STR_3132    :{BLACK}Klikkaa maisemointiesineitä valitaksesi ne ratamallin mukana tallennukseen…
+STR_3133    :Tätä ei voi rakentaa mäkeen
 STR_3134    :{RED}(Mallissa on maisemointeja joita ei ole saatavilla)
 STR_3135    :{RED}(Ajoneuvotyyppi ei saatavilla - tämä voi vaikuttaa laitteen suorituskykyyn)
 STR_3136    :Varoitus: Tämä malli rakennetaan korvaavalla ajoneuvotyypillä, joka saattaa vaikuttaa laitteen toimintaan
@@ -2264,7 +2264,7 @@ STR_3142    :{WINDOW_COLOUR_2}Kapasiteetti: {BLACK}{STRINGID}
 STR_3143    :Näytä ihmiset kartalla
 STR_3144    :Näytä laitteet ja kojut kartalla
 STR_3160    :Valitse kierroksien määrä per ajo
-STR_3162    :Ei voida varata tarpeeksi muistia
+STR_3162    :Muistia ei ole saatavilla tarpeeksi
 STR_3163    :Asennetaan uutta dataa: 
 STR_3164    :{BLACK}{COMMA16} valittu (maks. {COMMA16})
 STR_3167    :{WINDOW_COLOUR_2}Sisältää: {BLACK}{COMMA16} esinettä
@@ -2293,43 +2293,43 @@ STR_3190    :Polkuekstrat
 STR_3191    :Maisemaryhmät
 STR_3192    :Puiston sisäänkäynti
 STR_3193    :Vesi
-STR_3195    :Keksintölista
+STR_3195    :Kehityslista
 STR_3196    :{WINDOW_COLOUR_2}Kehitysryhmä: {BLACK}{STRINGID}
-STR_3197    :{WINDOW_COLOUR_2}Items pre-invented at start of game:
-STR_3198    :{WINDOW_COLOUR_2}Items to invent during game:
+STR_3197    :{WINDOW_COLOUR_2}Pelin alussa keksityt esineet:
+STR_3198    :{WINDOW_COLOUR_2}Pelin kuluessa keksittävät esineet:
 STR_3199    :Satunnainen sekoitus
-STR_3200    :Randomly shuffle the list of items to invent during the game
-STR_3201    :Object Selection
-STR_3202    :Landscape Editor
-STR_3203    :Invention List Set Up
-STR_3204    :Options Selection
+STR_3200    :Sekoita pelin kuluessa keksittävien esineiden lista sattumanvaraisesti
+STR_3201    :Esineiden valinta
+STR_3202    :Maaston muokkaus
+STR_3203    :Kehityslistan asetus
+STR_3204    :Asetusten valinta
 STR_3205    :Tavoitteen valinta
 STR_3206    :Tallenna skenaario
 STR_3207    :Vuoristoratamuokkain
 STR_3208    :Ratamallien hallinta
 STR_3209    :Takaisin edelliseen vaiheeseen:
 STR_3210    :Siirry seuraavaan vaiheeseen:
-STR_3211    :Kartan koko:
+STR_3211    :Tason koko:
 STR_3212    :{POP16}{COMMA16} × {PUSH16}{COMMA16}
-STR_3213    :Karttaa ei voi enempää pienentää
-STR_3214    :Karttaa ei voi enempää suurentaa
-STR_3215    :Liian lähellä kartan reunaa
-STR_3216    :Select park-owned land etc.
-STR_3217    :Maan omistaa
-STR_3218    :Rakennusoikeudet omistaa
-STR_3219    :Maata myytävänä
-STR_3220    :Rakennusoikeudet myytävänä
-STR_3221    :Set land to be owned by the park
-STR_3222    :Set construction rights only to be owned by the park
-STR_3223    :Set land to be available to purchase by the park
-STR_3224    :Set construction rights to be available to purchase by the park
-STR_3225    :Toggle on/off building a random cluster of objects around the selected position
+STR_3213    :Tasoa ei voi pienentää enempää
+STR_3214    :Tasoa ei voi suurentaa enempää
+STR_3215    :Liian lähellä tason reunaa
+STR_3216    :Valitse puiston omistamat maat jne.
+STR_3217    :Omistettu maa
+STR_3218    :Omistetut rakennusluvat
+STR_3219    :Maa myytävänä
+STR_3220    :Rakennuslupa myytävänä
+STR_3221    :Aseta maa, jonka puisto jo omistaa
+STR_3222    :Aseta rakennusluvat, jotka puisto jo omistaa
+STR_3223    :Aseta maa, jonka puisto voi ostaa
+STR_3224    :Aseta rakennusluvat, jotka puisto voi ostaa
+STR_3225    :Kytke satunnaisen esinehajauman rakennus valitun sijainnin ympärille päälle/pois
 STR_3226    :Rakenna puistolle sisäänkäynti
 STR_3227    :Liikaa sisäänkäyntejä puistolla!
-STR_3228    :Set starting positions for people
-STR_3229    :Block Brakes cannot be used directly after station
-STR_3230    :Block Brakes cannot be used directly after each other
-STR_3231    :Block Brakes cannot be used directly after the top of this lift hill
+STR_3228    :Aseta ihmisten aloituspiste
+STR_3229    :Lohkojarruja ei voi käyttää heti aseman jälkeen
+STR_3230    :Lohkojarruja ei voi käyttää toistensa jälkeen
+STR_3231    :Lohkojarruja ei voi käyttää heti nostomäen jälkeen
 STR_3232    :Asetukset - Talous
 STR_3233    :Asetukset - Kävijät
 STR_3234    :Asetukset - Puisto
@@ -2337,54 +2337,54 @@ STR_3235    :Näytä taloustiedot
 STR_3236    :Näytä kävijätiedot
 STR_3237    :Näytä puistotiedot
 STR_3238    :Ei rahaa
-STR_3239    :Make this park a 'no money' park with no financial restrictions
+STR_3239    :Tee tästä puistosta 'ei rahaa' -puisto, jolla ei ole mitään taloudellisia rajoitteita
 STR_3240    :{WINDOW_COLOUR_2}Aloitusrahamäärä:
 STR_3241    :{WINDOW_COLOUR_2}Aloituslaina:
-STR_3242    :{WINDOW_COLOUR_2}Maximum loan size:
-STR_3243    :{WINDOW_COLOUR_2}Annual interest rate:
+STR_3242    :{WINDOW_COLOUR_2}Enimmäislainamäärä:
+STR_3243    :{WINDOW_COLOUR_2}Vuosittaiskorko:
 STR_3244    :Kiellä markkinointikampanjat
-STR_3245    :Forbid advertising, promotional schemes, and other marketing campaigns
+STR_3245    :Kiellä mainonta, myynninedistämiskeinot ja muut markkinointikampanjat
 STR_3246    :{WINDOW_COLOUR_2}{CURRENCY}
 STR_3247    :{WINDOW_COLOUR_2}{COMMA16}%
-STR_3248    :Can't increase initial cash any further!
-STR_3249    :Can't reduce initial cash any further!
-STR_3250    :Can't increase initial loan any further!
-STR_3251    :Can't reduce initial loan any further!
-STR_3252    :Can't increase maximum loan size any further!
-STR_3253    :Can't reduce maximum loan size any further!
-STR_3254    :Can't increase interest rate any further!
-STR_3255    :Can't reduce interest rate any further!
-STR_3256    :Guests prefer less intense rides
-STR_3257    :Select whether guests should generally prefer less intense rides only
-STR_3258    :Guests prefer more intense rides
-STR_3259    :Select whether guests should generally prefer more intense rides only
-STR_3260    :{WINDOW_COLOUR_2}Cash per guest (average):
-STR_3261    :{WINDOW_COLOUR_2}Guests initial happiness:
-STR_3262    :{WINDOW_COLOUR_2}Guests initial hunger:
-STR_3263    :{WINDOW_COLOUR_2}Guests initial thirst:
-STR_3264    :Can't increase this any further!
-STR_3265    :Can't reduce this any further!
-STR_3266    :Select how this park charges for entrance and rides
-STR_3267    :Estä puiden poistaminen
-STR_3268    :Estä korkeiden puiden poistaminen
-STR_3269    :Forbid landscape changes
-STR_3270    :Forbid any changes to the landscape
-STR_3271    :Forbid high construction
-STR_3272    :Forbid any tall construction
-STR_3273    :Park rating higher difficult level
-STR_3274    :Make the park rating value more challenging
-STR_3275    :Guest generation higher difficult level
-STR_3276    :Make it more difficult to attract guests to the park
+STR_3248    :Aloitusrahamäärää ei voi korottaa enempää!
+STR_3249    :Aloitusrahamäärää ei voi laskea enempää!
+STR_3250    :Aloituslainaa ei voi korottaa enempää!
+STR_3251    :Aloituslainaa ei voi laskea enempää!
+STR_3252    :Enimmäislainamäärää ei voi korottaa enempää!
+STR_3253    :Enimmäislainamäärää ei voi laskea enempää!
+STR_3254    :Vuosittaiskorkoa ei voi korottaa enempää!
+STR_3255    :Vuosittaiskorkoa ei voi laskea enempää!
+STR_3256    :Kävijät tykkäävät lempeämmistä laitteista
+STR_3257    :Valitse haluavatko kävijät mieluummin mennä vain vähemmän intensiivisiin laitteisiin
+STR_3258    :Kävijät tykkäävät hurjemmista laitteista
+STR_3259    :Valitse haluavatko kävijät mieluummin mennä vain intensiivisimpiin laitteisiin
+STR_3260    :{WINDOW_COLOUR_2}Kävijöiden rahat (keskiarvo):
+STR_3261    :{WINDOW_COLOUR_2}Kävijöiden alustava onnellisuus:
+STR_3262    :{WINDOW_COLOUR_2}Kävijöiden alustava nälkä:
+STR_3263    :{WINDOW_COLOUR_2}Kävijöiden alustava jano:
+STR_3264    :Tätä ei voi korottaa enempää!
+STR_3265    :Tätä ei voi laskea enempää!
+STR_3266    :Valitse kuinka tämä puisto veloittaa sisäänpääsystä ja laitteista
+STR_3267    :Estä puiden raivaus
+STR_3268    :Estä pelaajaa raivaamasta korkeita puita
+STR_3269    :Estä maaston muokkaus
+STR_3270    :Estä pelaajaa muokkaamasta maaston korkeutta tai tyyliä
+STR_3271    :Estä korkeat rakennukset
+STR_3272    :Estä pelaajaa rakentamasta mitään korkeaa
+STR_3273    :Puiston tason korkeampi vaikeusaste
+STR_3274    :Tee puiston tason nostosta haastavampaa
+STR_3275    :Kävijöiden houkutuksen korkeampi vaikeusaste
+STR_3276    :Tee kävijöiden houkutuksesta puistoon haastavampaa
 STR_3277    :{WINDOW_COLOUR_2}Maan ostohinta:
 STR_3278    :{WINDOW_COLOUR_2}Maan rakennusluvan hinta:
-STR_3279    :Free park entry / Pay per ride
-STR_3280    :Pay to enter park / Free rides
+STR_3279    :Ilm. sisäänpääsy / maks. laitteet
+STR_3280    :Maks. sisäänpääsy / ilm. laitteet
 STR_3281    :{WINDOW_COLOUR_2}Sisäänpääsyhinta:
 STR_3282    :Valitse tavoite ja puiston nimi
 STR_3283    :Select rides to be preserved
 STR_3284    :Tavoitteen valinta
 STR_3285    :Preserved Rides
-STR_3286    :Select objective for this scenario
+STR_3286    :Valitse tavoite tälle skenaariolle
 STR_3287    :{WINDOW_COLOUR_2}Tavoite:
 STR_3288    :Valitse ilmasto
 STR_3289    :{WINDOW_COLOUR_2}Ilmasto:
@@ -2406,7 +2406,7 @@ STR_3304    :{WINDOW_COLOUR_2}Puiston arvo:
 STR_3305    :{WINDOW_COLOUR_2}Kuukausittainen tulo:
 STR_3306    :{WINDOW_COLOUR_2}Kuukausittainen tuotto:
 STR_3307    :{WINDOW_COLOUR_2}Vähimmäispituus:
-STR_3308    :{WINDOW_COLOUR_2}Excitement rating:
+STR_3308    :{WINDOW_COLOUR_2}Jännittävyysarvo:
 STR_3309    :{WINDOW_COLOUR_2}{COMMA16}
 STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
 STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
@@ -2432,7 +2432,7 @@ STR_3333    :Liitä laajennusesineet tallennustiedostoihin
 STR_3334    :Valitse liitetäänkö tallennuksiin ja skenaariotiedostoihin laajennuksien esineiden lisätiedot (jota ei toimiteta tuotteen mukana), jotta tiedostot voidaan avata myös pelissä jossa ei ole samoja esinetietoja
 STR_3335    :Vuoristoratamuokkain - Valitse laitteen tyyppi ja ajoneuvo
 STR_3336    :Ratamallien hallinta - Valitse laitteen tyyppi
-STR_3338    :{BLACK}Custom-designed layout
+STR_3338    :{BLACK}Mukautettu rata
 STR_3339    :{BLACK}{COMMA16} malli saatavilla, tai luo omasi
 STR_3340    :{BLACK}{COMMA16} mallia saatavilla, tai luo omasi
 STR_3341    :Pelityökalut
@@ -2457,7 +2457,7 @@ STR_3359    :{BLACK}Ei yhtään tämän tyyppistä ratamallia
 STR_3360    :Varoitus!
 STR_3361    :Liian monta tämän tyyppistä mallia - joitain ei voida listata.
 STR_3364    :Edistynyt
-STR_3365    :Allow selection of individual items of scenery in addition to scenery groups
+STR_3365    :Salli yksittäisten maisemointiesineiden valinta maisemointiryhmien lisäksi
 STR_3366    :{BLACK}= Laite
 STR_3367    :{BLACK}= Ruokakoju
 STR_3368    :{BLACK}= Juomakoju
@@ -2467,20 +2467,20 @@ STR_3371    :{BLACK}= Ensiapu
 STR_3372    :{BLACK}= Raha-automaatti
 STR_3373    :{BLACK}= Vessa
 STR_3374    :Varoitus: Liian monta esinettä valittuna!
-STR_3375    :Not all objects in this scenery group could be selected
+STR_3375    :Tämän maisemointiryhmä kaikkia esineitä ei voitu valita
 STR_3376    :Asenna uusi ratamalli…
 STR_3377    :Asenna uusi ratamallitiedosto
 STR_3378    :Asenna
 STR_3379    :Peruuta
-STR_3380    :Unable to install this track design…
-STR_3381    :File is not compatible or contains invalid data
-STR_3382    :Tiedoston kopio epäonnistui
-STR_3383    :Select new name for track design
-STR_3384    :An existing track design already has this name - Please select a new name for this design:
-STR_3389    :Unable to select additional item of scenery…
+STR_3380    :Tätä ratamallia ei voi asentaa…
+STR_3381    :Tiedosto ei ole yhteensopiva tai sisältää epäkelpoja tietoja
+STR_3382    :Tiedoston kopiointi epäonnistui
+STR_3383    :Valitse ratamallille uusi nimi
+STR_3384    :Olemassa olevalla ratamallilla on sama nimi - ole hyvä ja valitse uusi nimi tälle mallille:
+STR_3389    :Maisemointiesinettä ei voi valita…
 STR_3390    :Liian monta esinettä valittuna
 STR_3437    :Raivaa suuria määriä maisemointia kerralla
-STR_3438    :Ei voi raivata maisemointia tästä…
+STR_3438    :Kaikkea maisemointia ei voi raivata tästä…
 STR_3439    :Raivaa maisemointi
 STR_3445    :Aseta partioalue
 STR_3446    :Peruuta partioalue
@@ -2490,7 +2490,7 @@ STR_5120    :Talous
 STR_5121    :Kehitys
 STR_5122    :Valitse laitteet radan tyypin mukaan (kuten RCT1:ssä)
 STR_5123    :Uusi laitteet
-STR_5125    :Kaikki tuhottavat
+STR_5125    :Kaikki tuhousluvat
 STR_5126    :Satunnainen
 STR_5127    :Estä maan korkeuden muuttaminen
 STR_5128    :Valinnan koko
@@ -2662,8 +2662,8 @@ STR_5309    :OpenRCT2
 STR_5310    :Satunnainen
 STR_5311    :Virheenkorjaustyökalut
 STR_5312    :Näytä komentokehote
-STR_5313    :Show tile inspector
-STR_5314    :Tile inspector
+STR_5313    :Näytä laattatyökalu
+STR_5314    :Laattatyökalu
 STR_5335    :Laitteen sisäänkäynti
 STR_5336    :Laitteen uloskäynti
 STR_5337    :Puiston sisäänkäynti
@@ -2806,7 +2806,7 @@ STR_5478    :Ohjaimet
 STR_5479    :Työkalupalkki
 STR_5480    :Näytä työkalupalkin painikkeet:
 STR_5481    :Teemat
-STR_5482    :{WINDOW_COLOUR_2}Aikaa viime tarkistuksesta: {BLACK}1 minuutti
+STR_5482    :{WINDOW_COLOUR_2}Aikaa viime tarkastuksesta: {BLACK}1 minuutti
 STR_5483    :{BLACK}({COMMA16} viikkoa jäljellä)
 STR_5484    :{BLACK}({COMMA16} viikko jäljellä)
 STR_5485    :{STRING}
@@ -2815,11 +2815,11 @@ STR_5487    :Näytä uusimmat ilmoitukset
 STR_5489    :Näytä vain seuratut kävijät
 STR_5490    :Mykistä ääni kohdistuksen poistuessa
 STR_5491    :Keksintöjen lista
-STR_5492    :Scenario options
+STR_5492    :Skenaarioasetukset
 STR_5493    :Lähetä viesti
 STR_5495    :Pelaajalista
-STR_5496    :Pelaaja:
-STR_5497    :Ping:
+STR_5496    :Pelaaja
+STR_5497    :Ping
 STR_5498    :Palvelinlista
 STR_5499    :Pelaajan nimi:
 STR_5500    :Lisää palvelin
@@ -2835,8 +2835,8 @@ STR_5510    :Oletusäänilaite
 STR_5511    :(TUNTEMATON)
 STR_5512    :Tallenna peli nimellä
 STR_5513    :Pikatallennus
-STR_5514    :Disable vandalism
-STR_5515    :Estää kävijöitä tärvelemästä puistoasi heidän ollessa vihaisia
+STR_5514    :Poista ilkivalta käytöstä
+STR_5515    :Estää kävijöitä tärvelemästä puistoasi ollessaan vihaisia
 STR_5516    :Musta
 STR_5517    :Harmaa
 STR_5518    :Valkoinen
@@ -2876,19 +2876,19 @@ STR_5551    :vuosi/päivä/kuukausi
 STR_5552    :{POP16}{POP16}Vuosi {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}ta
 STR_5553    :Pysäytä peli kun Steam-yhteisönäkymä on auki
 STR_5554    :Ota vuorityökalu käyttöön
-STR_5555    :Show vehicles from other track types
+STR_5555    :Näytä muiden ratatyyppien ajoneuvot
 STR_5556    :Potkaise pelaaja
 STR_5557    :Pysy yhteydessä desykronoinnin jälkeen (moninpeli)
 STR_5558    :Tämä asetus tulee voimaan vasta kun uudelleenkäynnistät OpenRCT2:n
-STR_5559    :10 min. inspections
-STR_5560    :Sets the inspection time to ‘Every 10 minutes’ on all rides
+STR_5559    :10 min. tarkastukset
+STR_5560    :Asettaa tarkastusvälin ‘10 min välein’ kaikkiin laitteisiin
 STR_5561    :Kielen lataus epäonnistui
 STR_5562    :VAROITUS!
 STR_5563    :Tämä ominaisuus on epävakaa, olethan varovainen
 STR_5564    :Insert Corrupt Element
 STR_5565    :Inserts a corrupt map element at top of tile. This will hide any element above the corrupt element.
 STR_5566    :Salasana:
-STR_5567    :Advertise
+STR_5567    :Mainosta
 STR_5568    :Salasana vaaditaan
 STR_5569    :Tämä palvelin vaatii salasanan
 STR_5570    :Hae palvelimet
@@ -2955,51 +2955,51 @@ STR_5631    :Alkuperäiset DLC-puistot
 STR_5632    :Rakenna oma…
 STR_5633    :CMD + 
 STR_5634    :OPTION + 
-STR_5635    :{WINDOW_COLOUR_2}Money spent: {BLACK}{CURRENCY2DP}
-STR_5636    :{WINDOW_COLOUR_2}Commands ran: {BLACK}{COMMA16}
-STR_5637    :Can’t do this…
-STR_5638    :Permission denied
-STR_5639    :Show list of players
-STR_5640    :Manage groups
-STR_5641    :Default Group:
-STR_5642    :Group
-STR_5643    :Add Group
-STR_5644    :Remove Group
-STR_5645    :Chat
-STR_5646    :Terraform
-STR_5647    :Toggle Pause
-STR_5648    :Set Water Level
-STR_5649    :Create Ride
-STR_5650    :Remove Ride
-STR_5651    :Build Ride
-STR_5652    :Ride Properties
+STR_5635    :{WINDOW_COLOUR_2}Rahaa kulutettu: {BLACK}{CURRENCY2DP}
+STR_5636    :{WINDOW_COLOUR_2}Komentoja suoritettu: {BLACK}{COMMA16}
+STR_5637    :Tätä ei voi tehdä…
+STR_5638    :Ei lupaa
+STR_5639    :Näytä pelaajalista
+STR_5640    :Hallitse ryhmiä
+STR_5641    :Oletusryhmä:
+STR_5642    :Ryhmä
+STR_5643    :Lisää ryhmä
+STR_5644    :Poista ryhmä
+STR_5645    :Keskustelu
+STR_5646    :Maansiirto
+STR_5647    :Pelin pysäytys
+STR_5648    :Veden tason asetus
+STR_5649    :Laitteiden luonti
+STR_5650    :Laitteiden poisto
+STR_5651    :Laitteiden rakennus
+STR_5652    :Laiteasetukset
 STR_5653    :Maisemointi
 STR_5654    :Polku
 STR_5655    :Kävijä
 STR_5656    :Henkilökunta
-STR_5657    :Park Properties
-STR_5658    :Park Funding
-STR_5659    :Kick Player
-STR_5660    :Modify Groups
-STR_5661    :Set Player Group
-STR_5662    :N/A
-STR_5663    :Clear Landscape
-STR_5664    :Cheat
+STR_5657    :Puistoasetukset
+STR_5658    :Puiston rahoitus
+STR_5659    :Pelaajan potkaus
+STR_5660    :Ryhmien muokkaus
+STR_5661    :Pelaajan ryhmän asetus
+STR_5662    :(ei mitään)
+STR_5663    :Maisemointien raivaus
+STR_5664    :Huijaus
 STR_5665    :Toggle Scenery Cluster
-STR_5666    :Passwordless Login
-STR_5701    :{WINDOW_COLOUR_2}Last action: {BLACK}{STRINGID}
-STR_5702    :Locate player’s most recent action
-STR_5703    :Can’t kick the host
-STR_5704    :Last Action
+STR_5666    :Salasanaton sisäänpääsy
+STR_5701    :{WINDOW_COLOUR_2}Viimeisin toiminto: {BLACK}{STRINGID}
+STR_5702    :Paikanna pelaajan viimeisin toiminto
+STR_5703    :Isäntää ei voi potkaista
+STR_5704    :Viim. toiminto
 STR_5705    :Can’t set to this group
 STR_5706    :Can’t remove group that players belong to
 STR_5707    :This group cannot be modified
 STR_5708    :Can’t change the group that the host belongs to
-STR_5709    :Rename Group
-STR_5710    :Group name
-STR_5711    :Enter new name for this group:
-STR_5712    :Can’t modify permission that you do not have yourself
-STR_5713    :Kick Player
+STR_5709    :Nimeä ryhmä
+STR_5710    :Ryhmän nimi
+STR_5711    :Anna uusi nimi ryhmälle:
+STR_5712    :Et voi muokata lupaa jota sinulla ei ole
+STR_5713    :Potkaise pelaaja
 STR_5714    :Show options window
 STR_5715    :Uusi peli
 STR_5716    :Ei sallittu moninpelissä
@@ -3018,35 +3018,35 @@ STR_5727    :Skaalauslaatu:
 STR_5731    :Lineaarinen
 # tooltip for tab in options window
 STR_5734    :Piirto
-STR_5735    :Network Status
-STR_5736    :Player
+STR_5735    :Verkon tila
+STR_5736    :Pelaaja
 STR_5737    :Suljettu, {COMMA16} kävijä vielä kyydissä
 STR_5738    :Suljettu, {COMMA16} kävijää vielä kyydissä
 STR_5739    :{WINDOW_COLOUR_2}Asiakkaita kyydissä: {BLACK}{COMMA16}
-STR_5740    :Never-ending marketing campaigns
-STR_5741    :Marketing campaigns never end
-STR_5742    :Authenticating …
-STR_5743    :Connecting …
-STR_5744    :Resolving …
-STR_5745    :Network desync detected
-STR_5746    :Disconnected
-STR_5747    :Disconnected: {STRING}
-STR_5748    :Kicked
-STR_5749    :Get out of the server!
-STR_5750    :Connection Closed
-STR_5751    :No Data
-STR_5752    :{OUTLINE}{RED}{STRING} has disconnected
-STR_5753    :{OUTLINE}{RED}{STRING} has disconnected ({STRING})
-STR_5754    :Bad Player Name
-STR_5755    :Incorrect Software Version (Server is using {STRING})
-STR_5756    :Bad Password
-STR_5757    :Server Full
-STR_5758    :{OUTLINE}{GREEN}{STRING} has joined the game
-STR_5759    :Downloading map … ({INT32} / {INT32}) KiB
+STR_5740    :Päättymättömät markkinointikampanjat
+STR_5741    :Markkinointikampanjat eivät koskaan pääty
+STR_5742    :Todennetaan…
+STR_5743    :Yhdistetään…
+STR_5744    :Selvitetään…
+STR_5745    :Verkko-desykronointi havaittu
+STR_5746    :Yhteys katkaistu
+STR_5747    :Yhteys katkaistu: {STRING}
+STR_5748    :Potkittu
+STR_5749    :Poistu palvelimelta!
+STR_5750    :Yhteys suljettu
+STR_5751    :Ei tietoja
+STR_5752    :{OUTLINE}{RED}{STRING} lähti pelistä
+STR_5753    :{OUTLINE}{RED}{STRING} lähti pelistä ({STRING})
+STR_5754    :Epäkelpo pelaajanimi
+STR_5755    :Väärä ohjelmistoversio (palvelimella on {STRING})
+STR_5756    :Väärä salasana
+STR_5757    :Palvelin täynnä
+STR_5758    :{OUTLINE}{GREEN}{STRING} liittyi peliin
+STR_5759    :Ladataan tasoa… ({INT32} / {INT32}) KiB
 STR_5760    :Hong Kongin dollari (HK$)
 STR_5761    :Uusi Taiwanin dollari (NT$)
 STR_5762    :Kiinan juan (CN¥)
-STR_5763    :All files
+STR_5763    :Kaikki tiedostot
 STR_5764    :Invalid ride type
 STR_5765    :Cannot edit rides of invalid type
 STR_5766    :Unkarin forintti (Ft)
@@ -3071,7 +3071,7 @@ STR_5784    :{BLACK}Läpäise aiemmat skenaariot avataksesi tämän skenaarion.
 STR_5785    :Can’t rename group…
 STR_5786    :Invalid group name
 STR_5787    :{COMMA32} pelaajaa linjoilla
-STR_5788    :Tarkistusvälin oletus:
+STR_5788    :Tarkastusvälin oletus:
 STR_5789    :Poista salamatehoste
 STR_5790    :Toggles RCT1-style pricing{NEWLINE}(e.g. both ride price and entrance price)
 STR_5791    :Sets the reliability of all rides to 100%{NEWLINE}and resets their built date to “this year”
@@ -3133,7 +3133,7 @@ STR_5846    :Valitse kuinka usein OpenRCT2 tallentaa pelin automaattisesti
 STR_5847    :Valitse puistotausta päävalikon taustalle.{NEWLINE}RCT1/2:n valikkotaustat tarvitsevat tuodut skenaariot toimiakseen
 STR_5848    :Luo ja hallitse mukautettuja valikkotaustoja
 STR_5849    :Sijoita juuri palkatut työntekijät polulle automaattisesti
-STR_5851    :Asettaa oletustarkistusvälin uusille laitteille
+STR_5851    :Asettaa oletustarkastusvälin uusille laitteille
 STR_5853    :Kytke äänitehosteet päälle/pois
 STR_5854    :Kytke laitemusiikki päälle/pois
 STR_5855    :Valitse normaali kokonäyttötila, raamiton kokonäyttötila tai ikkunoitu näyttö
@@ -3151,7 +3151,7 @@ STR_5866    :Logs all chat history to files in your user directory.
 STR_5867    :{WINDOW_COLOUR_2}Provider Name: {BLACK}{STRING}
 STR_5868    :{WINDOW_COLOUR_2}Provider E-mail: {BLACK}{STRING}
 STR_5869    :{WINDOW_COLOUR_2}Provider Website: {BLACK}{STRING}
-STR_5870    :Show server information
+STR_5870    :Näytä palvelimen tiedot
 STR_5871    :Disable plants withering
 STR_5872    :Disable plant ageing such that they don’t wilt.
 STR_5873    :Allow chain lifts on all track pieces
@@ -3195,9 +3195,9 @@ STR_5911    :Näe polkujen läpi
 STR_5912    :See-through paths toggle
 STR_5913    :Chat
 STR_5914    :Unknown ride
-STR_5915    :Player
-STR_5916    :{COMMA16} player
-STR_5917    :{COMMA16} players
+STR_5915    :Pelaaja
+STR_5916    :{COMMA16} pelaaja
+STR_5917    :{COMMA16} pelaajaa
 STR_5918    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_5919    :{COMMA16}
 STR_5920    :Piirrä säätilatehosteet
@@ -3277,9 +3277,9 @@ STR_5993    :Copy selected element
 STR_5994    :Paste copied element
 STR_5995    :Booster
 STR_5996    :Booster speed
-STR_5997    :Add/set money
-STR_5998    :Add money
-STR_5999    :Set money
+STR_5997    :Lisää/aseta rahat
+STR_5998    :Lisää rahaa
+STR_5999    :Aseta saldoksi
 STR_6000    :Anna uusi arvo
 STR_6001    :Valaistustehosteet (kokeellinen)
 STR_6002    :Katuvalot ja laitteet valaistaan yöllä.{NEWLINE}Edellyttää piirtomoottorin asettamista laitteistopiirtoon.
@@ -3311,8 +3311,8 @@ STR_6027    :Construction - Next track
 STR_6028    :Construction - Build current
 STR_6029    :Construction - Demolish current
 STR_6030    :Maisemointivalitsin. Klikkaa mitä tahansa maisemaesinettä tasolla valitaksesi saman osan rakennettavaksi.
-STR_6031    :Server Description:
-STR_6032    :Server Greeting:
+STR_6031    :Palvelimen kuvaus:
+STR_6032    :Tervehdys:
 STR_6033    :RCT1-asennuksen polku:
 STR_6034    :{BLACK}{STRING}
 STR_6035    :Valitse RCT1-hakemisto
@@ -3347,40 +3347,40 @@ STR_6063    :{OUTLINE}{RED}- {CURRENCY2DP}
 STR_6064    :Own all land
 STR_6065    :Log user actions
 STR_6066    :Logs all user actions to files in your user directory.
-STR_6067    :Server started.
-STR_6068    :Server shutdown.
-STR_6069    :{STRING} was kicked from the server by {STRING}.
-STR_6070    :{STRING} was set to group ‘{STRING}’ by {STRING}.
-STR_6071    :{STRING} created new player group ‘{STRING}’.
-STR_6072    :{STRING} deleted player group ‘{STRING}’.
-STR_6073    :{STRING} edited permissions for player group ‘{STRING}’.
-STR_6074    :{STRING} changed player group name from ‘{STRING}’ to ‘{STRING}’.
-STR_6075    :{STRING} changed the default player group to ‘{STRING}’.
-STR_6076    :{STRING} used/toggled cheat ‘{STRING}’.
-STR_6077    :Add Money
-STR_6078    :{STRING} created ride ‘{STRING}’.
-STR_6079    :{STRING} demolished ride ‘{STRING}’.
-STR_6080    :{STRING} changed the appearance of ride ‘{STRING}’.
-STR_6081    :{STRING} changed the status of ride ‘{STRING}’ to closed.
-STR_6082    :{STRING} changed the status of ride ‘{STRING}’ to open.
-STR_6083    :{STRING} changed the status of ride ‘{STRING}’ to testing.
-STR_6084    :{STRING} changed the vehicle settings of ride ‘{STRING}’.
-STR_6085    :{STRING} changed the ride settings of ride ‘{STRING}’.
-STR_6086    :{STRING} renamed the ride ‘{STRING}’ to ‘{STRING}’.
-STR_6087    :{STRING} changed the price of ride ‘{STRING}’ to {STRING}
-STR_6088    :{STRING} changed the secondary price of ride ‘{STRING}’ to {STRING}
-STR_6089    :{STRING} renamed the park from ‘{STRING}’ to ‘{STRING}’.
-STR_6090    :{STRING} opened the park.
-STR_6091    :{STRING} closed the park.
-STR_6092    :{STRING} changed the park entrance fee to {STRING}
-STR_6093    :{STRING} placed new scenery.
-STR_6094    :{STRING} removed scenery.
-STR_6095    :{STRING} edited scenery.
-STR_6096    :{STRING} set sign name to ‘{STRING}’.
-STR_6097    :{STRING} placed a track of ride ‘{STRING}’.
-STR_6098    :{STRING} removed a track of ride.
-STR_6099    :You connected to the server.
-STR_6100    :You disconnected from the server.
+STR_6067    :Palvelin käynnistetty.
+STR_6068    :Palvelin sammutettu.
+STR_6069    :{STRING} potkittiin palvelimelta pelaajan {STRING} toimesta.
+STR_6070    :{STRING} asetettiin ryhmään ‘{STRING}’ pelaajan {STRING} toimesta.
+STR_6071    :{STRING} loi uuden pelaajaryhmän ‘{STRING}’.
+STR_6072    :{STRING} poisti pelaajaryhmän ‘{STRING}’.
+STR_6073    :{STRING} muokkasi pelaajaryhmän ‘{STRING}’ lupia.
+STR_6074    :{STRING} vaihtoi pelaajaryhmän ‘{STRING}’ nimeksi ‘{STRING}’.
+STR_6075    :{STRING} vaihtoi oletuspelaajaryhmän ryhmäksi ‘{STRING}’.
+STR_6076    :{STRING} käytti huijausta ‘{STRING}’.
+STR_6077    :Lisää rahaa
+STR_6078    :{STRING} rakensi laitteen ‘{STRING}’.
+STR_6079    :{STRING} romutti laitteen ‘{STRING}’.
+STR_6080    :{STRING} muutti laitteen ‘{STRING}’ ulkonäköä.
+STR_6081    :{STRING} sulki laitteen ‘{STRING}’.
+STR_6082    :{STRING} avasi laitteen ‘{STRING}’.
+STR_6083    :{STRING} rupesi testaamaan laitetta ‘{STRING}’.
+STR_6084    :{STRING} muutti laitteen ‘{STRING}’ ajoneuvoasetuksia.
+STR_6085    :{STRING} muutti laitteen ‘{STRING}’ asetuksia.
+STR_6086    :{STRING} vaihtoi laitteen ‘{STRING}’ nimeksi ‘{STRING}’.
+STR_6087    :{STRING} asetti laitteen ‘{STRING}’ hinnaksi {STRING}
+STR_6088    :{STRING} asetti laitteen ‘{STRING}’ toissijaiseksi hinnaksi {STRING}
+STR_6089    :{STRING} vaihtoi puiston ‘{STRING}’ nimeksi ‘{STRING}’.
+STR_6090    :{STRING} avasi puiston.
+STR_6091    :{STRING} sulki puiston.
+STR_6092    :{STRING} asetti puiston sisäänpääsyhinnaksi {STRING}
+STR_6093    :{STRING} sijoitti maisemoinnin.
+STR_6094    :{STRING} romutti maisemoinnin.
+STR_6095    :{STRING} muokkasi maisemointia.
+STR_6096    :{STRING} asetti kyltin nimeksi ‘{STRING}’.
+STR_6097    :{STRING} sijoitti laitteen ‘{STRING}’ radan.
+STR_6098    :{STRING} poisti laitteen radan.
+STR_6099    :Sinä yhdistit palvelimeen.
+STR_6100    :Sinä katkaisit yhteyden palvelimeen.
 STR_6101    :Rides don’t decrease in value over time
 STR_6102    :The value of a ride won’t decrease over time, so guests will not suddenly think that a ride is too expensive.
 STR_6103    :This option is disabled during network play.
@@ -3394,15 +3394,15 @@ STR_6116    :Wide roller coaster trains glide along smooth steel track, travelli
 STR_6119    :A cheap and easy to build roller coaster, but with a limited height
 STR_6120    :{BABYBLUE}New vehicle now available for {STRINGID}:{NEWLINE}{STRINGID}
 STR_6121    :Extends the park’s land rights all the way to the edges of the map
-STR_6122    :There are not enough roller coasters in this scenario!
-STR_6123    :Error loading objects for park
-STR_6124    :Object name
-STR_6125    :Object type
-STR_6126    :Unknown type
-STR_6127    :File: {STRING}
+STR_6122    :Tässä skenaariossa ei ole tarpeeksi vuoristoratoja!
+STR_6123    :Virhe ladattaessa puiston esineitä
+STR_6124    :Esineen nimi
+STR_6125    :Esineen tyyppi
+STR_6126    :Tuntematon tyyppi
+STR_6127    :Tiedosto: {STRING}
 STR_6128    :The file could not be loaded as some of the objects referenced in it are missing or corrupt. A list of these objects is given below.
-STR_6129    :Copy
-STR_6130    :Copy all
+STR_6129    :Kopioi
+STR_6130    :Kopioi kaikki
 STR_6131    :Object source
 STR_6132    :Ignore research status
 STR_6133    :Access rides and scenery that have not yet been invented
@@ -3425,17 +3425,17 @@ STR_6149    :Pääpalvelimeen yhdistys ei onnistunut
 STR_6150    :Epäkelpo vastaus pääpalvelimelta (ei JSON-numeroa)
 STR_6151    :Pääpalvelin ei palauttanut palvelinlistaa
 STR_6152    :Epäkelpo vastaus pääpalvelimelta (ei JSON-taulukkoa)
-STR_6153    :Pay to enter park / Pay per ride
-STR_6154    :For security reasons, it is not recommended to run OpenRCT2 with elevated permissions.
-STR_6155    :Neither KDialog nor Zenity are installed. Please install one, or configure from the command line.
-STR_6156    :Name is reserved
-STR_6157    :Console
-STR_6158    :Failed to load this file…{NEWLINE}Incompatible RCTC version: {COMMA16}
+STR_6153    :Maks. sisäänpääsy / maks. laitteet
+STR_6154    :Turvasyistä ei ole suositeltavaa pelata OpenRCT2:a korotetuilla käyttöoikeuksilla.
+STR_6155    :Sekä KDialog että Zenity eivät ole asennettuina. Ole hyvä ja asenna yksi, tai määritä komentoriviltä.
+STR_6156    :Nimi on varattu
+STR_6157    :Konsoli
+STR_6158    :Tiedostoa ei voi ladata…{NEWLINE}Yhteensopimaton RCTC-versio: {COMMA16}
 STR_6159    :Pehmeä lähin naapuri
 STR_6160    :{WINDOW_COLOUR_2}Ajoneuvot saatavilla: {BLACK}{STRING}
 STR_6161    :Gridlines display toggle
-STR_6162    :Spinning Wild Mouse
-STR_6163    :Mouse shaped cars speed through tight corners and short drops, gently spinning around to disorientate the riders
+STR_6162    :Pyörivä villihiiri
+STR_6163    :Hiiren muotoiset vaunut kiitävät tiukkojen mutkien ja lyhyiden pudotusten läpi, lempeästi pyörien matkustajien hämmennykseksi
 STR_6164    :{WHITE}❌
 STR_6165    :Pystytahdistus
 STR_6166    :Synkronoi jokaisen kuvan piirron näytön virkistystaajuuteen, estäen screen tearing -ilmiön
@@ -3454,15 +3454,15 @@ STR_6178    :Lataa{MOVE_X}{87}{RED}Puuttuva skenaario
 STR_6179    :Valitse
 STR_6180    :Ei valittua skenaariota
 STR_6181    :{RED}Puuttuva skenaario
-STR_6182    :Follow{MOVE_X}{87}{STRING}
-STR_6183    :Follow{MOVE_X}{87}No sprite selected
-STR_6184    :Follow Sprite
-STR_6185    :Select Sprite
-STR_6186    :No sprite selected
+STR_6182    :Seuraa{MOVE_X}{87}{STRING}
+STR_6183    :Seuraa{MOVE_X}{87}Ei valittua spriteä
+STR_6184    :Seuraa spriteä
+STR_6185    :Valitse sprite
+STR_6186    :Ei valittua spriteä
 STR_6187    :{OUTLINE}{WINDOW_COLOUR_2}{STRING}
 STR_6188    :Oksennus
 STR_6189    :Ankka
-STR_6190    :You cannot select a sprite while the main title screen is active.
+STR_6190    :Et voi valita spriteä kun päävalikko on käytössä.
 STR_6191    :Pinta
 STR_6192    :Seinä
 STR_6193    :{COMMA16} kävijä
@@ -3476,44 +3476,44 @@ STR_6200    :Nollaa päivä
 STR_6201    :{MONTH}
 STR_6202    :Virtuaalilattian tyyli:
 STR_6203    :Kun tämä on päällä, virtuaalinen lattia ilmestyy painamalla Ctrl tai Shift, helpottaen sijoitettavan esineen korkeuden valintaa
-STR_6215    :Construction
-STR_6216    :Operation
-STR_6217    :Ride / track availability
+STR_6215    :Rakennus
+STR_6216    :Käyttö
+STR_6217    :Laite-/ratasaatavuus
 STR_6218    :Virallinen OpenRCT2
 STR_6219    :Korosta polkuongelmat
-STR_6220    :Make Usable
-STR_6221    :This will set the ride’s known entrance or exit location to the currently selected tile. Only one entrance and exit location can be made usable per station.
-STR_6222    :Can’t place guest entry point here…
-STR_6223    :Must be outside park boundaries!
-STR_6224    :{STRING} placed a guest entry point.
+STR_6220    :Tee käytettäväksi
+STR_6221    :Tämä asettaa laitteen tiedetyn sisään- tai uloskäynnin sijainnin valitulle laatalle. Vain yksi sisäänkäynti ja yksi uloskäynti voidaan asettaa käytettäväksi per asema.
+STR_6222    :Kävijöiden sisäänkäyntipistettä ei voi sijoittaa tähän…
+STR_6223    :Tulee olla puiston rajojen ulkopuolella!
+STR_6224    :{STRING} sijoitti kävijöiden sisäänkäyntipisteen.
 STR_6225    :Ei tuettu OpenGL-piirrossa
 STR_6226    :Aikainen skenaarion voitto
 STR_6227    :Skenaario läväistään heti kun kaikki skenaarion tavoitteet ovat saavutettu ennen tavoitepäivämäärää.
-STR_6228    :Scenario Options
+STR_6228    :Skenaarioasetukset
 STR_6229    :{WINDOW_COLOUR_2}{STRINGID}: {STRINGID}
 STR_6230    :{BLACK}{STRINGID}:
 STR_6231    :{WINDOW_COLOUR_2}{STRINGID}: {MOVE_X}{185}{STRINGID}
-STR_6232    :Frozen
+STR_6232    :Jäissä
 STR_6233    :Leikattu näkymä
 STR_6234    :Korosta polkuongelmat
-STR_6235    :Server Information
-STR_6236    :Players
-STR_6237    :Groups
-STR_6238    :Multiplayer Options
+STR_6235    :Palvelimen tiedot
+STR_6236    :Pelaajat
+STR_6237    :Ryhmät
+STR_6238    :Moninpeliasetukset
 STR_6239    :Pystysuora leikkaus
 STR_6240    :Vaakasuora leikkaus
 STR_6241    :Valitse alue
 STR_6242    :Nollaa alue
-STR_6243    :Refurbishes the ride,{NEWLINE}makes it like new
-STR_6244    :Can’t refurbish ride…
-STR_6245    :Ride doesn’t need refurbishing
-STR_6246    :Refurbish
-STR_6247    :Refurbish ride/attraction
-STR_6248    :{WINDOW_COLOUR_1}Do you want to refurbish {STRINGID} for {CURRENCY}?
-STR_6249    :{WINDOW_COLOUR_1}Do you want to refurbish {STRINGID}?
-STR_6250    :{WINDOW_COLOUR_1}Are you sure you want to completely demolish {STRINGID} and gain {CURRENCY}?
-STR_6251    :Ride is not empty yet
-STR_6255    :URL is not valid
+STR_6243    :Kunnostaa laitteen kuin uudeksi
+STR_6244    :Laitetta ei voi kunnostaa…
+STR_6245    :Laite ei tarvitse kunnostusta
+STR_6246    :Kunnosta
+STR_6247    :Kunnosta laite/kohde
+STR_6248    :{WINDOW_COLOUR_1}Haluatko kunnostaa kohteen {STRINGID} hintaan {CURRENCY}?
+STR_6249    :{WINDOW_COLOUR_1}Haluatko kunnostaa kohteen {STRINGID}?
+STR_6250    :{WINDOW_COLOUR_1}Oletko varma että haluat romuttaa kohteen {STRINGID} ja tienata {CURRENCY}?
+STR_6251    :Laite ei ole vielä tyhjä
+STR_6255    :URL ei ole kelpo
 STR_6256    :Piirtotehosteet
 STR_6257    :Lasinen (läpikuultava)
 STR_6258    :Kirkas (läpinäkyvä)
@@ -3525,17 +3525,17 @@ STR_6263    :Kytke kaikki äänet päälle/pois
 STR_6264    :Käytä aina järjestelmän tiedostoselainta
 STR_6265    :Kun päällä, OpenRCT2 käyttää käyttöjärjestelmäsi omaa tiedostoselainta natiivin selaimen sijaan.
 STR_6266    :Avaa mukautetun sisällön kansio
-STR_6267    :Open tile inspector
-STR_6268    :Advance to next tick
-STR_6269    :Invalid climate ID
-STR_6270    :Terrain Surfaces
-STR_6271    :Terrain Edges
-STR_6272    :Stations
-STR_6273    :Music
-STR_6274    :Can’t set colour scheme…
+STR_6267    :Avaa laattatyökalu
+STR_6268    :Etene seuraavaan hetkeen
+STR_6269    :Epäkelpo ilmastotunnus
+STR_6270    :Maastopinnat
+STR_6271    :Maastoreunat
+STR_6272    :Asemat
+STR_6273    :Musiikki
+STR_6274    :Väriskeemaa ei voi valita…
 STR_6275    :{WINDOW_COLOUR_2}Aseman tyyli:
-STR_6276    :{RED}{STRINGID} has guests getting stuck, possibly due to invalid ride type or operating mode.
-STR_6277    :{WINDOW_COLOUR_2}Station index: {BLACK}{STRINGID}
+STR_6276    :{RED}Kävijät juuttuvat kohteeseen {STRINGID}, mahdollisesti väärän laitetyypin tai toimintatilan johdosta.
+STR_6277    :{WINDOW_COLOUR_2}Aseman numero: {BLACK}{STRINGID}
 STR_6278    :Tallennuksien määrä
 STR_6279    :Kuinka monta automaattista tallennusta tulisi pitää
 STR_6280    :Keskustelu
@@ -3548,63 +3548,63 @@ STR_6295    :MiB
 STR_6296    :GiB
 STR_6297    :TiB
 STR_6298    :{STRING}/sek
-STR_6299    :Download all
-STR_6300    :Download all missing objects if available online.
-STR_6301    :Copy the selected object name to the clipboard.
-STR_6302    :Copy the entire list of missing objects to the clipboard.
-STR_6303    :Downloading object ({COMMA16} / {COMMA16}): [{STRING}]
+STR_6299    :Lataa kaikki
+STR_6300    :Lataa kaikki puuttuvat esineet, jos ne ovat saatavilla verkosta.
+STR_6301    :Kopioi valitun esineen nimi leikepöydälle.
+STR_6302    :Kopioi koko puuttuvien esineiden lista leikepöydälle.
+STR_6303    :Ladataan esinettä ({COMMA16} / {COMMA16}): [{STRING}]
 STR_6304    :Avaa maisemointivalitsin
 STR_6305    :Monisäikeisyys
 STR_6306    :Kokeellinen asetus jossa piirtoon käytetään useampaa säiettä. Saattaa olla epävakaa.
 STR_6307    :Väriskeema: {BLACK}{STRINGID}
 STR_6308    :{TOPAZ}“{STRINGID}{OUTLINE}{TOPAZ}”{NEWLINE}{STRINGID}
-STR_6309    :Reconnect
-STR_6310    :{WINDOW_COLOUR_2}Position: {BLACK}{INT32} {INT32} {INT32}
-STR_6311    :{WINDOW_COLOUR_2}Next: {BLACK}{INT32} {INT32} {INT32}
-STR_6312    :(surface)
-STR_6313    :(slope {INT32})
-STR_6314    :{WINDOW_COLOUR_2}Dest: {BLACK}{INT32}, {INT32} tolerance {INT32}
-STR_6315    :{WINDOW_COLOUR_2}Pathfind Goal: {BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
-STR_6316    :{WINDOW_COLOUR_2}Pathfind history:
-STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
-STR_6318    :Network desync detected.{NEWLINE}Log file: {STRING}
-STR_6319    :{WINDOW_COLOUR_2}Block Brake Closed
-STR_6320    :{WINDOW_COLOUR_2}Indestructible
-STR_6321    :{WINDOW_COLOUR_2}Addition is broken
-STR_6322    :{WINDOW_COLOUR_2}Sprite Id: {BLACK}{INT32}
+STR_6309    :Yhdistä uudelleen
+STR_6310    :{WINDOW_COLOUR_2}Sijainti: {BLACK}{INT32} {INT32} {INT32}
+STR_6311    :{WINDOW_COLOUR_2}Seur: {BLACK}{INT32} {INT32} {INT32}
+STR_6312    :(pinta)
+STR_6313    :(mäki {INT32})
+STR_6314    :{WINDOW_COLOUR_2}Kohde: {BLACK}{INT32}, {INT32} toleranssi {INT32}
+STR_6315    :{WINDOW_COLOUR_2}Polunetsinnän tavoite: {BLACK}{INT32}, {INT32}, {INT32} suunta {INT32}
+STR_6316    :{WINDOW_COLOUR_2}Polunetsinnän historia:
+STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} suunta {INT32}
+STR_6318    :Verkon desykronointi havaittu.{NEWLINE}Lokitiedosto: {STRING}
+STR_6319    :{WINDOW_COLOUR_2}Lohkojarru kiinni
+STR_6320    :{WINDOW_COLOUR_2}Hajoutumaton
+STR_6321    :{WINDOW_COLOUR_2}Lisäosa on hajonnut
+STR_6322    :{WINDOW_COLOUR_2}Spritetunnus: {BLACK}{INT32}
 STR_6323    :Simuloidaan
 STR_6324    :Simuloi
 STR_6325    :Simuloi laitetta
-STR_6326    :Ei voida simuloida {POP16}{POP16}{POP16}{STRINGID}…
+STR_6326    :Laitetta {POP16}{POP16}{POP16}{STRINGID} ei voi simuloida…
 STR_6327    :Läpinäkyvä tausta jättiruudunkaappauksissa
 STR_6328    :Kun päällä, jättiruudunkaappauksissa on läpinäkyvä tausta normaalin mustan taustan sijaan.
 STR_6329    :{STRING}{STRINGID}
-STR_6330    :Downloading [{STRING}] from {STRING} ({COMMA16} / {COMMA16})
+STR_6330    :Ladataan [{STRING}] kohteesta {STRING} ({COMMA16} / {COMMA16})
 STR_6331    :Luo ankkoja
 STR_6332    :Poista ankat
-STR_6333    :Increase scale factor
-STR_6334    :Decrease scale factor
-STR_6335    :Tile Inspector: Insert corrupt element
-STR_6336    :Tile Inspector: Copy element
-STR_6337    :Tile Inspector: Paste element
-STR_6338    :Tile Inspector: Delete element
-STR_6339    :Tile Inspector: Move element up
-STR_6340    :Tile Inspector: Move element down
-STR_6341    :Tile Inspector: Increase X coordinate
-STR_6342    :Tile Inspector: Decrease X coordinate
-STR_6343    :Tile Inspector: Increase Y coordinate
-STR_6344    :Tile Inspector: Decrease Y coordinate
-STR_6345    :Tile Inspector: Increase element height
-STR_6346    :Tile Inspector: Decrease element height
-STR_6347    :Path additions cannot be placed on level crossings!
-STR_6348    :Remove level crossing first!
+STR_6333    :Nosta skaalauskerrointa
+STR_6334    :Laske skaalauskerrointa
+STR_6335    :Laattatyökalu: Lisää korruptoitunut elementti
+STR_6336    :Laattatyökalu: Kopioi elementti
+STR_6337    :Laattatyökalu: Liitä elementti
+STR_6338    :Laattatyökalu: Poista elementti
+STR_6339    :Laattatyökalu: Siirrä elementti ylös
+STR_6340    :Laattatyökalu: Siirrä elementti alas
+STR_6341    :Laattatyökalu: Korota X-koordinaattia
+STR_6342    :Laattatyökalu: Vähennä X-koordinaattia
+STR_6343    :Laattatyökalu: Korota Y-koordinaattia
+STR_6344    :Laattatyökalu: Vähennä Y-koordinaattia
+STR_6345    :Laattatyökalu: Korota elementin korkeutta
+STR_6346    :Laattatyökalu: Vähennä elementin korkeutta
+STR_6347    :Polkuekstroja ei voi sijoittaa tasoristeyksiin!
+STR_6348    :Poista ensiksi tasoristeys!
 STR_6349    :Satunnainen valikkotausta
-STR_6350    :Scatter
-STR_6351    :Scenery Scatter Tool
-STR_6352    :Density
-STR_6353    :Low density
-STR_6354    :Medium density
-STR_6355    :High density
+STR_6350    :Hajaannus
+STR_6351    :Maisemoinnin hajautustyökalu
+STR_6352    :Tiheys
+STR_6353    :Matala tiheys
+STR_6354    :Keskitiheys
+STR_6355    :Korkea tiheys
 STR_6356    :Luo ankkoja jos puistossa on vettä
 STR_6357    :Poistaa kaikki kentän ankat
 STR_6358    :Sivu {UINT16}
@@ -3622,29 +3622,29 @@ STR_6369    :Allow building track at invalid heights
 STR_6370    :Allows placing track pieces at any height interval
 STR_6371    :Valitussa hakemistossa on RollerCoaster Tycoon 1 -asennus, mutta “csg1i.dat” -tiedosto puuttuu. Sinun tulee kopioida tämä tiedosto RollerCoaster Tycoon 1 -CD:ltä kiintolevyllesi RollerCoaster Tycoon 1 -asennuksen “Data” -kansioon.
 STR_6372    :Valitussa hakemistossa on RollerCoaster Tycoon 1 -asennus, mutta tämä versio on väärä. OpenRCT2 tarvitsee joko Loopy Landscapes tai RCT Deluxe -asennuksen käyttääkseen RollerCoaster Tycoon 1 -tiedostoja.
-STR_6373    :Toggle clearance checks
+STR_6373    :Vapaan tilan tarkistus päälle/pois
 STR_6374    :C
-STR_6375    :Unknown Ride
-STR_6376    :{WINDOW_COLOUR_2}Ride vehicle:{NEWLINE}{BLACK}{STRINGID} for {STRINGID}
-STR_6377    :{WINDOW_COLOUR_2}Type: {BLACK}{STRINGID} for {STRINGID}
-STR_6378    :Receiving objects list: {INT32} / {INT32}
-STR_6379    :Received invalid data
+STR_6375    :Tuntematon laite
+STR_6376    :{WINDOW_COLOUR_2}Ajoneuvo:{NEWLINE}{BLACK}{STRINGID} laitteelle {STRINGID}
+STR_6377    :{WINDOW_COLOUR_2}Tyyppi: {BLACK}{STRINGID} laitteelle {STRINGID}
+STR_6378    :Vastaanotetaan esinelistaa: {INT32} / {INT32}
+STR_6379    :Vastaanotettiin epäkelpoja tietoja
 STR_6380    :Päivitys saatavilla!
 STR_6381    :Liity OpenRCT2 -Discordiin!
 STR_6382    :Uusi OpenRCT2-versio on saatavilla: {STRING}!
 STR_6383    :Avaa lataussivusto
-STR_6384    :Snow
-STR_6385    :Heavy Snow
-STR_6386    :Blizzard
-STR_6387    :Can’t lower element here…
-STR_6388    :Can’t raise element here…
-STR_6389    :Invalid clearance
+STR_6384    :Lumisade
+STR_6385    :Pyry
+STR_6386    :Lumimyrsky
+STR_6387    :Elementtiä ei voi laskea tässä…
+STR_6388    :Elementtiä ei voi nostaa tässä…
+STR_6389    :Ei tilaa
 STR_6390    :OpenRCT2 tarvitsee alkuperäisen RollerCoaster Tycoon 2 -pelin tiedostot toimiakseen. Ole hyvä ja valitse hakemisto johon asensit RollerCoaster Tycoon 2:n.
 STR_6391    :Valitse RCT2-hakemisto
 STR_6392    :{STRING} ei löydy tästä polusta.
-STR_6393    :Objective Selection
-STR_6394    :Objective
-STR_6395    :Maintenance
+STR_6393    :Tavoitteen valinta
+STR_6394    :Tavoite
+STR_6395    :Huolto
 STR_6396    :Poista näytönsäästäjä ja virransäästö käytöstä
 STR_6397    :Jos päällä, OpenRCT2 estää näytönsäästäjän ja muiden virransäästöominaisuuksien toiminnan peliä pelatessa
 STR_6398    :Tiedosto sisältää tuntemattomia laitetyyppejä. Päivitä uudempaan OpenRCT2-versioon.
@@ -3683,12 +3683,12 @@ STR_6430    :LMB
 STR_6431    :RMB
 STR_6432    :Hiiri {INT32}
 STR_6433    :Poista
-STR_6434    :Remove all bindings for this shortcut.
-STR_6435    :{WINDOW_COLOUR_2}Vandals stopped: {BLACK}{COMMA16}
-STR_6436    :Toggle invisibility
-STR_6437    :Invisible
+STR_6434    :Poista kaikki pikanäppäimet tälle komennolle
+STR_6435    :{WINDOW_COLOUR_2}Vandaaleja pysäytetty: {BLACK}{COMMA16}
+STR_6436    :Näkymättömyys päälle/pois
+STR_6437    :Näkymätön
 STR_6438    :I
-STR_6439    :Tile Inspector: Toggle invisibility
+STR_6439    :Laattatyökalu: Näkymättömyys päälle/pois
 
 #############
 # Scenarios #
