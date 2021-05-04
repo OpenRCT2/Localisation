@@ -860,13 +860,13 @@ STR_1469    :Laitteen pitää alkaa ja loppua asemilla
 STR_1470    :Asema ei ole tarpeeksi pitkä
 STR_1471    :{WINDOW_COLOUR_2}Nopeus:
 STR_1472    :Tämän laitteen nopeus
-STR_1473    :{WINDOW_COLOUR_2}Jännityksen taso: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1474    :{WINDOW_COLOUR_2}Jännityksen taso: {BLACK}Ei vielä saatavilla
-STR_1475    :{WINDOW_COLOUR_2}Intensiteettitaso: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1476    :{WINDOW_COLOUR_2}Intensiteettitaso: {BLACK}Ei vielä saatavilla
-STR_1477    :{WINDOW_COLOUR_2}Intensiteettitaso: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
-STR_1478    :{WINDOW_COLOUR_2}Pahoinvoinnin taso: {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1479    :{WINDOW_COLOUR_2}Pahoinvoinnin taso: {BLACK}Ei vielä saatavilla
+STR_1473    :{WINDOW_COLOUR_2}Huvitustaso: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1474    :{WINDOW_COLOUR_2}Huvitustaso: {BLACK}Ei vielä saatavilla
+STR_1475    :{WINDOW_COLOUR_2}Jännitystaso: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1476    :{WINDOW_COLOUR_2}Jännitystaso: {BLACK}Ei vielä saatavilla
+STR_1477    :{WINDOW_COLOUR_2}Jännitystaso: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
+STR_1478    :{WINDOW_COLOUR_2}Pahoinvointitaso: {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1479    :{WINDOW_COLOUR_2}Pahoinvointitaso: {BLACK}Ei vielä saatavilla
 STR_1480    :“Minulla ei ole varaa mennä laitteeseen {STRINGID}”
 STR_1481    :“Kulutin kaikki rahani”
 STR_1482    :“Voin pahoin”
@@ -1048,7 +1048,7 @@ STR_1658    :{WINDOW_COLOUR_2}Intensiteetti: {BLACK}enintään {COMMA16}
 STR_1659    :{WINDOW_COLOUR_2}Intensiteetti: {BLACK}{COMMA16}:n ja {COMMA16}:n välillä
 STR_1660    :{WINDOW_COLOUR_2}Intensiteetti: {BLACK}vähintään {COMMA16}
 STR_1661    :{WINDOW_COLOUR_2}Pahoinvointitoleranssi: {BLACK}{STRINGID}
-STR_1662    :{WINDOW_COLOUR_2}Onnellisuus:
+STR_1662    :{WINDOW_COLOUR_2}Iloisuus:
 STR_1663    :{WINDOW_COLOUR_2}Pahoinvointi:
 STR_1664    :{WINDOW_COLOUR_2}Energia:
 STR_1665    :{WINDOW_COLOUR_2}Nälkä:
@@ -1380,7 +1380,7 @@ STR_2000    :Tyhjä hampurilaisrasia
 STR_2001    :Pizza
 STR_2002    :Kuponki
 STR_2003    :Popcorn
-STR_2004    :Hot Dog
+STR_2004    :Hot dog
 STR_2005    :Lonkero
 STR_2006    :Hattu
 STR_2007    :Toffeeomena
@@ -1407,8 +1407,8 @@ STR_2027    :Roska
 STR_2028    :Tyhjiä hampurilaisrasioita
 STR_2029    :Pizzoja
 STR_2030    :Kuponkeja
-STR_2031    :Popcorn
-STR_2032    :Hot Dogeja
+STR_2031    :Popcornia
+STR_2032    :Hot dogeja
 STR_2033    :Lonkeroita
 STR_2034    :Hattuja
 STR_2035    :Toffeeomenoita
@@ -1464,7 +1464,7 @@ STR_2084    :Tyhjä hampurilaisrasia
 STR_2085    :Pizza
 STR_2086    :{STRINGID} -kuponki
 STR_2087    :Popcorn
-STR_2088    :Hot Dog
+STR_2088    :Hot dog
 STR_2089    :Lonkero
 STR_2090    :“{STRINGID}” -hattu
 STR_2091    :Toffeeomena
@@ -1671,8 +1671,8 @@ STR_2307    :Valitse {STRINGID} suunnitelma
 STR_2308    :{STRINGID} Ratamallit
 STR_2309    :Asenna uusi ratamalli
 STR_2310    :Rakenna oma rata
-STR_2311    :{WINDOW_COLOUR_2}Jännittävyys taso: {BLACK}{COMMA2DP32} (arvioitu)
-STR_2312    :{WINDOW_COLOUR_2}Intensiteettitaso: {BLACK}{COMMA2DP32} (arvioitu)
+STR_2311    :{WINDOW_COLOUR_2}Huvitustaso: {BLACK}{COMMA2DP32} (arvioitu)
+STR_2312    :{WINDOW_COLOUR_2}Jännitystaso: {BLACK}{COMMA2DP32} (arvioitu)
 STR_2313    :{WINDOW_COLOUR_2}Pahoinvointitaso: {BLACK}{COMMA2DP32} (arvioitu)
 STR_2314    :{WINDOW_COLOUR_2}Radan pituus: {BLACK}{STRINGID}
 STR_2315    :{WINDOW_COLOUR_2}Kustannus: {BLACK}noin {CURRENCY}
@@ -1730,8 +1730,8 @@ STR_2372    :Matala
 STR_2373    :Keski
 STR_2374    :Korkea
 STR_2375    :Todella korkea
-STR_2376    :Extreme
-STR_2377    :Ultra-extreme
+STR_2376    :Äärimmäinen
+STR_2377    :Ultra-äärimmäinen
 STR_2378    :Säädä pienempää maa-aluetta
 STR_2379    :Säädä suurempaa maa-aluetta
 STR_2380    :Säädä pienempää vesialuetta
@@ -2243,9 +2243,9 @@ STR_3121    :Mekaanikkoa ei löydy, tai kaikki mekaanikot ovat kiireisiä
 STR_3122    :{WINDOW_COLOUR_2}Suosikkilaite: {BLACK}{COMMA16} kävijälle
 STR_3123    :{WINDOW_COLOUR_2}Suosikkilaite: {BLACK}{COMMA16} kävijälle
 STR_3124    :Hajonnut {STRINGID}
-STR_3125    :{WINDOW_COLOUR_2}Excitement Factor: {BLACK}+{COMMA16}%
-STR_3126    :{WINDOW_COLOUR_2}Intensity Factor: {BLACK}+{COMMA16}%
-STR_3127    :{WINDOW_COLOUR_2}Nausea Factor: {BLACK}+{COMMA16}%
+STR_3125    :{WINDOW_COLOUR_2}Huvituskerroin: {BLACK}+{COMMA16}%
+STR_3126    :{WINDOW_COLOUR_2}Jännityskerroin: {BLACK}+{COMMA16}%
+STR_3127    :{WINDOW_COLOUR_2}Pahoinvointikerroin: {BLACK}+{COMMA16}%
 STR_3128    :Tallenna ratamalli
 STR_3129    :Tallenna ratamalli maiseman kanssa
 STR_3130    :Tallenna
@@ -2359,7 +2359,7 @@ STR_3257    :Valitse haluavatko kävijät mieluummin mennä vain vähemmän inte
 STR_3258    :Kävijät tykkäävät hurjemmista laitteista
 STR_3259    :Valitse haluavatko kävijät mieluummin mennä vain intensiivisimpiin laitteisiin
 STR_3260    :{WINDOW_COLOUR_2}Kävijöiden rahat (keskiarvo):
-STR_3261    :{WINDOW_COLOUR_2}Kävijöiden alustava onnellisuus:
+STR_3261    :{WINDOW_COLOUR_2}Kävijöiden alustava iloisuus:
 STR_3262    :{WINDOW_COLOUR_2}Kävijöiden alustava nälkä:
 STR_3263    :{WINDOW_COLOUR_2}Kävijöiden alustava jano:
 STR_3264    :Tätä ei voi korottaa enempää!
@@ -2406,7 +2406,7 @@ STR_3304    :{WINDOW_COLOUR_2}Puiston arvo:
 STR_3305    :{WINDOW_COLOUR_2}Kuukausittainen tulo:
 STR_3306    :{WINDOW_COLOUR_2}Kuukausittainen tuotto:
 STR_3307    :{WINDOW_COLOUR_2}Vähimmäispituus:
-STR_3308    :{WINDOW_COLOUR_2}Jännittävyysarvo:
+STR_3308    :{WINDOW_COLOUR_2}Huvitustaso:
 STR_3309    :{WINDOW_COLOUR_2}{COMMA16}
 STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
 STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
@@ -2583,7 +2583,7 @@ STR_5228    :Pääkäyttöliittymä
 STR_5229    :Puisto
 STR_5230    :Työkalut
 STR_5231    :Laitteet ja kävijät
-STR_5232    :Editors
+STR_5232    :Muokkaimet
 STR_5233    :Sekalaiset
 STR_5234    :Kehotteet
 STR_5235    :Asetukset
@@ -2667,7 +2667,7 @@ STR_5314    :Ruututyökalu
 STR_5335    :Laitteen sisäänkäynti
 STR_5336    :Laitteen uloskäynti
 STR_5337    :Puiston sisäänkäynti
-STR_5338    :Element type
+STR_5338    :Elementtityyppi
 STR_5339    :Pohjakorkeus
 STR_5340    :Vapaa korkeus
 STR_5343    :Sijoita työntekijät automaattisesti
@@ -2679,7 +2679,7 @@ STR_5348    :Laitehuijaukset
 STR_5349    :Kaikki laitteet
 STR_5350    :Maks
 STR_5351    :Min
-STR_5352    :{BLACK}Onnellisuus:
+STR_5352    :{BLACK}Iloisuus:
 STR_5353    :{BLACK}Energia:
 STR_5354    :{BLACK}Nälkä:
 STR_5355    :{BLACK}Jano:
@@ -2745,8 +2745,8 @@ STR_5417    :Sijainti
 STR_5418    :Sijainti{MOVE_X}{87}{COMMA16}   {COMMA16}
 STR_5419    :Käännä
 STR_5420    :Käännä{MOVE_X}{87}{COMMA16}
-STR_5421    :Zoom
-STR_5422    :Zoom{MOVE_X}{87}{COMMA16}
+STR_5421    :Zoomaa
+STR_5422    :Zoomaa{MOVE_X}{87}{COMMA16}
 STR_5423    :Odota
 STR_5424    :Odota{MOVE_X}{87}{UINT16}
 STR_5425    :Uudelleen käynnistä
@@ -2985,7 +2985,7 @@ STR_5661    :Pelaajan ryhmän asetus
 STR_5662    :(ei mitään)
 STR_5663    :Maisemointien raivaus
 STR_5664    :Huijaus
-STR_5665    :Toggle Scenery Cluster
+STR_5665    :Maisemointirykelmä päälle/pois
 STR_5666    :Salasanaton sisäänpääsy
 STR_5701    :{WINDOW_COLOUR_2}Viimeisin toiminto: {BLACK}{STRINGID}
 STR_5702    :Paikanna pelaajan viimeisin toiminto
@@ -3179,21 +3179,21 @@ STR_5894    :Anna vaihtokurssi
 STR_5895    :Tallenna rata
 STR_5896    :Radan tallennus epäonnistui!
 STR_5898    :{BLACK}Rataa ei voi ladata, tiedosto saattaa olla{newline}vioittunut, rikki, tai se puuttuu!
-STR_5899    :Toggle paint debug window
-STR_5900    :Use original drawing code
-STR_5901    :Show segment heights
+STR_5899    :Piirron virheenkorjausikkuna päälle/pois
+STR_5900    :Käytä alkuperäistä piirtokoodia
+STR_5901    :Näytä osien korkeudet
 STR_5902    :Näytä ympäröivät kehikot
-STR_5903    :Show paint debug window
-STR_5904    :Reset date
-STR_5905    :A map generation tool that automatically creates a custom landscape
+STR_5903    :Näytä piirron virheenkorjausikkuna
+STR_5904    :Nollaa päivä
+STR_5905    :Tasonluonnin työkalu joka luo mukautetun maaston automaattisesti
 STR_5906    :Lähennä osoitinta kohti
 STR_5907    :Kun päällä, lähennys asettuu hiiren osoitinta kohti, ruudun keskikohdan sijaan.
 STR_5908    :Salli mielivaltaiset laitetyyppivaihdot
 STR_5909    :Sallii laitteen tyypin vapaan vaihdon. Saattaa johtaa pelin kaatumiseen.
-STR_5910    :Apply
+STR_5910    :Käytä
 STR_5911    :Näe polkujen läpi
-STR_5912    :See-through paths toggle
-STR_5913    :Chat
+STR_5912    :Näe polkujen läpi -kytkin
+STR_5913    :Keskustelu
 STR_5914    :Tuntematon laite
 STR_5915    :Pelaaja
 STR_5916    :{COMMA16} pelaaja
@@ -3254,7 +3254,7 @@ STR_5970    :{WINDOW_COLOUR_2}Sisäänkäyntitunnus: {BLACK}{COMMA16}
 STR_5971    :{WINDOW_COLOUR_2}Uloskäyntitunnus: {BLACK}{COMMA16}
 STR_5972    :{WINDOW_COLOUR_2}Laitetunnus: {BLACK}{COMMA16}
 STR_5973    :Kiinnitä seuraavaan
-STR_5974    :Changes the base- and clearance height so that it’s at the same as the next element on the current tile. Doing this makes it easier to build on this tile.
+STR_5974    :Muuttaa perus- ja vapaakorkeuden samaan tasoon kuin tämän ruudun seuraava elementti. Tämä tekee tälle ruudulle rakentamisesta helpompaa.
 STR_5975    :Mäki:
 STR_5976    :Tasainen
 STR_5977    :Oikea puoli ylös
@@ -3344,9 +3344,9 @@ STR_6060    :Näytä kävijöiden ostokset animaationa
 STR_6061    :Näyttää animoiden rahatehosteen kun kävijät tekevät ostoksia.
 STR_6062    :{OUTLINE}{GREEN}+ {CURRENCY2DP}
 STR_6063    :{OUTLINE}{RED}- {CURRENCY2DP}
-STR_6064    :Own all land
-STR_6065    :Log user actions
-STR_6066    :Logs all user actions to files in your user directory.
+STR_6064    :Omista kaikki maat
+STR_6065    :Toimintaloki
+STR_6066    :Kirjaa kaikki pelaajien toiminnat lokitiedostoon käyttäjähakemistoosi.
 STR_6067    :Palvelin käynnistetty.
 STR_6068    :Palvelin sammutettu.
 STR_6069    :{STRING} potkittiin palvelimelta pelaajan {STRING} toimesta.
