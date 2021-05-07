@@ -277,7 +277,7 @@ STR_0887    :Lopeta skenaariomuokkain
 STR_0888    :Lopeta vuoristoratamuokkain
 STR_0889    :Lopeta ratamallien hallinta
 STR_0891    :Ruudunkaappaus
-STR_0892    :Ruudunkaappaus tallennettu levylle nimellä '{STRINGID}'
+STR_0892    :Ruudunkaappaus tallennettu levylle nimellä ”{STRINGID}”
 STR_0893    :Ruudunkaappaus epäonnistui!
 STR_0894    :Maisematietoalue on täynnä!
 STR_0895    :Ei voi rakentaa osittain maan ylle ja alle
@@ -600,8 +600,8 @@ STR_1211    :{WINDOW_COLOUR_2}Vähimmäisodotusaika:
 STR_1212    :{WINDOW_COLOUR_2}Enimmäisodotusaika:
 STR_1213    :Valitse vähimmäisodotusaika ennen lähtöä
 STR_1214    :Valitse enimmäisodotusaika ennen lähtöä
-STR_1215    :{WINDOW_COLOUR_2}Synkronoi rinnakkaisasemien kanssa
-STR_1216    :Valitse synkronoiko junat lähtönsä kaikkien rinnakkaisasemien kanssa ('kilpa-ajoa' varten)
+STR_1215    :{WINDOW_COLOUR_2}Tahdista rinnakkaisasemien kanssa
+STR_1216    :Valitse tahdistaako junat lähtönsä kaikkien rinnakkaisasemien kanssa (”kilpa-ajoa” varten)
 STR_1217    :{COMMA16} sekuntia
 STR_1218    :{BLACK}+
 STR_1219    :{BLACK}-
@@ -1829,7 +1829,7 @@ STR_2481    :Näytä poikittaisen kiihtyvyyden kuvaaja ajalle
 STR_2482    :Tuotto: {CURRENCY} viikossa,  puiston arvo: {CURRENCY}
 STR_2483    :{WINDOW_COLOUR_2}Viikottainen tuotto: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Viikottainen tuotto: {RED}{CURRENCY2DP}
-STR_2487    :Näytä kävijöiden 'oikeat' nimet
+STR_2487    :Näytä kävijöiden ”oikeat” nimet
 STR_2488    :Vaihda kävijöiden nimen ja numeron näyttämisen välillä
 STR_2489    :Pikanäppäimet…
 STR_2490    :Näppäimistön pikanäppäimet
@@ -2034,23 +2034,23 @@ STR_2827    :{WINDOW_COLOUR_2}Parhaat mukautetut laitteet -palkinto
 STR_2828    :{WINDOW_COLOUR_2}Häikäisevimmät värivalinnat -palkinto
 STR_2829    :{WINDOW_COLOUR_2}Sekavin asettelu -palkinto
 STR_2830    :{WINDOW_COLOUR_2}Parhaat lempeät laitteet -palkinto
-STR_2831    :{TOPAZ}Puistosi sai 'Maan sotkuisin puisto' -palkinnon!
-STR_2832    :{TOPAZ}Puistosi sai 'Maan siistein puisto' -palkinnon!
-STR_2833    :{TOPAZ}Puistosi sai 'Parhaimmat vuoristoradat' -palkinnon!
-STR_2834    :{TOPAZ}Puistosi sai 'Maan paras hinta/laatu-suhde' -palkinnon!
-STR_2835    :{TOPAZ}Puistosi sai 'Maan kaunein puisto' -palkinnon!
-STR_2836    :{TOPAZ}Puistosi sai 'Maan huonoin hinta/laatu-suhde' -palkinnon!
-STR_2837    :{TOPAZ}Puistosi sai 'Maan turvallisin puisto' -palkinnon!
-STR_2838    :{TOPAZ}Puistosi sai 'Paras henkilöstö' -palkinnon!
-STR_2839    :{TOPAZ}Puistosi sai 'Maan parhaat ruoat' -palkinnon!
-STR_2840    :{TOPAZ}Puistosi sai 'Maan huonoimmat ruoat' -palkinnon!
-STR_2841    :{TOPAZ}Puistosi sai 'Maan parhaimmat vessat' -palkinnon!
-STR_2842    :{TOPAZ}Puistosi sai 'Maan pettymyksellisin puisto' -palkinnon!
-STR_2843    :{TOPAZ}Puistosi sai 'Maan parhaat vesilaitteet' -palkinnon!
-STR_2844    :{TOPAZ}Puistosi sai 'Maan parhaat mukautetut laitteet' -palkinnon!
-STR_2845    :{TOPAZ}Puistosi sai 'Häikäisevimmät värivalinnat' -palkinnon!
-STR_2846    :{TOPAZ}Puistosi sai 'Sekavin asettelu' -palkinnon!
-STR_2847    :{TOPAZ}Puistosi sai 'Maan parhaat lempeät laitteet' -palkinnon!
+STR_2831    :{TOPAZ}Puistosi sai ”Maan sotkuisin puisto” -palkinnon!
+STR_2832    :{TOPAZ}Puistosi sai ”Maan siistein puisto” -palkinnon!
+STR_2833    :{TOPAZ}Puistosi sai ”Parhaimmat vuoristoradat” -palkinnon!
+STR_2834    :{TOPAZ}Puistosi sai ”Maan paras hinta/laatu-suhde” -palkinnon!
+STR_2835    :{TOPAZ}Puistosi sai ”Maan kaunein puisto” -palkinnon!
+STR_2836    :{TOPAZ}Puistosi sai ”Maan huonoin hinta/laatu-suhde” -palkinnon!
+STR_2837    :{TOPAZ}Puistosi sai ”Maan turvallisin puisto” -palkinnon!
+STR_2838    :{TOPAZ}Puistosi sai ”Paras henkilöstö” -palkinnon!
+STR_2839    :{TOPAZ}Puistosi sai ”Maan parhaat ruoat” -palkinnon!
+STR_2840    :{TOPAZ}Puistosi sai ”Maan huonoimmat ruoat” -palkinnon!
+STR_2841    :{TOPAZ}Puistosi sai ”Maan parhaimmat vessat” -palkinnon!
+STR_2842    :{TOPAZ}Puistosi sai ”Maan pettymyksellisin puisto” -palkinnon!
+STR_2843    :{TOPAZ}Puistosi sai ”Maan parhaat vesilaitteet” -palkinnon!
+STR_2844    :{TOPAZ}Puistosi sai ”Maan parhaat mukautetut laitteet” -palkinnon!
+STR_2845    :{TOPAZ}Puistosi sai ”Häikäisevimmät värivalinnat” -palkinnon!
+STR_2846    :{TOPAZ}Puistosi sai ”Sekavin asettelu” -palkinnon!
+STR_2847    :{TOPAZ}Puistosi sai ”Maan parhaat lempeät laitteet” -palkinnon!
 STR_2848    :{WINDOW_COLOUR_2}Ei tuoreita palkintoja
 STR_2849    :Uusi skenaario asennettiin onnistuneesti
 STR_2850    :Uusi ratamalli asennettiin onnistuneesti
@@ -2122,7 +2122,7 @@ STR_2983    :Anna uusi teksti bannerille:
 STR_2984    :Uutta tekstiä ei voi antaa bannerille…
 STR_2985    :Banneri
 STR_2986    :Muuta bannerin teksti
-STR_2987    :Aseta tämä banneri 'ei sisäänpääsyä' -kyltiksi vieraille
+STR_2987    :Aseta tämä banneri ”ei sisäänpääsyä” -kyltiksi vieraille
 STR_2988    :Romuta banneri
 STR_2989    :Valitse pääväri
 STR_2990    :Valitse tekstin väri
@@ -2337,7 +2337,7 @@ STR_3235    :Näytä taloustiedot
 STR_3236    :Näytä kävijätiedot
 STR_3237    :Näytä puistotiedot
 STR_3238    :Ei rahaa
-STR_3239    :Tee tästä puistosta 'ei rahaa' -puisto, jolla ei ole mitään taloudellisia rajoitteita
+STR_3239    :Tee tästä puistosta ”ei rahaa” -puisto, jolla ei ole mitään taloudellisia rajoitteita
 STR_3240    :{WINDOW_COLOUR_2}Aloitusrahamäärä:
 STR_3241    :{WINDOW_COLOUR_2}Aloituslaina:
 STR_3242    :{WINDOW_COLOUR_2}Enimmäislainamäärä:
@@ -3288,7 +3288,7 @@ STR_6004    :Leikattu näkymä
 STR_6005    :Näytä leikattu näkymä
 STR_6006    :Leikattu näkymä näyttää vain karttaelementit leikkauskorkeuden kohdalla tai sen alla (pystysuora leikkaus) ja valitussa alueessa (vaakasuora leikkaus).
 STR_6007    :Leikkauksen korkeus
-STR_6008    :Klikkaa vaihtaaksesi raa'an arvon ja mittayksikön arvon välillä
+STR_6008    :Klikkaa vaihtaaksesi raa’an arvon ja mittayksikön arvon välillä
 STR_6009    :Valitse leikkauskorkeus
 STR_6010    :{COMMA2DP32}m
 STR_6011    :{COMMA1DP16}ft
@@ -3382,7 +3382,7 @@ STR_6098    :{STRING} poisti laitteen radan.
 STR_6099    :Sinä yhdistit palvelimeen.
 STR_6100    :Sinä katkaisit yhteyden palvelimeen.
 STR_6101    :Laitteiden arvo ei laske ajan myötä
-STR_6102    :Laitteiden arvo ei laske ajan myötä, jotta kävijät eivät yht'äkkiä pidä laitetta liian kalliina.
+STR_6102    :Laitteiden arvo ei laske ajan myötä, jotta kävijät eivät yht’äkkiä pidä laitetta liian kalliina.
 STR_6103    :Tämä asetus on pois käytöstä moninpeluun aikana.
 STR_6105    :Hypervuoristorata
 STR_6107    :Monsteriautot
@@ -3438,7 +3438,7 @@ STR_6162    :Pyörivä villihiiri
 STR_6163    :Hiiren muotoiset vaunut kiitävät tiukkojen mutkien ja lyhyiden pudotusten läpi, lempeästi pyörien matkustajien hämmennykseksi
 STR_6164    :{WHITE}❌
 STR_6165    :Pystytahdistus
-STR_6166    :Synkronoi jokaisen kuvan piirron näytön virkistystaajuuteen, estäen screen tearing -ilmiön
+STR_6166    :Tahdista jokaisen kuvan piirto näytön virkistystaajuuteen, estäen screen tearing -ilmiön
 STR_6167    :Lisäasetukset
 STR_6168    :Päävalikon tausta
 STR_6169    :Skenaarion valinta
@@ -4482,14 +4482,14 @@ STR_PARK    :Metropoli
 STR_DTLS    :Omistat tyhjän tontin pienasutusalueen vieressä. 20-luvun art deco -arkkitehtuurin innoittamana rakenna pilvenpiirtäjien teemapuisto puristaaksesi kaupunkitontistasi viimeisetkin tuoton pisarat.
 
 <Rock 'n' Roll - Flower Power>
-STR_SCNR    :Rock ‘n’ Roll - Kukkavoimaa
+STR_SCNR    :Rock ’n’ roll - Kukkavoimaa
 STR_PARK    :Woodstock
 STR_DTLS    :Suuri vuosittainen musiikkifestivaali järjestetään maillasi. Rakenna tajuntaa laajentava huvipuisto vapaamielisen yleisön viihdyttämiseen.
 
 <Rock 'n' Roll - Rock 'n' Roll>
-STR_SCNR    :Rock ‘n’ Roll - Rock ‘n’ Roll
-STR_PARK    :Rock ‘n’ Roll Revival
-STR_DTLS    :Tämä vanha huvipuisto on nähnyt parempia päiviä. Auta sen omistajaa antamalla sille retron rock ‘n’ roll -muodonmuutoksen, joka tekee puistosta menestyksekkään viihdekeskuksen.
+STR_SCNR    :Rock ’n’ roll - Rock ’n’ roll
+STR_PARK    :Rock ’n’ rollin kukoistus
+STR_DTLS    :Tämä vanha huvipuisto on nähnyt parempia päiviä. Auta sen omistajaa antamalla sille retron rock ’n’ roll -muodonmuutoksen, joka tekee puistosta menestyksekkään viihdekeskuksen.
 
 ###############################################################################
 ## Official Custom Content Scenarios
