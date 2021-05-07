@@ -1,6 +1,9 @@
 # en-GB is maintained in main repository
 data/language/en-GB.txt
 
+# File resulting from running translation_check.py locally 
+result.md
+
 # Visual Studio
 .vs
 *.user
@@ -17,3 +20,6 @@ cmake-build-debug
 
 # IntelliJ IDEA
 *.iml
+
+# macOS
+.DS_Store
