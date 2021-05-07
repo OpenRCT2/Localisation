@@ -2878,7 +2878,7 @@ STR_5553    :Pysäytä peli kun Steam-yhteisönäkymä on auki
 STR_5554    :Ota vuorityökalu käyttöön
 STR_5555    :Näytä muiden ratatyyppien vaunutyypit
 STR_5556    :Potkaise pelaaja
-STR_5557    :Pysy yhteydessä desykronoinnin jälkeen (moninpeli)
+STR_5557    :Pysy yhteydessä epätahdistuksessa (moninpeli)
 STR_5558    :Tämä asetus tulee voimaan vasta kun uudelleenkäynnistät OpenRCT2:n
 STR_5559    :10 min. tarkastukset
 STR_5560    :Asettaa tarkastusvälin ‘10 min välein’ kaikkiin laitteisiin
@@ -3028,7 +3028,7 @@ STR_5741    :Markkinointikampanjat eivät koskaan pääty
 STR_5742    :Todennetaan…
 STR_5743    :Yhdistetään…
 STR_5744    :Selvitetään…
-STR_5745    :Verkko-desykronointi havaittu
+STR_5745    :Verkkopelin epätahdistus havaittu
 STR_5746    :Yhteys katkaistu
 STR_5747    :Yhteys katkaistu: {STRING}
 STR_5748    :Potkittu
@@ -3127,7 +3127,7 @@ STR_5840    :Näytä erillinen painike työkalupalkissa Huijaukset-ikkunaa varte
 STR_5841    :Näytä erillinen painike työkalupalkissa Uutiset-ikkunaa varten
 STR_5842    :Ryhmitä skenaariot vaikeusasteen mukaan (kuten RCT2:ssa) tai alkuperäisen pelin mukaan (kuten RCT1:ssä)
 STR_5843    :Uudet skenaariot avautuvat vasta kun edelliset ovat voitettu (kuten RCT1:ssä)
-STR_5844    :Pysy yhteydessä moninpelipalvelimeen myös desykronoinnin tai virheen kohdalla
+STR_5844    :Pysy yhteydessä moninpelipalvelimeen myös epätahdistuksen tai virheen kohdalla
 STR_5845    :Lisää työkalupalkkiin painikkeen virheenkorjaustyökaluihin.{NEWLINE}Ottaa käyttöön pikanäppäimen kehittäjäkonsoliin
 STR_5846    :Valitse kuinka usein OpenRCT2 tallentaa pelin automaattisesti
 STR_5847    :Valitse puistotausta päävalikon taustalle.{NEWLINE}RCT1/2:n valikkotaustat tarvitsevat tuodut skenaariot toimiakseen
@@ -3567,7 +3567,7 @@ STR_6314    :{WINDOW_COLOUR_2}Kohde: {BLACK}{INT32}, {INT32} toleranssi {INT32}
 STR_6315    :{WINDOW_COLOUR_2}Polunetsinnän tavoite: {BLACK}{INT32}, {INT32}, {INT32} suunta {INT32}
 STR_6316    :{WINDOW_COLOUR_2}Polunetsinnän historia:
 STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} suunta {INT32}
-STR_6318    :Verkon desykronointi havaittu.{NEWLINE}Lokitiedosto: {STRING}
+STR_6318    :Verkkopelin epätahdistus havaittu.{NEWLINE}Lokitiedosto: {STRING}
 STR_6319    :{WINDOW_COLOUR_2}Lohkojarru kiinni
 STR_6320    :{WINDOW_COLOUR_2}Hajoutumaton
 STR_6321    :{WINDOW_COLOUR_2}Lisäosa on hajonnut
@@ -3663,31 +3663,31 @@ STR_6410    :Lähennä/loitonna
 STR_6411    :Näytä erilliset painikkeet työkalupalkissa lähennystä ja loitonnusta varten
 STR_6412    :NumPad Enter
 STR_6413    :Shift
-STR_6414    :Vas Shift
-STR_6415    :Oik Shift
+STR_6414    :Vas. Shift
+STR_6415    :Oik. Shift
 STR_6416    :Ctrl
-STR_6417    :Vas Ctrl
-STR_6418    :Oik Ctrl
+STR_6417    :Vas. Ctrl
+STR_6418    :Oik. Ctrl
 STR_6419    :Alt
-STR_6420    :Vas Alt
-STR_6421    :Oik Alt
+STR_6420    :Vas. Alt
+STR_6421    :Oik. Alt
 STR_6422    :Cmd
-STR_6423    :Vas Cmd
-STR_6424    :Oik Cmd
+STR_6423    :Vas. Cmd
+STR_6424    :Oik. Cmd
 STR_6425    :Joy Vasen
 STR_6426    :Joy Oikea
 STR_6427    :Joy Ylös
 STR_6428    :Joy Alas
 STR_6429    :Joy {INT32}
-STR_6430    :LMB
-STR_6431    :RMB
+STR_6430    :Vas. hiiri
+STR_6431    :Oik. hiiri
 STR_6432    :Hiiri {INT32}
 STR_6433    :Poista
 STR_6434    :Poista kaikki pikanäppäimet tälle komennolle
 STR_6435    :{WINDOW_COLOUR_2}Vandaaleja pysäytetty: {BLACK}{COMMA16}
 STR_6436    :Näkymättömyys päälle/pois
 STR_6437    :Näkymätön
-STR_6438    :I
+STR_6438    :N
 STR_6439    :Ruututyökalu: Näkymättömyys päälle/pois
 
 #############
