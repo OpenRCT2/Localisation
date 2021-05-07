@@ -5,7 +5,7 @@ STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
 STR_0002    :Kierrevuoristorata
 STR_0003    :Seisomavuoristorata
-STR_0004    :Riippukeinuvuoristorata
+STR_0004    :Keinuva riippuvuoristorata
 STR_0005    :Käänteinen vuoristorata
 STR_0006    :Juniorivuoristorata
 STR_0007    :Pienoisrautatie
@@ -97,8 +97,8 @@ STR_0091    :Tuntematon laite (59)
 STR_0092    :Laukaisuvuoristorata
 STR_0093    :Hybridivuoristorata
 STR_0094    :Yksikiskoinen vuoristorata
-STR_0512    :Kompakti vuoristorata jossa on spiraalimainen nostomäki, ja sulavat, kaartelevat pudotukset.
-STR_0513    :Silmukoiva vuoristorata jossa matkustajat ovat seisoma-asennossa
+STR_0512    :Kompakti vuoristorata, jossa on spiraalimainen nostomäki, ja sulavat, kaartelevat pudotukset.
+STR_0513    :Silmukoiva vuoristorata, jossa matkustajat ovat seisoma-asennossa
 STR_0514    :Junat riippuvat vuoristoradan alla, ja heilahtavat sivuttain käänteissä
 STR_0515    :Teräksinen vuoristorata, jonka junat ovat radan alapuolella, ja jossa on monia monimutkaisia ja kiertyviä rataosia
 STR_0516    :Lempeä vuoristorata niille, joilla ei ole vielä rahkeita mennä isompiin laitteisiin
@@ -107,42 +107,42 @@ STR_0518    :Matkustajat kulkevat sähköisillä junilla yksittäisellä raiteel
 STR_0519    :Matkustajat kulkevat kiskon alta riippuvissa pienoisvaunuissa, vapaasti heilahtaen käänteissä
 STR_0520    :Laituri, josta kävijät voivat astua aluksiin ja ajaa tai soutaa vesistössä
 STR_0521    :Nopea ja kiermuteleva vuoristorata tiukoilla käännöksillä ja jyrkillä pudotuksilla. Intensiteetti on varmasti katossa.
-STR_0522    :Pienempi vuoristorata jossa matkustajat kulkevat raiteilla ilman ympäröivää vaunua
+STR_0522    :Pienempi vuoristorata, jossa matkustajat kulkevat raiteilla ilman ympäröivää vaunua
 STR_0523    :Matkustajat kulkevat verkkaisesti moottoroiduilla ajoneuvoilla rataa pitkin
 STR_0524    :Pneumaattisesti laukaistu kori kohoaa korkean terästornin huipulle, ja putoaa sitten vapaasti takaisin maahan
 STR_0525    :Matkustajat kiitävät kiemurtelevaa rataa alas, ainoastaan puolikuun muotoisen radan kallistumien ja kaarroksien ohjaamana
 STR_0526    :Matkustajat kulkevat pyörivässä näköalakopissa, joka nousee korkean tornin huipulle
-STR_0527    :Lipevä teräskiskoinen vuoristorata joka kykenee pystysuoriin silmukoihin
+STR_0527    :Lipevä teräskiskoinen vuoristorata, joka kykenee pystysuoriin silmukoihin
 STR_0528    :Matkjustajat liukuvat puhallettavissa veneissä alas puolikuun tai umpinaisen putken muotoista rataa
 STR_0529    :Kaivosjunan näköiset vuoristoratavaunut kiitävät vanhalta junaradalta näyttäviä teräskiskoja pitkin
 STR_0530    :Vaunut riippuvat teräskaapelista, joka pyörii jatkuvasti laitteen yhdestä päästä toiseen
-STR_0531    :Kompakti teräskiskoinen vuoristorata jossa juna kiitää läpi korkkikierteiden ja silmukoiden
+STR_0531    :Kompakti teräskiskoinen vuoristorata, jossa juna kiitää läpi korkkikierteiden ja silmukoiden
 STR_0532    :Labyrintti on rakennettu kaksimetrisistä pensasaidoista tai seinistä, ja kävijät pääsevät ulos vasta kun löytävät uloskäynnin
-STR_0533    :Puinen rakennus jonka sisällä olevasta porraskäytävästä pääsee huipulle, josta voi ulkoseinämän liukumäkeä laskea alas
-STR_0534    :Kävijät kilpailevat toisiaan vastaan miniautoissa asfalttiradalla
+STR_0533    :Puinen rakennus jonka sisällä olevasta porraskäytävästä pääsee huipulle, josta voi laskea ulkoseinämän liukumäkeä alas
+STR_0534    :Kävijät kilpailevat toisiaan vastaan mikroautoissa asfalttiradalla
 STR_0535    :Veneet kulkevat vesikanavaa myöten, ja jyrkissä mäissä roiskeet kastelevat matkustajat
 STR_0536    :Pyöreät veneet kuljeskelevat laajaa vesikanavaa pitkin, roiskuen läpi vesiputousten ja vaahtoavien koskien
 STR_0537    :Kävijät törmäävät toisiinsa ajamissaan sähköautoissa
 STR_0538    :Suuri keinuva merirosvolaiva
 STR_0539    :Laiva on kiinnitetty puomiin, jonka toisessa päässä on vastapaino, ja joka pyörii täydet 360 astetta
-STR_0540    :Koju josta kävijät voivat ostaa ruokaa
-STR_0542    :Koju josta kävijät voivat ostaa juomia
-STR_0544    :Koju joka myy matkamuistoja
+STR_0540    :Koju, josta kävijät voivat ostaa ruokaa
+STR_0542    :Koju, josta kävijät voivat ostaa juomia
+STR_0544    :Koju, joka myy matkamuistoja
 STR_0545    :Vanhanaikainen pyörivä karuselli kaiverrettujen puuhevosien kera
 STR_0547    :Koju josta kävijät voivat ostaa karttoja ja sateenvarjoja
 STR_0548    :WC-rakennus
-STR_0549    :Iso pyörivä pyörä jossa on avoilmapenkit
+STR_0549    :Iso pyörivä pyörä, jossa on avoilmapenkit
 STR_0550    :Kävijät katsovat elokuvaa simulaattorin sisällä, samalla kun hydraulinen puomi liikuttaa ja kallistaa simulaattoria
-STR_0551    :Elokuvateatteri joka näyttää 3D-elokuvia geodeettisen pallon muotoisessa rakennuksessa
-STR_0552    :Matkustajat istuvat suurien pyörivien puomien päähän kiinnitetyissä gondolassa, pyörien edestakaisin ja ylösalaisin
+STR_0551    :Elokuvateatteri, joka näyttää 3D-elokuvia geodeettisen pallon muotoisessa rakennuksessa
+STR_0552    :Matkustajat istuvat suurien pyörivien puomien päähän kiinnitetyssä gondolassa, pyörien edestakaisin ja ylösalaisin
 STR_0553    :Sisäkkäiset pyörivät renkaat antavat kävijöiden pyöriä vapaasti joka suuntaan
-STR_0554    :Vaunu laukaistaan asemalta induktiomoottorilla, ja kiipeää sitten pystysuoraa rataa pitkin, lopulta pudoten vapaasti takaisin asemalle
+STR_0554    :Vaunu kiihdytetään asemalta induktiomoottorilla, kiivetäkseen pystysuoraa rataa pitkin, ja lopulta pudoten vapaasti takaisin asemalle
 STR_0555    :Kävijät matkustavat pystysuoralla hissillä ylös tai alas, päästen näin eri tasoille
 STR_0556    :Erikoisleveät vaunut putoavat pystysuoraa rataa pitkin, jotta kävijät voivat kokea äärimmäisen vapaapudotusvuoristoradan
 STR_0557    :Raha-automaatti jota kävijät voivat käyttää jos rahat ovat vähissä
 STR_0558    :Kävijät istuvat pareittain penkeissä kolmen pitkän pyörivän puomin päissä
-STR_0559    :Suuri teemattu rakennus jossa on pelottavia käytäviä ja karmivia huoneita
-STR_0560    :Paikka jossa pahoinvoivat kävijät voivat levätä ja toipua nopeammin
+STR_0559    :Suuri teemattu rakennus, jossa on pelottavia käytäviä ja karmivia huoneita
+STR_0560    :Paikka, jossa pahoinvoivat kävijät voivat levätä ja toipua nopeammin
 STR_0561    :Sirkuseläinshow valtavan teltan sisällä
 STR_0562    :Moottoroidut vaunut kulkevat monitasoista rataa pitkin pelottavien lavasteiden ja erikoistehosteiden keskellä
 STR_0563    :Mukavissa junissa istuvat matkustajat kokevat sulavan valtavia pudotuksia ja kääntyileviä ratoja, sekä runsaasti ‘airtime’ä mäkien huipuilla
@@ -159,7 +159,7 @@ STR_0575    :Moottoroidut yksittäisestä kiskosta riippuvat junat kuljettavat k
 STR_0577    :Vaunut kulkevat puisilla kiskoilla, ja kääntyvät ympäri erityisissä kääntöosioissa
 STR_0578    :Vaunut kulkevat renkasmaisten rakenteiden ympäröivää rataa, kulkien läpi jyrkkien pudotusten ja sivuttaisvieritysten
 STR_0579    :Lempeä minigolfkenttä
-STR_0580    :Jättimäinen teräsvuoristorata joka kykenee sulaviin pudotuksiin ja jopa 90 metrin korkuisiin mäkiin
+STR_0580    :Jättimäinen teräsvuoristorata, joka kykenee sulaviin pudotuksiin ja jopa 90 metrin korkuisiin mäkiin
 STR_0581    :Pyörivään ympyrään asetetut istuimet vedetään korkean tornin huipulle, ja annetaan pudota alas, ja pysähtyä hellävaraisesti magneettijarrujen ansiosta
 STR_0582    :Matkustajat kulkevat itse ajamissaan ilmatyynyaluksissa
 STR_0583    :Rakennus täynnä kävijöitä kummastuttavia vääristettyjä huoneita ja kieroutuineita käytäviä
@@ -168,7 +168,7 @@ STR_0585    :Matkustajat istuvat pareittain radasta roikuvissa istuimissa, poukk
 STR_0586    :Veneen muotoiset vaunut kulkevat vuoristoradan kiertyvien kaarrosten ja jyrkkien pudotusten läpi, välillä polskahtaen lempeämpiin jokiosioihin
 STR_0587    :Jännittävän ilmakäyttöisen laukauksen jälkeen juna kiitää ylös pystysuoraa rataa, sujahtaa huipun yli, ja toista pystysuoraa rataa alas palatakseen asemalle
 STR_0588    :Erilliset vaunut kulkevat siksakkisen radan alla tiukkojen mutkien ja jyrkkien mäkien ohessa
-STR_0589    :Suuri lentävän maton näköinen vaunu joka liikkuu syklisesti ylös ja alas neljän puomin varassa
+STR_0589    :Suuri lentävän maton näköinen vaunu, joka liikkuu syklisesti ylös ja alas neljän puomin varassa
 STR_0590    :Matkustajat kulkevat sukellusveneessä vedenalaista rataa pitkin
 STR_0591    :Lautan muotoiset veneet lempeästi liplattavat jokirataa pitkin
 STR_0593    :Riippuvilla vaunuilla varustettu pyörivä ratas, joka aluksi pyörii paikallaan, ja sitten nousee pystysuoraksi liikkuvan tukipuomin ansioista
@@ -1180,8 +1180,8 @@ STR_1796    :Hajonnut ja korjauksen tarpeessa
 STR_1798    :Pyörre
 STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1800    :Turvakatkaisu
-STR_1801    :Turvakaaret jumittuneet kiinni
-STR_1802    :Turvakaaret jumittuneet auki
+STR_1801    :Turvakaiteet jumittuneet kiinni
+STR_1802    :Turvakaiteet jumittuneet auki
 STR_1803    :Ovet jumittuneet kiinni
 STR_1804    :Ovet jumittuneet auki
 STR_1805    :Vaunun toimintahäiriö
@@ -2147,39 +2147,39 @@ STR_3008    :{PEARLAQUA}ABC
 STR_3009    :{PALESILVER}ABC
 STR_3010    :Tiedoston lataus ei onnistunut…
 STR_3011    :Tiedosto sisältää virheellistä tietoa
-STR_3012    :Törmäysautojen biittityyli
-STR_3013    :Karusellimusiikkityyli
-STR_3014    :Roomalaisfanfaarityyli
-STR_3015    :Itämainen tyyli
-STR_3016    :Marssilainen tyyli
-STR_3017    :Viidakkorummut-tyyli
-STR_3018    :Egyptiläinen tyyli
-STR_3019    :Lelumaatyyli
+STR_3012    :Törmäysautobiitin tyylinen
+STR_3013    :Karusellimusiikin tyylinen
+STR_3014    :Roomalaisfanfaarin tyylinen
+STR_3015    :Itämaisen tyylinen
+STR_3016    :Marsilaisen tyylinen
+STR_3017    :Viidakkorumputyylinen
+STR_3018    :Egyptiläisen tyylinen
+STR_3019    :Lelumaatyylinen
 STR_3020    :
-STR_3021    :Avaruustyyli
-STR_3022    :Kauhutyyli
-STR_3023    :Teknotyyli
-STR_3024    :Hempeätyyli
-STR_3025    :Kesätyyli
-STR_3026    :Vesityyli
-STR_3027    :Villilänsityyli
-STR_3028    :Jurassinen tyyli
-STR_3029    :Kivityyli
-STR_3030    :Ragtime-tyyli
-STR_3031    :Fantasiatyyli
-STR_3032    :Kivityyli 2
-STR_3033    :Jäätyyli
-STR_3034    :Lumityyli
+STR_3021    :Avaruustyylinen
+STR_3022    :Kauhutyylinen
+STR_3023    :Teknotyylinen
+STR_3024    :Hempeän tyylinen
+STR_3025    :Kesätyylinen
+STR_3026    :Vesityylinen
+STR_3027    :Villin lännen tyylinen
+STR_3028    :Jurassisen tyylinen
+STR_3029    :Rokkityylinen
+STR_3030    :Ragtime-tyylinen
+STR_3031    :Fantasiatyylinen
+STR_3032    :Rokkityylinen 2
+STR_3033    :Jäätyylinen
+STR_3034    :Lumityylinen
 STR_3035    :Mukautettu musiikki 1
 STR_3036    :Mukautettu musiikki 2
-STR_3037    :Keskiaikainen tyyli
-STR_3038    :Kaupunkimainen tyyli
-STR_3039    :Urkutyyli
-STR_3040    :Mekaaninen tyyli
-STR_3041    :Modernityyli
-STR_3042    :Merirosvotyyli
-STR_3043    :Kivityyli 3
-STR_3044    :Karkkityyli
+STR_3037    :Keskiaikaisen tyylinen
+STR_3038    :Kaupunkimaisen tyylinen
+STR_3039    :Urkutyylinen
+STR_3040    :Mekaanisen tyylinen
+STR_3041    :Modernintyylinen
+STR_3042    :Merirosvotyylinen
+STR_3043    :Rokkityylinen 3
+STR_3044    :Karkkityylinen
 STR_3045    :Valitse toistettavan musiikin tyyli
 STR_3047    :Paikallisviranomaiset eivät salli tämän laitteen muuttelua tai romuttamista
 STR_3048    :Paikallisviranomaiset eivät salli markkinointikampanjoita
@@ -2238,7 +2238,7 @@ STR_3116    :Tallenna ratamalli (ei mahdollista ennen kuin laite on testattu ja 
 STR_3117    :{BLACK}Kutsutaan mekaanikkoa…
 STR_3118    :{BLACK}{STRINGID} matkalla laitteelle
 STR_3119    :{BLACK}{STRINGID} korjaa laitetta
-STR_3120    :Paikanna lähin vapaana oleva mekaanikko, tai mekaanikko joka korjaa tätä laitetta
+STR_3120    :Paikanna lähin vapaana oleva mekaanikko, tai mekaanikko, joka korjaa tätä laitetta
 STR_3121    :Mekaanikkoa ei löydy, tai kaikki mekaanikot ovat kiireisiä
 STR_3122    :{WINDOW_COLOUR_2}Suosikkilaite: {BLACK}{COMMA16} kävijälle
 STR_3123    :{WINDOW_COLOUR_2}Suosikkilaite: {BLACK}{COMMA16} kävijälle
@@ -2429,7 +2429,7 @@ STR_3330    :Puiston pitää omistaa edes jonkin verran maata
 STR_3331    :Polku puiston sisäänkäynnistä tason reunalle on joko vaillinainen tai liian monimutkainen; polun tulee olla yhden tiilen levyinen ja mahdollisimman vähän risteyksiä ja käännöksiä
 STR_3332    :Puiston sisäänkäynti on väärin päin, tai siihen ei ole polkua tason reunalta
 STR_3333    :Liitä laajennusesineet tallennustiedostoihin
-STR_3334    :Valitse liitetäänkö tallennuksiin ja skenaariotiedostoihin laajennuksien esineiden lisätiedot (jota ei toimiteta tuotteen mukana), jotta tiedostot voidaan avata myös pelissä jossa ei ole samoja esinetietoja
+STR_3334    :Valitse liitetäänkö tallennuksiin ja skenaariotiedostoihin laajennuksien esineiden lisätiedot (jota ei toimiteta tuotteen mukana), jotta tiedostot voidaan avata myös pelissä, jossa ei ole samoja esinetietoja
 STR_3335    :Vuoristoratamuokkain - Valitse laitteen tyyppi ja vaunu
 STR_3336    :Ratamallien hallinta - Valitse laitteen tyyppi
 STR_3338    :{BLACK}Mukautettu rata
@@ -2467,7 +2467,7 @@ STR_3371    :{BLACK}= Ensiapu
 STR_3372    :{BLACK}= Raha-automaatti
 STR_3373    :{BLACK}= Vessa
 STR_3374    :Varoitus: Liian monta esinettä valittuna!
-STR_3375    :Tämän maisemointiryhmä kaikkia esineitä ei voitu valita
+STR_3375    :Tämän maisemointiryhmän kaikkia esineitä ei voitu valita
 STR_3376    :Asenna uusi ratamalli…
 STR_3377    :Asenna uusi ratamallitiedosto
 STR_3378    :Asenna
@@ -3185,7 +3185,7 @@ STR_5901    :Näytä osien korkeudet
 STR_5902    :Näytä ympäröivät kehikot
 STR_5903    :Näytä piirron virheenkorjausikkuna
 STR_5904    :Nollaa päivä
-STR_5905    :Tasonluonnin työkalu joka luo mukautetun maaston automaattisesti
+STR_5905    :Tasonluonnin työkalu, joka luo mukautetun maaston automaattisesti
 STR_5906    :Lähennä osoitinta kohti
 STR_5907    :Kun päällä, lähennys asettuu hiiren osoitinta kohti, ruudun keskikohdan sijaan.
 STR_5908    :Salli mielivaltaiset laitetyyppivaihdot
@@ -3419,7 +3419,7 @@ STR_6143    :{WINDOW_COLOUR_2}Laitteen tyyppi: {BLACK}{STRINGID}
 STR_6144    :Näytä likaiset grafiikat
 STR_6145    :Aseta nopeusrajoitus tehostimille
 STR_6146    :Ota käyttöön kaikki piirrettävät rataosat
-STR_6147    :Ottaa rakennusikkunassa käyttöön kaikki rataosat joihin laitetyyppi kykenee, riippumatta siitä tukeeko vaunut niitä.
+STR_6147    :Ottaa rakennusikkunassa käyttöön kaikki rataosat joihin laitetyyppi kykenee, riippumatta siitä, tukeeko vaunut niitä.
 STR_6148    :Yhdistää pääpalvelimelle…
 STR_6149    :Pääpalvelimeen yhdistys ei onnistunut
 STR_6150    :Epäkelpo vastaus pääpalvelimelta (ei JSON-numeroa)
@@ -3555,7 +3555,7 @@ STR_6302    :Kopioi koko puuttuvien esineiden lista leikepöydälle.
 STR_6303    :Ladataan esinettä ({COMMA16} / {COMMA16}): [{STRING}]
 STR_6304    :Avaa maisemointivalitsin
 STR_6305    :Monisäikeisyys
-STR_6306    :Kokeellinen asetus jossa piirtoon käytetään useampaa säiettä. Saattaa olla epävakaa.
+STR_6306    :Kokeellinen asetus, jossa piirtoon käytetään useampaa säiettä. Saattaa olla epävakaa.
 STR_6307    :Väriskeema: {BLACK}{STRINGID}
 STR_6308    :{TOPAZ}“{STRINGID}{OUTLINE}{TOPAZ}”{NEWLINE}{STRINGID}
 STR_6309    :Yhdistä uudelleen
@@ -3713,7 +3713,7 @@ STR_DTLS    :Tyhjästä aloittaen, rakenna teemapuisto suuren järven ympärille
 <Diamond Heights>
 STR_SCNR    :Timanttimäki
 STR_PARK    :Timanttimäki
-STR_DTLS    :Timanttimäki on jo menestyksekäs teemapuisto jossa on hyviä laitteita - kehitä puiston arvo kaksinkertaiseksi
+STR_DTLS    :Timanttimäki on jo menestyksekäs teemapuisto, jossa on hyviä laitteita - kehitä puiston arvo kaksinkertaiseksi
 
 <Evergreen Gardens>
 STR_SCNR    :Ikivihreä puutarha
@@ -3733,17 +3733,17 @@ STR_DTLS    :Tämän upouuden huvipuiston pohjana toimii tämä saariryhmä
 <Katie's Dreamland>
 STR_SCNR    :Ullan unelmapuisto
 STR_PARK    :Ullan unelmapuisto
-STR_DTLS    :Pieni huvipuisto jossa on muutama laite ja tilaa laajentaa. Tehtävänäsi on tuplata puiston arvo.
+STR_DTLS    :Pieni huvipuisto, jossa on muutama laite ja tilaa laajentaa. Tehtävänäsi on tuplata puiston arvo.
 
 <Pokey Park>
 STR_SCNR    :Pikkupuisto
 STR_PARK    :Pikkupuisto
-STR_DTLS    :Pieni ja ahdas huvipuisto joka on kattavan laajennuksen tarpeessa
+STR_DTLS    :Pieni ja ahdas huvipuisto, joka on kattavan laajennuksen tarpeessa
 
 <White Water Park>
 STR_SCNR    :Valkokosken puisto
 STR_PARK    :Valkokosken puisto
-STR_DTLS    :Puisto jossa on pari mainiota vesilaitetta kaipaa laajennusta
+STR_DTLS    :Puisto, jossa on pari mainiota vesilaitetta kaipaa laajennusta
 
 <Millennium Mines>
 STR_SCNR    :Kimalluskaivokset
@@ -4006,7 +4006,7 @@ STR_DTLS    :Pari vuoristorataa sisältävä linna on vailla kehitystä isompaan
 <Wacky Warren>
 STR_SCNR    :Temmellystunneli
 STR_PARK    :Temmellystunneli
-STR_DTLS    :Puisto jossa suuri osa poluista ja vuoristoradoista on maan alla
+STR_DTLS    :Puisto, jossa suuri osa poluista ja vuoristoradoista on maan alla
 
 <Grand Glacier>
 STR_SCNR    :Jäätikön jäynät
@@ -4016,7 +4016,7 @@ STR_DTLS    :Jäätiköitä täynnä oleva laakso on sinun huvipuiston kehityst�
 <Crazy Craters>
 STR_SCNR    :Kumma kraateri
 STR_PARK    :Kumma kraateri
-STR_DTLS    :Kaukaisessa maailmassa jossa rahalle ei ole käyttöä, sinun tulee rakentaa huvipuisto joka pitää kävijät tyytyväisenä
+STR_DTLS    :Kaukaisessa maailmassa, jossa rahalle ei ole käyttöä, sinun tulee rakentaa huvipuisto, joka pitää kävijät tyytyväisenä
 
 <Dusty Desert>
 STR_SCNR    :Aava autiomaa
@@ -4041,7 +4041,7 @@ STR_DTLS    :Tässä hienosti maisemoidussa huvipuistossa on jo monia laitteita,
 <Frightmare Hills>
 STR_SCNR    :Painajaispuisto
 STR_PARK    :Painajaispuisto
-STR_DTLS    :Pelottava puisto jossa on valtava vuoristorata keskipisteenä
+STR_DTLS    :Pelottava puisto, jossa on valtava vuoristorata keskipisteenä
 
 <Thunder Rocks>
 STR_SCNR    :Jylinäkalliot
@@ -4066,7 +4066,7 @@ STR_DTLS    :Jäinen maisema on kukoistavan teemapuiston pohjana
 <Southern Sands>
 STR_SCNR    :Etelähietikko
 STR_PARK    :Etelähietikko
-STR_DTLS    :Aavikkopuisto jossa muutama nerokas vuoristorata on kehitettävänäsi
+STR_DTLS    :Aavikkopuisto, jossa muutama nerokas vuoristorata on kehitettävänäsi
 
 <Tiny Towers>
 STR_SCNR    :Lilliputtitorni
@@ -4341,7 +4341,7 @@ STR_DTLS    :Olet perinyt lopetetun timanttikaivoksen, ja löydät arvokkaan tim
 <Africa - Oasis>
 STR_SCNR    :Afrikka - Keidas
 STR_PARK    :Kangastuskivaa
-STR_DTLS    :Aavikosta on löydetty keidas joka olisi loistava paikka huvipuistolle. Kuljetus keitaalle on jo hoidettu.
+STR_DTLS    :Aavikosta on löydetty keidas, joka olisi loistava paikka huvipuistolle. Kuljetus keitaalle on jo hoidettu.
 
 <Africa - Victoria Falls>
 STR_SCNR    :Afrikka - Victorian putoukset
@@ -4391,7 +4391,7 @@ STR_DTLS    :Vanha puisto on päässyt ränsistymään. Saat Euroopan unionilta 
 <N. America - Extreme Hawaiian Island>
 STR_SCNR    :Pohjois-Amerikka - Extreme-havaijilaissaari
 STR_PARK    :Waikikileikki
-STR_DTLS    :Havaijin ihmiset ovat tylsistyneitä surffaukseen, ja haluavat jotain jännittävämpää. Pidä tämä mielessä kun rakennat puistoa joka ylläpitää alueen turistiluokitusta.
+STR_DTLS    :Havaijin ihmiset ovat tylsistyneitä surffaukseen, ja haluavat jotain jännittävämpää. Pidä tämä mielessä kun rakennat puistoa, joka ylläpitää alueen turistiluokitusta.
 
 <North America - Grand Canyon>
 STR_SCNR    :Pohjois-Amerikka - Grand Canyon
@@ -4406,7 +4406,7 @@ STR_DTLS    :Olet menestyksekäs liikemies sapattivapaalla, ja haluat käyttää
 <South America - Inca Lost City>
 STR_SCNR    :Etelä-Amerikka - Inkojen kadonnut kaupunki
 STR_PARK    :Kadonnut kaupunki
-STR_DTLS    :Edistääksesi paikallista turismia, sinun tulee rakentaa puisto joka on ympäristönsä kaltainen, vaikka korkeusrajoitukset ovatkin voimassa.
+STR_DTLS    :Edistääksesi paikallista turismia, sinun tulee rakentaa puisto, joka on ympäristönsä kaltainen, vaikka korkeusrajoitukset ovatkin voimassa.
 
 <South America - Rain Forest Plateau>
 STR_SCNR    :Etelä-Amerikka - Sademetsän tasanko
@@ -4439,7 +4439,7 @@ STR_DTLS    :Kaukaisella planeetalla on sittenkin elämää! Rakenna avaruusolio
 <Future - Future World>
 STR_SCNR    :Tulevaisuus - Tulevaisuuden maailma
 STR_PARK    :Kaksoskaupunki
-STR_DTLS    :Näytä kekseliäs utooppinen tulevaisuuden mielikuvasi - luo futuristinen puisto jossa on kaikki huipputekniset laitteet.
+STR_DTLS    :Näytä kekseliäs utooppinen tulevaisuuden mielikuvasi - luo futuristinen puisto, jossa on kaikki huipputekniset laitteet.
 
 <Mythological - Animatronic Film Set>
 STR_SCNR    :Mytologia - Animatroninen filmistudio
@@ -4489,7 +4489,7 @@ STR_DTLS    :Suuri vuosittainen musiikkifestivaali järjestetään maillasi. Rak
 <Rock 'n' Roll - Rock 'n' Roll>
 STR_SCNR    :Rock ‘n’ Roll - Rock ‘n’ Roll
 STR_PARK    :Rock ‘n’ Roll Revival
-STR_DTLS    :Tämä vanha huvipuisto on nähnyt parempia päiviä. Auta sen omistajaa antamalla sille retron rock ‘n’ roll -muodonmuutoksen joka tekee puistosta menestyksekkään viihdekeskuksen.
+STR_DTLS    :Tämä vanha huvipuisto on nähnyt parempia päiviä. Auta sen omistajaa antamalla sille retron rock ‘n’ roll -muodonmuutoksen, joka tekee puistosta menestyksekkään viihdekeskuksen.
 
 ###############################################################################
 ## Official Custom Content Scenarios
