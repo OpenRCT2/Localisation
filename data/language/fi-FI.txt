@@ -216,18 +216,18 @@ STR_0806    :28.
 STR_0807    :29.
 STR_0808    :30.
 STR_0809    :31.
-STR_0810    :tammi
-STR_0811    :helmi
-STR_0812    :maalis
-STR_0813    :huhti
-STR_0814    :touko
-STR_0815    :kesä
-STR_0816    :heinä
+STR_0810    :tam
+STR_0811    :hel
+STR_0812    :maa
+STR_0813    :huh
+STR_0814    :tou
+STR_0815    :kes
+STR_0816    :hei
 STR_0817    :elo
-STR_0818    :syys
-STR_0819    :loka
-STR_0820    :marras
-STR_0821    :joulu
+STR_0818    :syy
+STR_0819    :lok
+STR_0820    :mar
+STR_0821    :jou
 STR_0822    :Grafiikkadatatiedostoa ei voi avata
 STR_0823    :Puuttuva tai käyttökelvoton datatiedosto
 STR_0824    :{BLACK}❌
@@ -793,7 +793,7 @@ STR_1402    :Sijoita tai siirrä laitteen/kohteen sisäänkäynti
 STR_1403    :Sijoita tai siirrä laitteen/kohteen uloskäynti
 STR_1404    :Käännä 90°
 STR_1405    :Peilaa rata
-STR_1406    :Vaihda maisema päälle/pois (vain jos saatavilla tälle suunnitelmalle)
+STR_1406    :Vaihda maisemonti päälle/pois (vain jos saatavilla tälle ratamallille)
 STR_1407    :{WINDOW_COLOUR_2}Rakenna tämä…
 STR_1408    :{WINDOW_COLOUR_2}Kustannus: {BLACK}{CURRENCY}
 STR_1409    :Sisään-/uloskäyntitasanne
@@ -1123,18 +1123,18 @@ STR_1733    :Tila
 STR_1734    :{WINDOW_COLOUR_2}Kierrosten määrä:
 STR_1735    :Kierrosten määrä radalla
 STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1738    :Kierrosten määrää ei voitu muuttaa…
+STR_1738    :Kierrosten määrää ei voi muuttaa…
 STR_1739    :Kisan voitti kävijä {INT32}
 STR_1740    :Kisan voitti {STRINGID}
 STR_1741    :Ei ole vielä rakennettu!
 STR_1742    :{WINDOW_COLOUR_2}Maks. kävijämäärä:
 STR_1743    :Laitteen suurin sallittu kävijämäärä yhdellä kertaa
 STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1746    :Tätä ei voitu muuttaa…
+STR_1746    :Tätä ei voi muuttaa…
 STR_1747    :{WINDOW_COLOUR_2}Aikarajoitus:
 STR_1748    :Laitteen aikarajoitus
 STR_1749    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{DURATION}
-STR_1751    :Laitteen aikarajoitusta ei voitu muuttaa…
+STR_1751    :Laitteen aikarajoitusta ei voi muuttaa…
 STR_1752    :Näytä puiston yksittäiset kävijät
 STR_1753    :Näytä puiston kävijät yhteenvetona
 STR_1754    :{BLACK}{COMMA32} kävijää
@@ -1151,7 +1151,7 @@ STR_1764    :Tukkiosio
 STR_1765    :Valokuvaosio
 STR_1766    :Pyörähdysosio
 STR_1767    :Pyörivä tunneli
-STR_1768    :Heilahdusten määrää ei voitu muuttaa…
+STR_1768    :Heilahdusten määrää ei voi muuttaa…
 STR_1769    :{WINDOW_COLOUR_2}Heilahdusten määrä:
 STR_1770    :Kokonaisten heilahdusten määrä
 STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
@@ -1611,7 +1611,7 @@ STR_2246    :marraskuu
 STR_2247    :joulukuu
 STR_2248    :Laitetta/kohdetta ei voi romuttaa…
 STR_2249    :{BABYBLUE}Uusi laite/kohde saatavilla:{NEWLINE}{STRINGID}
-STR_2250    :{BABYBLUE}Uusi maisema/teemaus saatavilla:{NEWLINE}{STRINGID}
+STR_2250    :{BABYBLUE}Uusi maisemointi/teemaus saatavilla:{NEWLINE}{STRINGID}
 STR_2251    :Voidaan rakentaa ainoastaan poluille!
 STR_2252    :Voidaan rakentaa ainoastaan polun poikki!
 STR_2253    :Kulkuvälineet
@@ -1667,7 +1667,7 @@ STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kulutettu {BLACK}{COMMA16} ma
 STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kulutettu {BLACK}{COMMA16} matkamuistoon
 STR_2305    :Ratamallitiedostot
 STR_2306    :Tallenna ratamalli
-STR_2307    :Valitse {STRINGID} suunnitelma
+STR_2307    :Valitse malli laitteelle {STRINGID}
 STR_2308    :{STRINGID} Ratamallit
 STR_2309    :Asenna uusi ratamalli
 STR_2310    :Rakenna oma rata
@@ -1763,9 +1763,9 @@ STR_2405    :Rakenna 10 vuoristorataa tietyssä ajassa
 STR_2406    :Rakenna valmiiksi 5 vuoristorataa
 STR_2407    :Maksa laina pois ja saavuta tietty puiston arvo
 STR_2408    :Kuukausitulo ruoasta/kauppatavaroista
-STR_2409    :{WINDOW_COLOUR_2}Markkinointikampanjoja käynnissä
+STR_2409    :{WINDOW_COLOUR_2}Käynnissä olevat markkinointikampanjat
 STR_2410    :{BLACK}Ei mitään
-STR_2411    :{WINDOW_COLOUR_2}Markkinointikampanjoja saatavilla
+STR_2411    :{WINDOW_COLOUR_2}Saatavilla olevat markkinointikampanjat
 STR_2412    :Aloita tämä markkinointikampanja
 STR_2413    :{BLACK}({CURRENCY2DP} viikossa)
 STR_2414    :(Ei valittu)
@@ -1847,7 +1847,7 @@ STR_2501    :Maanalainen näkymä -kytkin
 STR_2502    :Poista peruskallio -kytkin
 STR_2503    :Poista pystysuorat pinnat -kytkin
 STR_2504    :Näe laitteiden läpi -kytkin
-STR_2505    :Näe maiseman läpi -kytkin
+STR_2505    :Näe maisemoinnin läpi -kytkin
 STR_2506    :Näkymättömät tukirakenteet -kytkin
 STR_2507    :Näkymättömät kävijät -kytkin
 STR_2508    :Korkeusmerkinnät maanpinnassa -kytkin
@@ -1855,7 +1855,7 @@ STR_2509    :Korkeusmerkinnät radoissa -kytkin
 STR_2510    :Korkeusmerkinnät poluissa -kytkin
 STR_2511    :Säädä maata
 STR_2512    :Säädä vettä
-STR_2513    :Rakenna maisemaa
+STR_2513    :Rakenna maisemointeja
 STR_2514    :Rakenna polkuja
 STR_2515    :Rakenna uusi laite
 STR_2516    :Näytä taloustiedot
@@ -2059,7 +2059,7 @@ STR_2852    :Ratamalli on jo asennettu
 STR_2853    :Paikallisviranomaiset eivät salli!
 STR_2854    :{RED}Kävijät eivät pääse laitteen {STRINGID} sisäänkäynnille!{NEWLINE}Rakenna polku sisäänkäynnille
 STR_2855    :{RED}Laitteen {STRINGID} uloskäynnistä ei lähde polkua!{NEWLINE}Rakenna polku uloskäynniltä
-STR_2858    :Markkinointikampanjaa ei voitu aloittaa…
+STR_2858    :Markkinointikampanjaa ei voi aloittaa…
 STR_2861    :{WINDOW_COLOUR_2}Lisensoinut Infogrames Interactive Inc.
 STR_2862    :Musiikin lähdemaininnat…
 STR_2863    :Musiikin lähdemaininnat
@@ -2247,7 +2247,7 @@ STR_3125    :{WINDOW_COLOUR_2}Huvituskerroin: {BLACK}+{COMMA16}%
 STR_3126    :{WINDOW_COLOUR_2}Jännityskerroin: {BLACK}+{COMMA16}%
 STR_3127    :{WINDOW_COLOUR_2}Pahoinvointikerroin: {BLACK}+{COMMA16}%
 STR_3128    :Tallenna ratamalli
-STR_3129    :Tallenna ratamalli maiseman kanssa
+STR_3129    :Tallenna ratamalli maisemoinnin kanssa
 STR_3130    :Tallenna
 STR_3131    :Peruuta
 STR_3132    :{BLACK}Klikkaa maisemointiesineitä valitaksesi ne ratamallin mukana tallennukseen…
@@ -2290,7 +2290,7 @@ STR_3187    :Seinät/Aidat
 STR_3188    :Polkukyltit
 STR_3189    :Polut
 STR_3190    :Polkulisäosat
-STR_3191    :Maisemaryhmät
+STR_3191    :Maisemointiryhmät
 STR_3192    :Puiston sisäänkäynti
 STR_3193    :Vesi
 STR_3195    :Kehityslista
@@ -2467,7 +2467,7 @@ STR_3371    :{BLACK}= Ensiapu
 STR_3372    :{BLACK}= Raha-automaatti
 STR_3373    :{BLACK}= Vessa
 STR_3374    :Varoitus: Liian monta esinettä valittuna!
-STR_3375    :Tämän maisemointiryhmän kaikkia esineitä ei voitu valita
+STR_3375    :Tämän maisemointiryhmän kaikkia esineitä ei voi valita
 STR_3376    :Asenna uusi ratamalli…
 STR_3377    :Asenna uusi ratamallitiedosto
 STR_3378    :Asenna
@@ -3310,7 +3310,7 @@ STR_6026    :Rakennus - Edellinen rata
 STR_6027    :Rakennus - Seuraava rata
 STR_6028    :Rakennus - Rakenna nykyinen
 STR_6029    :Rakennus - Romuta nykyinen
-STR_6030    :Maisemointivalitsin. Klikkaa mitä tahansa maisemaesinettä tasolla valitaksesi saman osan rakennettavaksi.
+STR_6030    :Maisemointivalitsin. Klikkaa mitä tahansa maisemointiesinettä tasolla valitaksesi saman osan rakennettavaksi.
 STR_6031    :Palvelimen kuvaus:
 STR_6032    :Tervehdys:
 STR_6033    :RCT1-asennuksen polku:
@@ -3400,7 +3400,7 @@ STR_6124    :Esineen nimi
 STR_6125    :Esineen tyyppi
 STR_6126    :Tuntematon tyyppi
 STR_6127    :Tiedosto: {STRING}
-STR_6128    :Tiedostoa ei voitu ladata, koska jotkut sen tarvitsemat esineet ovat kateissa tai vioittuneita. Lista näistä esineistä alla.
+STR_6128    :Tiedostoa ei voi ladata, koska jotkut sen tarvitsemat esineet ovat kateissa tai vioittuneita. Lista näistä esineistä alla.
 STR_6129    :Kopioi
 STR_6130    :Kopioi kaikki
 STR_6131    :Esineen lähde
