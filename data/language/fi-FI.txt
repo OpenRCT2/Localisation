@@ -608,7 +608,7 @@ STR_1219    :{BLACK}-
 STR_1220    :Vain uloskäynti
 STR_1221    :Ei sisäänkäyntiä
 STR_1222    :Ei uloskäyntiä
-STR_1223    :Kuljetuslaitteet
+STR_1223    :Kulkuvälineet
 STR_1224    :Lempeät laitteet
 STR_1225    :Vuoristoradat
 STR_1226    :Jännittävät radat
@@ -873,7 +873,7 @@ STR_1482    :“Voin pahoin”
 STR_1483    :“Voin erittäin pahoin”
 STR_1484    :“Tahdon mennä johonkin jännittävämpään kuin {STRINGID}”
 STR_1485    :“{STRINGID} näyttää liian hurjalta minulle”
-STR_1486    :“En ole syönyt/juonut {STRINGID} loppuun vielä”
+STR_1486    :“En ole nauttinut {STRINGID} loppuun vielä”
 STR_1487    :“Pelkästään laitteen {STRINGID} katsominen saa minut voimaan pahoin”
 STR_1488    :“En aio maksaa noin paljon laitteesta {STRINGID}”
 STR_1489    :“Haluan kotiin”
@@ -912,7 +912,7 @@ STR_1521    :“Tämä kuva laitteesta {STRINGID} on todella reilun hintainen”
 STR_1522    :“Tämä sateenvarjo kojusta {STRINGID} on todella reilun hintainen”
 STR_1523    :“Tämä juoma kojusta {STRINGID} on todella reilun hintainen”
 STR_1524    :“Tämä hampurilainen kojusta {STRINGID} on todella reilun hintainen”
-STR_1525    :“Nämä ranskalaiset kojusta {STRINGID} on todella reilun hintainen”
+STR_1525    :“Nämä ranskalaiset kojusta {STRINGID} ovat todella reilun hintaisia”
 STR_1526    :“Tämä jäätelö kojusta {STRINGID} on todella reilun hintainen”
 STR_1527    :“Tämä hattara kojusta {STRINGID} on todella reilun hintainen”
 STR_1528    :
@@ -930,7 +930,7 @@ STR_1539    :“Tämä donitsi kojusta {STRINGID} on todella reilun hintainen”
 STR_1540    :“Tämä kahvi kojusta {STRINGID} on todella reilun hintainen”
 STR_1541    :
 STR_1542    :“Tämä paistettu kana kojusta {STRINGID} on todella reilun hintainen”
-STR_1543    :“Tämä limsa {STRINGID} on todella reilun hintainen”
+STR_1543    :“Tämä limsa kojusta {STRINGID} on todella reilun hintainen”
 STR_1544    :
 STR_1545    :
 STR_1546    :
@@ -979,8 +979,8 @@ STR_1588    :“Tämä kaakao kojusta {STRINGID} on todella reilun hintainen”
 STR_1589    :“Tämä jäätee kojusta {STRINGID} on todella reilun hintainen”
 STR_1590    :“Tämä tippaleipä kojusta {STRINGID} on todella reilun hintainen”
 STR_1591    :“TNämä aurinkolasit kojusta {STRINGID} on todella reilun hintainen”
-STR_1592    :“Nämä häränlihanuudelit kojusta {STRINGID} on todella reilun hintainen”
-STR_1593    :“Nämä paistetut riisinuudelit kojusta {STRINGID} on todella reilun hintainen”
+STR_1592    :“Nämä häränlihanuudelit kojusta {STRINGID} ovat todella reilun hintaisia”
+STR_1593    :“Nämä paistetut riisinuudelit kojusta {STRINGID} ovat todella reilun hintaisia”
 STR_1594    :“Tämä wontonkeitto kojusta {STRINGID} on todella reilun hintainen”
 STR_1595    :“Tämä lihapullakeitto kojusta {STRINGID} on todella reilun hintainen”
 STR_1596    :“Tämä hedelmämehu kojusta {STRINGID} on todella reilun hintainen”
@@ -1011,8 +1011,8 @@ STR_1620    :“En maksa noin paljon kaakaosta kojussa {STRINGID}”
 STR_1621    :“En maksa noin paljon jääteestä kojussa {STRINGID}”
 STR_1622    :“En maksa noin paljon tippaleivästä kojussa {STRINGID}”
 STR_1623    :“En maksa noin paljon aurinkolaseista kojussa {STRINGID}”
-STR_1624    :“En maksa noin paljon härkänuudeleista kojussa {STRINGID}”
-STR_1625    :“En maksa noin paljon paistetusta riisinuudeleista kojussa {STRINGID}”
+STR_1624    :“En maksa noin paljon häränlihanuudeleista kojussa {STRINGID}”
+STR_1625    :“En maksa noin paljon paistetuista riisinuudeleista kojussa {STRINGID}”
 STR_1626    :“En maksa noin paljon wontonkeitosta kojussa {STRINGID}”
 STR_1627    :“En maksa noin paljon lihapullakeitosta kojussa {STRINGID}”
 STR_1628    :“En maksa noin paljon hedelmämehusta kojussa {STRINGID}”
@@ -1200,8 +1200,8 @@ STR_1817    :({COMMA32})
 STR_1818    :{WINDOW_COLOUR_2}Kaikki kävijät
 STR_1819    :{WINDOW_COLOUR_2}Kaikki kävijät (yhteenvetona)
 STR_1820    :{WINDOW_COLOUR_2}Kävijät {STRINGID}
-STR_1821    :{WINDOW_COLOUR_2}Kävijät ajattelevat {SMALLFONT}{STRINGID}
-STR_1822    :{WINDOW_COLOUR_2}Kävijät ajattelevat {POP16}{STRINGID}
+STR_1821    :{WINDOW_COLOUR_2}Kävijät, jotka ajattelevat {SMALLFONT}{STRINGID}
+STR_1822    :{WINDOW_COLOUR_2}Kävijöiden ajatukset kohteesta {POP16}{STRINGID}
 STR_1823    :Näytä kävijöiden ajatukset tästä laitteesta/kohteesta
 STR_1824    :Näytä kävijät tässä laitteessa/kohteessa
 STR_1825    :Näytä tähän laitteeseen/kohteesen jonottavat kävijät
@@ -1257,10 +1257,10 @@ STR_1875    :{BLACK} {SPRITE}{BLACK} {STRINGID}
 STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Tarkasta laitteet
 STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Korjaa laitteet
 STR_1878    :{WINDOW_COLOUR_2}Tarkastus:
-STR_1879    :10 min välein
-STR_1880    :20 min välein
-STR_1881    :30 min välein
-STR_1882    :45 min välein
+STR_1879    :10 minuutin välein
+STR_1880    :20 minuutin välein
+STR_1881    :30 minuutin välein
+STR_1882    :45 minuutin välein
 STR_1883    :Tunnin välein
 STR_1884    :2 tunnin välein
 STR_1885    :Ei koskaan
@@ -1281,10 +1281,10 @@ STR_1899    :{WINDOW_COLOUR_2}Maanhankinnat
 STR_1900    :{WINDOW_COLOUR_2}Maisemointi
 STR_1901    :{WINDOW_COLOUR_2}Sisäänpääsyliput
 STR_1902    :{WINDOW_COLOUR_2}Liput laitteisiin
-STR_1903    :{WINDOW_COLOUR_2}Kojujen myynnit
-STR_1904    :{WINDOW_COLOUR_2}Kauppojen varasto
+STR_1903    :{WINDOW_COLOUR_2}Tavaramyynnit
+STR_1904    :{WINDOW_COLOUR_2}Tavarakulut
 STR_1905    :{WINDOW_COLOUR_2}Ruoka-/juomamyynnit
-STR_1906    :{WINDOW_COLOUR_2}Ruoka-/juomavarasto
+STR_1906    :{WINDOW_COLOUR_2}Ruoka-/juomakulut
 STR_1907    :{WINDOW_COLOUR_2}Henkilöstön palkat
 STR_1908    :{WINDOW_COLOUR_2}Markkinointi
 STR_1909    :{WINDOW_COLOUR_2}Kehitys
@@ -1343,7 +1343,7 @@ STR_1963    :{WINDOW_COLOUR_2}Valokuvan hinta:
 STR_1964    :{WINDOW_COLOUR_2}Sateenvarjon hinta:
 STR_1965    :{WINDOW_COLOUR_2}Juoman hinta:
 STR_1966    :{WINDOW_COLOUR_2}Hampurilaisen hinta:
-STR_1967    :{WINDOW_COLOUR_2}Sipsien hinta:
+STR_1967    :{WINDOW_COLOUR_2}Ranskalaisten hinta:
 STR_1968    :{WINDOW_COLOUR_2}Jäätelön hinta:
 STR_1969    :{WINDOW_COLOUR_2}Hattaran hinta:
 STR_1970    :{WINDOW_COLOUR_2}
@@ -1352,7 +1352,7 @@ STR_1972    :{WINDOW_COLOUR_2}
 STR_1973    :{WINDOW_COLOUR_2}Pizzan hinta:
 STR_1974    :{WINDOW_COLOUR_2}
 STR_1975    :{WINDOW_COLOUR_2}Popcornin hinta:
-STR_1976    :{WINDOW_COLOUR_2}Hot Dogin hinta:
+STR_1976    :{WINDOW_COLOUR_2}Nakkisämpylän hinta:
 STR_1977    :{WINDOW_COLOUR_2}Lonkeron hinta:
 STR_1978    :{WINDOW_COLOUR_2}Hatun hinta:
 STR_1979    :{WINDOW_COLOUR_2}Toffeeomenan hinta:
@@ -1364,34 +1364,34 @@ STR_1984    :{WINDOW_COLOUR_2}Paistetun kanan hinta:
 STR_1985    :{WINDOW_COLOUR_2}Limsan hinta:
 STR_1986    :{WINDOW_COLOUR_2}
 STR_1987    :{WINDOW_COLOUR_2}
-STR_1988    :Ilmapallo
-STR_1989    :Pehmolelu
-STR_1990    :Puiston kartta
-STR_1991    :Valokuva
-STR_1992    :Sateenvarjo
-STR_1993    :Juoma
-STR_1994    :Hampurilainen
-STR_1995    :Sipsit
-STR_1996    :Jäätelö
-STR_1997    :Hattara
-STR_1998    :Tyhjä tölkki
-STR_1999    :Roska
-STR_2000    :Tyhjä hampurilaisrasia
-STR_2001    :Pizza
-STR_2002    :Kuponki
-STR_2003    :Popcorn
-STR_2004    :Hot dog
-STR_2005    :Lonkero
-STR_2006    :Hattu
-STR_2007    :Toffeeomena
-STR_2008    :T-paita
-STR_2009    :Donitsi
-STR_2010    :Kahvi
-STR_2011    :Tyhjä kuppi
-STR_2012    :Paistettu kana
-STR_2013    :Limsa
-STR_2014    :Tyhjä rasia
-STR_2015    :Tyhjä pullo
+STR_1988    :ilmapalloani
+STR_1989    :pehmoleluani
+STR_1990    :puiston karttaani
+STR_1991    :valokuvaani
+STR_1992    :sateenvarjoani
+STR_1993    :juomaani
+STR_1994    :hampurilaistani
+STR_1995    :ranskalaisiani
+STR_1996    :jäätelöäni
+STR_1997    :hattaraani
+STR_1998    :tyhjää tölkkiäni
+STR_1999    :roskaani
+STR_2000    :tyhjää hampurilaisrasiaani
+STR_2001    :pizzaani
+STR_2002    :kuponkiani
+STR_2003    :popcorniani
+STR_2004    :nakkisämpylääni
+STR_2005    :lonkeroani
+STR_2006    :hattuani
+STR_2007    :toffeeomenaani
+STR_2008    :t-paitaani
+STR_2009    :donitsiani
+STR_2010    :kahviani
+STR_2011    :tyhjää kuppiani
+STR_2012    :paistettua kanaani
+STR_2013    :limsaani
+STR_2014    :tyhjää rasiaani
+STR_2015    :tyhjää pulloani
 STR_2016    :Ilmapalloja
 STR_2017    :Pehmoleluja
 STR_2018    :Puistokarttoja
@@ -1399,55 +1399,55 @@ STR_2019    :Valokuvia
 STR_2020    :Sateenvarjoja
 STR_2021    :Juomia
 STR_2022    :Hampurilaisia
-STR_2023    :Sipsejä
-STR_2024    :Jäätelöä
-STR_2025    :Hattara
+STR_2023    :Ranskalaisia
+STR_2024    :Jäätelöitä
+STR_2025    :Hattaroita
 STR_2026    :Tyhjiä tölkkejä
 STR_2027    :Roska
 STR_2028    :Tyhjiä hampurilaisrasioita
 STR_2029    :Pizzoja
 STR_2030    :Kuponkeja
 STR_2031    :Popcornia
-STR_2032    :Hot dogeja
+STR_2032    :Nakkisämpylöitä
 STR_2033    :Lonkeroita
 STR_2034    :Hattuja
 STR_2035    :Toffeeomenoita
 STR_2036    :T-paitoja
 STR_2037    :Donitseja
-STR_2038    :Kahvia
+STR_2038    :Kahveja
 STR_2039    :Tyhjiä tölkkejä
-STR_2040    :Paistettu kana
-STR_2041    :Limsa
+STR_2040    :Paistettuja kanoja
+STR_2041    :Limsoja
 STR_2042    :Tyhjiä rasiota
 STR_2043    :Tyhjiä pulloja
-STR_2044    :Ilmapallo
-STR_2045    :Pehmolelu
-STR_2046    :Puiston kartta
-STR_2047    :Valokuva
-STR_2048    :Sateenvarjo
-STR_2049    :Juoma
-STR_2050    :Hampurilainen
-STR_2051    :Sipsejä
-STR_2052    :Jäätelö
-STR_2053    :Hattaraa
-STR_2054    :Tyhjä tölkki
-STR_2055    :Roskaa
-STR_2056    :Tyhjä hampurilaisrasia
-STR_2057    :Pizza
-STR_2058    :Kuponki
-STR_2059    :Popcornia
-STR_2060    :Hot Dog
-STR_2061    :Lonkero
-STR_2062    :Hattu
-STR_2063    :Toffeeomena
-STR_2064    :T-paita
-STR_2065    :Donitsi
-STR_2066    :Kahvi
-STR_2067    :Tyhjä tölkki
-STR_2068    :Paistettua kanaa
-STR_2069    :Limsaa
-STR_2070    :Tyhjä rasia
-STR_2071    :Tyhjä pullo
+STR_2044    :ilmapallo
+STR_2045    :pehmolelu
+STR_2046    :puiston kartta
+STR_2047    :valokuva
+STR_2048    :sateenvarjo
+STR_2049    :juoma
+STR_2050    :hampurilainen
+STR_2051    :ranskalaiset
+STR_2052    :jäätelö
+STR_2053    :hattara
+STR_2054    :tyhjä tölkki
+STR_2055    :roskaa
+STR_2056    :tyhjä hampurilaisrasia
+STR_2057    :pizza
+STR_2058    :kuponki
+STR_2059    :popcorn
+STR_2060    :nakkisämpylä
+STR_2061    :lonkero
+STR_2062    :hattu
+STR_2063    :toffeeomena
+STR_2064    :t-paita
+STR_2065    :donitsi
+STR_2066    :kahvi
+STR_2067    :tyhjä tölkki
+STR_2068    :paistettua kanaa
+STR_2069    :limsa
+STR_2070    :tyhjä rasia
+STR_2071    :tyhjä pullo
 STR_2072    :“{STRINGID}” -ilmapallo
 STR_2073    :“{STRINGID}” -pehmolelu
 STR_2074    :{STRINGID}:n kartta
@@ -1455,7 +1455,7 @@ STR_2075    :Kuva {STRINGID}:sta
 STR_2076    :“{STRINGID}” -sateenvarjo
 STR_2077    :Juoma
 STR_2078    :Hampurilainen
-STR_2079    :Sipsejä
+STR_2079    :Ranskalaiset
 STR_2080    :Jäätelö
 STR_2081    :Hattara
 STR_2082    :Tyhjä tölkki
@@ -1464,7 +1464,7 @@ STR_2084    :Tyhjä hampurilaisrasia
 STR_2085    :Pizza
 STR_2086    :{STRINGID} -kuponki
 STR_2087    :Popcorn
-STR_2088    :Hot dog
+STR_2088    :Nakkisämpylä
 STR_2089    :Lonkero
 STR_2090    :“{STRINGID}” -hattu
 STR_2091    :Toffeeomena
@@ -1481,8 +1481,8 @@ STR_2104    :{WINDOW_COLOUR_2}Kaakaon hinta:
 STR_2105    :{WINDOW_COLOUR_2}Jääteen hinta:
 STR_2106    :{WINDOW_COLOUR_2}Tippaleivän hinta:
 STR_2107    :{WINDOW_COLOUR_2}Aurinkolasien hinta:
-STR_2108    :{WINDOW_COLOUR_2}Häränlihanuudelien hinta:
-STR_2109    :{WINDOW_COLOUR_2}Paistettu riisinuudelien hinta:
+STR_2108    :{WINDOW_COLOUR_2}Nuudelien hinta:
+STR_2109    :{WINDOW_COLOUR_2}Riisinuudelien hinta:
 STR_2110    :{WINDOW_COLOUR_2}Wontonkeiton hinta:
 STR_2111    :{WINDOW_COLOUR_2}Lihapullakeiton hinta:
 STR_2112    :{WINDOW_COLOUR_2}Hedelmämehun hinta:
@@ -1495,70 +1495,70 @@ STR_2118    :{WINDOW_COLOUR_2}
 STR_2119    :{WINDOW_COLOUR_2}
 STR_2120    :{WINDOW_COLOUR_2}Grillimakkaran hinta:
 STR_2121    :{WINDOW_COLOUR_2}
-STR_2125    :Rinkeli
-STR_2126    :Kaakao
-STR_2127    :Jäätee
-STR_2128    :Tippaleipä
-STR_2129    :Aurinkolasit
-STR_2130    :Häränlihanuudelit
-STR_2131    :Paistettu riisinuudelit
-STR_2132    :Wontonkeitto
-STR_2133    :Lihapullakeitto
-STR_2134    :Hedelmämehu
-STR_2135    :Soijapapumaito
-STR_2136    :Sujongkwa
-STR_2137    :Patonki
-STR_2138    :Pipari
-STR_2139    :Tyhjä kulho
-STR_2140    :Tyhjä juomatölkki
-STR_2141    :Tyhjä mehukuppi
-STR_2142    :Grillimakkara
-STR_2143    :Tyhjä kulho
-STR_2147    :Rinkelit
-STR_2148    :Kaakaot
-STR_2149    :Jääteet
-STR_2150    :Tippaleivät
-STR_2151    :Aurinkolasit
-STR_2152    :Häränlihanuudelit
-STR_2153    :Paistettu riisinuudelit
-STR_2154    :Wontonkeitot
-STR_2155    :Lihapullokeitot
-STR_2156    :Hedelmämehut
-STR_2157    :Soijapapumaidot
-STR_2158    :Sujongkwa
-STR_2159    :Patongit
-STR_2160    :Piparit
+STR_2125    :rinkeliäni
+STR_2126    :kaakaotani
+STR_2127    :jääteetäni
+STR_2128    :tippaleipääni
+STR_2129    :aurinkolasejani
+STR_2130    :häränlihanuudeleitani
+STR_2131    :paistettuja riisinuudeleitani
+STR_2132    :wontonkeittoani
+STR_2133    :lihapullakeittoani
+STR_2134    :hedelmämehuani
+STR_2135    :soijapapumaitoani
+STR_2136    :sujongkwaani
+STR_2137    :patonkiani
+STR_2138    :pipariani
+STR_2139    :tyhjää kulhoani
+STR_2140    :tyhjää juomatölkkiäni
+STR_2141    :tyhjää mehukuppiani
+STR_2142    :grillimakkaraani
+STR_2143    :tyhjää kulhoani
+STR_2147    :Rinkeleitä
+STR_2148    :Kaakaoita
+STR_2149    :Jääteitä
+STR_2150    :Tippaleipiä
+STR_2151    :Aurinkolaseja
+STR_2152    :Häränlihanuudeleita
+STR_2153    :Paistettuja riisinuudeleita
+STR_2154    :Wontonkeittoja
+STR_2155    :Lihapullakeittoja
+STR_2156    :Hedelmämehuja
+STR_2157    :Soijapapumaitoja
+STR_2158    :Sujongkwoita
+STR_2159    :Patonkeja
+STR_2160    :Pipareita
 STR_2161    :Tyhjiä kulhoja
 STR_2162    :Tyhjiä juomatölkkejä
 STR_2163    :Tyhjiä mehukuppeja
-STR_2164    :Grillimakkarat
+STR_2164    :Grillimakkaroita
 STR_2165    :Tyhjiä kulhoja
-STR_2169    :Rinkeli
-STR_2170    :Kaakao
-STR_2171    :Jäätee
-STR_2172    :Tippaleipä
-STR_2173    :Aurinkolasipari
-STR_2174    :Häränlihanuudeleita
-STR_2175    :Paistettuja riisinuudeleita
-STR_2176    :Wontonkeittoa
-STR_2177    :Lihapullakeittoa
-STR_2178    :Hedelmämehua
-STR_2179    :Soijapapumaitoa
-STR_2180    :Sujongkwaa
-STR_2181    :Patonki
-STR_2182    :Pipari
-STR_2183    :Tyhjä kulho
-STR_2184    :Tyhjä juomatölkki
-STR_2185    :Tyhjä mehukuppi
-STR_2186    :Grillimakkara
-STR_2187    :Tyhjä kulho
+STR_2169    :rinkeli
+STR_2170    :kaakao
+STR_2171    :jäätee
+STR_2172    :tippaleipä
+STR_2173    :aurinkolasit
+STR_2174    :häränlihanuudeleita
+STR_2175    :paistettuja riisinuudeleita
+STR_2176    :wontonkeittoa
+STR_2177    :lihapullakeittoa
+STR_2178    :hedelmämehu
+STR_2179    :soijapapumaitoa
+STR_2180    :sujongkwaa
+STR_2181    :patonki
+STR_2182    :pipari
+STR_2183    :tyhjä kulho
+STR_2184    :tyhjä juomatölkki
+STR_2185    :tyhjä mehukuppi
+STR_2186    :grillimakkara
+STR_2187    :tyhjä kulho
 STR_2191    :Rinkeli
 STR_2192    :Kaakao
 STR_2193    :Jäätee
 STR_2194    :Tippaleipä
 STR_2195    :Aurinkolasit
 STR_2196    :Häränlihanuudelit
-STR_2197    :Paistettuja riisinuudeleita
+STR_2197    :Paistetut riisinuudelit
 STR_2198    :Wontonkeitto
 STR_2199    :Lihapullakeitto
 STR_2200    :Hedelmämehu
@@ -1627,7 +1627,7 @@ STR_2262    :Normaali rahoitus
 STR_2263    :Täysrahoitus
 STR_2264    :Kehityksen rahoitus
 STR_2265    :{WINDOW_COLOUR_2}Kustannus: {BLACK}{CURRENCY} kuukaudessa
-STR_2266    :Kehityksen tärkeysjärjestykset
+STR_2266    :Kehityksen alueet
 STR_2267    :Paraikaa suunnitteilla
 STR_2268    :Viimeisin kehitys
 STR_2269    :{WINDOW_COLOUR_2}Tyyppi: {BLACK}{STRINGID}
@@ -1785,7 +1785,7 @@ STR_2429    :{WINDOW_COLOUR_2}Mainoskampanja tietylle laitteelle
 STR_2430    :{BLACK}Ilmaiskuponkeja puistoon {STRINGID}
 STR_2431    :{BLACK}Ilmaiskuponkeja laitteeseen {STRINGID}
 STR_2432    :{BLACK}Puolen hinnan kuponkeja puistoon {STRINGID}
-STR_2433    :{BLACK}Kuponkeja joilla saa ilmaisen {STRINGID}
+STR_2433    :{BLACK}Kuponkeja joilla saa ilmaisia {STRINGID}
 STR_2434    :{BLACK}Mainoskampanja {STRINGID}:n mainostamiseksi
 STR_2435    :{BLACK}Mainoskampanja {STRINGID}:n mainostamiseksi
 STR_2436    :1 viikko
@@ -1924,10 +1924,10 @@ STR_2694    :Luo
 STR_2695    :Satunnainen ympäristö
 STR_2696    :Sijoita puita
 STR_2700    :Autom. tallennus:
-STR_2701    :1 min välein
-STR_2702    :5 min välein
-STR_2703    :15 min välein
-STR_2704    :30 min välein
+STR_2701    :1 minuutin välein
+STR_2702    :5 minuutin välein
+STR_2703    :15 minuutin välein
+STR_2704    :30 minuutin välein
 STR_2705    :Tunnin välein
 STR_2706    :Ei koskaan
 STR_2707    :Avaa uusi ikkuna
@@ -2881,7 +2881,7 @@ STR_5556    :Potkaise pelaaja
 STR_5557    :Pysy yhteydessä epätahdistuksessa (moninpeli)
 STR_5558    :Tämä asetus tulee voimaan vasta kun uudelleenkäynnistät OpenRCT2:n
 STR_5559    :10 min. tarkastukset
-STR_5560    :Asettaa tarkastusvälin ‘10 min välein’ kaikkiin laitteisiin
+STR_5560    :Asettaa tarkastusvälin ‘10 minuutin välein’ kaikkiin laitteisiin
 STR_5561    :Kielen lataus epäonnistui
 STR_5562    :VAROITUS!
 STR_5563    :Tämä ominaisuus on epävakaa, olethan varovainen
@@ -3564,7 +3564,7 @@ STR_6311    :{WINDOW_COLOUR_2}Seur: {BLACK}{INT32} {INT32} {INT32}
 STR_6312    :(pinta)
 STR_6313    :(mäki {INT32})
 STR_6314    :{WINDOW_COLOUR_2}Kohde: {BLACK}{INT32}, {INT32} toleranssi {INT32}
-STR_6315    :{WINDOW_COLOUR_2}Polunetsinnän tavoite: {BLACK}{INT32}, {INT32}, {INT32} suunta {INT32}
+STR_6315    :{WINDOW_COLOUR_2}Polunetsintä: {BLACK}{INT32}, {INT32}, {INT32} suunta {INT32}
 STR_6316    :{WINDOW_COLOUR_2}Polunetsinnän historia:
 STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} suunta {INT32}
 STR_6318    :Verkkopelin epätahdistus havaittu.{NEWLINE}Lokitiedosto: {STRING}
