@@ -1744,11 +1744,11 @@ STR_2386    :{BLACK}Puistossasi tulee olla vähintään {COMMA16} kävijää {MO
 STR_2387    :{BLACK}Saavuta puiston arvoksi vähintään {POP16}{POP16}{CURRENCY} vuoden {PUSH16}{PUSH16}{PUSH16}{MONTHYEAR} loppuun mennessä
 STR_2388    :{BLACK}Pidä hauskaa!
 STR_2389    :{BLACK}Rakenna niin hyvä {STRINGID} kuin voit!
-STR_2390    :{BLACK}Puistossasi tulee olla 10 eri tyyppistä toiminnassa olevaa vuoristorataa joiden innostavuus on vähintään 6.00
+STR_2390    :{BLACK}Puistossasi tulee olla 10 eri tyyppistä toiminnassa olevaa vuoristorataa joiden huvitustaso on vähintään 6.00
 STR_2391    :{BLACK}Puistossasi tulee olla vähintään {COMMA16} kävijää, eikä puiston taso saa pudota hetkeksikään alle 700:n!
 STR_2392    :{BLACK}Sinun tulee saada {POP16}{POP16}{CURRENCY} kuukausituloja laitteiden lipputuloista
-STR_2393    :{BLACK}Puistossasi tulee olla 10 eri tyyppistä toiminnassa olevaa vuoristorataa, joiden pitää olla vähintään {LENGTH} pitkiä ja joiden innostavuus on vähintään 7.00
-STR_2394    :{BLACK}Viimeistele puiston 5 osittain rakennettua vuoristorataa niin, että jokaisen innostavuus on vähintään {POP16}{POP16}{COMMA2DP32} 
+STR_2393    :{BLACK}Puistossasi tulee olla 10 eri tyyppistä toiminnassa olevaa vuoristorataa, joiden pitää olla vähintään {LENGTH} pitkiä ja joiden huvitustaso on vähintään 7.00
+STR_2394    :{BLACK}Viimeistele puiston 5 osittain rakennettua vuoristorataa niin, että jokaisen huvitustaso on vähintään {POP16}{POP16}{COMMA2DP32} 
 STR_2395    :{BLACK}Maksa lainasi takaisin ja saavuta puistolle arvo {POP16}{POP16}{CURRENCY}
 STR_2396    :{BLACK}Sinun tulee saada {POP16}{POP16}{CURRENCY} kuukausituloja ruoan, juomien ja tavaroiden myynnistä
 STR_2397    :Ei mitään
@@ -1785,17 +1785,17 @@ STR_2429    :{WINDOW_COLOUR_2}Mainoskampanja tietylle laitteelle
 STR_2430    :{BLACK}Ilmaiskuponkeja puistoon {STRINGID}
 STR_2431    :{BLACK}Ilmaiskuponkeja laitteeseen {STRINGID}
 STR_2432    :{BLACK}Puolen hinnan kuponkeja puistoon {STRINGID}
-STR_2433    :{BLACK}Kuponkeja joilla saa ilmaisia {STRINGID}
-STR_2434    :{BLACK}Mainoskampanja {STRINGID}:n mainostamiseksi
-STR_2435    :{BLACK}Mainoskampanja {STRINGID}:n mainostamiseksi
+STR_2433    :{BLACK}Kuponkeja, joilla saa ilmaisia {STRINGID}
+STR_2434    :{BLACK}Mainoskampanja puistolle {STRINGID}
+STR_2435    :{BLACK}Mainoskampanja laitteelle {STRINGID}
 STR_2436    :1 viikko
 STR_2443    :{WINDOW_COLOUR_2}Viikottainen kustannus: {BLACK}{CURRENCY2DP}
 STR_2444    :{WINDOW_COLOUR_2}Kokonaiskustannus: {BLACK}{CURRENCY2DP}
 STR_2445    :Aloita tämä markkinointikampanja
-STR_2446    :{YELLOW}Markkinointikampanja ilmaiseen sisäänpääsyyn on loppunut
-STR_2447    :{YELLOW}Markkinointikampanja ilmaiseen pääsyyn laitteeseen {STRINGID} on loppunut
-STR_2448    :{YELLOW}Markkinointikampanja sisäänpääsyyn puoleen hintaan on loppunut
-STR_2449    :{YELLOW}Markkinointikampanja ilmaiseen tuotteeseen {STRINGID} on loppunut
+STR_2446    :{YELLOW}Markkinointikampanjasi ilmaiseen sisäänpääsyyn on loppunut
+STR_2447    :{YELLOW}Markkinointikampanjasi ilmaiseen pääsyyn laitteeseen {STRINGID} on loppunut
+STR_2448    :{YELLOW}Markkinointikampanjasi sisäänpääsyyn puoleen hintaan on loppunut
+STR_2449    :{YELLOW}Markkinointikampanjasi ilmaisia {STRINGID} varten on loppunut
 STR_2450    :{YELLOW}Mainoskampanjasi puistolle on loppunut
 STR_2451    :{YELLOW}Mainoskampanjasi laitteelle {STRINGID} on loppunut
 STR_2452    :{WINDOW_COLOUR_2}Varat (miinus velka): {BLACK}{CURRENCY2DP}
