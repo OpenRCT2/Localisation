@@ -22,6 +22,7 @@ Updated in:
 - [ ] en-US
 - [ ] eo-OO
 - [ ] es-ES
+- [ ] fi-FI
 - [ ] fr-FR
 - [ ] hu-HU
 - [ ] it-IT
