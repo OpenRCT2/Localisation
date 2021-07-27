@@ -51,6 +51,7 @@ To do this, go to the directory where OpenRCT2 resides (not to be confused with 
 | [![](https://img.shields.io/badge/en--GB-maintained-green.svg)](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt   ) | -Anyone-                                           |
 | [![](https://img.shields.io/badge/eo--OO-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/eo-OO.txt) | [tellovishous](https://github.com/tellovishous), [rzhao271](https://github.com/rzhao271) |
 | [![](https://img.shields.io/badge/es--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/es-ES.txt) | [Wirlie](https://github.com/Wirlie)                |
+| [![](https://img.shields.io/badge/fi--FI-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fi-FI.txt) | [groenroos](https://github.com/groenroos)          |
 | [![](https://img.shields.io/badge/fr--FR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-FR.txt) | [JoelTroch](https://github.com/JoelTroch)          |
 | [![](https://img.shields.io/badge/hu--HU-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/hu-HU.txt) | [anon569](https://github.com/anon569)              |
 | [![](https://img.shields.io/badge/it--IT-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/it-IT.txt) | [LucaRed](https://github.com/LucaRed)              |
@@ -64,7 +65,6 @@ To do this, go to the directory where OpenRCT2 resides (not to be confused with 
 | [![](https://img.shields.io/badge/zh--CN-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-CN.txt) | [izhangfei](https://github.com/izhangfei)          |
 | [![](https://img.shields.io/badge/zh--TW-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-TW.txt) | [daihakken](https://github.com/daihakken)         |
 | Not maintained <!-- Languages that are outdated with strings missing from OpenRCT2/vanilla-->| |                                                 
-| [![](https://img.shields.io/badge/fi--FI-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fi-FI.txt)  |                                                    |
 | [![](https://img.shields.io/badge/tr--TR-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/tr-TR.txt)  |                                                    |
 | [![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt)     |                                                    |
 
