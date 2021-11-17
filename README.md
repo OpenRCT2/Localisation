@@ -52,7 +52,7 @@ To do this, go to the directory where OpenRCT2 resides (not to be confused with 
 | [![](https://img.shields.io/badge/eo--OO-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/eo-OO.txt) | [tellovishous](https://github.com/tellovishous), [rzhao271](https://github.com/rzhao271) |
 | [![](https://img.shields.io/badge/es--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/es-ES.txt) | [dimateos](https://github.com/dimateos) 		|
 | [![](https://img.shields.io/badge/fi--FI-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fi-FI.txt) | [groenroos](https://github.com/groenroos)          |
-| [![](https://img.shields.io/badge/fr--FR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-FR.txt) | -Anyone-                                           |
+| [![](https://img.shields.io/badge/fr--FR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-FR.txt) | [rmnvgr](https://github.com/rmnvgr) |
 | [![](https://img.shields.io/badge/hu--HU-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/hu-HU.txt) | [anon569](https://github.com/anon569)              |
 | [![](https://img.shields.io/badge/it--IT-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/it-IT.txt) | [LucaRed](https://github.com/LucaRed)              |
 | [![](https://img.shields.io/badge/ja--JP-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ja-JP.txt) | [AaronVanGeffen](https://github.com/AaronVanGeffen)|
