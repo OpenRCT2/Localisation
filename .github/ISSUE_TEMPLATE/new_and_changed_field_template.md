@@ -26,7 +26,7 @@ Updated in:
 - [ ] da-DK
 - [ ] de-DE
 - [ ] en-US
-- [ ] eo-OO
+- [ ] eo-ZZ
 - [ ] es-ES
 - [ ] fi-FI
 - [ ] fr-FR
