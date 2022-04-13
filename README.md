@@ -41,15 +41,15 @@ To do this, go to the directory where OpenRCT2 resides (not to be confused with 
 | Newest strings can be found in [issues](https://github.com/OpenRCT2/Localisation/issues) |
 | -----------------------------------------------------------------------------------------|
 
-| Language | Maintainer |
-| -------- | ---------- |
+| Language                                                                                                                                      | Maintainer |
+|-----------------------------------------------------------------------------------------------------------------------------------------------| ---------- |
 | [![](https://img.shields.io/badge/ar--EG-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ar-EG.txt) | [Omaranwa](https://github.com/Omaranwa)          |
 | [![](https://img.shields.io/badge/ca--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ca-ES.txt) | [J0anJosep](https://github.com/J0anJosep)          |
 | [![](https://img.shields.io/badge/cs--CZ-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/cs-CZ.txt) | [octaroot](https://github.com/octaroot)            |
 | [![](https://img.shields.io/badge/da--DK-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/da-DK.txt) | [LPSGizmo](https://github.com/LPSGizmo)          |
 | [![](https://img.shields.io/badge/de--DE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/de-DE.txt) | [danidoedel](https://github.com/danidoedel), [Wuzzy2](https://github.com/Wuzzy2)        |
 | [![](https://img.shields.io/badge/en--GB-maintained-green.svg)](https://github.com/OpenRCT2/OpenRCT2/blob/develop/data/language/en-GB.txt   ) | -Anyone-                                           |
-| [![](https://img.shields.io/badge/eo--OO-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/eo-ZZ.txt) | [tellovishous](https://github.com/tellovishous), [rzhao271](https://github.com/rzhao271) |
+| [![](https://img.shields.io/badge/eo--ZZ-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/eo-ZZ.txt)  | [tellovishous](https://github.com/tellovishous), [rzhao271](https://github.com/rzhao271) |
 | [![](https://img.shields.io/badge/es--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/es-ES.txt) | [dimateos](https://github.com/dimateos) 		|
 | [![](https://img.shields.io/badge/fi--FI-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fi-FI.txt) | [groenroos](https://github.com/groenroos)          |
 | [![](https://img.shields.io/badge/fr--FR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-FR.txt) | [rmnvgr](https://github.com/rmnvgr) |
@@ -59,12 +59,12 @@ To do this, go to the directory where OpenRCT2 resides (not to be confused with 
 | [![](https://img.shields.io/badge/ko--KR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ko-KR.txt) | [telk5093](https://github.com/telk5093)            |
 | [![](https://img.shields.io/badge/nb--NO-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt) | [Goddesen](https://github.com/Goddesen)            |
 | [![](https://img.shields.io/badge/nl--NL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nl-NL.txt) | [Gymnasiast](https://github.com/Gymnasiast )      |
-| [![](https://img.shields.io/badge/pl--PL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pl-PL.txt)  | [marcinkunert](https://github.com/marcinkunert) |
+| [![](https://img.shields.io/badge/pl--PL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pl-PL.txt) | [marcinkunert](https://github.com/marcinkunert) |
 | [![](https://img.shields.io/badge/pt--BR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pt-BR.txt) | [renansimoes](https://github.com/renansimoes), [Tupaschoal](https://github.com/Tupaschoal)      |
 | [![](https://img.shields.io/badge/sv--SE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/sv-SE.txt) | [galfisk](https://github.com/galfisk)                |
 | [![](https://img.shields.io/badge/zh--CN-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-CN.txt) | [izhangfei](https://github.com/izhangfei)          |
 | [![](https://img.shields.io/badge/zh--TW-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-TW.txt) | [daihakken](https://github.com/daihakken)         |
-| Not maintained <!-- Languages that are outdated with strings missing from OpenRCT2/vanilla-->| |                                                 
+| Not maintained <!-- Languages that are outdated with strings missing from OpenRCT2/vanilla-->                                                 | |                                                 
 | [![](https://img.shields.io/badge/tr--TR-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/tr-TR.txt)  |                                                    |
 | [![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt)     |                                                    |
 
