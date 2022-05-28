@@ -245,14 +245,14 @@ STR_0834    :磁盘和游戏选项
 STR_0839    :{UINT16} × {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} × {UINT16}
 STR_0847    :关于‘OpenRCT2’
-STR_0850    :{WINDOW_COLOUR_2}版权 © 2002 Chris Sawyer，版权所有
-STR_0851    :{WINDOW_COLOUR_2}设计及程序 by Chris Sawyer
-STR_0852    :{WINDOW_COLOUR_2}美术 by Simon Foster
-STR_0853    :{WINDOW_COLOUR_2}音效及音乐 by Allister Brimble
-STR_0854    :{WINDOW_COLOUR_2}Additional sounds recorded by David Ellis
+STR_0850    :{WINDOW_COLOUR_2}Copyright © 2002 Chris Sawyer, 版权所有
+STR_0851    :{WINDOW_COLOUR_2}设计及程序：Chris Sawyer
+STR_0852    :{WINDOW_COLOUR_2}美术：Simon Foster
+STR_0853    :{WINDOW_COLOUR_2}音效及音乐：Allister Brimble
+STR_0854    :{WINDOW_COLOUR_2}其他音效录制：David Ellis
 STR_0855    :{WINDOW_COLOUR_2}Representation by Jacqui Lyons at Marjacq Ltd.
-STR_0856    :{WINDOW_COLOUR_2}致谢:
-STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock，Joe Booth，and John Wardley
+STR_0856    :{WINDOW_COLOUR_2}鸣谢:
+STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock，Joe Booth，和 John Wardley
 STR_0865    :{STRINGID}
 STR_0866    :{POP16}{STRINGID}
 STR_0867    :{POP16}{POP16}{STRINGID}
@@ -604,8 +604,8 @@ STR_1214    :选择发车前最长等待时长
 STR_1215    :{WINDOW_COLOUR_2}与相邻站同步
 STR_1216    :选择是否与所有相邻车站同步发车（为了“赛车”）
 STR_1217    :{COMMA16} 秒
-STR_1218    :{BLACK}➕
-STR_1219    :{BLACK}➖
+STR_1218    :{BLACK}+
+STR_1219    :{BLACK}-
 STR_1220    :出口
 STR_1221    :没有入口
 STR_1222    :没有出口
@@ -1954,8 +1954,6 @@ STR_2738    :主菜单音乐:
 STR_2739    :无
 STR_2740    :过山车大亨1(RCT1)
 STR_2741    :过山车大亨2(RCT2)
-STR_2742    :找不到css50.dat
-STR_2743    :将过山车大亨1(RCT1)安装目录下的‘data/css17.dat’拷贝到过山车大亨2(RCT2)安装目录并重命名为‘data/css50.dat’，或确保杂项窗口中过山车大亨1的路径设置正确.
 STR_2749    :我的新剧情
 # New strings used in the cheats window previously these were ???
 STR_2750    :移动全部物品到顶部
@@ -2133,7 +2131,7 @@ STR_3043    :摇滚风格3
 STR_3044    :糖果风格
 STR_3045    :选择要播放的音乐风格:
 STR_3047    :当地政府禁止拆除或修改此游乐设施
-STR_3048    :当地政府禁止所有推广计划进行
+STR_3048    :当地政府禁止进行所有广告推广计划
 STR_3049    :高尔夫球洞A
 STR_3050    :高尔夫球洞B
 STR_3051    :高尔夫球洞C
