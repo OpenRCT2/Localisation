@@ -2557,8 +2557,6 @@ STR_5250    :Hauptmenü-Beenden-Schaltfläche
 STR_5251    :Hauptmenü-Optionen-Schaltfläche
 STR_5252    :Hauptmenü-Szenarioauswahl
 STR_5253    :Parkinformationen
-STR_5254    :Erstellen
-STR_5255    :Eine neue Titelsequenz von{NEWLINE}Grund auf neu erstellen
 STR_5256    :Neues Thema zum bearbeiten erstellen
 STR_5257    :Neues Thema durch duplizieren des{NEWLINE}aktuellen Themas erstellen
 STR_5258    :Aktuelles Thema löschen
@@ -2653,75 +2651,10 @@ STR_5373    :Name {STRINGID}
 STR_5374    :Datum {STRINGID}
 STR_5375    :▲
 STR_5376    :▼
-STR_5377    :Gespeicherte Spiele
-STR_5378    :Skript
-STR_5379    :Zum nächsten „Warten“-Befehl springen
-STR_5380    :Titelsequenz abspielen
-STR_5381    :Titelsequenz stoppen
-STR_5382    :Titelsequenz neu starten
-STR_5383    :Neue Titelsequenz durch duplizieren der aktuellen Titelsequenz erstellen
-STR_5384    :Aktuelle Titelsequenz löschen
-STR_5385    :Aktuelle Titelsequenz umbenennen
-STR_5386    :Neuen Befehl einfügen
-STR_5387    :Ausgewählten Befehl bearbeiten
-STR_5388    :Ausgewählten Befehl löschen
-STR_5389    :Zum ausgewählten Befehl in{NEWLINE}der Titelsequenz springen
-STR_5390    :Ausgewählten Befehl nach oben verschieben
-STR_5391    :Ausgewählten Befehl nach unten verschieben
-STR_5392    :Einen Spielstand zur Titelsequenz hinzufügen
-STR_5393    :Ausgewählten Spielstand von{NEWLINE}Titelsequenz entfernen
-STR_5394    :Ausgewählten Spielstand umbenennen
-STR_5395    :Ausgewählten Spielstand laden
-STR_5396    :Titelsequenz neu laden, falls sie außerhalb des Spiels geändert wurde
-STR_5397    :Kann nur im Titelbildschirm verwendet werden
-STR_5398    :Titelsequenz kann, während sie läuft, nicht geändert werden
-STR_5399    :Titelsequenz stoppen, um das Bearbeiten fortzusetzen
-STR_5400    :Diese Titelsequenz kann{NEWLINE}nicht geändert werden
-STR_5401    :Erstellen Sie eine neue Titelsequenz, um sie zu bearbeiten
-STR_5402    :Titelsequenz konnte nicht geladen werden
-STR_5403    :Möglicherweise kein „Laden“-Befehl, „Warten“-Befehl oder ein ungültiger Spielstand vorhanden
 STR_5404    :Dieser Name existiert bereits
-STR_5405    :Namen für Spielstand eingeben:
-STR_5406    :Namen für Titelsequenz eingeben:
-STR_5407    :Hinzufügen
-STR_5408    :Entfernen
-STR_5409    :Einfügen
-STR_5410    :Bearbeiten
-STR_5411    :Neu laden
-STR_5412    :Springen zu
-STR_5413    :Laden
-STR_5415    :Laden{MOVE_X}{87}{STRING}
-STR_5416    :Laden{MOVE_X}{87}Kein Spielstand ausgewählt
-STR_5417    :Position
-STR_5418    :Position{MOVE_X}{87}{COMMA16}   {COMMA16}
-STR_5419    :Drehen
-STR_5420    :Drehen{MOVE_X}{87}{COMMA16}
-STR_5421    :Zoom
-STR_5422    :Zoom{MOVE_X}{87}{COMMA16}
-STR_5423    :Warten
-STR_5424    :Warten{MOVE_X}{87}{UINT16}
-STR_5425    :Neustart
-STR_5426    :Ende
-STR_5427    :Koordinaten:
-STR_5428    :Drehungen gegen Uhrzeigersinn:
-STR_5429    :Zoomstufe:
-STR_5430    :Zu wartende Millisekunden:
-STR_5431    :Zu ladender Spielstand:
-STR_5432    :Befehl:
-STR_5433    :Titelsequenzen
-STR_5434    :Befehlseditor
-STR_5435    :Spielstand umbenennen
-STR_5436    :Titelsequenzen bearbeiten…
-STR_5437    :Kein Spielstand ausgewählt
-STR_5438    :Es können keine Änderungen vorgenommen werden, solange der Befehlseditor geöffnet ist
-STR_5439    :Zusammen mit einem „Neustart“-Befehl muss ein mindestens 4 Sekunden langer „Warten“-Befehl verwendet werden
 STR_5440    :Vollbild minimieren, wenn Spiel nicht im Vordergrund
 STR_5441    :Identifiziert Bahnen durch Streckentyp, sodass wie in RCT1 Fahrzeuge anschließend geändert werden können
 STR_5442    :Parkbewertung:
-STR_5443    :Geschwind.{MOVE_X}{87}{STRINGID}
-STR_5444    :Geschwindigkeit:
-STR_5445    :Geschwindigkeit
-STR_5446    :Erhalten
 STR_5447    :Typ {STRINGID}
 STR_5448    :Bahn / Fahrzeug {STRINGID}
 STR_5449    :Spielgeschwindigkeit verringern
@@ -3075,7 +3008,6 @@ STR_5844    :Mit einem Mehrspielerserver verbunden bleiben, selbst dann, wenn ei
 STR_5845    :Zeigt für die Debugging-Tools in{NEWLINE}der Symbolleiste eine gesonderte Schaltfläche an.{NEWLINE}Aktiviert das Tastenkürzel für die Entwicklerkonsole
 STR_5846    :Auswählen, wie oft OpenRCT2{NEWLINE}automatisch speichert
 STR_5847    :Die auf dem Titelbildschirm angezeigte Parksequenz auswählen. Titelsequenzen von RCT1/2 benötigen importierte Szenarien, um zu funktionieren
-STR_5848    :Benutzerdefinierte Titelsequenzen{NEWLINE}erstellen und verwalten
 STR_5849    :Personal wird nach dem Einstellen automatisch platziert
 STR_5851    :Stellt die für neu gebaute Attraktionen standardmäßige Inspektionszeit ein
 STR_5853    :Soundeffekte aktivieren/deaktivieren
@@ -3389,23 +3321,8 @@ STR_6170    :Verbesserungen
 STR_6171    :Suchen
 STR_6172    :Suchen
 STR_6173    :Bitte den zu suchenden Namen eingeben:
-STR_6174    :Spielstand laden
-STR_6175    :Szenario laden
-STR_6176    :Szenario laden:
-STR_6177    :Laden{MOVE_X}{87}Kein Szenario ausgewählt
-STR_6178    :Laden{MOVE_X}{87}{RED}Szenario fehlt
-STR_6179    :Auswählen
-STR_6180    :Kein Szenario ausgewählt
-STR_6181    :{RED}Szenario fehlt
-STR_6182    :Folgen{MOVE_X}{87}{STRING}
-STR_6183    :Folgen{MOVE_X}{87}Kein Objekt ausgewählt
-STR_6184    :Objekt folgen 
-STR_6185    :Objekt auswählen
-STR_6186    :Kein Objekt ausgewählt
-STR_6187    :{OUTLINE}{WINDOW_COLOUR_2}{STRING}
 STR_6188    :Erbrochenes
 STR_6189    :Ente
-STR_6190    :Sie können kein Objekt auswählen, solange Sie sich im Hauptmenü befinden
 STR_6191    :Oberfläche
 STR_6192    :Wand
 STR_6193    :{COMMA16} Besucher

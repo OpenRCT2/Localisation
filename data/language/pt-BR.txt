@@ -2556,8 +2556,6 @@ STR_5250    :Botão de Saída do Jogo
 STR_5251    :Botão de Opções do Jogo
 STR_5252    :Seleção de Cenários do Jogo
 STR_5253    :Informações do Parque
-STR_5254    :Criar
-STR_5255    :Cria uma nova sequência de título a partir de um rascunho
 STR_5256    :Criar um novo tema para fazer mudanças
 STR_5257    :Cria um novo tema baseado no atual
 STR_5258    :Exclui o tema atual
@@ -2652,75 +2650,10 @@ STR_5373    :Nome {STRINGID}
 STR_5374    :Data {STRINGID}
 STR_5375    :▲
 STR_5376    :▼
-STR_5377    :Jogos Salvos
-STR_5378    :Roteiro
-STR_5379    :Pula para o próximo comando de espera
-STR_5380    :Executa sequência de título
-STR_5381    :Para sequência de título
-STR_5382    :Reinicia sequência de título
-STR_5383    :Cria uma nova sequência de título baseada na atual
-STR_5384    :Exclui a sequência de título atual
-STR_5385    :Renomeia a sequência de título atual
-STR_5386    :Insere um novo comando
-STR_5387    :Edita o comando selecionado
-STR_5388    :Exclui o comando selecionado
-STR_5389    :Pula para o comando selecionado na sequência de título
-STR_5390    :Move o comando selecionado para cima
-STR_5391    :Move o comando selecionado para baixo
-STR_5392    :Adiciona um jogo salvo à sequência de título
-STR_5393    :Remove o jogo salvo selecionado da sequência de título
-STR_5394    :Renomeia o jogo salvo selecionado
-STR_5395    :Carrega o jogo salvo selecionado no jogo
-STR_5396    :Recarrega a sequência de título se mudanças foram feitas fora do jogo
-STR_5397    :Só pode ser usando na tela de título
-STR_5398    :Impossível editar sequência de título enquanto estiver executando
-STR_5399    :Aperte o botão de parar para continuar editando
-STR_5400    :Impossível alterar esta sequência de título
-STR_5401    :Criar uma nova sequência de título para fazer alterações
-STR_5402    :Falha ao carregar a sequência do título
-STR_5403    :Pode haver nenhuma carga, comando de espera ou uma gravação pode ser inválida
 STR_5404    :Este nome já existe
-STR_5405    :Insira um nome para a gravação
-STR_5406    :Insira um nome para a sequência de título
-STR_5407    :Adicionar
-STR_5408    :Remover
-STR_5409    :Inserir
-STR_5410    :Editar
-STR_5411    :Recarregar
-STR_5412    :Ir para
-STR_5413    :Carregar
-STR_5415    :Carregar{MOVE_X}{87}{STRING}
-STR_5416    :Carregar{MOVE_X}{87}Jogo salvo não selecionado
-STR_5417    :Localização
-STR_5418    :Localização{MOVE_X}{87}{COMMA16}   {COMMA16}
-STR_5419    :Girar
-STR_5420    :Girar{MOVE_X}{87}{COMMA16}
-STR_5421    :Ampliar
-STR_5422    :Ampliar{MOVE_X}{87}{COMMA16}
-STR_5423    :Aguardar
-STR_5424    :Aguardar{MOVE_X}{87}{UINT16}
-STR_5425    :Reiniciar
-STR_5426    :Fim
-STR_5427    :Coordenadas:
-STR_5428    :Rotações anti-horárias:
-STR_5429    :Nível de ampliação:
-STR_5430    :Milissegundos de espera:
-STR_5431    :Salvar para carregar:
-STR_5432    :Comando:
-STR_5433    :Sequências de título
-STR_5434    :Editor de Comando
-STR_5435    :Renomear jogo salvo
-STR_5436    :Editar a sequência de título…
-STR_5437    :Jogo salvo não selecionado
-STR_5438    :Impossível fazer mudanças enquanto editor de comando está aberto
-STR_5439    :Um comando de espera com pelo menos 4 segundos é necessário com um comando de reinicialização
 STR_5440    :Minimizar tela inteira quando perder o foco
 STR_5441    :Identifica as atrações por tipo de pista,{NEWLINE}assim os veículos podem ser alterados {NEWLINE}depois (como no RCT1)
 STR_5442    :Forçar a classifi-{NEWLINE}cação do parque:
-STR_5443    :Velocidade{MOVE_X}{87}{STRINGID}
-STR_5444    :Velocidade:
-STR_5445    :Velocidade
-STR_5446    :Conseguir
 STR_5447    :Tipo {STRINGID}
 STR_5448    :Atração / Veículo {STRINGID}
 STR_5449    :Reduzir a velocidade do jogo
@@ -3078,7 +3011,6 @@ STR_5844    :Fica conectado em um server multijogador{NEWLINE}mesmo se uma dessi
 STR_5845    :Adiciona um botão para {NEWLINE}ferramentas de depuração na barra de ferramentas.{NEWLINE}Habilita atalho no teclado para console de desenvolvedor
 STR_5846    :Define a frequência que o OpenRCT2 salva automaticamente
 STR_5847    :Seleciona a sequência de parque usada na tela inicial.{NEWLINE}Sequências da tela inicial do RCT1/2 requer a importação dos cenários para funcionar
-STR_5848    :Cria ou gerencia sequências de títulos personalizadas
 STR_5849    :Posiciona automaticamente{NEWLINE}novos funcionários contratados
 STR_5851    :Define o intervalo de inspeção padrão{NEWLINE}nas novas atrações construídas
 STR_5853    :Liga/Desliga os efeitos sonoros
@@ -3392,23 +3324,8 @@ STR_6170    :Melhoras de Interface
 STR_6171    :Procurar
 STR_6172    :Procura
 STR_6173    :Por favor, forneça um nome para pesquisar:
-STR_6174    :Carregar Jogo Salvo
-STR_6175    :Carregar Cenário
-STR_6176    :Cenário para carregar:
-STR_6177    :Carregar{MOVE_X}{87}Nenhum cenário selecionado
-STR_6178    :Carregar{MOVE_X}{87}{RED}Cenário faltando
-STR_6179    :Selecionar
-STR_6180    :Nenhum cenário selecionado
-STR_6181    :{RED}Cenário faltando
-STR_6182    :Seguir{MOVE_X}{87}{STRING}
-STR_6183    :Seguir{MOVE_X}{87}Nenhum sprite selecionado
-STR_6184    :Seguir Sprite
-STR_6185    :Selecionar Sprite
-STR_6186    :Nenhum sprite selecionado
-STR_6187    :{OUTLINE}{WINDOW_COLOUR_2}{STRING}
 STR_6188    :Vômito
 STR_6189    :Pato
-STR_6190    :Você não pode selecionar um sprite enquanto a tela principal está ativa.
 STR_6191    :Superfície
 STR_6192    :Parede
 STR_6193    :{COMMA16} visitante
