@@ -2565,8 +2565,6 @@ STR_5250    :Bouton Quitter de l’écran titre
 STR_5251    :Bouton Options de l’écran titre
 STR_5252    :Fenêtre de sélection de scénario
 STR_5253    :Informations sur le parc
-STR_5254    :Créer
-STR_5255    :Créer une nouvelle séquence titre de zéro
 STR_5256    :Créer un nouveau thème à modifier
 STR_5257    :Créer un nouveau thème d’après l’actuel
 STR_5258    :Supprimer le thème actuel
@@ -2587,149 +2585,10 @@ STR_5273    :Grands décors
 STR_5274    :Allées
 STR_5275    :Chercher des objets
 STR_5276    :Entrer le nom d’un objet à rechercher
-STR_5277    :Effacer
-STR_5278    :Activer bac à sable
-STR_5279    :Désact. bac à sable
-STR_5280    :Autorise la modification du terrain du parc via la fenêtre de la carte ainsi que d’autres options normalement réservées à l’éditeur de scénario
-STR_5281    :Fonctionnalités
-STR_5282    :Ouverture/fermeture attraction comme RCT1
-STR_5283    :Ouverture/fermeture parc comme RCT1
-STR_5284    :Police de sélection de scénario comme RCT1
-STR_5287    :L’attraction est déjà en panne
-STR_5288    :L’attraction est fermée
-STR_5289    :Pas de pannes disponibles pour cette attraction
-STR_5290    :Réparer l’attraction
-STR_5291    :Impossible de forcer une panne
-STR_5292    :Forcer une panne
-STR_5293    :Fermer l’attraction
-STR_5294    :Tester l’attraction
-STR_5295    :Ouvrir l’attraction
-STR_5296    :Fermer le parc
-STR_5297    :Ouvrir le parc
-STR_5298    :{RED}{STRINGID}
-STR_5299    :{LIGHTPINK}{STRINGID}
-STR_5300    :Licenciement rapide
-STR_5301    :Effacer votre emprunt
-STR_5302    :Effacer emprunt
-STR_5303    :Autoriser la construction en mode pause
-STR_5304    :Séquence titre :
-STR_5305    :RollerCoaster Tycoon 1
-STR_5306    :RollerCoaster Tycoon 1 (NA)
-STR_5307    :RollerCoaster Tycoon 1 (NA + LF)
-STR_5308    :RollerCoaster Tycoon 2
-STR_5309    :OpenRCT2
-STR_5310    :Aléatoire
-STR_5311    :Outil de débogage
-STR_5312    :Afficher la console
-STR_5313    :Afficher l’inspecteur de cases
-STR_5314    :Inspecteur de cases
-STR_5335    :Entrée du manège
-STR_5336    :Sortie du manège
-STR_5337    :Entrée du parc
-STR_5338    :Type d’élément
-STR_5339    :Hauteur de base
-STR_5340    :Hauteur de collision
-STR_5343    :Placer les employés automatiquement
-STR_5344    :Historique
-STR_5345    :Triche financière
-STR_5346    :Triche des visiteurs
-STR_5347    :Triche du parc
-STR_5348    :Triche des attractions
-STR_5349    :Toutes les attractions
-STR_5350    :Max
-STR_5351    :Min
-STR_5352    :{BLACK}Bonheur :
-STR_5353    :{BLACK}Energie :
-STR_5354    :{BLACK}Faim :
-STR_5355    :{BLACK}Soif :
-STR_5356    :{BLACK}Nausée :
-STR_5357    :{BLACK}Tolérance nausée :
-STR_5358    :{BLACK}Toilettes :
-STR_5359    :Supprimer visiteurs
-STR_5360    :Supprimer tous les visiteurs de la carte
-STR_5361    :Donner à tous les visiteurs :
-STR_5362    :{BLACK}Définir l’intensité préférée des visiteurs à :
-STR_5363    :Plus de 1
-STR_5364    :Moins de 15
-STR_5365    :{BLACK}Vitesse du personnel :
-STR_5366    :Normal
-STR_5367    :Rapide
-STR_5368    :Réinit. accidents
-STR_5371    :Sélection d’objets
-STR_5372    :Inverser le déplacement du clic droit
-STR_5373    :Nom {STRINGID}
-STR_5374    :Date {STRINGID}
-STR_5375    :▲
-STR_5376    :▼
-STR_5377    :Sauvegardes
-STR_5378    :Script
-STR_5379    :Passer à la commande suivante
-STR_5380    :Démarrer séquence titre
-STR_5381    :Arrêter séquence titre
-STR_5382    :Redémarrer séquence titre
-STR_5383    :Créer une nouvelle séquence titre d’après l’actuelle
-STR_5384    :Supprimer l’actuelle séquence titre
-STR_5385    :Renommer l’actuelle séquence titre
-STR_5386    :Insérer une nouvelle commande
-STR_5387    :Editer la commande sélectionnée
-STR_5388    :Supprimer la commande sélectionée
-STR_5389    :Passer à la commande sélectionnée dans la séquence titre
-STR_5390    :Déplacer la commande sélectionnée vers le bas
-STR_5391    :Déplacer la commande sélectionnée vers le haut
-STR_5392    :Ajouter une sauvegarde à la séquence titre
-STR_5393    :Retirer la sauvegarde sélectionnée de la séquence titre
-STR_5394    :Renommer la sauvegarde sélectionnée
-STR_5395    :Charger la sauvegarde sélectionnée dans le jeu
-STR_5396    :Recharger la séquence titre si des changements ont été effectués en-dehors du jeu
-STR_5397    :Peut être utilisé uniquement sur l’écran titre
-STR_5398    :Impossible de modifier la séquence titre quand elle joue
-STR_5399    :Appuyez sur le bouton {SMALLFONT}Arrêter{MEDIUMFONT} pour continuer les modifications
-STR_5400    :Impossible de modifier cette séquence titre
-STR_5401    :Créez une nouvelle séquence titre à modifier
-STR_5402    :Impossible de charger la séquence titre
-STR_5403    :Il n’y a peut-être pas de commande de chargement ou d’attente, ou une sauvegarde est peut-être invalide
 STR_5404    :Le nom existe déjà
-STR_5405    :Saisissez un nom pour la sauvegarde
-STR_5406    :Saisissez un nom pour la séquence titre
-STR_5407    :Ajouter
-STR_5408    :Retirer
-STR_5409    :Insérer
-STR_5410    :Editer
-STR_5411    :Recharger
-STR_5412    :Passer à
-STR_5413    :Charger
-STR_5415    :Charger{MOVE_X}{87}{STRING}
-STR_5416    :Charger{MOVE_X}{87}Aucune sauvegarde séléctionné
-STR_5417    :Emplacement
-STR_5418    :Emplacement{MOVE_X}{87}{COMMA16}   {COMMA16}
-STR_5419    :Tourner
-STR_5420    :Tourner{MOVE_X}{87}{COMMA16}
-STR_5421    :Zoomer
-STR_5422    :Zoomer{MOVE_X}{87}{COMMA16}
-STR_5423    :Attendre
-STR_5424    :Attendre{MOVE_X}{87}{UINT16}
-STR_5425    :Redémarrer
-STR_5426    :Fin
-STR_5427    :Coordonnées :
-STR_5428    :Rotations antihoraires :
-STR_5429    :Niveau de zoom :
-STR_5430    :Temps en millisecondes :
-STR_5431    :Sauvegarde à charger :
-STR_5432    :Commande :
-STR_5433    :Séquences de titre
-STR_5434    :Editeur de commande
-STR_5435    :Renommer sauvegarde
-STR_5436    :Editer séquence titre…
-STR_5437    :Aucune sauvegarde sélectionnée
-STR_5438    :Impossible de modifier tant que l’éditeur de commande est ouvert
-STR_5439    :Une commande d’attente d’au moins 4 secondes est requise pour redémarrer
 STR_5440    :Minimiser le plein écran au passage en arrière-plan
 STR_5441    :Identifie les attractions par type de voie, pour que les véhicules puissent être changés plus tard, comme dans RCT1.
 STR_5442    :Eval. du parc :
-STR_5443    :Vitesse{MOVE_X}{87}{STRINGID}
-STR_5444    :Vitesse :
-STR_5445    :Vitesse
-STR_5446    :Obtenir
 STR_5447    :Type {STRINGID}
 STR_5448    :Attraction/véhicule {STRINGID}
 STR_5449    :Diminuer la vitesse de jeu
@@ -3087,7 +2946,6 @@ STR_5844    :Reste connecté à un serveur même si une désynchronisation ou un
 STR_5845    :Ajoute un bouton pour les outils de débogage dans la barre d’outils.{NEWLINE}Active le raccourci clavier pour la console de développement.
 STR_5846    :Définit la fréquence de la sauvegarde automatique
 STR_5847    :Sélectionne la séquence de parcs utilisée dans le menu principal. Les séquences titre de RCT1/2 requièrent des scénarios importés pour fonctionner.
-STR_5848    :Créer et gérer des séquences titre personnalisées
 STR_5849    :Placer automatiquement les nouveaux employés
 STR_5851    :Définit le délai d’inspection par défaut sur les nouvelles attractions
 STR_5853    :Active/désactive les effets sonores
@@ -3401,23 +3259,8 @@ STR_6170    :Ajustements de l’interface
 STR_6171    :Chercher
 STR_6172    :Chercher
 STR_6173    :Veuillez indiquer le nom à rechercher :
-STR_6174    :Charger sauvegarde
-STR_6175    :Charger scénario
-STR_6176    :Scénario à charger :
-STR_6177    :Charger{MOVE_X}{87}Aucun scénario sélectionné
-STR_6178    :Charger{MOVE_X}{87}{RED}Scénario manquant
-STR_6179    :Sélectionner
-STR_6180    :Aucune scénario sélectionné
-STR_6181    :{RED}Scénario manquant
-STR_6182    :Suivre{MOVE_X}{87}{STRING}
-STR_6183    :Suivre{MOVE_X}{87}Aucune image-objet sélectionnée
-STR_6184    :Suivre image-objet
-STR_6185    :Sélectionner image-objet
-STR_6186    :Aucune image-objet sélectionnée
-STR_6187    :{OUTLINE}{WINDOW_COLOUR_2}{STRING}
 STR_6188    :Vomi
 STR_6189    :Canard
-STR_6190    :Vous ne pouvez pas sélectionner une image-objet lorsque l’écran titre est actif.
 STR_6191    :Surface
 STR_6192    :Mur
 STR_6193    :{COMMA16} visiteur

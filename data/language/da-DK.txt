@@ -2554,8 +2554,6 @@ STR_5250    :Titelskærm Afslut knap
 STR_5251    :Titelskærm indstillings knap
 STR_5252    :Titelskærm Scenarie vælger
 STR_5253    :Park Information
-STR_5254    :Opret
-STR_5255    :Opret en ny titel sekvens fra bunden af
 STR_5256    :Opret et nyt tema som der kan ændres i
 STR_5257    :Opret et nyt tema, baseret på det nuværende
 STR_5258    :Slet nuværende tema
@@ -2576,149 +2574,10 @@ STR_5273    :Stort Sceneri
 STR_5274    :Gangstier
 STR_5275    :Søg efter objekter
 STR_5276    :Angiv navnet på objektet, du vil søge efter
-STR_5277    :Ryd
-STR_5278    :Sandbox tilstand
-STR_5279    :Sandbox tilstand fra
-STR_5280    :Tillad redigering af indstillinger for jordbesiddelse via kort vinduet og andre indstillinger, der normalt er begrænset til scenarie editoren
-STR_5281    :Funktioner
-STR_5282    :RCT1 forlystelse åben/lukket lys
-STR_5283    :RCT1 Park åben/lukket lys
-STR_5284    :RCT1 Scenarie udvælgelse skrifttype
-STR_5287    :Forlystelse er allerede brudt sammen
-STR_5288    :Forlystelse er lukket
-STR_5289    :Ingen nedbrud tilgængelig for denne forlystelse
-STR_5290    :Reparer forlystelse
-STR_5291    :Kan ikke fremprovokere et nedbrud
-STR_5292    :Fremprovoker et nedbrud
-STR_5293    :Luk forlystelse/attraktion
-STR_5294    :Test forlystelse/attraktion
-STR_5295    :Åben forlystelse/attraktion
-STR_5296    :Luk park
-STR_5297    :Åben park
-STR_5298    :{RED}{STRINGID}
-STR_5299    :{LIGHTPINK}{STRINGID}
-STR_5300    :Hurtig brandpersonale
-STR_5301    :Fjern dit lån
-STR_5302    :Fjern lån
-STR_5303    :Tillad bygning i pausetilstand
-STR_5304    :Titel sekvens:
-STR_5305    :RollerCoaster Tycoon 1
-STR_5306    :RollerCoaster Tycoon 1 (AA)
-STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
-STR_5308    :RollerCoaster Tycoon 2
-STR_5309    :OpenRCT2
-STR_5310    :Tilfældig
-STR_5311    :Debug værktøj
-STR_5312    :Vis konsol
-STR_5313    :Vis feltinspektion
-STR_5314    :Feltinspektion
-STR_5335    :Forlystelse indgang
-STR_5336    :Forlystelse Udgang
-STR_5337    :Park indgang
-STR_5338    :Element type
-STR_5339    :Basis højde
-STR_5340    :Frihøjde
-STR_5343    :Automatisk placer ansat
-STR_5344    :Ændrings log
-STR_5345    :Finansiel snyd
-STR_5346    :Gæst snyd
-STR_5347    :Park snyd
-STR_5348    :Forlystelse snyd
-STR_5349    :Alle forlystelser
-STR_5350    :Max
-STR_5351    :Min
-STR_5352    :{BLACK}Glæde:
-STR_5353    :{BLACK}Energi:
-STR_5354    :{BLACK}Sult:
-STR_5355    :{BLACK}Tørst:
-STR_5356    :{BLACK}Kvalme:
-STR_5357    :{BLACK}Kvalme tolerance:
-STR_5358    :{BLACK}Toilet:
-STR_5359    :Fjern gæster
-STR_5360    :Fjerner alle gæster fra kortet
-STR_5361    :Giv alle gæster:
-STR_5362    :{BLACK}sæt alle gæster’ foretrukket forlystelses intensitet til:
-STR_5363    :Mere end 1
-STR_5364    :Mindre end 15
-STR_5365    :{BLACK}Personale hastighed:
-STR_5366    :Normal
-STR_5367    :Hurtig
-STR_5368    :Nulstil nedbruds-status
-STR_5371    :Objekt udvælgelse
-STR_5372    :Omvendt højre muse træk
-STR_5373    :Navn {STRINGID}
-STR_5374    :Dato {STRINGID}
-STR_5375    :▲
-STR_5376    :▼
-STR_5377    :Gemte
-STR_5378    :Script
-STR_5379    :Skip til næste ventekommando
-STR_5380    :Start afspilning af titelsekvens
-STR_5381    :Stop afspilning af titelsekvens
-STR_5382    :Genstart af titelsekvens
-STR_5383    :Opret en ny titelsekvens baseret på den nuværende
-STR_5384    :Slet nuværende titelsekvens
-STR_5385    :Omdøb nuværende titelsekvens
-STR_5386    :Indsæt en ny kommando
-STR_5387    :Rediger valgte kommando
-STR_5388    :Slet valgte kommando
-STR_5389    :spring til den valgte kommando i titelsekvensen
-STR_5390    :Flyt valgte kommando ned
-STR_5391    :Flyt valgte kommando op
-STR_5392    :Tilføj en gemning til den valgte sekvens
-STR_5393    :Fjern en gemning fra den valgte sekvens
-STR_5394    :Omdøb det valgte gemte spil
-STR_5395    :Hent det valgte gemte i spillet
-STR_5396    :Genindlæs titelsekvens, hvis der er lavet ændringer uden for spillet
-STR_5397    :Kan kun bruges på titelskærmen
-STR_5398    :Kan ikke redigere titelsekvensen imens den afspilles
-STR_5399    :Tryk på stop for at fortsætte redigeringen
-STR_5400    :Kan ikke ændre denne titel sekvens
-STR_5401    :Opret en ny titelsekvens at lave ændringer i
-STR_5402    :Kunne ikke indlæse titelsekvens
-STR_5403    :Der er muligvis ingen ‘hent’ eller ‘vent’ kommando eller det gemte spil er ugyldigt
 STR_5404    :Navn eksisterer allerede
-STR_5405    :Angiv en navn for denne gemning
-STR_5406    :Angiv et navn til titelsekvensen
-STR_5407    :Tilføj
-STR_5408    :Fjern
-STR_5409    :Indsæt
-STR_5410    :Rediger
-STR_5411    :Genindlæs
-STR_5412    :Skip til
-STR_5413    :Hent
-STR_5415    :Hent{MOVE_X}{87}{STRING}
-STR_5416    :Hent{MOVE_X}{87}Ingen gemt valgt
-STR_5417    :Lokation
-STR_5418    :Lokation{MOVE_X}{87}{COMMA16}   {COMMA16}
-STR_5419    :Roter
-STR_5420    :Roter{MOVE_X}{87}{COMMA16}
-STR_5421    :Zoom
-STR_5422    :Zoom{MOVE_X}{87}{COMMA16}
-STR_5423    :Vent
-STR_5424    :Vent{MOVE_X}{87}{UINT16}
-STR_5425    :Genstart
-STR_5426    :Slut
-STR_5427    :Koordinater:
-STR_5428    :Mod uret rotation:
-STR_5429    :Zoom niveau:
-STR_5430    :Millisekunder der skal ventes:
-STR_5431    :Gemte der skal hentes:
-STR_5432    :Kommando:
-STR_5433    :Titelsekvens
-STR_5434    :Kommando redigering
-STR_5435    :Omdøb gemte
-STR_5436    :Rediger Titelsekvens…
-STR_5437    :Ingen gemninger valgt
-STR_5438    :Kan ikke lave ændringer med kommando redigering åben
-STR_5439    :Der kræves en ventekommando med mindst 4 sekunder med en genstart kommando
 STR_5440    :Minimer fuldskærm ved tab af fokus
 STR_5441    :Identificer forlystelser Efter skinne type{NEWLINE}Så køretøjer kan skiftes{NEWLINE}bagefter (RCT1 opførsel)
 STR_5442    :Tving parkvurdering:
-STR_5443    :Hastighed{MOVE_X}{87}{STRINGID}
-STR_5444    :Hastighed:
-STR_5445    :Hastighed
-STR_5446    :Hent
 STR_5447    :Type {STRINGID}
 STR_5448    :Forlystelse / Vogn {STRINGID}
 STR_5449    :Reducer spil hastighed
@@ -3076,7 +2935,6 @@ STR_5844    :Forbliv forbundet til multiplayer serveren{NEWLINE}selv hvis der op
 STR_5845    :Tilføj en knap til{NEWLINE}fejlfinding i værktøjslinjen.{NEWLINE}Aktiver tastatur genveje til udviklingskonsollen
 STR_5846    :Sæt hvor tit OpenRCT2 gemmer automatisk
 STR_5847    :Vælg park sekvens for titelskærmen.{NEWLINE}Titel sekvens fra RCT1/2 kræver importerede scenarier for at fungere
-STR_5848    :Opret og administrer brugerdefinerede titel sekvenser
 STR_5849    :Placer automatisk{NEWLINE}nyansatte medarbejdere
 STR_5851    :Sæt standard vedligeholdelses interval{NEWLINE}på nybyggede forlystelser
 STR_5853    :Slå lydeffekter til/fra
@@ -3390,23 +3248,8 @@ STR_6170    :Interface Tilretninger
 STR_6171    :Søg
 STR_6172    :Søg
 STR_6173    :Angiv navn til at søge efter:
-STR_6174    :Hent Gemt
-STR_6175    :Hent Scenarie
-STR_6176    :Scenarie der skal hentes:
-STR_6177    :Hent{MOVE_X}{87}Ingen scenarie valgt
-STR_6178    :Hent{MOVE_X}{87}{RED}Manglende scenarie
-STR_6179    :Vælg
-STR_6180    :Ingen scenarie valgt
-STR_6181    :{RED}Manglende scenarie
-STR_6182    :Følg{MOVE_X}{87}{STRING}
-STR_6183    :Følg{MOVE_X}{87}Ingen sprite valgt
-STR_6184    :Følg Sprite
-STR_6185    :Vælg Sprite
-STR_6186    :Ingen sprite valgt
-STR_6187    :{OUTLINE}{WINDOW_COLOUR_2}{STRING}
 STR_6188    :Opkast
 STR_6189    :And
-STR_6190    :Du kan ikke vælge en sprite, mens titelskærmen er aktiv.
 STR_6191    :Overflade
 STR_6192    :Væg
 STR_6193    :{COMMA16} gæst
