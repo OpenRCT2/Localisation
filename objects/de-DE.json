@@ -15,7 +15,15 @@
         "reference-name": "Bamboo Shoots",
         "name": "Bambussprossen"
     },
+    "toontowner.scenery_small.ttpirf07": {
+        "reference-name": "Roof",
+        "name": "Dach"
+    },
     "toontowner.scenery_small.ttrftl04": {
+        "reference-name": "Roof",
+        "name": "Dach"
+    },
+    "toontowner.scenery_small.ttpirf03": {
         "reference-name": "Roof",
         "name": "Dach"
     },
@@ -24,6 +32,10 @@
         "name": "Riesenpanda"
     },
     "toontowner.scenery_small.ttrftl02": {
+        "reference-name": "Roof",
+        "name": "Dach"
+    },
+    "toontowner.scenery_small.ttpirf08": {
         "reference-name": "Roof",
         "name": "Dach"
     },
@@ -39,6 +51,14 @@
         "reference-name": "Base Block",
         "name": "Basisblock"
     },
+    "toontowner.scenery_small.ttpirf04": {
+        "reference-name": "Roof",
+        "name": "Dach"
+    },
+    "toontowner.scenery_small.ttpirf02": {
+        "reference-name": "Roof",
+        "name": "Dach"
+    },
     "mamabear.scenery_wall.mg-prar": {
         "reference-name": "Wall with Passageway",
         "name": "Mauer mit Durchgang"
@@ -49,7 +69,7 @@
     },
     "openrct2.footpath_railings.invisible": {
         "reference-name": "Invisible Railings",
-        "name": "Invisible Railings"
+        "name": "Unsichtbare Geländer"
     },
     "rct2dlc.ride.zpanda": {
         "reference-name": "Panda Trains",
@@ -61,27 +81,27 @@
     },
     "openrct2.ride.single_rail_coaster": {
         "reference-name": "Single Rail Roller Coaster Trains",
-        "name": "Single Rail Roller Coaster Trains",
+        "name": "Einschienenachterbahnzüge",
         "reference-description": "Roller coaster trains in which riders are seated single file",
-        "description": "Roller coaster trains in which riders are seated single file",
+        "description": "Achterbahnzüge, in denen die Fahrgäste in einer Einzelreihe sitzen",
         "reference-capacity": "1 passenger per car",
-        "capacity": "1 passenger per car"
+        "capacity": "1 Fahrgast pro Wagen"
     },
     "openrct2.ride.hybrid_coaster": {
         "reference-name": "Hybrid Coaster Trains",
-        "name": "Hybrid Coaster Trains",
+        "name": "Hybridachterbahnzüge",
         "reference-description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
-        "description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
+        "description": "Achterbahnzüge mit Schoßhalterungen; für steile Stürze und Inversionen geeignet",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "openrct2.footpath_surface.queue_invisible": {
         "reference-name": "Invisible Queue",
-        "name": "Invisible Queue"
+        "name": "Unsichtbare Warteschlange"
     },
     "openrct2.footpath_surface.invisible": {
         "reference-name": "Invisible Footpath",
-        "name": "Invisible Footpath"
+        "name": "Unsichtbarer Fußweg"
     },
     "openrct2.terrain_surface.void": {
         "reference-name": "Void",
@@ -2497,39 +2517,39 @@
     },
     "rct2.footpath_railings.bamboo_brown": {
         "reference-name": "Bamboo Railings (Brown)",
-        "name": "Bamboo Railings (Brown)"
+        "name": "Bambusgeländer (braun)"
     },
     "rct2.footpath_railings.space": {
         "reference-name": "Space Style Railings (Red)",
-        "name": "Space Style Railings (Red)"
+        "name": "Weltraumstilgeländer (rot)"
     },
     "rct2.footpath_railings.bamboo_black": {
         "reference-name": "Bamboo Railings (Black)",
-        "name": "Bamboo Railings (Black)"
+        "name": "Bambusgeländer (schwarz)"
     },
     "rct2.footpath_railings.wood": {
         "reference-name": "Wooden Railings",
-        "name": "Wooden Railings"
+        "name": "Holzgeländer"
     },
     "rct2.footpath_railings.concrete_green": {
         "reference-name": "Concrete Railings (Dark Green)",
-        "name": "Concrete Railings (Dark Green)"
+        "name": "Betongeländer (dunkelgrün)"
     },
     "rct2.footpath_railings.concrete": {
         "reference-name": "Concrete Railings (Grey-Brown)",
-        "name": "Concrete Railings (Grey-Brown)"
+        "name": "Betongeländer (graubraun)"
     },
     "rct2.audio.base": {
         "reference-name": "Base audio for the game.",
-        "name": "Base audio for the game."
+        "name": "Basisaudio für das Spiel."
     },
     "rct2.audio.title": {
         "reference-name": "Title screen music for RollerCoaster Tycoon 2.",
-        "name": "Title screen music for RollerCoaster Tycoon 2."
+        "name": "Titelbildschirmmusik für RollerCoaster Tycoon 2."
     },
     "rct2.audio.circus": {
         "reference-name": "Ambient sound effects for the Circus attraction.",
-        "name": "Ambient sound effects for the Circus attraction."
+        "name": "Umgebungsgeräusche für die Zirkusattraktion."
     },
     "rct2.ride.hchoc": {
         "reference-name": "Hot Chocolate Stall",
@@ -3701,47 +3721,47 @@
     },
     "rct2.footpath_surface.queue_red": {
         "reference-name": "Red Queue (Stairs)",
-        "name": "Red Queue (Stairs)"
+        "name": "Rote Warteschlange (Treppe)"
     },
     "rct2.footpath_surface.queue_yellow": {
         "reference-name": "Yellow Queue (Stairs)",
-        "name": "Yellow Queue (Stairs)"
+        "name": "Gelbe Warteschlange (Treppe)"
     },
     "rct2.footpath_surface.tarmac": {
         "reference-name": "Tarmac Footpath (Stairs)",
-        "name": "Makadam-Fußweg"
+        "name": "Makadam-Fußweg (Treppe)"
     },
     "rct2.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Stairs)",
-        "name": "Fußweg mit verrücktem Belag"
+        "name": "Fußweg mit verrücktem Belag (Treppe)"
     },
     "rct2.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Rounded)",
-        "name": "Aschefußweg"
+        "name": "Aschefußweg (rund)"
     },
     "rct2.footpath_surface.queue_green": {
         "reference-name": "Dark Green Queue",
-        "name": "Dark Green Queue"
+        "name": "Dunkelgrüne Warteschlange"
     },
     "rct2.footpath_surface.tarmac_green": {
         "reference-name": "Dark Green Tarmac Footpath",
-        "name": "Grüner Makadam-Fußweg"
+        "name": "Dunkelgrüner Makadam-Fußweg"
     },
     "rct2.footpath_surface.queue_blue": {
         "reference-name": "Blue Queue (Stairs)",
-        "name": "Blue Queue (Stairs)"
+        "name": "Blaue Warteschlange (Treppe)"
     },
     "rct2.footpath_surface.tarmac_red": {
         "reference-name": "Red Tarmac Footpath (Stairs)",
-        "name": "Roter Makadam-Fußweg"
+        "name": "Roter Makadam-Fußweg (Treppe)"
     },
     "rct2.footpath_surface.tarmac_brown": {
         "reference-name": "Brown Tarmac Footpath (Stairs)",
-        "name": "Brauner Makadam-Fußweg"
+        "name": "Brauner Makadam-Fußweg (Treppe)"
     },
     "rct2.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Rounded)",
-        "name": "Dreckfußweg"
+        "name": "Dreckfußweg (rund)"
     },
     "rct2.footpath_surface.road": {
         "reference-name": "Road",
@@ -6089,7 +6109,7 @@
     },
     "rct2tt.footpath_railings.circuitboard_invisible": {
         "reference-name": "Sky Walk",
-        "name": "Sky Walk"
+        "name": "Schwebeweg"
     },
     "rct2tt.footpath_railings.balustrade": {
         "reference-name": "Balustrade",
@@ -6097,23 +6117,23 @@
     },
     "rct2tt.footpath_railings.medieval": {
         "reference-name": "Medieval Railings",
-        "name": "Medieval Railings"
+        "name": "Mittelaltergeländer"
     },
     "rct2tt.footpath_railings.rainbow": {
         "reference-name": "Rainbow Railings",
-        "name": "Rainbow Railings"
+        "name": "Regenbogengeländer"
     },
     "rct2tt.footpath_railings.circuitboard": {
         "reference-name": "Circuit Board Railings",
-        "name": "Circuit Board Railings"
+        "name": "Elektronische Geländer"
     },
     "rct2tt.footpath_railings.rocky": {
         "reference-name": "Jungle Railings",
-        "name": "Jungle Railings"
+        "name": "Dschungelgeländer"
     },
     "rct2tt.footpath_railings.pavement": {
         "reference-name": "Iron Railings",
-        "name": "Iron Railings"
+        "name": "Eisengeländer"
     },
     "rct2tt.ride.timemach": {
         "reference-name": "Time Machine",
@@ -6577,11 +6597,11 @@
     },
     "rct2tt.footpath_surface.queue_pavement": {
         "reference-name": "Pavement Queue",
-        "name": "Pavement Queue"
+        "name": "Bürgersteigwarteschlange"
     },
     "rct2tt.footpath_surface.queue_rainbow": {
         "reference-name": "Rainbow Queue",
-        "name": "Rainbow Queue"
+        "name": "Regenbogenwarteschlange"
     },
     "rct2tt.footpath_surface.rainbow": {
         "reference-name": "Rainbow Footpath",
@@ -6605,7 +6625,7 @@
     },
     "rct2tt.footpath_surface.queue_circuitboard": {
         "reference-name": "Circuit Queue",
-        "name": "Circuit Queue"
+        "name": "Elektronische Warteschlange"
     },
     "rct2ww.scenery_large.hippo01": {
         "reference-name": "Hippo 1",
@@ -9617,15 +9637,15 @@
     },
     "rct1ll.footpath_railings.bamboo": {
         "reference-name": "Bamboo Railings (Yellow)",
-        "name": "Bamboo Railings (Yellow)"
+        "name": "Bambusgeländer (gelb)"
     },
     "rct1ll.footpath_railings.space": {
         "reference-name": "Space Style Railings (Grey)",
-        "name": "Space Style Railings (Grey)"
+        "name": "Weltraumstilgeländer (grau)"
     },
     "rct1.audio.title": {
         "reference-name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes).",
-        "name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes)."
+        "name": "Titelbildschirmmusik für RollerCoaster Tycoon (Loopy Landscapes)."
     },
     "rct1.ride.rocket_cars": {
         "reference-name": "Rocket Cars",
@@ -9659,7 +9679,7 @@
     },
     "rct1.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Sloped)",
-        "name": "Fußweg mit verrücktem Belag"
+        "name": "Fußweg mit verrücktem Belag (Schräge)"
     },
     "rct1ll.footpath_surface.tiles_red": {
         "reference-name": "Red and Brown Tiled Footpath",
@@ -9667,7 +9687,7 @@
     },
     "rct1.footpath_surface.tarmac": {
         "reference-name": "Tarmac Footpath (Sloped)",
-        "name": "Makadam-Fußweg"
+        "name": "Makadam-Fußweg (Schräge)"
     },
     "rct1aa.footpath_surface.tiles_grey": {
         "reference-name": "Grey Tiled Footpath",
@@ -9675,7 +9695,7 @@
     },
     "rct1.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Square)",
-        "name": "Dreckfußweg"
+        "name": "Dreckfußweg (quadratisch)"
     },
     "rct1aa.footpath_surface.tarmac_red": {
         "reference-name": "Red Tarmac Footpath (Sloped)",
@@ -9687,15 +9707,15 @@
     },
     "rct1.footpath_surface.queue_blue": {
         "reference-name": "Blue Queue (Sloped)",
-        "name": "Blue Queue (Sloped)"
+        "name": "Blaue Warteschlange (Schräge)"
     },
     "rct1aa.footpath_surface.queue_yellow": {
         "reference-name": "Yellow Queue (Sloped)",
-        "name": "Yellow Queue (Sloped)"
+        "name": "Gelbe Warteschlange (Schräge)"
     },
     "rct1aa.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Square)",
-        "name": "Aschefußweg"
+        "name": "Aschefußweg (quadratisch)"
     },
     "rct1aa.footpath_surface.tarmac_green": {
         "reference-name": "Green Tarmac Footpath",
@@ -9707,15 +9727,15 @@
     },
     "rct1aa.footpath_surface.tarmac_brown": {
         "reference-name": "Brown Tarmac Footpath (Sloped)",
-        "name": "Brauner Makadam-Fußweg"
+        "name": "Brauner Makadam-Fußweg (Schräge)"
     },
     "rct1aa.footpath_surface.queue_red": {
         "reference-name": "Red Queue (Sloped)",
-        "name": "Red Queue (Sloped)"
+        "name": "Rote Warteschlange (Schräge)"
     },
     "rct1aa.footpath_surface.queue_green": {
         "reference-name": "Green Queue",
-        "name": "Green Queue"
+        "name": "Grüne Warteschlange"
     },
     "rct1ll.terrain_surface.roof_grey": {
         "reference-name": "Roof (Grey)",
