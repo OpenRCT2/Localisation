@@ -15,7 +15,15 @@
         "reference-name": "Bamboo Shoots",
         "name": "Bambussprossen"
     },
+    "toontowner.scenery_small.ttpirf07": {
+        "reference-name": "Roof",
+        "name": "Dach"
+    },
     "toontowner.scenery_small.ttrftl04": {
+        "reference-name": "Roof",
+        "name": "Dach"
+    },
+    "toontowner.scenery_small.ttpirf03": {
         "reference-name": "Roof",
         "name": "Dach"
     },
@@ -24,6 +32,10 @@
         "name": "Riesenpanda"
     },
     "toontowner.scenery_small.ttrftl02": {
+        "reference-name": "Roof",
+        "name": "Dach"
+    },
+    "toontowner.scenery_small.ttpirf08": {
         "reference-name": "Roof",
         "name": "Dach"
     },
@@ -39,6 +51,14 @@
         "reference-name": "Base Block",
         "name": "Basisblock"
     },
+    "toontowner.scenery_small.ttpirf04": {
+        "reference-name": "Roof",
+        "name": "Dach"
+    },
+    "toontowner.scenery_small.ttpirf02": {
+        "reference-name": "Roof",
+        "name": "Dach"
+    },
     "mamabear.scenery_wall.mg-prar": {
         "reference-name": "Wall with Passageway",
         "name": "Mauer mit Durchgang"
@@ -49,7 +69,7 @@
     },
     "openrct2.footpath_railings.invisible": {
         "reference-name": "Invisible Railings",
-        "name": "Invisible Railings"
+        "name": "Unsichtbare Geländer"
     },
     "rct2dlc.ride.zpanda": {
         "reference-name": "Panda Trains",
@@ -61,27 +81,27 @@
     },
     "openrct2.ride.single_rail_coaster": {
         "reference-name": "Single Rail Roller Coaster Trains",
-        "name": "Single Rail Roller Coaster Trains",
+        "name": "Einschienenachterbahnzüge",
         "reference-description": "Roller coaster trains in which riders are seated single file",
-        "description": "Roller coaster trains in which riders are seated single file",
+        "description": "Achterbahnzüge, in denen die Fahrgäste in einer Einzelreihe sitzen",
         "reference-capacity": "1 passenger per car",
-        "capacity": "1 passenger per car"
+        "capacity": "1 Fahrgast pro Wagen"
     },
     "openrct2.ride.hybrid_coaster": {
         "reference-name": "Hybrid Coaster Trains",
-        "name": "Hybrid Coaster Trains",
+        "name": "Hybridachterbahnzüge",
         "reference-description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
-        "description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
+        "description": "Achterbahnzüge mit Schoßhalterungen; für steile Stürze und Inversionen geeignet",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "openrct2.footpath_surface.queue_invisible": {
         "reference-name": "Invisible Queue",
-        "name": "Invisible Queue"
+        "name": "Unsichtbare Warteschlange"
     },
     "openrct2.footpath_surface.invisible": {
         "reference-name": "Invisible Footpath",
-        "name": "Invisible Footpath"
+        "name": "Unsichtbarer Fußweg"
     },
     "openrct2.terrain_surface.void": {
         "reference-name": "Void",
@@ -2497,39 +2517,39 @@
     },
     "rct2.footpath_railings.bamboo_brown": {
         "reference-name": "Bamboo Railings (Brown)",
-        "name": "Bamboo Railings (Brown)"
+        "name": "Bambusgeländer (braun)"
     },
     "rct2.footpath_railings.space": {
         "reference-name": "Space Style Railings (Red)",
-        "name": "Space Style Railings (Red)"
+        "name": "Weltraumstilgeländer (rot)"
     },
     "rct2.footpath_railings.bamboo_black": {
         "reference-name": "Bamboo Railings (Black)",
-        "name": "Bamboo Railings (Black)"
+        "name": "Bambusgeländer (schwarz)"
     },
     "rct2.footpath_railings.wood": {
         "reference-name": "Wooden Railings",
-        "name": "Wooden Railings"
+        "name": "Holzgeländer"
     },
     "rct2.footpath_railings.concrete_green": {
         "reference-name": "Concrete Railings (Dark Green)",
-        "name": "Concrete Railings (Dark Green)"
+        "name": "Betongeländer (dunkelgrün)"
     },
     "rct2.footpath_railings.concrete": {
         "reference-name": "Concrete Railings (Grey-Brown)",
-        "name": "Concrete Railings (Grey-Brown)"
+        "name": "Betongeländer (graubraun)"
     },
     "rct2.audio.base": {
         "reference-name": "Base audio for the game.",
-        "name": "Base audio for the game."
+        "name": "Basisaudio für das Spiel."
     },
     "rct2.audio.title": {
         "reference-name": "Title screen music for RollerCoaster Tycoon 2.",
-        "name": "Title screen music for RollerCoaster Tycoon 2."
+        "name": "Titelbildschirmmusik für RollerCoaster Tycoon 2."
     },
     "rct2.audio.circus": {
         "reference-name": "Ambient sound effects for the Circus attraction.",
-        "name": "Ambient sound effects for the Circus attraction."
+        "name": "Umgebungsgeräusche für die Zirkusattraktion."
     },
     "rct2.ride.hchoc": {
         "reference-name": "Hot Chocolate Stall",
@@ -2567,7 +2587,7 @@
         "reference-description": "Powered vehicles in the shape of pickup trucks",
         "description": "Angetriebene Fahrzeuge in Form von Pickup-Trucks",
         "reference-capacity": "1 passenger per truck",
-        "capacity": "1 Passagier pro Wagen"
+        "capacity": "1 Fahrgast pro Wagen"
     },
     "rct2.ride.arrsw1": {
         "reference-name": "Suspended Swinging Cars",
@@ -2689,9 +2709,9 @@
         "reference-name": "American Style Steam Trains",
         "name": "Dampfzüge im amerik. Stil",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
-        "description": "Mini-Dampfzüge bestehend aus nachgemachter Dampflok und Tender mit Holzwagons mit Stoffdächern",
+        "description": "Mini-Dampfzüge bestehend aus nachgemachter Dampflok und Tender mit Holzwaggons mit Stoffdächern",
         "reference-capacity": "6 passengers per carriage",
-        "capacity": "6 Fahrgäste pro Wagon"
+        "capacity": "6 Fahrgäste pro Waggon"
     },
     "rct2.ride.souvs": {
         "reference-name": "Souvenir Stall",
@@ -2709,11 +2729,11 @@
     },
     "rct2.ride.nrl2": {
         "reference-name": "Steam Trains with Covered Cars",
-        "name": "Dampfzüge mit überdacht. Wagons",
+        "name": "Dampfzüge mit überdacht. Waggons",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
-        "description": "Mini-Dampfzüge bestehend aus nachgemachter Dampflok und Tender mit Holzwagons mit Stoffdächern",
+        "description": "Mini-Dampfzüge bestehend aus nachgemachter Dampflok und Tender mit Holzwaggons mit Stoffdächern",
         "reference-capacity": "6 passengers per carriage",
-        "capacity": "6 Fahrgäste pro Wagon"
+        "capacity": "6 Fahrgäste pro Waggon"
     },
     "rct2.ride.bmsd": {
         "reference-name": "Twister Trains",
@@ -2885,7 +2905,7 @@
         "reference-description": "Riders view a film inside the motion simulator pod while it is twisted and moved around by a hydraulic arm",
         "description": "Die Passagiere sehen in einer Bewegungssimulationskapsel, die von einem hydraulischen Arm gedreht und herumbewegt wird, einen Film",
         "reference-capacity": "8 passengers",
-        "capacity": "8 Passagiere"
+        "capacity": "8 Fahrgäste"
     },
     "rct2.ride.amt1": {
         "reference-name": "Mine Trains",
@@ -2947,7 +2967,7 @@
         "reference-description": "Riders ride in a submerged submarine through an underwater course",
         "description": "Die Passagiere fahren in einem U-Boot durch eine Unterwasserstrecke",
         "reference-capacity": "4 passengers per submarine",
-        "capacity": "4 Passagiere pro U-Boot"
+        "capacity": "4 Fahrgäste pro U-Boot"
     },
     "rct2.ride.fwh1": {
         "reference-name": "Ferris Wheel",
@@ -3171,7 +3191,7 @@
         "reference-description": "Long canoes which the passengers paddle themselves",
         "description": "Lange Kanus, in denen die Passagiere selbst rudern",
         "reference-capacity": "2 passengers per canoe",
-        "capacity": "2 Passagiere pro Kanu"
+        "capacity": "2 Fahrgäste pro Kanu"
     },
     "rct2.ride.cookst": {
         "reference-name": "Cookie Shop",
@@ -3399,9 +3419,9 @@
         "reference-name": "Steam Trains",
         "name": "Dampfzüge",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
-        "description": "Mini-Dampfzüge bestehend aus nachgemachter Dampflok und Tender mit offenen Holzwagons",
+        "description": "Mini-Dampfzüge bestehend aus nachgemachter Dampflok und Tender mit offenen Holzwaggons",
         "reference-capacity": "6 passengers per carriage",
-        "capacity": "6 Fahrgäste pro Wagon"
+        "capacity": "6 Fahrgäste pro Waggon"
     },
     "rct2.ride.cindr": {
         "reference-name": "Sujeonggwa Stall",
@@ -3415,7 +3435,7 @@
         "reference-description": "Powered vehicles in the shape of racing cars",
         "description": "Angetriebene Fahrzeuge in Form von Rennwagen",
         "reference-capacity": "1 passenger per car",
-        "capacity": "1 Passagier pro Wagen"
+        "capacity": "1 Fahrgast pro Wagen"
     },
     "rct2.ride.rsaus": {
         "reference-name": "Roast Sausage Stall",
@@ -3701,47 +3721,47 @@
     },
     "rct2.footpath_surface.queue_red": {
         "reference-name": "Red Queue (Stairs)",
-        "name": "Red Queue (Stairs)"
+        "name": "Rote Warteschlange (Treppe)"
     },
     "rct2.footpath_surface.queue_yellow": {
         "reference-name": "Yellow Queue (Stairs)",
-        "name": "Yellow Queue (Stairs)"
+        "name": "Gelbe Warteschlange (Treppe)"
     },
     "rct2.footpath_surface.tarmac": {
         "reference-name": "Tarmac Footpath (Stairs)",
-        "name": "Makadam-Fußweg"
+        "name": "Makadam-Fußweg (Treppe)"
     },
     "rct2.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Stairs)",
-        "name": "Fußweg mit verrücktem Belag"
+        "name": "Fußweg mit verrücktem Belag (Treppe)"
     },
     "rct2.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Rounded)",
-        "name": "Aschefußweg"
+        "name": "Aschefußweg (rund)"
     },
     "rct2.footpath_surface.queue_green": {
         "reference-name": "Dark Green Queue",
-        "name": "Dark Green Queue"
+        "name": "Dunkelgrüne Warteschlange"
     },
     "rct2.footpath_surface.tarmac_green": {
         "reference-name": "Dark Green Tarmac Footpath",
-        "name": "Grüner Makadam-Fußweg"
+        "name": "Dunkelgrüner Makadam-Fußweg"
     },
     "rct2.footpath_surface.queue_blue": {
         "reference-name": "Blue Queue (Stairs)",
-        "name": "Blue Queue (Stairs)"
+        "name": "Blaue Warteschlange (Treppe)"
     },
     "rct2.footpath_surface.tarmac_red": {
         "reference-name": "Red Tarmac Footpath (Stairs)",
-        "name": "Roter Makadam-Fußweg"
+        "name": "Roter Makadam-Fußweg (Treppe)"
     },
     "rct2.footpath_surface.tarmac_brown": {
         "reference-name": "Brown Tarmac Footpath (Stairs)",
-        "name": "Brauner Makadam-Fußweg"
+        "name": "Brauner Makadam-Fußweg (Treppe)"
     },
     "rct2.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Rounded)",
-        "name": "Dreckfußweg"
+        "name": "Dreckfußweg (rund)"
     },
     "rct2.footpath_surface.road": {
         "reference-name": "Road",
@@ -6089,7 +6109,7 @@
     },
     "rct2tt.footpath_railings.circuitboard_invisible": {
         "reference-name": "Sky Walk",
-        "name": "Sky Walk"
+        "name": "Schwebeweg"
     },
     "rct2tt.footpath_railings.balustrade": {
         "reference-name": "Balustrade",
@@ -6097,23 +6117,23 @@
     },
     "rct2tt.footpath_railings.medieval": {
         "reference-name": "Medieval Railings",
-        "name": "Medieval Railings"
+        "name": "Mittelaltergeländer"
     },
     "rct2tt.footpath_railings.rainbow": {
         "reference-name": "Rainbow Railings",
-        "name": "Rainbow Railings"
+        "name": "Regenbogengeländer"
     },
     "rct2tt.footpath_railings.circuitboard": {
         "reference-name": "Circuit Board Railings",
-        "name": "Circuit Board Railings"
+        "name": "Elektronische Geländer"
     },
     "rct2tt.footpath_railings.rocky": {
         "reference-name": "Jungle Railings",
-        "name": "Jungle Railings"
+        "name": "Dschungelgeländer"
     },
     "rct2tt.footpath_railings.pavement": {
         "reference-name": "Iron Railings",
-        "name": "Iron Railings"
+        "name": "Eisengeländer"
     },
     "rct2tt.ride.timemach": {
         "reference-name": "Time Machine",
@@ -6121,7 +6141,7 @@
         "reference-description": "Guests sit in a specially designed sphere, and experience the illusion of time travel",
         "description": "Die Gäste sitzen in einer speziell dafür gebauten Kugel und erfahren die Illusion einer Zeitreise",
         "reference-capacity": "1 guest per time machine",
-        "capacity": "1 pro Gast"
+        "capacity": "1 Gast pro Zeitmaschine"
     },
     "rct2tt.ride.flygboat": {
         "reference-name": "Flying Boats",
@@ -6577,11 +6597,11 @@
     },
     "rct2tt.footpath_surface.queue_pavement": {
         "reference-name": "Pavement Queue",
-        "name": "Pavement Queue"
+        "name": "Bürgersteigwarteschlange"
     },
     "rct2tt.footpath_surface.queue_rainbow": {
         "reference-name": "Rainbow Queue",
-        "name": "Rainbow Queue"
+        "name": "Regenbogenwarteschlange"
     },
     "rct2tt.footpath_surface.rainbow": {
         "reference-name": "Rainbow Footpath",
@@ -6605,7 +6625,7 @@
     },
     "rct2tt.footpath_surface.queue_circuitboard": {
         "reference-name": "Circuit Queue",
-        "name": "Circuit Queue"
+        "name": "Elektronische Warteschlange"
     },
     "rct2ww.scenery_large.hippo01": {
         "reference-name": "Hippo 1",
@@ -9149,7 +9169,7 @@
         "reference-description": "Roller coaster trains in the style of French high-speed trains (TGV) that are accelerated by linear induction motors",
         "description": "Achterbahnzüge im Stil französischer Schnellzüge (TGV), die mithilfe von Linearmotoren beschleunigt werden",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.caddilac": {
         "reference-name": "Limousine Trains",
@@ -9157,7 +9177,7 @@
         "reference-description": "Limousine-themed roller coaster cars",
         "description": "Achterbahnwagen im Limousinenstil",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.bomerang": {
         "reference-name": "Boomerang Trains",
@@ -9165,7 +9185,7 @@
         "reference-description": "Air-powered launched roller coaster trains in the shape of boomerangs",
         "description": "Bumerangförmige Achterbahnzüge, die luftbetrieben gestartet werden",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 pro Wagen"
+        "capacity": "2 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.coffeecu": {
         "reference-name": "Coffee Cup Ride",
@@ -9181,7 +9201,7 @@
         "reference-description": "Suspended roller coaster trains consisting of football-shaped cars able to swing freely as the train goes around corners",
         "description": "Hängender Achterbahnzug mit Wagen, die Fußbällen nachempfunden sind und in Kurven frei schwingen können",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.dolphinr": {
         "reference-name": "Dolphin Boats",
@@ -9189,7 +9209,7 @@
         "reference-description": "Single-seater dolphin-shaped vehicles which riders can drive themselves",
         "description": "Einsitzige delfinförmige Fahrzeuge, die die Passagiere selbst steuern können",
         "reference-capacity": "1 rider per vehicle",
-        "capacity": "1 Fahrgast pro Fahrzeug"
+        "capacity": "1 Fahrer pro Fahrzeug"
     },
     "rct2ww.ride.mandarin": {
         "reference-name": "Mandarin Duck Boats",
@@ -9197,7 +9217,7 @@
         "reference-description": "Duck-shaped boats, propelled by the pedalling front seat passengers",
         "description": "Entenförmige Boote, die von den Fahrgästen auf den Vordersitzen mit Pedalen angetrieben werden",
         "reference-capacity": "4 passengers per boat",
-        "capacity": "4 pro Boot"
+        "capacity": "4 Fahrgäste pro Boot"
     },
     "rct2ww.ride.crnvbfly": {
         "reference-name": "Carnival Butterfly Cars",
@@ -9205,7 +9225,7 @@
         "reference-description": "Cars in the shape of butterfly carnival floats",
         "description": "Schmetterlingsförmige Karnevalswagen",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 pro Wagen"
+        "capacity": "2 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.mantaray": {
         "reference-name": "Manta Ray Boats",
@@ -9213,7 +9233,7 @@
         "reference-description": "Coaster boats in the shape of a manta ray",
         "description": "Achterbahnboote in der Form eines Mantarochens",
         "reference-capacity": "6 passengers per boat",
-        "capacity": "6 pro Boot"
+        "capacity": "6 Fahrgäste pro Boot"
     },
     "rct2ww.ride.blackcab": {
         "reference-name": "Black Cabs",
@@ -9221,7 +9241,7 @@
         "reference-description": "Powered vehicles in the shape of London Taxis",
         "description": "Fahrzeuge mit Eigenantrieb und dem Aussehen von Londoner Taxis",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 pro Wagen"
+        "capacity": "2 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.skidoo": {
         "reference-name": "Skidoo Dodgems",
@@ -9237,7 +9257,7 @@
         "reference-description": "Decorative fishing boats, which the passengers paddle themselves",
         "description": "Dekorative Fischerboote, die die Fahrgäste selbst durch Paddeln bewegen",
         "reference-capacity": "2 passengers per boat",
-        "capacity": "2 pro Boot"
+        "capacity": "2 Fahrgäste pro Boot"
     },
     "rct2ww.ride.minelift": {
         "reference-name": "Mine Lift Cabin",
@@ -9253,7 +9273,7 @@
         "reference-description": "Suspended roller coaster trains consisting of sloth-shaped cars able to swing freely as the train goes around corners",
         "description": "Hängende Achterbahnzüge mit Wagen, die Faultieren nachempfunden sind und in Kurven frei schwingen können",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.huskie": {
         "reference-name": "Huskie Car",
@@ -9261,7 +9281,7 @@
         "reference-description": "Powered vehicles in the shape of Huskie sleds",
         "description": "Huskyschlittenförmige Fahrzeuge mit Eigenantrieb",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 pro Wagen"
+        "capacity": "2 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.condorrd": {
         "reference-name": "Condor Trains",
@@ -9285,7 +9305,7 @@
         "reference-description": "Trains with shoulder restraints, in the shape of conger eels",
         "description": "Aalförmige Züge mit Schulterhalterungen",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.dragdodg": {
         "reference-name": "Chinese Dragonhead Ride",
@@ -9325,7 +9345,7 @@
         "reference-description": "Penguin-shaped trains consisting of 2-seater cars where the riders are behind each other",
         "description": "Pinguinförmige Wagen, die aus Zweisitzerwagen bestehen, in denen die Fahrgäste hintereinander sitzen",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 pro Wagen"
+        "capacity": "2 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.crnvlzrd": {
         "reference-name": "Carnival Lizard Cars",
@@ -9333,7 +9353,7 @@
         "reference-description": "Cars in the shape of lizard carnival floats",
         "description": "Echsenförmige Karnevalswagen",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 pro Wagen"
+        "capacity": "2 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.killwhal": {
         "reference-name": "Killer Whale Submarines",
@@ -9341,7 +9361,7 @@
         "reference-description": "Riders ride in a submerged whale-shaped submarine through an underwater course",
         "description": "Die Passagiere fahren in einem walförmigen U-Boot durch eine Unterwasserstrecke",
         "reference-capacity": "5 passengers per submarine",
-        "capacity": "5 pro Wagen"
+        "capacity": "5 Fahrgäste pro U-Boot"
     },
     "rct2ww.ride.rocket": {
         "reference-name": "1950s Rockets",
@@ -9349,7 +9369,7 @@
         "reference-description": "Suspended rocket-shaped roller coaster trains consisting of cars able to swing freely as the train goes around corners",
         "description": "Hängende raketenförmige Achterbahnzüge, die aus Wagen bestehen, die frei schwingen können, wenn der Zug um die Kurven fährt",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.tutlboat": {
         "reference-name": "Turtle Boats",
@@ -9357,7 +9377,7 @@
         "reference-description": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
         "description": "Kleine, runde Schlauchboote, die von einem zentralen Motor angetrieben werden, der von den Fahrgästen gesteuert wird",
         "reference-capacity": "2 passengers per boat",
-        "capacity": "2 pro Boot"
+        "capacity": "2 Fahrgäste pro Boot"
     },
     "rct2ww.ride.gratwhte": {
         "reference-name": "Great White Shark Trains",
@@ -9365,7 +9385,7 @@
         "reference-description": "Trains with shoulder restraints, in the shape of a great white shark",
         "description": "Züge mit Schulterhalterungen, in der Form von Weißhaien",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.steamtrn": {
         "reference-name": "Maharaja Steam Trains",
@@ -9373,7 +9393,7 @@
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling closed-top wooden carriages",
         "description": "Miniaturdampfzüge, bestehend aus je einer Dampflokomotive plus Tender und geschlossenen Holzwaggons",
         "reference-capacity": "6 passengers per carriage",
-        "capacity": "6 pro Waggon"
+        "capacity": "6 Fahrgäste pro Waggon"
     },
     "rct2ww.ride.londonbs": {
         "reference-name": "Routemaster Buses",
@@ -9381,7 +9401,7 @@
         "reference-description": "Replicas of the famous London Routemaster bus",
         "description": "Nachbauten des berühmten Londoner Routemaster-Busses",
         "reference-capacity": "10 passengers per car",
-        "capacity": "10 pro Waggon"
+        "capacity": "10 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.rhinorid": {
         "reference-name": "Rhino Trains",
@@ -9389,7 +9409,7 @@
         "reference-description": "Compact roller coaster trains with cars with in-line seating, themed to look like rhinos",
         "description": "Kompakte Achterbahnzüge mit Wagen mit Sitzen in einer Reihe, mit dem Aussehen von Nashörnern",
         "reference-capacity": "6 passengers per car",
-        "capacity": "6 pro Wagen"
+        "capacity": "6 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.anaconda": {
         "reference-name": "Anaconda Trains",
@@ -9397,7 +9417,7 @@
         "reference-description": "Spacious trains with simple lap restraints",
         "description": "Geräumige Züge mit einfachen Beckenhalterungen",
         "reference-capacity": "6 passengers per car",
-        "capacity": "6 pro Wagen"
+        "capacity": "6 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.italypor": {
         "reference-name": "Italian Police Ride",
@@ -9413,7 +9433,7 @@
         "reference-description": "Suspended roller coaster trains consisting of gorilla-shaped cars able to swing freely as the train goes around corners",
         "description": "Aufgehängte Achterbahnzüge, deren gorillaförmige Wagen frei schwingen können, wenn der Zug in die Kurven geht",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.ostrich": {
         "reference-name": "Ostrich Trains",
@@ -9421,7 +9441,7 @@
         "reference-description": "Roller coaster trains in which the riders ride in a standing position and the cars are themed to look like ostriches",
         "description": "Achterbahnzüge, bei der sich die Fahrgäste in einer stehenden Position befinden und die Wagen wie Strauße aussehen",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.crnvfrog": {
         "reference-name": "Carnival Frog Cars",
@@ -9429,7 +9449,7 @@
         "reference-description": "Cars in the shape of frog carnival floats",
         "description": "Froschförmige Karnevalswagen",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 pro Wagen"
+        "capacity": "2 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.dragon": {
         "reference-name": "Dragon Trains",
@@ -9437,7 +9457,7 @@
         "reference-description": "Dragon-themed roller coaster cars",
         "description": "Achterbahnwagen im Drachenstil",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.minecart": {
         "reference-name": "Mine Cart Trains",
@@ -9445,7 +9465,7 @@
         "reference-description": "Wooden roller coaster trains with padded seats and lap bar restraints",
         "description": "Holzachterbahnzüge mit gepolsterten Sitzen und Beckenhalterungen",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.firecrak": {
         "reference-name": "Fire Cracker Ride",
@@ -9461,7 +9481,7 @@
         "reference-description": "Riders ride in a submerged hippo-shaped submarine through an underwater course",
         "description": "Die Passagiere fahren in einem nilpferdförmigen U-Boot durch eine Unterwasserstrecke",
         "reference-capacity": "5 passengers per submarine",
-        "capacity": "5 pro Wagen"
+        "capacity": "5 Fahrgäste pro U-Boot"
     },
     "rct2ww.ride.rssncrrd": {
         "reference-name": "Trabant Cars",
@@ -9469,7 +9489,7 @@
         "reference-description": "Roller coaster cars in the shape of replica Trabant cars",
         "description": "Achterbahnwagen mit dem Aussehen von Trabantautos",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.kolaride": {
         "reference-name": "Koala Car",
@@ -9477,7 +9497,7 @@
         "reference-description": "Large koala-shaped coaster car for the Reverse Freefall Coaster",
         "description": "Großer koalaförmiger Wagen für die umgekehrte Freefall-Bahn",
         "reference-capacity": "8 passengers per car",
-        "capacity": "8 pro Wagen"
+        "capacity": "8 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.seals": {
         "reference-name": "Seal Trains",
@@ -9485,7 +9505,7 @@
         "reference-description": "Roller coaster trains with shoulder restraints themed to look like seals",
         "description": "Achterbahnzüge mit Schulterhalterungen, in der Form von Robben",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.polarber": {
         "reference-name": "Polar Bear Trains",
@@ -9493,7 +9513,7 @@
         "reference-description": "Polar bear-shaped suspended roller coaster trains in which riders sit in pairs facing either forwards or backwards",
         "description": "Eisbärenförmige hängende Achterbahnzüge, in denen die Fahrgäste paarweise sitzen und entweder nach vorne oder nach hinten blicken",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.taxicstr": {
         "reference-name": "Yellow Taxi Trains",
@@ -9501,7 +9521,7 @@
         "reference-description": "Roller coaster trains for the Giga Coaster, themed to look like long yellow taxis",
         "description": "Achterbahnzüge für die Giga-Bahn, die wie lange gelbe Taxis aussehen",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.whicgrub": {
         "reference-name": "Witchetty Grub Trains",
@@ -9509,7 +9529,7 @@
         "reference-description": "Roller coaster trains with small grub-shaped cars",
         "description": "Achterbahnwagen mit dem Aussehen von Maden",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 pro Wagen"
+        "capacity": "2 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.jaguarrd": {
         "reference-name": "Jaguar Cars",
@@ -9517,7 +9537,7 @@
         "reference-description": "Roller coaster cars themed to look like jaguars",
         "description": "Achterbahnwagen, die wie Jaguare aussehen",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.sputnikr": {
         "reference-name": "Sputnik Cars",
@@ -9525,7 +9545,7 @@
         "reference-description": "Russian satellite-shaped cars which swing from the rail above",
         "description": "Russische satellitenförmige Wagen, die von der Schiene oberhalb schwingen",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 pro Wagen"
+        "capacity": "2 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.outriggr": {
         "reference-name": "Outrigger Canoes",
@@ -9533,7 +9553,7 @@
         "reference-description": "Long canoes which the passengers paddle themselves",
         "description": "Lange Kanus, in denen die Passagiere selbst rudern",
         "reference-capacity": "2 passengers per canoe",
-        "capacity": "2 pro Kanu"
+        "capacity": "2 Fahrgäste pro Kanu"
     },
     "rct2ww.ride.stgccstr": {
         "reference-name": "Stage Coaches",
@@ -9541,7 +9561,7 @@
         "reference-description": "Single roller coaster cars in the shape of a stage coach, with padded seats and lap bar restraints",
         "description": "Einzelne Achterbahnwagen in der Form einer Postkutsche, mit gepolsterten Sitzen und Beckenhalterungen",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.surfbrdc": {
         "reference-name": "Surfing Trains",
@@ -9549,7 +9569,7 @@
         "reference-description": "Wide coaster trains on which the riders stand on a surfboard with specially designed restraints",
         "description": "Breite Achterbahnzüge, in denen die Fahrgäste auf einem Surfbrett mit besonderen Haltevorrichtungen stehen",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.bullet": {
         "reference-name": "Bullet Trains",
@@ -9557,7 +9577,7 @@
         "reference-description": "Japanese Bullet Train themed roller coaster cars",
         "description": "Achterbahnzüge im Stil japanischer Schnellzüge (sogenannter Bullet Trains)",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.crocflum": {
         "reference-name": "Crocodile Boats",
@@ -9565,7 +9585,7 @@
         "reference-description": "Crocodile-shaped boats built for running in water channels",
         "description": "Krokodilsförmige Boote, die für die Fahrt in Wasserkanälen ausgelegt sind",
         "reference-capacity": "4 passengers per boat",
-        "capacity": "4 pro Boot"
+        "capacity": "4 Fahrgäste pro Boot"
     },
     "rct2ww.ride.sanftram": {
         "reference-name": "San Francisco Trams",
@@ -9573,7 +9593,7 @@
         "reference-description": "Replicas of the San Francisco Trams",
         "description": "Nachgebaute Straßenbahnen",
         "reference-capacity": "10 passengers per car",
-        "capacity": "10 pro Waggon"
+        "capacity": "10 Fahrgäste pro Wagen"
     },
     "rct2ww.ride.tigrtwst": {
         "reference-name": "Bengal Tiger Cars",
@@ -9581,7 +9601,7 @@
         "reference-description": "Roller coaster cars capable of heartline twists, themend to look like Bengal tigers",
         "description": "Achterbahnwagen, die sich um ihre Mittelachse drehen können, mit dem Aussehen von Bengalischen Tigern",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 pro Wagen"
+        "capacity": "4 Fahrgäste pro Wagen"
     },
     "rct2ww.park_entrance.ozentran": {
         "reference-name": "Australasian Park Entrance",
@@ -9617,15 +9637,15 @@
     },
     "rct1ll.footpath_railings.bamboo": {
         "reference-name": "Bamboo Railings (Yellow)",
-        "name": "Bamboo Railings (Yellow)"
+        "name": "Bambusgeländer (gelb)"
     },
     "rct1ll.footpath_railings.space": {
         "reference-name": "Space Style Railings (Grey)",
-        "name": "Space Style Railings (Grey)"
+        "name": "Weltraumstilgeländer (grau)"
     },
     "rct1.audio.title": {
         "reference-name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes).",
-        "name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes)."
+        "name": "Titelbildschirmmusik für RollerCoaster Tycoon (Loopy Landscapes)."
     },
     "rct1.ride.rocket_cars": {
         "reference-name": "Rocket Cars",
@@ -9659,7 +9679,7 @@
     },
     "rct1.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Sloped)",
-        "name": "Fußweg mit verrücktem Belag"
+        "name": "Fußweg mit verrücktem Belag (Schräge)"
     },
     "rct1ll.footpath_surface.tiles_red": {
         "reference-name": "Red and Brown Tiled Footpath",
@@ -9667,7 +9687,7 @@
     },
     "rct1.footpath_surface.tarmac": {
         "reference-name": "Tarmac Footpath (Sloped)",
-        "name": "Makadam-Fußweg"
+        "name": "Makadam-Fußweg (Schräge)"
     },
     "rct1aa.footpath_surface.tiles_grey": {
         "reference-name": "Grey Tiled Footpath",
@@ -9675,7 +9695,7 @@
     },
     "rct1.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Square)",
-        "name": "Dreckfußweg"
+        "name": "Dreckfußweg (quadratisch)"
     },
     "rct1aa.footpath_surface.tarmac_red": {
         "reference-name": "Red Tarmac Footpath (Sloped)",
@@ -9687,15 +9707,15 @@
     },
     "rct1.footpath_surface.queue_blue": {
         "reference-name": "Blue Queue (Sloped)",
-        "name": "Blue Queue (Sloped)"
+        "name": "Blaue Warteschlange (Schräge)"
     },
     "rct1aa.footpath_surface.queue_yellow": {
         "reference-name": "Yellow Queue (Sloped)",
-        "name": "Yellow Queue (Sloped)"
+        "name": "Gelbe Warteschlange (Schräge)"
     },
     "rct1aa.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Square)",
-        "name": "Aschefußweg"
+        "name": "Aschefußweg (quadratisch)"
     },
     "rct1aa.footpath_surface.tarmac_green": {
         "reference-name": "Green Tarmac Footpath",
@@ -9707,15 +9727,15 @@
     },
     "rct1aa.footpath_surface.tarmac_brown": {
         "reference-name": "Brown Tarmac Footpath (Sloped)",
-        "name": "Brauner Makadam-Fußweg"
+        "name": "Brauner Makadam-Fußweg (Schräge)"
     },
     "rct1aa.footpath_surface.queue_red": {
         "reference-name": "Red Queue (Sloped)",
-        "name": "Red Queue (Sloped)"
+        "name": "Rote Warteschlange (Schräge)"
     },
     "rct1aa.footpath_surface.queue_green": {
         "reference-name": "Green Queue",
-        "name": "Green Queue"
+        "name": "Grüne Warteschlange"
     },
     "rct1ll.terrain_surface.roof_grey": {
         "reference-name": "Roof (Grey)",
