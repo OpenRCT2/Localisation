@@ -2,12 +2,12 @@ STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
 STR_0002    :Spiraalachtbaan
 STR_0003    :Staande achtbaan
-STR_0004    :Omgekeerde schommelachtbaan
-STR_0005    :Omgekeerde achtbaan
+STR_0004    :Hangende schommelachtbaan
+STR_0005    :Hangende achtbaan
 STR_0006    :Juniorachtbaan
 STR_0007    :Miniatuurspoorweg
 STR_0008    :Monorail
-STR_0009    :Omgekeerde mini-achtbaan
+STR_0009    :Hangende mini-achtbaan
 STR_0010    :Bootverhuur
 STR_0011    :Houten wildemuisachtbaan
 STR_0012    :Steeplechase
@@ -15,11 +15,11 @@ STR_0013    :Autorondrit
 STR_0014    :Gelanceerde vrije val
 STR_0015    :Bobslee-achtbaan
 STR_0016    :Observatietoren
-STR_0017    :Stalen achtbaan
+STR_0017    :Loopingachtbaan
 STR_0018    :Waterglijbaan
 STR_0019    :Mijntreinachtbaan
-STR_0020    :Stoeltjeslift
-STR_0021    :Stalen schroefachtbaan
+STR_0020    :Kabelbaan
+STR_0021    :Kurkentrekker-achtbaan
 STR_0022    :Doolhof
 STR_0023    :Spiraalglijbaan
 STR_0024    :Go-karts
@@ -63,7 +63,7 @@ STR_0061    :Virginia Reel
 STR_0062    :Plonsboten
 STR_0063    :Minihelikopters
 STR_0064    :Liggende achtbaan
-STR_0065    :Omgekeerde monorail
+STR_0065    :Hangende monorail
 STR_0066    :Onbekende attractie (40)
 STR_0067    :Houten achteruitachtbaan
 STR_0068    :Heartline-twisterachtbaan
@@ -73,10 +73,10 @@ STR_0071    :Roto-drop
 STR_0072    :Vliegende schotels
 STR_0073    :Crooked house
 STR_0074    :Fietsbaan
-STR_0075    :Compacte omgekeerde achtbaan
+STR_0075    :Compacte hangende achtbaan
 STR_0076    :Waterachtbaan
 STR_0077    :Verticale achtbaan op luchtdruk
-STR_0078    :Omgekeerde haarspeldachtbaan
+STR_0078    :Hangende haarspeldachtbaan
 STR_0079    :Vliegend tapijt
 STR_0080    :Onderzeeër-attractie
 STR_0081    :Riviertocht
@@ -86,7 +86,7 @@ STR_0084    :Onbekende attractie (52)
 STR_0085    :Onbekende attractie (53)
 STR_0086    :Onbekende attractie (54)
 STR_0087    :Onbekende attractie (55)
-STR_0088    :Omgekeerde Impulse-achtbaan
+STR_0088    :Hangende Impuls-achtbaan
 STR_0089    :Mini-achtbaan
 STR_0090    :Aangedreven mijntrein
 STR_0091    :Onbekende attractie (59)
@@ -169,7 +169,7 @@ STR_0589    :
 STR_0590    :Passagiers rijden over een onderwaterparcours in onderzeeërs.
 STR_0591    :Boten in de vorm van een vlot varen rustig door een waterbak.
 STR_0593    :
-STR_0598    :Een omgekeerde achtbaantrein wordt het station uit gelanceerd en gaat een verticale kronkelende baan op, waarna deze terugzakt, door het station heengaat en achteruit een ander stuk verticale baan opgaat.
+STR_0598    :Een hangende achtbaantrein wordt het station uit gelanceerd en gaat een verticale kronkelende baan op, waarna deze terugzakt, door het station heengaat en achteruit een ander stuk verticale baan opgaat.
 STR_0599    :Een compacte achtbaan met individuele karretjes en steile, kronkelende afdalingen.
 STR_0600    :Aangedreven mijntreinen rijden over een soepele en kronkelende baan.
 STR_0602    :Achtbaantreinen worden door lineaire inductiemotoren het station uit gelanceerd en razen door een kronkelende baan die vaak over de kop gaat.
@@ -752,8 +752,8 @@ STR_1364    :Ondersteuningen voor de baan kunnen niet verder verlengd worden!
 STR_1365    :Inlinetwist (links)
 STR_1366    :Inlinetwist (rechts)
 STR_1367    :Kleine halve looping
-STR_1368    :Halve schroef (links)
-STR_1369    :Halve schroef (rechts)
+STR_1368    :Halve kurkentrekker (links)
+STR_1369    :Halve kurkentrekker (rechts)
 STR_1370    :Barrel roll (links)
 STR_1371    :Barrel roll (rechts)
 STR_1372    :Gelanceerde liftheuvel
@@ -3087,8 +3087,8 @@ STR_5930    :Details groot decor
 STR_5931    :Details lichtkrant
 STR_5932    :Details ongeldig element
 STR_5933    :Eigenschappen
-STR_5934    :Terreinoppervlak: {BLACK}{STRINGID}
-STR_5935    :Zijkant terrein: {BLACK}{STRINGID}
+STR_5934    :Terreinoppervlakte: {BLACK}{STRINGID}
+STR_5935    :Terreinzijkant: {BLACK}{STRINGID}
 STR_5936    :Landeigendom: {BLACK}{STRINGID}
 STR_5937    :Niet in bezit en niet te koop
 STR_5938    :Waterniveau: {BLACK}{COMMA16}
@@ -3384,8 +3384,8 @@ STR_6266    :Map voor custom content openen
 STR_6267    :Vakinspecteur openen
 STR_6268    :Doorgaan naar volgende tick
 STR_6269    :Ongeldig klimaat-ID
-STR_6270    :Oppervlakken terrein
-STR_6271    :Zijkanten terrein
+STR_6270    :Terreinoppervlakten
+STR_6271    :Terreinzijkanten
 STR_6272    :Stations
 STR_6273    :Muziek
 STR_6274    :Kan kleurenschema niet instellen…
@@ -3417,7 +3417,7 @@ STR_6308    :{TOPAZ}“{STRINGID}{OUTLINE}{TOPAZ}”{NEWLINE}{STRINGID}
 STR_6309    :Opnieuw verbinden
 STR_6310    :{WINDOW_COLOUR_2}Positie: {BLACK}{INT32} {INT32} {INT32}
 STR_6311    :{WINDOW_COLOUR_2}Volgende: {BLACK}{INT32} {INT32} {INT32}
-STR_6312    :(oppervlak)
+STR_6312    :(oppervlakte)
 STR_6313    :(helling {INT32})
 STR_6314    :{WINDOW_COLOUR_2}Bestemming: {BLACK}{INT32}, {INT32} tolerantie {INT32}
 STR_6315    :{WINDOW_COLOUR_2}Pathfind-doel: {BLACK}{INT32}, {INT32}, {INT32} richting {INT32}
@@ -3604,13 +3604,13 @@ STR_6497    :Klik op een vakje om de elementen erop te tonen.{NEWLINE}Om direct 
 STR_6498    :Schakel dit in om de kaart vierkant te houden.
 STR_6499    :Voertuigtype niet ondersteund door bestandsindeling voor baanontwerpen.
 STR_6500    :Baanelementen niet ondersteund door bestandsindeling voor baanontwerpen.
-STR_6501    :Willekeurig
-STR_6502    :Voer een waarde in tussen {COMMA16} en {COMMA16}
-STR_6503    :Er moet minstens één stationstype geselecteerd zijn.
-STR_6504    :Er moet minstens één terreinoppervlak geselecteerd zijn.
+STR_6501    :Willekeurige kleur
+STR_6502    :Voer een waarde tussen {COMMA16} en {COMMA16} in.
+STR_6503    :Er moet minstens één stationsstijl geselecteerd zijn.
+STR_6504    :Er moet minstens één terreinoppervlakte geselecteerd zijn.
 STR_6505    :Er moet minstens één terreinzijkant geselecteerd zijn.
-STR_6506    :Grote halve schroef (links)
-STR_6507    :Grote halve schroef (rechts)
+STR_6506    :Grote halve kurkentrekker (links)
+STR_6507    :Grote halve kurkentrekker (rechts)
 STR_6508    :Middelgrote halve looping (links)
 STR_6509    :Middelgrote halve looping (rechts)
 STR_6510    :0 g-rol (links)
