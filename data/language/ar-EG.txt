@@ -647,13 +647,13 @@ STR_1260    :Stations
 STR_1261    :{COMMA16} station
 STR_1262    :{COMMA16} stations
 STR_1263    :Station {COMMA16}
-STR_1264    :car
-STR_1265    :cars
-STR_1266    :Car
-STR_1267    :Cars
-STR_1268    :{COMMA16} car
-STR_1269    :{COMMA16} cars
-STR_1270    :Car {COMMA16}
+STR_1264    :عربة
+STR_1265    :عربات
+STR_1266    :عربة
+STR_1267    :عربات
+STR_1268    :{COMMA16} عربة
+STR_1269    :{COMMA16} عربات
+STR_1270    :عربة {COMMA16}
 STR_1271    :building
 STR_1272    :buildings
 STR_1273    :Building
@@ -668,8 +668,8 @@ STR_1281    :Structures
 STR_1282    :{COMMA16} structure
 STR_1283    :{COMMA16} structures
 STR_1284    :Structure {COMMA16}
-STR_1285    :ship
-STR_1286    :ships
+STR_1285    :سفينة
+STR_1286    :سُفن
 STR_1287    :Ship
 STR_1288    :Ships
 STR_1289    :{COMMA16} ship
@@ -787,7 +787,7 @@ STR_1400    :مدخل
 STR_1401    :مخرج
 STR_1402    :Build or move entrance to ride/attraction
 STR_1403    :Build or move exit from ride/attraction
-STR_1404    :Rotate 90°
+STR_1404    :أدر 90°
 STR_1405    :Mirror image
 STR_1406    :Toggle scenery on/off (if available for this design)
 STR_1407    :{WINDOW_COLOUR_2}Build this…
@@ -815,23 +815,23 @@ STR_1428    :{WINDOW_COLOUR_2}Admission price:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :حر
 STR_1431    :يمشي
-STR_1432    :Heading for {STRINGID}
-STR_1433    :Queuing for {STRINGID}
-STR_1434    :Drowning
+STR_1432    :يتجه لـ {STRINGID}
+STR_1433    :ينتظر لـ {STRINGID}
+STR_1434    :يغرق
 STR_1435    :علي {STRINGID}
 STR_1436    :في {STRINGID}
 STR_1437    :عند {STRINGID}
 STR_1438    :جالس
 STR_1439    :(حدد المكان)
-STR_1440    :Mowing grass
+STR_1440    :يجز العشب
 STR_1441    :Sweeping footpath
 STR_1442    :Emptying litter bin
 STR_1443    :Watering gardens
 STR_1444    :Watching {STRINGID}
 STR_1445    :Watching construction of {STRINGID}
-STR_1446    :Looking at scenery
+STR_1446    :يشاهد المناظر الطبيعية
 STR_1447    :يغادر الظلام
-STR_1448    :Watching new ride being constructed
+STR_1448    :يشاهد رحلة جديدة قيد الإنشاء
 STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
@@ -853,7 +853,7 @@ STR_1466    :Helix down (small)
 STR_1467    :Helix down (large)
 STR_1468    :العاملون
 STR_1469    :Ride must start and end with stations
-STR_1470    :Station not long enough
+STR_1470    :المحطة ليست طويلة بشكل كافي
 STR_1471    :{WINDOW_COLOUR_2}السرعة:
 STR_1472    :السرعة لهذه الرحلة
 STR_1473    :{WINDOW_COLOUR_2}Excitement rating: {BLACK}{COMMA2DP32}  ({STRINGID})
@@ -866,7 +866,7 @@ STR_1479    :{WINDOW_COLOUR_2}Nausea rating: {BLACK}Not yet available
 STR_1480    :“لا يمكنني تحمل كلفة {STRINGID}”
 STR_1481    :“لقد أنفقت كل مالي”
 STR_1482    :“أنا أشعر بالتعب”
-STR_1483    :“أنا أشعر بالتنعب الشديد”
+STR_1483    :“أنا أشعر بالتعب الشديد”
 STR_1484    :“I want to go on something more thrilling than {STRINGID}”
 STR_1485    :“{STRINGID} looks too intense for me”
 STR_1486    :“لقد إنتهيت من {STRINGID} yet”
@@ -875,9 +875,9 @@ STR_1488    :“I’m not paying that much to go on {STRINGID}”
 STR_1489    :“أنا أود الذهاب للمنزل”
 STR_1490    :“{STRINGID} is really good value”
 STR_1491    :“I’ve already got {STRINGID}”
-STR_1492    :“I can’t afford {STRINGID}”
-STR_1493    :“I’m not hungry”
-STR_1494    :“I’m not thirsty”
+STR_1492    :“لا يمكنني تحمل كلفة {STRINGID}”
+STR_1493    :“أنا لست جائعاً”
+STR_1494    :“أنا لست عطشاً”
 STR_1495    :“النجدة! أنا أغرق!”
 STR_1496    :“أنا تائه!”
 STR_1497    :“{STRINGID} was great”
