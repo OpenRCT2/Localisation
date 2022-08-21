@@ -3191,7 +3191,7 @@ STR_6033    :Sti til RCT1 insallasjonsmappe:
 STR_6034    :{BLACK}{STRING}
 STR_6035    :Velg din RCT1-mappe
 STR_6036    :Visk ut
-STR_6037    :Vennligst velg en gyldig RCT1 mappe
+STR_6037    :Den valgte mappen inneholder ikke en gyldig installasjon av RCT1.
 STR_6038    :Hvis du har RCT1 installert kan du sette denne verdien for å hente inn blant annet scenarier og musikk
 STR_6039    :Rask attraksjonsrivning
 STR_6040    :Endre scenarioinnstillinger
@@ -3480,6 +3480,8 @@ STR_6367    :Animasjonssteg:
 STR_6368    :Av kompatibilitetshensyn er det ikke anbefalt å kjøre OpenRCT2 under Wine. OpenRCT2 støtter macOS, Linux, FreeBSD og OpenBSD.
 STR_6369    :Tillat å bygge baneelementer i ugyldig høyde
 STR_6370    :Tillater bygging av baneelementer i alle høydeintervaller
+STR_6371    :Den angitte filstien inneholder en installasjon av RollerCoaster Tycoon 1, men filen “csg1i.dat” mangler. Denne filen må kopieres fra CD-en til Loopy Landscapes eller RCT Deluxe til “Data”-mappen i din installasjon av RollerCoaster Tycoon 1.
+STR_6372    :Den angitte filstien inneholder en installasjon av RollerCoaster Tycoon 1, men den installerte versjonen er ikke riktig. OpenRCT2 trenger en installasjon av Loopy Landscapes eller RCT Deluxe for å kunne bruke ressurser fra RollerCoaster Tycoon 1.
 
 #############
 # Scenarios #
