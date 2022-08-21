@@ -1572,7 +1572,7 @@ STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
 STR_2216    :{WINDOW_COLOUR_2}{COMMA16}°C
 STR_2217    :{WINDOW_COLOUR_2}{COMMA16}°F
 STR_2218    :{RED}{STRINGID} on {STRINGID} hasn’t returned to the {STRINGID} yet!{NEWLINE}Check whether it is stuck or has stalled
-STR_2219    :{RED}{COMMA16} people have died in an accident on {STRINGID}
+STR_6364    :{RED}{COMMA16} personer har omkommet i en ulykke på {STRINGID}
 STR_2220    :{WINDOW_COLOUR_2}Park Rating: {BLACK}{COMMA16}
 STR_2221    :Park Rating: {COMMA16}
 STR_2222    :{BLACK}{STRINGID}
@@ -3471,6 +3471,7 @@ STR_6360    :{BLACK}{COMMA32}
 STR_6361    :Skru på lyseffekter på attraksjoner (eksperimentelt)
 STR_6362    :Hvis aktivert vil det være lys på vognene til attraksjoner som går på bane.
 STR_6363    :Tekst kopiert til utklippstavlen
+STR_6364    :{RED}{COMMA16} person har omkommet i en ulykke på {STRINGID}
 STR_6365    :Dødsfall på attraksjoner
 STR_6366    :Vogner som står fast eller har mistet farten
 
