@@ -487,35 +487,35 @@ STR_1095    :Mode circuit continu amb blocs de seccions
 STR_1096    :Llançament impulsat (sense passar per l’andana)
 STR_1097    :Mode llançament impulsat seccionat per blocs
 STR_1098    :Movent-se cap al final de {POP16}{STRINGID}
-STR_1099    :Esperant passatgers en {POP16}{STRINGID}
-STR_1100    :Esperant per sortir de {POP16}{STRINGID}
-STR_1101    :Sortint de {POP16}{STRINGID}
-STR_1102    :Movent-se a {VELOCITY}
-STR_1103    :Arribant a {POP16}{STRINGID}
-STR_1104    :Descarregant passatgers en {POP16}{STRINGID}
-STR_1105    :Viatjant a {VELOCITY}
+STR_1099    :S’esperen passatgers en {POP16}{STRINGID}
+STR_1100    :S’espera per a sortir de {POP16}{STRINGID}
+STR_1101    :Es surt de {POP16}{STRINGID}
+STR_1102    :Es mou a {VELOCITY}
+STR_1103    :S’arriba a {POP16}{STRINGID}
+STR_1104    :Es descarreguen els passatgers en {POP16}{STRINGID}
+STR_1105    :Va a {VELOCITY}
 STR_1106    :S’estavella!
 STR_1107    :Sinistre!
-STR_1108    :Viatjant a {VELOCITY}
-STR_1109    :Balancejant-se
-STR_1110    :Girant
-STR_1111    :Girant
-STR_1112    :Operant
-STR_1113    :Reproduint una pel·lícula
-STR_1114    :Girant
-STR_1115    :Operant
-STR_1116    :Operant
-STR_1117    :Oferint espectacle de circ
-STR_1118    :Operant
-STR_1119    :Esperant el cable d’ascens
-STR_1120    :Viatjant a {VELOCITY}
-STR_1121    :Parant-se
-STR_1122    :Esperant passatgers
-STR_1123    :Esperant per començar
-STR_1124    :Començant
-STR_1125    :Operant
-STR_1126    :Parant-se
-STR_1127    :Descarregant passatgers
+STR_1108    :Circula a {VELOCITY}
+STR_1109    :Es balanceja
+STR_1110    :Gira
+STR_1111    :Gira
+STR_1112    :Opera
+STR_1113    :Reprodueix una pel·lícula
+STR_1114    :Gira
+STR_1115    :Opera
+STR_1116    :Opera
+STR_1117    :Ofereix espectacle de circ
+STR_1118    :Opera
+STR_1119    :Espera el cable d’ascens
+STR_1120    :Circula a {VELOCITY}
+STR_1121    :Es para
+STR_1122    :Espera passatgers
+STR_1123    :Espera per a començar
+STR_1124    :Comença
+STR_1125    :Opera
+STR_1126    :Es para
+STR_1127    :Es descarreguen passatgers
 STR_1128    :Parat pels frens del bloc
 STR_1129    :Tots els vagons del mateix color
 STR_1130    :Colors diferents per {STRINGID}
@@ -819,24 +819,24 @@ STR_1427    :{WINDOW_COLOUR_2}Clients: {BLACK}{COMMA32} per hora
 STR_1428    :{WINDOW_COLOUR_2}Preu de l’entrada:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :Gratuïta
-STR_1431    :Caminant
-STR_1432    :Dirigint-se cap a {STRINGID}
-STR_1433    :Fent cua per {STRINGID}
-STR_1434    :Ofegant-se
+STR_1431    :Camina
+STR_1432    :Es dirigeix cap a {STRINGID}
+STR_1433    :Fa cua per {STRINGID}
+STR_1434    :S’ofega
 STR_1435    :En {STRINGID}
 STR_1436    :En {STRINGID}
 STR_1437    :En {STRINGID}
 STR_1438    :Assegut
 STR_1439    :(seleccioneu-ne la nova ubicació)
-STR_1440    :Segant la gespa
-STR_1441    :Netejant el terra
-STR_1442    :Buidant una paperera
-STR_1443    :Regant els jardins
-STR_1444    :Mirant {STRINGID}
-STR_1445    :Mirant la construcció de {STRINGID}
-STR_1446    :Mirant el paisatge
-STR_1447    :Sortint del parc
-STR_1448    :Mirant com es construeix una nova atracció
+STR_1440    :Sega la gespa
+STR_1441    :Neteja el terra
+STR_1442    :Buida una paperera
+STR_1443    :Rega els jardins
+STR_1444    :Mira {STRINGID}
+STR_1445    :Mira la construcció de {STRINGID}
+STR_1446    :Mira el paisatge
+STR_1447    :Surt del parc
+STR_1448    :Mira com es construeix una nova atracció
 STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
 STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
