@@ -3471,7 +3471,7 @@ STR_6358    :Página {UINT16}
 STR_6359    :{POP16}{POP16}Página {UINT16}
 STR_6360    :{BLACK}{COMMA32}
 STR_6361    :Habilitar efectos de luz en atracciones (experimental)
-STR_6362    :Si está activado, vehículos para las atracciones con vias estarán iluminados de noche.
+STR_6362    :Si está activado, vehículos para las atracciones con vías estarán iluminados de noche.
 STR_6363    :Copiar texto al portapapeles
 STR_6364    :{RED}{COMMA16} persona ha muerto en un accidente a bordo de {STRINGID}
 STR_6365    :Fallecimientos en la atracción
@@ -3507,7 +3507,7 @@ STR_6394    :Objetivo
 STR_6395    :Mantenimiento
 STR_6396    :Deshabilitar protector y ahorro de energía del monitor.
 STR_6397    :Si está activado, el salvapantallas y otras funciones de ahorro de energía estarán inhabilitadas mientras OpenRCT2 esté abierto.
-STR_6398    :El archivo contiene atracciones incompatibles. Por favor actualiza a una versión mas nueva de OpenRCT2.
+STR_6398    :El archivo contiene atracciones incompatibles. Por favor actualiza a una versión más nueva de OpenRCT2.
 STR_6399    :OpenRCT2 necesita archivos del juego original RollerCoaster Tycoon 2 para funcionar. Por favor establece la variable ‘game_path’ en config.ini apuntando al directorio donde instalaste RollerCoaster Tycoon 2, y reinicia OpenRCT2.
 STR_6400    :He descargado el instalador sin conexión de GOG, pero no está instalado.
 STR_6401    :Ya instalé RollerCoaster Tycoon 2
@@ -3577,8 +3577,8 @@ STR_6465    :Intensidad: {COMMA2DP32}
 STR_6466    :Náusea
 STR_6467    :Náusea: {COMMA2DP32}
 STR_6468    :Todavía no disponible
-STR_6469    :Ajustar la zona de patrulla mas pequeña
-STR_6470    :Ajustar la zona de patrulla mas grande
+STR_6469    :Ajustar la zona de patrulla más pequeña
+STR_6470    :Ajustar la zona de patrulla más grande
 STR_6471    :Vegetación transparente
 STR_6472    :Vehículos transparentes
 STR_6473    :Soportes transparentes
@@ -3599,16 +3599,16 @@ STR_6487    :Alternar empleados invisibles
 STR_6488    :{RED}Los visitantes se quejan de la longitud de las colas en tu parque.{NEWLINE}Considera acortar las colas problemáticas o aumentar el rendimiento de las atracciones.
 STR_6489    :{RED}ERROR: Versión de parque incompatible
 STR_6490    :{RED}ADVERTENCIA: Versión de parque no del todo compatible
-STR_6491    :Este parque fue guardado en una versión mas reciente de OpenRCT2. Este parque es de la versión {INT32} y requiere al menos {INT32}.
-STR_6492    :Este parque fue guardado en una versión mas antigua de OpenRCT2 y no puede abrirse con esta versión de OpenRCT2. Este parque es la versión {INT32}.
-STR_6493    :Este parque fue guardado en una versión mas reciente de OpenRCT2, algunos datos podrían perderse. Este parque es de la versión {INT32} y requiere al menos {INT32}.
+STR_6491    :Este parque fue guardado en una versión más reciente de OpenRCT2. Este parque es de la versión {INT32} y requiere al menos {INT32}.
+STR_6492    :Este parque fue guardado en una versión más antigua de OpenRCT2 y no puede abrirse con esta versión de OpenRCT2. Este parque es la versión {INT32}.
+STR_6493    :Este parque fue guardado en una versión más reciente de OpenRCT2, algunos datos podrían perderse. Este parque es de la versión {INT32} y requiere al menos {INT32}.
 STR_6494    :Agrupar por tipo de atracción
 STR_6495    :Agrupar las atracciones por tipo en vez de mostrar cada vehículo por separado.
 STR_6496    :{WINDOW_COLOUR_2}{STRINGID}
 STR_6497    :Haz click en una casilla para mostrar sus elementos.{NEWLINE}Ctrl + click un elemento para seleccionarlo directamente.
 STR_6498    :Activa para mantener el mapa con forma cuadrada.
-STR_6499    :Tipo de vehiculo no compatible con el formato de diseño de la via
-STR_6500    :Elementos no compatibles con el formato de diseño de la via
+STR_6499    :Tipo de vehículo no compatible con el formato de diseño de la vía
+STR_6500    :Elementos no compatibles con el formato de diseño de la vía
 STR_6501    :Color aleatorio
 STR_6502    :Introduce un valor entre {COMMA16} y {COMMA16}
 STR_6503    :Al menos un objeto de estación debe estar seleccionado
@@ -4162,7 +4162,7 @@ STR_DTLS    :Construye tu propio diseño de un parque Six Flags. Ya sea incluyen
 <Bumbly Bazaar>
 STR_SCNR    :Bazar Ruidoso
 STR_PARK    :Bazar Ruidoso
-STR_DTLS    :Comenzando desde un pequeño mercado, tu desafío es aumentar los ingresos de los negocios y puestos mediante la construcción de atracciones y montañas rusas para atraer a mas clientes.
+STR_DTLS    :Comenzando desde un pequeño mercado, tu desafío es aumentar los ingresos de los negocios y puestos mediante la construcción de atracciones y montañas rusas para atraer a más clientes.
 
 <Crazy Castle>
 STR_SCNR    :Castillo Loco
@@ -4414,4 +4414,4 @@ STR_DTLS    :Este antiguo parque temático ha visto tiempos mejores. Ayuda al pr
 <Panda World>
 STR_SCNR    :Mundo Panda
 STR_PARK    :Mundo Panda
-STR_DTLS    :Añade mas atracciones y consigue más visitantes en este parque pandatemático.
+STR_DTLS    :Añade más atracciones y consigue más visitantes en este parque pandatemático.
