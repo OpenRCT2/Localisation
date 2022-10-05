@@ -1055,7 +1055,7 @@ STR_1665    :{WINDOW_COLOUR_2}Gana:
 STR_1666    :{WINDOW_COLOUR_2}Set:
 STR_1667    :{WINDOW_COLOUR_2}Orina:
 STR_1668    :{WINDOW_COLOUR_2}Satisfacció: {BLACK}desconeguda
-STR_1669    :{WINDOW_COLOUR_2}Satisfacció: {BLACK}{COMMA16} %
+STR_1669    :{WINDOW_COLOUR_2}Satisfacció: {BLACK}{COMMA16} %
 STR_1670    :{WINDOW_COLOUR_2}Clients en total: {BLACK}{COMMA32}
 STR_1671    :{WINDOW_COLOUR_2}Benefici total: {BLACK}{CURRENCY2DP}
 STR_1672    :Frens
@@ -1064,7 +1064,7 @@ STR_1674    :Velocitat dels frens
 STR_1675    :{POP16}{VELOCITY}
 STR_1676    :Estableix el límit de velocitat per als frens.
 STR_1677    :{WINDOW_COLOUR_2}Popularitat: {BLACK}desconeguda
-STR_1678    :{WINDOW_COLOUR_2}Popularitat: {BLACK}{COMMA16} %
+STR_1678    :{WINDOW_COLOUR_2}Popularitat: {BLACK}{COMMA16} %
 STR_1679    :Hèlix cap amunt (a l’esquerra)
 STR_1680    :Hèlix cap amunt (a la dreta)
 STR_1681    :Hèlix cap avall (a l’esquerra)
@@ -1140,7 +1140,7 @@ STR_1753    :Mostra una llista resumida dels visitants del parc
 STR_1754    :{BLACK}{COMMA32} visitants
 STR_1755    :{BLACK}{COMMA32} visitant
 STR_1756    :{WINDOW_COLOUR_2}Preu de l’entrada:
-STR_1757    :{WINDOW_COLOUR_2}Fiabilitat: {MOVE_X}{255}{BLACK}{COMMA16} %
+STR_1757    :{WINDOW_COLOUR_2}Fiabilitat: {MOVE_X}{255}{BLACK}{COMMA16} %
 STR_1758    :Mode construir
 STR_1759    :Mode desplaçar-se
 STR_1760    :Mode omplir
@@ -1215,11 +1215,11 @@ STR_1832    :Fiabilitat
 STR_1833    :Temps d’avaria
 STR_1834    :Preferida pels visitants
 STR_1835    :Popularitat: desconeguda
-STR_1836    :Popularitat: {COMMA16} %
+STR_1836    :Popularitat: {COMMA16} %
 STR_1837    :Satisfacció: desconeguda
-STR_1838    :Satisfacció: {COMMA16} %
-STR_1839    :Fiabilitat: {COMMA16} %
-STR_1840    :Temps avariada: {COMMA16} %
+STR_1838    :Satisfacció: {COMMA16} %
+STR_1839    :Fiabilitat: {COMMA16} %
+STR_1840    :Temps avariada: {COMMA16} %
 STR_1841    :Benefici: {CURRENCY2DP} per hora
 STR_1842    :Preferida de: {COMMA16} visitant
 STR_1843    :Preferida de: {COMMA16} visitants
@@ -1267,7 +1267,7 @@ STR_1885    :mai
 STR_1886    :Inspeccionant {STRINGID}
 STR_1887    :{WINDOW_COLOUR_2}Temps des de l’última inspecció: {BLACK}{COMMA16} minuts
 STR_1888    :{WINDOW_COLOUR_2}Temps des de l’última inspecció: {BLACK}more than 4 hores
-STR_1889    :{WINDOW_COLOUR_2}Percentatge de temps avariada: {MOVE_X}{255}{BLACK}{COMMA16} %
+STR_1889    :{WINDOW_COLOUR_2}Percentatge de temps avariada: {MOVE_X}{255}{BLACK}{COMMA16} %
 STR_1890    :Seleccioneu cada quan temps algun mecànic hauria de revisar aquesta atracció.
 STR_1891    :Al parc encara no hi ha {STRINGID}!
 # The following two strings were used to display an error when the disc was missing.
@@ -1289,7 +1289,7 @@ STR_1907    :{WINDOW_COLOUR_2}Salaris d’empleats
 STR_1908    :{WINDOW_COLOUR_2}Màrqueting
 STR_1909    :{WINDOW_COLOUR_2}Recerca i desenvolupament
 STR_1910    :{WINDOW_COLOUR_2}Interessos del préstec
-STR_1911    :{BLACK} al {COMMA16} % per any
+STR_1911    :{BLACK} al {COMMA16} % per any
 STR_1912    :{MONTH}
 STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
@@ -1778,7 +1778,7 @@ STR_2420    :Entrada a meitat de preu per a {STRINGID}
 STR_2421    :{STRINGID} gratis
 STR_2424    :{WINDOW_COLOUR_2}Cupons d’entrada gratuïta al parc
 STR_2425    :{WINDOW_COLOUR_2}Cupons de viatge gratis per a una atracció
-STR_2426    :{WINDOW_COLOUR_2}Cupons de descompte del 50 % per a l’entrada al parc
+STR_2426    :{WINDOW_COLOUR_2}Cupons de descompte del 50 % per a l’entrada al parc
 STR_2427    :{WINDOW_COLOUR_2}Cupons de menjar i beguda gratis
 STR_2428    :{WINDOW_COLOUR_2}Campanya de publicitat del parc
 STR_2429    :{WINDOW_COLOUR_2}Campanya de publicitat per a una atracció
@@ -2196,9 +2196,9 @@ STR_3121    :No es pot trobar cap mecànic lliure.
 STR_3122    :{WINDOW_COLOUR_2}Preferida de: {BLACK}{COMMA16} visitant
 STR_3123    :{WINDOW_COLOUR_2}Preferida de: {BLACK}{COMMA16} visitants
 STR_3124    :{STRINGID} avariada
-STR_3125    :{WINDOW_COLOUR_2}Factor d’emoció: {BLACK}+{COMMA16} %
-STR_3126    :{WINDOW_COLOUR_2}Factor d’intensitat: {BLACK}+{COMMA16} %
-STR_3127    :{WINDOW_COLOUR_2}Factor de nàusea: {BLACK}+{COMMA16} %
+STR_3125    :{WINDOW_COLOUR_2}Factor d’emoció: {BLACK}+{COMMA16} %
+STR_3126    :{WINDOW_COLOUR_2}Factor d’intensitat: {BLACK}+{COMMA16} %
+STR_3127    :{WINDOW_COLOUR_2}Factor de nàusea: {BLACK}+{COMMA16} %
 STR_3128    :Desa el disseny de via
 STR_3129    :Desa el disseny de via i el decorat
 STR_3130    :Desa
@@ -2297,7 +2297,7 @@ STR_3243    :{WINDOW_COLOUR_2}Taxa d’interès anual:
 STR_3244    :Sense campanyes de màrqueting
 STR_3245    :Prohibeix la publicitat, promocions i altres campanyes de màrqueting.
 STR_3246    :{WINDOW_COLOUR_2}{CURRENCY}
-STR_3247    :{WINDOW_COLOUR_2}{COMMA16} %
+STR_3247    :{WINDOW_COLOUR_2}{COMMA16} %
 STR_3248    :L’efectiu inicial no es pot augmentar més!
 STR_3249    :L’efectiu inicial no es pot reduir més!
 STR_3250    :El préstec inicial no es pot augmentar més!
@@ -2956,7 +2956,7 @@ STR_5787    :{COMMA32} jugadors connectats
 STR_5788    :Interval de revisió per defecte:
 STR_5789    :Desactiva els efectes de llamps
 STR_5790    :Activa l’estil de pagaments del RCT1{NEWLINE}(es podran editar tant els preus d’entrada al parc com el de les entrades a les atraccions).
-STR_5791    :Estableix la fiabilitat de totes les atraccions al 100 %{NEWLINE}i n’estableix la data de construcció a «aquest any».
+STR_5791    :Estableix la fiabilitat de totes les atraccions al 100 %{NEWLINE}i n’estableix la data de construcció a «aquest any».
 STR_5792    :Repara atraccions avariades
 STR_5793    :Esborra l’historial de sinistres de les atraccions,{NEWLINE}i els visitants no es queixaran de que no són segures.
 STR_5794    :Alguns escenaris desactiven l’edició{NEWLINE}d’algunes atraccions del parc.{NEWLINE}Aquesta trampa elimina aquesta restricció.
