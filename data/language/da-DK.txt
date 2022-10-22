@@ -2706,8 +2706,6 @@ STR_5503    :Angiv computernavn eller IP adresse:
 STR_5504    :Vis multiplayer status
 STR_5505    :Kan ikke forbinde til server server.
 STR_5506    :Gæster ignorer intensitet
-STR_5508    :Tilland indlæsning af filer med forkert checksums
-STR_5509    :Tillad indlæsning af gemte spil og scenarier{NEWLINE}der har en forkert checksum,{NEWLINE}Som scenarierne fra demoen{NEWLINE}Eller beskadiget gemte spil.
 STR_5510    :Standard lydenhed
 STR_5511    :(UKENDT)
 STR_5512    :Gem spil som
@@ -3300,7 +3298,6 @@ STR_6154    :Af sikkerhedsmæssige årsager anbefales det ikke at køre OpenRCT2
 STR_6155    :Hverken KDialog eller Zenity er installeret. Installer venligst en, eller konfigurer fra kommando linjen.
 STR_6156    :Navn er reserveret
 STR_6157    :Konsol
-STR_6158    :Kan ikke hente denne fil…{NEWLINE}ikke kompatibel RCTC version: {COMMA16}
 STR_6160    :{WINDOW_COLOUR_2}Tilgængelige køretøjer: {BLACK}{STRING}
 STR_6161    :Skift gitterlinjer Visning til/fra
 STR_6162    :Snurrende Vild Mus
@@ -3595,6 +3592,20 @@ STR_6490    :Advarsel: Semi-kompatibel Park Version
 STR_6491    :Denne park blev gemt i en nyere version af OpenRCT2. Parken er v{INT32} og kræver mindst v{INT32}.
 STR_6492    :Denne park er gemt i en ældre version af OpenRCT2, og kan ikke åbnes med denne version af OpenRCT2. Parken er v{INT32}.
 STR_6493    :Denne park blev gemt i en nyere version af OpenRCT2, nogle data kan gå tabt. Parken er v{INT32} og kræver mindst v{INT32}.
+STR_6501    :Tilfældig farve
+STR_6502    :Indtast en værdi mellem {COMMA16} og {COMMA16}
+STR_6503    :Der skal vælges mindst ét station objekt
+STR_6504    :Der skal vælges mindst én terræn overflade
+STR_6505    :Der skal vælges mindst én terræn kant
+STR_6514    :Ugyldig højde!
+STR_6520    :Materiel pakker
+STR_6521    :Lav prioritet
+STR_6522    :Høj prioritet
+STR_6523    :Sænk prioriteten for den valgte materiel pakke.
+STR_6524    :Øg prioriteten for den valgte materiel pakke.
+STR_6525    :Genindlæs alle aktiver i spillet med de aktiverede materiel pakker.
+STR_6526    :(basis grafik, musik og lydeffekter)
+STR_6527    :Konkurrencer 
 
 #############
 # Scenarios #
@@ -4069,15 +4080,6 @@ STR_NAME    :Tag
 
 [TTRFWD08]
 STR_NAME    :Tag
-
-[TTRFGL01]
-STR_NAME    :Glas tag
-
-[TTRFGL02]
-STR_NAME    :Glas tag
-
-[TTRFGL03]
-STR_NAME    :Glas tag
 
 [ACWW33]
 STR_NAME    :Træ stolpe væg

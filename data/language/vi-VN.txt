@@ -2708,8 +2708,6 @@ STR_5503    :Enter hostname or IP address:
 STR_5504    :Show multiplayer status
 STR_5505    :Unable to connect to server.
 STR_5506    :Guests ignore intensities
-STR_5508    :Allow loading files with incorrect checksums
-STR_5509    :Allows loading scenarios and saves{NEWLINE}that have an incorrect checksum,{NEWLINE}like the scenarios from the demo{NEWLINE}or damaged saves.
 STR_5510    :Default sound device
 STR_5511    :(UNKNOWN)
 STR_5512    :Save Game As
@@ -3302,7 +3300,6 @@ STR_6154    :For security reasons, it is not recommended to run OpenRCT2 with el
 STR_6155    :Neither KDialog nor Zenity are installed. Please install one, or configure from the command line.
 STR_6156    :Name is reserved
 STR_6157    :Console
-STR_6158    :Failed to load this file…{NEWLINE}Incompatible RCTC version: {COMMA16}
 STR_6160    :{WINDOW_COLOUR_2}Available vehicles: {BLACK}{STRING}
 STR_6161    :Gridlines display toggle
 STR_6162    :Spinning Wild Mouse
@@ -4013,15 +4010,6 @@ STR_NAME    :Roof
 
 [TTRFWD08]
 STR_NAME    :Roof
-
-[TTRFGL01]
-STR_NAME    :Glass Roof
-
-[TTRFGL02]
-STR_NAME    :Glass Roof
-
-[TTRFGL03]
-STR_NAME    :Glass Roof
 
 [ACWW33]
 STR_NAME    :Wooden Post Wall
