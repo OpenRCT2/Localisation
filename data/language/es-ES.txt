@@ -3430,7 +3430,7 @@ STR_6318    :Desincronización detectada.{NEWLINE}Log: {STRING}
 STR_6319    :Bloque de frenado cerrado
 STR_6320    :Indestructible
 STR_6321    :Agregado está roto
-STR_6322    :{WINDOW_COLOUR_2}Id sprite: {BLACK}{INT32}
+STR_6322    :{WINDOW_COLOUR_2}ID de la Entidad: {BLACK}{INT32}
 STR_6323    :Simulando
 STR_6324    :Simular
 STR_6325    :Simular Atracción
@@ -3634,6 +3634,8 @@ STR_6524    :Aumentar la prioridad del paquete de recursos seleccionado.
 STR_6525    :Recargar todos los recursos del juego con los paquete de recursos activados.
 STR_6526    :(gráficos, música y efectos de sonido base)
 STR_6527    :Competiciones
+STR_6528    :¡Párametros de la vía no válidos!
+STR_6529    :¡Parámatro del esquema de color no válido!
 
 ##############
 # Escenarios #
@@ -4108,12 +4110,6 @@ STR_NAME    :Techo
 
 [TTRFWD08]
 STR_NAME    :Techo
-
-[ACWW33]
-STR_NAME    :Pared de Madera
-
-[ACWWF32]
-STR_NAME    :Pared de Madera
 
 ## End OpenRCT2 Official
 
