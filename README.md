@@ -68,12 +68,17 @@ To do this, go to the directory where OpenRCT2 resides (not to be confused with 
 | [![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt) ||
 | [![](https://img.shields.io/badge/tr--TR-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/tr-TR.txt) ||
 
-| en-US only contains strings that differ from en-GB <!--en-US doesn't get updated more than it's needed-->           
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [![](https://img.shields.io/badge/en--US-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/en-US.txt) |         -Anyone-         |
-
 Note:  The status bars can be inaccurate & some maintainers can be more inactive than others.<br/>
 Anyone can still contribute to the languages.
+
+#### Languages that inherit from others
+
+These languages only need strings if they differ from the one they are inheriting from
+
+| Language | Inherits from | Maintainer |          
+| -------- | ------------- | ---------- |
+| [![](https://img.shields.io/badge/en--US-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/en-US.txt) | en-GB |  |
+| [![](https://img.shields.io/badge/fr--CA-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-CA.txt) | fr-FR | [TheClaudeQC](https://github.com/TheClaudeQC) |
 
 ### Questions & Support
 
