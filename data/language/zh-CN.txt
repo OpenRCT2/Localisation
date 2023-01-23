@@ -147,7 +147,7 @@ STR_0560    :生病的客人可以更快康复的地方
 STR_0561    :大帐篷内的马戏团动物表演
 STR_0562    :有动力的车辆将会穿梭于有著恐怖景物及特效的多层轨道中
 STR_0563    :乘客坐在舒适并只有简单安全装备的列车上享受巨大而顺滑的下滑，扭曲的轨道和充足的“空中”时间
-STR_0564    :一款在木製轨道运行的过山车，这个过山车会嘈吵地飞驰过高低不平的轨道， 给乘客充足的“空中时间”之馀，同时会给人一种“失去控制”的乘坐体验
+STR_0564    :一款在木製轨道运行的过山车，这个过山车会嘈吵地飞驰过高低不平的轨道，给乘客充足的“空中时间”之馀，同时会给人一种“失去控制”的乘坐体验
 STR_0565    :一款只能使用普通下坡及弯道的简单木製过山车，车辆只靠产生轨道阻力的车轮及重力滑翔于轨道上
 STR_0566    :每辆单独的过山车都会游走在附有急弯及急短下坡的Z型轨道上
 STR_0567    :乘客坐在悬挂在轨道的不同位置下，衝下陡下坡及各种倒转轨道时，会被翻腾得四脚朝天
@@ -252,7 +252,7 @@ STR_0851    :{WINDOW_COLOUR_2}设计及程序：Chris Sawyer
 STR_0852    :{WINDOW_COLOUR_2}美术：Simon Foster
 STR_0853    :{WINDOW_COLOUR_2}音效及音乐：Allister Brimble
 STR_0854    :{WINDOW_COLOUR_2}其他音效录制：David Ellis
-STR_0855    :{WINDOW_COLOUR_2}由 Jacqui Lyons 代表 Marjacq 有限责任公司。
+STR_0855    :{WINDOW_COLOUR_2}由 Jacqui Lyons 代表 Marjacq 有限责任公司
 STR_0856    :{WINDOW_COLOUR_2}鸣谢：
 STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock、Joe Booth 和 John Wardley
 STR_0865    :{STRINGID}
@@ -366,7 +366,7 @@ STR_0975    :商店及摊贩
 STR_0976    :洗手间及信息亭
 STR_0977    :新的运输类游乐设施
 STR_0978    :新的温和类游乐设施
-STR_0979    :新的过山车
+STR_0979    :新的过山车类游乐设施
 STR_0980    :新的刺激类游乐设施
 STR_0981    :新的水上游乐设施
 STR_0982    :新的商店及摊贩
@@ -438,7 +438,7 @@ STR_1047    :存储游戏失败！
 STR_1048    :存储关卡失败！
 STR_1049    :存储地形失败！
 STR_1050    :加载失败…{NEWLINE}文件中含有不可读取的数据！
-STR_1051    :隐藏支撑物
+STR_1051    :隐藏支撑
 STR_1052    :隐藏游客
 STR_1053    :游乐园内的游乐设施/店铺
 STR_1054    :命名游乐设施/店铺
@@ -814,7 +814,7 @@ STR_1423    :队列道路
 STR_1424    :道路
 STR_1425    :道路
 STR_1426    :队列
-STR_1427    :{WINDOW_COLOUR_2}乘客：{BLACK}{COMMA32}每小时
+STR_1427    :{WINDOW_COLOUR_2}乘客：{BLACK}每小时{COMMA32}人
 STR_1428    :{WINDOW_COLOUR_2}门票价格:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :免费
@@ -880,12 +880,12 @@ STR_1489    :“我想回家”
 STR_1490    :“{STRINGID}真是超值”
 STR_1491    :“我已经有{STRINGID}了”
 STR_1492    :“我买不起{STRINGID}”
-STR_1493    :“我不饿”
-STR_1494    :“我不渴”
+STR_1493    :“我还不饿”
+STR_1494    :“我还不渴”
 STR_1495    :“救命！ 我溺水了！”
 STR_1496    :“我迷路了！”
-STR_1497    :“{STRINGID}棒棒哒”
-STR_1498    :“我等候在这{STRINGID}太久了，啥时才轮到我啊 ”
+STR_1497    :“{STRINGID}很棒！”
+STR_1498    :“我等候在这{STRINGID}太久了，什么时候才轮到我啊 ”
 STR_1499    :“我累了”
 STR_1500    :“我饿了”
 STR_1501    :“我渴了”
@@ -1049,7 +1049,7 @@ STR_1660    :{WINDOW_COLOUR_2}刺激度：{BLACK}大于{COMMA16}
 STR_1661    :{WINDOW_COLOUR_2}恶心忍受度：{BLACK}{STRINGID}
 STR_1662    :{WINDOW_COLOUR_2}快乐度：
 STR_1663    :{WINDOW_COLOUR_2}恶心度：
-STR_1664    :{WINDOW_COLOUR_2}体力：
+STR_1664    :{WINDOW_COLOUR_2}体力值：
 STR_1665    :{WINDOW_COLOUR_2}饥饿度：
 STR_1666    :{WINDOW_COLOUR_2}口渴度：
 STR_1667    :{WINDOW_COLOUR_2}如厕度：
@@ -1250,12 +1250,12 @@ STR_1868    :不能改变旋转次数…
 STR_1869    :{WINDOW_COLOUR_2}旋转次数：
 STR_1870    :完整旋转次数
 STR_1871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1873    :{WINDOW_COLOUR_2}收入：{BLACK}{CURRENCY2DP}每小时
-STR_1874    :{WINDOW_COLOUR_2}盈利：{BLACK}{CURRENCY2DP}每小时
+STR_1873    :{WINDOW_COLOUR_2}收入：{BLACK}每小时{CURRENCY2DP}
+STR_1874    :{WINDOW_COLOUR_2}盈利：{BLACK}每小时{CURRENCY2DP}
 STR_1875    :{BLACK} {SPRITE}{BLACK} {STRINGID}
 STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}检查游乐设施
 STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}维修游乐设施
-STR_1878    :{WINDOW_COLOUR_2}检查时间间隔：
+STR_1878    :{WINDOW_COLOUR_2}检查间隔：
 STR_1879    :每10分钟
 STR_1880    :每20分钟
 STR_1881    :每30分钟
@@ -1313,7 +1313,7 @@ STR_1936    :{STRINGID}已购买{STRINGID}
 STR_1937    :显示关于这个消息标题的信息
 STR_1938    :显示游客所视
 STR_1939    :显示员工所视
-STR_1940    :显示这位游客的快乐度，体力，饥饿度等指标
+STR_1940    :显示这位游客的快乐度，体力值，饥饿度等指标
 STR_1941    :显示这位游客乘坐了甚么游乐设施
 STR_1942    :显示这位游客的财政状况
 STR_1943    :显示这位游客的最近想法
@@ -1613,15 +1613,15 @@ STR_2251    :只可以在道路上建造！
 STR_2252    :只可以横过道路建造！
 STR_2253    :运输类游乐设施
 STR_2254    :温和类游乐设施
-STR_2255    :过山车
+STR_2255    :过山车类游乐设施
 STR_2256    :剌激类游乐设施
 STR_2257    :水上乐园设施
 STR_2258    :商店及摊贩
 STR_2259    :景物及主题景物
-STR_2260    :无资金
-STR_2261    :最少资金
-STR_2262    :普通资金
-STR_2263    :最多资金
+STR_2260    :无投资
+STR_2261    :最低投资
+STR_2262    :正常投资
+STR_2263    :最大投资
 STR_2264    :研发资金分配
 STR_2265    :{WINDOW_COLOUR_2}费用：{BLACK}每个月{CURRENCY}
 STR_2266    :研发优先项目
@@ -1638,14 +1638,14 @@ STR_2276    :显示研发项目进度
 STR_2277    :未知
 STR_2278    :运输类游乐设施
 STR_2279    :温和类游乐设施
-STR_2280    :过山车
+STR_2280    :过山车类游乐设施
 STR_2281    :剌激类游乐设施
 STR_2282    :水上游乐设施
 STR_2283    :商店及摊贩
 STR_2284    :景物及主题景物
 STR_2285    :初始研发
 STR_2286    :设计中
-STR_2287    :完成设计中
+STR_2287    :完善设计中
 STR_2288    :未知
 STR_2289    :{STRINGID} {STRINGID}
 STR_2291    :选择新游戏的剧情
@@ -1676,8 +1676,8 @@ STR_2315    :{WINDOW_COLOUR_2}建造费用：{BLACK}约{CURRENCY}
 STR_2316    :{WINDOW_COLOUR_2}需要空间：{BLACK}{COMMA16} × {COMMA16}格
 STR_2321    :{WINDOW_COLOUR_2}游乐设施/店铺数目：{BLACK}{COMMA16}
 STR_2322    :{WINDOW_COLOUR_2}员工数目：{BLACK}{COMMA16}
-STR_2323    :{WINDOW_COLOUR_2}乐园大小：{BLACK}{COMMA32}m²
-STR_2324    :{WINDOW_COLOUR_2}乐园大小：{BLACK}{COMMA32}平方英尺
+STR_2323    :{WINDOW_COLOUR_2}乐园面积：{BLACK}{COMMA32}平方米
+STR_2324    :{WINDOW_COLOUR_2}乐园面积：{BLACK}{COMMA32}平方英尺
 STR_2325    :购买土地来扩展乐园
 STR_2326    :购买建造权来准许在乐园范围外的空中或地底建造对象
 STR_2327    :选项
@@ -1813,7 +1813,7 @@ STR_2468    :{BLACK}显示这个乐园最近获得的奖项
 STR_2469    :{BLACK}选择投放多少资金到研发当中
 STR_2470    :{BLACK}研发新的运输类游游设施
 STR_2471    :{BLACK}研发新的温和类游乐设施
-STR_2472    :{BLACK}研发新的过山车
+STR_2472    :{BLACK}研发新的过山车类游乐设施
 STR_2473    :{BLACK}研发新的刺激类游乐设施
 STR_2474    :{BLACK}研发新的水文类游乐设施
 STR_2475    :{BLACK}研发新的商店及摊贩
@@ -1947,8 +1947,8 @@ STR_2730    :{UINT16}小时:{UINT16}分
 STR_2731    :{UINT16}小时:{UINT16}分
 STR_2732    :{COMMA32}英尺
 STR_2733    :{COMMA32}米
-STR_2734    :{COMMA16}mph
-STR_2735    :{COMMA16}km/h
+STR_2734    :{COMMA16}英里每小时
+STR_2735    :{COMMA16}公里每小时
 STR_2736    :第{POP16}{COMMA16}年{PUSH16}{PUSH16}{MONTH}
 STR_2737    :{STRINGID}第{POP16}{COMMA16}年{PUSH16}{PUSH16}{MONTH}
 STR_2738    :主菜单音乐：
@@ -2002,7 +2002,7 @@ STR_2800    :{WINDOW_COLOUR_2}总购票人数：{BLACK}{COMMA32}
 STR_2801    :{WINDOW_COLOUR_2}门票收入：{BLACK}{CURRENCY2DP}
 STR_2802    :地图
 STR_2803    :高亮显示游客
-STR_2804    :高亮显示雇员
+STR_2804    :高亮显示员工
 STR_2805    :显示游乐园地图
 STR_2806    :{RED}大量游客投诉乐园里的道路非常肮脏及恶心{NEWLINE}请检查你的清洁工人位置，并考虑调整的管理方法。
 STR_2807    :{RED}大量游客投诉乐园里随处可见的垃圾{NEWLINE}请检查你的清洁工人位置，并考虑调整管理方法。
@@ -2381,9 +2381,9 @@ STR_3333    :在存档中导出附加物
 STR_3334    :选择是否存储插件的储存文件，以便那些没有插件的玩家载入存档
 STR_3335    :轨道设计工具——选择游乐设施的类型及车辆种类
 STR_3336    :轨道设计管理工具——选择游乐设施的类型
-STR_3338    :{BLACK}自定义布局
-STR_3339    :{BLACK}{COMMA16}预设设计 或者 自定布局
-STR_3340    :{BLACK}{COMMA16}预设设计 或者 自定布局
+STR_3338    :{BLACK}自定义设计
+STR_3339    :{BLACK}{COMMA16}个预设设计，也可自定义设计
+STR_3340    :{BLACK}{COMMA16}个预设设计，也可自定义设计
 STR_3341    :游戏工具
 STR_3342    :剧情编辑器
 STR_3343    :将游戏存档转换成剧情关
@@ -2625,8 +2625,8 @@ STR_5348    :设施秘籍
 STR_5349    :全部游乐设施
 STR_5350    :最大
 STR_5351    :最小
-STR_5352    :{BLACK}兴奋度：
-STR_5353    :{BLACK}活力度：
+STR_5352    :{BLACK}快乐度：
+STR_5353    :{BLACK}体力值：
 STR_5354    :{BLACK}饥饿度：
 STR_5355    :{BLACK}口渴度：
 STR_5356    :{BLACK}恶心度：
@@ -2638,7 +2638,7 @@ STR_5361    :给所有游客：
 STR_5362    :{BLACK}设置所有客人的首选乘坐强度：
 STR_5363    :大于 1
 STR_5364    :小于 15
-STR_5365    :{BLACK}雇员速度：
+STR_5365    :{BLACK}员工速度：
 STR_5366    :正常
 STR_5367    :快速
 STR_5368    :复位故障状态
@@ -2671,7 +2671,7 @@ STR_5462    :{CURRENCY}
 STR_5463    :目标：尽情玩吧！
 STR_5464    :一般
 STR_5465    :天气
-STR_5466    :雇员
+STR_5466    :员工
 STR_5467    :ALT +
 STR_5468    :最近消息
 STR_5469    :向上滚动地图
@@ -2712,9 +2712,9 @@ STR_5505    :无法连接至服务器。
 STR_5506    :游客忽略强烈程度
 STR_5510    :默认音频设备
 STR_5511    :（UNKNOWN）
-STR_5512    :另存游戏
+STR_5512    :游戏另存为
 STR_5513    :（快速）保存游戏
-STR_5514    :禁止故意破坏
+STR_5514    :禁止蓄意毁坏
 STR_5515    :游客愤怒时阻止其可以毁坏公物
 STR_5516    :黑色
 STR_5517    :灰色
@@ -2759,13 +2759,13 @@ STR_5555    :显示来自其他类型轨道的车辆种类
 STR_5556    :踢除玩家
 STR_5557    :多人游戏不同步时依然保持联机
 STR_5558    :此设定会于重启游戏后生效
-STR_5559    :检查时间间隔为10分钟
+STR_5559    :检查间隔为10分钟
 STR_5560    :将所有游乐设施的检查时间间隔设定为“每10分钟”
 STR_5561    :加载语言失败
 STR_5562    :警告！
 STR_5563    :此功能暂未稳定地使用，请多加留意。
 STR_5566    :密码：
-STR_5567    :广告
+STR_5567    :对外广播
 STR_5568    :需要密码
 STR_5569    :此服务器需要密码
 STR_5570    :获取服务器
@@ -2781,8 +2781,8 @@ STR_5579    :窗口缩放比例：
 STR_5580    :捷克克朗 （Kč）
 STR_5581    :显示帧数
 STR_5582    :限制鼠标指针仅在窗口内移动
-STR_5583    :{COMMA1DP16}m/s
-STR_5584    :SI
+STR_5583    :{COMMA1DP16}米每秒
+STR_5584    :国际单位制
 STR_5585    :移除游乐设施的运行限制，例如允许链条上拉速度高达{VELOCITY}
 STR_5586    :自动开放商店和摊位
 STR_5587    :商店和摊位将在建造好后自动开放
@@ -3004,7 +3004,7 @@ STR_5843    :允许剧情逐步解锁（过山车大亨1特色）
 STR_5844    :即使发生不同步或错误{NEWLINE}依然保持和多人服务器的连接
 STR_5845    :在工具栏上为调试工具增加一个按钮。{NEWLINE}允许在调试控制台使用快捷键
 STR_5846    :设置自动保存的频率
-STR_5847    :选择主菜单界面使用的游乐园动画。 过山车大亨1/2的主菜单动画需要导入响应的文件
+STR_5847    :选择主菜单界面使用的游乐园动画。过山车大亨1/2的主菜单动画需要导入响应的文件
 STR_5849    :自动放置新雇佣的员工
 STR_5851    :设置新建游乐设施的默认检查的时间间隔
 STR_5853    :开启/关闭音效
@@ -3026,7 +3026,7 @@ STR_5868    :{WINDOW_COLOUR_2}服务器提供者的E-mail：{BLACK}{STRING}
 STR_5869    :{WINDOW_COLOUR_2}服务器提供者的网站：{BLACK}{STRING}
 STR_5870    :显示服务器信息
 STR_5871    :植物不会枯萎。
-STR_5872    :禁用植物随时间变化以便它们不会枯萎。
+STR_5872    :禁用植物随时间变化以便它们不会枯萎
 STR_5873    :允许在所有轨道配置中使用链式牵引
 STR_5874    :允许将任何轨道变成链式牵引轨道
 STR_5875    :渲染引擎：
@@ -3213,7 +3213,7 @@ STR_6057    :在工具栏为静音选项显示一个单独的按钮
 STR_6058    :静音
 STR_6059    :»
 STR_6060    :将游客的购买行为用动画表现
-STR_6061    :当游客购买时播放金钱动画效果{NEWLINE}。
+STR_6061    :当游客购买时播放金钱动画效果。
 STR_6062    :{OUTLINE}{GREEN}+{CURRENCY2DP}
 STR_6063    :{OUTLINE}{RED}-{CURRENCY2DP}
 STR_6064    :拥有所有土地
@@ -3282,8 +3282,8 @@ STR_6134    :清除景物
 STR_6135    :客户端发送了无效的请求
 STR_6136    :服务器发送了无效的请求
 STR_6137    :OpenRCT2，一款免费且开源的对于过山车大亨2再创作的重置扩展游戏。
-STR_6138    :OpenRCT2是一款由许多作者共同开发的作品，完整的列表可在下方“贡献者”按钮找到。请访问 http://github.com/OpenRCT2/OpenRCT2 获取更多信息
-STR_6139    :所有的产品及公司名称均属其拥有者所有。 使用那些名称并不代表本项目与其有任何联系或认可。
+STR_6138    :OpenRCT2是一款由许多作者共同开发的作品，完整的列表可在上方“贡献者”按钮找到。请访问 http://github.com/OpenRCT2/OpenRCT2 获取更多信息
+STR_6139    :所有的产品及公司名称均属其拥有者所有。使用那些名称并不代表本项目与其有任何联系或认可。
 STR_6140    :更新日志…
 STR_6141    :过山车大亨1样式的底部工具栏
 STR_6142    :{WINDOW_COLOUR_2}轨道名称：{BLACK}{STRING}
@@ -3475,7 +3475,7 @@ STR_6368    :为了更好的兼容性，不推荐在Wine中运行OpenRCT2。Open
 STR_6369    :允许在无效高度建造轨道
 STR_6370    :允许以任何高度间隔放置轨道件
 STR_6371    :在此路径下的过山车大亨1中 “csg1i.dat” 文件缺失。此文件需要从Loopy Landscapes 或 RCT Deluxe CD 安装到您硬盘上的 RollerCoaster Tycoon 1 的“Data”文件夹中。
-STR_6372    :此路径下包含 过山车大亨1 的安装，但是并不合适，OpenRCT2需要从Loopy Landscapes 或 RCT Deluxe 完成安装才能使用过山车大亨1的内容。 
+STR_6372    :此路径下包含 过山车大亨1 的安装，但是并不合适，OpenRCT2需要从Loopy Landscapes 或 RCT Deluxe 完成安装才能使用过山车大亨1的内容。
 STR_6373    :切换检查
 STR_6374    :C
 STR_6375    :未知设施
@@ -3517,17 +3517,17 @@ STR_6410    :缩放
 STR_6411    :在工具栏中显示缩放按钮
 STR_6412    :数字小键盘 Enter
 STR_6413    :Shift
-STR_6414    :左Shift
-STR_6415    :右Shift
+STR_6414    :左 Shift
+STR_6415    :右 Shift
 STR_6416    :Ctrl
-STR_6417    :左Ctrl
-STR_6418    :右Ctrl
+STR_6417    :左 Ctrl
+STR_6418    :右 Ctrl
 STR_6419    :Alt
-STR_6420    :左Alt
-STR_6421    :右Alt
+STR_6420    :左 Alt
+STR_6421    :右 Alt
 STR_6422    :Cmd
-STR_6423    :左Cmd
-STR_6424    :右Cmd
+STR_6423    :左 Cmd
+STR_6424    :右 Cmd
 STR_6425    :控制杆向左
 STR_6426    :控制杆向右
 STR_6427    :控制杆向上
@@ -3577,7 +3577,7 @@ STR_6471    :半透明植被
 STR_6472    :半透明载具
 STR_6473    :半透明支撑
 STR_6474    :隐藏游客
-STR_6475    :隐藏雇员
+STR_6475    :隐藏员工
 STR_6476    :隐藏植被
 STR_6477    :隐藏景物
 STR_6478    :隐藏道路
@@ -3589,7 +3589,7 @@ STR_6483    :打开透明化选项
 STR_6484    :半透明植被切换
 STR_6485    :半透明载具切换
 STR_6486    :隐藏游客切换
-STR_6487    :隐藏雇员切换
+STR_6487    :隐藏员工切换
 STR_6488    :{RED}游客在抱怨排队区的长度。{NEWLINE}请考虑减少造成问题的队列长度或增加设施的游客接待量（试试增加列车数？）
 STR_6489    :错误：不兼容的公园版本
 STR_6490    :警告：半兼容的公园版本
@@ -3664,8 +3664,8 @@ STR_PARK    :炸药山丘
 STR_DTLS    :这个座立于沙漠中的乐园只有一座云霄飞车，但不缺乏可供扩充的空地
 
 <Leafy Lake>
-STR_SCNR    :绿叶湖
-STR_PARK    :绿叶湖
+STR_SCNR    :茂林湖
+STR_PARK    :茂林湖
 STR_DTLS    :在一个大型湖泊的旁边，由零开始建造一个乐园
 
 <Diamond Heights>
@@ -3689,13 +3689,13 @@ STR_PARK    :三位一体群岛
 STR_DTLS    :几个邻近的岛屿组成了这个新乐园的基本地势
 
 <Katie's Dreamland>
-STR_SCNR    :凯蒂之梦
-STR_PARK    :凯蒂之梦
+STR_SCNR    :凯蒂梦之境
+STR_PARK    :凯蒂梦之境
 STR_DTLS    :一个只有几个游乐设施但有扩展空间的小型乐园——你的目标是让它的价值翻倍
 
 <Pokey Park>
-STR_SCNR    :波奇公园
-STR_PARK    :波奇公园
+STR_SCNR    :狭窄公园
+STR_PARK    :狭窄公园
 STR_DTLS    :一个拥挤的小型乐园，它需要大扩张
 
 <White Water Park>
@@ -3731,7 +3731,7 @@ STR_DTLS    :将埃及遗址旅游景点改造成繁荣的主题公园
 <Crumbly Woods>
 STR_SCNR    :老废物乐园
 STR_PARK    :老废物乐园
-STR_DTLS    :一个拥有精心设计但已经相当老旧的游乐设施的大型公园。 更换旧的游乐设施或添加新的游乐设施，使公园更受欢迎。
+STR_DTLS    :一个拥有精心设计但已经相当老旧的游乐设施的大型公园。更换旧的游乐设施或添加新的游乐设施，使公园更受欢迎。
 
 <Paradise Pier>
 STR_SCNR    :天堂码头
@@ -3741,7 +3741,7 @@ STR_DTLS    :将这个沉睡小镇的码头变成一个繁荣的景点。
 <Lightning Peaks>
 STR_SCNR    :闪电峰
 STR_PARK    :闪电峰
-STR_DTLS    :闪电峰美丽的山脉深受步行者和观光者的欢迎。 利用可用土地吸引新的寻求刺激的客户。
+STR_DTLS    :闪电峰美丽的山脉深受步行者和观光者的欢迎。利用可用土地吸引新的寻求刺激的客户。
 
 <Ivory Towers>
 STR_SCNR    :象牙塔
@@ -3756,7 +3756,7 @@ STR_DTLS    :彩虹谷的地方当局不允许任何景观变化或大树砍伐�
 <Thunder Rock>
 STR_SCNR    :雷霆岩
 STR_PARK    :雷霆岩
-STR_DTLS    :雷霆岩矗立在沙漠中央，吸引了众多游客。 利用可用空间建造游乐设施以吸引更多人。
+STR_DTLS    :雷霆岩矗立在沙漠中央，吸引了众多游客。利用可用空间建造游乐设施以吸引更多人。
 
 <Mega Park>
 STR_SCNR    :超级乐园
@@ -3906,7 +3906,7 @@ STR_DTLS    :用有限的金钱和无限的时间把这个山脚下的地区变�
 
 <Urban Park>
 STR_SCNR    :城市公园
-STR_PARK    :Urban Park
+STR_PARK    :城市公园
 STR_DTLS    :一个小公园与附近的城镇达成了一项协议，允许经过城镇上空向周边进行扩张
 
 <Geoffrey Gardens>
@@ -3947,8 +3947,8 @@ STR_PARK    :头晕眼花
 STR_DTLS    :这个大型公园已经有一个非常好的超级过山车，但你的任务是大幅增加其利润
 
 <Paradise Pier 2>
-STR_SCNR    :天堂码头 2
-STR_PARK    :天堂码头 2
+STR_SCNR    :天堂码头2
+STR_PARK    :天堂码头2
 STR_DTLS    :天堂码头已经在海上扩展了它的人行道网络，你的任务是扩大公园以利用额外的空间
 
 <Dragon's Cove>
