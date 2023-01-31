@@ -4073,10 +4073,7 @@ STR_SCNR    :حصن المفارقة تاريخية
 STR_PARK    :حصن المفارقة تاريخية
 STR_DTLS    :
 
-<UCES Halloween>
-STR_SCNR    :مقبرة التلال
-STR_PARK    :مقبرة التلال
-STR_DTLS    :هذا عيد الهالوين ،UCES هالوين، القرع يصرخ في جوف الليل! هذه المقبرة في ورطة والأمر متروك لك لإنقاذها مع ترك الموتى يرقدون بسلام! هل يمكنك إبقاء الأشباح في قبورهم وتجلب القشعريرة لعملائك؟{NEWLINE}المؤلف: Squid
+
 
 ###########
 # Scenery #
@@ -4157,8 +4154,8 @@ STR_PARK    :الحقول الكهربائية
 STR_DTLS    :لقد ورثت مزرعة صغيرة، والتحدي الذي تواجهه هو بناء حديقة صغيرة بين الحقول والمباني الزراعية
 
 <Extreme Heights>
-STR_SCNR    :Extreme Heights
-STR_PARK    :Extreme Heights
+STR_SCNR    :الأرتفاعات القصوي
+STR_PARK    :الأرتفاعات القصوي
 STR_DTLS    :Free of financial restrictions, your challenge is to expand this desert park to attract people seeking the ultimate thrills
 
 <Factory Capers>
@@ -4217,9 +4214,9 @@ STR_PARK    :Six Flags Magic Mountain
 STR_DTLS    :Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to repay your loan while keeping the park value up!
 
 <Six Flags over Texas>
-STR_SCNR    :Six Flags over Texas
-STR_PARK    :Six Flags over Texas
-STR_DTLS    :Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!
+STR_SCNR    :ستة أعلام فوق تكساس
+STR_PARK    :ستة أعلام فوق تكساس
+STR_DTLS    :قم ببناء جولات الأعلام الستة المفقودة، أو قم بإنشاء تصميماتك الخاصة لتحسين الحديقة! لكن لا تنس هدفك النهائي: جذب المزيد من الضيوف إلى الحديقة!
 
 ###############################################################################
 ## Wacky Worlds Scenarios
@@ -4383,6 +4380,25 @@ STR_PARK    :إحياء الروك أند رول
 STR_DTLS    :شهدت مدينة ملاهي القديمة هذه أيامًا أفضل. ساعد المالك على إضفاء مظهر روك أند رول وحول المكان إلى مكان ناجح.
 
 ###############################################################################
+## Official Custom Content Scenarios
+###############################################################################
+<Panda World>
+STR_SCNR    :عالم الباندا
+STR_PARK    :عالم الباندا
+STR_DTLS    :أضف رحلات أكثر وقم بجذب مزيد من الناس إلى الحديقة بطابع الباندا
+
+<Tycoon Park>
+STR_SCNR    :حديقة تايكون
+STR_PARK    :حديقة تايكون
+STR_DTLS    :
+
+#####
+<UCES Halloween>
+STR_SCNR    :مقبرة التلال
+STR_PARK    :مقبرة التلال
+STR_DTLS    :هذا عيد الهالوين ،UCES هالوين، القرع يصرخ في جوف الليل! هذه المقبرة في ورطة والأمر متروك لك لإنقاذها مع ترك الموتى يرقدون بسلام! هل يمكنك إبقاء الأشباح في قبورهم وتجلب القشعريرة لعملائك؟{NEWLINE}المؤلف: Squid
+
+###############################################################################
 ## UCES: The Time Machine (2003)
 ###############################################################################
 <Lighthouse of Alexandria by Katatude for UCES>
@@ -4473,10 +4489,3 @@ STR_DTLS    :يا أطفال! هيا نمرح!{NEWLINE}المؤلفان: Piehead
 STR_SCNR    :الكثبان الرملية
 STR_PARK    :الكثبان الرملية
 STR_DTLS    :باعتبارك مالكًا لمتنزه صغير، فقد اشتريت قطعة أرض كبيرة على طول الشاطئ للتوسع وجذب المزيد من الضيوف لزيارة الكثبان الرملية الجميلة، ولكن احذر: لا يمكنك إزعاج تلك الكثبان الرملية الهشة بيئيًا.{NEWLINE}المؤلف: rbarclay
-###############################################################################
-## Official Custom Content Scenarios
-###############################################################################
-<Panda World>
-STR_SCNR    :عالم الباندا
-STR_PARK    :عالم الباندا
-STR_DTLS    :أضف رحلات أكثر وقم بجذب مزيد من الناس إلى الحديقة بطابع الباندا
