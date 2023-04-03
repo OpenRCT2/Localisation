@@ -81,7 +81,7 @@
     },
     "openrct2.footpath_railings.invisible": {
         "reference-name": "Invisible Railings",
-        "name": "Invisible Railings"
+        "name": "Baranes invisibles"
     },
     "rct2dlc.ride.zpanda": {
         "reference-name": "Panda Trains",
@@ -93,31 +93,31 @@
     },
     "openrct2.ride.single_rail_coaster": {
         "reference-name": "Single Rail Roller Coaster Trains",
-        "name": "Single Rail Roller Coaster Trains",
+        "name": "Muntanya russa d’un sol rail",
         "reference-description": "Roller coaster trains in which riders are seated single file",
-        "description": "Roller coaster trains in which riders are seated single file",
+        "description": "Muntanya russa amb cotxes en la qual els passatgers van asseguts un darrere l’altre.",
         "reference-capacity": "1 passenger per car",
-        "capacity": "1 passenger per car"
+        "capacity": "1 passatger per cotxe"
     },
     "openrct2.ride.hybrid_coaster": {
         "reference-name": "Hybrid Coaster Trains",
-        "name": "Hybrid Coaster Trains",
+        "name": "Muntanya russa híbrida",
         "reference-description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
-        "description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
+        "description": "Muntanya russa amb cotxes amb subjecció simple, amb caigudes pronunciades i inversions.",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 passatgers per cotxe"
     },
     "openrct2.footpath_surface.queue_invisible": {
         "reference-name": "Invisible Queue",
-        "name": "Invisible Queue"
+        "name": "Cua invisible"
     },
     "openrct2.footpath_surface.invisible": {
         "reference-name": "Invisible Footpath",
-        "name": "Invisible Footpath"
+        "name": "Cua invisible"
     },
     "openrct2.terrain_surface.void": {
         "reference-name": "Void",
-        "name": "Void"
+        "name": "Buit"
     },
     "openrct2.station.noentrance": {
         "reference-name": "No entrance",
@@ -129,7 +129,7 @@
     },
     "official.terrain_edge.void": {
         "reference-name": "Void",
-        "name": "Void"
+        "name": "Buit"
     },
     "rct2.scenery_large.sct": {
         "reference-name": "Tent",
@@ -2529,39 +2529,39 @@
     },
     "rct2.footpath_railings.bamboo_brown": {
         "reference-name": "Bamboo Railings (Brown)",
-        "name": "Bamboo Railings (Brown)"
+        "name": "Baranes de bambú (marrons)"
     },
     "rct2.footpath_railings.space": {
         "reference-name": "Space Style Railings (Red)",
-        "name": "Space Style Railings (Red)"
+        "name": "Baranes d’estil espacial (vermelles)"
     },
     "rct2.footpath_railings.bamboo_black": {
         "reference-name": "Bamboo Railings (Black)",
-        "name": "Bamboo Railings (Black)"
+        "name": "Baranes de bambú (negres)"
     },
     "rct2.footpath_railings.wood": {
         "reference-name": "Wooden Railings",
-        "name": "Wooden Railings"
+        "name": "Baranes de fusta"
     },
     "rct2.footpath_railings.concrete_green": {
         "reference-name": "Concrete Railings (Dark Green)",
-        "name": "Concrete Railings (Dark Green)"
+        "name": "Baranes de ciment (verd fosc)"
     },
     "rct2.footpath_railings.concrete": {
         "reference-name": "Concrete Railings (Grey-Brown)",
-        "name": "Concrete Railings (Grey-Brown)"
+        "name": "Baranes de ciment (verdes i marrons)"
     },
     "rct2.audio.base": {
         "reference-name": "Base audio for the game.",
-        "name": "Base audio for the game."
+        "name": "So base per al joc."
     },
     "rct2.audio.title": {
         "reference-name": "Title screen music for RollerCoaster Tycoon 2.",
-        "name": "Title screen music for RollerCoaster Tycoon 2."
+        "name": "Música del menú principal del RollerCoaster Tycoon 2."
     },
     "rct2.audio.circus": {
         "reference-name": "Ambient sound effects for the Circus attraction.",
-        "name": "Ambient sound effects for the Circus attraction."
+        "name": "Sons d’ambient per a l’atracció del circ."
     },
     "rct2.ride.hchoc": {
         "reference-name": "Hot Chocolate Stall",
@@ -2861,7 +2861,7 @@
     },
     "rct2.ride.ding1": {
         "reference-name": "Dinghies",
-        "name": "Dinghies",
+        "name": "Bots inflables",
         "reference-description": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
         "description": "Bots inflables que baixen per uns tubs semicirculars o totalment tancats.",
         "reference-capacity": "2 passengers per dinghy",
@@ -3097,7 +3097,7 @@
         "reference-name": "Spinning Mouse Cars",
         "name": "Ratolins bojos",
         "reference-description": "Mouse-shaped cars that keep gently spinning around to disorientate the riders",
-        "description": "Cotxes en forma de ratolí que giren suaument per desorientar els passatgers.",
+        "description": "Cotxes en forma de ratolí que giren suaument per a desorientar els passatgers.",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 passatgers per cotxe"
     },
@@ -3133,7 +3133,7 @@
         "reference-name": "Swinging Floorless Cars",
         "name": "Cotxes balancí sense terra",
         "reference-description": "Suspended roller coaster trains consisting of chairlift-style seats able to swing freely as the train goes around corners",
-        "description": "Muntanya russa amb trens penjants que tenen seients d’estil telecadira que es balancegen quan passen per corbes.",
+        "description": "Muntanya russa amb trens penjants que tenen seients d’estil telecadira que es balancegen quan passen per les corbes.",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 passatgers per cotxe"
     },
@@ -3471,7 +3471,7 @@
         "reference-name": "Crooked House",
         "name": "La casa torta",
         "reference-description": "Building containing warped rooms and angled corridors to disorientate people walking through it",
-        "description": "Edifici amb habitacions deformades i passadissos angulosos per desorientar les persones que el visiten.",
+        "description": "Edifici amb habitacions deformades i passadissos angulosos per a desorientar les persones que el visiten.",
         "reference-capacity": "5 guests",
         "capacity": "5 visitants"
     },
@@ -3575,7 +3575,7 @@
         "reference-name": "Rowing Boats",
         "name": "Bot de rem",
         "reference-description": "Rowing boats which passengers row themselves",
-        "description": "Bots de rem en els quals els passatgers han de remar per moure’ls.",
+        "description": "Bots de rem en els quals els passatgers han de remar per a moure’ls.",
         "reference-capacity": "2 passengers per boat",
         "capacity": "2 passatgers per bot"
     },
@@ -3647,7 +3647,7 @@
         "reference-name": "Flying Roller Coaster Trains",
         "name": "Muntanya russa amb trens voladors",
         "reference-description": "Riders are held in comfortable seats below the track to give the ultimate flying experience",
-        "description": "Els passatgers s’asseuen en seients còmodes per sota de la via per donar la sensació d’estar volant.",
+        "description": "Els passatgers s’asseuen en seients còmodes per sota de la via per a donar la sensació d’estar volant.",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 passatgers per cotxe"
     },
@@ -3733,55 +3733,55 @@
     },
     "rct2.footpath_surface.queue_red": {
         "reference-name": "Red Queue (Stairs)",
-        "name": "Red Queue (Stairs)"
+        "name": "Cua vermella (amb escales)"
     },
     "rct2.footpath_surface.queue_yellow": {
         "reference-name": "Yellow Queue (Stairs)",
-        "name": "Yellow Queue (Stairs)"
+        "name": "Cua groga (amb escales)"
     },
     "rct2.footpath_surface.tarmac": {
         "reference-name": "Tarmac Footpath (Stairs)",
-        "name": "Tarmac Footpath (Stairs)"
+        "name": "Camí asfaltat (amb escales)"
     },
     "rct2.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Stairs)",
-        "name": "Crazy Paving Footpath (Stairs)"
+        "name": "Camí d’empedrat boig (amb escales)"
     },
     "rct2.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Rounded)",
-        "name": "Ash Footpath (Rounded)"
+        "name": "Camí de cendra (arrodonit)"
     },
     "rct2.footpath_surface.queue_green": {
         "reference-name": "Dark Green Queue",
-        "name": "Dark Green Queue"
+        "name": "Cua verd fosc"
     },
     "rct2.footpath_surface.tarmac_green": {
         "reference-name": "Dark Green Tarmac Footpath",
-        "name": "Dark Green Tarmac Footpath"
+        "name": "Camí verd fosc asfaltat"
     },
     "rct2.footpath_surface.queue_blue": {
         "reference-name": "Blue Queue (Stairs)",
-        "name": "Blue Queue (Stairs)"
+        "name": "Cua blava (amb escales)"
     },
     "rct2.footpath_surface.tarmac_red": {
         "reference-name": "Red Tarmac Footpath (Stairs)",
-        "name": "Red Tarmac Footpath (Stairs)"
+        "name": "Camí vermell asfaltat (amb escales)"
     },
     "rct2.footpath_surface.tarmac_brown": {
         "reference-name": "Brown Tarmac Footpath (Stairs)",
-        "name": "Brown Tarmac Footpath (Stairs)"
+        "name": "Camí marró asfaltat (amb escales)"
     },
     "rct2.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Rounded)",
-        "name": "Dirt Footpath (Rounded)"
+        "name": "Camí de terra (arrodonit)"
     },
     "rct2.footpath_surface.road": {
         "reference-name": "Road",
-        "name": "Road"
+        "name": "Camí pavimentat"
     },
     "rct2.terrain_surface.sand_red": {
         "reference-name": "Sand (Red)",
-        "name": "Sorra (Vermella)"
+        "name": "Sorra (vermella)"
     },
     "rct2.terrain_surface.grass_clumps": {
         "reference-name": "Grass Clumps",
@@ -3793,7 +3793,7 @@
     },
     "rct2.terrain_surface.sand_brown": {
         "reference-name": "Sand (Brown)",
-        "name": "Sorra (Marró)"
+        "name": "Sorra (marró)"
     },
     "rct2.terrain_surface.grid_yellow": {
         "reference-name": "Grid (Yellow)",
@@ -6121,31 +6121,31 @@
     },
     "rct2tt.footpath_railings.circuitboard_invisible": {
         "reference-name": "Sky Walk",
-        "name": "Sky Walk"
+        "name": "Camí pel cel"
     },
     "rct2tt.footpath_railings.balustrade": {
         "reference-name": "Balustrade",
-        "name": "Balustrade"
+        "name": "Balustrada"
     },
     "rct2tt.footpath_railings.medieval": {
         "reference-name": "Medieval Railings",
-        "name": "Medieval Railings"
+        "name": "Baranes medievals"
     },
     "rct2tt.footpath_railings.rainbow": {
         "reference-name": "Rainbow Railings",
-        "name": "Rainbow Railings"
+        "name": "Baranes arc de Sant Martí"
     },
     "rct2tt.footpath_railings.circuitboard": {
         "reference-name": "Circuit Board Railings",
-        "name": "Circuit Board Railings"
+        "name": "Baranes d’estil circuit elèctric"
     },
     "rct2tt.footpath_railings.rocky": {
         "reference-name": "Jungle Railings",
-        "name": "Jungle Railings"
+        "name": "Baranes de jungla"
     },
     "rct2tt.footpath_railings.pavement": {
         "reference-name": "Iron Railings",
-        "name": "Iron Railings"
+        "name": "Baranes de ferro"
     },
     "rct2tt.ride.timemach": {
         "reference-name": "Time Machine",
@@ -6335,7 +6335,7 @@
         "reference-name": "Hover Cars",
         "name": "Cotxes planadors",
         "reference-description": "Maglev technology has been implemented to create the illusion of futuristic hover cars",
-        "description": "En aquesta atracció, s’usa la tecnologia de levitació magnètica per crear la il·lusió de viatjar en cotxes planadors futurístics.",
+        "description": "En aquesta atracció, s’usa la tecnologia de levitació magnètica per a crear la il·lusió de viatjar en cotxes planadors futurístics.",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 passatgers per cotxe"
     },
@@ -6545,7 +6545,7 @@
         "reference-name": "Fun House",
         "name": "Casa de la diversió",
         "reference-description": "Building containing moving walls and floors to disorientate people walking through it",
-        "description": "Edifici que conté parets i terra que es mouen per desorientar les persones que hi entren.",
+        "description": "Edifici que conté parets i terra que es mouen per a desorientar les persones que hi entren.",
         "reference-capacity": "5 guests",
         "capacity": "5 visitants"
     },
@@ -6605,39 +6605,39 @@
     },
     "rct2tt.footpath_surface.rocky": {
         "reference-name": "Rocky Footpath",
-        "name": "Rocky Footpath"
+        "name": "Camí de roques"
     },
     "rct2tt.footpath_surface.queue_pavement": {
         "reference-name": "Pavement Queue",
-        "name": "Pavement Queue"
+        "name": "Cua arc de Sant Martí"
     },
     "rct2tt.footpath_surface.queue_rainbow": {
         "reference-name": "Rainbow Queue",
-        "name": "Rainbow Queue"
+        "name": "Cua arc de Sant Martí"
     },
     "rct2tt.footpath_surface.rainbow": {
         "reference-name": "Rainbow Footpath",
-        "name": "Rainbow Footpath"
+        "name": "Camí arc de Sant Martí"
     },
     "rct2tt.footpath_surface.circuitboard": {
         "reference-name": "Circuit Footpath",
-        "name": "Circuit Footpath"
+        "name": "Camí d’estil circuit elèctric"
     },
     "rct2tt.footpath_surface.mosaic": {
         "reference-name": "Mosaic Footpath",
-        "name": "Mosaic Footpath"
+        "name": "Camí amb mosaic de rajoles"
     },
     "rct2tt.footpath_surface.pavement": {
         "reference-name": "Pavement",
-        "name": "Pavement"
+        "name": "Paviment"
     },
     "rct2tt.footpath_surface.medieval": {
         "reference-name": "Wooden Footpath",
-        "name": "Wooden Footpath"
+        "name": "Camí de fusta"
     },
     "rct2tt.footpath_surface.queue_circuitboard": {
         "reference-name": "Circuit Queue",
-        "name": "Circuit Queue"
+        "name": "Cua d’estil circuit elèctric"
     },
     "rct2ww.scenery_large.hippo01": {
         "reference-name": "Hippo 1",
@@ -9313,9 +9313,9 @@
     },
     "rct2ww.ride.congaeel": {
         "reference-name": "Conger Eel Trains",
-        "name": "Muntanya russa Congri",
+        "name": "El Congre",
         "reference-description": "Trains with shoulder restraints, in the shape of conger eels",
-        "description": "Trens en forma de congri amb subjecció a l’espatlla.",
+        "description": "Trens en forma de congre amb subjecció a l’espatlla.",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 passatgers per cotxe"
     },
@@ -9411,7 +9411,7 @@
         "reference-name": "Routemaster Buses",
         "name": "Autobusos londinencs",
         "reference-description": "Replicas of the famous London Routemaster bus",
-        "description": "Rèpliques del famos autobús londinenc Routemaster.",
+        "description": "Rèpliques del famós autobús londinenc Routemaster.",
         "reference-capacity": "10 passengers per car",
         "capacity": "10 passatgers per cotxe"
     },
@@ -9531,7 +9531,7 @@
         "reference-name": "Yellow Taxi Trains",
         "name": "Taxis grocs",
         "reference-description": "Roller coaster trains for the Giga Coaster, themed to look like long yellow taxis",
-        "description": "Cotxes per la Gigamuntanya russa, tematitzades per parèixer taxis grocs llargs.",
+        "description": "Cotxes per la Gigamuntanya russa, tematitzades per a parèixer taxis grocs llargs.",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 passatgers per cotxe"
     },
@@ -9593,9 +9593,9 @@
     },
     "rct2ww.ride.crocflum": {
         "reference-name": "Crocodile Boats",
-        "name": "Atracció Cocodrils",
+        "name": "Atracció Cocodril",
         "reference-description": "Crocodile-shaped boats built for running in water channels",
-        "description": "Barques en forma de cocodril construïdes per circular per canals d’aigua.",
+        "description": "Barques en forma de cocodril construïdes per a circular per canals d’aigua.",
         "reference-capacity": "4 passengers per boat",
         "capacity": "4 passatgers per barca"
     },
@@ -9645,35 +9645,35 @@
     },
     "rct1.scenery_wall.wooden_fence_red": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Tanca de fusta"
     },
     "rct1ll.footpath_railings.bamboo": {
         "reference-name": "Bamboo Railings (Yellow)",
-        "name": "Bamboo Railings (Yellow)"
+        "name": "Baranes de bambú (grogues)"
     },
     "rct1ll.footpath_railings.space": {
         "reference-name": "Space Style Railings (Grey)",
-        "name": "Space Style Railings (Grey)"
+        "name": "Baranes d’estil espacial (grises)"
     },
     "rct1.audio.title": {
         "reference-name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes).",
-        "name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes)."
+        "name": "Música del menú principal del RollerCoaster Tycoon (Loopy Landscapes)."
     },
     "rct1.ride.rocket_cars": {
         "reference-name": "Rocket Cars",
-        "name": "Rocket Cars",
+        "name": "Cotxes coet",
         "reference-description": "Roller coaster cars themed to look like rockets",
-        "description": "Roller coaster cars themed to look like rockets",
+        "description": "Muntanyes russes de cotxes tematitzats com a coets espacials.",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 passatgers per cotxe"
     },
     "rct1.ride.ladybird_trains": {
         "reference-name": "Ladybird Trains",
-        "name": "Ladybird Trains",
+        "name": "Tren Marieta",
         "reference-description": "Roller coaster trains with small ladybird-shaped cars",
-        "description": "Roller coaster trains with small ladybird-shaped cars",
+        "description": "Muntanya russa amb trens en forma de marieta.",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 passatgers per cotxe"
     },
     "rct1.ride.toilets": {
         "reference-name": "Toilets",
@@ -9683,75 +9683,75 @@
     },
     "rct1.ride.log_trains": {
         "reference-name": "Log Trains",
-        "name": "Log Trains",
+        "name": "Trens troncs",
         "reference-description": "Roller coaster trains with small log-shaped cars",
-        "description": "Roller coaster trains with small log-shaped cars",
+        "description": "Muntanya russa amb trens que semblen troncs.",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 passatgers per cotxe"
     },
     "rct1.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Sloped)",
-        "name": "Crazy Paving Footpath (Sloped)"
+        "name": "Camí d’empedrat boig (amb rampes)"
     },
     "rct1ll.footpath_surface.tiles_red": {
         "reference-name": "Red and Brown Tiled Footpath",
-        "name": "Red and Brown Tiled Footpath"
+        "name": "Camí enrajolat vermell i marró"
     },
     "rct1.footpath_surface.tarmac": {
         "reference-name": "Tarmac Footpath (Sloped)",
-        "name": "Tarmac Footpath (Sloped)"
+        "name": "Camí asfaltat (amb rampes)"
     },
     "rct1aa.footpath_surface.tiles_grey": {
         "reference-name": "Grey Tiled Footpath",
-        "name": "Grey Tiled Footpath"
+        "name": "Camí enrajolat gris"
     },
     "rct1.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Square)",
-        "name": "Dirt Footpath (Square)"
+        "name": "Camí de terra (angulós)"
     },
     "rct1aa.footpath_surface.tarmac_red": {
         "reference-name": "Red Tarmac Footpath (Sloped)",
-        "name": "Red Tarmac Footpath (Sloped)"
+        "name": "Camí vermell asfaltat (amb rampes)"
     },
     "rct1ll.footpath_surface.tiles_green": {
         "reference-name": "Green and Brown Tiled Footpath",
-        "name": "Green and Brown Tiled Footpath"
+        "name": "Camí enrajolat verd i marró"
     },
     "rct1.footpath_surface.queue_blue": {
         "reference-name": "Blue Queue (Sloped)",
-        "name": "Blue Queue (Sloped)"
+        "name": "Cua blava (amb escales)"
     },
     "rct1aa.footpath_surface.queue_yellow": {
         "reference-name": "Yellow Queue (Sloped)",
-        "name": "Yellow Queue (Sloped)"
+        "name": "Cua groga (amb escales)"
     },
     "rct1aa.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Square)",
-        "name": "Ash Footpath (Square)"
+        "name": "Camí de cendra (angulós)"
     },
     "rct1aa.footpath_surface.tarmac_green": {
         "reference-name": "Green Tarmac Footpath",
-        "name": "Green Tarmac Footpath"
+        "name": "Camí asfaltat verd"
     },
     "rct1.footpath_surface.tiles_brown": {
         "reference-name": "Brown Tiled Footpath",
-        "name": "Brown Tiled Footpath"
+        "name": "Camí enrajolat marró"
     },
     "rct1aa.footpath_surface.tarmac_brown": {
         "reference-name": "Brown Tarmac Footpath (Sloped)",
-        "name": "Brown Tarmac Footpath (Sloped)"
+        "name": "Camí marró asfaltat (amb rampes)"
     },
     "rct1aa.footpath_surface.queue_red": {
         "reference-name": "Red Queue (Sloped)",
-        "name": "Red Queue (Sloped)"
+        "name": "Cua vermella (amb escales)"
     },
     "rct1aa.footpath_surface.queue_green": {
         "reference-name": "Green Queue",
-        "name": "Green Queue"
+        "name": "Cua verda"
     },
     "rct1ll.terrain_surface.roof_grey": {
         "reference-name": "Roof (Grey)",
-        "name": "Teulada (Grisa)"
+        "name": "Teulada (grisa)"
     },
     "rct1ll.terrain_surface.wood": {
         "reference-name": "Wood",
@@ -9759,7 +9759,7 @@
     },
     "rct1aa.terrain_surface.roof_red": {
         "reference-name": "Roof (Red)",
-        "name": "Teulada (Vermella)"
+        "name": "Teulada (vermella)"
     },
     "rct1ll.terrain_surface.rust": {
         "reference-name": "Rust",
@@ -9767,19 +9767,19 @@
     },
     "rct1ll.terrain_edge.green": {
         "reference-name": "Stucco (Green)",
-        "name": "Estuc (Verd)"
+        "name": "Estuc (verd)"
     },
     "rct1aa.terrain_edge.yellow": {
         "reference-name": "Stucco (Yellow)",
-        "name": "Estuc (Groc)"
+        "name": "Estuc (groc)"
     },
     "rct1ll.terrain_edge.stone_grey": {
         "reference-name": "Sandstone (Grey)",
-        "name": "Gres (Gris)"
+        "name": "Gres (gris)"
     },
     "rct1aa.terrain_edge.red": {
         "reference-name": "Stucco (Red)",
-        "name": "Estuc (Vermell)"
+        "name": "Estuc (vermell)"
     },
     "rct1ll.terrain_edge.skyscraper_b": {
         "reference-name": "Skyscraper (B)",
@@ -9787,7 +9787,7 @@
     },
     "rct1ll.terrain_edge.stone_brown": {
         "reference-name": "Sandstone (Brown)",
-        "name": "Gres (Marró)"
+        "name": "Gres (marró)"
     },
     "rct1.terrain_edge.iron": {
         "reference-name": "Iron",
@@ -9799,11 +9799,11 @@
     },
     "rct1aa.terrain_edge.grey": {
         "reference-name": "Stucco (Grey)",
-        "name": "Estuc (Gris)"
+        "name": "Estuc (gris)"
     },
     "rct1ll.terrain_edge.purple": {
         "reference-name": "Stucco (Purple)",
-        "name": "Estuc (Morat)"
+        "name": "Estuc (morat)"
     },
     "rct1.terrain_edge.brick": {
         "reference-name": "Brick",
