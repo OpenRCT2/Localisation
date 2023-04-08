@@ -864,8 +864,8 @@ STR_1469    :L’attraction doit commencer et finir avec une station
 STR_1470    :Station trop courte
 STR_1471    :{WINDOW_COLOUR_2}Vitesse :
 STR_1472    :Vitesse de cette attraction
-STR_1473    :{WINDOW_COLOUR_2}Niveau d’excitation : {BLACK}{COMMA2DP32}  ({STRINGID})
-STR_1474    :{WINDOW_COLOUR_2}Niveau d’excitation : {BLACK}Pas encore disponible
+STR_1473    :{WINDOW_COLOUR_2}Niveau d’engouement : {BLACK}{COMMA2DP32}  ({STRINGID})
+STR_1474    :{WINDOW_COLOUR_2}Niveau d’engouement : {BLACK}Pas encore disponible
 STR_1475    :{WINDOW_COLOUR_2}Niveau d’intensité : {BLACK}{COMMA2DP32}  ({STRINGID})
 STR_1476    :{WINDOW_COLOUR_2}Niveau d’intensité : {BLACK}Pas encore disponible
 STR_1477    :{WINDOW_COLOUR_2}Niveau d’intensité : {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
@@ -1674,8 +1674,8 @@ STR_2306    :Sauvegarder la conception de voie
 STR_2307    :Sélectionner la conception {STRINGID}
 STR_2308    :{STRINGID} Conceptions de voies
 STR_2309    :Installer une nouvelle conception de voie
-STR_2310    :Construire une conception personnalisé
-STR_2311    :{WINDOW_COLOUR_2}Indice excitation : {BLACK}{COMMA2DP32} (approx.)
+STR_2310    :Construire une conception personnalisée
+STR_2311    :{WINDOW_COLOUR_2}Indice engouement : {BLACK}{COMMA2DP32} (approx.)
 STR_2312    :{WINDOW_COLOUR_2}Indice intensité : {BLACK}{COMMA2DP32} (approx.)
 STR_2313    :{WINDOW_COLOUR_2}Indice nausée : {BLACK}{COMMA2DP32} (approx.)
 STR_2314    :{WINDOW_COLOUR_2}Long. attr. : {BLACK}{STRINGID}
@@ -2200,7 +2200,7 @@ STR_3121    :Impossible de localiser un mécanicien ou les mécaniciens les plus
 STR_3122    :{WINDOW_COLOUR_2}Attraction préférée de {BLACK}{COMMA16} visiteur
 STR_3123    :{WINDOW_COLOUR_2}Attraction préférée de {BLACK}{COMMA16} visiteurs
 STR_3124    :En panne {STRINGID}
-STR_3125    :{WINDOW_COLOUR_2}Indice d’excitation : {BLACK}+{COMMA16}%
+STR_3125    :{WINDOW_COLOUR_2}Indice d’engouement : {BLACK}+{COMMA16}%
 STR_3126    :{WINDOW_COLOUR_2}Indice d’intensité : {BLACK}+{COMMA16}%
 STR_3127    :{WINDOW_COLOUR_2}Indice de nausée : {BLACK}+{COMMA16}%
 STR_3128    :Sauvegarder la voie
@@ -2362,7 +2362,7 @@ STR_3304    :{WINDOW_COLOUR_2}Valeur du parc :
 STR_3305    :{WINDOW_COLOUR_2}Revenu mensuel :
 STR_3306    :{WINDOW_COLOUR_2}Bénéfice mensuel :
 STR_3307    :{WINDOW_COLOUR_2}Longueur minimum :
-STR_3308    :{WINDOW_COLOUR_2}Indice d’excitation :
+STR_3308    :{WINDOW_COLOUR_2}Indice d’engouement :
 STR_3309    :{WINDOW_COLOUR_2}{COMMA16}
 STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
 STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
@@ -3572,8 +3572,8 @@ STR_6457    :Signaler un bug sur GitHub
 STR_6458    :Suivre sur la vue principale
 STR_6460    :O
 STR_6461    :Orientation
-STR_6462    :Excitation
-STR_6463    :Excitation : {COMMA2DP32}
+STR_6462    :Engouement
+STR_6463    :Engouement : {COMMA2DP32}
 STR_6464    :Intensité
 STR_6465    :Intensité : {COMMA2DP32}
 STR_6466    :Nausée
@@ -3643,7 +3643,7 @@ STR_6529    :Paramètre de palette de couleurs invalide !
 STR_6530    :User Created Expansion Set
 STR_6531    :La machine temporelle
 STR_6532    :Le monde de Katy
-STR_6533    :{WINDOW_COLOUR_2}Indice d’excitation : {BLACK}-{COMMA16}%
+STR_6533    :{WINDOW_COLOUR_2}Indice d'engouement : {BLACK}-{COMMA16}%
 STR_6534    :{WINDOW_COLOUR_2}Indice d’intensité : {BLACK}-{COMMA16}%
 STR_6535    :{WINDOW_COLOUR_2}Indice de nausée : {BLACK}-{COMMA16}%
 STR_6536    :Ce parc a été sauvegardé dans une version plus récente d’OpenRCT2. Il a été sauvegardé avec la version {INT32}, vous utilisez la version {INT32}.
