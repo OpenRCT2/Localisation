@@ -43,7 +43,7 @@ KEYS_TO_IGNORE = ['STR_0000', 'STR_0001', 'STR_0824', 'STR_0839', 'STR_0840', 'S
                   'STR_6360']
 
 languages = []
-
+STR_NUMBER_RE = re.compile("STR_\d+")
 
 def get_arg_parser():
     """ Command line arguments """
@@ -105,8 +105,13 @@ def file_to_dict(filename):
             key = split[0].strip()
             if key in SPECIAL_KEYS:
                 key = previous_group_name + key
+            elif not STR_NUMBER_RE.match(key):
+                print(f'[{os.path.basename(filename)}]: {key} does not match STR_XXXX pattern')
             value = ':'.join(split[1:]).strip()
-            translations[key] = value
+            if key in translations:
+                print(f'[{os.path.basename(filename)}]: {key} is repeated')
+            else:
+                translations[key] = value
 
     return translations
 
