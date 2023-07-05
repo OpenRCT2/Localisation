@@ -38,4 +38,4 @@ Updated in:
 - [ ] zh-TW
 
 Notification when new strings arrive:
-@Omaranwa @J0anJosep @LPSGizmo @Wuzzy2 @tellovishous @dimateos @groenroos @rmnvgr @LucaRed @telk5093 @Goddesen @Gymnasiast @marcinkunert @Tupaschoal @LPR-Michael @daihakken
+@Omaranwa @J0anJosep @LPSGizmo @Wuzzy2 @gr33ndev @tellovishous @dimateos @groenroos @rmnvgr @LucaRed @telk5093 @Goddesen @Gymnasiast @marcinkunert @Tupaschoal @LPR-Michael @daihakken
