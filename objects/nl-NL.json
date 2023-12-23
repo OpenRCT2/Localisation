@@ -7,6 +7,10 @@
         "reference-name": "Pink Water",
         "name": "Roze water"
     },
+    "toontowner.scenery_small.ttrfwd01": {
+        "reference-name": "Roof",
+        "name": "Dak"
+    },
     "toontowner.scenery_small.ttrftl07": {
         "reference-name": "Roof",
         "name": "Dak"
@@ -23,11 +27,23 @@
         "reference-name": "Glass Roof",
         "name": "Glazen dak"
     },
+    "toontowner.scenery_small.ttrfwd07": {
+        "reference-name": "Roof",
+        "name": "Dak"
+    },
+    "toontowner.scenery_small.ttrfwd08": {
+        "reference-name": "Roof",
+        "name": "Dak"
+    },
     "toontowner.scenery_small.ttrftl04": {
         "reference-name": "Roof",
         "name": "Dak"
     },
     "toontowner.scenery_small.ttpirf03": {
+        "reference-name": "Roof",
+        "name": "Dak"
+    },
+    "toontowner.scenery_small.ttrfwd02": {
         "reference-name": "Roof",
         "name": "Dak"
     },
@@ -39,7 +55,15 @@
         "reference-name": "Giant Panda",
         "name": "Reuzenpanda"
     },
+    "toontowner.scenery_small.ttrfwd04": {
+        "reference-name": "Roof",
+        "name": "Dak"
+    },
     "toontowner.scenery_small.ttrftl02": {
+        "reference-name": "Roof",
+        "name": "Dak"
+    },
+    "toontowner.scenery_small.ttrfwd06": {
         "reference-name": "Roof",
         "name": "Dak"
     },
@@ -67,6 +91,10 @@
         "reference-name": "Roof",
         "name": "Dak"
     },
+    "toontowner.scenery_small.ttrfwd03": {
+        "reference-name": "Roof",
+        "name": "Dak"
+    },
     "toontowner.scenery_small.ttpirf02": {
         "reference-name": "Roof",
         "name": "Dak"
@@ -75,6 +103,14 @@
         "reference-name": "Wall with Passageway",
         "name": "Muur met doorgang"
     },
+    "couger.scenery_wall.acwwf32": {
+        "reference-name": "Wooden Post Wall",
+        "name": "Muur van houten palen"
+    },
+    "couger.scenery_wall.acww33": {
+        "reference-name": "Wooden Post Wall",
+        "name": "Muur van houten palen"
+    },
     "rct2dlc.footpath_item.litterpa": {
         "reference-name": "Panda Litter Bin",
         "name": "Vuilnisbak in pandavorm"
@@ -82,6 +118,14 @@
     "openrct2.footpath_railings.invisible": {
         "reference-name": "Invisible Railings",
         "name": "Onzichtbare ondersteuningen"
+    },
+    "openrct2.ride.alpine_coaster": {
+        "reference-name": "Alpine Coaster Cars",
+        "name": "Alpine Coaster Cars",
+        "reference-description": "Wheeled sleds equipped with manually operated brakes",
+        "description": "Wheeled sleds equipped with manually operated brakes",
+        "reference-capacity": "2 passengers per car",
+        "capacity": "2 passengers per car"
     },
     "rct2dlc.ride.zpanda": {
         "reference-name": "Panda Trains",
@@ -452,7 +496,7 @@
         "name": "Fantasiestijl"
     },
     "rct2.music.custom2": {
-        "reference-name": "Custom music 2",
+        "reference-name": "Legacy custom music 2",
         "name": "Extra muziek 2"
     },
     "rct2.music.candy": {
@@ -532,7 +576,7 @@
         "name": "Horrorstijl"
     },
     "rct2.music.custom1": {
-        "reference-name": "Custom music 1",
+        "reference-name": "Legacy custom music 1",
         "name": "Extra muziek 1"
     },
     "rct2.music.snow": {
@@ -2563,6 +2607,10 @@
         "reference-name": "Ambient sound effects for the Circus attraction.",
         "name": "Achtergrondgeluid voor het circus."
     },
+    "rct2.audio.base.rctc": {
+        "reference-name": "Base audio for the game.",
+        "name": "Base audio for the game."
+    },
     "rct2.ride.hchoc": {
         "reference-name": "Hot Chocolate Stall",
         "name": "Warmechocolademelkkraam",
@@ -2978,8 +3026,8 @@
         "name": "Onderzeeërs",
         "reference-description": "Riders ride in a submerged submarine through an underwater course",
         "description": "Passagiers rijden over een onderwaterparcours in onderzeeërs.",
-        "reference-capacity": "4 passengers per submarine",
-        "capacity": "4 passagiers per onderzeeër"
+        "reference-capacity": "5 passengers per submarine",
+        "capacity": "5 passagiers per onderzeeër"
     },
     "rct2.ride.fwh1": {
         "reference-name": "Ferris Wheel",
@@ -9659,6 +9707,46 @@
         "reference-name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes).",
         "name": "Titelschermmuziek voor RollerCoaster Tycoon (Loopy Landscapes)"
     },
+    "rct1.ride.wooden_rc_trains_reversed": {
+        "reference-name": "Wooden Roller Coaster Trains (Reversed)",
+        "name": "Wooden Roller Coaster Trains (Reversed)",
+        "reference-description": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
+        "description": "Houten achtbaantreinen die achterstevoren staan, zodat de passagiers achteruit rijden.",
+        "reference-capacity": "4 passengers per car",
+        "capacity": "4 passagiers per karretje"
+    },
+    "rct1.ride.inverted_trains": {
+        "reference-name": "Inverted Coaster Trains",
+        "name": "Trein voor omgekeerde achtbaan",
+        "reference-description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
+        "description": "Achtbaantrein met stoeljes die aan een steunconstructie zijn bevestigd die op de baan erboven rijdt.",
+        "reference-capacity": "2 passengers per car",
+        "capacity": "2 passagiers per karretje"
+    },
+    "rct1.ride.steel_rc_trains": {
+        "reference-name": "Roller Coaster Trains",
+        "name": "Achtbaantrein",
+        "reference-description": "Roller coaster train with a streamlined front car.",
+        "description": "Achtbaantrein waarvan het voorste karretje gestroomlijnd is.",
+        "reference-capacity": "4 passengers per car",
+        "capacity": "4 passagiers per karretje"
+    },
+    "rct1.ride.steel_rc_trains_reversed": {
+        "reference-name": "Roller Coaster Trains (Reversed)",
+        "name": "Achtbaantrein (achteruit)",
+        "reference-description": "Roller coaster train running in reverse, so that the passengers face backwards.",
+        "description": "Achtbaantrein waarvan het voorste karretje gestroomlijnd is.",
+        "reference-capacity": "4 riders per car",
+        "capacity": "4 passagiers per karretje"
+    },
+    "rct1.ride.single_person_swinging_cars": {
+        "reference-name": "Single-Person Swinging Cars",
+        "name": "Eénpersoons schommelstoelen",
+        "reference-description": "Single-seater cars which hang from the rail above, and are free to swing from side to side",
+        "description": "Karretjes voor één persoon die aan de rail erboven hangen en in de bochten naar buiten kunnen zwaaien.",
+        "reference-capacity": "1 passenger per car",
+        "capacity": "1 passagier per karretje"
+    },
     "rct1.ride.rocket_cars": {
         "reference-name": "Rocket Cars",
         "name": "Raketkarretjes",
@@ -9666,6 +9754,14 @@
         "description": "Achtbaankarretjes in de vorm van een raket.",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 passagiers per karretje"
+    },
+    "rct1.ride.wooden_rc_trains": {
+        "reference-name": "Wooden Roller Coaster Trains",
+        "name": "Trein voor houten achtbaan",
+        "reference-description": "Wooden roller coaster trains with padded seats and lap bar restraints",
+        "description": "Houten achtbaantreinen met gevoerde zittingen en heupbeugels.",
+        "reference-capacity": "4 passengers per car",
+        "capacity": "4 passagiers per karretje"
     },
     "rct1.ride.ladybird_trains": {
         "reference-name": "Ladybird Trains",
@@ -9675,11 +9771,27 @@
         "reference-capacity": "2 passengers per car",
         "capacity": "2 passagiers per karretje"
     },
+    "rct1.ride.corkscrew_trains": {
+        "reference-name": "Corkscrew Roller Coaster Trains",
+        "name": "Corkscrew Roller Coaster Trains",
+        "reference-description": "Roller coaster trains with shoulder restraints",
+        "description": "Roller coaster trains with shoulder restraints",
+        "reference-capacity": "4 passengers per car",
+        "capacity": "4 passengers per car"
+    },
     "rct1.ride.toilets": {
         "reference-name": "Toilets",
         "name": "Toiletten",
         "reference-description": "Basic toilets housed in a prefabricated concrete building",
         "description": "Eenvoudige toiletten in een prefab betonnen gebouw."
+    },
+    "rct1.ride.go_karts": {
+        "reference-name": "Go-Karts (with helmets)",
+        "name": "Go-Karts (with helmets)",
+        "reference-description": "Self-driven petrol-engined go-karts that come with safety helmets",
+        "description": "Self-driven petrol-engined go-karts that come with safety helmets",
+        "reference-capacity": "single-seater",
+        "capacity": "1 persoon per kart"
     },
     "rct1.ride.log_trains": {
         "reference-name": "Log Trains",
@@ -9704,6 +9816,10 @@
     "rct1aa.footpath_surface.tiles_grey": {
         "reference-name": "Grey Tiled Footpath",
         "name": "Grijze klinkers"
+    },
+    "rct1.footpath_surface.road": {
+        "reference-name": "Road",
+        "name": "Weg"
     },
     "rct1.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Square)",
