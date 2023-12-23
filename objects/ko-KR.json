@@ -7,6 +7,10 @@
         "reference-name": "Pink Water",
         "name": "분홍색 물"
     },
+    "toontowner.scenery_small.ttrfwd01": {
+        "reference-name": "Roof",
+        "name": "천장"
+    },
     "toontowner.scenery_small.ttrftl07": {
         "reference-name": "Roof",
         "name": "천장"
@@ -23,11 +27,23 @@
         "reference-name": "Glass Roof",
         "name": "유리 지붕"
     },
+    "toontowner.scenery_small.ttrfwd07": {
+        "reference-name": "Roof",
+        "name": "천장"
+    },
+    "toontowner.scenery_small.ttrfwd08": {
+        "reference-name": "Roof",
+        "name": "천장"
+    },
     "toontowner.scenery_small.ttrftl04": {
         "reference-name": "Roof",
         "name": "천장"
     },
     "toontowner.scenery_small.ttpirf03": {
+        "reference-name": "Roof",
+        "name": "천장"
+    },
+    "toontowner.scenery_small.ttrfwd02": {
         "reference-name": "Roof",
         "name": "천장"
     },
@@ -39,7 +55,15 @@
         "reference-name": "Giant Panda",
         "name": "자이언트 판다"
     },
+    "toontowner.scenery_small.ttrfwd04": {
+        "reference-name": "Roof",
+        "name": "천장"
+    },
     "toontowner.scenery_small.ttrftl02": {
+        "reference-name": "Roof",
+        "name": "천장"
+    },
+    "toontowner.scenery_small.ttrfwd06": {
         "reference-name": "Roof",
         "name": "천장"
     },
@@ -67,6 +91,10 @@
         "reference-name": "Roof",
         "name": "천장"
     },
+    "toontowner.scenery_small.ttrfwd03": {
+        "reference-name": "Roof",
+        "name": "천장"
+    },
     "toontowner.scenery_small.ttpirf02": {
         "reference-name": "Roof",
         "name": "천장"
@@ -75,6 +103,14 @@
         "reference-name": "Wall with Passageway",
         "name": "문이 있는 벽"
     },
+    "couger.scenery_wall.acwwf32": {
+        "reference-name": "Wooden Post Wall",
+        "name": "나무 기둥 벽"
+    },
+    "couger.scenery_wall.acww33": {
+        "reference-name": "Wooden Post Wall",
+        "name": "나무 기둥 벽"
+    },
     "rct2dlc.footpath_item.litterpa": {
         "reference-name": "Panda Litter Bin",
         "name": "판다 휴지통"
@@ -82,6 +118,14 @@
     "openrct2.footpath_railings.invisible": {
         "reference-name": "Invisible Railings",
         "name": "Invisible Railings"
+    },
+    "openrct2.ride.alpine_coaster": {
+        "reference-name": "Alpine Coaster Cars",
+        "name": "Alpine Coaster Cars",
+        "reference-description": "Wheeled sleds equipped with manually operated brakes",
+        "description": "Wheeled sleds equipped with manually operated brakes",
+        "reference-capacity": "2 passengers per car",
+        "capacity": "2 passengers per car"
     },
     "rct2dlc.ride.zpanda": {
         "reference-name": "Panda Trains",
@@ -452,7 +496,7 @@
         "name": "판타지 스타일"
     },
     "rct2.music.custom2": {
-        "reference-name": "Custom music 2",
+        "reference-name": "Legacy custom music 2",
         "name": "사용자 음악 2"
     },
     "rct2.music.candy": {
@@ -532,7 +576,7 @@
         "name": "호러 스타일"
     },
     "rct2.music.custom1": {
-        "reference-name": "Custom music 1",
+        "reference-name": "Legacy custom music 1",
         "name": "사용자 음악 1"
     },
     "rct2.music.snow": {
@@ -2563,6 +2607,10 @@
         "reference-name": "Ambient sound effects for the Circus attraction.",
         "name": "Ambient sound effects for the Circus attraction."
     },
+    "rct2.audio.base.rctc": {
+        "reference-name": "Base audio for the game.",
+        "name": "Base audio for the game."
+    },
     "rct2.ride.hchoc": {
         "reference-name": "Hot Chocolate Stall",
         "name": "핫초코 가게",
@@ -2978,8 +3026,8 @@
         "name": "잠수함",
         "reference-description": "Riders ride in a submerged submarine through an underwater course",
         "description": "수면 아래 코스를 이동하는 잠수함에 탑승하는 놀이기구",
-        "reference-capacity": "4 passengers per submarine",
-        "capacity": "잠수함당 4명의 승객"
+        "reference-capacity": "5 passengers per submarine",
+        "capacity": "잠수함당 5명의 승객"
     },
     "rct2.ride.fwh1": {
         "reference-name": "Ferris Wheel",
@@ -9661,6 +9709,46 @@
         "reference-name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes).",
         "name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes)."
     },
+    "rct1.ride.wooden_rc_trains_reversed": {
+        "reference-name": "Wooden Roller Coaster Trains (Reversed)",
+        "name": "Wooden Roller Coaster Trains (Reversed)",
+        "reference-description": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
+        "description": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
+        "reference-capacity": "4 passengers per car",
+        "capacity": "차량당 4명의 승객"
+    },
+    "rct1.ride.inverted_trains": {
+        "reference-name": "Inverted Coaster Trains",
+        "name": "Inverted Coaster Trains",
+        "reference-description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
+        "description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
+        "reference-capacity": "2 passengers per car",
+        "capacity": "차량당 2명의 승객"
+    },
+    "rct1.ride.steel_rc_trains": {
+        "reference-name": "Roller Coaster Trains",
+        "name": "Roller Coaster Trains",
+        "reference-description": "Roller coaster train with a streamlined front car.",
+        "description": "Roller coaster train with a streamlined front car.",
+        "reference-capacity": "4 passengers per car",
+        "capacity": "차량당 4명의 승객"
+    },
+    "rct1.ride.steel_rc_trains_reversed": {
+        "reference-name": "Roller Coaster Trains (Reversed)",
+        "name": "Roller Coaster Trains (Reversed)",
+        "reference-description": "Roller coaster train running in reverse, so that the passengers face backwards.",
+        "description": "Roller coaster train running in reverse, so that the passengers face backwards.",
+        "reference-capacity": "4 riders per car",
+        "capacity": "차량당 4명의 승객"
+    },
+    "rct1.ride.single_person_swinging_cars": {
+        "reference-name": "Single-Person Swinging Cars",
+        "name": "Single-Person Swinging Cars",
+        "reference-description": "Single-seater cars which hang from the rail above, and are free to swing from side to side",
+        "description": "Single-seater cars which hang from the rail above, and are free to swing from side to side",
+        "reference-capacity": "1 passenger per car",
+        "capacity": "차량당 승객 1명"
+    },
     "rct1.ride.rocket_cars": {
         "reference-name": "Rocket Cars",
         "name": "로켓 차량",
@@ -9668,6 +9756,14 @@
         "description": "로켓처럼 꾸며져 있는 롤러코스터 차량",
         "reference-capacity": "2 passengers per car",
         "capacity": "차량당 2명의 승객"
+    },
+    "rct1.ride.wooden_rc_trains": {
+        "reference-name": "Wooden Roller Coaster Trains",
+        "name": "Wooden Roller Coaster Trains",
+        "reference-description": "Wooden roller coaster trains with padded seats and lap bar restraints",
+        "description": "Wooden roller coaster trains with padded seats and lap bar restraints",
+        "reference-capacity": "4 passengers per car",
+        "capacity": "차량당 4명의 승객"
     },
     "rct1.ride.ladybird_trains": {
         "reference-name": "Ladybird Trains",
@@ -9677,11 +9773,27 @@
         "reference-capacity": "2 passengers per car",
         "capacity": "차량당 2명의 승객"
     },
+    "rct1.ride.corkscrew_trains": {
+        "reference-name": "Corkscrew Roller Coaster Trains",
+        "name": "Corkscrew Roller Coaster Trains",
+        "reference-description": "Roller coaster trains with shoulder restraints",
+        "description": "Roller coaster trains with shoulder restraints",
+        "reference-capacity": "4 passengers per car",
+        "capacity": "4 passengers per car"
+    },
     "rct1.ride.toilets": {
         "reference-name": "Toilets",
         "name": "화장실",
         "reference-description": "Basic toilets housed in a prefabricated concrete building",
         "description": "조립식 콘크리트 건물 안에 있는 기본형 화장실"
+    },
+    "rct1.ride.go_karts": {
+        "reference-name": "Go-Karts (with helmets)",
+        "name": "Go-Karts (with helmets)",
+        "reference-description": "Self-driven petrol-engined go-karts that come with safety helmets",
+        "description": "Self-driven petrol-engined go-karts that come with safety helmets",
+        "reference-capacity": "single-seater",
+        "capacity": "1인승"
     },
     "rct1.ride.log_trains": {
         "reference-name": "Log Trains",
@@ -9706,6 +9818,10 @@
     "rct1aa.footpath_surface.tiles_grey": {
         "reference-name": "Grey Tiled Footpath",
         "name": "회색 타일 보도"
+    },
+    "rct1.footpath_surface.road": {
+        "reference-name": "Road",
+        "name": "도로"
     },
     "rct1.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Square)",

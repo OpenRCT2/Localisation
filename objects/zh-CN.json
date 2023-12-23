@@ -7,6 +7,10 @@
         "reference-name": "Pink Water",
         "name": "粉色的水"
     },
+    "toontowner.scenery_small.ttrfwd01": {
+        "reference-name": "Roof",
+        "name": "屋顶"
+    },
     "toontowner.scenery_small.ttrftl07": {
         "reference-name": "Roof",
         "name": "屋顶"
@@ -23,11 +27,23 @@
         "reference-name": "Glass Roof",
         "name": "玻璃屋顶"
     },
+    "toontowner.scenery_small.ttrfwd07": {
+        "reference-name": "Roof",
+        "name": "屋顶"
+    },
+    "toontowner.scenery_small.ttrfwd08": {
+        "reference-name": "Roof",
+        "name": "屋顶"
+    },
     "toontowner.scenery_small.ttrftl04": {
         "reference-name": "Roof",
         "name": "屋顶"
     },
     "toontowner.scenery_small.ttpirf03": {
+        "reference-name": "Roof",
+        "name": "屋顶"
+    },
+    "toontowner.scenery_small.ttrfwd02": {
         "reference-name": "Roof",
         "name": "屋顶"
     },
@@ -39,7 +55,15 @@
         "reference-name": "Giant Panda",
         "name": "巨大熊猫"
     },
+    "toontowner.scenery_small.ttrfwd04": {
+        "reference-name": "Roof",
+        "name": "屋顶"
+    },
     "toontowner.scenery_small.ttrftl02": {
+        "reference-name": "Roof",
+        "name": "屋顶"
+    },
+    "toontowner.scenery_small.ttrfwd06": {
         "reference-name": "Roof",
         "name": "屋顶"
     },
@@ -67,6 +91,10 @@
         "reference-name": "Roof",
         "name": "屋顶"
     },
+    "toontowner.scenery_small.ttrfwd03": {
+        "reference-name": "Roof",
+        "name": "屋顶"
+    },
     "toontowner.scenery_small.ttpirf02": {
         "reference-name": "Roof",
         "name": "屋顶"
@@ -75,6 +103,14 @@
         "reference-name": "Wall with Passageway",
         "name": "带通道的墙"
     },
+    "couger.scenery_wall.acwwf32": {
+        "reference-name": "Wooden Post Wall",
+        "name": "木柱墙"
+    },
+    "couger.scenery_wall.acww33": {
+        "reference-name": "Wooden Post Wall",
+        "name": "木柱墙"
+    },
     "rct2dlc.footpath_item.litterpa": {
         "reference-name": "Panda Litter Bin",
         "name": "熊猫垃圾桶"
@@ -82,6 +118,14 @@
     "openrct2.footpath_railings.invisible": {
         "reference-name": "Invisible Railings",
         "name": "Invisible Railings"
+    },
+    "openrct2.ride.alpine_coaster": {
+        "reference-name": "Alpine Coaster Cars",
+        "name": "Alpine Coaster Cars",
+        "reference-description": "Wheeled sleds equipped with manually operated brakes",
+        "description": "Wheeled sleds equipped with manually operated brakes",
+        "reference-capacity": "2 passengers per car",
+        "capacity": "2 passengers per car"
     },
     "rct2dlc.ride.zpanda": {
         "reference-name": "Panda Trains",
@@ -452,7 +496,7 @@
         "name": "梦幻风格"
     },
     "rct2.music.custom2": {
-        "reference-name": "Custom music 2",
+        "reference-name": "Legacy custom music 2",
         "name": "自定义音乐2"
     },
     "rct2.music.candy": {
@@ -532,7 +576,7 @@
         "name": "恐怖风格"
     },
     "rct2.music.custom1": {
-        "reference-name": "Custom music 1",
+        "reference-name": "Legacy custom music 1",
         "name": "自定义音乐1"
     },
     "rct2.music.snow": {
@@ -2563,6 +2607,10 @@
         "reference-name": "Ambient sound effects for the Circus attraction.",
         "name": "Ambient sound effects for the Circus attraction."
     },
+    "rct2.audio.base.rctc": {
+        "reference-name": "Base audio for the game.",
+        "name": "Base audio for the game."
+    },
     "rct2.ride.hchoc": {
         "reference-name": "Hot Chocolate Stall",
         "name": "热巧克力店",
@@ -2978,8 +3026,8 @@
         "name": "海底旅行",
         "reference-description": "Riders ride in a submerged submarine through an underwater course",
         "description": "乘客坐在水中的潜艇在水面下游动参观",
-        "reference-capacity": "4 passengers per submarine",
-        "capacity": "4 位乘客/船"
+        "reference-capacity": "5 passengers per submarine",
+        "capacity": "5 位乘客/船"
     },
     "rct2.ride.fwh1": {
         "reference-name": "Ferris Wheel",
@@ -9659,6 +9707,46 @@
         "reference-name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes).",
         "name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes)."
     },
+    "rct1.ride.wooden_rc_trains_reversed": {
+        "reference-name": "Wooden Roller Coaster Trains (Reversed)",
+        "name": "Wooden Roller Coaster Trains (Reversed)",
+        "reference-description": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
+        "description": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
+        "reference-capacity": "4 passengers per car",
+        "capacity": "4 位乘客/每个车厢"
+    },
+    "rct1.ride.inverted_trains": {
+        "reference-name": "Inverted Coaster Trains",
+        "name": "Inverted Coaster Trains",
+        "reference-description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
+        "description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
+        "reference-capacity": "2 passengers per car",
+        "capacity": "2 位乘客/每个车厢"
+    },
+    "rct1.ride.steel_rc_trains": {
+        "reference-name": "Roller Coaster Trains",
+        "name": "Roller Coaster Trains",
+        "reference-description": "Roller coaster train with a streamlined front car.",
+        "description": "Roller coaster train with a streamlined front car.",
+        "reference-capacity": "4 passengers per car",
+        "capacity": "4位乘客/车"
+    },
+    "rct1.ride.steel_rc_trains_reversed": {
+        "reference-name": "Roller Coaster Trains (Reversed)",
+        "name": "Roller Coaster Trains (Reversed)",
+        "reference-description": "Roller coaster train running in reverse, so that the passengers face backwards.",
+        "description": "Roller coaster train running in reverse, so that the passengers face backwards.",
+        "reference-capacity": "4 riders per car",
+        "capacity": "4位乘客/车"
+    },
+    "rct1.ride.single_person_swinging_cars": {
+        "reference-name": "Single-Person Swinging Cars",
+        "name": "Single-Person Swinging Cars",
+        "reference-description": "Single-seater cars which hang from the rail above, and are free to swing from side to side",
+        "description": "Single-seater cars which hang from the rail above, and are free to swing from side to side",
+        "reference-capacity": "1 passenger per car",
+        "capacity": "1位乘客/车"
+    },
     "rct1.ride.rocket_cars": {
         "reference-name": "Rocket Cars",
         "name": "火箭车",
@@ -9666,6 +9754,14 @@
         "description": "过山车列车的特色像火箭",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 位乘客/每个车厢"
+    },
+    "rct1.ride.wooden_rc_trains": {
+        "reference-name": "Wooden Roller Coaster Trains",
+        "name": "Wooden Roller Coaster Trains",
+        "reference-description": "Wooden roller coaster trains with padded seats and lap bar restraints",
+        "description": "Wooden roller coaster trains with padded seats and lap bar restraints",
+        "reference-capacity": "4 passengers per car",
+        "capacity": "4 位乘客/每个车厢"
     },
     "rct1.ride.ladybird_trains": {
         "reference-name": "Ladybird Trains",
@@ -9675,11 +9771,27 @@
         "reference-capacity": "2 passengers per car",
         "capacity": "2 位乘客/每个车厢"
     },
+    "rct1.ride.corkscrew_trains": {
+        "reference-name": "Corkscrew Roller Coaster Trains",
+        "name": "Corkscrew Roller Coaster Trains",
+        "reference-description": "Roller coaster trains with shoulder restraints",
+        "description": "Roller coaster trains with shoulder restraints",
+        "reference-capacity": "4 passengers per car",
+        "capacity": "4 passengers per car"
+    },
     "rct1.ride.toilets": {
         "reference-name": "Toilets",
         "name": "厕所",
         "reference-description": "Basic toilets housed in a prefabricated concrete building",
         "description": "一座基本厕所建筑物"
+    },
+    "rct1.ride.go_karts": {
+        "reference-name": "Go-Karts (with helmets)",
+        "name": "Go-Karts (with helmets)",
+        "reference-description": "Self-driven petrol-engined go-karts that come with safety helmets",
+        "description": "Self-driven petrol-engined go-karts that come with safety helmets",
+        "reference-capacity": "single-seater",
+        "capacity": "单一乘客"
     },
     "rct1.ride.log_trains": {
         "reference-name": "Log Trains",
@@ -9704,6 +9816,10 @@
     "rct1aa.footpath_surface.tiles_grey": {
         "reference-name": "Grey Tiled Footpath",
         "name": "Grey Tiled Footpath"
+    },
+    "rct1.footpath_surface.road": {
+        "reference-name": "Road",
+        "name": "道路"
     },
     "rct1.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Square)",
