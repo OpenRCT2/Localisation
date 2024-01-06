@@ -188,7 +188,7 @@ def prepare_translation_report(master_dir, branch_dir, reference_file):
                                          '(e.g. STR_9999 is in `en-GB` but is not available in given language)')
     not_needed = prepare_spoiler('Not needed', 'The translation file contains entries that are not in `en-GB` '
                                                'and should be removed '
-                                               '(e.g. STR_9999 exits in given language but is not in `en-GB`)')
+                                               '(e.g. STR_9999 exists in given language but is not in `en-GB`)')
     same = prepare_spoiler('Same', 'The translation and source string is exactly the same.  '
                                    '(e.g. STR_9999 is `Umbrella` in both `en-GB` and given language). '
                                    'This may be desired in some cases (e.g. `April` is the same in English and German)')
