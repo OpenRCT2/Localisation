@@ -7,7 +7,7 @@ STR_0002    :Spirális hullámvasút
 STR_0003    :Álló hullámvasút
 STR_0004    :Felfüggesztett lengő hullámvasút
 STR_0005    :Fordított hullámvasút
-STR_0006    :Kezdő hullámvasút 
+STR_0006    :Gyerek hullámvasút 
 STR_0008    :Egysínű vasút
 STR_0007    :Kisvasút
 STR_0009    :Mini felfüggesztett hullámvasút
@@ -119,7 +119,7 @@ STR_0529    :A hullámvasút bányavonat témájú vonatai acél hullámvasútp�
 STR_0530    :A kocsik egy acélkábelről lógnak, ami folyamatosan a játék egyik végétől a másikig fut, majd újra vissza
 STR_0531    :Egy kompakt, acélpályás hullámvasút, amelyen a vonat dugóhúzókon és hurkokon halad át
 STR_0532    :Az útvesztő közel 2 méteres sövényekből vagy falakból áll és a vendégek addig bolyonganak benne, amíg rá nem lelnek a kijáratra
-STR_0533    :Egy  belső lépcsős faépület kívül spirál csúszdával, amelyről csúszómatracokkal lehet lecsúszni
+STR_0533    :Egy belső lépcsős faépület kívül spirál csúszdával, amelyről csúszómatracokkal lehet lecsúszni
 STR_0534    :A vendégek gokartokban versenyeznek egymással egy aszfaltpályán
 STR_0535    :Csónakok haladnak egy vízcsatorna mentén, nagyokat csobbanva a meredek lejtőknél, hogy eláztassák az utasokat
 STR_0536    :Kerek csónakok kanyarognak egy széles vízcsatorna mentén, miközben csobogó vízesések és habzó zuhatagok biztosítják az izgalmat az utasok számára
@@ -155,11 +155,16 @@ STR_0569    :A pálya alatti speciális rögzítőhámokban utazva az utasok meg
 STR_0571    :Kör alakú autók forognak körbe-körbe, miközben a cikkcakkos fa pályán haladnak
 STR_0572    :A nagy kapacitású csónakok egy széles vízcsatornán haladnak, felfelé a lejtőkön futószalagon, majd a meredek lejtőkön lefelé gyorsulva óriási csobbanással áztatják el az utasokat
 STR_0573    :Motoros, helikopter formájú kocsik haladnak egy acélpályán, a pedálozó utasok irányításával
+STR_0574    :Az utasok speciális hevederekben fekszenek, kanyargós pályákon és fordítókon haladva, a hátukon vagy a föld felé nézve
+STR_0575    :Egyetlen sínre függesztett, motoros vonatok szállítják az embereket a park körül
 STR_0578    :A kocsik egy abroncsokkal körbefogott, meredek esésekkel és palástorsókkal teli pálya mentén haladnak
 STR_0579    :Egy enyhe minigolf-játék
 STR_0580    :Egy hatalmas acél hullámvasút, amely sima esésekre és 90 méternél magasabb emelkedőkre is képes
+STR_0581    :A gyűrű alakban elhelyezkedő székeket egy magas torony tetejére húzzák, miközben lassan forognak, majd szabadon zuhannak lefelé, végül mágneses fékek segítségével óvatosan megállnak az alján
 STR_0582    :A vendégek légpárnás járművekben utaznak, amelyeket szabadon irányítanak
+STR_0583    :Egy épület, amely ferde szobákat és kanyargó folyosókat tartalmaz, hogy összezavarja az áthaladó embereket
 STR_0584    :Speciális, az utasok pedálozásával hajtott biciklik futnak egy acél egysínű pályán
+STR_0585    :Az utasok a pálya alatt felfüggesztett üléspárokban ülnek, miközben kanyarognak és csavarodnak a szoros fordítókon
 STR_0588    :Különálló kocsik futnak a cikcakkos, hajtűkanyarokkal és éles esésekkel teli pálya alatt
 STR_0589    :Egy nagy, repülőszőnyeg-témájú kocsi, amely ciklikusan fel-le mozog a 4 kar végén
 STR_0590    :Az utasok egy alámerült tengeralattjáróban utaznak végig egy víz alatti pályán
@@ -170,7 +175,7 @@ STR_0602    :A hullámvasút vonatai aszinkronmotoros gyorsítással hagyják el
 STR_0603    :Egy fa stílusú hullámvasút acélpályával, meredek esésekkel és fordítókkal.
 STR_0604    :Az utasok egymás mögött utaznak egy keskeny, egysínű pályán, ahogy átszáguldanak a szoros fordítókon és irányváltásokon.
 STR_0605    :Az utasok egy kanyargós acélpályán szánkóznak lefelé, fékezéssel szabályozva a sebességüket
-STR_0606    :Egy régebbi stílusú, fából készült hullámvasút gyors és durva utazással, rengeteg légi idővel, némi oldalirányú G-vel, és úgy tervezték, hogy „kontrollvesztettség” érzetét nyújtsa
+STR_0606    :Egy régebbi stílusú, fából készült hullámvasút gyors és durva utazással, rengeteg légi idővel, némi oldalirányú G-vel, és úgy tervezve, hogy „kontrollvesztettség” élményét nyújtsa
 STR_0767    :Vendég {INT32}
 STR_0768    :Mindenes {INT32}
 STR_0769    :Gépész {INT32}
@@ -2203,7 +2208,7 @@ STR_3141    :Nem lehetséges többkörös utazás kábeles felvonószakasszal
 STR_3142    :{WINDOW_COLOUR_2}Befogadóképesség: {BLACK}{STRINGID}
 STR_3143    :Emberek megjelenítése a térképen
 STR_3144    :Játékok és bódék megjelenítése a térképen
-STR_3160    :{SMALLFONT}{BLACK}A körök számának menetenkénti beállítása
+STR_3160    :A körök számának menetenkénti beállítása
 STR_3162    :Nem lehet elég memóriát lefoglalni
 STR_3163    :Új adat telepítése:
 STR_3164    :{BLACK}{COMMA16} kiválasztva (maximum {COMMA16})
@@ -2258,11 +2263,11 @@ STR_3217    :Birtokolt föld
 STR_3218    :Birtokolt építési jogok
 STR_3219    :Eladó föld
 STR_3220    :Eladó építési jogok
-STR_3221    :{SMALLFONT}{BLACK}A park tulajdonába tartozó földterületek kijelölése
-STR_3222    :{SMALLFONT}{BLACK}Kizárólag a park tulajdonában lévő építési jogok kijelölése
-STR_3223    :{SMALLFONT}{BLACK}A park által megvásárolható földterületek kijelölése
-STR_3224    :{SMALLFONT}{BLACK}A park által megvásárolható építési jogok kijelölése
-STR_3225    :{SMALLFONT}{BLACK}A kiválasztott pozíció körül objektumok véletlenszerű halmazának építése be/ki
+STR_3221    :A park tulajdonába tartozó földterületek kijelölése
+STR_3222    :Kizárólag a park tulajdonában lévő építési jogok kijelölése
+STR_3223    :A park által megvásárolható földterületek kijelölése
+STR_3224    :A park által megvásárolható építési jogok kijelölése
+STR_3225    :A kiválasztott pozíció körül objektumok véletlenszerű halmazának építése be/ki
 STR_3226    :Parkbejárat építése
 STR_3227    :Túl sok a parkbejárat!
 STR_3228    :Kezdő pozíciók megadása az emberek számára
@@ -2963,34 +2968,35 @@ STR_5814    :{WINDOW_COLOUR_1}„{STRING}”
 #tooltips
 STR_5815    :FPS-számláló megjelenítése a játékban
 STR_5816    :A játék méretezési tényezőjének beállítása.{NEWLINE}Főleg akkor hasznos, ha magasabb{NEWLINE} felbontásokban játszol.
+STR_5819    :[Hardveres megjelenítés szükséges]{NEWLINE}A játék megállítása, ha a Steam{NEWLINE}Átfedés megnyílik
 STR_5820    :A játék minimalizálása, ha elveszti a fókuszt{NEWLINE}teljes képernyős módban
 STR_5822    :A nap és az éjszaka váltakozásának bekapcsolása.{NEWLINE}A teljes ciklus egy játékbeli hónapig tart
 STR_5823    :Nagybetűs megjelenítés a hirdetőtáblákon (RCT1-beli viselkedés)
 STR_5824    :A viharok alatti villámhatás{NEWLINE}kikapcsolása
 STR_5825    :Az egérmutató maradjon az ablakon belül
 STR_5826    :A látkép jobb egeres húzásának invertálása
-STR_5827    :{SMALLFONT}{BLACK}A felhasználói felület színsémájának beállítása
-STR_5828    :{SMALLFONT}{BLACK}Megváltoztatja a távolságok, sebesség stb. mérési formátumát.
-STR_5829    :{SMALLFONT}{BLACK}Megváltoztatja a használatban lévő pénznem formátumot. Tisztán vizuális, a pontos árfolyam nincs implementálva.
+STR_5827    :A felhasználói felület színsémájának beállítása
+STR_5828    :A távolságok, sebesség stb. mértékegységeinek megváltoztatása
+STR_5829    :A használatban lévő pénznem formátum megváltoztatása. Tisztán vizuális, a pontos árfolyam nincs implementálva.
 STR_5830    :A játék által használt nyelv megváltoztatása
-STR_5831    :A hőmérséklet kijelzéséhez{NEWLINE}használt mértékegység megváltoztatása.
-STR_5832    :{SMALLFONT}{BLACK}A magasság általános mértékegységként való megjelenítése a "Távolság és sebesség" alatt beállított mérési formátum helyett
+STR_5831    :A hőmérséklet kijelzéséhez{NEWLINE}használt mértékegység megváltoztatása
+STR_5832    :A magasság általános mértékegységként való megjelenítése a "Távolság és sebesség" alatt beállított mértékegység helyett
 STR_5833    :A játék által használt dátumformátum megváltoztatása
 STR_5834    :Az OpenRCT2 által használt hangeszköz kiválasztása
 STR_5835    :A játék némítása, ha az ablak elveszti a fókuszt
 STR_5836    :A főmenüben használt zene kiválasztása.{NEWLINE}Az RCT1 témája csak akkor választható, ha megadod az RCT1 útvonalát a Haladó fülön.
-STR_5837    :{SMALLFONT}{BLACK}Egyéni felhasználói felület témák létrehozása és kezelése
+STR_5837    :Egyéni felhasználói felület témák létrehozása és kezelése
 STR_5838    :Külön gomb a pénzügyi ablak számára az eszköztáron
 STR_5839    :Külön gomb a kutatás-fejlesztés ablak számára az eszköztáron
 STR_5840    :Külön gomb a csalások ablak számára az eszköztáron
 STR_5841    :Külön gomb a legutóbbi hírek ablak számára az eszköztáron
-STR_5842    :{SMALLFONT}{BLACK}A pályák nehézségük (RCT2-beli viselkedés) vagy forrásjátékuk (RCT1-beli viselkedés) szerinti fülekre csoportosítása
+STR_5842    :A pályák nehézségük (RCT2-beli viselkedés) vagy forrásjátékuk (RCT1-beli viselkedés) szerinti fülekre csoportosítása
 STR_5843    :A pályák progresszív feloldásának engedélyezése (RCT1-beli viselkedés)
 STR_5844    :Tartsa fenn a kapcsolatot a többjátékos{NEWLINE}szerverrel akkor is, ha szinkronizációs vagy egyéb hiba jelentkezik
 STR_5845    :Hozzáadja a hibakereső{NEWLINE}eszközök gombját az eszköztárhoz.{NEWLINE}Engedélyezi a fejlesztői konzol gyorsbillentyűjét
-STR_5846    :{SMALLFONT}{BLACK}Az OpenRCT2 milyen gyakran mentsen automatikusan
+STR_5846    :Az OpenRCT2 milyen gyakran mentsen automatikusan
 STR_5849    :Az újonnan felvett alkalmazottak{NEWLINE}automatikus lerakása
-STR_5851    :{SMALLFONT}{BLACK}Az alapértelmezett vizsgálati időköz megadása{NEWLINE}újonnan épített játékokra
+STR_5851    :Az alapértelmezett vizsgálati időköz megadása{NEWLINE}újonnan épített játékokhoz
 STR_5853    :A hanghatások be- és kikapcsolása
 STR_5854    :A játékok zenéjének be- és kikapcsolása
 STR_5855    :Váltás a hagyományos teljes képernyős,{NEWLINE}keret nélküli teljes képernyős és az{NEWLINE}ablakos megjelenítési módok között
@@ -3040,12 +3046,13 @@ STR_5899    :Festési hibakeresés ablak be/ki
 STR_5900    :Eredeti rajzolókód használata
 STR_5901    :Szegmensek magasságának mutatása
 STR_5902    :Határolókeretek mutatása
+STR_5903    :Festési hibakeresés ablak mutatása
 STR_5904    :Dátum vissza
 STR_5905    :Térképgeneráló eszköz, amely automatikusan létrehoz egy egyedi tájat
 STR_5906    :Nagyítás a mutató helyzetére 
 STR_5907    :Ha be van kapcsolva, a nagyítás képernyő közepe helyett a mutatóra közelít
 STR_5908    :Tetszőleges játék-változtatások
-STR_5909    :{SMALLFONT}{BLACK}Lehetővé teszi a járműtípus szabad megváltoztatását. Összeomlásokat okozhat.
+STR_5909    :Lehetővé teszi a járműtípus szabad megváltoztatását. Összeomlásokat okozhat.
 STR_5910    :Alkalmazás
 STR_5911    :Átlátszó utak
 STR_5912    :Átlátszó utak be/ki
