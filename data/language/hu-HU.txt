@@ -283,7 +283,7 @@ STR_0891    :Képmentés
 STR_0892    :A képernyő elmentve ’{STRINGID}’ néven
 STR_0893    :A képmentés sikertelen !
 STR_0894    :Táj-adatterület megtelt !
-STR_0895    :Nem lehet részben föl fölé, részben föld alá építeni!
+STR_0895    :Nem lehet részben föld fölé, részben föld alá építeni!
 STR_0896    :{POP16}{POP16}{STRINGID} építése
 STR_0897    :Irány
 STR_0898    :Balkanyar
@@ -328,7 +328,7 @@ STR_0936    :A park bejárata útban van
 STR_0937    :Nézet beállítások
 STR_0938    :A föld magasságának és lejtésének módosítása
 STR_0939    :Földalatti/belső nézet
-STR_0940    :Talaj elrejtése
+STR_0940    :Alapföld elrejtése
 STR_0941    :Függőleges felületek elrejtése
 STR_0942    :Átlátszó játékok
 STR_0943    :Átlátszó díszletek
@@ -2485,7 +2485,7 @@ STR_5182    :{INT32}
 STR_5183    :Alapmagasság
 STR_5184    :Add meg az alapmagasságot {COMMA16} és {COMMA16} között
 STR_5185    :Vízszint
-STR_5186    :Add meg az vízszintet {COMMA16} és {COMMA16} között
+STR_5186    :Add meg a vízszintet {COMMA16} és {COMMA16} között
 STR_5187    :Pénzügyek
 STR_5188    :Új kampány
 STR_5189    :Kutatás
@@ -3011,7 +3011,7 @@ STR_5857    :Játékbeállítások
 STR_5858    :CPU helyett a GPU használata megjelenítéshez. Nagyobb kompatibilitást biztosít a képernyőrögzítő programokkal. Némileg csökkentheti a teljesítményt.
 STR_5859    :A képkocka fázisolás bekapcsolása, hogy {NEWLINE}folyamatosabb legyen a játékmenet megjelenítése. Ha ki van kapcsolva,{NEWLINE}a játék 40 FPS-el fut.
 STR_5860    :Váltás az eredeti és a visszafejtett pályarajzok között
-STR_5861    :Kulcs hitelesítési hiba
+STR_5861    :Kulcs hitelesítési hiba.
 STR_5862    :Ismeretlen játékosok blokkolása.
 STR_5863    :Csak az ismert kulcsokkal rendelkező játékosok csatlakozhassanak.
 STR_5864    :Ehhez a szerverhez csak fehérlistás játékosok csatlakozhatnak.
@@ -3589,7 +3589,7 @@ STR_6491    :Ezt a parkot az OpenRCT2 egy későbbi verziójában mentették el.
 STR_6492    :Ez a park az OpenRCT2 egy régi verziójában lett elmentve, és nem nyitható meg az OpenRCT2 ezen verziójával. A park v{INT32}.
 STR_6493    :Ezt a parkot az OpenRCT2 egy későbbi verziójában mentették el, egyes adatok elveszhettek. A park v{INT32}, a jelenlegi verziód: {INT32}.
 STR_6494    :Játéktípus szerinti csoportosítás
-STR_6495    :Csoportosítsa a játékokat a játéktípusok szerint, ahelyett, hogy minden járművet külön-külön mutatna.
+STR_6495    :Csoportosítsa a játékokat játéktípusok szerint, ahelyett, hogy minden járművet külön-külön mutatna.
 STR_6496    :{WINDOW_COLOUR_2}{STRINGID}
 STR_6497    :Kattints egy mezőre a mezőelemei megjelenítéséhez.{NEWLINE}Ctrl + kattintás egy mezőelemre a közvetlen kijelöléshez.
 STR_6498    :Engedélyezd a négyzet alakú térképforma megtartásához.
@@ -4067,7 +4067,7 @@ STR_DTLS    :Alakítsd át a jeges tájat virágzó vidámparkká
 <Southern Sands>
 STR_SCNR    :Déli Homok
 STR_PARK    :Déli Homok
-STR_DTLS    :Ez a néhány okosan tervezett hullámvasúttal rendelkező sivatagi park arra vár, hogy kibővítsd
+STR_DTLS    :Egy sivatagi park néhány ügyesen megtervezett hullámvasúttal arra vár, hogy kibővítsd
 
 <Tiny Towers>
 STR_SCNR    :Törpe Tornyok
