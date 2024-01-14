@@ -450,9 +450,9 @@ STR_1059    :A játék/épület nem nevezhető át…
 STR_1060    :Érvénytelen játék-/épületnév
 STR_1061    :Normál üzemmód
 STR_1062    :Folyamatos körözés üzemmód
-STR_1063    :Fordított lejtős motoros ingajárat üzemmód
+STR_1063    :Fordított emelkedős kilövésű ingázó üzemmód
 STR_1064    :Motoros kilövés (áthalad az állomáson)
-STR_1065    :Ingajárat üzemmód
+STR_1065    :Ingázó üzemmód
 STR_1066    :Csónakkölcsönző üzemmód
 STR_1067    :Kilövés felfelé
 STR_1068    :Forgó lift üzemmód
@@ -1329,7 +1329,7 @@ STR_1952    :Nyereség grafikon
 STR_1953    :Marketing
 STR_1954    :Kutatás finanszírozása
 STR_1955    :{WINDOW_COLOUR_2}Körök száma:
-STR_1956    :A pálya köreinek száma játékonként
+STR_1956    :A pályakörök száma menetenként
 STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1958    :{COMMA16}
 STR_1959    :Nem változtatható meg a körök száma…
@@ -2378,7 +2378,7 @@ STR_3330    :A parknak birtokolnia kell némi földet
 STR_3331    :A park bejáratától a térkép széléig vezető út nem teljes, vagy túl bonyolult - Az út egyszeres szélességű kell, hogy legyen, a lehető legkevesebb elágazással és kanyarral
 STR_3332    :A parkbejárat rossz irányba néz, vagy nem vezet tőle út a térkép széléig
 STR_3333    :Egyedi objektumok exportálása a mentett játékokkal
-STR_3334    : Válaszd ki, hogy mentésre kerüljenek-e szükséges hozzáadott egyedi objektumok adatai (a játékhoz nem mellékelt kiegészítő adatok) a mentett játékok vagy pályák fájlaiban, hogy azok is betölthessék őket, akik nem rendelkeznek a hozzáadott objektumok adataival
+STR_3334    :Válaszd ki, hogy mentésre kerüljenek-e szükséges hozzáadott egyedi objektumok adatai (a játékhoz nem mellékelt kiegészítő adatok) a mentett játékok vagy pályák fájlaiban, hogy azok is betölthessék őket, akik nem rendelkeznek a hozzáadott objektumok adataival
 STR_3335    :Játéktervező - Válaszd ki a játék típusát és a járműveket
 STR_3336    :Játékterv-kezelő - Válaszd ki a játék típusát
 STR_3338    :{BLACK}Egyedi tervezés
@@ -2474,8 +2474,8 @@ STR_5158    :Kilépés a menübe
 STR_5159    :Kilépés az OpenRCT2-ből
 STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID} {POP16}{COMMA16}. év
 STR_5161    :Dátumformátum:
-STR_5162    :nap/hónap/év
-STR_5163    :hónap/nap/év
+STR_5162    :Nap/hónap/év
+STR_5163    :Hónap/nap/év
 STR_5177    :Képernyőmód:
 STR_5178    :Pénzügyi csalások
 STR_5179    :Vendég-csalások
@@ -2492,7 +2492,7 @@ STR_5189    :Kutatás
 STR_5190    :Térkép
 STR_5191    :Látkép
 STR_5192    :Friss hírek
-STR_5193    :Talaj
+STR_5193    :Föld
 STR_5194    :Víz
 STR_5195    :Díszlet törlése
 STR_5196    :Földjogok
@@ -2747,7 +2747,7 @@ STR_5545    :Sötét rózsaszín
 STR_5546    :Élénk rózsaszín
 STR_5547    :Világos rózsaszín
 STR_5548    :Minden működési mód megjelenítése
-STR_5549    :év/hónap/nap
+STR_5549    :Év/hónap/nap
 STR_5550    :{POP16}{POP16}{COMMA16}. év {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_5551    :év/nap/hónap
 STR_5552    :{POP16}{POP16}{COMMA16}. év {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
@@ -2973,7 +2973,7 @@ STR_5814    :{WINDOW_COLOUR_1}„{STRING}”
 
 #tooltips
 STR_5815    :FPS-számláló megjelenítése a játékban
-STR_5816    :A játék méretezési tényezőjének beállítása.{NEWLINE}Főleg akkor hasznos, ha magasabb{NEWLINE} felbontásokban játszol.
+STR_5816    :A játék méretezési tényezőjének beállítása.{NEWLINE}Főleg akkor hasznos, ha magasabb{NEWLINE} felbontásokban játszol
 STR_5819    :[Hardveres megjelenítés szükséges]{NEWLINE}A játék megállítása, ha a Steam{NEWLINE}Átfedés megnyílik
 STR_5820    :A játék minimalizálása, ha elveszti a fókuszt{NEWLINE}teljes képernyős módban
 STR_5822    :A nap és az éjszaka váltakozásának bekapcsolása.{NEWLINE}A teljes ciklus egy játékbeli hónapig tart
@@ -2997,7 +2997,7 @@ STR_5839    :Külön gomb a kutatás-fejlesztés ablak számára az eszköztáro
 STR_5840    :Külön gomb a csalások ablak számára az eszköztáron
 STR_5841    :Külön gomb a legutóbbi hírek ablak számára az eszköztáron
 STR_5842    :A pályák nehézségük (RCT2-beli viselkedés) vagy forrásjátékuk (RCT1-beli viselkedés) szerinti fülekre csoportosítása
-STR_5843    :A pályák progresszív feloldásának engedélyezése (RCT1-beli viselkedés)
+STR_5843    :A pályák fokozatos feloldásának engedélyezése (RCT1-beli viselkedés)
 STR_5844    :Tartsa fenn a kapcsolatot a többjátékos{NEWLINE}szerverrel akkor is, ha szinkronizációs vagy egyéb hiba jelentkezik
 STR_5845    :Hozzáadja a hibakereső{NEWLINE}eszközök gombját az eszköztárhoz.{NEWLINE}Engedélyezi a fejlesztői konzol gyorsbillentyűjét
 STR_5846    :Az OpenRCT2 milyen gyakran mentsen automatikusan
@@ -3764,7 +3764,7 @@ STR_DTLS    :Ez a vidámpark már rendelkezik pár jól tervezett, modern játé
 <Mystic Mountain>
 STR_SCNR    :Misztikus-hegy
 STR_PARK    :Misztikus-hegy
-STR_DTLS    :A nulláról kezdve építs egy vidámparkot Misztikus-hegy dombos erdőiben
+STR_DTLS    :A nulláról kezdve építs egy vidámparkot Misztikus-hegy dombos erdeiben
 
 <Pacific Pyramids>
 STR_SCNR    :Pihenő Piramisok
@@ -3784,17 +3784,17 @@ STR_DTLS    :Alakítsd át ennek az álmos kisvárosnak a mólóját virágzó a
 <Lightning Peaks>
 STR_SCNR    :Villámcsúcsok
 STR_PARK    :Villámcsúcsok
-STR_DTLS    :Villámcsúcsok gyönyörű hegyei népszerűek a természetjárók és a turisták körében - Használd a rendelkezésre álló területet, hogy új, izgalomkereső vendégeket csábíts a parkba
+STR_DTLS    :Villámcsúcsok gyönyörű hegyei népszerűek a természetjárók és a turisták körében - Használd ki a rendelkezésre álló területet, hogy új, izgalmakat kereső vendégkört vonzzon magához
 
 <Ivory Towers>
-STR_SCNR    :Elefántcsonttornyok
-STR_PARK    :Elefántcsonttornyok
-STR_DTLS    :Egy patinás park, néhány problémával
+STR_SCNR    :Elefántcsont-tornyok
+STR_PARK    :Elefántcsont-tornyok
+STR_DTLS    :Egy jól működő park, amely néhány problémával küzd
 
 <Rainbow Valley>
 STR_SCNR    :Szivárványvölgy
 STR_PARK    :Szivárványvölgy
-STR_DTLS    :Szivárványvölgy helyi önkormányzata egyáltalán nem engedélyezi a táj módosítását, vagy a nagy fák eltávolítását, de neked egy hatalmas vidámparkká kell fejlesztened a területet
+STR_DTLS    :Szivárványvölgy helyi önkormányzata nem engedélyez semmilyen tájátalakítást vagy a nagy fák eltávolítását, de a területet egy hatalmas vidámparkká kell fejlesztened
 
 <Thunder Rock>
 STR_SCNR    :Mennydörgő-szikla
@@ -3815,12 +3815,12 @@ STR_DTLS    :Fejleszd a tengerparti sziklákat virágzó vidámparkká
 <Three Monkeys Park>
 STR_SCNR    :Három Majom Park
 STR_PARK    :Három Majom Park
-STR_DTLS    :A nagy fejlődő park közepén egy óriási hárompályás versenyző/párbajozó hullámvasút található
+STR_DTLS    :A nagy, fejlődő park központi eleme egy óriási, hárompályás versenyző/párbajozó acél hullámvasút
 
 <Canary Mines>
 STR_SCNR    :Kanári Bányák
 STR_PARK    :Kanári Bányák
-STR_DTLS    :Ebben az elhagyatott bányában minden megvan ahhoz, hogy vonzó turisztikai célpont legyen a kisvonatával és a függőleges esésű hullámvasútpárjával
+STR_DTLS    :Ebben az elhagyatott bányában minden megvan ahhoz, hogy vonzó turisztikai látványosság legyen a kisvonatával és a függőleges esésű hullámvasútpárjával
 
 <Barony Bridge>
 STR_SCNR    :Hűbéri Híd
@@ -3833,9 +3833,9 @@ STR_PARK    :Mókaland
 STR_DTLS    :A parknak az autópálya mindkét oldalán van területe és már több játékot is üzemeltet
 
 <Haunted Harbour>
-STR_SCNR    :Kísérteties Kikötő
-STR_PARK    :Kísérteties Kikötő
-STR_DTLS    :A helyi önkormányzat beleegyezett abba, hogy ez a kis tengerparti park olcsón juthasson földekhez a közelben, azzal a feltétellel, hogy egyes játékai műemlékvédelem alá kerülnek
+STR_SCNR    :Kísértetjárta Kikötő
+STR_PARK    :Kísértetjárta Kikötő
+STR_DTLS    :A helyi önkormányzat beleegyezett, hogy a közeli földterületet olcsón eladja ennek a kis tengerparti parknak, azzal a feltétellel, hogy bizonyos játékai műemlékvédelem alá kerülnek
 
 <Fun Fortress>
 STR_SCNR    :Vidám Vár
@@ -3855,7 +3855,7 @@ STR_DTLS    :A helyi lakosság az enyhe és nyugtató játékokat kedveli, úgyh
 <Jolly Jungle>
 STR_SCNR    :Derűs Dzsungel
 STR_PARK    :Derűs Dzsungel
-STR_DTLS    :A dzsungel mélyén lévő nagy földterület épp megfelelő egy vidámpark számára
+STR_DTLS    :Ez a dzsungel mélyén elterülő nagy földterület épp megfelelő egy vidámpark számára
 
 <Hydro Hills>
 STR_SCNR    :Hidro-hegyek
@@ -3873,9 +3873,9 @@ STR_PARK    :Mágikus Negyedek
 STR_DTLS    :Egy nagy területet megtisztítottak és részben tematizáltak, így készen áll arra, hogy parkosított vidámparkká alakítsd
 
 <Fruit Farm>
-STR_SCNR    :Gyümölcsös
-STR_PARK    :Gyümölcsös
-STR_DTLS    :Egy jól menő gyümölcsös vasutat épített a bevételeinek növelésére, a te feladatod, hogy teljes egészében vidámparkká fejleszd
+STR_SCNR    :Gyümölcsfarm
+STR_PARK    :Gyümölcsfarm
+STR_DTLS    :Egy jól menő gyümölcsfarm vasutat épített a bevételeinek növelésére, a te feladatod, hogy teljes egészében vidámparkká fejleszd
 
 <Butterfly Dam>
 STR_SCNR    :Pillangó-gát
@@ -3883,19 +3883,19 @@ STR_PARK    :Pillangó-gát
 STR_DTLS    :Egy gát körüli területen kell vidámparkot kialakítanod
 
 <Coaster Canyon>
-STR_SCNR    :Hullámvasút-szurdok
-STR_PARK    :Hullámvasút-szurdok
-STR_DTLS    :Alakíts ki egy vidámparkot a rendelkezésedre álló hatalmas szurdokban
+STR_SCNR    :Hullámvasút-kanyon
+STR_PARK    :Hullámvasút-kanyon
+STR_DTLS    :Alakíts ki egy vidámparkot a rendelkezésedre álló hatalmas kanyonban
 
 <Thunderstorm Park>
-STR_SCNR    :Zuhé Park
-STR_PARK    :Zuhé Park
-STR_DTLS    :Annyira csapadékos ez a terület, hogy egy hatalmas piramis építésére volt szükség ahhoz, hogy néhány játék fedett tető alá épülhessen
+STR_SCNR    :Viharpark
+STR_PARK    :Viharpark
+STR_DTLS    :Annyira csapadékos ez a terület, hogy egy hatalmas piramis építésére volt szükség ahhoz, hogy néhány játék fedett helyre épülhessen
 
 <Harmonic Hills>
 STR_SCNR    :Harmonikus-hegyek
 STR_PARK    :Harmonikus-hegyek
-STR_DTLS    :A helyi önkormányzat nem engedélyezi számodra, hogy famagasság felett építkezz ebben a parkban
+STR_DTLS    :A helyi önkormányzat nem engedélyezi számodra, hogy fák magassága felett építkezz ebben a parkban
 
 <Roman Village>
 STR_SCNR    :Római Falu
@@ -3905,7 +3905,7 @@ STR_DTLS    :Fejleszd ezt a római témájú parkot játékok és hullámvasutak
 <Swamp Cove>
 STR_SCNR    :Mocsár-öböl
 STR_PARK    :Mocsár-öböl
-STR_DTLS    :A kis szigetcsoportra épült parknak már van egy nagy, központi elemként funkcionáló hullámvasútpár
+STR_DTLS    :A kis szigetcsoportra épült parkban már van egy nagy, központi elemként funkcionáló hullámvasútpár
 
 <Adrenaline Heights>
 STR_SCNR    :Adrenalin-csúcsok
@@ -3935,7 +3935,7 @@ STR_DTLS    :A helyi önkormányzat nem engedélyez semmiféle reklámot vagy pr
 <Giggle Downs>
 STR_SCNR    :Kacaj-dombság
 STR_PARK    :Kacaj-dombság
-STR_DTLS    :Egy négypályás akadályverseny-játék a központi eleme ennek a terjeszkedő parknak
+STR_DTLS    :Egy négysávos akadályverseny-játék a központi eleme ennek a terjeszkedő parknak
 
 <Mineral Park>
 STR_SCNR    :Ásvány Park
@@ -3953,8 +3953,8 @@ STR_PARK    :Városi Park
 STR_DTLS    :Egy apró park egyezséget kötött a közeli várossal, amelynek értelmében magán a városon keresztül terjeszkedhet
 
 <Geoffrey Gardens>
-STR_SCNR    :Gotfrid Kert
-STR_PARK    :Gotfrid Kert
+STR_SCNR    :Geoffrey Kertek
+STR_PARK    :Geoffrey Kertek
 STR_DTLS    :Egy nagy kertnek arra van szüksége, hogy sikeres vidámpark legyen belőle
 
 
@@ -3962,7 +3962,7 @@ STR_DTLS    :Egy nagy kertnek arra van szüksége, hogy sikeres vidámpark legye
 <Iceberg Islands>
 STR_SCNR    :Jéghegy-szigetek
 STR_PARK    :Jéghegy-szigetek
-STR_DTLS    :Ez az ambiciózus vidámpark egy csoportnyi jéghegyre épült
+STR_DTLS    :Egy csoportnyi jéghegy hideg helyszínt biztosít ennek az ambiciózus vidámparknak
 
 <Volcania>
 STR_SCNR    :Vulkánia
@@ -3970,14 +3970,14 @@ STR_PARK    :Vulkánia
 STR_DTLS    :Egy szunnyadó vulkán adja ennek a hullámvasút-építő kihívásnak a helyszínét
 
 <Arid Heights>
-STR_SCNR    :Száraz Magasságok
-STR_PARK    :Száraz Magasságok
+STR_SCNR    :Száraz Magaslatok
+STR_PARK    :Száraz Magaslatok
 STR_DTLS    :Az a kihívásod, hogy gondoskodj a park fejlesztéséről, miközben biztosítod a vendégek jókedvét, pénzügyi korlátok nélkül
 
 <Razor Rocks>
-STR_SCNR    :Borotva Sziklák
-STR_PARK    :Borotva Sziklák
-STR_DTLS    :Az a feladatod, hogy egy masszív, hullámvasutakkal teli parkot alakíts ki a Borotva Sziklák között
+STR_SCNR    :Penge Sziklák
+STR_PARK    :Penge Sziklák
+STR_DTLS    :Az a feladatod, hogy egy masszív, hullámvasutakkal teli parkot alakíts ki a Penge Sziklák között
 
 <Crater Lake>
 STR_SCNR    :Kráter-tó
@@ -4047,12 +4047,12 @@ STR_DTLS    :Egy rémisztő vidámpark, a közepén egy hatalmas hullámvasútta
 <Thunder Rocks>
 STR_SCNR    :Mennydörgő-sziklák
 STR_PARK    :Mennydörgő-sziklák
-STR_DTLS    :A homokból két nagydarab szikla áll ki, melyeken megkezdődött egy vidámpark építése
+STR_DTLS    :Két nagy szikladarab emelkedik ki a homokból, amelyekre egy vidámpark alapjai épülnek
 
 <Octagon Park>
 STR_SCNR    :Oktogon Park
 STR_PARK    :Oktogon Park
-STR_DTLS    :Tíz hullámvasutat kell építened ebben a nagy parkban
+STR_DTLS    :Tíz hullámvasutat kell tervezned és építened ebben a nagy parkban
 
 <Pleasure Island>
 STR_SCNR    :Élménysziget
@@ -4077,7 +4077,7 @@ STR_DTLS    :Öt meglévő hullámvasutat kell befejezned ebben a kis parkban
 <Nevermore Park>
 STR_SCNR    :Sohamár Park
 STR_PARK    :Sohamár Park
-STR_DTLS    :Egy nagy park, egyedi közlekedési rendszerrel a széle körül
+STR_DTLS    :Egy nagy park, újszerű közlekedési rendszerrel a szélén
 
 <Pacifica>
 STR_SCNR    :Pacifica
@@ -4097,11 +4097,11 @@ STR_DTLS    :Ez a városi terület csak a tiéd, hogy vidámparkká fejleszd
 <Megaworld Park>
 STR_SCNR    :Megavilág Park
 STR_PARK    :Megavilág Park
-STR_DTLS    :Van mit javítani ezen az óriási, játékokkal teli parkon
+STR_DTLS    :Egy óriási park, amely már így is tele van játékokkal, fejlesztésre szorul
 
 <Venus Ponds>
-STR_SCNR    :Vénuszi Tavak
-STR_PARK    :Vénuszi Tavak
+STR_SCNR    :Vénusz Tavak
+STR_PARK    :Vénusz Tavak
 STR_DTLS    :Alakítsd át egy messzi bolygó földterületét vidámparkká
 
 <Micro Park>
@@ -4133,17 +4133,6 @@ STR_SCNR    :Anakronizmus-erőd
 STR_PARK    :Anakronizmus-erőd
 STR_DTLS    :
 
-###########
-# Scenery #
-###########
-
-## Start OpenRCT2 Official
-
-[TTPIRF05]
-STR_NAME    :Tető
-
-## End OpenRCT2 Official
-
 ###############################################################################
 ## RCT2 Scenarios
 ###############################################################################
@@ -4160,12 +4149,12 @@ STR_DTLS    :Építs egy repülés témájú vidámparkot ezen az elhagyatott re
 <Botany Breakers>
 STR_SCNR    :Botanikus Hullámok
 STR_PARK    :Botanikus Hullámok
-STR_DTLS    :A kihívásod az, hogy építs egy igazán nyereséges parkot ezen a paradicsomi szigeten...
+STR_DTLS    :A kihívásod az, hogy építs egy igazán nyereséges parkot ezen a paradicsomi szigeten
 
 <Build your own Six Flags Belgium>
 STR_SCNR    :Építsd meg a saját Six Flags Belgiumodat
 STR_PARK    :Six Flags Belgium
-STR_DTLS    :Építsd meg a saját változatodat ebből európai Six Flags parkból!
+STR_DTLS    :Építsd meg a saját változatodat ebből európai Six Flags parkból
 
 <Build your own Six Flags Great Adventure>
 STR_SCNR    :Építsd meg a saját Six Flags Great Adventure-ödet
@@ -4180,22 +4169,22 @@ STR_DTLS    :Építsd meg ezt az európai Six Flags parkot úgy, ahogyan szeretn
 <Build your own Six Flags Magic Mountain>
 STR_SCNR    :Építsd meg a saján Six Flags Magic Mountain-edet
 STR_PARK    :Six Flags Magic Mountain
-STR_DTLS    :Készítsd el a saját verziódat ebből a hatalmas Six Flags parkból!
+STR_DTLS    :Készítsd el a saját verziódat ebből a hatalmas Six Flags parkból
 
 <Build your own Six Flags over Texas>
 STR_SCNR    :Építsd meg a saját Six Flags over Texasodat
 STR_PARK    :Six Flags over Texas
-STR_DTLS    :A semmiből kiindulva, építsd meg ebben a Six Flags parkban a hullámvasutakat!
+STR_DTLS    :A semmiből kiindulva építsd meg ebben a Six Flags parkban a játékokat
 
 <Build your own Six Flags Park>
 STR_SCNR    :Építsd meg a saját Six Flags parkodat
 STR_PARK    :Six Flags
-STR_DTLS    :Építsd meg a saját Six Flags parkodat - vagy építs más Six Flags parkokból származó játékokat, vagy tervezz és építs saját játékokat.
+STR_DTLS    :Építs saját tervezésű Six Flags parkot - vagy más Six Flags parkokból építs játékokat, vagy tervezz és építs saját játékokat
 
 <Bumbly Bazaar>
 STR_SCNR    :Bumfordi Bazár
 STR_PARK    :Bumfordi Bazár
-STR_DTLS    :Egy kis piaci bazárral indulva, a kihívásod a boltok és bódék nyereségének növelése azzal, hogy több vendéget vonzol be játékok és hullámvasutak építésével
+STR_DTLS    :Egy kis piaci bazárral kezdve, a kihívásod a boltok és bódék nyereségének növelése azzal, hogy több vendéget vonzol be játékok és hullámvasutak építésével
 
 <Crazy Castle>
 STR_SCNR    :Őrült Kastély
@@ -4205,42 +4194,42 @@ STR_DTLS    :Örököltél egy nagy kastélyt. Az a feladatod, hogy átalakítsd
 <Dusty Greens>
 STR_SCNR    :Poros Golfpálya 
 STR_PARK    :Poros Golfpálya
-STR_DTLS    :A sivatagban, egy autópálya-csomópont közelében található Poros Golfpálya lehetőséget kínál egy kis golfközpont virágzó vidámparkká fejlesztésére
+STR_DTLS    :A sivatagban, egy autópálya-csomópont közelében található Poros Golfpálya lehetőséget kínál egy kis golfüdülő virágzó vidámparkká fejlesztésére
 
 <Electric Fields>
 STR_SCNR    :Elektromos Mezők
 STR_PARK    :Elektromos Mezők
-STR_DTLS    :Örököltél egy kis farmot, és a kihívásod az, hogy építs egy kis vidámparkot a mezők és a farmépületek között
+STR_DTLS    :Örököltél egy kis farmot, és a kihívásod egy kis vidámpark építése a mezők és a farmépületek között
 
 <Extreme Heights>
 STR_SCNR    :Extrém Magaslatok
 STR_PARK    :Extrém Magaslatok
-STR_DTLS    :Pénzügyi korlátoktól mentesen, a kihívásod ennek a sivatagi parkonak a bővítése úgy, hogy magához vonzza a maximális izgalmakat kereső embereket 
+STR_DTLS    :Pénzügyi korlátoktól mentesen, a kihívásod ennek a sivatagi parknak a bővítése úgy, hogy magához vonzza a maximális izgalmakat kereső embereket 
 
 <Factory Capers>
 STR_SCNR    :Gyári Móka
 STR_PARK    :Gyári Móka
-STR_DTLS    :Egy elhagyatott gyárkomplexum lehetőség egy mechanikus témájú vidámpark építésére
+STR_DTLS    :Az elhagyatott gyárkomplexum lehetőség egy mechanikus témájú vidámpark építésére
 
 <Fungus Woods>
 STR_SCNR    :Gombaerdő
 STR_PARK    :Gombaerdő
-STR_DTLS    :Kizárólag régebbi stílusú, fából készült hullámvasutakra korlátozva, a kihívásod az, hogy egy virágzó vidámparkot építs Gombaerdőben
+STR_DTLS    :Kizárólag régebbi stílusú, fából készült hullámvasutakra korlátozva, a kihívásod egy virágzó vidámpark építése Gombaerdőben
 
 <Ghost Town>
 STR_SCNR    :Szellemváros
 STR_PARK    :Szellemváros
-STR_DTLS    :Egy nagy vidámparklánc arra bérelt fel, hogy egy elhagyatott bányászváros köré építs egy óriási hullámvasútparkot
+STR_DTLS    :Egy nagy vidámparklánc felbérelt, hogy építs nekik óriási hullámvasútparkot egy elhagyatott bányászváros köré
 
 <Gravity Gardens>
-STR_SCNR    :Gravitációs Kert
-STR_PARK    :Gravitációs Kert
-STR_DTLS    :A kihívásod az, hogy építs egy hullámvasútparkot a gyönyörű Gravitációs Kertben. Semmi más játékot, csak hullámvasutakat!
+STR_SCNR    :Gravitációs Kertek
+STR_PARK    :Gravitációs Kertek
+STR_DTLS    :A kihívásod az, hogy építs egy hullámvasútparkot a gyönyörű Gravitációs Kertekben. Semmi más játékot, csak hullámvasutakat!
 
 <Infernal Views>
 STR_SCNR    :Pokoli Kilátások
 STR_PARK    :Pokoli Kilátások
-STR_DTLS    :A park bizonytalanul fészkel a magmafolyamokkal övezett lávaköveken
+STR_DTLS    :A park bizonytalanul fészkel a magmafolyamokkal övezett lávasziklákon
 
 <Lucky Lake>
 STR_SCNR    :Szerencsés-tó
@@ -4255,7 +4244,7 @@ STR_DTLS    :A domboldalon épült parkban tilos bármi magasat építeni. Siker
 <Six Flags Belgium>
 STR_SCNR    :Six Flags Belgium
 STR_PARK    :Six Flags Belgium
-STR_DTLS    :Próbáld ki magad ennek a Six Flags parknak vezetésében és fejlesztésében
+STR_DTLS    :Próbáld ki magad ennek a Six Flags parknak az üzemeltetésében és fejlesztésében
 
 <Six Flags Great Adventure>
 STR_SCNR    :Six Flags Great Adventure
@@ -4265,7 +4254,7 @@ STR_DTLS    :Építsd meg a hiányzó Six Flags játékokat, vagy készíts saj�
 <Six Flags Holland>
 STR_SCNR    :Six Flags Holland
 STR_PARK    :Six Flags Holland
-STR_DTLS    :Próbáld ki magad ennek a Six Flags parknak a vezetésében és fejlesztésében
+STR_DTLS    :Próbáld ki magad ennek a Six Flags parknak az üzemeltetésében és fejlesztésében
 
 <Six Flags Magic Mountain>
 STR_SCNR    :Six Flags Magic Mountain
@@ -4522,7 +4511,7 @@ STR_DTLS    :Anyu építette ezt a jelenetet a fánk alá. Most azt akarja, hogy
 <Bigrock Blast>
 STR_SCNR    :Robbanás Bigrockban
 STR_PARK    :Robbanás Bigrockban
-STR_DTLS    :Miután robbanás történt a Bigrock Mining Co. vállalatnál, Bigrock lakosainak egy vidámparkot kell építeniük, hogy életben tartsák városukat.{NEWLINE}Szerzők: rbarclay & buckone
+STR_DTLS    :Miután robbanás történt a Bigrock Bányászati Vállalatnál, Bigrock lakosainak egy vidámparkot kell építeniük, hogy életben tartsák városukat.{NEWLINE}Szerzők: rbarclay & buckone
 
 <Camp Mockingbird for UCES by Katatude>
 STR_SCNR    :Feketerigó Tábor
