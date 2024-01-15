@@ -12,7 +12,7 @@ STR_0007    :Kisvasút
 STR_0008    :Egysínű vasút
 STR_0009    :Mini felfüggesztett hullámvasút
 STR_0010    :Csónakkölcsönző
-STR_0011    :Fa vad egér
+STR_0011    :Fa vadegér
 STR_0012    :Akadályverseny
 STR_0013    :Autós utazás
 STR_0014    :Kilövéses szabadesés
@@ -57,7 +57,7 @@ STR_0052    :Szellemvasút
 STR_0053    :Csavaró hullámvasút
 STR_0054    :Fa hullámvasút
 STR_0055    :Oldalirányú súrlódásos hullámvasút
-STR_0056    :Fém vad egér
+STR_0056    :Acél vadegér
 STR_0057    :Többdimenziós hullámvasút
 STR_0058    :Ismeretlen játék (38)
 STR_0059    :Repülő hullámvasút
@@ -66,7 +66,7 @@ STR_0061    :Virginia Reel
 STR_0062    :Csobbanó csónakok
 STR_0063    :Mini helikopterek
 STR_0064    :Fekvő hullámvasút
-STR_0065    :Felfüggesztett egysínű
+STR_0065    :Felfüggesztett egysínű vasút
 STR_0066    :Ismeretlen játék (40)
 STR_0067    :Irányváltó hullámvasút
 STR_0068    :Palástorsózó hullámvasút
@@ -78,7 +78,7 @@ STR_0073    :Ferde ház
 STR_0074    :Egysínű biciklik
 STR_0075    :Kompakt fordított hullámvasút
 STR_0076    :Vízi hullámvasút 
-STR_0077    :Levegővel működtetett függőleges hullámvasút
+STR_0077    :Léghajtású függőleges hullámvasút
 STR_0078    :Fordított hajtű hullámvasút
 STR_0079    :Varázsszőnyeg
 STR_0080    :Tengeralattjáró-utazás
@@ -98,7 +98,7 @@ STR_0093    :Hibrid hullámvasút
 STR_0094    :Egysínű hullámvasút
 STR_0095    :Alpesi hullámvasút
 STR_0096    :Klasszikus fa hullámvasút
-STR_0512    :Egy kompakt hullámvasút spirális felvonórésszel és sima, csavaros esésekkel.
+STR_0512    :Egy kompakt hullámvasút spirális felvonószakasszal és sima, csavaros esésekkel.
 STR_0513    :Egy átforduló hullámvasút, amelyen az utasok álló helyzetben utaznak
 STR_0514    :A hullámvasút pályája alatt felfüggesztett vonatok oldalt kilengenek a kanyarokban
 STR_0515    :Egy acél hullámvasút, pálya alatt felfüggesztett vonatokkal, valamint számos összetett és csavarodó pályaelemmel
@@ -133,7 +133,7 @@ STR_0545    :Egy hagyományos forgó körhinta, faragott falovakkal
 STR_0547    :Egy bódé, ahol parktérképeket és esernyőket vehetnek a vendégek
 STR_0548    :Egy illemhely
 STR_0549    :Nagy forgó kerék, nyitott székekkel
-STR_0550    :Az utasok filmet néznek a mozgásszimulátor kabinjában, miközben azt egy hidraulikus kar forgatja és rázza
+STR_0550    :Az utasok filmet néznek a mozgásszimulátor kabinjában, miközben azt egy hidraulikus kar forgatja és mozgatja
 STR_0551    :3D-s filmeket vetítő mozi egy geodéziai gömb alakú épületben
 STR_0552    :A nagy forgó karokkal felfüggesztett kabinban az utasok előre-hátra forognak és bukfenceznek 
 STR_0553    :Koncentrikus forgó gyűrűk, amelyekben az utasok szabadon foroghatnak minden irányba
@@ -149,7 +149,7 @@ STR_0562    :Motoros autók utaznak egy többszintes pálya mentén, miközben k
 STR_0563    :Kényelmes, egyszerű biztonsági rudas vonatokban ülve élvezhetik az utasok a hatalmas, sima eséseket és csavaros pályákat, valamint a bőséges „légi időt” az emelkedők után
 STR_0564    :Ez a fa pályán futó hullámvasút gyors, durva, hangos és „kontrollvesztett” utazási élményt nyújt, bőséges „légi idővel”
 STR_0565    :Egy egyszerű, kizárólag enyhe lejtőkre és fordulókra képes fa hullámvasút, amelyen a kocsikat csak az oldalirányú súrlódásos kerekek és a gravitáció tartják a pályán
-STR_0566    :A különállő hullámvasút kocsik egy szűk, éles kanyarokkal és rövid, meredek esésekkel tarkított, cikcakkos pályán száguldoznak
+STR_0566    :A különálló hullámvasút kocsik egy szűk, éles kanyarokkal és rövid, meredek esésekkel tarkított, cikcakkos pályán száguldoznak
 STR_0567    :A pálya mindkét oldalán felfüggesztett ülésekben ülve az utasok bukfencezve forognak, miközben meredek eséseken és különböző fordítókon haladnak át
 STR_0569    :A pálya alatti speciális rögzítőhámokban utazva az utasok megtapasztalhatják a repülés élményét, ahogy szelik a levegőt
 STR_0571    :Kör alakú autók forognak körbe-körbe, miközben a cikkcakkos fa pályán haladnak
@@ -2166,7 +2166,7 @@ STR_3093    :{WINDOW_COLOUR_2}Kedvence: {BLACK}{STRINGID}
 STR_3094    :nincs adat
 STR_3095    :{WINDOW_COLOUR_2}Felvonó láncsebessége:
 STR_3096    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
-STR_3097    :A felvonórész láncsebességének kiválasztása
+STR_3097    :A felvonószakasz láncsebességének kiválasztása
 STR_3099    :Szín kiválasztása
 STR_3100    :Második szín kiválasztása
 STR_3101    :Harmadik szín kiválasztása
@@ -2781,6 +2781,7 @@ STR_5581    :FPS megjelenítése
 STR_5582    :Egérmutató elfogása az ablakban
 STR_5583    :{COMMA1DP16} m/s 
 STR_5584    :SI
+STR_5585    :Feloldja a játékok működési korlátait, lehetővé téve például a {VELOCITY} sebességű felvonószakaszok használatát
 STR_5586    :Boltok és bódék automatikus megnyitása
 STR_5587    :Az újonnan épült boltok és bódék automatikus megnyitása
 STR_5588    :Online játék másokkal
@@ -3001,6 +3002,7 @@ STR_5843    :A pályák fokozatos feloldásának engedélyezése (RCT1-beli vise
 STR_5844    :Tartsa fenn a kapcsolatot a többjátékos{NEWLINE}szerverrel akkor is, ha szinkronizációs vagy egyéb hiba jelentkezik
 STR_5845    :Hozzáadja a hibakereső{NEWLINE}eszközök gombját az eszköztárhoz.{NEWLINE}Engedélyezi a fejlesztői konzol gyorsbillentyűjét
 STR_5846    :Az OpenRCT2 milyen gyakran mentsen automatikusan
+STR_5846    :A címképernyőn használt parkszekvencia kiválasztása.{NEWLINE}Az RCT1/2-ből származó címszekvenciák működéséhez importált pályák szükségesek
 STR_5849    :Az újonnan felvett alkalmazottak{NEWLINE}automatikus lerakása
 STR_5851    :Az alapértelmezett vizsgálati időköz megadása{NEWLINE}újonnan épített játékokhoz
 STR_5853    :A hanghatások be- és kikapcsolása
@@ -3141,11 +3143,11 @@ STR_5988    :Nincs több eladó földterület
 STR_5989    :Nincs több eladó építési jog
 STR_5990    :Nincs több eladó földterület vagy építési jog
 STR_5991    :Nem illeszthető be az elem…
+STR_5992    :A térképelemek száma elérte a limitet
 STR_5993    :A kiválasztott elem másolása
 STR_5994    :A másolt elem beillesztése
 STR_5995    :Gyorsító
 STR_5996    :Gyorsító sebessége
-STR_5992    :Elérted a térképelem-limitet
 STR_5997    :Pénz hozzáadása/beállítása
 STR_5998    :Pénz hozzáadása
 STR_5999    :Pénz beállítása
@@ -3256,7 +3258,9 @@ STR_6105    :Hiperhullámvasút
 STR_6107    :Monster Truck-ok
 STR_6109    :Hiper-csavaró
 STR_6111    :Klasszikus mini hullámvasút
+STR_6113    :Magas, nem forduló hullámvasút nagy esésekkel, nagy sebességgel és kényelmes vonatokkal, csak biztonsági rudas rögzítéssel
 STR_6115    :Motoros óriás 4x4-es teherautók, amelyek meredek lejtőkön is felhajtanak
+STR_6116    :Széles hullámvasútvonatok siklanak a sima acélpályán, és különböző fordítókon haladnak keresztül
 STR_6119    :Ez a hullámvasút olcsó és könnyen építhető, de csak korlátozott magasságig
 STR_6120    :{BABYBLUE}Új jármű érhető el {STRINGID} számára:{NEWLINE}{STRINGID}
 STR_6121    :Kiterjeszti a park által birtokolt területet egészen a térkép széléig
@@ -3282,8 +3286,10 @@ STR_6140    :Változási napló…
 STR_6141    :RCT1 alsó eszköztár
 STR_6142    :{WINDOW_COLOUR_2}Pálya neve: {BLACK}{STRING}
 STR_6143    :{WINDOW_COLOUR_2}Játék típusa: {BLACK}{STRINGID}
+STR_6144    :Piszkos grafikák mutatása
 STR_6145    :Sebességlimit beállítása a gyorsítók számára
 STR_6146    :Minden rajzolható pályaelem engedve
+STR_6147    :Engedélyezi az összes olyan pályaelem megjelenítését az építési ablakban, amelyet a járműtípus képes kezelni, függetlenül attól, hogy a jármű támogatja-e azokat.
 STR_6148    :Csatlakozás a főszerverhez…
 STR_6149    :Nem sikerült csatlakozni a főszerverhez
 STR_6150    :Érvénytelen válasz a főszervertől (nincs JSON-szám)
@@ -3296,7 +3302,7 @@ STR_6156    :A név le van foglalva
 STR_6157    :Konzol
 STR_6160    :{WINDOW_COLOUR_2}Rendelkezésre álló járművek: {BLACK}{STRING}
 STR_6161    :Rácsok megjelenítése be/ki
-STR_6162    :Forgó vad egér
+STR_6162    :Forgó vadegér
 STR_6163    :Egér alakú kocsik száguldanak éles kanyarokon és rövid eséseken keresztül, miközben szelíden forognak, hogy összezavarják az utasokat
 STR_6164    :{WHITE}❌
 STR_6165    :Vertikális szinkron
@@ -4444,7 +4450,7 @@ STR_DTLS    :
 <UCES Halloween>
 STR_SCNR    :Temető-gerinc
 STR_PARK    :Temető-gerinc
-STR_DTLS    :Itt van halloween, UCES halloween, tök lámpás ami gyertyát rejt! Ez a temető bajban van, és rajtad múlik a megmentése, miközben arra is ügyelned kell, hogy a halottak békében nyugodjanak! Képes vagy a szellemeket a sírjukban tartani és frászt hozni a vendégeidre?{NEWLINE}Szerző: Squid
+STR_DTLS    :Itt van halloween, UCES halloween, tök lámpás ami gyertyát rejt! Mentsd meg a bajba jutott temetőt, ügyelve a halottak békéjére! Képes vagy a szellemeket sírjukban tartani és frászt hozni a vendégeidre?{NEWLINE}Szerző: Squid
 
 ###############################################################################
 ## UCES: The Time Machine (2003)
