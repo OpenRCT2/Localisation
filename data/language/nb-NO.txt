@@ -48,7 +48,7 @@ STR_0043    :Romringer
 STR_0044    :Bakvendt fritt fall-bane
 STR_0045    :Heis
 STR_0046    :Vertikalt-fall berg-og-dal-bane
-STR_0047    :Bankautomat
+STR_0047    :Minibank
 STR_0048    :Twister
 STR_0049    :Spøkelseshus
 STR_0050    :Førstehjelp
@@ -104,8 +104,8 @@ STR_0513    :En loopende berg-og-dal-bane hvor passasjerene kjører stående
 STR_0514    :Tog som henger under berg-og-dal-banesporet svinger utover i svingene
 STR_0515    :En berg-og-dal-bane i stål hvor togene henger under banen, med komplekse og vridde baner
 STR_0516    :En rolig berg-og-dal-bane for dem som ikke enda tør våge seg på de større attraksjonene
-STR_0517    :Passasjerer kjører i miniatyrtog langs en smalsport togbane
-STR_0518    :Passasjerer reiser i elektriske tog lang en monorailbane
+STR_0517    :Passasjerer kjører i miniatyrtog langs en smalsporet togbane
+STR_0518    :Passasjerer reiser i elektriske tog langs en monorailbane
 STR_0519    :Passasjerer kjører i små vogner, hengende under en enkelt skinne, hvor de svinger fritt fra side til side i svingene
 STR_0520    :En brygge hvor gjester kan kjøre/ro personlige fartøy på vannet
 STR_0521    :En rask og forskrudd berg-og-dal-bane med skarpe svinger og bratte fall; høy intensitet er garantert
@@ -140,7 +140,7 @@ STR_0552    :
 STR_0553    :
 STR_0554    :Vognen blir skutt ut av stasjonen langs en rett strekning ved hjelp av lineære induksjonsmotorer, for så å bli ledet rett opp et høyt tårn, hvor den faller fritt baklengs tilbake til stasjonen
 STR_0555    :Gjester reiser opp eller ned et vertikalt tårn for å komme fra ett nivå til et annet
-STR_0556    :Extra vide vogner kjører ned vertikale fall for en ultimat fritt fall-opplevelse
+STR_0556    :Ekstra vide vogner kjører ned vertikale fall for en ultimat fritt fall-opplevelse
 STR_0557    :
 STR_0558    :
 STR_0559    :
@@ -150,7 +150,7 @@ STR_0562    :Motoriserte biler reiser forbi skumle kulisser og spesialeffekter o
 STR_0563    :I komfortable vogner nyter passasjerene gigantiske myke fall og langvarig vektløshet over bakketoppene
 STR_0564    :Denne berg-og-dal-banen er laget i tre og er rask, røff og bråkete på en måte som gjør at toget føles som det er ute av kontroll
 STR_0565    :En enkel berg-og-dal-bane i tre hvor vognene kun holdes på sporet ved hjelp av tyngdekraften
-STR_0566    :Berg-og-dal-banevogner fyker rundt en trang bane preget av sikksakk-mønstre og korte, skarpe fall
+STR_0566    :Berg-og-dal-banevogner fyker rundt en kompakt bane preget av sikksakk-mønstre og korte, skarpe fall
 STR_0567    :I seter hengende utover siden av sporet fyker passasjerene hodestups ned bratte fall og diverse inversjoner
 STR_0569    :I spesialseler hengende under sporet opplever passasjerene en følelse av å fly gjennom luften
 STR_0571    :Sirkulære vogner spinner mens de blir ledet gjennom en sikksakkbane av tre
@@ -243,7 +243,7 @@ STR_0828    :Lukk vindu
 STR_0829    :Vindustittel - dra denne for å flytte vinduet
 STR_0830    :Zoom inn
 STR_0831    :Zoom ut
-STR_0832    :Rotate kameravinkelen 90° med klokken
+STR_0832    :Roter kameravinkelen 90° med klokken
 STR_0833    :Pause spillet
 STR_0834    :Disk- og spillinnstillinger
 STR_0839    :{UINT16} × {UINT16}
@@ -252,7 +252,7 @@ STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} ×
 STR_0847    :Om ‘OpenRCT2’
 STR_0850    :{WINDOW_COLOUR_2}Opphavsrett © 2002 Chris Sawyer, alle rettigheter forbeholdt
 STR_0851    :{WINDOW_COLOUR_2}Designet og programmert av Chris Sawyer
-STR_0852    :{WINDOW_COLOUR_2}Graphikk av Simon Foster
+STR_0852    :{WINDOW_COLOUR_2}Grafikk av Simon Foster
 STR_0853    :{WINDOW_COLOUR_2}Lyd og musikk av Allister Brimble
 STR_0854    :{WINDOW_COLOUR_2}Ytterligere lyder spilt inn av David Ellis
 STR_0855    :{WINDOW_COLOUR_2}Representasjon av Jacqui Lyons ved Marjacq AS
@@ -368,7 +368,7 @@ STR_0974    :Attraksjoner
 STR_0975    :Boder
 STR_0976    :Toaletter og informasjonskiosker
 STR_0977    :Nye transportattraksjoner
-STR_0978    :Nye roliger attraksjoner
+STR_0978    :Nye rolige attraksjoner
 STR_0979    :Nye berg-og-dal-baner
 STR_0980    :Nye spennende attraksjoner
 STR_0981    :Nye vannattraksjoner
