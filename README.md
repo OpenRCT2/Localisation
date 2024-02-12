@@ -54,7 +54,7 @@ To do this, go to the directory where OpenRCT2 resides (not to be confused with 
 | [![](https://img.shields.io/badge/fr--FR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-FR.txt) | [rmnvgr](https://github.com/rmnvgr) |
 | [![](https://img.shields.io/badge/it--IT-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/it-IT.txt) | [LucaRed](https://github.com/LucaRed)              |
 | [![](https://img.shields.io/badge/ko--KR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ko-KR.txt) | [telk5093](https://github.com/telk5093)            |
-| [![](https://img.shields.io/badge/nb--NO-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt) | [Goddesen](https://github.com/Goddesen)            |
+| [![](https://img.shields.io/badge/nb--NO-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt) | [Mmmmulder](https://github.com/Mmmmulder)            |
 | [![](https://img.shields.io/badge/nl--NL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nl-NL.txt) | [Gymnasiast](https://github.com/Gymnasiast )      |
 | [![](https://img.shields.io/badge/pl--PL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pl-PL.txt) | [marcinkunert](https://github.com/marcinkunert) |
 | [![](https://img.shields.io/badge/pt--BR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pt-BR.txt) | [Tupaschoal](https://github.com/Tupaschoal)      |
