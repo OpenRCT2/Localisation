@@ -2632,7 +2632,7 @@ STR_5355    :{BLACK}Szomjúság:
 STR_5356    :{BLACK}Émelygés:
 STR_5357    :{BLACK}Émelygéstűrés:
 STR_5358    :{BLACK}WC:
-STR_5359    :Vendégek eltávolítása
+STR_5359    :Vendégek törlése
 STR_5360    :Eltávolít minden vendéget a térképről
 STR_5361    :Minden vendég kapjon:
 STR_5362    :{BLACK}A vendégek preferált játékintenzitása:
@@ -2951,7 +2951,7 @@ STR_5790    :Az RCT1-stílusú árazás ki- és bekapcsolása{NEWLINE}(például
 STR_5791    :Az összes játék megbízhatóságát 100%-ra{NEWLINE}állítja és visszaállítja az építési idejüket „idén”-re
 STR_5792    :Megjavítja az összes meghibásodott játékot
 STR_5793    :Törli a játék ütközési előzményeit,{NEWLINE}így a vendégek nem fognak panaszkodni, hogy nem biztonságos
-STR_5794    :Néhány pálya nem engedélyezi pár játék{NEWLINE}szerkesztését, melyek már a parkban vannak{NEWLINE}Ez a csalás feloldja a korlátozást
+STR_5794    :Néhány pálya nem engedélyezi pár játék{NEWLINE}szerkesztését, melyek már a parkban vannak.{NEWLINE}Ez a csalás feloldja a korlátozást
 STR_5795    :A vendégek a park összes játékára felülnek,{NEWLINE}még az extrém magas intenzitásúakra is
 STR_5796    :Kényszeríti a parkot, hogy kinyisson vagy bezárjon
 STR_5797    :Letiltja az időjárás-változásokat{NEWLINE}és befagyasztja a jelenlegi időjárást
@@ -3055,7 +3055,7 @@ STR_5899    :Festési hibakeresés ablak be/ki
 STR_5900    :Eredeti rajzolókód használata
 STR_5901    :Szegmensek magasságának mutatása
 STR_5902    :Határolókeretek mutatása
-STR_5903    :Festési hibakeresés ablak mutatása
+STR_5903    :Festési hibakeresés ablak
 STR_5904    :Dátum vissza
 STR_5905    :Térképgeneráló eszköz, amely automatikusan létrehoz egy egyedi tájat
 STR_5906    :Nagyítás a mutató helyzetére 
@@ -3714,6 +3714,7 @@ STR_6609    :Pályablokk nem található
 STR_6610    :Útelem nem található
 STR_6611    :Falelem nem található
 STR_6612    :Hirdetőtábla-elem nem található
+STR_6613    :Objektum újratöltése
 
 #############
 # Scenarios #
@@ -4486,7 +4487,7 @@ STR_DTLS    :Amilyen a megnyitó napján volt - 1905. május 18-án.{NEWLINE}Sze
 <Mount Vesuvius 1700 A.D. by Katatude for UCES>
 STR_SCNR    :Vezúv
 STR_PARK    :Vezúv
-STR_DTLS    :Pompejit és Herculaneumot a Vezúv temette maga alá Kr.u. 79-ben. Látogass el az ásatásokra és építs egy parkot!{NEWLINE}{NEWLINE}Szerző: Katatude
+STR_DTLS    :Pompejit és Herculaneumot a Vezúv temette maga alá Kr.u. 79-ben. Látogass el az ásatásokra és építs egy parkot!{NEWLINE}Szerző: Katatude
 
 <The Sandbox by Katatude for UCES>
 STR_SCNR    :A Homokozó
