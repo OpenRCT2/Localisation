@@ -17,7 +17,7 @@
     },
     "openrct2.ride.alpine_coaster": {
         "reference-name": "Alpine Coaster Cars",
-        "name": "Alpesi hullámvasút kocsik",
+        "name": "Alpesi hullámvasútkocsik",
         "reference-description": "Wheeled sleds equipped with manually operated brakes",
         "description": "Kerekes szánok, kézifékekkel felszerelve",
         "reference-capacity": "2 passengers per car",
@@ -25,7 +25,7 @@
     },
     "openrct2.ride.single_rail_coaster": {
         "reference-name": "Single Rail Roller Coaster Trains",
-        "name": "Egysínű hullámvasút vonatok",
+        "name": "Egysínű hullámvasútvonatok",
         "reference-description": "Roller coaster trains in which riders are seated single file",
         "description": "Hullámvasút vonatok, amelyeken az utasok egymás után ülnek",
         "reference-capacity": "1 passenger per car",
@@ -33,9 +33,9 @@
     },
     "openrct2.ride.hybrid_coaster": {
         "reference-name": "Hybrid Coaster Trains",
-        "name": "Hibrid hullámvasút",
+        "name": "Hibrid hullámvasútvonatok",
         "reference-description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
-        "description": "Hullámvasút vonatok biztonsági rudakkal, amelyek képesek meredek zuhanásokra és átfordulásokra",
+        "description": "Hullámvasútvonatok biztonsági rudakkal, amelyek képesek meredek zuhanásokra és átfordulásokra",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 utas kocsinként"
     },
@@ -201,7 +201,7 @@
     },
     "rct2tt.ride.neptunex": {
         "reference-name": "Neptune Ride",
-        "name": "Neptune Ride",
+        "name": "Neptunusz utazás",
         "reference-description": "Riders ride in pairs, in themed seats rotating around an animated statue of Neptune",
         "description": "Az utasok párban utaznak, tematikus ülésekben, amelyek egy animált Neptunusz-szobor körül forognak",
         "reference-capacity": "18 passengers",
@@ -209,73 +209,73 @@
     },
     "rct2tt.ride.battrram": {
         "reference-name": "Battering Ram Trains",
-        "name": "Battering Ram Trains",
+        "name": "Faltörő kos vonatok",
         "reference-description": "Compact roller coaster trains with cars with in-line seating, themed to look like battering rams from the Dark Age",
-        "description": "Compact roller coaster trains with cars with in-line seating, themed to look like battering rams from the Dark Age",
+        "description": "Kompakt hullámvasútvonatok, egymás utáni ülésekkel ellátott kocsikkal, amelyek témája a sötét középkor faltörő kosait idézi",
         "reference-capacity": "6 passengers per car",
-        "capacity": "6 passengers per car"
+        "capacity": "6 utas kocsinként"
     },
     "rct2tt.ride.schoolbs": {
         "reference-name": "School Bus Trams",
-        "name": "School Bus Trams",
+        "name": "Iskolabusz-villamosok",
         "reference-description": "Miniature trams themed to look like North American school buses",
-        "description": "Miniature trams themed to look like North American school buses",
+        "description": "Miniatűr villamosok, amelyek úgy néznek ki, mint az észak-amerikai iskolabuszok",
         "reference-capacity": "10 passengers per car",
-        "capacity": "10 passengers per car"
+        "capacity": "10 utas kocsinként"
     },
     "rct2tt.ride.cavmncar": {
         "reference-name": "Caveman Cars",
-        "name": "Caveman Cars",
+        "name": "Ősember kocsik",
         "reference-description": "Self-drive go-karts in Stone Age style",
-        "description": "Self-drive go-karts in Stone Age style",
+        "description": "Önvezető gokartok kőkorszaki stílusban",
         "reference-capacity": "Single-seater",
-        "capacity": "Single-seater"
+        "capacity": "Együléses"
     },
     "rct2tt.ride.1920sand": {
         "reference-name": "Art Deco Food Stall",
-        "name": "Art Deco Food Stall",
+        "name": "Art déco ételes bódé",
         "reference-description": "A stall selling noodles and fresh Lemonade",
-        "description": "A stall selling noodles and fresh Lemonade"
+        "description": "Egy tésztát és friss limonádét áruló bódé"
     },
     "rct2tt.ride.seaplane": {
         "reference-name": "Suspended Seaplane Cars",
-        "name": "Suspended Seaplane Cars",
+        "name": "Felfüggesztett repülőgépkocsik",
         "reference-description": "Suspended roller coaster trains consisting of seaplane-shaped cars able to swing freely as the train goes around corners",
-        "description": "Suspended roller coaster trains consisting of seaplane-shaped cars able to swing freely as the train goes around corners",
+        "description": "Felfüggesztett hullámvasútvonatok, amelyek repülőgép alakú kocsikból állnak, és szabadon lenghetnek, amikor a vonat kanyarodik",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct2tt.ride.hovercar": {
         "reference-name": "Hover Cars",
-        "name": "Hover Cars",
+        "name": "Lebegő autók",
         "reference-description": "Maglev technology has been implemented to create the illusion of futuristic hover cars",
-        "description": "Maglev technology has been implemented to create the illusion of futuristic hover cars",
+        "description": "Maglev technológiát alkalmaztak, hogy futurisztikus lebegő autók illúzióját keltsék",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 utas kocsinként"
     },
     "rct2tt.ride.dinoeggs": {
         "reference-name": "Dinosaur Egg Ride",
-        "name": "Dinosaur Egg Ride",
+        "name": "Dinoszaurusztojás-utazás",
         "reference-description": "Riders ride in pairs, in themed seats rotating around an animated mother dinosaur",
-        "description": "Riders ride in pairs, in themed seats rotating around an animated mother dinosaur",
+        "description": "Az utasok párban utaznak, tematikus ülésekben, amelyek egy animált anyadinoszaurusz körül forognak",
         "reference-capacity": "18 passengers",
-        "capacity": "18 passengers"
+        "capacity": "18 utas"
     },
     "rct2tt.ride.cerberus": {
         "reference-name": "Cerberus Trains",
-        "name": "Cerberus Trains",
+        "name": "Kerberosz vonatok",
         "reference-description": "Spacious trains with simple lap restraints with cars shaped like the multi-headed dog from the Underworld",
-        "description": "Spacious trains with simple lap restraints with cars shaped like the multi-headed dog from the Underworld",
+        "description": "Tágas vonatok egyszerű biztonsági rudakkal, a kocsik pedig az alvilág többfejű kutyájának formáját öltik",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct2tt.ride.cyclopsx": {
         "reference-name": "Cyclops Ride",
-        "name": "Cyclops Ride",
+        "name": "Küklopsz utazás",
         "reference-description": "Riders drive the Eye of a Giant Cyclops",
-        "description": "Riders drive the Eye of a Giant Cyclops",
+        "description": "Az utasok egy hatalmas küklopsz szemét vezetik",
         "reference-capacity": "1 person per car",
-        "capacity": "1 person per car"
+        "capacity": "1 utas kocsinként"
     },
     "rct2tt.ride.hoverbke": {
         "reference-name": "Hover Bikes",
@@ -317,17 +317,17 @@
     },
     "rct2tt.ride.tricatop": {
         "reference-name": "Triceratops Dodgems",
-        "name": "Triceratops Dodgems",
+        "name": "Triceratopsz dodzsemek",
         "reference-description": "Riders lock horns with each other in triceratops dodgems",
-        "description": "Riders lock horns with each other in triceratops dodgems",
+        "description": "Az utasok triceratopsz dodzsemekben akasztják össze a szarvaikat",
         "reference-capacity": "1 person per car",
-        "capacity": "1 person per car"
+        "capacity": "1 személy kocsinként"
     },
     "rct2tt.ride.moonjuce": {
         "reference-name": "Moon Juice",
-        "name": "Moon Juice",
+        "name": "Holdlé",
         "reference-description": "A stall selling the latest soft drinks",
-        "description": "A stall selling the latest soft drinks"
+        "description": "A legújabb üdítőitalokat árusító bódé"
     },
     "rct2tt.ride.mgr2": {
         "reference-name": "Double Deck Carousel",
@@ -355,9 +355,9 @@
     },
     "rct2tt.ride.medisoup": {
         "reference-name": "Witches Brew Soup",
-        "name": "Witches Brew Soup",
+        "name": "Boszorkányfőzet-leves",
         "reference-description": "A stall selling a thick broth-style soup",
-        "description": "A stall selling a thick broth-style soup"
+        "description": "Egy sűrű húslevest áruló bódé"
     },
     "rct2tt.ride.spokprsn": {
         "reference-name": "Haunted Jail House",
@@ -949,7 +949,7 @@
     },
     "rct2tt.scenery_small.psntwl11": {
         "reference-name": "Dark Age Village Upper Wall Piece",
-        "name": "Középkopri falu felső falelem"
+        "name": "Középkori falu felső falelem"
     },
     "rct2tt.scenery_small.swamplt9": {
         "reference-name": "Swamp Fern",
