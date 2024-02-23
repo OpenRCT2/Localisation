@@ -40,6 +40,7 @@ Updated in:
 - [ ] pt-BR
 - [ ] sv-SE
 - [ ] tr-TR
+- [ ] uk-UA
 - [ ] zh-CN
 - [ ] zh-TW
 
