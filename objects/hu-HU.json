@@ -201,7 +201,7 @@
     },
     "rct2tt.ride.neptunex": {
         "reference-name": "Neptune Ride",
-        "name": "Neptunusz utazás",
+        "name": "Neptunusz játék",
         "reference-description": "Riders ride in pairs, in themed seats rotating around an animated statue of Neptune",
         "description": "Az utasok párban utaznak, tematikus ülésekben, amelyek egy animált Neptunusz-szobor körül forognak",
         "reference-capacity": "18 passengers",
@@ -255,7 +255,7 @@
     },
     "rct2tt.ride.dinoeggs": {
         "reference-name": "Dinosaur Egg Ride",
-        "name": "Dinoszaurusztojás-utazás",
+        "name": "Dinoszaurusztojás-játék",
         "reference-description": "Riders ride in pairs, in themed seats rotating around an animated mother dinosaur",
         "description": "Az utasok párban utaznak, tematikus ülésekben, amelyek egy animált anyadinoszaurusz körül forognak",
         "reference-capacity": "18 passengers",
@@ -271,7 +271,7 @@
     },
     "rct2tt.ride.cyclopsx": {
         "reference-name": "Cyclops Ride",
-        "name": "Küklopsz utazás",
+        "name": "Küklopsz játék",
         "reference-description": "Riders drive the Eye of a Giant Cyclops",
         "description": "Az utasok egy hatalmas küklopsz szemét vezetik",
         "reference-capacity": "1 person per car",
@@ -303,17 +303,17 @@
     },
     "rct2tt.ride.mktstal2": {
         "reference-name": "Lemonade Market Stall",
-        "name": "Limonádés piaci stand",
+        "name": "Limonádés piaci bódé",
         "reference-description": "A themed stall selling old style, fresh lemonade.",
         "description": "Egy tematikus bódé, ami régi stílusú, friss limonádét árul"
     },
     "rct2tt.ride.trilobte": {
         "reference-name": "Trilobite Boats",
-        "name": "Trilobite Boats",
+        "name": "Trilobita csónakok",
         "reference-description": "Trilobite-shaped roller coaster cars",
-        "description": "Trilobite-shaped roller coaster cars",
+        "description": "Trilobita formájú hullámvasútkocsik",
         "reference-capacity": "6 passengers per boat",
-        "capacity": "6 passengers per boat"
+        "capacity": "6 utas csónakonként"
     },
     "rct2tt.ride.tricatop": {
         "reference-name": "Triceratops Dodgems",
@@ -331,19 +331,19 @@
     },
     "rct2tt.ride.mgr2": {
         "reference-name": "Double Deck Carousel",
-        "name": "Double Deck Carousel",
+        "name": "Kétszintes körhinta",
         "reference-description": "Traditional enclosed double-deck carousel with carved wooden horses",
-        "description": "Traditional enclosed double-deck carousel with carved wooden horses",
+        "description": "Hagyományos, zárt, kétszintes körhinta faragott fa lovakkal",
         "reference-capacity": "32 passengers",
-        "capacity": "32 passengers"
+        "capacity": "32 utas"
     },
     "rct2tt.ride.flalmace": {
         "reference-name": "Mace Ride",
-        "name": "Mace Ride",
+        "name": "Buzogány attrakció",
         "reference-description": "Riders sit on a themed chair which is attached to a motor driven spinning arm.",
-        "description": "Riders sit on a themed chair which is attached to a motor driven spinning arm.",
+        "description": "Az utasok egy tematikus széken ülnek, amely egy motorral hajtott forgó karhoz van rögzítve.",
         "reference-capacity": "1 guest per chair",
-        "capacity": "1 guest per chair"
+        "capacity": "1 vendég székenként"
     },
     "rct2tt.ride.flwrpowr": {
         "reference-name": "Flower Power Ride",
@@ -601,35 +601,35 @@
     },
     "rct2tt.ride.pegasusx": {
         "reference-name": "Pegasus Cars",
-        "name": "Pegasus Cars",
+        "name": "Pegazus kocsik",
         "reference-description": "Powered vehicles in the shape of Pegasus drawing a cart",
-        "description": "Powered vehicles in the shape of Pegasus drawing a cart",
+        "description": "Motoros járművek, amelyek úgy néznek ki, mintha Pegazus egy szekeret húzna",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 utas kocsinként"
     },
     "rct2tt.ride.harpiesx": {
         "reference-name": "Harpies Trains",
-        "name": "Harpies Trains",
+        "name": "Hárpia vonatok",
         "reference-description": "Roller coaster trains in the shape of mythological bird-like creatures. Riders are held in special harnesses in a lying-down position, travelling either on their backs or facing the ground",
-        "description": "Roller coaster trains in the shape of mythological bird-like creatures. Riders are held in special harnesses in a lying-down position, travelling either on their backs or facing the ground",
+        "description": "Hullámvasútvonatok mitológiai madárszerű lények alakjában. Az utasokat speciális hámok tartják fekvő helyzetben, és vagy a hátukon, vagy a föld felé fordulva utaznak",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct2tt.ride.jetplane": {
         "reference-name": "Jet Plane Cars",
-        "name": "Jet Plane Cars",
+        "name": "Sugárhajtású repülő kocsik",
         "reference-description": "Roller coaster cars in the shape of jet planes",
-        "description": "Roller coaster cars in the shape of jet planes",
+        "description": "Sugárhajtású repülő alakú hullámvasútkocsik",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct2tt.footpath_surface.pavement": {
         "reference-name": "Pavement",
-        "name": "Pavement"
+        "name": "Járda"
     },
     "rct2tt.footpath_surface.queue_pavement": {
         "reference-name": "Pavement Queue",
-        "name": "Pavement Queue"
+        "name": "Járda várósor"
     },
     "rct2tt.footpath_surface.queue_rainbow": {
         "reference-name": "Rainbow Queue",
@@ -749,7 +749,7 @@
     },
     "rct2tt.footpath_item.firhydrt": {
         "reference-name": "Fire Hydrant",
-        "name": "Fire Hydrant"
+        "name": "Tűzcsap"
     },
     "rct2tt.footpath_item.medbench": {
         "reference-name": "Benches",
@@ -761,7 +761,7 @@
     },
     "rct2tt.scenery_small.elecfen3": {
         "reference-name": "Electric Fence with Light",
-        "name": "Electric Fence with Light"
+        "name": "Elektromos kerítés fényekkel"
     },
     "rct2tt.scenery_small.psntwl21": {
         "reference-name": "Dark Age Village Window Box Roof",
@@ -781,7 +781,7 @@
     },
     "rct2tt.scenery_small.tarpit13": {
         "reference-name": "Bubbling Tarpit",
-        "name": "Bubbling Tarpit"
+        "name": "Fortyogó kátránygödör"
     },
     "rct2tt.scenery_small.hevrof02": {
         "reference-name": "Heavenly Bath Roof",
@@ -793,7 +793,7 @@
     },
     "rct2tt.scenery_small.robnhood": {
         "reference-name": "Animatronic Robin Hood",
-        "name": "Animatronic Robin Hood"
+        "name": "Animatronikus Robin Hood"
     },
     "rct2tt.scenery_small.pdflag06": {
         "reference-name": "Period Flag",
@@ -813,7 +813,7 @@
     },
     "rct2tt.scenery_small.cavemenx": {
         "reference-name": "Animatronic Caveman lighting Fire",
-        "name": "Tűzgyújtó animatronikus ősember"
+        "name": "Animatronikus tűzgyújtó ősember"
     },
     "rct2tt.scenery_small.artdec09": {
         "reference-name": "Art Deco Wall Section",
@@ -1185,7 +1185,7 @@
     },
     "rct2tt.scenery_small.tarpit02": {
         "reference-name": "Bubbling Tarpit",
-        "name": "Bubbling Tarpit"
+        "name": "Fortyogó kátránygödör"
     },
     "rct2tt.scenery_small.artdec15": {
         "reference-name": "Art Deco Wall Section",
@@ -1205,7 +1205,7 @@
     },
     "rct2tt.scenery_small.hurcluls": {
         "reference-name": "Hercules",
-        "name": "Hercules"
+        "name": "Herkules"
     },
     "rct2tt.scenery_small.hevbth03": {
         "reference-name": "Heavenly Baths Fountain",
@@ -1233,7 +1233,7 @@
     },
     "rct2tt.scenery_small.armrswrd": {
         "reference-name": "Magical Sword",
-        "name": "Magical Sword"
+        "name": "Varázskard"
     },
     "rct2tt.scenery_small.gdalien1": {
         "reference-name": "Animatronic Good Alien",
@@ -1257,7 +1257,7 @@
     },
     "rct2tt.scenery_small.tarpit12": {
         "reference-name": "Bubbling Tarpit",
-        "name": "Bubbling Tarpit"
+        "name": "Fortyogó kátránygödör"
     },
     "rct2tt.scenery_small.swamplt6": {
         "reference-name": "Swamp Fern",
@@ -1277,7 +1277,7 @@
     },
     "rct2tt.scenery_small.tarpit14": {
         "reference-name": "Bubbling Tarpit",
-        "name": "Bubbling Tarpit"
+        "name": "Fortyogó kátránygödör"
     },
     "rct2tt.scenery_small.oldnyk17": {
         "reference-name": "New York Wall Piece",
@@ -1293,7 +1293,7 @@
     },
     "rct2tt.scenery_small.tarpit03": {
         "reference-name": "Bubbling Tarpit",
-        "name": "Bubbling Tarpit"
+        "name": "Fortyogó kátránygödör"
     },
     "rct2tt.scenery_small.valkri02": {
         "reference-name": "Valkyrie",
@@ -1373,7 +1373,7 @@
     },
     "rct2tt.scenery_small.tarpit01": {
         "reference-name": "Bubbling Tarpit",
-        "name": "Bubbling Tarpit"
+        "name": "Fortyogó kátránygödör"
     },
     "rct2tt.scenery_small.schnpl01": {
         "reference-name": "Sea Plane",
@@ -1385,7 +1385,7 @@
     },
     "rct2tt.scenery_small.tarpit04": {
         "reference-name": "Bubbling Tarpit",
-        "name": "Bubbling Tarpit"
+        "name": "Fortyogó kátránygödör"
     },
     "rct2tt.scenery_small.smoksk03": {
         "reference-name": "Smoke Stack Base",
@@ -1741,7 +1741,7 @@
     },
     "rct2tt.scenery_small.tarpit11": {
         "reference-name": "Bubbling Tarpit",
-        "name": "Bubbling Tarpit"
+        "name": "Fortyogó kátránygödör"
     },
     "rct2tt.scenery_small.schncrsh": {
         "reference-name": "Wrecked Seaplane",
@@ -1993,7 +1993,7 @@
     },
     "rct2tt.scenery_small.tarpit10": {
         "reference-name": "Bubbling Tarpit",
-        "name": "Bubbling Tarpit"
+        "name": "Fortyogó kátránygödör"
     },
     "rct2tt.scenery_small.oldnyk15": {
         "reference-name": "New York Wall Piece",
@@ -2001,7 +2001,7 @@
     },
     "rct2tt.scenery_small.tarpit09": {
         "reference-name": "Bubbling Tarpit",
-        "name": "Bubbling Tarpit"
+        "name": "Fortyogó kátránygödör"
     },
     "rct2tt.scenery_small.artdec13": {
         "reference-name": "Art Deco Top Corner Section",
@@ -2217,7 +2217,7 @@
     },
     "rct2tt.scenery_small.tarpit05": {
         "reference-name": "Bubbling Tarpit",
-        "name": "Bubbling Tarpit"
+        "name": "Fortyogó kátránygödör"
     },
     "rct2tt.scenery_small.meteorcr": {
         "reference-name": "Meteor Crater Corner",
@@ -2385,7 +2385,7 @@
     },
     "rct2tt.scenery_small.tarpit08": {
         "reference-name": "Bubbling Tarpit",
-        "name": "Bubbling Tarpit"
+        "name": "Fortyogó kátránygödör"
     },
     "rct2tt.scenery_small.spcshp05": {
         "reference-name": "Space Ship Gravity Section",
@@ -2441,7 +2441,7 @@
     },
     "rct2tt.scenery_small.tarpit06": {
         "reference-name": "Bubbling Tarpit",
-        "name": "Bubbling Tarpit"
+        "name": "Fortyogó kátránygödör"
     },
     "rct2tt.scenery_small.psntwl12": {
         "reference-name": "Dark Age Village Upper Wall Piece",
@@ -2721,7 +2721,7 @@
     },
     "rct2tt.scenery_large.4x4trpit": {
         "reference-name": "Bubbling Tarpit",
-        "name": "Bubbling Tarpit"
+        "name": "Fortyogó kátránygödör"
     },
     "rct2tt.scenery_large.romvm2x2": {
         "reference-name": "Roman Palace Cross Section",
