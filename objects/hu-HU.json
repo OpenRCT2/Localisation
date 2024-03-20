@@ -55,13 +55,25 @@
         "reference-name": "Invisible Railings",
         "name": "Láthatatlan korlát"
     },
+    "official.scenery_wall.post_flipped": {
+        "reference-name": "Post",
+        "name": "Post"
+    },
     "couger.scenery_wall.acwwf32": {
         "reference-name": "Wooden Post Wall",
         "name": "Fa sánckerítés"
     },
+    "official.scenery_wall.support_structure_half": {
+        "reference-name": "Support Structure",
+        "name": "Support Structure"
+    },
     "couger.scenery_wall.acww33": {
         "reference-name": "Wooden Post Wall",
         "name": "Fa sánckerítés"
+    },
+    "official.scenery_wall.support_structure_full": {
+        "reference-name": "Support Structure",
+        "name": "Support Structure"
     },
     "mamabear.scenery_wall.mg-prar": {
         "reference-name": "Wall with Passageway",
@@ -102,6 +114,10 @@
     "toontowner.scenery_small.ttrfwd03": {
         "reference-name": "Roof",
         "name": "Tető"
+    },
+    "official.scenery_small.support_structure_half": {
+        "reference-name": "Support Structure",
+        "name": "Support Structure"
     },
     "toontowner.scenery_small.ttpirf08": {
         "reference-name": "Roof",
@@ -526,7 +542,7 @@
         "capacity": "8 utas csónakonként"
     },
     "rct2tt.ride.pterodac": {
-        "reference-name": "Pterodactyl vonatok",
+        "reference-name": "Pterodactyl Trains",
         "name": "Pterodactyl Trains",
         "reference-description": "Riders are held in comfortable seats below the track to give the ultimate prehistoric flying experience",
         "description": "Az utasok kényelmes ülésekben ülnek a pálya alatt, hogy a legteljesebb őskori repülési élményben részesüljenek",
@@ -4439,14 +4455,6 @@
         "reference-name": "Railings",
         "name": "Railings"
     },
-    "rct2.scenery_wall.wallrs8": {
-        "reference-name": "Wall",
-        "name": "Wall"
-    },
-    "rct2.scenery_wall.wallbb8": {
-        "reference-name": "Wall",
-        "name": "Wall"
-    },
     "rct2.scenery_wall.wpw2": {
         "reference-name": "Wooden Post Wall",
         "name": "Wooden Post Wall"
@@ -4471,10 +4479,6 @@
         "reference-name": "‘Texas Giant’ Sign",
         "name": "‘Texas Giant’ Sign"
     },
-    "rct2.scenery_wall.wallig16": {
-        "reference-name": "Igloo Wall",
-        "name": "Igloo Wall"
-    },
     "rct2.scenery_wall.wc17": {
         "reference-name": "Wooden Fence",
         "name": "Wooden Fence"
@@ -4490,10 +4494,6 @@
     "rct2.scenery_wall.wchg": {
         "reference-name": "Conifer Hedge",
         "name": "Conifer Hedge"
-    },
-    "rct2.scenery_wall.wallbb16": {
-        "reference-name": "Wall",
-        "name": "Wall"
     },
     "rct2.scenery_wall.wgw2": {
         "reference-name": "Glass Wall",
@@ -4519,21 +4519,9 @@
         "reference-name": "Wooden Fence",
         "name": "Wooden Fence"
     },
-    "rct2.scenery_wall.wallbr8": {
-        "reference-name": "Wall",
-        "name": "Wall"
-    },
-    "rct2.scenery_wall.wallst32": {
-        "reference-name": "Steel Wall",
-        "name": "Steel Wall"
-    },
     "rct2.scenery_wall.wbr3": {
         "reference-name": "Stone Wall",
         "name": "Stone Wall"
-    },
-    "rct2.scenery_wall.wallwd8": {
-        "reference-name": "Wooden Wall",
-        "name": "Wooden Wall"
     },
     "rct2.scenery_wall.wallmn32": {
         "reference-name": "Wall",
@@ -4559,21 +4547,9 @@
         "reference-name": "Egyptian Wall",
         "name": "Egyptian Wall"
     },
-    "rct2.scenery_wall.wbr1a": {
-        "reference-name": "Brick Wall",
-        "name": "Brick Wall"
-    },
     "rct2.scenery_wall.wcw1": {
         "reference-name": "Playing Card Wall",
         "name": "Playing Card Wall"
-    },
-    "rct2.scenery_wall.wallrh32": {
-        "reference-name": "Wall",
-        "name": "Wall"
-    },
-    "rct2.scenery_wall.wallst8": {
-        "reference-name": "Steel Wall",
-        "name": "Steel Wall"
     },
     "rct2.scenery_wall.wc16": {
         "reference-name": "Fence",
@@ -4603,19 +4579,7 @@
         "reference-name": "Wall",
         "name": "Wall"
     },
-    "rct2.scenery_wall.wallcb8": {
-        "reference-name": "Wall",
-        "name": "Wall"
-    },
-    "rct2.scenery_wall.wallmm17": {
-        "reference-name": "Railings",
-        "name": "Railings"
-    },
     "rct2.scenery_wall.wc14": {
-        "reference-name": "Wall",
-        "name": "Wall"
-    },
-    "rct2.scenery_wall.wallcf8": {
         "reference-name": "Wall",
         "name": "Wall"
     },
@@ -4626,10 +4590,6 @@
     "rct2.scenery_wall.wc11": {
         "reference-name": "Castle Wall",
         "name": "Castle Wall"
-    },
-    "rct2.scenery_wall.walltn32": {
-        "reference-name": "Poles",
-        "name": "Poles"
     },
     "rct2.scenery_wall.wpw3": {
         "reference-name": "Wooden Fence",
@@ -4659,10 +4619,6 @@
         "reference-name": "Castle Wall",
         "name": "Castle Wall"
     },
-    "rct2.scenery_wall.wallbr16": {
-        "reference-name": "Wall",
-        "name": "Wall"
-    },
     "rct2.scenery_wall.wallu232": {
         "reference-name": "Wall",
         "name": "Wall"
@@ -4671,25 +4627,9 @@
         "reference-name": "Castle Wall",
         "name": "Castle Wall"
     },
-    "rct2.scenery_wall.wallcf16": {
-        "reference-name": "Wall",
-        "name": "Wall"
-    },
     "rct2.scenery_wall.wpw1": {
         "reference-name": "Wooden Post Wall",
         "name": "Wooden Post Wall"
-    },
-    "rct2.scenery_wall.wallrs32": {
-        "reference-name": "Wall",
-        "name": "Wall"
-    },
-    "rct2.scenery_wall.wbr2a": {
-        "reference-name": "Stone Wall",
-        "name": "Stone Wall"
-    },
-    "rct2.scenery_wall.wallcf32": {
-        "reference-name": "Wall",
-        "name": "Wall"
     },
     "rct2.scenery_wall.wallstfn": {
         "reference-name": "Steel Fence",
@@ -4700,10 +4640,6 @@
         "name": "Wall"
     },
     "rct2.scenery_wall.wallsk32": {
-        "reference-name": "Wall",
-        "name": "Wall"
-    },
-    "rct2.scenery_wall.wallbr32": {
         "reference-name": "Wall",
         "name": "Wall"
     },
@@ -4767,10 +4703,6 @@
         "reference-name": "Castle Wall",
         "name": "Castle Wall"
     },
-    "rct2.scenery_wall.wallrs16": {
-        "reference-name": "Wall",
-        "name": "Wall"
-    },
     "rct2.scenery_wall.wbr1": {
         "reference-name": "Brick Wall",
         "name": "Brick Wall"
@@ -4779,10 +4711,6 @@
         "reference-name": "Castle Wall",
         "name": "Castle Wall"
     },
-    "rct2.scenery_wall.wallwd16": {
-        "reference-name": "Wooden Wall",
-        "name": "Wooden Wall"
-    },
     "rct2.scenery_wall.wallcfar": {
         "reference-name": "Wall Arch",
         "name": "Wall Arch"
@@ -4790,10 +4718,6 @@
     "rct2.scenery_wall.walllt32": {
         "reference-name": "Steel Latticework",
         "name": "Steel Latticework"
-    },
-    "rct2.scenery_wall.wallcb16": {
-        "reference-name": "Wall",
-        "name": "Wall"
     },
     "rct2.scenery_wall.wallpost": {
         "reference-name": "Post",
@@ -4819,10 +4743,6 @@
         "reference-name": "Martian Wall",
         "name": "Martian Wall"
     },
-    "rct2.scenery_wall.wallwd32": {
-        "reference-name": "Wooden Wall",
-        "name": "Wooden Wall"
-    },
     "rct2.scenery_wall.wallbb34": {
         "reference-name": "Stone Wall",
         "name": "Stone Wall"
@@ -4839,10 +4759,6 @@
         "reference-name": "Tall Wooden Fence",
         "name": "Tall Wooden Fence"
     },
-    "rct2.scenery_wall.wallmm16": {
-        "reference-name": "Railings",
-        "name": "Railings"
-    },
     "rct2.scenery_wall.wallcbpc": {
         "reference-name": "Portcullis Door",
         "name": "Portcullis Door"
@@ -4854,14 +4770,6 @@
     "rct2.scenery_wall.wallcbdr": {
         "reference-name": "Doorway",
         "name": "Doorway"
-    },
-    "rct2.scenery_wall.wallst16": {
-        "reference-name": "Steel Wall",
-        "name": "Steel Wall"
-    },
-    "rct2.scenery_wall.wallbb32": {
-        "reference-name": "Wall",
-        "name": "Wall"
     },
     "rct2.scenery_wall.whgg": {
         "reference-name": "Hedge",
@@ -4883,11 +4791,119 @@
         "reference-name": "Glass Wall",
         "name": "Glass Wall"
     },
+    "rct2.scenery_wall.wc15": {
+        "reference-name": "Wall",
+        "name": "Wall"
+    },
+    "rct2.scenery_wall.wallrs32": {
+        "reference-name": "Wall",
+        "name": "Wall"
+    },
     "rct2.scenery_wall.wallcb32": {
         "reference-name": "Wall",
         "name": "Wall"
     },
-    "rct2.scenery_wall.wc15": {
+    "rct2.scenery_wall.wallcb16": {
+        "reference-name": "Wall",
+        "name": "Wall"
+    },
+    "rct2.scenery_wall.wallmm16": {
+        "reference-name": "Railings",
+        "name": "Railings"
+    },
+    "rct2.scenery_wall.wallrs16": {
+        "reference-name": "Wall",
+        "name": "Wall"
+    },
+    "rct2.scenery_wall.wallcf8": {
+        "reference-name": "Wall",
+        "name": "Wall"
+    },
+    "rct2.scenery_wall.wallbr16": {
+        "reference-name": "Wall",
+        "name": "Wall"
+    },
+    "rct2.scenery_wall.wallmm17": {
+        "reference-name": "Railings",
+        "name": "Railings"
+    },
+    "rct2.scenery_wall.wallbb16": {
+        "reference-name": "Wall",
+        "name": "Wall"
+    },
+    "rct2.scenery_wall.wallcf32": {
+        "reference-name": "Wall",
+        "name": "Wall"
+    },
+    "rct2.scenery_wall.wbr2a": {
+        "reference-name": "Stone Wall",
+        "name": "Stone Wall"
+    },
+    "rct2.scenery_wall.wallbr32": {
+        "reference-name": "Wall",
+        "name": "Wall"
+    },
+    "rct2.scenery_wall.wallrs8": {
+        "reference-name": "Wall",
+        "name": "Wall"
+    },
+    "rct2.scenery_wall.wallrh32": {
+        "reference-name": "Wall",
+        "name": "Wall"
+    },
+    "rct2.scenery_wall.walltn32": {
+        "reference-name": "Poles",
+        "name": "Poles"
+    },
+    "rct2.scenery_wall.wallbb32": {
+        "reference-name": "Wall",
+        "name": "Wall"
+    },
+    "rct2.scenery_wall.wallcb8": {
+        "reference-name": "Wall",
+        "name": "Wall"
+    },
+    "rct2.scenery_wall.wallwd8": {
+        "reference-name": "Wooden Wall",
+        "name": "Wooden Wall"
+    },
+    "rct2.scenery_wall.wallwd32": {
+        "reference-name": "Wooden Wall",
+        "name": "Wooden Wall"
+    },
+    "rct2.scenery_wall.wallst8": {
+        "reference-name": "Steel Wall",
+        "name": "Steel Wall"
+    },
+    "rct2.scenery_wall.wallbb8": {
+        "reference-name": "Wall",
+        "name": "Wall"
+    },
+    "rct2.scenery_wall.wallig16": {
+        "reference-name": "Igloo Wall",
+        "name": "Igloo Wall"
+    },
+    "rct2.scenery_wall.wallcf16": {
+        "reference-name": "Wall",
+        "name": "Wall"
+    },
+    "rct2.scenery_wall.wallst32": {
+        "reference-name": "Steel Wall",
+        "name": "Steel Wall"
+    },
+    "rct2.scenery_wall.wbr1a": {
+        "reference-name": "Brick Wall",
+        "name": "Brick Wall"
+    },
+    "rct2.scenery_wall.wallst16": {
+        "reference-name": "Steel Wall",
+        "name": "Steel Wall"
+    },
+    "rct2.scenery_wall.wallwd16": {
+        "reference-name": "Wooden Wall",
+        "name": "Wooden Wall"
+    },
+    "rct2.scenery_wall.wallbr8": {
         "reference-name": "Wall",
         "name": "Wall"
     },
@@ -6948,8 +6964,8 @@
         "name": "Mandarin Duck Boats",
         "reference-description": "Duck-shaped boats, propelled by the pedalling front seat passengers",
         "description": "Duck-shaped boats, propelled by the pedalling front seat passengers",
-        "reference-capacity": "4 passengers per boat",
-        "capacity": "4 passengers per boat"
+        "reference-capacity": "2 passengers per boat",
+        "capacity": "2 passengers per boat"
     },
     "rct2ww.ride.crocflum": {
         "reference-name": "Crocodile Boats",

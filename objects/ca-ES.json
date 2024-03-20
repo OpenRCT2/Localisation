@@ -55,13 +55,25 @@
         "reference-name": "Invisible Railings",
         "name": "Baranes invisibles"
     },
+    "official.scenery_wall.post_flipped": {
+        "reference-name": "Post",
+        "name": "Post"
+    },
     "couger.scenery_wall.acwwf32": {
         "reference-name": "Wooden Post Wall",
         "name": "Paret de pals de fusta"
     },
+    "official.scenery_wall.support_structure_half": {
+        "reference-name": "Support Structure",
+        "name": "Estructura de suport"
+    },
     "couger.scenery_wall.acww33": {
         "reference-name": "Wooden Post Wall",
         "name": "Paret de pals de fusta"
+    },
+    "official.scenery_wall.support_structure_full": {
+        "reference-name": "Support Structure",
+        "name": "Estructura de suport"
     },
     "mamabear.scenery_wall.mg-prar": {
         "reference-name": "Wall with Passageway",
@@ -102,6 +114,10 @@
     "toontowner.scenery_small.ttrfwd03": {
         "reference-name": "Roof",
         "name": "Teulada"
+    },
+    "official.scenery_small.support_structure_half": {
+        "reference-name": "Support Structure",
+        "name": "Estructura de suport"
     },
     "toontowner.scenery_small.ttpirf08": {
         "reference-name": "Roof",
@@ -270,7 +286,7 @@
         "capacity": "4 passatgers per cotxe"
     },
     "rct2tt.ride.cyclopsx": {
-        "reference-name": "Cyclops Ride",
+        "reference-name": "Cyclops Dodgems",
         "name": "El viatge del cíclop",
         "reference-description": "Riders drive the Eye of a Giant Cyclops",
         "description": "Els passatgers condueixen l’ull d’un cíclop gegant.",
@@ -346,7 +362,7 @@
         "capacity": "1 persona per cadira"
     },
     "rct2tt.ride.flwrpowr": {
-        "reference-name": "Flower Power Ride",
+        "reference-name": "Flower Power Dodgems",
         "name": "Atracció Flower Power",
         "reference-description": "Riders ride in flower-shaped hovercraft vehicles that they freely control",
         "description": "Atracció on els passatgers condueixen bots petits en forma de flor.",
@@ -4439,14 +4455,6 @@
         "reference-name": "Railings",
         "name": "Reixat"
     },
-    "rct2.scenery_wall.wallrs8": {
-        "reference-name": "Wall",
-        "name": "Paret"
-    },
-    "rct2.scenery_wall.wallbb8": {
-        "reference-name": "Wall",
-        "name": "Paret"
-    },
     "rct2.scenery_wall.wpw2": {
         "reference-name": "Wooden Post Wall",
         "name": "Paret de pals de fusta"
@@ -4471,10 +4479,6 @@
         "reference-name": "‘Texas Giant’ Sign",
         "name": "Senyal «Texas Giant»"
     },
-    "rct2.scenery_wall.wallig16": {
-        "reference-name": "Igloo Wall",
-        "name": "Paret d’iglú"
-    },
     "rct2.scenery_wall.wc17": {
         "reference-name": "Wooden Fence",
         "name": "Tanca de fusta"
@@ -4490,10 +4494,6 @@
     "rct2.scenery_wall.wchg": {
         "reference-name": "Conifer Hedge",
         "name": "Bardisses de coníferes"
-    },
-    "rct2.scenery_wall.wallbb16": {
-        "reference-name": "Wall",
-        "name": "Paret"
     },
     "rct2.scenery_wall.wgw2": {
         "reference-name": "Glass Wall",
@@ -4519,21 +4519,9 @@
         "reference-name": "Wooden Fence",
         "name": "Tanca de fusta"
     },
-    "rct2.scenery_wall.wallbr8": {
-        "reference-name": "Wall",
-        "name": "Paret"
-    },
-    "rct2.scenery_wall.wallst32": {
-        "reference-name": "Steel Wall",
-        "name": "Paret d’acer"
-    },
     "rct2.scenery_wall.wbr3": {
         "reference-name": "Stone Wall",
         "name": "Mur de pedra"
-    },
-    "rct2.scenery_wall.wallwd8": {
-        "reference-name": "Wooden Wall",
-        "name": "Paret de fusta"
     },
     "rct2.scenery_wall.wallmn32": {
         "reference-name": "Wall",
@@ -4559,21 +4547,9 @@
         "reference-name": "Egyptian Wall",
         "name": "Paret egípcia"
     },
-    "rct2.scenery_wall.wbr1a": {
-        "reference-name": "Brick Wall",
-        "name": "Paret de maons"
-    },
     "rct2.scenery_wall.wcw1": {
         "reference-name": "Playing Card Wall",
         "name": "Paret de carta"
-    },
-    "rct2.scenery_wall.wallrh32": {
-        "reference-name": "Wall",
-        "name": "Paret"
-    },
-    "rct2.scenery_wall.wallst8": {
-        "reference-name": "Steel Wall",
-        "name": "Paret d’acer"
     },
     "rct2.scenery_wall.wc16": {
         "reference-name": "Fence",
@@ -4603,19 +4579,7 @@
         "reference-name": "Wall",
         "name": "Paret"
     },
-    "rct2.scenery_wall.wallcb8": {
-        "reference-name": "Wall",
-        "name": "Paret"
-    },
-    "rct2.scenery_wall.wallmm17": {
-        "reference-name": "Railings",
-        "name": "Reixat"
-    },
     "rct2.scenery_wall.wc14": {
-        "reference-name": "Wall",
-        "name": "Paret"
-    },
-    "rct2.scenery_wall.wallcf8": {
         "reference-name": "Wall",
         "name": "Paret"
     },
@@ -4626,10 +4590,6 @@
     "rct2.scenery_wall.wc11": {
         "reference-name": "Castle Wall",
         "name": "Muralla de castell"
-    },
-    "rct2.scenery_wall.walltn32": {
-        "reference-name": "Poles",
-        "name": "Pals"
     },
     "rct2.scenery_wall.wpw3": {
         "reference-name": "Wooden Fence",
@@ -4659,10 +4619,6 @@
         "reference-name": "Castle Wall",
         "name": "Muralla de castell"
     },
-    "rct2.scenery_wall.wallbr16": {
-        "reference-name": "Wall",
-        "name": "Paret"
-    },
     "rct2.scenery_wall.wallu232": {
         "reference-name": "Wall",
         "name": "Paret"
@@ -4671,25 +4627,9 @@
         "reference-name": "Castle Wall",
         "name": "Muralla de castell"
     },
-    "rct2.scenery_wall.wallcf16": {
-        "reference-name": "Wall",
-        "name": "Paret"
-    },
     "rct2.scenery_wall.wpw1": {
         "reference-name": "Wooden Post Wall",
         "name": "Paret de pals de fusta"
-    },
-    "rct2.scenery_wall.wallrs32": {
-        "reference-name": "Wall",
-        "name": "Paret"
-    },
-    "rct2.scenery_wall.wbr2a": {
-        "reference-name": "Stone Wall",
-        "name": "Mur de pedra"
-    },
-    "rct2.scenery_wall.wallcf32": {
-        "reference-name": "Wall",
-        "name": "Paret"
     },
     "rct2.scenery_wall.wallstfn": {
         "reference-name": "Steel Fence",
@@ -4700,10 +4640,6 @@
         "name": "Paret"
     },
     "rct2.scenery_wall.wallsk32": {
-        "reference-name": "Wall",
-        "name": "Paret"
-    },
-    "rct2.scenery_wall.wallbr32": {
         "reference-name": "Wall",
         "name": "Paret"
     },
@@ -4767,10 +4703,6 @@
         "reference-name": "Castle Wall",
         "name": "Muralla de castell"
     },
-    "rct2.scenery_wall.wallrs16": {
-        "reference-name": "Wall",
-        "name": "Paret"
-    },
     "rct2.scenery_wall.wbr1": {
         "reference-name": "Brick Wall",
         "name": "Paret de maons"
@@ -4779,10 +4711,6 @@
         "reference-name": "Castle Wall",
         "name": "Muralla de castell"
     },
-    "rct2.scenery_wall.wallwd16": {
-        "reference-name": "Wooden Wall",
-        "name": "Paret de fusta"
-    },
     "rct2.scenery_wall.wallcfar": {
         "reference-name": "Wall Arch",
         "name": "Paret amb arc"
@@ -4790,10 +4718,6 @@
     "rct2.scenery_wall.walllt32": {
         "reference-name": "Steel Latticework",
         "name": "Gelosia d’acer"
-    },
-    "rct2.scenery_wall.wallcb16": {
-        "reference-name": "Wall",
-        "name": "Paret"
     },
     "rct2.scenery_wall.wallpost": {
         "reference-name": "Post",
@@ -4819,10 +4743,6 @@
         "reference-name": "Martian Wall",
         "name": "Paret marciana"
     },
-    "rct2.scenery_wall.wallwd32": {
-        "reference-name": "Wooden Wall",
-        "name": "Paret de fusta"
-    },
     "rct2.scenery_wall.wallbb34": {
         "reference-name": "Stone Wall",
         "name": "Mur de pedra"
@@ -4839,10 +4759,6 @@
         "reference-name": "Tall Wooden Fence",
         "name": "Tanca de fusta alta"
     },
-    "rct2.scenery_wall.wallmm16": {
-        "reference-name": "Railings",
-        "name": "Reixat"
-    },
     "rct2.scenery_wall.wallcbpc": {
         "reference-name": "Portcullis Door",
         "name": "Porta de reixes"
@@ -4854,14 +4770,6 @@
     "rct2.scenery_wall.wallcbdr": {
         "reference-name": "Doorway",
         "name": "Portal"
-    },
-    "rct2.scenery_wall.wallst16": {
-        "reference-name": "Steel Wall",
-        "name": "Paret d’acer"
-    },
-    "rct2.scenery_wall.wallbb32": {
-        "reference-name": "Wall",
-        "name": "Paret"
     },
     "rct2.scenery_wall.whgg": {
         "reference-name": "Hedge",
@@ -4883,11 +4791,119 @@
         "reference-name": "Glass Wall",
         "name": "Paret de vidre"
     },
+    "rct2.scenery_wall.wc15": {
+        "reference-name": "Wall",
+        "name": "Paret"
+    },
+    "rct2.scenery_wall.wallrs32": {
+        "reference-name": "Wall",
+        "name": "Paret"
+    },
     "rct2.scenery_wall.wallcb32": {
         "reference-name": "Wall",
         "name": "Paret"
     },
-    "rct2.scenery_wall.wc15": {
+    "rct2.scenery_wall.wallcb16": {
+        "reference-name": "Wall",
+        "name": "Paret"
+    },
+    "rct2.scenery_wall.wallmm16": {
+        "reference-name": "Railings",
+        "name": "Reixat"
+    },
+    "rct2.scenery_wall.wallrs16": {
+        "reference-name": "Wall",
+        "name": "Paret"
+    },
+    "rct2.scenery_wall.wallcf8": {
+        "reference-name": "Wall",
+        "name": "Paret"
+    },
+    "rct2.scenery_wall.wallbr16": {
+        "reference-name": "Wall",
+        "name": "Paret"
+    },
+    "rct2.scenery_wall.wallmm17": {
+        "reference-name": "Railings",
+        "name": "Reixat"
+    },
+    "rct2.scenery_wall.wallbb16": {
+        "reference-name": "Wall",
+        "name": "Paret"
+    },
+    "rct2.scenery_wall.wallcf32": {
+        "reference-name": "Wall",
+        "name": "Paret"
+    },
+    "rct2.scenery_wall.wbr2a": {
+        "reference-name": "Stone Wall",
+        "name": "Mur de pedra"
+    },
+    "rct2.scenery_wall.wallbr32": {
+        "reference-name": "Wall",
+        "name": "Paret"
+    },
+    "rct2.scenery_wall.wallrs8": {
+        "reference-name": "Wall",
+        "name": "Paret"
+    },
+    "rct2.scenery_wall.wallrh32": {
+        "reference-name": "Wall",
+        "name": "Paret"
+    },
+    "rct2.scenery_wall.walltn32": {
+        "reference-name": "Poles",
+        "name": "Pals"
+    },
+    "rct2.scenery_wall.wallbb32": {
+        "reference-name": "Wall",
+        "name": "Paret"
+    },
+    "rct2.scenery_wall.wallcb8": {
+        "reference-name": "Wall",
+        "name": "Paret"
+    },
+    "rct2.scenery_wall.wallwd8": {
+        "reference-name": "Wooden Wall",
+        "name": "Paret de fusta"
+    },
+    "rct2.scenery_wall.wallwd32": {
+        "reference-name": "Wooden Wall",
+        "name": "Paret de fusta"
+    },
+    "rct2.scenery_wall.wallst8": {
+        "reference-name": "Steel Wall",
+        "name": "Paret d’acer"
+    },
+    "rct2.scenery_wall.wallbb8": {
+        "reference-name": "Wall",
+        "name": "Paret"
+    },
+    "rct2.scenery_wall.wallig16": {
+        "reference-name": "Igloo Wall",
+        "name": "Paret d’iglú"
+    },
+    "rct2.scenery_wall.wallcf16": {
+        "reference-name": "Wall",
+        "name": "Paret"
+    },
+    "rct2.scenery_wall.wallst32": {
+        "reference-name": "Steel Wall",
+        "name": "Paret d’acer"
+    },
+    "rct2.scenery_wall.wbr1a": {
+        "reference-name": "Brick Wall",
+        "name": "Paret de maons"
+    },
+    "rct2.scenery_wall.wallst16": {
+        "reference-name": "Steel Wall",
+        "name": "Paret d’acer"
+    },
+    "rct2.scenery_wall.wallwd16": {
+        "reference-name": "Wooden Wall",
+        "name": "Paret de fusta"
+    },
+    "rct2.scenery_wall.wallbr8": {
         "reference-name": "Wall",
         "name": "Paret"
     },
@@ -6948,8 +6964,8 @@
         "name": "Bots d’ànecs mandarins",
         "reference-description": "Duck-shaped boats, propelled by the pedalling front seat passengers",
         "description": "Barques en forma d’ànec que es mouen amb el pedaleig dels passatgers del davant.",
-        "reference-capacity": "4 passengers per boat",
-        "capacity": "4 passatgers per barca"
+        "reference-capacity": "2 passengers per boat",
+        "capacity": "2 passatgers per barca"
     },
     "rct2ww.ride.crocflum": {
         "reference-name": "Crocodile Boats",
@@ -7128,7 +7144,7 @@
         "capacity": "4 passatgers per cotxe"
     },
     "rct2ww.ride.dragdodg": {
-        "reference-name": "Chinese Dragonhead Ride",
+        "reference-name": "Chinese Dragonhead Dodgems",
         "name": "Atracció del cap de drac xinès",
         "reference-description": "Guests battle each other in dragonhead-shaped dodgems",
         "description": "Els conductors lluiten entre ells en cotxes de xoc elèctrics.",

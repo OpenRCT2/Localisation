@@ -55,13 +55,25 @@
         "reference-name": "Invisible Railings",
         "name": "Rambardes invisibles"
     },
+    "official.scenery_wall.post_flipped": {
+        "reference-name": "Post",
+        "name": "Poteau"
+    },
     "couger.scenery_wall.acwwf32": {
         "reference-name": "Wooden Post Wall",
         "name": "Tableau d’affichage en bois"
     },
+    "official.scenery_wall.support_structure_half": {
+        "reference-name": "Support Structure",
+        "name": "Structure de support"
+    },
     "couger.scenery_wall.acww33": {
         "reference-name": "Wooden Post Wall",
         "name": "Tableau d’affichage en bois"
+    },
+    "official.scenery_wall.support_structure_full": {
+        "reference-name": "Support Structure",
+        "name": "Structure de support"
     },
     "mamabear.scenery_wall.mg-prar": {
         "reference-name": "Wall with Passageway",
@@ -102,6 +114,10 @@
     "toontowner.scenery_small.ttrfwd03": {
         "reference-name": "Roof",
         "name": "Toit"
+    },
+    "official.scenery_small.support_structure_half": {
+        "reference-name": "Support Structure",
+        "name": "Structure de support"
     },
     "toontowner.scenery_small.ttpirf08": {
         "reference-name": "Roof",
@@ -270,7 +286,7 @@
         "capacity": "4 passagers par voiture"
     },
     "rct2tt.ride.cyclopsx": {
-        "reference-name": "Cyclops Ride",
+        "reference-name": "Cyclops Dodgems",
         "name": "Le cyclope",
         "reference-description": "Riders drive the Eye of a Giant Cyclops",
         "description": "Les passagers sont installés dans l’œil du cyclope",
@@ -346,7 +362,7 @@
         "capacity": "1 visiteur par siège"
     },
     "rct2tt.ride.flwrpowr": {
-        "reference-name": "Flower Power Ride",
+        "reference-name": "Flower Power Dodgems",
         "name": "Flower Power",
         "reference-description": "Riders ride in flower-shaped hovercraft vehicles that they freely control",
         "description": "Petits canots pneumatiques en forme de fleurs alimentés par un moteur central que contrôlent les passagers",
@@ -4439,14 +4455,6 @@
         "reference-name": "Railings",
         "name": "Grille"
     },
-    "rct2.scenery_wall.wallrs8": {
-        "reference-name": "Wall",
-        "name": "Mur"
-    },
-    "rct2.scenery_wall.wallbb8": {
-        "reference-name": "Wall",
-        "name": "Mur"
-    },
     "rct2.scenery_wall.wpw2": {
         "reference-name": "Wooden Post Wall",
         "name": "Clôture avec poteaux de bois"
@@ -4471,10 +4479,6 @@
         "reference-name": "‘Texas Giant’ Sign",
         "name": "Panneau « Texas Giant »"
     },
-    "rct2.scenery_wall.wallig16": {
-        "reference-name": "Igloo Wall",
-        "name": "Mur d’igloo"
-    },
     "rct2.scenery_wall.wc17": {
         "reference-name": "Wooden Fence",
         "name": "Clôture en bois"
@@ -4490,10 +4494,6 @@
     "rct2.scenery_wall.wchg": {
         "reference-name": "Conifer Hedge",
         "name": "Haie de conifères"
-    },
-    "rct2.scenery_wall.wallbb16": {
-        "reference-name": "Wall",
-        "name": "Mur"
     },
     "rct2.scenery_wall.wgw2": {
         "reference-name": "Glass Wall",
@@ -4519,21 +4519,9 @@
         "reference-name": "Wooden Fence",
         "name": "Clôture en bois"
     },
-    "rct2.scenery_wall.wallbr8": {
-        "reference-name": "Wall",
-        "name": "Mur"
-    },
-    "rct2.scenery_wall.wallst32": {
-        "reference-name": "Steel Wall",
-        "name": "Mur en tôle"
-    },
     "rct2.scenery_wall.wbr3": {
         "reference-name": "Stone Wall",
         "name": "Mur de pierre"
-    },
-    "rct2.scenery_wall.wallwd8": {
-        "reference-name": "Wooden Wall",
-        "name": "Mur en bois"
     },
     "rct2.scenery_wall.wallmn32": {
         "reference-name": "Wall",
@@ -4559,21 +4547,9 @@
         "reference-name": "Egyptian Wall",
         "name": "Mur égyptien"
     },
-    "rct2.scenery_wall.wbr1a": {
-        "reference-name": "Brick Wall",
-        "name": "Mur de brique"
-    },
     "rct2.scenery_wall.wcw1": {
         "reference-name": "Playing Card Wall",
         "name": "Mur en cartes à jouer"
-    },
-    "rct2.scenery_wall.wallrh32": {
-        "reference-name": "Wall",
-        "name": "Mur"
-    },
-    "rct2.scenery_wall.wallst8": {
-        "reference-name": "Steel Wall",
-        "name": "Mur en tôle"
     },
     "rct2.scenery_wall.wc16": {
         "reference-name": "Fence",
@@ -4603,19 +4579,7 @@
         "reference-name": "Wall",
         "name": "Mur"
     },
-    "rct2.scenery_wall.wallcb8": {
-        "reference-name": "Wall",
-        "name": "Mur"
-    },
-    "rct2.scenery_wall.wallmm17": {
-        "reference-name": "Railings",
-        "name": "Grille"
-    },
     "rct2.scenery_wall.wc14": {
-        "reference-name": "Wall",
-        "name": "Mur"
-    },
-    "rct2.scenery_wall.wallcf8": {
         "reference-name": "Wall",
         "name": "Mur"
     },
@@ -4626,10 +4590,6 @@
     "rct2.scenery_wall.wc11": {
         "reference-name": "Castle Wall",
         "name": "Mur de château"
-    },
-    "rct2.scenery_wall.walltn32": {
-        "reference-name": "Poles",
-        "name": "Mâts"
     },
     "rct2.scenery_wall.wpw3": {
         "reference-name": "Wooden Fence",
@@ -4659,10 +4619,6 @@
         "reference-name": "Castle Wall",
         "name": "Mur de château"
     },
-    "rct2.scenery_wall.wallbr16": {
-        "reference-name": "Wall",
-        "name": "Mur"
-    },
     "rct2.scenery_wall.wallu232": {
         "reference-name": "Wall",
         "name": "Mur"
@@ -4671,25 +4627,9 @@
         "reference-name": "Castle Wall",
         "name": "Mur de château"
     },
-    "rct2.scenery_wall.wallcf16": {
-        "reference-name": "Wall",
-        "name": "Mur"
-    },
     "rct2.scenery_wall.wpw1": {
         "reference-name": "Wooden Post Wall",
         "name": "Clôture avec poteaux de bois"
-    },
-    "rct2.scenery_wall.wallrs32": {
-        "reference-name": "Wall",
-        "name": "Mur"
-    },
-    "rct2.scenery_wall.wbr2a": {
-        "reference-name": "Stone Wall",
-        "name": "Mur de pierre"
-    },
-    "rct2.scenery_wall.wallcf32": {
-        "reference-name": "Wall",
-        "name": "Mur"
     },
     "rct2.scenery_wall.wallstfn": {
         "reference-name": "Steel Fence",
@@ -4700,10 +4640,6 @@
         "name": "Mur"
     },
     "rct2.scenery_wall.wallsk32": {
-        "reference-name": "Wall",
-        "name": "Mur"
-    },
-    "rct2.scenery_wall.wallbr32": {
         "reference-name": "Wall",
         "name": "Mur"
     },
@@ -4767,10 +4703,6 @@
         "reference-name": "Castle Wall",
         "name": "Mur de château"
     },
-    "rct2.scenery_wall.wallrs16": {
-        "reference-name": "Wall",
-        "name": "Mur"
-    },
     "rct2.scenery_wall.wbr1": {
         "reference-name": "Brick Wall",
         "name": "Mur de brique"
@@ -4779,10 +4711,6 @@
         "reference-name": "Castle Wall",
         "name": "Mur de château"
     },
-    "rct2.scenery_wall.wallwd16": {
-        "reference-name": "Wooden Wall",
-        "name": "Mur en bois"
-    },
     "rct2.scenery_wall.wallcfar": {
         "reference-name": "Wall Arch",
         "name": "Voûte"
@@ -4790,10 +4718,6 @@
     "rct2.scenery_wall.walllt32": {
         "reference-name": "Steel Latticework",
         "name": "Acier camouflage"
-    },
-    "rct2.scenery_wall.wallcb16": {
-        "reference-name": "Wall",
-        "name": "Mur"
     },
     "rct2.scenery_wall.wallpost": {
         "reference-name": "Post",
@@ -4819,10 +4743,6 @@
         "reference-name": "Martian Wall",
         "name": "Mur martien"
     },
-    "rct2.scenery_wall.wallwd32": {
-        "reference-name": "Wooden Wall",
-        "name": "Mur en bois"
-    },
     "rct2.scenery_wall.wallbb34": {
         "reference-name": "Stone Wall",
         "name": "Mur en pierre"
@@ -4839,10 +4759,6 @@
         "reference-name": "Tall Wooden Fence",
         "name": "Grande clôture en bois"
     },
-    "rct2.scenery_wall.wallmm16": {
-        "reference-name": "Railings",
-        "name": "Grille"
-    },
     "rct2.scenery_wall.wallcbpc": {
         "reference-name": "Portcullis Door",
         "name": "Porte coulissante"
@@ -4854,14 +4770,6 @@
     "rct2.scenery_wall.wallcbdr": {
         "reference-name": "Doorway",
         "name": "Porte"
-    },
-    "rct2.scenery_wall.wallst16": {
-        "reference-name": "Steel Wall",
-        "name": "Mur en tôle"
-    },
-    "rct2.scenery_wall.wallbb32": {
-        "reference-name": "Wall",
-        "name": "Mur"
     },
     "rct2.scenery_wall.whgg": {
         "reference-name": "Hedge",
@@ -4883,11 +4791,119 @@
         "reference-name": "Glass Wall",
         "name": "Façade vitrée"
     },
+    "rct2.scenery_wall.wc15": {
+        "reference-name": "Wall",
+        "name": "Mur"
+    },
+    "rct2.scenery_wall.wallrs32": {
+        "reference-name": "Wall",
+        "name": "Mur"
+    },
     "rct2.scenery_wall.wallcb32": {
         "reference-name": "Wall",
         "name": "Mur"
     },
-    "rct2.scenery_wall.wc15": {
+    "rct2.scenery_wall.wallcb16": {
+        "reference-name": "Wall",
+        "name": "Mur"
+    },
+    "rct2.scenery_wall.wallmm16": {
+        "reference-name": "Railings",
+        "name": "Grille"
+    },
+    "rct2.scenery_wall.wallrs16": {
+        "reference-name": "Wall",
+        "name": "Mur"
+    },
+    "rct2.scenery_wall.wallcf8": {
+        "reference-name": "Wall",
+        "name": "Mur"
+    },
+    "rct2.scenery_wall.wallbr16": {
+        "reference-name": "Wall",
+        "name": "Mur"
+    },
+    "rct2.scenery_wall.wallmm17": {
+        "reference-name": "Railings",
+        "name": "Grille"
+    },
+    "rct2.scenery_wall.wallbb16": {
+        "reference-name": "Wall",
+        "name": "Mur"
+    },
+    "rct2.scenery_wall.wallcf32": {
+        "reference-name": "Wall",
+        "name": "Mur"
+    },
+    "rct2.scenery_wall.wbr2a": {
+        "reference-name": "Stone Wall",
+        "name": "Mur de pierre"
+    },
+    "rct2.scenery_wall.wallbr32": {
+        "reference-name": "Wall",
+        "name": "Mur"
+    },
+    "rct2.scenery_wall.wallrs8": {
+        "reference-name": "Wall",
+        "name": "Mur"
+    },
+    "rct2.scenery_wall.wallrh32": {
+        "reference-name": "Wall",
+        "name": "Mur"
+    },
+    "rct2.scenery_wall.walltn32": {
+        "reference-name": "Poles",
+        "name": "Mâts"
+    },
+    "rct2.scenery_wall.wallbb32": {
+        "reference-name": "Wall",
+        "name": "Mur"
+    },
+    "rct2.scenery_wall.wallcb8": {
+        "reference-name": "Wall",
+        "name": "Mur"
+    },
+    "rct2.scenery_wall.wallwd8": {
+        "reference-name": "Wooden Wall",
+        "name": "Mur en bois"
+    },
+    "rct2.scenery_wall.wallwd32": {
+        "reference-name": "Wooden Wall",
+        "name": "Mur en bois"
+    },
+    "rct2.scenery_wall.wallst8": {
+        "reference-name": "Steel Wall",
+        "name": "Mur en tôle"
+    },
+    "rct2.scenery_wall.wallbb8": {
+        "reference-name": "Wall",
+        "name": "Mur"
+    },
+    "rct2.scenery_wall.wallig16": {
+        "reference-name": "Igloo Wall",
+        "name": "Mur d’igloo"
+    },
+    "rct2.scenery_wall.wallcf16": {
+        "reference-name": "Wall",
+        "name": "Mur"
+    },
+    "rct2.scenery_wall.wallst32": {
+        "reference-name": "Steel Wall",
+        "name": "Mur en tôle"
+    },
+    "rct2.scenery_wall.wbr1a": {
+        "reference-name": "Brick Wall",
+        "name": "Mur de brique"
+    },
+    "rct2.scenery_wall.wallst16": {
+        "reference-name": "Steel Wall",
+        "name": "Mur en tôle"
+    },
+    "rct2.scenery_wall.wallwd16": {
+        "reference-name": "Wooden Wall",
+        "name": "Mur en bois"
+    },
+    "rct2.scenery_wall.wallbr8": {
         "reference-name": "Wall",
         "name": "Mur"
     },
@@ -6948,8 +6964,8 @@
         "name": "Canard mandarin",
         "reference-description": "Duck-shaped boats, propelled by the pedalling front seat passengers",
         "description": "Bateau en forme de canard, propulsé par les passagers avant à l’aide d’un pédalier",
-        "reference-capacity": "4 passengers per boat",
-        "capacity": "4 passagers par bateau"
+        "reference-capacity": "2 passengers per boat",
+        "capacity": "2 passagers par bateau"
     },
     "rct2ww.ride.crocflum": {
         "reference-name": "Crocodile Boats",
@@ -7128,7 +7144,7 @@
         "capacity": "4 passagers par voiture"
     },
     "rct2ww.ride.dragdodg": {
-        "reference-name": "Chinese Dragonhead Ride",
+        "reference-name": "Chinese Dragonhead Dodgems",
         "name": "La tête du dragon",
         "reference-description": "Guests battle each other in dragonhead-shaped dodgems",
         "description": "Les visiteurs s’affrontent dans des auto-tamponneuses en forme de tête de dragon",

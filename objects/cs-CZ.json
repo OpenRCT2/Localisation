@@ -55,13 +55,25 @@
         "reference-name": "Invisible Railings",
         "name": "Invisible Railings"
     },
+    "official.scenery_wall.post_flipped": {
+        "reference-name": "Post",
+        "name": "Sloup"
+    },
     "couger.scenery_wall.acwwf32": {
         "reference-name": "Wooden Post Wall",
         "name": "Wooden Post Wall"
     },
+    "official.scenery_wall.support_structure_half": {
+        "reference-name": "Support Structure",
+        "name": "Podpěra"
+    },
     "couger.scenery_wall.acww33": {
         "reference-name": "Wooden Post Wall",
         "name": "Wooden Post Wall"
+    },
+    "official.scenery_wall.support_structure_full": {
+        "reference-name": "Support Structure",
+        "name": "Podpěra"
     },
     "mamabear.scenery_wall.mg-prar": {
         "reference-name": "Wall with Passageway",
@@ -102,6 +114,10 @@
     "toontowner.scenery_small.ttrfwd03": {
         "reference-name": "Roof",
         "name": "Střecha"
+    },
+    "official.scenery_small.support_structure_half": {
+        "reference-name": "Support Structure",
+        "name": "Podpěra"
     },
     "toontowner.scenery_small.ttpirf08": {
         "reference-name": "Roof",
@@ -270,7 +286,7 @@
         "capacity": "4 místa v každém voze"
     },
     "rct2tt.ride.cyclopsx": {
-        "reference-name": "Cyclops Ride",
+        "reference-name": "Cyclops Dodgems",
         "name": "Kyklopský autodrom",
         "reference-description": "Riders drive the Eye of a Giant Cyclops",
         "description": "Autodrom s elektrickými autíčky ve tvaru oka gigantického kyklopa",
@@ -346,7 +362,7 @@
         "capacity": "1 místo na každé židli"
     },
     "rct2tt.ride.flwrpowr": {
-        "reference-name": "Flower Power Ride",
+        "reference-name": "Flower Power Dodgems",
         "name": "Květinová vznášedla",
         "reference-description": "Riders ride in flower-shaped hovercraft vehicles that they freely control",
         "description": "Autodrom se vznášedly ve tvaru květů květin",
@@ -4441,14 +4457,6 @@
         "reference-name": "Railings",
         "name": "Zábradlí"
     },
-    "rct2.scenery_wall.wallrs8": {
-        "reference-name": "Wall",
-        "name": "Stěna"
-    },
-    "rct2.scenery_wall.wallbb8": {
-        "reference-name": "Wall",
-        "name": "Stěna"
-    },
     "rct2.scenery_wall.wpw2": {
         "reference-name": "Wooden Post Wall",
         "name": "Zeď dřevěných sloupů"
@@ -4473,10 +4481,6 @@
         "reference-name": "‘Texas Giant’ Sign",
         "name": "‘Texas Giant’ cedule"
     },
-    "rct2.scenery_wall.wallig16": {
-        "reference-name": "Igloo Wall",
-        "name": "Stěna iglú"
-    },
     "rct2.scenery_wall.wc17": {
         "reference-name": "Wooden Fence",
         "name": "Dřevěný plot"
@@ -4492,10 +4496,6 @@
     "rct2.scenery_wall.wchg": {
         "reference-name": "Conifer Hedge",
         "name": "Živý plot"
-    },
-    "rct2.scenery_wall.wallbb16": {
-        "reference-name": "Wall",
-        "name": "Stěna"
     },
     "rct2.scenery_wall.wgw2": {
         "reference-name": "Glass Wall",
@@ -4521,21 +4521,9 @@
         "reference-name": "Wooden Fence",
         "name": "Dřevěný plot"
     },
-    "rct2.scenery_wall.wallbr8": {
-        "reference-name": "Wall",
-        "name": "Stěna"
-    },
-    "rct2.scenery_wall.wallst32": {
-        "reference-name": "Steel Wall",
-        "name": "Ocelová stěna"
-    },
     "rct2.scenery_wall.wbr3": {
         "reference-name": "Stone Wall",
         "name": "Kamenná stěna"
-    },
-    "rct2.scenery_wall.wallwd8": {
-        "reference-name": "Wooden Wall",
-        "name": "Dřevěná stěna"
     },
     "rct2.scenery_wall.wallmn32": {
         "reference-name": "Wall",
@@ -4561,21 +4549,9 @@
         "reference-name": "Egyptian Wall",
         "name": "Egyptská stěna"
     },
-    "rct2.scenery_wall.wbr1a": {
-        "reference-name": "Brick Wall",
-        "name": "Cihlová stěna"
-    },
     "rct2.scenery_wall.wcw1": {
         "reference-name": "Playing Card Wall",
         "name": "Stěna z hracích karet"
-    },
-    "rct2.scenery_wall.wallrh32": {
-        "reference-name": "Wall",
-        "name": "Stěna"
-    },
-    "rct2.scenery_wall.wallst8": {
-        "reference-name": "Steel Wall",
-        "name": "Ocelová stěna"
     },
     "rct2.scenery_wall.wc16": {
         "reference-name": "Fence",
@@ -4605,19 +4581,7 @@
         "reference-name": "Wall",
         "name": "Stěna"
     },
-    "rct2.scenery_wall.wallcb8": {
-        "reference-name": "Wall",
-        "name": "Stěna"
-    },
-    "rct2.scenery_wall.wallmm17": {
-        "reference-name": "Railings",
-        "name": "Zábradlí"
-    },
     "rct2.scenery_wall.wc14": {
-        "reference-name": "Wall",
-        "name": "Stěna"
-    },
-    "rct2.scenery_wall.wallcf8": {
         "reference-name": "Wall",
         "name": "Stěna"
     },
@@ -4628,10 +4592,6 @@
     "rct2.scenery_wall.wc11": {
         "reference-name": "Castle Wall",
         "name": "Hradní stěna"
-    },
-    "rct2.scenery_wall.walltn32": {
-        "reference-name": "Poles",
-        "name": "Tyče"
     },
     "rct2.scenery_wall.wpw3": {
         "reference-name": "Wooden Fence",
@@ -4661,10 +4621,6 @@
         "reference-name": "Castle Wall",
         "name": "Hradní stěna"
     },
-    "rct2.scenery_wall.wallbr16": {
-        "reference-name": "Wall",
-        "name": "Stěna"
-    },
     "rct2.scenery_wall.wallu232": {
         "reference-name": "Wall",
         "name": "Stěna"
@@ -4673,25 +4629,9 @@
         "reference-name": "Castle Wall",
         "name": "Hradní stěna"
     },
-    "rct2.scenery_wall.wallcf16": {
-        "reference-name": "Wall",
-        "name": "Stěna"
-    },
     "rct2.scenery_wall.wpw1": {
         "reference-name": "Wooden Post Wall",
         "name": "Zeď dřevěných sloupů"
-    },
-    "rct2.scenery_wall.wallrs32": {
-        "reference-name": "Wall",
-        "name": "Stěna"
-    },
-    "rct2.scenery_wall.wbr2a": {
-        "reference-name": "Stone Wall",
-        "name": "Kamenná stěna"
-    },
-    "rct2.scenery_wall.wallcf32": {
-        "reference-name": "Wall",
-        "name": "Stěna"
     },
     "rct2.scenery_wall.wallstfn": {
         "reference-name": "Steel Fence",
@@ -4702,10 +4642,6 @@
         "name": "Stěna"
     },
     "rct2.scenery_wall.wallsk32": {
-        "reference-name": "Wall",
-        "name": "Stěna"
-    },
-    "rct2.scenery_wall.wallbr32": {
         "reference-name": "Wall",
         "name": "Stěna"
     },
@@ -4769,10 +4705,6 @@
         "reference-name": "Castle Wall",
         "name": "Hradní stěna"
     },
-    "rct2.scenery_wall.wallrs16": {
-        "reference-name": "Wall",
-        "name": "Stěna"
-    },
     "rct2.scenery_wall.wbr1": {
         "reference-name": "Brick Wall",
         "name": "Cihlová stěna"
@@ -4781,10 +4713,6 @@
         "reference-name": "Castle Wall",
         "name": "Hradní stěna"
     },
-    "rct2.scenery_wall.wallwd16": {
-        "reference-name": "Wooden Wall",
-        "name": "Dřevěná stěna"
-    },
     "rct2.scenery_wall.wallcfar": {
         "reference-name": "Wall Arch",
         "name": "Stěna"
@@ -4792,10 +4720,6 @@
     "rct2.scenery_wall.walllt32": {
         "reference-name": "Steel Latticework",
         "name": "Ocelová konstrukce"
-    },
-    "rct2.scenery_wall.wallcb16": {
-        "reference-name": "Wall",
-        "name": "Stěna"
     },
     "rct2.scenery_wall.wallpost": {
         "reference-name": "Post",
@@ -4821,10 +4745,6 @@
         "reference-name": "Martian Wall",
         "name": "Marťanská zeď"
     },
-    "rct2.scenery_wall.wallwd32": {
-        "reference-name": "Wooden Wall",
-        "name": "Dřevěná stěna"
-    },
     "rct2.scenery_wall.wallbb34": {
         "reference-name": "Stone Wall",
         "name": "Kamenná stěna"
@@ -4841,10 +4761,6 @@
         "reference-name": "Tall Wooden Fence",
         "name": "Vysoký dřevěný plot"
     },
-    "rct2.scenery_wall.wallmm16": {
-        "reference-name": "Railings",
-        "name": "Zábradlí"
-    },
     "rct2.scenery_wall.wallcbpc": {
         "reference-name": "Portcullis Door",
         "name": "Padací brána"
@@ -4856,14 +4772,6 @@
     "rct2.scenery_wall.wallcbdr": {
         "reference-name": "Doorway",
         "name": "Brána"
-    },
-    "rct2.scenery_wall.wallst16": {
-        "reference-name": "Steel Wall",
-        "name": "Ocelová stěna"
-    },
-    "rct2.scenery_wall.wallbb32": {
-        "reference-name": "Wall",
-        "name": "Stěna"
     },
     "rct2.scenery_wall.whgg": {
         "reference-name": "Hedge",
@@ -4885,11 +4793,119 @@
         "reference-name": "Glass Wall",
         "name": "Skleněná stěna"
     },
+    "rct2.scenery_wall.wc15": {
+        "reference-name": "Wall",
+        "name": "Stěna"
+    },
+    "rct2.scenery_wall.wallrs32": {
+        "reference-name": "Wall",
+        "name": "Stěna"
+    },
     "rct2.scenery_wall.wallcb32": {
         "reference-name": "Wall",
         "name": "Stěna"
     },
-    "rct2.scenery_wall.wc15": {
+    "rct2.scenery_wall.wallcb16": {
+        "reference-name": "Wall",
+        "name": "Stěna"
+    },
+    "rct2.scenery_wall.wallmm16": {
+        "reference-name": "Railings",
+        "name": "Zábradlí"
+    },
+    "rct2.scenery_wall.wallrs16": {
+        "reference-name": "Wall",
+        "name": "Stěna"
+    },
+    "rct2.scenery_wall.wallcf8": {
+        "reference-name": "Wall",
+        "name": "Stěna"
+    },
+    "rct2.scenery_wall.wallbr16": {
+        "reference-name": "Wall",
+        "name": "Stěna"
+    },
+    "rct2.scenery_wall.wallmm17": {
+        "reference-name": "Railings",
+        "name": "Zábradlí"
+    },
+    "rct2.scenery_wall.wallbb16": {
+        "reference-name": "Wall",
+        "name": "Stěna"
+    },
+    "rct2.scenery_wall.wallcf32": {
+        "reference-name": "Wall",
+        "name": "Stěna"
+    },
+    "rct2.scenery_wall.wbr2a": {
+        "reference-name": "Stone Wall",
+        "name": "Kamenná stěna"
+    },
+    "rct2.scenery_wall.wallbr32": {
+        "reference-name": "Wall",
+        "name": "Stěna"
+    },
+    "rct2.scenery_wall.wallrs8": {
+        "reference-name": "Wall",
+        "name": "Stěna"
+    },
+    "rct2.scenery_wall.wallrh32": {
+        "reference-name": "Wall",
+        "name": "Stěna"
+    },
+    "rct2.scenery_wall.walltn32": {
+        "reference-name": "Poles",
+        "name": "Tyče"
+    },
+    "rct2.scenery_wall.wallbb32": {
+        "reference-name": "Wall",
+        "name": "Stěna"
+    },
+    "rct2.scenery_wall.wallcb8": {
+        "reference-name": "Wall",
+        "name": "Stěna"
+    },
+    "rct2.scenery_wall.wallwd8": {
+        "reference-name": "Wooden Wall",
+        "name": "Dřevěná stěna"
+    },
+    "rct2.scenery_wall.wallwd32": {
+        "reference-name": "Wooden Wall",
+        "name": "Dřevěná stěna"
+    },
+    "rct2.scenery_wall.wallst8": {
+        "reference-name": "Steel Wall",
+        "name": "Ocelová stěna"
+    },
+    "rct2.scenery_wall.wallbb8": {
+        "reference-name": "Wall",
+        "name": "Stěna"
+    },
+    "rct2.scenery_wall.wallig16": {
+        "reference-name": "Igloo Wall",
+        "name": "Stěna iglú"
+    },
+    "rct2.scenery_wall.wallcf16": {
+        "reference-name": "Wall",
+        "name": "Stěna"
+    },
+    "rct2.scenery_wall.wallst32": {
+        "reference-name": "Steel Wall",
+        "name": "Ocelová stěna"
+    },
+    "rct2.scenery_wall.wbr1a": {
+        "reference-name": "Brick Wall",
+        "name": "Cihlová stěna"
+    },
+    "rct2.scenery_wall.wallst16": {
+        "reference-name": "Steel Wall",
+        "name": "Ocelová stěna"
+    },
+    "rct2.scenery_wall.wallwd16": {
+        "reference-name": "Wooden Wall",
+        "name": "Dřevěná stěna"
+    },
+    "rct2.scenery_wall.wallbr8": {
         "reference-name": "Wall",
         "name": "Stěna"
     },
@@ -6950,8 +6966,8 @@
         "name": "Čínské kachny",
         "reference-description": "Duck-shaped boats, propelled by the pedalling front seat passengers",
         "description": "Lodě ve tvaru kachen, ovládané šlapáním návštěvníků sedících vepředu",
-        "reference-capacity": "4 passengers per boat",
-        "capacity": "4 místa na každé lodi"
+        "reference-capacity": "2 passengers per boat",
+        "capacity": "2 místa na každé lodi"
     },
     "rct2ww.ride.crocflum": {
         "reference-name": "Crocodile Boats",
@@ -7130,7 +7146,7 @@
         "capacity": "4 místa v každém voze"
     },
     "rct2ww.ride.dragdodg": {
-        "reference-name": "Chinese Dragonhead Ride",
+        "reference-name": "Chinese Dragonhead Dodgems",
         "name": "Čínská dračí hlava",
         "reference-description": "Guests battle each other in dragonhead-shaped dodgems",
         "description": "Autodrom s vozy ve tvaru dračích hlav",

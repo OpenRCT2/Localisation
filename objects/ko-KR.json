@@ -55,13 +55,25 @@
         "reference-name": "Invisible Railings",
         "name": "투명 울타리"
     },
+    "official.scenery_wall.post_flipped": {
+        "reference-name": "Post",
+        "name": "기둥"
+    },
     "couger.scenery_wall.acwwf32": {
         "reference-name": "Wooden Post Wall",
         "name": "나무 기둥 벽"
     },
+    "official.scenery_wall.support_structure_half": {
+        "reference-name": "Support Structure",
+        "name": "지지대 구조물"
+    },
     "couger.scenery_wall.acww33": {
         "reference-name": "Wooden Post Wall",
         "name": "나무 기둥 벽"
+    },
+    "official.scenery_wall.support_structure_full": {
+        "reference-name": "Support Structure",
+        "name": "지지대 구조물"
     },
     "mamabear.scenery_wall.mg-prar": {
         "reference-name": "Wall with Passageway",
@@ -102,6 +114,10 @@
     "toontowner.scenery_small.ttrfwd03": {
         "reference-name": "Roof",
         "name": "천장"
+    },
+    "official.scenery_small.support_structure_half": {
+        "reference-name": "Support Structure",
+        "name": "지지대 구조물"
     },
     "toontowner.scenery_small.ttpirf08": {
         "reference-name": "Roof",
@@ -270,7 +286,7 @@
         "capacity": "차량당 4명의 승객"
     },
     "rct2tt.ride.cyclopsx": {
-        "reference-name": "Cyclops Ride",
+        "reference-name": "Cyclops Dodgems",
         "name": "사이클롭스 범퍼카",
         "reference-description": "Riders drive the Eye of a Giant Cyclops",
         "description": "대형 사이클롭스의 눈을 운전하는 놀이기구",
@@ -346,7 +362,7 @@
         "capacity": "의자당 1명의 승객"
     },
     "rct2tt.ride.flwrpowr": {
-        "reference-name": "Flower Power Ride",
+        "reference-name": "Flower Power Dodgems",
         "name": "가든 파워 범퍼카",
         "reference-description": "Riders ride in flower-shaped hovercraft vehicles that they freely control",
         "description": "중앙 모터에 의해 움직이며 탑승객이 조종할 수 있는 꽃 모양의 작은 보트",
@@ -4441,14 +4457,6 @@
         "reference-name": "Railings",
         "name": "철책"
     },
-    "rct2.scenery_wall.wallrs8": {
-        "reference-name": "Wall",
-        "name": "벽"
-    },
-    "rct2.scenery_wall.wallbb8": {
-        "reference-name": "Wall",
-        "name": "벽"
-    },
     "rct2.scenery_wall.wpw2": {
         "reference-name": "Wooden Post Wall",
         "name": "나무 울타리"
@@ -4473,10 +4481,6 @@
         "reference-name": "‘Texas Giant’ Sign",
         "name": "‘텍사스 자이언트’ 팻말"
     },
-    "rct2.scenery_wall.wallig16": {
-        "reference-name": "Igloo Wall",
-        "name": "이글루 벽"
-    },
     "rct2.scenery_wall.wc17": {
         "reference-name": "Wooden Fence",
         "name": "나무 울타리"
@@ -4492,10 +4496,6 @@
     "rct2.scenery_wall.wchg": {
         "reference-name": "Conifer Hedge",
         "name": "침엽수 생울타리"
-    },
-    "rct2.scenery_wall.wallbb16": {
-        "reference-name": "Wall",
-        "name": "벽"
     },
     "rct2.scenery_wall.wgw2": {
         "reference-name": "Glass Wall",
@@ -4521,21 +4521,9 @@
         "reference-name": "Wooden Fence",
         "name": "나무 울타리"
     },
-    "rct2.scenery_wall.wallbr8": {
-        "reference-name": "Wall",
-        "name": "벽"
-    },
-    "rct2.scenery_wall.wallst32": {
-        "reference-name": "Steel Wall",
-        "name": "강철 벽"
-    },
     "rct2.scenery_wall.wbr3": {
         "reference-name": "Stone Wall",
         "name": "돌 벽"
-    },
-    "rct2.scenery_wall.wallwd8": {
-        "reference-name": "Wooden Wall",
-        "name": "나무 벽"
     },
     "rct2.scenery_wall.wallmn32": {
         "reference-name": "Wall",
@@ -4561,21 +4549,9 @@
         "reference-name": "Egyptian Wall",
         "name": "이집트 벽"
     },
-    "rct2.scenery_wall.wbr1a": {
-        "reference-name": "Brick Wall",
-        "name": "벽돌 벽"
-    },
     "rct2.scenery_wall.wcw1": {
         "reference-name": "Playing Card Wall",
         "name": "트럼프 벽"
-    },
-    "rct2.scenery_wall.wallrh32": {
-        "reference-name": "Wall",
-        "name": "벽"
-    },
-    "rct2.scenery_wall.wallst8": {
-        "reference-name": "Steel Wall",
-        "name": "강철 벽"
     },
     "rct2.scenery_wall.wc16": {
         "reference-name": "Fence",
@@ -4605,19 +4581,7 @@
         "reference-name": "Wall",
         "name": "벽"
     },
-    "rct2.scenery_wall.wallcb8": {
-        "reference-name": "Wall",
-        "name": "벽"
-    },
-    "rct2.scenery_wall.wallmm17": {
-        "reference-name": "Railings",
-        "name": "철책"
-    },
     "rct2.scenery_wall.wc14": {
-        "reference-name": "Wall",
-        "name": "벽"
-    },
-    "rct2.scenery_wall.wallcf8": {
         "reference-name": "Wall",
         "name": "벽"
     },
@@ -4628,10 +4592,6 @@
     "rct2.scenery_wall.wc11": {
         "reference-name": "Castle Wall",
         "name": "성벽"
-    },
-    "rct2.scenery_wall.walltn32": {
-        "reference-name": "Poles",
-        "name": "기둥"
     },
     "rct2.scenery_wall.wpw3": {
         "reference-name": "Wooden Fence",
@@ -4661,10 +4621,6 @@
         "reference-name": "Castle Wall",
         "name": "성벽"
     },
-    "rct2.scenery_wall.wallbr16": {
-        "reference-name": "Wall",
-        "name": "벽"
-    },
     "rct2.scenery_wall.wallu232": {
         "reference-name": "Wall",
         "name": "벽"
@@ -4673,25 +4629,9 @@
         "reference-name": "Castle Wall",
         "name": "성벽"
     },
-    "rct2.scenery_wall.wallcf16": {
-        "reference-name": "Wall",
-        "name": "벽"
-    },
     "rct2.scenery_wall.wpw1": {
         "reference-name": "Wooden Post Wall",
         "name": "나무 울타리"
-    },
-    "rct2.scenery_wall.wallrs32": {
-        "reference-name": "Wall",
-        "name": "벽"
-    },
-    "rct2.scenery_wall.wbr2a": {
-        "reference-name": "Stone Wall",
-        "name": "돌 벽"
-    },
-    "rct2.scenery_wall.wallcf32": {
-        "reference-name": "Wall",
-        "name": "벽"
     },
     "rct2.scenery_wall.wallstfn": {
         "reference-name": "Steel Fence",
@@ -4702,10 +4642,6 @@
         "name": "벽"
     },
     "rct2.scenery_wall.wallsk32": {
-        "reference-name": "Wall",
-        "name": "벽"
-    },
-    "rct2.scenery_wall.wallbr32": {
         "reference-name": "Wall",
         "name": "벽"
     },
@@ -4769,10 +4705,6 @@
         "reference-name": "Castle Wall",
         "name": "성벽"
     },
-    "rct2.scenery_wall.wallrs16": {
-        "reference-name": "Wall",
-        "name": "벽"
-    },
     "rct2.scenery_wall.wbr1": {
         "reference-name": "Brick Wall",
         "name": "벽돌 벽"
@@ -4781,10 +4713,6 @@
         "reference-name": "Castle Wall",
         "name": "성벽"
     },
-    "rct2.scenery_wall.wallwd16": {
-        "reference-name": "Wooden Wall",
-        "name": "나무 벽"
-    },
     "rct2.scenery_wall.wallcfar": {
         "reference-name": "Wall Arch",
         "name": "벽 아치"
@@ -4792,10 +4720,6 @@
     "rct2.scenery_wall.walllt32": {
         "reference-name": "Steel Latticework",
         "name": "강철 격자"
-    },
-    "rct2.scenery_wall.wallcb16": {
-        "reference-name": "Wall",
-        "name": "벽"
     },
     "rct2.scenery_wall.wallpost": {
         "reference-name": "Post",
@@ -4821,10 +4745,6 @@
         "reference-name": "Martian Wall",
         "name": "화성식 벽"
     },
-    "rct2.scenery_wall.wallwd32": {
-        "reference-name": "Wooden Wall",
-        "name": "나무 벽"
-    },
     "rct2.scenery_wall.wallbb34": {
         "reference-name": "Stone Wall",
         "name": "돌 벽"
@@ -4841,10 +4761,6 @@
         "reference-name": "Tall Wooden Fence",
         "name": "키 큰 나무 울타리"
     },
-    "rct2.scenery_wall.wallmm16": {
-        "reference-name": "Railings",
-        "name": "철책"
-    },
     "rct2.scenery_wall.wallcbpc": {
         "reference-name": "Portcullis Door",
         "name": "성문"
@@ -4856,14 +4772,6 @@
     "rct2.scenery_wall.wallcbdr": {
         "reference-name": "Doorway",
         "name": "출입구"
-    },
-    "rct2.scenery_wall.wallst16": {
-        "reference-name": "Steel Wall",
-        "name": "강철 벽"
-    },
-    "rct2.scenery_wall.wallbb32": {
-        "reference-name": "Wall",
-        "name": "벽"
     },
     "rct2.scenery_wall.whgg": {
         "reference-name": "Hedge",
@@ -4885,11 +4793,119 @@
         "reference-name": "Glass Wall",
         "name": "유리 벽"
     },
+    "rct2.scenery_wall.wc15": {
+        "reference-name": "Wall",
+        "name": "벽"
+    },
+    "rct2.scenery_wall.wallrs32": {
+        "reference-name": "Wall",
+        "name": "벽"
+    },
     "rct2.scenery_wall.wallcb32": {
         "reference-name": "Wall",
         "name": "벽"
     },
-    "rct2.scenery_wall.wc15": {
+    "rct2.scenery_wall.wallcb16": {
+        "reference-name": "Wall",
+        "name": "벽"
+    },
+    "rct2.scenery_wall.wallmm16": {
+        "reference-name": "Railings",
+        "name": "철책"
+    },
+    "rct2.scenery_wall.wallrs16": {
+        "reference-name": "Wall",
+        "name": "벽"
+    },
+    "rct2.scenery_wall.wallcf8": {
+        "reference-name": "Wall",
+        "name": "벽"
+    },
+    "rct2.scenery_wall.wallbr16": {
+        "reference-name": "Wall",
+        "name": "벽"
+    },
+    "rct2.scenery_wall.wallmm17": {
+        "reference-name": "Railings",
+        "name": "철책"
+    },
+    "rct2.scenery_wall.wallbb16": {
+        "reference-name": "Wall",
+        "name": "벽"
+    },
+    "rct2.scenery_wall.wallcf32": {
+        "reference-name": "Wall",
+        "name": "벽"
+    },
+    "rct2.scenery_wall.wbr2a": {
+        "reference-name": "Stone Wall",
+        "name": "돌 벽"
+    },
+    "rct2.scenery_wall.wallbr32": {
+        "reference-name": "Wall",
+        "name": "벽"
+    },
+    "rct2.scenery_wall.wallrs8": {
+        "reference-name": "Wall",
+        "name": "벽"
+    },
+    "rct2.scenery_wall.wallrh32": {
+        "reference-name": "Wall",
+        "name": "벽"
+    },
+    "rct2.scenery_wall.walltn32": {
+        "reference-name": "Poles",
+        "name": "기둥"
+    },
+    "rct2.scenery_wall.wallbb32": {
+        "reference-name": "Wall",
+        "name": "벽"
+    },
+    "rct2.scenery_wall.wallcb8": {
+        "reference-name": "Wall",
+        "name": "벽"
+    },
+    "rct2.scenery_wall.wallwd8": {
+        "reference-name": "Wooden Wall",
+        "name": "나무 벽"
+    },
+    "rct2.scenery_wall.wallwd32": {
+        "reference-name": "Wooden Wall",
+        "name": "나무 벽"
+    },
+    "rct2.scenery_wall.wallst8": {
+        "reference-name": "Steel Wall",
+        "name": "강철 벽"
+    },
+    "rct2.scenery_wall.wallbb8": {
+        "reference-name": "Wall",
+        "name": "벽"
+    },
+    "rct2.scenery_wall.wallig16": {
+        "reference-name": "Igloo Wall",
+        "name": "이글루 벽"
+    },
+    "rct2.scenery_wall.wallcf16": {
+        "reference-name": "Wall",
+        "name": "벽"
+    },
+    "rct2.scenery_wall.wallst32": {
+        "reference-name": "Steel Wall",
+        "name": "강철 벽"
+    },
+    "rct2.scenery_wall.wbr1a": {
+        "reference-name": "Brick Wall",
+        "name": "벽돌 벽"
+    },
+    "rct2.scenery_wall.wallst16": {
+        "reference-name": "Steel Wall",
+        "name": "강철 벽"
+    },
+    "rct2.scenery_wall.wallwd16": {
+        "reference-name": "Wooden Wall",
+        "name": "나무 벽"
+    },
+    "rct2.scenery_wall.wallbr8": {
         "reference-name": "Wall",
         "name": "벽"
     },
@@ -6950,8 +6966,8 @@
         "name": "원앙새 보트",
         "reference-description": "Duck-shaped boats, propelled by the pedalling front seat passengers",
         "description": "앞쪽 좌석의 탑승객이 페달을 직접 밟아 움직이는 원앙새 모양의 보트",
-        "reference-capacity": "4 passengers per boat",
-        "capacity": "보트당 4명의 승객"
+        "reference-capacity": "2 passengers per boat",
+        "capacity": "보트당 2명의 승객"
     },
     "rct2ww.ride.crocflum": {
         "reference-name": "Crocodile Boats",
@@ -7130,7 +7146,7 @@
         "capacity": "차량 당 4명의 승객"
     },
     "rct2ww.ride.dragdodg": {
-        "reference-name": "Chinese Dragonhead Ride",
+        "reference-name": "Chinese Dragonhead Dodgems",
         "name": "중국 용머리 범퍼카",
         "reference-description": "Guests battle each other in dragonhead-shaped dodgems",
         "description": "스스로 운전하는 전기 범퍼카 차량",

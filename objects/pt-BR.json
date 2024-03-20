@@ -55,13 +55,25 @@
         "reference-name": "Invisible Railings",
         "name": "Grades invisíveis"
     },
+    "official.scenery_wall.post_flipped": {
+        "reference-name": "Post",
+        "name": "Estaca"
+    },
     "couger.scenery_wall.acwwf32": {
         "reference-name": "Wooden Post Wall",
         "name": "Parede de Poste de Madeira"
     },
+    "official.scenery_wall.support_structure_half": {
+        "reference-name": "Support Structure",
+        "name": "Estrutura de Suporte"
+    },
     "couger.scenery_wall.acww33": {
         "reference-name": "Wooden Post Wall",
         "name": "Parede de Poste de Madeira"
+    },
+    "official.scenery_wall.support_structure_full": {
+        "reference-name": "Support Structure",
+        "name": "Estrutura de Suporte"
     },
     "mamabear.scenery_wall.mg-prar": {
         "reference-name": "Wall with Passageway",
@@ -102,6 +114,10 @@
     "toontowner.scenery_small.ttrfwd03": {
         "reference-name": "Roof",
         "name": "Teto"
+    },
+    "official.scenery_small.support_structure_half": {
+        "reference-name": "Support Structure",
+        "name": "Estrutura de Suporte"
     },
     "toontowner.scenery_small.ttpirf08": {
         "reference-name": "Roof",
@@ -270,7 +286,7 @@
         "capacity": "4 passageiros por vagão"
     },
     "rct2tt.ride.cyclopsx": {
-        "reference-name": "Cyclops Ride",
+        "reference-name": "Cyclops Dodgems",
         "name": "Bate-bate do Ciclope",
         "reference-description": "Riders drive the Eye of a Giant Cyclops",
         "description": "Os visitantes dirigem o Olho de um Ciclope Gigante",
@@ -346,7 +362,7 @@
         "capacity": "1 visitante por cadeira"
     },
     "rct2tt.ride.flwrpowr": {
-        "reference-name": "Flower Power Ride",
+        "reference-name": "Flower Power Dodgems",
         "name": "Bate-bate Paz e Amor",
         "reference-description": "Riders ride in flower-shaped hovercraft vehicles that they freely control",
         "description": "Passageiros passeiam em botes em formato de flores que eles mesmos podem controlar",
@@ -4439,14 +4455,6 @@
         "reference-name": "Railings",
         "name": "Grades"
     },
-    "rct2.scenery_wall.wallrs8": {
-        "reference-name": "Wall",
-        "name": "Parede"
-    },
-    "rct2.scenery_wall.wallbb8": {
-        "reference-name": "Wall",
-        "name": "Parede"
-    },
     "rct2.scenery_wall.wpw2": {
         "reference-name": "Wooden Post Wall",
         "name": "Parede de Poste de Madeira"
@@ -4471,10 +4479,6 @@
         "reference-name": "‘Texas Giant’ Sign",
         "name": "Placa ‘Texas Giant’"
     },
-    "rct2.scenery_wall.wallig16": {
-        "reference-name": "Igloo Wall",
-        "name": "Parede de Iglu"
-    },
     "rct2.scenery_wall.wc17": {
         "reference-name": "Wooden Fence",
         "name": "Cerca de Madeira"
@@ -4490,10 +4494,6 @@
     "rct2.scenery_wall.wchg": {
         "reference-name": "Conifer Hedge",
         "name": "Sebe de Conífera"
-    },
-    "rct2.scenery_wall.wallbb16": {
-        "reference-name": "Wall",
-        "name": "Parede"
     },
     "rct2.scenery_wall.wgw2": {
         "reference-name": "Glass Wall",
@@ -4519,21 +4519,9 @@
         "reference-name": "Wooden Fence",
         "name": "Cerca de Madeira"
     },
-    "rct2.scenery_wall.wallbr8": {
-        "reference-name": "Wall",
-        "name": "Parede"
-    },
-    "rct2.scenery_wall.wallst32": {
-        "reference-name": "Steel Wall",
-        "name": "Parede de Aço"
-    },
     "rct2.scenery_wall.wbr3": {
         "reference-name": "Stone Wall",
         "name": "Parede de Pedra"
-    },
-    "rct2.scenery_wall.wallwd8": {
-        "reference-name": "Wooden Wall",
-        "name": "Parede de Madeira"
     },
     "rct2.scenery_wall.wallmn32": {
         "reference-name": "Wall",
@@ -4559,21 +4547,9 @@
         "reference-name": "Egyptian Wall",
         "name": "Muro Egípcio"
     },
-    "rct2.scenery_wall.wbr1a": {
-        "reference-name": "Brick Wall",
-        "name": "Parede de Tijolo"
-    },
     "rct2.scenery_wall.wcw1": {
         "reference-name": "Playing Card Wall",
         "name": "Parede de Cartas"
-    },
-    "rct2.scenery_wall.wallrh32": {
-        "reference-name": "Wall",
-        "name": "Parede"
-    },
-    "rct2.scenery_wall.wallst8": {
-        "reference-name": "Steel Wall",
-        "name": "Parede de Aço"
     },
     "rct2.scenery_wall.wc16": {
         "reference-name": "Fence",
@@ -4603,19 +4579,7 @@
         "reference-name": "Wall",
         "name": "Parede"
     },
-    "rct2.scenery_wall.wallcb8": {
-        "reference-name": "Wall",
-        "name": "Parede"
-    },
-    "rct2.scenery_wall.wallmm17": {
-        "reference-name": "Railings",
-        "name": "Grades"
-    },
     "rct2.scenery_wall.wc14": {
-        "reference-name": "Wall",
-        "name": "Parede"
-    },
-    "rct2.scenery_wall.wallcf8": {
         "reference-name": "Wall",
         "name": "Parede"
     },
@@ -4626,10 +4590,6 @@
     "rct2.scenery_wall.wc11": {
         "reference-name": "Castle Wall",
         "name": "Muro de Castelo"
-    },
-    "rct2.scenery_wall.walltn32": {
-        "reference-name": "Poles",
-        "name": "Postes"
     },
     "rct2.scenery_wall.wpw3": {
         "reference-name": "Wooden Fence",
@@ -4659,10 +4619,6 @@
         "reference-name": "Castle Wall",
         "name": "Muro de Castelo"
     },
-    "rct2.scenery_wall.wallbr16": {
-        "reference-name": "Wall",
-        "name": "Parede"
-    },
     "rct2.scenery_wall.wallu232": {
         "reference-name": "Wall",
         "name": "Parede"
@@ -4671,25 +4627,9 @@
         "reference-name": "Castle Wall",
         "name": "Muro de Castelo"
     },
-    "rct2.scenery_wall.wallcf16": {
-        "reference-name": "Wall",
-        "name": "Parede"
-    },
     "rct2.scenery_wall.wpw1": {
         "reference-name": "Wooden Post Wall",
         "name": "Parede de Poste de Madeira"
-    },
-    "rct2.scenery_wall.wallrs32": {
-        "reference-name": "Wall",
-        "name": "Parede"
-    },
-    "rct2.scenery_wall.wbr2a": {
-        "reference-name": "Stone Wall",
-        "name": "Parede de Pedra"
-    },
-    "rct2.scenery_wall.wallcf32": {
-        "reference-name": "Wall",
-        "name": "Parede"
     },
     "rct2.scenery_wall.wallstfn": {
         "reference-name": "Steel Fence",
@@ -4700,10 +4640,6 @@
         "name": "Parede"
     },
     "rct2.scenery_wall.wallsk32": {
-        "reference-name": "Wall",
-        "name": "Parede"
-    },
-    "rct2.scenery_wall.wallbr32": {
         "reference-name": "Wall",
         "name": "Parede"
     },
@@ -4767,10 +4703,6 @@
         "reference-name": "Castle Wall",
         "name": "Muro de Castelo"
     },
-    "rct2.scenery_wall.wallrs16": {
-        "reference-name": "Wall",
-        "name": "Parede"
-    },
     "rct2.scenery_wall.wbr1": {
         "reference-name": "Brick Wall",
         "name": "Parede de Tijolo"
@@ -4779,10 +4711,6 @@
         "reference-name": "Castle Wall",
         "name": "Muro de Castelo"
     },
-    "rct2.scenery_wall.wallwd16": {
-        "reference-name": "Wooden Wall",
-        "name": "Parede de Madeira"
-    },
     "rct2.scenery_wall.wallcfar": {
         "reference-name": "Wall Arch",
         "name": "Arco de Parede"
@@ -4790,10 +4718,6 @@
     "rct2.scenery_wall.walllt32": {
         "reference-name": "Steel Latticework",
         "name": "Treliça de Aço"
-    },
-    "rct2.scenery_wall.wallcb16": {
-        "reference-name": "Wall",
-        "name": "Parede"
     },
     "rct2.scenery_wall.wallpost": {
         "reference-name": "Post",
@@ -4819,10 +4743,6 @@
         "reference-name": "Martian Wall",
         "name": "Parede Marciana"
     },
-    "rct2.scenery_wall.wallwd32": {
-        "reference-name": "Wooden Wall",
-        "name": "Parede de Madeira"
-    },
     "rct2.scenery_wall.wallbb34": {
         "reference-name": "Stone Wall",
         "name": "Parede de Pedra"
@@ -4839,10 +4759,6 @@
         "reference-name": "Tall Wooden Fence",
         "name": "Cerca Alta de Madeira"
     },
-    "rct2.scenery_wall.wallmm16": {
-        "reference-name": "Railings",
-        "name": "Grades"
-    },
     "rct2.scenery_wall.wallcbpc": {
         "reference-name": "Portcullis Door",
         "name": "Porta Corrediça"
@@ -4854,14 +4770,6 @@
     "rct2.scenery_wall.wallcbdr": {
         "reference-name": "Doorway",
         "name": "Portal"
-    },
-    "rct2.scenery_wall.wallst16": {
-        "reference-name": "Steel Wall",
-        "name": "Parede de Aço"
-    },
-    "rct2.scenery_wall.wallbb32": {
-        "reference-name": "Wall",
-        "name": "Parede"
     },
     "rct2.scenery_wall.whgg": {
         "reference-name": "Hedge",
@@ -4883,11 +4791,119 @@
         "reference-name": "Glass Wall",
         "name": "Parede de Vidro"
     },
+    "rct2.scenery_wall.wc15": {
+        "reference-name": "Wall",
+        "name": "Parede"
+    },
+    "rct2.scenery_wall.wallrs32": {
+        "reference-name": "Wall",
+        "name": "Parede"
+    },
     "rct2.scenery_wall.wallcb32": {
         "reference-name": "Wall",
         "name": "Parede"
     },
-    "rct2.scenery_wall.wc15": {
+    "rct2.scenery_wall.wallcb16": {
+        "reference-name": "Wall",
+        "name": "Parede"
+    },
+    "rct2.scenery_wall.wallmm16": {
+        "reference-name": "Railings",
+        "name": "Grades"
+    },
+    "rct2.scenery_wall.wallrs16": {
+        "reference-name": "Wall",
+        "name": "Parede"
+    },
+    "rct2.scenery_wall.wallcf8": {
+        "reference-name": "Wall",
+        "name": "Parede"
+    },
+    "rct2.scenery_wall.wallbr16": {
+        "reference-name": "Wall",
+        "name": "Parede"
+    },
+    "rct2.scenery_wall.wallmm17": {
+        "reference-name": "Railings",
+        "name": "Grades"
+    },
+    "rct2.scenery_wall.wallbb16": {
+        "reference-name": "Wall",
+        "name": "Parede"
+    },
+    "rct2.scenery_wall.wallcf32": {
+        "reference-name": "Wall",
+        "name": "Parede"
+    },
+    "rct2.scenery_wall.wbr2a": {
+        "reference-name": "Stone Wall",
+        "name": "Parede de Pedra"
+    },
+    "rct2.scenery_wall.wallbr32": {
+        "reference-name": "Wall",
+        "name": "Parede"
+    },
+    "rct2.scenery_wall.wallrs8": {
+        "reference-name": "Wall",
+        "name": "Parede"
+    },
+    "rct2.scenery_wall.wallrh32": {
+        "reference-name": "Wall",
+        "name": "Parede"
+    },
+    "rct2.scenery_wall.walltn32": {
+        "reference-name": "Poles",
+        "name": "Postes"
+    },
+    "rct2.scenery_wall.wallbb32": {
+        "reference-name": "Wall",
+        "name": "Parede"
+    },
+    "rct2.scenery_wall.wallcb8": {
+        "reference-name": "Wall",
+        "name": "Parede"
+    },
+    "rct2.scenery_wall.wallwd8": {
+        "reference-name": "Wooden Wall",
+        "name": "Parede de Madeira"
+    },
+    "rct2.scenery_wall.wallwd32": {
+        "reference-name": "Wooden Wall",
+        "name": "Parede de Madeira"
+    },
+    "rct2.scenery_wall.wallst8": {
+        "reference-name": "Steel Wall",
+        "name": "Parede de Aço"
+    },
+    "rct2.scenery_wall.wallbb8": {
+        "reference-name": "Wall",
+        "name": "Parede"
+    },
+    "rct2.scenery_wall.wallig16": {
+        "reference-name": "Igloo Wall",
+        "name": "Parede de Iglu"
+    },
+    "rct2.scenery_wall.wallcf16": {
+        "reference-name": "Wall",
+        "name": "Parede"
+    },
+    "rct2.scenery_wall.wallst32": {
+        "reference-name": "Steel Wall",
+        "name": "Parede de Aço"
+    },
+    "rct2.scenery_wall.wbr1a": {
+        "reference-name": "Brick Wall",
+        "name": "Parede de Tijolo"
+    },
+    "rct2.scenery_wall.wallst16": {
+        "reference-name": "Steel Wall",
+        "name": "Parede de Aço"
+    },
+    "rct2.scenery_wall.wallwd16": {
+        "reference-name": "Wooden Wall",
+        "name": "Parede de Madeira"
+    },
+    "rct2.scenery_wall.wallbr8": {
         "reference-name": "Wall",
         "name": "Parede"
     },
@@ -6948,8 +6964,8 @@
         "name": "Barcos Pato-mandarim",
         "reference-description": "Duck-shaped boats, propelled by the pedalling front seat passengers",
         "description": "Barcos em forma de pato, movidos pelo pedalar dos passageiros da frente",
-        "reference-capacity": "4 passengers per boat",
-        "capacity": "4 passageiros por barco"
+        "reference-capacity": "2 passengers per boat",
+        "capacity": "2 passageiros por barco"
     },
     "rct2ww.ride.crocflum": {
         "reference-name": "Crocodile Boats",
@@ -7128,7 +7144,7 @@
         "capacity": "4 passageiros por vagão"
     },
     "rct2ww.ride.dragdodg": {
-        "reference-name": "Chinese Dragonhead Ride",
+        "reference-name": "Chinese Dragonhead Dodgems",
         "name": "Bate-bate Cabeça de Dragão Chinesa",
         "reference-description": "Guests battle each other in dragonhead-shaped dodgems",
         "description": "Passageiros lutam uns com os outros em carros bate-bate elétricos pilotáveis em formato de cabeça de dragão",
