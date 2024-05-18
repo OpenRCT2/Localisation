@@ -17,35 +17,35 @@
     },
     "openrct2.ride.alpine_coaster": {
         "reference-name": "Alpine Coaster Cars",
-        "name": "Alpine Coaster Cars",
+        "name": "Alppivuoristoradan vaunut",
         "reference-description": "Wheeled sleds equipped with manually operated brakes",
-        "description": "Wheeled sleds equipped with manually operated brakes",
+        "description": "Renkailla kulkevat reet, joissa on käsikäyttöiset jarrut",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 matkustajaa per vaunu"
     },
     "openrct2.ride.single_rail_coaster": {
         "reference-name": "Single Rail Roller Coaster Trains",
-        "name": "Single Rail Roller Coaster Trains",
+        "name": "Yksikiskoisen vuoristoradan vaunut",
         "reference-description": "Roller coaster trains in which riders are seated single file",
-        "description": "Roller coaster trains in which riders are seated single file",
+        "description": "Vuoristoratavaunut, joissa matkustajat istuvat jonossa",
         "reference-capacity": "1 passenger per car",
-        "capacity": "1 passenger per car"
+        "capacity": "1 matkustaja per vaunu"
     },
     "openrct2.ride.hybrid_coaster": {
         "reference-name": "Hybrid Coaster Trains",
-        "name": "Hybrid Coaster Trains",
+        "name": "Hybridivuoristoradan vaunut",
         "reference-description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
-        "description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
+        "description": "Vuoristoratavaunut, joissa on syliturvakaiteet, pystyen jyrkkiin pudotuksiin ja käänteisiin",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 matkustajaa per vaunu"
     },
     "openrct2.footpath_surface.queue_invisible": {
         "reference-name": "Invisible Queue",
-        "name": "Invisible Queue"
+        "name": "Näkymätön jonotusalue"
     },
     "openrct2.footpath_surface.invisible": {
         "reference-name": "Invisible Footpath",
-        "name": "Invisible Footpath"
+        "name": "Näkymätön polku"
     },
     "rct2dlc.scenery_group.scgpanda": {
         "reference-name": "Panda Theming",
@@ -53,7 +53,7 @@
     },
     "openrct2.footpath_railings.invisible": {
         "reference-name": "Invisible Railings",
-        "name": "Invisible Railings"
+        "name": "Näkymättömät kaiteet"
     },
     "official.scenery_wall.post_flipped": {
         "reference-name": "Post",
@@ -81,11 +81,11 @@
     },
     "openrct2.terrain_surface.void": {
         "reference-name": "Void",
-        "name": "Void"
+        "name": "Tyhjä"
     },
     "rct1beta.terrain_surface.wildflowers": {
         "reference-name": "Wildflowers",
-        "name": "Wildflowers"
+        "name": "Villikukkia"
     },
     "rct2dlc.footpath_item.litterpa": {
         "reference-name": "Panda Litter Bin",
@@ -193,15 +193,15 @@
     },
     "official.terrain_edge.void": {
         "reference-name": "Void",
-        "name": "Void"
+        "name": "Tyhjä"
     },
     "rct1beta.terrain_edge.rock": {
         "reference-name": "Rock (Brown)",
-        "name": "Rock (Brown)"
+        "name": "Kivi (ruskea)"
     },
     "rct1beta.terrain_edge.brick": {
         "reference-name": "Brick (Brown)",
-        "name": "Brick (Brown)"
+        "name": "Tiilet (ruskea)"
     },
     "rct2dlc.water.wtrpink": {
         "reference-name": "Pink Water",
@@ -287,7 +287,7 @@
     },
     "rct2tt.ride.cyclopsx": {
         "reference-name": "Cyclops Dodgems",
-        "name": "Kyklooppi-törmäysautot",
+        "name": "Kyklooppi-törmäilyautot",
         "reference-description": "Riders drive the Eye of a Giant Cyclops",
         "description": "Kävijät ajavat jättiläiskykloopin silmän muotoisissa ajoneuvoissa",
         "reference-capacity": "1 person per car",
@@ -333,7 +333,7 @@
     },
     "rct2tt.ride.tricatop": {
         "reference-name": "Triceratops Dodgems",
-        "name": "Triceratops-törmäysautot",
+        "name": "Triceratops-törmäilyautot",
         "reference-description": "Riders lock horns with each other in triceratops dodgems",
         "description": "Kävijät käyvät taistelua triceratops-törmäysautoissa",
         "reference-capacity": "1 person per car",
@@ -587,7 +587,7 @@
     },
     "rct2tt.ride.figtknit": {
         "reference-name": "Fighting Knights Dodgems",
-        "name": "Taistelevat ritaritörmäysautot",
+        "name": "Taistelevat ritaritörmäilyautot",
         "reference-description": "Riders joust on horse-themed dodgems",
         "description": "Matkustajat turnaavat hevosteemaisissa törmäysautoissa",
         "reference-capacity": "1 person per car",
@@ -641,39 +641,39 @@
     },
     "rct2tt.footpath_surface.pavement": {
         "reference-name": "Pavement",
-        "name": "Pavement"
+        "name": "Laatoitettu polku"
     },
     "rct2tt.footpath_surface.queue_pavement": {
         "reference-name": "Pavement Queue",
-        "name": "Pavement Queue"
+        "name": "Laatoitettu jonotusalue"
     },
     "rct2tt.footpath_surface.queue_rainbow": {
         "reference-name": "Rainbow Queue",
-        "name": "Rainbow Queue"
+        "name": "Sateenkaari-jonotusalue"
     },
     "rct2tt.footpath_surface.rocky": {
         "reference-name": "Rocky Footpath",
-        "name": "Rocky Footpath"
+        "name": "Kivinen polku"
     },
     "rct2tt.footpath_surface.rainbow": {
         "reference-name": "Rainbow Footpath",
-        "name": "Rainbow Footpath"
+        "name": "Sateenkaaripolku"
     },
     "rct2tt.footpath_surface.medieval": {
         "reference-name": "Wooden Footpath",
-        "name": "Wooden Footpath"
+        "name": "Puinen polku"
     },
     "rct2tt.footpath_surface.queue_circuitboard": {
         "reference-name": "Circuit Queue",
-        "name": "Circuit Queue"
+        "name": "Virtapiiri-jonotusalue"
     },
     "rct2tt.footpath_surface.circuitboard": {
         "reference-name": "Circuit Footpath",
-        "name": "Circuit Footpath"
+        "name": "Virtapiiripolku"
     },
     "rct2tt.footpath_surface.mosaic": {
         "reference-name": "Mosaic Footpath",
-        "name": "Mosaic Footpath"
+        "name": "Mosaiikkipolku"
     },
     "rct2tt.park_entrance.1920sent": {
         "reference-name": "Roaring Twenties Park Entrance",
@@ -733,15 +733,15 @@
     },
     "rct2tt.footpath_railings.rocky": {
         "reference-name": "Jungle Railings",
-        "name": "Jungle Railings"
+        "name": "Viidakkokaiteet"
     },
     "rct2tt.footpath_railings.rainbow": {
         "reference-name": "Rainbow Railings",
-        "name": "Rainbow Railings"
+        "name": "Sateenkaarikaiteet"
     },
     "rct2tt.footpath_railings.pavement": {
         "reference-name": "Iron Railings",
-        "name": "Iron Railings"
+        "name": "Rautakaiteet"
     },
     "rct2tt.footpath_railings.balustrade": {
         "reference-name": "Balustrade",
@@ -749,11 +749,11 @@
     },
     "rct2tt.footpath_railings.circuitboard": {
         "reference-name": "Circuit Board Railings",
-        "name": "Circuit Board Railings"
+        "name": "Virtapiirikaiteet"
     },
     "rct2tt.footpath_railings.medieval": {
         "reference-name": "Medieval Railings",
-        "name": "Medieval Railings"
+        "name": "Keskiaikaiset kaiteet"
     },
     "rct2tt.scenery_wall.jailxx19": {
         "reference-name": "Prison Fence",
@@ -3495,7 +3495,7 @@
         "reference-name": "Jet Skis",
         "name": "Vesiskootterit",
         "reference-description": "Single-seater jet skis which riders can drive themselves",
-        "description": "Yksipaikkaiset vesiskootterit, joita kävijät voivat itse ohjata",
+        "description": "Yksipaikkaiset vesiskootterit, joita matkustajat voivat itse ohjata",
         "reference-capacity": "1 rider per vehicle",
         "capacity": "1 matkustaja per ajoneuvo"
     },
@@ -3789,7 +3789,7 @@
     },
     "rct2.ride.dodg1": {
         "reference-name": "Dodgems",
-        "name": "Törmäysautot",
+        "name": "Törmäilyautot",
         "reference-description": "Riders bump into each other in self-drive electric dodgems",
         "description": "Kävijät törmäävät toisiinsa ajamissaan sähköautoissa",
         "reference-capacity": "1 person per car",
@@ -4113,7 +4113,7 @@
         "reference-name": "Dinghies",
         "name": "Puhallettavat veneet",
         "reference-description": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
-        "description": "Matkjustajat liukuvat puhallettavissa veneissä alas puolikuun tai umpinaisen putken muotoista rataa",
+        "description": "Matkustajat liukuvat puhallettavissa veneissä alas puolikuun tai umpinaisen putken muotoista rataa",
         "reference-capacity": "2 passengers per dinghy",
         "capacity": "2 matkustajaa per vene"
     },
@@ -4161,7 +4161,7 @@
     },
     "rct2.audio.title": {
         "reference-name": "Title screen music for RollerCoaster Tycoon 2.",
-        "name": "Title screen music for RollerCoaster Tycoon 2."
+        "name": "RollerCoaster Tycoon 2:n valikkomusiikki."
     },
     "rct2.audio.circus": {
         "reference-name": "Ambient sound effects for the Circus attraction.",
@@ -4169,11 +4169,11 @@
     },
     "rct2.footpath_surface.queue_red": {
         "reference-name": "Red Queue (Stairs)",
-        "name": "Red Queue (Stairs)"
+        "name": "Punainen jonotusalue (portailla)"
     },
     "rct2.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Rounded)",
-        "name": "Ash Footpath (Rounded)"
+        "name": "Tuhkapolku (pyöristetty)"
     },
     "rct2.footpath_surface.road": {
         "reference-name": "Road",
@@ -4181,35 +4181,35 @@
     },
     "rct2.footpath_surface.queue_blue": {
         "reference-name": "Blue Queue (Stairs)",
-        "name": "Blue Queue (Stairs)"
+        "name": "Sininen jonotusalue (portailla)"
     },
     "rct2.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Rounded)",
-        "name": "Dirt Footpath (Rounded)"
+        "name": "Hiekkapolku (pyöristetty)"
     },
     "rct2.footpath_surface.tarmac_red": {
         "reference-name": "Red Tarmac Footpath (Stairs)",
-        "name": "Red Tarmac Footpath (Stairs)"
+        "name": "Punainen asfalttipolku (portailla)"
     },
     "rct2.footpath_surface.tarmac": {
         "reference-name": "Tarmac Footpath (Stairs)",
-        "name": "Tarmac Footpath (Stairs)"
+        "name": "Asfalttipolku (portailla)"
     },
     "rct2.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Stairs)",
-        "name": "Crazy Paving Footpath (Stairs)"
+        "name": "Hulluttelupolku (portailla)"
     },
     "rct2.footpath_surface.queue_yellow": {
         "reference-name": "Yellow Queue (Stairs)",
-        "name": "Yellow Queue (Stairs)"
+        "name": "Keltainen jonotusalue (portailla)"
     },
     "rct2.footpath_surface.queue_green": {
         "reference-name": "Dark Green Queue",
-        "name": "Dark Green Queue"
+        "name": "Tummanvihreä jonotusalue"
     },
     "rct2.footpath_surface.tarmac_brown": {
         "reference-name": "Brown Tarmac Footpath (Stairs)",
-        "name": "Brown Tarmac Footpath (Stairs)"
+        "name": "Brown Tarmac Footpath (portailla)"
     },
     "rct2.footpath_surface.tarmac_green": {
         "reference-name": "Dark Green Tarmac Footpath",
@@ -4381,27 +4381,27 @@
     },
     "rct2.footpath_railings.concrete_green": {
         "reference-name": "Concrete Railings (Dark Green)",
-        "name": "Concrete Railings (Dark Green)"
+        "name": "Betonikaiteet (tummanvihreä)"
     },
     "rct2.footpath_railings.concrete": {
         "reference-name": "Concrete Railings (Grey-Brown)",
-        "name": "Concrete Railings (Grey-Brown)"
+        "name": "Betonikaiteet (harmaaruskea)"
     },
     "rct2.footpath_railings.bamboo_black": {
         "reference-name": "Bamboo Railings (Black)",
-        "name": "Bamboo Railings (Black)"
+        "name": "Bambukaiteet (musta)"
     },
     "rct2.footpath_railings.bamboo_brown": {
         "reference-name": "Bamboo Railings (Brown)",
-        "name": "Bamboo Railings (Brown)"
+        "name": "Bambukaiteet (ruskea)"
     },
     "rct2.footpath_railings.space": {
         "reference-name": "Space Style Railings (Red)",
-        "name": "Space Style Railings (Red)"
+        "name": "Avaruustyyliset kaiteet (punainen)"
     },
     "rct2.footpath_railings.wood": {
         "reference-name": "Wooden Railings",
-        "name": "Wooden Railings"
+        "name": "Puiset kaiteet"
     },
     "rct2.scenery_wall.wfw1": {
         "reference-name": "Wooden Fence",
@@ -9729,35 +9729,35 @@
     },
     "rct1.ride.mine_trains": {
         "reference-name": "Mine Trains",
-        "name": "Mine Trains",
+        "name": "Kaivosjunat",
         "reference-description": "Mine train-themed roller coaster trains",
-        "description": "Mine train-themed roller coaster trains",
+        "description": "Kaivosjunan näköisiksi teematut vuoristoratavaunut",
         "reference-capacity": "2 or 4 passengers per car",
-        "capacity": "2 or 4 passengers per car"
+        "capacity": "2 tai 4 matkustajaa per vaunu"
     },
     "rct1.ride.bobsleigh_trains": {
         "reference-name": "Bobsleigh Trains",
-        "name": "Bobsleigh Trains",
+        "name": "Rattikelkkavaunut",
         "reference-description": "Trains consisting of 2-seater cars where the riders are behind each other",
-        "description": "Trains consisting of 2-seater cars where the riders are behind each other",
+        "description": "Vaunut, jossa kaksi matkustajaa istuu peräkkäin",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 matkustajaa per vaunu"
     },
     "rct1.ride.logs": {
         "reference-name": "Logs",
-        "name": "Logs",
+        "name": "Tukit",
         "reference-description": "Log-shaped boats built for running in water channels",
-        "description": "Log-shaped boats built for running in water channels",
+        "description": "Tukinmuotoiset veneet, jotka on tehty vesikanavissa matkustusta varten",
         "reference-capacity": "4 passengers per boat",
-        "capacity": "4 passengers per boat"
+        "capacity": "4 matkustajaa per vene"
     },
     "rct1.ride.racing_cars": {
         "reference-name": "Racing Cars",
-        "name": "Racing Cars",
+        "name": "Kilpa-autot",
         "reference-description": "Powered vehicles in the shape of racing cars",
-        "description": "Powered vehicles in the shape of racing cars",
+        "description": "Kilpa-auton muotoiset moottoroidut ajoneuvot",
         "reference-capacity": "1 passenger per car",
-        "capacity": "1 passenger per car"
+        "capacity": "1 matkustaja per vaunu"
     },
     "rct1.ride.horses": {
         "reference-name": "Horses",
@@ -9769,99 +9769,99 @@
     },
     "rct1.ride.vertical_drop_trains": {
         "reference-name": "Six-seater Twister Trains",
-        "name": "Six-seater Twister Trains",
+        "name": "Kuusipaikkaiset kiehkuravaunut",
         "reference-description": "Roller coaster trains with extra-wide cars, built for vertical drops",
-        "description": "Roller coaster trains with extra-wide cars, built for vertical drops",
+        "description": "Ekstraleveät pystysuoriin pudotuksiin suunnitellut vuoristoratavaunut",
         "reference-capacity": "6 passengers per car",
-        "capacity": "6 passengers per car"
+        "capacity": "6 matkustajaa per vaunu"
     },
     "rct1aa.ride.suspended_monorail_trains": {
         "reference-name": "Suspended Monorail Trains",
-        "name": "Suspended Monorail Trains",
+        "name": "Riippuvat kohoratavaunut",
         "reference-description": "Large capacity monorail train cars",
-        "description": "Large capacity monorail train cars",
+        "description": "Suuren kapasiteetin kohoratavaunut",
         "reference-capacity": "8 passengers per car",
-        "capacity": "8 passengers per car"
+        "capacity": "8 matkustajaa per vaunu"
     },
     "rct1.ride.cat_cars": {
         "reference-name": "Cheshire Cats",
-        "name": "Cheshire Cats",
+        "name": "Irvikissat",
         "reference-description": "Powered cat-shaped vehicles",
-        "description": "Powered cat-shaped vehicles",
+        "description": "Moottoroidut kissanmuotoiset ajoneuvot",
         "reference-capacity": "2 passengers per cat",
-        "capacity": "2 passengers per cat"
+        "capacity": "2 matkustajaa per kissa"
     },
     "rct1aa.ride.vintage_cars": {
         "reference-name": "Vintage Cars",
-        "name": "Vintage Cars",
+        "name": "Vintage-autot",
         "reference-description": "Powered vehicles in the shape of vintage cars",
-        "description": "Powered vehicles in the shape of vintage cars",
+        "description": "Moottoroidut vintage-autojen muotoiset ajoneuvot",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 matkustajaa per auto"
     },
     "rct1.ride.swinging_lay_down_cars": {
         "reference-name": "Lay-down Cars",
-        "name": "Lay-down Cars",
+        "name": "Makuuvaunut",
         "reference-description": "Small suspended cars in which the passengers ride face-down in a lying position, swinging freely from side to side",
-        "description": "Small suspended cars in which the passengers ride face-down in a lying position, swinging freely from side to side",
+        "description": "Pienet riippuvat vaunut, joissa matkustajat kulkevat makuuasennossa vatsallaan, vapaasti heilahtaen käänteissä",
         "reference-capacity": "1 passenger per car",
-        "capacity": "1 passenger per car"
+        "capacity": "1 matkustaja per vaunu"
     },
     "rct1.ride.dinghies": {
         "reference-name": "Dinghies",
-        "name": "Dinghies",
+        "name": "Puhallettavat veneet",
         "reference-description": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
-        "description": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
+        "description": "Matkustajat liukuvat puhallettavissa veneissä alas puolikuun tai umpinaisen putken muotoista rataa",
         "reference-capacity": "2 passengers per dinghy",
-        "capacity": "2 passengers per dinghy"
+        "capacity": "2 matkustajaa per vene"
     },
     "rct1.ride.single_person_swinging_cars": {
         "reference-name": "Single-Person Swinging Cars",
-        "name": "Single-Person Swinging Cars",
+        "name": "Henkilökohtaiset keinuvat vaunut",
         "reference-description": "Single-seater cars which hang from the rail above, and are free to swing from side to side",
-        "description": "Single-seater cars which hang from the rail above, and are free to swing from side to side",
+        "description": "Yhden henkilön vaunut, jotka keinuvat vapaasti kiskon alla",
         "reference-capacity": "1 passenger per car",
         "capacity": "1 matkustaja per vaunu"
     },
     "rct1.ride.suspended_swinging_cars": {
         "reference-name": "Suspended Swinging Cars",
-        "name": "Suspended Swinging Cars",
+        "name": "Riippuvat keinuvaunut",
         "reference-description": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
-        "description": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
+        "description": "Vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 matkustajaa per vaunu"
     },
     "rct1.ride.streamlined_monorail_trains": {
         "reference-name": "Streamlined Monorail Trains",
-        "name": "Streamlined Monorail Trains",
+        "name": "Virtaviivaiset kohoratavaunut",
         "reference-description": "Large capacity monorail trains with streamlined front and rear cars",
-        "description": "Large capacity monorail trains with streamlined front and rear cars",
+        "description": "Suuren kapasiteetin kohoratajunat, joissa on virtaviivaiset etu- ja takavaunut",
         "reference-capacity": "5 or 10 passengers per car",
-        "capacity": "5 or 10 passengers per car"
+        "capacity": "5 tai 10 matkustajaa per vaunu"
     },
     "rct1.ride.corkscrew_trains": {
         "reference-name": "Corkscrew Roller Coaster Trains",
-        "name": "Corkscrew Roller Coaster Trains",
+        "name": "Korkkiruuvivuoristoratavaunut",
         "reference-description": "Roller coaster trains with shoulder restraints",
-        "description": "Roller coaster trains with shoulder restraints",
+        "description": "Vuoristoratavaunut, joissa on olkaturvakaiteet",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 matkustajaa per vaunu"
     },
     "rct1aa.ride.virginia_reel_tubs": {
         "reference-name": "Virginia Reel Tubs",
-        "name": "Virginia Reel Tubs",
+        "name": "Virginia-kehrävaunut",
         "reference-description": "Circular cars that spin around as they travel along the track",
-        "description": "Circular cars that spin around as they travel along the track",
+        "description": "Pyöreät vaunut, jotka pyörivät rataa kulkiessaan",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 matkustajaa per vaunu"
     },
     "rct1.ride.reverse_freefall_car": {
         "reference-name": "Reverse Freefall Car",
-        "name": "Reverse Freefall Car",
+        "name": "Käänteisen vapaapudotusradan vaunu",
         "reference-description": "Large coaster car for the Reverse Freefall Coaster",
-        "description": "Large coaster car for the Reverse Freefall Coaster",
+        "description": "Suuri käänteisen vapaapudotusradan vaunu",
         "reference-capacity": "8 passengers",
-        "capacity": "8 passengers"
+        "capacity": "8 matkustajaa"
     },
     "rct1aa.ride.stand_up_twister_trains": {
         "reference-name": "Stand-up Twister Trains",
@@ -9873,19 +9873,19 @@
     },
     "rct1.ride.steam_trains": {
         "reference-name": "Steam Trains",
-        "name": "Steam Trains",
+        "name": "Höyryjunavaunut",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
-        "description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
+        "description": "Pienikokoiset höyryjunat joihin kuuluu höyryveturin jäljitelmä ja hennot puiset vaunut",
         "reference-capacity": "6 passengers per carriage",
-        "capacity": "6 passengers per carriage"
+        "capacity": "6 matkustajaa per vaunu"
     },
     "rct1.ride.pickup_trucks": {
         "reference-name": "Pickup Trucks",
-        "name": "Pickup Trucks",
+        "name": "Lava-autot",
         "reference-description": "Powered vehicles in the shape of pickup trucks",
-        "description": "Powered vehicles in the shape of pickup trucks",
+        "description": "Lava-auton muotoiset moottoroidut ajoneuvot",
         "reference-capacity": "1 passenger per truck",
-        "capacity": "1 passenger per truck"
+        "capacity": "1 matkustaja per auto"
     },
     "rct1aa.ride.hyper_twister_trains": {
         "reference-name": "Hyper-Twister Trains (wide cars)",
@@ -9911,59 +9911,59 @@
     },
     "rct1.ride.motorbikes": {
         "reference-name": "Motorbikes",
-        "name": "Motorbikes",
+        "name": "Moottoripyörät",
         "reference-description": "Single cars shaped like a motorbike",
-        "description": "Single cars shaped like a motorbike",
+        "description": "Yksittäiset moottoripyörän muotoiset vaunut",
         "reference-capacity": "2 riders per bike",
-        "capacity": "2 riders per bike"
+        "capacity": "2 matkustajaa per pyörä"
     },
     "rct1ll.ride.rafts": {
         "reference-name": "Rafts",
-        "name": "Rafts",
+        "name": "Lautat",
         "reference-description": "Raft-shaped boats built for flat river tracks",
-        "description": "Raft-shaped boats built for flat river tracks",
+        "description": "Tasaisille jokiradoille suunnitellut lautan muotoiset veneet",
         "reference-capacity": "4 passengers per raft",
-        "capacity": "4 passengers per raft"
+        "capacity": "4 matkustajaa per lautta"
     },
     "rct1.ride.steel_rc_trains": {
         "reference-name": "Roller Coaster Trains",
-        "name": "Roller Coaster Trains",
+        "name": "Vuoristoratavaunut",
         "reference-description": "Roller coaster train with a streamlined front car.",
-        "description": "Roller coaster train with a streamlined front car.",
+        "description": "Vuoristoratajuna, jossa on virtaviivainen etuvaunu",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 matkustajaa per vaunu"
     },
     "rct1.ride.rocket_cars": {
         "reference-name": "Rocket Cars",
-        "name": "Rocket Cars",
+        "name": "Rakettivaunut",
         "reference-description": "Roller coaster cars themed to look like rockets",
-        "description": "Roller coaster cars themed to look like rockets",
+        "description": "Raketin näköisiksi teematut vuoristoratavaunut",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 matkustajaa per vaunu"
     },
     "rct1aa.ride.mini_helicopters": {
         "reference-name": "Mini Helicopters",
-        "name": "Mini Helicopters",
+        "name": "Minihelikopterit",
         "reference-description": "Powered helicopter-shaped cars, controlled by the pedalling of the riders",
-        "description": "Powered helicopter-shaped cars, controlled by the pedalling of the riders",
+        "description": "Moottoroidut helikopterin muotoiset vaunut kulkevat teräsradalla, liikkuen matkustajien polkiessa",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 matkustajaa per vaunu"
     },
     "rct1aa.ride.steel_wild_mouse_cars": {
         "reference-name": "Mouse Cars",
-        "name": "Mouse Cars",
+        "name": "Hiirivaunut",
         "reference-description": "Individual cars shaped like mice",
-        "description": "Individual cars shaped like mice",
+        "description": "Yksittäiset hiiren muotoiset vaunut",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 matkustajaa per vaunu"
     },
     "rct1aa.ride.flying_saucers": {
         "reference-name": "Flying Saucers",
-        "name": "Flying Saucers",
+        "name": "Lentävät lautaset",
         "reference-description": "Guests ride in saucer-shaped hovercraft vehicles that they freely control",
-        "description": "Guests ride in saucer-shaped hovercraft vehicles that they freely control",
+        "description": "Matkustajat kulkevat itse ajamissaan ilmatyynyaluksissa",
         "reference-capacity": "1 person per car",
-        "capacity": "1 person per car"
+        "capacity": "1 matkustaja per ajoneuvo"
     },
     "rct1.ride.sports_cars": {
         "reference-name": "Sports Cars",
@@ -9975,11 +9975,11 @@
     },
     "rct1.ride.dodgems": {
         "reference-name": "Dodgems",
-        "name": "Dodgems",
+        "name": "Törmäilyautot",
         "reference-description": "Riders bump into each other in self-drive electric dodgems",
-        "description": "Riders bump into each other in self-drive electric dodgems",
+        "description": "Kävijät törmäävät toisiinsa ajamissaan sähköautoissa",
         "reference-capacity": "1 person per car",
-        "capacity": "1 person per car"
+        "capacity": "1 matkustaja per auto"
     },
     "rct1.ride.fruity_ices_stall": {
         "reference-name": "Fruity Ices Stall",
@@ -9989,83 +9989,83 @@
     },
     "rct1ll.ride.4_across_inverted_trains": {
         "reference-name": "4-across Inverted Roller Coaster Trains",
-        "name": "4-across Inverted Roller Coaster Trains",
+        "name": "Nelipaikkaiset käänteisvuoristoradan vaunut",
         "reference-description": "Suspended trains in which riders sit in rows",
-        "description": "Suspended trains in which riders sit in rows",
+        "description": "Riippuvat vaunut joissa matkustajat istuvat riveittäin",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 matkustajaa per vaunu"
     },
     "rct1aa.ride.heartline_twister_cars": {
         "reference-name": "Twister Cars",
-        "name": "Twister Cars",
+        "name": "Kierrevaunut",
         "reference-description": "Roller coaster cars capable of heartline twists",
-        "description": "Roller coaster cars capable of heartline twists",
+        "description": "Sivuttaisvierityksiin kykenevät vuoristoratavaunut",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 matkustajaa per vaunu"
     },
     "rct1.ride.ladybird_trains": {
         "reference-name": "Ladybird Trains",
-        "name": "Ladybird Trains",
+        "name": "Leppäkerttuvaunut",
         "reference-description": "Roller coaster trains with small ladybird-shaped cars",
-        "description": "Roller coaster trains with small ladybird-shaped cars",
+        "description": "Pienet leppäkertun muotoiset vuoristoratavaunut",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 matkustajaa per vaunu"
     },
     "rct1aa.ride.ski_lift_cars": {
         "reference-name": "Ski-lift Chairs",
-        "name": "Ski-lift Chairs",
+        "name": "Hiihtohissivaunut",
         "reference-description": "Open cars for chairlift",
-        "description": "Open cars for chairlift",
+        "description": "Avoilmavaunut tuolihissiin",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 matkustajaa per vaunu"
     },
     "rct1aa.ride.side_friction_cars": {
         "reference-name": "Wooden Side-Friction Cars",
-        "name": "Wooden Side-Friction Cars",
+        "name": "Puiset sivukitkavaunut",
         "reference-description": "Basic cars for the Side-Friction Roller Coaster",
-        "description": "Basic cars for the Side-Friction Roller Coaster",
+        "description": "Sivukitkavuoristoradan perusvaunut",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 matkustajaa per vaunu"
     },
     "rct1.ride.suspended_swinging_aeroplane_cars": {
         "reference-name": "Suspended Swinging Aeroplane Cars",
-        "name": "Suspended Swinging Aeroplane Cars",
+        "name": "Riippuvat lentokone-keinuvaunut",
         "reference-description": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
-        "description": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
+        "description": "Lentokoneen muotoiset vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 matkustajaa per vaunu"
     },
     "rct1.ride.chairlift_cars": {
         "reference-name": "Chairlift Cars",
-        "name": "Chairlift Cars",
+        "name": "Tuolihissivaunut",
         "reference-description": "Open cars for chairlift",
-        "description": "Open cars for chairlift",
+        "description": "Avoilmavaunut tuolihissiin",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 matkustajaa per vaunu"
     },
     "rct1.ride.wooden_rc_trains": {
         "reference-name": "Wooden Roller Coaster Trains",
-        "name": "Wooden Roller Coaster Trains",
+        "name": "Puisen vuoristoradan vaunut",
         "reference-description": "Wooden roller coaster trains with padded seats and lap bar restraints",
-        "description": "Wooden roller coaster trains with padded seats and lap bar restraints",
+        "description": "Puisen vuoristoradan vaunut, joissa on pehmustetut istuimet ja turvakaiteet",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 matkustajaa per vaunu"
     },
     "rct1ll.ride.jet_skis": {
         "reference-name": "Jet Skis",
-        "name": "Jet Skis",
+        "name": "Vesiskootterit",
         "reference-description": "Single-seater jet skis which riders can drive themselves",
-        "description": "Single-seater jet skis which riders can drive themselves",
+        "description": "Yksipaikkaiset vesiskootterit, joita matkustajat voivat itse ohjata",
         "reference-capacity": "1 rider per vehicle",
-        "capacity": "1 rider per vehicle"
+        "capacity": "1 matkustaja per ajoneuvo"
     },
     "rct1aa.ride.bicycles": {
         "reference-name": "Bicycles",
-        "name": "Bicycles",
+        "name": "Polkupyörät",
         "reference-description": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
-        "description": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
+        "description": "Matkustajat itse polkevat näitä erikoisvalmisteisia polkupyöriä yksittäistä teräsrataa pitkin",
         "reference-capacity": "1 rider per bicycle",
-        "capacity": "1 rider per bicycle"
+        "capacity": "1 matkustaja per polkupyörä"
     },
     "rct1ll.ride.steam_trains_american": {
         "reference-name": "American Style Steam Trains",
@@ -10073,103 +10073,103 @@
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
         "description": "Pienikokoiset höyryjunat joihin kuuluu höyryveturin jäljitelmä ja hennot puiset vaunut kangaskatoilla",
         "reference-capacity": "6 passengers per carriage",
-        "capacity": "6 passengers per carriage"
+        "capacity": "6 matkustajaa per vaunu"
     },
     "rct1.ride.wooden_rc_trains_reversed": {
         "reference-name": "Wooden Roller Coaster Trains (Reversed)",
-        "name": "Wooden Roller Coaster Trains (Reversed)",
+        "name": "Puisen vuoristoradan vaunut (takaperin)",
         "reference-description": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
-        "description": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
+        "description": "Puisen vuoristoradan vaunut, mutta takaperin ajettuna niin, että matkustajat istuvat selkä menosuuntaan päin",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 matkustajaa per vaunu"
     },
     "rct1.ride.go_karts": {
         "reference-name": "Go-Karts (with helmets)",
-        "name": "Go-Karts (with helmets)",
+        "name": "Mikroautot (kypärien kerä)",
         "reference-description": "Self-driven petrol-engined go-karts that come with safety helmets",
-        "description": "Self-driven petrol-engined go-karts that come with safety helmets",
+        "description": "Itse ajettavat bensakäyttöiset mikroautot, joiden mukana tulee turvakypärä",
         "reference-capacity": "single-seater",
-        "capacity": "single-seater"
+        "capacity": "Yksipaikkainen"
     },
     "rct1.ride.inverted_trains": {
         "reference-name": "Inverted Coaster Trains",
-        "name": "Inverted Coaster Trains",
+        "name": "Käänteisvuoristoradan vaunut",
         "reference-description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
-        "description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
+        "description": "Käänteinen vuoristoratavaunu, jossa istuimet roikkuvat pareittain radan alapuolella.",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 matkustajaa per vaunu"
     },
     "rct1ll.ride.face_off_cars": {
         "reference-name": "Face-off Cars",
-        "name": "Face-off Cars",
+        "name": "Vastakkaisvaunut",
         "reference-description": "Riders sit in pairs facing either forwards or backwards as they loop and twist through tight inversions",
-        "description": "Riders sit in pairs facing either forwards or backwards as they loop and twist through tight inversions",
+        "description": "Matkustajat istuvat pareittain joko kasvot tai selkä menosuuntaan, poukkoillen ja kierrellen tiukkojen käänteiden läpi",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 matkustajaa per vaunu"
     },
     "rct1.ride.small_monorail_cars": {
         "reference-name": "Small Monorail Cars",
-        "name": "Small Monorail Cars",
+        "name": "Pienet kohoratavaunut",
         "reference-description": "Small monorail cars with open sides",
-        "description": "Small monorail cars with open sides",
+        "description": "Pienet kohoratavaunut joissa on avonaiset sivustat",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 matkustajaa per vaunu"
     },
     "rct1ll.ride.coaster_boats": {
         "reference-name": "Coaster Boats",
-        "name": "Coaster Boats",
+        "name": "Vuoristorataveneet",
         "reference-description": "Boat-shaped roller coaster cars",
-        "description": "Boat-shaped roller coaster cars",
+        "description": "Veneen muotoiset vuoristoratavaunut",
         "reference-capacity": "6 passengers per boat",
-        "capacity": "6 passengers per boat"
+        "capacity": "6 matkustajaa per vene"
     },
     "rct1.ride.log_trains": {
         "reference-name": "Log Trains",
-        "name": "Log Trains",
+        "name": "Tukkivaunut",
         "reference-description": "Roller coaster trains with small log-shaped cars",
-        "description": "Roller coaster trains with small log-shaped cars",
+        "description": "Pienet tukin muotoiset vuoristoratavaunut",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 matkustajaa per vaunu"
     },
     "rct1aa.ride.ghost_train_cars": {
         "reference-name": "Ghost Train Cars",
-        "name": "Ghost Train Cars",
+        "name": "Kummitusjunavaunut",
         "reference-description": "Powered monster-shaped cars that run on a ghost train track",
-        "description": "Powered monster-shaped cars that run on a ghost train track",
+        "description": "Moottoroidut monsterin muotoiset vaunut, jotka kulkevat kummitusjunan radalla",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 matkustajaa per vaunu"
     },
     "rct1aa.ride.splash_boats": {
         "reference-name": "Splash Boats",
-        "name": "Splash Boats",
+        "name": "Roiskeveneet",
         "reference-description": "Large capacity boats, built for water tracks with very steep drops",
-        "description": "Large capacity boats, built for water tracks with very steep drops",
+        "description": "Suuren kapasiteetin veneet, jotka on luoto jyrkkämäkisissä vesikanavissa ajeluun",
         "reference-capacity": "16 passengers per boat",
-        "capacity": "16 passengers per boat"
+        "capacity": "16 matkustajaa per vene"
     },
     "rct1.ride.bumper_boats": {
         "reference-name": "Bumper Boats",
-        "name": "Bumper Boats",
+        "name": "Kumiveneet",
         "reference-description": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
-        "description": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
+        "description": "Pienet pyöreät veneet, joita kuljettaa matkustajien ohjaama moottori",
         "reference-capacity": "2 passengers per boat",
-        "capacity": "2 passengers per boat"
+        "capacity": "2 matkustajaa per vene"
     },
     "rct1ll.ride.air_powered_trains": {
         "reference-name": "Air Powered Vertical Coaster Trains",
-        "name": "Air Powered Vertical Coaster Trains",
+        "name": "Ilmakäyttöisen pystyvuoristoradan vaunut",
         "reference-description": "Air-powered launched roller coaster trains",
-        "description": "Air-powered launched roller coaster trains",
+        "description": "Ilmakäyttöislaukaistut vuoristoradan vaunut",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 matkustajaa per vaunu"
     },
     "rct1ll.ride.inverted_hairpin_cars": {
         "reference-name": "Four-seater Cars",
-        "name": "Four-seater Cars",
+        "name": "Nelipaikkaiset vaunut",
         "reference-description": "Individual roller coaster cars built for tracks with hairpin turns and sharp drops",
-        "description": "Individual roller coaster cars built for tracks with hairpin turns and sharp drops",
+        "description": "Erilliset vuoristoratavaunut, jotka on tarkoitettu tiukkoihin mutkiin ja jyrkkiin mäkiin",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 matkustajaa per vaunu"
     },
     "rct1aa.ride.twister_trains": {
         "reference-name": "Twister Trains",
@@ -10181,139 +10181,139 @@
     },
     "rct1aa.ride.reverser_cars": {
         "reference-name": "Reverser Cars",
-        "name": "Reverser Cars",
+        "name": "Kääntövaunut",
         "reference-description": "Bogied cars capable of turning around on special reversing sections",
-        "description": "Bogied cars capable of turning around on special reversing sections",
+        "description": "Vaunut, jotka kulkevat puisilla kiskoilla, ja kääntyvät ympäri erityisissä kääntöosioissa",
         "reference-capacity": "6 passengers per car",
-        "capacity": "6 passengers per car"
+        "capacity": "6 matkustajaa per vaunu"
     },
     "rct1.ride.river_rapids_boats": {
         "reference-name": "River Rapids Boats",
-        "name": "River Rapids Boats",
+        "name": "Koskiseikkailualukset",
         "reference-description": "Circular boats that turn and splash around as they meander along the river rapids",
-        "description": "Circular boats that turn and splash around as they meander along the river rapids",
+        "description": "Pyöreät alukset, jotka kääntyilevät ja roiskuvat koskea laskiessa",
         "reference-capacity": "8 passengers per boat",
-        "capacity": "8 passengers per boat"
+        "capacity": "8 matkustajaa per alus"
     },
     "rct1.ride.mine_cars": {
         "reference-name": "Mine Cars",
-        "name": "Mine Cars",
+        "name": "Kaivosvaunut",
         "reference-description": "Cars shaped like an old mine cart",
-        "description": "Cars shaped like an old mine cart",
+        "description": "Vanhan kaivoskärryn muotoiset vaunut",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 matkustajaa per vaunu"
     },
     "rct1.ride.steel_rc_trains_reversed": {
         "reference-name": "Roller Coaster Trains (Reversed)",
-        "name": "Roller Coaster Trains (Reversed)",
+        "name": "Vuoristoratavaunut (takaperin)",
         "reference-description": "Roller coaster train running in reverse, so that the passengers face backwards.",
-        "description": "Roller coaster train running in reverse, so that the passengers face backwards.",
+        "description": "Vuoristoradan vaunut takaperin ajettuna niin, että matkustajat istuvat selkä menosuuntaan päin",
         "reference-capacity": "4 riders per car",
         "capacity": "4 matkustajaa per vaunu"
     },
     "rct1aa.ride.steam_trains_covered": {
         "reference-name": "Steam Trains with Covered Cars",
-        "name": "Steam Trains with Covered Cars",
+        "name": "Katetut höyryjunavaunut",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
-        "description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
+        "description": "Pienikokoiset höyryjunat joihin kuuluu höyryveturin jäljitelmä ja hennot puiset vaunut kangaskatoilla",
         "reference-capacity": "6 passengers per carriage",
-        "capacity": "6 passengers per carriage"
+        "capacity": "6 matkustajaa per vaunu"
     },
     "rct1.ride.mouse_cars": {
         "reference-name": "Mouse Cars",
-        "name": "Mouse Cars",
+        "name": "Hiirivaunut",
         "reference-description": "Individual cars shaped like a mouse",
-        "description": "Individual cars shaped like a mouse",
+        "description": "Yksittäiset hiiren muotoiset vaunut",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 matkustajaa per vaunu"
     },
     "rct1ll.ride.hypercoaster_trains": {
         "reference-name": "Hypercoaster Trains",
-        "name": "Hypercoaster Trains",
+        "name": "Hypervuoristoradan vaunut",
         "reference-description": "Comfortable trains with only lap bar restraints",
-        "description": "Comfortable trains with only lap bar restraints",
+        "description": "Mukavat vaunut, joissa on yksinkertaiset turvakaiteet",
         "reference-capacity": "6 passengers per car",
-        "capacity": "6 passengers per car"
+        "capacity": "6 matkustajaa per vaunu"
     },
     "rct1.audio.title": {
         "reference-name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes).",
-        "name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes)."
+        "name": "RollerCoaster Tycoonin valikkomusiikki (Loopy Landscapes)."
     },
     "rct1.footpath_surface.tarmac": {
         "reference-name": "Tarmac Footpath (Sloped)",
-        "name": "Tarmac Footpath (Sloped)"
+        "name": "Asfalttipolku (mäellä)"
     },
     "rct1ll.footpath_surface.tiles_green": {
         "reference-name": "Green and Brown Tiled Footpath",
-        "name": "Green and Brown Tiled Footpath"
+        "name": "Vihreä ja ruskea polku"
     },
     "rct1aa.footpath_surface.tiles_grey": {
         "reference-name": "Grey Tiled Footpath",
-        "name": "Grey Tiled Footpath"
+        "name": "Harmaa polku"
     },
     "rct1aa.footpath_surface.queue_green": {
         "reference-name": "Green Queue",
-        "name": "Green Queue"
+        "name": "Vihreä jonotusalue"
     },
     "rct1.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Sloped)",
-        "name": "Crazy Paving Footpath (Sloped)"
+        "name": "Hulluttelupolku (mäellä)"
     },
     "rct1.footpath_surface.queue_blue": {
         "reference-name": "Blue Queue (Sloped)",
-        "name": "Blue Queue (Sloped)"
+        "name": "Sininen jonotusalue (mäellä)"
     },
     "rct1.footpath_surface.road": {
         "reference-name": "Road",
-        "name": "Road"
+        "name": "Tie"
     },
     "rct1.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Square)",
-        "name": "Dirt Footpath (Square)"
+        "name": "Hiekkapolku (suorakulmainen)"
     },
     "rct1aa.footpath_surface.tarmac_green": {
         "reference-name": "Green Tarmac Footpath",
-        "name": "Green Tarmac Footpath"
+        "name": "Vihreä asfalttipolku"
     },
     "rct1aa.footpath_surface.tarmac_red": {
         "reference-name": "Red Tarmac Footpath (Sloped)",
-        "name": "Red Tarmac Footpath (Sloped)"
+        "name": "Punainen asfalttipolku (mäellä)"
     },
     "rct1ll.footpath_surface.tiles_red": {
         "reference-name": "Red and Brown Tiled Footpath",
-        "name": "Red and Brown Tiled Footpath"
+        "name": "Punainen ja ruskea polku"
     },
     "rct1.footpath_surface.tiles_brown": {
         "reference-name": "Brown Tiled Footpath",
-        "name": "Brown Tiled Footpath"
+        "name": "Ruskea polku"
     },
     "rct1aa.footpath_surface.tarmac_brown": {
         "reference-name": "Brown Tarmac Footpath (Sloped)",
-        "name": "Brown Tarmac Footpath (Sloped)"
+        "name": "Brown Tarmac Footpath (mäellä)"
     },
     "rct1aa.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Square)",
-        "name": "Ash Footpath (Square)"
+        "name": "Tuhkapolku (suorakulmainen)"
     },
     "rct1aa.footpath_surface.queue_red": {
         "reference-name": "Red Queue (Sloped)",
-        "name": "Red Queue (Sloped)"
+        "name": "Punainen jonotusalue (mäellä)"
     },
     "rct1aa.footpath_surface.queue_yellow": {
         "reference-name": "Yellow Queue (Sloped)",
-        "name": "Yellow Queue (Sloped)"
+        "name": "Keltainen jonotusalue (mäellä)"
     },
     "rct1ll.footpath_railings.space": {
         "reference-name": "Space Style Railings (Grey)",
-        "name": "Space Style Railings (Grey)"
+        "name": "Avaruustyyliset kaiteet (harmaa)"
     },
     "rct1ll.footpath_railings.bamboo": {
         "reference-name": "Bamboo Railings (Yellow)",
-        "name": "Bamboo Railings (Yellow)"
+        "name": "Bambukaiteet (keltainen)"
     },
     "rct1ll.scenery_wall.wooden_fence_brown_snow": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Puinen aita"
     },
     "rct1.scenery_wall.roman_column_wall": {
         "reference-name": "Roman Column Wall",
@@ -10325,7 +10325,7 @@
     },
     "rct1.scenery_wall.wooden_fence_red": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Puinen aita"
     },
     "rct1.scenery_wall.playing_card_wall_1": {
         "reference-name": "Playing Card Wall",
@@ -10333,7 +10333,7 @@
     },
     "rct1.scenery_wall.wooden_fence_white": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Puinen aita"
     },
     "rct1aa.scenery_wall.wooden_post_wall_1": {
         "reference-name": "Wooden Post Wall",
@@ -10341,7 +10341,7 @@
     },
     "rct1.scenery_wall.wooden_fence_brown": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Puinen aita"
     },
     "rct1ll.scenery_wall.medieval_wooden_fence": {
         "reference-name": "Wooden Fence",
@@ -10349,7 +10349,7 @@
     },
     "rct1.scenery_wall.wooden_fence_brown_gate": {
         "reference-name": "Wooden Fence",
-        "name": "Wooden Fence"
+        "name": "Puinen aita"
     },
     "rct1.scenery_wall.playing_card_wall_2": {
         "reference-name": "Playing Card Wall",
@@ -10357,7 +10357,7 @@
     },
     "rct1aa.scenery_wall.glass_wall": {
         "reference-name": "Glass Wall",
-        "name": "Glass Wall"
+        "name": "Lasiseinä"
     },
     "rct1ll.terrain_surface.rust": {
         "reference-name": "Rust",
