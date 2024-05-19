@@ -43,7 +43,7 @@ To do this, go to the directory where OpenRCT2 resides (not to be confused with 
 
 | Language                                                                                                                                      | Maintainer |
 |-----------------------------------------------------------------------------------------------------------------------------------------------| ---------- |
-| [![](https://img.shields.io/badge/ar--EG-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ar-EG.txt) | [Omaranwa](https://github.com/Omaranwa)          |
+| [![](https://img.shields.io/badge/ar--EG-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ar-EG.txt) | [OmarAglan](https://github.com/OmarAglan)          |
 | [![](https://img.shields.io/badge/ca--ES-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ca-ES.txt) | [J0anJosep](https://github.com/J0anJosep)          |
 | [![](https://img.shields.io/badge/da--DK-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/da-DK.txt) | [LPSGizmo](https://github.com/LPSGizmo)          |
 | [![](https://img.shields.io/badge/de--DE-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/de-DE.txt) | [Wuzzy2](https://github.com/Wuzzy2), [Gr33ndev](https://github.com/gr33ndev)        |
