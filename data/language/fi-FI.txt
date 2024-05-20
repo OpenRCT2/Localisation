@@ -30,7 +30,7 @@ STR_0025    :Tukkijoki
 STR_0026    :Koskiseikkailu
 STR_0027    :Törmäilyautot
 STR_0028    :Merirosvolaiva
-STR_0029    :Kääntyvä merirosvolaiva
+STR_0029    :Kieppuva merirosvolaiva
 STR_0030    :Ruokakoju
 STR_0031    :Tuntematon koju (1D)
 STR_0032    :Juomakoju
@@ -109,7 +109,7 @@ STR_0517    :Matkustajat kulkevat pienoisjunan kyydissä tällä kapeakiskoisell
 STR_0518    :Matkustajat kulkevat sähköisillä junilla yksittäisellä raiteella
 STR_0519    :Matkustajat kulkevat kiskon alta riippuvissa pienoisvaunuissa, vapaasti heilahtaen käänteissä
 STR_0520    :Laituri, josta kävijät voivat astua aluksiin ja ajaa tai soutaa vesistössä
-STR_0521    :Nopea ja kiemurteleva vuoristorata tiukoilla käännöksillä ja jyrkillä pudotuksilla. Intensiteetti on varmasti katossa.
+STR_0521    :Nopea ja kiemurteleva vuoristorata tiukoilla käännöksillä ja jyrkillä pudotuksilla. Jännitystaso on varmasti katossa.
 STR_0522    :Pienempi vuoristorata, jossa matkustajat kulkevat raiteilla ilman ympäröivää vaunua
 STR_0523    :Matkustajat kulkevat verkkaisesti moottoroiduilla ajoneuvoilla rataa pitkin
 STR_0524    :Pneumaattisesti laukaistu kori kohoaa korkean teräksisen tornin huipulle, ja putoaa sitten vapaasti takaisin maahan
@@ -131,7 +131,7 @@ STR_0539    :Laiva on kiinnitetty puomiin, jonka toisessa päässä on vastapain
 STR_0540    :Koju, josta kävijät voivat ostaa ruokaa
 STR_0542    :Koju, josta kävijät voivat ostaa juomia
 STR_0544    :Koju, joka myy matkamuistoja
-STR_0545    :Vanhanaikainen pyörivä karuselli kaiverrettujen puuhevosien kera
+STR_0545    :Vanhanaikainen pyörivä karuselli puisten hevospatsaiden kera
 STR_0547    :Koju josta kävijät voivat ostaa karttoja ja sateenvarjoja
 STR_0548    :WC-rakennus
 STR_0549    :Iso pyörivä pyörä, jossa on avoilmapenkit
@@ -367,12 +367,12 @@ STR_0973    :OK
 STR_0974    :Laitteet
 STR_0975    :Kojut
 STR_0976    :Vessat ja infokioskit
-STR_0977    :Uusia kulkuvälineitä
-STR_0978    :Uusia lempeitä laitteita
-STR_0979    :Uusia vuoristoratoja
-STR_0980    :Uusia jännittäviä laitteita
-STR_0981    :Uusia vesilaitteita
-STR_0982    :Uusia kojuja
+STR_0977    :Uusi kulkuväline
+STR_0978    :Uusi lempeä laite
+STR_0979    :Uusi vuoristorata
+STR_0980    :Uusi jännittävä laite
+STR_0981    :Uusi vesilaite
+STR_0982    :Uusi koju
 STR_0983    :Kehitys
 STR_0984    :{WINDOW_COLOUR_2}▲{BLACK}  {CURRENCY2DP}
 STR_0985    :{WINDOW_COLOUR_2}▼{BLACK}  {CURRENCY2DP}
@@ -519,7 +519,7 @@ STR_1125    :Käynnissä
 STR_1126    :Pysäytetään
 STR_1127    :Matkustajia puretaan
 STR_1128    :Pysähtynyt lohkojarruihin
-STR_1129    :Kaikki vaunut saman värisiä
+STR_1129    :Kaikki ajoneuvot saman värisiä
 STR_1130    :Eri värit per {STRINGID}
 STR_1131    :Eri värit per vaunu
 STR_1132    :Vaunu {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
@@ -538,11 +538,11 @@ STR_1144    :Ei pysty rakentamaan/siirtämään tämän laitteen/kohteen sisää
 STR_1145    :Ei pysty rakentamaan/siirtämään tämän laitteen/kohteen uloskäyntiä…
 STR_1146    :Sisäänkäyntiä ei ole vielä rakennettu
 STR_1147    :Uloskäyntiä ei ole vielä rakennettu
-STR_1148    :Neljänneslasti
-STR_1149    :Puolikas lasti
-STR_1150    :Kolmen neljännesosan lasti
-STR_1151    :Täysi lasti
-STR_1152    :Mikä tahansa lasti
+STR_1148    :Neljänneslastia
+STR_1149    :Puolikasta lastia
+STR_1150    :Kolmen neljännesosan lastia
+STR_1151    :Täyttä lastia
+STR_1152    :Mitä tahansa lastia
 STR_1153    :Korkeusmerkinnät radoissa
 STR_1154    :Korkeusmerkinnät maanpinnassa
 STR_1155    :Korkeusmerkinnät poluissa
@@ -791,7 +791,7 @@ STR_1395    :Huoltoasetukset
 STR_1396    :Värityylin asetukset
 STR_1397    :Ääni- ja musiikkiasetukset
 STR_1398    :Mitta- ja testitiedot
-STR_1399    :Kaaviot
+STR_1399    :Kuvaajat
 STR_1400    :Sisäänkäynti
 STR_1401    :Uloskäynti
 STR_1402    :Sijoita tai siirrä laitteen/kohteen sisäänkäynti
@@ -824,7 +824,7 @@ STR_1428    :{WINDOW_COLOUR_2}Sisäänpääsymaksu:
 STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :Ilmainen
 STR_1431    :Kävelee
-STR_1432    :Menossa kohti laitetta {STRINGID}
+STR_1432    :Suuntaamassa kohteeseen {STRINGID}
 STR_1433    :Jonottaa laitteeseen {STRINGID}
 STR_1434    :Hukkuu
 STR_1435    :Laitteessa {STRINGID}
@@ -1041,7 +1041,7 @@ STR_1645    :
 STR_1646    :
 STR_1647    :
 STR_1648    :“Apua! Laske minut alas!”
-STR_1649    :“Rahat ovat loppumassa!”
+STR_1649    :“Rahani ovat loppumassa!”
 STR_1650    :“Vau! Uutta laitetta rakennetaan!”
 # Two removed inside jokes about Intamin and Phoenix
 STR_1653    :“…ja tässä me olemme {STRINGID}!”
@@ -1049,10 +1049,10 @@ STR_1654    :{WINDOW_COLOUR_2}Viimeisimmät ajatukset:
 STR_1655    :Rakenna polku maastoon
 STR_1656    :Rakenna polkutunneli tai -silta
 STR_1657    :{WINDOW_COLOUR_2}Suosikkilaite
-STR_1658    :{WINDOW_COLOUR_2}Intensiteetti: {BLACK}enintään {COMMA16}
-STR_1659    :{WINDOW_COLOUR_2}Intensiteetti: {BLACK}{COMMA16}:n ja {COMMA16}:n välillä
-STR_1660    :{WINDOW_COLOUR_2}Intensiteetti: {BLACK}vähintään {COMMA16}
-STR_1661    :{WINDOW_COLOUR_2}Pahoinvointitoleranssi: {BLACK}{STRINGID}
+STR_1658    :{WINDOW_COLOUR_2}Jännitystaso: {BLACK}enintään {COMMA16}
+STR_1659    :{WINDOW_COLOUR_2}Jännitystaso: {BLACK}{COMMA16}:n ja {COMMA16}:n välillä
+STR_1660    :{WINDOW_COLOUR_2}Jännitystaso: {BLACK}vähintään {COMMA16}
+STR_1661    :{WINDOW_COLOUR_2}Pahoinvoinnin sietokyky: {BLACK}{STRINGID}
 STR_1662    :{WINDOW_COLOUR_2}Iloisuus:
 STR_1663    :{WINDOW_COLOUR_2}Pahoinvointi:
 STR_1664    :{WINDOW_COLOUR_2}Energia:
@@ -1062,7 +1062,7 @@ STR_1667    :{WINDOW_COLOUR_2}Vessahätä:
 STR_1668    :{WINDOW_COLOUR_2}Tyytyväisyys: {BLACK}Tuntematon
 STR_1669    :{WINDOW_COLOUR_2}Tyytyväisyys: {BLACK}{COMMA16}%
 STR_1670    :{WINDOW_COLOUR_2}Asiakkaiden määrä: {BLACK}{COMMA32}
-STR_1671    :{WINDOW_COLOUR_2}Kokonaistuotanto: {BLACK}{CURRENCY2DP}
+STR_1671    :{WINDOW_COLOUR_2}Tuotto yhteensä: {BLACK}{CURRENCY2DP}
 STR_1672    :Jarrut
 STR_1673    :Pyörinnnänesto-osio
 STR_1674    :Jarrutusnopeus
@@ -1112,8 +1112,8 @@ STR_1717    :Puiston nimeäminen ei onnistunut…
 STR_1718    :Puiston nimi
 STR_1719    :Anna nimi puistolle:
 STR_1720    :Nimeä puisto
-STR_1721    :Puisto suljettu
-STR_1722    :Puisto auki
+STR_1721    :Puisto on suljettu
+STR_1722    :Puisto on auki
 STR_1723    :Puiston avaus ei onnistunut…
 STR_1724    :Puiston sulkeminen ei onnistunut…
 STR_1725    :Maan ostaminen ei onnistunut…
@@ -1311,7 +1311,7 @@ STR_1925    :Henkilöä ei voi sijoittaa tähän…
 STR_1927    :{YELLOW}{STRINGID} on hajonnut
 STR_1928    :{RED}{STRINGID} on hajonnut!
 STR_1929    :{RED}Laitetta {STRINGID} ei vieläkään ole korjattu{NEWLINE}tarkista missä mekaanikkosi ovat ja pohdi niiden parempaa sijoittelua
-STR_1930    :Laita kävijän seuranta päälle/pois - (kun seuranta on päällä, kävijän liikkeet raportoidaan viestialueella)
+STR_1930    :Kytke kävijän seuranta päälle/pois - (kun seuranta on päällä, kävijän liikkeet raportoidaan viestialueella)
 STR_1931    :{STRINGID} on jonottamassa laitteeseen {STRINGID}
 STR_1932    :{STRINGID} on laitteessa {STRINGID}
 STR_1933    :{STRINGID} on laitteessa {STRINGID}
@@ -1326,7 +1326,7 @@ STR_1941    :Näytä missä laitteissa tämä kävijä on käynyt
 STR_1942    :Näytä kävijän taloustiedot
 STR_1943    :Näytä kävijän viimeiset ajatukset
 STR_1944    :Näytä mitä esineitä kävijä kantaa
-STR_1945    :Näytä henkilöstön jäsenen ohjeet ja asetukset
+STR_1945    :Näytä henkilöstön jäsenen tehtävät ja asetukset
 STR_1946    :Valitse puku viihdyttäjälle
 STR_1947    :Näytä valitun henkilöstötyypin partiointialueet ja etsi lähin henkilöstön jäsen
 STR_1948    :Palkkaa uusi henkilöstön jäsen
@@ -1455,8 +1455,8 @@ STR_2070    :tyhjä rasia
 STR_2071    :tyhjä pullo
 STR_2072    :“{STRINGID}” -ilmapallo
 STR_2073    :“{STRINGID}” -pehmolelu
-STR_2074    :{STRINGID}:n kartta
-STR_2075    :Kuva {STRINGID}:sta
+STR_2074    :{STRINGID} -puiston kartta
+STR_2075    :Kuva laitteesta {STRINGID}
 STR_2076    :“{STRINGID}” -sateenvarjo
 STR_2077    :Juoma
 STR_2078    :Hampurilainen
@@ -1589,7 +1589,7 @@ STR_2219    :{RED}{COMMA16} henkilöä on kuollut laitteen {STRINGID} onnettomuu
 STR_2220    :{WINDOW_COLOUR_2}Puiston taso: {BLACK}{COMMA16}
 STR_2221    :Puiston taso: {COMMA16}
 STR_2222    :{BLACK}{STRINGID}
-STR_2223    :{WINDOW_COLOUR_2}Kävijöiden määrä: {BLACK}{COMMA32}
+STR_2223    :{WINDOW_COLOUR_2}Kävijöitä puistossa: {BLACK}{COMMA32}
 STR_2224    :{WINDOW_COLOUR_2}Kassa: {BLACK}{CURRENCY2DP}
 STR_2225    :{WINDOW_COLOUR_2}Kassa: {RED}{CURRENCY2DP}
 STR_2226    :{WINDOW_COLOUR_2}Puiston arvo: {BLACK}{CURRENCY}
@@ -1631,14 +1631,14 @@ STR_2261    :Vähimmäisrahoitus
 STR_2262    :Normaali rahoitus
 STR_2263    :Täysrahoitus
 STR_2264    :Kehityksen rahoitus
-STR_2265    :{WINDOW_COLOUR_2}Kustannus: {BLACK}{CURRENCY} kuukaudessa
+STR_2265    :{WINDOW_COLOUR_2}Kustannus: {BLACK}{CURRENCY} per kuukausi
 STR_2266    :Kehityksen alueet
 STR_2267    :Paraikaa suunnitteilla
-STR_2268    :Viimeisin kehitys
+STR_2268    :Uusin luomus
 STR_2269    :{WINDOW_COLOUR_2}Tyyppi: {BLACK}{STRINGID}
 STR_2270    :{WINDOW_COLOUR_2}Edistys: {BLACK}{STRINGID}
 STR_2271    :{WINDOW_COLOUR_2}Odotettavissa: {BLACK}{STRINGID}
-STR_2272    :{WINDOW_COLOUR_2}Laitteet/kohteet:{NEWLINE}{BLACK}{STRINGID}
+STR_2272    :{WINDOW_COLOUR_2}Laite/kohde:{NEWLINE}{BLACK}{STRINGID}
 STR_2273    :{WINDOW_COLOUR_2}Maisemointi/teemaus:{NEWLINE}{BLACK}{STRINGID}
 STR_2274    :Näytä tämän kehityksen yksityiskohdat
 STR_2275    :Näytä kehityksen rahoitus ja asetukset
@@ -1662,8 +1662,8 @@ STR_2293    :{BLACK} Ei mitään
 STR_2294    :Vaihda pohjamaaston tyyliä
 STR_2295    :Vaihda pystysuorien seinämien tyyliä
 STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} maksettu sisäänpääsystä
-STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kulutettu {BLACK}{COMMA16} laitteessa
-STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kulutettu {BLACK}{COMMA16} laitteessa
+STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kulutettu {BLACK}{COMMA16} laitteeseen
+STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kulutettu {BLACK}{COMMA16} laitteeseen
 STR_2299    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kulutettu {BLACK}{COMMA16} ruokaan
 STR_2300    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kulutettu {BLACK}{COMMA16} ruokaan
 STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} kulutettu {BLACK}{COMMA16} juomaan
@@ -1729,10 +1729,10 @@ STR_2366    :Celsius (°C)
 STR_2367    :Fahrenheit (°F)
 STR_2368    :Ei mitään
 STR_2369    :Matala
-STR_2370    :Tyydyttävä
+STR_2370    :Keskiverto
 STR_2371    :Korkea
 STR_2372    :Matala
-STR_2373    :Keski
+STR_2373    :Keskiverto
 STR_2374    :Korkea
 STR_2375    :Todella korkea
 STR_2376    :Äärimmäinen
@@ -1741,7 +1741,7 @@ STR_2378    :Säädä pienempää maa-aluetta
 STR_2379    :Säädä suurempaa maa-aluetta
 STR_2380    :Säädä pienempää vesialuetta
 STR_2381    :Säädä suurempaa vesialuetta
-STR_2382    :Maa
+STR_2382    :Maasto
 STR_2383    :Vesi
 STR_2384    :{WINDOW_COLOUR_2}Tavoitteesi:
 STR_2385    :{BLACK}Ei mitään
@@ -1807,17 +1807,17 @@ STR_2452    :{WINDOW_COLOUR_2}Varat (miinus velka): {BLACK}{CURRENCY2DP}
 STR_2453    :{WINDOW_COLOUR_2}Varat (miinus velka): {RED}{CURRENCY2DP}
 STR_2454    :{BLACK}{CURRENCY2DP} -
 STR_2457    :Näytä taloustiedot
-STR_2458    :Näytä kuvaaja rahan määrästä (miinus velka) ajan myötä
-STR_2459    :Näytä kuvaaja puiston arvosta
+STR_2458    :Näytä kuvaaja varoista (miinus velka) ajan myötä
+STR_2459    :Näytä kuvaaja puiston arvosta ajan myötä
 STR_2460    :Näytä kuvaaja viikottaisesta tuotosta
 STR_2461    :Näytä markkinointikampanjat
 STR_2462    :Näytä puiston sisäänkäynti
-STR_2463    :Näytä kuvaaja puiston tasosta
-STR_2464    :Näytä kuvaaja kävijämääristä
+STR_2463    :Näytä kuvaaja puiston tasosta ajan myötä
+STR_2464    :Näytä kuvaaja kävijämääristä ajan myötä
 STR_2465    :Näytä sisäänpääsymaksu ja -tiedot
 STR_2466    :Näytä puiston tilastot
 STR_2467    :Näytä pelin tavoitteet
-STR_2468    :Näytä viimeiset palkinnot mitä tämä puisto on saanut
+STR_2468    :Näytä uusimmat palkinnot mitä tämä puisto on saanut
 STR_2469    :Valitse kehityksen taso
 STR_2470    :Kehitä uusia kulkuvälineitä
 STR_2471    :Kehitä uusia lempeitä laitteita
@@ -1825,7 +1825,7 @@ STR_2472    :Kehitä uusia vuoristoratoja
 STR_2473    :Kehitä uusia jännittäviä laitteita
 STR_2474    :Kehitä uusia vesilaitteita
 STR_2475    :Kehitä uusia kojuja
-STR_2476    :Kehitä maisemointia ja teemausta
+STR_2476    :Kehitä uusia maisemointeja ja teemauksia
 STR_2477    :Valitse tämän laitteen/kohteen toimintatila
 STR_2478    :Näytä nopeuden kuvaaja ajalle
 STR_2479    :Näytä korkeuden kuvaaja ajalle
@@ -2006,7 +2006,7 @@ STR_2796    :Järjestä laitelistaus valitun tietotyypin mukaan
 STR_2797    :Vieritä näkymää kun osoitin on näytön reunassa
 STR_2798    :Valitse vieritetäänkö näkymää kun osoitin on näytön reunassa
 STR_2799    :Näytä ja aseta näppäinasetukset
-STR_2800    :{WINDOW_COLOUR_2}Sisäänpääsyt: {BLACK}{COMMA32}
+STR_2800    :{WINDOW_COLOUR_2}Kävijöitä yhteensä: {BLACK}{COMMA32}
 STR_2801    :{WINDOW_COLOUR_2}Tulot sisäänpääsyistä: {BLACK}{CURRENCY2DP}
 STR_2802    :Kartta
 STR_2803    :Näytä nämä kävijät kartalla
@@ -2064,12 +2064,12 @@ STR_2854    :{RED}Kävijät eivät pääse laitteen {STRINGID} sisäänkäynnill
 STR_2855    :{RED}Laitteen {STRINGID} uloskäynnistä ei lähde polkua!{NEWLINE}Rakenna polku uloskäynniltä
 STR_2858    :Markkinointikampanjaa ei voi aloittaa…
 STR_2861    :{WINDOW_COLOUR_2}Lisensoinut Infogrames Interactive Inc.
-STR_2971    :Pääväriskeema
-STR_2972    :Vaihtoehtoinen väriskeema 1
-STR_2973    :Vaihtoehtoinen väriskeema 2
-STR_2974    :Vaihtoehtoinen väriskeema 3
-STR_2975    :Valitse mitä skeemaa haluat muokata tai käyttää maalaukseen
-STR_2976    :Maalaa yksittäinen osa tätä laitetta valitulla väriskeemalla
+STR_2971    :Ensisijainen värimalli
+STR_2972    :Vaihtoehtoinen värimalli 1
+STR_2973    :Vaihtoehtoinen värimalli 2
+STR_2974    :Vaihtoehtoinen värimalli 3
+STR_2975    :Valitse mitä mallia haluat muokata tai käyttää maalaukseen
+STR_2976    :Maalaa laitteen yksittäinen osa valitulla värimallilla
 STR_2977    :Henkilöstön jäsenen nimi
 STR_2978    :Anna tälle henkilöstön jäsenelle nimi:
 STR_2979    :Henkilöstön nimeäminen ei onnistu…
@@ -2279,9 +2279,9 @@ STR_3253    :Enimmäislainamäärää ei voi laskea enempää!
 STR_3254    :Vuosittaiskorkoa ei voi korottaa enempää!
 STR_3255    :Vuosittaiskorkoa ei voi laskea enempää!
 STR_3256    :Kävijät tykkäävät lempeämmistä laitteista
-STR_3257    :Valitse haluavatko kävijät mieluummin mennä vain vähemmän intensiivisiin laitteisiin
-STR_3258    :Kävijät tykkäävät hurjemmista laitteista
-STR_3259    :Valitse haluavatko kävijät mieluummin mennä vain intensiivisimpiin laitteisiin
+STR_3257    :Valitse haluavatko kävijät mieluummin mennä vain vähemmän jännittäviin laitteisiin
+STR_3258    :Kävijät tykkäävät jännittävimmistä laitteista
+STR_3259    :Valitse haluavatko kävijät mieluummin mennä vain kaikista jännittävimpiin laitteisiin
 STR_3260    :{WINDOW_COLOUR_2}Kävijöiden rahat (keskiarvo):
 STR_3261    :{WINDOW_COLOUR_2}Kävijöiden alustava iloisuus:
 STR_3262    :{WINDOW_COLOUR_2}Kävijöiden alustava nälkä:
@@ -2325,7 +2325,7 @@ STR_3299    :{WINDOW_COLOUR_2}Skenaarion kuvaus:
 STR_3300    :{WINDOW_COLOUR_2}Skenaarion nimi: {BLACK}{STRINGID}
 STR_3301    :{WINDOW_COLOUR_2}Tavoitepäivä:
 STR_3302    :{WINDOW_COLOUR_2}{MONTHYEAR}
-STR_3303    :{WINDOW_COLOUR_2}Kävijöiden määrä:
+STR_3303    :{WINDOW_COLOUR_2}Kävijöitä puistossa:
 STR_3304    :{WINDOW_COLOUR_2}Puiston arvo:
 STR_3305    :{WINDOW_COLOUR_2}Kuukausittainen tulo:
 STR_3306    :{WINDOW_COLOUR_2}Kuukausittainen tuotto:
@@ -2468,7 +2468,7 @@ STR_5189    :Kehitys
 STR_5190    :Kartta
 STR_5191    :Näkymä
 STR_5192    :Uusimmat uutiset
-STR_5193    :Maa
+STR_5193    :Maasto
 STR_5194    :Vesi
 STR_5195    :Raivaa maisemointi
 STR_5196    :Maaoikeudet
@@ -2476,7 +2476,7 @@ STR_5197    :Maisemointi
 STR_5198    :Polku
 STR_5199    :Laitteiden rakennus
 STR_5200    :Ratamallin sijainti
-STR_5201    :Uusi laita
+STR_5201    :Uusi laite
 STR_5202    :Ratamallin valinta
 STR_5203    :Laite
 STR_5204    :Laitelista
@@ -2547,7 +2547,7 @@ STR_5270    :Sekalaiset
 # again, twitch is a name, and can't be translated
 STR_5272    :Pienet maisemoinnit
 STR_5273    :Suuret maisemoinnit
-STR_5274    :Polku
+STR_5274    :Polut
 STR_5275    :Etsi esinettä
 STR_5276    :Anna etsittävän esineen nimi
 STR_5277    :Tyhjennä
@@ -2611,7 +2611,7 @@ STR_5358    :{BLACK}Vessa:
 STR_5359    :Poista kävijät
 STR_5360    :Poista kaikki kävijät kartalta
 STR_5361    :Anna kaikille kävijöille:
-STR_5362    :{BLACK}Aseta kävijöiden mieluisin intensiteetti:
+STR_5362    :{BLACK}Aseta kävijöiden mieluisin jännitystaso:
 STR_5363    :Yli 1
 STR_5364    :Alle 15
 STR_5365    :{BLACK}Henkilöstön nopeus:
@@ -2684,7 +2684,7 @@ STR_5502    :Moninpeli
 STR_5503    :Anna isäntänimi tai IP-osoite:
 STR_5504    :Näytä moninpelin tilanne
 STR_5505    :Yhdistäminen ei onnistunut.
-STR_5506    :Kävijät eivät piittaa intensiteetistä
+STR_5506    :Kävijät eivät piittaa jännitystasosta
 STR_5510    :Oletusäänilaite
 STR_5511    :(TUNTEMATON)
 STR_5512    :Tallenna peli nimellä
@@ -2699,10 +2699,10 @@ STR_5520    :Vaaleanvioletti
 STR_5521    :Kirkkaanvioletti
 STR_5522    :Tummansininen
 STR_5523    :Vaaleansininen
-STR_5524    :Jäinensininen
+STR_5524    :Jäisensininen
 STR_5525    :Sinivihreä
 STR_5526    :Akvamariini
-STR_5527    :Kyllästettyvihreä
+STR_5527    :Kyllästetynvihreä
 STR_5528    :Tummanvihreä
 STR_5529    :Sammaleenvihreä
 STR_5530    :Kirkkaanvihreä
@@ -2714,14 +2714,14 @@ STR_5535    :Tummankeltainen
 STR_5536    :Vaaleanoranssi
 STR_5537    :Tummanoranssi
 STR_5538    :Vaaleanruskea
-STR_5539    :Kyllästettyruskea
+STR_5539    :Kyllästetynruskea
 STR_5540    :Tummanruskea
-STR_5541    :Lohenvaaleanpunainen
-STR_5542    :Bordeauxinpunainen
+STR_5541    :Lohenpunainen
+STR_5542    :Bordeaux’npunainen
 STR_5543    :Kyllästetynpunainen
 STR_5544    :Kirkkaanpunainen
-STR_5545    :Tummanvaaleanpunainen
-STR_5546    :Kirkasvaaleanpunainen
+STR_5545    :Tummanpinkki
+STR_5546    :Kirkkaanpinkki
 STR_5547    :Vaaleanpunainen
 STR_5548    :Näytä kaikki toimintatilat
 STR_5549    :vuosi/kuukausi/päivä
@@ -2928,7 +2928,7 @@ STR_5791    :Asettaa kaikkien laitteiden luotettavuuden 100%:een ja niiden raken
 STR_5792    :Korjaa kaikki hajoutuneet laitteet
 STR_5793    :Nollaa laitteen törmäyshistorian, jotta kävijät eivät valita sen epäturvallisuudesta
 STR_5794    :Jotkut skenaariot estävät joidenkin laitteiden muokkauksen. Tämä huijaus poistaa nämä estot.
-STR_5795    :Kävijät menevät kaikkiin puiston laitteisiin, vaikka intensiteetti olisi pilvissä
+STR_5795    :Kävijät menevät kaikkiin puiston laitteisiin, vaikka jännitystaso olisi pilvissä
 STR_5796    :Pakottaa puiston avautumaan tai sulkeutumaan
 STR_5797    :Estää sään muutokset ja pysyttäytyy valitussa säätilassa
 STR_5798    :Sallii rakennustoiminnot pelin ollessa pysäytettynä
@@ -2959,7 +2959,7 @@ STR_5823    :Näytä bannerit isoilla kirjaimilla (kuten RCT1:ssä)
 STR_5824    :Älä näytä salamatehostetta ukkosmyrskyn aikana
 STR_5825    :Pidä hiiren osoitin ikkunan sisällä
 STR_5826    :Käännä näkymän hiiren oikealla painikkeella raahauksen suunta
-STR_5827    :Asettaa käyttöliittymän väriskeeman
+STR_5827    :Asettaa käyttöliittymän värimallin
 STR_5828    :Asettaa mitä mittayksiköitä käytetään pituuksiin, nopeuksiin, jne
 STR_5829    :Asettaa pelissä käytetyn valuutan. Lähinnä visuaalinen muutos, tarkkoja vaihtokursseja ei käytetä
 STR_5830    :Asettaa pelissä käytetyn kielen
@@ -3334,7 +3334,7 @@ STR_6239    :Pystysuora leikkaus
 STR_6240    :Vaakasuora leikkaus
 STR_6241    :Valitse alue
 STR_6242    :Nollaa alue
-STR_6243    :Kunnostaa laitteen kuin uudeksi
+STR_6243    :Kunnosta laite uudenveroiseksi
 STR_6244    :Laitetta ei voi kunnostaa…
 STR_6245    :Laite ei tarvitse kunnostusta
 STR_6246    :Kunnosta
@@ -3362,7 +3362,7 @@ STR_6270    :Maastopinnat
 STR_6271    :Maastoreunat
 STR_6272    :Asemat
 STR_6273    :Musiikki
-STR_6274    :Väriskeemaa ei voi valita…
+STR_6274    :Värimallia ei voi valita…
 STR_6275    :{WINDOW_COLOUR_2}Aseman tyyli:
 STR_6276    :{RED}Kävijät juuttuvat kohteeseen {STRINGID}, mahdollisesti väärän laitetyypin tai toimintatilan johdosta.
 STR_6277    :Aseman numero: {BLACK}{STRINGID}
@@ -3386,7 +3386,7 @@ STR_6303    :Ladataan esinettä ({COMMA16} / {COMMA16}): [{STRING}]
 STR_6304    :Avaa maisemointivalitsin
 STR_6305    :Monisäikeisyys
 STR_6306    :Kokeellinen asetus, jossa piirtoon käytetään useampaa säiettä. Saattaa olla epävakaa.
-STR_6307    :Väriskeema: {BLACK}{STRINGID}
+STR_6307    :Värimalli: {BLACK}{STRINGID}
 STR_6308    :{TOPAZ}“{STRINGID}{OUTLINE}{TOPAZ}”{NEWLINE}{STRINGID}
 STR_6309    :Yhdistä uudelleen
 STR_6310    :{WINDOW_COLOUR_2}Sijainti: {BLACK}{INT32} {INT32} {INT32}
@@ -3636,7 +3636,7 @@ STR_6554    :Kastanjanruskea
 STR_6555    :Koralli
 STR_6556    :Merenvihreä
 STR_6557    :Keltavihreä
-STR_6558    :Sammalenvihreä
+STR_6558    :Havunvihreä
 STR_6559    :Patinanvihreä
 STR_6560    :Limetinvihreä
 STR_6561    :Seepia
