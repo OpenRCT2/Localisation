@@ -335,7 +335,7 @@
         "reference-name": "Triceratops Dodgems",
         "name": "Triceratops-törmäilyautot",
         "reference-description": "Riders lock horns with each other in triceratops dodgems",
-        "description": "Kävijät käyvät taistelua triceratops-törmäysautoissa",
+        "description": "Kävijät käyvät taistelua triceratops-törmäilyautoissa",
         "reference-capacity": "1 person per car",
         "capacity": "1 matkustaja per auto"
     },
@@ -343,13 +343,13 @@
         "reference-name": "Moon Juice",
         "name": "Kuumehu",
         "reference-description": "A stall selling the latest soft drinks",
-        "description": "Koju, joka myy kaikista uusimpia juomia"
+        "description": "Koju, joka myy kaikista uusimpia virvoitusjuomia"
     },
     "rct2tt.ride.mgr2": {
         "reference-name": "Double Deck Carousel",
         "name": "Kaksikerroksinen karuselli",
         "reference-description": "Traditional enclosed double-deck carousel with carved wooden horses",
-        "description": "Vanhanaikainen pyörivä kaksikerroksinen karuselli kaiverrettujen puuhevosien kera",
+        "description": "Vanhanaikainen pyörivä kaksikerroksinen puisten hevospatsaiden kera",
         "reference-capacity": "32 passengers",
         "capacity": "32 matkustajaa"
     },
@@ -589,7 +589,7 @@
         "reference-name": "Fighting Knights Dodgems",
         "name": "Taistelevat ritaritörmäilyautot",
         "reference-description": "Riders joust on horse-themed dodgems",
-        "description": "Matkustajat turnaavat hevosteemaisissa törmäysautoissa",
+        "description": "Matkustajat turnaavat hevosteemaisissa törmäilyautoissa",
         "reference-capacity": "1 person per car",
         "capacity": "1 matkustaja per vaunu"
     },
@@ -2965,7 +2965,7 @@
     },
     "rct2.station.plain": {
         "reference-name": "Plain",
-        "name": "Yksinkertainen"
+        "name": "Perinteinen"
     },
     "rct2.station.wooden": {
         "reference-name": "Wooden",
@@ -3529,7 +3529,7 @@
         "reference-name": "Information Kiosk",
         "name": "Infokioski",
         "reference-description": "A stall where guests can obtain park maps and purchase umbrellas",
-        "description": "Koju josta kävijät voivat ostaa karttoja ja sateenvarjoja"
+        "description": "Koju, josta kävijät voivat ostaa karttoja ja sateenvarjoja"
     },
     "rct2.ride.wonton": {
         "reference-name": "Wonton Soup Stall",
@@ -3827,7 +3827,7 @@
         "reference-name": "Merry-Go-Round",
         "name": "Karuselli",
         "reference-description": "Traditional rotating carousel with carved wooden horses",
-        "description": "Vanhanaikainen pyörivä karuselli kaiverrettujen puuhevosien kera",
+        "description": "Vanhanaikainen pyörivä karuselli puisten hevospatsaiden kera",
         "reference-capacity": "16 passengers",
         "capacity": "16 matkustajaa"
     },
@@ -3895,7 +3895,7 @@
     },
     "rct2.ride.swsh2": {
         "reference-name": "Swinging Inverter Ship",
-        "name": "Kääntyvä merirosvolaiva",
+        "name": "Kieppuva merirosvolaiva",
         "reference-description": "Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees",
         "description": "Laiva on kiinnitetty puomiin, jonka toisessa päässä on vastapaino, ja joka pyörii täydet 360 astetta",
         "reference-capacity": "12 passengers",
@@ -4135,7 +4135,7 @@
         "reference-name": "Drinks Stall",
         "name": "Juomakoju",
         "reference-description": "A can-shaped stall selling fizzy drinks",
-        "description": "Tölkkien muotoinen koju, joka myy hiilihapotettuja juomia"
+        "description": "Juomatölkkien muotoinen koju, joka myy hiilihapollisia virvoitusjuomia"
     },
     "rct2.ride.arrt2": {
         "reference-name": "Hypercoaster Trains",
@@ -4597,7 +4597,7 @@
     },
     "rct2.scenery_wall.wallsign": {
         "reference-name": "Scrolling Sign",
-        "name": "Rullaava kyltti"
+        "name": "Vierittävä kyltti"
     },
     "rct2.scenery_wall.wch": {
         "reference-name": "Conifer Hedge",
@@ -5457,7 +5457,7 @@
     },
     "rct2.scenery_small.tly": {
         "reference-name": "Lily",
-        "name": "Lilja"
+        "name": "Lumpeenlehti"
     },
     "rct2.scenery_small.mallow1": {
         "reference-name": "Marshmallow",
@@ -5981,7 +5981,7 @@
     },
     "rct2.scenery_small.tmj": {
         "reference-name": "Junk",
-        "name": "Rojua"
+        "name": "Rojukasa"
     },
     "rct2.scenery_small.tck": {
         "reference-name": "Clock",
@@ -6533,7 +6533,7 @@
     },
     "rct2.scenery_large.ssig1": {
         "reference-name": "Scrolling Sign",
-        "name": "Rullaava kyltti"
+        "name": "Vierittävä kyltti"
     },
     "rct2.scenery_large.stg2": {
         "reference-name": "Castle Tower",
@@ -6577,7 +6577,7 @@
     },
     "rct2.music.dodgems": {
         "reference-name": "Dodgems beat style",
-        "name": "Törmäysautobiitin tyylinen"
+        "name": "Törmäilyautobiitin tyylinen"
     },
     "rct2.music.rock2": {
         "reference-name": "Rock style 2",
@@ -7147,7 +7147,7 @@
         "reference-name": "Chinese Dragonhead Dodgems",
         "name": "Kiinalainen lohikäärme -törmäilyautot",
         "reference-description": "Guests battle each other in dragonhead-shaped dodgems",
-        "description": "Kävijät taistelevat toisiaan vastaan lohikäärmeen pään muotoisissa törmäysautoissa",
+        "description": "Kävijät taistelevat toisiaan vastaan lohikäärmeen pään muotoisissa törmäilyautoissa",
         "reference-capacity": "1 person per car",
         "capacity": "1 matkustaja per ajoneuvo"
     },
