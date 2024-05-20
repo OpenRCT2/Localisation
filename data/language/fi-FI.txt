@@ -785,7 +785,7 @@ STR_1389    :{OUTLINE}{RED}- {CURRENCY}
 STR_1390    :{CURRENCY2DP}
 STR_1391    :{RED}{CURRENCY2DP}
 STR_1392    :Näkymä laitteesta/kohteesta
-STR_1393    :Kulkuneuvon yksityiskohdat ja asetukset
+STR_1393    :Kulkuneuvon tiedot ja asetukset
 STR_1394    :Toiminta-asetukset
 STR_1395    :Huoltoasetukset
 STR_1396    :Värityylin asetukset
@@ -1087,7 +1087,7 @@ STR_1692    :{WINDOW_COLOUR_2}  Hinta: {BLACK}alk. {CURRENCY}
 STR_1693    :Kävijät
 STR_1694    :Henkilöstö
 STR_1695    :Tulot ja kulut
-STR_1696    :Asiakkaan tiedot
+STR_1696    :Asiakaspiirin tiedot
 STR_1697    :Näitä ei voi asettaa jonotusalueelle
 STR_1698    :Nämä täytyy asettaa jonotusalueelle
 STR_1699    :Liikaa henkilöitä pelissä
@@ -1640,7 +1640,7 @@ STR_2270    :{WINDOW_COLOUR_2}Edistys: {BLACK}{STRINGID}
 STR_2271    :{WINDOW_COLOUR_2}Odotettavissa: {BLACK}{STRINGID}
 STR_2272    :{WINDOW_COLOUR_2}Laite/kohde:{NEWLINE}{BLACK}{STRINGID}
 STR_2273    :{WINDOW_COLOUR_2}Maisemointi/teemaus:{NEWLINE}{BLACK}{STRINGID}
-STR_2274    :Näytä tämän kehityksen yksityiskohdat
+STR_2274    :Näytä tämän kehityksen tiedot
 STR_2275    :Näytä kehityksen rahoitus ja asetukset
 STR_2276    :Näytä kehityksen edistys
 STR_2277    :Tuntematon
@@ -1718,7 +1718,7 @@ STR_2354    :{WINDOW_COLOUR_2}Roskakoreja tyhjennetty: {BLACK}{COMMA32}
 STR_2355    :{WINDOW_COLOUR_2}Laitteita korjattu: {BLACK}{COMMA32}
 STR_2356    :{WINDOW_COLOUR_2}Laitteita tarkastettu: {BLACK}{COMMA32}
 STR_2358    :Yksiköt
-STR_2359    :Oikeat arvot
+STR_2359    :Aidot arvot
 STR_2360    :{WINDOW_COLOUR_2}Näytön tarkkuus:
 STR_2361    :Maaston pehmennys
 STR_2362    :Kytke maaston ruutujen pehmennys päälle/pois
@@ -1765,7 +1765,7 @@ STR_2402    :Rakenna 10 vuoristorataa
 STR_2403    :Kävijöiden määrä puistossa
 STR_2404    :Kuukausitulo laitteiden tuloista
 STR_2405    :Rakenna 10 vuoristorataa tietyssä ajassa
-STR_2406    :Rakenna valmiiksi 5 vuoristorataa
+STR_2406    :Viimeistele 5 vuoristorataa
 STR_2407    :Maksa laina pois ja saavuta tietty puiston arvo
 STR_2408    :Kuukausitulo ruoasta/kauppatavaroista
 STR_2409    :{WINDOW_COLOUR_2}Käynnissä olevat markkinointikampanjat
@@ -1834,7 +1834,7 @@ STR_2481    :Näytä poikittaisen kiihtyvyyden kuvaaja ajalle
 STR_2482    :Tuotto: {CURRENCY} viikossa,  puiston arvo: {CURRENCY}
 STR_2483    :{WINDOW_COLOUR_2}Viikottainen tuotto: {BLACK}+{CURRENCY2DP}
 STR_2484    :{WINDOW_COLOUR_2}Viikottainen tuotto: {RED}{CURRENCY2DP}
-STR_2487    :Näytä kävijöiden ”oikeat” nimet
+STR_2487    :Käytä kävijöiden ”oikeita” nimiä
 STR_2488    :Vaihda kävijöiden nimen ja numeron näyttämisen välillä
 STR_2489    :Pikanäppäimet…
 STR_2490    :Näppäimistön pikanäppäimet
@@ -2000,7 +2000,7 @@ STR_2790    :Anna nimi skenaariotaulukkoon
 STR_2791    :Anna nimi
 STR_2792    :Anna nimesi skenaariotaulukkoa varten:
 STR_2793    :(Suorittanut {STRINGID})
-STR_2794    :{WINDOW_COLOUR_2}Suorittanut: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2}Yhtiön arvolla: {BLACK}{CURRENCY}
+STR_2794    :{WINDOW_COLOUR_2}Suorittanut: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2}Yhtiön arvo: {BLACK}{CURRENCY}
 STR_2795    :Järjestä
 STR_2796    :Järjestä laitelistaus valitun tietotyypin mukaan
 STR_2797    :Vieritä näkymää kun osoitin on näytön reunassa
@@ -2178,8 +2178,8 @@ STR_3131    :Peruuta
 STR_3132    :{BLACK}Klikkaa maisemointiesineitä valitaksesi ne ratamallin mukana tallennukseen…
 STR_3133    :Tätä ei voi rakentaa mäkeen
 STR_3134    :{RED}(Mallissa on maisemointeja joita ei ole saatavilla)
-STR_3135    :{RED}(Vaunutyyppi ei saatavilla - tämä voi vaikuttaa laitteen suorituskykyyn)
-STR_3136    :Varoitus: Tämä malli rakennetaan korvaavalla vaunutyypillä, joka saattaa vaikuttaa laitteen toimintaan
+STR_3135    :{RED}(Ajoneuvotyyppi ei saatavilla - tämä voi vaikuttaa laitteen suorituskykyyn)
+STR_3136    :Varoitus: Tämä malli rakennetaan korvaavalla ajoneuvotyypillä, joka saattaa vaikuttaa laitteen suorituskykyyn
 STR_3137    :Valitse lähistön maisemoinnit
 STR_3138    :Tyhjennä valinta
 STR_3139    :Nostomäki ei toimi tässä toimintatilassa
@@ -2202,12 +2202,12 @@ STR_3174    :Tätä esinettä tarvitaan toisessa projektissa
 STR_3175    :Tätä esinettä tarvitaan aina
 STR_3176    :Tätä esinettä ei voi valita
 STR_3177    :Tämän esineen valintaa ei voi poistaa
-STR_3179    :Ainakin yksi vaunutyyppi tai kohde-esine tulee olla valittuna
+STR_3179    :Ainakin yksi ajoneuvotyyppi tai kohde-esine tulee olla valittuna
 STR_3180    :Virheellinen esineiden valinta
 STR_3181    :Esineiden valinta - {STRINGID}
 STR_3182    :Puiston sisäänkäynnin tyyli on valittava
 STR_3183    :Veden tyyppi on valittava
-STR_3184    :Laitteiden vaunutyypit
+STR_3184    :Laitteiden ajoneuvotyypit
 STR_3185    :Pienet maisemoinnit
 STR_3186    :Suuret maisemoinnit
 STR_3187    :Seinät/Aidat
@@ -2262,18 +2262,18 @@ STR_3236    :Näytä kävijätiedot
 STR_3237    :Näytä puistotiedot
 STR_3238    :Ei rahaa
 STR_3239    :Tee tästä puistosta ”ei rahaa” -puisto, jolla ei ole mitään taloudellisia rajoitteita
-STR_3240    :{WINDOW_COLOUR_2}Aloitusrahamäärä:
-STR_3241    :{WINDOW_COLOUR_2}Aloituslaina:
+STR_3240    :{WINDOW_COLOUR_2}Varat pelin alussa:
+STR_3241    :{WINDOW_COLOUR_2}Laina pelin alussa:
 STR_3242    :{WINDOW_COLOUR_2}Enimmäislainamäärä:
 STR_3243    :{WINDOW_COLOUR_2}Vuosittaiskorko:
 STR_3244    :Kiellä markkinointikampanjat
 STR_3245    :Kiellä mainonta, myynninedistämiskeinot ja muut markkinointikampanjat
 STR_3246    :{WINDOW_COLOUR_2}{CURRENCY}
 STR_3247    :{WINDOW_COLOUR_2}{COMMA16}%
-STR_3248    :Aloitusrahamäärää ei voi korottaa enempää!
-STR_3249    :Aloitusrahamäärää ei voi laskea enempää!
-STR_3250    :Aloituslainaa ei voi korottaa enempää!
-STR_3251    :Aloituslainaa ei voi laskea enempää!
+STR_3248    :Alkuvaroja ei voi korottaa enempää!
+STR_3249    :Alkuvaroja ei voi laskea enempää!
+STR_3250    :Alkulainaa ei voi korottaa enempää!
+STR_3251    :Alkulainaa ei voi laskea enempää!
 STR_3252    :Enimmäislainamäärää ei voi korottaa enempää!
 STR_3253    :Enimmäislainamäärää ei voi laskea enempää!
 STR_3254    :Vuosittaiskorkoa ei voi korottaa enempää!
@@ -2282,7 +2282,7 @@ STR_3256    :Kävijät tykkäävät lempeämmistä laitteista
 STR_3257    :Valitse haluavatko kävijät mieluummin mennä vain vähemmän jännittäviin laitteisiin
 STR_3258    :Kävijät tykkäävät jännittävimmistä laitteista
 STR_3259    :Valitse haluavatko kävijät mieluummin mennä vain kaikista jännittävimpiin laitteisiin
-STR_3260    :{WINDOW_COLOUR_2}Kävijöiden rahat (keskiarvo):
+STR_3260    :{WINDOW_COLOUR_2}Kävijöiden varat (keskiarvo):
 STR_3261    :{WINDOW_COLOUR_2}Kävijöiden alustava iloisuus:
 STR_3262    :{WINDOW_COLOUR_2}Kävijöiden alustava nälkä:
 STR_3263    :{WINDOW_COLOUR_2}Kävijöiden alustava jano:
@@ -2312,11 +2312,11 @@ STR_3286    :Valitse tavoite tälle skenaariolle
 STR_3287    :{WINDOW_COLOUR_2}Tavoite:
 STR_3288    :Valitse ilmasto
 STR_3289    :{WINDOW_COLOUR_2}Ilmasto:
-STR_3290    :Kylmä ja märkä
+STR_3290    :Kylmä ja sateinen
 STR_3291    :Lämmin
 STR_3292    :Kuuma ja kuiva
 STR_3293    :Kylmä
-STR_3294    :Muuta…
+STR_3294    :Vaihda…
 STR_3295    :Vaihda puiston nimi
 STR_3296    :Vaihda skenaarion nimi
 STR_3297    :Muuta skenaarion kuvausta
@@ -2347,16 +2347,16 @@ STR_3321    :Uudet esineet asennettu onnistuneesti
 STR_3322    :{WINDOW_COLOUR_2}Tavoite: {BLACK}{STRINGID}
 STR_3326    :{WINDOW_COLOUR_2}(ei kuvaa)
 STR_3327    :Ihmisten aloituspaikkaa ei ole määritetty
-STR_3328    :Seuraavaan muokkaintilaan ei voi edetä…
+STR_3328    :Seuraavaan vaiheeseen ei voi edetä…
 STR_3329    :Puiston sisäänkäyntiä ei ole vielä rakennettu
 STR_3330    :Puiston pitää omistaa edes jonkin verran maata
-STR_3331    :Polku puiston sisäänkäynnistä tason reunalle on joko vaillinainen tai liian monimutkainen; polun tulee olla yhden tiilen levyinen ja mahdollisimman vähän risteyksiä ja käännöksiä
+STR_3331    :Polku puiston sisäänkäynnistä tason reunalle on joko vaillinainen tai liian monimutkainen; polun tulee olla yhden ruudun levyinen ja mahdollisimman vähän risteyksiä ja käännöksiä
 STR_3332    :Puiston sisäänkäynti on väärin päin, tai siihen ei ole polkua tason reunalta
 STR_3333    :Liitä laajennusesineet tallennustiedostoihin
 STR_3334    :Valitse liitetäänkö tallennuksiin ja skenaariotiedostoihin laajennuksien esineiden lisätiedot (jota ei toimiteta tuotteen mukana), jotta tiedostot voidaan avata myös pelissä, jossa ei ole samoja esinetietoja
-STR_3335    :Vuoristoratamuokkain - Valitse laitteen tyyppi ja vaunu
+STR_3335    :Vuoristoratamuokkain - Valitse laitteen tyyppi ja ajoneuvo
 STR_3336    :Ratamallien hallinta - Valitse laitteen tyyppi
-STR_3338    :{BLACK}Mukautettu rata
+STR_3338    :{BLACK}Itserakennettava
 STR_3339    :{BLACK}{COMMA16} malli saatavilla, tai luo omasi
 STR_3340    :{BLACK}{COMMA16} mallia saatavilla, tai luo omasi
 STR_3341    :Pelityökalut
@@ -2380,7 +2380,7 @@ STR_3358    :Ratamallia ei voi poistaa…
 STR_3359    :{BLACK}Ei yhtään tämän tyyppistä ratamallia
 STR_3360    :Varoitus!
 STR_3361    :Liian monta tämän tyyppistä mallia - joitain ei voida listata.
-STR_3364    :Edistynyt
+STR_3364    :Lisävalinnat
 STR_3365    :Salli yksittäisten maisemointiesineiden valinta maisemointiryhmien lisäksi
 STR_3366    :{BLACK}= Laite
 STR_3367    :{BLACK}= Ruokakoju
@@ -2442,7 +2442,7 @@ STR_5149    :Avaa huijausikkuna
 STR_5150    :Näytä virheenkorjaustyökalut
 STR_5151    : 
 STR_5152    :,
-STR_5153    :Muuta teemoja…
+STR_5153    :Muokkaa teemoja…
 STR_5154    :Laitteistopiirto
 STR_5155    :Salli keskeneräisten ratojen testaus
 STR_5156    :Sallii useimpien laitetyyppien testauksen vaikka rata olisikin keskeneräinen. Ei koske lohkojarruihin perustuvia toimintatiloja.
@@ -2534,7 +2534,7 @@ STR_5257    :Luo uusi teema nykyisestä
 STR_5258    :Poista nykyinen teema
 STR_5259    :Uudelleennimeä nykyinen teema
 STR_5260    :Jättiruudunkaappaus
-STR_5261    :Suodatin
+STR_5261    :Suodata
 STR_5262    :Wacky Worlds
 STR_5263    :Time Twister
 STR_5264    :Mukautettu
@@ -2628,7 +2628,7 @@ STR_5404    :Nimi on jo olemassa
 STR_5440    :Pienennä kokonäyttötila kohdistuksen poistuessa
 STR_5442    :Pakota puiston taso:
 STR_5447    :Tyyppi {STRINGID}
-STR_5448    :Laite / Vaunu {STRINGID}
+STR_5448    :Laite / Ajoneuvo {STRINGID}
 STR_5449    :Vähennä pelin nopeutta
 STR_5450    :Lisää pelin nopeutta
 STR_5451    :Avaa huijausikkuna
@@ -2730,7 +2730,7 @@ STR_5551    :vuosi/päivä/kuukausi
 STR_5552    :{POP16}{POP16}Vuosi {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}ta
 STR_5553    :Pysäytä peli kun Steam-yhteisönäkymä on auki
 STR_5554    :Ota vuorityökalu käyttöön
-STR_5555    :Näytä muiden ratatyyppien vaunutyypit
+STR_5555    :Näytä muiden ratatyyppien ajoneuvotyypit
 STR_5556    :Potkaise pelaaja
 STR_5557    :Pysy yhteydessä epätahdistuksessa (moninpeli)
 STR_5558    :Tämä asetus tulee voimaan vasta kun uudelleenkäynnistät OpenRCT2:n
@@ -2800,8 +2800,8 @@ STR_5624    :Time Twister
 STR_5625    :“Oikeat” puistot
 STR_5626    :Muut puistot
 STR_5627    :Skenaarioiden ryhmitys:
-STR_5628    :Lähdepeli
-STR_5629    :Vaikeusaste
+STR_5628    :Lähdepelin mukaan
+STR_5629    :Vaikeusasteen mukaan
 STR_5630    :Edistyksen mukainen skenaarioiden avaus
 STR_5631    :Alkuperäiset DLC-puistot
 STR_5632    :Rakenna oma…
@@ -2921,7 +2921,7 @@ STR_5784    :{BLACK}Läpäise aiemmat skenaariot avataksesi tämän skenaarion.
 STR_5785    :Ryhmää ei voi uudelleennimetä…
 STR_5786    :Epäkelpo nimi ryhmälle
 STR_5787    :{COMMA32} pelaajaa linjoilla
-STR_5788    :Tarkastusvälin oletus:
+STR_5788    :Tarkastusvälin oletusarvo:
 STR_5789    :Poista salamatehoste
 STR_5790    :RCT1-tyylinen hinnoittelu päälle/pois{NEWLINE}(sekä laitteiden että sisäänpääsyn hinnat)
 STR_5791    :Asettaa kaikkien laitteiden luotettavuuden 100%:een ja niiden rakennuspäivämäärän täksi vuodeksi
@@ -2958,7 +2958,7 @@ STR_5822    :Näytä vuorokauden vaihtuminen. Yksi vuorokausi kestää yhden pel
 STR_5823    :Näytä bannerit isoilla kirjaimilla (kuten RCT1:ssä)
 STR_5824    :Älä näytä salamatehostetta ukkosmyrskyn aikana
 STR_5825    :Pidä hiiren osoitin ikkunan sisällä
-STR_5826    :Käännä näkymän hiiren oikealla painikkeella raahauksen suunta
+STR_5826    :Peilaa näkymän raahauksen suunta
 STR_5827    :Asettaa käyttöliittymän värimallin
 STR_5828    :Asettaa mitä mittayksiköitä käytetään pituuksiin, nopeuksiin, jne
 STR_5829    :Asettaa pelissä käytetyn valuutan. Lähinnä visuaalinen muutos, tarkkoja vaihtokursseja ei käytetä
@@ -2996,9 +2996,9 @@ STR_5863    :Salli vain pelaajat joilla on tunnetut avaimet.
 STR_5864    :Tämä palvelin sallii vain hyväksyttyjen pelaajien liittyä.
 STR_5865    :Keskusteluloki
 STR_5866    :Kirjaa kaikki keskusteluviestit lokitiedostoihin käyttäjähakemistoosi.
-STR_5867    :{WINDOW_COLOUR_2}Toimittajan nimi: {BLACK}{STRING}
-STR_5868    :{WINDOW_COLOUR_2}Toimittajan s.posti: {BLACK}{STRING}
-STR_5869    :{WINDOW_COLOUR_2}Toimittajan sivusto: {BLACK}{STRING}
+STR_5867    :{WINDOW_COLOUR_2}Ylläpitäjän nimi: {BLACK}{STRING}
+STR_5868    :{WINDOW_COLOUR_2}Ylläpitäjän s.posti: {BLACK}{STRING}
+STR_5869    :{WINDOW_COLOUR_2}Ylläpitäjän sivusto: {BLACK}{STRING}
 STR_5870    :Näytä palvelimen tiedot
 STR_5871    :Estä kasvien kuihtuminen
 STR_5872    :Estää kasveja ikääntymästä jotta ne eivät kuihdu.
@@ -3188,7 +3188,7 @@ STR_6057    :Näytä erillinen painike työkalupalkissa mykistystä varten
 STR_6058    :Mykistä
 STR_6059    :»
 STR_6060    :Näytä kävijöiden ostokset animaationa
-STR_6061    :Näyttää animoiden rahatehosteen kun kävijät tekevät ostoksia.
+STR_6061    :Näyttää animoidun rahatehosteen kun kävijät tekevät ostoksia.
 STR_6062    :{OUTLINE}{GREEN}+ {CURRENCY2DP}
 STR_6063    :{OUTLINE}{RED}- {CURRENCY2DP}
 STR_6064    :Omista kaikki maat
@@ -3239,7 +3239,7 @@ STR_6113    :Korkea mutta kääntymätön vuoristorata isoilla pudotuksilla, kor
 STR_6115    :Jättimäiset moottoroidut nelivetoautot, jotka voivat kiivetä jyrkkiä mäkiä
 STR_6116    :Leveät vuoristoratajunat kiitävät sileän teräsradan ja moninaisten käännösten halki
 STR_6119    :Halpa ja helpporakenteinen, mutta korkeusrajoitteinen vuoristorata
-STR_6120    :{BABYBLUE}Uusi vaunutyyppi saatavilla laitteelle {STRINGID}:{NEWLINE}{STRINGID}
+STR_6120    :{BABYBLUE}Uusi ajoneuvotyyppi saatavilla laitteelle {STRINGID}:{NEWLINE}{STRINGID}
 STR_6121    :Jatkaa puiston maaoikeuksia tason reunoille saakka
 STR_6122    :Tässä skenaariossa ei ole tarpeeksi vuoristoratoja!
 STR_6123    :Virhe ladattaessa puiston esineitä
@@ -3267,7 +3267,7 @@ STR_6144    :Näytä likaiset grafiikat
 STR_6145    :Aseta nopeusrajoitus tehostimille
 STR_6146    :Ota käyttöön kaikki piirrettävät rataosat
 STR_6147    :Ottaa rakennusikkunassa käyttöön kaikki rataosat joihin laitetyyppi kykenee, riippumatta siitä, tukeeko vaunut niitä.
-STR_6148    :Yhdistää pääpalvelimelle…
+STR_6148    :Yhdistetään pääpalvelimelle…
 STR_6149    :Pääpalvelimeen yhdistys ei onnistunut
 STR_6150    :Epäkelpo vastaus pääpalvelimelta (ei JSON-numeroa)
 STR_6151    :Pääpalvelin ei palauttanut palvelinlistaa
@@ -3277,7 +3277,7 @@ STR_6154    :Turvasyistä ei ole suositeltavaa pelata OpenRCT2:a korotetuilla k�
 STR_6155    :Sekä KDialog että Zenity eivät ole asennettuina. Ole hyvä ja asenna yksi, tai määritä komentoriviltä.
 STR_6156    :Nimi on varattu
 STR_6157    :Konsoli
-STR_6160    :{WINDOW_COLOUR_2}Vaunutyypit saatavilla: {BLACK}{STRING}
+STR_6160    :{WINDOW_COLOUR_2}Ajoneuvotyypit saatavilla: {BLACK}{STRING}
 STR_6161    :Maastoruudukko -kytkin
 STR_6162    :Pyörivä villihiiri
 STR_6163    :Hiiren muotoiset vaunut kiitävät tiukkojen mutkien ja lyhyiden pudotusten läpi, lempeästi pyörien matkustajien hämmennykseksi
@@ -3317,7 +3317,7 @@ STR_6222    :Kävijöiden sisäänkäyntipistettä ei voi sijoittaa tähän…
 STR_6223    :Tulee olla puiston rajojen ulkopuolella!
 STR_6224    :{STRING} sijoitti kävijöiden sisäänkäyntipisteen.
 STR_6225    :Ei tuettu OpenGL-piirrossa
-STR_6226    :Aikainen skenaarion voitto
+STR_6226    :Ennenaikainen skenaarion voitto
 STR_6227    :Skenaario läväistään heti kun kaikki skenaarion tavoitteet ovat saavutettu ennen tavoitepäivämäärää.
 STR_6228    :Skenaarioasetukset
 STR_6229    :{WINDOW_COLOUR_2}{STRINGID}: {STRINGID}
@@ -3360,7 +3360,7 @@ STR_6268    :Etene seuraavaan hetkeen
 STR_6269    :Epäkelpo ilmastotunnus
 STR_6270    :Maastopinnat
 STR_6271    :Maastoreunat
-STR_6272    :Asemat
+STR_6272    :Asematyylit
 STR_6273    :Musiikki
 STR_6274    :Värimallia ei voi valita…
 STR_6275    :{WINDOW_COLOUR_2}Aseman tyyli:
@@ -4311,7 +4311,7 @@ STR_DTLS    :Rakenna puuttuvat Six Flags -laitteet, tai tee omat luomuksesi puis
 <Africa - African Diamond Mine>
 STR_SCNR    :Afrikan kaivokset
 STR_PARK    :Afrikan kaivokset
-STR_DTLS    :Olet perinyt lopetetun timanttikaivoksen, ja löydät arvokkaan timantin. Päätät sijoittaa rahat maailmankuulun teemapuiston rakentamiseen.
+STR_DTLS    :Olet perinyt lakkautetun timanttikaivoksen, ja löydät arvokkaan timantin. Päätät sijoittaa myyntituotot maailmankuulun teemapuiston rakentamiseen.
 
 <Africa - Oasis>
 STR_SCNR    :Kangastuskivaa
@@ -4331,22 +4331,22 @@ STR_DTLS    :Ympäristövirasto on kääntynyt puoleesi jotta vanhan öljynjalos
 <Asia - Great Wall of China Tourism Enhancement>
 STR_SCNR    :Kiinan muuri
 STR_PARK    :Kiinan muuri
-STR_DTLS    :Viranomaiset ovat päättäneet kehittää muurin alueen matkailua rakentamalla teemapuisto viereiselle tontille. Rahoista viis!
+STR_DTLS    :Paikalliset viranomaiset ovat päättäneet kehittää muurin alueen matkailua rakentamalla teemapuiston naapuritontille. Maksoi mitä maksoi!
 
 <Asia - Japanese Coastal Reclaim>
 STR_SCNR    :Okinawan ranta
 STR_PARK    :Okinawan ranta
-STR_DTLS    :Rannikon puistolta on loppunut tila. Ainoa mahdollisuutesi on rakentaa mereen, joten olet ottanut lainan. Korkeusrajoitukset ovat voimassa perustojen ja maanjäristyksien takia.
+STR_DTLS    :Rannikon puistolta on loppunut tila. Ainoa mahdollisuutesi on rakentaa mereen, joten olet ottanut lainaa. Korkeusrajoitukset ovat voimassa perustojen ja maanjäristyksien takia.
 
 <Asia - Maharaja Palace>
-STR_SCNR    :Maharaja-puisto
-STR_PARK    :Maharaja-puisto
-STR_DTLS    :Maharaja on käskenyt sinut tuomaan hupia ja viihdettä suurelle paikallisväestölle. Rakenna puisto Maharajan palatsin innoittamana.
+STR_SCNR    :Maharadža-puisto
+STR_PARK    :Maharadža-puisto
+STR_DTLS    :Maharadža on käskenyt sinut tuomaan hupia ja viihdettä runsaslukuiselle paikallisväestölle. Rakenna puisto maharadžan palatsin innoittamana.
 
 <Australasia - Ayers Rock>
 STR_SCNR    :Uluru-seikkailu
 STR_PARK    :Uluru-seikkailu
-STR_DTLS    :Autat aboriginaaleja rakentamaan puiston osana heidän kulttuurinedistämisohjelmaa. Sinun täytyy houkutella suuri määrä kävijöitä opettaaksesi heille aboriginaalien kulttuuriperintöä.
+STR_DTLS    :Auta aboriginaaleja rakentamaan puisto osana heidän kulttuurinedistämisohjelmaa. Sinun täytyy houkutella suuri määrä kävijöitä opettaaksesi heille aboriginaalien kulttuuriperintöä.
 
 <Australasia - Fun at the Beach>
 STR_SCNR    :Rantakivaa
@@ -4399,7 +4399,7 @@ STR_DTLS    :Johdat pientä puisto Rion läheisyydessä, mutta pankki vaatii lai
 <Dark Age - Castle>
 STR_SCNR    :Linnaranta
 STR_PARK    :Linnaranta
-STR_DTLS    :Paikallinen historian elävöitysryhmä ottavat harrastuksensa aika tosissaan. He ovat luottaneet tämän rannikkolinnan käsiisi, jotta voit rakentaa uuden keskiajan teemapuiston.
+STR_DTLS    :Paikallinen historian elävöitysryhmä ottaa harrastuksensa aika tosissaan. He ovat luottaneet tämän rannikkolinnan käsiisi, jotta voit rakentaa uuden keskiajan teemapuiston.
 
 <Dark Age - Robin Hood>
 STR_SCNR    :Sherwoodin metsä
