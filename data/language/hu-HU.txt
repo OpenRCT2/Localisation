@@ -1910,8 +1910,8 @@ STR_2670    :Scroll
 STR_2680    :Minden kutatás kész
 STR_2684    :Egy nagy csoport vendég érkezik
 STR_2685    :Szimplex zajparaméterek
-STR_2686    :Alacsony:
-STR_2687    :Magas:
+STR_2686    :Min. területmagasság:
+STR_2687    :Max. területmagasság:
 STR_2688    :Alapfrekvencia
 STR_2689    :Oktávok:
 STR_2690    :Térképgenerálás
@@ -3165,9 +3165,9 @@ STR_6041    :{BLACK}Nem vettél fel gépészt!
 STR_6042    :Magasságtérkép betöltése
 STR_6043    :Magasságtérkép választása
 STR_6044    :Magasságtérkép simítása
-STR_6045    :Erősség
+STR_6045    :Erősség:
 STR_6046    :Magasságtérkép normalizálása
-STR_6047    :Mezők simítása
+STR_6047    :Mezők széleinek simítása
 STR_6048    :Magasságtérkép hiba
 STR_6049    :PNG olvasási hiba
 STR_6050    :Bitmap olvasási hiba
@@ -3741,6 +3741,10 @@ STR_6669    :Személyzeti csalások megjelenítése
 STR_6670    :Vendégek viselkedése
 STR_6671    :Alkalmazottak „igazi” nevének mutatása
 STR_6672    :Váltás az alkalmazottak „igazi” nevének és az alkalmazottak számának mutatása között
+STR_6673    :Átlátszó
+STR_6674    :{COMMA16}. év {MONTH}
+STR_6675    :Vendég nevek
+STR_6676    :Legalább egy vendégneves objektumot ki kell választani
 
 #############
 # Scenarios #
