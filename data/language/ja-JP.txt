@@ -1888,7 +1888,7 @@ STR_2568    :Execute
 STR_2569    :Snapshot
 STR_2570    :Insert
 STR_2571    :Delete
-STR_2572    :ヘルプ
+STR_2572    :Help
 STR_2618    :Menu
 STR_2621    :NumPad 0
 STR_2622    :NumPad 1
@@ -1907,8 +1907,8 @@ STR_2635    :NumPad .
 STR_2636    :NumPad /
 STR_2669    :NumLock
 STR_2670    :Scroll
-STR_2680    :All research complete
-STR_2684    :Large group of guests arrive
+STR_2680    :すべての研究の完了
+STR_2684    :大量のゲストが到着する
 STR_2685    :シンプルノイズのパラメータ
 STR_2686    :最小土地高さ：
 STR_2687    :最大土地高さ：
@@ -1916,11 +1916,11 @@ STR_2688    :基準周波数：
 STR_2689    :オクターブ：
 STR_2690    :マップジェネレーション
 STR_2691    :ベースの高さ:
-STR_2692    :Water level:
-STR_2693    :Terrain:
-STR_2694    :Generate
-STR_2695    :Random terrain
-STR_2696    :Place trees
+STR_2692    :水高さ：
+STR_2693    :地形：
+STR_2694    :生成する
+STR_2695    :地形をランダム化する
+STR_2696    :木を配置する
 STR_2700    :自動セーブ頻度:
 STR_2701    :毎1分
 STR_2702    :毎5分
@@ -2409,7 +2409,7 @@ STR_5122    :RCT1のようにライドタイプ選定
 STR_5123    :ライドを新品にする
 STR_5125    :全て解体できる
 STR_5126    :ランダムのタイトル音楽
-STR_5127    :While dragging, paint landscape instead of changing elevation
+STR_5127    :ドラッグ中に、標高を変更するのではなく風景を塗る
 STR_5128    :選択範囲
 STR_5129    :{COMMA16}と{COMMA16}の間に選択範囲を入力して下さい。
 STR_5130    :マップサイズ
@@ -2419,11 +2419,11 @@ STR_5133    :パーク敷地のもっと小量の調整
 STR_5134    :パーク敷地のもっと大量の調整
 STR_5135    :パーク敷地や土地利用権を購入する
 STR_5136    :パーク敷地
-STR_5137    :Unlock operating limits
+STR_5137    :運営制限を解除する
 STR_5138    :{WINDOW_COLOUR_2}{STRINGID}
 STR_5139    :{WHITE}{STRINGID}
-STR_5140    :Disable brakes failure
-STR_5141    :Disable all breakdowns
+STR_5140    :ブレーキの故障を無効にする
+STR_5141    :すべての故障を無効にする
 STR_5142    :通常スピード
 STR_5143    :クイックスピード
 STR_5144    :高速スピード
@@ -2437,8 +2437,8 @@ STR_5151    :,
 STR_5152    :.
 STR_5153    :テーマを変更する
 STR_5154    :ハードウェア表示
-STR_5155    :Allow testing of unfinished tracks
-STR_5156    :Allows testing of most ride types even when the track is unfinished, does not apply to block sectioned modes
+STR_5155    :未完成のトラックのテストを許可する
+STR_5156    :トラックが未完成でもほとんどの乗り物タイプのテストを許可し、ブロックセクションモードには適用されません
 STR_5158    :メニューに戻る
 STR_5159    :OpenRCT2終了
 STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID} {POP16}{COMMA16}年
@@ -2531,7 +2531,7 @@ STR_5261    :フィルター
 STR_5262    :ワッキーワールド
 STR_5263    :タイムツイスター
 STR_5264    :カスタム
-STR_5265    :Select which content sources are visible
+STR_5265    :どのコンテンツソースを表示するか選択する
 STR_5266    :表示
 STR_5267    :文化と単位
 STR_5268    :音楽
@@ -2545,15 +2545,15 @@ STR_5276    :オブジェクトの名を入力して下さい。
 STR_5277    :クリア
 STR_5278    :サンドボックスモード
 STR_5279    :サンドボックスモードを切る
-STR_5280    :Allow editing land ownership settings through the Map window and other options that are normally restricted to the Scenario Editor
-STR_5281    :Features
+STR_5280    :マップウィンドウを通じて土地所有設定の編集を許可し、通常はシナリオエディターに制限される他のオプションも許可する
+STR_5281    :機能
 STR_5282    :RCT1のライド「稼動／閉鎖」信号機
 STR_5283    :RCT1のパーク「稼動／閉鎖」信号機
 STR_5284    :RCT1ののシナリオ選定フォント
-STR_5287    :Ride is already broken down
-STR_5288    :Ride is closed
-STR_5289    :No breakdowns available for this ride
-STR_5290    :Fix ride
+STR_5287    :乗り物はすでに故障しています
+STR_5288    :乗り物は閉鎖されています
+STR_5289    :この乗り物には故障が発生しません
+STR_5290    :乗り物を修理する
 STR_5291    :故障を強制できません
 STR_5292    :故障を強制する
 STR_5293    :ライド/アトラクションの閉鎖
@@ -2563,10 +2563,10 @@ STR_5296    :遊園地を閉める
 STR_5297    :遊園地を開ける
 STR_5298    :{RED}{STRINGID}
 STR_5299    :{LIGHTPINK}{STRINGID}
-STR_5300    :Quick fire staff
-STR_5301    :Clear your loan
+STR_5300    :スタッフを即座に解雇する
+STR_5301    :ローンを削除する
 STR_5302    :借入額をクリアする
-STR_5303    :Allow building in pause mode
+STR_5303    :ポーズ中の建設を許可する
 STR_5304    :タイトル順序:
 STR_5305    :RollerCoaster Tycoon 1
 STR_5306    :RollerCoaster Tycoon 1 (AA)
@@ -2581,7 +2581,7 @@ STR_5314    :タイルインスペクター
 STR_5335    :ライド入口
 STR_5336    :ライド出口
 STR_5337    :パーク入口
-STR_5338    :Element type
+STR_5338    :要素タイプ
 STR_5339    :ベースの高さ
 STR_5340    :クリアランス高さ
 STR_5343    :自動的にスタッフを配置する
@@ -2609,16 +2609,16 @@ STR_5364    :15以下
 STR_5365    :{BLACK}スタッフのスピード:
 STR_5366    :普通
 STR_5367    :速い
-STR_5368    :Reset crash status
+STR_5368    :クラッシュ状態をリセットする
 STR_5371    :オブジェクト選定
-STR_5372    :Invert right mouse dragging
+STR_5372    :右マウスドラッグを反転する
 STR_5373    :名前 {STRINGID}
 STR_5374    :日時 {STRINGID}
 STR_5375    :▲
 STR_5376    :▼
-STR_5404    :Name already exists
+STR_5404    :名前はすでに存在します
 STR_5440    :フォーカス損失時に全画面を最小化
-STR_5442    :Force park rating:
+STR_5442    :パーク評価を設定する：
 STR_5447    :タイプ {STRINGID}
 STR_5448    :ライド／乗り物 {STRINGID}
 STR_5449    :ゲームのスピードを下げる
@@ -2633,10 +2633,10 @@ STR_5457    :サポート制限を無効にする
 STR_5458    :右へ回転する
 STR_5459    :左へ回転する
 STR_5460    :ビュウを左へ回転する
-STR_5461    :Set guests’ parameters
+STR_5461    :すべてのゲストのパラメータ
 STR_5462    :{CURRENCY}
 STR_5463    :楽しむの目的
-STR_5464    :General
+STR_5464    :一般設定
 STR_5465    :天気
 STR_5466    :スタッフ
 STR_5467    :ALT + 
@@ -2660,7 +2660,7 @@ STR_5484    :{BLACK}(残り{COMMA16}週間)
 STR_5485    :{STRING}
 STR_5486    :{BLACK}{COMMA16}
 STR_5487    :最近のメッセージの表示
-STR_5489    :Show only tracked guests
+STR_5489    :トラッキングされたゲストのみ表示する
 STR_5490    :フォーカス損失時に音を切る
 STR_5491    :発明品リスト
 STR_5492    :シナリオ設定
@@ -2676,7 +2676,7 @@ STR_5502    :マルチプレイ
 STR_5503    :ホスト名またはIPアドレスを入力してください:
 STR_5504    :マルチプレイのステイタスの表示
 STR_5505    :サーバに接続できない
-STR_5506    :Guests ignore intensities
+STR_5506    :ゲストは強度を無視する
 STR_5510    :デフォルトのサウンドデバイス
 STR_5511    :(未知)
 STR_5512    :名前を保存
@@ -2726,19 +2726,19 @@ STR_5555    :他のトラックタイプの乗り物を表示する
 STR_5556    :プレイヤーを蹴る
 STR_5557    :非同期化後に接続を維持する（マルチプレイ）
 STR_5558    :この設定を適用するには再起動が必要です
-STR_5559    :10 min. inspections
-STR_5560    :Sets the inspection time to ‘Every 10 minutes’ on all rides
-STR_5561    :Failed to load language
+STR_5559    :10分ごとの点検
+STR_5560    :すべての乗り物の点検時間を「10分ごと」に設定する。
+STR_5561    :言語の読み込みに失敗しました
 STR_5562    :ご注意！
-STR_5563    :This feature is currently unstable, take extra caution.
+STR_5563    :この機能は現在不安定ですので、十分に注意してください
 STR_5566    :パスワード:
 STR_5567    :発表する
 STR_5568    :パスワードが必要
 STR_5569    :このサーバはパスワードが必要
 STR_5570    :リストを更新する
-STR_5571    :Join Game
-STR_5572    :Add To Favourites
-STR_5573    :Remove From Favourites
+STR_5571    :ゲームに参加する
+STR_5572    :お気に入りに追加す
+STR_5573    :お気に入りから削除する
 STR_5574    :サーバの名前:
 STR_5575    :プレイヤーの制限:
 STR_5576    :ポート:
@@ -2799,24 +2799,24 @@ STR_5631    :オリジナルDLCパーク
 STR_5632    :自分だけのビルド…
 STR_5633    :CMD + 
 STR_5634    :OPTION + 
-STR_5635    :{WINDOW_COLOUR_2}Money spent: {BLACK}{CURRENCY2DP}
-STR_5636    :{WINDOW_COLOUR_2}Commands ran: {BLACK}{COMMA16}
+STR_5635    :{WINDOW_COLOUR_2}支出金額：{BLACK}{CURRENCY2DP}
+STR_5636    :{WINDOW_COLOUR_2}実行されたコマンド：{BLACK}{COMMA16}
 STR_5637    :それはできません…
 STR_5638    :アクセス拒否
-STR_5639    :Show list of players
-STR_5640    :Manage groups
+STR_5639    :プレイヤーのリストを表示する
+STR_5640    :グループを管理する
 STR_5641    :デファルトのグループ:
 STR_5642    :グループ
 STR_5643    :新しいグループ
 STR_5644    :グループを退ける
 STR_5645    :チャット
 STR_5646    :テラフォーム
-STR_5647    :Toggle Pause
-STR_5648    :Set Water Level
-STR_5649    :Create Ride
-STR_5650    :Remove Ride
-STR_5651    :Build Ride
-STR_5652    :Ride Properties
+STR_5647    :ポーズを切り替える
+STR_5648    :水位を設定する
+STR_5649    :乗り物を作成する
+STR_5650    :乗り物を削除する
+STR_5651    :乗り物を建設する
+STR_5652    :乗り物の設定
 STR_5653    :景色物
 STR_5654    :歩道
 STR_5655    :ゲスト
@@ -2827,22 +2827,22 @@ STR_5659    :プレイヤーを蹴る
 STR_5660    :グループを変更する
 STR_5661    :プレイヤーのグループに設定する
 STR_5662    :N/A
-STR_5663    :Clear Landscape
+STR_5663    :景色をクリアする
 STR_5664    :カンニング
-STR_5665    :Toggle Scenery Cluster
-STR_5666    :Passwordless Login
+STR_5665    :景観クラスタを切り替える
+STR_5666    :パスワードなしログイン
 STR_5701    :{WINDOW_COLOUR_2}最後のアクション: {BLACK}{STRINGID}
 STR_5702    :プレイヤーの最後のアクションをに移動
 STR_5703    :ホストを蹴られません
 STR_5704    :最後のアクション
-STR_5705    :Can’t set to this group
-STR_5706    :Can’t remove group that players belong to
-STR_5707    :This group cannot be modified
-STR_5708    :Can’t change the group that the host belongs to
+STR_5705    :このグループに設定できません
+STR_5706    :プレイヤーが所属しているグループは削除できません
+STR_5707    :このグループは変更できません
+STR_5708    :ホストが所属するグループは変更できません
 STR_5709    :グループ名を変える
 STR_5710    :グループ名
 STR_5711    :グループ名を入力してください。
-STR_5712    :Can’t modify permission that you do not have yourself
+STR_5712    :自分が持っていない権限を変更することはできません
 STR_5713    :プレイヤーを蹴る
 STR_5714    :設定ウィンドウの表示
 STR_5715    :新しいゲーム
@@ -2879,9 +2879,9 @@ STR_5750    :接続が切断されました。
 STR_5751    :データなし
 STR_5752    :{OUTLINE}{RED}{STRING}が切断されました
 STR_5753    :{OUTLINE}{RED}{STRING}が切断されました ({STRING})
-STR_5754    :Bad Player Name
+STR_5754    :無効なプレイヤー名
 STR_5755    :不適切なソフトウェアバージョン（サーバは{STRING}を使用しています）
-STR_5756    :Bad Password
+STR_5756    :無効なパスワード
 STR_5757    :サーバがいっぱいです
 STR_5758    :{OUTLINE}{GREEN}{STRING}がゲームに参加しました。
 STR_5759    :地図をダウンロード中…
@@ -2889,8 +2889,8 @@ STR_5760    :香港ドル (HK$)
 STR_5761    :ニュー台湾ドル (NT$)
 STR_5762    :人民元 (CN¥)
 STR_5763    :全てのファイル
-STR_5764    :Invalid ride type
-STR_5765    :Cannot edit rides of invalid type
+STR_5764    :無効な乗り物タイプ
+STR_5765    :無効なタイプの乗り物は編集できません
 STR_5766    :ハンガリーのフォリント(Ft)
 STR_5767    :収入
 STR_5768    :顧客総数
@@ -2911,33 +2911,33 @@ STR_5782    :今から接続中です。「{STRING}」でチャットできま�
 STR_5783    :{WINDOW_COLOUR_2}シナリオがロック中
 STR_5784    :{BLACK}このシナリオのロックを解除するために前のシナリオを完了して下さい。
 STR_5785    :グループの名を変えません。
-STR_5786    :Invalid group name
-STR_5787    :{COMMA32} players online
-STR_5788    :Default inspection interval:
+STR_5786    :無効なグループ名
+STR_5787    :{COMMA32}人のプレイヤーがオンライン
+STR_5788    :デフォルトの点検間隔：
 STR_5789    :電光効果を無効にする
-STR_5790    :Toggles RCT1-style pricing{NEWLINE}(e.g. both ride price and entrance price)
-STR_5791    :Sets the reliability of all rides to 100%{NEWLINE}and resets their built date to “this year”
-STR_5792    :Fixes all broken down rides
-STR_5793    :Resets the crash history of a ride,{NEWLINE}so guests will not complain that its unsafe
-STR_5794    :Some scenarios disable editing of some{NEWLINE}of the rides already in the park.{NEWLINE}This cheat lifts the restriction
-STR_5795    :Guests ride every attraction in the park{NEWLINE}even if the intensity is extremely high
-STR_5796    :Forces the park to close or open
-STR_5797    :Disables weather changes and{NEWLINE}freezes the selected weather
-STR_5798    :Allows building actions in pause mode
-STR_5799    :Disables ride breakdowns and crashes due to brake failure
-STR_5800    :Prevents rides from breaking down
-STR_5801    :Disable littering
-STR_5802    :Stops guests from littering and vomiting
-STR_5803    :Rotate selected map element
+STR_5790    :RCT1スタイルの料金を切り替える{NEWLINE}(例：乗り物の料金と入場料の両方)
+STR_5791    :すべての乗り物の信頼性を100%に設定し{NEWLINE}その建設日を「今年」にリセットする
+STR_5792    :故障した乗り物をすべて修理する
+STR_5793    :乗り物のクラッシュ履歴をリセットし、ゲストが安全ではないと不満を言わないようにする
+STR_5794    :一部のシナリオでは、公園内の{NEWLINE}すでに存在する乗り物の編集が無効になります{NEWLINE}このチートはその制限を解除します
+STR_5795    :ゲストは公園内のすべてのアトラクションに乗ります{NEWLINE}たとえ強度が非常に高くても
+STR_5796    :パークを強制的に閉鎖または開放する
+STR_5797    :天候の変化を無効にし、選択した天候を固定する
+STR_5798    :ポーズモードでの建設行動を許可する
+STR_5799    :ブレーキの故障による乗り物の故障とクラッシュを無効にする
+STR_5800    :乗り物の故障を防ぐ
+STR_5801    :ごみを散らかさないようにする
+STR_5802    :ゲストがごみを捨てたり嘔吐したりするのを止める
+STR_5803    :選択したマップ要素を回転させる
 STR_5804    :音をミュートする
-STR_5805    :If checked, your server will be added to the{NEWLINE}public server list so everyone can find it
-STR_5806    :Toggle windowed mode
+STR_5805    :チェックされている場合、あなたのサーバーは{NEWLINE}公共サーバーリストに追加され、誰でも見つけられるようになります。
+STR_5806    :ウィンドウモードを切り替える
 STR_5807    :{WINDOW_COLOUR_2}ライドの数: {BLACK}{COMMA16}
 STR_5808    :{WINDOW_COLOUR_2}ショップの数: {BLACK}{COMMA16}
 STR_5809    :{WINDOW_COLOUR_2}インフォメーションキオスクと設備などの数: {BLACK}{COMMA16}
-STR_5810    :Disable vehicle limits
-STR_5811    :If checked, you can have up to{NEWLINE}255 cars per train and 31{NEWLINE}trains per ride
-STR_5812    :Show multiplayer window
+STR_5810    :乗り物の制限を無効にする
+STR_5811    :チェックされている場合、1編成あたり最大255台の車両と、1つの乗り物に対して31編成を持つことができます。
+STR_5812    :マルチプレイヤーのウィンドウを表示する
 STR_5813    :「{STRING}」
 STR_5814    :{WINDOW_COLOUR_1}「{STRING}」
 
