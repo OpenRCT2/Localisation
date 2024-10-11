@@ -248,7 +248,6 @@ STR_0833    :ゲームをポーズする
 STR_0834    :ディスクとゲームオプション
 STR_0839    :{UINT16} x {UINT16}
 STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
-# The following six strings were used for display resolutions, but have been replaced.
 STR_0847    :OpenRCT2について
 STR_0850    :{WINDOW_COLOUR_2}Copyright © 2002 Chris Sawyer, all rights reserved
 STR_0851    :{WINDOW_COLOUR_2}Designed and programmed by Chris Sawyer
@@ -1740,7 +1739,7 @@ STR_2382    :地形
 STR_2383    :水
 STR_2384    :{WINDOW_COLOUR_2}あなたの目標:
 STR_2385    :{BLACK}なし
-STR_2386    :{BLACK}{POP16}{MONTHYEAR}の終わりに、 パークの内に{PUSH16}{PUSH16}{COMMA32}以上人の来客し、600以上のパーク評価値を取得する必要があります。
+STR_2386    :{BLACK}{POP16}{POP16}{MONTHYEAR}の終わりに、 パークの内に{PUSH16}{PUSH16}{PUSH16}{COMMA32}以上人の来客し、600以上のパーク評価値を取得する必要があります。
 STR_2387    :{BLACK}{POP16}{MONTHYEAR}の終わりに、 {CURRENCY}以上のパーク評価額を取得する必要があります。
 STR_2388    :{BLACK}楽しんで下さい！
 STR_2389    :{BLACK}最高の{STRINGID}を建設してください！
@@ -1800,7 +1799,6 @@ STR_2450    :{YELLOW}パークの広告キャンペーンが終わりました�
 STR_2451    :{YELLOW}{STRINGID}の広告キャンペーンが終わりました。
 STR_2452    :{WINDOW_COLOUR_2}資金／借入: {BLACK}{CURRENCY2DP}
 STR_2453    :{WINDOW_COLOUR_2}資金／借入: {RED}{CURRENCY2DP}
-STR_2454    :{BLACK}{CURRENCY2DP} -
 STR_2457    :財務状況を表示
 STR_2458    :キャッシュ (ローン除く)の推移グラフを表示
 STR_2459    :遊園地評価額の推移グラフを表示
@@ -1911,12 +1909,12 @@ STR_2669    :NumLock
 STR_2670    :Scroll
 STR_2680    :All research complete
 STR_2684    :Large group of guests arrive
-STR_2685    :Simplex Noise Parameters
-STR_2686    :Low:
-STR_2687    :High:
-STR_2688    :Base Frequency:
-STR_2689    :Octaves:
-STR_2690    :Map Generation
+STR_2685    :シンプルノイズのパラメータ
+STR_2686    :最小土地高さ：
+STR_2687    :最大土地高さ：
+STR_2688    :基準周波数：
+STR_2689    :オクターブ：
+STR_2690    :マップジェネレーション
 STR_2691    :ベースの高さ:
 STR_2692    :Water level:
 STR_2693    :Terrain:
@@ -2084,20 +2082,20 @@ STR_2992    :バナーのテキト
 STR_2993    :テキトを入力してください:
 STR_2994    :看板の文字を変更
 STR_2995    :この看板を除去する
-STR_2996    :{BLACK}ABC
-STR_2997    :{GREY}ABC
-STR_2998    :{WHITE}ABC
-STR_2999    :{RED}ABC
-STR_3000    :{GREEN}ABC
-STR_3001    :{YELLOW}ABC
-STR_3002    :{TOPAZ}ABC
-STR_3003    :{CELADON}ABC
-STR_3004    :{BABYBLUE}ABC
-STR_3005    :{PALELAVENDER}ABC
-STR_3006    :{PALEGOLD}ABC
-STR_3007    :{LIGHTPINK}ABC
-STR_3008    :{PEARLAQUA}ABC
-STR_3009    :{PALESILVER}ABC
+STR_2996    :{BLACK}あいう
+STR_2997    :{GREY}あいう
+STR_2998    :{WHITE}あいう
+STR_2999    :{RED}あいう
+STR_3000    :{GREEN}あいう
+STR_3001    :{YELLOW}あいう
+STR_3002    :{TOPAZ}あいう
+STR_3003    :{CELADON}あいう
+STR_3004    :{BABYBLUE}あいう
+STR_3005    :{PALELAVENDER}あいう
+STR_3006    :{PALEGOLD}あいう
+STR_3007    :{LIGHTPINK}あいう
+STR_3008    :{PEARLAQUA}あいう
+STR_3009    :{PALESILVER}あいう
 STR_3010    :ファイルをロードすることができません…
 STR_3011    :ファイルには無効なデータが含まれています
 STR_3045    :音楽のスタイルの選定
@@ -2121,7 +2119,7 @@ STR_3066    :名手のパーク
 STR_3067    :現実のパーク
 STR_3068    :外のパーク
 STR_3069    :トップの部分
-STR_3070    :Slope to Level
+STR_3070    :傾斜から水平
 STR_3071    :{WINDOW_COLOUR_2}パーク中で同一価格
 STR_3072    :この価格を園内全体に使用するかどうかを選択
 STR_3073    :{RED}警告:遊園地のランクが700以下に下がりました!{NEWLINE} 4週間以内にランクを上げることができなかった場合、遊園地は閉鎖されてしまいます
@@ -2183,7 +2181,7 @@ STR_3141    :ケーブルリフトヒルでは各乗物の複数周回路は不�
 STR_3142    :{WINDOW_COLOUR_2}収容能力: {BLACK}{STRINGID}
 STR_3143    :マップ上の人々を表示
 STR_3144    :マップ上の乗物と売店を表示
-STR_3160    :Select the number of circuits per ride
+STR_3160    :乗り物ごとの周回数を選択する
 STR_3162    :充分なメモリーを割り当てられません
 STR_3163    :新規データをインストール中: 
 STR_3164    :{BLACK}{COMMA16} 選択(最高{COMMA16})
@@ -2723,11 +2721,11 @@ STR_5550    :{POP16}{POP16}{COMMA16}年 {PUSH16}{PUSH16}{MONTH} {PUSH16}{PUSH16}
 STR_5551    :年日月
 STR_5552    :{POP16}{POP16}{COMMA16}年 {PUSH16}{PUSH16}{PUSH16}{STRINGID} {MONTH}
 STR_5553    :Steamオーバーレイが開いている時に一時停止する
-STR_5554    :Enable mountain tool
-STR_5555    :Show vehicles from other track types
+STR_5554    :マウンテンツールを切り替える
+STR_5555    :他のトラックタイプの乗り物を表示する
 STR_5556    :プレイヤーを蹴る
 STR_5557    :非同期化後に接続を維持する（マルチプレイ）
-STR_5558    :A restart is required for this setting to take effect
+STR_5558    :この設定を適用するには再起動が必要です
 STR_5559    :10 min. inspections
 STR_5560    :Sets the inspection time to ‘Every 10 minutes’ on all rides
 STR_5561    :Failed to load language
@@ -2749,12 +2747,12 @@ STR_5578    :ロシア・ルーブル (₽)
 STR_5579    :ウインドウのスケール:
 STR_5580    :チェコ・コルナ (Kč)
 STR_5581    :FPSを表示する
-STR_5582    :Trap mouse cursor in window
+STR_5582    :ウィンドウ内でマウスカーソルを制限する
 STR_5583    :{COMMA1DP16}m/s
 STR_5584    :SI
-STR_5585    :Unlocks ride operation limits, allowing for things like {VELOCITY} lift hills
-STR_5586    :Automatically open shops and stalls
-STR_5587    :Shops and stalls will be automatically opened after building them
+STR_5585    :乗り物の運営制限を解除し、{VELOCITY} のリフトヒルなどを可能にします
+STR_5586    :ショップと屋台を自動的に開く
+STR_5587    :ショップと屋台は建設後に自動的に開かれます
 STR_5588    :他のプレイヤーと一緒にゲームする
 STR_5589    :知らせ設定
 STR_5590    :パークの賞罰
@@ -2773,16 +2771,16 @@ STR_5603    :ゲストがライドを出る
 STR_5604    :ゲストが売り物を買った
 STR_5605    :ゲストが設備を使った
 STR_5606    :ゲストが死んだ
-STR_5607    :Forcefully remove selected map element.
+STR_5607    :選択したマップ要素を強制的に削除する
 STR_5608    :BH
 STR_5609    :CH
-STR_5610    :Remove the currently selected map element. This will forcefully remove it, so no cash will be used/gained. Use with caution.
+STR_5610    :現在選択されているマップ要素を削除します。これは強制的に削除されるため、現金は使用されず、得られることもありません。使用には注意してください。
 STR_5611    :化
 STR_5612    :お化けを示すフラグ
 STR_5613    :壊
 STR_5614    :破損を示すフラグ
 STR_5615    :L
-STR_5616    :Last element for tile flag
+STR_5616    :タイルフラグの最後の要素
 STR_5617    :選択された要素を上に移動する
 STR_5618    :選択された要素を下に移動する
 STR_5619    :ローラーコースタータイクーン
