@@ -3034,7 +3034,7 @@ STR_5910    :設定する
 STR_5911    :歩道透明度の切り替え
 STR_5912    :歩道透明度の切り替え
 STR_5913    :チャット
-STR_5914    :Unknown ride
+STR_5914    :不明なライド
 STR_5915    :プレイヤー
 STR_5916    :{COMMA16}プレイヤー
 STR_5917    :{COMMA16}プレイヤー
@@ -3042,8 +3042,8 @@ STR_5918    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COM
 STR_5919    :{COMMA16}
 STR_5920    :天気効果をレンダリングする
 STR_5921    :このオプションを有効にすると、暴風雨ある時に雨と湿っぽい色でレンダリングします。
-STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}Max {STRINGID}
-STR_5923    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}Max {COMMA16} {STRINGID} per train
+STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}最大{STRINGID}
+STR_5923    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}列車ごとに最大{COMMA16}{STRINGID}の車両
 STR_5924    :面ディテール
 STR_5925    :歩道ディテール
 STR_5926    :トラック・ディテール
@@ -3053,68 +3053,68 @@ STR_5929    :壁ディテール
 STR_5930    :大景色物ディテール
 STR_5931    :バナー・ディテール
 STR_5932    :破損要素ディテール
-STR_5933    :Properties
-STR_5934    :Terrain texture: {BLACK}{STRINGID}
-STR_5935    :Terrain edge: {BLACK}{STRINGID}
-STR_5936    :Land ownership: {BLACK}{STRINGID}
-STR_5937    :Not owned and not for sale
-STR_5938    :Water level: {BLACK}{COMMA16}
-STR_5939    :Remove park fences
-STR_5940    :Restore park fences
-STR_5941    :Base height:
-STR_5942    :Path name: {BLACK}{STRINGID}
-STR_5943    :Additions: {BLACK}{STRINGID}
-STR_5944    :Additions: {BLACK}None
-STR_5945    :Connected edges:
-STR_5946    :Ride type: {BLACK}{STRINGID}
-STR_5947    :Ride ID: {BLACK}{COMMA16}
-STR_5948    :Ride name: {BLACK}{STRINGID}
-STR_5949    :Chain lift
-STR_5950    :Apply changes to entire track piece
-STR_5951    :Track piece ID: {BLACK}{COMMA16}
-STR_5952    :Sequence number: {BLACK}{COMMA16}
-STR_5953    :Sort the map elements on the current tile based on their base height.
-STR_5954    :Scenery age: {BLACK}{COMMA16}
-STR_5955    :Quadrant placement: {BLACK}{STRINGID}
+STR_5933    :プロパティ
+STR_5934    :地形テクスチャ:{BLACK}{STRINGID}
+STR_5935    :地形エッジ:{BLACK}{STRINGID}
+STR_5936    :土地所有権:{BLACK}{STRINGID}
+STR_5937    :所有されておらず、販売されていません
+STR_5938    :水位:{BLACK}{COMMA16}
+STR_5939    :パークフェンスを削除
+STR_5940    :パークフェンスを復元
+STR_5941    :基本高さ:
+STR_5942    :パス名:{BLACK}{STRINGID}
+STR_5943    :追加:{BLACK}{STRINGID}
+STR_5944    :追加:{BLACK}なし
+STR_5945    :接続エッジ:
+STR_5946    :ライドタイプ:{BLACK}{STRINGID}
+STR_5947    :ライドID:{BLACK}{COMMA16}
+STR_5948    :ライド名:{BLACK}{STRINGID}
+STR_5949    :チェーンリフト
+STR_5950    :変更を全トラックピースに適用
+STR_5951    :トラックピースID:{BLACK}{COMMA16}
+STR_5952    :シーケンス番号:{BLACK}{COMMA16}
+STR_5953    :現在のタイル上の地面の高さに基づいてマップ要素をソートします
+STR_5954    :景観の年齢:{BLACK}{COMMA16}
+STR_5955    :四分円配置:{BLACK}{STRINGID}
 STR_5956    :南西
 STR_5957    :北西
 STR_5958    :北東
 STR_5959    :南東
-STR_5960    :Quadrant placement:
-STR_5961    :Entry index: {BLACK}{COMMA16}
-STR_5962    :Collision detection:
-STR_5963    :Raised Corners:
-STR_5964    :Diagonal
-STR_5965    :Entrance type: {BLACK}{STRINGID}
-STR_5966    :Park entrance part: {BLACK}{STRINGID}
+STR_5960    :四分円配置:
+STR_5961    :エントリーのインデックス:{BLACK}{COMMA16}
+STR_5962    :衝突検出:
+STR_5963    :角の持ち上げ:
+STR_5964    :対角線
+STR_5965    :入口タイプ:{BLACK}{STRINGID}
+STR_5966    :パーク入口パート:{BLACK}{STRINGID}
 STR_5967    :中
 STR_5968    :左
 STR_5969    :右
-STR_5970    :入口のID: {BLACK}{COMMA16}
-STR_5971    :出口のID: {BLACK}{COMMA16}
-STR_5972    :ライドのID: {BLACK}{COMMA16}
-STR_5973    :Clamp to next
-STR_5974    :Changes the base- and clearance height so that it’s at the same as the next element on the current tile. Doing this makes it easier to build on this tile.
-STR_5975    :Slope:
-STR_5976    :Flat
-STR_5977    :Right side up
-STR_5978    :Left side up
-STR_5979    :Wall type: {BLACK}{COMMA16}
-STR_5980    :Banner text: {BLACK}{STRINGID}
+STR_5970    :入口のID:{BLACK}{COMMA16}
+STR_5971    :出口のID:{BLACK}{COMMA16}
+STR_5972    :ライドのID:{BLACK}{COMMA16}
+STR_5973    :次にクランプ
+STR_5974    :基本高さとクリアランス高さを、現在のタイルの次の要素と同じに変更します。これにより、このタイル上での建設が容易になります
+STR_5975    :傾斜:
+STR_5976    :平坦
+STR_5977    :右側上
+STR_5978    :左側上
+STR_5979    :壁の種類: {BLACK}{COMMA16}
+STR_5980    :バナーテキスト:{BLACK}{STRINGID}
 STR_5981    :バナーではありません
-STR_5982    :Large scenery type: {BLACK}{COMMA16}
-STR_5983    :Large scenery piece ID: {BLACK}{COMMA16}
-STR_5984    :Blocked paths:
+STR_5982    :大型景観タイプ:{BLACK}{COMMA16}
+STR_5983    :大型景観ピースID:{BLACK}{COMMA16}
+STR_5984    :ブロックされたパス:
 STR_5985    :新しいフォルダ
 STR_5986    :新しいフォルダの名を入力して下さい。
 STR_5987    :フォルダを作成できません
-STR_5988    :No remaining land rights for sale
-STR_5989    :No remaining construction rights for sale
-STR_5990    :No remaining land rights or construction rights for sale
-STR_5991    :Can’t paste element…
-STR_5992    :The map elements limit has been reached
-STR_5993    :Copy selected element
-STR_5994    :Paste copied element
+STR_5988    :売りに出ている土地権利はありません
+STR_5989    :売りに出ている建設権利はありません
+STR_5990    :売りに出ている土地権利または建設権利はありません
+STR_5991    :要素を貼り付けることができません…
+STR_5992    :マップ要素の制限に達しました
+STR_5993    :選択した要素をコピー
+STR_5994    :コピーした要素を貼り付け
 STR_5995    :ブースター
 STR_5996    :ブースターのスピード
 STR_5997    :資金を追加/設定
@@ -3126,18 +3126,18 @@ STR_6002    :ランプと乗り物は夜にライトアップされます。{NEW
 STR_6003    :切り欠きビュー
 STR_6004    :切り欠きビュー
 STR_6005    :切り欠きビューを使う
-STR_6006    :Cut-away view only displays map elements at or below the cut height (vertical clipping) and in the selected area (horizontal clipping).
+STR_6006    :切り取りビューは、切り高さ（垂直クリッピング）以下のマップ要素と選択されたエリア（水平クリッピング）のみを表示します
 STR_6007    :切り高さ
-STR_6008    :Click to toggle raw value<->value in measurement units
+STR_6008    :クリックして生の値<->測定単位の値を切り替え
 STR_6009    :切り高さに選定
 STR_6010    :{COMMA2DP32}m
 STR_6011    :{COMMA1DP16}ft
 STR_6012    :{COMMA1DP16}
-STR_6013    :Guests will only pay the ticket to enter the park and services.{NEWLINE}Ride entry is free.
-STR_6014    :Guests will only pay entrance tickets for rides and services.{NEWLINE}They won’t pay anything to enter the park.
+STR_6013    :ゲストはパークに入るためのチケットとサービスのみを支払います。{NEWLINE}ライドの入場は無料です
+STR_6014    :ゲストはライドとサービスの入場チケットのみを支払います。{NEWLINE}パークに入るためには何も支払う必要はありません
 STR_6015    :斜面
-STR_6016    :Modify Tile
-STR_6017    :ゆっくりして下さい。
+STR_6016    :タイルを変更
+STR_6017    :ゆっくりして下さい
 STR_6018    :ライドの建設 - 左折
 STR_6019    :ライドの建設 - 右折
 STR_6020    :ライドの建設 - 直進
@@ -3150,30 +3150,30 @@ STR_6026    :ライドの建設 - 前のトラック
 STR_6027    :ライドの建設 - 次のトラック
 STR_6028    :ライドの建設 - 現在のアイテムを建てる
 STR_6029    :ライドの建設 - 削除
-STR_6030    :Scenery picker. Click any scenery on the map to select the same piece for construction.
+STR_6030    :景観ピッカー。マップ上の任意の景観をクリックすると、同じピースを建設用に選択できます
 STR_6031    :サーバの説明:
 STR_6032    :サーバの挨拶:
 STR_6033    :RCT1インストールのパス:
 STR_6034    :{BLACK}{STRING}
 STR_6035    :RCT1のダイレクトリーを選定します。
 STR_6036    :クリア
-STR_6037    :Please select a valid RCT1 directory
-STR_6038    :If you have RCT1 installed, set this option to its directory to load scenarios, music, etc.
-STR_6039    :Quick demolish ride
+STR_6037    :有効なRCT1ディレクトリを選択してください
+STR_6038    :RCT1がインストールされている場合、このオプションをそのディレクトリに設定してシナリオ、音楽などを読み込むことができます。
+STR_6039    :ライドを迅速に解体
 STR_6040    :シナリオ設定
-STR_6041    :{BLACK}No mechanics are hired!
-STR_6042    :ハイトマップをロード
-STR_6043    :ハイトマップを選ぶ
-STR_6044    :地形の滑らか
-STR_6045    :Strength
-STR_6046    :Normalise height map
-STR_6047    :Smooth tiles
-STR_6048    :Height map error
-STR_6049    :Error reading PNG
-STR_6050    :Error reading bitmap
-STR_6052    :The heightmap is too big, and will be cut off
-STR_6053    :The heightmap cannot be normalised
-STR_6054    :Only 24-bit bitmaps are supported
+STR_6041    :{BLACK}メカニックが雇われていません！
+STR_6042    :ハイトマップを読み込む
+STR_6043    :ハイトマップを選択
+STR_6044    :ハイトマップを平滑化
+STR_6045    :強度:
+STR_6046    :ハイトマップを正規化
+STR_6047    :タイルのエッジを平滑化
+STR_6048    :ハイトマップエラー
+STR_6049    :PNGの読み取りエラー
+STR_6050    :ビットマップの読み取りエラー
+STR_6052    :ハイトマップが大きすぎて、切り取られます
+STR_6053    :ハイトマップを正規化できません
+STR_6054    :24ビットビットマップのみがサポートされています
 STR_6055    :OpenRCT2ハイトマップファイル
 STR_6056    :ミュート
 STR_6057    :ツールバーでミュートのボタンを表示する
@@ -3183,51 +3183,51 @@ STR_6060    :来客の購入をアニメーションで表示する
 STR_6061    :来客の購入時、金額をアニメーションで表示する
 STR_6062    :{OUTLINE}{GREEN}+ {CURRENCY2DP}
 STR_6063    :{OUTLINE}{RED}- {CURRENCY2DP}
-STR_6064    :Own all land
-STR_6065    :Log user actions
-STR_6066    :Logs all user actions to files in your user directory.
-STR_6067    :Server started.
-STR_6068    :Server shutdown.
-STR_6069    :{STRING} was kicked from the server by {STRING}.
-STR_6070    :{STRING} was set to group ‘{STRING}’ by {STRING}.
-STR_6071    :{STRING} created new player group ‘{STRING}’.
-STR_6072    :{STRING} deleted player group ‘{STRING}’.
-STR_6073    :{STRING} edited permissions for player group ‘{STRING}’.
-STR_6074    :{STRING} changed player group name from ‘{STRING}’ to ‘{STRING}’.
-STR_6075    :{STRING} changed the default player group to ‘{STRING}’.
-STR_6076    :{STRING} used/toggled cheat ‘{STRING}’.
+STR_6064    :すべての土地を所有
+STR_6065    :ユーザーアクションをログに記録
+STR_6066    :ユーザーアクションをすべてユーザーディレクトリのファイルに記録します
+STR_6067    :サーバーが起動しました
+STR_6068    :サーバーがシャットダウンしました
+STR_6069    :{STRING}は{STRING} によってサーバーからキックされました。
+STR_6070    :{STRING}は{STRING} によってグループ「{STRING}」に設定されました。
+STR_6071    :{STRING}が新しいプレイヤーグループ「{STRING}」を作成しました。
+STR_6072    :{STRING}がプレイヤーグループ「{STRING}」を削除しました。
+STR_6073    :{STRING}がプレイヤーグループ「{STRING}」の権限を編集しました。
+STR_6074    :{STRING}がプレイヤーグループ名を「{STRING}」から「{STRING}」に変更しました。
+STR_6075    :{STRING}がデフォルトのプレイヤーグループを「{STRING}」に変更しました。
+STR_6076    :{STRING}がチート「{STRING}」を使用/切り替えました。
 STR_6077    :資金を追加
-STR_6078    :{STRING} created ride ‘{STRING}’.
-STR_6079    :{STRING} demolished ride ‘{STRING}’.
-STR_6080    :{STRING} changed the appearance of ride ‘{STRING}’.
-STR_6081    :{STRING} changed the status of ride ‘{STRING}’ to closed.
-STR_6082    :{STRING} changed the status of ride ‘{STRING}’ to open.
-STR_6083    :{STRING} changed the status of ride ‘{STRING}’ to testing.
-STR_6084    :{STRING} changed the vehicle settings of ride ‘{STRING}’.
-STR_6085    :{STRING} changed the ride settings of ride ‘{STRING}’.
-STR_6086    :{STRING} renamed the ride ‘{STRING}’ to ‘{STRING}’.
-STR_6087    :{STRING} changed the price of ride ‘{STRING}’ to {STRING}
-STR_6088    :{STRING} changed the secondary price of ride ‘{STRING}’ to {STRING}
-STR_6089    :{STRING} renamed the park from ‘{STRING}’ to ‘{STRING}’.
-STR_6090    :{STRING} opened the park.
-STR_6091    :{STRING} closed the park.
-STR_6092    :{STRING} changed the park entrance fee to {STRING}
-STR_6093    :{STRING} placed new scenery.
-STR_6094    :{STRING} removed scenery.
-STR_6095    :{STRING} edited scenery.
-STR_6096    :{STRING} set sign name to ‘{STRING}’.
-STR_6097    :{STRING} placed a track of ride ‘{STRING}’.
-STR_6098    :{STRING} removed a track of ride.
-STR_6099    :You connected to the server.
-STR_6100    :You disconnected from the server.
-STR_6101    :Rides don’t decrease in value over time
-STR_6102    :The value of a ride won’t decrease over time, so guests will not suddenly think that a ride is too expensive.
-STR_6103    :This option is disabled during network play.
+STR_6078    :{STRING}がライド「{STRING}」を作成しました。
+STR_6079    :{STRING}がライド「{STRING}」を解体しました。
+STR_6080    :{STRING}がライド「{STRING}」の外観を変更しました。
+STR_6081    :{STRING}がライド「{STRING}」の状態を閉鎖に変更しました。
+STR_6082    :{STRING}がライド「{STRING}」の状態を開放に変更しました。
+STR_6083    :{STRING}がライド「{STRING}」の状態をテスト中に変更しました。
+STR_6084    :{STRING}がライド「{STRING}」の車両設定を変更しました。
+STR_6085    :{STRING}がライド「{STRING}」の設定を変更しました。
+STR_6086    :{STRING}がライド「{STRING}」の名前を「{STRING}」に変更しました。
+STR_6087    :{STRING}がライド「{STRING}」の価格を {STRING} に変更しました。
+STR_6088    :{STRING}がライド「{STRING}」の追加価格を {STRING} に変更しました。
+STR_6089    :{STRING}がパークの名前を「{STRING}」から「{STRING}」に変更しました。
+STR_6090    :{STRING}がパークを開放しました。
+STR_6091    :{STRING}がパークを閉鎖しました。
+STR_6092    :{STRING}がパークの入場料を {STRING} に変更しました。
+STR_6093    :{STRING}が新しい景観を配置しました。
+STR_6094    :{STRING}が景観を削除しました。
+STR_6095    :{STRING}が景観を編集しました。
+STR_6096    :{STRING}が看板の名前を「{STRING}」に設定しました。
+STR_6097    :{STRING}がライド「{STRING}」のトラックを配置しました。
+STR_6098    :{STRING}がライドのトラックを削除しました。
+STR_6099    :サーバーに接続しました
+STR_6100    :サーバーから切断されました
+STR_6101    :ライドの価値は時間とともに減少しませ
+STR_6102    :ライドの価値は時間とともに減少しないため、ゲストが突然ライドが高すぎると感じることはありません
+STR_6103    :このオプションはネットワークプレイ中は無効です
 STR_6105    :ハイパーコースター
 STR_6107    :モンスタートラック
 STR_6109    :ハイパー・ツイスター
 STR_6111    :クラシック・ミニ・ジェットコースター
-STR_6113    :A tall non-inverting roller coaster with large drops, high speed, and comfortable trains with only lap bar restraints
+STR_6113    :大型の落下や高速を持つ、背の高い非反転ローラーコースターで、ラップバーだけの快適な車両を備えています
 STR_6115    :Powered giant 4 x 4 trucks which can climb steep slopes
 STR_6116    :Wide roller coaster trains glide along smooth steel track, travelling through a variety of inversions
 STR_6119    :A cheap and easy to build roller coaster, but with a limited height
