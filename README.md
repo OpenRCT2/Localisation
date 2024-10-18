@@ -53,6 +53,7 @@ To do this, go to the directory where OpenRCT2 resides (not to be confused with 
 | [![](https://img.shields.io/badge/fi--FI-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fi-FI.txt) | [groenroos](https://github.com/groenroos)          |
 | [![](https://img.shields.io/badge/fr--FR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fr-FR.txt) | [rmnvgr](https://github.com/rmnvgr) |
 | [![](https://img.shields.io/badge/it--IT-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/it-IT.txt) | [LucaRed](https://github.com/LucaRed)              |
+| [![](https://img.shields.io/badge/ja--JP-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ja-JP.txt) | [AaronVanGeffen](https://github.com/AaronVanGeffen)  |
 | [![](https://img.shields.io/badge/ko--KR-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ko-KR.txt) | [telk5093](https://github.com/telk5093)            |
 | [![](https://img.shields.io/badge/nb--NO-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt) | [Mmmmulder](https://github.com/Mmmmulder)            |
 | [![](https://img.shields.io/badge/nl--NL-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nl-NL.txt) | [Gymnasiast](https://github.com/Gymnasiast )      |
@@ -65,7 +66,6 @@ To do this, go to the directory where OpenRCT2 resides (not to be confused with 
 | [![](https://img.shields.io/badge/hu--HU-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/hu-HU.txt) ||
 | [![](https://img.shields.io/badge/sv--SE-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/sv-SE.txt) ||
 | [![](https://img.shields.io/badge/cs--CZ-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/cs-CZ.txt) ||
-| [![](https://img.shields.io/badge/ja--JP-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ja-JP.txt) ||
 | [![](https://img.shields.io/badge/ru--RU-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ru-RU.txt) ||
 | [![](https://img.shields.io/badge/tr--TR-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/tr-TR.txt) ||
 
