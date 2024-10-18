@@ -3228,37 +3228,37 @@ STR_6107    :モンスタートラック
 STR_6109    :ハイパー・ツイスター
 STR_6111    :クラシック・ミニ・ジェットコースター
 STR_6113    :大型の落下や高速を持つ、背の高い非反転ローラーコースターで、ラップバーだけの快適な車両を備えています
-STR_6115    :Powered giant 4 x 4 trucks which can climb steep slopes
-STR_6116    :Wide roller coaster trains glide along smooth steel track, travelling through a variety of inversions
-STR_6119    :A cheap and easy to build roller coaster, but with a limited height
-STR_6120    :{BABYBLUE}{STRINGID}に新しい車両:{NEWLINE}{STRINGID}
-STR_6121    :Extends the park’s land rights all the way to the edges of the map
-STR_6122    :There are not enough roller coasters in this scenario!
-STR_6123    :Error loading objects for park
+STR_6115    :急な坂を登れる電動巨大4x4トラック
+STR_6116    :幅広のローラーコースターの列車が滑らかな鋼鉄のトラックの上を滑り、さまざまな逆さまの動きを通過します
+STR_6119    :安価で簡単に建設できるローラーコースターですが、高さに制限があります
+STR_6120    :{BABYBLUE}{STRINGID}に新しい車両: {NEWLINE}{STRINGID}
+STR_6121    :パークの土地権を地図の端まで拡張します
+STR_6122    :このシナリオにはローラーコースターが足りません！
+STR_6123    :パークのオブジェクトの読み込みエラー
 STR_6124    :オブジェクトの名
 STR_6125    :オブジェクトのタイプ
 STR_6126    :タイプ未知
 STR_6127    :ファイル: {STRING}
-STR_6128    :The file could not be loaded as some of the objects referenced in it are missing or corrupt. A list of these objects is given below.
+STR_6128    :ファイルを読み込むことができませんでした。参照されているオブジェクトの一部が欠損または破損しています。オブジェクトのリストは以下に示されています。
 STR_6129    :このアイテムをクリップボードにコッピーする
 STR_6130    :全てをクリップボードにコッピーする
 STR_6131    :オブジェクト源
 STR_6132    :研究のステータスを無視する
-STR_6133    :Access rides and scenery that have not yet been invented
+STR_6133    :まだ発明されていないアトラクションやシーナリーにアクセス
 STR_6134    :景色物をクリアする
-STR_6135    :Client sent invalid request
-STR_6136    :Server sent invalid request
-STR_6137    :OpenRCT2, a free and open source clone of Roller Coaster Tycoon 2.
-STR_6138    :OpenRCT2 is the work of many authors, a full list can be found in “contributors.md”. For more information, visit http://github.com/OpenRCT2/OpenRCT2
-STR_6139    :All product and company names belong to their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+STR_6135    :クライアントが無効なリクエストを送信しました
+STR_6136    :サーバーが無効なリクエストを送信しました
+STR_6137    :OpenRCT2は、RollerCoaster Tycoon 2の無料かつオープンソースのクローンです。
+STR_6138    :OpenRCT2は多くの著者の作品であり、完全なリストは「contributors.md」にあります。詳細については、https://github.com/OpenRCT2/OpenRCT2 を訪れてください。
+STR_6139    :すべての製品名および会社名はそれぞれの権利者に属します。これらの使用は、いかなる提携や承認を示すものではありません。
 STR_6140    :変更履歴…
 STR_6141    :RCT1の下のツールバー
 STR_6142    :{WINDOW_COLOUR_2}トラックの名: {BLACK}{STRING}
 STR_6143    :{WINDOW_COLOUR_2}ラウドの名: {BLACK}{STRINGID}
 STR_6144    :汚いビジュアルを表示する
-STR_6145    :Set speed limit for boosters
-STR_6146    :Enable all drawable track pieces
-STR_6147    :Enables all track pieces the ride type is capable of in the construction window, regardless of whether the vehicle supports them.
+STR_6145    :ブースターの速度制限を設定
+STR_6146    :描画可能なすべてのトラックパーツを有効にする
+STR_6147    :車両がサポートしているかどうかに関わらず、建設ウィンドウでライドタイプが対応可能なすべてのトラックパーツを有効にします
 STR_6148    :マスターサーバに接続中…
 STR_6149    :マスターサーバに接続が失敗しました。
 STR_6150    :マスターサーバから無効な返事をいただきました。(JSON整数がありません)
@@ -3371,29 +3371,29 @@ STR_6296    :GiB
 STR_6297    :TiB
 STR_6298    :1秒あたり{STRING}
 STR_6299    :全部のダウンロード
-STR_6300    :Download all missing objects if available online.
-STR_6301    :Copy the selected object name to the clipboard.
-STR_6302    :Copy the entire list of missing objects to the clipboard.
+STR_6300    :オンラインで利用可能なら、すべての欠損オブジェクトをダウンロード
+STR_6301    :選択したオブジェクト名をクリップボードにコピー
+STR_6302    :欠損オブジェクトの全リストをクリップボードにコピー
 STR_6303    :オブジェクトのダウンロード中 ({COMMA16} / {COMMA16}): [{STRING}]
-STR_6304    :Open scenery picker
+STR_6304    :シーナリーピッカーを開く
 STR_6305    :マルチスレッド
-STR_6306    :Experimental option to use multiple threads to render, may cause instability.
-STR_6307    :配色: {BLACK}{STRINGID}
+STR_6306    :複数のスレッドを使用してレンダリングする実験的オプションです（安定性に影響を与える可能性があります）
+STR_6307    :配色:{BLACK}{STRINGID}
 STR_6308    :{TOPAZ}「{STRINGID}{OUTLINE}{TOPAZ}」{NEWLINE}{STRINGID}
 STR_6309    :再接続
-STR_6310    :{WINDOW_COLOUR_2}拠点: {BLACK}{INT32} {INT32} {INT32}
-STR_6311    :{WINDOW_COLOUR_2}次: {BLACK}{INT32} {INT32} {INT32}
-STR_6312    :(surface)
-STR_6313    :(slope {INT32})
+STR_6310    :{WINDOW_COLOUR_2}拠点:{BLACK}{INT32} {INT32} {INT32}
+STR_6311    :{WINDOW_COLOUR_2}次:{BLACK}{INT32} {INT32} {INT32}
+STR_6312    :(サーフェス)
+STR_6313    :(傾斜：{INT32})
 STR_6314    :{WINDOW_COLOUR_2}目的地: {BLACK}{INT32}, {INT32} 寛大 {INT32}
 STR_6315    :{WINDOW_COLOUR_2}経路探索の目標: {BLACK}{INT32}, {INT32}, {INT32} 方 {INT32}
 STR_6316    :{WINDOW_COLOUR_2}経路探索の歴史:
 STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} 方 {INT32}
-STR_6318    :Network desync detected.{NEWLINE}Log file: {STRING}
-STR_6319    :Block Brake Closed
-STR_6320    :Indestructible
-STR_6321    :Addition is broken
-STR_6322    :{WINDOW_COLOUR_2}Sprite Id: {BLACK}{INT32}
+STR_6318    :ネットワークの非同期が検出されました。{NEWLINE}ログファイル：{STRING}
+STR_6319    :ブロックブレーキ閉鎖
+STR_6320    :壊れない
+STR_6321    :追加が壊れています
+STR_6322    :{WINDOW_COLOUR_2}スプライトID:{BLACK}{INT32}
 STR_6323    :シミュレーション中
 STR_6324    :シミュレーション
 STR_6325    :ライドやアトラクションをシミュレーションする
@@ -3401,7 +3401,7 @@ STR_6326    :{STRINGID}をシミュレートできません…
 STR_6327    :拡大スクリーンショットに透明な背景を使用
 STR_6328    :このオプションでは、拡大スクリーンショットの際にデフォルトの黒背景ではなく透明な背景を使用
 STR_6329    :{STRING}{STRINGID}
-STR_6330    :{POP16}{POP16}{POP16}{POP16}{STRING}から [{PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{STRING}]をダウンロード中 ({COMMA16} / {COMMA16})
+STR_6330    :{POP16}{POP16}{POP16}{POP16}{STRING}から [{PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{STRING}]をダウンロード中（{COMMA16}／{COMMA16}）
 STR_6331    :カモを投入する
 STR_6332    :カモを取り除く
 STR_6333    :ウインドウのスケール係数を上げる
@@ -3430,11 +3430,35 @@ STR_6356    :パークに水があれば、カモを投入する
 STR_6357    :全部のカモを取り除く
 STR_6358    :{UINT16}ページ目
 STR_6359    :{POP16}{POP16}{UINT16}ページ目
-STR_6360    :{BLACK}{COMMA32}
 STR_6361    :乗り物のライトの効果を表示にする（試験的）
 STR_6362    :有効になっている場合、追跡された乗り物の車両は夜間にライトアップされます。
 STR_6363    :テキストをクリップボードにコピーしました。
-STR_6440    :透明な水
+STR_6364    :{RED}{COMMA16} 人が {STRINGID} で事故で死亡しました
+STR_6365    :アトラクションの死傷者
+STR_6366    :動かないまたは停止した車両
+STR_6367    :アニメーションフレーム:
+STR_6368    :互換性の理由から、WineでOpenRCT2を実行することは推奨されません。OpenRCT2はmacOS、Linux、FreeBSD、OpenBSDをネイティブでサポートしています。
+STR_6369    :無効な高さでのトラックの建設を許可
+STR_6370    :どの高さの間隔でもトラックパーツを配置できるようにします
+STR_6371    :指定されたパスにはRollerCoaster Tycoon 1のインストールがありますが、「csg1i.dat」ファイルが欠けています。このファイルはLoopy LandscapesまたはRCT DeluxeのCDからハードドライブ上のRollerCoaster Tycoon 1インストールの「Data」フォルダーにコピーする必要があります。
+STR_6372    :指定されたパスにはRollerCoaster Tycoon 1のインストールがありますが、このバージョンは適切ではありません。OpenRCT2はRollerCoaster Tycoon 1のアセットを使用するためにLoopy LandscapesまたはRCT Deluxeのインストールが必要です。
+STR_6373    :クリアランスチェックを切り替え
+STR_6374    :C
+STR_6375    :不明なアトラクション
+STR_6376    :{WINDOW_COLOUR_2}アトラクション車両：{NEWLINE}{BLACK}{STRINGID}の{STRINGID}
+STR_6377    :{WINDOW_COLOUR_2}タイプ：{BLACK}{STRINGID}の{STRINGID}
+STR_6378    :オブジェクトリストを受信中…
+STR_6379    :無効なデータを受信しました
+STR_6380    :アップデートが利用可能です！
+STR_6381    :OpenRCT2 Discordに参加！
+STR_6382    :より新しいOpenRCT2のリリースが利用可能です: {STRING}!
+STR_6383    :ダウンロードページを開く
+STR_6384    :雪
+STR_6385    :大雪
+STR_6386    :吹雪
+STR_6387    :ここで要素を下げることはできません…
+STR_6388    :ここで要素を上げることはできません…
+STR_6389    :無効なクリアランス
 
 STR_6551    :アーミーグリーン色
 STR_6552    :ハニーデュー色
@@ -3595,7 +3619,6 @@ STR_6706    :{WINDOW_COLOUR_2}現在の画像ファイル:{BLACK}{STRING}
 STR_6707    :(選択されていません)
 STR_6708    :スムース強度
 STR_6709    :{COMMA16}と{COMMA16}の間でスムース強度を入力してください
-
 
 #############
 # Scenarios #
