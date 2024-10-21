@@ -8,21 +8,21 @@ jobs:
 
     steps:
       - name:  Get Pull Request
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           path: pr
           ref: ${{github.event.pull_request.head.ref}}
           repository: ${{github.event.pull_request.head.repo.full_name}}
 
       - name: Get OpenRCT2 develop (for en-GB.txt)
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           repository: OpenRCT2/OpenRCT2
           ref: develop
           path: OpenRCT2
 
       - name: Checkout translations before PR changes (for comparsion)
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           path: master
           ref: ${{github.event.pull_request.head.ref}}
@@ -53,7 +53,7 @@ jobs:
         run: rm -rf master
 
       - name: Checkout upstream master as master
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         if: ${{ steps.merge-base-commit.outputs.merge_base == github.event.pull_request.head.sha }}
         with:
           ref: master
@@ -65,7 +65,7 @@ jobs:
           python-version: '3.8'
 
       - name: Checkout upstream master (in order to use the newest version of the script)
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           path: upstream_master
           ref: master
