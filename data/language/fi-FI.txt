@@ -1915,17 +1915,17 @@ STR_2669    :NumLock
 STR_2670    :Scroll
 STR_2680    :Kaikki kehitys on saatu päätökseen
 STR_2684    :Suuri kävijäryhmä saapuu
-STR_2685    :Simplex-melun parametrit
-STR_2686    :Matala:
-STR_2687    :Korkea:
+STR_2685    :Simplex-kohinan parametrit
+STR_2686    :Min. maastokorkeus:
+STR_2687    :Maks. maastokorkeus:
 STR_2688    :Perustaajuus:
 STR_2689    :Oktaaveja:
 STR_2690    :Kartan luonti
 STR_2691    :Pohjakorkeus:
-STR_2692    :Veden taso:
-STR_2693    :Ympäristö:
+STR_2692    :Vesistön taso:
+STR_2693    :Maasto:
 STR_2694    :Luo
-STR_2695    :Satunnainen ympäristö
+STR_2695    :Satunnainen maasto
 STR_2696    :Sijoita puita
 STR_2700    :Autom. tallennus:
 STR_2701    :1 minuutin välein
@@ -2460,8 +2460,8 @@ STR_5181    :Näytä laitehuijaukset
 STR_5182    :{INT32}
 STR_5183    :Pohjakorkeus
 STR_5184    :Anna pohjakorkeus {COMMA16}-{COMMA16}
-STR_5185    :Veden taso
-STR_5186    :Anna veden taso väliltä {COMMA16}-{COMMA16} 
+STR_5185    :Vesistön taso
+STR_5186    :Anna vesistön taso väliltä {COMMA16}-{COMMA16}
 STR_5187    :Talous
 STR_5188    :Uusi kampanja
 STR_5189    :Kehitys
@@ -3172,10 +3172,10 @@ STR_6040    :Muuta skenaarioasetuksia
 STR_6041    :{BLACK}Yhtään mekaanikkoa ei ole palkattu!
 STR_6042    :Lataa korkeuskartta
 STR_6043    :Valitse korkeuskartta
-STR_6044    :Sileä korkeuskartta
-STR_6045    :Voima
+STR_6044    :Tasoita korkeuskartta
+STR_6045    :Voimakkuus:
 STR_6046    :Normalisoi korkeuskartta
-STR_6047    :Sileät ruudut
+STR_6047    :Tasoita ruutujen reunat
 STR_6048    :Korkeuskarttavirhe
 STR_6049    :Virhe lukiessa PNG:tä
 STR_6050    :Virhe lukiessa bittikarttakuvaa
@@ -3755,6 +3755,39 @@ STR_6673    :Läpinäkyvä
 STR_6674    :{MONTH}n, vuoden {COMMA16}
 STR_6675    :Henkilöiden nimet
 STR_6676    :Ainakin yksi henkilönimilista tulee olla valittuna
+STR_6677    :Lisää rantoja vesistöiden ympärille
+STR_6678    :Korkeuskartta:
+STR_6679    :Tasamaa
+STR_6680    :Simplex-kohina
+STR_6681    :Korkeuskarttatiedosto
+STR_6682    :Kartan luonti - Perusasetukset
+STR_6683    :Kartan luonti - Maasto
+STR_6684    :Kartan luonti - Vesistö
+STR_6685    :Kartan luonti - Metsät
+STR_6686    :Metsä/aukea -suhde:
+STR_6687    :Min. maastokorkeus puille:
+STR_6688    :Maks. maastokorkeus puille:
+STR_6689    :{UINT16}%
+STR_6690    :Min. maastokorkeus
+STR_6691    :Anna min. maastokorkeus väliltä {COMMA16}-{COMMA16}
+STR_6692    :Maks. maastokorkeus
+STR_6693    :Anna maks. maastokorkeus väliltä {COMMA16}-{COMMA16}
+STR_6694    :Min. maastokorkeus puille
+STR_6695    :Anna min. maastokorkeus puille väliltä {COMMA16}-{COMMA16}
+STR_6696    :Maks. maastokorkeus puille
+STR_6697    :Anna maks. maastokorkeus puille väliltä {COMMA16}-{COMMA16}
+STR_6698    :Metsä/aukea -suhde
+STR_6699    :Anna metsä/aukea -suhde väliltä {COMMA16}-{COMMA16}
+STR_6700    :Simplex-perustaajuus
+STR_6701    :Anna perustaajuus väliltä {COMMA2DP32}-{COMMA2DP32}
+STR_6702    :Simplex-oktaavit
+STR_6703    :Anna oktaavit väliltä {COMMA16}-{COMMA16}
+STR_6704    :{COMMA2DP32}
+STR_6705    :Selaa...
+STR_6706    :{WINDOW_COLOUR_2}Valittu kuvatiedosto: {BLACK}{STRING}
+STR_6707    :(ei mitään)
+STR_6708    :Tasoitusvoimakkuus
+STR_6709    :Anna tasoitusvoimakkuus väliltä {COMMA16}-{COMMA16}
 
 #############
 # Scenarios #
