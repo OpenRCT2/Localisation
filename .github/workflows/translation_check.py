@@ -12,7 +12,7 @@ import re
 MASTER_LANG_DIR = "master/data/language"
 PR_LANG_DIR = "pr/data/language"
 OPENRCT2_EN_GB_FILE = "OpenRCT2/data/language/en-GB.txt"
-SPECIAL_KEYS = ['STR_SCNR', 'STR_PARK', 'STR_DTLS', 'STR_NAME']
+
 # Some strings have nothing to be translated and should not appear on the report
 KEYS_TO_IGNORE = ['STR_0000', 'STR_0001', 'STR_0824', 'STR_0839', 'STR_0840', 'STR_0865', 'STR_0866', 'STR_0867',
                   'STR_0868', 'STR_0869', 'STR_0870', 'STR_0871', 'STR_0872', 'STR_0873', 'STR_0874', 'STR_0875',
@@ -90,22 +90,14 @@ def file_to_dict(filename):
     lines = [line.strip() for line in content]
     translations = {}
 
-    previous_group_name = ''
-
     for line in lines:
         if line.startswith('#') or len(line.strip()) == 0:
-            continue
-
-        if line.startswith('<') or line.startswith('['):
-            previous_group_name = line
             continue
 
         if line.find(':') != -1:
             split = line.split(':')
             key = split[0].strip()
-            if key in SPECIAL_KEYS:
-                key = previous_group_name + key
-            elif not STR_NUMBER_RE.match(key):
+            if not STR_NUMBER_RE.match(key):
                 print(f'[{os.path.basename(filename)}]: {key} does not match STR_XXXX pattern')
             value = ':'.join(split[1:]).strip()
             if key in translations:
