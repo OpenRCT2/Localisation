@@ -97,6 +97,7 @@ STR_0092    :LIM Launched Roller Coaster
 STR_0093    :Kolejka hybrydowa
 STR_0094    :Kolejka jednotorowa
 STR_0095    :Tor saneczkowy
+STR_0096    :Klasyczna drewniana kolejka górska
 STR_0512    :Kolejka górska ze spiralnym podjazdem i łagodnymi pokręconymi zjazdami
 STR_0513    :Kolejka górska z pętlą, klienci jadą w niej na stojąco
 STR_0514    :Wagony podczepione są pod tor kolejki górskiej i bujają się na zakrętach
@@ -177,8 +178,9 @@ STR_0599    :Kolejka górska z indywidualnymi pojazdami i łagodnymi zakręcanym
 STR_0600    :Zasilane kopalniane wagoniki jeżdżące przez łagodne i pokręcone tory
 STR_0602    :Kolejka górska, której wagoniki są rozpędzane na stacji liniowymi silnikami indukcyjnymi, aby pokonać zakręcone inwersje
 STR_0603    :Drewniana kolejka górska ze stalowymi torami pozwalającymi na strome zjazdy i inwersje
-STR_0604    :Goście jadą pojedynczymi wagonikami po wąskim torze, ścigając się po ostrych zakrętach i zmianach kieruków.
-STR_0605    :Saneczkarze zjeżdżają po wijącym się stalowym torze, hamując, aby kontrolować prędkość.
+STR_0604    :Goście jadą pojedynczymi wagonikami po wąskim torze, ścigając się po ostrych zakrętach i zmianach kieruków
+STR_0605    :Saneczkarze zjeżdżają po wijącym się stalowym torze, hamując, aby kontrolować prędkość
+STR_0606    :Drewniana kolejka górska w starszym stylu, oferująca szybką i twardą jazdę z licznymi wzniesieniami i przeciążeniami bocznymi, co daje poczucie braku kontroli nad przejazdem
 STR_0767    :Gość {INT32}
 STR_0768    :Dozorca {INT32}
 STR_0769    :Mechanik {INT32}
@@ -728,10 +730,10 @@ STR_1339    :{BLACK}Oczekiwanie na rezultaty testu…
 STR_1340    :{WINDOW_COLOUR_2}Maks. prędkość: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Czas przejazdu: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
-STR_1343    :{DURATION} / 
+STR_1343    :{DURATION} /
 STR_1344    :{WINDOW_COLOUR_2}Czas przejazdu: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
-STR_1346    :{LENGTH} / 
+STR_1346    :{LENGTH} /
 STR_1347    :{WINDOW_COLOUR_2}Średnia prędkość: {BLACK}{VELOCITY}
 STR_1348    :{WINDOW_COLOUR_2}Maks. dodatnie przeciążenie pionowe: {BLACK}{COMMA2DP32}g
 STR_1349    :{WINDOW_COLOUR_2}Maks. dodatnie przeciążenie pionowe: {OUTLINE}{RED}{COMMA2DP32}g
@@ -788,7 +790,7 @@ STR_1399    :Wykresy
 STR_1400    :Wejście
 STR_1401    :Wyjście
 STR_1402    :Wybuduj lub przesuń wejście do atrakcji
-STR_1403    :Wybuduj lub przesuń wyjście z atrakcji 
+STR_1403    :Wybuduj lub przesuń wyjście z atrakcji
 STR_1404    :Obrót o°
 STR_1405    :Zdjęcie lustrzane
 STR_1406    :Włącz/wyłącz scenerię (jeśli dostępne w motywie)
@@ -1113,8 +1115,8 @@ STR_1726    :Teren nie jest na sprzedaż!
 STR_1727    :Prawa do budowy nie są na sprzedaż!
 STR_1728    :Nie można tu kupić praw do budowy…
 STR_1729    :Teren nie należy do parku!
-STR_1730    :{RED}Zamknięte - - 
-STR_1731    :{WHITE}{STRINGID} - - 
+STR_1730    :{RED}Zamknięte - -
+STR_1731    :{WHITE}{STRINGID} - -
 STR_1732    :Buduj
 STR_1733    :Tryb
 STR_1734    :{WINDOW_COLOUR_2}Liczba okrążeń:
@@ -1155,7 +1157,7 @@ STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COM
 STR_1773    :Tylko jedna sekcja fotograficzna dostępna na atrakcję
 STR_1774    :Tylko jedna wyciągarka dostępna na atrakcję
 STR_1777    :{WINDOW_COLOUR_2}Muzyka atrakcji
-STR_1778    :{STRINGID} - - 
+STR_1778    :{STRINGID} - -
 STR_1779    :{INLINE_SPRITE}{254}{19}{00}{00} Kostium pandy
 STR_1780    :{INLINE_SPRITE}{255}{19}{00}{00} Kostium tygrysa
 STR_1781    :{INLINE_SPRITE}{00}{20}{00}{00} Kostium słonia
@@ -1977,8 +1979,8 @@ STR_2779    :Podgląd #{COMMA16}
 STR_2780    :Dodatkowe okno podglądu
 # Koniec nowych treści
 STR_2781    :{STRINGID}:
-STR_2782    :SHIFT + 
-STR_2783    :CTRL + 
+STR_2782    :SHIFT +
+STR_2783    :CTRL +
 STR_2784    :Zmień skrót klawiszowy
 STR_2785    :{WINDOW_COLOUR_2}Wciśnij nowy klawisz skrótu dla:{NEWLINE}“{STRINGID}”
 STR_2786    :Kliknij opis skrótu, aby wybrać nowy klawisz
@@ -2063,7 +2065,7 @@ STR_2977    :Nazwa pracownika
 STR_2978    :Wprowadź nazwę tego pracownika:
 STR_2979    :Nie można zmienić nazwy pracownika…
 STR_2980    :Za dużo banerów w grze
-STR_2981    :{RED}Brak wejścia - - 
+STR_2981    :{RED}Brak wejścia - -
 STR_2982    :Tekst baneru
 STR_2983    :Wprowadź nową treść baneru:
 STR_2984    :Nie można wprowadzić nowej treści baneru…
@@ -2179,10 +2181,10 @@ STR_3143    :Pokaż ludzi
 STR_3144    :Pokaż przejażdżki i stoiska
 STR_3160    :Wybierz liczbę obrotów na przejażdzkę
 STR_3162    :Nie można zaalokować odpowiedniej ilości pamięci
-STR_3163    :Instalowanie nowych danych: 
+STR_3163    :Instalowanie nowych danych:
 STR_3164    :{BLACK}{COMMA16} wybrano (maksymalnie {COMMA16})
 STR_3167    :{WINDOW_COLOUR_2}Zawiera: {BLACK}{COMMA16} obiektów
-STR_3169    :Nie znaleziono danych dla obiektu: 
+STR_3169    :Nie znaleziono danych dla obiektu:
 STR_3170    :Brak odpowiedniej ilości pamięci na grafikę
 STR_3171    :Wybrano za dużo elementów danego typu
 STR_3172    :Następujący obiekt musi zostać wybrany najpierw: {STRING}
@@ -2450,7 +2452,7 @@ STR_5182    :{INT32}
 STR_5183    :Wysokość bazowa
 STR_5184    :Wprowadź bazową wysokość pomiędzy {COMMA16} a {COMMA16}
 STR_5185    :Poziom wody
-STR_5186    :Wprowadź poziom wody pomiędzy {COMMA16} a {COMMA16} 
+STR_5186    :Wprowadź poziom wody pomiędzy {COMMA16} a {COMMA16}
 STR_5187    :Finanse
 STR_5188    :Nowa kampania
 STR_5189    :Badania
@@ -2635,7 +2637,7 @@ STR_5463    :Cel: Baw się dobrze!
 STR_5464    :Główne
 STR_5465    :Klimat
 STR_5466    :Personel
-STR_5467    :ALT + 
+STR_5467    :ALT +
 STR_5468    :Ostatnie wiadomości
 STR_5469    :Przesuń mapę w górę
 STR_5470    :Przesuń mapę w lewo
@@ -2793,8 +2795,8 @@ STR_5629    :Poziom trudności
 STR_5630    :Włącz odblokowywanie scenariuszy
 STR_5631    :Oryginalne parki z dodatku
 STR_5632    :Zbuduj własny…
-STR_5633    :CMD + 
-STR_5634    :OPTION + 
+STR_5633    :CMD +
+STR_5634    :OPTION +
 STR_5635    :{WINDOW_COLOUR_2}Wydane pieniądze: {BLACK}{CURRENCY2DP}
 STR_5636    :{WINDOW_COLOUR_2}Uruchomione komendy: {BLACK}{COMMA16}
 STR_5637    :Nie można tego zrobić…
@@ -2956,7 +2958,7 @@ STR_5832    :Pokaż wysokość jako ogólną jednostkę w miejscu formatu jednos
 STR_5833    :Zmień używany format daty
 STR_5834    :Wybierz urządzenie dźwiękowe dla OpenRCT2
 STR_5835    :Wycisz grę przy utracie ostrości okna
-STR_5836    :Wybierz muzykę do ekranu tytułowego.{NEWLINE}Wybranie motywu z RCT1 wymaga skopiowania „data/css17.dat” z katalogu gry RCT1 do „data/css50.dat” w twoim katalogu RCT2, lub ustawienia ścieżki do RCT1 w zakładce pozostałych ustawień
+STR_5836    :Wybierz muzykę do ekranu tytułowego.{NEWLINE}Wybranie motywu z RCT1 wymaga podania ścieżki do RCT1 w zakładce ustawień zaawansowanych.
 STR_5837    :Stwórz i zarządzaj własnymi motywami UI
 STR_5838    :Pokaż osobny przycisk dla okienka Finansów w pasku narzędzi
 STR_5839    :Pokaż osobny przycisk dla okienka Badań i Rozwoju w pasku narzędzi
@@ -3001,7 +3003,7 @@ STR_5880    :Tylko zaznaczone
 STR_5881    :Tylko niezaznaczone
 STR_5882    :Własna waluta
 STR_5883    :Konfiguracja własnej waluty
-STR_5884    :{WINDOW_COLOUR_2}Kurs wymiany: 
+STR_5884    :{WINDOW_COLOUR_2}Kurs wymiany:
 STR_5885    :{WINDOW_COLOUR_2}w stosunku do {COMMA32} GBP (£)
 STR_5886    :{WINDOW_COLOUR_2}Symbol waluty:
 STR_5887    :Prefix
@@ -3389,7 +3391,7 @@ STR_6318    :Desynchronizacja sieci.{NEWLINE}Plik z logami: {STRING}
 STR_6319    :Hamulec blokowy zamknięty
 STR_6320    :Niezniszczalne
 STR_6321    :Dodatek jest uszkodzony
-STR_6322    :{WINDOW_COLOUR_2}Identyfikator sprite’a: {BLACK}{INT32}
+STR_6322    :{WINDOW_COLOUR_2}Identyfikator: {BLACK}{INT32}
 STR_6323    :Symulowanie
 STR_6324    :Symuluj
 STR_6325    :Symuluj atrakcję
@@ -3566,6 +3568,10 @@ STR_6498    :Włącz w celu zachowania kwadratowej mapy.
 STR_6499    :Typ pojazdu nie jest obsługiwany przez format projektu toru
 STR_6500    :Elementy toru nieobsługiwane przez format projektu toru
 STR_6501    :Losowy kolor
+STR_6502    :Wprowadź wartość pomiędzy {COMMA16} a {COMMA16}
+STR_6503    :Musi być wybrany przynajmniej jeden obiekt stacji
+STR_6504    :Należy wybrać co najmniej jeden element powierzchni terenu
+STR_6505    :Należy wybrać co najmniej jeden element krawędzi terenu
 STR_6506    :Duży pół korkociąg (lewy)
 STR_6507    :Duży pół korkociąg (prawy)
 STR_6508    :Średnia półpętla (lewa)
@@ -3574,7 +3580,22 @@ STR_6510    :Beczółka Zero G (lewa)
 STR_6511    :Beczółka Zero G (prawa)
 STR_6512    :Duża Beczółka Zero G (lewa)
 STR_6513    :Duża Beczółka Zero G (prawa)
-STR_6502    :Wprowadź wartość pomiędzy {COMMA16} a {COMMA16}
-STR_6503    :Musi być wybrany przynajmniej jeden obiekt stacji
-STR_6504    :Należy wybrać co najmniej jeden element powierzchni terenu
-STR_6505    :Należy wybrać co najmniej jeden element krawędzi terenu
+STR_5614    :Nieprawidłowa wysokość!
+STR_6515    :{BLACK}Rollercoaster Tycoon 1 niezaładowany - zostaną użyte grafiki zapasowe.
+STR_6516    :Jeden lub więcej obiektów wymaga załadowania Rollercoaster Tycoon 1, aby mogły być poprawnie wyświetlane. Zostaną użyte grafiki zapasowe.
+STR_6517    :Jeden lub więcej obiektów w tym parku wymaga załadowania Rollercoaster Tycoon 1, aby mogły być poprawnie wyświetlane. Zostaną użyte grafiki zapasowe.
+STR_6518    :{BLACK}Najedź na scenariusz aby wyświetlić jego opis oraz cel. Kliknij go aby rozpocząc rozgrywkę.
+STR_6519    :Dodatkowe
+STR_6520    :Paczki zasobów
+STR_6521    :Niski priorytet
+STR_6522    :Wysoki priorytet
+STR_6523    :Zmniejsz priorytet wybranej paczki zasobów.
+STR_6524    :Zwiększ priorytet wybranej paczki zasobów.
+STR_6525    :Przeładuj wszystkie zasoby w grze z włączonymi paczkami zasobów.
+STR_6526    :(podstawowa grafika, muzyka i efekty dźwiękowe)
+STR_6527    :Zawody
+STR_6528    :Nieprawidłowe parametry toru!
+STR_6529    :Nieprawidłowy parametr schematu koloru!
+STR_6530    :User Created Expansion Set
+STR_6531    :Wehikuł czasu
+STR_6532    :Kraina Marzeń Katy
