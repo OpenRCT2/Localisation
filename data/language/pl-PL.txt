@@ -99,6 +99,7 @@ STR_0094    :Kolejka jednotorowa
 STR_0095    :Tor saneczkowy
 STR_0096    :Klasyczna drewniana kolejka górska
 STR_0097    :Klasyczna stojąca kolejka górska
+STR_0098    :Kolejka z napędem LSM
 STR_0512    :Kolejka górska ze spiralnym podjazdem i łagodnymi pokręconymi zjazdami
 STR_0513    :Kolejka górska z pętlą, klienci jadą w niej na stojąco
 STR_0514    :Wagony podczepione są pod tor kolejki górskiej i bujają się na zakrętach
@@ -177,12 +178,13 @@ STR_0593    :Obrotowe koło z zawieszonymi pasażerami, na początku zaczyna si�
 STR_0598    :Odwrócona kolejka górska, której wagoniki są rozpędzane na stacji, aby wjechać pionowym torem na szczyt toru, potem z powrotem przez stację, aby jechać odwrotnie na kolejny szczyt toru
 STR_0599    :Kolejka górska z indywidualnymi pojazdami i łagodnymi zakręcanymi zjazdami
 STR_0600    :Zasilane kopalniane wagoniki jeżdżące przez łagodne i pokręcone tory
-STR_0602    :Kolejka górska, której wagoniki są rozpędzane na stacji liniowymi silnikami indukcyjnymi, aby pokonać zakręcone inwersje
+STR_0602    :Kolejka górska, której wagoniki są rozpędzane na stacji liniowymi silnikami indukcyjnymi, aby szybko pokonywać zakręcone inwersje
 STR_0603    :Drewniana kolejka górska ze stalowymi torami pozwalającymi na strome zjazdy i inwersje
 STR_0604    :Goście jadą pojedynczymi wagonikami po wąskim torze, ścigając się po ostrych zakrętach i zmianach kieruków
 STR_0605    :Saneczkarze zjeżdżają po wijącym się stalowym torze, hamując, aby kontrolować prędkość
 STR_0606    :Drewniana kolejka górska w starszym stylu, oferująca szybką i twardą jazdę z licznymi wzniesieniami i przeciążeniami bocznymi, co daje poczucie braku kontroli nad przejazdem
 STR_0607    :Intensywna kolejka w starym stylu ze stalowymi torami, gdzie pasażerowie jadą na stojąco
+STR_0608    :Kolejka górska, której wagoniki napędzane są synchronicznymi silnikami liniowymi, aby szybko pokonywać ciasne zakręty i inwersje
 STR_0767    :Gość {INT32}
 STR_0768    :Dozorca {INT32}
 STR_0769    :Mechanik {INT32}
@@ -1910,8 +1912,8 @@ STR_2670    :Scroll
 STR_2680    :Wszystkie badania zakończone
 STR_2684    :Przybywające duże grupy gości
 STR_2685    :Parametr hałasu Simplex
-STR_2686    :Najniższy:
-STR_2687    :Najwyższy:
+STR_2686    :Min. poziom terenu:
+STR_2687    :Maks. poziom terenu:
 STR_2688    :Bazowa częstotliwość:
 STR_2689    :Oktawy
 STR_2690    :Generator mapy
@@ -2602,8 +2604,8 @@ STR_5357    :{BLACK}Tolerancja mdłości:
 STR_5358    :{BLACK}Pęcherz:
 STR_5359    :Usuń gości
 STR_5360    :Usuwa wszystkich gości z mapy
-STR_5361    :Daj wszystkim gościom:
-STR_5362    :{BLACK}Ustaw preferowaną intensywność przejażdżek dla wszystkich gości na:
+STR_5361    :Dodaj do ekwipunku gościa
+STR_5362    :{BLACK}Preferowana intensywność atrakcji:
 STR_5363    :Więcej niż 1
 STR_5364    :Mniej niż 15
 STR_5365    :{BLACK}Szybkość personelu:
@@ -2633,7 +2635,7 @@ STR_5457    :Wyłącz limity wsparcia
 STR_5458    :Obróć zgodnie ze wskazówką zegara
 STR_5459    :Obróć odwrotnie względem wskazówki zegara
 STR_5460    :Widok odwrotny względem wskazówki zegara
-STR_5461    :Zmień parametry gości
+STR_5461    :Ustaw parametry dla wszystkich gości
 STR_5462    :{CURRENCY}
 STR_5463    :Cel: Baw się dobrze!
 STR_5464    :Główne
@@ -3165,9 +3167,9 @@ STR_6041    :{BLACK}Nie masz zatrudnionych mechaników!
 STR_6042    :Załaduj mapę wysokości
 STR_6043    :Wybierz mapę wysokości
 STR_6044    :Gładka wysokość mapy
-STR_6045    :Ostra
+STR_6045    :Siła:
 STR_6046    :Normalizuj mapę wysokością
-STR_6047    :Gładkie warstwa
+STR_6047    :Wygładź krawędzie kafelków
 STR_6048    :Błąd mapy wysokościowej
 STR_6049    :Błąd odczytu PNG
 STR_6050    :Błąd odczytu bitmapy
@@ -3609,7 +3611,7 @@ STR_6537    :Zezwól na używanie zwykłych chodników jako kolejek
 STR_6538    :Pokazuje zwykłe chodniki na liście kolejek do atrakcji w menu chodników.
 STR_6539    :Hamulec zamknięty
 STR_6540    :{WINDOW_COLOUR_2}Podziękowania dla następujących firm za zgodę na wykorzystanie ich wizerunku:
-STR_6541    :{WINDOW_COLOUR_2}Rocky Mountain Construction Group, Josef Wiegand GmbH & Co. KG
+STR_6541    :{WINDOW_COLOUR_2}Rocky Mountain Construction Group, Josef Wiegand GmbH & Co. KG, Intamin Amusement Rides Int. Corp. Est.
 STR_6542    :Współautorzy
 STR_6543    :Współautorzy…
 STR_6544    :Kwota pożyczki nie może być ujemna!
@@ -3720,3 +3722,61 @@ STR_6648    :Ładowanie silnika wtyczek…
 STR_6649    :Ładowanie scenariusza…
 STR_6650    :Ładowanie zapisu gry…
 STR_6651    :{STRING} ({COMMA32}%)
+STR_6652    :Okno błędu
+STR_6653    :Wszystkie źródła wyświetlone
+STR_6654    :Wyświetlone źródła: {POP16}{UINT16}
+STR_6655    :Tylko „{POP16}{STRINGID}”
+STR_6656    :Usuń wszystkie ogrodzenia parku
+STR_6657    :Nieposiadany teren
+STR_6658    :Ustaw teren jako nieposiadany przez park i niedostępny do zakupu
+STR_6659    :Goście ignorują ceny
+STR_6660    :Goście będą ignorować ceny atrakcji i stoisk
+STR_6661    :Losuj wszystkie
+STR_6662    :Ustaw kolor losowo dla każdego wagonu lub pojazdu
+STR_6663    :Kody związane z datą
+STR_6664    :Pokaż kody związane z datą
+STR_6665    :Kody związane z pogodą
+STR_6666    :Pokaż kody związane z pogodą
+STR_6667    :Fauna
+STR_6668    :Kody związane z pracownikami
+STR_6669    :Pokaż kody związane z pracownikami
+STR_6670    :Zachowanie gości
+STR_6671    :Pokazuj „prawdziwe” imiona pracowników
+STR_6672    :Przełącz między pokazywaniem imion pracowników a numerami
+STR_6673    :Przezroczyste
+STR_6674    :{MONTH}, Rok {COMMA16}
+STR_6675    :Imiona gości
+STR_6676    :Co najmniej jeden obiekt z nazwami gości musi być wybrany
+STR_6677    :Dodaj plaże wokół zbiorników wodnych
+STR_6678    :Źródło mapy wysokości:
+STR_6679    :Równina
+STR_6680    :Szum Simplex
+STR_6681    :Plik mapy wysokości
+STR_6682    :Generator mapy - Generator
+STR_6683    :Generator mapy - Teren
+STR_6684    :Generator mapy - Woda
+STR_6685    :Generator mapy - Lasy
+STR_6686    :Stosunek drzew do powierzchni terenu:
+STR_6687    :Min. wysokość drzew:
+STR_6688    :Maks. wysokość drzew:
+STR_6689    :{UINT16}%
+STR_6690    :Min. wysokość terenu
+STR_6691    :Wprowadź minimalną wysokość terenu pomiędzy {COMMA16} a {COMMA16}
+STR_6692    :Maks. wysokość terenu
+STR_6693    :Wprowadź maksymalną wysokość terenu pomiędzy {COMMA16} a {COMMA16}
+STR_6694    :Min. wysokość drzew
+STR_6695    :Wprowadź minimalną wysokość drzew pomiędzy {COMMA16} a {COMMA16}
+STR_6696    :Maks. wysokość drzew
+STR_6697    :Wprowadź maksymalną wysokość drzew pomiędzy {COMMA16} a {COMMA16}
+STR_6698    :Stosunek drzew do powierzchni terenu
+STR_6699    :Wprowadź stosunek drzew do powierzchni terenu pomiędzy {COMMA16} a {COMMA16}
+STR_6700    :Bazowa częstotliwość szumu Simplex
+STR_6701    :Wprowadź bazową częstotliwość pomiędzy {COMMA2DP32} a {COMMA2DP32}
+STR_6702    :Oktawy szumu Simplex
+STR_6703    :Wprowadź oktawy pomiędzy {COMMA16} a {COMMA16}
+STR_6704    :{COMMA2DP32}
+STR_6705    :Przeglądaj…
+STR_6706    :{WINDOW_COLOUR_2}Bieżący plik obrazu: {BLACK}{STRING}
+STR_6707    :(brak)
+STR_6708    :Siła wygładzania
+STR_6709    :Wprowadź siłę wygładzania pomiędzy {COMMA16} a {COMMA16}
