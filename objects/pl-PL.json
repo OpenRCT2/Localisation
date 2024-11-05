@@ -1,10 +1,10 @@
 {
   "couger.scenery_wall.acww33": {
-    "name": "Wooden Post Wall",
+    "name": "Drewniana palisada",
     "reference-name": "Wooden Post Wall"
   },
   "couger.scenery_wall.acwwf32": {
-    "name": "Wooden Post Wall",
+    "name": "Drewniana palisada",
     "reference-name": "Wooden Post Wall"
   },
   "mamabear.scenery_wall.mg-prar": {
@@ -32,37 +32,37 @@
     "reference-name": "Void"
   },
   "openrct2.footpath_railings.invisible": {
-    "name": "Invisible Railings",
+    "name": "Niewidzialne balustrady",
     "reference-name": "Invisible Railings"
   },
   "openrct2.footpath_surface.invisible": {
-    "name": "Invisible Footpath",
+    "name": "Niewidzialny chodnik",
     "reference-name": "Invisible Footpath"
   },
   "openrct2.footpath_surface.queue_invisible": {
-    "name": "Invisible Queue",
+    "name": "Niewidzialna kolejka",
     "reference-name": "Invisible Queue"
   },
   "openrct2.ride.alpine_coaster": {
-    "capacity": "2 passengers per car",
-    "description": "Wheeled sleds equipped with manually operated brakes",
-    "name": "Alpine Coaster Cars",
+    "capacity": "2 pasażerów na wagonik",
+    "description": "Sanki na kołach wyposażone w ręcznie obsługiwane hamulce",
+    "name": "Tor saneczkowy",
     "reference-capacity": "2 passengers per car",
     "reference-description": "Wheeled sleds equipped with manually operated brakes",
     "reference-name": "Alpine Coaster Cars"
   },
   "openrct2.ride.hybrid_coaster": {
-    "capacity": "4 passengers per car",
-    "description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
-    "name": "Hybrid Coaster Trains",
+    "capacity": "4 pasażerów na wagonik",
+    "description": "Kolejka górska z prostymi zabezpieczeniami, zdolna do stromych zjazdów i inwersji",
+    "name": "Kolejka hybrydowa",
     "reference-capacity": "4 passengers per car",
     "reference-description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
     "reference-name": "Hybrid Coaster Trains"
   },
   "openrct2.ride.single_rail_coaster": {
-    "capacity": "1 passenger per car",
-    "description": "Roller coaster trains in which riders are seated single file",
-    "name": "Single Rail Roller Coaster Trains",
+    "capacity": "1 pasażer na wagonik",
+    "description": "Kolejka górska z wagonami, w których pasażerowie siedzą jeden za drugim",
+    "name": "Jednotorowa kolejka górska",
     "reference-capacity": "1 passenger per car",
     "reference-description": "Roller coaster trains in which riders are seated single file",
     "reference-name": "Single Rail Roller Coaster Trains"
@@ -80,7 +80,7 @@
     "reference-name": "Void"
   },
   "rct1.audio.title": {
-    "name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes).",
+    "name": "Motyw tytułowy RollerCoaster Tycoon (Zwariowane krajobrazy).",
     "reference-name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes)."
   },
   "rct1.footpath_surface.crazy_paving": {
@@ -92,7 +92,7 @@
     "reference-name": "Dirt Footpath (Square)"
   },
   "rct1.footpath_surface.queue_blue": {
-    "name": "Blue Queue (Sloped)",
+    "name": "Niebieska kolejka",
     "reference-name": "Blue Queue (Sloped)"
   },
   "rct1.footpath_surface.road": {
@@ -140,9 +140,9 @@
     "reference-name": "Chairlift Cars"
   },
   "rct1.ride.corkscrew_trains": {
-    "capacity": "4 passengers per car",
-    "description": "Roller coaster trains with shoulder restraints",
-    "name": "Corkscrew Roller Coaster Trains",
+    "capacity": "4 pasażerów na wagonik",
+    "description": "Wagoniki z zabezpieczeniami na ramiona",
+    "name": "Wagoniki kolejki korkociągowej",
     "reference-capacity": "4 passengers per car",
     "reference-description": "Roller coaster trains with shoulder restraints",
     "reference-name": "Corkscrew Roller Coaster Trains"
@@ -171,8 +171,8 @@
   },
   "rct1.ride.go_karts": {
     "capacity": "1 miejsce",
-    "description": "Self-driven petrol-engined go-karts that come with safety helmets",
-    "name": "Go-Karts (with helmets)",
+    "description": "Samochodziki z napędem benzynowym wyposażone w kaski",
+    "name": "Gokarty (z kaskami)",
     "reference-capacity": "single-seater",
     "reference-description": "Self-driven petrol-engined go-karts that come with safety helmets",
     "reference-name": "Go-Karts (with helmets)"
@@ -187,8 +187,8 @@
   },
   "rct1.ride.inverted_trains": {
     "capacity": "2 pasażerów na wagonik",
-    "description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
-    "name": "Inverted Coaster Trains",
+    "description": "Pasażerowie siedzą w fotelach podwieszonych pod torem, pokonując wielkie pętle, zakręty i zakręcone zjazdy.",
+    "name": "Wagoniki kolejki odwrotnej",
     "reference-capacity": "2 passengers per car",
     "reference-description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
     "reference-name": "Inverted Coaster Trains"
@@ -291,8 +291,8 @@
   },
   "rct1.ride.single_person_swinging_cars": {
     "capacity": "1 pasażer na wagonik",
-    "description": "Single-seater cars which hang from the rail above, and are free to swing from side to side",
-    "name": "Single-Person Swinging Cars",
+    "description": "Pasażerowie jeżdżą w małych autach podwieszonych na pojedynczym torze, bujają się swobodnie na zakrętach",
+    "name": "Podwieszana minikolejka",
     "reference-capacity": "1 passenger per car",
     "reference-description": "Single-seater cars which hang from the rail above, and are free to swing from side to side",
     "reference-name": "Single-Person Swinging Cars"
@@ -323,16 +323,16 @@
   },
   "rct1.ride.steel_rc_trains": {
     "capacity": "4 pasażerów na wagonik",
-    "description": "Roller coaster train with a streamlined front car.",
-    "name": "Roller Coaster Trains",
+    "description": "Pojazd pętlowej kolejki górskiej z opływowym przodem.",
+    "name": "Opływowy przód",
     "reference-capacity": "4 passengers per car",
     "reference-description": "Roller coaster train with a streamlined front car.",
     "reference-name": "Roller Coaster Trains"
   },
   "rct1.ride.steel_rc_trains_reversed": {
     "capacity": "4 pasażerów na wagonik",
-    "description": "Roller coaster train running in reverse, so that the passengers face backwards.",
-    "name": "Roller Coaster Trains (Reversed)",
+    "description": "Opływowy pojazd z odwróconymi wagonikami, tak aby pasażerowie byli skierowani tyłem do kierunku jazdy",
+    "name": "Odwrócony opływowy przód",
     "reference-capacity": "4 riders per car",
     "reference-description": "Roller coaster train running in reverse, so that the passengers face backwards.",
     "reference-name": "Roller Coaster Trains (Reversed)"
@@ -385,8 +385,8 @@
   },
   "rct1.ride.wooden_rc_trains": {
     "capacity": "4 pasażerów na wagonik",
-    "description": "Wooden roller coaster trains with padded seats and lap bar restraints",
-    "name": "Wooden Roller Coaster Trains",
+    "description": "Drewniane wagoniki z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie",
+    "name": "Drewniana kolejka górska",
     "reference-capacity": "4 passengers per car",
     "reference-description": "Wooden roller coaster trains with padded seats and lap bar restraints",
     "reference-name": "Wooden Roller Coaster Trains"
@@ -640,23 +640,23 @@
     "reference-name": "Roof (Red)"
   },
   "rct1beta.terrain_edge.brick": {
-    "name": "Brick (Brown)",
+    "name": "Cegła (Brązowa)",
     "reference-name": "Brick (Brown)"
   },
   "rct1beta.terrain_edge.rock": {
-    "name": "Rock (Brown)",
+    "name": "Skała (Brązowa)",
     "reference-name": "Rock (Brown)"
   },
   "rct1beta.terrain_surface.wildflowers": {
-    "name": "Wildflowers",
+    "name": "Kwiaty polne",
     "reference-name": "Wildflowers"
   },
   "rct1ll.footpath_railings.bamboo": {
-    "name": "Bamboo Railings (Yellow)",
+    "name": "Bambusowe balustrady (Żółte)",
     "reference-name": "Bamboo Railings (Yellow)"
   },
   "rct1ll.footpath_railings.space": {
-    "name": "Space Style Railings (Grey)",
+    "name": "Kosmiczne balustrady (Szare)",
     "reference-name": "Space Style Railings (Grey)"
   },
   "rct1ll.footpath_surface.tiles_green": {
@@ -784,19 +784,19 @@
     "reference-name": "Wood"
   },
   "rct2.audio.base": {
-    "name": "Base audio for the game.",
+    "name": "Bazowe efekty dzwiękowe gry.",
     "reference-name": "Base audio for the game."
   },
   "rct2.audio.base.rctc": {
-    "name": "Base audio for the game.",
+    "name": "Bazowe efekty dzwiękowe gry.",
     "reference-name": "Base audio for the game."
   },
   "rct2.audio.circus": {
-    "name": "Ambient sound effects for the Circus attraction.",
+    "name": "Efekty dzwiękowe cyrku.",
     "reference-name": "Ambient sound effects for the Circus attraction."
   },
   "rct2.audio.title": {
-    "name": "Title screen music for RollerCoaster Tycoon 2.",
+    "name": "Motyw tytułowy RollerCoaster Tycoon 2.",
     "reference-name": "Title screen music for RollerCoaster Tycoon 2."
   },
   "rct2.footpath_banner.bn1": {
@@ -908,27 +908,27 @@
     "reference-name": "Queue Line TV"
   },
   "rct2.footpath_railings.bamboo_black": {
-    "name": "Bamboo Railings (Black)",
+    "name": "Bambusowe balustrady (Czarne)",
     "reference-name": "Bamboo Railings (Black)"
   },
   "rct2.footpath_railings.bamboo_brown": {
-    "name": "Bamboo Railings (Brown)",
+    "name": "Bambusowe balustrady (Brązowe)",
     "reference-name": "Bamboo Railings (Brown)"
   },
   "rct2.footpath_railings.concrete": {
-    "name": "Concrete Railings (Grey-Brown)",
+    "name": "Betonowe balustrady (Szarobrązowe)",
     "reference-name": "Concrete Railings (Grey-Brown)"
   },
   "rct2.footpath_railings.concrete_green": {
-    "name": "Concrete Railings (Dark Green)",
+    "name": "Betonowe balustrady (Ciemnozielone)",
     "reference-name": "Concrete Railings (Dark Green)"
   },
   "rct2.footpath_railings.space": {
-    "name": "Space Style Railings (Red)",
+    "name": "Kosmiczne balustrady (Czerwone)",
     "reference-name": "Space Style Railings (Red)"
   },
   "rct2.footpath_railings.wood": {
-    "name": "Wooden Railings",
+    "name": "Drewniane balustrady",
     "reference-name": "Wooden Railings"
   },
   "rct2.footpath_surface.ash": {
@@ -944,19 +944,19 @@
     "reference-name": "Dirt Footpath (Rounded)"
   },
   "rct2.footpath_surface.queue_blue": {
-    "name": "Blue Queue (Stairs)",
+    "name": "Niebieska kolejka",
     "reference-name": "Blue Queue (Stairs)"
   },
   "rct2.footpath_surface.queue_green": {
-    "name": "Dark Green Queue",
+    "name": "Ciemnozielona kolejka",
     "reference-name": "Dark Green Queue"
   },
   "rct2.footpath_surface.queue_red": {
-    "name": "Red Queue (Stairs)",
+    "name": "Czerwona kolejka",
     "reference-name": "Red Queue (Stairs)"
   },
   "rct2.footpath_surface.queue_yellow": {
-    "name": "Yellow Queue (Stairs)",
+    "name": "Żółta kolejka",
     "reference-name": "Yellow Queue (Stairs)"
   },
   "rct2.footpath_surface.road": {
@@ -1004,7 +1004,7 @@
     "reference-name": "Fairground organ style"
   },
   "rct2.music.fantasy": {
-    "name": "Styl fantasty",
+    "name": "Styl fantasy",
     "reference-name": "Fantasy style"
   },
   "rct2.music.gentle": {
@@ -4592,31 +4592,31 @@
     "reference-name": "Benches"
   },
   "rct2tt.footpath_railings.balustrade": {
-    "name": "Balustrade",
+    "name": "Balustrada",
     "reference-name": "Balustrade"
   },
   "rct2tt.footpath_railings.circuitboard": {
-    "name": "Circuit Board Railings",
+    "name": "Balustrada obwodowa",
     "reference-name": "Circuit Board Railings"
   },
   "rct2tt.footpath_railings.circuitboard_invisible": {
-    "name": "Sky Walk",
+    "name": "Podniebna ścieżka",
     "reference-name": "Sky Walk"
   },
   "rct2tt.footpath_railings.medieval": {
-    "name": "Medieval Railings",
+    "name": "Średniowieczne balustrady",
     "reference-name": "Medieval Railings"
   },
   "rct2tt.footpath_railings.pavement": {
-    "name": "Iron Railings",
+    "name": "Żelazne balustrady",
     "reference-name": "Iron Railings"
   },
   "rct2tt.footpath_railings.rainbow": {
-    "name": "Rainbow Railings",
+    "name": "Tęczowe balustrady",
     "reference-name": "Rainbow Railings"
   },
   "rct2tt.footpath_railings.rocky": {
-    "name": "Jungle Railings",
+    "name": "Dżunglowe balustrady",
     "reference-name": "Jungle Railings"
   },
   "rct2tt.footpath_surface.circuitboard": {
@@ -4636,15 +4636,15 @@
     "reference-name": "Pavement"
   },
   "rct2tt.footpath_surface.queue_circuitboard": {
-    "name": "Circuit Queue",
+    "name": "Kolejka obwodowa",
     "reference-name": "Circuit Queue"
   },
   "rct2tt.footpath_surface.queue_pavement": {
-    "name": "Pavement Queue",
+    "name": "Kolejka uliczna",
     "reference-name": "Pavement Queue"
   },
   "rct2tt.footpath_surface.queue_rainbow": {
-    "name": "Rainbow Queue",
+    "name": "Tęczowa kolejka",
     "reference-name": "Rainbow Queue"
   },
   "rct2tt.footpath_surface.rainbow": {
@@ -7697,7 +7697,7 @@
   },
   "rct2ww.ride.sanftram": {
     "capacity": "10 pasażerów na wagonik",
-    "description": "Replika tramwaju",
+    "description": "Replika tramwajów z San Francisco",
     "name": "Tramwaj z San Francisco",
     "reference-capacity": "10 passengers per car",
     "reference-description": "Replicas of the San Francisco Trams",
