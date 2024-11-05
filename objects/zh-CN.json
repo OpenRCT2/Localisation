@@ -28,40 +28,48 @@
     "reference-name": "Support Structure"
   },
   "official.terrain_edge.void": {
-    "name": "虚空",
+    "name": "Void",
     "reference-name": "Void"
   },
   "openrct2.footpath_railings.invisible": {
-    "name": "隐形栏杆",
+    "name": "Invisible Railings",
     "reference-name": "Invisible Railings"
   },
   "openrct2.footpath_surface.invisible": {
-    "name": "隐形步道",
+    "name": "Invisible Footpath",
     "reference-name": "Invisible Footpath"
   },
   "openrct2.footpath_surface.queue_invisible": {
-    "name": "隐形队列",
+    "name": "Invisible Queue",
     "reference-name": "Invisible Queue"
   },
   "openrct2.ride.alpine_coaster": {
-    "capacity": "2位乘客/车",
-    "description": "配备手动制动器的轮式雪橇",
+    "capacity": "2 passengers per car",
+    "description": "Wheeled sleds equipped with manually operated brakes",
     "name": "Alpine Coaster Cars",
     "reference-capacity": "2 passengers per car",
     "reference-description": "Wheeled sleds equipped with manually operated brakes",
     "reference-name": "Alpine Coaster Cars"
   },
   "openrct2.ride.hybrid_coaster": {
-    "capacity": "4位乘客/车",
-    "description": "带搭接限制器，可进行陡降和倒转运动的过山车",
+    "capacity": "4 passengers per car",
+    "description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
     "name": "Hybrid Coaster Trains",
     "reference-capacity": "4 passengers per car",
     "reference-description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
     "reference-name": "Hybrid Coaster Trains"
   },
+  "openrct2.ride.modern_twister": {
+    "capacity": "4 passengers per car",
+    "description": "Spacious trains with lap restraints, capable of tight twists and inversions",
+    "name": "Modern Twister Trains",
+    "reference-capacity": "4 passengers per car",
+    "reference-description": "Spacious trains with lap restraints, capable of tight twists and inversions",
+    "reference-name": "Modern Twister Trains"
+  },
   "openrct2.ride.single_rail_coaster": {
-    "capacity": "1位乘客/车",
-    "description": "乘客排成一列坐的过山车",
+    "capacity": "1 passenger per car",
+    "description": "Roller coaster trains in which riders are seated single file",
     "name": "Single Rail Roller Coaster Trains",
     "reference-capacity": "1 passenger per car",
     "reference-description": "Roller coaster trains in which riders are seated single file",
@@ -76,11 +84,11 @@
     "reference-name": "No entrance, no platform"
   },
   "openrct2.terrain_surface.void": {
-    "name": "虚空",
+    "name": "Void",
     "reference-name": "Void"
   },
   "rct1.audio.title": {
-    "name": "过山车大亨的标题画面音乐 (Loopy Landscapes)。",
+    "name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes).",
     "reference-name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes)."
   },
   "rct1.footpath_surface.crazy_paving": {
@@ -92,7 +100,7 @@
     "reference-name": "Dirt Footpath (Square)"
   },
   "rct1.footpath_surface.queue_blue": {
-    "name": "蓝色队列（斜面）",
+    "name": "Blue Queue (Sloped)",
     "reference-name": "Blue Queue (Sloped)"
   },
   "rct1.footpath_surface.road": {
@@ -104,7 +112,7 @@
     "reference-name": "Tarmac Footpath (Sloped)"
   },
   "rct1.footpath_surface.tiles_brown": {
-    "name": "棕色瓷砖人行道",
+    "name": "Brown Tiled Footpath",
     "reference-name": "Brown Tiled Footpath"
   },
   "rct1.ride.bobsleigh_trains": {
@@ -171,8 +179,8 @@
   },
   "rct1.ride.go_karts": {
     "capacity": "单一乘客",
-    "description": "附带安全头盔的汽油引擎自驾卡丁车",
-    "name": "卡丁车（带头盔）",
+    "description": "Self-driven petrol-engined go-karts that come with safety helmets",
+    "name": "Go-Karts (with helmets)",
     "reference-capacity": "single-seater",
     "reference-description": "Self-driven petrol-engined go-karts that come with safety helmets",
     "reference-name": "Go-Karts (with helmets)"
@@ -187,8 +195,8 @@
   },
   "rct1.ride.inverted_trains": {
     "capacity": "2 位乘客/每个车厢",
-    "description": "倒置的过山车列车，由悬挂在轨道上方支撑架上的座椅组成。",
-    "name": "倒置过山车列车",
+    "description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
+    "name": "Inverted Coaster Trains",
     "reference-capacity": "2 passengers per car",
     "reference-description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
     "reference-name": "Inverted Coaster Trains"
@@ -313,6 +321,14 @@
     "reference-description": "Powered vehicles in the shape of sports cars",
     "reference-name": "Sports Cars"
   },
+  "rct1.ride.stand_up_trains": {
+    "capacity": "4 位乘客/每个车厢",
+    "description": "一座循环式过山车让乘客以站立姿势搭乘",
+    "name": "站立式过山车",
+    "reference-capacity": "4 passengers per car",
+    "reference-description": "Roller coaster trains in which the riders ride in a standing position",
+    "reference-name": "Stand-up Roller Coaster Trains"
+  },
   "rct1.ride.steam_trains": {
     "capacity": "6 位乘客/每辆马车",
     "description": "微型蒸汽火车是由酷似蒸汽火车及媒车拖拉具有布织车顶的木制四轮马车所组成的",
@@ -323,7 +339,7 @@
   },
   "rct1.ride.steel_rc_trains": {
     "capacity": "4位乘客/车",
-    "description": "有着流线型前车厢的过山车列车。",
+    "description": "Roller coaster train with a streamlined front car.",
     "name": "Roller Coaster Trains",
     "reference-capacity": "4 passengers per car",
     "reference-description": "Roller coaster train with a streamlined front car.",
@@ -331,8 +347,8 @@
   },
   "rct1.ride.steel_rc_trains_reversed": {
     "capacity": "4位乘客/车",
-    "description": "过山车列车反向运行，使乘客面朝后方。",
-    "name": "过山车列车（反向）",
+    "description": "Roller coaster train running in reverse, so that the passengers face backwards.",
+    "name": "Roller Coaster Trains (Reversed)",
     "reference-capacity": "4 riders per car",
     "reference-description": "Roller coaster train running in reverse, so that the passengers face backwards.",
     "reference-name": "Roller Coaster Trains (Reversed)"
@@ -385,19 +401,195 @@
   },
   "rct1.ride.wooden_rc_trains": {
     "capacity": "4 位乘客/每个车厢",
-    "description": "木制过山车列车，配有软垫座椅和膝部约束杆",
-    "name": "木制过山车列车",
+    "description": "Wooden roller coaster trains with padded seats and lap bar restraints",
+    "name": "Wooden Roller Coaster Trains",
     "reference-capacity": "4 passengers per car",
     "reference-description": "Wooden roller coaster trains with padded seats and lap bar restraints",
     "reference-name": "Wooden Roller Coaster Trains"
   },
   "rct1.ride.wooden_rc_trains_reversed": {
     "capacity": "4 位乘客/每个车厢",
-    "description": "木制过山车列车，但反向运行，使乘客面朝后方。",
-    "name": "木制过山车列车（反向）",
+    "description": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
+    "name": "Wooden Roller Coaster Trains (Reversed)",
     "reference-capacity": "4 passengers per car",
     "reference-description": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
     "reference-name": "Wooden Roller Coaster Trains (Reversed)"
+  },
+  "rct1.scenario_text.bumbly_beach": {
+    "details": "将邦布利海滩这个小型乐园发展成一个繁荣的主题乐园",
+    "name": "邦布利海滩",
+    "park_name": "邦布利海滩",
+    "reference-details": "Develop Bumbly Beach’s small amusement park into a thriving theme park",
+    "reference-name": "Bumbly Beach",
+    "reference-park_name": "Bumbly Beach"
+  },
+  "rct1.scenario_text.crumbly_woods": {
+    "details": "一个拥有精心设计但已经相当老旧的游乐设施的大型公园。更换旧的游乐设施或添加新的游乐设施，使公园更受欢迎。",
+    "name": "老废物乐园",
+    "park_name": "老废物乐园",
+    "reference-details": "A large park with well-designed but rather old rides. Replace the old rides or add new rides to make the park more popular.",
+    "reference-name": "Crumbly Woods",
+    "reference-park_name": "Crumbly Woods"
+  },
+  "rct1.scenario_text.diamond_heights": {
+    "details": "钻石高地已经是一个拥有极佳游乐设施，并且很发展得很成功的乐园——继续发展以让它的价值翻倍",
+    "name": "钻石高地",
+    "park_name": "钻石高地",
+    "reference-details": "Diamond Heights is already a successful theme park with great rides - develop it to double its value",
+    "reference-name": "Diamond Heights",
+    "reference-park_name": "Diamond Heights"
+  },
+  "rct1.scenario_text.dynamite_dunes": {
+    "details": "这个坐立于沙漠中的乐园只有一座云霄飞车，但不缺乏可供扩充的空地",
+    "name": "炸药山丘",
+    "park_name": "炸药山丘",
+    "reference-details": "Built in the middle of the desert, this theme park contains just one roller coaster but has space for expansion",
+    "reference-name": "Dynamite Dunes",
+    "reference-park_name": "Dynamite Dunes"
+  },
+  "rct1.scenario_text.evergreen_gardens": {
+    "details": "将景色优美的常青花园转型成一个很受欢迎的乐园",
+    "name": "常青花园",
+    "park_name": "常青花园",
+    "reference-details": "Convert the beautiful Evergreen Gardens into a thriving theme park",
+    "reference-name": "Evergreen Gardens",
+    "reference-park_name": "Evergreen Gardens"
+  },
+  "rct1.scenario_text.forest_frontiers": {
+    "details": "在隐藏于森林深处的空地中，建造一个繁荣的主题公园",
+    "name": "森之边林",
+    "park_name": "森之边林",
+    "reference-details": "Deep in the forest, build a thriving theme park in a large cleared area",
+    "reference-name": "Forest Frontiers",
+    "reference-park_name": "Forest Frontiers"
+  },
+  "rct1.scenario_text.ivory_towers": {
+    "details": "一个完善的但拥有一些小问题的公园。",
+    "name": "象牙塔",
+    "park_name": "象牙塔",
+    "reference-details": "A well-established park, which has a few problems",
+    "reference-name": "Ivory Towers",
+    "reference-park_name": "Ivory Towers"
+  },
+  "rct1.scenario_text.karts_coasters": {
+    "details": "一个隐藏在森林的大型乐园，但当中只有小型赛车及木制过山车",
+    "name": "过山卡丁",
+    "park_name": "过山卡丁",
+    "reference-details": "A large park hidden in the forest, with only go-kart tracks and wooden roller coasters",
+    "reference-name": "Karts & Coasters",
+    "reference-park_name": "Karts & Coasters"
+  },
+  "rct1.scenario_text.katies_dreamland": {
+    "details": "一个只有几个游乐设施但有扩展空间的小型乐园——你的目标是让它的价值翻倍",
+    "name": "凯蒂梦之境",
+    "park_name": "凯蒂梦之境",
+    "reference-details": "A small theme park with a few rides and room for expansion. Your aim is to double the park value.",
+    "reference-name": "Katie’s Dreamland",
+    "reference-park_name": "Katie’s Dreamland"
+  },
+  "rct1.scenario_text.leafy_lake": {
+    "details": "在一个大型湖泊的旁边，从零开始兴建一个主题乐园",
+    "name": "茂林湖",
+    "park_name": "茂林湖",
+    "reference-details": "Starting from scratch, build a theme park around a large lake",
+    "reference-name": "Leafy Lake",
+    "reference-park_name": "Leafy Lake"
+  },
+  "rct1.scenario_text.lightning_peaks": {
+    "details": "闪电峰美丽的山脉深受步行者和观光者的欢迎。利用可用土地吸引新的寻求刺激的客户。",
+    "name": "闪电峰",
+    "park_name": "闪电峰",
+    "reference-details": "The beautiful mountains of Lightning Peaks are popular with walkers and sightseers. Use the available land to attract a new thrill-seeking clientele.",
+    "reference-name": "Lightning Peaks",
+    "reference-park_name": "Lightning Peaks"
+  },
+  "rct1.scenario_text.mega_park": {
+    "details": "娱乐至上！",
+    "name": "超级乐园",
+    "park_name": "超级乐园",
+    "reference-details": "Just for fun!",
+    "reference-name": "Mega Park",
+    "reference-park_name": "Mega Park"
+  },
+  "rct1.scenario_text.mels_world": {
+    "details": "这个乐园已经有一些既优秀又现代的游乐设施，但它亦有很大的扩充空间",
+    "name": "梅尔的世界",
+    "park_name": "梅尔的世界",
+    "reference-details": "This theme park has some well-designed modern rides, but plenty of space for expansion",
+    "reference-name": "Mel’s World",
+    "reference-park_name": "Mel’s World"
+  },
+  "rct1.scenario_text.millennium_mines": {
+    "details": "将一个已被遗弃的大型矿坑由景点转型成一个乐园",
+    "name": "千年矿山",
+    "park_name": "千年矿山",
+    "reference-details": "Convert a large abandoned mine from a tourist attraction into a theme park",
+    "reference-name": "Millennium Mines",
+    "reference-park_name": "Millennium Mines"
+  },
+  "rct1.scenario_text.mystic_mountain": {
+    "details": "在神秘山的丘陵森林中，从零开始建造主题公园",
+    "name": "神秘山",
+    "park_name": "神秘山",
+    "reference-details": "In the hilly forests of Mystic Mountain, build a theme park from scratch",
+    "reference-name": "Mystic Mountain",
+    "reference-park_name": "Mystic Mountain"
+  },
+  "rct1.scenario_text.pacific_pyramids": {
+    "details": "将埃及遗址旅游景点改造成繁荣的主题公园",
+    "name": "太平洋金字塔",
+    "park_name": "太平洋金字塔",
+    "reference-details": "Convert the Egyptian Ruins tourist attraction into a thriving theme park",
+    "reference-name": "Pacific Pyramids",
+    "reference-park_name": "Pacific Pyramids"
+  },
+  "rct1.scenario_text.paradise_pier": {
+    "details": "将这个沉睡小镇的码头变成一个繁荣的景点。",
+    "name": "天堂码头",
+    "park_name": "天堂码头",
+    "reference-details": "Convert this sleepy town’s pier into a thriving attraction",
+    "reference-name": "Paradise Pier",
+    "reference-park_name": "Paradise Pier"
+  },
+  "rct1.scenario_text.pokey_park": {
+    "details": "一个拥挤的小型乐园，它需要大扩张",
+    "name": "狭窄公园",
+    "park_name": "狭窄公园",
+    "reference-details": "A small, cramped amusement park which requires major expansion",
+    "reference-name": "Pokey Park",
+    "reference-park_name": "Pokey Park"
+  },
+  "rct1.scenario_text.rainbow_valley": {
+    "details": "彩虹谷的地方当局不允许任何景观变化或大树砍伐，但您必须将该地区开发成大型主题公园。",
+    "name": "彩虹谷",
+    "park_name": "彩虹谷",
+    "reference-details": "Rainbow Valley’s local authority won’t allow any landscape changes or large tree removal, but you must develop the area into a large theme park",
+    "reference-name": "Rainbow Valley",
+    "reference-park_name": "Rainbow Valley"
+  },
+  "rct1.scenario_text.thunder_rock": {
+    "details": "雷霆岩矗立在沙漠中央，吸引了众多游客。利用可用空间建造游乐设施以吸引更多人。",
+    "name": "雷霆岩",
+    "park_name": "雷霆岩",
+    "reference-details": "Thunder Rock stands in the middle of a desert and attracts many tourists. Use the available space to build rides to attract more people.",
+    "reference-name": "Thunder Rock",
+    "reference-park_name": "Thunder Rock"
+  },
+  "rct1.scenario_text.trinity_islands": {
+    "details": "几个邻近的岛屿组成了这个新乐园的基本地势",
+    "name": "三体群岛",
+    "park_name": "三体群岛",
+    "reference-details": "Several islands form the basis for this new park",
+    "reference-name": "Trinity Islands",
+    "reference-park_name": "Trinity Islands"
+  },
+  "rct1.scenario_text.white_water_park": {
+    "details": "一个附有优良水上类游乐设施的乐园，它需要大扩张",
+    "name": "净水公园",
+    "park_name": "净水公园",
+    "reference-details": "A park with some excellent water-based rides requires expansion",
+    "reference-name": "White Water Park",
+    "reference-park_name": "White Water Park"
   },
   "rct1.scenery_wall.playing_card_wall_1": {
     "name": "卜克牌墙",
@@ -440,15 +632,15 @@
     "reference-name": "Ash Footpath (Square)"
   },
   "rct1aa.footpath_surface.queue_green": {
-    "name": "绿色队列",
+    "name": "Green Queue",
     "reference-name": "Green Queue"
   },
   "rct1aa.footpath_surface.queue_red": {
-    "name": "红色队列（斜面）",
+    "name": "Red Queue (Sloped)",
     "reference-name": "Red Queue (Sloped)"
   },
   "rct1aa.footpath_surface.queue_yellow": {
-    "name": "黄色队列（斜面）",
+    "name": "Yellow Queue (Sloped)",
     "reference-name": "Yellow Queue (Sloped)"
   },
   "rct1aa.footpath_surface.tarmac_brown": {
@@ -460,11 +652,11 @@
     "reference-name": "Green Tarmac Footpath"
   },
   "rct1aa.footpath_surface.tarmac_red": {
-    "name": "红色柏油步行道（斜面）",
+    "name": "Red Tarmac Footpath (Sloped)",
     "reference-name": "Red Tarmac Footpath (Sloped)"
   },
   "rct1aa.footpath_surface.tiles_grey": {
-    "name": "灰色瓷砖人行道",
+    "name": "Grey Tiled Footpath",
     "reference-name": "Grey Tiled Footpath"
   },
   "rct1aa.ride.bicycles": {
@@ -514,6 +706,14 @@
     "reference-capacity": "4 passengers per car",
     "reference-description": "Wide 4-across cars with raised seating and simple lap restraints",
     "reference-name": "Hyper-Twister Trains (wide cars)"
+  },
+  "rct1aa.ride.lay_down_trains": {
+    "capacity": "4位乘客/车",
+    "description": "乘客被以卧姿势固定在特殊挽具上,历经疾迅旋转轨道及反转,甚至以几近贴地方式与地面接触",
+    "name": "横卧式过山车",
+    "reference-capacity": "4 passengers per car",
+    "reference-description": "Riders are held in special harnesses in a lying-down position, travelling either on their backs or facing the ground",
+    "reference-name": "Lay-down Roller Coaster Trains"
   },
   "rct1aa.ride.mini_helicopters": {
     "capacity": "2 位乘客/每个车厢",
@@ -611,6 +811,246 @@
     "reference-description": "Circular cars that spin around as they travel along the track",
     "reference-name": "Virginia Reel Tubs"
   },
+  "rct1aa.scenario_text.adrenaline_heights": {
+    "details": "建造一个吸引寻求高强度刺激的当地人的公园",
+    "name": "肾上腺素高地",
+    "park_name": "肾上腺素高地",
+    "reference-details": "Build a park to appeal to the high-intensity thrill-seeking local people",
+    "reference-name": "Adrenaline Heights",
+    "reference-park_name": "Adrenaline Heights"
+  },
+  "rct1aa.scenario_text.barony_bridge": {
+    "details": "你要将一个多余的老破桥开发成游乐园",
+    "name": "男爵之桥",
+    "park_name": "男爵之桥",
+    "reference-details": "An old redundant bridge is yours to develop into an amusement park",
+    "reference-name": "Barony Bridge",
+    "reference-park_name": "Barony Bridge"
+  },
+  "rct1aa.scenario_text.butterfly_dam": {
+    "details": "大坝周边的区域可以供你开发成一个主题公园",
+    "name": "蝴蝶坝",
+    "park_name": "蝴蝶坝",
+    "reference-details": "The area around a dam is available for you to develop into an amusement park",
+    "reference-name": "Butterfly Dam",
+    "reference-park_name": "Butterfly Dam"
+  },
+  "rct1aa.scenario_text.canary_mines": {
+    "details": "这个被废弃矿山已经具备了成为旅游景点的条件，它有一条微型铁路和一对垂直坠落过山车",
+    "name": "金丝雀矿",
+    "park_name": "金丝雀矿",
+    "reference-details": "This abandoned mine already has the makings of a tourist attraction with its miniature railway and a pair of vertical drop roller coasters",
+    "reference-name": "Canary Mines",
+    "reference-park_name": "Canary Mines"
+  },
+  "rct1aa.scenario_text.coaster_canyon": {
+    "details": "一个巨大的峡谷供你开发成一个主题公园",
+    "name": "过山车峡谷",
+    "park_name": "过山车峡谷",
+    "reference-details": "A vast canyon is yours to turn into a theme park",
+    "reference-name": "Coaster Canyon",
+    "reference-park_name": "Coaster Canyon"
+  },
+  "rct1aa.scenario_text.coaster_crazy": {
+    "details": "用有限的金钱和无限的时间把这个山脚下的地区变成一个巨大的游乐园吧",
+    "name": "狂热过山车",
+    "park_name": "狂热过山车",
+    "reference-details": "You have limited funds but unlimited time to turn this mountainside area into a vast roller coaster park",
+    "reference-name": "Coaster Crazy",
+    "reference-park_name": "Coaster Crazy"
+  },
+  "rct1aa.scenario_text.fiasco_forest": {
+    "details": "充满设计不良和危险的游乐设施，您的预算和时间非常有限，解决这些问题并扭转乐园的颓势。",
+    "name": "惨淡森林",
+    "park_name": "惨淡森林",
+    "reference-details": "Full of badly designed and dangerous rides, you have a very limited budget and time to fix the problems and turn the park around",
+    "reference-name": "Fiasco Forest",
+    "reference-park_name": "Fiasco Forest"
+  },
+  "rct1aa.scenario_text.fruit_farm": {
+    "details": "一个繁荣的水果农场修了一条铁路来增加收入，你的工作就是把它发展成一个成熟的游乐园",
+    "name": "水果农场",
+    "park_name": "水果农场",
+    "reference-details": "A thriving fruit farm has built a railroad to boost its income, your job is to develop it into a full-blown amusement park",
+    "reference-name": "Fruit Farm",
+    "reference-park_name": "Fruit Farm"
+  },
+  "rct1aa.scenario_text.fun_fortress": {
+    "details": "这整个城堡都是你的，快把它改造为主题乐园吧",
+    "name": "趣味堡垒",
+    "park_name": "趣味堡垒",
+    "reference-details": "This castle is all yours to turn into a theme park",
+    "reference-name": "Fun Fortress",
+    "reference-park_name": "Fun Fortress"
+  },
+  "rct1aa.scenario_text.funtopia": {
+    "details": "在高速公路两侧的这个公园已经有几个游乐设施在运营",
+    "name": "疯狂快乐城",
+    "park_name": "疯狂快乐城",
+    "reference-details": "Covering land both sides of a highway, this park has several rides already operating",
+    "reference-name": "Funtopia",
+    "reference-park_name": "Funtopia"
+  },
+  "rct1aa.scenario_text.future_world": {
+    "details": "这个未来派的公园有足够的空间供新的游乐设施在其外星景观中使用",
+    "name": "未来之地",
+    "park_name": "未来之地",
+    "reference-details": "This futuristic park has plenty of space for new rides on its alien landscape",
+    "reference-name": "Future World",
+    "reference-park_name": "Future World"
+  },
+  "rct1aa.scenario_text.gentle_glen": {
+    "details": "当地人喜欢温和而轻松的游乐设施，所以你的工作是扩大这个公园以适应他们的口味",
+    "name": "温柔峡谷",
+    "park_name": "温柔峡谷",
+    "reference-details": "The local population prefer gentle and relaxing rides, so it is your job to expand this park to suit their tastes",
+    "reference-name": "Gentle Glen",
+    "reference-park_name": "Gentle Glen"
+  },
+  "rct1aa.scenario_text.geoffrey_gardens": {
+    "details": "一个大型花园公园需要变成一个欣欣向荣的主题公园",
+    "name": "杰弗里花园",
+    "park_name": "杰弗里花园",
+    "reference-details": "A large garden park needs turning into a thriving theme park",
+    "reference-name": "Geoffrey Gardens",
+    "reference-park_name": "Geoffrey Gardens"
+  },
+  "rct1aa.scenario_text.giggle_downs": {
+    "details": "四车道障碍赛是这个不断扩大的游乐园的核心",
+    "name": "伤心嬉笑",
+    "park_name": "伤心嬉笑",
+    "reference-details": "A four lane steeplechase ride is the centrepiece of this expanding park",
+    "reference-name": "Giggle Downs",
+    "reference-park_name": "Giggle Downs"
+  },
+  "rct1aa.scenario_text.harmonic_hills": {
+    "details": "这个公园当地的政府不允许建造比树高的设施",
+    "name": "和声山丘",
+    "park_name": "和声山丘",
+    "reference-details": "The local authority won’t allow you to build above tree height in this park",
+    "reference-name": "Harmonic Hills",
+    "reference-park_name": "Harmonic Hills"
+  },
+  "rct1aa.scenario_text.haunted_harbour": {
+    "details": "当地政府同意在保留某些游乐设施的基础上将附近的土地廉价出售给这个小型海滨公园",
+    "name": "闹心港口",
+    "park_name": "闹心港口",
+    "reference-details": "The local authority has agreed to sell nearby land cheaply to this small seaside park, on the condition that certain rides are preserved",
+    "reference-name": "Haunted Harbour",
+    "reference-park_name": "Haunted Harbour"
+  },
+  "rct1aa.scenario_text.hydro_hills": {
+    "details": "这个公园由一系列阶梯状的湖组成",
+    "name": "海德鲁山",
+    "park_name": "海德鲁山",
+    "reference-details": "A series of stepped lakes form the basis for this new park",
+    "reference-name": "Hydro Hills",
+    "reference-park_name": "Hydro Hills"
+  },
+  "rct1aa.scenario_text.jolly_jungle": {
+    "details": "丛林深处有大片土地准备变成主题公园",
+    "name": "欢乐丛林",
+    "park_name": "欢乐丛林",
+    "reference-details": "Deep in the jungle lies a large area of land ready to be turned into a theme park",
+    "reference-name": "Jolly Jungle",
+    "reference-park_name": "Jolly Jungle"
+  },
+  "rct1aa.scenario_text.magic_quarters": {
+    "details": "由四等分的不同风情区域组成，大片土地已清理完毕，部分主题已准备好开发成景观主题公园",
+    "name": "魔力拼",
+    "park_name": "魔力拼",
+    "reference-details": "A large area of land has been cleared and partially themed ready for you to develop into a landscaped theme park",
+    "reference-name": "Magic Quarters",
+    "reference-park_name": "Magic Quarters"
+  },
+  "rct1aa.scenario_text.mineral_park": {
+    "details": "将这个废弃的采石场变成吸引寻求刺激的游客的地方",
+    "name": "采石场公园",
+    "park_name": "采石场公园",
+    "reference-details": "Turn this abandoned stone quarry into a place to attract thrill-seeking tourists",
+    "reference-name": "Mineral Park",
+    "reference-park_name": "Mineral Park"
+  },
+  "rct1aa.scenario_text.pickle_park": {
+    "details": "地方政府不允许任何形式的广告或促销，所以这个公园必须靠声誉才能赢得成功。",
+    "name": "腌黄瓜公园",
+    "park_name": "腌黄瓜公园",
+    "reference-details": "The local authority will not allow any kind of advertising or promotion, so this park must succeed by reputation only",
+    "reference-name": "Pickle Park",
+    "reference-park_name": "Pickle Park"
+  },
+  "rct1aa.scenario_text.roman_village": {
+    "details": "通过增加更多的设施和过山车来开发这个罗马主题的公园",
+    "name": "罗马村庄",
+    "park_name": "罗马村庄",
+    "reference-details": "Develop this Roman-themed park by adding rides and roller coasters",
+    "reference-name": "Roman Village",
+    "reference-park_name": "Roman Village"
+  },
+  "rct1aa.scenario_text.rotting_heights": {
+    "details": "杂草丛生，破败不堪，你能复活这个曾经伟大的游乐园吗？",
+    "name": "腐烂高地",
+    "park_name": "腐烂高地",
+    "reference-details": "Overgrown and dilapidated, can you resurrect this once-great amusement park?",
+    "reference-name": "Rotting Heights",
+    "reference-park_name": "Rotting Heights"
+  },
+  "rct1aa.scenario_text.sprightly_park": {
+    "details": "这个古老的公园有许多历史悠久的游乐设施，但负债累累",
+    "name": "活泼公园",
+    "park_name": "活泼公园",
+    "reference-details": "This elderly park has many historical rides but is badly in debt",
+    "reference-name": "Sprightly Park",
+    "reference-park_name": "Sprightly Park"
+  },
+  "rct1aa.scenario_text.swamp_cove": {
+    "details": "这个公园部分建在一系列小岛上，已经有一对大型过山车作为卖点",
+    "name": "沼泽湾",
+    "park_name": "沼泽湾",
+    "reference-details": "Built partly on a series of small islands, this park already has a pair of large roller coasters as its centrepiece",
+    "reference-name": "Swamp Cove",
+    "reference-park_name": "Swamp Cove"
+  },
+  "rct1aa.scenario_text.three_monkeys_park": {
+    "details": "这个大型发展中公园的中心是一个巨大的三轨钢制过山车",
+    "name": "三猴乐园",
+    "park_name": "三猴乐园",
+    "reference-details": "Central to this large developing park is a giant triple-track racing/duelling steel coaster",
+    "reference-name": "Three Monkeys Park",
+    "reference-park_name": "Three Monkeys Park"
+  },
+  "rct1aa.scenario_text.thunderstorm_park": {
+    "details": "这里的天气非常潮湿，以至于建造了一个巨大的金字塔，以便在掩护下建造一些游乐设施",
+    "name": "雷雨公园",
+    "park_name": "雷雨公园",
+    "reference-details": "The weather is so wet here that a giant pyramid has been built to allow some rides to be built under cover",
+    "reference-name": "Thunderstorm Park",
+    "reference-park_name": "Thunderstorm Park"
+  },
+  "rct1aa.scenario_text.urban_park": {
+    "details": "一个小公园与附近的城镇达成了一项协议，允许经过城镇上空向周边进行扩张",
+    "name": "城市公园",
+    "park_name": "城市公园",
+    "reference-details": "A tiny park has done a deal with the nearby town to allow expansion through the town itself",
+    "reference-name": "Urban Park",
+    "reference-park_name": "Urban Park"
+  },
+  "rct1aa.scenario_text.utopia_park": {
+    "details": "沙漠中的绿洲为建造游乐园提供了难得的机会",
+    "name": "乌托邦公园",
+    "park_name": "乌托邦",
+    "reference-details": "An oasis in the middle of the desert provides an unusual opportunity to build an amusement park",
+    "reference-name": "Utopia Park",
+    "reference-park_name": "Utopia"
+  },
+  "rct1aa.scenario_text.whispering_cliffs": {
+    "details": "将海边悬崖开发成繁华的游乐园",
+    "name": "耳语崖",
+    "park_name": "耳语崖",
+    "reference-details": "Develop the seaside cliffs into a thriving amusement park",
+    "reference-name": "Whispering Cliffs",
+    "reference-park_name": "Whispering Cliffs"
+  },
   "rct1aa.scenery_wall.glass_wall": {
     "name": "玻璃墙",
     "reference-name": "Glass Wall"
@@ -640,31 +1080,39 @@
     "reference-name": "Roof (Red)"
   },
   "rct1beta.terrain_edge.brick": {
-    "name": "砖（棕色）",
+    "name": "Brick (Brown)",
     "reference-name": "Brick (Brown)"
   },
   "rct1beta.terrain_edge.rock": {
-    "name": "岩石（棕色）",
+    "name": "Rock (Brown)",
     "reference-name": "Rock (Brown)"
   },
   "rct1beta.terrain_surface.wildflowers": {
-    "name": "野花",
+    "name": "Wildflowers",
     "reference-name": "Wildflowers"
   },
+  "rct1dlc.scenario_text.fort_anachronism": {
+    "details": "",
+    "name": "时空堡垒",
+    "park_name": "时空堡垒",
+    "reference-details": "",
+    "reference-name": "Fort Anachronism",
+    "reference-park_name": "Fort Anachronism"
+  },
   "rct1ll.footpath_railings.bamboo": {
-    "name": "竹栏杆（黄色）",
+    "name": "Bamboo Railings (Yellow)",
     "reference-name": "Bamboo Railings (Yellow)"
   },
   "rct1ll.footpath_railings.space": {
-    "name": "太空风格栏杆（灰色）",
+    "name": "Space Style Railings (Grey)",
     "reference-name": "Space Style Railings (Grey)"
   },
   "rct1ll.footpath_surface.tiles_green": {
-    "name": "绿色和棕色瓷砖铺成的人行道",
+    "name": "Green and Brown Tiled Footpath",
     "reference-name": "Green and Brown Tiled Footpath"
   },
   "rct1ll.footpath_surface.tiles_red": {
-    "name": "红褐色瓷砖人行道",
+    "name": "Red and Brown Tiled Footpath",
     "reference-name": "Red and Brown Tiled Footpath"
   },
   "rct1ll.ride.4_across_inverted_trains": {
@@ -739,6 +1187,270 @@
     "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
     "reference-name": "American Style Steam Trains"
   },
+  "rct1ll.scenario_text.alton_towers": {
+    "details": "",
+    "name": "奥尔顿塔",
+    "park_name": "奥尔顿塔",
+    "reference-details": "",
+    "reference-name": "Alton Towers",
+    "reference-park_name": "Alton Towers"
+  },
+  "rct1ll.scenario_text.arid_heights": {
+    "details": "你的挑战是在没有任何的财政限制的情况下开发一个一直使游客开心的沙漠公园",
+    "name": "干旱高地",
+    "park_name": "干旱高地",
+    "reference-details": "Free of any financial limits, your challenge is to develop this desert park while keeping the guests happy",
+    "reference-name": "Arid Heights",
+    "reference-park_name": "Arid Heights"
+  },
+  "rct1ll.scenario_text.blackpool_pleasure_beach": {
+    "details": "",
+    "name": "布莱克浦游乐海滩",
+    "park_name": "布莱克浦游乐海滩",
+    "reference-details": "",
+    "reference-name": "Blackpool Pleasure Beach",
+    "reference-park_name": "Blackpool Pleasure Beach"
+  },
+  "rct1ll.scenario_text.crater_lake": {
+    "details": "一个坐落于古老火山口中的湖上的主题乐园",
+    "name": "中心湖",
+    "park_name": "中心湖",
+    "reference-details": "A large lake in an ancient crater is the setting for this park",
+    "reference-name": "Crater Lake",
+    "reference-park_name": "Crater Lake"
+  },
+  "rct1ll.scenario_text.crazy_craters": {
+    "details": "在一个不需要钱的遥远世界里，你必须建造一个娱乐中心来让人们开心",
+    "name": "疯狂陨石坑",
+    "park_name": "疯狂陨石坑",
+    "reference-details": "In a far-off world where money is not needed, you must build an entertainment centre to keep the people happy",
+    "reference-name": "Crazy Craters",
+    "reference-park_name": "Crazy Craters"
+  },
+  "rct1ll.scenario_text.dragons_cove": {
+    "details": "这个海湾就是过山车建造挑战的背景",
+    "name": "卧龙湾",
+    "park_name": "卧龙湾",
+    "reference-details": "This sea-side cove is the setting for this coaster-building challenge",
+    "reference-name": "Dragon’s Cove",
+    "reference-park_name": "Dragon’s Cove"
+  },
+  "rct1ll.scenario_text.dusty_desert": {
+    "details": "这个沙漠公园里有五座过山车需要你完成",
+    "name": "飞尘沙漠",
+    "park_name": "飞尘沙漠",
+    "reference-details": "Five coasters require completion in this desert park",
+    "reference-name": "Dusty Desert",
+    "reference-park_name": "Dusty Desert"
+  },
+  "rct1ll.scenario_text.frightmare_hills": {
+    "details": "一个在中心有一座巨大过山车的诡异公园",
+    "name": "惊魂山丘",
+    "park_name": "惊魂山丘",
+    "reference-details": "A scary park with a giant centrepiece coaster",
+    "reference-name": "Frightmare Hills",
+    "reference-park_name": "Frightmare Hills"
+  },
+  "rct1ll.scenario_text.good_knight_park": {
+    "details": "一座有过山车的城堡需要发展成一个更大的主题公园",
+    "name": "佳爵公园",
+    "park_name": "佳爵公园",
+    "reference-details": "A castle with a pair of roller coasters needs developing into a larger theme park",
+    "reference-name": "Good Knight Park",
+    "reference-park_name": "Good Knight Park"
+  },
+  "rct1ll.scenario_text.grand_glacier": {
+    "details": "一个充满冰川的山谷等你开发成游乐园",
+    "name": "大冰川",
+    "park_name": "大冰川",
+    "reference-details": "A glacier-filled valley is yours to develop into a theme park",
+    "reference-name": "Grand Glacier",
+    "reference-park_name": "Grand Glacier"
+  },
+  "rct1ll.scenario_text.heidepark": {
+    "details": "",
+    "name": "海德公园",
+    "park_name": "海德公园",
+    "reference-details": "",
+    "reference-name": "Heide-Park",
+    "reference-park_name": "Heide-Park"
+  },
+  "rct1ll.scenario_text.icarus_park": {
+    "details": "开发这个外星公园并且最大化你的收益",
+    "name": "伊卡洛斯公园",
+    "park_name": "伊卡洛斯公园",
+    "reference-details": "Develop this alien park to maximise its profit",
+    "reference-name": "Icarus Park",
+    "reference-park_name": "Icarus Park"
+  },
+  "rct1ll.scenario_text.iceberg_islands": {
+    "details": "一系列冰山为这个雄心勃勃的主题公园营造了一个寒冷的环境",
+    "name": "冰山群岛",
+    "park_name": "冰山群岛",
+    "reference-details": "A collection of icebergs make a cold setting for this ambitious theme park",
+    "reference-name": "Iceberg Islands",
+    "reference-park_name": "Iceberg Islands"
+  },
+  "rct1ll.scenario_text.icicle_worlds": {
+    "details": "一个极地主题乐园等你来把它变得欣欣向荣",
+    "name": "冰封世界",
+    "park_name": "冰封世界",
+    "reference-details": "An icy landscape needs turning into a thriving theme park",
+    "reference-name": "Icicle Worlds",
+    "reference-park_name": "Icicle Worlds"
+  },
+  "rct1ll.scenario_text.megaworld_park": {
+    "details": "需要你去改进一个有很多过山车的巨大公园",
+    "name": "巨型世界公园",
+    "park_name": "巨型世界公园",
+    "reference-details": "A giant park already packed full of rides needs improving",
+    "reference-name": "Megaworld Park",
+    "reference-park_name": "Megaworld Park"
+  },
+  "rct1ll.scenario_text.micro_park": {
+    "details": "试着建造一个世界上最小的公园",
+    "name": "微型公园",
+    "park_name": "微型公园",
+    "reference-details": "Try to create the world’s smallest profitable park",
+    "reference-name": "Micro Park",
+    "reference-park_name": "Micro Park"
+  },
+  "rct1ll.scenario_text.nevermore_park": {
+    "details": "一个有着与众不同的交通系统环绕的大公园",
+    "name": "永无止境公园",
+    "park_name": "永无止境公园",
+    "reference-details": "A large park with a novel transportation system around its edge",
+    "reference-name": "Nevermore Park",
+    "reference-park_name": "Nevermore Park"
+  },
+  "rct1ll.scenario_text.octagon_park": {
+    "details": "在这个大公园里你需要设计建造十种大型过山车",
+    "name": "八角游乐园",
+    "park_name": "八角游乐园",
+    "reference-details": "In this large park you must design and build ten large coasters",
+    "reference-name": "Octagon Park",
+    "reference-park_name": "Octagon Park"
+  },
+  "rct1ll.scenario_text.pacifica": {
+    "details": "你的这个大岛屿需要你来改造成为游乐园",
+    "name": "太平岛",
+    "park_name": "太平岛",
+    "reference-details": "This large island is all yours to develop as an amusement park",
+    "reference-name": "Pacifica",
+    "reference-park_name": "Pacifica"
+  },
+  "rct1ll.scenario_text.paradise_pier_2": {
+    "details": "天堂码头已经在海上扩展了它的人行道网络，你的任务是扩大公园以利用额外的空间",
+    "name": "天堂码头2",
+    "park_name": "天堂码头2",
+    "reference-details": "Paradise Pier has expanded its network of walkways over the sea, and your task is to expand the park to use the extra space",
+    "reference-name": "Paradise Pier 2",
+    "reference-park_name": "Paradise Pier 2"
+  },
+  "rct1ll.scenario_text.pleasure_island": {
+    "details": "一个狭长的岛屿使得过山车的建筑变得富有挑战",
+    "name": "欢悦岛",
+    "park_name": "欢悦岛",
+    "reference-details": "A long thin island makes a challenging setting to build a selection of coasters",
+    "reference-name": "Pleasure Island",
+    "reference-park_name": "Pleasure Island"
+  },
+  "rct1ll.scenario_text.razor_rocks": {
+    "details": "你的任务是在一个巨大的岩石群中建造充满过山车的乐园",
+    "name": "剃刀岩",
+    "park_name": "剃刀岩",
+    "reference-details": "Your task is to build a massive coaster-filled park in amongst Razor Rocks",
+    "reference-name": "Razor Rocks",
+    "reference-park_name": "Razor Rocks"
+  },
+  "rct1ll.scenario_text.southern_sands": {
+    "details": "一个有着几座设计精明的过山车的沙漠公园等你扩张",
+    "name": "南方沙漠",
+    "park_name": "南方沙漠",
+    "reference-details": "A desert park with some cleverly designed coasters is yours to expand",
+    "reference-name": "Southern Sands",
+    "reference-park_name": "Southern Sands"
+  },
+  "rct1ll.scenario_text.sunny_swamps": {
+    "details": "这个主题鲜明的游乐园已经有好几部游乐设施，但仍有足够的扩展空间等你来扩张",
+    "name": "阳光沼泽",
+    "park_name": "阳光沼泽",
+    "reference-details": "This well-themed amusement park already has several rides, but has plenty of space for expansion",
+    "reference-name": "Sunny Swamps",
+    "reference-park_name": "Sunny Swamps"
+  },
+  "rct1ll.scenario_text.terror_town": {
+    "details": "你的这个小镇需要你来改造成为游乐园",
+    "name": "恐怖镇",
+    "park_name": "恐怖镇",
+    "reference-details": "This urban area is all yours to develop into an amusement park",
+    "reference-name": "Terror Town",
+    "reference-park_name": "Terror Town"
+  },
+  "rct1ll.scenario_text.thunder_rocks": {
+    "details": "在沙漠上的两块巨型岩柱上构建的主题公园",
+    "name": "雷霆巨石",
+    "park_name": "雷霆巨石",
+    "reference-details": "Two large hunks of rock stick out of the sand, upon which the beginnings of a theme park are constructed",
+    "reference-name": "Thunder Rocks",
+    "reference-park_name": "Thunder Rocks"
+  },
+  "rct1ll.scenario_text.tiny_towers": {
+    "details": "在这个小公园里你必须完成五座未完成的过山车",
+    "name": "小方块",
+    "park_name": "小方块",
+    "reference-details": "In this tiny park you must finish building the five existing coasters",
+    "reference-name": "Tiny Towers",
+    "reference-park_name": "Tiny Towers"
+  },
+  "rct1ll.scenario_text.urban_jungle": {
+    "details": "一座巨大的废弃摩天大楼对主题公园开发商来说是一个难得的机会",
+    "name": "都市丛林",
+    "park_name": "都市丛林",
+    "reference-details": "A giant abandoned skyscraper is a unique opportunity for a theme park developer",
+    "reference-name": "Urban Jungle",
+    "reference-park_name": "Urban Jungle"
+  },
+  "rct1ll.scenario_text.venus_ponds": {
+    "details": "在一个遥远的星球的土地上创造一个主题公园",
+    "name": "金星池塘",
+    "park_name": "金星池塘",
+    "reference-details": "On a far-away planet this area of land needs turning into a theme park",
+    "reference-name": "Venus Ponds",
+    "reference-park_name": "Venus Ponds"
+  },
+  "rct1ll.scenario_text.vertigo_views": {
+    "details": "这个大型公园已经有一个非常好的超级过山车，但你的任务是大幅增加其利润",
+    "name": "头晕眼花",
+    "park_name": "头晕眼花",
+    "reference-details": "This large park already has an excellent hyper-coaster, but your task is to massively increase its profit",
+    "reference-name": "Vertigo Views",
+    "reference-park_name": "Vertigo Views"
+  },
+  "rct1ll.scenario_text.volcania": {
+    "details": "这座休眠的火山就是过山车建造挑战的背景",
+    "name": "火焰之域",
+    "park_name": "火焰之域",
+    "reference-details": "A dormant volcano is the setting of this coaster-building challenge",
+    "reference-name": "Volcania",
+    "reference-park_name": "Volcania"
+  },
+  "rct1ll.scenario_text.wacky_warren": {
+    "details": "一个大多数人行道和过山车都在地下的公园",
+    "name": "狡兔三窟",
+    "park_name": "狡兔三窟",
+    "reference-details": "A park which has much of its footpaths and coasters underground",
+    "reference-name": "Wacky Warren",
+    "reference-park_name": "Wacky Warren"
+  },
+  "rct1ll.scenario_text.woodworm_park": {
+    "details": "这个久经沙场的公园只允许建造老式设施",
+    "name": "朽木公园",
+    "park_name": "朽木公园",
+    "reference-details": "This historical park is only allowed to build older-styled rides",
+    "reference-name": "Woodworm Park",
+    "reference-park_name": "Woodworm Park"
+  },
   "rct1ll.scenery_wall.medieval_wooden_fence": {
     "name": "木桩栅栏",
     "reference-name": "Wooden Fence"
@@ -783,20 +1495,20 @@
     "name": "木头",
     "reference-name": "Wood"
   },
-  "rct2.audio.base": {
-    "name": "游戏的基础音频。",
+  "rct2.audio.base.rct2": {
+    "name": "Base audio for the game.",
     "reference-name": "Base audio for the game."
   },
   "rct2.audio.base.rctc": {
-    "name": "游戏的基础音频。",
+    "name": "Base audio for the game.",
     "reference-name": "Base audio for the game."
   },
   "rct2.audio.circus": {
-    "name": "马戏团景点的环境音效。",
+    "name": "Ambient sound effects for the Circus attraction.",
     "reference-name": "Ambient sound effects for the Circus attraction."
   },
   "rct2.audio.title": {
-    "name": "过山车大亨 2 的标题画面音乐。",
+    "name": "Title screen music for RollerCoaster Tycoon 2.",
     "reference-name": "Title screen music for RollerCoaster Tycoon 2."
   },
   "rct2.footpath_banner.bn1": {
@@ -908,27 +1620,27 @@
     "reference-name": "Queue Line TV"
   },
   "rct2.footpath_railings.bamboo_black": {
-    "name": "竹制栏杆（黑色）",
+    "name": "Bamboo Railings (Black)",
     "reference-name": "Bamboo Railings (Black)"
   },
   "rct2.footpath_railings.bamboo_brown": {
-    "name": "竹栏杆（棕色）",
+    "name": "Bamboo Railings (Brown)",
     "reference-name": "Bamboo Railings (Brown)"
   },
   "rct2.footpath_railings.concrete": {
-    "name": "混凝土栏杆（灰褐色）",
+    "name": "Concrete Railings (Grey-Brown)",
     "reference-name": "Concrete Railings (Grey-Brown)"
   },
   "rct2.footpath_railings.concrete_green": {
-    "name": "混凝土栏杆（深绿色）",
+    "name": "Concrete Railings (Dark Green)",
     "reference-name": "Concrete Railings (Dark Green)"
   },
   "rct2.footpath_railings.space": {
-    "name": "太空风格栏杆（红色）",
+    "name": "Space Style Railings (Red)",
     "reference-name": "Space Style Railings (Red)"
   },
   "rct2.footpath_railings.wood": {
-    "name": "木制栏杆",
+    "name": "Wooden Railings",
     "reference-name": "Wooden Railings"
   },
   "rct2.footpath_surface.ash": {
@@ -944,19 +1656,19 @@
     "reference-name": "Dirt Footpath (Rounded)"
   },
   "rct2.footpath_surface.queue_blue": {
-    "name": "蓝色队列（楼梯）",
+    "name": "Blue Queue (Stairs)",
     "reference-name": "Blue Queue (Stairs)"
   },
   "rct2.footpath_surface.queue_green": {
-    "name": "深绿色队列",
+    "name": "Dark Green Queue",
     "reference-name": "Dark Green Queue"
   },
   "rct2.footpath_surface.queue_red": {
-    "name": "红色队列（楼梯）",
+    "name": "Red Queue (Stairs)",
     "reference-name": "Red Queue (Stairs)"
   },
   "rct2.footpath_surface.queue_yellow": {
-    "name": "黄色队列（楼梯）",
+    "name": "Yellow Queue (Stairs)",
     "reference-name": "Yellow Queue (Stairs)"
   },
   "rct2.footpath_surface.road": {
@@ -976,7 +1688,7 @@
     "reference-name": "Dark Green Tarmac Footpath"
   },
   "rct2.footpath_surface.tarmac_red": {
-    "name": "红色柏油步行道（楼梯）",
+    "name": "Red Tarmac Footpath (Stairs)",
     "reference-name": "Red Tarmac Footpath (Stairs)"
   },
   "rct2.music.candy": {
@@ -1118,6 +1830,10 @@
   "rct2.park_entrance.pkesfh": {
     "name": "游乐园入口建筑",
     "reference-name": "Park Entrance Building"
+  },
+  "rct2.peep_names.original": {
+    "name": "Original peep names",
+    "reference-name": "Original peep names"
   },
   "rct2.ride.4x4": {
     "capacity": "2位乘客/车",
@@ -2274,6 +2990,222 @@
     "reference-capacity": "2 passengers per car",
     "reference-description": "Roller coaster trains with small log-shaped cars",
     "reference-name": "Log Trains"
+  },
+  "rct2.scenario_text.alpine_adventures": {
+    "details": "将一个小滑雪胜地转型为一个以冰雪为主题的游乐园",
+    "name": "阿尔卑斯历险记",
+    "park_name": "阿尔卑斯历险记",
+    "reference-details": "Convert a small mountain ski resort into a snow-themed amusement park",
+    "reference-name": "Alpine Adventures",
+    "reference-park_name": "Alpine Adventures"
+  },
+  "rct2.scenario_text.amity_airfield": {
+    "details": "在这个被遗弃的飞机场建立一个以飞行为主题的游乐园",
+    "name": "和睦机场",
+    "park_name": "和睦机场",
+    "reference-details": "Build a flying-themed amusement park in this abandoned airport",
+    "reference-name": "Amity Airfield",
+    "reference-park_name": "Amity Airfield"
+  },
+  "rct2.scenario_text.botany_breakers": {
+    "details": "你的挑战是在这个天堂岛上建立一个高利润的游乐园",
+    "name": "绿色杀手",
+    "park_name": "绿色杀手",
+    "reference-details": "Your challenge is to build a high-profit park on this paradise island",
+    "reference-name": "Botany Breakers",
+    "reference-park_name": "Botany Breakers"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_belgium": {
+    "details": "建立自己的这个六旗比利时游乐园的版本",
+    "name": "建造你自己的 六旗比利时游乐园",
+    "park_name": "六旗比利时",
+    "reference-details": "Build your own version of this European Six Flags park",
+    "reference-name": "Build your own Six Flags Belgium",
+    "reference-park_name": "Six Flags Belgium"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_great_adventure": {
+    "details": "使用您的设计技能来重建这个六旗游乐园",
+    "name": "建造你自己的 六旗大冒险游乐园",
+    "park_name": "六旗大冒险",
+    "reference-details": "Use your design skills to recreate this Six Flags park",
+    "reference-name": "Build your own Six Flags Great Adventure",
+    "reference-park_name": "Six Flags Great Adventure"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_holland": {
+    "details": "以你想要的方式建造这个欧洲六旗游乐园",
+    "name": "建造你自己的 六旗荷兰游乐园",
+    "park_name": "六旗荷兰",
+    "reference-details": "Build this European Six Flags park the way you want to",
+    "reference-name": "Build your own Six Flags Holland",
+    "reference-park_name": "Six Flags Holland"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_magic_mountain": {
+    "details": "创建你自己的大型六旗游乐园的版本",
+    "name": "建造你自己的 六旗魔法山游乐园",
+    "park_name": "六旗魔法山",
+    "reference-details": "Create your own version of this massive Six Flags park",
+    "reference-name": "Build your own Six Flags Magic Mountain",
+    "reference-park_name": "Six Flags Magic Mountain"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_over_texas": {
+    "details": "从零开始，建造这个六旗游乐园的游乐设施",
+    "name": "建造你自己的 六旗降临得克萨斯游乐园",
+    "park_name": "六旗降临得克萨斯",
+    "reference-details": "Starting from scratch, build the rides in this Six Flags park",
+    "reference-name": "Build your own Six Flags over Texas",
+    "reference-park_name": "Six Flags over Texas"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_park": {
+    "details": "建造你自己设计的六旗游乐园——你可以从其他六旗游乐园借鉴或者设计建造你自己的游乐设施",
+    "name": "建造你自己的 六旗游乐园",
+    "park_name": "六旗游乐园",
+    "reference-details": "Build your own design of Six Flags park - either build rides from other Six Flags parks or design and build your own rides",
+    "reference-name": "Build your own Six Flags Park",
+    "reference-park_name": "Six Flags"
+  },
+  "rct2.scenario_text.bumbly_bazaar": {
+    "details": "从一个小集市，你的挑战是增加商店利润，建设商店及游乐设施和过山车来吸引更多的顾客",
+    "name": "混乱集市",
+    "park_name": "混乱集市",
+    "reference-details": "Starting with a small market bazaar, your challenge is to increase the profit from shops and stalls by building rides and roller coasters to attract more customers",
+    "reference-name": "Bumbly Bazaar",
+    "reference-park_name": "Bumbly Bazaar"
+  },
+  "rct2.scenario_text.crazy_castle": {
+    "details": "你继承了一个大的城堡——你的工作是把它转型成一个小型主题公园。",
+    "name": "疯狂城堡",
+    "park_name": "疯狂城堡",
+    "reference-details": "You have inherited a large castle. Your job is to convert it into a small theme park.",
+    "reference-name": "Crazy Castle",
+    "reference-park_name": "Crazy Castle"
+  },
+  "rct2.scenario_text.dusty_greens": {
+    "details": "位于沙漠附近的一个公路交界处，是时候把沙尘绿地这个小高尔夫度假村发展成为一个繁荣的主题公园了",
+    "name": "沙尘绿地",
+    "park_name": "沙尘绿地",
+    "reference-details": "Situated near a highway junction in the desert, Dusty Greens is an opportunity to develop a small golf resort into a thriving theme park",
+    "reference-name": "Dusty Greens",
+    "reference-park_name": "Dusty Greens"
+  },
+  "rct2.scenario_text.electric_fields": {
+    "details": "你继承了一个小农场，你的挑战是在农田和农场建筑之间建立一个小型主题乐园",
+    "name": "电气田野",
+    "park_name": "电气田野",
+    "reference-details": "You have inherited a small farm, and your challenge is to build a small theme park amongst the fields and farm buildings",
+    "reference-name": "Electric Fields",
+    "reference-park_name": "Electric Fields"
+  },
+  "rct2.scenario_text.extreme_heights": {
+    "details": "自由的金融限制，你的挑战是如何扩大这个沙漠游乐园吸引人们寻求终极的刺激",
+    "name": "终极高地",
+    "park_name": "终极高地",
+    "reference-details": "Free of financial restrictions, your challenge is to expand this desert park to attract people seeking the ultimate thrills",
+    "reference-name": "Extreme Heights",
+    "reference-park_name": "Extreme Heights"
+  },
+  "rct2.scenario_text.factory_capers": {
+    "details": "一个废弃的工厂是你的机遇，把它建造成一个机械为主题的游乐园",
+    "name": "工厂冒险",
+    "park_name": "工厂冒险",
+    "reference-details": "An abandoned factory complex is an opportunity to build a mechanical-themed amusement park",
+    "reference-name": "Factory Capers",
+    "reference-park_name": "Factory Capers"
+  },
+  "rct2.scenario_text.fungus_woods": {
+    "details": "仅限于老式的木制游乐设施，你的挑战是在真菌森林建造一个蓬勃发展的主题乐园",
+    "name": "真菌森林",
+    "park_name": "真菌森林",
+    "reference-details": "Restricted to only older-style wooden rides, your challenge is to build a thriving theme park in Fungus Woods",
+    "reference-name": "Fungus Woods",
+    "reference-park_name": "Fungus Woods"
+  },
+  "rct2.scenario_text.ghost_town": {
+    "details": "由一个大型的娱乐公园开始，你的任务是在一个废弃的采矿镇周围建造一个巨大的过山车游乐园",
+    "name": "鬼城",
+    "park_name": "鬼城",
+    "reference-details": "Hired by a large amusement park chain, your task is to build them a giant roller coaster park around an abandoned mining town",
+    "reference-name": "Ghost Town",
+    "reference-park_name": "Ghost Town"
+  },
+  "rct2.scenario_text.gravity_gardens": {
+    "details": "你的挑战是在重力花园没有其他设施可用的条件下打造过山车游乐园，只能建造过山车！",
+    "name": "重力花园",
+    "park_name": "重力花园",
+    "reference-details": "Your challenge is to build a roller coaster park in the beautiful Gravity Gardens. No other rides, just roller coasters!",
+    "reference-name": "Gravity Gardens",
+    "reference-park_name": "Gravity Gardens"
+  },
+  "rct2.scenario_text.infernal_views": {
+    "details": "公园坐落在炙热的熔岩流和不稳定的岩浆中",
+    "name": "炼狱",
+    "park_name": "炼狱",
+    "reference-details": "A park nestled precariously on lava rock with streams of magma",
+    "reference-name": "Infernal Views",
+    "reference-park_name": "Infernal Views"
+  },
+  "rct2.scenario_text.lucky_lake": {
+    "details": "你有了无限的资金，但湖泊是一个具有挑战性的位置，这个公园将是一个挑战，扩大它并运营它",
+    "name": "幸运湖泊",
+    "park_name": "幸运湖泊",
+    "reference-details": "With unlimited funds but a challenging lake location, this park will be a challenge to expand and manage",
+    "reference-name": "Lucky Lake",
+    "reference-park_name": "Lucky Lake"
+  },
+  "rct2.scenario_text.rainbow_summit": {
+    "details": "这个游乐园建在一个山坡上，禁止建造任何高的东西。你能扩大游乐园，使它成功吗？",
+    "name": "彩虹尽头",
+    "park_name": "彩虹尽头",
+    "reference-details": "Built on a hillside, this park is forbidden from building anything tall. Can you expand the park and make it successful?",
+    "reference-name": "Rainbow Summit",
+    "reference-park_name": "Rainbow Summit"
+  },
+  "rct2.scenario_text.six_flags_belgium": {
+    "details": "尝试用你的手运营并改进这座六旗游乐园",
+    "name": "六旗比利时",
+    "park_name": "六旗比利时",
+    "reference-details": "Try your hand at running and improving this Six Flags park",
+    "reference-name": "Six Flags Belgium",
+    "reference-park_name": "Six Flags Belgium"
+  },
+  "rct2.scenario_text.six_flags_great_adventure": {
+    "details": "建造遗失的六旗乐园游乐设施，或用自己的设计善公园！但别忘了你的最终目标——吸引更多的客人到公园去！",
+    "name": "六旗大冒险",
+    "park_name": "六旗大冒险",
+    "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
+    "reference-name": "Six Flags Great Adventure",
+    "reference-park_name": "Six Flags Great Adventure"
+  },
+  "rct2.scenario_text.six_flags_holland": {
+    "details": "尝试用你的手运营并改进这座六旗游乐园",
+    "name": "六旗荷兰",
+    "park_name": "六旗荷兰",
+    "reference-details": "Try your hand at running and improving this Six Flags park",
+    "reference-name": "Six Flags Holland",
+    "reference-park_name": "Six Flags Holland"
+  },
+  "rct2.scenario_text.six_flags_magic_mountain": {
+    "details": "建造遗失的六旗乐园游乐设施，或用自己的设计善公园！但别忘了你的最终目标——偿还贷款，同时保持公园价值！",
+    "name": "六旗魔术山",
+    "park_name": "六旗魔术山",
+    "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to repay your loan while keeping the park value up!",
+    "reference-name": "Six Flags Magic Mountain",
+    "reference-park_name": "Six Flags Magic Mountain"
+  },
+  "rct2.scenario_text.six_flags_over_texas": {
+    "details": "建造遗失的六旗乐园游乐设施，或用自己的设计善公园！但别忘了你的最终目标——吸引更多的客人到公园去！",
+    "name": "六旗降临得克萨斯",
+    "park_name": "六旗降临得克萨斯",
+    "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
+    "reference-name": "Six Flags over Texas",
+    "reference-park_name": "Six Flags over Texas"
+  },
+  "rct2.scenario_text.tycoon_park": {
+    "details": "",
+    "name": "大亨公园",
+    "park_name": "大亨公园",
+    "reference-details": "",
+    "reference-name": "Tycoon Park",
+    "reference-park_name": "Tycoon Park"
   },
   "rct2.scenery_group.scgabstr": {
     "name": "现代抽象主题",
@@ -4567,6 +5499,14 @@
     "reference-description": "Roller coaster trains with cuddly panda cars",
     "reference-name": "Panda Trains"
   },
+  "rct2dlc.scenario_text.panda_world": {
+    "details": "增加更多的设施来吸引更多的顾客来到这个熊猫主题的乐园.",
+    "name": "熊猫世界",
+    "park_name": "熊猫世界",
+    "reference-details": "Add more rides and attract more people to this panda-themed park",
+    "reference-name": "Panda World",
+    "reference-park_name": "Panda World"
+  },
   "rct2dlc.scenery_group.scgpanda": {
     "name": "熊猫主题",
     "reference-name": "Panda Theming"
@@ -4592,67 +5532,67 @@
     "reference-name": "Benches"
   },
   "rct2tt.footpath_railings.balustrade": {
-    "name": "栏杆",
+    "name": "Balustrade",
     "reference-name": "Balustrade"
   },
   "rct2tt.footpath_railings.circuitboard": {
-    "name": "电路板栏杆",
+    "name": "Circuit Board Railings",
     "reference-name": "Circuit Board Railings"
   },
   "rct2tt.footpath_railings.circuitboard_invisible": {
-    "name": "天空步道",
+    "name": "Sky Walk",
     "reference-name": "Sky Walk"
   },
   "rct2tt.footpath_railings.medieval": {
-    "name": "中世纪栏杆",
+    "name": "Medieval Railings",
     "reference-name": "Medieval Railings"
   },
   "rct2tt.footpath_railings.pavement": {
-    "name": "铁栏杆",
+    "name": "Iron Railings",
     "reference-name": "Iron Railings"
   },
   "rct2tt.footpath_railings.rainbow": {
-    "name": "彩虹栏杆",
+    "name": "Rainbow Railings",
     "reference-name": "Rainbow Railings"
   },
   "rct2tt.footpath_railings.rocky": {
-    "name": "丛林栏杆",
+    "name": "Jungle Railings",
     "reference-name": "Jungle Railings"
   },
   "rct2tt.footpath_surface.circuitboard": {
-    "name": "电路人行道",
+    "name": "Circuit Footpath",
     "reference-name": "Circuit Footpath"
   },
   "rct2tt.footpath_surface.medieval": {
-    "name": "木质人行道",
+    "name": "Wooden Footpath",
     "reference-name": "Wooden Footpath"
   },
   "rct2tt.footpath_surface.mosaic": {
-    "name": "马赛克人行道",
+    "name": "Mosaic Footpath",
     "reference-name": "Mosaic Footpath"
   },
   "rct2tt.footpath_surface.pavement": {
-    "name": "人行道",
+    "name": "Pavement",
     "reference-name": "Pavement"
   },
   "rct2tt.footpath_surface.queue_circuitboard": {
-    "name": "电路队列",
+    "name": "Circuit Queue",
     "reference-name": "Circuit Queue"
   },
   "rct2tt.footpath_surface.queue_pavement": {
-    "name": "人行道队列",
+    "name": "Pavement Queue",
     "reference-name": "Pavement Queue"
   },
   "rct2tt.footpath_surface.queue_rainbow": {
-    "name": "彩虹队列",
+    "name": "Rainbow Queue",
     "reference-name": "Rainbow Queue"
   },
   "rct2tt.footpath_surface.rainbow": {
-    "name": "彩虹小径",
+    "name": "Rainbow Footpath",
     "reference-name": "Rainbow Footpath"
   },
   "rct2tt.footpath_surface.rocky": {
-    "name": "岩石小径",
+    "name": "Rocky Footpath",
     "reference-name": "Rocky Footpath"
   },
   "rct2tt.park_entrance.1920sent": {
@@ -4749,8 +5689,8 @@
   },
   "rct2tt.ride.cyclopsx": {
     "capacity": "1位乘客/车",
-    "description": "乘客驾驶巨型独眼巨人之眼碰碰车",
-    "name": "独眼巨人碰碰车",
+    "description": "乘客驾驶巨型独眼巨人之眼",
+    "name": "独眼巨人",
     "reference-capacity": "1 person per car",
     "reference-description": "Riders drive the Eye of a Giant Cyclops",
     "reference-name": "Cyclops Dodgems"
@@ -4790,7 +5730,7 @@
   "rct2tt.ride.flwrpowr": {
     "capacity": "1位乘客/车",
     "description": "乘客乘坐他们自由控制的花形气垫船",
-    "name": "花之力碰碰车",
+    "name": "花之力",
     "reference-capacity": "1 passenger per car",
     "reference-description": "Riders ride in flower-shaped hovercraft vehicles that they freely control",
     "reference-name": "Flower Power Dodgems"
@@ -4829,7 +5769,7 @@
   },
   "rct2tt.ride.halofmrs": {
     "capacity": "5位乘客",
-    "description": "含有会扭曲观众形象的哈哈镜的建筑，",
+    "description": "Building containing warped mirrors which distort the reflection of the viewer",
     "name": "镜子迷阵",
     "reference-capacity": "5 guests",
     "reference-description": "Building containing warped mirrors which distort the reflection of the viewer",
@@ -4845,7 +5785,7 @@
   },
   "rct2tt.ride.hotrodxx": {
     "capacity": "2位乘客/车",
-    "description": "以空气为动力、外形酷似赛车的过山车列车",
+    "description": "Air-powered launched roller coaster trains in the shape of hot rod cars",
     "name": "Hot Rod Trains",
     "reference-capacity": "2 passengers per car",
     "reference-description": "Air-powered launched roller coaster trains in the shape of hot rod cars",
@@ -4860,10 +5800,10 @@
     "reference-name": "Hover Bikes"
   },
   "rct2tt.ride.hovercar": {
-    "capacity": "2位乘客/车",
+    "capacity": "1位乘客/车",
     "description": "磁悬浮技术已经可以用来创造未来悬停汽车的幻觉",
     "name": "浮空车",
-    "reference-capacity": "2 passengers per car",
+    "reference-capacity": "1 passenger per car",
     "reference-description": "Maglev technology has been implemented to create the illusion of futuristic hover cars",
     "reference-name": "Hover Cars"
   },
@@ -5010,10 +5950,10 @@
     "reference-name": "River Styx boats"
   },
   "rct2tt.ride.schoolbs": {
-    "capacity": "10位乘客/车",
+    "capacity": "6位乘客/车",
     "description": "以北美校车为主题的微型电车",
     "name": "校车电车",
-    "reference-capacity": "10 passengers per car",
+    "reference-capacity": "6 passengers per car",
     "reference-description": "Miniature trams themed to look like North American school buses",
     "reference-name": "School Bus Trams"
   },
@@ -5041,7 +5981,7 @@
   },
   "rct2tt.ride.stamphrd": {
     "capacity": "4位乘客/车",
-    "description": "过山车列车，乘坐者以站立姿势乘坐，其主题看起来像一个正在奔跑的恐龙群",
+    "description": "Roller coaster trains in which the riders ride in a standing position, themed to look like a stampeding dinosaur herd",
     "name": "Stampeding Herd Trains",
     "reference-capacity": "4 passengers per car",
     "reference-description": "Roller coaster trains in which the riders ride in a standing position, themed to look like a stampeding dinosaur herd",
@@ -5110,6 +6050,118 @@
     "reference-capacity": "8 passengers per car",
     "reference-description": "Large capacity themed monorail trains with streamlined front and rear cars",
     "reference-name": "Airship Themed Monorail Trains"
+  },
+  "rct2tt.scenario_text.alcatraz": {
+    "details": "臭名昭著的监狱岛的人口曾经充满了走私犯和诈骗犯——现在出售。你已经决定把它变成一个顶级的旅游景点，钱是没有对象",
+    "name": "恶魔岛",
+    "park_name": "恶魔岛",
+    "reference-details": "The infamous Prison Island - whose population once swelled with bootleggers and racketeers - is now up for sale. You’ve decided to convert it into a top tourist attraction, and money is no object",
+    "reference-name": "Alcatraz",
+    "reference-park_name": "Alcatraz"
+  },
+  "rct2tt.scenario_text.animatronic_antics": {
+    "details": "你已经被赋予了运行和改进现有的主题公园的任务，它是建立在一个旧的电影集上的。建立一个向创业的定格动画人第一次带来了神秘的生物生活在银幕上。",
+    "name": "古怪的动画电影",
+    "park_name": "古怪的动画电影",
+    "reference-details": "You have been given the task of running and improving an existing theme park, which has been built on an old film set. Build a tribute to the pioneering stop-motion animators who first brought mythical creatures to life on the silver screen.",
+    "reference-name": "Animatronic Antics",
+    "reference-park_name": "Animatronic Antics"
+  },
+  "rct2tt.scenario_text.cliffside_castle": {
+    "details": "战斗的地方成员重新制定的社会是相当严重的他们的爱好。他们委托你在悬崖边的城堡的场地建设一个黑暗时代的主题公园的工作。",
+    "name": "悬崖城堡",
+    "park_name": "悬崖城堡",
+    "reference-details": "Local members of the battle re-enactment society are rather serious about their hobby. They’ve entrusted you with the job of constructing a Dark Age theme park on the grounds of Cliffside Castle.",
+    "reference-name": "Cliffside Castle",
+    "reference-park_name": "Cliffside Castle"
+  },
+  "rct2tt.scenario_text.coastersaurus": {
+    "details": "你被赋予了建设一个侏罗纪时代主题公园的任务。为了优化您的游客访问异国情调的植物和动物的展品，你将需要建立乘坐去到山谷。",
+    "name": "过山龙",
+    "park_name": "过山龙",
+    "reference-details": "You’ve been given the task of constructing a Jurassic era theme park. To optimize your visitors’ access to the exotic plant and animal exhibits, you will need to build rides going over and into the valley.",
+    "reference-name": "Coastersaurus",
+    "reference-park_name": "Coastersaurus"
+  },
+  "rct2tt.scenario_text.crater_carnage": {
+    "details": "你拥有一个布满灰尘的老流星陨石坑。在真正的创业精神，你已经决定建造一个小行星主题公园，并转换你的看似毫无价值的土地变成一个相当大的财富。",
+    "name": "陨石坑大战",
+    "park_name": "陨石坑大战",
+    "reference-details": "You own a dusty old meteor crater. In the true entrepreneurial spirit, you’ve decided to construct an asteroid theme park and convert your seemingly worthless land into a sizeable fortune.",
+    "reference-name": "Crater Carnage",
+    "reference-park_name": "Crater Carnage"
+  },
+  "rct2tt.scenario_text.extraterrestrial_extravaganza": {
+    "details": "生命在一个遥远的星球上被发现，建造一个外星人主题公园，以现金在前所未有的兴趣浪潮。",
+    "name": "外星盛会",
+    "park_name": "外星盛会",
+    "reference-details": "Life has been discovered on a distant planet Build an alien theme park to cash in on the unprecedented wave of interest.",
+    "reference-name": "Extraterrestrial Extravaganza",
+    "reference-park_name": "Extraterrestrial Extravaganza"
+  },
+  "rct2tt.scenario_text.gemini_city": {
+    "details": "炫耀你的创造性的，乌托邦式的未来愿景——想出一个未来的公园设计，结合国家的最先进的景点。",
+    "name": "双子城",
+    "park_name": "双子城",
+    "reference-details": "Show off your inventive, utopian vision of the future - come up with a futuristic park design that incorporates state-of-the-art attractions.",
+    "reference-name": "Gemini City",
+    "reference-park_name": "Gemini City"
+  },
+  "rct2tt.scenario_text.metropolis": {
+    "details": "你拥有一个空的地段，靠近城镇的低矮的部分。把最贵的城市属性，建立一个主题公园的启发，摩天大楼高耸的建筑装饰艺术的年代。",
+    "name": "大都会",
+    "park_name": "大都会",
+    "reference-details": "You own an empty lot near the low-rise part of town. To squeeze the most out of your urban property, build a skyscraper theme park inspired by the soaring art deco architecture of the twenties.",
+    "reference-name": "Metropolis",
+    "reference-park_name": "Metropolis"
+  },
+  "rct2tt.scenario_text.mythological_madness": {
+    "details": "你拥有一个特定的考古价值的岛屿。你已经决定采用基于地区丰富的神话遗产建设主题公园的保护基金。",
+    "name": "神话狂热",
+    "park_name": "神话狂热",
+    "reference-details": "You own an island of particular archaeological value. You’ve decided to fund its preservation by constructing a theme park based on the area’s rich Mythological heritage.",
+    "reference-name": "Mythological Madness",
+    "reference-park_name": "Mythological Madness"
+  },
+  "rct2tt.scenario_text.rock_n_roll_revival": {
+    "details": "这个老龄化的主题公园已经看到了更好的日子。帮助主人给它一个复古摇滚的改造，把这个地方变成一个成功的地点。",
+    "name": "摇滚复兴",
+    "park_name": "摇滚复兴",
+    "reference-details": "This aging theme park has seen better days. Help the owner give it a retro rock ‘n’ roll makeover and turn the place into a successful venue.",
+    "reference-name": "Rock ‘n’ Roll Revival",
+    "reference-park_name": "Rock ‘n’ Roll Revival"
+  },
+  "rct2tt.scenario_text.rocky_rambles": {
+    "details": "为了阻止公路的开发和维护神秘的古老的石头圈，你将需要建造一个石器时代主题公园，并把利润。然而，吸引游客可能会构成挑战，因为地形有点荒凉。",
+    "name": "洛基漫步",
+    "park_name": "洛基漫步",
+    "reference-details": "To thwart the highway developers and preserve the mysterious ancient stone circles, you will need to construct a Stone Age theme park and turn a profit. However, attracting visitors may pose a challenge, as the terrain is a tad inhospitable.",
+    "reference-name": "Rocky Rambles",
+    "reference-park_name": "Rocky Rambles"
+  },
+  "rct2tt.scenario_text.schneider_shores": {
+    "details": "你的祖父的施耐德杯胜利第七十五周年是几年来。你要尊重自己的成就，通过构建一个基于著名的水上飞机比赛主题公园。",
+    "name": "施耐德海岸",
+    "park_name": "施耐德海岸",
+    "reference-details": "The 75th anniversary of your grandfather’s Schneider Cup victory is coming up in a few years. You’re going to honour his achievement by building a theme park based on the famous seaplane race.",
+    "reference-name": "Schneider Shores",
+    "reference-park_name": "Schneider Shores"
+  },
+  "rct2tt.scenario_text.sherwood_forest": {
+    "details": "为了把财富从富人中解放出来并分发给有需要的人，你和你的快乐的人决定在舍伍德森林里建立一个主题公园。",
+    "name": "舍伍德森林",
+    "park_name": "舍伍德森林",
+    "reference-details": "To liberate wealth from the rich and distribute it to the needy, you and your Merry Men have decided to build a theme park in Sherwood Forest.",
+    "reference-name": "Sherwood Forest",
+    "reference-park_name": "Sherwood Forest"
+  },
+  "rct2tt.scenario_text.woodstock": {
+    "details": "一个大型的年度音乐节在你的土地上。打造一个主题公园，保持自由奔放的观众的娱乐。",
+    "name": "伍德斯托克",
+    "park_name": "伍德斯托克",
+    "reference-details": "A large annual music festival takes place on your land. Build a hip theme park to keep the free-spirited audience entertained.",
+    "reference-name": "Woodstock",
+    "reference-park_name": "Woodstock"
   },
   "rct2tt.scenery_group.scg1920s": {
     "name": "咆哮20年代主题",
@@ -6021,27 +7073,27 @@
   },
   "rct2tt.scenery_small.futsky36": {
     "name": "黑曜石高楼-门",
-    "reference-name": "Obsidian SkyScraper Door Piece"
+    "reference-name": "Obsidian Skyscraper Door Piece"
   },
   "rct2tt.scenery_small.futsky37": {
     "name": "黑曜石高楼-缓斜转角",
-    "reference-name": "Obsidian SkyScraper Shallow Slope Corner"
+    "reference-name": "Obsidian Skyscraper Shallow Slope Corner"
   },
   "rct2tt.scenery_small.futsky38": {
     "name": "黑曜石高楼-缓斜墙",
-    "reference-name": "Obsidian SkyScraper Shallow Sloped Wall"
+    "reference-name": "Obsidian Skyscraper Shallow Sloped Wall"
   },
   "rct2tt.scenery_small.futsky39": {
     "name": "黑曜石高楼-缓斜转角",
-    "reference-name": "Obsidian SkyScraper Shallow Slope Corner"
+    "reference-name": "Obsidian Skyscraper Shallow Slope Corner"
   },
   "rct2tt.scenery_small.futsky40": {
     "name": "黑曜石高楼-陡斜墙",
-    "reference-name": "Obsidian SkyScraper Steep Sloped Wall"
+    "reference-name": "Obsidian Skyscraper Steep Sloped Wall"
   },
   "rct2tt.scenery_small.futsky41": {
     "name": "黑曜石高楼-陡斜墙",
-    "reference-name": "Obsidian SkyScraper Steep Sloped Wall"
+    "reference-name": "Obsidian Skyscraper Steep Sloped Wall"
   },
   "rct2tt.scenery_small.futsky42": {
     "name": "砂岩-高楼转角倾斜顶部",
@@ -6049,19 +7101,19 @@
   },
   "rct2tt.scenery_small.futsky44": {
     "name": "黑曜石高楼-陡斜墙",
-    "reference-name": "Obsidian SkyScraper Steep Sloped Wall"
+    "reference-name": "Obsidian Skyscraper Steep Sloped Wall"
   },
   "rct2tt.scenery_small.futsky46": {
     "name": "黑曜石高楼-陡斜转角",
-    "reference-name": "Obsidian SkyScraper Steep Slope Corner"
+    "reference-name": "Obsidian Skyscraper Steep Slope Corner"
   },
   "rct2tt.scenery_small.futsky47": {
     "name": "黑曜石高楼-墙",
-    "reference-name": "Obsidian SkyScraper Wall"
+    "reference-name": "Obsidian Skyscraper Wall"
   },
   "rct2tt.scenery_small.futsky48": {
     "name": "黑曜石高楼-带窗户的墙",
-    "reference-name": "Obsidian SkyScraper Wall with Window"
+    "reference-name": "Obsidian Skyscraper Wall with Window"
   },
   "rct2tt.scenery_small.futsky52": {
     "name": "砂岩-高楼内角底部",
@@ -6073,7 +7125,7 @@
   },
   "rct2tt.scenery_small.futsky54": {
     "name": "黑曜石高楼-房顶",
-    "reference-name": "Obsidian SkyScraper Roof Piece"
+    "reference-name": "Obsidian Skyscraper Roof Piece"
   },
   "rct2tt.scenery_small.fwrprdc1": {
     "name": "时髦的舞者",
@@ -7474,7 +8526,7 @@
   "rct2ww.ride.dragdodg": {
     "capacity": "1位乘客/车",
     "description": "自助式电动碰碰车",
-    "name": "东方祥龙碰碰车",
+    "name": "东方祥龙游乐设施",
     "reference-capacity": "1 person per car",
     "reference-description": "Guests battle each other in dragonhead-shaped dodgems",
     "reference-name": "Chinese Dragonhead Dodgems"
@@ -7798,6 +8850,142 @@
     "reference-capacity": "2 passengers per car",
     "reference-description": "Roller coaster trains with small grub-shaped cars",
     "reference-name": "Witchetty Grub Trains"
+  },
+  "rct2ww.scenario_text.ayers_adventure": {
+    "details": "作为文化意识计划的一部分，你要帮助土著人建立一个游乐园。你需要让大量的客人知道土著们具有独特的文化遗产。",
+    "name": "艾尔斯冒险",
+    "park_name": "艾尔斯冒险",
+    "reference-details": "You are helping Aboriginal people to build a park as part of a cultural awareness program. You need to get a large number of guests to educate them in the unique heritage of the Aboriginal people.",
+    "reference-name": "Ayers Adventure",
+    "reference-park_name": "Ayers Adventure"
+  },
+  "rct2ww.scenario_text.beach_barbecue_blast": {
+    "details": "一个本地企业家的海滨游乐园已经破产。你已经经营了一个小游乐园，你要从建筑公司购买另一个游乐园。开发一个大联合游乐园。",
+    "name": "海滩烧烤风",
+    "park_name": "海滩烧烤风",
+    "reference-details": "A local entrepreneur’s sealife park has gone bust. You already operate a small park and buy the other park from the construction company. Develop a big combined park.",
+    "reference-name": "Beach Barbecue Blast",
+    "reference-park_name": "Beach Barbecue Blast"
+  },
+  "rct2ww.scenario_text.canyon_calamities": {
+    "details": "你必须在有限的土地上建立一个游乐园，这里有自然财富——从美洲印第安人那里有机会购买邻近的土地。维持当地城镇的人口是你需要完成的目标。",
+    "name": "峡谷浩劫",
+    "park_name": "峡谷浩劫",
+    "reference-details": "You have to build a park on limited land either side of this natural treasure - you do have the opportunity to buy neighbouring land from the Native American Indians. You need to complete the objective to sustain the local town’s population.",
+    "reference-name": "Canyon Calamities",
+    "reference-park_name": "Canyon Calamities"
+  },
+  "rct2ww.scenario_text.european_extravaganza": {
+    "details": "你被安排接管一个欧洲文化游的景点，必须增加客人的数量，在目前的欧洲议会任期结束前支付加入欧盟的税款。",
+    "name": "欧洲盛会",
+    "park_name": "欧洲盛会",
+    "reference-details": "You have been brought in to take over a European Cultural Visitor Attraction and must increase the number of guests in order to pay back the EU subsidy by the end of the current European parliament term.",
+    "reference-name": "European Extravaganza",
+    "reference-park_name": "European Extravaganza"
+  },
+  "rct2ww.scenario_text.from_the_ashes": {
+    "details": "一个老公园年久失修。你获得一个欧盟的补助金，将这个被剥夺的地区归还给它昔日的荣耀！你需要整修公园并偿还补助金。",
+    "name": "来自灰烬",
+    "park_name": "来自灰烬",
+    "reference-details": "An old park has fallen into disrepair. You gain a European Union grant to return this deprived area to its former glory! You need to renovate the park and repay the grant.",
+    "reference-name": "From The Ashes",
+    "reference-park_name": "From The Ashes"
+  },
+  "rct2ww.scenario_text.great_wall_of_china": {
+    "details": "当局已决定在附近的土地上建造主题公园，以加强在长城周边的旅游业发展。",
+    "name": "中国长城",
+    "park_name": "中国长城",
+    "reference-details": "The authorities have decided to enhance tourism around the Great Wall by building a theme park on the adjacent land. Money is no object!",
+    "reference-name": "Great Wall of China",
+    "reference-park_name": "Great Wall of China"
+  },
+  "rct2ww.scenario_text.icy_adventures": {
+    "details": "环境署已经把你碍眼的旧炼油厂改造成顶级生态的旅游胜地。土地便宜但贷款利息高。你可以卖掉旧建筑来赚钱。",
+    "name": "冰冷冒险",
+    "park_name": "冰冷冒险",
+    "reference-details": "The environment agency has turned to you to transform an old oil refinery ecological eyesore into a top tourist attraction. Land is cheap but loan interest is high. You can sell the old buildings for salvage.",
+    "reference-name": "Icy Adventures",
+    "reference-park_name": "Icy Adventures"
+  },
+  "rct2ww.scenario_text.lost_city_founder": {
+    "details": "为了进一步促进当地旅游业的发展，你需要建设一个与周围环境相协调的公园。",
+    "name": "失落之城",
+    "park_name": "失落之城",
+    "reference-details": "To further boost local tourism you must construct a park that is in tune with its surroundings.",
+    "reference-name": "Lost City Founder",
+    "reference-park_name": "Lost City Founder"
+  },
+  "rct2ww.scenario_text.mines_of_africa": {
+    "details": "你继承了一个废弃的钻石矿，并找到一个珍贵的钻石。你决定用那笔钱去建造一个世界闻名的主题乐园。",
+    "name": "非洲矿山",
+    "park_name": "非洲矿山",
+    "reference-details": "You inherited a disused diamond mine, and find a valuable diamond.  You decide to invest that money to build a world-famous theme park.",
+    "reference-name": "Mines of Africa",
+    "reference-park_name": "Mines of Africa"
+  },
+  "rct2ww.scenario_text.mirage_madness": {
+    "details": "一个沙漠绿洲被发现了，它为游乐园提供了一个美丽的环境。游乐园已有绿洲运输。",
+    "name": "海市蜃楼狂热",
+    "park_name": "海市蜃楼狂热",
+    "reference-details": "A desert Oasis has been discovered and would provide a beautiful location for a park. Transport to the oasis has been provided.",
+    "reference-name": "Mirage Madness",
+    "reference-park_name": "Mirage Madness"
+  },
+  "rct2ww.scenario_text.okinawa_coast": {
+    "details": "一个现有的公园已经用完了空间。你唯一的选择是建立在海上，所以你采取了贷款。你的建筑的高度被地基和地震风险限制。",
+    "name": "冲绳海岸",
+    "park_name": "冲绳海岸",
+    "reference-details": "An existing park has run out of space. Your only option is to build out into the sea, and so you have taken out a loan. Height restrictions on your building are enforced due to foundations and earthquake risk.",
+    "reference-name": "Okinawa Coast",
+    "reference-park_name": "Okinawa Coast"
+  },
+  "rct2ww.scenario_text.over_the_edge": {
+    "details": "当地建成了一个大坝，提供了丰富的，廉价的水电，用来运行一个公园。你需要用公园来获得很多的钱，用来偿还建造大坝的贷款。",
+    "name": "大河边缘",
+    "park_name": "大河边缘",
+    "reference-details": "A dam has been built offering abundant, cheap hydroelectric power with which to run a park. You need to reach a high park value to help repay the loan for the dam.",
+    "reference-name": "Over The Edge",
+    "reference-park_name": "Over The Edge"
+  },
+  "rct2ww.scenario_text.park_maharaja": {
+    "details": "你被委托为当地人建造大型的娱乐设施。由王公的宫殿改建成一个游乐园。",
+    "name": "迈索尔公园",
+    "park_name": "迈索尔公园",
+    "reference-details": "You have been commissioned by the Maharaja to bring entertainment to the large local population. Build a park inspired by the Maharaja’s palace.",
+    "reference-name": "Park Maharaja",
+    "reference-park_name": "Park Maharaja"
+  },
+  "rct2ww.scenario_text.rainforest_romp": {
+    "details": "空间是有限的宝贵的热带雨林——你必须尽可能多地塞进现有的结算，以提供一个可行的替代当地木材业。",
+    "name": "嬉闹雨林",
+    "park_name": "嬉闹雨林",
+    "reference-details": "Space is limited in the precious rainforest - you must cram as much as possible into the existing clearing, in order to provide a viable alternative to the local timber industry.",
+    "reference-name": "Rainforest Romp",
+    "reference-park_name": "Rainforest Romp"
+  },
+  "rct2ww.scenario_text.rollercoaster_heaven": {
+    "details": "你是在休假想要利用这段时间改造城市公园的过山车的天堂一个成功的商业大亨。金钱是没有目标的！",
+    "name": "过山车天堂",
+    "park_name": "过山车天堂",
+    "reference-details": "You are a successful business tycoon on long sabbatical who desires to use this time transforming the city park into Rollercoaster Heaven. Money is no object!",
+    "reference-name": "Rollercoaster Heaven",
+    "reference-park_name": "Rollercoaster Heaven"
+  },
+  "rct2ww.scenario_text.sugarloaf_shores": {
+    "details": "你在里约附近的一个小公园，但银行已在你的贷款。你需要快速提高你的盈利能力来偿还这意想不到的债务。",
+    "name": "蜜糖面包海岸",
+    "park_name": "蜜糖面包海岸",
+    "reference-details": "You run a small park near Rio but the bank has called in your loan. You need to quickly increase your earning capacity to repay this unexpected debt.",
+    "reference-name": "Sugarloaf Shores",
+    "reference-park_name": "Sugarloaf Shores"
+  },
+  "rct2ww.scenario_text.wacky_waikiki": {
+    "details": "夏威夷的人们厌倦了冲浪，寻找更刺激的东西。你需要建立一个游乐园，以保持该地区的旅游评级。",
+    "name": "积极威基基",
+    "park_name": "积极威基基",
+    "reference-details": "The people of Hawaii are bored of surfing and are looking for something more intense. You need to build a park with this in mind to keep the area’s tourist attraction rating high.",
+    "reference-name": "Wacky Waikiki",
+    "reference-park_name": "Wacky Waikiki"
   },
   "rct2ww.scenery_group.scgafric": {
     "name": "非洲主题",
@@ -10418,5 +11606,149 @@
   "toontowner.scenery_small.xxbbbr01_fix": {
     "name": "垒包",
     "reference-name": "Base Block"
+  },
+  "uces.scenario_text.beneath_the_christmas_tree": {
+    "details": "妈妈在树下创造了这个场景，现在，她想要在这里创造一个游乐园！你能帮忙吗？",
+    "name": "圣诞树下",
+    "park_name": "冬季仙境",
+    "reference-details": "Mum built this scene under our tree. Now she wants a park made in it! Can you help?",
+    "reference-name": "Beneath the Christmas Tree",
+    "reference-park_name": "Winter Wonderland"
+  },
+  "uces.scenario_text.bigrock_blast": {
+    "details": "在巨石镇矿产公司发生爆炸后，巨石镇的人们不得不建造一个游乐园来维持他们的城镇活力。",
+    "name": "巨石镇大爆炸",
+    "park_name": "巨石镇大爆炸",
+    "reference-details": "After an explosion at the Bigrock Mining Co., the people of Bigrock have to build an amusement park to keep their town alive.",
+    "reference-name": "Bigrock Blast",
+    "reference-park_name": "Bigrock Blast"
+  },
+  "uces.scenario_text.camp_mockingbird": {
+    "details": "这个夏令营每个月只有500美元！找银行吧，玩的开心就好！建造一个游乐园。",
+    "name": "嘲鸫夏令营",
+    "park_name": "嘲鸫夏令营",
+    "reference-details": "Only $500/week to this summer camp! Break open your bank and then have fun and build a park.",
+    "reference-name": "Camp Mockingbird",
+    "reference-park_name": "Camp Mockingbird"
+  },
+  "uces.scenario_text.cemetery_ridge": {
+    "details": "万圣节到了，UCES万圣节，南瓜在夜深人静时尖叫！这个墓地有麻烦了，由你来拯救它，同时让死者安息！你能把鬼魂留在他们的坟墓里，给你的顾客带来寒意吗？",
+    "name": "墓地飞车",
+    "park_name": "墓地飞车",
+    "reference-details": "This is Halloween, UCES Halloween, pumpkins scream in the dead of night! This graveyard is in trouble and it’s up to you to save it, while letting the dead rest in peace! Can you keep the ghosts in their graves and bring chills to your customers?",
+    "reference-name": "Cemetery Ridge",
+    "reference-park_name": "Cemetery Ridge"
+  },
+  "uces.scenario_text.choochoo_town": {
+    "details": "妈咪！爸比！我想去呜呜小镇！",
+    "name": "呜呜小镇",
+    "park_name": "呜呜小镇",
+    "reference-details": "Mommy! Daddy! I want to go to Choo-Choo Town!",
+    "reference-name": "Choo-Choo Town",
+    "reference-park_name": "Choo-Choo Town"
+  },
+  "uces.scenario_text.dragon_islands": {
+    "details": "龙之岛？我可不确定我会想去那……",
+    "name": "龙之岛",
+    "park_name": "龙之岛",
+    "reference-details": "Dragon Islands? I’m not sure I want to go there…",
+    "reference-name": "Dragon Islands",
+    "reference-park_name": "Dragon Islands"
+  },
+  "uces.scenario_text.kiddie_karnival_ii": {
+    "details": "嘿，孩子们！玩的开心！",
+    "name": "基迪嘉年华2",
+    "park_name": "基迪嘉年华",
+    "reference-details": "Hey kids! Let’s have fun!",
+    "reference-name": "Kiddie Karnival II",
+    "reference-park_name": "Kiddie Karnival"
+  },
+  "uces.scenario_text.luna_park_cleveland": {
+    "details": "一切就像它开幕当天一样——1905年5月18日。",
+    "name": "克利夫兰的月神公园",
+    "park_name": "月神公园",
+    "reference-details": "As it was on its opening day - 18 May 1905.",
+    "reference-name": "Luna Park, Cleveland",
+    "reference-park_name": "Luna Park"
+  },
+  "uces.scenario_text.mount_vesuvius": {
+    "details": "维苏威火山在公元79年喷发，庞贝古城和赫库兰尼姆被深埋地下。参观挖掘并建造公园！",
+    "name": "维苏威火山",
+    "park_name": "维苏威火山",
+    "reference-details": "Pompeii and Herculaneum were buried by Mt. Vesuvius in 79 A.D. Visit the excavations and build a park!",
+    "reference-name": "Mount Vesuvius",
+    "reference-park_name": "Mount Vesuvius"
+  },
+  "uces.scenario_text.niagara_falls_gorge": {
+    "details": "美国的瀑布，婚纱样的瀑布，加拿大的瀑布，在尼亚加拉丛林旁，1850年。",
+    "name": "尼亚加拉大瀑布和峡谷",
+    "park_name": "尼亚加拉大瀑布",
+    "reference-details": "American Falls, Bridal Falls & Canadian Horseshoe Falls on the Niagara Frontier, 1850.",
+    "reference-name": "Niagara Falls & Gorge",
+    "reference-park_name": "Niagara Falls"
+  },
+  "uces.scenario_text.rocky_mountain_miners": {
+    "details": "泥石流摧毁了你的铁路。通过工人的勘探，过山车中貌似有黄金？",
+    "name": "落石山矿工",
+    "park_name": "落石山矿工",
+    "reference-details": "A rockslide damaged your railway. Your workers have gone prospecting. Is there gold in roller coasters?",
+    "reference-name": "Rocky Mountain Miners",
+    "reference-park_name": "Rocky Mountain Miners"
+  },
+  "uces.scenario_text.sand_dune": {
+    "details": "你是一个小公园的拥有者，你买了一大块土地去扩展，希望可以吸引更多的游客来欣赏美丽的沙丘，但是别忘了：你可不能破坏沙丘的生态平衡。",
+    "name": "梦幻沙丘",
+    "park_name": "梦幻沙丘",
+    "reference-details": "As the owner of a small park, you bought a large piece of land along the beach to expand and attract more guests to visit the beautiful sand dunes, but beware: you cannot disturb those ecologically fragile sand dunes.",
+    "reference-name": "Sand Dune",
+    "reference-park_name": "Sand Dune"
+  },
+  "uces.scenario_text.the_lighthouse_of_alexandria": {
+    "details": "亚历山大建造了这座城市;希腊人、罗马人、埃及人纷纷留下了他们的印记。但最大的荣耀是来自古代世界的奇迹——灯塔。建造一个公园！",
+    "name": "亚历山德里亚的灯塔",
+    "park_name": "亚历山德里亚的灯塔",
+    "reference-details": "Alexander built the city; Greeks, Romans, Egyptians left their mark. But the biggest honor was a Wonder of the Ancient World - the Lighthouse. Visit and make a park!",
+    "reference-name": "The Lighthouse of Alexandria",
+    "reference-park_name": "The Lighthouse of Alexandria"
+  },
+  "uces.scenario_text.the_sandbox": {
+    "details": "每个人都想拥有的——沙盒！所以拿起你的桶和铲子，建造一个公园吧！",
+    "name": "沙盒",
+    "park_name": "沙盒",
+    "reference-details": "What everyone wants - a sandbox! So grab your l’il pail and shovel and build a park!",
+    "reference-name": "The Sandbox",
+    "reference-park_name": "The Sandbox"
+  },
+  "uces.scenario_text.the_time_machine": {
+    "details": "时间机器。一个用来去往任何你想去的时间，任何你想去的地点。等待永恒。这都是相对的。",
+    "name": "时间机器",
+    "park_name": "时间机器",
+    "reference-details": "The Time Machine. Build to go - when you want, where you want. Eternity awaits. It’s all relative.",
+    "reference-name": "The Time Machine",
+    "reference-park_name": "The Time Machine"
+  },
+  "uces.scenario_text.tower_of_babel": {
+    "details": "哇奥！看看这这个时间机器吧我们带到哪里去了！大家都去哪了？",
+    "name": "吵闹之塔",
+    "park_name": "吵闹之塔",
+    "reference-details": "Whoaa! Look where the time machine took us now! Where did everybody go?",
+    "reference-name": "Tower of Babel",
+    "reference-park_name": "Tower of Babel"
+  },
+  "uces.scenario_text.transformation": {
+    "details": "我们会希望你可以……",
+    "name": "做出改变",
+    "park_name": "做出改变",
+    "reference-details": "We were expecting you…",
+    "reference-name": "Transformation",
+    "reference-park_name": "Transformation"
+  },
+  "uces.scenario_text.urbis_incognitus": {
+    "details": "罗马人厌倦了无聊的角斗士战斗。给他们更多的刺激，把神秘的罗马城市变成有史以来最伟大的游乐园！",
+    "name": "世外桃源",
+    "park_name": "世外桃源",
+    "reference-details": "The Romans are tired of boring gladiator fights. Give them a better thrill, turn a Roman city into the greatest amusement park of all time!",
+    "reference-name": "Urbis Incognitus",
+    "reference-park_name": "Urbis Incognitus"
   }
 }

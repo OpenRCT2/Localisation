@@ -59,6 +59,14 @@
     "reference-description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
     "reference-name": "Hybrid Coaster Trains"
   },
+  "openrct2.ride.modern_twister": {
+    "capacity": "4 passengers per car",
+    "description": "Spacious trains with lap restraints, capable of tight twists and inversions",
+    "name": "Modern Twister Trains",
+    "reference-capacity": "4 passengers per car",
+    "reference-description": "Spacious trains with lap restraints, capable of tight twists and inversions",
+    "reference-name": "Modern Twister Trains"
+  },
   "openrct2.ride.single_rail_coaster": {
     "capacity": "1 utas kocsinként",
     "description": "Hullámvasút vonatok, amelyeken az utasok egymás után ülnek",
@@ -313,6 +321,14 @@
     "reference-description": "Powered vehicles in the shape of sports cars",
     "reference-name": "Sports Cars"
   },
+  "rct1.ride.stand_up_trains": {
+    "capacity": "4 passengers per car",
+    "description": "Roller coaster trains in which the riders ride in a standing position",
+    "name": "Stand-up Roller Coaster Trains",
+    "reference-capacity": "4 passengers per car",
+    "reference-description": "Roller coaster trains in which the riders ride in a standing position",
+    "reference-name": "Stand-up Roller Coaster Trains"
+  },
   "rct1.ride.steam_trains": {
     "capacity": "6 passengers per carriage",
     "description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
@@ -398,6 +414,182 @@
     "reference-capacity": "4 passengers per car",
     "reference-description": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
     "reference-name": "Wooden Roller Coaster Trains (Reversed)"
+  },
+  "rct1.scenario_text.bumbly_beach": {
+    "details": "Virágoztasd fel Suta Strand apró vidámparkját",
+    "name": "Suta Strand",
+    "park_name": "Suta Strand",
+    "reference-details": "Develop Bumbly Beach’s small amusement park into a thriving theme park",
+    "reference-name": "Bumbly Beach",
+    "reference-park_name": "Bumbly Beach"
+  },
+  "rct1.scenario_text.crumbly_woods": {
+    "details": "Egy nagy park jól tervezett, de meglehetősen öreg játékokkal - Cseréld le az öreg játékokat, vagy építs újakat, hogy népszerűbb legyen a park",
+    "name": "Recsegő Rengeteg",
+    "park_name": "Recsegő Rengeteg",
+    "reference-details": "A large park with well-designed but rather old rides. Replace the old rides or add new rides to make the park more popular.",
+    "reference-name": "Crumbly Woods",
+    "reference-park_name": "Crumbly Woods"
+  },
+  "rct1.scenario_text.diamond_heights": {
+    "details": "Gyémánt-fennsík már egy sikeres vidámpark, remek játékokkal - fejleszd, hogy megduplázd az értékét",
+    "name": "Gyémánt-fennsík",
+    "park_name": "Gyémánt-fennsík",
+    "reference-details": "Diamond Heights is already a successful theme park with great rides - develop it to double its value",
+    "reference-name": "Diamond Heights",
+    "reference-park_name": "Diamond Heights"
+  },
+  "rct1.scenario_text.dynamite_dunes": {
+    "details": "Ez a sivatag közepén épült vidámpark csak egy hullámvasúttal rendelkezik, de van helye a terjeszkedésre",
+    "name": "Dinamit Dűnék",
+    "park_name": "Dinamit Dűnék",
+    "reference-details": "Built in the middle of the desert, this theme park contains just one roller coaster but has space for expansion",
+    "reference-name": "Dynamite Dunes",
+    "reference-park_name": "Dynamite Dunes"
+  },
+  "rct1.scenario_text.evergreen_gardens": {
+    "details": "Alakítsd át a csodaszép Örökzöld Kertet egy virágzó vidámparkká",
+    "name": "Örökzöld Kert",
+    "park_name": "Örökzöld Kert",
+    "reference-details": "Convert the beautiful Evergreen Gardens into a thriving theme park",
+    "reference-name": "Evergreen Gardens",
+    "reference-park_name": "Evergreen Gardens"
+  },
+  "rct1.scenario_text.forest_frontiers": {
+    "details": "Építs egy virágzó vidámparkot az erdő mélyén lévő nagy tisztáson",
+    "name": "Elkerített Erdő",
+    "park_name": "Elkerített Erdő",
+    "reference-details": "Deep in the forest, build a thriving theme park in a large cleared area",
+    "reference-name": "Forest Frontiers",
+    "reference-park_name": "Forest Frontiers"
+  },
+  "rct1.scenario_text.ivory_towers": {
+    "details": "Egy jól működő park, amely néhány problémával küzd",
+    "name": "Elefántcsont-tornyok",
+    "park_name": "Elefántcsont-tornyok",
+    "reference-details": "A well-established park, which has a few problems",
+    "reference-name": "Ivory Towers",
+    "reference-park_name": "Ivory Towers"
+  },
+  "rct1.scenario_text.karts_coasters": {
+    "details": "Egy nagy park, elrejtve az erdőben, amelyben csak gokart pályák és fa hullámvasutak vannak",
+    "name": "Gokartok & Hullámvasutak",
+    "park_name": "Gokartok & Hullámvasutak",
+    "reference-details": "A large park hidden in the forest, with only go-kart tracks and wooden roller coasters",
+    "reference-name": "Karts & Coasters",
+    "reference-park_name": "Karts & Coasters"
+  },
+  "rct1.scenario_text.katies_dreamland": {
+    "details": "Egy kis méretű vidámpark, pár játékkal és hellyel a terjeszkedéshez - A célod, hogy megduplázd a park értékét",
+    "name": "Katie Álomvilága",
+    "park_name": "Katie Álomvilága",
+    "reference-details": "A small theme park with a few rides and room for expansion. Your aim is to double the park value.",
+    "reference-name": "Katie’s Dreamland",
+    "reference-park_name": "Katie’s Dreamland"
+  },
+  "rct1.scenario_text.leafy_lake": {
+    "details": "A nulláról kezdve építs egy vidámparkot a nagy tó körül",
+    "name": "Leveles-tó",
+    "park_name": "Leveles-tó",
+    "reference-details": "Starting from scratch, build a theme park around a large lake",
+    "reference-name": "Leafy Lake",
+    "reference-park_name": "Leafy Lake"
+  },
+  "rct1.scenario_text.lightning_peaks": {
+    "details": "Villámcsúcsok gyönyörű hegyei népszerűek a természetjárók és a turisták körében - Használd ki a rendelkezésre álló területet, hogy új, izgalmakat kereső vendégkört vonzzon magához",
+    "name": "Villámcsúcsok",
+    "park_name": "Villámcsúcsok",
+    "reference-details": "The beautiful mountains of Lightning Peaks are popular with walkers and sightseers. Use the available land to attract a new thrill-seeking clientele.",
+    "reference-name": "Lightning Peaks",
+    "reference-park_name": "Lightning Peaks"
+  },
+  "rct1.scenario_text.mega_park": {
+    "details": "Csak a móka kedvéért!",
+    "name": "Mega Park",
+    "park_name": "Mega Park",
+    "reference-details": "Just for fun!",
+    "reference-name": "Mega Park",
+    "reference-park_name": "Mega Park"
+  },
+  "rct1.scenario_text.mels_world": {
+    "details": "Ez a vidámpark már rendelkezik pár jól tervezett, modern játékkal, de bőven van helye terjeszkedésre",
+    "name": "Mel Világa",
+    "park_name": "Mel Világa",
+    "reference-details": "This theme park has some well-designed modern rides, but plenty of space for expansion",
+    "reference-name": "Mel’s World",
+    "reference-park_name": "Mel’s World"
+  },
+  "rct1.scenario_text.millennium_mines": {
+    "details": "Alakíts át egy nagy, elhagyatott bányát turistalátványosságból vidámparkká",
+    "name": "Ezeréves Bányák",
+    "park_name": "Ezeréves Bányák",
+    "reference-details": "Convert a large abandoned mine from a tourist attraction into a theme park",
+    "reference-name": "Millennium Mines",
+    "reference-park_name": "Millennium Mines"
+  },
+  "rct1.scenario_text.mystic_mountain": {
+    "details": "A nulláról kezdve építs egy vidámparkot Misztikus-hegy dombos erdeiben",
+    "name": "Misztikus-hegy",
+    "park_name": "Misztikus-hegy",
+    "reference-details": "In the hilly forests of Mystic Mountain, build a theme park from scratch",
+    "reference-name": "Mystic Mountain",
+    "reference-park_name": "Mystic Mountain"
+  },
+  "rct1.scenario_text.pacific_pyramids": {
+    "details": "Alakítsd át a turistalátványosságként szolgáló egyiptomi romokat egy virágzó vidámparkká",
+    "name": "Pihenő Piramisok",
+    "park_name": "Pihenő Piramisok",
+    "reference-details": "Convert the Egyptian Ruins tourist attraction into a thriving theme park",
+    "reference-name": "Pacific Pyramids",
+    "reference-park_name": "Pacific Pyramids"
+  },
+  "rct1.scenario_text.paradise_pier": {
+    "details": "Alakítsd át ennek az álmos kisvárosnak a mólóját virágzó attrakcióvá",
+    "name": "Paradicsom Móló",
+    "park_name": "Paradicsom Móló",
+    "reference-details": "Convert this sleepy town’s pier into a thriving attraction",
+    "reference-name": "Paradise Pier",
+    "reference-park_name": "Paradise Pier"
+  },
+  "rct1.scenario_text.pokey_park": {
+    "details": "Egy kis méretű, zsúfolt vidámpark, amelynek jelentős terjeszkedésre van szüksége",
+    "name": "Parányi Park",
+    "park_name": "Parányi Park",
+    "reference-details": "A small, cramped amusement park which requires major expansion",
+    "reference-name": "Pokey Park",
+    "reference-park_name": "Pokey Park"
+  },
+  "rct1.scenario_text.rainbow_valley": {
+    "details": "Szivárványvölgy helyi önkormányzata nem engedélyez semmilyen tájátalakítást vagy a nagy fák eltávolítását, de a területet egy hatalmas vidámparkká kell fejlesztened",
+    "name": "Szivárványvölgy",
+    "park_name": "Szivárványvölgy",
+    "reference-details": "Rainbow Valley’s local authority won’t allow any landscape changes or large tree removal, but you must develop the area into a large theme park",
+    "reference-name": "Rainbow Valley",
+    "reference-park_name": "Rainbow Valley"
+  },
+  "rct1.scenario_text.thunder_rock": {
+    "details": "A Mennydörgő-szikla a sivatag közepén áll és igazi turistamágnes - Használd a rendelkezésre álló területet játékok építésére, hogy még több embert vonzon",
+    "name": "Mennydörgő-szikla",
+    "park_name": "Mennydörgő-szikla",
+    "reference-details": "Thunder Rock stands in the middle of a desert and attracts many tourists. Use the available space to build rides to attract more people.",
+    "reference-name": "Thunder Rock",
+    "reference-park_name": "Thunder Rock"
+  },
+  "rct1.scenario_text.trinity_islands": {
+    "details": "Egy frissen nyílt park, amelyet több sziget alkot",
+    "name": "Hármas-sziget",
+    "park_name": "Hármas-sziget",
+    "reference-details": "Several islands form the basis for this new park",
+    "reference-name": "Trinity Islands",
+    "reference-park_name": "Trinity Islands"
+  },
+  "rct1.scenario_text.white_water_park": {
+    "details": "Ez a park néhány igazán kiváló vízi játékkal rendelkezik, de terjeszkedésre van szüksége",
+    "name": "Vadvízi Park",
+    "park_name": "Vadvízi Park",
+    "reference-details": "A park with some excellent water-based rides requires expansion",
+    "reference-name": "White Water Park",
+    "reference-park_name": "White Water Park"
   },
   "rct1.scenery_wall.playing_card_wall_1": {
     "name": "Playing Card Wall",
@@ -515,6 +707,14 @@
     "reference-description": "Wide 4-across cars with raised seating and simple lap restraints",
     "reference-name": "Hyper-Twister Trains (wide cars)"
   },
+  "rct1aa.ride.lay_down_trains": {
+    "capacity": "4 passengers per car",
+    "description": "Riders are held in special harnesses in a lying-down position, travelling either on their backs or facing the ground",
+    "name": "Lay-down Roller Coaster Trains",
+    "reference-capacity": "4 passengers per car",
+    "reference-description": "Riders are held in special harnesses in a lying-down position, travelling either on their backs or facing the ground",
+    "reference-name": "Lay-down Roller Coaster Trains"
+  },
   "rct1aa.ride.mini_helicopters": {
     "capacity": "2 passengers per car",
     "description": "Powered helicopter-shaped cars, controlled by the pedalling of the riders",
@@ -611,6 +811,246 @@
     "reference-description": "Circular cars that spin around as they travel along the track",
     "reference-name": "Virginia Reel Tubs"
   },
+  "rct1aa.scenario_text.adrenaline_heights": {
+    "details": "Építs egy parkot, amellyel bevonzhatod a helyi élmény- és izgalomkereső embereket",
+    "name": "Adrenalin-csúcsok",
+    "park_name": "Adrenalin-csúcsok",
+    "reference-details": "Build a park to appeal to the high-intensity thrill-seeking local people",
+    "reference-name": "Adrenaline Heights",
+    "reference-park_name": "Adrenaline Heights"
+  },
+  "rct1aa.scenario_text.barony_bridge": {
+    "details": "Egy öreg, feleslegessé vált híd, amelyet neked kell vidámparkká fejleszteni",
+    "name": "Hűbéri Híd",
+    "park_name": "Hűbéri Híd",
+    "reference-details": "An old redundant bridge is yours to develop into an amusement park",
+    "reference-name": "Barony Bridge",
+    "reference-park_name": "Barony Bridge"
+  },
+  "rct1aa.scenario_text.butterfly_dam": {
+    "details": "Egy gát körüli területen kell vidámparkot kialakítanod",
+    "name": "Pillangó-gát",
+    "park_name": "Pillangó-gát",
+    "reference-details": "The area around a dam is available for you to develop into an amusement park",
+    "reference-name": "Butterfly Dam",
+    "reference-park_name": "Butterfly Dam"
+  },
+  "rct1aa.scenario_text.canary_mines": {
+    "details": "Ebben az elhagyatott bányában minden megvan ahhoz, hogy vonzó turisztikai látványosság legyen a kisvonatával és a függőleges esésű hullámvasútpárjával",
+    "name": "Kanári Bányák",
+    "park_name": "Kanári Bányák",
+    "reference-details": "This abandoned mine already has the makings of a tourist attraction with its miniature railway and a pair of vertical drop roller coasters",
+    "reference-name": "Canary Mines",
+    "reference-park_name": "Canary Mines"
+  },
+  "rct1aa.scenario_text.coaster_canyon": {
+    "details": "Alakíts ki egy vidámparkot a rendelkezésedre álló hatalmas kanyonban",
+    "name": "Hullámvasút-kanyon",
+    "park_name": "Hullámvasút-kanyon",
+    "reference-details": "A vast canyon is yours to turn into a theme park",
+    "reference-name": "Coaster Canyon",
+    "reference-park_name": "Coaster Canyon"
+  },
+  "rct1aa.scenario_text.coaster_crazy": {
+    "details": "Szűkösek a pénzügyi forrásaid, de végtelen sok időd van arra, hogy egy hatalmas vidámparkot alakíts ki ezen a hegyoldali területen",
+    "name": "Hullámvasút-őrület",
+    "park_name": "Hullámvasút-őrület",
+    "reference-details": "You have limited funds but unlimited time to turn this mountainside area into a vast roller coaster park",
+    "reference-name": "Coaster Crazy",
+    "reference-park_name": "Coaster Crazy"
+  },
+  "rct1aa.scenario_text.fiasco_forest": {
+    "details": "Meglehetősen korlátozottak az anyagi és időbeli lehetőségeid arra, hogy rendbe rakd ezt a rosszul tervezett és veszélyes játékokkal teli parkot",
+    "name": "Elbaltázott Erdő",
+    "park_name": "Elbaltázott Erdő",
+    "reference-details": "Full of badly designed and dangerous rides, you have a very limited budget and time to fix the problems and turn the park around",
+    "reference-name": "Fiasco Forest",
+    "reference-park_name": "Fiasco Forest"
+  },
+  "rct1aa.scenario_text.fruit_farm": {
+    "details": "Egy jól menő gyümölcsfarm vasutat épített a bevételeinek növelésére, a te feladatod, hogy teljes egészében vidámparkká fejleszd",
+    "name": "Gyümölcsfarm",
+    "park_name": "Gyümölcsfarm",
+    "reference-details": "A thriving fruit farm has built a railroad to boost its income, your job is to develop it into a full-blown amusement park",
+    "reference-name": "Fruit Farm",
+    "reference-park_name": "Fruit Farm"
+  },
+  "rct1aa.scenario_text.fun_fortress": {
+    "details": "Ez a vár csak arra vár, hogy vidámparkká alakítsd",
+    "name": "Vidám Vár",
+    "park_name": "Vidám Vár",
+    "reference-details": "This castle is all yours to turn into a theme park",
+    "reference-name": "Fun Fortress",
+    "reference-park_name": "Fun Fortress"
+  },
+  "rct1aa.scenario_text.funtopia": {
+    "details": "A parknak az autópálya mindkét oldalán van területe és már több játékot is üzemeltet",
+    "name": "Mókaland",
+    "park_name": "Mókaland",
+    "reference-details": "Covering land both sides of a highway, this park has several rides already operating",
+    "reference-name": "Funtopia",
+    "reference-park_name": "Funtopia"
+  },
+  "rct1aa.scenario_text.future_world": {
+    "details": "E futurisztikus park földönkívüli táján bőven van hely az új játékok számára",
+    "name": "Jövőbeli Világ",
+    "park_name": "Jövőbeli Világ",
+    "reference-details": "This futuristic park has plenty of space for new rides on its alien landscape",
+    "reference-name": "Future World",
+    "reference-park_name": "Future World"
+  },
+  "rct1aa.scenario_text.gentle_glen": {
+    "details": "A helyi lakosság az enyhe és nyugtató játékokat kedveli, úgyhogy a te feladatod a park ízlésüknek megfelelő bővítése",
+    "name": "Szende-szurdok",
+    "park_name": "Szende-szurdok",
+    "reference-details": "The local population prefer gentle and relaxing rides, so it is your job to expand this park to suit their tastes",
+    "reference-name": "Gentle Glen",
+    "reference-park_name": "Gentle Glen"
+  },
+  "rct1aa.scenario_text.geoffrey_gardens": {
+    "details": "Egy nagy kertnek arra van szüksége, hogy sikeres vidámpark legyen belőle",
+    "name": "Geoffrey Kert",
+    "park_name": "Geoffrey Kert",
+    "reference-details": "A large garden park needs turning into a thriving theme park",
+    "reference-name": "Geoffrey Gardens",
+    "reference-park_name": "Geoffrey Gardens"
+  },
+  "rct1aa.scenario_text.giggle_downs": {
+    "details": "Egy négysávos akadályverseny-játék a központi eleme ennek a terjeszkedő parknak",
+    "name": "Kacaj-dombság",
+    "park_name": "Kacaj-dombság",
+    "reference-details": "A four lane steeplechase ride is the centrepiece of this expanding park",
+    "reference-name": "Giggle Downs",
+    "reference-park_name": "Giggle Downs"
+  },
+  "rct1aa.scenario_text.harmonic_hills": {
+    "details": "A helyi önkormányzat nem engedélyezi számodra, hogy fák magassága felett építkezz ebben a parkban",
+    "name": "Harmonikus-hegyek",
+    "park_name": "Harmonikus-hegyek",
+    "reference-details": "The local authority won’t allow you to build above tree height in this park",
+    "reference-name": "Harmonic Hills",
+    "reference-park_name": "Harmonic Hills"
+  },
+  "rct1aa.scenario_text.haunted_harbour": {
+    "details": "A helyi önkormányzat beleegyezett, hogy a közeli földterületet olcsón eladja ennek a kis tengerparti parknak, azzal a feltétellel, hogy bizonyos játékai műemlékvédelem alá kerülnek",
+    "name": "Kísértetjárta Kikötő",
+    "park_name": "Kísértetjárta Kikötő",
+    "reference-details": "The local authority has agreed to sell nearby land cheaply to this small seaside park, on the condition that certain rides are preserved",
+    "reference-name": "Haunted Harbour",
+    "reference-park_name": "Haunted Harbour"
+  },
+  "rct1aa.scenario_text.hydro_hills": {
+    "details": "Egy lépcsőzetes tórendszer adja ennek az új parknak az alapját",
+    "name": "Hidro-hegyek",
+    "park_name": "Hidro-hegyek",
+    "reference-details": "A series of stepped lakes form the basis for this new park",
+    "reference-name": "Hydro Hills",
+    "reference-park_name": "Hydro Hills"
+  },
+  "rct1aa.scenario_text.jolly_jungle": {
+    "details": "Ez a dzsungel mélyén elterülő nagy földterület épp megfelelő egy vidámpark számára",
+    "name": "Derűs Dzsungel",
+    "park_name": "Derűs Dzsungel",
+    "reference-details": "Deep in the jungle lies a large area of land ready to be turned into a theme park",
+    "reference-name": "Jolly Jungle",
+    "reference-park_name": "Jolly Jungle"
+  },
+  "rct1aa.scenario_text.magic_quarters": {
+    "details": "Egy nagy területet megtisztítottak és részben tematizáltak, így készen áll arra, hogy parkosított vidámparkká alakítsd",
+    "name": "Mágikus Negyedek",
+    "park_name": "Mágikus Negyedek",
+    "reference-details": "A large area of land has been cleared and partially themed ready for you to develop into a landscaped theme park",
+    "reference-name": "Magic Quarters",
+    "reference-park_name": "Magic Quarters"
+  },
+  "rct1aa.scenario_text.mineral_park": {
+    "details": "Változtasd ezt az elhagyatott kőbányát az izgalomkereső turisták számára vonzó hellyé",
+    "name": "Ásvány Park",
+    "park_name": "Ásvány Park",
+    "reference-details": "Turn this abandoned stone quarry into a place to attract thrill-seeking tourists",
+    "reference-name": "Mineral Park",
+    "reference-park_name": "Mineral Park"
+  },
+  "rct1aa.scenario_text.pickle_park": {
+    "details": "A helyi önkormányzat nem engedélyez semmiféle reklámot vagy promóciót, úgyhogy a parknak kizárólag a jó hírnevére alapozva kell sikereket elérnie",
+    "name": "Pác Park",
+    "park_name": "Pác Park",
+    "reference-details": "The local authority will not allow any kind of advertising or promotion, so this park must succeed by reputation only",
+    "reference-name": "Pickle Park",
+    "reference-park_name": "Pickle Park"
+  },
+  "rct1aa.scenario_text.roman_village": {
+    "details": "Fejleszd ezt a római témájú parkot játékok és hullámvasutak építésével",
+    "name": "Római Falu",
+    "park_name": "Római Falu",
+    "reference-details": "Develop this Roman-themed park by adding rides and roller coasters",
+    "reference-name": "Roman Village",
+    "reference-park_name": "Roman Village"
+  },
+  "rct1aa.scenario_text.rotting_heights": {
+    "details": "Képes vagy feltámasztani ezt a valaha szebb napokat látott, ám mára gazzal benőtt és düledező vidámparkot?",
+    "name": "Rohadó Magaslatok",
+    "park_name": "Rohadó Magaslatok",
+    "reference-details": "Overgrown and dilapidated, can you resurrect this once-great amusement park?",
+    "reference-name": "Rotting Heights",
+    "reference-park_name": "Rotting Heights"
+  },
+  "rct1aa.scenario_text.sprightly_park": {
+    "details": "Ez az idős park számos történelmi játékkal rendelkezik, de súlyosan el van adósodva",
+    "name": "Pezsgő Park",
+    "park_name": "Pezsgő Park",
+    "reference-details": "This elderly park has many historical rides but is badly in debt",
+    "reference-name": "Sprightly Park",
+    "reference-park_name": "Sprightly Park"
+  },
+  "rct1aa.scenario_text.swamp_cove": {
+    "details": "A kis szigetcsoportra épült parkban már van egy nagy, központi elemként funkcionáló hullámvasútpár",
+    "name": "Mocsár-öböl",
+    "park_name": "Mocsár-öböl",
+    "reference-details": "Built partly on a series of small islands, this park already has a pair of large roller coasters as its centrepiece",
+    "reference-name": "Swamp Cove",
+    "reference-park_name": "Swamp Cove"
+  },
+  "rct1aa.scenario_text.three_monkeys_park": {
+    "details": "A nagy, fejlődő park központi eleme egy óriási, hárompályás versenyző/párbajozó acél hullámvasút",
+    "name": "Három Majom Park",
+    "park_name": "Három Majom Park",
+    "reference-details": "Central to this large developing park is a giant triple-track racing/duelling steel coaster",
+    "reference-name": "Three Monkeys Park",
+    "reference-park_name": "Three Monkeys Park"
+  },
+  "rct1aa.scenario_text.thunderstorm_park": {
+    "details": "Annyira csapadékos ez a terület, hogy egy hatalmas piramis építésére volt szükség ahhoz, hogy néhány játék fedett helyre épülhessen",
+    "name": "Viharpark",
+    "park_name": "Viharpark",
+    "reference-details": "The weather is so wet here that a giant pyramid has been built to allow some rides to be built under cover",
+    "reference-name": "Thunderstorm Park",
+    "reference-park_name": "Thunderstorm Park"
+  },
+  "rct1aa.scenario_text.urban_park": {
+    "details": "Egy apró park egyezséget kötött a közeli várossal, amelynek értelmében magán a városon keresztül terjeszkedhet",
+    "name": "Városi Park",
+    "park_name": "Városi Park",
+    "reference-details": "A tiny park has done a deal with the nearby town to allow expansion through the town itself",
+    "reference-name": "Urban Park",
+    "reference-park_name": "Urban Park"
+  },
+  "rct1aa.scenario_text.utopia_park": {
+    "details": "A sivatag közepén elterülő oázis kivételes lehetőséget kínál vidámpark építésére",
+    "name": "Utópia Park",
+    "park_name": "Utópia Park",
+    "reference-details": "An oasis in the middle of the desert provides an unusual opportunity to build an amusement park",
+    "reference-name": "Utopia Park",
+    "reference-park_name": "Utopia"
+  },
+  "rct1aa.scenario_text.whispering_cliffs": {
+    "details": "Fejleszd a tengerparti sziklákat virágzó vidámparkká",
+    "name": "Suttogó-sziklák",
+    "park_name": "Suttogó-sziklák",
+    "reference-details": "Develop the seaside cliffs into a thriving amusement park",
+    "reference-name": "Whispering Cliffs",
+    "reference-park_name": "Whispering Cliffs"
+  },
   "rct1aa.scenery_wall.glass_wall": {
     "name": "Glass Wall",
     "reference-name": "Glass Wall"
@@ -650,6 +1090,14 @@
   "rct1beta.terrain_surface.wildflowers": {
     "name": "Vadvirágok",
     "reference-name": "Wildflowers"
+  },
+  "rct1dlc.scenario_text.fort_anachronism": {
+    "details": "",
+    "name": "Anakronizmus-erőd",
+    "park_name": "Anakronizmus-erőd",
+    "reference-details": "",
+    "reference-name": "Fort Anachronism",
+    "reference-park_name": "Fort Anachronism"
   },
   "rct1ll.footpath_railings.bamboo": {
     "name": "Bamboo Railings (Yellow)",
@@ -739,6 +1187,270 @@
     "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
     "reference-name": "American Style Steam Trains"
   },
+  "rct1ll.scenario_text.alton_towers": {
+    "details": "",
+    "name": "Alton Towers",
+    "park_name": "Alton Towers",
+    "reference-details": "",
+    "reference-name": "Alton Towers",
+    "reference-park_name": "Alton Towers"
+  },
+  "rct1ll.scenario_text.arid_heights": {
+    "details": "Az a kihívásod, hogy gondoskodj a park fejlesztéséről, miközben biztosítod a vendégek jókedvét, pénzügyi korlátok nélkül",
+    "name": "Száraz Magaslatok",
+    "park_name": "Száraz Magaslatok",
+    "reference-details": "Free of any financial limits, your challenge is to develop this desert park while keeping the guests happy",
+    "reference-name": "Arid Heights",
+    "reference-park_name": "Arid Heights"
+  },
+  "rct1ll.scenario_text.blackpool_pleasure_beach": {
+    "details": "",
+    "name": "Blackpool Pleasure Beach",
+    "park_name": "Blackpool Pleasure Beach",
+    "reference-details": "",
+    "reference-name": "Blackpool Pleasure Beach",
+    "reference-park_name": "Blackpool Pleasure Beach"
+  },
+  "rct1ll.scenario_text.crater_lake": {
+    "details": "Egy ősi kráterben elterülő hatalmas tó a park a helyszíne",
+    "name": "Kráter-tó",
+    "park_name": "Kráter-tó",
+    "reference-details": "A large lake in an ancient crater is the setting for this park",
+    "reference-name": "Crater Lake",
+    "reference-park_name": "Crater Lake"
+  },
+  "rct1ll.scenario_text.crazy_craters": {
+    "details": "Egy messzi világban, ahol nincs szükség pénzre, szórakoztató központot kell építened, hogy biztosítsd az emberek boldogságát",
+    "name": "Őrült Kráterek",
+    "park_name": "Őrült Kráterek",
+    "reference-details": "In a far-off world where money is not needed, you must build an entertainment centre to keep the people happy",
+    "reference-name": "Crazy Craters",
+    "reference-park_name": "Crazy Craters"
+  },
+  "rct1ll.scenario_text.dragons_cove": {
+    "details": "Ez a tengerparti öböl a helyszíne ennek a hullámvasút-építő kihívásnak",
+    "name": "Sárkány-öböl",
+    "park_name": "Sárkány-öböl",
+    "reference-details": "This sea-side cove is the setting for this coaster-building challenge",
+    "reference-name": "Dragon’s Cove",
+    "reference-park_name": "Dragon’s Cove"
+  },
+  "rct1ll.scenario_text.dusty_desert": {
+    "details": "Öt hullámvasutat kell befejezni ebben a sivatagi parkban",
+    "name": "Sivár Sivatag",
+    "park_name": "Sivár Sivatag",
+    "reference-details": "Five coasters require completion in this desert park",
+    "reference-name": "Dusty Desert",
+    "reference-park_name": "Dusty Desert"
+  },
+  "rct1ll.scenario_text.frightmare_hills": {
+    "details": "Egy rémisztő vidámpark, a közepén egy hatalmas hullámvasúttal",
+    "name": "Rémálom Dombok",
+    "park_name": "Rémálom Dombok",
+    "reference-details": "A scary park with a giant centrepiece coaster",
+    "reference-name": "Frightmare Hills",
+    "reference-park_name": "Frightmare Hills"
+  },
+  "rct1ll.scenario_text.good_knight_park": {
+    "details": "Egy kastély két hullámvasúttal, amit egy nagyobb vidámparkká kell fejlesztened",
+    "name": "Jó Lovag Park",
+    "park_name": "Jó Lovag Park",
+    "reference-details": "A castle with a pair of roller coasters needs developing into a larger theme park",
+    "reference-name": "Good Knight Park",
+    "reference-park_name": "Good Knight Park"
+  },
+  "rct1ll.scenario_text.grand_glacier": {
+    "details": "Fejleszd vidámparkká ezt a gleccserekkel teli völgyet",
+    "name": "Nagy Gleccser",
+    "park_name": "Nagy Gleccser",
+    "reference-details": "A glacier-filled valley is yours to develop into a theme park",
+    "reference-name": "Grand Glacier",
+    "reference-park_name": "Grand Glacier"
+  },
+  "rct1ll.scenario_text.heidepark": {
+    "details": "",
+    "name": "Heide Park",
+    "park_name": "Heide Park",
+    "reference-details": "",
+    "reference-name": "Heide-Park",
+    "reference-park_name": "Heide-Park"
+  },
+  "rct1ll.scenario_text.icarus_park": {
+    "details": "Fejleszd ezt a földönkívüli parkot, hogy maximalizáld a nyereségét",
+    "name": "Ikarusz Park",
+    "park_name": "Ikarusz Park",
+    "reference-details": "Develop this alien park to maximise its profit",
+    "reference-name": "Icarus Park",
+    "reference-park_name": "Icarus Park"
+  },
+  "rct1ll.scenario_text.iceberg_islands": {
+    "details": "Egy csoportnyi jéghegy hideg helyszínt biztosít ennek az ambiciózus vidámparknak",
+    "name": "Jéghegy-szigetek",
+    "park_name": "Jéghegy-szigetek",
+    "reference-details": "A collection of icebergs make a cold setting for this ambitious theme park",
+    "reference-name": "Iceberg Islands",
+    "reference-park_name": "Iceberg Islands"
+  },
+  "rct1ll.scenario_text.icicle_worlds": {
+    "details": "Alakítsd át a jeges tájat virágzó vidámparkká",
+    "name": "Jégcsap Világok",
+    "park_name": "Jégcsap Világok",
+    "reference-details": "An icy landscape needs turning into a thriving theme park",
+    "reference-name": "Icicle Worlds",
+    "reference-park_name": "Icicle Worlds"
+  },
+  "rct1ll.scenario_text.megaworld_park": {
+    "details": "Egy óriási park, amely már így is tele van játékokkal, fejlesztésre szorul",
+    "name": "Megavilág Park",
+    "park_name": "Megavilág Park",
+    "reference-details": "A giant park already packed full of rides needs improving",
+    "reference-name": "Megaworld Park",
+    "reference-park_name": "Megaworld Park"
+  },
+  "rct1ll.scenario_text.micro_park": {
+    "details": "Próbáld meg létrehozni a világ legkisebb nyereséges parkját",
+    "name": "Mikro Park",
+    "park_name": "Mikro Park",
+    "reference-details": "Try to create the world’s smallest profitable park",
+    "reference-name": "Micro Park",
+    "reference-park_name": "Micro Park"
+  },
+  "rct1ll.scenario_text.nevermore_park": {
+    "details": "Egy nagy park, újszerű közlekedési rendszerrel a szélén",
+    "name": "Sohamár Park",
+    "park_name": "Sohamár Park",
+    "reference-details": "A large park with a novel transportation system around its edge",
+    "reference-name": "Nevermore Park",
+    "reference-park_name": "Nevermore Park"
+  },
+  "rct1ll.scenario_text.octagon_park": {
+    "details": "Tíz hullámvasutat kell tervezned és építened ebben a nagy parkban",
+    "name": "Oktogon Park",
+    "park_name": "Oktogon Park",
+    "reference-details": "In this large park you must design and build ten large coasters",
+    "reference-name": "Octagon Park",
+    "reference-park_name": "Octagon Park"
+  },
+  "rct1ll.scenario_text.pacifica": {
+    "details": "Ez a nagy sziget csak a tiéd, hogy vidámparkká fejleszd",
+    "name": "Pacifica",
+    "park_name": "Pacifica",
+    "reference-details": "This large island is all yours to develop as an amusement park",
+    "reference-name": "Pacifica",
+    "reference-park_name": "Pacifica"
+  },
+  "rct1ll.scenario_text.paradise_pier_2": {
+    "details": "Paradicsom Móló kiterjesztette a tenger feletti sétány-hálózatát és a feladatod az, hogy a park bővítésével biztosítsd az extra hely kihasználtságát",
+    "name": "Paradicsom Móló 2",
+    "park_name": "Paradicsom Móló 2",
+    "reference-details": "Paradise Pier has expanded its network of walkways over the sea, and your task is to expand the park to use the extra space",
+    "reference-name": "Paradise Pier 2",
+    "reference-park_name": "Paradise Pier 2"
+  },
+  "rct1ll.scenario_text.pleasure_island": {
+    "details": "A hosszú, keskeny sziget kihívásokkal teli helyszín a megadott hullámvasutak építésére",
+    "name": "Élménysziget",
+    "park_name": "Élménysziget",
+    "reference-details": "A long thin island makes a challenging setting to build a selection of coasters",
+    "reference-name": "Pleasure Island",
+    "reference-park_name": "Pleasure Island"
+  },
+  "rct1ll.scenario_text.razor_rocks": {
+    "details": "Az a feladatod, hogy egy masszív, hullámvasutakkal teli parkot alakíts ki a Penge Sziklák között",
+    "name": "Penge Sziklák",
+    "park_name": "Penge Sziklák",
+    "reference-details": "Your task is to build a massive coaster-filled park in amongst Razor Rocks",
+    "reference-name": "Razor Rocks",
+    "reference-park_name": "Razor Rocks"
+  },
+  "rct1ll.scenario_text.southern_sands": {
+    "details": "Egy sivatagi park néhány ügyesen megtervezett hullámvasúttal arra vár, hogy kibővítsd",
+    "name": "Déli Homok",
+    "park_name": "Déli Homok",
+    "reference-details": "A desert park with some cleverly designed coasters is yours to expand",
+    "reference-name": "Southern Sands",
+    "reference-park_name": "Southern Sands"
+  },
+  "rct1ll.scenario_text.sunny_swamps": {
+    "details": "Ennek a jól tematizált vidámparknak már számos játéka van, de bőven van helye a terjeszkedésre",
+    "name": "Napos Mocsarak",
+    "park_name": "Napos Mocsarak",
+    "reference-details": "This well-themed amusement park already has several rides, but has plenty of space for expansion",
+    "reference-name": "Sunny Swamps",
+    "reference-park_name": "Sunny Swamps"
+  },
+  "rct1ll.scenario_text.terror_town": {
+    "details": "Ez a városi terület csak a tiéd, hogy vidámparkká fejleszd",
+    "name": "Terrorváros",
+    "park_name": "Terrorváros",
+    "reference-details": "This urban area is all yours to develop into an amusement park",
+    "reference-name": "Terror Town",
+    "reference-park_name": "Terror Town"
+  },
+  "rct1ll.scenario_text.thunder_rocks": {
+    "details": "Két nagy szikladarab emelkedik ki a homokból, amelyekre egy vidámpark alapjai épülnek",
+    "name": "Mennydörgő-sziklák",
+    "park_name": "Mennydörgő-sziklák",
+    "reference-details": "Two large hunks of rock stick out of the sand, upon which the beginnings of a theme park are constructed",
+    "reference-name": "Thunder Rocks",
+    "reference-park_name": "Thunder Rocks"
+  },
+  "rct1ll.scenario_text.tiny_towers": {
+    "details": "Öt meglévő hullámvasutat kell befejezned ebben a kis parkban",
+    "name": "Törpe Tornyok",
+    "park_name": "Törpe Tornyok",
+    "reference-details": "In this tiny park you must finish building the five existing coasters",
+    "reference-name": "Tiny Towers",
+    "reference-park_name": "Tiny Towers"
+  },
+  "rct1ll.scenario_text.urban_jungle": {
+    "details": "Ez a hatalmas elhagyatott felhőkarcoló egyedi lehetőség egy vidámpark-fejlesztő számára",
+    "name": "Városi Dzsungel",
+    "park_name": "Városi Dzsungel",
+    "reference-details": "A giant abandoned skyscraper is a unique opportunity for a theme park developer",
+    "reference-name": "Urban Jungle",
+    "reference-park_name": "Urban Jungle"
+  },
+  "rct1ll.scenario_text.venus_ponds": {
+    "details": "Alakítsd át egy messzi bolygó földterületét vidámparkká",
+    "name": "Vénusz Tavak",
+    "park_name": "Vénusz Tavak",
+    "reference-details": "On a far-away planet this area of land needs turning into a theme park",
+    "reference-name": "Venus Ponds",
+    "reference-park_name": "Venus Ponds"
+  },
+  "rct1ll.scenario_text.vertigo_views": {
+    "details": "Ebben a nagy parkban már van egy kiváló hiperhullámvasút, de sokkal nyereségesebbé kell tenned",
+    "name": "Szédítő Kilátások",
+    "park_name": "Szédítő Kilátások",
+    "reference-details": "This large park already has an excellent hyper-coaster, but your task is to massively increase its profit",
+    "reference-name": "Vertigo Views",
+    "reference-park_name": "Vertigo Views"
+  },
+  "rct1ll.scenario_text.volcania": {
+    "details": "Egy szunnyadó vulkán adja ennek a hullámvasút-építő kihívásnak a helyszínét",
+    "name": "Vulkánia",
+    "park_name": "Vulkánia",
+    "reference-details": "A dormant volcano is the setting of this coaster-building challenge",
+    "reference-name": "Volcania",
+    "reference-park_name": "Volcania"
+  },
+  "rct1ll.scenario_text.wacky_warren": {
+    "details": "Egy park, ahol az utak és hullámvasutak nagy része föld alatt van",
+    "name": "Nyüzsgő Nyúlkert",
+    "park_name": "Nyüzsgő Nyúlkert",
+    "reference-details": "A park which has much of its footpaths and coasters underground",
+    "reference-name": "Wacky Warren",
+    "reference-park_name": "Wacky Warren"
+  },
+  "rct1ll.scenario_text.woodworm_park": {
+    "details": "Ez a történelmi park csak régi stílusú játékokat építhet",
+    "name": "Fakukac Park",
+    "park_name": "Fakukac Park",
+    "reference-details": "This historical park is only allowed to build older-styled rides",
+    "reference-name": "Woodworm Park",
+    "reference-park_name": "Woodworm Park"
+  },
   "rct1ll.scenery_wall.medieval_wooden_fence": {
     "name": "Wooden Fence",
     "reference-name": "Wooden Fence"
@@ -783,7 +1495,7 @@
     "name": "Wood",
     "reference-name": "Wood"
   },
-  "rct2.audio.base": {
+  "rct2.audio.base.rct2": {
     "name": "Base audio for the game.",
     "reference-name": "Base audio for the game."
   },
@@ -1118,6 +1830,10 @@
   "rct2.park_entrance.pkesfh": {
     "name": "Park Entrance Building",
     "reference-name": "Park Entrance Building"
+  },
+  "rct2.peep_names.original": {
+    "name": "Original peep names",
+    "reference-name": "Original peep names"
   },
   "rct2.ride.4x4": {
     "capacity": "2 passengers per truck",
@@ -2274,6 +2990,222 @@
     "reference-capacity": "2 passengers per car",
     "reference-description": "Roller coaster trains with small log-shaped cars",
     "reference-name": "Log Trains"
+  },
+  "rct2.scenario_text.alpine_adventures": {
+    "details": "Alakíts át egy kis hegyi síközpontot havas témájú vidámparkká",
+    "name": "Alpesi Kalandok",
+    "park_name": "Alpesi Kalandok",
+    "reference-details": "Convert a small mountain ski resort into a snow-themed amusement park",
+    "reference-name": "Alpine Adventures",
+    "reference-park_name": "Alpine Adventures"
+  },
+  "rct2.scenario_text.amity_airfield": {
+    "details": "Építs egy repülés témájú vidámparkot ezen az elhagyatott repülőtéren",
+    "name": "Barátság Repülőtér",
+    "park_name": "Barátság Repülőtér",
+    "reference-details": "Build a flying-themed amusement park in this abandoned airport",
+    "reference-name": "Amity Airfield",
+    "reference-park_name": "Amity Airfield"
+  },
+  "rct2.scenario_text.botany_breakers": {
+    "details": "A kihívásod az, hogy építs egy igazán nyereséges parkot ezen a paradicsomi szigeten",
+    "name": "Botanikus Hullámok",
+    "park_name": "Botanikus Hullámok",
+    "reference-details": "Your challenge is to build a high-profit park on this paradise island",
+    "reference-name": "Botany Breakers",
+    "reference-park_name": "Botany Breakers"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_belgium": {
+    "details": "Építsd meg a saját változatodat ebből európai Six Flags parkból",
+    "name": "Építsd meg a saját Six Flags Belgiumodat",
+    "park_name": "Six Flags Belgium",
+    "reference-details": "Build your own version of this European Six Flags park",
+    "reference-name": "Build your own Six Flags Belgium",
+    "reference-park_name": "Six Flags Belgium"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_great_adventure": {
+    "details": "Használd a tervezői képességeidet, hogy újraalkosd ezt a Six Flags parkot",
+    "name": "Építsd meg a saját Six Flags Great Adventure-ödet",
+    "park_name": "Six Flags Great Adventure",
+    "reference-details": "Use your design skills to recreate this Six Flags park",
+    "reference-name": "Build your own Six Flags Great Adventure",
+    "reference-park_name": "Six Flags Great Adventure"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_holland": {
+    "details": "Építsd meg ezt az európai Six Flags parkot úgy, ahogyan szeretnéd",
+    "name": "Építsd meg a saját Six Flags Hollandodat",
+    "park_name": "Six Flags Holland",
+    "reference-details": "Build this European Six Flags park the way you want to",
+    "reference-name": "Build your own Six Flags Holland",
+    "reference-park_name": "Six Flags Holland"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_magic_mountain": {
+    "details": "Készítsd el a saját verziódat ebből a hatalmas Six Flags parkból",
+    "name": "Építsd meg a saján Six Flags Magic Mountain-edet",
+    "park_name": "Six Flags Magic Mountain",
+    "reference-details": "Create your own version of this massive Six Flags park",
+    "reference-name": "Build your own Six Flags Magic Mountain",
+    "reference-park_name": "Six Flags Magic Mountain"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_over_texas": {
+    "details": "A semmiből kiindulva építsd meg ebben a Six Flags parkban a játékokat",
+    "name": "Építsd meg a saját Six Flags over Texasodat",
+    "park_name": "Six Flags over Texas",
+    "reference-details": "Starting from scratch, build the rides in this Six Flags park",
+    "reference-name": "Build your own Six Flags over Texas",
+    "reference-park_name": "Six Flags over Texas"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_park": {
+    "details": "Építs saját tervezésű Six Flags parkot - vagy más Six Flags parkokból építs játékokat, vagy tervezz és építs saját játékokat",
+    "name": "Építsd meg a saját Six Flags parkodat",
+    "park_name": "Six Flags",
+    "reference-details": "Build your own design of Six Flags park - either build rides from other Six Flags parks or design and build your own rides",
+    "reference-name": "Build your own Six Flags Park",
+    "reference-park_name": "Six Flags"
+  },
+  "rct2.scenario_text.bumbly_bazaar": {
+    "details": "Egy kis piaci bazárral kezdve, a kihívásod a boltok és bódék nyereségének növelése azzal, hogy több vendéget vonzol be játékok és hullámvasutak építésével",
+    "name": "Bumfordi Bazár",
+    "park_name": "Bumfordi Bazár",
+    "reference-details": "Starting with a small market bazaar, your challenge is to increase the profit from shops and stalls by building rides and roller coasters to attract more customers",
+    "reference-name": "Bumbly Bazaar",
+    "reference-park_name": "Bumbly Bazaar"
+  },
+  "rct2.scenario_text.crazy_castle": {
+    "details": "Örököltél egy nagy kastélyt. Az a feladatod, hogy átalakítsd egy kis vidámparkká.",
+    "name": "Őrült Kastély",
+    "park_name": "Őrült Kastély",
+    "reference-details": "You have inherited a large castle. Your job is to convert it into a small theme park.",
+    "reference-name": "Crazy Castle",
+    "reference-park_name": "Crazy Castle"
+  },
+  "rct2.scenario_text.dusty_greens": {
+    "details": "A sivatagban, egy autópálya-csomópont közelében található Poros Golfpálya lehetőséget kínál egy kis golfüdülő virágzó vidámparkká fejlesztésére",
+    "name": "Poros Golfpálya ",
+    "park_name": "Poros Golfpálya",
+    "reference-details": "Situated near a highway junction in the desert, Dusty Greens is an opportunity to develop a small golf resort into a thriving theme park",
+    "reference-name": "Dusty Greens",
+    "reference-park_name": "Dusty Greens"
+  },
+  "rct2.scenario_text.electric_fields": {
+    "details": "Örököltél egy kis farmot, és a kihívásod egy kis vidámpark építése a mezők és a farmépületek között",
+    "name": "Elektromos Mezők",
+    "park_name": "Elektromos Mezők",
+    "reference-details": "You have inherited a small farm, and your challenge is to build a small theme park amongst the fields and farm buildings",
+    "reference-name": "Electric Fields",
+    "reference-park_name": "Electric Fields"
+  },
+  "rct2.scenario_text.extreme_heights": {
+    "details": "Pénzügyi korlátoktól mentesen, a kihívásod ennek a sivatagi parknak a bővítése úgy, hogy magához vonzza a maximális izgalmakat kereső embereket ",
+    "name": "Extrém Magaslatok",
+    "park_name": "Extrém Magaslatok",
+    "reference-details": "Free of financial restrictions, your challenge is to expand this desert park to attract people seeking the ultimate thrills",
+    "reference-name": "Extreme Heights",
+    "reference-park_name": "Extreme Heights"
+  },
+  "rct2.scenario_text.factory_capers": {
+    "details": "Az elhagyatott gyárkomplexum lehetőség egy mechanikus témájú vidámpark építésére",
+    "name": "Gyári Móka",
+    "park_name": "Gyári Móka",
+    "reference-details": "An abandoned factory complex is an opportunity to build a mechanical-themed amusement park",
+    "reference-name": "Factory Capers",
+    "reference-park_name": "Factory Capers"
+  },
+  "rct2.scenario_text.fungus_woods": {
+    "details": "Kizárólag régebbi stílusú, fából készült hullámvasutakra korlátozva, a kihívásod egy virágzó vidámpark építése Gombaerdőben",
+    "name": "Gombaerdő",
+    "park_name": "Gombaerdő",
+    "reference-details": "Restricted to only older-style wooden rides, your challenge is to build a thriving theme park in Fungus Woods",
+    "reference-name": "Fungus Woods",
+    "reference-park_name": "Fungus Woods"
+  },
+  "rct2.scenario_text.ghost_town": {
+    "details": "Egy nagy vidámparklánc felbérelt, hogy építs nekik óriási hullámvasútparkot egy elhagyatott bányászváros köré",
+    "name": "Szellemváros",
+    "park_name": "Szellemváros",
+    "reference-details": "Hired by a large amusement park chain, your task is to build them a giant roller coaster park around an abandoned mining town",
+    "reference-name": "Ghost Town",
+    "reference-park_name": "Ghost Town"
+  },
+  "rct2.scenario_text.gravity_gardens": {
+    "details": "A kihívásod az, hogy építs egy hullámvasútparkot a gyönyörű Gravitációs Kertben. Semmi más játékot, csak hullámvasutakat!",
+    "name": "Gravitációs Kert",
+    "park_name": "Gravitációs Kert",
+    "reference-details": "Your challenge is to build a roller coaster park in the beautiful Gravity Gardens. No other rides, just roller coasters!",
+    "reference-name": "Gravity Gardens",
+    "reference-park_name": "Gravity Gardens"
+  },
+  "rct2.scenario_text.infernal_views": {
+    "details": "A park bizonytalanul fészkel a magmafolyamokkal övezett lávasziklákon",
+    "name": "Pokoli Kilátások",
+    "park_name": "Pokoli Kilátások",
+    "reference-details": "A park nestled precariously on lava rock with streams of magma",
+    "reference-name": "Infernal Views",
+    "reference-park_name": "Infernal Views"
+  },
+  "rct2.scenario_text.lucky_lake": {
+    "details": "Korlátlan pénzzel, de egy kihívást jelentő tavi helyszínen, ezt a parkot igazi próbatétel lesz bővíteni és igazgatni",
+    "name": "Szerencsés-tó",
+    "park_name": "Szerencsés-tó",
+    "reference-details": "With unlimited funds but a challenging lake location, this park will be a challenge to expand and manage",
+    "reference-name": "Lucky Lake",
+    "reference-park_name": "Lucky Lake"
+  },
+  "rct2.scenario_text.rainbow_summit": {
+    "details": "A domboldalon épült parkban tilos bármi magasat építeni. Sikerül bővítened a parkot és sikeressé tenni?",
+    "name": "Szivárvány Csúcs",
+    "park_name": "Szivárvány Csúcs",
+    "reference-details": "Built on a hillside, this park is forbidden from building anything tall. Can you expand the park and make it successful?",
+    "reference-name": "Rainbow Summit",
+    "reference-park_name": "Rainbow Summit"
+  },
+  "rct2.scenario_text.six_flags_belgium": {
+    "details": "Próbáld ki magad ennek a Six Flags parknak az üzemeltetésében és fejlesztésében",
+    "name": "Six Flags Belgium",
+    "park_name": "Six Flags Belgium",
+    "reference-details": "Try your hand at running and improving this Six Flags park",
+    "reference-name": "Six Flags Belgium",
+    "reference-park_name": "Six Flags Belgium"
+  },
+  "rct2.scenario_text.six_flags_great_adventure": {
+    "details": "Építsd meg a hiányzó Six Flags játékokat, vagy készíts saját terveket a park fejlesztésére! De ne feledkezz meg a végső célodról: több vendéget vonzani a parkba!",
+    "name": "Six Flags Great Adventure",
+    "park_name": "Six Flags Great Adventure",
+    "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
+    "reference-name": "Six Flags Great Adventure",
+    "reference-park_name": "Six Flags Great Adventure"
+  },
+  "rct2.scenario_text.six_flags_holland": {
+    "details": "Próbáld ki magad ennek a Six Flags parknak az üzemeltetésében és fejlesztésében",
+    "name": "Six Flags Holland",
+    "park_name": "Six Flags Holland",
+    "reference-details": "Try your hand at running and improving this Six Flags park",
+    "reference-name": "Six Flags Holland",
+    "reference-park_name": "Six Flags Holland"
+  },
+  "rct2.scenario_text.six_flags_magic_mountain": {
+    "details": "Építsd meg a hiányzó Six Flags játékokat, vagy készíts saját terveket a park fejlesztésére! De ne feledkezz meg a végső célodról: több vendéget vonzani a parkba!",
+    "name": "Six Flags Magic Mountain",
+    "park_name": "Six Flags Magic Mountain",
+    "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to repay your loan while keeping the park value up!",
+    "reference-name": "Six Flags Magic Mountain",
+    "reference-park_name": "Six Flags Magic Mountain"
+  },
+  "rct2.scenario_text.six_flags_over_texas": {
+    "details": "Építsd meg a hiányzó Six Flags játékokat, vagy készíts saját terveket a park fejlesztésére! De ne feledkezz meg a végső célodról: több vendéget vonzani a parkba!",
+    "name": "Six Flags over Texas",
+    "park_name": "Six Flags over Texas",
+    "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
+    "reference-name": "Six Flags over Texas",
+    "reference-park_name": "Six Flags over Texas"
+  },
+  "rct2.scenario_text.tycoon_park": {
+    "details": "",
+    "name": "Tycoon Park",
+    "park_name": "Tycoon Park",
+    "reference-details": "",
+    "reference-name": "Tycoon Park",
+    "reference-park_name": "Tycoon Park"
   },
   "rct2.scenery_group.scgabstr": {
     "name": "Abstract Theming",
@@ -4567,6 +5499,14 @@
     "reference-description": "Roller coaster trains with cuddly panda cars",
     "reference-name": "Panda Trains"
   },
+  "rct2dlc.scenario_text.panda_world": {
+    "details": "Szerezz be további játékokat, hogy több ember látogasson el ebbe a panda-témájú parkba",
+    "name": "Panda Világ",
+    "park_name": "Panda Világ",
+    "reference-details": "Add more rides and attract more people to this panda-themed park",
+    "reference-name": "Panda World",
+    "reference-park_name": "Panda World"
+  },
   "rct2dlc.scenery_group.scgpanda": {
     "name": "Panda téma",
     "reference-name": "Panda Theming"
@@ -4860,10 +5800,10 @@
     "reference-name": "Hover Bikes"
   },
   "rct2tt.ride.hovercar": {
-    "capacity": "2 utas kocsinként",
+    "capacity": "1 passenger per car",
     "description": "Maglev technológiát alkalmaztak, hogy futurisztikus lebegő autók illúzióját keltsék",
     "name": "Lebegő autók",
-    "reference-capacity": "2 passengers per car",
+    "reference-capacity": "1 passenger per car",
     "reference-description": "Maglev technology has been implemented to create the illusion of futuristic hover cars",
     "reference-name": "Hover Cars"
   },
@@ -5010,10 +5950,10 @@
     "reference-name": "River Styx boats"
   },
   "rct2tt.ride.schoolbs": {
-    "capacity": "10 utas kocsinként",
+    "capacity": "6 utas kocsinként",
     "description": "Miniatűr villamosok, amelyek úgy néznek ki, mint az észak-amerikai iskolabuszok",
     "name": "Iskolabusz-villamosok",
-    "reference-capacity": "10 passengers per car",
+    "reference-capacity": "6 passengers per car",
     "reference-description": "Miniature trams themed to look like North American school buses",
     "reference-name": "School Bus Trams"
   },
@@ -5110,6 +6050,118 @@
     "reference-capacity": "8 passengers per car",
     "reference-description": "Large capacity themed monorail trains with streamlined front and rear cars",
     "reference-name": "Airship Themed Monorail Trains"
+  },
+  "rct2tt.scenario_text.alcatraz": {
+    "details": "A hírhedt börtönsziget - amelynek lakossága egykor szeszcsempészektől és zsarolóktól duzzadt - most eladó. Úgy döntöttél, hogy turisztikai látványossággá alakítod át, és a pénz nem számít.",
+    "name": "Alcatraz",
+    "park_name": "Alcatraz",
+    "reference-details": "The infamous Prison Island - whose population once swelled with bootleggers and racketeers - is now up for sale. You’ve decided to convert it into a top tourist attraction, and money is no object",
+    "reference-name": "Alcatraz",
+    "reference-park_name": "Alcatraz"
+  },
+  "rct2tt.scenario_text.animatronic_antics": {
+    "details": "Egy már létező vidámpark vezetését és fejlesztését kaptad feladatul, amely egy régi film díszleteire épült. Építs egy emlékművet az úttörő stop-motion animátoroknak, akik először keltettek életre mitikus lényeket a mozivásznon.",
+    "name": "Animatronikus Mókák",
+    "park_name": "Animatronikus Mókák",
+    "reference-details": "You have been given the task of running and improving an existing theme park, which has been built on an old film set. Build a tribute to the pioneering stop-motion animators who first brought mythical creatures to life on the silver screen.",
+    "reference-name": "Animatronic Antics",
+    "reference-park_name": "Animatronic Antics"
+  },
+  "rct2tt.scenario_text.cliffside_castle": {
+    "details": "A hagyományörző egyesület helyi tagjai komolyan veszik az emlékcsatákat. Rád bízták a feladatot, hogy építs egy sötét középkor témájú parkot a Sziklaoldali Vár területén.",
+    "name": "Sziklaoldali Vár",
+    "park_name": "Sziklaoldali Vár",
+    "reference-details": "Local members of the battle re-enactment society are rather serious about their hobby. They’ve entrusted you with the job of constructing a Dark Age theme park on the grounds of Cliffside Castle.",
+    "reference-name": "Cliffside Castle",
+    "reference-park_name": "Cliffside Castle"
+  },
+  "rct2tt.scenario_text.coastersaurus": {
+    "details": "Azt a feladatot kaptad, hogy építs egy jura kori vidámparkot. Ahhoz, hogy a látogatók optimálisan közelíthessék meg az egzotikus növény- és állatkiállításokat, a völgy fölé és a völgybe vezető hullámvasutakat kell építened.",
+    "name": "Vasútszaurusz",
+    "park_name": "Vasútszaurusz",
+    "reference-details": "You’ve been given the task of constructing a Jurassic era theme park. To optimize your visitors’ access to the exotic plant and animal exhibits, you will need to build rides going over and into the valley.",
+    "reference-name": "Coastersaurus",
+    "reference-park_name": "Coastersaurus"
+  },
+  "rct2tt.scenario_text.crater_carnage": {
+    "details": "Egy poros, régi meteoritkráter tulajdonosa vagy. Az igazi vállalkozói szellem jegyében úgy döntöttél, hogy egy aszteroida témájú parkot építesz, és a látszólag értéktelen területedet egy nagyobb vagyonná alakítod.",
+    "name": "Kráter Káosz",
+    "park_name": "Kráter Káosz",
+    "reference-details": "You own a dusty old meteor crater. In the true entrepreneurial spirit, you’ve decided to construct an asteroid theme park and convert your seemingly worthless land into a sizeable fortune.",
+    "reference-name": "Crater Carnage",
+    "reference-park_name": "Crater Carnage"
+  },
+  "rct2tt.scenario_text.extraterrestrial_extravaganza": {
+    "details": "Életet fedeztek egy távoli bolygón. Építs egy űrlény témájú parkot, hogy megtollasodhass a példátlan érdeklődésnek köszönhetően.",
+    "name": "Földönkívüli Felhajtás",
+    "park_name": "Földönkívüli Felhajtás",
+    "reference-details": "Life has been discovered on a distant planet Build an alien theme park to cash in on the unprecedented wave of interest.",
+    "reference-name": "Extraterrestrial Extravaganza",
+    "reference-park_name": "Extraterrestrial Extravaganza"
+  },
+  "rct2tt.scenario_text.gemini_city": {
+    "details": "Mutass egy újszerű, utópisztikus jövőképet - találj ki egy futurisztikus parktervet, amely magában foglalja a legmodernebb látványosságokat.",
+    "name": "Gemini Város",
+    "park_name": "Gemini Város",
+    "reference-details": "Show off your inventive, utopian vision of the future - come up with a futuristic park design that incorporates state-of-the-art attractions.",
+    "reference-name": "Gemini City",
+    "reference-park_name": "Gemini City"
+  },
+  "rct2tt.scenario_text.metropolis": {
+    "details": "Egy üres telek tulajdonosa vagy a város alacsonyabb részéhez közel. Hogy a legtöbbet hozd ki városi ingatlanodból, építs egy felhőkarcoló témájú parkot, amelyet a húszas évek szárnyaló art deco építészete ihletett.",
+    "name": "Metropolisz",
+    "park_name": "Metropolisz",
+    "reference-details": "You own an empty lot near the low-rise part of town. To squeeze the most out of your urban property, build a skyscraper theme park inspired by the soaring art deco architecture of the twenties.",
+    "reference-name": "Metropolis",
+    "reference-park_name": "Metropolis"
+  },
+  "rct2tt.scenario_text.mythological_madness": {
+    "details": "Egy különleges régészeti értékkel bíró sziget tulajdonosa vagy. Úgy döntöttél, hogy finanszírozod a megőrzését egy vidámpark létrehozásával, amely az terület gazdag mitológiai örökségére épül.",
+    "name": "Mitológiai Őrület",
+    "park_name": "Mitológiai Őrület",
+    "reference-details": "You own an island of particular archaeological value. You’ve decided to fund its preservation by constructing a theme park based on the area’s rich Mythological heritage.",
+    "reference-name": "Mythological Madness",
+    "reference-park_name": "Mythological Madness"
+  },
+  "rct2tt.scenario_text.rock_n_roll_revival": {
+    "details": "Ez az idős park egykor jobb napokat látott. Segíts a tulajdonosnak a retró rock 'n' roll stílusú átalakításban, hogy a hely sikeres szórakozóhellyé váljon.",
+    "name": "Rock ‘n’ Roll Újjáéledés",
+    "park_name": "Rock ‘n’ Roll Újjáéledés",
+    "reference-details": "This aging theme park has seen better days. Help the owner give it a retro rock ‘n’ roll makeover and turn the place into a successful venue.",
+    "reference-name": "Rock ‘n’ Roll Revival",
+    "reference-park_name": "Rock ‘n’ Roll Revival"
+  },
+  "rct2tt.scenario_text.rocky_rambles": {
+    "details": "Hogy megakadályozd az autópálya-építőket és megőrizd a titokzatos ősi kőköröket, egy kőkorszaki vidámparkot kell építened, és nyereséget termelned. A látogatók vonzása azonban kihívást jelenthet, mivel a terep kissé barátságtalan.",
+    "name": "Sziklás Túrák",
+    "park_name": "Sziklás Túrák",
+    "reference-details": "To thwart the highway developers and preserve the mysterious ancient stone circles, you will need to construct a Stone Age theme park and turn a profit. However, attracting visitors may pose a challenge, as the terrain is a tad inhospitable.",
+    "reference-name": "Rocky Rambles",
+    "reference-park_name": "Rocky Rambles"
+  },
+  "rct2tt.scenario_text.schneider_shores": {
+    "details": "Néhány év múlva lesz nagyapád Schneider-kupa győzelmének 75. évfordulója. Azzal tisztelegsz a teljesítménye előtt, hogy egy vidámparkot építesz a híres vízi repülős versenyről mintázva.",
+    "name": "Schneider-part",
+    "park_name": "Schneider-part",
+    "reference-details": "The 75th anniversary of your grandfather’s Schneider Cup victory is coming up in a few years. You’re going to honour his achievement by building a theme park based on the famous seaplane race.",
+    "reference-name": "Schneider Shores",
+    "reference-park_name": "Schneider Shores"
+  },
+  "rct2tt.scenario_text.sherwood_forest": {
+    "details": "Hogy a gazdagoktól elvegyétek a vagyonukat és szétosszátok az elesettek között, te és a Vidám Fiúk úgy döntöttetek, hogy vidámparkot építetek Sherwood erdejében.",
+    "name": "Sherwoodi Erdő",
+    "park_name": "Sherwoodi Erdő",
+    "reference-details": "To liberate wealth from the rich and distribute it to the needy, you and your Merry Men have decided to build a theme park in Sherwood Forest.",
+    "reference-name": "Sherwood Forest",
+    "reference-park_name": "Sherwood Forest"
+  },
+  "rct2tt.scenario_text.woodstock": {
+    "details": "Évente megrendezésre kerül egy nagyszabású zenei fesztivál a területeden. Építs egy menő vidámparkot, hogy szórakoztasd a szabad szellemű közönséget.",
+    "name": "Woodstock",
+    "park_name": "Woodstock",
+    "reference-details": "A large annual music festival takes place on your land. Build a hip theme park to keep the free-spirited audience entertained.",
+    "reference-name": "Woodstock",
+    "reference-park_name": "Woodstock"
   },
   "rct2tt.scenery_group.scg1920s": {
     "name": "Roaring Twenties Theming",
@@ -6020,28 +7072,28 @@
     "reference-name": "Sandstone Skyscraper Mid Curved Slope"
   },
   "rct2tt.scenery_small.futsky36": {
-    "name": "Obsidian SkyScraper Door Piece",
-    "reference-name": "Obsidian SkyScraper Door Piece"
+    "name": "Obsidian Skyscraper Door Piece",
+    "reference-name": "Obsidian Skyscraper Door Piece"
   },
   "rct2tt.scenery_small.futsky37": {
     "name": "Obszidián felhőkarcoló sekély lejtős sarok",
-    "reference-name": "Obsidian SkyScraper Shallow Slope Corner"
+    "reference-name": "Obsidian Skyscraper Shallow Slope Corner"
   },
   "rct2tt.scenery_small.futsky38": {
-    "name": "Obsidian SkyScraper Shallow Sloped Wall",
-    "reference-name": "Obsidian SkyScraper Shallow Sloped Wall"
+    "name": "Obsidian Skyscraper Shallow Sloped Wall",
+    "reference-name": "Obsidian Skyscraper Shallow Sloped Wall"
   },
   "rct2tt.scenery_small.futsky39": {
-    "name": "Obsidian SkyScraper Shallow Slope Corner",
-    "reference-name": "Obsidian SkyScraper Shallow Slope Corner"
+    "name": "Obsidian Skyscraper Shallow Slope Corner",
+    "reference-name": "Obsidian Skyscraper Shallow Slope Corner"
   },
   "rct2tt.scenery_small.futsky40": {
-    "name": "Obsidian SkyScraper Steep Sloped Wall",
-    "reference-name": "Obsidian SkyScraper Steep Sloped Wall"
+    "name": "Obsidian Skyscraper Steep Sloped Wall",
+    "reference-name": "Obsidian Skyscraper Steep Sloped Wall"
   },
   "rct2tt.scenery_small.futsky41": {
-    "name": "Obsidian SkyScraper Steep Sloped Wall",
-    "reference-name": "Obsidian SkyScraper Steep Sloped Wall"
+    "name": "Obsidian Skyscraper Steep Sloped Wall",
+    "reference-name": "Obsidian Skyscraper Steep Sloped Wall"
   },
   "rct2tt.scenery_small.futsky42": {
     "name": "Sandstone Skyscraper Curved Slope Top",
@@ -6049,19 +7101,19 @@
   },
   "rct2tt.scenery_small.futsky44": {
     "name": "Obszidián felhőkarcoló meredek lejtős fal",
-    "reference-name": "Obsidian SkyScraper Steep Sloped Wall"
+    "reference-name": "Obsidian Skyscraper Steep Sloped Wall"
   },
   "rct2tt.scenery_small.futsky46": {
-    "name": "Obsidian SkyScraper Steep Slope Corner",
-    "reference-name": "Obsidian SkyScraper Steep Slope Corner"
+    "name": "Obsidian Skyscraper Steep Slope Corner",
+    "reference-name": "Obsidian Skyscraper Steep Slope Corner"
   },
   "rct2tt.scenery_small.futsky47": {
-    "name": "Obsidian SkyScraper Wall",
-    "reference-name": "Obsidian SkyScraper Wall"
+    "name": "Obsidian Skyscraper Wall",
+    "reference-name": "Obsidian Skyscraper Wall"
   },
   "rct2tt.scenery_small.futsky48": {
-    "name": "Obsidian SkyScraper Wall with Window",
-    "reference-name": "Obsidian SkyScraper Wall with Window"
+    "name": "Obsidian Skyscraper Wall with Window",
+    "reference-name": "Obsidian Skyscraper Wall with Window"
   },
   "rct2tt.scenery_small.futsky52": {
     "name": "Sandstone Skyscraper Bottom Inverted Corner",
@@ -6073,7 +7125,7 @@
   },
   "rct2tt.scenery_small.futsky54": {
     "name": "Obszidián felhőkarcoló tetőelem",
-    "reference-name": "Obsidian SkyScraper Roof Piece"
+    "reference-name": "Obsidian Skyscraper Roof Piece"
   },
   "rct2tt.scenery_small.fwrprdc1": {
     "name": "Groovy Dancer",
@@ -7798,6 +8850,142 @@
     "reference-capacity": "2 passengers per car",
     "reference-description": "Roller coaster trains with small grub-shaped cars",
     "reference-name": "Witchetty Grub Trains"
+  },
+  "rct2ww.scenario_text.ayers_adventure": {
+    "details": "Segítesz az aborigineknek egy parkot építeni egy kulturális tudatossági program részeként. Rengeteg vendéget kell szerezned, hogy megismertesd velük az aborigin nép egyedülálló örökségét.",
+    "name": "Ayers Kaland",
+    "park_name": "Ayers Kaland",
+    "reference-details": "You are helping Aboriginal people to build a park as part of a cultural awareness program. You need to get a large number of guests to educate them in the unique heritage of the Aboriginal people.",
+    "reference-name": "Ayers Adventure",
+    "reference-park_name": "Ayers Adventure"
+  },
+  "rct2ww.scenario_text.beach_barbecue_blast": {
+    "details": "Egy helyi vállalkozó tengeri élményparkja tönkrement. Már üzemeltetsz egy kis parkot, és megveszed a másik parkot az építővállalattól. Alakíts ki egy nagy, összekapcsolt parkot.",
+    "name": "Tengerparti Grillparti",
+    "park_name": "Tengerparti Grillparti",
+    "reference-details": "A local entrepreneur’s sealife park has gone bust. You already operate a small park and buy the other park from the construction company. Develop a big combined park.",
+    "reference-name": "Beach Barbecue Blast",
+    "reference-park_name": "Beach Barbecue Blast"
+  },
+  "rct2ww.scenario_text.canyon_calamities": {
+    "details": "Egy parkot kell építened a természeti kincs mindkét oldalán, de korlátozott a rendelkezésre álló terület - lehetőséged van a szomszédos területek megvásárlására az őslakos amerikai indiánoktól. El kell érned a célt, hogy fenntartsd a helyi város lakosságát.",
+    "name": "Kanyon Kalamajkák",
+    "park_name": "Kanyon Kalamajkák",
+    "reference-details": "You have to build a park on limited land either side of this natural treasure - you do have the opportunity to buy neighbouring land from the Native American Indians. You need to complete the objective to sustain the local town’s population.",
+    "reference-name": "Canyon Calamities",
+    "reference-park_name": "Canyon Calamities"
+  },
+  "rct2ww.scenario_text.european_extravaganza": {
+    "details": "Felkértek, hogy vegyél át egy európai kulturális látványosságot, és növelned kell a vendégszámot, hogy a jelenlegi európai parlamenti ciklus végéig visszafizethesd az EU-támogatást.",
+    "name": "Európai Extravagancia",
+    "park_name": "Európai Extravagancia",
+    "reference-details": "You have been brought in to take over a European Cultural Visitor Attraction and must increase the number of guests in order to pay back the EU subsidy by the end of the current European parliament term.",
+    "reference-name": "European Extravaganza",
+    "reference-park_name": "European Extravaganza"
+  },
+  "rct2ww.scenario_text.from_the_ashes": {
+    "details": "Egy régi park leromlott állapotba került. Elnyersz egy európai uniós támogatást, hogy ez a lepusztult terület újra régi fényében tündökölhessen! Fel kell újítanod a parkot, és vissza kell fizetned a támogatást.",
+    "name": "Hamvakból",
+    "park_name": "Hamvakból",
+    "reference-details": "An old park has fallen into disrepair. You gain a European Union grant to return this deprived area to its former glory! You need to renovate the park and repay the grant.",
+    "reference-name": "From The Ashes",
+    "reference-park_name": "From The Ashes"
+  },
+  "rct2ww.scenario_text.great_wall_of_china": {
+    "details": "A hatóságok úgy döntöttek, hogy a Nagy Fal körüli turizmus élénkítésére egy vidámparkot építenek a szomszédos területen. A pénz nem számít!",
+    "name": "Kínai Nagy Fal",
+    "park_name": "Kínai Nagy Fal",
+    "reference-details": "The authorities have decided to enhance tourism around the Great Wall by building a theme park on the adjacent land. Money is no object!",
+    "reference-name": "Great Wall of China",
+    "reference-park_name": "Great Wall of China"
+  },
+  "rct2ww.scenario_text.icy_adventures": {
+    "details": "A környezetvédelmi ügynökség rád bízta, hogy egy ökológiára káros régi olajfinomítót alakíts át első osztályú turisztikai látványossággá. A föld olcsó, de a hitelkamatok magasak. Az öreg épületeket értékesítheted újrahasznosítási célokra.",
+    "name": "Jeges Kalandok",
+    "park_name": "Jeges Kalandok",
+    "reference-details": "The environment agency has turned to you to transform an old oil refinery ecological eyesore into a top tourist attraction. Land is cheap but loan interest is high. You can sell the old buildings for salvage.",
+    "reference-name": "Icy Adventures",
+    "reference-park_name": "Icy Adventures"
+  },
+  "rct2ww.scenario_text.lost_city_founder": {
+    "details": "A helyi turizmus további fellendítése érdekében egy olyan parkot kell létrehoznod, amely harmonizál a környezetével.",
+    "name": "Elveszett Város Alapító",
+    "park_name": "Elveszett Város Alapító",
+    "reference-details": "To further boost local tourism you must construct a park that is in tune with its surroundings.",
+    "reference-name": "Lost City Founder",
+    "reference-park_name": "Lost City Founder"
+  },
+  "rct2ww.scenario_text.mines_of_africa": {
+    "details": "Egy elhagyatott gyémántbányát örököltél, és találtál egy értékes gyémántot. Úgy döntesz, hogy ezt a pénzt egy világhírű vidámpark építésébe fekteted.",
+    "name": "Afrikai Bányák",
+    "park_name": "Afrikai Bányák",
+    "reference-details": "You inherited a disused diamond mine, and find a valuable diamond.  You decide to invest that money to build a world-famous theme park.",
+    "reference-name": "Mines of Africa",
+    "reference-park_name": "Mines of Africa"
+  },
+  "rct2ww.scenario_text.mirage_madness": {
+    "details": "Felfedeztek egy sivatagi oázist, amely gyönyörű helyszínt biztosítana egy parknak. Az oázisba való eljutás biztosított.",
+    "name": "Délibábos Őrület",
+    "park_name": "Délibábos Őrület",
+    "reference-details": "A desert Oasis has been discovered and would provide a beautiful location for a park. Transport to the oasis has been provided.",
+    "reference-name": "Mirage Madness",
+    "reference-park_name": "Mirage Madness"
+  },
+  "rct2ww.scenario_text.okinawa_coast": {
+    "details": "Egy már meglévő park kifogyott a területből. Az egyetlen lehetőséged a tenger felé történő bővítés, ehhez pedig kölcsönt kell felvenned. Az épületekre vonatkozó magassági korlátozások a talapzatok és az esetleges földrengési kockázatok miatt vannak érvényben.",
+    "name": "Okinawa Partjai",
+    "park_name": "Okinawa Partjai",
+    "reference-details": "An existing park has run out of space. Your only option is to build out into the sea, and so you have taken out a loan. Height restrictions on your building are enforced due to foundations and earthquake risk.",
+    "reference-name": "Okinawa Coast",
+    "reference-park_name": "Okinawa Coast"
+  },
+  "rct2ww.scenario_text.over_the_edge": {
+    "details": "Egy gát épült, amely bőséges és olcsó vízenergiát kínál a park működtetéséhez. Magas parkértéket kell elérned, hogy segítsen visszafizetni a gátra felvett kölcsönt.",
+    "name": "A Szakadék Szélén",
+    "park_name": "A Szakadék Szélén",
+    "reference-details": "A dam has been built offering abundant, cheap hydroelectric power with which to run a park. You need to reach a high park value to help repay the loan for the dam.",
+    "reference-name": "Over The Edge",
+    "reference-park_name": "Over The Edge"
+  },
+  "rct2ww.scenario_text.park_maharaja": {
+    "details": "A maharadzsa megbízott, hogy szórakoztasd a nagyszámú helyi lakosságot. Építs egy parkot, amelyet a maharadzsa palotája ihletett.",
+    "name": "Maharadzsa Park",
+    "park_name": "Maharadzsa Park",
+    "reference-details": "You have been commissioned by the Maharaja to bring entertainment to the large local population. Build a park inspired by the Maharaja’s palace.",
+    "reference-name": "Park Maharaja",
+    "reference-park_name": "Park Maharaja"
+  },
+  "rct2ww.scenario_text.rainforest_romp": {
+    "details": "A tér korlátozott az értékes esőerdőben - mindent be kell zsúfolnod a meglévő tisztásra, hogy életképes alternatívát nyújthass a helyi faiparnak.",
+    "name": "Esőerdei Kaland",
+    "park_name": "Esőerdei Kaland",
+    "reference-details": "Space is limited in the precious rainforest - you must cram as much as possible into the existing clearing, in order to provide a viable alternative to the local timber industry.",
+    "reference-name": "Rainforest Romp",
+    "reference-park_name": "Rainforest Romp"
+  },
+  "rct2ww.scenario_text.rollercoaster_heaven": {
+    "details": "Egy sikeres iparmágnás vagy, aki hosszú szabadságon van, és ezt az időt arra szeretné felhasználni, hogy a városi parkot hullámvasút paradicsommá alakítsa át. A pénz nem számít!",
+    "name": "Hullámvasút Paradicsom",
+    "park_name": "Hullámvasút Paradicsom",
+    "reference-details": "You are a successful business tycoon on long sabbatical who desires to use this time transforming the city park into Rollercoaster Heaven. Money is no object!",
+    "reference-name": "Rollercoaster Heaven",
+    "reference-park_name": "Rollercoaster Heaven"
+  },
+  "rct2ww.scenario_text.sugarloaf_shores": {
+    "details": "Egy kis parkot üzemeltetsz Rio mellett, de a bank felmondta a hiteledet. Gyorsan növelned kell a jövedelemtermelő képességedet, hogy vissza tudd fizetni ezt a váratlan adósságot.",
+    "name": "Cukorsüveg-part",
+    "park_name": "Cukorsüveg-part",
+    "reference-details": "You run a small park near Rio but the bank has called in your loan. You need to quickly increase your earning capacity to repay this unexpected debt.",
+    "reference-name": "Sugarloaf Shores",
+    "reference-park_name": "Sugarloaf Shores"
+  },
+  "rct2ww.scenario_text.wacky_waikiki": {
+    "details": "Hawaii lakói már unják a szörfözést, és valami intenzívebbet keresnek. Erre tekintettel kell parkot építened, hogy a terület turisztikai vonzereje magasan maradjon.",
+    "name": "Veszett Waikiki",
+    "park_name": "Veszett Waikiki",
+    "reference-details": "The people of Hawaii are bored of surfing and are looking for something more intense. You need to build a park with this in mind to keep the area’s tourist attraction rating high.",
+    "reference-name": "Wacky Waikiki",
+    "reference-park_name": "Wacky Waikiki"
   },
   "rct2ww.scenery_group.scgafric": {
     "name": "Africa Theming",
@@ -10418,5 +11606,149 @@
   "toontowner.scenery_small.xxbbbr01_fix": {
     "name": "Alap blokk",
     "reference-name": "Base Block"
+  },
+  "uces.scenario_text.beneath_the_christmas_tree": {
+    "details": "Anyu építette ezt a jelenetet a fánk alá. Most azt akarja, hogy parkot csináljunk bele! Tudsz segíteni?",
+    "name": "A karácsonyfa alatt",
+    "park_name": "Téli Csodaország",
+    "reference-details": "Mum built this scene under our tree. Now she wants a park made in it! Can you help?",
+    "reference-name": "Beneath the Christmas Tree",
+    "reference-park_name": "Winter Wonderland"
+  },
+  "uces.scenario_text.bigrock_blast": {
+    "details": "Miután robbanás történt a Bigrock Bányászati Vállalatnál, Bigrock lakosainak egy vidámparkot kell építeniük, hogy életben tartsák városukat.",
+    "name": "Robbanás Bigrockban",
+    "park_name": "Robbanás Bigrockban",
+    "reference-details": "After an explosion at the Bigrock Mining Co., the people of Bigrock have to build an amusement park to keep their town alive.",
+    "reference-name": "Bigrock Blast",
+    "reference-park_name": "Bigrock Blast"
+  },
+  "uces.scenario_text.camp_mockingbird": {
+    "details": "Csak $500/hét ez a nyári tábor! Törd fel a malacperselyed, aztán szórakozz és építs egy parkot.",
+    "name": "Feketerigó Tábor",
+    "park_name": "Feketerigó Tábor",
+    "reference-details": "Only $500/week to this summer camp! Break open your bank and then have fun and build a park.",
+    "reference-name": "Camp Mockingbird",
+    "reference-park_name": "Camp Mockingbird"
+  },
+  "uces.scenario_text.cemetery_ridge": {
+    "details": "Itt van halloween, UCES halloween, tök lámpás ami gyertyát rejt! Mentsd meg a bajba jutott temetőt, ügyelve a halottak békéjére! Képes vagy a szellemeket sírjukban tartani és frászt hozni a vendégeidre?",
+    "name": "Temető-gerinc",
+    "park_name": "Temető-gerinc",
+    "reference-details": "This is Halloween, UCES Halloween, pumpkins scream in the dead of night! This graveyard is in trouble and it’s up to you to save it, while letting the dead rest in peace! Can you keep the ghosts in their graves and bring chills to your customers?",
+    "reference-name": "Cemetery Ridge",
+    "reference-park_name": "Cemetery Ridge"
+  },
+  "uces.scenario_text.choochoo_town": {
+    "details": "Anyu! Apu! Sihuhu városba akarok menni!",
+    "name": "Sihuhu Város",
+    "park_name": "Sihuhu Város",
+    "reference-details": "Mommy! Daddy! I want to go to Choo-Choo Town!",
+    "reference-name": "Choo-Choo Town",
+    "reference-park_name": "Choo-Choo Town"
+  },
+  "uces.scenario_text.dragon_islands": {
+    "details": "Sárkány-szigetek? Nem biztos, hogy oda akarok menni…",
+    "name": "Sárkány-szigetek",
+    "park_name": "Sárkány-szigetek",
+    "reference-details": "Dragon Islands? I’m not sure I want to go there…",
+    "reference-name": "Dragon Islands",
+    "reference-park_name": "Dragon Islands"
+  },
+  "uces.scenario_text.kiddie_karnival_ii": {
+    "details": "Hé, gyerekek! Érezzük jól magunkat!",
+    "name": "Kölyökkarnevál II",
+    "park_name": "Kölyökkarnevál",
+    "reference-details": "Hey kids! Let’s have fun!",
+    "reference-name": "Kiddie Karnival II",
+    "reference-park_name": "Kiddie Karnival"
+  },
+  "uces.scenario_text.luna_park_cleveland": {
+    "details": "Amilyen a megnyitó napján volt - 1905. május 18-án.",
+    "name": "Luna Park, Cleveland",
+    "park_name": "Luna Park",
+    "reference-details": "As it was on its opening day - 18 May 1905.",
+    "reference-name": "Luna Park, Cleveland",
+    "reference-park_name": "Luna Park"
+  },
+  "uces.scenario_text.mount_vesuvius": {
+    "details": "Pompejit és Herculaneumot a Vezúv temette maga alá Kr.u. 79-ben. Látogass el az ásatásokra és építs egy parkot!",
+    "name": "Vezúv",
+    "park_name": "Vezúv",
+    "reference-details": "Pompeii and Herculaneum were buried by Mt. Vesuvius in 79 A.D. Visit the excavations and build a park!",
+    "reference-name": "Mount Vesuvius",
+    "reference-park_name": "Mount Vesuvius"
+  },
+  "uces.scenario_text.niagara_falls_gorge": {
+    "details": "Amerikai-zuhatag, Menyasszonyi fátyol-zuhatag és a kanadai Patkó-zuhatag a Niagara határon, 1850.",
+    "name": "Niagara-vízesés és szurdok",
+    "park_name": "Niagara-vízesés",
+    "reference-details": "American Falls, Bridal Falls & Canadian Horseshoe Falls on the Niagara Frontier, 1850.",
+    "reference-name": "Niagara Falls & Gorge",
+    "reference-park_name": "Niagara Falls"
+  },
+  "uces.scenario_text.rocky_mountain_miners": {
+    "details": "Egy sziklaomlás megrongálta a vasutadat. A munkásaid elmentek kutatni. Van arany a hullámvasutakban?",
+    "name": "Sziklás-hegyi bányászok",
+    "park_name": "Sziklás-hegyi bányászok",
+    "reference-details": "A rockslide damaged your railway. Your workers have gone prospecting. Is there gold in roller coasters?",
+    "reference-name": "Rocky Mountain Miners",
+    "reference-park_name": "Rocky Mountain Miners"
+  },
+  "uces.scenario_text.sand_dune": {
+    "details": "Egy kis park tulajdonosaként vásároltál egy nagy darab földet a tengerparton, hogy bővíts és még több vendéget vonzz a gyönyörű homokdűnékhez, de vigyázz: nem bolygathatod az ökológiailag érzékeny homokdűnéket.",
+    "name": "Homokdűne",
+    "park_name": "Homokdűne",
+    "reference-details": "As the owner of a small park, you bought a large piece of land along the beach to expand and attract more guests to visit the beautiful sand dunes, but beware: you cannot disturb those ecologically fragile sand dunes.",
+    "reference-name": "Sand Dune",
+    "reference-park_name": "Sand Dune"
+  },
+  "uces.scenario_text.the_lighthouse_of_alexandria": {
+    "details": "Sándor építette a várost; a görögök, rómaiak, egyiptomiak rányomták bélyegüket. De a legnagyobb megtiszteltetés az ókori világ egy csodája - a világítótorony. Látogass el és hozz létre egy parkot!",
+    "name": "Alexandriai világítótorony",
+    "park_name": "Alexandriai világítótorony",
+    "reference-details": "Alexander built the city; Greeks, Romans, Egyptians left their mark. But the biggest honor was a Wonder of the Ancient World - the Lighthouse. Visit and make a park!",
+    "reference-name": "The Lighthouse of Alexandria",
+    "reference-park_name": "The Lighthouse of Alexandria"
+  },
+  "uces.scenario_text.the_sandbox": {
+    "details": "Amit mindenki akar - egy homokozó! Szóval ragadjátok meg a kis vödrötöket és lapátotokat és építsetek egy parkot!",
+    "name": "A Homokozó",
+    "park_name": "A Homokozó",
+    "reference-details": "What everyone wants - a sandbox! So grab your l’il pail and shovel and build a park!",
+    "reference-name": "The Sandbox",
+    "reference-park_name": "The Sandbox"
+  },
+  "uces.scenario_text.the_time_machine": {
+    "details": "Az időgép. Építsd meg, hogy mehess - amikor akarsz, ahová akarsz. Az örökkévalóság vár. Minden relatív.",
+    "name": "Az Időgép",
+    "park_name": "Az Időgép",
+    "reference-details": "The Time Machine. Build to go - when you want, where you want. Eternity awaits. It’s all relative.",
+    "reference-name": "The Time Machine",
+    "reference-park_name": "The Time Machine"
+  },
+  "uces.scenario_text.tower_of_babel": {
+    "details": "Hűű! Nézd csak, hova vitt minket az időgép! Hová tűnt mindenki?",
+    "name": "Bábel tornya",
+    "park_name": "Bábel tornya",
+    "reference-details": "Whoaa! Look where the time machine took us now! Where did everybody go?",
+    "reference-name": "Tower of Babel",
+    "reference-park_name": "Tower of Babel"
+  },
+  "uces.scenario_text.transformation": {
+    "details": "Vártunk téged…",
+    "name": "Transzformáció",
+    "park_name": "Transzformáció",
+    "reference-details": "We were expecting you…",
+    "reference-name": "Transformation",
+    "reference-park_name": "Transformation"
+  },
+  "uces.scenario_text.urbis_incognitus": {
+    "details": "A rómaiak belefáradtak az unalmas gladiátorharcokba. Adj nekik valami izgalmasabbat, változtass egy római várost minden idők legnagyobb vidámparkjává!",
+    "name": "Urbis Incognitus",
+    "park_name": "Urbis Incognitus",
+    "reference-details": "The Romans are tired of boring gladiator fights. Give them a better thrill, turn a Roman city into the greatest amusement park of all time!",
+    "reference-name": "Urbis Incognitus",
+    "reference-park_name": "Urbis Incognitus"
   }
 }
