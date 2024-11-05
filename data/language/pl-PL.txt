@@ -847,8 +847,8 @@ STR_1452    :Imię gościa
 STR_1453    :Nowe imię dla gościa:
 STR_1454    :Nie można tak nazwać gościa…
 STR_1455    :Niewłaściwe imię dla gościa
-STR_1456    :{WINDOW_COLOUR_2}Wydał: {BLACK}{CURRENCY2DP}
-STR_1457    :{WINDOW_COLOUR_2}Pieniędzy w kieszeni: {BLACK}{CURRENCY2DP}
+STR_1456    :{WINDOW_COLOUR_2}Wydane pieniądze: {BLACK}{CURRENCY2DP}
+STR_1457    :{WINDOW_COLOUR_2}Posiadane pieniądze: {BLACK}{CURRENCY2DP}
 STR_1458    :{WINDOW_COLOUR_2}Czas w parku: {BLACK}{REALTIME}
 STR_1459    :Styl trasy
 STR_1460    :Otwarta trasa typu „U”
@@ -875,25 +875,25 @@ STR_1480    :„Nie mogę sobie pozwolić na {STRINGID}”
 STR_1481    :„Wydałem wszystkie swoje pieniądze”
 STR_1482    :„Niedobrze mi”
 STR_1483    :„Zaraz zwymiotuję”
-STR_1484    :„Chcę pójść na coś bardziej intensywnego niż {STRINGID}”
+STR_1484    :„Chcę pójść na coś ciekawszego niż {STRINGID}”
 STR_1485    :„{STRINGID} wygląda zbyt intensywne dla mnie”
 STR_1486    :„Nie skończyłem jeszcze {STRINGID}”
-STR_1487    :„Od samego patrzenia na {STRINGID} robi mi się niedobrze”
+STR_1487    :„{STRINGID} - od samego patrzenia robi mi się niedobrze”
 STR_1488    :„Nie zapłacę tyle za {STRINGID}”
 STR_1489    :„Chcę już do domu”
 STR_1490    :„{STRINGID} ma naprawdę dobrą cenę”
 STR_1491    :„Mam już {STRINGID}”
 STR_1492    :„Nie mogę sobie pozwolić na {STRINGID}”
-STR_1493    :„Nie jestem głodny”
-STR_1494    :„Nie jestem spragniony”
+STR_1493    :„Nie chce mi się jeść”
+STR_1494    :„Nie chce mi się pić”
 STR_1495    :„Pomocy! Tonę!”
 STR_1496    :„Zgubiłem się!”
 STR_1497    :„Na atrakcji {STRINGID} było świetnie”
-STR_1498    :„Czekam już wieki w kolejce na {STRINGID}”
-STR_1499    :„Jestem zmęczony”
-STR_1500    :„Jestem głodny”
-STR_1501    :„Jestem spragniony”
-STR_1502    :„Muszę do toalety”
+STR_1498    :„{STRINGID}… Już wieki stoję w kolejce do tej atrakcji”
+STR_1499    :„Opadam z sił”
+STR_1500    :„Chce mi się jeść”
+STR_1501    :„Chce mi się pić”
+STR_1502    :„Muszę do łazienki”
 STR_1503    :„Nie mogę znaleźć {STRINGID}”
 STR_1504    :„Nie zapłacę tyle za {STRINGID}”
 STR_1505    :„Nie pójdę na {STRINGID} dopóki pada”
@@ -905,9 +905,9 @@ STR_1510    :„Nie pójdę na {STRINGID} - nie wygląda za bezpiecznie”
 STR_1511    :„Ta ścieżka jest obrzydliwa”
 STR_1512    :„Tutaj jest zdecydowanie za tłoczno”
 STR_1513    :„Wandalizm stanowi tutaj duży problem”
-STR_1514    :„Świetna sceneria!”
-STR_1515    :„Ten park jest naprawdę czysty”
-STR_1516    :„Ta skaczą fontanna jest świetna”
+STR_1514    :„Wspaniały krajobraz!”
+STR_1515    :„W tym parku jest naprawdę czysto i porządnie”
+STR_1516    :„Ta skacząca fontanna jest świetna”
 STR_1517    :„Leci tutaj miła muzyka”
 STR_1518    :„Ten balon z {STRINGID} był naprawdę opłacalny”
 STR_1519    :„Ta przytulanka z {STRINGID} była naprawdę opłacalna”
@@ -1657,15 +1657,15 @@ STR_2292    :{WINDOW_COLOUR_2}Odwiedzone atrakcje:
 STR_2293    :{BLACK} Brak
 STR_2294    :Zmień podstawowy styl gruntu
 STR_2295    :Zmień poziome krawędzie gruntu
-STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na wejście do parku
-STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} atrakcję
-STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} atrakcji
-STR_2299    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} posiłek
-STR_2300    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} posiłków
-STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} napój
-STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} napojów
-STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} pamiatkę
-STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} wydane na {BLACK}{COMMA16} pamiątek
+STR_2296    :{BLACK}Zapłacił {CURRENCY2DP}{WINDOW_COLOUR_2} za wejście do parku
+STR_2297    :{BLACK}Wydał {CURRENCY2DP}{WINDOW_COLOUR_2} na {BLACK}{COMMA16} atrakcję
+STR_2298    :{BLACK}Wydał {CURRENCY2DP}{WINDOW_COLOUR_2} na {BLACK}{COMMA16} atrakcji
+STR_2299    :{BLACK}Wydał {CURRENCY2DP}{WINDOW_COLOUR_2} na {BLACK}{COMMA16} posiłek
+STR_2300    :{BLACK}Wydał {CURRENCY2DP}{WINDOW_COLOUR_2} na {BLACK}{COMMA16} posiłki
+STR_2301    :{BLACK}Wydał {CURRENCY2DP}{WINDOW_COLOUR_2} na {BLACK}{COMMA16} napój
+STR_2302    :{BLACK}Wydał {CURRENCY2DP}{WINDOW_COLOUR_2} na {BLACK}{COMMA16} napoje
+STR_2303    :{BLACK}Wydał {CURRENCY2DP}{WINDOW_COLOUR_2} na {BLACK}{COMMA16} pamiatkę
+STR_2304    :{BLACK}Wydał {CURRENCY2DP}{WINDOW_COLOUR_2} na {BLACK}{COMMA16} pamiątki
 STR_2305    :Plik z projektami tras
 STR_2306    :Zapisz projekt trasy
 STR_2307    :Wybierz projekt {STRINGID}
