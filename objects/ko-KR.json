@@ -59,6 +59,14 @@
     "reference-description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
     "reference-name": "Hybrid Coaster Trains"
   },
+  "openrct2.ride.modern_twister": {
+    "capacity": "4 passengers per car",
+    "description": "Spacious trains with lap restraints, capable of tight twists and inversions",
+    "name": "Modern Twister Trains",
+    "reference-capacity": "4 passengers per car",
+    "reference-description": "Spacious trains with lap restraints, capable of tight twists and inversions",
+    "reference-name": "Modern Twister Trains"
+  },
   "openrct2.ride.single_rail_coaster": {
     "capacity": "차량 당 승객 1명",
     "description": "승객이 일렬로 앉아 있는 롤러코스터 열차",
@@ -313,6 +321,14 @@
     "reference-description": "Powered vehicles in the shape of sports cars",
     "reference-name": "Sports Cars"
   },
+  "rct1.ride.stand_up_trains": {
+    "capacity": "차량당 4명의 승객",
+    "description": "손님이 일어선 자세로 탑승하는 루핑 롤러코스터",
+    "name": "스탠드 업 롤러코스터 차량",
+    "reference-capacity": "4 passengers per car",
+    "reference-description": "Roller coaster trains in which the riders ride in a standing position",
+    "reference-name": "Stand-up Roller Coaster Trains"
+  },
   "rct1.ride.steam_trains": {
     "capacity": "객차당 6명의 승객",
     "description": "나무 객차와 증기 기관차 모형으로 이루어진 모형 증기 기관차 차량",
@@ -398,6 +414,182 @@
     "reference-capacity": "4 passengers per car",
     "reference-description": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
     "reference-name": "Wooden Roller Coaster Trains (Reversed)"
+  },
+  "rct1.scenario_text.bumbly_beach": {
+    "details": "범블리 해변의 작은 놀이공원을 번창한 놀이공원으로 발전시키세요.",
+    "name": "Bumbly Beach",
+    "park_name": "범블리 해변",
+    "reference-details": "Develop Bumbly Beach’s small amusement park into a thriving theme park",
+    "reference-name": "Bumbly Beach",
+    "reference-park_name": "Bumbly Beach"
+  },
+  "rct1.scenario_text.crumbly_woods": {
+    "details": "잘 디자인되었지만 다소 낡은 놀이기구를 가진 대형 공원입니다. 오래된 놀이기구를 교체하거나 새로운 놀이기구를 추가하여 보다 인기있는 공원을 만들어보세요.",
+    "name": "Crumbly Woods",
+    "park_name": "부서지기 쉬운 숲",
+    "reference-details": "A large park with well-designed but rather old rides. Replace the old rides or add new rides to make the park more popular.",
+    "reference-name": "Crumbly Woods",
+    "reference-park_name": "Crumbly Woods"
+  },
+  "rct1.scenario_text.diamond_heights": {
+    "details": "다이아몬드 언덕은 멋진 놀이기구를 통해 이미 성공한 놀이공원입니다. 공원의 가치를 두 배로 늘려 보세요.",
+    "name": "Diamond Heights",
+    "park_name": "다이아몬드 언덕",
+    "reference-details": "Diamond Heights is already a successful theme park with great rides - develop it to double its value",
+    "reference-name": "Diamond Heights",
+    "reference-park_name": "Diamond Heights"
+  },
+  "rct1.scenario_text.dynamite_dunes": {
+    "details": "사막 한가운데 건설된 이 놀이공원에는 롤러코스터 한 대만이 있지만 확장할 수 있는 곳이 많습니다.",
+    "name": "Dynamite Dunes",
+    "park_name": "다이너마이트 모래언덕",
+    "reference-details": "Built in the middle of the desert, this theme park contains just one roller coaster but has space for expansion",
+    "reference-name": "Dynamite Dunes",
+    "reference-park_name": "Dynamite Dunes"
+  },
+  "rct1.scenario_text.evergreen_gardens": {
+    "details": "아름다운 상록수 정원을 번창한 놀이공원으로 바꿔보세요.",
+    "name": "Evergreen Gardens",
+    "park_name": "상록수 정원",
+    "reference-details": "Convert the beautiful Evergreen Gardens into a thriving theme park",
+    "reference-name": "Evergreen Gardens",
+    "reference-park_name": "Evergreen Gardens"
+  },
+  "rct1.scenario_text.forest_frontiers": {
+    "details": "깊은 숲 속 넓은 공터에 번창한 놀이공원을 건설하세요.",
+    "name": "Forest Frontiers",
+    "park_name": "미개척된 숲",
+    "reference-details": "Deep in the forest, build a thriving theme park in a large cleared area",
+    "reference-name": "Forest Frontiers",
+    "reference-park_name": "Forest Frontiers"
+  },
+  "rct1.scenario_text.ivory_towers": {
+    "details": "문제가 몇 가지 있지만 잘 구성된 공원입니다.",
+    "name": "Ivory Towers",
+    "park_name": "상아 탑",
+    "reference-details": "A well-established park, which has a few problems",
+    "reference-name": "Ivory Towers",
+    "reference-park_name": "Ivory Towers"
+  },
+  "rct1.scenario_text.karts_coasters": {
+    "details": "몇 개의 고 카트 트랙과 우든 롤러코스터가 숲속에 숨겨진 대형 놀이공원입니다.",
+    "name": "Karts & Coasters",
+    "park_name": "카트 & 코스터",
+    "reference-details": "A large park hidden in the forest, with only go-kart tracks and wooden roller coasters",
+    "reference-name": "Karts & Coasters",
+    "reference-park_name": "Karts & Coasters"
+  },
+  "rct1.scenario_text.katies_dreamland": {
+    "details": "몇 개의 놀이기구와 확장할 공간이 있는 작은 놀이공원으로, 여러분의 목표는 공원 가치를 두 배로 늘리는 것입니다.",
+    "name": "Katie’s Dreamland",
+    "park_name": "케이티의 드림랜드",
+    "reference-details": "A small theme park with a few rides and room for expansion. Your aim is to double the park value.",
+    "reference-name": "Katie’s Dreamland",
+    "reference-park_name": "Katie’s Dreamland"
+  },
+  "rct1.scenario_text.leafy_lake": {
+    "details": "처음부터 시작하여 큰 호수 주변에 놀이공원을 건설하세요.",
+    "name": "Leafy Lake",
+    "park_name": "나뭇잎 호수",
+    "reference-details": "Starting from scratch, build a theme park around a large lake",
+    "reference-name": "Leafy Lake",
+    "reference-park_name": "Leafy Lake"
+  },
+  "rct1.scenario_text.lightning_peaks": {
+    "details": "번개치는 산꼭대기의 아름다운 산은 경치를 즐기며 산책을 즐기는 사람들에게 인기가 높습니다. 사용 가능한 땅을 이용해서 스릴을 찾는 새로운 고객을 유혹해보세요.",
+    "name": "Lightning Peaks",
+    "park_name": "번개치는 산꼭대기",
+    "reference-details": "The beautiful mountains of Lightning Peaks are popular with walkers and sightseers. Use the available land to attract a new thrill-seeking clientele.",
+    "reference-name": "Lightning Peaks",
+    "reference-park_name": "Lightning Peaks"
+  },
+  "rct1.scenario_text.mega_park": {
+    "details": "그냥 즐기세요!",
+    "name": "Mega Park",
+    "park_name": "대공원",
+    "reference-details": "Just for fun!",
+    "reference-name": "Mega Park",
+    "reference-park_name": "Mega Park"
+  },
+  "rct1.scenario_text.mels_world": {
+    "details": "이 놀이공원에는 잘 디자인된 현대식 놀이기구가 있지만, 아직도 확장해야 할 곳이 많습니다.",
+    "name": "Mel’s World",
+    "park_name": "멜의 세계",
+    "reference-details": "This theme park has some well-designed modern rides, but plenty of space for expansion",
+    "reference-name": "Mel’s World",
+    "reference-park_name": "Mel’s World"
+  },
+  "rct1.scenario_text.millennium_mines": {
+    "details": "버려져있는 커다란 탄광을 관광시설에서 놀이공원으로 바꿔보세요.",
+    "name": "Millennium Mines",
+    "park_name": "밀레니엄 광산",
+    "reference-details": "Convert a large abandoned mine from a tourist attraction into a theme park",
+    "reference-name": "Millennium Mines",
+    "reference-park_name": "Millennium Mines"
+  },
+  "rct1.scenario_text.mystic_mountain": {
+    "details": "비밀스런 숲 속 언덕에 처음부터 놀이공원을 건설하세요.",
+    "name": "Mystic Mountain",
+    "park_name": "신비한 산",
+    "reference-details": "In the hilly forests of Mystic Mountain, build a theme park from scratch",
+    "reference-name": "Mystic Mountain",
+    "reference-park_name": "Mystic Mountain"
+  },
+  "rct1.scenario_text.pacific_pyramids": {
+    "details": "이집트 유적 관광지를 번창한 놀이공원으로 바꿔보세요.",
+    "name": "Pacific Pyramids",
+    "park_name": "평화로운 피라미드",
+    "reference-details": "Convert the Egyptian Ruins tourist attraction into a thriving theme park",
+    "reference-name": "Pacific Pyramids",
+    "reference-park_name": "Pacific Pyramids"
+  },
+  "rct1.scenario_text.paradise_pier": {
+    "details": "이 조용한 마을의 부두를 번창한 놀이공원으로 바꿔보세요.",
+    "name": "Paradise Pier",
+    "park_name": "파라다이스 부두",
+    "reference-details": "Convert this sleepy town’s pier into a thriving attraction",
+    "reference-name": "Paradise Pier",
+    "reference-park_name": "Paradise Pier"
+  },
+  "rct1.scenario_text.pokey_park": {
+    "details": "대대적인 확장을 해야 하는 비좁은 놀이공원입니다.",
+    "name": "Pokey Park",
+    "park_name": "비좁은 공원",
+    "reference-details": "A small, cramped amusement park which requires major expansion",
+    "reference-name": "Pokey Park",
+    "reference-park_name": "Pokey Park"
+  },
+  "rct1.scenario_text.rainbow_valley": {
+    "details": "무지개 계곡의 지역 당국이 풍경을 바꾸거나 큰 나무를 제거할 수 없게 금지했지만, 이 지역을 개발하여 대형 놀이공원으로 바꿔야만 합니다.",
+    "name": "Rainbow Valley",
+    "park_name": "무지개 계곡",
+    "reference-details": "Rainbow Valley’s local authority won’t allow any landscape changes or large tree removal, but you must develop the area into a large theme park",
+    "reference-name": "Rainbow Valley",
+    "reference-park_name": "Rainbow Valley"
+  },
+  "rct1.scenario_text.thunder_rock": {
+    "details": "천둥 바위는 사막 한가운데에서 많은 관광객을 끌어모으고 있습니다. 사용 가능한 공간을 이용해 놀이기구를 건설해서 더 많은 사람을 끌어 보세요.",
+    "name": "Thunder Rock",
+    "park_name": "천둥 바위",
+    "reference-details": "Thunder Rock stands in the middle of a desert and attracts many tourists. Use the available space to build rides to attract more people.",
+    "reference-name": "Thunder Rock",
+    "reference-park_name": "Thunder Rock"
+  },
+  "rct1.scenario_text.trinity_islands": {
+    "details": "몇 개의 섬이 이 새로운 공원의 기반입니다.",
+    "name": "Trinity Islands",
+    "park_name": "삼위일체 섬",
+    "reference-details": "Several islands form the basis for this new park",
+    "reference-name": "Trinity Islands",
+    "reference-park_name": "Trinity Islands"
+  },
+  "rct1.scenario_text.white_water_park": {
+    "details": "훌륭한 물 놀이기구를 몇 개 갖고 있지만 확장이 필요한 공원입니다.",
+    "name": "White Water Park",
+    "park_name": "맑은 물 공원",
+    "reference-details": "A park with some excellent water-based rides requires expansion",
+    "reference-name": "White Water Park",
+    "reference-park_name": "White Water Park"
   },
   "rct1.scenery_wall.playing_card_wall_1": {
     "name": "트럼프 벽",
@@ -515,6 +707,14 @@
     "reference-description": "Wide 4-across cars with raised seating and simple lap restraints",
     "reference-name": "Hyper-Twister Trains (wide cars)"
   },
+  "rct1aa.ride.lay_down_trains": {
+    "capacity": "차량당 4명의 승객",
+    "description": "누운 자세로 탑승하는 특수 차량에 탑승하여 꼬인 트랙과 전이를 앞이나 뒤로 누운 자세로 즐기는 놀이기구",
+    "name": "레이 다운 롤러코스터 차량",
+    "reference-capacity": "4 passengers per car",
+    "reference-description": "Riders are held in special harnesses in a lying-down position, travelling either on their backs or facing the ground",
+    "reference-name": "Lay-down Roller Coaster Trains"
+  },
   "rct1aa.ride.mini_helicopters": {
     "capacity": "차량당 2명의 승객",
     "description": "탑승자가 페달을 밟아서 철제 트랙을 따라 움직이는 헬리콥터 모양의 차량",
@@ -611,6 +811,246 @@
     "reference-description": "Circular cars that spin around as they travel along the track",
     "reference-name": "Virginia Reel Tubs"
   },
+  "rct1aa.scenario_text.adrenaline_heights": {
+    "details": "격렬한 스릴을 즐기는 사람들을 위한 공원을 건설하세요.",
+    "name": "Adrenaline Heights",
+    "park_name": "아드레날린 언덕",
+    "reference-details": "Build a park to appeal to the high-intensity thrill-seeking local people",
+    "reference-name": "Adrenaline Heights",
+    "reference-park_name": "Adrenaline Heights"
+  },
+  "rct1aa.scenario_text.barony_bridge": {
+    "details": "필요없는 오래된 다리를 놀이공원으로 개발할 수 있습니다.",
+    "name": "Barony Bridge",
+    "park_name": "남작의 다리",
+    "reference-details": "An old redundant bridge is yours to develop into an amusement park",
+    "reference-name": "Barony Bridge",
+    "reference-park_name": "Barony Bridge"
+  },
+  "rct1aa.scenario_text.butterfly_dam": {
+    "details": "댐 주변 지역을 놀이공원으로 개발할 수 있습니다.",
+    "name": "Butterfly Dam",
+    "park_name": "나비 댐",
+    "reference-details": "The area around a dam is available for you to develop into an amusement park",
+    "reference-name": "Butterfly Dam",
+    "reference-park_name": "Butterfly Dam"
+  },
+  "rct1aa.scenario_text.canary_mines": {
+    "details": "이 버려진 탄광은 모형 기차와 수직 낙하 롤러코스터로 이미 관광객의 인기를 끌고 있습니다.",
+    "name": "Canary Mines",
+    "park_name": "카나리아 광산",
+    "reference-details": "This abandoned mine already has the makings of a tourist attraction with its miniature railway and a pair of vertical drop roller coasters",
+    "reference-name": "Canary Mines",
+    "reference-park_name": "Canary Mines"
+  },
+  "rct1aa.scenario_text.coaster_canyon": {
+    "details": "광대한 협곡을 테마파크로 개발할 수 있습니다.",
+    "name": "Coaster Canyon",
+    "park_name": "코스터 협곡",
+    "reference-details": "A vast canyon is yours to turn into a theme park",
+    "reference-name": "Coaster Canyon",
+    "reference-park_name": "Coaster Canyon"
+  },
+  "rct1aa.scenario_text.coaster_crazy": {
+    "details": "이 산악 지대에 다양한 롤러코스터를 건설해보세요. 예산은 한정되어 있지만 시간은 제한이 없습니다.",
+    "name": "Coaster Crazy",
+    "park_name": "미친 코스터",
+    "reference-details": "You have limited funds but unlimited time to turn this mountainside area into a vast roller coaster park",
+    "reference-name": "Coaster Crazy",
+    "reference-park_name": "Coaster Crazy"
+  },
+  "rct1aa.scenario_text.fiasco_forest": {
+    "details": "위험하고 잘못 설계된 놀이기구가 많이 있습니다. 공원을 둘러보고 문제를 수정할 시간과 예산이 매우 부족합니다.",
+    "name": "Fiasco Forest",
+    "park_name": "실패한 숲",
+    "reference-details": "Full of badly designed and dangerous rides, you have a very limited budget and time to fix the problems and turn the park around",
+    "reference-name": "Fiasco Forest",
+    "reference-park_name": "Fiasco Forest"
+  },
+  "rct1aa.scenario_text.fruit_farm": {
+    "details": "무성한 과일 농장에 모형 기차를 건설해서 수익을 극대화하고 있습니다. 여러분의 임무는 이 농장을 최고의 놀이공원으로 만드는 것입니다.",
+    "name": "Fruit Farm",
+    "park_name": "과일 농장",
+    "reference-details": "A thriving fruit farm has built a railroad to boost its income, your job is to develop it into a full-blown amusement park",
+    "reference-name": "Fruit Farm",
+    "reference-park_name": "Fruit Farm"
+  },
+  "rct1aa.scenario_text.fun_fortress": {
+    "details": "이 성은 이제 당신의 소유입니다. 이 성을 놀이공원으로 바꾸어보세요.",
+    "name": "Fun Fortress",
+    "park_name": "즐거운 요새",
+    "reference-details": "This castle is all yours to turn into a theme park",
+    "reference-name": "Fun Fortress",
+    "reference-park_name": "Fun Fortress"
+  },
+  "rct1aa.scenario_text.funtopia": {
+    "details": "고속도로 양쪽을 잘 활용한 이 공원은 이미 몇 가지 놀이기구를 운영하고 있습니다.",
+    "name": "Funtopia",
+    "park_name": "펀토피아",
+    "reference-details": "Covering land both sides of a highway, this park has several rides already operating",
+    "reference-name": "Funtopia",
+    "reference-park_name": "Funtopia"
+  },
+  "rct1aa.scenario_text.future_world": {
+    "details": "이 미래지향적인 공원에는 외계 지형 위에 새로운 놀이기구를 지을 넓은 공간이 있습니다.",
+    "name": "Future World",
+    "park_name": "미래 세계",
+    "reference-details": "This futuristic park has plenty of space for new rides on its alien landscape",
+    "reference-name": "Future World",
+    "reference-park_name": "Future World"
+  },
+  "rct1aa.scenario_text.gentle_glen": {
+    "details": "이 지역의 주민들은 격렬하지 않고 얌전한 놀이기구를 선호합니다. 이 공원을 그들의 취향에 맞게 확장해보세요.",
+    "name": "Gentle Glen",
+    "park_name": "얌전한 골짜기",
+    "reference-details": "The local population prefer gentle and relaxing rides, so it is your job to expand this park to suit their tastes",
+    "reference-name": "Gentle Glen",
+    "reference-park_name": "Gentle Glen"
+  },
+  "rct1aa.scenario_text.geoffrey_gardens": {
+    "details": "대규모의 정원 공원을 북적이는 놀이공원으로 바꿔야 합니다.",
+    "name": "Geoffrey Gardens",
+    "park_name": "제프리의 정원",
+    "reference-details": "A large garden park needs turning into a thriving theme park",
+    "reference-name": "Geoffrey Gardens",
+    "reference-park_name": "Geoffrey Gardens"
+  },
+  "rct1aa.scenario_text.giggle_downs": {
+    "details": "이 넓은 공원의 중앙에는 네 쌍둥이 스티플체이스 놀이기구가 있습니다.",
+    "name": "Giggle Downs",
+    "park_name": "웃기는 구릉 지대",
+    "reference-details": "A four lane steeplechase ride is the centrepiece of this expanding park",
+    "reference-name": "Giggle Downs",
+    "reference-park_name": "Giggle Downs"
+  },
+  "rct1aa.scenario_text.harmonic_hills": {
+    "details": "이 공원의 지역 당국은 나무 높이 이상의 건설을 허용하지 않습니다.",
+    "name": "Harmonic Hills",
+    "park_name": "조화로운 언덕",
+    "reference-details": "The local authority won’t allow you to build above tree height in this park",
+    "reference-name": "Harmonic Hills",
+    "reference-park_name": "Harmonic Hills"
+  },
+  "rct1aa.scenario_text.haunted_harbour": {
+    "details": "지역 당국은 특정 놀이기구는 파괴할 수 없다는 조건을 걸고 이 작은 해변 공원 근처의 땅을 저렴하게 팔기로 합의했습니다.",
+    "name": "Haunted Harbour",
+    "park_name": "유령 항구",
+    "reference-details": "The local authority has agreed to sell nearby land cheaply to this small seaside park, on the condition that certain rides are preserved",
+    "reference-name": "Haunted Harbour",
+    "reference-park_name": "Haunted Harbour"
+  },
+  "rct1aa.scenario_text.hydro_hills": {
+    "details": "몇 개의 호수를 기반으로 새로운 공원을 건설할 수 있습니다.",
+    "name": "Hydro Hills",
+    "park_name": "하이드로 언덕",
+    "reference-details": "A series of stepped lakes form the basis for this new park",
+    "reference-name": "Hydro Hills",
+    "reference-park_name": "Hydro Hills"
+  },
+  "rct1aa.scenario_text.jolly_jungle": {
+    "details": "정글 속 깊은 곳에 놀이공원으로 탈바꿈할 수 있는 넓은 대지가 있습니다.",
+    "name": "Jolly Jungle",
+    "park_name": "즐거운 정글",
+    "reference-details": "Deep in the jungle lies a large area of land ready to be turned into a theme park",
+    "reference-name": "Jolly Jungle",
+    "reference-park_name": "Jolly Jungle"
+  },
+  "rct1aa.scenario_text.magic_quarters": {
+    "details": "비어있는 넓은 지역의 일부분을 아름다운 풍경의 테마파크로 개발할 준비가 되었습니다.",
+    "name": "Magic Quarters",
+    "park_name": "매직 쿼터",
+    "reference-details": "A large area of land has been cleared and partially themed ready for you to develop into a landscaped theme park",
+    "reference-name": "Magic Quarters",
+    "reference-park_name": "Magic Quarters"
+  },
+  "rct1aa.scenario_text.mineral_park": {
+    "details": "이 버려진 채석장을 스릴을 찾는 사람들을 유혹할만한 장소로 바꿔보세요.",
+    "name": "Mineral Park",
+    "park_name": "광물 공원",
+    "reference-details": "Turn this abandoned stone quarry into a place to attract thrill-seeking tourists",
+    "reference-name": "Mineral Park",
+    "reference-park_name": "Mineral Park"
+  },
+  "rct1aa.scenario_text.pickle_park": {
+    "details": "지역 당국이 광고나 홍보를 불허했기 때문에 이 공원은 사람들의 입을 통해서만 알릴 수 있습니다.",
+    "name": "Pickle Park",
+    "park_name": "피클 공원",
+    "reference-details": "The local authority will not allow any kind of advertising or promotion, so this park must succeed by reputation only",
+    "reference-name": "Pickle Park",
+    "reference-park_name": "Pickle Park"
+  },
+  "rct1aa.scenario_text.roman_village": {
+    "details": "이 로마 스타일의 테마파크에 놀이기구와 롤러코스터를 추가해서 더욱 발전시켜보세요.",
+    "name": "Roman Village",
+    "park_name": "로마의 마을",
+    "reference-details": "Develop this Roman-themed park by adding rides and roller coasters",
+    "reference-name": "Roman Village",
+    "reference-park_name": "Roman Village"
+  },
+  "rct1aa.scenario_text.rotting_heights": {
+    "details": "지나치게 성장해서 황폐화되어버린 이곳을 다시 멋진 공원으로 바꿀 수 있습니까?",
+    "name": "Rotting Heights",
+    "park_name": "썩어버린 언덕",
+    "reference-details": "Overgrown and dilapidated, can you resurrect this once-great amusement park?",
+    "reference-name": "Rotting Heights",
+    "reference-park_name": "Rotting Heights"
+  },
+  "rct1aa.scenario_text.sprightly_park": {
+    "details": "이 오래된 공원에는 아주 역사적인 놀이기구가 많이 있지만 심각한 적자에 시달리고 있습니다.",
+    "name": "Sprightly Park",
+    "park_name": "활기 넘치는 공원",
+    "reference-details": "This elderly park has many historical rides but is badly in debt",
+    "reference-name": "Sprightly Park",
+    "reference-park_name": "Sprightly Park"
+  },
+  "rct1aa.scenario_text.swamp_cove": {
+    "details": "몇 개의 작은 섬에 부분 부분 건설된 이 공원에는 이미 중앙에 한 쌍의 거대한 롤러코스터가 있습니다.",
+    "name": "Swamp Cove",
+    "park_name": "습지 골짜기",
+    "reference-details": "Built partly on a series of small islands, this park already has a pair of large roller coasters as its centrepiece",
+    "reference-name": "Swamp Cove",
+    "reference-park_name": "Swamp Cove"
+  },
+  "rct1aa.scenario_text.three_monkeys_park": {
+    "details": "개발 중인 이 거대한 공원의 한 가운데에는 동시에 경주하는 거대한 세쌍둥이 철제 롤러코스터가 있습니다.",
+    "name": "Three Monkeys Park",
+    "park_name": "세 원숭이 공원",
+    "reference-details": "Central to this large developing park is a giant triple-track racing/duelling steel coaster",
+    "reference-name": "Three Monkeys Park",
+    "reference-park_name": "Three Monkeys Park"
+  },
+  "rct1aa.scenario_text.thunderstorm_park": {
+    "details": "날씨가 너무 습해서 거대한 피라미드를 짓고 일부 놀이기구를 그 속에 두기로 했습니다.",
+    "name": "Thunderstorm Park",
+    "park_name": "폭풍우 공원",
+    "reference-details": "The weather is so wet here that a giant pyramid has been built to allow some rides to be built under cover",
+    "reference-name": "Thunderstorm Park",
+    "reference-park_name": "Thunderstorm Park"
+  },
+  "rct1aa.scenario_text.urban_park": {
+    "details": "이 작은 공원은 이 도시뿐만 아니라 근교 도시의 주민들에게까지 인기를 모으고 있습니다.",
+    "name": "Urban Park",
+    "park_name": "도시 공원",
+    "reference-details": "A tiny park has done a deal with the nearby town to allow expansion through the town itself",
+    "reference-name": "Urban Park",
+    "reference-park_name": "Urban Park"
+  },
+  "rct1aa.scenario_text.utopia_park": {
+    "details": "사막 한가운데의 오아시스에 놀이공원을 건설해보세요.",
+    "name": "Utopia Park",
+    "park_name": "유토피아 공원",
+    "reference-details": "An oasis in the middle of the desert provides an unusual opportunity to build an amusement park",
+    "reference-name": "Utopia Park",
+    "reference-park_name": "Utopia"
+  },
+  "rct1aa.scenario_text.whispering_cliffs": {
+    "details": "해변의 절벽을 인기 있는 놀이공원으로 발전시키세요.",
+    "name": "Whispering Cliffs",
+    "park_name": "속삭이는 절벽",
+    "reference-details": "Develop the seaside cliffs into a thriving amusement park",
+    "reference-name": "Whispering Cliffs",
+    "reference-park_name": "Whispering Cliffs"
+  },
   "rct1aa.scenery_wall.glass_wall": {
     "name": "유리 벽",
     "reference-name": "Glass Wall"
@@ -650,6 +1090,14 @@
   "rct1beta.terrain_surface.wildflowers": {
     "name": "들꽃",
     "reference-name": "Wildflowers"
+  },
+  "rct1dlc.scenario_text.fort_anachronism": {
+    "details": "",
+    "name": "Fort Anachronism",
+    "park_name": "역사적인 성채",
+    "reference-details": "",
+    "reference-name": "Fort Anachronism",
+    "reference-park_name": "Fort Anachronism"
   },
   "rct1ll.footpath_railings.bamboo": {
     "name": "대나무 울타리 (노란색)",
@@ -739,6 +1187,270 @@
     "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling wooden carriages with fabric roofs",
     "reference-name": "American Style Steam Trains"
   },
+  "rct1ll.scenario_text.alton_towers": {
+    "details": "",
+    "name": "Alton Towers",
+    "park_name": "알턴 타워스",
+    "reference-details": "",
+    "reference-name": "Alton Towers",
+    "reference-park_name": "Alton Towers"
+  },
+  "rct1ll.scenario_text.arid_heights": {
+    "details": "아무런 재정적 제한 없는 상황에서, 손님들을 언제나 행복하게 만들 수 있는 공원을 사막에 건설해보세요.",
+    "name": "Arid Heights",
+    "park_name": "건조한 언덕",
+    "reference-details": "Free of any financial limits, your challenge is to develop this desert park while keeping the guests happy",
+    "reference-name": "Arid Heights",
+    "reference-park_name": "Arid Heights"
+  },
+  "rct1ll.scenario_text.blackpool_pleasure_beach": {
+    "details": "",
+    "name": "Blackpool Pleasure Beach",
+    "park_name": "블랙풀 플레저 비치",
+    "reference-details": "",
+    "reference-name": "Blackpool Pleasure Beach",
+    "reference-park_name": "Blackpool Pleasure Beach"
+  },
+  "rct1ll.scenario_text.crater_lake": {
+    "details": "이 공원의 부지는 고대 분화구에 만들어진 커다란 호수입니다.",
+    "name": "Crater Lake",
+    "park_name": "분화구 호수",
+    "reference-details": "A large lake in an ancient crater is the setting for this park",
+    "reference-name": "Crater Lake",
+    "reference-park_name": "Crater Lake"
+  },
+  "rct1ll.scenario_text.crazy_craters": {
+    "details": "돈이 필요없는 머나먼 세상에서, 여러분은 사람들을 행복하게 해줄 놀이공원을 건설해야 합니다.",
+    "name": "Crazy Craters",
+    "park_name": "미친 분화구",
+    "reference-details": "In a far-off world where money is not needed, you must build an entertainment centre to keep the people happy",
+    "reference-name": "Crazy Craters",
+    "reference-park_name": "Crazy Craters"
+  },
+  "rct1ll.scenario_text.dragons_cove": {
+    "details": "이번 롤러코스터 건설 도전에서는 바닷가 근처의 만이 무대가 됩니다.",
+    "name": "Dragon’s Cove",
+    "park_name": "용의 만",
+    "reference-details": "This sea-side cove is the setting for this coaster-building challenge",
+    "reference-name": "Dragon’s Cove",
+    "reference-park_name": "Dragon’s Cove"
+  },
+  "rct1ll.scenario_text.dusty_desert": {
+    "details": "이 사막 공원에 있는 다섯 대의 롤러코스터를 완성하십시오.",
+    "name": "Dusty Desert",
+    "park_name": "먼지투성이 사막",
+    "reference-details": "Five coasters require completion in this desert park",
+    "reference-name": "Dusty Desert",
+    "reference-park_name": "Dusty Desert"
+  },
+  "rct1ll.scenario_text.frightmare_hills": {
+    "details": "거대한 롤러코스터가 공원 가운데에 있는 무시무시한 공원",
+    "name": "Frightmare Hills",
+    "park_name": "무시무시한 언덕",
+    "reference-details": "A scary park with a giant centrepiece coaster",
+    "reference-name": "Frightmare Hills",
+    "reference-park_name": "Frightmare Hills"
+  },
+  "rct1ll.scenario_text.good_knight_park": {
+    "details": "한 쌍의 롤러코스터가 있는 성을 더 큰 놀이공원으로 발전시켜야 합니다.",
+    "name": "Good Knight Park",
+    "park_name": "훌륭한 기사 공원",
+    "reference-details": "A castle with a pair of roller coasters needs developing into a larger theme park",
+    "reference-name": "Good Knight Park",
+    "reference-park_name": "Good Knight Park"
+  },
+  "rct1ll.scenario_text.grand_glacier": {
+    "details": "놀이공원으로 만들기 위해 당신에게 빙하가 가득한 계곡이 주어졌습니다.",
+    "name": "Grand Glacier",
+    "park_name": "웅장한 빙하",
+    "reference-details": "A glacier-filled valley is yours to develop into a theme park",
+    "reference-name": "Grand Glacier",
+    "reference-park_name": "Grand Glacier"
+  },
+  "rct1ll.scenario_text.heidepark": {
+    "details": "",
+    "name": "Heide-Park",
+    "park_name": "하이데 파르크",
+    "reference-details": "",
+    "reference-name": "Heide-Park",
+    "reference-park_name": "Heide-Park"
+  },
+  "rct1ll.scenario_text.icarus_park": {
+    "details": "이 외계 공원을 개발하여 최대한의 매출을 올리세요.",
+    "name": "Icarus Park",
+    "park_name": "이카루스 공원",
+    "reference-details": "Develop this alien park to maximise its profit",
+    "reference-name": "Icarus Park",
+    "reference-park_name": "Icarus Park"
+  },
+  "rct1ll.scenario_text.iceberg_islands": {
+    "details": "빙산이 이 야심찬 놀이공원에 차가운 이미지를 더하고 있습니다.",
+    "name": "Iceberg Islands",
+    "park_name": "빙산 섬",
+    "reference-details": "A collection of icebergs make a cold setting for this ambitious theme park",
+    "reference-name": "Iceberg Islands",
+    "reference-park_name": "Iceberg Islands"
+  },
+  "rct1ll.scenario_text.icicle_worlds": {
+    "details": "얼음으로 덮인 땅을 번창하는 놀이공원으로 바꿔보세요.",
+    "name": "Icicle Worlds",
+    "park_name": "고드름 세상",
+    "reference-details": "An icy landscape needs turning into a thriving theme park",
+    "reference-name": "Icicle Worlds",
+    "reference-park_name": "Icicle Worlds"
+  },
+  "rct1ll.scenario_text.megaworld_park": {
+    "details": "이미 놀이기구로 가득한 거대한 공원을 확장해야 합니다.",
+    "name": "Megaworld Park",
+    "park_name": "대세상 공원",
+    "reference-details": "A giant park already packed full of rides needs improving",
+    "reference-name": "Megaworld Park",
+    "reference-park_name": "Megaworld Park"
+  },
+  "rct1ll.scenario_text.micro_park": {
+    "details": "세상에서 가장 작지만 수익이 좋은 공원을 만들어보세요.",
+    "name": "Micro Park",
+    "park_name": "마이크로 공원",
+    "reference-details": "Try to create the world’s smallest profitable park",
+    "reference-name": "Micro Park",
+    "reference-park_name": "Micro Park"
+  },
+  "rct1ll.scenario_text.nevermore_park": {
+    "details": "공원 주변에 참신한 운송수단이 설치된 거대한 공원입니다.",
+    "name": "Nevermore Park",
+    "park_name": "네버모어 공원",
+    "reference-details": "A large park with a novel transportation system around its edge",
+    "reference-name": "Nevermore Park",
+    "reference-park_name": "Nevermore Park"
+  },
+  "rct1ll.scenario_text.octagon_park": {
+    "details": "이 거대한 공원에 여러분은 10개의 거대한 롤러코스터를 디자인하고 만들어야 합니다.",
+    "name": "Octagon Park",
+    "park_name": "팔각형 공원",
+    "reference-details": "In this large park you must design and build ten large coasters",
+    "reference-name": "Octagon Park",
+    "reference-park_name": "Octagon Park"
+  },
+  "rct1ll.scenario_text.pacifica": {
+    "details": "놀이공원으로 개발하기 위해 이 거대한 섬이 여러분에게 주어졌습니다.",
+    "name": "Pacifica",
+    "park_name": "패시피카",
+    "reference-details": "This large island is all yours to develop as an amusement park",
+    "reference-name": "Pacifica",
+    "reference-park_name": "Pacifica"
+  },
+  "rct1ll.scenario_text.paradise_pier_2": {
+    "details": "파라다이스 부두는 바다 위의 산책로를 확장했습니다. 여러분의 임무는 이 새로운 공간을 이용하여 공원을 확장하는 것입니다.",
+    "name": "Paradise Pier 2",
+    "park_name": "파라다이스 부두 2",
+    "reference-details": "Paradise Pier has expanded its network of walkways over the sea, and your task is to expand the park to use the extra space",
+    "reference-name": "Paradise Pier 2",
+    "reference-park_name": "Paradise Pier 2"
+  },
+  "rct1ll.scenario_text.pleasure_island": {
+    "details": "길고 가느다란 섬에서 롤러코스터 건설에 도전해보세요.",
+    "name": "Pleasure Island",
+    "park_name": "즐거운 섬",
+    "reference-details": "A long thin island makes a challenging setting to build a selection of coasters",
+    "reference-name": "Pleasure Island",
+    "reference-park_name": "Pleasure Island"
+  },
+  "rct1ll.scenario_text.razor_rocks": {
+    "details": "여러분의 임무는 날카로운 바위 사이에 롤러코스터로 가득한 거대한 공원을 만드는 것입니다.",
+    "name": "Razor Rocks",
+    "park_name": "날카로운 바위",
+    "reference-details": "Your task is to build a massive coaster-filled park in amongst Razor Rocks",
+    "reference-name": "Razor Rocks",
+    "reference-park_name": "Razor Rocks"
+  },
+  "rct1ll.scenario_text.southern_sands": {
+    "details": "잘 디자인된 롤러코스터가 있는 사막 공원을 확장해보세요.",
+    "name": "Southern Sands",
+    "park_name": "남부 사막",
+    "reference-details": "A desert park with some cleverly designed coasters is yours to expand",
+    "reference-name": "Southern Sands",
+    "reference-park_name": "Southern Sands"
+  },
+  "rct1ll.scenario_text.sunny_swamps": {
+    "details": "이 잘 구성된 놀이공원에는 이미 몇 개의 놀이기구가 존재하지만, 아직은 확장할 수 있는 공간이 충분합니다.",
+    "name": "Sunny Swamps",
+    "park_name": "맑은 늪지",
+    "reference-details": "This well-themed amusement park already has several rides, but has plenty of space for expansion",
+    "reference-name": "Sunny Swamps",
+    "reference-park_name": "Sunny Swamps"
+  },
+  "rct1ll.scenario_text.terror_town": {
+    "details": "놀이공원으로 개발하기 위해 이 도시 지역이 여러분에게 주어졌습니다.",
+    "name": "Terror Town",
+    "park_name": "공포스러운 마을",
+    "reference-details": "This urban area is all yours to develop into an amusement park",
+    "reference-name": "Terror Town",
+    "reference-park_name": "Terror Town"
+  },
+  "rct1ll.scenario_text.thunder_rocks": {
+    "details": "놀이공원의 기초가 될 두 개의 커다란 바위가 사막의 모래 위에 솟아 있습니다.",
+    "name": "Thunder Rocks",
+    "park_name": "천둥 바위들",
+    "reference-details": "Two large hunks of rock stick out of the sand, upon which the beginnings of a theme park are constructed",
+    "reference-name": "Thunder Rocks",
+    "reference-park_name": "Thunder Rocks"
+  },
+  "rct1ll.scenario_text.tiny_towers": {
+    "details": "이 조그마한 공원에 있는 다섯 개의 미완성된 롤러코스터를 모두 완성해야 합니다.",
+    "name": "Tiny Towers",
+    "park_name": "조그마한 탑",
+    "reference-details": "In this tiny park you must finish building the five existing coasters",
+    "reference-name": "Tiny Towers",
+    "reference-park_name": "Tiny Towers"
+  },
+  "rct1ll.scenario_text.urban_jungle": {
+    "details": "버려진 거대한 마천루 빌딩은 놀이공원 개발자에게는 독특한 기회일 것입니다.",
+    "name": "Urban Jungle",
+    "park_name": "도시의 정글",
+    "reference-details": "A giant abandoned skyscraper is a unique opportunity for a theme park developer",
+    "reference-name": "Urban Jungle",
+    "reference-park_name": "Urban Jungle"
+  },
+  "rct1ll.scenario_text.venus_ponds": {
+    "details": "멀리 떨어진 행성에 있는 이 지역을 놀이공원으로 바꿔야 합니다.",
+    "name": "Venus Ponds",
+    "park_name": "비너스의 연못",
+    "reference-details": "On a far-away planet this area of land needs turning into a theme park",
+    "reference-name": "Venus Ponds",
+    "reference-park_name": "Venus Ponds"
+  },
+  "rct1ll.scenario_text.vertigo_views": {
+    "details": "이 거대한 공원에는 이미 훌륭한 하이퍼코스터가 있습니다. 여러분의 임무는 그 매출을 아주 극대화하는 것입니다.",
+    "name": "Vertigo Views",
+    "park_name": "어지러운 풍경",
+    "reference-details": "This large park already has an excellent hyper-coaster, but your task is to massively increase its profit",
+    "reference-name": "Vertigo Views",
+    "reference-park_name": "Vertigo Views"
+  },
+  "rct1ll.scenario_text.volcania": {
+    "details": "이번 롤러코스터 건설 도전에서는 휴화산이 무대가 됩니다.",
+    "name": "Volcania",
+    "park_name": "볼케이니아",
+    "reference-details": "A dormant volcano is the setting of this coaster-building challenge",
+    "reference-name": "Volcania",
+    "reference-park_name": "Volcania"
+  },
+  "rct1ll.scenario_text.wacky_warren": {
+    "details": "대부분의 보도와 롤러코스터가 지하에 있는 공원입니다.",
+    "name": "Wacky Warren",
+    "park_name": "괴짜 미로",
+    "reference-details": "A park which has much of its footpaths and coasters underground",
+    "reference-name": "Wacky Warren",
+    "reference-park_name": "Wacky Warren"
+  },
+  "rct1ll.scenario_text.woodworm_park": {
+    "details": "이 역사적인 공원에는 오직 오래된 스타일의 놀이기구만을 건설할 수 있습니다.",
+    "name": "Woodworm Park",
+    "park_name": "나무좀벌레 공원",
+    "reference-details": "This historical park is only allowed to build older-styled rides",
+    "reference-name": "Woodworm Park",
+    "reference-park_name": "Woodworm Park"
+  },
   "rct1ll.scenery_wall.medieval_wooden_fence": {
     "name": "나무 울타리",
     "reference-name": "Wooden Fence"
@@ -783,7 +1495,7 @@
     "name": "나무",
     "reference-name": "Wood"
   },
-  "rct2.audio.base": {
+  "rct2.audio.base.rct2": {
     "name": "게임의 기본 효과음입니다.",
     "reference-name": "Base audio for the game."
   },
@@ -1118,6 +1830,10 @@
   "rct2.park_entrance.pkesfh": {
     "name": "공원 입구 건물",
     "reference-name": "Park Entrance Building"
+  },
+  "rct2.peep_names.original": {
+    "name": "Original peep names",
+    "reference-name": "Original peep names"
   },
   "rct2.ride.4x4": {
     "capacity": "트럭당 2명의 승객",
@@ -2276,6 +2992,222 @@
     "reference-capacity": "2 passengers per car",
     "reference-description": "Roller coaster trains with small log-shaped cars",
     "reference-name": "Log Trains"
+  },
+  "rct2.scenario_text.alpine_adventures": {
+    "details": "작은 산악 스키 리조트를 눈 테마 놀이공원으로 바꿔보세요.",
+    "name": "알프스의 모험",
+    "park_name": "알프스의 모험",
+    "reference-details": "Convert a small mountain ski resort into a snow-themed amusement park",
+    "reference-name": "Alpine Adventures",
+    "reference-park_name": "Alpine Adventures"
+  },
+  "rct2.scenario_text.amity_airfield": {
+    "details": "이 버려진 비행장에 날아다니는 것을 주제로 한 놀이공원을 만들어보세요.",
+    "name": "우호 비행장",
+    "park_name": "우호 비행장",
+    "reference-details": "Build a flying-themed amusement park in this abandoned airport",
+    "reference-name": "Amity Airfield",
+    "reference-park_name": "Amity Airfield"
+  },
+  "rct2.scenario_text.botany_breakers": {
+    "details": "당신의 목표는 이 파라다이스 섬에 고수익 공원을 만드는 것입니다.",
+    "name": "보타니의 하얀 파도",
+    "park_name": "보타니의 하얀 파도",
+    "reference-details": "Your challenge is to build a high-profit park on this paradise island",
+    "reference-name": "Botany Breakers",
+    "reference-park_name": "Botany Breakers"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_belgium": {
+    "details": "이 유럽의 식스 플래그 공원을 당신만의 스타일으로 만들어 보세요.",
+    "name": "식스 플래그 벨기에 건설",
+    "park_name": "식스 플래그 벨기에",
+    "reference-details": "Build your own version of this European Six Flags park",
+    "reference-name": "Build your own Six Flags Belgium",
+    "reference-park_name": "Six Flags Belgium"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_great_adventure": {
+    "details": "이 식스 플래그 공원을 당신의 디자인 기술로 재탄생시키십시오.",
+    "name": "식스 플래그 그레이트 어드벤처 건설",
+    "park_name": "그레이트 어드벤처",
+    "reference-details": "Use your design skills to recreate this Six Flags park",
+    "reference-name": "Build your own Six Flags Great Adventure",
+    "reference-park_name": "Six Flags Great Adventure"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_holland": {
+    "details": "이 유럽의 식스 플래그 공원을 당신이 원하는 대로 만들어 보세요.",
+    "name": "식스 플래그 네덜란드 건설",
+    "park_name": "식스 플래그 네덜란드",
+    "reference-details": "Build this European Six Flags park the way you want to",
+    "reference-name": "Build your own Six Flags Holland",
+    "reference-park_name": "Six Flags Holland"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_magic_mountain": {
+    "details": "이 대형 식스 플래그 공원을 당신만의 스타일로 만들어 보세요.",
+    "name": "식스 플래그 매직 마운틴 건설",
+    "park_name": "매직 마운틴",
+    "reference-details": "Create your own version of this massive Six Flags park",
+    "reference-name": "Build your own Six Flags Magic Mountain",
+    "reference-park_name": "Six Flags Magic Mountain"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_over_texas": {
+    "details": "이 식스 플래그 공원에 처음부터 놀이기구를 건설하여 시작해보세요.",
+    "name": "식스 플래그 오버 텍사스 건설",
+    "park_name": "오버 텍사스",
+    "reference-details": "Starting from scratch, build the rides in this Six Flags park",
+    "reference-name": "Build your own Six Flags over Texas",
+    "reference-park_name": "Six Flags over Texas"
+  },
+  "rct2.scenario_text.build_your_own_six_flags_park": {
+    "details": "당신만의 디자인대로 식스 플래그 공원을 만드세요. 다른 식스 플래그 공원의 놀이기구를 짓거나 자신만의 놀이기구를 만들어보세요.",
+    "name": "당신만의 식스 플래그 공원 건설",
+    "park_name": "식스 플래그",
+    "reference-details": "Build your own design of Six Flags park - either build rides from other Six Flags parks or design and build your own rides",
+    "reference-name": "Build your own Six Flags Park",
+    "reference-park_name": "Six Flags"
+  },
+  "rct2.scenario_text.bumbly_bazaar": {
+    "details": "이 작은 시장에 고객들을 유치하기 위해 놀이기구와 롤러코스터를 지어 상점과 가게의 수익을 늘리는 것이 목표입니다.",
+    "name": "북적이는 시장",
+    "park_name": "북적이는 시장",
+    "reference-details": "Starting with a small market bazaar, your challenge is to increase the profit from shops and stalls by building rides and roller coasters to attract more customers",
+    "reference-name": "Bumbly Bazaar",
+    "reference-park_name": "Bumbly Bazaar"
+  },
+  "rct2.scenario_text.crazy_castle": {
+    "details": "당신은 큰 성을 물려받았습니다. 이제 이 성을 작은 놀이공원으로 바꾸는 것이 당신이 해야 할 일입니다.",
+    "name": "이상한 성",
+    "park_name": "이상한 성",
+    "reference-details": "You have inherited a large castle. Your job is to convert it into a small theme park.",
+    "reference-name": "Crazy Castle",
+    "reference-park_name": "Crazy Castle"
+  },
+  "rct2.scenario_text.dusty_greens": {
+    "details": "사막의 고속도로 교차로 근처에 있는 먼지투성이 그린을 작은 골프 리조트에서 번화한 놀이공원으로 개발할 기회가 생겼습니다.",
+    "name": "먼지투성이 그린",
+    "park_name": "먼지투성이 그린",
+    "reference-details": "Situated near a highway junction in the desert, Dusty Greens is an opportunity to develop a small golf resort into a thriving theme park",
+    "reference-name": "Dusty Greens",
+    "reference-park_name": "Dusty Greens"
+  },
+  "rct2.scenario_text.electric_fields": {
+    "details": "당신은 작은 농장을 물려받았습니다. 각 지역과 농장의 건물 사이에 작은 놀이공원을 건설하는 것이 당신의 목표입니다.",
+    "name": "일렉트릭 농장",
+    "park_name": "일렉트릭 농장",
+    "reference-details": "You have inherited a small farm, and your challenge is to build a small theme park amongst the fields and farm buildings",
+    "reference-name": "Electric Fields",
+    "reference-park_name": "Electric Fields"
+  },
+  "rct2.scenario_text.extreme_heights": {
+    "details": "재정적 제한이 없는 이 사막 공원을 사람들이 극한의 스릴을 찾는 곳으로 확장하는 것이 당신의 목표입니다.",
+    "name": "극한의 높이",
+    "park_name": "극한의 높이",
+    "reference-details": "Free of financial restrictions, your challenge is to expand this desert park to attract people seeking the ultimate thrills",
+    "reference-name": "Extreme Heights",
+    "reference-park_name": "Extreme Heights"
+  },
+  "rct2.scenario_text.factory_capers": {
+    "details": "버려진 공장 지대에 기계를 주제로 한 놀이공원을 만들어보세요.",
+    "name": "공장 놀이터",
+    "park_name": "공장 놀이터",
+    "reference-details": "An abandoned factory complex is an opportunity to build a mechanical-themed amusement park",
+    "reference-name": "Factory Capers",
+    "reference-park_name": "Factory Capers"
+  },
+  "rct2.scenario_text.fungus_woods": {
+    "details": "당신의 목표는 오직 오래된 나무 놀이기구만을 사용해서 버섯 숲에 번화한 놀이공원을 만드는 것입니다.",
+    "name": "버섯 숲",
+    "park_name": "버섯 숲",
+    "reference-details": "Restricted to only older-style wooden rides, your challenge is to build a thriving theme park in Fungus Woods",
+    "reference-name": "Fungus Woods",
+    "reference-park_name": "Fungus Woods"
+  },
+  "rct2.scenario_text.ghost_town": {
+    "details": "대형 놀이공원 회사에 고용된 당신의 임무는 버려진 광산촌 주위에 대형 롤러코스터 공원을 건설하는 것입니다.",
+    "name": "유령 도시",
+    "park_name": "유령 도시",
+    "reference-details": "Hired by a large amusement park chain, your task is to build them a giant roller coaster park around an abandoned mining town",
+    "reference-name": "Ghost Town",
+    "reference-park_name": "Ghost Town"
+  },
+  "rct2.scenario_text.gravity_gardens": {
+    "details": "당신의 목표는 아름다운 그래비티 정원에 롤러코스터 공원을 만드는 것입니다. 다른 놀이기구는 안 됩니다. 롤러코스터만 만드세요!",
+    "name": "그래비티 정원",
+    "park_name": "그래비티 정원",
+    "reference-details": "Your challenge is to build a roller coaster park in the beautiful Gravity Gardens. No other rides, just roller coasters!",
+    "reference-name": "Gravity Gardens",
+    "reference-park_name": "Gravity Gardens"
+  },
+  "rct2.scenario_text.infernal_views": {
+    "details": "마그마 강이 흐르는 용암으로 위태롭게 둘러싸인 공원입니다.",
+    "name": "지옥 풍경",
+    "park_name": "지옥 풍경",
+    "reference-details": "A park nestled precariously on lava rock with streams of magma",
+    "reference-name": "Infernal Views",
+    "reference-park_name": "Infernal Views"
+  },
+  "rct2.scenario_text.lucky_lake": {
+    "details": "자본에는 제한이 없지만 호수가 있는 곳이기 때문에 이 공원을 확장하고 관리하는 건 많이 힘들 것입니다.",
+    "name": "행운의 호수",
+    "park_name": "행운의 호수",
+    "reference-details": "With unlimited funds but a challenging lake location, this park will be a challenge to expand and manage",
+    "reference-name": "Lucky Lake",
+    "reference-park_name": "Lucky Lake"
+  },
+  "rct2.scenario_text.rainbow_summit": {
+    "details": "이 공원은 산허리에 만들어야 하고, 높은 건물은 지을 수 없습니다. 공원을 확장하여 성공할 자신이 있습니까?",
+    "name": "무지개 정상",
+    "park_name": "무지개 정상",
+    "reference-details": "Built on a hillside, this park is forbidden from building anything tall. Can you expand the park and make it successful?",
+    "reference-name": "Rainbow Summit",
+    "reference-park_name": "Rainbow Summit"
+  },
+  "rct2.scenario_text.six_flags_belgium": {
+    "details": "직접 팔을 걷어붙이고 이 식스 플래그 공원을 개선해보세요.",
+    "name": "식스 플래그 벨기에",
+    "park_name": "식스 플래그 벨기에",
+    "reference-details": "Try your hand at running and improving this Six Flags park",
+    "reference-name": "Six Flags Belgium",
+    "reference-park_name": "Six Flags Belgium"
+  },
+  "rct2.scenario_text.six_flags_great_adventure": {
+    "details": "식스 플래그의 빠진 놀이기구를 건설해보거나, 공원을 개선하기 위해 자신만의 놀이기구를 건설해보세요! 하지만 공원에 더 많은 손님을 모아야 한다는 궁극적인 목표를 잊어서는 안됩니다!",
+    "name": "식스 플래그 그레이트 어드벤처",
+    "park_name": "그레이트 어드벤처",
+    "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
+    "reference-name": "Six Flags Great Adventure",
+    "reference-park_name": "Six Flags Great Adventure"
+  },
+  "rct2.scenario_text.six_flags_holland": {
+    "details": "직접 팔을 걷어붙이고 이 식스 플래그 공원을 개선해보세요.",
+    "name": "식스 플래그 네덜란드",
+    "park_name": "식스 플래그 네덜란드",
+    "reference-details": "Try your hand at running and improving this Six Flags park",
+    "reference-name": "Six Flags Holland",
+    "reference-park_name": "Six Flags Holland"
+  },
+  "rct2.scenario_text.six_flags_magic_mountain": {
+    "details": "식스 플래그의 빠진 놀이기구를 건설해보거나, 공원을 개선하기 위해 자신만의 놀이기구를 건설해보세요! 하지만 대출을 갚고 공원 가치를 높여야 한다는 궁극적인 목표를 잊으면 안됩니다!",
+    "name": "식스 플래그 매직 마운틴",
+    "park_name": "매직 마운틴",
+    "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to repay your loan while keeping the park value up!",
+    "reference-name": "Six Flags Magic Mountain",
+    "reference-park_name": "Six Flags Magic Mountain"
+  },
+  "rct2.scenario_text.six_flags_over_texas": {
+    "details": "식스 플래그의 빠진 놀이기구를 건설해보거나, 공원을 개선하기 위해 자신만의 놀이기구를 건설해보세요! 하지만 공원에 더 많은 손님을 모아야 한다는 궁극적인 목표를 잊어서는 안됩니다!",
+    "name": "식스 플래그 오버 텍사스",
+    "park_name": "오버 텍사스",
+    "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
+    "reference-name": "Six Flags over Texas",
+    "reference-park_name": "Six Flags over Texas"
+  },
+  "rct2.scenario_text.tycoon_park": {
+    "details": "",
+    "name": "Tycoon Park",
+    "park_name": "타이쿤 공원",
+    "reference-details": "",
+    "reference-name": "Tycoon Park",
+    "reference-park_name": "Tycoon Park"
   },
   "rct2.scenery_group.scgabstr": {
     "name": "추상적인 테마",
@@ -4569,6 +5501,14 @@
     "reference-description": "Roller coaster trains with cuddly panda cars",
     "reference-name": "Panda Trains"
   },
+  "rct2dlc.scenario_text.panda_world": {
+    "details": "이 판다 테마의 공원에 놀이기구를 더 지어서 손님들을 더 끌어모으세요.",
+    "name": "판다 월드",
+    "park_name": "판다 월드",
+    "reference-details": "Add more rides and attract more people to this panda-themed park",
+    "reference-name": "Panda World",
+    "reference-park_name": "Panda World"
+  },
   "rct2dlc.scenery_group.scgpanda": {
     "name": "판다 테마",
     "reference-name": "Panda Theming"
@@ -4862,10 +5802,10 @@
     "reference-name": "Hover Bikes"
   },
   "rct2tt.ride.hovercar": {
-    "capacity": "차량당 2명의 승객",
+    "capacity": "차량당 승객 1명",
     "description": "미래의 호버 차량같은 느낌을 주기 위해 자기 부상 기술이 탑재된 놀이기구",
     "name": "호버 카",
-    "reference-capacity": "2 passengers per car",
+    "reference-capacity": "1 passenger per car",
     "reference-description": "Maglev technology has been implemented to create the illusion of futuristic hover cars",
     "reference-name": "Hover Cars"
   },
@@ -5012,10 +5952,10 @@
     "reference-name": "River Styx boats"
   },
   "rct2tt.ride.schoolbs": {
-    "capacity": "차량당 10명의 승객",
+    "capacity": "차량당 6명의 승객",
     "description": "노란 버스 테마의 모형 전차",
     "name": "스쿨 버스 라이드",
-    "reference-capacity": "10 passengers per car",
+    "reference-capacity": "6 passengers per car",
     "reference-description": "Miniature trams themed to look like North American school buses",
     "reference-name": "School Bus Trams"
   },
@@ -5112,6 +6052,118 @@
     "reference-capacity": "8 passengers per car",
     "reference-description": "Large capacity themed monorail trains with streamlined front and rear cars",
     "reference-name": "Airship Themed Monorail Trains"
+  },
+  "rct2tt.scenario_text.alcatraz": {
+    "details": "주류 밀매자와 폭력범으로 득실대던 악명 높은 감옥 섬이 경매에 부쳐졌습니다. 이곳을 최고의 관광지로 바꾸기로 한 당신에게 돈은 신경 쓸 필요가 없네요.",
+    "name": "앨커트래즈",
+    "park_name": "앨커트래즈",
+    "reference-details": "The infamous Prison Island - whose population once swelled with bootleggers and racketeers - is now up for sale. You’ve decided to convert it into a top tourist attraction, and money is no object",
+    "reference-name": "Alcatraz",
+    "reference-park_name": "Alcatraz"
+  },
+  "rct2tt.scenario_text.animatronic_antics": {
+    "details": "이번 임무는 옛 영화 세트장에 설립된 기존 테마파크를 운영하고 발전시키는 것입니다. 흑백 스크린에 신화 속 인물을 옮겨놓은 스톱 모션 애니메이션의 선구자들에게 이 공원을 헌정합시다.",
+    "name": "애니매트로닉 앤틱스",
+    "park_name": "애니매트로닉 앤틱스",
+    "reference-details": "You have been given the task of running and improving an existing theme park, which has been built on an old film set. Build a tribute to the pioneering stop-motion animators who first brought mythical creatures to life on the silver screen.",
+    "reference-name": "Animatronic Antics",
+    "reference-park_name": "Animatronic Antics"
+  },
+  "rct2tt.scenario_text.cliffside_castle": {
+    "details": "이 지역의 전투 재현 단체는 자신들의 취미를 진지하게 생각하고 있습니다. 그들은 당신에게 클리프사이드 성 부지에 암흑시대 테마파크를 건설해달라고 요청해왔습니다.",
+    "name": "클리프사이드 성",
+    "park_name": "클리프사이드 성",
+    "reference-details": "Local members of the battle re-enactment society are rather serious about their hobby. They’ve entrusted you with the job of constructing a Dark Age theme park on the grounds of Cliffside Castle.",
+    "reference-name": "Cliffside Castle",
+    "reference-park_name": "Cliffside Castle"
+  },
+  "rct2tt.scenario_text.coastersaurus": {
+    "details": "당신은 쥐라기 시대 놀이공원을 건설하는 임무를 받았습니다. 색다른 식물과 동물 전시장에 관객이 쉽게 접근할 수 있도록 하려면, 계곡을 가로지르는 놀이기구를 만들어야 할 것입니다.",
+    "name": "코스터사우르스",
+    "park_name": "코스터사우르스",
+    "reference-details": "You’ve been given the task of constructing a Jurassic era theme park. To optimize your visitors’ access to the exotic plant and animal exhibits, you will need to build rides going over and into the valley.",
+    "reference-name": "Coastersaurus",
+    "reference-park_name": "Coastersaurus"
+  },
+  "rct2tt.scenario_text.crater_carnage": {
+    "details": "당신은 오래된 운석공을 소유하고 있습니다. 기업가 정신을 발휘한 당신은 운석 테마 파크를 건설해서 쓸모없어 보이는 이 땅을 엄청난 행운의 땅으로 바꾸기로 결심했습니다.",
+    "name": "크레이터 대학살",
+    "park_name": "크레이터 대학살",
+    "reference-details": "You own a dusty old meteor crater. In the true entrepreneurial spirit, you’ve decided to construct an asteroid theme park and convert your seemingly worthless land into a sizeable fortune.",
+    "reference-name": "Crater Carnage",
+    "reference-park_name": "Crater Carnage"
+  },
+  "rct2tt.scenario_text.extraterrestrial_extravaganza": {
+    "details": "먼 행성에서 생명체가 발견되었습니다. 외계인을 주제로 한 놀이공원을 만들어서 전에 없던 관심을 받아 돈을 벌어보세요.",
+    "name": "외계인의 축제",
+    "park_name": "외계인의 축제",
+    "reference-details": "Life has been discovered on a distant planet Build an alien theme park to cash in on the unprecedented wave of interest.",
+    "reference-name": "Extraterrestrial Extravaganza",
+    "reference-park_name": "Extraterrestrial Extravaganza"
+  },
+  "rct2tt.scenario_text.gemini_city": {
+    "details": "당신의 미래에 대한 독창적이고 이상적인 시각을 보여줄 때입니다. 첨단의 매력이 느껴지는 미래의 공원 디자인을 제안해봅시다.",
+    "name": "제미니 시티",
+    "park_name": "제미니 시티",
+    "reference-details": "Show off your inventive, utopian vision of the future - come up with a futuristic park design that incorporates state-of-the-art attractions.",
+    "reference-name": "Gemini City",
+    "reference-park_name": "Gemini City"
+  },
+  "rct2tt.scenario_text.metropolis": {
+    "details": "당신은 도시 저층부 근처의 빈 공간을 갖게 되었습니다. 최대한 이익을 많이 얻기 위해, 20년대에 유행했던 아르데코식 건축물을 본딴 마천루 테마파크를 지어보세요.",
+    "name": "메트로폴리스",
+    "park_name": "메트로폴리스",
+    "reference-details": "You own an empty lot near the low-rise part of town. To squeeze the most out of your urban property, build a skyscraper theme park inspired by the soaring art deco architecture of the twenties.",
+    "reference-name": "Metropolis",
+    "reference-park_name": "Metropolis"
+  },
+  "rct2tt.scenario_text.mythological_madness": {
+    "details": "특별한 고고학적 가치를 가진 섬을 소유하게 되었습니다. 이 지역의 풍부한 신화적 유산을 기반으로 한 테마파크를 건설해서 유산 보존 기금을 마련하기로 결정했습니다.",
+    "name": "신화의 광기",
+    "park_name": "신화의 광기",
+    "reference-details": "You own an island of particular archaeological value. You’ve decided to fund its preservation by constructing a theme park based on the area’s rich Mythological heritage.",
+    "reference-name": "Mythological Madness",
+    "reference-park_name": "Mythological Madness"
+  },
+  "rct2tt.scenario_text.rock_n_roll_revival": {
+    "details": "이 오래된 놀이공원은 더 나은 미래를 기대하고 있습니다. 소유자를 도와 이 공원을 복고풍의 로큰롤 공원으로 바꾸어 성공적인 장소로 변모시켜보세요.",
+    "name": "로큰롤 부흥",
+    "park_name": "로큰롤 부흥",
+    "reference-details": "This aging theme park has seen better days. Help the owner give it a retro rock ‘n’ roll makeover and turn the place into a successful venue.",
+    "reference-name": "Rock ‘n’ Roll Revival",
+    "reference-park_name": "Rock ‘n’ Roll Revival"
+  },
+  "rct2tt.scenario_text.rocky_rambles": {
+    "details": "고속도로 개발자들을 막고 고대 열석을 보호하기 위해, 석기 시대 테마파크를 건설하여 수익을 내야 합니다. 하지만 사람이 살기 조금 힘든 곳인 만큼 손님을 모으기가 어려울 것입니다.",
+    "name": "돌무더기 산책",
+    "park_name": "돌무더기 산책",
+    "reference-details": "To thwart the highway developers and preserve the mysterious ancient stone circles, you will need to construct a Stone Age theme park and turn a profit. However, attracting visitors may pose a challenge, as the terrain is a tad inhospitable.",
+    "reference-name": "Rocky Rambles",
+    "reference-park_name": "Rocky Rambles"
+  },
+  "rct2tt.scenario_text.schneider_shores": {
+    "details": "할아버지의 슈나이더 컵 우승 75주년이 얼마 남지 않았습니다. 당신은 할아버지의 업적을 기리기 위해 유명한 수상비행기 경주를 딴 놀이공원을 짓기로 했습니다.",
+    "name": "슈나이더 해안",
+    "park_name": "슈나이더 해안",
+    "reference-details": "The 75th anniversary of your grandfather’s Schneider Cup victory is coming up in a few years. You’re going to honour his achievement by building a theme park based on the famous seaplane race.",
+    "reference-name": "Schneider Shores",
+    "reference-park_name": "Schneider Shores"
+  },
+  "rct2tt.scenario_text.sherwood_forest": {
+    "details": "부자들의 재산을 빼앗아 필요한 사람들에게 나누어주기 위해서 당신과 수하들은 셔우드 숲에 놀이공원을 만들기로 결정했습니다.",
+    "name": "셔우드 숲",
+    "park_name": "셔우드 숲",
+    "reference-details": "To liberate wealth from the rich and distribute it to the needy, you and your Merry Men have decided to build a theme park in Sherwood Forest.",
+    "reference-name": "Sherwood Forest",
+    "reference-park_name": "Sherwood Forest"
+  },
+  "rct2tt.scenario_text.woodstock": {
+    "details": "매년 열리는 대형 음악 축제가 당신의 땅에서 열립니다. 최신 유행하는 놀이공원을 지어, 자유로운 영혼을 가진 관객들이 즐거워할 수 있게 만드세요.",
+    "name": "우드스톡",
+    "park_name": "우드스톡",
+    "reference-details": "A large annual music festival takes place on your land. Build a hip theme park to keep the free-spirited audience entertained.",
+    "reference-name": "Woodstock",
+    "reference-park_name": "Woodstock"
   },
   "rct2tt.scenery_group.scg1920s": {
     "name": "광란의 20년대 테마",
@@ -6023,27 +7075,27 @@
   },
   "rct2tt.scenery_small.futsky36": {
     "name": "흑요석 마천루 문 조각",
-    "reference-name": "Obsidian SkyScraper Door Piece"
+    "reference-name": "Obsidian Skyscraper Door Piece"
   },
   "rct2tt.scenery_small.futsky37": {
     "name": "흑요석 마천루 앝은 경사 구석",
-    "reference-name": "Obsidian SkyScraper Shallow Slope Corner"
+    "reference-name": "Obsidian Skyscraper Shallow Slope Corner"
   },
   "rct2tt.scenery_small.futsky38": {
     "name": "흑요석 마천루 얕은 경사 벽",
-    "reference-name": "Obsidian SkyScraper Shallow Sloped Wall"
+    "reference-name": "Obsidian Skyscraper Shallow Sloped Wall"
   },
   "rct2tt.scenery_small.futsky39": {
     "name": "흑요석 마천루 얕은 경사 구석",
-    "reference-name": "Obsidian SkyScraper Shallow Slope Corner"
+    "reference-name": "Obsidian Skyscraper Shallow Slope Corner"
   },
   "rct2tt.scenery_small.futsky40": {
     "name": "흑요석 마천루 급한 경사 벽",
-    "reference-name": "Obsidian SkyScraper Steep Sloped Wall"
+    "reference-name": "Obsidian Skyscraper Steep Sloped Wall"
   },
   "rct2tt.scenery_small.futsky41": {
     "name": "흑요석 마천루 급한 경사 벽",
-    "reference-name": "Obsidian SkyScraper Steep Sloped Wall"
+    "reference-name": "Obsidian Skyscraper Steep Sloped Wall"
   },
   "rct2tt.scenery_small.futsky42": {
     "name": "사암 마천루 곡선형 경사 상단",
@@ -6051,19 +7103,19 @@
   },
   "rct2tt.scenery_small.futsky44": {
     "name": "흑요석 마천루 급한 경사 벽",
-    "reference-name": "Obsidian SkyScraper Steep Sloped Wall"
+    "reference-name": "Obsidian Skyscraper Steep Sloped Wall"
   },
   "rct2tt.scenery_small.futsky46": {
     "name": "흑요석 마천루 급한 경사 구석",
-    "reference-name": "Obsidian SkyScraper Steep Slope Corner"
+    "reference-name": "Obsidian Skyscraper Steep Slope Corner"
   },
   "rct2tt.scenery_small.futsky47": {
     "name": "흑요석 마천루 벽",
-    "reference-name": "Obsidian SkyScraper Wall"
+    "reference-name": "Obsidian Skyscraper Wall"
   },
   "rct2tt.scenery_small.futsky48": {
     "name": "창문이 있는 흑요석 마천루 벽",
-    "reference-name": "Obsidian SkyScraper Wall with Window"
+    "reference-name": "Obsidian Skyscraper Wall with Window"
   },
   "rct2tt.scenery_small.futsky52": {
     "name": "반전된 사암 마천루 바닥 구석",
@@ -6075,7 +7127,7 @@
   },
   "rct2tt.scenery_small.futsky54": {
     "name": "흑요석 마천루 지붕 조각",
-    "reference-name": "Obsidian SkyScraper Roof Piece"
+    "reference-name": "Obsidian Skyscraper Roof Piece"
   },
   "rct2tt.scenery_small.fwrprdc1": {
     "name": "근사한 춤꾼",
@@ -7800,6 +8852,142 @@
     "reference-capacity": "2 passengers per car",
     "reference-description": "Roller coaster trains with small grub-shaped cars",
     "reference-name": "Witchetty Grub Trains"
+  },
+  "rct2ww.scenario_text.ayers_adventure": {
+    "details": "문화 인식 프로그램의 일환으로, 오스트레일리아 원주민들을 도와서 공원을 개발하려 합니다. 원주민들의 독특한 문화유산을 알리기 위해 많은 관광객을 모아야 합니다.",
+    "name": "에어즈 어드벤처",
+    "park_name": "에어즈 어드벤처",
+    "reference-details": "You are helping Aboriginal people to build a park as part of a cultural awareness program. You need to get a large number of guests to educate them in the unique heritage of the Aboriginal people.",
+    "reference-name": "Ayers Adventure",
+    "reference-park_name": "Ayers Adventure"
+  },
+  "rct2ww.scenario_text.beach_barbecue_blast": {
+    "details": "근처 지역 사업가의 해안 공원이 파산해버렸습니다. 이미 작은 공원을 운영하는 당신은 건설사로부터 그 공원을 구입하였습니다. 두 공원을 합쳐 크게 사업을 확장해보세요.",
+    "name": "해변의 바베큐 파티",
+    "park_name": "해변의 바베큐 파티",
+    "reference-details": "A local entrepreneur’s sealife park has gone bust. You already operate a small park and buy the other park from the construction company. Develop a big combined park.",
+    "reference-name": "Beach Barbecue Blast",
+    "reference-park_name": "Beach Barbecue Blast"
+  },
+  "rct2ww.scenario_text.canyon_calamities": {
+    "details": "이 아름답지만 제한적인 공간에 공원을 만들어야 합니다. 미국 원주민에게서 반대편 땅을 살 수 있습니다. 줄어들고 있는 마을 인구를 유지하기 위해서라도 목표를 달성해야 합니다.",
+    "name": "불행의 계곡",
+    "park_name": "불행의 계곡",
+    "reference-details": "You have to build a park on limited land either side of this natural treasure - you do have the opportunity to buy neighbouring land from the Native American Indians. You need to complete the objective to sustain the local town’s population.",
+    "reference-name": "Canyon Calamities",
+    "reference-park_name": "Canyon Calamities"
+  },
+  "rct2ww.scenario_text.european_extravaganza": {
+    "details": "유럽 문화 축제의 경영권을 확보한 당신은 이제 유럽 연합의 보조금을 갚기 위해 현재의 유럽 의회 임기가 끝날 때까지 손님을 늘려야합니다.",
+    "name": "유럽의 축제",
+    "park_name": "유럽의 축제",
+    "reference-details": "You have been brought in to take over a European Cultural Visitor Attraction and must increase the number of guests in order to pay back the EU subsidy by the end of the current European parliament term.",
+    "reference-name": "European Extravaganza",
+    "reference-park_name": "European Extravaganza"
+  },
+  "rct2ww.scenario_text.from_the_ashes": {
+    "details": "방치된 낡은 공원이 있습니다. 이 공원이 과거에 누렸던 영광을 재현하기 위해 유럽 연합의 허가를 받았습니다! 허가를 받은 만큼 공원을 혁신해서 보답하세요.",
+    "name": "잿더미를 딛고",
+    "park_name": "잿더미를 딛고",
+    "reference-details": "An old park has fallen into disrepair. You gain a European Union grant to return this deprived area to its former glory! You need to renovate the park and repay the grant.",
+    "reference-name": "From The Ashes",
+    "reference-park_name": "From The Ashes"
+  },
+  "rct2ww.scenario_text.great_wall_of_china": {
+    "details": "관광 당국이 만리장성 주변의 땅에 놀이공원을 지어서 관광객 수를 늘리기로 결정했습니다. 돈이 문제가 아니군요!",
+    "name": "만리장성",
+    "park_name": "만리장성",
+    "reference-details": "The authorities have decided to enhance tourism around the Great Wall by building a theme park on the adjacent land. Money is no object!",
+    "reference-name": "Great Wall of China",
+    "reference-park_name": "Great Wall of China"
+  },
+  "rct2ww.scenario_text.icy_adventures": {
+    "details": "환경부에서 눈꼴사납고 낡은 정유 시설을 최고의 관광 명소로 만들어달라고 합니다. 땅값은 싸지만 대출 이자는 높습니다. 오래된 건물은 고철로 팔아 버릴 수 있습니다.",
+    "name": "얼음에 뒤덮인 모험",
+    "park_name": "얼음에 뒤덮인 모험",
+    "reference-details": "The environment agency has turned to you to transform an old oil refinery ecological eyesore into a top tourist attraction. Land is cheap but loan interest is high. You can sell the old buildings for salvage.",
+    "reference-name": "Icy Adventures",
+    "reference-park_name": "Icy Adventures"
+  },
+  "rct2ww.scenario_text.lost_city_founder": {
+    "details": "이 지역의 관광산업을 보다 활기차게 만들기 위해서는 주변 환경과 잘 어울리는 공원을 지어야 합니다.",
+    "name": "잊혀진 도시의 발견자",
+    "park_name": "잊혀진 도시의 발견자",
+    "reference-details": "To further boost local tourism you must construct a park that is in tune with its surroundings.",
+    "reference-name": "Lost City Founder",
+    "reference-park_name": "Lost City Founder"
+  },
+  "rct2ww.scenario_text.mines_of_africa": {
+    "details": "다이아몬드 폐광을 물려받은 당신은 값비싼 다이아몬드를 발견했고 그 판매 수익으로 세계 일류의 테마파크를 짓기로 결심했습니다.",
+    "name": "아프리카의 광산",
+    "park_name": "아프리카의 광산",
+    "reference-details": "You inherited a disused diamond mine, and find a valuable diamond.  You decide to invest that money to build a world-famous theme park.",
+    "reference-name": "Mines of Africa",
+    "reference-park_name": "Mines of Africa"
+  },
+  "rct2ww.scenario_text.mirage_madness": {
+    "details": "사막에서 놀이공원을 짓기에 아주 적당한 오아시스를 발견했습니다. 오아시스로 가는 교통편은 이미 존재합니다.",
+    "name": "신기루의 광기",
+    "park_name": "신기루의 광기",
+    "reference-details": "A desert Oasis has been discovered and would provide a beautiful location for a park. Transport to the oasis has been provided.",
+    "reference-name": "Mirage Madness",
+    "reference-park_name": "Mirage Madness"
+  },
+  "rct2ww.scenario_text.okinawa_coast": {
+    "details": "기존 공원은 이미 공간이 모자랍니다. 대출을 받아서 바다로 확장해나갈 수밖에 없습니다. 지진 우려와 약한 기반을 이유로 건설 높이가 제한됩니다.",
+    "name": "오키나와 해변",
+    "park_name": "오키나와 해변",
+    "reference-details": "An existing park has run out of space. Your only option is to build out into the sea, and so you have taken out a loan. Height restrictions on your building are enforced due to foundations and earthquake risk.",
+    "reference-name": "Okinawa Coast",
+    "reference-park_name": "Okinawa Coast"
+  },
+  "rct2ww.scenario_text.over_the_edge": {
+    "details": "공원을 운영하기 충분하고 값싼 전기를 생산하는 수력 발전 댐이 지어졌습니다. 댐을 건설하느라 진 빚을 갚기 위해 높은 가치의 놀이공원을 지어야 합니다.",
+    "name": "폭포 너머",
+    "park_name": "폭포 너머",
+    "reference-details": "A dam has been built offering abundant, cheap hydroelectric power with which to run a park. You need to reach a high park value to help repay the loan for the dam.",
+    "reference-name": "Over The Edge",
+    "reference-park_name": "Over The Edge"
+  },
+  "rct2ww.scenario_text.park_maharaja": {
+    "details": "인도의 왕에게서 국민들에게 즐길 거리를 만들어달라는 임무를 받았습니다. 마하라자 궁전을 연상시키는 공원을 만들어보세요.",
+    "name": "마하라자 공원",
+    "park_name": "마하라자 공원",
+    "reference-details": "You have been commissioned by the Maharaja to bring entertainment to the large local population. Build a park inspired by the Maharaja’s palace.",
+    "reference-name": "Park Maharaja",
+    "reference-park_name": "Park Maharaja"
+  },
+  "rct2ww.scenario_text.rainforest_romp": {
+    "details": "소중한 열대우림 속의 제한된 공간만을 받았습니다. 이곳의 벌목 산업을 대신할 수 있는 방법을 제공하기 위해 기존의 빈 공간을 최대한 많이 활용해야 합니다.",
+    "name": "열대우림 고원",
+    "park_name": "열대우림 고원",
+    "reference-details": "Space is limited in the precious rainforest - you must cram as much as possible into the existing clearing, in order to provide a viable alternative to the local timber industry.",
+    "reference-name": "Rainforest Romp",
+    "reference-park_name": "Rainforest Romp"
+  },
+  "rct2ww.scenario_text.rollercoaster_heaven": {
+    "details": "당신은 긴 휴식기를 가지는 동안 이 도시 공원을 롤러코스터 천국으로 바꾸고자 하는 성공한 사업 거물입니다. 돈은 문제가 되지 않는군요!",
+    "name": "롤러코스터 천국",
+    "park_name": "롤러코스터 천국",
+    "reference-details": "You are a successful business tycoon on long sabbatical who desires to use this time transforming the city park into Rollercoaster Heaven. Money is no object!",
+    "reference-name": "Rollercoaster Heaven",
+    "reference-park_name": "Rollercoaster Heaven"
+  },
+  "rct2ww.scenario_text.sugarloaf_shores": {
+    "details": "리오 근처의 작은 공원을 운영하고 있는데 은행이 대출금을 조기 회수하려 합니다. 때 이른 빚 독촉을 갚기 위해서 빨리 돈을 벌어야 합니다.",
+    "name": "슈거로프 해안",
+    "park_name": "슈거로프 해안",
+    "reference-details": "You run a small park near Rio but the bank has called in your loan. You need to quickly increase your earning capacity to repay this unexpected debt.",
+    "reference-name": "Sugarloaf Shores",
+    "reference-park_name": "Sugarloaf Shores"
+  },
+  "rct2ww.scenario_text.wacky_waikiki": {
+    "details": "하와이 주민들이 이제 파도타기가 지겨워져서 좀 더 자극적인 뭔가를 원하고 있습니다. 주민들도 만족시키면서 이 지역의 관광객들이 찾아오고 싶어 하는 공원을 만드세요.",
+    "name": "왁자지껄 와이키키",
+    "park_name": "왁자지껄 와이키키",
+    "reference-details": "The people of Hawaii are bored of surfing and are looking for something more intense. You need to build a park with this in mind to keep the area’s tourist attraction rating high.",
+    "reference-name": "Wacky Waikiki",
+    "reference-park_name": "Wacky Waikiki"
   },
   "rct2ww.scenery_group.scgafric": {
     "name": "아프리카 테마",
@@ -10420,5 +11608,149 @@
   "toontowner.scenery_small.xxbbbr01_fix": {
     "name": "기본 블록",
     "reference-name": "Base Block"
+  },
+  "uces.scenario_text.beneath_the_christmas_tree": {
+    "details": "엄마가 우리 나무 아래를 이렇게 만들었어요. 이제 공원을 만들고 싶으시대요. 도와주실 수 있나요?",
+    "name": "Beneath the Christmas Tree",
+    "park_name": "겨울 원더 랜드",
+    "reference-details": "Mum built this scene under our tree. Now she wants a park made in it! Can you help?",
+    "reference-name": "Beneath the Christmas Tree",
+    "reference-park_name": "Winter Wonderland"
+  },
+  "uces.scenario_text.bigrock_blast": {
+    "details": "빅록 채광 주식회사에서 폭발 사건이 일어난 이후, 빅록의 사람들은 마을을 유지하기 위해 놀이공원을 지어야만 한다고 합니다.",
+    "name": "Bigrock Blast",
+    "park_name": "빅록 폭발",
+    "reference-details": "After an explosion at the Bigrock Mining Co., the people of Bigrock have to build an amusement park to keep their town alive.",
+    "reference-name": "Bigrock Blast",
+    "reference-park_name": "Bigrock Blast"
+  },
+  "uces.scenario_text.camp_mockingbird": {
+    "details": "이번 여름 캠프가 일주일에 단돈 $500! 은행 금고를 열고 공원을 만들면서 놀아보세요.",
+    "name": "Camp Mockingbird",
+    "park_name": "앵무새 캠프",
+    "reference-details": "Only $500/week to this summer camp! Break open your bank and then have fun and build a park.",
+    "reference-name": "Camp Mockingbird",
+    "reference-park_name": "Camp Mockingbird"
+  },
+  "uces.scenario_text.cemetery_ridge": {
+    "details": "핼러원, UCES의 핼러윈, 호박이 비명을 지르는 죽음의 밤! 죽은 자들을 편히 쉬게 하는 동시에 어려운 처지에 놓여있는 이 묘지를 구하는 것은 당신의 몫입니다! 유령을 무덤에 가둬놓고 손님들에게 오들오들함을 선사할 수 있나요?",
+    "name": "Cemetery Ridge",
+    "park_name": "묘지 언덕",
+    "reference-details": "This is Halloween, UCES Halloween, pumpkins scream in the dead of night! This graveyard is in trouble and it’s up to you to save it, while letting the dead rest in peace! Can you keep the ghosts in their graves and bring chills to your customers?",
+    "reference-name": "Cemetery Ridge",
+    "reference-park_name": "Cemetery Ridge"
+  },
+  "uces.scenario_text.choochoo_town": {
+    "details": "엄마! 아빠! 나 칙칙폭폭 마을에 가고 싶어요!",
+    "name": "Choo-Choo Town",
+    "park_name": "칙칙폭폭 마을",
+    "reference-details": "Mommy! Daddy! I want to go to Choo-Choo Town!",
+    "reference-name": "Choo-Choo Town",
+    "reference-park_name": "Choo-Choo Town"
+  },
+  "uces.scenario_text.dragon_islands": {
+    "details": "용의 섬이라고? 거기 가고 싶은지 확신이 안 서는 걸…",
+    "name": "Dragon Islands",
+    "park_name": "용의 섬",
+    "reference-details": "Dragon Islands? I’m not sure I want to go there…",
+    "reference-name": "Dragon Islands",
+    "reference-park_name": "Dragon Islands"
+  },
+  "uces.scenario_text.kiddie_karnival_ii": {
+    "details": "어린이 여러분! 같이 신나게 놀아봐요!",
+    "name": "Kiddie Karnival II",
+    "park_name": "어린이 카니발",
+    "reference-details": "Hey kids! Let’s have fun!",
+    "reference-name": "Kiddie Karnival II",
+    "reference-park_name": "Kiddie Karnival"
+  },
+  "uces.scenario_text.luna_park_cleveland": {
+    "details": "공원 개장일이었떤 1905년 5월 18일처럼.",
+    "name": "Luna Park, Cleveland",
+    "park_name": "루나 파크",
+    "reference-details": "As it was on its opening day - 18 May 1905.",
+    "reference-name": "Luna Park, Cleveland",
+    "reference-park_name": "Luna Park"
+  },
+  "uces.scenario_text.mount_vesuvius": {
+    "details": "폼페이와 헤르쿨라네움은 서기 79년에 베수비오 화산 폭발로 묻혀버렸습니다. 이 발굴지를 공원으로 만들어보세요!",
+    "name": "Mount Vesuvius",
+    "park_name": "베수비오 산",
+    "reference-details": "Pompeii and Herculaneum were buried by Mt. Vesuvius in 79 A.D. Visit the excavations and build a park!",
+    "reference-name": "Mount Vesuvius",
+    "reference-park_name": "Mount Vesuvius"
+  },
+  "uces.scenario_text.niagara_falls_gorge": {
+    "details": "1850년 나이아가라 폭포의 아메리카 폭포, 브라이들 폭포, 캐나다 폭포",
+    "name": "Niagara Falls & Gorge",
+    "park_name": "나이아가라 폭포",
+    "reference-details": "American Falls, Bridal Falls & Canadian Horseshoe Falls on the Niagara Frontier, 1850.",
+    "reference-name": "Niagara Falls & Gorge",
+    "reference-park_name": "Niagara Falls"
+  },
+  "uces.scenario_text.rocky_mountain_miners": {
+    "details": "산사태로 철도가 손상되었습니다. 직원들이 탐사에 나섰습니다. 롤러코스터에 금이 있을까요?",
+    "name": "Rocky Mountain Miners",
+    "park_name": "록키 산맥 광부",
+    "reference-details": "A rockslide damaged your railway. Your workers have gone prospecting. Is there gold in roller coasters?",
+    "reference-name": "Rocky Mountain Miners",
+    "reference-park_name": "Rocky Mountain Miners"
+  },
+  "uces.scenario_text.sand_dune": {
+    "details": "이 작은 공원의 소유자로써, 아름다운 모래 언덕을 방문하여 더 많은 목표를 유치하고 확장하기 위해 해변을 따라 큰 땅을 샀지만 조심하세요! 생태학적으로 소중한 이 모래 언덕을 건드릴 수는 없습니다.",
+    "name": "Sand Dune",
+    "park_name": "모래 언덕",
+    "reference-details": "As the owner of a small park, you bought a large piece of land along the beach to expand and attract more guests to visit the beautiful sand dunes, but beware: you cannot disturb those ecologically fragile sand dunes.",
+    "reference-name": "Sand Dune",
+    "reference-park_name": "Sand Dune"
+  },
+  "uces.scenario_text.the_lighthouse_of_alexandria": {
+    "details": "알렉산더 대왕은 도시를 건설했습니다. 그리스인, 로마인, 이집트인들이 흔적을 남겼죠. 하지만 가장 큰 영예는 고대의 불가사의인 등대였습니다. 이 곳을 공원으로 만들어보세요!",
+    "name": "The Lighthouse of Alexandria",
+    "park_name": "알렉산드리아의 등대",
+    "reference-details": "Alexander built the city; Greeks, Romans, Egyptians left their mark. But the biggest honor was a Wonder of the Ancient World - the Lighthouse. Visit and make a park!",
+    "reference-name": "The Lighthouse of Alexandria",
+    "reference-park_name": "The Lighthouse of Alexandria"
+  },
+  "uces.scenario_text.the_sandbox": {
+    "details": "모두가 원하는 모래 상자! 이제 양동이와 삽을 들고 원하는 공원을 만드세요!",
+    "name": "The Sandbox",
+    "park_name": "모래 상자",
+    "reference-details": "What everyone wants - a sandbox! So grab your l’il pail and shovel and build a park!",
+    "reference-name": "The Sandbox",
+    "reference-park_name": "The Sandbox"
+  },
+  "uces.scenario_text.the_time_machine": {
+    "details": "원하는 때, 원하는 곳으로 갈 수 있도록 타임 머신을 만드세요. 영원이 당신을 기다립니다. 모든 것은 상대적이니 말이죠.",
+    "name": "The Time Machine",
+    "park_name": "타임 머신",
+    "reference-details": "The Time Machine. Build to go - when you want, where you want. Eternity awaits. It’s all relative.",
+    "reference-name": "The Time Machine",
+    "reference-park_name": "The Time Machine"
+  },
+  "uces.scenario_text.tower_of_babel": {
+    "details": "우와, 타임머신이 우릴 어디로 대려왔는지 보세요! 근데 다들 어디갔죠?",
+    "name": "Tower of Babel",
+    "park_name": "바벨 탑",
+    "reference-details": "Whoaa! Look where the time machine took us now! Where did everybody go?",
+    "reference-name": "Tower of Babel",
+    "reference-park_name": "Tower of Babel"
+  },
+  "uces.scenario_text.transformation": {
+    "details": "널 기다리고 있었어…",
+    "name": "Transformation",
+    "park_name": "트랜스포메이션",
+    "reference-details": "We were expecting you…",
+    "reference-name": "Transformation",
+    "reference-park_name": "Transformation"
+  },
+  "uces.scenario_text.urbis_incognitus": {
+    "details": "로마인들은 글래디에이터의 전투가 이제 질렸다고 합니다. 그들에게 더 많은 스릴을 선사해서 이 로마 도시를 전 시대를 통틀어 가장 거대한 놀이 공원으로 바꿔보세요!",
+    "name": "Urbis Incognitus",
+    "park_name": "알 수 없는 도시",
+    "reference-details": "The Romans are tired of boring gladiator fights. Give them a better thrill, turn a Roman city into the greatest amusement park of all time!",
+    "reference-name": "Urbis Incognitus",
+    "reference-park_name": "Urbis Incognitus"
   }
 }
