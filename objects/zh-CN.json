@@ -28,32 +28,32 @@
     "reference-name": "Support Structure"
   },
   "official.terrain_edge.void": {
-    "name": "Void",
+    "name": "虚空",
     "reference-name": "Void"
   },
   "openrct2.footpath_railings.invisible": {
-    "name": "Invisible Railings",
+    "name": "隐形栏杆",
     "reference-name": "Invisible Railings"
   },
   "openrct2.footpath_surface.invisible": {
-    "name": "Invisible Footpath",
+    "name": "隐形步道",
     "reference-name": "Invisible Footpath"
   },
   "openrct2.footpath_surface.queue_invisible": {
-    "name": "Invisible Queue",
+    "name": "隐形队列",
     "reference-name": "Invisible Queue"
   },
   "openrct2.ride.alpine_coaster": {
-    "capacity": "2 passengers per car",
-    "description": "Wheeled sleds equipped with manually operated brakes",
+    "capacity": "2位乘客/车",
+    "description": "配备手动制动器的轮式雪橇",
     "name": "Alpine Coaster Cars",
     "reference-capacity": "2 passengers per car",
     "reference-description": "Wheeled sleds equipped with manually operated brakes",
     "reference-name": "Alpine Coaster Cars"
   },
   "openrct2.ride.hybrid_coaster": {
-    "capacity": "4 passengers per car",
-    "description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
+    "capacity": "4位乘客/车",
+    "description": "带搭接限制器，可进行陡降和倒转运动的过山车",
     "name": "Hybrid Coaster Trains",
     "reference-capacity": "4 passengers per car",
     "reference-description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
@@ -68,8 +68,8 @@
     "reference-name": "Modern Twister Trains"
   },
   "openrct2.ride.single_rail_coaster": {
-    "capacity": "1 passenger per car",
-    "description": "Roller coaster trains in which riders are seated single file",
+    "capacity": "1位乘客/车",
+    "description": "乘客排成一列坐的过山车",
     "name": "Single Rail Roller Coaster Trains",
     "reference-capacity": "1 passenger per car",
     "reference-description": "Roller coaster trains in which riders are seated single file",
@@ -84,11 +84,11 @@
     "reference-name": "No entrance, no platform"
   },
   "openrct2.terrain_surface.void": {
-    "name": "Void",
+    "name": "虚空",
     "reference-name": "Void"
   },
   "rct1.audio.title": {
-    "name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes).",
+    "name": "过山车大亨的标题画面音乐 (Loopy Landscapes)。",
     "reference-name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes)."
   },
   "rct1.footpath_surface.crazy_paving": {
@@ -100,7 +100,7 @@
     "reference-name": "Dirt Footpath (Square)"
   },
   "rct1.footpath_surface.queue_blue": {
-    "name": "Blue Queue (Sloped)",
+    "name": "蓝色队列（斜面）",
     "reference-name": "Blue Queue (Sloped)"
   },
   "rct1.footpath_surface.road": {
@@ -112,7 +112,7 @@
     "reference-name": "Tarmac Footpath (Sloped)"
   },
   "rct1.footpath_surface.tiles_brown": {
-    "name": "Brown Tiled Footpath",
+    "name": "棕色瓷砖人行道",
     "reference-name": "Brown Tiled Footpath"
   },
   "rct1.ride.bobsleigh_trains": {
@@ -179,8 +179,8 @@
   },
   "rct1.ride.go_karts": {
     "capacity": "单一乘客",
-    "description": "Self-driven petrol-engined go-karts that come with safety helmets",
-    "name": "Go-Karts (with helmets)",
+    "description": "附带安全头盔的汽油引擎自驾卡丁车",
+    "name": "卡丁车（带头盔）",
     "reference-capacity": "single-seater",
     "reference-description": "Self-driven petrol-engined go-karts that come with safety helmets",
     "reference-name": "Go-Karts (with helmets)"
@@ -195,8 +195,8 @@
   },
   "rct1.ride.inverted_trains": {
     "capacity": "2 位乘客/每个车厢",
-    "description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
-    "name": "Inverted Coaster Trains",
+    "description": "倒置的过山车列车，由悬挂在轨道上方支撑架上的座椅组成。",
+    "name": "倒置过山车列车",
     "reference-capacity": "2 passengers per car",
     "reference-description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
     "reference-name": "Inverted Coaster Trains"
@@ -339,7 +339,7 @@
   },
   "rct1.ride.steel_rc_trains": {
     "capacity": "4位乘客/车",
-    "description": "Roller coaster train with a streamlined front car.",
+    "description": "有着流线型前车厢的过山车列车。",
     "name": "Roller Coaster Trains",
     "reference-capacity": "4 passengers per car",
     "reference-description": "Roller coaster train with a streamlined front car.",
@@ -347,8 +347,8 @@
   },
   "rct1.ride.steel_rc_trains_reversed": {
     "capacity": "4位乘客/车",
-    "description": "Roller coaster train running in reverse, so that the passengers face backwards.",
-    "name": "Roller Coaster Trains (Reversed)",
+    "description": "过山车列车反向运行，使乘客面朝后方。",
+    "name": "过山车列车（反向）",
     "reference-capacity": "4 riders per car",
     "reference-description": "Roller coaster train running in reverse, so that the passengers face backwards.",
     "reference-name": "Roller Coaster Trains (Reversed)"
@@ -401,16 +401,16 @@
   },
   "rct1.ride.wooden_rc_trains": {
     "capacity": "4 位乘客/每个车厢",
-    "description": "Wooden roller coaster trains with padded seats and lap bar restraints",
-    "name": "Wooden Roller Coaster Trains",
+    "description": "木制过山车列车，配有软垫座椅和膝部约束杆",
+    "name": "木制过山车列车",
     "reference-capacity": "4 passengers per car",
     "reference-description": "Wooden roller coaster trains with padded seats and lap bar restraints",
     "reference-name": "Wooden Roller Coaster Trains"
   },
   "rct1.ride.wooden_rc_trains_reversed": {
     "capacity": "4 位乘客/每个车厢",
-    "description": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
-    "name": "Wooden Roller Coaster Trains (Reversed)",
+    "description": "木制过山车列车，但反向运行，使乘客面朝后方。",
+    "name": "木制过山车列车（反向）",
     "reference-capacity": "4 passengers per car",
     "reference-description": "Wooden roller coaster trains, but running in reverse, so that the passengers face backwards.",
     "reference-name": "Wooden Roller Coaster Trains (Reversed)"
@@ -632,15 +632,15 @@
     "reference-name": "Ash Footpath (Square)"
   },
   "rct1aa.footpath_surface.queue_green": {
-    "name": "Green Queue",
+    "name": "绿色队列",
     "reference-name": "Green Queue"
   },
   "rct1aa.footpath_surface.queue_red": {
-    "name": "Red Queue (Sloped)",
+    "name": "红色队列（斜面）",
     "reference-name": "Red Queue (Sloped)"
   },
   "rct1aa.footpath_surface.queue_yellow": {
-    "name": "Yellow Queue (Sloped)",
+    "name": "黄色队列（斜面）",
     "reference-name": "Yellow Queue (Sloped)"
   },
   "rct1aa.footpath_surface.tarmac_brown": {
@@ -652,11 +652,11 @@
     "reference-name": "Green Tarmac Footpath"
   },
   "rct1aa.footpath_surface.tarmac_red": {
-    "name": "Red Tarmac Footpath (Sloped)",
+    "name": "红色柏油步行道（斜面）",
     "reference-name": "Red Tarmac Footpath (Sloped)"
   },
   "rct1aa.footpath_surface.tiles_grey": {
-    "name": "Grey Tiled Footpath",
+    "name": "灰色瓷砖人行道",
     "reference-name": "Grey Tiled Footpath"
   },
   "rct1aa.ride.bicycles": {
@@ -1080,15 +1080,15 @@
     "reference-name": "Roof (Red)"
   },
   "rct1beta.terrain_edge.brick": {
-    "name": "Brick (Brown)",
+    "name": "砖（棕色）",
     "reference-name": "Brick (Brown)"
   },
   "rct1beta.terrain_edge.rock": {
-    "name": "Rock (Brown)",
+    "name": "岩石（棕色）",
     "reference-name": "Rock (Brown)"
   },
   "rct1beta.terrain_surface.wildflowers": {
-    "name": "Wildflowers",
+    "name": "野花",
     "reference-name": "Wildflowers"
   },
   "rct1dlc.scenario_text.fort_anachronism": {
@@ -1100,19 +1100,19 @@
     "reference-park_name": "Fort Anachronism"
   },
   "rct1ll.footpath_railings.bamboo": {
-    "name": "Bamboo Railings (Yellow)",
+    "name": "竹栏杆（黄色）",
     "reference-name": "Bamboo Railings (Yellow)"
   },
   "rct1ll.footpath_railings.space": {
-    "name": "Space Style Railings (Grey)",
+    "name": "太空风格栏杆（灰色）",
     "reference-name": "Space Style Railings (Grey)"
   },
   "rct1ll.footpath_surface.tiles_green": {
-    "name": "Green and Brown Tiled Footpath",
+    "name": "绿色和棕色瓷砖铺成的人行道",
     "reference-name": "Green and Brown Tiled Footpath"
   },
   "rct1ll.footpath_surface.tiles_red": {
-    "name": "Red and Brown Tiled Footpath",
+    "name": "红褐色瓷砖人行道",
     "reference-name": "Red and Brown Tiled Footpath"
   },
   "rct1ll.ride.4_across_inverted_trains": {
@@ -1496,19 +1496,19 @@
     "reference-name": "Wood"
   },
   "rct2.audio.base.rct2": {
-    "name": "Base audio for the game.",
+    "name": "游戏的基础音频。",
     "reference-name": "Base audio for the game."
   },
   "rct2.audio.base.rctc": {
-    "name": "Base audio for the game.",
+    "name": "游戏的基础音频。",
     "reference-name": "Base audio for the game."
   },
   "rct2.audio.circus": {
-    "name": "Ambient sound effects for the Circus attraction.",
+    "name": "马戏团景点的环境音效。",
     "reference-name": "Ambient sound effects for the Circus attraction."
   },
   "rct2.audio.title": {
-    "name": "Title screen music for RollerCoaster Tycoon 2.",
+    "name": "过山车大亨 2 的标题画面音乐。",
     "reference-name": "Title screen music for RollerCoaster Tycoon 2."
   },
   "rct2.footpath_banner.bn1": {
@@ -1620,27 +1620,27 @@
     "reference-name": "Queue Line TV"
   },
   "rct2.footpath_railings.bamboo_black": {
-    "name": "Bamboo Railings (Black)",
+    "name": "竹制栏杆（黑色）",
     "reference-name": "Bamboo Railings (Black)"
   },
   "rct2.footpath_railings.bamboo_brown": {
-    "name": "Bamboo Railings (Brown)",
+    "name": "竹栏杆（棕色）",
     "reference-name": "Bamboo Railings (Brown)"
   },
   "rct2.footpath_railings.concrete": {
-    "name": "Concrete Railings (Grey-Brown)",
+    "name": "混凝土栏杆（灰褐色）",
     "reference-name": "Concrete Railings (Grey-Brown)"
   },
   "rct2.footpath_railings.concrete_green": {
-    "name": "Concrete Railings (Dark Green)",
+    "name": "混凝土栏杆（深绿色）",
     "reference-name": "Concrete Railings (Dark Green)"
   },
   "rct2.footpath_railings.space": {
-    "name": "Space Style Railings (Red)",
+    "name": "太空风格栏杆（红色）",
     "reference-name": "Space Style Railings (Red)"
   },
   "rct2.footpath_railings.wood": {
-    "name": "Wooden Railings",
+    "name": "木制栏杆",
     "reference-name": "Wooden Railings"
   },
   "rct2.footpath_surface.ash": {
@@ -1656,19 +1656,19 @@
     "reference-name": "Dirt Footpath (Rounded)"
   },
   "rct2.footpath_surface.queue_blue": {
-    "name": "Blue Queue (Stairs)",
+    "name": "蓝色队列（楼梯）",
     "reference-name": "Blue Queue (Stairs)"
   },
   "rct2.footpath_surface.queue_green": {
-    "name": "Dark Green Queue",
+    "name": "深绿色队列",
     "reference-name": "Dark Green Queue"
   },
   "rct2.footpath_surface.queue_red": {
-    "name": "Red Queue (Stairs)",
+    "name": "红色队列（楼梯）",
     "reference-name": "Red Queue (Stairs)"
   },
   "rct2.footpath_surface.queue_yellow": {
-    "name": "Yellow Queue (Stairs)",
+    "name": "黄色队列（楼梯）",
     "reference-name": "Yellow Queue (Stairs)"
   },
   "rct2.footpath_surface.road": {
@@ -1688,7 +1688,7 @@
     "reference-name": "Dark Green Tarmac Footpath"
   },
   "rct2.footpath_surface.tarmac_red": {
-    "name": "Red Tarmac Footpath (Stairs)",
+    "name": "红色柏油步行道（楼梯）",
     "reference-name": "Red Tarmac Footpath (Stairs)"
   },
   "rct2.music.candy": {
@@ -5532,67 +5532,67 @@
     "reference-name": "Benches"
   },
   "rct2tt.footpath_railings.balustrade": {
-    "name": "Balustrade",
+    "name": "栏杆",
     "reference-name": "Balustrade"
   },
   "rct2tt.footpath_railings.circuitboard": {
-    "name": "Circuit Board Railings",
+    "name": "电路板栏杆",
     "reference-name": "Circuit Board Railings"
   },
   "rct2tt.footpath_railings.circuitboard_invisible": {
-    "name": "Sky Walk",
+    "name": "天空步道",
     "reference-name": "Sky Walk"
   },
   "rct2tt.footpath_railings.medieval": {
-    "name": "Medieval Railings",
+    "name": "中世纪栏杆",
     "reference-name": "Medieval Railings"
   },
   "rct2tt.footpath_railings.pavement": {
-    "name": "Iron Railings",
+    "name": "铁栏杆",
     "reference-name": "Iron Railings"
   },
   "rct2tt.footpath_railings.rainbow": {
-    "name": "Rainbow Railings",
+    "name": "彩虹栏杆",
     "reference-name": "Rainbow Railings"
   },
   "rct2tt.footpath_railings.rocky": {
-    "name": "Jungle Railings",
+    "name": "丛林栏杆",
     "reference-name": "Jungle Railings"
   },
   "rct2tt.footpath_surface.circuitboard": {
-    "name": "Circuit Footpath",
+    "name": "电路人行道",
     "reference-name": "Circuit Footpath"
   },
   "rct2tt.footpath_surface.medieval": {
-    "name": "Wooden Footpath",
+    "name": "木质人行道",
     "reference-name": "Wooden Footpath"
   },
   "rct2tt.footpath_surface.mosaic": {
-    "name": "Mosaic Footpath",
+    "name": "马赛克人行道",
     "reference-name": "Mosaic Footpath"
   },
   "rct2tt.footpath_surface.pavement": {
-    "name": "Pavement",
+    "name": "人行道",
     "reference-name": "Pavement"
   },
   "rct2tt.footpath_surface.queue_circuitboard": {
-    "name": "Circuit Queue",
+    "name": "电路队列",
     "reference-name": "Circuit Queue"
   },
   "rct2tt.footpath_surface.queue_pavement": {
-    "name": "Pavement Queue",
+    "name": "人行道队列",
     "reference-name": "Pavement Queue"
   },
   "rct2tt.footpath_surface.queue_rainbow": {
-    "name": "Rainbow Queue",
+    "name": "彩虹队列",
     "reference-name": "Rainbow Queue"
   },
   "rct2tt.footpath_surface.rainbow": {
-    "name": "Rainbow Footpath",
+    "name": "彩虹小径",
     "reference-name": "Rainbow Footpath"
   },
   "rct2tt.footpath_surface.rocky": {
-    "name": "Rocky Footpath",
+    "name": "岩石小径",
     "reference-name": "Rocky Footpath"
   },
   "rct2tt.park_entrance.1920sent": {
@@ -5689,8 +5689,8 @@
   },
   "rct2tt.ride.cyclopsx": {
     "capacity": "1位乘客/车",
-    "description": "乘客驾驶巨型独眼巨人之眼",
-    "name": "独眼巨人",
+    "description": "乘客驾驶巨型独眼巨人之眼碰碰车",
+    "name": "独眼巨人碰碰车",
     "reference-capacity": "1 person per car",
     "reference-description": "Riders drive the Eye of a Giant Cyclops",
     "reference-name": "Cyclops Dodgems"
@@ -5730,7 +5730,7 @@
   "rct2tt.ride.flwrpowr": {
     "capacity": "1位乘客/车",
     "description": "乘客乘坐他们自由控制的花形气垫船",
-    "name": "花之力",
+    "name": "花之力碰碰车",
     "reference-capacity": "1 passenger per car",
     "reference-description": "Riders ride in flower-shaped hovercraft vehicles that they freely control",
     "reference-name": "Flower Power Dodgems"
@@ -5769,7 +5769,7 @@
   },
   "rct2tt.ride.halofmrs": {
     "capacity": "5位乘客",
-    "description": "Building containing warped mirrors which distort the reflection of the viewer",
+    "description": "含有会扭曲观众形象的哈哈镜的建筑，",
     "name": "镜子迷阵",
     "reference-capacity": "5 guests",
     "reference-description": "Building containing warped mirrors which distort the reflection of the viewer",
@@ -5785,7 +5785,7 @@
   },
   "rct2tt.ride.hotrodxx": {
     "capacity": "2位乘客/车",
-    "description": "Air-powered launched roller coaster trains in the shape of hot rod cars",
+    "description": "以空气为动力、外形酷似赛车的过山车列车",
     "name": "Hot Rod Trains",
     "reference-capacity": "2 passengers per car",
     "reference-description": "Air-powered launched roller coaster trains in the shape of hot rod cars",
@@ -5981,7 +5981,7 @@
   },
   "rct2tt.ride.stamphrd": {
     "capacity": "4位乘客/车",
-    "description": "Roller coaster trains in which the riders ride in a standing position, themed to look like a stampeding dinosaur herd",
+    "description": "过山车列车，乘坐者以站立姿势乘坐，其主题看起来像一个正在奔跑的恐龙群",
     "name": "Stampeding Herd Trains",
     "reference-capacity": "4 passengers per car",
     "reference-description": "Roller coaster trains in which the riders ride in a standing position, themed to look like a stampeding dinosaur herd",
@@ -8526,7 +8526,7 @@
   "rct2ww.ride.dragdodg": {
     "capacity": "1位乘客/车",
     "description": "自助式电动碰碰车",
-    "name": "东方祥龙游乐设施",
+    "name": "东方祥龙碰碰车",
     "reference-capacity": "1 person per car",
     "reference-description": "Guests battle each other in dragonhead-shaped dodgems",
     "reference-name": "Chinese Dragonhead Dodgems"
