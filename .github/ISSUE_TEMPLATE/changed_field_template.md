@@ -24,6 +24,7 @@ Updated in:
 - [ ] es-ES
 - [ ] fi-FI
 - [ ] fr-FR
+- [ ] gl-ES
 - [ ] hu-HU
 - [ ] it-IT
 - [ ] ja-JP
