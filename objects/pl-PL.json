@@ -61,17 +61,17 @@
     },
     "openrct2.ride.modern_twister": {
         "reference-name": "Modern Twister Trains",
-        "name": "Modern Twister Trains",
+        "name": "Nowoczesna zwijka",
         "reference-description": "Spacious trains with lap restraints, capable of tight twists and inversions",
-        "description": "Spacious trains with lap restraints, capable of tight twists and inversions",
+        "description": "Przestronne wagoniki z zabezpieczeniami obejmującymi pasażerów w pasie, zdolne do pokonywania ciasnych zakrętów i inwersji",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 passengers per car"
     },
     "openrct2.ride.single_rail_coaster": {
         "reference-name": "Single Rail Roller Coaster Trains",
-        "name": "Jednotorowa kolejka górska",
+        "name": "Kolejka jednoszynowa",
         "reference-description": "Roller coaster trains in which riders are seated single file",
-        "description": "Kolejka górska z wagonami, w których pasażerowie siedzą jeden za drugim",
+        "description": "Kolejka z wagonami, w których pasażerowie siedzą jeden za drugim",
         "reference-capacity": "1 passenger per car",
         "capacity": "1 pasażer na wagonik"
     },
@@ -89,7 +89,7 @@
     },
     "rct1.audio.title": {
         "reference-name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes).",
-        "name": "Motyw tytułowy RollerCoaster Tycoon (Zwariowane krajobrazy)."
+        "name": "Motyw tytułowy RollerCoaster Tycoon (Zwariowane Krajobrazy)."
     },
     "rct1.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Sloped)",
@@ -195,7 +195,7 @@
     },
     "rct1.ride.inverted_trains": {
         "reference-name": "Inverted Coaster Trains",
-        "name": "Wagoniki kolejki odwrotnej",
+        "name": "Kolejka odwrotna",
         "reference-description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
         "description": "Pasażerowie siedzą w fotelach podwieszonych pod torem, pokonując wielkie pętle, zakręty i zakręcone zjazdy",
         "reference-capacity": "2 passengers per car",
@@ -299,9 +299,9 @@
     },
     "rct1.ride.single_person_swinging_cars": {
         "reference-name": "Single-Person Swinging Cars",
-        "name": "Podwieszana minikolejka",
+        "name": "Podwieszana minikolejka (siedząca)",
         "reference-description": "Single-seater cars which hang from the rail above, and are free to swing from side to side",
-        "description": "Pasażerowie jeżdżą w małych autach podwieszonych na pojedynczym torze, bujają się swobodnie na zakrętach",
+        "description": "Pasażerowie jeżdżą w pozycji siedzącej, w specjalnych wagonikach podwieszonych pod pojedynczym torem, które bujają się swobodnie na zakrętach",
         "reference-capacity": "1 passenger per car",
         "capacity": "1 pasażer na wagonik"
     },
@@ -379,7 +379,7 @@
     },
     "rct1.ride.swinging_lay_down_cars": {
         "reference-name": "Lay-down Cars",
-        "name": "Podwieszana minikolejka",
+        "name": "Podwieszana minikolejka (leżąca)",
         "reference-description": "Small suspended cars in which the passengers ride face-down in a lying position, swinging freely from side to side",
         "description": "Pasażerowie podróżują w pozycji leżącej, twarzą w dół, w specjalnych wagonikach podwieszonych pod pojedynczym torem, które bujają się swobodnie na zakrętach",
         "reference-capacity": "1 passenger per car",
@@ -401,7 +401,7 @@
     },
     "rct1.ride.wooden_rc_trains": {
         "reference-name": "Wooden Roller Coaster Trains",
-        "name": "Drewniana kolejka górska",
+        "name": "Drewniana jazda",
         "reference-description": "Wooden roller coaster trains with padded seats and lap bar restraints",
         "description": "Drewniane wagoniki z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie",
         "reference-capacity": "4 passengers per car",
@@ -417,91 +417,91 @@
     },
     "rct1.scenario_text.bumbly_beach": {
         "reference-name": "Bumbly Beach",
-        "name": "Bumbly Beach",
+        "name": "Szumiąca Plaża",
         "reference-park_name": "Bumbly Beach",
-        "park_name": "Bumbly Beach",
+        "park_name": "Szumiąca Plaża",
         "reference-details": "Develop Bumbly Beach’s small amusement park into a thriving theme park",
-        "details": "Rozwiń małe Bumbly Beach w tętniący życiem park rozrywki"
+        "details": "Rozbuduj lunapark Szumiąca Plaża w prężnie działający park rozrywki"
     },
     "rct1.scenario_text.crumbly_woods": {
         "reference-name": "Crumbly Woods",
-        "name": "Crumbly Woods",
+        "name": "Kruche Lasy",
         "reference-park_name": "Crumbly Woods",
-        "park_name": "Crumbly Woods",
+        "park_name": "Kruche Lasy",
         "reference-details": "A large park with well-designed but rather old rides. Replace the old rides or add new rides to make the park more popular.",
         "details": "Wielki, dobrze zaprojektowany park, jednak ze starymi atrakcjami. Wymień stare atrakcje i zbuduj nowe, aby zwiększyć popularność parku."
     },
     "rct1.scenario_text.diamond_heights": {
         "reference-name": "Diamond Heights",
-        "name": "Diamond Heights",
+        "name": "Diamentowe Wzgórza",
         "reference-park_name": "Diamond Heights",
-        "park_name": "Diamond Heights",
+        "park_name": "Diamentowe Wzgórza",
         "reference-details": "Diamond Heights is already a successful theme park with great rides - develop it to double its value",
-        "details": "Diamond Heights to odnoszący sukcesy park ze świetnymi atrakcjami - podwój jego wartość"
+        "details": "Diamentowe Wzgórza to dobrze działający park rozrywki, który oferuje wiele atrakcji - rozbuduj go tak, aby podwoić jego wartość"
     },
     "rct1.scenario_text.dynamite_dunes": {
         "reference-name": "Dynamite Dunes",
-        "name": "Dynamite Dunes",
+        "name": "Wydmy Dynamitowe",
         "reference-park_name": "Dynamite Dunes",
-        "park_name": "Dynamite Dunes",
+        "park_name": "Wydmy Dynamitowe",
         "reference-details": "Built in the middle of the desert, this theme park contains just one roller coaster but has space for expansion",
-        "details": "Zbudowany na środku pustyni tylko z jednym roller coasterem, ma solidne podstawy do dalszej rozbudowy"
+        "details": "Zbudowany na środku pustyni park tylko z jednym roller coasterem, ma solidne podstawy do dalszej rozbudowy"
     },
     "rct1.scenario_text.evergreen_gardens": {
         "reference-name": "Evergreen Gardens",
-        "name": "Evergreen Gardens",
+        "name": "Ogród Wiecznej Zieleni",
         "reference-park_name": "Evergreen Gardens",
-        "park_name": "Evergreen Gardens",
+        "park_name": "Ogród Wiecznej Zieleni",
         "reference-details": "Convert the beautiful Evergreen Gardens into a thriving theme park",
-        "details": "Przemień piękne Evergreen Gardens w kwitnący park tematyczny"
+        "details": "Przemień piękny Ogród Wiecznej Zieleni w prężnie działąjący lunapark"
     },
     "rct1.scenario_text.forest_frontiers": {
         "reference-name": "Forest Frontiers",
-        "name": "Forest Frontiers",
+        "name": "Leśne Pogranicze",
         "reference-park_name": "Forest Frontiers",
-        "park_name": "Forest Frontiers",
+        "park_name": "Leśne Pogranicze",
         "reference-details": "Deep in the forest, build a thriving theme park in a large cleared area",
         "details": "W środku lasu zbuduj tętniący życiem park rozrywki korzystając z pustego kawałka terenu"
     },
     "rct1.scenario_text.ivory_towers": {
         "reference-name": "Ivory Towers",
-        "name": "Ivory Towers",
+        "name": "Wieże Białej Kości",
         "reference-park_name": "Ivory Towers",
-        "park_name": "Ivory Towers",
+        "park_name": "Wieże Białej Kości",
         "reference-details": "A well-established park, which has a few problems",
         "details": "Park z ugruntowaną pozycją, jednak z kilkoma problemami"
     },
     "rct1.scenario_text.karts_coasters": {
         "reference-name": "Karts & Coasters",
-        "name": "Karts & Coasters",
+        "name": "Gokarty i kolejki",
         "reference-park_name": "Karts & Coasters",
-        "park_name": "Karts & Coasters",
+        "park_name": "Gokarty i kolejki",
         "reference-details": "A large park hidden in the forest, with only go-kart tracks and wooden roller coasters",
         "details": "Wielki park w środku lasu, jedynie z gokartami i drewnianymi kolejkami"
     },
     "rct1.scenario_text.katies_dreamland": {
         "reference-name": "Katie’s Dreamland",
-        "name": "Katie’s Dreamland",
+        "name": "Kraina Marzeń Katy",
         "reference-park_name": "Katie’s Dreamland",
-        "park_name": "Katie’s Dreamland",
+        "park_name": "Kraina Marzeń Katy",
         "reference-details": "A small theme park with a few rides and room for expansion. Your aim is to double the park value.",
         "details": "Mały park z kilkoma atrakcjami oraz przestrzenią do rozwoju - podwój jego wartość"
     },
     "rct1.scenario_text.leafy_lake": {
         "reference-name": "Leafy Lake",
-        "name": "Leafy Lake",
+        "name": "Jezioro liściaste",
         "reference-park_name": "Leafy Lake",
-        "park_name": "Leafy Lake",
+        "park_name": "Jezioro liściaste",
         "reference-details": "Starting from scratch, build a theme park around a large lake",
-        "details": "Zaczynając od podstaw, wybuduj park rozrywki wokół sporego jeziora"
+        "details": "Zaczynając od pustego terenu, wybuduj wesołe miasteczko wokół dużego jeziora"
     },
     "rct1.scenario_text.lightning_peaks": {
         "reference-name": "Lightning Peaks",
-        "name": "Lightning Peaks",
+        "name": "Piorunowe Szczyty",
         "reference-park_name": "Lightning Peaks",
-        "park_name": "Lightning Peaks",
+        "park_name": "Piorunowe Szczyty",
         "reference-details": "The beautiful mountains of Lightning Peaks are popular with walkers and sightseers. Use the available land to attract a new thrill-seeking clientele.",
-        "details": "Piękne góry w Lightning Peaks są bardzo popularne wśród spacerowiczów oraz turystów. Wykorzystaj dostępny teren, aby przyciągnąć ludzi szukających wrażeń"
+        "details": "Piękne góry w Błyskawicznych Szczytach są bardzo popularne wśród spacerowiczów oraz turystów. Wykorzystaj dostępny teren, aby przyciągnąć ludzi szukających wrażeń"
     },
     "rct1.scenario_text.mega_park": {
         "reference-name": "Mega Park",
@@ -513,81 +513,81 @@
     },
     "rct1.scenario_text.mels_world": {
         "reference-name": "Mel’s World",
-        "name": "Mel’s World",
+        "name": "Świat Mela",
         "reference-park_name": "Mel’s World",
-        "park_name": "Mel’s World",
+        "park_name": "Świat Mela",
         "reference-details": "This theme park has some well-designed modern rides, but plenty of space for expansion",
         "details": "Park posiada już kilka ciekawych nowoczesnych kolejek, ale nadal pozostało trochę przestrzeni do rozbudowy"
     },
     "rct1.scenario_text.millennium_mines": {
         "reference-name": "Millennium Mines",
-        "name": "Millennium Mines",
+        "name": "Kopalnie tysiąclecia",
         "reference-park_name": "Millennium Mines",
-        "park_name": "Millennium Mines",
+        "park_name": "Kopalnie tysiąclecia",
         "reference-details": "Convert a large abandoned mine from a tourist attraction into a theme park",
         "details": "Przemień tą wielką porzuconą kopalnię z zwykłej atrakcji turystycznej w park tematyczny"
     },
     "rct1.scenario_text.mystic_mountain": {
         "reference-name": "Mystic Mountain",
-        "name": "Mystic Mountain",
+        "name": "Góra Tajemnic",
         "reference-park_name": "Mystic Mountain",
-        "park_name": "Mystic Mountain",
+        "park_name": "Góra Tajemnic",
         "reference-details": "In the hilly forests of Mystic Mountain, build a theme park from scratch",
-        "details": "W pagórkowatych lasach Mystic Mountain, zbuduj nowy park od podstaw"
+        "details": "W pagórkowatych lasach Góry Tajemnic, zbuduj nowy park od podstaw"
     },
     "rct1.scenario_text.pacific_pyramids": {
         "reference-name": "Pacific Pyramids",
-        "name": "Pacific Pyramids",
+        "name": "Pokojowe Piramidy",
         "reference-park_name": "Pacific Pyramids",
-        "park_name": "Pacific Pyramids",
+        "park_name": "Pokojowe Piramidy",
         "reference-details": "Convert the Egyptian Ruins tourist attraction into a thriving theme park",
         "details": "Zamień egipskie ruiny ze nudnej atrakcji turystycznej w tętniący życiem park rozrywki"
     },
     "rct1.scenario_text.paradise_pier": {
         "reference-name": "Paradise Pier",
-        "name": "Paradise Pier",
+        "name": "Rajskie Molo",
         "reference-park_name": "Paradise Pier",
-        "park_name": "Paradise Pier",
+        "park_name": "Rajskie Molo",
         "reference-details": "Convert this sleepy town’s pier into a thriving attraction",
-        "details": "Przekształć te senne miasteczko w tętniący życiem park rozrywki"
+        "details": "Przekształć molo sennego miasteczka w tętniący życiem park rozrywki"
     },
     "rct1.scenario_text.pokey_park": {
         "reference-name": "Pokey Park",
-        "name": "Pokey Park",
+        "name": "Miniaturowy park",
         "reference-park_name": "Pokey Park",
-        "park_name": "Pokey Park",
+        "park_name": "Miniaturowy park",
         "reference-details": "A small, cramped amusement park which requires major expansion",
         "details": "Mały, zwarty park rozrywki wymaga znacznej rozbudowy"
     },
     "rct1.scenario_text.rainbow_valley": {
         "reference-name": "Rainbow Valley",
-        "name": "Rainbow Valley",
+        "name": "Tęczowa Dolina",
         "reference-park_name": "Rainbow Valley",
-        "park_name": "Rainbow Valley",
+        "park_name": "Tęczowa Dolina",
         "reference-details": "Rainbow Valley’s local authority won’t allow any landscape changes or large tree removal, but you must develop the area into a large theme park",
         "details": "Lokalne władze nie pozwolą na żadne zmiany krajobrazu ani na wycinkę dużej liczby drzew, lecz mimo to musisz zbudować tutaj wielki park rozrywki"
     },
     "rct1.scenario_text.thunder_rock": {
         "reference-name": "Thunder Rock",
-        "name": "Thunder Rock",
+        "name": "Gromowa Skała",
         "reference-park_name": "Thunder Rock",
-        "park_name": "Thunder Rock",
+        "park_name": "Gromowa Skała",
         "reference-details": "Thunder Rock stands in the middle of a desert and attracts many tourists. Use the available space to build rides to attract more people.",
-        "details": "Park Thunder Rock stoi pośrodku pustyni dlatego przyciąga wielu turystów, wykorzystaj dostępny teren i zbuduj więcej atrakcji, aby przyciągnąć więcej ludzi"
+        "details": "Gromowa Skała stoi pośrodku pustyni i przyciąga wielu turystów. Wykorzystaj dostępny teren i zbuduj więcej atrakcji, aby przyciągnąć więcej ludzi"
     },
     "rct1.scenario_text.trinity_islands": {
         "reference-name": "Trinity Islands",
-        "name": "Trinity Islands",
+        "name": "Wyspy Trójcy",
         "reference-park_name": "Trinity Islands",
-        "park_name": "Trinity Islands",
+        "park_name": "Wyspy Trójcy",
         "reference-details": "Several islands form the basis for this new park",
-        "details": "Kilka wysp stanowi podstawę dla nowego parku"
+        "details": "Wykorzystaj wyspy, by stworzyć nowy park rozrywki"
     },
     "rct1.scenario_text.white_water_park": {
         "reference-name": "White Water Park",
-        "name": "White Water Park",
+        "name": "Dolina Białej Wody",
         "reference-park_name": "White Water Park",
-        "park_name": "White Water Park",
+        "park_name": "Dolina Białej Wody",
         "reference-details": "A park with some excellent water-based rides requires expansion",
         "details": "Park ze świetnymi przejażdżkami wodnymi wymaga dalszej rozbudowy"
     },
@@ -633,15 +633,15 @@
     },
     "rct1aa.footpath_surface.queue_green": {
         "reference-name": "Green Queue",
-        "name": "Green Queue"
+        "name": "Zielona kolejka"
     },
     "rct1aa.footpath_surface.queue_red": {
         "reference-name": "Red Queue (Sloped)",
-        "name": "Red Queue (Sloped)"
+        "name": "Czerwona kolejka"
     },
     "rct1aa.footpath_surface.queue_yellow": {
         "reference-name": "Yellow Queue (Sloped)",
-        "name": "Yellow Queue (Sloped)"
+        "name": "Żółta kolejka"
     },
     "rct1aa.footpath_surface.tarmac_brown": {
         "reference-name": "Brown Tarmac Footpath (Sloped)",
@@ -653,11 +653,11 @@
     },
     "rct1aa.footpath_surface.tarmac_red": {
         "reference-name": "Red Tarmac Footpath (Sloped)",
-        "name": "Red Tarmac Footpath (Sloped)"
+        "name": "Czerwona dróżka tłuczniowa"
     },
     "rct1aa.footpath_surface.tiles_grey": {
         "reference-name": "Grey Tiled Footpath",
-        "name": "Szara Mozaikowa Ścieżka"
+        "name": "Szara ścieżka mozaikowa"
     },
     "rct1aa.ride.bicycles": {
         "reference-name": "Bicycles",
@@ -813,231 +813,231 @@
     },
     "rct1aa.scenario_text.adrenaline_heights": {
         "reference-name": "Adrenaline Heights",
-        "name": "Adrenaline Heights",
+        "name": "Wzgórza Adrenaliny",
         "reference-park_name": "Adrenaline Heights",
-        "park_name": "Adrenaline Heights",
+        "park_name": "Wzgórza Adrenaliny",
         "reference-details": "Build a park to appeal to the high-intensity thrill-seeking local people",
         "details": "Zbuduj park aby zadowolić ludzi szukających mocno intensywnych atrakcji"
     },
     "rct1aa.scenario_text.barony_bridge": {
         "reference-name": "Barony Bridge",
-        "name": "Barony Bridge",
+        "name": "Most baronowski",
         "reference-park_name": "Barony Bridge",
-        "park_name": "Barony Bridge",
+        "park_name": "Most baronowski",
         "reference-details": "An old redundant bridge is yours to develop into an amusement park",
-        "details": "Stary nieużywany most zostaje przekazany w Twoją dyspozycję w celu przemienienia go w park rozrywki"
+        "details": "W twoje ręce oddano ten stary, bezużyteczny most, abyś przekształcił go w park rozrywki"
     },
     "rct1aa.scenario_text.butterfly_dam": {
         "reference-name": "Butterfly Dam",
-        "name": "Butterfly Dam",
+        "name": "Tama Motyli",
         "reference-park_name": "Butterfly Dam",
-        "park_name": "Butterfly Dam",
+        "park_name": "Tama Motyli",
         "reference-details": "The area around a dam is available for you to develop into an amusement park",
-        "details": "Obszar wokół zapory jest dostępy dla Ciebie, zbuduj tutaj park rozrywki"
+        "details": "Udostępniono Ci obszar wokół tamy, abyś przekształcił go w park rozrywki"
     },
     "rct1aa.scenario_text.canary_mines": {
         "reference-name": "Canary Mines",
-        "name": "Canary Mines",
+        "name": "Kopalnie kanarkowe",
         "reference-park_name": "Canary Mines",
-        "park_name": "Canary Mines",
+        "park_name": "Kopalnie kanarkowe",
         "reference-details": "This abandoned mine already has the makings of a tourist attraction with its miniature railway and a pair of vertical drop roller coasters",
-        "details": "Ta opuszczona kopalnia już jest atrakcją ze swoją miniaturową kolejką i parą kolejek górskich pionowego spadku"
+        "details": "Ta opuszczona kopalnia ma już pierwsze cechy atrakcji turystycznej: miniaturową kolejkę i dwie pionospadajki"
     },
     "rct1aa.scenario_text.coaster_canyon": {
         "reference-name": "Coaster Canyon",
-        "name": "Coaster Canyon",
+        "name": "Kolejkowy kanion",
         "reference-park_name": "Coaster Canyon",
-        "park_name": "Coaster Canyon",
+        "park_name": "Kolejkowy kanion",
         "reference-details": "A vast canyon is yours to turn into a theme park",
         "details": "Ogromny kanion jest do Twojej dyspozycji, byś mógł zbudować tutaj park rozrywki"
     },
     "rct1aa.scenario_text.coaster_crazy": {
         "reference-name": "Coaster Crazy",
-        "name": "Coaster Crazy",
+        "name": "Kolejkowe szaleństwo",
         "reference-park_name": "Coaster Crazy",
-        "park_name": "Coaster Crazy",
+        "park_name": "Kolejkowe szaleństwo",
         "reference-details": "You have limited funds but unlimited time to turn this mountainside area into a vast roller coaster park",
-        "details": "Masz ograniczony budżet ale nie ogranicza Cię czas, aby zmienić to zbocze góry w ogromny park rozrywki"
+        "details": "Masz ograniczony budżet ale nieograniczony czas, aby zmienić to zbocze góry w ogromny park rozrywki"
     },
     "rct1aa.scenario_text.fiasco_forest": {
         "reference-name": "Fiasco Forest",
-        "name": "Fiasco Forest",
+        "name": "Leśne fiasko",
         "reference-park_name": "Fiasco Forest",
-        "park_name": "Fiasco Forest",
+        "park_name": "Leśne fiasko",
         "reference-details": "Full of badly designed and dangerous rides, you have a very limited budget and time to fix the problems and turn the park around",
         "details": "Pełen źle zaprojektowanych i niebezpiecznych kolejek, masz ograniczony budżet i mało czasu, aby działać i ulepszyć park"
     },
     "rct1aa.scenario_text.fruit_farm": {
         "reference-name": "Fruit Farm",
-        "name": "Fruit Farm",
+        "name": "Owocowa farma",
         "reference-park_name": "Fruit Farm",
-        "park_name": "Fruit Farm",
+        "park_name": "Owocowa farma",
         "reference-details": "A thriving fruit farm has built a railroad to boost its income, your job is to develop it into a full-blown amusement park",
         "details": "Dobrze prosperujące gospodarstwo uprawiające owoce zbudowało kolej, aby zwiększyć swoje dochody. Musisz to wykorzystać i zbudować park pełny rozrywki"
     },
     "rct1aa.scenario_text.fun_fortress": {
         "reference-name": "Fun Fortress",
-        "name": "Fun Fortress",
+        "name": "Twierdza Zabawy",
         "reference-park_name": "Fun Fortress",
-        "park_name": "Fun Fortress",
+        "park_name": "Twierdza Zabawy",
         "reference-details": "This castle is all yours to turn into a theme park",
         "details": "Zamień ten zamek w wymarzony park rozrywki"
     },
     "rct1aa.scenario_text.funtopia": {
         "reference-name": "Funtopia",
-        "name": "Funtopia",
+        "name": "Zabawolandia",
         "reference-park_name": "Funtopia",
-        "park_name": "Funtopia",
+        "park_name": "Zabawolandia",
         "reference-details": "Covering land both sides of a highway, this park has several rides already operating",
-        "details": "Rozbuduj się po obu stronach autostrady, ten park ma już kilka atrakcji"
+        "details": "Ten park, rozciągniety po obu stronach autostrady, posiada już kilka działających atrakcji"
     },
     "rct1aa.scenario_text.future_world": {
         "reference-name": "Future World",
-        "name": "Future World",
+        "name": "Świat przyszłości",
         "reference-park_name": "Future World",
-        "park_name": "Future World",
+        "park_name": "Świat przyszłości",
         "reference-details": "This futuristic park has plenty of space for new rides on its alien landscape",
         "details": "Ten futurystyczny park posiada pełno miejsca na nowe atrakcje w jego obcym krajobranie"
     },
     "rct1aa.scenario_text.gentle_glen": {
         "reference-name": "Gentle Glen",
-        "name": "Gentle Glen",
+        "name": "Łagodna dolina",
         "reference-park_name": "Gentle Glen",
-        "park_name": "Gentle Glen",
+        "park_name": "Łagodna dolina",
         "reference-details": "The local population prefer gentle and relaxing rides, so it is your job to expand this park to suit their tastes",
         "details": "Lokalna ludność preferuje łagodne i relaksujące atrakcje, także Twoim zadaniem jest rozbudowa parku wedle ich upodobań"
     },
     "rct1aa.scenario_text.geoffrey_gardens": {
         "reference-name": "Geoffrey Gardens",
-        "name": "Geoffrey Gardens",
+        "name": "Ogród Galfryda",
         "reference-park_name": "Geoffrey Gardens",
-        "park_name": "Geoffrey Gardens",
+        "park_name": "Ogród Galfryda",
         "reference-details": "A large garden park needs turning into a thriving theme park",
         "details": "Wielki ogród wymaga przemiany w tętniący życiem park rozrywki"
     },
     "rct1aa.scenario_text.giggle_downs": {
         "reference-name": "Giggle Downs",
-        "name": "Giggle Downs",
+        "name": "Śmiechowa Dolina",
         "reference-park_name": "Giggle Downs",
-        "park_name": "Giggle Downs",
+        "park_name": "Śmiechowa Dolina",
         "reference-details": "A four lane steeplechase ride is the centrepiece of this expanding park",
-        "details": "Czterotorowy bieg z przeszkodami jako centralna atrakcja tego rozwijającego się parku"
+        "details": "Czterotorowy bieg z przeszkodami jest centralną atrakcją tego rozwijającego się parku"
     },
     "rct1aa.scenario_text.harmonic_hills": {
         "reference-name": "Harmonic Hills",
-        "name": "Harmonic Hills",
+        "name": "Harmonijne wzgórza",
         "reference-park_name": "Harmonic Hills",
-        "park_name": "Harmonic Hills",
+        "park_name": "Harmonijne wzgórza",
         "reference-details": "The local authority won’t allow you to build above tree height in this park",
-        "details": "Lokalne władze nie pozwolą Ci budować powyżej wysokości drzew"
+        "details": "Lokalne władze nie pozwolą Ci budować w tym parku powyżej wysokości drzew"
     },
     "rct1aa.scenario_text.haunted_harbour": {
         "reference-name": "Haunted Harbour",
-        "name": "Haunted Harbour",
+        "name": "Nawiedzona Przystań",
         "reference-park_name": "Haunted Harbour",
-        "park_name": "Haunted Harbour",
+        "park_name": "Nawiedzona Przystań",
         "reference-details": "The local authority has agreed to sell nearby land cheaply to this small seaside park, on the condition that certain rides are preserved",
         "details": "Lokalne władze zgodziły się na sprzedaż pobliskiego terenu za niską kwotę pod warunkiem zachowania kilku z funkcjonujących atrakcji"
     },
     "rct1aa.scenario_text.hydro_hills": {
         "reference-name": "Hydro Hills",
-        "name": "Hydro Hills",
+        "name": "Wodne Wzgórza",
         "reference-park_name": "Hydro Hills",
-        "park_name": "Hydro Hills",
+        "park_name": "Wodne Wzgórza",
         "reference-details": "A series of stepped lakes form the basis for this new park",
         "details": "Seria stopniowanych jezior tworzy podstawę tego nowego parku"
     },
     "rct1aa.scenario_text.jolly_jungle": {
         "reference-name": "Jolly Jungle",
-        "name": "Jolly Jungle",
+        "name": "Wesoła Dżungla",
         "reference-park_name": "Jolly Jungle",
-        "park_name": "Jolly Jungle",
+        "park_name": "Wesoła Dżungla",
         "reference-details": "Deep in the jungle lies a large area of land ready to be turned into a theme park",
         "details": "Głęboko w dżungli znajduje się wielki teren gotowy na przekształcenie w park rozrywki"
     },
     "rct1aa.scenario_text.magic_quarters": {
         "reference-name": "Magic Quarters",
-        "name": "Magic Quarters",
+        "name": "Magiczne Kwatery",
         "reference-park_name": "Magic Quarters",
-        "park_name": "Magic Quarters",
+        "park_name": "Magiczne Kwatery",
         "reference-details": "A large area of land has been cleared and partially themed ready for you to develop into a landscaped theme park",
         "details": "Duża powierzchnia gruntu została wyczyszczona i jest już częściowo przygotowana na rozwój wielkiego parku krajobrazowego"
     },
     "rct1aa.scenario_text.mineral_park": {
         "reference-name": "Mineral Park",
-        "name": "Mineral Park",
+        "name": "Park mineralny",
         "reference-park_name": "Mineral Park",
-        "park_name": "Mineral Park",
+        "park_name": "Park mineralny",
         "reference-details": "Turn this abandoned stone quarry into a place to attract thrill-seeking tourists",
         "details": "Przekształć opuszczony kamieniołom w miejsce przyciągające ludzi szukających dreszczyku emocji"
     },
     "rct1aa.scenario_text.pickle_park": {
         "reference-name": "Pickle Park",
-        "name": "Pickle Park",
+        "name": "Kiszonkowa Kraina",
         "reference-park_name": "Pickle Park",
-        "park_name": "Pickle Park",
+        "park_name": "Kiszonkowa Kraina",
         "reference-details": "The local authority will not allow any kind of advertising or promotion, so this park must succeed by reputation only",
         "details": "Lokalne władze nie zgodzą się na żadne promocje lub reklamy, dlatego sukces musi być oparty tylko na reputacji"
     },
     "rct1aa.scenario_text.roman_village": {
         "reference-name": "Roman Village",
-        "name": "Roman Village",
+        "name": "Rzymska wioska",
         "reference-park_name": "Roman Village",
-        "park_name": "Roman Village",
+        "park_name": "Rzymska wioska",
         "reference-details": "Develop this Roman-themed park by adding rides and roller coasters",
         "details": "Rozwiń ten park w stylu rzymskim budując atrakcje i kolejki górskie"
     },
     "rct1aa.scenario_text.rotting_heights": {
         "reference-name": "Rotting Heights",
-        "name": "Rotting Heights",
+        "name": "Gnijące wzgórza",
         "reference-park_name": "Rotting Heights",
-        "park_name": "Rotting Heights",
+        "park_name": "Gnijące wzgórza",
         "reference-details": "Overgrown and dilapidated, can you resurrect this once-great amusement park?",
-        "details": "Zarośnięty i zrujnowany, czy jesteś w stanie przywrócić świetność temu wesołemu miasteczku?"
+        "details": "Zarośnięte i zrujnowane, czy jesteś w stanie przywrócić świetność temu wesołemu miasteczku?"
     },
     "rct1aa.scenario_text.sprightly_park": {
         "reference-name": "Sprightly Park",
-        "name": "Sprightly Park",
+        "name": "Dziarski Park",
         "reference-park_name": "Sprightly Park",
-        "park_name": "Sprightly Park",
+        "park_name": "Dziarski Park",
         "reference-details": "This elderly park has many historical rides but is badly in debt",
         "details": "Ten wiekowy park posiada wiele historycznych atrakcji, jednak jest bardzo zadłużony"
     },
     "rct1aa.scenario_text.swamp_cove": {
         "reference-name": "Swamp Cove",
-        "name": "Swamp Cove",
+        "name": "Bagienna Zatoka",
         "reference-park_name": "Swamp Cove",
-        "park_name": "Swamp Cove",
+        "park_name": "Bagienna Zatoka",
         "reference-details": "Built partly on a series of small islands, this park already has a pair of large roller coasters as its centrepiece",
-        "details": "Zabuduj kilka małych wysepek, ten park ma już pare dużych koleje górskich w centralnej części"
+        "details": "Zbudowany częsciowo na kilku małych wysepkach, ten park ma już główną atrakcję, jaką jest duża, podwójna koleja górska"
     },
     "rct1aa.scenario_text.three_monkeys_park": {
         "reference-name": "Three Monkeys Park",
-        "name": "Three Monkeys Park",
+        "name": "Park Trzech Małp",
         "reference-park_name": "Three Monkeys Park",
-        "park_name": "Three Monkeys Park",
+        "park_name": "Park Trzech Małp",
         "reference-details": "Central to this large developing park is a giant triple-track racing/duelling steel coaster",
-        "details": "W centrum tego dużego parku jest wielki potrójny tor do wyścigów kolejek na stalowych torach"
+        "details": "Centralnym punktem tego dużego, rozwijającego się parku jest ogromna, potrójna, żelazna kolejka górska"
     },
     "rct1aa.scenario_text.thunderstorm_park": {
         "reference-name": "Thunderstorm Park",
-        "name": "Thunderstorm Park",
+        "name": "Park piorunowy",
         "reference-park_name": "Thunderstorm Park",
-        "park_name": "Thunderstorm Park",
+        "park_name": "Park piorunowy",
         "reference-details": "The weather is so wet here that a giant pyramid has been built to allow some rides to be built under cover",
         "details": "Pogoda tutaj jest bardzo deszczowa, dlatego zbudowano wielką piramidę, aby schować pod nią kilka atrakcji"
     },
     "rct1aa.scenario_text.urban_park": {
         "reference-name": "Urban Park",
-        "name": "Urban Park",
+        "name": "Park miejski",
         "reference-park_name": "Urban Park",
-        "park_name": "Urban Park",
+        "park_name": "Park miejski",
         "reference-details": "A tiny park has done a deal with the nearby town to allow expansion through the town itself",
-        "details": "Mały park doszedł do porozumienia z pobliskim miastem i ma zgodę na rozbudowę przez miasto"
+        "details": "Mały park zawarł umowę z pobliskim miastem i ma zgodę na rozbudowę przez samo miasto"
     },
     "rct1aa.scenario_text.utopia_park": {
         "reference-name": "Utopia Park",
-        "name": "Utopia Park",
+        "name": "Utopia",
         "reference-park_name": "Utopia",
         "park_name": "Utopia",
         "reference-details": "An oasis in the middle of the desert provides an unusual opportunity to build an amusement park",
@@ -1045,11 +1045,11 @@
     },
     "rct1aa.scenario_text.whispering_cliffs": {
         "reference-name": "Whispering Cliffs",
-        "name": "Whispering Cliffs",
+        "name": "Szepczące skały",
         "reference-park_name": "Whispering Cliffs",
-        "park_name": "Whispering Cliffs",
+        "park_name": "Szepczące skały",
         "reference-details": "Develop the seaside cliffs into a thriving amusement park",
-        "details": "Rozwiń nadmorskie klify w kwitnący park rozrywki"
+        "details": "Rozwiń te nadmorskie klify w tętniący życiem park rozrywki"
     },
     "rct1aa.scenery_wall.glass_wall": {
         "reference-name": "Glass Wall",
@@ -1065,27 +1065,27 @@
     },
     "rct1aa.terrain_edge.grey": {
         "reference-name": "Stucco (Grey)",
-        "name": "Stiuk (Szary)"
+        "name": "Stiuk (szary)"
     },
     "rct1aa.terrain_edge.red": {
         "reference-name": "Stucco (Red)",
-        "name": "Stiuk (Czerwony)"
+        "name": "Stiuk (czerwony)"
     },
     "rct1aa.terrain_edge.yellow": {
         "reference-name": "Stucco (Yellow)",
-        "name": "Stiuk (Żółty)"
+        "name": "Stiuk (żółty)"
     },
     "rct1aa.terrain_surface.roof_red": {
         "reference-name": "Roof (Red)",
-        "name": "Dach (Czerwony)"
+        "name": "Dach (czerwony)"
     },
     "rct1beta.terrain_edge.brick": {
         "reference-name": "Brick (Brown)",
-        "name": "Cegła (Brązowa)"
+        "name": "Cegła (brązowa)"
     },
     "rct1beta.terrain_edge.rock": {
         "reference-name": "Rock (Brown)",
-        "name": "Skała (Brązowa)"
+        "name": "Skała (brązowa)"
     },
     "rct1beta.terrain_surface.wildflowers": {
         "reference-name": "Wildflowers",
@@ -1093,27 +1093,27 @@
     },
     "rct1dlc.scenario_text.fort_anachronism": {
         "reference-name": "Fort Anachronism",
-        "name": "Fort Anachronism",
+        "name": "Fort Anachronizm",
         "reference-park_name": "Fort Anachronism",
-        "park_name": "Fort Anachronism",
+        "park_name": "Fort Anachronizm",
         "reference-details": "",
         "details": ""
     },
     "rct1ll.footpath_railings.bamboo": {
         "reference-name": "Bamboo Railings (Yellow)",
-        "name": "Bambusowe balustrady (Żółte)"
+        "name": "Bambusowe balustrady (żółte)"
     },
     "rct1ll.footpath_railings.space": {
         "reference-name": "Space Style Railings (Grey)",
-        "name": "Kosmiczne balustrady (Szare)"
+        "name": "Kosmiczne balustrady (szare)"
     },
     "rct1ll.footpath_surface.tiles_green": {
         "reference-name": "Green and Brown Tiled Footpath",
-        "name": "Zielona i Brązowa Mozaikowa Ścieżka"
+        "name": "Zielono-brązowa ścieżka mozaikowa"
     },
     "rct1ll.footpath_surface.tiles_red": {
         "reference-name": "Red and Brown Tiled Footpath",
-        "name": "Czerwona i Brązowa Mozaikowa Ścieżka"
+        "name": "Czerwono-brązowa ścieżka mozaikowa"
     },
     "rct1ll.ride.4_across_inverted_trains": {
         "reference-name": "4-across Inverted Roller Coaster Trains",
@@ -1149,7 +1149,7 @@
     },
     "rct1ll.ride.hypercoaster_trains": {
         "reference-name": "Hypercoaster Trains",
-        "name": "Hiperjazda",
+        "name": "Hiper jazda",
         "reference-description": "Comfortable trains with only lap bar restraints",
         "description": "Wysoka, nieobrotowa szybka kolejka górska z dużymi zjazdami i wygodnymi wagonikami, wyposażonymi w zabezpieczenia obejmujące pasażerów jedynie w pasie",
         "reference-capacity": "6 passengers per car",
@@ -1197,9 +1197,9 @@
     },
     "rct1ll.scenario_text.arid_heights": {
         "reference-name": "Arid Heights",
-        "name": "Arid Heights",
+        "name": "Pustynne wzgórza",
         "reference-park_name": "Arid Heights",
-        "park_name": "Arid Heights",
+        "park_name": "Pustynne wzgórza",
         "reference-details": "Free of any financial limits, your challenge is to develop this desert park while keeping the guests happy",
         "details": "Bez limitów finansowych, Twoim zadaniem jest zamiana tej pustyni w park gdzie goście są szczęśliwi"
     },
@@ -1213,57 +1213,57 @@
     },
     "rct1ll.scenario_text.crater_lake": {
         "reference-name": "Crater Lake",
-        "name": "Crater Lake",
+        "name": "Jezioro kraterowe",
         "reference-park_name": "Crater Lake",
-        "park_name": "Crater Lake",
+        "park_name": "Jezioro kraterowe",
         "reference-details": "A large lake in an ancient crater is the setting for this park",
-        "details": "W tej misji znajduje się wielkie jezioro w starożytnym kraterze"
+        "details": "Duże jezioro w antycznym kraterze stanowi scenerię tego parku"
     },
     "rct1ll.scenario_text.crazy_craters": {
         "reference-name": "Crazy Craters",
-        "name": "Crazy Craters",
+        "name": "Szalone kratery",
         "reference-park_name": "Crazy Craters",
-        "park_name": "Crazy Craters",
+        "park_name": "Szalone kratery",
         "reference-details": "In a far-off world where money is not needed, you must build an entertainment centre to keep the people happy",
-        "details": "W przyszłości, w świecie gdzie nie potrzebne są pieniądze, Twoim zadanie jest zbudowanie centrum rozrywki zapewniające radość ludziom"
+        "details": "W odległym świecie, gdzie pieniądze nie są potrzebne, musisz zbudować centrum rozrywki, aby zapewnić ludziom radość"
     },
     "rct1ll.scenario_text.dragons_cove": {
         "reference-name": "Dragon’s Cove",
-        "name": "Dragon’s Cove",
+        "name": "Smocza Zatoka",
         "reference-park_name": "Dragon’s Cove",
-        "park_name": "Dragon’s Cove",
+        "park_name": "Smocza Zatoka",
         "reference-details": "This sea-side cove is the setting for this coaster-building challenge",
-        "details": "W scenariuszu znajduje się nadmorska zatoka"
+        "details": "Ta nadmorska zatoka jest lokalizacją dla tego wyzwania w budowaniu kolejek górskich"
     },
     "rct1ll.scenario_text.dusty_desert": {
         "reference-name": "Dusty Desert",
-        "name": "Dusty Desert",
+        "name": "Zakurzona pustynia",
         "reference-park_name": "Dusty Desert",
-        "park_name": "Dusty Desert",
+        "park_name": "Zakurzona pustynia",
         "reference-details": "Five coasters require completion in this desert park",
         "details": "Pięć kolejek wymaga dokończenia w tym pustynnym parku"
     },
     "rct1ll.scenario_text.frightmare_hills": {
         "reference-name": "Frightmare Hills",
-        "name": "Frightmare Hills",
+        "name": "Wzgórza Strachu",
         "reference-park_name": "Frightmare Hills",
-        "park_name": "Frightmare Hills",
+        "park_name": "Wzgórza Strachu",
         "reference-details": "A scary park with a giant centrepiece coaster",
-        "details": "Przerażający park rozrywki z wielką kolejką pośrodku."
+        "details": "Przerażający park rozrywki z wielką kolejką pośrodku"
     },
     "rct1ll.scenario_text.good_knight_park": {
         "reference-name": "Good Knight Park",
-        "name": "Good Knight Park",
+        "name": "Park rycerski",
         "reference-park_name": "Good Knight Park",
-        "park_name": "Good Knight Park",
+        "park_name": "Park rycerski",
         "reference-details": "A castle with a pair of roller coasters needs developing into a larger theme park",
-        "details": "Zamek z paroma kolejkami górskimi wymaga przemiany w duży park rozrywki"
+        "details": "Zamek z parą kolejek górskich wymaga przemiany w duży park rozrywki"
     },
     "rct1ll.scenario_text.grand_glacier": {
         "reference-name": "Grand Glacier",
-        "name": "Grand Glacier",
+        "name": "Wielki lodowiec",
         "reference-park_name": "Grand Glacier",
-        "park_name": "Grand Glacier",
+        "park_name": "Wielki lodowiec",
         "reference-details": "A glacier-filled valley is yours to develop into a theme park",
         "details": "Dolina wypełniona lodowcem czeka na przemianę w park rozrywki"
     },
@@ -1277,177 +1277,177 @@
     },
     "rct1ll.scenario_text.icarus_park": {
         "reference-name": "Icarus Park",
-        "name": "Icarus Park",
+        "name": "Park Ikara",
         "reference-park_name": "Icarus Park",
-        "park_name": "Icarus Park",
+        "park_name": "Park Ikara",
         "reference-details": "Develop this alien park to maximise its profit",
         "details": "Rozwiń ten kosmiczny park w celu maksymalizacji zysków"
     },
     "rct1ll.scenario_text.iceberg_islands": {
         "reference-name": "Iceberg Islands",
-        "name": "Iceberg Islands",
+        "name": "Wyspy lodowcowe",
         "reference-park_name": "Iceberg Islands",
-        "park_name": "Iceberg Islands",
+        "park_name": "Wyspy lodowcowe",
         "reference-details": "A collection of icebergs make a cold setting for this ambitious theme park",
-        "details": "Góry lodowe w parku sprawiają chłodne wrażenie w tym parku rozrywki"
+        "details": "Zbiór lodowców tworzy zimne otoczenie dla tego ambitnego parku rozrywki"
     },
     "rct1ll.scenario_text.icicle_worlds": {
         "reference-name": "Icicle Worlds",
-        "name": "Icicle Worlds",
+        "name": "Soplowe Światy",
         "reference-park_name": "Icicle Worlds",
-        "park_name": "Icicle Worlds",
+        "park_name": "Soplowe Światy",
         "reference-details": "An icy landscape needs turning into a thriving theme park",
-        "details": "Lodowy wystruj potrzebuje transformacji w kwitnący park rozrywki"
+        "details": "Lodowy wystrój potrzebuje transformacji w prężnie działający park rozrywki"
     },
     "rct1ll.scenario_text.megaworld_park": {
         "reference-name": "Megaworld Park",
-        "name": "Megaworld Park",
+        "name": "Park Megaświat",
         "reference-park_name": "Megaworld Park",
-        "park_name": "Megaworld Park",
+        "park_name": "Park Megaświat",
         "reference-details": "A giant park already packed full of rides needs improving",
-        "details": "Gigantyczny park zawalony kolejkami potrzebuje udoskonalenia"
+        "details": "Gigantyczny, już wypełniony kolejkami park potrzebuje udoskonalenia"
     },
     "rct1ll.scenario_text.micro_park": {
         "reference-name": "Micro Park",
-        "name": "Micro Park",
+        "name": "Mikropark",
         "reference-park_name": "Micro Park",
-        "park_name": "Micro Parkwiecie ",
+        "park_name": "Mikropark",
         "reference-details": "Try to create the world’s smallest profitable park",
         "details": "Spróbuj stworzyć najmniejszy dochodowy park rozrywki na świecie"
     },
     "rct1ll.scenario_text.nevermore_park": {
         "reference-name": "Nevermore Park",
-        "name": "Nevermore Park",
+        "name": "Kruczy park",
         "reference-park_name": "Nevermore Park",
-        "park_name": "Nevermore Park",
+        "park_name": "Kruczy park",
         "reference-details": "A large park with a novel transportation system around its edge",
-        "details": "Ogromny park z oryginalnym systemem transportu gości wokół granic parku"
+        "details": "Ogromny park z innowacyjnym systemem transportu gości wokół granic parku"
     },
     "rct1ll.scenario_text.octagon_park": {
         "reference-name": "Octagon Park",
-        "name": "Octagon Park",
+        "name": "Oktagon",
         "reference-park_name": "Octagon Park",
-        "park_name": "Octagon Park",
+        "park_name": "Oktagon",
         "reference-details": "In this large park you must design and build ten large coasters",
-        "details": "W tym ogromnym parku musisz zaprojektować i zbudować wielkie kolejki"
+        "details": "W tym ogromnym parku musisz zaprojektować i zbudować dziesięć wielkich kolejek górskich"
     },
     "rct1ll.scenario_text.pacifica": {
         "reference-name": "Pacifica",
-        "name": "Pacifica",
+        "name": "Pacyfik",
         "reference-park_name": "Pacifica",
-        "park_name": "Pacifica",
+        "park_name": "Pacyfik",
         "reference-details": "This large island is all yours to develop as an amusement park",
         "details": "Ta wielka wyspa jest do Twojej dyspozycji i czeka na budowę wielkiego parku rozrywki"
     },
     "rct1ll.scenario_text.paradise_pier_2": {
         "reference-name": "Paradise Pier 2",
-        "name": "Paradise Pier 2",
+        "name": "Rajskie Molo 2",
         "reference-park_name": "Paradise Pier 2",
-        "park_name": "Paradise Pier 2",
+        "park_name": "Rajskie Molo 2",
         "reference-details": "Paradise Pier has expanded its network of walkways over the sea, and your task is to expand the park to use the extra space",
-        "details": "Paradise Pier rozwinął skrzydła budując molo nad morzem, Twoim zadaniem jest zabudowa dodatkowego miejsca"
+        "details": "Rajskie Molo rozwinęło swoją sieć kładek nad morzem, a Twoim zadaniem jest zabudowa dodatkowego miejsca"
     },
     "rct1ll.scenario_text.pleasure_island": {
         "reference-name": "Pleasure Island",
-        "name": "Pleasure Island",
+        "name": "Wyspa przyjemności",
         "reference-park_name": "Pleasure Island",
-        "park_name": "Pleasure Island",
+        "park_name": "Wyspa przyjemności",
         "reference-details": "A long thin island makes a challenging setting to build a selection of coasters",
-        "details": "Długie i cienkie wyspy są wyzwaniem przy budowie kolejek"
+        "details": "Długa i wąska wyspa stanowi wyzwanie do zbudowania kolejek górskich"
     },
     "rct1ll.scenario_text.razor_rocks": {
         "reference-name": "Razor Rocks",
-        "name": "Razor Rocks",
+        "name": "Ostre skały",
         "reference-park_name": "Razor Rocks",
-        "park_name": "Razor Rocks",
+        "park_name": "Ostre skały",
         "reference-details": "Your task is to build a massive coaster-filled park in amongst Razor Rocks",
-        "details": "Twoje zadanie polega na budowie wielkich kolejek w parku znajdującym się wśród gór Razor Rocks"
+        "details": "Twoje zadanie polega na budowie parku wypełnionego kolejkami górskimi wśród Ostrych Skał"
     },
     "rct1ll.scenario_text.southern_sands": {
         "reference-name": "Southern Sands",
-        "name": "Southern Sands",
+        "name": "Południowe Piaski",
         "reference-park_name": "Southern Sands",
-        "park_name": "Southern Sands",
+        "park_name": "Południowe Piaski",
         "reference-details": "A desert park with some cleverly designed coasters is yours to expand",
         "details": "Pustynny park z paroma pomysłowymi kolejkami czeka na Twoją pomoc w rozbudowie"
     },
     "rct1ll.scenario_text.sunny_swamps": {
         "reference-name": "Sunny Swamps",
-        "name": "Sunny Swamps",
+        "name": "Słoneczne mokradła",
         "reference-park_name": "Sunny Swamps",
-        "park_name": "Sunny Swamps",
+        "park_name": "Słoneczne mokradła",
         "reference-details": "This well-themed amusement park already has several rides, but has plenty of space for expansion",
-        "details": "Ten dobrze ustrojony park ma już kilka atrakcji, ale posiada także masę miejsca na rozbudowę"
+        "details": "Ten dobrze wystrojony park ma już kilka atrakcji, ale posiada także masę miejsca na rozbudowę"
     },
     "rct1ll.scenario_text.terror_town": {
         "reference-name": "Terror Town",
-        "name": "Terror Town",
+        "name": "Miasto Grozy",
         "reference-park_name": "Terror Town",
-        "park_name": "Terror Town",
+        "park_name": "Miasto Grozy",
         "reference-details": "This urban area is all yours to develop into an amusement park",
-        "details": "Ten miejski teren jest do Twojej dyspozycji, przekształć go w park rozrywki"
+        "details": "Ten miejski teren jest do Twojej dyspozycji, abyś przekształcił go w park rozrywki"
     },
     "rct1ll.scenario_text.thunder_rocks": {
         "reference-name": "Thunder Rocks",
-        "name": "Thunder Rocks",
+        "name": "Gromowe skały",
         "reference-park_name": "Thunder Rocks",
-        "park_name": "Thunder Rocks",
+        "park_name": "Gromowe skały",
         "reference-details": "Two large hunks of rock stick out of the sand, upon which the beginnings of a theme park are constructed",
-        "details": "Dwa wielkie głazy wystające z piasku stanowią zalążek wystroju tego parku"
+        "details": "Dwie wielkie skały wystające z piasku stanowią zalążek wesołego miasteczka"
     },
     "rct1ll.scenario_text.tiny_towers": {
         "reference-name": "Tiny Towers",
-        "name": "Tiny Towers",
+        "name": "Malutkie Wieże",
         "reference-park_name": "Tiny Towers",
-        "park_name": "Tiny Towers",
+        "park_name": "Malutkie Wieże",
         "reference-details": "In this tiny park you must finish building the five existing coasters",
         "details": "W tym małym parku musisz dokończyć budowę pięciu kolejek"
     },
     "rct1ll.scenario_text.urban_jungle": {
         "reference-name": "Urban Jungle",
-        "name": "Urban Jungle",
+        "name": "Miejska dżungla",
         "reference-park_name": "Urban Jungle",
-        "park_name": "Urban Jungle",
+        "park_name": "Miejska dżungla",
         "reference-details": "A giant abandoned skyscraper is a unique opportunity for a theme park developer",
-        "details": "Wielki opuszczony drapacz chmur jest świetną okazją do wykorzystania w wystroju parku"
+        "details": "Wielki opuszczony drapacz chmur to wyjątkowa okazja dla dewelopera parków rozrywki"
     },
     "rct1ll.scenario_text.venus_ponds": {
         "reference-name": "Venus Ponds",
-        "name": "Venus Ponds",
+        "name": "Stawy Wenus",
         "reference-park_name": "Venus Ponds",
-        "park_name": "Venus Ponds",
+        "park_name": "Stawy Wenus",
         "reference-details": "On a far-away planet this area of land needs turning into a theme park",
-        "details": "Na odległej planecie mamy kawałek terenu, który trzeba zagospodarować na park rozrywki"
+        "details": "Na odległej planecie, ta część lądu wymaga przekształcenia w park rozrywki"
     },
     "rct1ll.scenario_text.vertigo_views": {
         "reference-name": "Vertigo Views",
-        "name": "Vertigo Views",
+        "name": "Zawrotny widok",
         "reference-park_name": "Vertigo Views",
-        "park_name": "Vertigo Views",
+        "park_name": "Zawrotny widok",
         "reference-details": "This large park already has an excellent hyper-coaster, but your task is to massively increase its profit",
-        "details": "Park ten posiada już kilka ścietnych kolejek, jednak twoim zadaniem jest maksymalizacji zysków z nich"
+        "details": "Ten wielki park ma już świetną kolejkę, jednak twoim zadaniem jest znaczne zwiększenie jego zysków"
     },
     "rct1ll.scenario_text.volcania": {
         "reference-name": "Volcania",
-        "name": "Volcania",
+        "name": "Wulkania",
         "reference-park_name": "Volcania",
-        "park_name": "Volcania",
+        "park_name": "Wulkania",
         "reference-details": "A dormant volcano is the setting of this coaster-building challenge",
         "details": "Uśpiony wulkan w tym zadaniu jest wyzwaniem utrudniającym budowę parku"
     },
     "rct1ll.scenario_text.wacky_warren": {
         "reference-name": "Wacky Warren",
-        "name": "Wacky Warren",
+        "name": "Królicza Nora",
         "reference-park_name": "Wacky Warren",
-        "park_name": "Wacky Warren",
+        "park_name": "Królicza Nora",
         "reference-details": "A park which has much of its footpaths and coasters underground",
         "details": "Park ze sporą ilością podziemnych ścieżek i atrakcji"
     },
     "rct1ll.scenario_text.woodworm_park": {
         "reference-name": "Woodworm Park",
-        "name": "Woodworm Park",
+        "name": "Kącik Kornikowy",
         "reference-park_name": "Woodworm Park",
-        "park_name": "Woodworm Park",
+        "park_name": "Kącik Kornikowy",
         "reference-details": "This historical park is only allowed to build older-styled rides",
         "details": "W tym starodawnym parku dozwolona jest tylko budowa kolejek starego typu"
     },
@@ -1461,11 +1461,11 @@
     },
     "rct1ll.terrain_edge.green": {
         "reference-name": "Stucco (Green)",
-        "name": "Stiuk (Zielony)"
+        "name": "Stiuk (zielony)"
     },
     "rct1ll.terrain_edge.purple": {
         "reference-name": "Stucco (Purple)",
-        "name": "Stiuk (Fioletowy)"
+        "name": "Stiuk (fioletowy)"
     },
     "rct1ll.terrain_edge.skyscraper_a": {
         "reference-name": "Skyscraper (A)",
@@ -1477,15 +1477,15 @@
     },
     "rct1ll.terrain_edge.stone_brown": {
         "reference-name": "Sandstone (Brown)",
-        "name": "Piaskowiec (Brązowy)"
+        "name": "Piaskowiec (brązowy)"
     },
     "rct1ll.terrain_edge.stone_grey": {
         "reference-name": "Sandstone (Grey)",
-        "name": "Piaskowiec (Szary)"
+        "name": "Piaskowiec (szary)"
     },
     "rct1ll.terrain_surface.roof_grey": {
         "reference-name": "Roof (Grey)",
-        "name": "Dach (Szary)"
+        "name": "Dach (szary)"
     },
     "rct1ll.terrain_surface.rust": {
         "reference-name": "Rust",
@@ -1621,23 +1621,23 @@
     },
     "rct2.footpath_railings.bamboo_black": {
         "reference-name": "Bamboo Railings (Black)",
-        "name": "Bambusowe balustrady (Czarne)"
+        "name": "Bambusowe balustrady (czarne)"
     },
     "rct2.footpath_railings.bamboo_brown": {
         "reference-name": "Bamboo Railings (Brown)",
-        "name": "Bambusowe balustrady (Brązowe)"
+        "name": "Bambusowe balustrady (brązowe)"
     },
     "rct2.footpath_railings.concrete": {
         "reference-name": "Concrete Railings (Grey-Brown)",
-        "name": "Betonowe balustrady (Szarobrązowe)"
+        "name": "Betonowe balustrady (szarobrązowe)"
     },
     "rct2.footpath_railings.concrete_green": {
         "reference-name": "Concrete Railings (Dark Green)",
-        "name": "Betonowe balustrady (Ciemnozielone)"
+        "name": "Betonowe balustrady (ciemnozielone)"
     },
     "rct2.footpath_railings.space": {
         "reference-name": "Space Style Railings (Red)",
-        "name": "Kosmiczne balustrady (Czerwone)"
+        "name": "Kosmiczne balustrady (czerwone)"
     },
     "rct2.footpath_railings.wood": {
         "reference-name": "Wooden Railings",
@@ -1689,11 +1689,11 @@
     },
     "rct2.footpath_surface.tarmac_red": {
         "reference-name": "Red Tarmac Footpath (Stairs)",
-        "name": "Red Tarmac Footpath (Stairs)"
+        "name": "Czerwona dróżka tłuczniowa"
     },
     "rct2.music.candy": {
         "reference-name": "Candy style",
-        "name": "Styl cukierkowy"
+        "name": "Cukierkowa"
     },
     "rct2.music.custom1": {
         "reference-name": "Legacy custom music 1",
@@ -1705,119 +1705,119 @@
     },
     "rct2.music.dodgems": {
         "reference-name": "Dodgems beat style",
-        "name": "Styl zderzaków (autodromy)"
+        "name": "Elektryczne samochodziki"
     },
     "rct2.music.egyptian": {
         "reference-name": "Egyptian style",
-        "name": "Styl egipski"
+        "name": "Egipt"
     },
     "rct2.music.fairground": {
         "reference-name": "Fairground organ style",
-        "name": "Styl organów wesołego miasteczka"
+        "name": "Organy uliczne"
     },
     "rct2.music.fantasy": {
         "reference-name": "Fantasy style",
-        "name": "Styl fantasy"
+        "name": "Fantasy"
     },
     "rct2.music.gentle": {
         "reference-name": "Gentle style",
-        "name": "Styl delikatny"
+        "name": "Łagodna"
     },
     "rct2.music.horror": {
         "reference-name": "Horror style",
-        "name": "Styl horror"
+        "name": "Horror"
     },
     "rct2.music.ice": {
         "reference-name": "Ice style",
-        "name": "Styl lodowy"
+        "name": "Lód"
     },
     "rct2.music.jungle": {
         "reference-name": "Jungle drums style",
-        "name": "Styl bębnów dżungli"
+        "name": "Afrykańskie bębny"
     },
     "rct2.music.jurassic": {
         "reference-name": "Jurassic style",
-        "name": "Styl jurajski"
+        "name": "Park Jurajski"
     },
     "rct2.music.martian": {
         "reference-name": "Martian style",
-        "name": "Styl marsjański"
+        "name": "Mars"
     },
     "rct2.music.mechanical": {
         "reference-name": "Mechanical style",
-        "name": "Styl mechaniczny"
+        "name": "Mechaniczna"
     },
     "rct2.music.medieval": {
         "reference-name": "Medieval style",
-        "name": "Styl średniowieczny"
+        "name": "Średniowiecze"
     },
     "rct2.music.modern": {
         "reference-name": "Modern style",
-        "name": "Styl nowoczesny"
+        "name": "Współczesna"
     },
     "rct2.music.organ": {
         "reference-name": "Organ style",
-        "name": "Styl organowy"
+        "name": "Organy"
     },
     "rct2.music.oriental": {
         "reference-name": "Oriental style",
-        "name": "Styl orientalny"
+        "name": "Orient"
     },
     "rct2.music.pirate": {
         "reference-name": "Pirates style",
-        "name": "Styl piracki"
+        "name": "Piracka"
     },
     "rct2.music.ragtime": {
         "reference-name": "Ragtime style",
-        "name": "Styl ragtime"
+        "name": "Ragtime"
     },
     "rct2.music.rock1": {
         "reference-name": "Rock style",
-        "name": "Styl rockowy"
+        "name": "Rock"
     },
     "rct2.music.rock2": {
         "reference-name": "Rock style 2",
-        "name": "Styl rockowy 2"
+        "name": "Rock 2"
     },
     "rct2.music.rock3": {
         "reference-name": "Rock style 3",
-        "name": "Styl rockowy 3"
+        "name": "Rock 3"
     },
     "rct2.music.roman": {
         "reference-name": "Roman fanfare style",
-        "name": "Styl rzymskich fanfarów"
+        "name": "Rzymska fanfara"
     },
     "rct2.music.snow": {
         "reference-name": "Snow style",
-        "name": "Styl śnieżny"
+        "name": "Śnieg"
     },
     "rct2.music.space": {
         "reference-name": "Space style",
-        "name": "Styl kosmiczny"
+        "name": "Kosmos"
     },
     "rct2.music.summer": {
         "reference-name": "Summer style",
-        "name": "Styl letni"
+        "name": "Lato"
     },
     "rct2.music.techno": {
         "reference-name": "Techno style",
-        "name": "Styl techno"
+        "name": "Techno"
     },
     "rct2.music.toyland": {
         "reference-name": "Toyland style",
-        "name": "Styl krainy zabawek"
+        "name": "Kraina zabawek"
     },
     "rct2.music.urban": {
         "reference-name": "Urban style",
-        "name": "Styl uliczny"
+        "name": "Miasto"
     },
     "rct2.music.water": {
         "reference-name": "Water style",
-        "name": "Styl wodny"
+        "name": "Woda"
     },
     "rct2.music.wildwest": {
         "reference-name": "Wild west style",
-        "name": "Styl dziki zachód"
+        "name": "Dziki Zachód"
     },
     "rct2.park_entrance.pkemm": {
         "reference-name": "Park Entrance Gates",
@@ -1833,7 +1833,7 @@
     },
     "rct2.peep_names.original": {
         "reference-name": "Original peep names",
-        "name": "Original peep names"
+        "name": "Oryginalne imiona gości"
     },
     "rct2.ride.4x4": {
         "reference-name": "Monster Trucks",
@@ -1885,7 +1885,7 @@
     },
     "rct2.ride.arrt2": {
         "reference-name": "Hypercoaster Trains",
-        "name": "Hiperjazda",
+        "name": "Hiper jazda",
         "reference-description": "Comfortable trains with only lap bar restraints",
         "description": "Wysoka, nieobrotowa szybka kolejka górska z dużymi zjazdami i wygodnymi wagonikami, wyposażonymi w zabezpieczenia obejmujące pasażerów jedynie w pasie",
         "reference-capacity": "6 passengers per car",
@@ -2045,9 +2045,9 @@
     },
     "rct2.ride.cindr": {
         "reference-name": "Sujeonggwa Stall",
-        "name": "Kiosk Sujeonggwa",
+        "name": "Kiosk Sujongkwa",
         "reference-description": "A stall selling Korean style Sujeonggwa drinks",
-        "description": "Stoisko sprzedające koreańskie napoje Sujeonggwa"
+        "description": "Stoisko sprzedające koreańskie napoje Sujongkwa"
     },
     "rct2.ride.circus1": {
         "reference-name": "Circus",
@@ -2165,9 +2165,9 @@
     },
     "rct2.ride.funcake": {
         "reference-name": "Funnel Cake Shop",
-        "name": "Kiosk z makaronikami",
+        "name": "Kiosk z faworkami",
         "reference-description": "A stall selling funnel cakes",
-        "description": "Stoisko sprzedające ciasteczka zwane makaronikami"
+        "description": "Stoisko sprzedające lane faworki"
     },
     "rct2.ride.fwh1": {
         "reference-name": "Ferris Wheel",
@@ -2195,7 +2195,7 @@
     },
     "rct2.ride.goltr": {
         "reference-name": "Hyper-Twister Trains",
-        "name": "Pociąg hiperzwijka",
+        "name": "Hiperzwijka",
         "reference-description": "Spacious trains with simple lap restraints",
         "description": "Przestronne wagoniki z prostymi zabezpieczeniami obejmującymi pasażerów w pasie",
         "reference-capacity": "6 passengers per car",
@@ -2219,7 +2219,7 @@
         "reference-name": "Hot Chocolate Stall",
         "name": "Stragan z grzaną czekoladą",
         "reference-description": "A stall selling hot chocolate drinks",
-        "description": "Stragan z czekoladą do picia."
+        "description": "Stragan z czekoladą do picia"
     },
     "rct2.ride.helicar": {
         "reference-name": "Mini Helicopters",
@@ -2307,7 +2307,7 @@
     },
     "rct2.ride.intst": {
         "reference-name": "Giga Coaster Trains",
-        "name": "Gigajazda",
+        "name": "Giga jazda",
         "reference-description": "Roller coaster trains for the Giga Coaster, capable of smooth drops",
         "description": "Wielka stalowa kolejka górska jeżdżąca po łagodnych spadkach i wzniesieniach o wysokości 100 m",
         "reference-capacity": "4 passengers per car",
@@ -2349,7 +2349,7 @@
         "reference-name": "Lemonade Stall",
         "name": "Kiosk z lemoniadą",
         "reference-description": "A stall selling refreshing lemonade drinks",
-        "description": "Stoisko sprzedające orzeţwiającą lemoniadę"
+        "description": "Stoisko sprzedające orzeźwiającą lemoniadę"
     },
     "rct2.ride.lfb1": {
         "reference-name": "Logs",
@@ -2507,7 +2507,7 @@
         "reference-name": "Wooden Roller Coaster Trains",
         "name": "Drewniana kolejka górska",
         "reference-description": "Wooden roller coaster trains with padded seats and lap bar restraints",
-        "description": "Drewniana kolejka górska z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie",
+        "description": "Szybka, ostra i hałaśliwa kolejka jadąca po drewnianym torze, zapewniająca pasażerom niezapomniane wrażenia i dużo swobodnego spadku",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 pasażerów na wagonik"
     },
@@ -2515,7 +2515,7 @@
         "reference-name": "Wooden Roller Coaster Trains (6 seater)",
         "name": "Drewniana kolejka górska (6 miejsc)",
         "reference-description": "Wooden roller coaster trains with padded seats and lap bar restraints",
-        "description": "Drewniana kolejka górska z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie",
+        "description": "Szybka, ostra i hałaśliwa kolejka jadąca po drewnianym torze, zapewniająca pasażerom niezapomniane wrażenia i dużo swobodnego spadku",
         "reference-capacity": "6 passengers per car",
         "capacity": "6 pasażerów na wagonik"
     },
@@ -2523,7 +2523,7 @@
         "reference-name": "Wooden Roller Coaster Trains (6 seater, Reversed)",
         "name": "Drewniana kolejka górska (6 miejsc, odwrócona)",
         "reference-description": "Wooden roller coaster trains with padded seats and lap bar restraints, running with the seats facing backwards",
-        "description": "Drewniana kolejka górska z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie, z fotelami ustawionymi tyłem do kierunku jazdy",
+        "description": "Szybka, ostra i hałaśliwa kolejka jadąca po drewnianym torze, z odwróconymi wagonikami, tak aby pasażerowie byli skierowani tyłem do kierunku jazdy",
         "reference-capacity": "6 passengers per car",
         "capacity": "6 pasażerów na wagonik"
     },
@@ -2623,7 +2623,7 @@
     },
     "rct2.ride.skytr": {
         "reference-name": "Lay-down Cars",
-        "name": "Podwieszana minikolejka",
+        "name": "Podwieszana minikolejka (leżąca)",
         "reference-description": "Small suspended cars in which the passengers ride face-down in a lying position, swinging freely from side to side",
         "description": "Pasażerowie podróżują w pozycji leżącej, twarzą w dół, w specjalnych wagonikach podwieszonych pod pojedynczym torem, które bujają się swobodnie na zakrętach",
         "reference-capacity": "1 passenger per car",
@@ -2877,7 +2877,7 @@
         "reference-name": "Snow Cups",
         "name": "Śnieżne filiżanki",
         "reference-description": "Riders ride in pairs of seats rotating around a central snowman",
-        "description": "Pasażerowie jadą w parach foteli obracających się wokół centralnego bałwanka",
+        "description": "Pasażerowie jadą w parach siedzeń obracających się wokół centralnego bałwanka",
         "reference-capacity": "18 passengers",
         "capacity": "18 pasażerów"
     },
@@ -2993,217 +2993,217 @@
     },
     "rct2.scenario_text.alpine_adventures": {
         "reference-name": "Alpine Adventures",
-        "name": "Alpine Adventures",
+        "name": "Górska przygoda",
         "reference-park_name": "Alpine Adventures",
-        "park_name": "Alpine Adventures",
+        "park_name": "Górska przygoda",
         "reference-details": "Convert a small mountain ski resort into a snow-themed amusement park",
-        "details": "Przekształć niewielki ośrodek narciarski w lunapark z wystrojem zimowym."
+        "details": "Przekształć niewielki ośrodek narciarski w lunapark z wystrojem zimowym"
     },
     "rct2.scenario_text.amity_airfield": {
         "reference-name": "Amity Airfield",
-        "name": "Amity Airfield",
+        "name": "Lotnisko Pogięcie",
         "reference-park_name": "Amity Airfield",
-        "park_name": "Amity Airfield",
+        "park_name": "Lotnisko Pogięcie",
         "reference-details": "Build a flying-themed amusement park in this abandoned airport",
-        "details": "Wybuduj na tym opuszczonym lotnisku park rozrywki z lotniczym wystrojem."
+        "details": "Wybuduj na tym opuszczonym lotnisku park rozrywki z lotniczym wystrojem"
     },
     "rct2.scenario_text.botany_breakers": {
         "reference-name": "Botany Breakers",
-        "name": "Botany Breakers",
+        "name": "Wyspa Odludna",
         "reference-park_name": "Botany Breakers",
-        "park_name": "Botany Breakers",
+        "park_name": "Wyspa Odludna",
         "reference-details": "Your challenge is to build a high-profit park on this paradise island",
-        "details": "Twoim zadaniem jest wybudować na tej rajskiej wyspie lunapark przynoszący duże zyski."
+        "details": "Twoim zadaniem jest wybudować na tej rajskiej wyspie lunapark przynoszący duże zyski"
     },
     "rct2.scenario_text.build_your_own_six_flags_belgium": {
         "reference-name": "Build your own Six Flags Belgium",
-        "name": "Wybuduj własny park “Six Flags Belgium”",
+        "name": "Wybuduj własny park „Sześć Flag” - Belgia",
         "reference-park_name": "Six Flags Belgium",
-        "park_name": "Six Flags Belgium",
+        "park_name": "„Sześć Flag” - Belgia",
         "reference-details": "Build your own version of this European Six Flags park",
-        "details": "Wybuduj własną wersję tego europejskiego parku “Six Flags”"
+        "details": "Wybuduj własną wersję tego europejskiego parku „Sześciu Flag”"
     },
     "rct2.scenario_text.build_your_own_six_flags_great_adventure": {
         "reference-name": "Build your own Six Flags Great Adventure",
-        "name": "Wybuduj własny park “Six Flags Great Adventure”",
+        "name": "Wybuduj własny park „Sześć Flag” - wielka przygoda",
         "reference-park_name": "Six Flags Great Adventure",
-        "park_name": "Six Flags Great Adventure",
+        "park_name": "„Sześć Flag” - wielka przygoda",
         "reference-details": "Use your design skills to recreate this Six Flags park",
-        "details": "Skorzystaj ze swoich umiejętności projektowania, aby odtworzyć ten park “Six Flags”"
+        "details": "Skorzystaj ze swoich umiejętności projektowania, aby odtworzyć ten park „Sześciu Flag”"
     },
     "rct2.scenario_text.build_your_own_six_flags_holland": {
         "reference-name": "Build your own Six Flags Holland",
-        "name": "Wybuduj własny park “Six Flags Holland”",
+        "name": "Wybuduj własny park „Sześć Flag” - Holandia",
         "reference-park_name": "Six Flags Holland",
-        "park_name": "Six Flags Holland",
+        "park_name": "„Sześć Flag” - Holandia",
         "reference-details": "Build this European Six Flags park the way you want to",
-        "details": "Wybuduj ten europejski park “Six Flags” wedle własnego uznania"
+        "details": "Wybuduj ten europejski park “Sześciu Flag” wedle własnego uznania"
     },
     "rct2.scenario_text.build_your_own_six_flags_magic_mountain": {
         "reference-name": "Build your own Six Flags Magic Mountain",
-        "name": "Wybuduj własny park “Six Flags Magic Mountain”",
+        "name": "Wybuduj własny park czarodziejska góra „Sześciu Flag”",
         "reference-park_name": "Six Flags Magic Mountain",
-        "park_name": "Six Flags Magic Mountain",
+        "park_name": "Czarodziejska góra „Sześciu Flag”",
         "reference-details": "Create your own version of this massive Six Flags park",
-        "details": "Stwórz własną wersję tego wielkiego parku “Six Flags”"
+        "details": "Stwórz własną wersję tego wielkiego parku „Sześć Flag”"
     },
     "rct2.scenario_text.build_your_own_six_flags_over_texas": {
         "reference-name": "Build your own Six Flags over Texas",
-        "name": "Wybuduj własny park “Six Flags over Texas”",
+        "name": "Wybuduj własny park „Sześć Flag nad Teksasem”",
         "reference-park_name": "Six Flags over Texas",
-        "park_name": "Six Flags over Texas",
+        "park_name": "Sześć Flag nad Teksasem",
         "reference-details": "Starting from scratch, build the rides in this Six Flags park",
-        "details": "Wybuduj obiekty w tym parku “Six Flags”, zaczynając od samego początku"
+        "details": "Wybuduj obiekty w tym parku „Sześciu Flag”, zaczynając od samego początku"
     },
     "rct2.scenario_text.build_your_own_six_flags_park": {
         "reference-name": "Build your own Six Flags Park",
-        "name": "Wybuduj własny park “Six Flags”",
+        "name": "Wybuduj własny park „Sześć Flag”",
         "reference-park_name": "Six Flags",
-        "park_name": "Six Flags",
+        "park_name": "Sześć Flag",
         "reference-details": "Build your own design of Six Flags park - either build rides from other Six Flags parks or design and build your own rides",
-        "details": "Wybuduj własny park “Six Flags” - wykorzystaj obiekty z innych parków tej sieci lub projektuj i buduj własne atrakcje."
+        "details": "Wybuduj własny park „Sześć Flag” - wykorzystaj obiekty z innych parków tej sieci lub projektuj i buduj własne atrakcje"
     },
     "rct2.scenario_text.bumbly_bazaar": {
         "reference-name": "Bumbly Bazaar",
-        "name": "Bumbly Bazaar",
+        "name": "Gwarne targowisko",
         "reference-park_name": "Bumbly Bazaar",
-        "park_name": "Bumbly Bazaar",
+        "park_name": "Gwarne targowisko",
         "reference-details": "Starting with a small market bazaar, your challenge is to increase the profit from shops and stalls by building rides and roller coasters to attract more customers",
-        "details": "Zaczynasz od małego targowiska, a twoim zadaniem jest zwiększenie zysku przynoszonego przez sklepy i stragany. Buduj karuzele i kolejki, aby przyciągnąć klientów."
+        "details": "Zaczynasz od małego targowiska, a twoim zadaniem jest zwiększenie zysku przynoszonego przez sklepy i stragany. Buduj karuzele i kolejki, aby przyciągnąć klientów"
     },
     "rct2.scenario_text.crazy_castle": {
         "reference-name": "Crazy Castle",
-        "name": "Crazy Castle",
+        "name": "Zwariowany zamek",
         "reference-park_name": "Crazy Castle",
-        "park_name": "Crazy Castle",
+        "park_name": "Zwariowany zamek",
         "reference-details": "You have inherited a large castle. Your job is to convert it into a small theme park.",
-        "details": "Otrzymujesz w spadku wielki zamek - twoim zadaniem jest przekształcić go w mały park tematyczny."
+        "details": "Otrzymujesz w spadku wielki zamek - twoim zadaniem jest przekształcić go w mały park tematyczny"
     },
     "rct2.scenario_text.dusty_greens": {
         "reference-name": "Dusty Greens",
-        "name": "Dusty Greens",
+        "name": "Zapiaszczone Dołki",
         "reference-park_name": "Dusty Greens",
-        "park_name": "Dusty Greens",
+        "park_name": "Zapiaszczone Dołki",
         "reference-details": "Situated near a highway junction in the desert, Dusty Greens is an opportunity to develop a small golf resort into a thriving theme park",
-        "details": "Masz sposobność przekształcić Dusty Greens - niewielki klub golfowy znajdujący się przy skrzyżowaniu autostrad - w kwitnący lunapark."
+        "details": "Masz sposobność przekształcić Zapiaszczone Dołki - niewielki klub golfowy znajdujący się przy skrzyżowaniu autostrad - w kwitnący lunapark"
     },
     "rct2.scenario_text.electric_fields": {
         "reference-name": "Electric Fields",
-        "name": "Electric Fields",
+        "name": "Elektryczne pola",
         "reference-park_name": "Electric Fields",
-        "park_name": "Electric Fields",
+        "park_name": "Elektryczne pola",
         "reference-details": "You have inherited a small farm, and your challenge is to build a small theme park amongst the fields and farm buildings",
-        "details": "Otrzymujesz w spadku małą farmę, a twoim zadaniem jest wybudowanie małego parku tematycznego na polach, wśród budynków gospodarczych."
+        "details": "Otrzymujesz w spadku małą farmę, a twoim zadaniem jest wybudowanie małego parku tematycznego na polach, wśród budynków gospodarczych"
     },
     "rct2.scenario_text.extreme_heights": {
         "reference-name": "Extreme Heights",
-        "name": "Extreme Heights",
+        "name": "Ekstremalne wysokości",
         "reference-park_name": "Extreme Heights",
-        "park_name": "Extreme Heights",
+        "park_name": "Ekstremalne wysokości",
         "reference-details": "Free of financial restrictions, your challenge is to expand this desert park to attract people seeking the ultimate thrills",
-        "details": "Nie musisz kłopotać się finansami - twoim zadaniem jest rozbudowa tego pustynnego lunaparku w celu przyciągnięcia amatorów ekstremalnych wrażeń."
+        "details": "Nie musisz kłopotać się finansami - twoim zadaniem jest rozbudowa tego pustynnego lunaparku w celu przyciągnięcia amatorów ekstremalnych wrażeń"
     },
     "rct2.scenario_text.factory_capers": {
         "reference-name": "Factory Capers",
-        "name": "Factory Capers",
+        "name": "300% normy",
         "reference-park_name": "Factory Capers",
-        "park_name": "Factory Capers",
+        "park_name": "300% normy",
         "reference-details": "An abandoned factory complex is an opportunity to build a mechanical-themed amusement park",
-        "details": "Opuszczony kompleks fabryczny to świetne miejsce pod budowę parku rozrywki z wystrojem mechanicznym."
+        "details": "Opuszczony kompleks fabryczny to świetne miejsce pod budowę parku rozrywki z wystrojem mechanicznym"
     },
     "rct2.scenario_text.fungus_woods": {
         "reference-name": "Fungus Woods",
-        "name": "Fungus Woods",
+        "name": "Grzybowe Lasy",
         "reference-park_name": "Fungus Woods",
-        "park_name": "Fungus Woods",
+        "park_name": "Grzybowe Lasy",
         "reference-details": "Restricted to only older-style wooden rides, your challenge is to build a thriving theme park in Fungus Woods",
-        "details": "Twoim zadaniem jest stworzenie kwitnącego lunaparku w Grzybowych Lasach, przy czym musisz ograniczyć się do staroświeckich drewnianych obiektów."
+        "details": "Twoim zadaniem jest stworzenie kwitnącego lunaparku w Grzybowych Lasach, przy czym musisz ograniczyć się do staroświeckich drewnianych obiektów"
     },
     "rct2.scenario_text.ghost_town": {
         "reference-name": "Ghost Town",
-        "name": "Ghost Town",
+        "name": "Miasto-widmo",
         "reference-park_name": "Ghost Town",
-        "park_name": "Ghost Town",
+        "park_name": "Miasto-widmo",
         "reference-details": "Hired by a large amusement park chain, your task is to build them a giant roller coaster park around an abandoned mining town",
-        "details": "Otrzymujesz zlecenie od sieci lunaparków na wybudowanie wielkiego parku kolejek górskich wokół opuszczonego miasteczka górniczego."
+        "details": "Otrzymujesz zlecenie od sieci lunaparków na wybudowanie wielkiego parku kolejek górskich wokół opuszczonego miasteczka górniczego"
     },
     "rct2.scenario_text.gravity_gardens": {
         "reference-name": "Gravity Gardens",
-        "name": "Gravity Gardens",
+        "name": "Ogrody Grawitacji",
         "reference-park_name": "Gravity Gardens",
-        "park_name": "Gravity Gardens",
+        "park_name": "Ogrody Grawitacji",
         "reference-details": "Your challenge is to build a roller coaster park in the beautiful Gravity Gardens. No other rides, just roller coasters!",
-        "details": "Twoim zadaniem jest wybudowanie lunaparku z kolejkami górskimi w pięknych ogrodach Grawitacji - żadnych karuzel, same kolejki!"
+        "details": "Twoim zadaniem jest wybudowanie lunaparku z kolejkami górskimi w pięknych Ogrodach Grawitacji - żadnych karuzel, same kolejki!"
     },
     "rct2.scenario_text.infernal_views": {
         "reference-name": "Infernal Views",
-        "name": "Infernal Views",
+        "name": "Piekielny widok",
         "reference-park_name": "Infernal Views",
-        "park_name": "Infernal Views",
+        "park_name": "Piekielny widok",
         "reference-details": "A park nestled precariously on lava rock with streams of magma",
-        "details": "Lunapark umieszczony na polu lawy, poprzecinanym strumieniami rozpalonej magmy."
+        "details": "Lunapark umieszczony na polu lawy, poprzecinanym strumieniami rozpalonej magmy"
     },
     "rct2.scenario_text.lucky_lake": {
         "reference-name": "Lucky Lake",
-        "name": "Lucky Lake",
+        "name": "Jezioro Szczęściarzy",
         "reference-park_name": "Lucky Lake",
-        "park_name": "Lucky Lake",
+        "park_name": "Jezioro Szczęściarzy",
         "reference-details": "With unlimited funds but a challenging lake location, this park will be a challenge to expand and manage",
-        "details": "Z uwagi na trudne położenie nad jeziorem rozbudowa i zarządzanie tym lunaparkiem będzie dużym wyzwaniem pomimo nieograniczonych funduszy."
+        "details": "Z uwagi na trudne położenie nad jeziorem rozbudowa i zarządzanie tym lunaparkiem będzie dużym wyzwaniem pomimo nieograniczonych funduszy"
     },
     "rct2.scenario_text.rainbow_summit": {
         "reference-name": "Rainbow Summit",
-        "name": "Rainbow Summit",
+        "name": "Tęczowy Szczyt",
         "reference-park_name": "Rainbow Summit",
-        "park_name": "Rainbow Summit",
+        "park_name": "Tęczowy Szczyt",
         "reference-details": "Built on a hillside, this park is forbidden from building anything tall. Can you expand the park and make it successful?",
         "details": "Ten park, ulokowany na zboczu wzgórza, nie może zawierać żadnych wysokich obiektów. Czy uda ci się go rozbudować i zapewnić mu powodzenie?"
     },
     "rct2.scenario_text.six_flags_belgium": {
         "reference-name": "Six Flags Belgium",
-        "name": "Six Flags Belgium",
+        "name": "„Sześć Flag” - Belgia",
         "reference-park_name": "Six Flags Belgium",
-        "park_name": "Six Flags Belgium",
+        "park_name": "„Sześć Flag” - Belgia",
         "reference-details": "Try your hand at running and improving this Six Flags park",
-        "details": "Spróbuj poprowadzić i rozbudować ten park “Six Flags”"
+        "details": "Spróbuj poprowadzić i rozbudować ten park „Sześciu Flag”"
     },
     "rct2.scenario_text.six_flags_great_adventure": {
         "reference-name": "Six Flags Great Adventure",
-        "name": "Six Flags Great Adventure",
+        "name": "„Sześć Flag” - wielka przygoda",
         "reference-park_name": "Six Flags Great Adventure",
-        "park_name": "Six Flags Great Adventure",
+        "park_name": "„Sześć Flag” - wielka przygoda",
         "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
-        "details": "Wybuduj brakujące obiekty “Six Flags” lub upiększ lunapark własnymi projektami! Tylko nie zapomnij o ostatecznym celu - musisz przyciągnąć do parku więcej gości!"
+        "details": "Wybuduj brakujące atrakcje „Sześciu Flag” lub ulepsz lunapark własnymi projektami! Tylko nie zapomnij o ostatecznym celu - musisz przyciągnąć do parku więcej gości!"
     },
     "rct2.scenario_text.six_flags_holland": {
         "reference-name": "Six Flags Holland",
-        "name": "Six Flags Holland",
+        "name": "„Sześć Flag” - Holandia",
         "reference-park_name": "Six Flags Holland",
-        "park_name": "Six Flags Holland",
+        "park_name": "„Sześć Flag” - Holandia",
         "reference-details": "Try your hand at running and improving this Six Flags park",
-        "details": "Spróbuj poprowadzić i rozbudować ten park “Six Flags”"
+        "details": "Spróbuj poprowadzić i rozbudować ten park „Sześciu Flag”"
     },
     "rct2.scenario_text.six_flags_magic_mountain": {
         "reference-name": "Six Flags Magic Mountain",
-        "name": "Six Flags Magic Mountain",
+        "name": "Czarodziejska góra „Sześciu Flag”",
         "reference-park_name": "Six Flags Magic Mountain",
-        "park_name": "Six Flags Magic Mountain",
+        "park_name": "Czarodziejska góra „Sześciu Flag”",
         "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to repay your loan while keeping the park value up!",
-        "details": "Wybuduj brakujące obiekty “Six Flags” lub upiększ lunapark własnymi projektami! Tylko nie zapomnij o ostatecznym celu - musisz spłacić kredyt, równocześnie zwiększając wartość parku!"
+        "details": "Wybuduj brakujące obiekty “Sześciu Flag” lub upiększ lunapark własnymi projektami! Tylko nie zapomnij o ostatecznym celu - musisz spłacić kredyt, równocześnie zwiększając wartość parku!"
     },
     "rct2.scenario_text.six_flags_over_texas": {
         "reference-name": "Six Flags over Texas",
-        "name": "Six Flags over Texas",
+        "name": "Sześć Flag nad Teksasem",
         "reference-park_name": "Six Flags over Texas",
-        "park_name": "Six Flags over Texas",
+        "park_name": "Sześć Flag nad Teksasem",
         "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
-        "details": "Wybuduj brakujące obiekty “Six Flags” lub upiększ lunapark własnymi projektami! Tylko nie zapomnij o ostatecznym celu - musisz przyciągnąć do parku więcej gości!"
+        "details": "Wybuduj brakujące obiekty “Sześciu Flag” lub upiększ lunapark własnymi projektami! Tylko nie zapomnij o ostatecznym celu - musisz przyciągnąć do parku więcej gości!"
     },
     "rct2.scenario_text.tycoon_park": {
         "reference-name": "Tycoon Park",
-        "name": "Tycoon Park",
+        "name": "Park magnacki",
         "reference-park_name": "Tycoon Park",
-        "park_name": "Tycoon Park",
+        "park_name": "Park magnacki",
         "reference-details": "",
         "details": ""
     },
@@ -3333,7 +3333,7 @@
     },
     "rct2.scenery_large.glthent": {
         "reference-name": "‘Goliath’ Sign",
-        "name": "Napis Goliath"
+        "name": "Napis Goliat"
     },
     "rct2.scenery_large.mdsaent": {
         "reference-name": "‘Medusa’ Sign",
@@ -4845,7 +4845,7 @@
     },
     "rct2.scenery_small.wspout": {
         "reference-name": "Water Spout",
-        "name": "×ródełko"
+        "name": "Źródełko"
     },
     "rct2.scenery_wall.wallbadm": {
         "reference-name": "Badminton Racket",
@@ -5105,7 +5105,7 @@
     },
     "rct2.scenery_wall.walltxgt": {
         "reference-name": "‘Texas Giant’ Sign",
-        "name": "Olbrzymi napis „Teksas”"
+        "name": "Napis Teksański Gigant"
     },
     "rct2.scenery_wall.wallu132": {
         "reference-name": "Wall",
@@ -5353,19 +5353,19 @@
     },
     "rct2.station.abstract": {
         "reference-name": "Abstract",
-        "name": "Abstrakcyjna"
+        "name": "Abstrakcyjny"
     },
     "rct2.station.canvas_tent": {
         "reference-name": "Canvas Tent",
-        "name": "Namiot"
+        "name": "Płócienny namiot"
     },
     "rct2.station.castle_brown": {
         "reference-name": "Castle (Brown)",
-        "name": "Zamek (Brązowy)"
+        "name": "Zamek (brązowy)"
     },
     "rct2.station.castle_grey": {
         "reference-name": "Castle (Grey)",
-        "name": "Zamek (Szary)"
+        "name": "Zamek (szary)"
     },
     "rct2.station.classical": {
         "reference-name": "Classical / Roman",
@@ -5377,7 +5377,7 @@
     },
     "rct2.station.log": {
         "reference-name": "Log Cabin",
-        "name": "Hata z bali"
+        "name": "Chata drwala"
     },
     "rct2.station.pagoda": {
         "reference-name": "Pagoda",
@@ -5389,15 +5389,15 @@
     },
     "rct2.station.snow": {
         "reference-name": "Snow / Ice",
-        "name": "Śnieg / Lód"
+        "name": "Śnieżny / Lodowy"
     },
     "rct2.station.space": {
         "reference-name": "Space",
-        "name": "Kosmos"
+        "name": "Kosmiczny"
     },
     "rct2.station.wooden": {
         "reference-name": "Wooden",
-        "name": "Drewno"
+        "name": "Drewniany"
     },
     "rct2.terrain_edge.ice": {
         "reference-name": "Ice",
@@ -5433,19 +5433,19 @@
     },
     "rct2.terrain_surface.grid_green": {
         "reference-name": "Grid (Green)",
-        "name": "Krata (Zielona)"
+        "name": "Krata (zielona)"
     },
     "rct2.terrain_surface.grid_purple": {
         "reference-name": "Grid (Purple)",
-        "name": "Krata (Fioletowa)"
+        "name": "Krata (fioletowa)"
     },
     "rct2.terrain_surface.grid_red": {
         "reference-name": "Grid (Red)",
-        "name": "Krata (Czerwona)"
+        "name": "Krata (czerwona)"
     },
     "rct2.terrain_surface.grid_yellow": {
         "reference-name": "Grid (Yellow)",
-        "name": "Krata (Żółta)"
+        "name": "Krata (żółta)"
     },
     "rct2.terrain_surface.ice": {
         "reference-name": "Ice",
@@ -5465,11 +5465,11 @@
     },
     "rct2.terrain_surface.sand_brown": {
         "reference-name": "Sand (Brown)",
-        "name": "Piasek (Brązowy)"
+        "name": "Piasek (brązowy)"
     },
     "rct2.terrain_surface.sand_red": {
         "reference-name": "Sand (Red)",
-        "name": "Piasek (Czerwony)"
+        "name": "Piasek (czerwony)"
     },
     "rct2.water.wtrcyan": {
         "reference-name": "Natural Water",
@@ -5699,7 +5699,7 @@
         "reference-name": "Dinosaur Egg Ride",
         "name": "Jaja dinozaura",
         "reference-description": "Riders ride in pairs, in themed seats rotating around an animated mother dinosaur",
-        "description": "Pasażerowie podróżują parami w stylizowanych siedziskach obracających się wokół ruchomej dinozaurowej mamy",
+        "description": "Pasażerowie jadą w parach stylizowanych siedzeń, obracających się wokół ruchomej dinozaurowej mamy",
         "reference-capacity": "18 passengers",
         "capacity": "18 pasażerów"
     },
@@ -5763,7 +5763,7 @@
         "reference-name": "B-Movie Giant Spider Ride",
         "name": "Przejażdżka na olbrzymim pająku",
         "reference-description": "Riders ride in pairs of themed seats which rotate around a giant B-Movie spider",
-        "description": "Pasażerowie podróżują parami w stylizowanych siedziskach, okrążających olbrzymiego pająka jak z kiepskiego dreszczowca",
+        "description": "Pasażerowie jadą w parach stylizowanych siedzeń, okrążających olbrzymiego pająka jak z kiepskiego dreszczowca",
         "reference-capacity": "18 passengers",
         "capacity": "18 pasażerów"
     },
@@ -5865,13 +5865,13 @@
         "reference-name": "Toffee Apple Market Stall",
         "name": "Stragan z jabłkami toffee",
         "reference-description": "A themed stall selling sticky toffee apples",
-        "description": "Stylizowane stoisko sprzedające lepkie słodkie jabłka."
+        "description": "Stylizowane stoisko sprzedające lepkie słodkie jabłka"
     },
     "rct2tt.ride.mktstal2": {
         "reference-name": "Lemonade Market Stall",
         "name": "Stragan z lemoniadą",
         "reference-description": "A themed stall selling old style, fresh lemonade.",
-        "description": "Stylizowane stoisko sprzedające staroświecką świeżą lemoniadę."
+        "description": "Stylizowane stoisko sprzedające staroświecką świeżą lemoniadę"
     },
     "rct2tt.ride.moonjuce": {
         "reference-name": "Moon Juice",
@@ -5889,7 +5889,7 @@
         "reference-name": "Neptune Ride",
         "name": "Przejażdżka z Neptunem",
         "reference-description": "Riders ride in pairs, in themed seats rotating around an animated statue of Neptune",
-        "description": "Pasażerowie podróżują parami w stylizowanych siedziskach obracających się wokół ruchomego posągu Neptuna.",
+        "description": "Pasażerowie jadą w parach stylizowanych siedzeń, obracających się wokół ruchomego posągu Neptuna",
         "reference-capacity": "18 passengers",
         "capacity": "18 pasażerów"
     },
@@ -5983,7 +5983,7 @@
         "reference-name": "Stampeding Herd Trains",
         "name": "Rozszalałe stado",
         "reference-description": "Roller coaster trains in which the riders ride in a standing position, themed to look like a stampeding dinosaur herd",
-        "description": "Kolejka górska z pętlami i wagonikami w kształcie rozszalałego stada dinozaurów.",
+        "description": "Kolejka górska z pętlami i wagonikami w kształcie rozszalałego stada dinozaurów",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 pasażerów na wagonik"
     },
@@ -6007,7 +6007,7 @@
         "reference-name": "Tommy Gun Ride",
         "name": "Wystrzałowa przejażdżka",
         "reference-description": "Riders ride in pairs of themed seats which rotate around a large replica Tommy Gun",
-        "description": "Pasażerowie podróżują parami w stylizowanych siedziskach, okrążających wielką replikę pistoletu maszynowego.",
+        "description": "Pasażerowie podróżują parami w stylizowanych siedziskach, okrążających wielką replikę pistoletu maszynowego",
         "reference-capacity": "18 passengers",
         "capacity": "18 pasażerów"
     },
@@ -6061,41 +6061,41 @@
     },
     "rct2tt.scenario_text.animatronic_antics": {
         "reference-name": "Animatronic Antics",
-        "name": "Animatronic Antics",
+        "name": "Mechaniczne starożytności",
         "reference-park_name": "Animatronic Antics",
-        "park_name": "Animatronic Antics",
+        "park_name": "Mechaniczne starożytności",
         "reference-details": "You have been given the task of running and improving an existing theme park, which has been built on an old film set. Build a tribute to the pioneering stop-motion animators who first brought mythical creatures to life on the silver screen.",
         "details": "Otrzymujesz zadanie prowadzenia i rozbudowy istniejącego lunaparku, wybudowanego na dawnym planie filmowym. Stwórz hołd dla pionierów animacji poklatkowej, którzy przywoływali do życia mitologiczne potwory na srebrnym ekranie."
     },
     "rct2tt.scenario_text.cliffside_castle": {
         "reference-name": "Cliffside Castle",
-        "name": "Cliffside Castle",
+        "name": "Zamek na urwisku",
         "reference-park_name": "Cliffside Castle",
-        "park_name": "Cliffside Castle",
+        "park_name": "Zamek na urwisku",
         "reference-details": "Local members of the battle re-enactment society are rather serious about their hobby. They’ve entrusted you with the job of constructing a Dark Age theme park on the grounds of Cliffside Castle.",
         "details": "Miejscowi miłośnicy odtwarzania rycerskich turniejów podchodzą do swego hobby raczej poważnie. Powierzyli ci zadanie budowy lunaparku stylizowanego na średniowiecze, który ma powstać na ziemiach Zamku na urwisku."
     },
     "rct2tt.scenario_text.coastersaurus": {
         "reference-name": "Coastersaurus",
-        "name": "Coastersaurus",
+        "name": "Kolejkozaur",
         "reference-park_name": "Coastersaurus",
-        "park_name": "Coastersaurus",
+        "park_name": "Kolejkozaur",
         "reference-details": "You’ve been given the task of constructing a Jurassic era theme park. To optimize your visitors’ access to the exotic plant and animal exhibits, you will need to build rides going over and into the valley.",
         "details": "Otrzymujesz zadanie wybudowania lunaparku w stylu jurajskim. Aby goście mogli wygodnie podziwiać egzotyczne rośliny i okazy zwierząt, musisz skonstruować kolejki przejeżdżające nad doliną i prowadzące do niej."
     },
     "rct2tt.scenario_text.crater_carnage": {
         "reference-name": "Crater Carnage",
-        "name": "Crater Carnage",
+        "name": "Katastrofa w kraterze",
         "reference-park_name": "Crater Carnage",
-        "park_name": "Crater Carnage",
+        "park_name": "Katastrofa w kraterze",
         "reference-details": "You own a dusty old meteor crater. In the true entrepreneurial spirit, you’ve decided to construct an asteroid theme park and convert your seemingly worthless land into a sizeable fortune.",
         "details": "Otrzymujesz na własność zakurzony krater po meteorycie. Jako przedsiębiorca z krwi i kości, postanawiasz zbudować park tematyczny związany z tym obiektem i przekształcić w ten sposób swój bezwartościowy teren w źródło przyzwoitych dochodów."
     },
     "rct2tt.scenario_text.extraterrestrial_extravaganza": {
         "reference-name": "Extraterrestrial Extravaganza",
-        "name": "Extraterrestrial Extravaganza",
+        "name": "Pozaziemskie szaleństwo",
         "reference-park_name": "Extraterrestrial Extravaganza",
-        "park_name": "Extraterrestrial Extravaganza",
+        "park_name": "Pozaziemskie szaleństwo",
         "reference-details": "Life has been discovered on a distant planet Build an alien theme park to cash in on the unprecedented wave of interest.",
         "details": "Odkryto życie na odległej planecie! Wybuduj park tematyczny, którego motywem przewodnim będą kosmici, a zgarniesz kasę dzięki bezprecedensowej fali zainteresowania tym zagadnieniem."
     },
@@ -6117,41 +6117,41 @@
     },
     "rct2tt.scenario_text.mythological_madness": {
         "reference-name": "Mythological Madness",
-        "name": "Mythological Madness",
+        "name": "Mitologiczne szaleństwo",
         "reference-park_name": "Mythological Madness",
-        "park_name": "Mythological Madness",
+        "park_name": "Mitologiczne szaleństwo",
         "reference-details": "You own an island of particular archaeological value. You’ve decided to fund its preservation by constructing a theme park based on the area’s rich Mythological heritage.",
         "details": "Jesteś właścicielem pewnej wyspy o dużej wartości archeologicznej. Postanawiasz sfinansować konserwację tych zabytków, budując lunapark w stylu inspirowanym mitologicznym dziedzictwem regionu."
     },
     "rct2tt.scenario_text.rock_n_roll_revival": {
         "reference-name": "Rock ‘n’ Roll Revival",
-        "name": "Rock ’n’ Roll Revival",
+        "name": "Renesans rockandrolla",
         "reference-park_name": "Rock ‘n’ Roll Revival",
-        "park_name": "Rock ’n’ Roll Revival",
+        "park_name": "Renesans rockandrolla",
         "reference-details": "This aging theme park has seen better days. Help the owner give it a retro rock ‘n’ roll makeover and turn the place into a successful venue.",
         "details": "Ten starzejący się lunapark ma najlepsze dni za sobą. Pomóż właścicielom nadać mu stylowy, rockandrollowy wygląd i przekształć to miejsce w dochodowe przedsięwzięcie."
     },
     "rct2tt.scenario_text.rocky_rambles": {
         "reference-name": "Rocky Rambles",
-        "name": "Rocky Rambles",
+        "name": "Kamienne zmagania",
         "reference-park_name": "Rocky Rambles",
-        "park_name": "Rocky Rambles",
+        "park_name": "Kamienne zmagania",
         "reference-details": "To thwart the highway developers and preserve the mysterious ancient stone circles, you will need to construct a Stone Age theme park and turn a profit. However, attracting visitors may pose a challenge, as the terrain is a tad inhospitable.",
         "details": "Aby powstrzymać budowniczych autostrady i zachować dla potomności tajemnicze kamienne kręgi, musisz wybudować lunapark w stylu epoki kamiennej i osiągnąć zyski. Jednak przyciągnięcie gości może okazać się trudne, bo okolica jest wybitnie niegościnna."
     },
     "rct2tt.scenario_text.schneider_shores": {
         "reference-name": "Schneider Shores",
-        "name": "Schneider Shores",
+        "name": "Wybrzeża Schneidera",
         "reference-park_name": "Schneider Shores",
-        "park_name": "Schneider Shores",
+        "park_name": "Wybrzeża Schneidera",
         "reference-details": "The 75th anniversary of your grandfather’s Schneider Cup victory is coming up in a few years. You’re going to honour his achievement by building a theme park based on the famous seaplane race.",
         "details": "Za kilka lat będzie mieć miejsce 75. rocznica zdobycia przez twego dziadka Pucharu Schneidera. Postanawiasz uczcić ten wielki sukces, budując lunapark stylizowany na ów sławny wyścig hydroplanów."
     },
     "rct2tt.scenario_text.sherwood_forest": {
         "reference-name": "Sherwood Forest",
-        "name": "Sherwood Forest",
+        "name": "Las Sherwood",
         "reference-park_name": "Sherwood Forest",
-        "park_name": "Sherwood Forest",
+        "park_name": "Las Sherwood",
         "reference-details": "To liberate wealth from the rich and distribute it to the needy, you and your Merry Men have decided to build a theme park in Sherwood Forest.",
         "details": "Aby uwolnić bogatych od bogactwa i rozdać go biednym, wraz ze swą bandą wesołych ludzi z lasu planujesz wybudować park tematyczny w lesie Sherwood."
     },
@@ -8511,7 +8511,7 @@
         "reference-name": "Diamond Ride",
         "name": "Brylantowa karuzela",
         "reference-description": "Riders ride in pairs of themed seats rotating around a large diamond",
-        "description": "Pasażerowie jadą w parach siedzisk wirujących na końcach trzech obracających się ramion",
+        "description": "Pasażerowie jadą w parach siedzeń wirujących na końcach trzech obracających się ramion",
         "reference-capacity": "18 passengers",
         "capacity": "18 pasażerów"
     },
@@ -8543,7 +8543,7 @@
         "reference-name": "Fabergé Egg Ride",
         "name": "Przejażdżka jajkami Faberge’a",
         "reference-description": "Riders ride in pairs of themed seats rotating around a large Fabergé egg replica",
-        "description": "Pasażerowie jadą w parach siedzisk wirujących na końcach trzech obracających się ramion",
+        "description": "Pasażerowie jadą w parach siedzeń wirujących na końcach trzech obracających się ramion",
         "reference-capacity": "18 passengers",
         "capacity": "18 pasażerów"
     },
@@ -8551,7 +8551,7 @@
         "reference-name": "Fighting Kite Ride",
         "name": "Bojowe latawce",
         "reference-description": "Riders ride in pairs of seats rotating around the ends of three long rotating arms",
-        "description": "Pasażerowie jadą w parach siedzisk wirujących na końcach trzech obracających się ramion",
+        "description": "Pasażerowie jadą w parach siedzeń wirujących na końcach trzech obracających się ramion",
         "reference-capacity": "18 passengers",
         "capacity": "18 pasażerów"
     },
@@ -8607,7 +8607,7 @@
         "reference-name": "Italian Police Ride",
         "name": "Karuzela karabinierów",
         "reference-description": "Riders ride in pairs in Italian police car replicas and rotate in circles",
-        "description": "Pasażerowie jadą w parach siedzisk wirujących na końcach trzech obracających się ramion",
+        "description": "Pasażerowie jadą w parach siedzeń wirujących na końcach trzech obracających się ramion",
         "reference-capacity": "18 passengers",
         "capacity": "18 pasażerów"
     },
@@ -8623,7 +8623,7 @@
         "reference-name": "Chinese Junk Swing Ride",
         "name": "Zakręcona dżonka",
         "reference-description": "Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees",
-        "description": "Statek jest przymocowany do ramienia z przeciwwagą i wykonuje pełne obroty",
+        "description": "Statek przymocowany do ramienia z przeciwwagą wykonuje pełne obroty",
         "reference-capacity": "12 passengers",
         "capacity": "12 pasażerów"
     },
@@ -8717,7 +8717,7 @@
     },
     "rct2ww.ride.polarber": {
         "reference-name": "Polar Bear Trains",
-        "name": "Niedţwiedţ polarny",
+        "name": "Niedźwiedź polarny",
         "reference-description": "Polar bear-shaped suspended roller coaster trains in which riders sit in pairs facing either forwards or backwards",
         "description": "Pasażerowie siedzą naprzeciwko siebie, pokonując pętle i ostre zakręty",
         "reference-capacity": "4 passengers per car",
@@ -8799,7 +8799,7 @@
         "reference-name": "Stage Coaches",
         "name": "Wędrówka pionierów",
         "reference-description": "Single roller coaster cars in the shape of a stage coach, with padded seats and lap bar restraints",
-        "description": "Drewniana kolejka górska z wyściełanymi siedzeniami i zabezpieczeniami obejmującymi pasażerów w pasie",
+        "description": "Szybka, ostra i hałaśliwa kolejka jadąca po drewnianym torze, zapewniająca pasażerom niezapomniane wrażenia i dużo swobodnego spadku",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 pasażerów na wagonik"
     },
@@ -8853,41 +8853,41 @@
     },
     "rct2ww.scenario_text.ayers_adventure": {
         "reference-name": "Ayers Adventure",
-        "name": "Ayers Adventure",
+        "name": "Przygoda Ayersa",
         "reference-park_name": "Ayers Adventure",
-        "park_name": "Ayers Adventure",
+        "park_name": "Przygoda Ayersa",
         "reference-details": "You are helping Aboriginal people to build a park as part of a cultural awareness program. You need to get a large number of guests to educate them in the unique heritage of the Aboriginal people.",
         "details": "Pomagasz Aborygenom w budowie lunaparku w ramach programu świadomości kulturalnej. Musisz przyciągnąć wielu gości i zapoznać ich z unikalnym dziedzictwem ludu Aborygenów."
     },
     "rct2ww.scenario_text.beach_barbecue_blast": {
         "reference-name": "Beach Barbecue Blast",
-        "name": "Beach Barbecue Blast",
+        "name": "Plażowe grillowanie",
         "reference-park_name": "Beach Barbecue Blast",
-        "park_name": "Beach Barbecue Blast",
+        "park_name": "Plażowe grillowanie",
         "reference-details": "A local entrepreneur’s sealife park has gone bust. You already operate a small park and buy the other park from the construction company. Develop a big combined park.",
         "details": "Miejscowe oceanarium zbankrutowało. Masz już niewielki własny lunapark i kupujesz drugi park od firmy budowlanej. Przekształć je w duży połączony lunapark."
     },
     "rct2ww.scenario_text.canyon_calamities": {
         "reference-name": "Canyon Calamities",
-        "name": "Canyon Calamities",
+        "name": "Katastrofalny kanion",
         "reference-park_name": "Canyon Calamities",
-        "park_name": "Canyon Calamities",
+        "park_name": "Katastrofalny kanion",
         "reference-details": "You have to build a park on limited land either side of this natural treasure - you do have the opportunity to buy neighbouring land from the Native American Indians. You need to complete the objective to sustain the local town’s population.",
         "details": "Twoim celem jest wybudowanie lunaparku na ograniczonym terenie znajdującym się na jednym z brzegów tego przyrodniczego cudu. Będziesz mógł kupować ziemię od Indian. Musisz osiągnąć swój cel, aby zapewnić utrzymanie mieszkańcom pobliskiego miasteczka."
     },
     "rct2ww.scenario_text.european_extravaganza": {
         "reference-name": "European Extravaganza",
-        "name": "European Extravaganza",
+        "name": "Europejskie szaleństwo",
         "reference-park_name": "European Extravaganza",
-        "park_name": "European Extravaganza",
+        "park_name": "Europejskie szaleństwo",
         "reference-details": "You have been brought in to take over a European Cultural Visitor Attraction and must increase the number of guests in order to pay back the EU subsidy by the end of the current European parliament term.",
         "details": "Zlecono ci objęcie kierownictwa działu Turystycznych Atrakcji Kulturalnych. Musisz zwiększyć liczbę gości, aby spłacić unijne dofinansowanie przed zakończeniem bieżącej kadencji parlamentu europejskiego."
     },
     "rct2ww.scenario_text.from_the_ashes": {
         "reference-name": "From The Ashes",
-        "name": "From The Ashes",
+        "name": "Jak feniks z popiołów",
         "reference-park_name": "From The Ashes",
-        "park_name": "From The Ashes",
+        "park_name": "Jak feniks z popiołów",
         "reference-details": "An old park has fallen into disrepair. You gain a European Union grant to return this deprived area to its former glory! You need to renovate the park and repay the grant.",
         "details": "Pewien stary lunapark popadł w ruinę. Otrzymujesz fundusze z Unii Europejskiej, aby przywrócić temu żałosnemu miejscu jego dawną chwałę! Musisz odnowić park i zwrócić otrzymany kredyt."
     },
@@ -8901,89 +8901,89 @@
     },
     "rct2ww.scenario_text.icy_adventures": {
         "reference-name": "Icy Adventures",
-        "name": "Icy Adventures",
+        "name": "Lodowe przygody",
         "reference-park_name": "Icy Adventures",
-        "park_name": "Icy Adventures",
+        "park_name": "Lodowe przygody",
         "reference-details": "The environment agency has turned to you to transform an old oil refinery ecological eyesore into a top tourist attraction. Land is cheap but loan interest is high. You can sell the old buildings for salvage.",
         "details": "Agencja ochrony środowiska skierowała cię do przekształcenia starej rafinerii, będącej solą w oku ekologów, w czołową atrakcję turystyczną. Ziemia jest tania, lecz odsetki od kredytów wysokie. Możesz sprzedać stare budynki, aby powiększyć swoje fundusze."
     },
     "rct2ww.scenario_text.lost_city_founder": {
         "reference-name": "Lost City Founder",
-        "name": "Lost City Founder",
+        "name": "Odkrywca zaginionego miasta",
         "reference-park_name": "Lost City Founder",
-        "park_name": "Lost City Founder",
+        "park_name": "Odkrywca zaginionego miasta",
         "reference-details": "To further boost local tourism you must construct a park that is in tune with its surroundings.",
         "details": "W celu lepszego wypromowania miejscowej turystyki musisz wybudować lunapark pasujący do swego otoczenia. Obowiązuje ograniczenie wysokości budynków."
     },
     "rct2ww.scenario_text.mines_of_africa": {
         "reference-name": "Mines of Africa",
-        "name": "Mines of Africa",
+        "name": "Kopalnie Afryki",
         "reference-park_name": "Mines of Africa",
-        "park_name": "Mines of Africa",
+        "park_name": "Kopalnie Afryki",
         "reference-details": "You inherited a disused diamond mine, and find a valuable diamond.  You decide to invest that money to build a world-famous theme park.",
         "details": "Otrzymujesz w spadku nieużywaną kopalnię diamentów i znajdujesz w niej cenny kamień szlachetny. Postanawiasz zainwestować zdobytą fortunę w budowę parku tematycznego, który zasłynie na całym świecie."
     },
     "rct2ww.scenario_text.mirage_madness": {
         "reference-name": "Mirage Madness",
-        "name": "Mirage Madness",
+        "name": "Zwariowane fatamorgany",
         "reference-park_name": "Mirage Madness",
-        "park_name": "Mirage Madness",
+        "park_name": "Zwariowane fatamorgany",
         "reference-details": "A desert Oasis has been discovered and would provide a beautiful location for a park. Transport to the oasis has been provided.",
         "details": "Odkryto pustynną oazę, która może stać się dobrym miejscem pod budowę lunaparku. Transport został zapewniony."
     },
     "rct2ww.scenario_text.okinawa_coast": {
         "reference-name": "Okinawa Coast",
-        "name": "Okinawa Coast",
+        "name": "Wybrzeże Okinawy",
         "reference-park_name": "Okinawa Coast",
-        "park_name": "Okinawa Coast",
+        "park_name": "Wybrzeże Okinawy",
         "reference-details": "An existing park has run out of space. Your only option is to build out into the sea, and so you have taken out a loan. Height restrictions on your building are enforced due to foundations and earthquake risk.",
         "details": "W pewnym parku zabrakło miejsca. Twoją jedyną szansą jest wyjście w morze i w tym celu zaciągasz kredyt. Twoje budowle muszą mieć ograniczoną wysokość z uwagi na obciążenie fundamentów i zagrożenie trzęsieniem ziemi."
     },
     "rct2ww.scenario_text.over_the_edge": {
         "reference-name": "Over The Edge",
-        "name": "Over The Edge",
+        "name": "Na skraju",
         "reference-park_name": "Over The Edge",
-        "park_name": "Over The Edge",
+        "park_name": "Na skraju",
         "reference-details": "A dam has been built offering abundant, cheap hydroelectric power with which to run a park. You need to reach a high park value to help repay the loan for the dam.",
         "details": "Wybudowano tamę umożliwiającą produkcję taniej energii w hydroelektrowni, która będzie zasilać park. Musisz sprawić, aby osiągnął on dużą wartość, dzięki czemu spłacisz kredyt zaciągnięty na budowę."
     },
     "rct2ww.scenario_text.park_maharaja": {
         "reference-name": "Park Maharaja",
-        "name": "Park Maharadży",
+        "name": "Park maharadży",
         "reference-park_name": "Park Maharaja",
-        "park_name": "Park Maharadży",
+        "park_name": "Park maharadży",
         "reference-details": "You have been commissioned by the Maharaja to bring entertainment to the large local population. Build a park inspired by the Maharaja’s palace.",
         "details": "Maharadża zlecił ci zapewnienie rozrywki swoim licznym poddanym. Wybuduj lunapark, wzorując się na pałacu maharadży."
     },
     "rct2ww.scenario_text.rainforest_romp": {
         "reference-name": "Rainforest Romp",
-        "name": "Rainforest Romp",
+        "name": "Tropikalne igraszki",
         "reference-park_name": "Rainforest Romp",
-        "park_name": "Rainforest Romp",
+        "park_name": "Tropikalne igraszki",
         "reference-details": "Space is limited in the precious rainforest - you must cram as much as possible into the existing clearing, in order to provide a viable alternative to the local timber industry.",
         "details": "W lesie deszczowym miejsce jest bardzo cenne - musisz upchnąć jak najwięcej obiektów na dostępnym wykarczowanym obszarze, aby lunapark stał się dobrą alternatywą dla miejscowego przemysłu drzewnego."
     },
     "rct2ww.scenario_text.rollercoaster_heaven": {
         "reference-name": "Rollercoaster Heaven",
-        "name": "Rollercoaster Heaven",
+        "name": "Raj kolejek górskich",
         "reference-park_name": "Rollercoaster Heaven",
-        "park_name": "Rollercoaster Heaven",
+        "park_name": "Raj kolejek górskich",
         "reference-details": "You are a successful business tycoon on long sabbatical who desires to use this time transforming the city park into Rollercoaster Heaven. Money is no object!",
         "details": "Jesteś znanym biznesmenem na urlopie i pragniesz wykorzystać wolny czas na przekształcenie miejskiego lunaparku w raj dla miłośników kolejek górskich. Pieniądze nie grają roli!"
     },
     "rct2ww.scenario_text.sugarloaf_shores": {
         "reference-name": "Sugarloaf Shores",
-        "name": "Sugarloaf Shores",
+        "name": "Pod Głową Cukru",
         "reference-park_name": "Sugarloaf Shores",
-        "park_name": "Sugarloaf Shores",
+        "park_name": "Pod Głową Cukru",
         "reference-details": "You run a small park near Rio but the bank has called in your loan. You need to quickly increase your earning capacity to repay this unexpected debt.",
         "details": "Prowadzisz mały lunapark pod Rio, a bank wezwał cię do spłacenia kredytu. Musisz szybko zwiększyć swoje przychody, aby zwrócić dług."
     },
     "rct2ww.scenario_text.wacky_waikiki": {
         "reference-name": "Wacky Waikiki",
-        "name": "Wacky Waikiki",
+        "name": "Wariackie Waikiki",
         "reference-park_name": "Wacky Waikiki",
-        "park_name": "Wacky Waikiki",
+        "park_name": "Wariackie Waikiki",
         "reference-details": "The people of Hawaii are bored of surfing and are looking for something more intense. You need to build a park with this in mind to keep the area’s tourist attraction rating high.",
         "details": "Mieszkańcy Hawajów znudzili się surfowaniem i szukają bardziej intensywnych przeżyć. Budując swój lunapark, musisz o tym pamiętać, aby utrzymać wysoką ocenę dla turystów."
     },
@@ -11609,139 +11609,139 @@
     },
     "uces.scenario_text.beneath_the_christmas_tree": {
         "reference-name": "Beneath the Christmas Tree",
-        "name": "Beneath the Christmas Tree",
+        "name": "Pod choinką",
         "reference-park_name": "Winter Wonderland",
-        "park_name": "Winter Wonderland",
+        "park_name": "Zimowa Kraina Czarów",
         "reference-details": "Mum built this scene under our tree. Now she wants a park made in it! Can you help?",
-        "details": "Mum built this scene under our tree. Now she wants a park made in it! Can you help?"
+        "details": "Mama zbudowała tę scenerię pod naszą choinką. Teraz chce, żeby powstał tam lunapark! Pomożesz?"
     },
     "uces.scenario_text.bigrock_blast": {
         "reference-name": "Bigrock Blast",
-        "name": "Bigrock Blast",
+        "name": "Wybuch Wielkiej Skały",
         "reference-park_name": "Bigrock Blast",
-        "park_name": "Bigrock Blast",
+        "park_name": "Wybuch Wielkiej Skały",
         "reference-details": "After an explosion at the Bigrock Mining Co., the people of Bigrock have to build an amusement park to keep their town alive.",
-        "details": "After an explosion at the Bigrock Mining Co., the people of Bigrock have to build an amusement park to keep their town alive."
+        "details": "Po eksplozji w kopalni, mieszkańcy Wielkiej Skały muszą zbudować park rozrywki, aby utrzymać swoje miasto przy życiu"
     },
     "uces.scenario_text.camp_mockingbird": {
         "reference-name": "Camp Mockingbird",
-        "name": "Camp Mockingbird",
+        "name": "Obóz Przedrzeźniacz",
         "reference-park_name": "Camp Mockingbird",
-        "park_name": "Camp Mockingbird",
+        "park_name": "Obóz Przedrzeźniacz",
         "reference-details": "Only $500/week to this summer camp! Break open your bank and then have fun and build a park.",
-        "details": "Only $500/week to this summer camp! Break open your bank and then have fun and build a park."
+        "details": "Tylko 500 dolarów tygodniowo za ten obóz letni! Opróżnij swoją skarbonkę i baw się dobrze, budując wesołe miasteczko"
     },
     "uces.scenario_text.cemetery_ridge": {
         "reference-name": "Cemetery Ridge",
-        "name": "Cemetery Ridge",
+        "name": "Grzbiet cmentarny",
         "reference-park_name": "Cemetery Ridge",
-        "park_name": "Cemetery Ridge",
+        "park_name": "Grzbiet cmentarny",
         "reference-details": "This is Halloween, UCES Halloween, pumpkins scream in the dead of night! This graveyard is in trouble and it’s up to you to save it, while letting the dead rest in peace! Can you keep the ghosts in their graves and bring chills to your customers?",
-        "details": "This is Halloween, UCES Halloween, pumpkins scream in the dead of night! This graveyard is in trouble and it’s up to you to save it, while letting the dead rest in peace! Can you keep the ghosts in their graves and bring chills to your customers?"
+        "details": "To jest Halloween, Halloween UCES, dynie krzyczą w martwej ciszy nocy! Cmentarz ma kłopoty, a twoim zadaniem jest go ocalić, jednocześnie pozwalając zmarłym spoczywać w pokoju! Czy uda ci się zatrzymać duchy w ich grobach i dostarczyć dreszczy odwiedzającym?"
     },
     "uces.scenario_text.choochoo_town": {
         "reference-name": "Choo-Choo Town",
-        "name": "Choo-Choo Town",
+        "name": "Pociągowe Miasteczko",
         "reference-park_name": "Choo-Choo Town",
-        "park_name": "Choo-Choo Town",
+        "park_name": "Pociągowe Miasteczko",
         "reference-details": "Mommy! Daddy! I want to go to Choo-Choo Town!",
-        "details": "Mommy! Daddy! I want to go to Choo-Choo Town!"
+        "details": "Mamo! Tato! Chcę jechać do Pociągowego Miasteczka!"
     },
     "uces.scenario_text.dragon_islands": {
         "reference-name": "Dragon Islands",
-        "name": "Dragon Islands",
+        "name": "Smocze wyspy",
         "reference-park_name": "Dragon Islands",
-        "park_name": "Dragon Islands",
+        "park_name": "Smocze wyspy",
         "reference-details": "Dragon Islands? I’m not sure I want to go there…",
-        "details": "Dragon Islands? I’m not sure I want to go there…"
+        "details": "Smocze wyspy? Nie jestem pewien, czy chcę tam pojechać…"
     },
     "uces.scenario_text.kiddie_karnival_ii": {
         "reference-name": "Kiddie Karnival II",
-        "name": "Kiddie Karnival II",
+        "name": "Karnawał Maluchów II",
         "reference-park_name": "Kiddie Karnival",
-        "park_name": "Kiddie Karnival",
+        "park_name": "Karnawał Maluchów",
         "reference-details": "Hey kids! Let’s have fun!",
-        "details": "Hey kids! Let’s have fun!"
+        "details": "Hej dzieciaki! Bawmy się!"
     },
     "uces.scenario_text.luna_park_cleveland": {
         "reference-name": "Luna Park, Cleveland",
-        "name": "Luna Park, Cleveland",
+        "name": "Lunapark Cleveland",
         "reference-park_name": "Luna Park",
-        "park_name": "Luna Park",
+        "park_name": "Lunapark",
         "reference-details": "As it was on its opening day - 18 May 1905.",
-        "details": "As it was on its opening day - 18 May 1905."
+        "details": "Tak, jak wyglądał w dniu otwarcia - 18 maja 1905 roku"
     },
     "uces.scenario_text.mount_vesuvius": {
         "reference-name": "Mount Vesuvius",
-        "name": "Mount Vesuvius",
+        "name": "Wezuwiusz",
         "reference-park_name": "Mount Vesuvius",
-        "park_name": "Mount Vesuvius",
+        "park_name": "Wezuwiusz",
         "reference-details": "Pompeii and Herculaneum were buried by Mt. Vesuvius in 79 A.D. Visit the excavations and build a park!",
-        "details": "Pompeii and Herculaneum were buried by Mt. Vesuvius in 79 A.D. Visit the excavations and build a park!"
+        "details": "Pompeje i Herkulanum zostały zasypane przez Wezuwiusza w 79 roku n.e. Odwiedź wykopaliska i zbuduj park!"
     },
     "uces.scenario_text.niagara_falls_gorge": {
         "reference-name": "Niagara Falls & Gorge",
-        "name": "Niagara Falls & Gorge",
+        "name": "Wodospad Niagara",
         "reference-park_name": "Niagara Falls",
-        "park_name": "Niagara Falls",
+        "park_name": "Wodospad Niagara",
         "reference-details": "American Falls, Bridal Falls & Canadian Horseshoe Falls on the Niagara Frontier, 1850.",
-        "details": "American Falls, Bridal Falls & Canadian Horseshoe Falls on the Niagara Frontier, 1850."
+        "details": "Wodospad Amerykański, Wodospad Ślubnego Welonu i Wodospad Podkowy - granica rzeki Niagara, rok 1850"
     },
     "uces.scenario_text.rocky_mountain_miners": {
         "reference-name": "Rocky Mountain Miners",
-        "name": "Rocky Mountain Miners",
+        "name": "Górnicy z Gór Skalistych",
         "reference-park_name": "Rocky Mountain Miners",
-        "park_name": "Rocky Mountain Miners",
+        "park_name": "Górnicy z Gór Skalistych",
         "reference-details": "A rockslide damaged your railway. Your workers have gone prospecting. Is there gold in roller coasters?",
-        "details": "A rockslide damaged your railway. Your workers have gone prospecting. Is there gold in roller coasters?"
+        "details": "Osuwisko uszkodziło twoją kolej. Twoi pracownicy rozpoczęli poszukiwania nowego źródła dochodu. Czy można zarobić na kolejkach górskich?"
     },
     "uces.scenario_text.sand_dune": {
         "reference-name": "Sand Dune",
-        "name": "Sand Dune",
+        "name": "Wydma",
         "reference-park_name": "Sand Dune",
-        "park_name": "Sand Dune",
+        "park_name": "Wydma",
         "reference-details": "As the owner of a small park, you bought a large piece of land along the beach to expand and attract more guests to visit the beautiful sand dunes, but beware: you cannot disturb those ecologically fragile sand dunes.",
-        "details": "As the owner of a small park, you bought a large piece of land along the beach to expand and attract more guests to visit the beautiful sand dunes, but beware: you cannot disturb those ecologically fragile sand dunes."
+        "details": "Jako właściciel małego parku, kupiłeś dużą działkę wzdłuż plaży, aby rozbudować park i przyciągnąć więcej gości do pięknych wydm, ale uwaga: nie możesz zakłócać tych ekologicznie wrażliwych obszarów"
     },
     "uces.scenario_text.the_lighthouse_of_alexandria": {
         "reference-name": "The Lighthouse of Alexandria",
-        "name": "The Lighthouse of Alexandria",
+        "name": "Latarnia morska na Faros",
         "reference-park_name": "The Lighthouse of Alexandria",
-        "park_name": "The Lighthouse of Alexandria",
+        "park_name": "Latarnia morska na Faros",
         "reference-details": "Alexander built the city; Greeks, Romans, Egyptians left their mark. But the biggest honor was a Wonder of the Ancient World - the Lighthouse. Visit and make a park!",
-        "details": "Alexander built the city; Greeks, Romans, Egyptians left their mark. But the biggest honor was a Wonder of the Ancient World - the Lighthouse. Visit and make a park!"
+        "details": "Aleksander Macedoński zbudował miasto; Grecy, Rzymianie i Egipcjanie zostawili swój ślad. Największym zaszczytem był jednak jeden z siedmiu cudów starożytnego świata - latarnia morska. Odwiedź to miejsce i stwórz lunapark!"
     },
     "uces.scenario_text.the_sandbox": {
         "reference-name": "The Sandbox",
-        "name": "The Sandbox",
+        "name": "Piaskownica",
         "reference-park_name": "The Sandbox",
-        "park_name": "The Sandbox",
+        "park_name": "Piaskownica",
         "reference-details": "What everyone wants - a sandbox! So grab your l’il pail and shovel and build a park!",
-        "details": "What everyone wants - a sandbox! So grab your l’il pail and shovel and build a park!"
+        "details": "To czego wszyscy pragną - piaskownica! Weź swoją małą łopatkę oraz wiaderko i stwórz park!"
     },
     "uces.scenario_text.the_time_machine": {
         "reference-name": "The Time Machine",
-        "name": "The Time Machine",
+        "name": "Wehikuł czasu",
         "reference-park_name": "The Time Machine",
-        "park_name": "The Time Machine",
+        "park_name": "Wehikuł czasu",
         "reference-details": "The Time Machine. Build to go - when you want, where you want. Eternity awaits. It’s all relative.",
-        "details": "The Time Machine. Build to go - when you want, where you want. Eternity awaits. It’s all relative."
+        "details": "Wehikuł czasu - budowany, by podróżować kiedy chcesz i gdzie chcesz. Wieczność czeka. Wszystko jest względne"
     },
     "uces.scenario_text.tower_of_babel": {
         "reference-name": "Tower of Babel",
-        "name": "Tower of Babel",
+        "name": "Wieża Babel",
         "reference-park_name": "Tower of Babel",
-        "park_name": "Tower of Babel",
+        "park_name": "Wieża Babel",
         "reference-details": "Whoaa! Look where the time machine took us now! Where did everybody go?",
-        "details": "Whoaa! Look where the time machine took us now! Where did everybody go?"
+        "details": "Wow! Zobacz, gdzie zabrał nas wehikuł czasu! Gdzie się wszyscy podziali?"
     },
     "uces.scenario_text.transformation": {
         "reference-name": "Transformation",
-        "name": "Transformation",
+        "name": "Transformacja",
         "reference-park_name": "Transformation",
-        "park_name": "Transformation",
+        "park_name": "Transformacja",
         "reference-details": "We were expecting you…",
-        "details": "We were expecting you…"
+        "details": "Spodziewaliśmy się Ciebie…"
     },
     "uces.scenario_text.urbis_incognitus": {
         "reference-name": "Urbis Incognitus",
@@ -11749,6 +11749,6 @@
         "reference-park_name": "Urbis Incognitus",
         "park_name": "Urbis Incognitus",
         "reference-details": "The Romans are tired of boring gladiator fights. Give them a better thrill, turn a Roman city into the greatest amusement park of all time!",
-        "details": "The Romans are tired of boring gladiator fights. Give them a better thrill, turn a Roman city into the greatest amusement park of all time!"
+        "details": "Rzymianie mają dość nudnych walk gladiatorów. Daj im lepszą rozrywkę, przekształcając rzymskie miasto w najlepszy park rozrywki wszech czasów!"
     }
 }
