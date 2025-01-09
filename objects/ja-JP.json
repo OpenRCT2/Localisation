@@ -33,47 +33,47 @@
     },
     "openrct2.footpath_railings.invisible": {
         "reference-name": "Invisible Railings",
-        "name": "Invisible Railings"
+        "name": "見えない手すり"
     },
     "openrct2.footpath_surface.invisible": {
         "reference-name": "Invisible Footpath",
-        "name": "Invisible Footpath"
+        "name": "見えない歩道"
     },
     "openrct2.footpath_surface.queue_invisible": {
         "reference-name": "Invisible Queue",
-        "name": "Invisible Queue"
+        "name": "見えない行列"
     },
     "openrct2.ride.alpine_coaster": {
         "reference-name": "Alpine Coaster Cars",
-        "name": "Alpine Coaster Cars",
+        "name": "アルパインコースター車両",
         "reference-description": "Wheeled sleds equipped with manually operated brakes",
-        "description": "Wheeled sleds equipped with manually operated brakes",
+        "description": "手動で操作するブレーキを装備した車輪付きのそり",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "1車両あたり2人の乗客"
     },
     "openrct2.ride.hybrid_coaster": {
         "reference-name": "Hybrid Coaster Trains",
-        "name": "Hybrid Coaster Trains",
+        "name": "ハイブリッドコースター車両",
         "reference-description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
-        "description": "Roller coaster trains with lap restraints, capable of steep drops and inversions",
+        "description": "ラップレストレイントがあるジェットコースター車両で、急降下や反転が可能",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "1車両あたり4人の乗客"
     },
     "openrct2.ride.modern_twister": {
         "reference-name": "Modern Twister Trains",
-        "name": "Modern Twister Trains",
+        "name": "モダンツイスター車両",
         "reference-description": "Spacious trains with lap restraints, capable of tight twists and inversions",
-        "description": "Spacious trains with lap restraints, capable of tight twists and inversions",
+        "description": "ラップレストレイントがあり、タイトなツイストや反転が可能な広々とした車両",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "1車両あたり4人の乗客"
     },
     "openrct2.ride.single_rail_coaster": {
         "reference-name": "Single Rail Roller Coaster Trains",
-        "name": "Single Rail Roller Coaster Trains",
+        "name": "シングルレールジェットコースター車両",
         "reference-description": "Roller coaster trains in which riders are seated single file",
-        "description": "Roller coaster trains in which riders are seated single file",
+        "description": "乗客が1列に並んで座るジェットコースター車両",
         "reference-capacity": "1 passenger per car",
-        "capacity": "1 passenger per car"
+        "capacity": "1車両あたり1人の乗客"
     },
     "openrct2.station.noentrance": {
         "reference-name": "No entrance",
@@ -101,7 +101,7 @@
     },
     "rct1.footpath_surface.queue_blue": {
         "reference-name": "Blue Queue (Sloped)",
-        "name": "Blue Queue (Sloped)"
+        "name": "青い行列（傾斜）"
     },
     "rct1.footpath_surface.road": {
         "reference-name": "Road",
@@ -633,15 +633,15 @@
     },
     "rct1aa.footpath_surface.queue_green": {
         "reference-name": "Green Queue",
-        "name": "Green Queue"
+        "name": "緑の行列"
     },
     "rct1aa.footpath_surface.queue_red": {
         "reference-name": "Red Queue (Sloped)",
-        "name": "Red Queue (Sloped)"
+        "name": "赤い行列（傾斜）"
     },
     "rct1aa.footpath_surface.queue_yellow": {
         "reference-name": "Yellow Queue (Sloped)",
-        "name": "Yellow Queue (Sloped)"
+        "name": "黄色い行列（傾斜）"
     },
     "rct1aa.footpath_surface.tarmac_brown": {
         "reference-name": "Brown Tarmac Footpath (Sloped)",
@@ -653,7 +653,7 @@
     },
     "rct1aa.footpath_surface.tarmac_red": {
         "reference-name": "Red Tarmac Footpath (Sloped)",
-        "name": "Red Tarmac Footpath (Sloped)"
+        "name": "赤いアスファルト歩道（傾斜）"
     },
     "rct1aa.footpath_surface.tiles_grey": {
         "reference-name": "Grey Tiled Footpath",
@@ -1089,11 +1089,11 @@
     },
     "rct1beta.terrain_edge.brick": {
         "reference-name": "Brick (Brown)",
-        "name": "Brick (Brown)"
+        "name": "レンガ（茶）"
     },
     "rct1beta.terrain_edge.rock": {
         "reference-name": "Rock (Brown)",
-        "name": "Rock (Brown)"
+        "name": "岩（茶）"
     },
     "rct1beta.terrain_surface.wildflowers": {
         "reference-name": "Wildflowers",
@@ -1109,11 +1109,11 @@
     },
     "rct1ll.footpath_railings.bamboo": {
         "reference-name": "Bamboo Railings (Yellow)",
-        "name": "Bamboo Railings (Yellow)"
+        "name": "竹の手すり（黄色）"
     },
     "rct1ll.footpath_railings.space": {
         "reference-name": "Space Style Railings (Grey)",
-        "name": "Space Style Railings (Grey)"
+        "name": "スペーススタイルの手すり（グレー）"
     },
     "rct1ll.footpath_surface.tiles_green": {
         "reference-name": "Green and Brown Tiled Footpath",
@@ -1629,27 +1629,27 @@
     },
     "rct2.footpath_railings.bamboo_black": {
         "reference-name": "Bamboo Railings (Black)",
-        "name": "Bamboo Railings (Black)"
+        "name": "竹の手すり（黒）"
     },
     "rct2.footpath_railings.bamboo_brown": {
         "reference-name": "Bamboo Railings (Brown)",
-        "name": "Bamboo Railings (Brown)"
+        "name": "竹の手すり（茶）"
     },
     "rct2.footpath_railings.concrete": {
         "reference-name": "Concrete Railings (Grey-Brown)",
-        "name": "Concrete Railings (Grey-Brown)"
+        "name": "コンクリートの手すり（灰茶）"
     },
     "rct2.footpath_railings.concrete_green": {
         "reference-name": "Concrete Railings (Dark Green)",
-        "name": "Concrete Railings (Dark Green)"
+        "name": "コンクリートの手すり（ダークグリーン）"
     },
     "rct2.footpath_railings.space": {
         "reference-name": "Space Style Railings (Red)",
-        "name": "Space Style Railings (Red)"
+        "name": "スペーススタイルの手すり（赤）"
     },
     "rct2.footpath_railings.wood": {
         "reference-name": "Wooden Railings",
-        "name": "Wooden Railings"
+        "name": "木製の手すり"
     },
     "rct2.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Rounded)",
@@ -1665,19 +1665,19 @@
     },
     "rct2.footpath_surface.queue_blue": {
         "reference-name": "Blue Queue (Stairs)",
-        "name": "Blue Queue (Stairs)"
+        "name": "青い行列（階段）"
     },
     "rct2.footpath_surface.queue_green": {
         "reference-name": "Dark Green Queue",
-        "name": "Dark Green Queue"
+        "name": "ダークグリーンの行列"
     },
     "rct2.footpath_surface.queue_red": {
         "reference-name": "Red Queue (Stairs)",
-        "name": "Red Queue (Stairs)"
+        "name": "赤い行列（階段）"
     },
     "rct2.footpath_surface.queue_yellow": {
         "reference-name": "Yellow Queue (Stairs)",
-        "name": "Yellow Queue (Stairs)"
+        "name": "黄色い行列（階段）"
     },
     "rct2.footpath_surface.road": {
         "reference-name": "Road",
@@ -1697,7 +1697,7 @@
     },
     "rct2.footpath_surface.tarmac_red": {
         "reference-name": "Red Tarmac Footpath (Stairs)",
-        "name": "Red Tarmac Footpath (Stairs)"
+        "name": "赤いアスファルト歩道（階段）"
     },
     "rct2.music.candy": {
         "reference-name": "Candy style",
@@ -1901,7 +1901,7 @@
     },
     "rct2.peep_names.original": {
         "reference-name": "Original peep names",
-        "name": "Original peep names"
+        "name": "オリジナルのピープ名"
     },
     "rct2.ride.4x4": {
         "reference-name": "Monster Trucks",
@@ -5601,31 +5601,31 @@
     },
     "rct2tt.footpath_railings.balustrade": {
         "reference-name": "Balustrade",
-        "name": "Balustrade"
+        "name": "バラスレード"
     },
     "rct2tt.footpath_railings.circuitboard": {
         "reference-name": "Circuit Board Railings",
-        "name": "Circuit Board Railings"
+        "name": "回路基板の手すり"
     },
     "rct2tt.footpath_railings.circuitboard_invisible": {
         "reference-name": "Sky Walk",
-        "name": "Sky Walk"
+        "name": "スカイウォーク"
     },
     "rct2tt.footpath_railings.medieval": {
         "reference-name": "Medieval Railings",
-        "name": "Medieval Railings"
+        "name": "中世の手すり"
     },
     "rct2tt.footpath_railings.pavement": {
         "reference-name": "Iron Railings",
-        "name": "Iron Railings"
+        "name": "鉄の手すり"
     },
     "rct2tt.footpath_railings.rainbow": {
         "reference-name": "Rainbow Railings",
-        "name": "Rainbow Railings"
+        "name": "虹の手すり"
     },
     "rct2tt.footpath_railings.rocky": {
         "reference-name": "Jungle Railings",
-        "name": "Jungle Railings"
+        "name": "ジャングルの手すり"
     },
     "rct2tt.footpath_surface.circuitboard": {
         "reference-name": "Circuit Footpath",
@@ -5645,15 +5645,15 @@
     },
     "rct2tt.footpath_surface.queue_circuitboard": {
         "reference-name": "Circuit Queue",
-        "name": "Circuit Queue"
+        "name": "回路行列"
     },
     "rct2tt.footpath_surface.queue_pavement": {
         "reference-name": "Pavement Queue",
-        "name": "Pavement Queue"
+        "name": "アスファルト行列"
     },
     "rct2tt.footpath_surface.queue_rainbow": {
         "reference-name": "Rainbow Queue",
-        "name": "Rainbow Queue"
+        "name": "虹の行列"
     },
     "rct2tt.footpath_surface.rainbow": {
         "reference-name": "Rainbow Footpath",
