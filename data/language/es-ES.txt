@@ -93,12 +93,13 @@ STR_0088    :Montaña Rusa Impulso Inverso
 STR_0089    :Mini Montaña Rusa
 STR_0090    :Trenes Mineros
 STR_0091    :Atracc. Desconocida (59)
-STR_0092    :Montaña Rusa Impulso MLI
-STR_0093    :Montaña Rusa Híbrida 
+STR_0092    :Montaña Rusa acelerada por LIM
+STR_0093    :Montaña Rusa Híbrida
 STR_0094    :Montaña Rusa de un solo carril
 STR_0095    :Montaña Rusa Alpina
 STR_0096    :Montaña Rusa de madera clásica
 STR_0097    :Montaña Rusa de pie clásica
+STR_0098    :Montaña Rusa acelerada por LSM
 STR_0512    :Una montaña rusa pequeña de acero con una subida en espiral y vagones con asientos en línea.
 STR_0513    :Una montaña rusa en el que los pasajeros permanecen de pie.
 STR_0514    :Los vagones suspendidos bajo los raíles se balancean hacia los lados en las curvas.
@@ -112,7 +113,7 @@ STR_0521    :Una montaña rusa rápida con curvas cerradas y fuertes caídas. La
 STR_0522    :Pequeña montaña rusa en donde los pasajeros se montan en unos vagones que recorren un monorriel.
 STR_0523    :Los pasajeros viajan lentamente en vehículos autopropulsados sobre una vía.
 STR_0524    :Un vagón es lanzado en un neumático a lo alto de una elevada torre de acero, cayendo libremente.
-STR_0525    :Los pasajeros viajan por unas vías retorcidas en vagones tipo bobsleigh guiados únicamente por la curvatura y los peraltes de la vía semicircular.
+STR_0525    :Los pasajeros viajan por unas vías con giro en vagones tipo bobsleigh guiados únicamente por la curvatura y los peraltes de la vía semicircular.
 STR_0526    :Los pasajeros viajan en una cabina de observación giratoria que se desplaza hacia arriba en una torre alta.
 STR_0527    :Una montaña rusa de acero capaz de rizos verticales.
 STR_0528    :Los pasajeros viajan en botes hinchables por tubos semicirculares o totalmente cerrados.
@@ -156,7 +157,7 @@ STR_0569    :Montados bajo la vía con un arnés especial, los visitantes experi
 STR_0571    :Vagones circulares giran mientras recorren sobre la zigzagueante vía de madera.
 STR_0572    :Botes de gran capacidad viajan por un amplio canal, los cuales son impulsados por una cinta transportadora para después caer y hacer grandes salpicaduras.
 STR_0573    :Vagones con forma de helicópteros corren por una vía de acero controlados por los pedales de los pasajeros.
-STR_0574    :Los pasajeros son sujetados tumbados por unos arneses especiales, mientras viajan por una vía retorcida con inversiones de espaldas o boca abajo.
+STR_0574    :Los pasajeros son sujetados tumbados por unos arneses especiales, mientras viajan por una vía con giros e inversiones de espaldas o boca abajo.
 STR_0575    :Trenes monorraíl suspendidos transportan a la gente por el parque.
 STR_0577    :Vagones que corren por una vía de madera girando en secciones especiales de inversión.
 STR_0578    :Los vagones circulan por vías formando aros y recorriendo bruscas caídas y giros.
@@ -175,14 +176,15 @@ STR_0590    :Los pasajeros viajan en un submarino sumergido que viaja sobre una 
 STR_0591    :Barcos en forma de balsa viajan suavemente sobre un río.
 STR_0593    :
 STR_0598    :Los vagones de la montaña rusa invertida aceleran saliendo del andén y tomando un tramo de vía vertical, entonces vuelven marcha atrás pasando por el andén y subiendo por otro tramo de vía vertical.
-STR_0599    :Una montaña rusa compacta con vagones individuales y caídas y giros suaves.
-STR_0600    :Trenes mineros autopropulsados corren a lo largo de una vía suave y retorcida.
-STR_0602    :Los vagones se aceleran por los motores lineales de inducción.
+STR_0599    :Una montaña rusa compacta con vagones individuales y caídas con giro suaves.
+STR_0600    :Trenes mineros autopropulsados corren a lo largo de una vía suave y con giros.
+STR_0602    :Los vagones de la montaña rusa son acelerados fuera de la estación por motores de inducción lineal (LIM) para atravesar inversiones con giro a gran velocidad.
 STR_0603    :Una montaña rusa estilo de madera con vías de acero, lo que le permite caídas empinadas e inversiones.
 STR_0604    :Los pasajeros viajan en fila india en una pista de monorraíl estrecha, mientras corren a través de inversiones estrechas y cambios de dirección.
 STR_0605    :Los pasajeros bajan por una serpenteante vía de acero, frenando para controlar su velocidad.
 STR_0606    :Una montaña rusa de madera de estilo antiguo con un recorrido rápido y bruto, con muchas caídas, algunas fuerzas G laterales, y diseñada para ofrecer una experiencia ‘fuera de control’.
 STR_0607    :Una intensa montaña rusa en espiral de acero y de estilo antiguo en la que los pasajeros viajan de pie.
+STR_0608    :Los vagones de la montaña rusa son acelerados por motores síncronos lineales (LSM), avanzando a toda velocidad por giros y curvas cerradas.
 STR_0767    :Visitante {INT32}
 STR_0768    :Manitas {INT32}
 STR_0769    :Mecánico {INT32}
@@ -3602,7 +3604,7 @@ STR_6537    :Permitir usar senderos normales como cola
 STR_6538    :Muestra senderos normales en el menú desplegable de colas de la ventana Senderos.
 STR_6539    :Freno cerrado
 STR_6540    :{WINDOW_COLOUR_2}En especial gracias a las siguientes empresas for permitir el uso de su imagen:
-STR_6541    :{WINDOW_COLOUR_2}Rocky Mountain Construction Group, Josef Wiegand GmbH & Co. KG
+STR_6541    :{WINDOW_COLOUR_2}Rocky Mountain Construction Group, Josef Wiegand GmbH & Co. KG, Intamin Amusement Rides Int. Corp. Est.
 STR_6542    :Colaboradores
 STR_6543    :Colaboradores…
 STR_6544    :¡El préstamo no puede ser negativo!
@@ -3771,5 +3773,3 @@ STR_6706    :{WINDOW_COLOUR_2}Archivo de imagen actual: {BLACK}{STRING}
 STR_6707    :(ninguno seleccionado)
 STR_6708    :Fuerza de Suavizado
 STR_6709    :Introduce una Fuerza de Suavizado entre {COMMA16} y {COMMA16}
-
-
