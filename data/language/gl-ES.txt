@@ -3214,7 +3214,7 @@ STR_6102    :O valor dunha atracción non diminúe co paso do tempo, polo que os
 STR_6103    :Esta opción está desactivada durante unha partida multixogador.
 STR_6105    :Hiper montaña rusa
 STR_6107    :Camións Monstro
-STR_6109    :Hyper-Twister
+STR_6109    :Montaña Rusa Hiper-Twister
 STR_6111    :Mini montaña rusa clásica
 STR_6113    :Unha montaña rusa alta e non invertible con grandes caídas, coches de alta velocidade e cómodos con só unhas poucas barras para agarrarse
 STR_6115    :Camións 4x4 autopropulsados ​​xigantes que poden escalar outeiros impresionantes
@@ -3786,3 +3786,583 @@ STR_6726    :Y:
 STR_6727    :Bucle de mergullo (esquerda)
 STR_6728    :Loop de mergullo (dereita)
 STR_6729    :A subida da telecadeira debe comezar inmediatamente despois da estación ou do freno de bloqueo
+
+STR_6111    :Mini montaña rusa clásica
+STR_6113    :Unha montaña rusa alta e non invertible con grandes caídas, coches de alta velocidade e cómodos con só unhas poucas barras para agarrarse
+STR_6115    :Camións 4x4 autopropulsados ​​xigantes que poden escalar outeiros impresionantes
+STR_6116    :Montaña rusa ancha sobre vías de aceiro que realiza varias inversións
+STR_6119    :Unha montaña rusa barata e fácil de construír, pero cunha altura limitada.
+STR_6120    :{BABYBLUE}Vehículo novo dispoñible agora para {STRINGID}:{NEWLINE}{STRINGID}
+STR_6121    :Estende os dereitos de construción do parque aos bordos do mapa.
+STR_6122    :Non hai suficientes montañas rusas neste escenario!
+STR_6123    :Produciuse un erro ao cargar obxectos para o Parque
+STR_6124    :Nome do obxecto
+STR_6125    :Tipo de obxecto
+STR_6126    :Tipo descoñecido
+STR_6127    :Ficheiro: {STRING}
+STR_6128    :Non se pode cargar o ficheiro porque faltan ou están corruptos algúns dos obxectos aos que se fai referencia. Móstrase unha lista destes obxectos:
+STR_6129    :Copia
+STR_6130    :Copiar todo
+STR_6131    :Orixe
+STR_6132    :Ignorar o estado da investigación
+STR_6133    :Accede a atraccións e escenarios que aínda non foron inventados
+STR_6134    :Limpar etapa
+STR_6135    :O cliente enviou unha solicitude non válida
+STR_6136    :O servidor enviou unha solicitude non válida
+STR_6137    :OpenRCT2, xogo de código aberto que recrea e amplía Roller Coaster Tycoon 2.
+STR_6138    :OpenRCT2 é obra de moitos autores, pódese atopar unha lista completa a través do botón "Colaboradores". Para obter máis información, visite: http://github.com/OpenRCT2/OpenRCT2
+STR_6139    :Todos os nomes de produtos e empresas son propiedade dos seus respectivos propietarios. O uso deles non implica ningunha afiliación nin aval por eles.
+STR_6140    :Rexistro de cambios...
+STR_6141    : Barra de ferramentas inferior RCT1
+STR_6142    :{WINDOW_COLOUR_2}Nome da ruta: {BLACK}{STRING}
+STR_6143    :{WINDOW_COLOUR_2}Tipo de atracción: {BLACK}{STRINGID}
+STR_6144    :Mostrar o redeseño
+STR_6145    :Establece o límite de velocidade para os impulsores
+STR_6146    :Activar todas as pezas de pista que se poden debuxar
+STR_6147    :Activa todas as pezas de pista para as que o tipo de paseo é apto na xanela de construción, independentemente de que o vehículo sexa compatible.
+STR_6148    :Conectándose ao servidor principal...
+STR_6149    :Non se puido conectar ao servidor mestre
+STR_6150    :resposta non válida do servidor mestre (sen número JSON)
+STR_6151    :O servidor mestre non devolveu a Lista de servidores
+STR_6152    :resposta non válida do servidor mestre (sen matriz JSON)
+STR_6153    :Pago por entrada / Pago por atracción
+STR_6154    :Por motivos de seguridade, non se recomenda iniciar OpenRCT2 con privilexios elevados.
+STR_6155    :Nin KDialog nin Zenity están instalados. Instala un ou configura un desde a liña de comandos.
+STR_6156    :O nome está reservado
+STR_6157    :Consola
+STR_6160    :{WINDOW_COLOUR_2}Vehículos dispoñibles: {BLACK}{STRING}
+STR_6161    :Alterar liñas de grade
+STR_6162    :Rato xiratorio salvaxe
+STR_6163    :os coches con forma de rato realizan xiros pronunciados e descensos curtos, mentres xiran suavemente para desorientar aos pasaxeiros.
+STR_6164    :{BRANCO}❌
+STR_6165    :Utiliza a sincronización vertical
+STR_6166    :Sincroniza cada fotograma mostrado coa frecuencia de actualización do monitor, evitando a imaxe distorsionada.
+STR_6167    :Avanzado
+STR_6168    :Secuencia da pantalla de inicio
+STR_6169    :Selección de escenario
+STR_6170    :Configuración da interface
+STR_6171    :Buscar
+STR_6172    :Buscar
+STR_6173    :Introduza o nome para buscar:
+STR_6188    :Vómitos
+STR_6189    :Pato
+STR_6191    :Superficie
+STR_6192    :Muro
+STR_6193    :{COMMA16} convidado
+STR_6194    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} convidado
+STR_6195    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} convidado
+STR_6196    :{BLACK}Ano:
+STR_6197    :{BLACK}Mes:
+STR_6198    :{BLACK}Día:
+STR_6199    :Establecer data
+STR_6200    :Restablecer data
+STR_6201    :{MONTH}
+STR_6202    :Estilo de piso virtual:
+STR_6203    :Se está activado, renderase un piso virtual mantendo mantendo CTRL ou MAIÚS para facilitar a colocación vertical dos elementos.
+STR_6215    :Construción
+STR_6216    :Operación
+STR_6217    :Dispoñibilidade de atraccións/pistas
+STR_6218    :OpenRCT2 Oficial
+STR_6219    :Destaque os problemas de busca de rutas
+STR_6220    :Facer utilizable
+STR_6221    :Isto establecerá a saída ou entrada coñecida da atracción na caixa seleccionada. Só se pode utilizar unha entrada e unha saída por estación.
+STR_6222    :Non podes colocar aquí entrada de visitante...
+STR_6223    :Debe estar fóra dos límites do parque!
+STR_6224    :{STRING} colocouse un punto de entrada de visitante
+STR_6225    :Non é compatible co renderizador OpenGL
+STR_6226    :Activar a vitoria anticipada.
+STR_6227    :fai que o escenario se remate se todos os obxectivos se cumpren antes da data que desencadea a condición de vitoria.
+STR_6228    :Opcións de escenario.
+STR_6229    :{WINDOW_COLOUR_2}{STRINGID}: {STRINGID}
+STR_6230    :{BLACK}{STRINGID}:
+STR_6231    :{WINDOW_COLOUR_2}{STRINGID}: {MOVE_X}{185}{STRINGID}
+STR_6232    :Conxelado
+STR_6233    :Vista illada
+STR_6234    :Destaque os problemas de busca de rutas
+STR_6235    :Información do servidor
+STR_6236    :Xogadores
+STR_6237    :Grupos
+STR_6238    :Opcións multixogador
+STR_6239    :Corte Vertical
+STR_6240    :Corte Horizontal
+STR_6241    :Seleccionar área
+STR_6242    :Borrar selección
+STR_6243    :Renova a atracción, {NEWLINE} déixaa como nova!
+STR_6244    :Non se pode renovar
+STR_6245    :a atracción non necesita renovación
+STR_6246    :Renovar
+STR_6247    :Renovar a atracción
+STR_6248    :{WINDOW_COLOUR_1}Queres renovar {STRINGID} por {CURRENCY}?
+STR_6249    :{WINDOW_COLOUR_1}Queres renovar {STRINGID}?
+STR_6250    :{WINDOW_COLOUR_1}Estás seguro de que queres demoler {STRINGID} e gañar {CURRENCY}?
+STR_6251    :A atracción aínda non está baleira
+STR_6255    :URL non válido.
+STR_6256    :Efectos ao renderizar
+STR_6257    :Translúcido
+STR_6258    :Transparente
+STR_6259    :Desactivado
+STR_6260    :Mostrar caixas bloqueadas
+STR_6261    :Mostrar camiños anchos
+STR_6262    :Volum principal
+STR_6263    :Activa ou desactiva todos os sons
+STR_6264    :Utiliza sempre o explorador de ficheiros do sistema
+STR_6265    :Cando estea activado, empregarase o explorador de ficheiros do SO en lugar de OpenRCT2.
+STR_6266    :Abrir cartafol de contido personalizado
+STR_6267    :Inspector de rede aberta
+STR_6268    :Adiantar un tick
+STR_6269    :ID meteorolóxico non válido
+STR_6270    :Superficies terrestres
+STR_6271    :Marxes terrestres
+STR_6272    :Temporadas
+STR_6273    :Música
+STR_6274    :Non se poden definir cores...
+STR_6275    :{WINDOW_COLOUR_2}Estilo da estación:
+STR_6276    :{RED}{STRINGID} ten visitantes atascados, posiblemente debido a un tipo de atracción ou modo de funcionamento non válidos.
+STR_6277    :Índice da estación: {BLACK}{STRINGID}
+STR_6278    :Número de gardados automáticos
+STR_6279    :Número de ficheiros gardados automaticamente a manter
+STR_6280    :Chat
+STR_6281    :Mostrar un botón de chat separado na barra de ferramentas
+STR_6282    :Chat
+STR_6283    :Chat non dispoñible ¿Estás conectado a un servidor?
+STR_6293    :B
+STR_6294    :KiB
+STR_6295    :MiB
+STR_6296    :GiB
+STR_6297    :TiB
+STR_6298    :{STRING}/s
+STR_6299    :Descargar todo
+STR_6300    :Descarga todos os obxectos que faltan se está dispoñible en liña.
+STR_6301    :Copia o nome do obxecto seleccionado no portapapeis.
+STR_6302    :Copia toda a lista de obxectos que faltan no portapapeis.
+STR_6303    :Descargando obxecto ({COMMA16} / {COMMA16}): [{STRING}]
+STR_6304    :Abrir o selector de escenarios
+STR_6305    :Multithreading
+STR_6306    :A opción experimental para usar varios núcleos na representación pode ser inestable.
+STR_6307    :Esquema de cores: {BLACK}{STRINGID}
+STR_6308    :{TOPAZ}“{STRINGID}{OUTLINE}{TOPAZ}”{NEWLINE}{STRINGID}
+STR_6309    :Volver conectar
+STR_6310    :{WINDOW_COLOUR_2}Posición: {BLACK}{INT32} {INT32} {INT32}
+STR_6311    :{WINDOW_COLOUR_2}Seguinte: {BLACK}{INT32} {INT32} {INT32}
+STR_6312    :(superficie)
+STR_6313    :(rexeitar {INT32})
+STR_6314    :{WINDOW_COLOUR_2}Destino: {BLACK}{INT32}, {INT32} tolerancia {INT32}
+STR_6315    :{WINDOW_COLOUR_2}Destino de busca de ruta: {BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
+STR_6316    :{WINDOW_COLOUR_2}Historial de rutas:
+STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
+STR_6318    :Dessincronización detectada.{NEWLINE}Rexistro: {STRING}
+STR_6319    :Bloque de freado pechado
+STR_6320    :Indestructible
+STR_6321    :o agregado está roto
+STR_6322    :{WINDOW_COLOUR_2}ID da entidade: {BLACK}{INT32}
+STR_6323    :Simulando
+STR_6324    :Simular
+STR_6325    :Simular atracción
+STR_6326    :Non se pode simular {STRINGID}...
+STR_6327    :Fondo transparente para capturas de pantalla xigantes
+STR_6328    :Con esta opción activada, as capturas de pantalla xigantes terán un fondo transparente en lugar do fondo negro predeterminado.
+STR_6329    :{STRING}{STRINGID}
+STR_6330    :Descargando [{STRING}] desde {STRING} ({COMMA16} / {COMMA16})
+STR_6331    :Crear parrulos
+STR_6332    :Eliminar parrulos
+STR_6333    :Aumenta o factor de escala
+STR_6334    :Diminuír o factor de escala
+STR_6336    :Grid Inspector: Copiar elemento
+STR_6337    :Grid Inspector: Pegar elemento
+STR_6338    :Grid Inspector: Eliminar elemento
+STR_6339    :Grid Inspector: mover elemento cara arriba
+STR_6340    :Grid Inspector: Mover elemento cara abaixo
+STR_6341    :Grid Inspector: Aumenta a coordenada X
+STR_6342    :Grid Inspector: Diminuír a coordenada X
+STR_6343    :Grid Inspector: Aumenta a coordenada Y
+STR_6344    :Grid Inspector: Diminuír a coordenada Y
+STR_6345    :Grid Inspector: aumenta a altura do elemento
+STR_6346    :Grid Inspector: Diminuír a altura do elemento
+STR_6347    :Non se poden engadir pistas nos pasos a nivel!
+STR_6348    :Elimina primeiro o paso a nivel!
+STR_6349    :Secuencia de pantalla de inicio aleatoria
+STR_6350    :Distribuír
+STR_6351    :ferramenta de deseño de escenarios
+STR_6352    :Densidade
+STR_6353    :Baixa densidade
+STR_6354    :Densidade media
+STR_6355    :Alta densidade
+STR_6356    :Crear parrulos se o parque ten auga
+STR_6357    :Elimina todos os parrulos do mapa
+STR_6358    :Páxina {UINT16}
+STR_6359    :{POP16}{POP16}Páxina {UINT16}
+STR_6361    :Efectos da luz nas atraccións (experimental)
+STR_6362    :Se está activado, os vehículos das atraccións da pista iluminaranse pola noite.
+STR_6363    :Copiar texto no portapapeis
+STR_6364    :{RED}{COMMA16} persoa morreu nun accidente a bordo de {STRINGID}
+STR_6365    :Mortes na atracción
+STR_6366    :Vehículos atascados ou parados
+STR_6367    :Cadro de animación:
+STR_6368    :Por razóns de compatibilidade, non se recomenda executar OpenRCT2 sobre Wine. OpenRCT2 ten soporte nativo para macOS, Linux, FreeBSD e OpenBSD.
+STR_6369    :Permitir construír a alturas non válidas
+STR_6370    :Permíteche construír carrís e pezas en calquera rango de altura
+STR_6371    :A ruta especificada contén unha instalación de RCT1, pero o ficheiro ‘csg1i.dat’ non existe. Este ficheiro NECESITA copiar do CD RCT Deluxe ou Loopy Landscapes ao cartafol "Datos" da instalación de RollerCoaster Tycoon 1 no seu disco duro.
+STR_6372    :A ruta especificada contén unha instalación de RCT1, pero esta versión non é correcta. OpenRCT2 REQUIRE unha versión de RCT Deluxe ou Loopy Landscapes para poder usar os recursos de Roller Coaster Tycoon 1.
+STR_6373    :Activar a comprobación de autorización
+STR_6374    :G
+STR_6375    :Viaxe descoñecida
+STR_6376    :{WINDOW_COLOUR_2}Viaxe en vehículo:{NEWLINE}{BLACK}{STRINGID} para {STRINGID}
+STR_6377    :{WINDOW_COLOUR_2}Tipo: {BLACK}{STRINGID} para {STRINGID}
+STR_6378    :Recepción da lista de obxectos:
+STR_6379    :Recibiron datos non válidos
+STR_6380    :Actualización dispoñible!
+STR_6381    :Únete ao OpenRCT2 Discord!
+STR_6382    :Nova versión estable de OpenRCT2 dispoñible: {STRING}!
+STR_6383    :Abrir páxina de descarga
+STR_6384    :Neve
+STR_6385    :Nevadas fortes
+STR_6386    :Tempestade de neve
+STR_6387    :Non se pode descargar o elemento aquí...
+STR_6388    :Non se puido cargar o elemento aquí...
+STR_6389    :Autorización non válida
+STR_6390    :OpenRCT2 require os ficheiros orixinais do xogo RollerCoaster Tycoon 2 para executarse. Seleccione o directorio onde ten instalado RollerCoaster Tycoon 2.
+STR_6391    :Escolle o teu directorio RCT2.
+STR_6392    :Non se puido atopar {STRING} neste camiño.
+STR_6393    :Selección de destino.
+STR_6394    :Obxectivo
+STR_6395    :Mantemento
+STR_6396    :Desactivar o protector do monitor e o aforro de enerxía.
+STR_6397    :Se está activado, o protector de pantalla e outras funcións de aforro de enerxía desactivaranse mentres OpenRCT2 estea aberto.
+STR_6398    :O ficheiro contén atraccións incompatibles. Actualiza a unha versión máis recente de OpenRCT2.
+STR_6399    :OpenRCT2 require ficheiros do xogo orixinal de RollerCoaster Tycoon 2 para executarse. Establece a variable ‘game_path’ en config.ini no directorio onde instalou RollerCoaster Tycoon 2 e reinicia OpenRCT2.
+STR_6400    :Descarguei o instalador sen conexión de GOG, pero non está instalado.
+STR_6401    :Xa instalei RollerCoaster Tycoon 2
+STR_6402    :Configuración de datos OpenRCT2
+STR_6403    :Escolle a opción que mellor se aplique a ti.
+STR_6404    :Seleccione o instalador de RollerCoaster Tycoon 2 GOG.
+STR_6405    :Escolle o instalador de GOG
+STR_6406    :instalador de GOG RollerCoaster Tycoon 2
+STR_6407    :Pode tardar uns minutos.
+STR_6408    :Instale ‘innoextract’ para extraer o instalador de GOG e despois reinicie OpenRCT2.
+STR_6409    :O ficheiro seleccionado non é o instalador fóra de liña de GOG para RollerCoaster Tycoon 2. É posible que descargueses o código de descarga de GOG Galaxy ou seleccionaches o ficheiro incorrecto.
+STR_6410    :Achegar ou diminuír
+STR_6411    :Mostrar os botóns de zoom na barra de ferramentas
+STR_6412    :Introdución do teclado numérico
+STR_6413    :Maiúsculas
+STR_6414    :Cambio L
+STR_6415    :Cambio R
+STR_6416    :Ctrl
+STR_6417    :L Ctrl
+STR_6418    :R Ctrl
+STR_6419    :Alt
+STR_6420    :L Alt
+STR_6421    :R Alt
+STR_6422    :Cmd
+STR_6423    :L Cmd
+STR_6424    :R Cmd
+STR_6425    :Alegría deixou
+STR_6426    :Alegría certo
+STR_6427    :Alegría
+STR_6428    :Alegría
+STR_6429    :Alegría {INT32}
+STR_6430    :LMB
+STR_6431    :RMB
+STR_6432    :Rato {INT32}
+STR_6433    :Eliminar
+STR_6434    :Elimina todos os edificios deste atallo.
+STR_6435    :{WINDOW_COLOUR_2}Vándalos arrestados: {BLACK}{COMMA32}
+STR_6436    :Activar/desactivar a invisibilidade
+STR_6437    :Visible
+STR_6438    :{MOVE_X}{2}👁
+STR_6439    :Grid Inspector: activa/desactiva a invisibilidade
+STR_6440    :Auga transparente
+STR_6441    :Debe seleccionar polo menos un camiño que non sexa da cola.
+STR_6442    :Debe seleccionar polo menos un camiño que sexa unha liña de espera.
+STR_6443    :Debe seleccionar polo menos un camiño que teña pasamáns.
+STR_6444    :Superficies de camiños.
+STR_6445    :pasamáns do camiño.
+STR_6446    :{WINDOW_COLOUR_2}Nome da superficie: {BLACK}{STRINGID}
+STR_6447    :{WINDOW_COLOUR_2}Nome do pasamáns: {BLACK}{STRINGID}
+STR_6448    :Formato de obxecto non compatible
+STR_6449    :{WINDOW_COLOUR_2}Camiños:
+STR_6450    :{BLACK}“{STRING}”
+STR_6451    :{BLACK}“{STRING}” - {STRING}
+STR_6452    :{WINDOW_COLOUR_2}Vender: {BLACK}{STRING}
+STR_6453    :Copiar a información da versión
+STR_6454    :Non se pode cambiar o nome do banner...
+STR_6455    :Non se pode cambiar o nome do sinal...
+STR_6456    :Captura de pantalla xigante
+STR_6457    :Informar dun erro en GitHub
+STR_6458    :siga isto na vista principal
+STR_6460    :D
+STR_6461    :Enderezo
+STR_6462    :Emoción
+STR_6463    :Emoción: {COMMA2DP32}
+STR_6464    :Intensidade
+STR_6465    :Forza: {COMMA2DP32}
+STR_6466    :Náuseas
+STR_6467    :Náuseas: {COMMA2DP32}
+STR_6468    :aínda non dispoñible
+STR_6469    :Establecer zona de patrulla máis pequena
+STR_6470    :Establecer unha zona de patrulla máis grande
+STR_6471    :Vexetación transparente
+STR_6472    :Vehículos transparentes
+STR_6473    :Soportes transparentes
+STR_6474    :Visitantes invisibles
+STR_6475    :Empleados invisibles
+STR_6476    :Vexetación invisible
+STR_6477    :Escenario invisible
+STR_6478    :Camiños invisibles
+STR_6479    :Atraccións invisibles
+STR_6480    :Vehículos invisibles
+STR_6481    :Opcións de transparencia
+STR_6482    :Opcións de transparencia
+STR_6483    :Abrir opcións de transparencia
+STR_6484    :Alterar vexetación transparente
+STR_6485    :Alternar vehículos transparentes
+STR_6486    :Alterar visitantes invisibles
+STR_6487    :Alterar empregados invisibles
+STR_6488    :{RED}Os hóspedes quéixanse das longas filas no teu parque.{NEWLINE}Considera acurtar as liñas problemáticas ou aumentar o rendemento da viaxe.
+STR_6489    :{RED}ERRO: Versión do parque incompatible
+STR_6490    :{RED}ADVERTENCIA: a versión Park non é totalmente compatible
+STR_6491    :Este parque gardouse nunha versión máis recente de OpenRCT2. Este parque gardouse en v{INT32} e require polo menos v{INT32}. Actualmente estás en v{INT32}.
+STR_6492    :Este parque gardouse nunha versión antiga de OpenRCT2 e non se pode abrir con esta versión de OpenRCT2. Este parque é a versión v{INT32}.
+STR_6493    :Este parque gardouse nunha versión máis recente de OpenRCT2, podendo perderse algúns datos. Este parque gardouse en v{INT32}, actualmente estás en v{INT32}.
+STR_6494    :Agrupar por tipo de atracción
+STR_6495    :Agrupa as atraccións por tipo en lugar de mostrar cada vehículo por separado.
+STR_6496    :{WINDOW_COLOUR_2}{STRINGID}
+STR_6497    :Fai clic nunha caixa para mostrar os seus elementos.{NEWLINE}Ctrl + clic nun elemento para seleccionalo directamente.
+STR_6498    :Activa para manter o mapa en forma cadrada.
+STR_6499    :Tipo de vehículo non compatible co formato de deseño da estrada
+STR_6500    :Elementos non compatibles co formato de deseño da estrada
+STR_6501    :Cor aleatoria
+STR_6502    :Introduza un valor entre {COMMA16} e {COMMA16}
+STR_6503    :Debe seleccionar polo menos un obxecto de estación
+STR_6504    :Debe seleccionar polo menos unha superficie do terreo
+STR_6505    :Debe seleccionar polo menos un bordo do terreo
+STR_6506    :Sacacorchos mediano grande (esquerda)
+STR_6507    :Sacacorchos grande (dereita)
+STR_6508    :rizo medio medio (esquerda)
+STR_6509    :rizo medio medio (dereita)
+STR_6510    :Xiro de gravidade cero (esquerda)
+STR_6511    :Xiro de gravidade cero (dereita)
+STR_6512    :gran xiro de gravidade cero (esquerda)
+STR_6513    :Gran xiro de gravidade cero (dereita)
+STR_6514    :Altura non válida!
+STR_6515    :{BLACK}RollerCoaster Tycoon 1 non foi ligado - utilizaranse imaxes alternativas.
+STR_6516    :Un ou máis obxectos engadidos requiren ter ligado RollerCoaster Tycoon 1 para a súa visualización correcta. Utilizaranse imaxes alternativas.
+STR_6517    :Un ou máis obxectos deste parque requiren ter ligado RollerCoaster Tycoon 1 para a súa visualización correcta. Utilizaranse imaxes alternativas.
+STR_6518    :{BLACK}Pasa o rato sobre un escenario para ver a súa descrición e os seus obxectivos. Fai clic para comezar a xogar.
+STR_6519    :Extras
+STR_6520    :Paquetes de recursos
+STR_6521    :Prioridade baixa
+STR_6522    :Alta prioridade
+STR_6523    :Diminuír a prioridade do paquete de recursos seleccionado.
+STR_6524    :Aumenta a prioridade do paquete de recursos seleccionado.
+STR_6525    :Volve cargar todos os recursos do xogo cos paquetes de recursos activados.
+STR_6526    :(gráficos básicos, música e efectos de son)
+STR_6527    :Competicións
+STR_6528    :Parámetros de pista non válidos!
+STR_6529    :Parámetro de esquema de cores non válido!
+STR_6530    :Conxunto de expansión creado polo usuario
+STR_6531    :A máquina do tempo
+STR_6532    :O mundo de Katy
+STR_6533    :{WINDOW_COLOUR_2}Factor de excitación: {BLACK}-{COMMA16}%
+STR_6534    :{WINDOW_COLOUR_2}Factor de intensidade: {BLACK}-{COMMA16}%
+STR_6535    :{WINDOW_COLOUR_2}Factor de náuseas: {BLACK}-{COMMA16}%
+STR_6536    :Este parque gardouse nunha versión máis recente de OpenRCT2. Este parque gardouse en v{INT32}, actualmente estás en v{INT32}.
+STR_6537    :Permitir que as rutas normais se utilicen como cola
+STR_6538    :Mostra rutas normais no menú despregable da cola da xanela Rutas.
+STR_6539    :freo pechado
+STR_6540    :{WINDOW_COLOUR_2}Grazas especiais ás seguintes empresas por permitir o uso da súa imaxe:
+STR_6541    :{WINDOW_COLOUR_2}Rocky Mountain Construction Group, Josef Wiegand GmbH & Co. KG, Intamin Amusement Rides Int. Corp. Est.
+STR_6542    :Colaboradores
+STR_6543    :Colaboradores...
+STR_6544    :O préstamo non pode ser negativo!
+STR_6545    :Utiliza o cálculo de intereses RCT1
+STR_6546    :Utilice o algoritmo de cálculo de intereses de RollerCoaster Tycoon 1, que utilizou unha porcentaxe fixa de aproximadamente o 1,33%.
+STR_6547    :Todos os escenarios
+STR_6548    :Mostrar pasamáns nas interseccións
+STR_6549    :Non se poden seleccionar obxectos de compatibilidade!
+STR_6550    :Inclúese esta entrada para garantir a compatibilidade con obxectos antigos ou danados. Non se pode seleccionar, só deseleccionar.
+
+STR_6551    :Verde exército
+STR_6552    :Melón
+STR_6553    :Tan
+STR_6554    :granate
+STR_6555    :Rosa coral
+STR_6556    :Verde bosque
+STR_6557    :Chartreuse Green
+STR_6558    :Hunter Green
+STR_6559    :Verde claro
+STR_6560    :Verde lima
+STR_6561    :Sepia
+STR_6562    :Pexego
+STR_6563    :azul lavanda
+STR_6564    :Verde esmeralda
+STR_6565    :Augamarina
+STR_6566    :Violeta
+STR_6567    :Lavanda
+STR_6568    :Laranxa pastel
+STR_6569    :Azul escuro
+STR_6570    :Rosa pastel
+STR_6571    :Café
+STR_6572    :Beixe
+STR_6573    :Invisible
+STR_6574    :baleiro
+STR_6575    :Permitir esquemas de cores especiais
+STR_6576    :Engade cores especiais ao menú despregable de cores
+STR_6577    :Bloqueo da velocidade do freo
+STR_6578    :Establece o límite de velocidade para bloquear os freos. No modo de sección de bloque, os freos adxacentes con velocidade máis lenta están ligados ao freo de bloqueo.
+STR_6579    :Os freos de bloqueo estableceranse coa velocidade predeterminada cando se garde como esquema de pista.
+STR_6580    :Restablecer
+STR_6581    :Estás seguro de que queres restablecer todos os atallos de teclado desta pestana?
+STR_6582    :Abrir a xanela de atallos de teclado
+STR_6583    :{WINDOW_COLOUR_2}Trens invertidos
+STR_6584    :selecciona para que os trens viaxen en sentido inverso
+STR_6585    :Non se poden facer cambios...
+STR_6586    :OpenRCT2
+STR_6587    :O tema principal de OpenRTC é un traballo de Allister Brimble,{NEWLINE}con licenza CC BY-SA 4.0.
+STR_6588    :Grazas a Herman Riddering por permitirnos gravar o 35er Voigt.
+STR_6589    :Mostrar os botóns da xanela á esquerda
+STR_6590    :Mostrar os botóns da xanela (como pechar a xanela) á esquerda da barra de título en lugar da dereita.
+STR_6591    :O empregado está a reparar unha atracción e non pode ser despedido.
+STR_6592    :O empregado está inspeccionando unha atracción e non pode ser despedido.
+STR_6593    :Eliminar valados do parque
+STR_6594    :Grid Inspector: alternar a inclinación da parede
+STR_6595    :{WINDOW_COLOUR_2}Autor: {BLACK}{STRING}
+STR_6596    :{WINDOW_COLOUR_2}Autores: {BLACK}{STRING}
+STR_6597    :parámetro non válido
+STR_6598    :Valor fóra do intervalo
+STR_6599    :Non se atopou o elemento pantasma
+STR_6600    :Non se atopou o globo
+STR_6601    :Non se atopou o empregado
+STR_6602    :Non se atopou a atracción
+STR_6603    :Non se atopou a entrada do obxecto de atracción
+STR_6604    :Non se atopou o reprodutor
+STR_6605    :Non se atopou o elemento de entrada
+STR_6606    :Non se atopou o elemento de superficie
+STR_6607    :Non se atopou o elemento da caixa
+STR_6608    :Non se atopou o elemento da pista
+STR_6609    :Non se atopou o bloque de pistas
+STR_6610    :Non se atopou o elemento da ruta
+STR_6611    :Non se atopou o elemento da parede
+STR_6612    :Non se atopou o elemento do banner
+STR_6613    :Volver cargar o obxecto
+STR_6614    :Non podes cambiar o prezo do billete do parque
+STR_6615    :A estrada desta caixa necesita auga
+STR_6616    :Acción non válida para ese tipo de traballador
+STR_6617    :Non se pode intercambiar o elemento de slot consigo mesmo
+STR_6618    :Non pode poñer nin eliminar restricións ao obxecto...
+STR_6619    :Este tipo de obxecto non se pode restrinxir!
+STR_6620    :Obxecto non atopado!
+STR_6621    :Restrinxir
+STR_6622    :Restrinxir o obxecto ao modo Editor de escenarios e Sandbox.
+STR_6623    :Escriba "axuda" para ver a lista de comandos dispoñibles. Escribe "ocultar" para ocultar a consola.
+STR_6624    :Grid Inspector: Ordenar elementos
+STR_6625    :Cor non válida
+STR_6626    :A animación está reflectida
+STR_6627    :A velocidade da pista é demasiado alta!
+STR_6628    :Só se pode colocar nos bordos do camiño!
+STR_6629    :Aliña os botóns da barra de ferramentas centrados horizontalmente
+STR_6630    :esta configuración aliñará os botóns da barra de ferramentas horizontalmente no centro da pantalla. A forma tradicional de aliñalos está na esquina esquerda e dereita.
+STR_6631    :Cargando...
+STR_6632    :Comprobando ficheiros de obxectos...
+STR_6633    :Comprobando ficheiros de escenarios...
+STR_6634    :Comprobando ficheiros de deseño de pistas...
+STR_6635    :Comprobando ficheiros de recursos...
+STR_6636    :Comprobando secuencias de títulos...
+STR_6637    :Cargando a secuencia de títulos...
+STR_6638    :Interface estendida
+STR_6639    :Modifica a interface para que sexa máis doado de usar coas pantallas táctiles
+STR_6640    :Editar paquetes de recursos...
+STR_6641    :Xanela de carga/progreso
+STR_6642    :{STRING} ({COMMA32}/{COMMA32})
+STR_6643    :{STRING} ({COMMA32}/{COMMA32} KiB)
+STR_6644    :Melloras táctiles
+STR_6645    :Aumenta o tamaño dalgúns elementos da interface para que sexan máis fáciles de facer clic.
+STR_6646    :Autor: {STRING}
+STR_6647    :Autores: {STRING}
+STR_6648    :Cargando motor de complementos...
+STR_6649    :Cargando escenario...
+STR_6650    :Cargando partida gardada...
+STR_6651    :{STRING} ({COMMA32}%)
+STR_6652    :Xanela de Erro
+STR_6653    :Todas as fontes mostradas
+STR_6654    :Amosando {POP16}{UINT16} fontes
+STR_6655    :Só ‘{POP16}{STRINGID}’
+STR_6656    :Elimina todos os valados do parque
+STR_6657    :Terra Sen Propietario
+STR_6658    :Establecer que a terra non sexa propiedade do parque nin estea dispoñible para a compra
+STR_6659    :Os invitados ignoran os prezos
+STR_6660    :Os invitados ignorarán o prezo das atraccións e dos postos
+STR_6661    :Todo ao chou
+STR_6662    :Cores ao chou para cada tren ou vehículo.
+STR_6663    :Trucos de data
+STR_6664    :Amosar trucos de data
+STR_6665    :Trucos de natureza/clima
+STR_6666    :Amosar trucos de natureza/clima
+STR_6667    :Fauna
+STR_6668    :Trucos de empleados
+STR_6669    :Amosar trucos de empleados
+STR_6670    :Comportamento dos visitantes
+STR_6671    :Amosar nomes ‘reais’ de empleados
+STR_6672    :Alternar entre amosar nomes ‘reais’ e números de empleados
+STR_6673    :Translúcido
+STR_6674    :{MONTH}, Ano {COMMA16}
+STR_6675    :Nomes dos Visitantes
+STR_6676    :Debe escollerse polo menos un obxecto de nomes de visitantes
+STR_6677    :Engade praias arredor das masas de auga
+STR_6678    :Fonte do mapa de elevación:
+STR_6679    :Chaira
+STR_6680    :Ruído Simplex
+STR_6681    :Arquivo do mapa de elevación
+STR_6682    :Xerador de Mapas - Xerador
+STR_6683    :Xerador de Mapas - Terreo
+STR_6684    :Xerador de Mapas - Auga
+STR_6685    :Xerador de Mapas - Fragas
+STR_6686    :Relación árbores/terreo
+STR_6687    :Altitude mínima das árbores:
+STR_6688    :Altitude máxima das árbores:
+STR_6689    :{UINT16}%
+STR_6690    :Altura mínima do terreo
+STR_6691    :Introduce a altura mínima do terreo entre {COMMA16} e {COMMA16}
+STR_6692    :Altura máxima do terreo
+STR_6693    :Introduce a altura máxima do terreo entre {COMMA16} e {COMMA16}
+STR_6694    :Altitude mínima das árbores
+STR_6695    :Introduce a altitude mínima das árbores entre {COMMA16} e {COMMA16}
+STR_6696    :Altitude máxima das árbores
+STR_6697    :Introduce a altitude máxima das árbores entre {COMMA16} e {COMMA16}
+STR_6698    :Relación árbores/terreo
+STR_6699    :Introduce a relación árbores/terreo entre {COMMA16} e {COMMA16}
+STR_6700    :Frecuencia base Simplex
+STR_6701    :Introduce a frecuencia base entre {COMMA2DP32} e {COMMA2DP32}
+STR_6702    :Octavas Simplex
+STR_6703    :Introduce as octavas entre {COMMA16} e {COMMA16}
+STR_6704    :{COMMA2DP32}
+STR_6705    :Explorar…
+STR_6706    :{WINDOW_COLOUR_2}Arquivo de imaxe actual: {BLACK}{STRING}
+STR_6707    :(Ningún escollido)
+STR_6708    :Intensidade de suavizado
+STR_6709    :Introduce a intensidade de suavizado entre {COMMA16} e {COMMA16}
+STR_6710    :Ordenación estable
+STR_6711    :Nome do ficheiro:
+STR_6712    :gardar
+STR_6713    :{COMMA32} {STRINGID}
+STR_6714    :Nome do ficheiro
+STR_6715    :Data de modificación
+STR_6716    :Tamaño do ficheiro
+STR_6717    :Tamaño do ficheiro {STRINGID}
+STR_6718    :Animacións de personaxes
+STR_6719    :Debe seleccionarse polo menos un obxecto de animacións de personaxes invitados
+STR_6720    :Debe seleccionarse polo menos un obxecto de animacións de personaxes de operario
+STR_6721    :Debe seleccionarse polo menos un obxecto de animacións de personaxes de mecánico
+STR_6722    :Debe seleccionarse polo menos un obxecto de animacións de personaxes de seguridade
+STR_6723    :Debe seleccionarse polo menos un obxecto de animacións de personaxes de animador
+STR_6724    :Textos do escenario
+STR_6725    :X:
+STR_6726    :Y:
+STR_6727    :Bucle de mergullo (esquerda)
+STR_6728    :Loop de mergullo (dereita)
+STR_6729    :A subida da telecadeira debe comezar inmediatamente despois da estación ou do freno de bloqueo
+STR_6730    :Exportar datos de Emscripten
+STR_6731    :Importar datos de Emscripten
+STR_6732    :Amosar un botón na barra de ferramentas para xirar a vista en sentido antihorario
+STR_6733    :Translúcido
+STR_6734    :Os elementos do mapa que están a altura de corte ou por riba renderízanse translúcidos.
+STR_6735    :Sube ao cartafol principal
