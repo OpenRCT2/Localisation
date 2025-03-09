@@ -1928,9 +1928,6 @@ STR_2706    :안 함
 STR_2707    :운영체제 파일 브라우저 사용
 STR_2708    :{WINDOW_COLOUR_1}정말 {STRINGID}에 덮어씌우시겠습니까?
 STR_2709    :덮어쓰기
-STR_2710    :파일 이름을 입력하세요.
-STR_2718    :상위 폴더
-STR_2719    :새 파일
 STR_2720    :{UINT16}초
 STR_2721    :{UINT16}초
 STR_2722    :{UINT16}분 {UINT16}초
@@ -3007,7 +3004,6 @@ STR_5887    :접두어로 사용
 STR_5888    :접미어로 사용
 STR_5889    :사용자 화폐 단위 기호
 STR_5890    :화폐 단위로 사용할 기호를 입력하십시오
-STR_5891    :기본 폴더로
 STR_5892    :기본 폴더로 이동합니다.
 STR_5893    :환율
 STR_5894    :환율을 입력하세요
@@ -3798,3 +3794,11 @@ STR_6731    :emscripten 데이터 가져오기
 STR_6732    :게임 화면을 시계반대방향으로 90° 회전하기
 STR_6733    :반투명하게 보기
 STR_6734    :해당 높이 또는 그 이상의 위치에 있는 지도 요소를 반투명하게 표시합니다.
+STR_6735    :상위 폴더로 이동
+STR_6736    :미리보기
+STR_6737    :미리보기 없음
+STR_6738    :{WINDOW_COLOUR_2}공원 등급: {BLACK}{UINT16}
+STR_6739    :{WINDOW_COLOUR_2}날짜: {BLACK}{STRINGID}
+STR_6740    :{WINDOW_COLOUR_2}재정: {BLACK}{CURRENCY2DP}
+STR_6741    :{WINDOW_COLOUR_2}놀이기구 수: {BLACK}{UINT16}
+STR_6742    :{WINDOW_COLOUR_2}손님 수: {BLACK}{UINT16}
