@@ -1248,7 +1248,6 @@ STR_1870    :Nombre de voltes completes
 STR_1871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1873    :{WINDOW_COLOUR_2}Ingressos: {BLACK}{CURRENCY2DP} per hora
 STR_1874    :{WINDOW_COLOUR_2}Benefici: {BLACK}{CURRENCY2DP} per hora
-STR_1875    :{BLACK} {SPRITE}{BLACK} {STRINGID}
 STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Inspecciona atraccions
 STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Repara atraccions
 STR_1878    :{WINDOW_COLOUR_2}Inspecciona:
@@ -3770,12 +3769,18 @@ STR_6709    :Escriviu una força suau entre {COMMA16} i {COMMA16}
 STR_6710    :Ordre estable
 STR_6711    :Nom de fitxer:
 STR_6712    :Desa
+STR_6713    :{COMMA32} {STRINGID}
+STR_6714    :Nom del fitxer
+STR_6715    :Data de modificació
+STR_6716    :Mida de fitxer
+STR_6717    :Mida de fitxer {STRINGID}
 STR_6718    :Animacions de les persones
 STR_6719    :Cal triar com a mínim una animació de visitant.
 STR_6720    :Cal triar com a mínim una animació de personal de neteja.
 STR_6721    :Cal triar com a mínim una animació de mecànic.
 STR_6722    :Cal triar com a mínim una animació de guarda de seguretat.
 STR_6723    :Cal triar com a mínim una animació d’animador.
+STR_6724    :Textos d’escenari
 STR_6725    :X:
 STR_6726    :Y:
 STR_6727    :Dive loop (esquerra)
