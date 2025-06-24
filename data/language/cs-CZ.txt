@@ -1906,8 +1906,8 @@ STR_2670    :Scroll
 STR_2680    :Všechen výzkum byl dokončen
 STR_2684    :Dorazí velká skupina návštěvníků
 STR_2685    :Parametry simplex noise
-STR_2686    :Hloubky:
-STR_2687    :Výšky:
+STR_2686    :Min. výška země:
+STR_2687    :Max. výška země:
 STR_2688    :Základní frekvence:
 STR_2689    :Oktávy:
 STR_2690    :Generování mapy
@@ -3136,9 +3136,9 @@ STR_6041    :{BLACK}Nemáte najmuté žádné mechaniky!
 STR_6042    :Načíst výškovou mapu
 STR_6043    :Vybrat výškovou mapu
 STR_6044    :Vyhladit výškovou mapu
-STR_6045    :Síla
+STR_6045    :Síla:
 STR_6046    :Normalizovat výškovou mapu
-STR_6047    :Vyhladit dlaždice
+STR_6047    :Vyhladit okraje dlaždic
 STR_6048    :Chyba výškové mapy
 STR_6049    :Chyba při čtení PNG
 STR_6050    :Chyba při čtení bitmapy
@@ -3609,6 +3609,39 @@ STR_6609    :Nebyl nalezen blok tratě
 STR_6610    :Nebyl nalezen prvek cesty
 STR_6611    :Nebyl nalezen prvek zdi
 STR_6612    :Nebyl nalezen prvek banneru
+STR_6677    :Přidat pláže okolo vody
+STR_6678    :Zdroj výškové mapy:
+STR_6679    :Plochá země
+STR_6680    :Simplexový šum
+STR_6681    :Soubor s výškovou mapou
+STR_6682    :Generování mapy - Generátor
+STR_6683    :Generování mapy - Terén
+STR_6684    :Generování mapy - Voda
+STR_6685    :Generování mapy - Lesy
+STR_6686    :Poměr stromů k zemi:
+STR_6687    :Min. výška stromů:
+STR_6688    :Max. výška stromů:
+STR_6689    :{UINT16}%
+STR_6690    :Minimální výška země
+STR_6691    :Zadejte min. výšku země mezi {COMMA16} a {COMMA16}
+STR_6692    :Maximální výška země
+STR_6693    :Zadejte max. výšku země mezi  {COMMA16} a {COMMA16}
+STR_6694    :Minimální výška stromů
+STR_6695    :Zadejte min. výšku stromů mezi {COMMA16} a {COMMA16}
+STR_6696    :Maximmální výška stromů
+STR_6697    :Zadejte max. výšku stromů mezi {COMMA16} a {COMMA16}
+STR_6698    :Poměr stromů k zemi
+STR_6699    :Zadejte poměr stromů k zemi mezi {COMMA16} a {COMMA16}
+STR_6700    :Simplex základní frekvence
+STR_6701    :Zadejte základní frekvenci mezi {COMMA2DP32} a {COMMA2DP32}
+STR_6702    :Simplex oktávy
+STR_6703    :Zadejte oktávy mezi {COMMA16} a {COMMA16}
+STR_6704    :{COMMA2DP32}
+STR_6705    :Procházet…
+STR_6706    :{WINDOW_COLOUR_2}Aktuální soubor s obrázkem: {BLACK}{STRING}
+STR_6707    :(nevybráno)
+STR_6708    :Síla vyhlazení
+STR_6709    :Zadejte sílu vyhlazení mezi {COMMA16} a {COMMA16}
 STR_6710    :Pevné řazení
 STR_6711    :Název:
 STR_6712    :Uložit
