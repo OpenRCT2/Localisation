@@ -2403,7 +2403,7 @@ STR_5137    :Povolit rychlost výtahů drah až do {VELOCITY}
 STR_5138    :{WINDOW_COLOUR_2}{STRINGID}
 STR_5139    :{WHITE}{STRINGID}
 STR_5140    :Vypnout poruchy brzd
-STR_5141    :Vypnout rozbíjení atrakcí
+STR_5141    :Vypnout všechny poruchy atrakcí
 STR_5142    :Normální rychlost
 STR_5143    :Vyšší rychlost
 STR_5144    :Vysoká rychlost
@@ -2426,10 +2426,10 @@ STR_5161    :Formát data:
 STR_5162    :Den/Měsíc/Rok
 STR_5163    :Měsíc/Den/Rok
 STR_5177    :Režim zobrazení:
-STR_5178    :Zobrazit cheaty financí
-STR_5179    :Zobrazit cheaty návštěvníků
-STR_5180    :Zobrazit cheaty parku
-STR_5181    :Zobrazit cheaty atrakcí
+STR_5178    :Zobrazit cheaty - finance
+STR_5179    :Zobrazit cheaty - návštěvníci
+STR_5180    :Zobrazit cheaty - park
+STR_5181    :Zobrazit cheaty - atrakce
 STR_5182    :{INT32}
 STR_5183    :Základní výška
 STR_5184    :Zadejte základní výšku v rozmezí od {COMMA16} do {COMMA16}
@@ -2546,7 +2546,7 @@ STR_5299    :{LIGHTPINK}{STRINGID}
 STR_5300    :Propustit zaměstnance
 STR_5301    :Vyrovnání dluhů
 STR_5302    :Vyrovnat dluh
-STR_5303    :Povolit stavění, když je hra pozastavená
+STR_5303    :Povolit stavění v pozastavené hře
 STR_5304    :Úvodní herní sekvence:
 STR_5305    :RollerCoaster Tycoon 1
 STR_5306    :RollerCoaster Tycoon 1 (AA)
@@ -2566,10 +2566,10 @@ STR_5339    :Výška povrchu
 STR_5340    :Výška objektu
 STR_5343    :Automaticky umisťovat personál
 STR_5344    :Seznam změn
-STR_5345    :Cheaty financí
-STR_5346    :Cheaty návštěvníků
-STR_5347    :Cheaty parku
-STR_5348    :Cheaty atrakcí
+STR_5345    :Cheaty - finance
+STR_5346    :Cheaty - návštěvníci
+STR_5347    :Cheaty - park
+STR_5348    :Cheaty - atrakce
 STR_5349    :Všechny atrakce
 STR_5350    :Max
 STR_5351    :Min
@@ -2965,7 +2965,7 @@ STR_5867    :{WINDOW_COLOUR_2}Jméno provozovatele: {BLACK}{STRING}
 STR_5868    :{WINDOW_COLOUR_2}E-mail provozovatele: {BLACK}{STRING}
 STR_5869    :{WINDOW_COLOUR_2}Web provozovatele: {BLACK}{STRING}
 STR_5870    :Zobrazovat informace o serveru
-STR_5871    :Vypnout vadnutí květin.
+STR_5871    :Vypnout vadnutí květin
 STR_5872    :Vypnout stárnutí a uvadání květin.
 STR_5873    :Povolit řetězové výtahy na všech částech trati
 STR_5874    :Umožní použít řetězový výtah na jakékoliv části dráhy
@@ -3269,7 +3269,7 @@ STR_6200    :Resetovat datum
 STR_6201    :{MONTH}
 STR_6202    :Styl virtuální mřížky
 STR_6203    :Pro usnadnění vertikálního umisťování objektů můžete podržet klávesu Ctrl nebo Shift a poté bude vykreslena pomocná virtuální mřížka.
-STR_6215    :Budování
+STR_6215    :Stavba
 STR_6216    :Provoz
 STR_6217    :Atrakce a tratě
 STR_6218    :OpenRCT2 oficiální
@@ -3697,13 +3697,13 @@ STR_6659    :Návštěvníci ignorují ceny
 STR_6660    :Návštěvnící nebudou hledět na ceny na atrakcích a stáncích
 STR_6661    :Všechny náhodně
 STR_6662    :Nastaví náhodné barvy pro každý vlak nebo vozidlo
-STR_6663    :Cheaty data
-STR_6664    :Zobrazit cheaty data
-STR_6665    :Cheaty přírody/počasí
-STR_6666    :Zobrazit cheaty přírody/počasí
+STR_6663    :Cheaty - datum
+STR_6664    :Zobrazit cheaty - datum
+STR_6665    :Cheaty - příroda a počasí
+STR_6666    :Zobrazit cheaty - příroda a počasí
 STR_6667    :Fauna
-STR_6668    :Cheaty personálu
-STR_6669    :Zobrazit cheaty personálu
+STR_6668    :Cheaty - personál
+STR_6669    :Zobrazit cheaty - personál
 STR_6670    :Chování návštěvníků
 STR_6671    :Zobrazit „skutečná“ jména personálu
 STR_6672    :Přepíná mezi zobrazením „skutečného“ jména a čísla zaměstnance 
