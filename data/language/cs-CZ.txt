@@ -284,7 +284,7 @@ STR_0883    :Uložit hru
 STR_0884    :Nahrát krajinu
 STR_0885    :Uložit krajinu
 STR_0887    :Ukončit editor scénáře
-STR_0888    :Ukončit návrhář trati
+STR_0888    :Ukončit návrháře trati
 STR_0889    :Ukončit správu návrhů tratí
 STR_0891    :Snímek obrazovky
 STR_0892    :Snímek obrazovky byl uložen jako „{STRINGID}“
@@ -1776,8 +1776,8 @@ STR_2424    :{WINDOW_COLOUR_2}Kupony na volný vstup do parku
 STR_2425    :{WINDOW_COLOUR_2}Kupony na volné jízdy dané atrakce
 STR_2426    :{WINDOW_COLOUR_2}Kupony na vstup do parku za polovic
 STR_2427    :{WINDOW_COLOUR_2}Kupony na jídlo nebo pití zdarma
-STR_2428    :{WINDOW_COLOUR_2}Reklamní kampaň pro park
-STR_2429    :{WINDOW_COLOUR_2}Reklamní kampaň pro danou atrakci
+STR_2428    :{WINDOW_COLOUR_2}Reklamní kampaň na park
+STR_2429    :{WINDOW_COLOUR_2}Reklamní kampaň na zadanou atrakci
 STR_2430    :{BLACK}Kupony na volný vstup do {STRINGID}
 STR_2431    :{BLACK}Kupony na volné jízdy {STRINGID}
 STR_2432    :{BLACK}Kupony na vstup za polovic do {STRINGID}
@@ -1796,7 +1796,7 @@ STR_2450    :{YELLOW}Reklamní kampaň pro park skončila
 STR_2451    :{YELLOW}Reklamní kampaň pro {STRINGID} skončila
 STR_2452    :{WINDOW_COLOUR_2}Hotovost (bez půjčky): {BLACK}{CURRENCY2DP}
 STR_2453    :{WINDOW_COLOUR_2}Hotovost (bez půjčky): {RED}{CURRENCY2DP}
-STR_2457    :Zobrazit účet
+STR_2457    :Zobrazit rozpočet
 STR_2458    :Zobrazit graf hotovosti
 STR_2459    :Zobrazit graf hodnoty parku
 STR_2460    :Zobrazit graf týdenního zisku
@@ -2051,10 +2051,10 @@ STR_2854    :{RED}Návštěvníci nemohou najít vstup do {STRINGID} !{NEWLINE}P
 STR_2855    :{RED}{STRINGID} nemá postavenou vestu z východu!{NEWLINE}Postavte cestu z východu atrakce
 STR_2858    :Nelze zahájit reklamní kampaň…
 STR_2861    :{WINDOW_COLOUR_2}Licencováno Infogrames Interactive Inc.
-STR_2971    :Primární barevná kombinace
-STR_2972    :Alternativní barevná kombinace 1
-STR_2973    :Alternativní barevná kombinace 2
-STR_2974    :Alternativní barevná kombinace 3
+STR_2971    :Hlavní barevné schéma
+STR_2972    :Alternativní barevné schéma 1
+STR_2973    :Alternativní barevné schéma 2
+STR_2974    :Alternativní barevné schéma 3
 STR_2975    :Vyberte barevnou kombinaci, kterou chcete změnit, nebo aplikovat
 STR_2976    :Obarvit část atrakce vybranou barevnou kombinací
 STR_2977    :Přejmenovat zaměstnance
@@ -2128,7 +2128,7 @@ STR_3093    :{WINDOW_COLOUR_2}Nejoblíbenější: {BLACK}{STRINGID}
 STR_3094    :N/A
 STR_3095    :{WINDOW_COLOUR_2}Rychlost řetězového výtahu:
 STR_3096    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
-STR_3097    :Vyberte rychlost řetězového výtahu
+STR_3097    :Vyberte rychlost řetězového vleku
 STR_3099    :Vyberte barvu
 STR_3100    :Vyberte sekundární barvu
 STR_3101    :Vyberte terciální barvu
@@ -2378,8 +2378,8 @@ STR_3390    :Vybráno příliš mnoho položek
 STR_3437    :Odebrat velkou oblast kulis z krajiny
 STR_3438    :Odsud nelze odebrat všechny kulisy…
 STR_3439    :Odebrat kulisy
-STR_3445    :Nastavit oblast obchůzky
-STR_3446    :Zrušit oblast obchůzky
+STR_3445    :Nastavit oblast pochůzky
+STR_3446    :Zrušit oblast pochůzky
 
 # New strings, cleaner
 STR_5120    :Finance
@@ -2997,13 +2997,13 @@ STR_5902    :Vykreslit okraje (bounding box)
 STR_5903    :Zobrazit okno debug vykreslování
 STR_5904    :Vynulovat datum
 STR_5905    :Nástroj pro vygenerování mapy, který automaticky vytvoří charakteristickou krajinu
-STR_5906    :Přiblížovat na pozici kurzoru
+STR_5906    :Přibližovat na pozici kurzoru
 STR_5907    :Přibližování bude centrovat na ukazatel myši, namísto centrování doprostřed obrazovky.
 STR_5908    :Povolit libovolné změny typu atrakce
 STR_5909    :Povolí libovolné změny typu atrakce. Může způsobit pád aplikace.
 STR_5910    :Použít
 STR_5911    :Průhledné cesty
-STR_5912    :Přěpnout průhledné cesty
+STR_5912    :Přepnout průhledné cesty
 STR_5913    :Chat
 STR_5914    :Neznámá atrakce
 STR_5915    :Hráč
