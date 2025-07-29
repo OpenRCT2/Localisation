@@ -29,19 +29,19 @@
     },
     "official.terrain_edge.void": {
         "reference-name": "Void",
-        "name": "Void"
+        "name": "Vacío"
     },
     "openrct2.footpath_railings.invisible": {
         "reference-name": "Invisible Railings",
-        "name": "Invisible Railings"
+        "name": "Barandillas Invisibles"
     },
     "openrct2.footpath_surface.invisible": {
         "reference-name": "Invisible Footpath",
-        "name": "Invisible Footpath"
+        "name": "Sendero Invisible"
     },
     "openrct2.footpath_surface.queue_invisible": {
         "reference-name": "Invisible Queue",
-        "name": "Invisible Queue"
+        "name": "Cola Invisible"
     },
     "openrct2.ride.alpine_coaster": {
         "reference-name": "Alpine Coaster Cars",
@@ -85,7 +85,7 @@
     },
     "openrct2.terrain_surface.void": {
         "reference-name": "Void",
-        "name": "Void"
+        "name": "Vacío"
     },
     "rct1.audio.title": {
         "reference-name": "Title screen music for RollerCoaster Tycoon (Loopy Landscapes).",
@@ -621,11 +621,11 @@
     },
     "rct1.terrain_edge.brick": {
         "reference-name": "Brick",
-        "name": "Brick"
+        "name": "Ladrillo"
     },
     "rct1.terrain_edge.iron": {
         "reference-name": "Iron",
-        "name": "Iron"
+        "name": "Hierro"
     },
     "rct1aa.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Square)",
@@ -1631,6 +1631,14 @@
         "reference-name": "Wood",
         "name": "Wood"
     },
+    "rct1tw.scenario_meta.taiwan_park": {
+        "reference-name": "Taiwan Park",
+        "name": "Taiwan Park",
+        "reference-park_name": "Taiwan Park",
+        "park_name": "Taiwan Park",
+        "reference-details": "",
+        "details": ""
+    },
     "rct2.audio.base.rct2": {
         "reference-name": "Base audio for the game.",
         "name": "Base audio for the game."
@@ -2371,7 +2379,7 @@
         "reference-name": "Flying Saucers",
         "name": "Platillos Volantes",
         "reference-description": "Guests ride in saucer-shaped hovercraft vehicles that they freely control",
-        "description": "Vehículos aerodeslizadores autopropulsados",
+        "description": "Los usuarios conducen libremente vehículos aerodeslizadores con forma de platillo",
         "reference-capacity": "1 person per car",
         "capacity": "1 persona por vehículo"
     },
@@ -5943,7 +5951,7 @@
         "reference-name": "Flower Power Dodgems",
         "name": "Coches de choque Paz y Amor",
         "reference-description": "Riders ride in flower-shaped hovercraft vehicles that they freely control",
-        "description": "Los usuarios conducen libremente pequeños coches con forma de flor",
+        "description": "Los usuarios conducen libremente vehículos aerodeslizadores con forma de flor",
         "reference-capacity": "1 passenger per car",
         "capacity": "1 pasajero por coche"
     },
@@ -8977,9 +8985,9 @@
     },
     "rct2ww.ride.skidoo": {
         "reference-name": "Snowmobile Dodgems",
-        "name": "Coches de choque esquimales",
+        "name": "Coches de choque Motonieve",
         "reference-description": "Guests slide around in snowmobile-shaped vehicles that they freely control",
-        "description": "Coches de choque eléctricos de conducción propia",
+        "description": "Los usuarios se deslizan libremente en vehículos con forma de motonieve",
         "reference-capacity": "1 person per car",
         "capacity": "1 persona por coche"
     },
