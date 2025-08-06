@@ -2965,9 +2965,9 @@
     },
     "rct2.ride.steep2": {
         "reference-name": "Motorbikes",
-        "name": "Závody motorek",
+        "name": "Motorky",
         "reference-description": "Single cars shaped like a motorbike",
-        "description": "Vozy ve tvaru motorek vozí návštěvníky po jednokolejné trati",
+        "description": "Samostatné vozy ve tvaru motorek",
         "reference-capacity": "2 riders per bike",
         "capacity": "2 místa na každé motorce"
     },
@@ -3017,9 +3017,9 @@
     },
     "rct2.ride.thcar": {
         "reference-name": "Air Powered Vertical Coaster Trains",
-        "name": "Svislá dráha na stlačený vzduch",
+        "name": "Vlaky poháněné stlačeným vzduchem",
         "reference-description": "Air-powered launched roller coaster trains",
-        "description": "Po mocném startu na stlačený vzduch se vozy rozjedou po svislé dráze, přes vrchol a svisle dolů zpět do stanice",
+        "description": "Stlačeným vzduchem poháněné vlaky horské dráhy",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa v každém vozu"
     },
@@ -3043,9 +3043,9 @@
     },
     "rct2.ride.togst": {
         "reference-name": "Stand-up Roller Coaster Trains",
-        "name": "Horská dráha \"na stojáka\"",
+        "name": "Vozy dráhy „na stojáka“",
         "reference-description": "Roller coaster trains in which the riders ride in a standing position",
-        "description": "Návštěvníci jedou po horské dráze ve stoje",
+        "description": "Vlaky horské dráhy vozící cestující ve stoje",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -3105,17 +3105,17 @@
     },
     "rct2.ride.utcar": {
         "reference-name": "Twister Cars",
-        "name": "Zatočené vozy",
+        "name": "Twister vozy",
         "reference-description": "Roller coaster cars capable of heartline twists",
-        "description": "Horská dráha, která se točí dokola tak, že návštěvníci jsou pořád na stejném místě.",
+        "description": "Vozy horské dráhy schopné na výhybce změnit směr jízdy",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
     "rct2.ride.utcarr": {
         "reference-name": "Twister Cars (starting reversed)",
-        "name": "Zatočené vozy (pozpátku)",
+        "name": "Twister vozy (pozpátku)",
         "reference-description": "Roller coaster cars capable of heartline twists, starting reversed",
-        "description": "Horská dráha, která se točí dokola tak, že návštěvníci jsou pořád na stejném místě.",
+        "description": "Vozy schopné změnit směr jízdy přes výhybku",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -3129,17 +3129,17 @@
     },
     "rct2.ride.vekdv": {
         "reference-name": "Vertical Shuttle Cars",
-        "name": "Zavěšená svislá dráha",
+        "name": "Svislé zavěšené vozy",
         "reference-description": "Large roller coaster cars in which riders sit in seats suspended beneath the track",
-        "description": "Návštěvníci sedí ve vozech zavěšených pod tratí, jedou pozpátku vzhůru po svislé dráze, padají dolů a jezdí skrze loopingy s ostrými zatáčkami",
+        "description": "Velké vozy horské dráhy se sedadly zavěšenými pod tratí",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
     "rct2.ride.vekst": {
         "reference-name": "Lay-down Roller Coaster Trains",
-        "name": "Horská dráha \"na ležáka\"",
+        "name": "Vozy dráhy „v leže“",
         "reference-description": "Riders are held in special harnesses in a lying-down position, travelling either on their backs or facing the ground",
-        "description": "Návštěvníci jedou v leže zavěšeni do speciálního držení, ve kterém na břiše projedou trať s ostrými zatáčkami",
+        "description": "Návštěvníci jsou umístěni v leže do speciálního závěsu, v němž jedou buďto na zádech nebo obličejem směrem k zemi",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -3147,13 +3147,13 @@
         "reference-name": "Swinging Floorless Cars",
         "name": "Houpající se vozy bez podlahy",
         "reference-description": "Suspended roller coaster trains consisting of chairlift-style seats able to swing freely as the train goes around corners",
-        "description": "Zavěšená horská dráha připomínající sedačkovou lanovku, houpající se v zatáčkách",
+        "description": "Závěsné vlaky horské dráhy sestávající se z vozů bez podlahy schopných volně se kývat ze strany na stranu při průjezdu zatáčkami",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa v každém vozu"
     },
     "rct2.ride.vreel": {
         "reference-name": "Virginia Reel Tubs",
-        "name": "Virginský moták",
+        "name": "Virginské motací sudy",
         "reference-description": "Circular cars that spin around as they travel along the track",
         "description": "Kulaté vozy se točí během jízdy po cik-cak dřevěné trati",
         "reference-capacity": "4 passengers per car",
@@ -3163,31 +3163,31 @@
         "reference-name": "Automobile Cars",
         "name": "Automobilové vozy",
         "reference-description": "Roller coaster cars in the shape of automobiles",
-        "description": "Horská dráha s vozy, které připomínají automobily",
+        "description": "Samostatné vozy připomínající automobily",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
     "rct2.ride.wmmine": {
         "reference-name": "Mine Cars",
-        "name": "Divoká důlní jízda",
+        "name": "Dřevěné důlní vozíky",
         "reference-description": "Cars shaped like an old mine cart",
-        "description": "Horská dráha s vozy, které připomínají klasické důlní vozy",
+        "description": "Vozy ve stylu starých důlních vozíků",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa v každém vozu"
     },
     "rct2.ride.wmouse": {
         "reference-name": "Mouse Cars",
-        "name": "Dřevěná divoká myš",
+        "name": "Dřevěné myší vozy",
         "reference-description": "Individual cars shaped like a mouse",
-        "description": "Horská dráha s vozy ve tvaru myší",
+        "description": "Samostatné vozy ve tvaru myši",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa v každém vozu"
     },
     "rct2.ride.wmspin": {
         "reference-name": "Spinning Mouse Cars",
-        "name": "Točící se divoká myš",
+        "name": "Točící se myší vozy",
         "reference-description": "Mouse-shaped cars that keep gently spinning around to disorientate the riders",
-        "description": "Vozy ve tvaru myší jedou po dřevěné trati a pro dezorientaci návštěvníků se točí, zatímco se naklání v ostrých zatáčkách a drsných pádech",
+        "description": "Vozy ve tvaru myší se stále pomalu točí a dezorientují návštěvníky",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -3201,7 +3201,7 @@
         "reference-name": "Ladybird Trains",
         "name": "Beruščiny vozy",
         "reference-description": "Roller coaster trains with small ladybird-shaped cars",
-        "description": "Horská dráha s vozy ve tvaru malých berušek",
+        "description": "Vlaky horské dráhy s vozy ve tvaru malých berušek",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa v každém vozu"
     },
@@ -5715,11 +5715,11 @@
     },
     "rct2dlc.ride.zpanda": {
         "reference-name": "Panda Trains",
-        "name": "Panda Trains",
+        "name": "Pandí vlaky",
         "reference-description": "Roller coaster trains with cuddly panda cars",
-        "description": "Roller coaster trains with cuddly panda cars",
+        "description": "Vlaky horské dráhy s vozy ve tvaru mazlivých pand",
         "reference-capacity": "1 passenger per car",
-        "capacity": "1 passenger per car"
+        "capacity": "1 místo ve voze"
     },
     "rct2dlc.scenario_meta.panda_world": {
         "reference-name": "Panda World",
@@ -5865,23 +5865,23 @@
         "reference-name": "Barnstorming Trains",
         "name": "Stodolní střela",
         "reference-description": "Inverted roller coaster trains for the Inverted Impulse Coaster, in the shape of double decker aeroplanes",
-        "description": "Vozy jsou zavěšeny na kolejnicích s ostrými zatáčkami a ostrými pády",
+        "description": "Vzhůru nohama otočené vlaky horské dráhy pro obrácenou impulzní horskou dráhu, ve tvaru letadel - dvouplošníků",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
     "rct2tt.ride.battrram": {
         "reference-name": "Battering Ram Trains",
-        "name": "Beranidlová horská dráha",
+        "name": "Beranidlové vlaky",
         "reference-description": "Compact roller coaster trains with cars with in-line seating, themed to look like battering rams from the Dark Age",
-        "description": "Malá ocelová horská dráha se spirálovitým profilem a vozy se sedadly za sebou",
+        "description": "Malé vlaky horské dráhy, se sedadly v řadě za sebou, ve stylu středověkých beranidel",
         "reference-capacity": "6 passengers per car",
         "capacity": "6 míst v každém voze"
     },
     "rct2tt.ride.blckdeth": {
         "reference-name": "Black Death Trains",
-        "name": "Morová horská dráha",
+        "name": "Morové vlaky",
         "reference-description": "Rat-shaped trains consisting of 2-seater cars where the riders are behind each other",
-        "description": "Návštěvníci jedou po propletené bobové dráze",
+        "description": "Vlaky ve tvaru krys složené z dvoumístných vozů se sedadly uspořádanými za sebou",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa v každém voze"
     },
@@ -5903,9 +5903,9 @@
     },
     "rct2tt.ride.cerberus": {
         "reference-name": "Cerberus Trains",
-        "name": "Kerberosova horská dráha",
+        "name": "Kerberosovy vlaky",
         "reference-description": "Spacious trains with simple lap restraints with cars shaped like the multi-headed dog from the Underworld",
-        "description": "Horská dráha s dlouhými pády, velkou rychlostí a pohodlnými vlaky, kde se jezdí s opěrkou v klíně, která přelétává vrcholky kopců",
+        "description": "Prostorné vozy s jednoduchou opěrkou v klíně, ve stylu vícehlavého psa z podsvětí",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -5927,9 +5927,9 @@
     },
     "rct2tt.ride.dragnfly": {
         "reference-name": "Dragonfly Cars",
-        "name": "Šídlí horská dráha",
+        "name": "Vážkové vozy",
         "reference-description": "Dragonfly-shaped cars which swing from the rail above",
-        "description": "Návštěvníci jedou na jednokolejné trati zavěšeni ve speciálním voze, který se v zatáčkách houpe",
+        "description": "Vozy, ve tvaru vážek, houpající se zavěšené pod kolejnicí",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa v každém voze"
     },
@@ -5961,7 +5961,7 @@
         "reference-name": "Flying Boats",
         "name": "Létající lodě",
         "reference-description": "Roller coaster cars shaped like flying boats",
-        "description": "Vozy ve tvaru létajících lodí jedou po trati horské dráhy, což umožňuje ostré zatáčky, strmé klesání a cákající zpomalení pro mírnější říční úseky",
+        "description": "Vozy horské dráhy ve tvaru hydroplánů",
         "reference-capacity": "6 passengers per boat",
         "capacity": "6 míst v každé lodi"
     },
@@ -5975,9 +5975,9 @@
     },
     "rct2tt.ride.ganstrcr": {
         "reference-name": "Gangster Cars",
-        "name": "Gangsterská horská dráha",
+        "name": "Gangsterské vozy",
         "reference-description": "1920s-themed gangster cars are accelerated out of the station by linear induction motors to speed through twisting inversions",
-        "description": "Horská dráha s vozy ve stylu gangsterů 20. let, poháněnými elektromotorem, které sviští skrze propletenou dráhu",
+        "description": "Vlaky horské dráhy, s vozy ve stylu gangsterských aut z dvacátých let minulého století, využívající ke zrychlení lineární indukční elektromotory",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -5999,25 +5999,25 @@
     },
     "rct2tt.ride.harpiesx": {
         "reference-name": "Harpies Trains",
-        "name": "Horská dráha harpyjí",
+        "name": "Harpyjí vlaky",
         "reference-description": "Roller coaster trains in the shape of mythological bird-like creatures. Riders are held in special harnesses in a lying-down position, travelling either on their backs or facing the ground",
-        "description": "Návštěvníci jedou v leže zavěšeni do speciálního držení, ve kterém na břiše nebo na zádech projedou trať s ostrými zatáčkami",
+        "description": "Vlaky horské dráhy ve tvaru mytických, ptáků podobných stvoření. Návštěvníci jsou umístěni v leže do speciálního závěsu, v němž jedou buďto na zádech nebo obličejem směrem k zemi",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
     "rct2tt.ride.hotrodxx": {
         "reference-name": "Hot Rod Trains",
-        "name": "Hot Rod horská dráha",
+        "name": "Hot Rod vlaky",
         "reference-description": "Air-powered launched roller coaster trains in the shape of hot rod cars",
-        "description": "Po mocném startu na stlačený vzduch se vozy rozjedou po svislé dráze, přes vrchol a svisle dolů zpět do stanice",
+        "description": "Stlačeným vzduchem poháněné vlaky horské dráhy ve tvaru závodních aut „hot rod“",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa v každém voze"
     },
     "rct2tt.ride.hoverbke": {
         "reference-name": "Hover Bikes",
-        "name": "Vznášedlová moto horská dráha",
+        "name": "Létající motorky",
         "reference-description": "Futuristic bike-shaped single vehicles",
-        "description": "Návštěvníci sedí na futuristických motorkách, která jedou po jednokolejné dráze",
+        "description": "Futuristické vozy ve tvaru motorek",
         "reference-capacity": "2 riders per vehicle",
         "capacity": "2 místa na každé motorce"
     },
@@ -6031,7 +6031,7 @@
     },
     "rct2tt.ride.hovrbord": {
         "reference-name": "Hoverboards",
-        "name": "Vznášedlová horská dráha",
+        "name": "Vznášedla",
         "reference-description": "Guests ride on a futuristic hoverboard, swinging freely from side to side around corners",
         "description": "Návštěvníci jezdí na futuristických vznášedlech, houpajících se v zatáčkách ze strany na stranu",
         "reference-capacity": "2 passengers per car",
@@ -6039,25 +6039,25 @@
     },
     "rct2tt.ride.jetpackx": {
         "reference-name": "Jet Pack Booster",
-        "name": "Jet Pack Booster",
+        "name": "Jetpack",
         "reference-description": "Large jetpack-shaped coaster car for the Reverse Freefall Coaster",
-        "description": "Návštěvníci sedí ve voze, který je vystřelen po kolmé dráze",
+        "description": "Velké vozidlo, ve stylu jetpacku, nebo-li tryskového batohu, určené pro Horskou dráhu s volným pádem pozpátku",
         "reference-capacity": "8 passengers per car",
         "capacity": "8 míst v každém voze"
     },
     "rct2tt.ride.jetplane": {
         "reference-name": "Jet Plane Cars",
-        "name": "Stíhačková horské dráha",
+        "name": "Stíhačkové vozy",
         "reference-description": "Roller coaster cars in the shape of jet planes",
-        "description": "Malá horská dráha, na které vozy po jednom projíždí trať s kroucenými pády",
+        "description": "Vozy horské dráhy, ve stylu stíhaček",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
     "rct2tt.ride.jousting": {
         "reference-name": "Jousting Knights",
-        "name": "Turnajová horská dráha",
+        "name": "Turnajoví rytíři",
         "reference-description": "Separate horse-shaped vehicles with a jousting knight on the front",
-        "description": "Návštěvníci sedí na zádi vozů ve tvaru koní, které jedou po jednokolejné dráze",
+        "description": "Návštěvníci sedí na zádi vozů ve tvaru koní jedoucích po jednokolejné dráze",
         "reference-capacity": "2 riders per vehicle",
         "capacity": "2 místa v každém voze"
     },
@@ -6133,23 +6133,23 @@
     },
     "rct2tt.ride.polchase": {
         "reference-name": "Police Car Trains",
-        "name": "Policejní honička",
+        "name": "Policejní auto-vlaky",
         "reference-description": "Roller coaster trains with lap bars capable of travelling through vertical loops, themed to look like police cars",
-        "description": "Horská dráha s loopingy, na které návštěvníci ve vozech sedí",
+        "description": "Vlaky horské dráhy ve stylu policejních vozidel, se sedadly vybavenými opěrkou v klíně, schopné projíždět svislé smyčky",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
     "rct2tt.ride.policecr": {
         "reference-name": "Police Cars",
-        "name": "Horská dráha policejních vozů",
+        "name": "Policejní vozy",
         "reference-description": "1920s-themed police cars run on wooden tracks, turning around on special reversing sections",
-        "description": "Po dřevěné dráze jedou vozy ve tvaru policejních aut 20. let, které se ve speciálních místech se otočí a jedou pozpátku",
+        "description": "Vozy ve stylu policejních aut 20. let minulého století, jezdící po dřevěné trati se speciálními úseky pro změnu směru jízdy",
         "reference-capacity": "6 passengers per car",
         "capacity": "6 míst v každém voze"
     },
     "rct2tt.ride.pterodac": {
         "reference-name": "Pterodactyl Trains",
-        "name": "Pterodaktylská horská dráha",
+        "name": "Pterodaktylí vlaky",
         "reference-description": "Riders are held in comfortable seats below the track to give the ultimate prehistoric flying experience",
         "description": "Návštěvníci sedí v pohodlných sedadlech pod tratí cestující skrze propletenou dráhu, poskytující pocit prehistorického letu",
         "reference-capacity": "4 passengers per car",
@@ -6157,9 +6157,9 @@
     },
     "rct2tt.ride.raptorxx": {
         "reference-name": "Racing Raptors",
-        "name": "Raptorská horská dráha",
+        "name": "Raptoři",
         "reference-description": "Separate raptor-shaped vehicles",
-        "description": "Návštěvníci sedí na zádi vozů ve tvaru raptorů, které jedou po jednokolejné dráze",
+        "description": "Samostatné vozy ve tvaru raptorů",
         "reference-capacity": "2 riders per vehicle",
         "capacity": "2 místa v každém voze"
     },
@@ -6181,9 +6181,9 @@
     },
     "rct2tt.ride.seaplane": {
         "reference-name": "Suspended Seaplane Cars",
-        "name": "Hydroplánská horská dráha",
+        "name": "Závěsné hydroplány",
         "reference-description": "Suspended roller coaster trains consisting of seaplane-shaped cars able to swing freely as the train goes around corners",
-        "description": "Zavěšená horská dráha z volné zavěšených vozů, které se naklání při jízdě do zatáček",
+        "description": "Závěsné vlaky horské dráhy sestávající se z vozů ve tvaru hydroplánů schopných volně se kývat ze strany na stranu při průjezdu zatáčkami",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -6203,9 +6203,9 @@
     },
     "rct2tt.ride.stamphrd": {
         "reference-name": "Stampeding Herd Trains",
-        "name": "Horská dráha splašeného stáda",
+        "name": "Vlaky splašeného stáda",
         "reference-description": "Roller coaster trains in which the riders ride in a standing position, themed to look like a stampeding dinosaur herd",
-        "description": "Horská dráha s loopingy a vozy ve tvaru splašeného stáda dinosaurů",
+        "description": "Vlaky horské dráhy, ve stylu dupajícího stáda dinosaurů, vozící cestující ve stoje",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -6253,15 +6253,15 @@
         "reference-name": "Trilobite Boats",
         "name": "Trilobití lodě",
         "reference-description": "Trilobite-shaped roller coaster cars",
-        "description": "Vozy ve tvaru trilobitů jedou po trati horské dráhy, což umožňuje ostré zatáčky, strmé klesání a cákající zpomalení pro mírnější říční úseky",
+        "description": "Vozy ve tvaru trilobitů pro vodní horskou dráhu",
         "reference-capacity": "6 passengers per boat",
         "capacity": "6 míst v každé lodi"
     },
     "rct2tt.ride.valkyrie": {
         "reference-name": "Valkyries Trains",
-        "name": "Valkýrská horská dráha",
+        "name": "Valkýří vlaky",
         "reference-description": "Valkyries-themed roller coaster trains with extra-wide cars, built for vertical drops",
-        "description": "Extra-široké vozy letí dolů po zcela kolmé dráze a poskytují tím pocit volného pádu",
+        "description": "Vlaky horské dráhy s extra širokými vozy, ve stylu Valkýr, konstruované pro pády svisle dolů",
         "reference-capacity": "6 passengers per car",
         "capacity": "6 míst v každém voze"
     },
@@ -8627,7 +8627,7 @@
     },
     "rct2ww.ride.anaconda": {
         "reference-name": "Anaconda Trains",
-        "name": "Anakonda",
+        "name": "Anakondí vlaky",
         "reference-description": "Spacious trains with simple lap restraints",
         "description": "Prostorné vozy s opěrkou v klíně",
         "reference-capacity": "6 passengers per car",
@@ -8643,25 +8643,25 @@
     },
     "rct2ww.ride.bomerang": {
         "reference-name": "Boomerang Trains",
-        "name": "Bumerang",
+        "name": "Bumerangové vlaky",
         "reference-description": "Air-powered launched roller coaster trains in the shape of boomerangs",
-        "description": "Po mocném startu na stlačený vzduch se vozy rozjedou po svislé dráze, přes vrchol a svisle dolů zpět do stanice",
+        "description": "Stlačeným vzduchem poháněné vlaky horské dráhy s vozy ve tvaru bumerangů",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa v každém voze"
     },
     "rct2ww.ride.bullet": {
         "reference-name": "Bullet Trains",
-        "name": "Šinkansen",
+        "name": "Vlaky Šinkansen",
         "reference-description": "Japanese Bullet Train themed roller coaster cars",
-        "description": "Horská dráha s vozy, které vypadají jako vozy Šinkansenu",
+        "description": "Vlaky horské dráhy, ve stylu japonských rychlovlaků Šunkansen, se sedadly vybavenými ramenními opěrkami",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
     "rct2ww.ride.caddilac": {
         "reference-name": "Limousine Trains",
-        "name": "Limuzínová horská dráha",
+        "name": "Limuzínové vlaky",
         "reference-description": "Limousine-themed roller coaster cars",
-        "description": "Horská dráha s vozy, které vypadají jako limuzíny",
+        "description": "Vozy horské dráhy ve stylu limuzín",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -8675,7 +8675,7 @@
     },
     "rct2ww.ride.condorrd": {
         "reference-name": "Condor Trains",
-        "name": "Jízda kondorů",
+        "name": "Kondoří vlaky",
         "reference-description": "Riding in special harnesses below the track, riders experience the feeling of flight in condor-shaped trains",
         "description": "Návštěvníci jsou zavěšeni vleže hlavou napřed pod tratí a během jízdy mají pocit volného letu kondora",
         "reference-capacity": "4 passengers per car",
@@ -8683,9 +8683,9 @@
     },
     "rct2ww.ride.congaeel": {
         "reference-name": "Conger Eel Trains",
-        "name": "Mořští úhoři",
+        "name": "Úhoří vlaky",
         "reference-description": "Trains with shoulder restraints, in the shape of conger eels",
-        "description": "Horská dráha, na které vozy s ramenními opěrkami připomínající mořské úhoře",
+        "description": "Vlaky horské dráhy, ve tvaru mořských úhořů, se sedadly vybavenými ramenními opěrkami",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -8755,9 +8755,9 @@
     },
     "rct2ww.ride.dragon": {
         "reference-name": "Dragon Trains",
-        "name": "Dračí horská dráha",
+        "name": "Dračí vlaky",
         "reference-description": "Dragon-themed roller coaster cars",
-        "description": "Horská dráha s vozy ve tvaru draků",
+        "description": "Vozy horské dráhy ve tvaru draků",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -8787,27 +8787,27 @@
     },
     "rct2ww.ride.football": {
         "reference-name": "Football Trains",
-        "name": "Fotbalová horská dráha",
+        "name": "Fotbalové vlaky",
         "reference-description": "Suspended roller coaster trains consisting of football-shaped cars able to swing freely as the train goes around corners",
-        "description": "Zavěšená horská dráha s vozy připomínající fotbalové míče, které se houpají v zatáčkách",
+        "description": "Závěsné vlaky horské dráhy sestávající se z vozů ve tvaru fotbalových míčů schopných volně se kývat ze strany na stranu při průjezdu zatáčkami",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
     "rct2ww.ride.gorilla": {
         "reference-name": "Gorilla Trains",
-        "name": "Gorilí horská dráha",
+        "name": "Gorilí vlaky",
         "reference-description": "Suspended roller coaster trains consisting of gorilla-shaped cars able to swing freely as the train goes around corners",
-        "description": "Zavěšená horská dráha s vozy připomínající gorily, které se houpají v zatáčkách",
+        "description": "Závěsné vlaky horské dráhy sestávající se z vozů ve tvaru gorily schopných volně se kývat ze strany na stranu při průjezdu zatáčkami",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
     "rct2ww.ride.gratwhte": {
         "reference-name": "Great White Shark Trains",
-        "name": "Žraločí horská dráha",
+        "name": "Velké žraločí vlaky",
         "reference-description": "Trains with shoulder restraints, in the shape of a great white shark",
-        "description": "Horská dríha s vozy vybavenými ramenní opěrkou, které připomínají žraloka bílého",
+        "description": "Vlaky horské dráhy se sedadly vybavenými ramenními opěrkami, ve tvaru velkého bílého žraloka",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 míst v každém voze"
+        "capacity": "4 místa v každém voze"
     },
     "rct2ww.ride.hipporid": {
         "reference-name": "Hippo Submarines",
@@ -8835,9 +8835,9 @@
     },
     "rct2ww.ride.jaguarrd": {
         "reference-name": "Jaguar Cars",
-        "name": "Jaguáří horská dráha",
+        "name": "Jaguáří vozy",
         "reference-description": "Roller coaster cars themed to look like jaguars",
-        "description": "Malá horská dráha, na které vozy po jednom projíždí trať s kroucenými pády",
+        "description": "Vozy horské dráhy, ve stylu jaguára",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -8859,17 +8859,17 @@
     },
     "rct2ww.ride.kolaride": {
         "reference-name": "Koala Car",
-        "name": "Koalí dráha",
+        "name": "Koalí vozy",
         "reference-description": "Large koala-shaped coaster car for the Reverse Freefall Coaster",
-        "description": "Velká dráha s vozem pro volný pád pozpátku",
+        "description": "Velké vozidlo ve tvaru medvídka koala, určené pro Horskou dráhu s volným pádem pozpátku",
         "reference-capacity": "8 passengers per car",
-        "capacity": "8 návštěvníků"
+        "capacity": "8 míst"
     },
     "rct2ww.ride.lionride": {
         "reference-name": "Lion Cars",
-        "name": "Lví horská dráha",
+        "name": "Lví vozy",
         "reference-description": "Roller coaster cars themed to look like lions",
-        "description": "Malá horská dráha, na které vozy po jednom projíždí trať s kroucenými pády",
+        "description": "Vozy horské dráhy, ve stylu lva",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -8891,17 +8891,17 @@
     },
     "rct2ww.ride.mantaray": {
         "reference-name": "Manta Ray Boats",
-        "name": "Rejnočí jízda",
+        "name": "Rejnočí lodě",
         "reference-description": "Coaster boats in the shape of a manta ray",
-        "description": "Lodě ve tvaru rejnuků",
+        "description": "Lodě ve tvaru rejnoků pro vodní horskou dráhu",
         "reference-capacity": "6 passengers per boat",
         "capacity": "6 míst na každé lodi"
     },
     "rct2ww.ride.minecart": {
         "reference-name": "Mine Cart Trains",
-        "name": "Dulní jízda",
+        "name": "Vlaky z důlních vozíků",
         "reference-description": "Wooden roller coaster trains with padded seats and lap bar restraints",
-        "description": "Dřevěná horská dráha s vozy s polstrovanými sedadly a opěrkou v klíně",
+        "description": "Vlaky dřevěné horské dráhy s polstrovanými sedadly a opěrkou v klíně",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -8915,9 +8915,9 @@
     },
     "rct2ww.ride.ostrich": {
         "reference-name": "Ostrich Trains",
-        "name": "Pštrosí jízda",
+        "name": "Pštrosí vlaky",
         "reference-description": "Roller coaster trains in which the riders ride in a standing position and the cars are themed to look like ostriches",
-        "description": "Horská dráha s loopingy, na které se jezdí ve stoje",
+        "description": "Vlaky horské dráhy, ve stylu pštrosů, vozící cestující ve stoje",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -8931,41 +8931,41 @@
     },
     "rct2ww.ride.penguinb": {
         "reference-name": "Penguin Trains",
-        "name": "Tučnáčí bobová dráha",
+        "name": "Tučnáčí vlaky",
         "reference-description": "Penguin-shaped trains consisting of 2-seater cars where the riders are behind each other",
-        "description": "Návštěvníci jedou po propletené bobové dráze",
+        "description": "Vlaky ve tvaru tučňáků složené z dvoumístných vozů se sedadly uspořádanými za sebou",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa v každém voze"
     },
     "rct2ww.ride.polarber": {
         "reference-name": "Polar Bear Trains",
-        "name": "Horská dráha polárního medvěda",
+        "name": "Polární medvědí vlaky",
         "reference-description": "Polar bear-shaped suspended roller coaster trains in which riders sit in pairs facing either forwards or backwards",
-        "description": "Návštěvníci sedí po dvou zavěšení pod tratí a vidí dopředu nebo dozadu podle toho, jak zrovna jedou skrze ostré zatáčky",
+        "description": "Závěsné vlaky, ve tvaru polárních medvědů, se sedačkami v dvojicích proti sobě",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
     "rct2ww.ride.rhinorid": {
         "reference-name": "Rhino Trains",
-        "name": "Nosorožčí jízda",
+        "name": "Nosorožčí vlaky",
         "reference-description": "Compact roller coaster trains with cars with in-line seating, themed to look like rhinos",
-        "description": "Malá ocelová horská dráha se spirálovitým profilem a vozy se sedadly za sebou",
+        "description": "Malé vlaky horské dráhy, se sedadly v řadě za sebou, ve stylu nosorožců",
         "reference-capacity": "6 passengers per car",
         "capacity": "6 míst v každém voze"
     },
     "rct2ww.ride.rocket": {
         "reference-name": "1950s Rockets",
-        "name": "Raketová jízda z 50. let",
+        "name": "Rakety z 50. let",
         "reference-description": "Suspended rocket-shaped roller coaster trains consisting of cars able to swing freely as the train goes around corners",
-        "description": "Vozy vyrazí vstříc jednomu konci trati, poté prosviští pozpátku stanicí a vyletí až na druhý konec trati",
+        "description": "Závěsné vlaky horské dráhy, ve tvaru raket, sestávající se z vozů schopných volně se kývat ze strany na stranu při průjezdu zatáčkami",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
     "rct2ww.ride.rssncrrd": {
         "reference-name": "Trabant Cars",
-        "name": "Moskvičová horská dráha",
+        "name": "Moskvičové vozy",
         "reference-description": "Roller coaster cars in the shape of replica Trabant cars",
-        "description": "Horská dráha s Ruskými vozy",
+        "description": "Vozy horské dráhy, ve stylu aut socialistického bloku a RVHP",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -8995,17 +8995,17 @@
     },
     "rct2ww.ride.sloth": {
         "reference-name": "Sloth Trains",
-        "name": "Lenochodí jízda",
+        "name": "Lenochodí vlaky",
         "reference-description": "Suspended roller coaster trains consisting of sloth-shaped cars able to swing freely as the train goes around corners",
-        "description": "Zavěšená horská dráha s vozy připomínající lenochody, které se houpají v zatáčkách",
+        "description": "Závěsné vlaky horské dráhy, ve tvaru lenochodů, sestávající se z vozů schopných volně se kývat ze strany na stranu při průjezdu zatáčkami",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
     "rct2ww.ride.sputnikr": {
         "reference-name": "Sputnik Cars",
-        "name": "Sputnik",
+        "name": "Sputniky",
         "reference-description": "Russian satellite-shaped cars which swing from the rail above",
-        "description": "Návštěvníci jedou na jednokolejné trati vleže hlavou dolů, zavěšeni ve speciálním voze, který se v zatáčkách houpe",
+        "description": "Závěsné houpající se vozy ve tvaru známého sovětského satelitu",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa v každém voze"
     },
@@ -9019,9 +9019,9 @@
     },
     "rct2ww.ride.stgccstr": {
         "reference-name": "Stage Coaches",
-        "name": "Dostavníková horská dráha",
+        "name": "Dostavníky",
         "reference-description": "Single roller coaster cars in the shape of a stage coach, with padded seats and lap bar restraints",
-        "description": "Dřevěná horská dráha s vozy s polstrovanými sedadly a opěrkou v klíně",
+        "description": "Samostatné vozy dřevěné horské dráhy, ve tvaru dostavníku, s polstrovanými sedadly a opěrkou v klíně",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -9035,25 +9035,25 @@
     },
     "rct2ww.ride.taxicstr": {
         "reference-name": "Yellow Taxi Trains",
-        "name": "Taxi horská dráha",
+        "name": "Žluté taxi vlaky",
         "reference-description": "Roller coaster trains for the Giga Coaster, themed to look like long yellow taxis",
-        "description": "Gigantická ocelová horská dráha schopna volných pádů a kopců přes 90 metrů dlouhých",
+        "description": "Vlaky pro obří horskou dráhu, schopné sjíždět hladké klesání, ve stylu žlutých taxi",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
     "rct2ww.ride.tgvtrain": {
         "reference-name": "TGV Trains",
-        "name": "TGV horská dráha",
+        "name": "Vlaky TGV",
         "reference-description": "Roller coaster trains in the style of French high-speed trains (TGV) that are accelerated by linear induction motors",
-        "description": "Horská dráha s vozy poháněnými elektromotorem, které sviští skrze propletenou dráhu",
+        "description": "Vlaky horské dráhy, ve stylu francouzské vysokorychlostní železnice TGV, využívající ke zrychlení lineární indukční elektromotory",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
     "rct2ww.ride.tigrtwst": {
         "reference-name": "Bengal Tiger Cars",
-        "name": "Horská dráha bengálských tygrů",
+        "name": "Bengálské tygří vozy",
         "reference-description": "Roller coaster cars capable of heartline twists, themend to look like Bengal tigers",
-        "description": "Horská dráha, která se točí dokola tak, že návštěvníci jsou pořád na stejném místě",
+        "description": "Vozy horské dráhy schopné na výhybce změnit směr jízdy, ve stylu bengálských tygrů",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -9067,9 +9067,9 @@
     },
     "rct2ww.ride.whicgrub": {
         "reference-name": "Witchetty Grub Trains",
-        "name": "Červí jízda",
+        "name": "Červí vlaky",
         "reference-description": "Roller coaster trains with small grub-shaped cars",
-        "description": "Horská dráha s vozy ve tvaru červů",
+        "description": "Vlaky horské dráhy s vozy ve tvaru australských červů „witchetty grub“",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa v každém voze"
     },
