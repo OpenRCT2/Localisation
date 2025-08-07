@@ -47,4 +47,4 @@ Updated in:
 - [ ] zh-TW
 
 Notification when new strings arrive:
-@OmarAglan @J0anJosep @LPSGizmo @Wuzzy2 @gr33ndev @tellovishous @dimateos @groenroos @rmnvgr @ninjum @LucaRed @telk5093 @Mmmmulder @Gymnasiast @marcinkunert @arekdurlik @Tupaschoal @CsyeCokTheSolly @LPR-Michael @mrmagic2020 @daihakken @andOlga
+@OmarAglan @J0anJosep @LPSGizmo @Wuzzy2 @gr33ndev @tellovishous @dimateos @groenroos @rmnvgr @ninjum @LucaRed @telk5093 @Mmmmulder @Gymnasiast @marcinkunert @arekdurlik @Tupaschoal @CsyeCokTheSolly @LPR-Michael @mrmagic2020 @daihakken @andOlga @tygrysek90
