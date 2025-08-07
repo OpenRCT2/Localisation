@@ -65,7 +65,7 @@
         "reference-description": "Spacious trains with lap restraints, capable of tight twists and inversions",
         "description": "Prostorné vlaky vybavené sedačkami s opěrkami v klíně, schopné jet na trati s malými zatáčkami, utaženými přemety a obraty",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 místa ve voze"
     },
     "openrct2.ride.single_rail_coaster": {
         "reference-name": "Single Rail Roller Coaster Trains",
@@ -73,7 +73,7 @@
         "reference-description": "Roller coaster trains in which riders are seated single file",
         "description": "Vlaky horské dráhy se samostatnými sedadly v řadě za sebou",
         "reference-capacity": "1 passenger per car",
-        "capacity": "1 passenger per car"
+        "capacity": "1 místo ve voze"
     },
     "openrct2.station.noentrance": {
         "reference-name": "No entrance",
@@ -121,7 +121,7 @@
         "reference-description": "Trains consisting of 2-seater cars where the riders are behind each other",
         "description": "Návštěvníci sedí za sebou ve dvojmístných vozech",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct1.ride.bumper_boats": {
         "reference-name": "Bumper Boats",
@@ -133,17 +133,17 @@
     },
     "rct1.ride.cat_cars": {
         "reference-name": "Cheshire Cats",
-        "name": "Autodráha",
+        "name": "Kočky Šklíba",
         "reference-description": "Powered cat-shaped vehicles",
         "description": "Malá autíčka jezdí po postavené dráze",
         "reference-capacity": "2 passengers per cat",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každé kočce"
     },
     "rct1.ride.chairlift_cars": {
         "reference-name": "Chairlift Cars",
-        "name": "Kryté sedačkové lanovky",
+        "name": "Zavěšené sedačky",
         "reference-description": "Open cars for chairlift",
-        "description": "Lanovka se sedačkami se střechou",
+        "description": "Závěsy se sedačkami pro lanovou dráhu",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa na jedné sedačce"
     },
@@ -199,7 +199,7 @@
         "reference-description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
         "description": "Otočený vlak horské dráhy sestávající se z sedadel připevněných k nosném rámu zavěšenému pod trať nad ním",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct1.ride.ladybird_trains": {
         "reference-name": "Ladybird Trains",
@@ -207,7 +207,7 @@
         "reference-description": "Roller coaster trains with small ladybird-shaped cars",
         "description": "Horská dráha s vozy ve tvaru malých berušek",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct1.ride.log_trains": {
         "reference-name": "Log Trains",
@@ -215,7 +215,7 @@
         "reference-description": "Roller coaster trains with small log-shaped cars",
         "description": "Horská dráha s vozy ve tvaru klád",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct1.ride.logs": {
         "reference-name": "Logs",
@@ -231,7 +231,7 @@
         "reference-description": "Cars shaped like an old mine cart",
         "description": "Vozy ve tvaru důlních vozíků",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct1.ride.mine_trains": {
         "reference-name": "Mine Trains",
@@ -243,9 +243,9 @@
     },
     "rct1.ride.motorbikes": {
         "reference-name": "Motorbikes",
-        "name": "Závody motorek",
+        "name": "Motorky",
         "reference-description": "Single cars shaped like a motorbike",
-        "description": "Vozy ve tvaru motorek vozí návštěvníky po jednokolejné trati",
+        "description": "Jednomístné vozy ve tvaru motorek",
         "reference-capacity": "2 riders per bike",
         "capacity": "2 místa na každé motorce"
     },
@@ -255,7 +255,7 @@
         "reference-description": "Individual cars shaped like a mouse",
         "description": "Horská dráha s vozy ve tvaru myší",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct1.ride.pickup_trucks": {
         "reference-name": "Pickup Trucks",
@@ -275,11 +275,11 @@
     },
     "rct1.ride.reverse_freefall_car": {
         "reference-name": "Reverse Freefall Car",
-        "name": "Volný pád pozpátku",
-        "reference-description": "Large coaster car for the Reverse Freefall Coaster",
+        "name": "Vozidlo pro volný pád pozpátku",
+        "reference-description": "Velké vozidlo určené pro Horskou dráhu s volným pádem pozpátku",
         "description": "Velká dráha s vozem pro volný pád pozpátku",
         "reference-capacity": "8 passengers",
-        "capacity": "8 návštěvníků"
+        "capacity": "8 míst"
     },
     "rct1.ride.river_rapids_boats": {
         "reference-name": "River Rapids Boats",
@@ -293,7 +293,7 @@
         "reference-name": "Rocket Cars",
         "name": "Raketová auta",
         "reference-description": "Roller coaster cars themed to look like rockets",
-        "description": "Horská dráha s vozy vypadajícími jako rakety",
+        "description": "Vozy horské dráhy, ve stylu raket",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa v každém voze"
     },
@@ -319,7 +319,7 @@
         "reference-description": "Powered vehicles in the shape of sports cars",
         "description": "Vozy ve tvaru sportovních aut",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct1.ride.stand_up_trains": {
         "reference-name": "Stand-up Roller Coaster Trains",
@@ -333,7 +333,7 @@
         "reference-name": "Steam Trains",
         "name": "Parní vlaky",
         "reference-description": "Miniature steam trains consisting of a replica steam locomotive and tender, pulling open wooden carriages",
-        "description": "Miniaturní replika parní lokomotivy s tendrem táhne dřevěné vagóny",
+        "description": "Miniaturní parní vláčky tvořené replikou parní lokomotivy s tendrem a dřevěnými vagóny",
         "reference-capacity": "6 passengers per carriage",
         "capacity": "6 míst v každém vagónu"
     },
@@ -347,9 +347,9 @@
     },
     "rct1.ride.steel_rc_trains_reversed": {
         "reference-name": "Roller Coaster Trains (Reversed)",
-        "name": "Roller Coaster Trains (Reversed)",
+        "name": "Vlaky horské dráhy (obrácené)",
         "reference-description": "Roller coaster train running in reverse, so that the passengers face backwards.",
-        "description": "Roller coaster train running in reverse, so that the passengers face backwards.",
+        "description": "Vlaky horské dráhy jezdící pozpátku",
         "reference-capacity": "4 riders per car",
         "capacity": "4 místa v každém voze"
     },
@@ -379,9 +379,9 @@
     },
     "rct1.ride.swinging_lay_down_cars": {
         "reference-name": "Lay-down Cars",
-        "name": "Zavěšená horská dráha na \"ležáka\"",
+        "name": "Vozy „na ležáka“",
         "reference-description": "Small suspended cars in which the passengers ride face-down in a lying position, swinging freely from side to side",
-        "description": "Návštěvníci jedou na jednokolejné trati vleže hlavou dolů, zavěšeni ve speciálním voze, který se v zatáčkách houpe",
+        "description": "Malé závěsné vozy, houpající se volně ze strany na stranu s návštěvníky ležícími obličejem k zemi",
         "reference-capacity": "1 passenger per car",
         "capacity": "1 místo v každém voze"
     },
@@ -679,7 +679,7 @@
         "reference-name": "Flying Saucers",
         "name": "Létající talíře",
         "reference-description": "Guests ride in saucer-shaped hovercraft vehicles that they freely control",
-        "description": "Autodrom se vznášedly",
+        "description": "Návštěvníci jedou ve volně ovladatelných vznášedlech ve tvaru létajících talířů",
         "reference-capacity": "1 person per car",
         "capacity": "1 místo v každém voze"
     },
@@ -689,13 +689,13 @@
         "reference-description": "Powered monster-shaped cars that run on a ghost train track",
         "description": "Vozy ve tvaru příšer jezdí po vícepatrovém okruhu okolo strašidelných kulis a speciálních efektů",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct1aa.ride.heartline_twister_cars": {
         "reference-name": "Twister Cars",
-        "name": "Zatočené vozy",
+        "name": "Twister vozy",
         "reference-description": "Roller coaster cars capable of heartline twists",
-        "description": "Horská dráha, která se točí dokola tak, že návštěvníci jsou pořád na stejném místě.",
+        "description": "Vozy horské dráhy schopné na výhybce změnit směr jízdy",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"
     },
@@ -721,7 +721,7 @@
         "reference-description": "Powered helicopter-shaped cars, controlled by the pedalling of the riders",
         "description": "Po ocelové kolejnici jezdí miniaturní helikoptéry, ovládané šlapáním návštěvníků",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct1aa.ride.reverser_cars": {
         "reference-name": "Reverser Cars",
@@ -741,9 +741,9 @@
     },
     "rct1aa.ride.ski_lift_cars": {
         "reference-name": "Ski-lift Chairs",
-        "name": "Sedačkové lanovky",
+        "name": "Zavěšené sedačky",
         "reference-description": "Open cars for chairlift",
-        "description": "Lanovka se sedačkami",
+        "description": "Závěsy se sedačkami pro lanovou dráhu",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa na jedné sedačce"
     },
@@ -785,7 +785,7 @@
         "reference-description": "Large capacity monorail train cars",
         "description": "Velkokapacitní jednokolejné vlaky",
         "reference-capacity": "8 passengers per car",
-        "capacity": "8 míst v každém vozu"
+        "capacity": "8 míst v každém voze"
     },
     "rct1aa.ride.twister_trains": {
         "reference-name": "Twister Trains",
@@ -801,7 +801,7 @@
         "reference-description": "Powered vehicles in the shape of vintage cars",
         "description": "Vozy ve tvaru veteránů jezdí po postavené dráze",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct1aa.ride.virginia_reel_tubs": {
         "reference-name": "Virginia Reel Tubs",
@@ -817,7 +817,7 @@
         "reference-description": "Roller coaster trains with short single-row cars and open fronts",
         "description": "Vlaky horské dráhy s krátkými vozy vybavenými jednou řadou sedaček a otevřenými čely",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct1aa.scenario_meta.adrenaline_heights": {
         "reference-name": "Adrenaline Heights",
@@ -1265,7 +1265,7 @@
         "reference-description": "Air-powered launched roller coaster trains",
         "description": "Po mocném startu na stlačený vzduch se vozy rozjedou po svislé dráze, přes vrchol a svisle dolů zpět do stanice",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct1ll.ride.coaster_boats": {
         "reference-name": "Coaster Boats",
@@ -2061,7 +2061,7 @@
         "reference-description": "Powered giant 4 x 4 trucks which can climb steep slopes",
         "description": "Obří auta s pohonem 4x4 schopné vyjet velmi strmé svahy",
         "reference-capacity": "2 passengers per truck",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.ride.aml1": {
         "reference-name": "American Style Steam Trains",
@@ -2137,7 +2137,7 @@
         "reference-description": "Small cars which swing from the rail above",
         "description": "Malé houpající se vozy zavěšené pod kolejnici",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.ride.bboat": {
         "reference-name": "Bumper Boats",
@@ -2205,9 +2205,9 @@
         "reference-name": "Bobsleigh Trains",
         "name": "Vlaky z bobů",
         "reference-description": "Trains consisting of 2-seater cars where the riders are behind each other",
-        "description": "Vlaky složené z dvojmístných vozu se sedadly uspořádanými za sebou",
+        "description": "Vlaky složené z dvojmístných vozů se sedadly uspořádanými za sebou",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.ride.burgb": {
         "reference-name": "Burger Bar",
@@ -2237,7 +2237,7 @@
         "reference-description": "Building containing warped rooms and angled corridors to disorientate people walking through it",
         "description": "Budova s pokřivenými místnostmi a nakloněnými chodbami, která dezorientuje návštěvníky",
         "reference-capacity": "5 guests",
-        "capacity": "5 návštěvníků"
+        "capacity": "5 míst"
     },
     "rct2.ride.chcks": {
         "reference-name": "Fried Chicken Stall",
@@ -2275,21 +2275,21 @@
         "reference-description": "Circus animal show inside a big-top tent",
         "description": "Zvířecí představení uvnitř velkého stanu",
         "reference-capacity": "30 guests",
-        "capacity": "30 návštěvníků"
+        "capacity": "30 míst"
     },
     "rct2.ride.clift1": {
         "reference-name": "Chairlift Cars",
-        "name": "Zavěšené sedačky",
+        "name": "Kryté zavěšené sedačky",
         "reference-description": "Open cars for chairlift",
-        "description": "Závěsy se sedačkami pro lanovou dráhu",
+        "description": "Zastřešené závěsy se sedačkami pro lanovou dráhu",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa na jedné sedačce"
     },
     "rct2.ride.clift2": {
         "reference-name": "Ski-lift Chairs",
-        "name": "Kryté zavěšené sedačky",
+        "name": "Zavěšené sedačky",
         "reference-description": "Open cars for chairlift",
-        "description": "Zastřešené závěsy se sedačkami pro lanovou dráhu",
+        "description": "Závěsy se sedačkami pro lanovou dráhu",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 místa na jedné sedačce"
     },
@@ -2325,7 +2325,7 @@
         "reference-description": "Powered cat-shaped vehicles",
         "description": "Poháněné autíčka ve tvaru koček",
         "reference-capacity": "2 passengers per cat",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každé kočcce"
     },
     "rct2.ride.ding1": {
         "reference-name": "Dinghies",
@@ -2395,7 +2395,7 @@
         "reference-description": "Rotating big wheel with open chairs",
         "description": "Velké otáčející se kolo s otevřenými sedadly",
         "reference-capacity": "32 passengers",
-        "capacity": "32 návštěvníků"
+        "capacity": "32 míst"
     },
     "rct2.ride.gdrop1": {
         "reference-name": "Roto-Drop",
@@ -2427,7 +2427,7 @@
         "reference-description": "Powered monster-shaped cars that run on a ghost train track",
         "description": "Vozy ve tvaru příšer jezdí po vícepatrovém okruhu okolo strašidelných kulis a speciálních efektů",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.ride.hatst": {
         "reference-name": "Hat Stall",
@@ -2447,7 +2447,7 @@
         "reference-description": "Powered helicopter-shaped cars, controlled by the pedalling of the riders",
         "description": "Po ocelové kolejnici jezdí miniaturní helikoptéry, ovládané šlapáním návštěvníků",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.ride.hhbuild": {
         "reference-name": "Haunted House",
@@ -2455,7 +2455,7 @@
         "reference-description": "Large themed building containing scary corridors and spooky rooms",
         "description": "Velká stará budova se strašidelnými chodbami a děsivými pokoji",
         "reference-capacity": "15 guests",
-        "capacity": "15 návštěvníků"
+        "capacity": "15 míst"
     },
     "rct2.ride.hmaze": {
         "reference-name": "Maze",
@@ -2471,7 +2471,7 @@
         "reference-description": "Small powered cars that run on a ghost train track",
         "description": "Poháněné vozy jezdící na trati plné duchů",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.ride.hotds": {
         "reference-name": "Hot Dog Stall",
@@ -2587,7 +2587,7 @@
         "reference-description": "Steel lift cabin",
         "description": "Výtah s ocelovou kabinou",
         "reference-capacity": "16 passengers",
-        "capacity": "16 návštěvníků"
+        "capacity": "16 míst"
     },
     "rct2.ride.mbsoup": {
         "reference-name": "Meatball Soup Stall",
@@ -2609,7 +2609,7 @@
         "reference-description": "Roller coaster trains with short single-row cars and open fronts",
         "description": "Vlaky horské dráhy s krátkými vozy vybavenými jednou řadou sedaček a otevřenými čely",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.ride.mgr1": {
         "reference-name": "Merry-Go-Round",
@@ -2617,7 +2617,7 @@
         "reference-description": "Traditional rotating carousel with carved wooden horses",
         "description": "Klasický kolotoč s vyřezávanými koníky",
         "reference-capacity": "16 passengers",
-        "capacity": "16 návštěvníků"
+        "capacity": "16 míst"
     },
     "rct2.ride.monbk": {
         "reference-name": "Bicycles",
@@ -2841,7 +2841,7 @@
         "reference-description": "Riders view a film inside the motion simulator pod while it is twisted and moved around by a hydraulic arm",
         "description": "Návštěvníci sledují film uvnitř simulátoru pohybu, zatímco se simulátorem hýbe hydraulika",
         "reference-capacity": "8 passengers",
-        "capacity": "8 návštěvníků"
+        "capacity": "8 míst"
     },
     "rct2.ride.skytr": {
         "reference-name": "Lay-down Cars",
@@ -2865,7 +2865,7 @@
         "reference-description": "Riders sit in pairs of seats suspended beneath the track",
         "description": "Návštěvníci sedí v sedačkách po dvou zavěšených pod tratí",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.ride.smc1": {
         "reference-name": "Mouse Cars",
@@ -2889,7 +2889,7 @@
         "reference-description": "Large capacity monorail train cars",
         "description": "Velkokapacitní vlaky visuté dráhy",
         "reference-capacity": "8 passengers per car",
-        "capacity": "8 míst v každém vozu"
+        "capacity": "8 míst v každém voze"
     },
     "rct2.ride.souvs": {
         "reference-name": "Souvenir Stall",
@@ -2917,7 +2917,7 @@
         "reference-description": "Powered vehicles in the shape of sports cars",
         "description": "Vozy ve tvaru sportovních aut",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.ride.spdrcr": {
         "reference-name": "Spiral Roller Coaster Trains",
@@ -3005,7 +3005,7 @@
         "reference-description": "Large swinging pirate ship",
         "description": "Velká houpající se pirátská loď",
         "reference-capacity": "16 passengers",
-        "capacity": "16 návštěvníků"
+        "capacity": "16 míst"
     },
     "rct2.ride.swsh2": {
         "reference-name": "Swinging Inverter Ship",
@@ -3021,7 +3021,7 @@
         "reference-description": "Air-powered launched roller coaster trains",
         "description": "Stlačeným vzduchem poháněné vlaky horské dráhy",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.ride.tlt1": {
         "reference-name": "Toilets",
@@ -3063,7 +3063,7 @@
         "reference-description": "Old-timer replica trams",
         "description": "Repliky historických tramvají",
         "reference-capacity": "10 passengers per car",
-        "capacity": "10 míst v každém vozu"
+        "capacity": "10 míst v každém voze"
     },
     "rct2.ride.trike": {
         "reference-name": "Water Tricycles",
@@ -3125,7 +3125,7 @@
         "reference-description": "Powered vehicles in the shape of vintage cars",
         "description": "Vozy ve tvaru veteránů jezdí po postavené dráze",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.ride.vekdv": {
         "reference-name": "Vertical Shuttle Cars",
@@ -3149,7 +3149,7 @@
         "reference-description": "Suspended roller coaster trains consisting of chairlift-style seats able to swing freely as the train goes around corners",
         "description": "Závěsné vlaky horské dráhy sestávající se z vozů bez podlahy schopných volně se kývat ze strany na stranu při průjezdu zatáčkami",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.ride.vreel": {
         "reference-name": "Virginia Reel Tubs",
@@ -3173,7 +3173,7 @@
         "reference-description": "Cars shaped like an old mine cart",
         "description": "Vozy ve stylu starých důlních vozíků",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.ride.wmouse": {
         "reference-name": "Mouse Cars",
@@ -3181,7 +3181,7 @@
         "reference-description": "Individual cars shaped like a mouse",
         "description": "Samostatné vozy ve tvaru myši",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.ride.wmspin": {
         "reference-name": "Spinning Mouse Cars",
@@ -3203,7 +3203,7 @@
         "reference-description": "Roller coaster trains with small ladybird-shaped cars",
         "description": "Vlaky horské dráhy s vozy ve tvaru malých berušek",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.ride.zlog": {
         "reference-name": "Log Trains",
@@ -3211,7 +3211,7 @@
         "reference-description": "Roller coaster trains with small log-shaped cars",
         "description": "Horská dráha s vozy ve tvaru klád",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 místa v každém vozu"
+        "capacity": "2 místa v každém voze"
     },
     "rct2.scenario_meta.alpine_adventures": {
         "reference-name": "Alpine Adventures",
@@ -5971,7 +5971,7 @@
         "reference-description": "Building containing moving walls and floors to disorientate people walking through it",
         "description": "Budova s pohybujícími se zdmi a podlahou, což dezorientuje procházející návštěvníky",
         "reference-capacity": "5 guests",
-        "capacity": "5 návštěvníků"
+        "capacity": "5 míst"
     },
     "rct2tt.ride.ganstrcr": {
         "reference-name": "Gangster Cars",
@@ -5995,7 +5995,7 @@
         "reference-description": "Building containing warped mirrors which distort the reflection of the viewer",
         "description": "Budova s pokřivenými zrcadly zkreslujícími odraz návštevníka",
         "reference-capacity": "5 guests",
-        "capacity": "5 návštěvníků"
+        "capacity": "5 míst"
     },
     "rct2tt.ride.harpiesx": {
         "reference-name": "Harpies Trains",
@@ -6073,7 +6073,7 @@
         "reference-description": "Traditional enclosed double-deck carousel with carved wooden horses",
         "description": "Klasický dvoupatrový kolotoč s vyřezávanými koníky",
         "reference-capacity": "32 passengers",
-        "capacity": "32 návštěvníků"
+        "capacity": "32 míst"
     },
     "rct2tt.ride.microbus": {
         "reference-name": "MicroBus Ride",
@@ -6189,9 +6189,9 @@
     },
     "rct2tt.ride.softoyst": {
         "reference-name": "Soft Toy Stall",
-        "name": "Stánek s plyšáky-dinosaury",
+        "name": "Stánek s plyšovými dinosaury",
         "reference-description": "A stall selling a cute soft toy dinosaur",
-        "description": "Stánek prodávající roztomilé plyšáky-dinosaury"
+        "description": "Stánek prodávající roztomilé plyšové dinosaury"
     },
     "rct2tt.ride.spokprsn": {
         "reference-name": "Haunted Jail House",
@@ -6199,7 +6199,7 @@
         "reference-description": "Building containing dungeons and mannequins of incarcerated figures, to scare people walking through it",
         "description": "Budova s bludištěm a figurínami vězňů, kde procházející návštěvníci zažijí pocit strachu",
         "reference-capacity": "16 guests",
-        "capacity": "16 návštěvníků"
+        "capacity": "16 míst"
     },
     "rct2tt.ride.stamphrd": {
         "reference-name": "Stampeding Herd Trains",
@@ -6215,7 +6215,7 @@
         "reference-description": "Futuristic lift cabin that gives guests the illusion of teleportation",
         "description": "Futuristická výtahová klec vytvářející iluzi teleportace mezi patry",
         "reference-capacity": "16 passengers",
-        "capacity": "16 návštěvníků"
+        "capacity": "16 míst"
     },
     "rct2tt.ride.timemach": {
         "reference-name": "Time Machine",
@@ -8911,7 +8911,7 @@
         "reference-description": "A steel lift cabin commonly used in mines",
         "description": "Výtah s ocelovou kabinou ve stylu důlní výtahové klece",
         "reference-capacity": "16 passengers",
-        "capacity": "16 návštěvníků"
+        "capacity": "16 míst"
     },
     "rct2ww.ride.ostrich": {
         "reference-name": "Ostrich Trains",
