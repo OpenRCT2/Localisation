@@ -64,13 +64,13 @@ To do this, go to the directory where OpenRCT2 resides (not to be confused with 
 | [![](https://img.shields.io/badge/zh--CN-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-CN.txt) |   | [mrmagic2020](https://github.com/mrmagic2020) |
 | [![](https://img.shields.io/badge/zh--TW-maintained-green.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/zh-TW.txt) |   | [daihakken](https://github.com/daihakken)                                                    |
 | Not maintained <!-- Languages that are outdated with strings missing from OpenRCT2/vanilla-->                                                 |   |                                                                                              |
-| [![](https://img.shields.io/badge/ar--EG-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ar-EG.txt)  |   |                                                                                              |
+| [![](https://img.shields.io/badge/ar--EG-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ar-EG.txt)  |   |                                                                                              |
 | [![](https://img.shields.io/badge/fi--FI-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/fi-FI.txt)  |   |                                                                                              |
 | [![](https://img.shields.io/badge/ja--JP-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/ja-JP.txt)  |   |                                                                                              |
-| [![](https://img.shields.io/badge/nb--NO-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt)  |   |                                                                                              |
+| [![](https://img.shields.io/badge/nb--NO-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt)  |   |                                                                                              |
 | [![](https://img.shields.io/badge/pl--PL-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pl-PL.txt)  |   |                                                                                              |
 | [![](https://img.shields.io/badge/tr--TR-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/tr-TR.txt)     |   |                                                                                              |
-| [![](https://img.shields.io/badge/uk--UA-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/uk-UA.txt)     |   |                                                                                              |
+| [![](https://img.shields.io/badge/uk--UA-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/uk-UA.txt)     |   |                                                                                              |
 
 Note:  The status bars can be inaccurate & some maintainers can be more inactive than others.<br/>
 Anyone can still contribute to the languages.
