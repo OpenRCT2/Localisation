@@ -69,8 +69,8 @@ To do this, go to the directory where OpenRCT2 resides (not to be confused with 
 | [![](https://img.shields.io/badge/nb--NO-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/nb-NO.txt)  |   |                                                                                              |
 | [![](https://img.shields.io/badge/pl--PL-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/pl-PL.txt)  |   |                                                                                              |
 | [![](https://img.shields.io/badge/sv--SE-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/sv-SE.txt)  |   |                                                                                              |
-| [![](https://img.shields.io/badge/uk--UA-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/uk-UA.txt)     |   |                                                                                              |
 | [![](https://img.shields.io/badge/tr--TR-outdated-red.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/tr-TR.txt)     |   |                                                                                              |
+| [![](https://img.shields.io/badge/uk--UA-outdated-yellow.svg)](https://github.com/OpenRCT2/Localisation/blob/master/data/language/uk-UA.txt)     |   |                                                                                              |
 
 Note:  The status bars can be inaccurate & some maintainers can be more inactive than others.<br/>
 Anyone can still contribute to the languages.
