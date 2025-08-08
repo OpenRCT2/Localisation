@@ -252,8 +252,6 @@ STR_0831    :Zoom arrière
 STR_0832    :Tourner la vue de 90° dans le sens des aiguilles d’une montre
 STR_0833    :Mettre en pause le jeu
 STR_0834    :Options du jeu et du disque
-STR_0839    :{UINT16} x {UINT16}
-STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
 # The following six strings were used for display resolutions, but have been replaced.
 #end
 STR_0847    :A propos d’OpenRCT2
@@ -562,7 +560,6 @@ STR_1161    :Positionnement impossible…
 STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
 STR_1163    :{STRINGID}{NEWLINE}(Clic droit pour modifier)
 STR_1164    :{STRINGID}{NEWLINE}(Clic droit pour supprimer)
-STR_1165    :{STRINGID} — {STRINGID} {COMMA16}
 STR_1166    :Impossible d’abaisser le niveau de l’eau ici…
 STR_1167    :Impossible de surélever le niveau de l’eau ici…
 STR_1168    :Options
@@ -730,8 +727,6 @@ STR_1329    :{WINDOW_COLOUR_2}Vitesse de lancement :
 STR_1330    :Vitesse maximale en quittant la station
 STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_1332    :{VELOCITY}
-STR_1333    :{STRINGID} — {STRINGID}{POP16}
-STR_1334    :{STRINGID} — {STRINGID} {COMMA16}
 STR_1335    :{STRINGID} — Entrée{POP16}{POP16}
 STR_1336    :{STRINGID} — Entrée de station {POP16}{COMMA16}
 STR_1337    :{STRINGID} — Sortie{POP16}{POP16}
@@ -1976,7 +1971,6 @@ STR_2778    :»{MOVE_X}{10}{STRING}
 # End of new strings
 STR_2779    :Vue #{COMMA16}
 STR_2780    :Vue supplémentaire
-STR_2781    :{STRINGID} :
 STR_2782    :MAJ + 
 STR_2783    :CTRL + 
 STR_2784    :Modifier raccourci clavier
@@ -3288,9 +3282,6 @@ STR_6225    :Non supporté avec le rendu OpenGL
 STR_6226    :Activer la victoire prématurée d’un scénario
 STR_6227    :Gagne un scénario quand tous les objectifs sont atteints avant la date limite
 STR_6228    :Options du scénario
-STR_6229    :{WINDOW_COLOUR_2}{STRINGID} : {STRINGID}
-STR_6230    :{STRINGID} :
-STR_6231    :{WINDOW_COLOUR_2}{STRINGID} : {MOVE_X}{185}{STRINGID}
 STR_6232    :Immobile
 STR_6233    :Vue en coupe
 STR_6234    :Mettre en évidence les problèmes des chemins

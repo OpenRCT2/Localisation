@@ -377,8 +377,6 @@ STR_0980    :新的刺激类游乐设施
 STR_0981    :新的水上游乐设施
 STR_0982    :新的商店及摊贩
 STR_0983    :研究及开发
-STR_0984    :{WINDOW_COLOUR_2}▲{BLACK} {CURRENCY2DP}
-STR_0985    :{WINDOW_COLOUR_2}▼{BLACK} {CURRENCY2DP}
 STR_0986    :{BLACK}{CURRENCY2DP}
 STR_0987    :过多游乐设施/店铺
 STR_0988    :不能新建游乐设施/店铺……
@@ -558,7 +556,6 @@ STR_1161    :不能放置于此……
 STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
 STR_1163    :{STRINGID}{NEWLINE}（按右键修改）
 STR_1164    :{STRINGID}{NEWLINE}（按右键移除）
-STR_1165    :{STRINGID}——{STRINGID} {COMMA16}
 STR_1166    :无法降低此处水位……
 STR_1167    :无法升高此处水位……
 STR_1168    :选项
@@ -611,8 +608,6 @@ STR_1214    :选择发车前最长等待时长
 STR_1215    :{WINDOW_COLOUR_2}与相邻站同步
 STR_1216    :选择是否与所有相邻车站同步发车（用于“赛车”模式）
 STR_1217    :{COMMA16}秒
-STR_1218    :{BLACK}➕
-STR_1219    :{BLACK}➖
 STR_1220    :出口
 STR_1221    :没有入口
 STR_1222    :没有出口
@@ -726,8 +721,6 @@ STR_1329    :{WINDOW_COLOUR_2}发车速度：
 STR_1330    :离站时最高速度
 STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_1332    :{VELOCITY}
-STR_1333    :{STRINGID}——{STRINGID}{POP16}
-STR_1334    :{STRINGID}——{STRINGID}{COMMA16}
 STR_1335    :{STRINGID}——入口{POP16}{POP16}
 STR_1336    :{STRINGID}——车站{POP16}{COMMA16}入口
 STR_1337    :{STRINGID}——出口{POP16}{POP16}
@@ -781,8 +774,6 @@ STR_1384    :{YELLOW}{STRINGID}
 STR_1385    :其他轨道选项
 STR_1386    :特殊……
 STR_1387    :无法改变土地类型……
-STR_1388    :{OUTLINE}{GREEN}+{CURRENCY}
-STR_1389    :{OUTLINE}{RED}-{CURRENCY}
 STR_1390    :{CURRENCY2DP}
 STR_1391    :{RED}{CURRENCY2DP}
 STR_1392    :观看游乐设施/店铺
@@ -842,9 +833,6 @@ STR_1445    :正在观看{STRINGID}的建造
 STR_1446    :正在欣赏景物
 STR_1447    :正在离开游乐园
 STR_1448    :正在观看新游乐设施的建造过程
-STR_1449    :{SPRITE} {STRINGID}{NEWLINE}（{STRINGID}）
-STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}（{STRINGID}）
-STR_1451    :{STRINGID}{NEWLINE}（{STRINGID}）
 STR_1452    :游客命名
 STR_1453    :请输入这名游客的姓名:
 STR_1454    :不能命名该游客……
@@ -1122,7 +1110,6 @@ STR_1727    :建筑权不供购买！
 STR_1728    :不能在此购买建权……
 STR_1729    :非游乐园所属地块！
 STR_1730    :{RED}已关闭
-STR_1731    :{WHITE}{STRINGID}——- 
 STR_1732    :建造
 STR_1733    :模式
 STR_1734    :{WINDOW_COLOUR_2}圈数：
@@ -1190,7 +1177,6 @@ STR_1813    :其他物体
 STR_1814    :动作
 STR_1815    :想法
 STR_1816    :选择游客列表中要显示的信息类别
-STR_1817    :（{COMMA32}）
 STR_1818    :{WINDOW_COLOUR_2}所有游客
 STR_1819    :{WINDOW_COLOUR_2}所有游客（汇总）
 STR_1820    :{WINDOW_COLOUR_2}{STRINGID}的游客
@@ -1567,7 +1553,6 @@ STR_2211    :列出游乐园内的维修人员
 STR_2212    :列出游乐园内的安全警卫
 STR_2213    :列出游乐园内的表演人员
 STR_2214    :你不能在游戏暂停时建造！
-STR_2215    :{STRINGID}{NEWLINE}（{STRINGID}）
 STR_2216    :{WINDOW_COLOUR_2}{COMMA16}°C
 STR_2217    :{WINDOW_COLOUR_2}{COMMA16}°F
 STR_2218    :{RED}{STRINGID} ，{STRINGID}的一部份，尚未返回到{STRINGID}！{NEWLINE}检查是否被卡住或被停止了
@@ -1969,7 +1954,6 @@ STR_2778    :»{MOVE_X}{10}{STRING}
 STR_2779    :查看窗口 #{COMMA16}
 STR_2780    :额外的查看窗口
 # End of new strings
-STR_2781    :{STRINGID}：
 STR_2782    :SHIFT + 
 STR_2783    :CTRL + 
 STR_2784    :变更快捷键
@@ -3149,8 +3133,6 @@ STR_6058    :静音
 STR_6059    :»
 STR_6060    :将游客的购买行为用动画表现
 STR_6061    :当游客购买时播放金钱动画效果。
-STR_6062    :{OUTLINE}{GREEN}+{CURRENCY2DP}
-STR_6063    :{OUTLINE}{RED}-{CURRENCY2DP}
 STR_6064    :拥有所有土地
 STR_6065    :记录用户操作
 STR_6066    :在你的用户文件夹下用文件记录所有用户的操作。
@@ -3279,9 +3261,6 @@ STR_6225    :不支持OpenGL渲染
 STR_6226    :允许剧情提前完成
 STR_6227    :当所有剧情目标在预定时间之前达成时将触发剧情完成。
 STR_6228    :剧情选项
-STR_6229    :{WINDOW_COLOUR_2}{STRINGID}：{STRINGID}
-STR_6230    :{BLACK}{STRINGID}：
-STR_6231    :{WINDOW_COLOUR_2}{STRINGID}：{MOVE_X}{185}{STRINGID}
 STR_6232    :一动不动
 STR_6233    :剖视图视角
 STR_6234    :高亮道路相关物

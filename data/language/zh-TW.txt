@@ -250,8 +250,6 @@ STR_0831    :縮小檢視區域
 STR_0832    :將檢視區域順時針旋轉90°
 STR_0833    :暫停遊戲
 STR_0834    :硬碟及遊戲選項
-STR_0839    :{UINT16} x {UINT16}
-STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
 # The following six strings were used for display resolutions, but have been replaced.
 STR_0847    :有關‘OpenRCT2’
 STR_0850    :{WINDOW_COLOUR_2}版權商標 © 2002 Chris Sawyer, 版權所有
@@ -612,8 +610,6 @@ STR_1214    :選擇發車前最多的等待時長
 STR_1215    :{WINDOW_COLOUR_2}與鄰近車站同步發車
 STR_1216    :選擇是否與全部鄰近車站同步發車 (以便‘競賽’)
 STR_1217    :{COMMA16}秒
-STR_1218    :{BLACK}➕
-STR_1219    :{BLACK}➖
 STR_1220    :只准卸客
 STR_1221    :尚未建造入口
 STR_1222    :尚未建造出口
@@ -3286,7 +3282,6 @@ STR_6227    :當劇情目前於指定日期前完成時便立即完成劇情.
 STR_6228    :劇情選項
 STR_6229    :{WINDOW_COLOUR_2}{STRINGID}: {STRINGID}
 STR_6230    :{BLACK}{STRINGID}:
-STR_6231    :{WINDOW_COLOUR_2}{STRINGID}:
 STR_6232    :涷結
 STR_6233    :切入檢視
 STR_6234    :高亮道路問題
