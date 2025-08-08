@@ -37,6 +37,7 @@ Updated in:
 - [ ] sv-SE
 - [ ] tr-TR
 - [ ] uk-UA
+- [ ] vi-VN
 - [ ] zh-CN
 - [ ] zh-TW
 
