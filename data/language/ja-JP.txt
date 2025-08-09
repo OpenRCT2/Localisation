@@ -246,8 +246,6 @@ STR_0831    :ズームイン
 STR_0832    :時計回90°りに移動させる
 STR_0833    :ゲームをポーズする
 STR_0834    :ディスクとゲームオプション
-STR_0839    :{UINT16} x {UINT16}
-STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} x {UINT16}
 STR_0847    :OpenRCT2について
 STR_0850    :{WINDOW_COLOUR_2}Copyright © 2002 Chris Sawyer, all rights reserved
 STR_0851    :{WINDOW_COLOUR_2}Designed and programmed by Chris Sawyer
@@ -607,8 +605,6 @@ STR_1214    :出発前に最長どのくらい待つか選択
 STR_1215    :{WINDOW_COLOUR_2}全ての直接隣接する乗り場と出発タイミングを同期する
 STR_1216    :レースのために全ての直接隣接する乗り場と出発タイミングを同期するかどうか選択。
 STR_1217    :{COMMA16}分
-STR_1218    :{BLACK}➕
-STR_1219    :{BLACK}➖
 STR_1220    :出口のみ
 STR_1221    :入口がない
 STR_1222    :出口がない
@@ -1564,8 +1560,6 @@ STR_2212    :パークの警備員の表示
 STR_2213    :パークのエンターテイナーの表示
 STR_2214    :ゲームが一時停止中で建設はできません。
 STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
-STR_2216    :{WINDOW_COLOUR_2}{COMMA16}℃
-STR_2217    :{WINDOW_COLOUR_2}{COMMA16}℉
 STR_2218    :{RED}{STRINGID}の{STRINGID}が{STRINGID}にまだ戻ってきていません!{NEWLINE}どこかにひっかかったり止まったりしていないか確認してください
 STR_2219    :{RED}{COMMA16}人の来客は{STRINGID}上の事故で死亡してしまいました。
 STR_2220    :{WINDOW_COLOUR_2}パーク評価値: {BLACK}{COMMA16}
@@ -1583,7 +1577,6 @@ STR_2231    :ドロップに・ホールド・ブレーキ
 STR_2232    :ケーブル・リフト・ヒル
 STR_2233    :パーク・インフォメーション
 STR_2234    :最近のメッセージ
-STR_2235    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_2236    :1月
 STR_2237    :2月
 STR_2238    :3月
@@ -1637,7 +1630,6 @@ STR_2285    :初期の研究
 STR_2286    :デサイン中
 STR_2287    :デサインを終わる
 STR_2288    :未知
-STR_2289    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}
 STR_2291    :新しいシナリオを始める
 STR_2292    :{WINDOW_COLOUR_2}参加したライド:
 STR_2293    :{BLACK} なし
@@ -2067,20 +2059,6 @@ STR_2992    :バナーのテキト
 STR_2993    :テキトを入力してください:
 STR_2994    :看板の文字を変更
 STR_2995    :この看板を除去する
-STR_2996    :{BLACK}あいう
-STR_2997    :{GREY}あいう
-STR_2998    :{WHITE}あいう
-STR_2999    :{RED}あいう
-STR_3000    :{GREEN}あいう
-STR_3001    :{YELLOW}あいう
-STR_3002    :{TOPAZ}あいう
-STR_3003    :{CELADON}あいう
-STR_3004    :{BABYBLUE}あいう
-STR_3005    :{PALELAVENDER}あいう
-STR_3006    :{PALEGOLD}あいう
-STR_3007    :{LIGHTPINK}あいう
-STR_3008    :{PEARLAQUA}あいう
-STR_3009    :{PALESILVER}あいう
 STR_3010    :ファイルをロードすることができません…
 STR_3011    :ファイルには無効なデータが含まれています
 STR_3045    :音楽のスタイルの選定
