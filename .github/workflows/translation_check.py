@@ -42,7 +42,7 @@ KEYS_TO_IGNORE = ['STR_0000', 'STR_0001', 'STR_0824', 'STR_0839', 'STR_0840', 'S
                   'STR_6063', 'STR_6164', 'STR_6201', 'STR_6229', 'STR_6230', 'STR_6231', 'STR_6329', 'STR_6360']
 
 languages = []
-STR_NUMBER_RE = re.compile("STR_\d+")
+STR_NUMBER_RE = re.compile(r"STR_\d+")
 
 def get_arg_parser():
     """ Command line arguments """
@@ -120,25 +120,39 @@ def count_translations(dir_with_translations, print_info, reference_file):
     for lang in languages:
         filename = lang + '.txt'
         translations = file_to_dict(os.path.join(dir_with_translations, filename))
+        messages = {
+            'missing': [],
+            'same': [],
+            'unexpected': [],
+            'unnecessary': []
+        }
 
         for base_string in en_gb:
             if base_string in KEYS_TO_IGNORE:
-                if base_string in translations and en_gb[base_string] != translations[base_string] and print_info:
-                    print(f'[{lang}] Unexpected translation: {base_string}')
+                if base_string in translations and en_gb[base_string] != translations[base_string]:
+                    messages['unexpected'].append(base_string)
             elif base_string not in translations:
-                missing_counters[lang] += 1
-                if print_info:
-                    print(f'[{lang}] Missing translation: {base_string}')
+                messages['missing'].append(base_string)
             elif en_gb[base_string] == translations[base_string]:
-                same_counters[lang] += 1
-                if print_info:
-                    print(f'[{lang}] Same translation: {base_string}')
+                messages['same'].append(base_string)
 
-        for translation in translations:
-            if translation not in en_gb:
-                not_needed[lang] += 1
-                if print_info:
-                    print(f'[{lang}] Unnecessary translation: {translation}')
+        messages['unnecessary'].extend([key for key in translations if key not in en_gb])
+
+        missing_counters[lang] = len(messages['missing'])
+        same_counters[lang] = len(messages['same'])
+        not_needed[lang] = len(messages['unnecessary'])
+
+        if print_info:
+            print(f'{"=" * 15} Language: {lang} {"=" * 15}')
+            print(f'Missing ({missing_counters[lang]}):')
+            print(f'\t{', '.join(messages["missing"])}')
+            print(f'Unnecessary (not in en-GB) ({not_needed[lang]}):')
+            print(f'\t{', '.join(messages["unnecessary"])}')
+            print(f'Unexpected (should not be translated) ({len(messages["unexpected"])}):')
+            print(f'\t{', '.join(messages["unexpected"])}')
+            print(f'Same as en-GB ({same_counters[lang]}):')
+            print(f'\t{', '.join(messages["same"])}')
+            print(f'{"-" * 47}\n')
 
     result = {'missing': missing_counters, 'same': same_counters, 'not_needed': not_needed}
     return result
