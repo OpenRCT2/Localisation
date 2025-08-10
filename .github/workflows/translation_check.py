@@ -150,7 +150,7 @@ def count_translations(dir_with_translations, print_info, reference_file):
             print(f'\t{', '.join(messages["missing"])}')
             print(f'Unnecessary (not in en-GB) ({not_needed[lang]}):')
             print(f'\t{', '.join(messages["unnecessary"])}')
-            print(f'Translation not expected ({len(messages["unexpected"])})\nPlease review and if OK, add to supress_warning.py:')
+            print(f'Translation not expected ({len(messages["unexpected"])})\nPlease review and if OK, add to suppress_warning.py:')
             print(f'\t{', '.join(messages["unexpected"])}')
             print(f'Same as en-GB ({same_counters[lang]}):')
             print(f'\t{', '.join(messages["same"])}')
