@@ -54,6 +54,8 @@ def get_arg_parser():
                         help='the language directory on the master branch')
     parser.add_argument('--branch-dir', '-b', default=PR_LANG_DIR,
                         help='the language directory on the pull request branch')
+    parser.add_argument('github_run_url', nargs='?', default=None,
+                        help='Optional GitHub run URL for reference')
     return parser
 
 
@@ -182,10 +184,10 @@ def run():
     parser = get_arg_parser()
     args = parser.parse_args()
     read_languages_from_master_and_pr(args.master_dir, args.branch_dir)
-    prepare_translation_report(args.master_dir, args.branch_dir, args.reference_lang_file)
+    prepare_translation_report(args.master_dir, args.branch_dir, args.reference_lang_file, args.github_run_url)
 
 
-def prepare_translation_report(master_dir, branch_dir, reference_file):
+def prepare_translation_report(master_dir, branch_dir, reference_file, github_run_url):
     """ Generates the translation report """
     master_branch = count_translations(master_dir, False, reference_file)
     pull_request = count_translations(branch_dir, True, reference_file)
@@ -210,8 +212,7 @@ def prepare_translation_report(master_dir, branch_dir, reference_file):
         if not filecmp.cmp(file_master, file_pr):
             languages_changed.append(lang)
     result = '#### Check results\n\n'
-    result += "For details go to `Translation Check` -> `Details`. " \
-              "Expand `Run checks` build stage and use the build-in search to find your language (e.g. `pl-PL`)\n\n"
+    result += f"For details see the `Run checks` [on the CI logs]({github_run_url}).\n\n"
     result += table_header
     other_table = "\n\n" + table_header
     for lang in languages:
