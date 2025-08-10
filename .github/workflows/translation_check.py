@@ -212,7 +212,7 @@ def prepare_translation_report(master_dir, branch_dir, reference_file, github_ru
         if not filecmp.cmp(file_master, file_pr):
             languages_changed.append(lang)
     result = '#### Check results\n\n'
-    result += f"For details see the `Run checks` [on the CI logs]({github_run_url}).\n\n"
+    result += f"For details click the build job and expand `Run checks` [on the CI logs]({github_run_url}).\n\n"
     result += table_header
     other_table = "\n\n" + table_header
     for lang in languages:
