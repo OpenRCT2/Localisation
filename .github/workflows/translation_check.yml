@@ -1,6 +1,9 @@
 name: Translation Check
 
-on: pull_request_target
+on: 
+  pull_request_target:
+    paths:
+     - 'data/language/**.txt'
 
 jobs:
   build:
