@@ -10,7 +10,7 @@ SUPRESS_WARNING = dict()
 # example
 # SUPRESS_WARNING['qq-JJ'] = ['STR_0123', 'STR_5678', 'STR_8900']
 # 2996 - 3009 are COLOR-ABC strings used in Banner window
-# japanese and ukrainian use different scripts (hentai and cyrillic)
+# japanese and ukrainian use different scripts (hiragana and cyrillic)
 
 SUPRESS_WARNING['ar-EG'] = []
 SUPRESS_WARNING['ca-ES'] = []
