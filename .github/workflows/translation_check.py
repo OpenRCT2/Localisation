@@ -9,7 +9,7 @@ import filecmp
 import os
 import re
 
-from supress_warning import SUPRESS_WARNING
+from suppress_warning import SUPPRESS_WARNING
 
 MASTER_LANG_DIR = "master/data/language"
 PR_LANG_DIR = "pr/data/language"
@@ -130,7 +130,7 @@ def count_translations(dir_with_translations, print_info, reference_file):
         }
 
         for base_string in en_gb:
-            if base_string in KEYS_TO_IGNORE and base_string not in SUPRESS_WARNING[lang]:
+            if base_string in KEYS_TO_IGNORE and base_string not in SUPPRESS_WARNING[lang]:
                 if base_string in translations and en_gb[base_string] != translations[base_string]:
                     messages['unexpected'].append(base_string)
             elif base_string not in translations:
