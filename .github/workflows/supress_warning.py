@@ -5,13 +5,7 @@
 # incorectly
 
 
-class DictWithoutKeyError(dict):
-# this is to eliminate KeyError that could occur when acessing
-# language not listed here
-    def __missing__(self, key):
-        return []
-
-SUPRESS_WARNING = DictWithoutKeyError()
+SUPRESS_WARNING = dict()
 
 # example
 # SUPRESS_WARNING['qq-JJ'] = ['STR_0123', 'STR_5678', 'STR_8900']
