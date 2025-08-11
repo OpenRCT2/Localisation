@@ -150,8 +150,11 @@ def count_translations(dir_with_translations, print_info, reference_file):
             print(f'\t{', '.join(messages["missing"])}')
             print(f'Unnecessary (not in en-GB) ({not_needed[lang]}):')
             print(f'\t{', '.join(messages["unnecessary"])}')
-            print(f'Translation not expected ({len(messages["unexpected"])})\nPlease review and if OK, add to suppress_warning.py:')
+            print(f'Technical strings modified ({len(messages["unexpected"])}):')
             print(f'\t{', '.join(messages["unexpected"])}')
+            if len(messages["unexpected"]):
+                print(f'\tIt\'s not expected for these to be translated, but if it makes sense for your language,')
+                print(f'\tadd a waiver for them on suppress_warning.py and open a PR explaining why.')
             print(f'Same as en-GB ({same_counters[lang]}):')
             print(f'\t{', '.join(messages["same"])}')
             print(f'{"-" * 47}\n')
