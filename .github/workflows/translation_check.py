@@ -9,6 +9,8 @@ import filecmp
 import os
 import re
 
+from suppress_warning import SUPPRESS_WARNING
+
 MASTER_LANG_DIR = "master/data/language"
 PR_LANG_DIR = "pr/data/language"
 OPENRCT2_EN_GB_FILE = "OpenRCT2/data/language/en-GB.txt"
@@ -132,7 +134,7 @@ def count_translations(dir_with_translations, print_info, reference_file):
         }
 
         for base_string in en_gb:
-            if base_string in KEYS_TO_IGNORE:
+            if base_string in KEYS_TO_IGNORE and base_string not in SUPPRESS_WARNING[lang]:
                 if base_string in translations and en_gb[base_string] != translations[base_string]:
                     messages['unexpected'].append(base_string)
             elif base_string not in translations:
@@ -152,8 +154,11 @@ def count_translations(dir_with_translations, print_info, reference_file):
             print(f'\t{', '.join(messages["missing"])}')
             print(f'Unnecessary (not in en-GB) ({not_needed[lang]}):')
             print(f'\t{', '.join(messages["unnecessary"])}')
-            print(f'Unexpected (should not be translated) ({len(messages["unexpected"])}):')
+            print(f'Technical strings modified ({len(messages["unexpected"])}):')
             print(f'\t{', '.join(messages["unexpected"])}')
+            if messages["unexpected"]:
+                print(f'\tIt\'s not expected for the above to be translated, but if it makes sense for your language,')
+                print(f'\tadd a waiver for them on suppress_warning.py and open a PR explaining why.')
             print(f'Same as en-GB ({same_counters[lang]}):')
             print(f'\t{', '.join(messages["same"])}')
             print(f'{"-" * 47}\n')
