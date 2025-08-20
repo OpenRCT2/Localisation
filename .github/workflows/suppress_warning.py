@@ -32,7 +32,8 @@ SUPPRESS_WARNING['fr-CA'] = []
 # fr-FR uses em dashes (—) instead of en dashes (-) for separators and must have a non-breaking space before colons
 SUPPRESS_WARNING['fr-FR'] = ['STR_1165', 'STR_1333', 'STR_1334', 'STR_2781', 'STR_6229', 'STR_6230', 'STR_6231']
 SUPPRESS_WARNING['gl-ES'] = []
-SUPPRESS_WARNING['hu-HU'] = []
+# hu-HU needs to change order of {STRINGID}s for news and research to translate them properly.
+SUPPRESS_WARNING['hu-HU'] = ['STR_2235', 'STR_2289']
 SUPPRESS_WARNING['it-IT'] = []
 SUPPRESS_WARNING['ja-JP'] = []
 # ko-KR needs to change order of {STRINGID}s for news and research to translate them properly. STR_1218, 1219 is changed by @AaronVanGeffen at 738e920.
