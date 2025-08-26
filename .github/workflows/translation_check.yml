@@ -1,6 +1,9 @@
 name: Translation Check
 
-on: pull_request_target
+on: 
+  pull_request_target:
+    paths:
+     - 'data/language/**.txt'
 
 jobs:
   build:
@@ -39,7 +42,7 @@ jobs:
           merge_base=$(git merge-base refs/remotes/upstream/master HEAD)
           echo "merge base sha: ${merge_base}"
           git checkout $merge_base
-          echo ::set-output name=merge_base::$merge_base
+          echo "merge_base=$merge_base" >> $GITHUB_OUTPUT
           cd ..
 
       - name: Print debug stuff
@@ -59,10 +62,10 @@ jobs:
           ref: master
           path: master
 
-      - name: Set up Python 3.8
-        uses: actions/setup-python@v2
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.8'
+          python-version: '3.12'
 
       - name: Checkout upstream master (in order to use the newest version of the script)
         uses: actions/checkout@v4
@@ -71,18 +74,19 @@ jobs:
           ref: master
 
       - name: Run checks
-        run: python upstream_master/.github/workflows/translation_check.py
+        run: python upstream_master/.github/workflows/translation_check.py ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
 
       - id: get-comment-body
         run: |
-          body=$(cat result.md)
-          body="${body//'%'/'%25'}"
-          body="${body//$'\n'/'%0A'}"
-          body="${body//$'\r'/'%0D'}"
-          echo ::set-output name=body::$body
+          delimiter=$(openssl rand -hex 8)
+          {
+            echo "body<<$delimiter"
+            cat result.md
+            echo "$delimiter"
+          } >> $GITHUB_OUTPUT
 
       - name: Create PR comment
-        uses: peter-evans/create-or-update-comment@v1
+        uses: peter-evans/create-or-update-comment@v4
         with:
           issue-number: ${{github.event.pull_request.number}}
           body: ${{ steps.get-comment-body.outputs.body }}
