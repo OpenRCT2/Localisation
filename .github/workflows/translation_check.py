@@ -43,7 +43,8 @@ KEYS_TO_IGNORE = ['STR_0000', 'STR_0001', 'STR_0824', 'STR_0839', 'STR_0840', 'S
                   'STR_5375', 'STR_5376', 'STR_5462', 'STR_5467', 'STR_5485', 'STR_5486', 'STR_5633', 'STR_5918',
                   'STR_5919', 'STR_6012', 'STR_6034', 'STR_6059', 'STR_6062', 'STR_6063', 'STR_6164', 'STR_6201',
                   'STR_6229', 'STR_6230', 'STR_6231', 'STR_6329', 'STR_6438', 'STR_6496', 'STR_6642', 'STR_6651',
-                  'STR_6689', 'STR_6704', 'STR_6713', 'STR_6744', 'STR_6795', 'STR_6796', 'STR_7002']
+                  'STR_6689', 'STR_6704', 'STR_6713', 'STR_6744', 'STR_6795', 'STR_6796', 'STR_7002', 'STR_7018',
+                  'STR_7019', 'STR_7020', 'STR_7021']
 
 languages = []
 STR_NUMBER_RE = re.compile(r"STR_\d+")
