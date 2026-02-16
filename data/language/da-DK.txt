@@ -2221,8 +2221,8 @@ STR_3228    :Sæt start punkt for personer
 STR_3229    :Blokbremser kan ikke bruges lige efter stationen
 STR_3230    :Blokbremser kan ikke bruges lige efter hinanden
 STR_3231    :Blokbremser kan ikke bruges lige efter toppen af en løftekæde
-STR_3232    :Indstillinger - Finansiel
-STR_3233    :Indstillinger - Gæster
+STR_3232    :Scenarieindstillinger - Økonomi
+STR_3233    :Scenarieindstillinger – Gæster
 STR_3235    :Vis finansindstillinger
 STR_3236    :Vis gæsteindstillinger
 STR_3238    :Ingen penge
@@ -2266,7 +2266,7 @@ STR_3279    :Gratis park entré / Betal for forlystelser
 STR_3280    :Betal Park entré / Gratis forlystelser
 STR_3281    :Entré pris:
 STR_3283    :vælg forlystelser der skal bevares
-STR_3285    :Bevarede forlystelser
+STR_3285    :Scenarieindstillinger - Bevarede forlystelser
 STR_3286    :Vælg mål for dette scenarie
 STR_3287    :{WINDOW_COLOUR_2}Mål:
 STR_3294    :Skift…
@@ -3179,7 +3179,7 @@ STR_6102    :Værdien af forlystelser vil ikke falde over tid over tid, Så gæs
 STR_6103    :Denne funktion er deaktiveret ved netværksspil.
 STR_6105    :Hypercoaster
 STR_6107    :Monster Trucks
-STR_6109    :Hyper-Twister
+STR_6109    :Hyper-Twister rutchebane
 STR_6111    :Klassisk mini rutchebane
 STR_6113    :En høj ikke-inverterende rutschebane med store fald, høj hastighed og komfortable vogne med simpel fastspænding
 STR_6115    :Kæmpe Eldrevne firhjulstrækkere , der kan klatre op ad stejle skråninger
@@ -3756,40 +3756,40 @@ STR_6729    :Cable lift hill must start immediately after station or block brake
 STR_6730    :Export emscripten data
 STR_6731    :Import emscripten data
 STR_6732    :Show a button in the toolbar to rotate the view anti-clockwise
-STR_6733    :See-Through
-STR_6734    :Map elements that are at or above the cutting height are rendered translucent.
-STR_6735    :Go up to parent folder
-STR_6736    :Preview
-STR_6737    :No preview available
-STR_6738    :{WINDOW_COLOUR_2}Park rating: {BLACK}{UINT16}
-STR_6739    :{WINDOW_COLOUR_2}Date: {BLACK}{STRINGID}
-STR_6740    :{WINDOW_COLOUR_2}Cash: {BLACK}{CURRENCY2DP}
-STR_6741    :{WINDOW_COLOUR_2}Num. rides: {BLACK}{UINT16}
-STR_6742    :{WINDOW_COLOUR_2}Num. guests: {BLACK}{UINT16}
-STR_6743    :Climate
+STR_6733    :Gennemsigtig
+STR_6734    :Elementer på eller over skærehøjden vises som gennemsigtige.
+STR_6735    :Gå op til overmappen
+STR_6736    :Forhåndsvisning
+STR_6737    :Ingen forhåndsvisning tilgængelig
+STR_6738    :{WINDOW_COLOUR_2}Parkvurdering: {BLACK}{UINT16}
+STR_6739    :{WINDOW_COLOUR_2}Dato: {BLACK}{STRINGID}
+STR_6740    :{WINDOW_COLOUR_2}Kontanter: {BLACK}{CURRENCY2DP}
+STR_6741    :{WINDOW_COLOUR_2}Antal forlystelser: {BLACK}{UINT16}
+STR_6742    :{WINDOW_COLOUR_2}Antal gæster: {BLACK}{UINT16}
+STR_6743    :Klima
 STR_6744    :{WINDOW_COLOUR_2}{UINT16}%
-STR_6745    :{WINDOW_COLOUR_2}Guests’ intensity preferences:
-STR_6746    :No preferences
-STR_6747    :Preferences vary (default)
-STR_6748    :Only less intense rides
-STR_6749    :Only more intense rides
-STR_6750    :Select what kind of ride intensity newly spawned guests prefer.
-STR_6751    :Queue paths cannot be used for level crossings!
-STR_6752    :Scenario options - Objective
-STR_6753    :Scenario options - Scenario Details
-STR_6754    :Scenario options - Land Restrictions
-STR_6755    :Show objective options
-STR_6756    :Show scenario details options
-STR_6757    :Show land restriction options
-STR_6758    :Loan options
-STR_6759    :Business model
-STR_6760    :Earnings:
-STR_6761    :Scenario Details
-STR_6762    :Udseende
+STR_6745    :{WINDOW_COLOUR_2}Gæsters intensitetspræferencer:
+STR_6746    :Ingen præferencer
+STR_6747    :Varierende præferencer (standard)
+STR_6748    :Kun mindre intense forlystelser
+STR_6749    :Kun mere intense forlystelser
+STR_6750    :Vælg hvilken intensitet nye gæster foretrækker.
+STR_6751    :Køstier kan ikke bruges til planoverkørsler!
+STR_6752    :Scenarieindstillinger – Mål
+STR_6753    :Scenarieindstillinger – Scenariedetaljer
+STR_6754    :Scenarieindstillinger – Jordbegrænsninger
+STR_6755    :Vis målindstillinger
+STR_6756    :Vis scenariedetaljeindstillinger
+STR_6757    :Vis jordbegrænsningsindstillinger
+STR_6758    :Låneindstillinger
+STR_6759    :Forretningsmodel
+STR_6760    :Indtjening:
+STR_6761    :Scenariedetaljer
+STR_6762    :Brugerflade
 STR_6763    :RollerCoaster Tycoon 1
-STR_6764    :Saving and autosaves
-STR_6765    :Advanced
-STR_6766    :Clear
+STR_6764    :Gem og autogem
+STR_6765    :Avanceret
+STR_6766    :Ryd
 STR_6767    :Window
 STR_6768    :Rendering
 STR_6769    :Behaviour
