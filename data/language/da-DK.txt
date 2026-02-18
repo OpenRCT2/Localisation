@@ -91,6 +91,7 @@ STR_0095    :Alpin rutchebane
 STR_0096    :Klassisk træ rutsjebane
 STR_0097    :Klassisk Stå-op Rutschebane
 STR_0098    :LSM Accelereret Rutschebane
+STR_0099    :Klassisk Wooden Twister-rutsjebane
 STR_0512    :En kompakt rutschebane med en spiral stigning og bløde, snoede fald.
 STR_0513    :En loopende rutschebane hvor passagerne er i en stående position
 STR_0514    :Vogne suspenderet under rutschebane sporet, svinger ud til siden i svingene
@@ -176,6 +177,7 @@ STR_0605    :Ryttere kælker ned ad en bugtende stålbane og bremser for at kont
 STR_0606    :En ældre stils trærutsjebane med en hurtig og ujævn tur med masser af luft tid, laterale G'er, og designet til at føles som ‘ude-af-kontrol’
 STR_0607    :En intens, Klassisk stål-stil, loopende rutschebane hvor passagerne er i en stående position
 STR_0608    :Rutsjebanetog accelereres ud af stationen af lineære synkronmotorer, for at suse gennem snoede inversioner og sving
+STR_0609    :En træ-rutsjebane i klassisk stil med en hurtig og hård tur, artikulerede tog, masser af airtime og snoede spor
 STR_0767    :Gæst {INT32}
 STR_0768    :Handymand {INT32}
 STR_0769    :Mekaniker {INT32}
@@ -3733,29 +3735,29 @@ STR_6706    :{WINDOW_COLOUR_2}Nuværende billedfil: {BLACK}{STRING}
 STR_6707    :(Ingen valgt)
 STR_6708    :Udglatnings Styrke
 STR_6709    :Angiv udglatnings styrke imellem {COMMA16} og {COMMA16}
-STR_6710    :Stable sort
-STR_6711    :Filename:
-STR_6712    :Save
+STR_6710    :Stabil sortering
+STR_6711    :Filnavn:
+STR_6712    :Gem
 STR_6713    :{COMMA32} {STRINGID}
-STR_6714    :Filename
-STR_6715    :Date modified
-STR_6716    :File size
-STR_6717    :File size {STRINGID}
-STR_6718    :Peep Animations
-STR_6719    :At least one guest peep animations object must be selected
-STR_6720    :At least one handyman peep animations object must be selected
-STR_6721    :At least one mechanic peep animations object must be selected
-STR_6722    :At least one security peep animations object must be selected
-STR_6723    :At least one entertainer peep animations object must be selected
+STR_6714    :Filnavn
+STR_6715    :Dato ændret
+STR_6716    :Filstørrelse
+STR_6717    :Filstørrelse {STRINGID}
+STR_6718    :Peep-animationer
+STR_6719    :Mindst ét gæste-peep-animationsobjekt skal være valgt
+STR_6720    :Mindst ét vicevært-peep-animationsobjekt skal være valgt
+STR_6721    :Mindst ét mekaniker-peep-animationsobjekt skal være valgt
+STR_6722    :Mindst ét sikkerheds-peep-animationsobjekt skal være valgt
+STR_6723    :Mindst ét entertainer-peep-animationsobjekt skal være valgt
 STR_6724    :Scenarie Tekster
 STR_6725    :X:
 STR_6726    :Y:
-STR_6727    :Dive Loop (left)
-STR_6728    :Dive Loop (right)
-STR_6729    :Cable lift hill must start immediately after station or block brake
-STR_6730    :Export emscripten data
-STR_6731    :Import emscripten data
-STR_6732    :Show a button in the toolbar to rotate the view anti-clockwise
+STR_6727    :Dyk Loop (venstre)
+STR_6728    :Dyk Loop (højre)
+STR_6729    :Kabel-lifthill skal starte umiddelbart efter station eller blokbremse
+STR_6730    :Eksportér emscripten-data
+STR_6731    :Importér emscripten-data
+STR_6732    :Vis en knap i værktøjslinjen til at rotere visningen mod uret
 STR_6733    :See-Through
 STR_6734    :Map elements that are at or above the cutting height are rendered translucent.
 STR_6735    :Go up to parent folder
