@@ -117,7 +117,7 @@
     },
     "rct1.ride.bobsleigh_trains": {
         "reference-name": "Bobsleigh Trains",
-        "name": "बॉबस्लेड ट्रेनें",
+        "name": "बॉबस्लेझ ट्रेनें",
         "reference-description": "Trains consisting of 2-seater cars where the riders are behind each other",
         "description": "2-सीट वाली कारों वाली ट्रेनें जहाँ सवार एक-दूसरे के पीछे होते हैं",
         "reference-capacity": "2 passengers per car",
@@ -165,9 +165,9 @@
     },
     "rct1.ride.dodgems": {
         "reference-name": "Dodgems",
-        "name": "बम्पर कार",
+        "name": "डॉजेम्स",
         "reference-description": "Riders bump into each other in self-drive electric dodgems",
-        "description": "सवार स्व-चालित इलेक्ट्रिक बम्पर कारों में एक-दूसरे से टकराते हैं",
+        "description": "सवार स्व-चालित इलेक्ट्रिक डॉजेम में एक-दूसरे से टकराते हैं",
         "reference-capacity": "1 person per car",
         "capacity": "प्रति कार 1 व्यक्ति"
     },
@@ -181,7 +181,7 @@
         "reference-name": "Go-Karts (with helmets)",
         "name": "गो-कार्ट (with helmets)",
         "reference-description": "Self-driven petrol-engined go-karts that come with safety helmets",
-        "description": "सुरक्षा हेलमेट के साथ आने वाले स्व-चालित गैस इंजन वाले गो-कार्ट",
+        "description": "सुरक्षा हेलमेट के साथ आने वाले स्व-चालित पेट्रोल इंजन वाले गो-कार्ट",
         "reference-capacity": "single-seater",
         "capacity": "एकल सीट"
     },
@@ -363,7 +363,7 @@
     },
     "rct1.ride.suspended_swinging_aeroplane_cars": {
         "reference-name": "Suspended Swinging Aeroplane Cars",
-        "name": "निलंबित Swinging Airplane कारें",
+        "name": "निलंबित Swinging एरोप्लेन कारें",
         "reference-description": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
         "description": "निलंबित रोलर कोस्टर ट्रेनें जिनमें हवाई जहाज़ के आकार की कारें ट्रेन के कोनों से गुज़रते समय स्वतंत्र रूप से झूल सकती हैं",
         "reference-capacity": "4 passengers per car",
@@ -389,7 +389,7 @@
         "reference-name": "Toilets",
         "name": "शौचालय",
         "reference-description": "Basic toilets housed in a prefabricated concrete building",
-        "description": "प्रीफेब्रिकेटेड कंक्रीट इमारत में बुनियादी शौचालय सुविधाएँ"
+        "description": "प्रीफेब्रिकेटेड कंक्रीट इमारत में बुनियादी शौचालय"
     },
     "rct1.ride.vertical_drop_trains": {
         "reference-name": "Six-seater Twister Trains",
@@ -429,7 +429,7 @@
         "reference-park_name": "Crumbly Woods",
         "park_name": "जर्जर जंगल",
         "reference-details": "A large park with well-designed but rather old rides. Replace the old rides or add new rides to make the park more popular.",
-        "details": "अच्छी तरह से डिज़ाइन किए गए लेकिन पुराने राइड वाला एक बड़ा पार्क - पार्क को अधिक लोकप्रिय बनाने के लिए पुराने राइड बदलें या नए राइड जोड़ें"
+        "details": "अच्छी तरह से डिज़ाइन किए गए लेकिन पुराने राइड वाला एक बड़ा पार्क। पार्क को अधिक लोकप्रिय बनाने के लिए पुराने राइड बदलें या नए राइड जोड़ें"
     },
     "rct1.scenario_meta.diamond_heights": {
         "reference-name": "Diamond Heights",
@@ -481,11 +481,11 @@
     },
     "rct1.scenario_meta.katies_dreamland": {
         "reference-name": "Katie’s Dreamland",
-        "name": "Katie’s World",
+        "name": "Katie's Dreamland",
         "reference-park_name": "Katie’s Dreamland",
-        "park_name": "Katie’s World",
+        "park_name": "Katie's Dreamland",
         "reference-details": "A small theme park with a few rides and room for expansion. Your aim is to double the park value.",
-        "details": "कुछ राइड और विस्तार की जगह वाला एक छोटा थीम पार्क - आपका लक्ष्य पार्क की कीमत दोगुनी करना है"
+        "details": "कुछ राइड और विस्तार की जगह वाला एक छोटा थीम पार्क। आपका लक्ष्य पार्क की कीमत दोगुनी करना है"
     },
     "rct1.scenario_meta.leafy_lake": {
         "reference-name": "Leafy Lake",
@@ -501,7 +501,7 @@
         "reference-park_name": "Lightning Peaks",
         "park_name": "बिजली चोटियाँ",
         "reference-details": "The beautiful mountains of Lightning Peaks are popular with walkers and sightseers. Use the available land to attract a new thrill-seeking clientele.",
-        "details": "Lightning Peaks के सुंदर पहाड़ पैदल यात्रियों और पर्यटकों के बीच लोकप्रिय हैं - नए रोमांच चाहने वाले लोगों को आकर्षित करने के लिए उपलब्ध भूमि का उपयोग करें"
+        "details": "Lightning Peaks के सुंदर पहाड़ पैदल यात्रियों और पर्यटकों के बीच लोकप्रिय हैं। नए रोमांच चाहने वाले लोगों को आकर्षित करने के लिए उपलब्ध भूमि का उपयोग करें"
     },
     "rct1.scenario_meta.mega_park": {
         "reference-name": "Mega Park",
@@ -529,11 +529,11 @@
     },
     "rct1.scenario_meta.mystic_mountain": {
         "reference-name": "Mystic Mountain",
-        "name": "Mothball पर्वत",
+        "name": "Mystic Mountain",
         "reference-park_name": "Mystic Mountain",
-        "park_name": "Mothball पर्वत",
+        "park_name": "Mystic Mountain",
         "reference-details": "In the hilly forests of Mystic Mountain, build a theme park from scratch",
-        "details": "Mothball Mountain के पहाड़ी जंगलों में, शुरू से एक थीम पार्क बनाएं"
+        "details": "Mystic Mountain के पहाड़ी जंगलों में, शुरू से एक थीम पार्क बनाएं"
     },
     "rct1.scenario_meta.pacific_pyramids": {
         "reference-name": "Pacific Pyramids",
@@ -545,17 +545,17 @@
     },
     "rct1.scenario_meta.paradise_pier": {
         "reference-name": "Paradise Pier",
-        "name": "Big घाट",
+        "name": "Paradise Pier",
         "reference-park_name": "Paradise Pier",
-        "park_name": "Big घाट",
+        "park_name": "Paradise Pier",
         "reference-details": "Convert this sleepy town’s pier into a thriving attraction",
         "details": "इस निद्रालु शहर के घाट को एक समृद्ध आकर्षण में बदलें"
     },
     "rct1.scenario_meta.pokey_park": {
         "reference-name": "Pokey Park",
-        "name": "Dinky पार्क",
+        "name": "Pokey Park",
         "reference-park_name": "Pokey Park",
-        "park_name": "Dinky पार्क",
+        "park_name": "Pokey Park",
         "reference-details": "A small, cramped amusement park which requires major expansion",
         "details": "एक छोटा, तंग मनोरंजन पार्क जिसे बड़े विस्तार की जरूरत है"
     },
@@ -573,7 +573,7 @@
         "reference-park_name": "Thunder Rock",
         "park_name": "गरज चट्टान",
         "reference-details": "Thunder Rock stands in the middle of a desert and attracts many tourists. Use the available space to build rides to attract more people.",
-        "details": "Thunder Rock एक रेगिस्तान के बीच में खड़ा है और कई पर्यटकों को आकर्षित करता है - अधिक लोगों को आकर्षित करने के लिए उपलब्ध स्थान का उपयोग करें"
+        "details": "Thunder Rock एक रेगिस्तान के बीच में खड़ा है और कई पर्यटकों को आकर्षित करता है। अधिक लोगों को आकर्षित करने के लिए उपलब्ध स्थान का उपयोग करें"
     },
     "rct1.scenario_meta.trinity_islands": {
         "reference-name": "Trinity Islands",
@@ -585,9 +585,9 @@
     },
     "rct1.scenario_meta.white_water_park": {
         "reference-name": "White Water Park",
-        "name": "Aqua पार्क",
+        "name": "White Water Park",
         "reference-park_name": "White Water Park",
-        "park_name": "Aqua पार्क",
+        "park_name": "White Water Park",
         "reference-details": "A park with some excellent water-based rides requires expansion",
         "details": "कुछ उत्कृष्ट जल-आधारित राइड वाले पार्क का विस्तार करना है"
     },
@@ -791,7 +791,7 @@
         "reference-name": "Twister Trains",
         "name": "ट्विस्टर ट्रेनें",
         "reference-description": "Spacious trains with shoulder restraints",
-        "description": "कंधे की पट्टियों वाली एक विशाल ट्रेन",
+        "description": "कंधे की पट्टियों वाली विशाल ट्रेनें",
         "reference-capacity": "4 passengers per car",
         "capacity": "प्रति कार 4 यात्री"
     },
@@ -941,9 +941,9 @@
     },
     "rct1aa.scenario_meta.haunted_harbour": {
         "reference-name": "Haunted Harbour",
-        "name": "Haunted Harbor",
+        "name": "Haunted Harbour",
         "reference-park_name": "Haunted Harbour",
-        "park_name": "Haunted Harbor",
+        "park_name": "Haunted Harbour",
         "reference-details": "The local authority has agreed to sell nearby land cheaply to this small seaside park, on the condition that certain rides are preserved",
         "details": "स्थानीय प्रशासन ने इस छोटे समुद्रतटीय पार्क को पास की जमीन सस्ते में बेचने पर सहमति जताई है, इस शर्त पर कि कुछ राइड संरक्षित रहें"
     },
@@ -1477,11 +1477,11 @@
     },
     "rct1ll.scenario_meta.paradise_pier_2": {
         "reference-name": "Paradise Pier 2",
-        "name": "Big घाट 2",
+        "name": "Paradise Pier 2",
         "reference-park_name": "Paradise Pier 2",
-        "park_name": "Big घाट 2",
+        "park_name": "Paradise Pier 2",
         "reference-details": "Paradise Pier has expanded its network of walkways over the sea, and your task is to expand the park to use the extra space",
-        "details": "Big Pier ने समुद्र के ऊपर अपने रास्तों का नेटवर्क विस्तारित किया है, और आपका काम अतिरिक्त स्थान का उपयोग करने के लिए पार्क का विस्तार करना है"
+        "details": "Paradise Pier ने समुद्र के ऊपर अपने रास्तों का नेटवर्क विस्तारित किया है, और आपका काम अतिरिक्त स्थान का उपयोग करने के लिए पार्क का विस्तार करना है"
     },
     "rct1ll.scenario_meta.pleasure_island": {
         "reference-name": "Pleasure Island",
@@ -2089,7 +2089,7 @@
     },
     "rct2.ride.arrsw2": {
         "reference-name": "Suspended Swinging Aeroplane Cars",
-        "name": "निलंबित Swinging Airplane कारें",
+        "name": "निलंबित Swinging एरोप्लेन कारें",
         "reference-description": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
         "description": "निलंबित रोलर कोस्टर ट्रेनें जिनमें हवाई जहाज़ के आकार की कारें ट्रेन के कोनों से गुज़रते समय स्वतंत्र रूप से झूल सकती हैं",
         "reference-capacity": "4 passengers per car",
@@ -2099,7 +2099,7 @@
         "reference-name": "Corkscrew Roller Coaster Trains",
         "name": "कॉर्कस्क्रू रोलर कोस्टर ट्रेनें",
         "reference-description": "Roller coaster trains with shoulder restraints",
-        "description": "कंधे की पट्टियों वाली रोलर कोस्टर ट्रेन",
+        "description": "कंधे की पट्टियों वाली रोलर कोस्टर ट्रेनें",
         "reference-capacity": "4 passengers per car",
         "capacity": "प्रति कार 4 यात्री"
     },
@@ -2121,9 +2121,9 @@
     },
     "rct2.ride.atm1": {
         "reference-name": "Cash Machine",
-        "name": "ATM",
+        "name": "कैश मशीन",
         "reference-description": "An A.T.M. (Cash Machine) for guests to use if they run low on funds",
-        "description": "एटीएम जिसका उपयोग अतिथि धन कम होने पर कर सकते हैं"
+        "description": "अतिथियों के लिए एक ए.टी.एम. (कैश मशीन), जिसका उपयोग धन कम होने पर किया जा सकता है"
     },
     "rct2.ride.balln": {
         "reference-name": "Balloon Stall",
@@ -2175,7 +2175,7 @@
         "reference-name": "Twister Trains",
         "name": "ट्विस्टर ट्रेनें",
         "reference-description": "Spacious trains with shoulder restraints",
-        "description": "कंधे की पट्टियों वाली एक विशाल ट्रेन",
+        "description": "कंधे की पट्टियों वाली विशाल ट्रेनें",
         "reference-capacity": "4 passengers per car",
         "capacity": "प्रति कार 4 यात्री"
     },
@@ -2203,7 +2203,7 @@
     },
     "rct2.ride.bob1": {
         "reference-name": "Bobsleigh Trains",
-        "name": "बॉबस्लेड ट्रेनें",
+        "name": "बॉबस्लेझ ट्रेनें",
         "reference-description": "Trains consisting of 2-seater cars where the riders are behind each other",
         "description": "2-सीट वाली कारों वाली ट्रेनें जहाँ सवार एक-दूसरे के पीछे होते हैं",
         "reference-capacity": "2 passengers per car",
@@ -2253,15 +2253,15 @@
     },
     "rct2.ride.chpsh": {
         "reference-name": "Chip Shop",
-        "name": "Fries Shop",
+        "name": "चिप शॉप",
         "reference-description": "A hut selling chips",
-        "description": "फ्राइज़ बेचने वाली झोपड़ी"
+        "description": "चिप्स बेचने वाली झोपड़ी"
     },
     "rct2.ride.chpsh2": {
         "reference-name": "Chips Stall",
-        "name": "Fries Stall",
+        "name": "चिप्स स्टॉल",
         "reference-description": "A stall selling chips",
-        "description": "फ्राइज़ बेचने वाला स्टॉल"
+        "description": "चिप्स बेचने वाला स्टॉल"
     },
     "rct2.ride.cindr": {
         "reference-name": "Sujeonggwa Stall",
@@ -2295,9 +2295,9 @@
     },
     "rct2.ride.cndyf": {
         "reference-name": "Candyfloss Stall",
-        "name": "Cotton Candy Stall",
+        "name": "कैंडीफ्लॉस स्टॉल",
         "reference-description": "A candyfloss shaped building selling pink candyfloss",
-        "description": "कपास कैंडी के आकार की इमारत जहाँ गुलाबी कपास कैंडी बेची जाती है"
+        "description": "कैंडीफ्लॉस के आकार की इमारत जहाँ गुलाबी कैंडीफ्लॉस बेची जाती है"
     },
     "rct2.ride.coffs": {
         "reference-name": "Coffee Shop",
@@ -2337,15 +2337,15 @@
     },
     "rct2.ride.dodg1": {
         "reference-name": "Dodgems",
-        "name": "बम्पर कार",
+        "name": "डॉजेम्स",
         "reference-description": "Riders bump into each other in self-drive electric dodgems",
-        "description": "सवार स्व-चालित इलेक्ट्रिक बम्पर कारों में एक-दूसरे से टकराते हैं",
+        "description": "सवार स्व-चालित इलेक्ट्रिक डॉजेम में एक-दूसरे से टकराते हैं",
         "reference-capacity": "1 person per car",
         "capacity": "प्रति कार 1 व्यक्ति"
     },
     "rct2.ride.dough": {
         "reference-name": "Doughnut Shop",
-        "name": "Donut Shop",
+        "name": "डोनट शॉप",
         "reference-description": "A stall selling ring-shaped doughnuts",
         "description": "रिंग के आकार के डोनट्स बेचने वाला स्टॉल"
     },
@@ -2511,9 +2511,9 @@
     },
     "rct2.ride.intbob": {
         "reference-name": "6-seater Bobsleighs",
-        "name": "6-seater Bobsleds",
+        "name": "6-सीटर बॉबस्लेझ",
         "reference-description": "Bobsleighs with three seating rows, with room for two people on each",
-        "description": "तीन सीट पंक्तियों वाले बॉबस्लेड, प्रत्येक पर दो लोगों के लिए जगह",
+        "description": "तीन सीट पंक्तियों वाले बॉबस्लेझ, प्रत्येक पर दो लोगों के लिए जगह",
         "reference-capacity": "6 passengers per car",
         "capacity": "प्रति कार 6 यात्री"
     },
@@ -2561,7 +2561,7 @@
         "reference-name": "Go-Karts",
         "name": "गो-कार्ट",
         "reference-description": "Self-drive petrol-engined go-karts",
-        "description": "स्व-चालित गैस इंजन वाले गो-कार्ट",
+        "description": "स्व-चालित पेट्रोल इंजन वाले गो-कार्ट",
         "reference-capacity": "single-seater",
         "capacity": "एकल सीट"
     },
@@ -3025,19 +3025,19 @@
         "reference-name": "Toilets",
         "name": "शौचालय",
         "reference-description": "Basic toilets housed in a prefabricated concrete building",
-        "description": "प्रीफेब्रिकेटेड कंक्रीट इमारत में बुनियादी शौचालय सुविधाएँ"
+        "description": "प्रीफेब्रिकेटेड कंक्रीट इमारत में बुनियादी शौचालय"
     },
     "rct2.ride.tlt2": {
         "reference-name": "Toilets",
         "name": "शौचालय",
         "reference-description": "Toilets housed in a log cabin style building",
-        "description": "लॉग केबिन शैली की इमारत में शौचालय सुविधाएँ"
+        "description": "लॉग केबिन शैली की इमारत में शौचालय"
     },
     "rct2.ride.toffs": {
         "reference-name": "Toffee Apple Stall",
-        "name": "Candy Apple Stall",
+        "name": "टॉफी एप्पल स्टॉल",
         "reference-description": "An apple-shaped stall selling toffee apples on a stick",
-        "description": "सेब के आकार का स्टॉल जहाँ स्टिक पर कैंडी सेब बेचे जाते हैं"
+        "description": "सेब के आकार का स्टॉल जहाँ स्टिक पर टॉफी सेब बेचे जाते हैं"
     },
     "rct2.ride.togst": {
         "reference-name": "Stand-up Roller Coaster Trains",
@@ -3297,7 +3297,7 @@
         "reference-park_name": "Crazy Castle",
         "park_name": "Crazy Castle",
         "reference-details": "You have inherited a large castle. Your job is to convert it into a small theme park.",
-        "details": "आपको एक बड़ा किला विरासत में मिला है - आपका काम इसे एक छोटे थीम पार्क में बदलना है।"
+        "details": "आपको एक बड़ा किला विरासत में मिला है। आपका काम इसे एक छोटे थीम पार्क में बदलना है।"
     },
     "rct2.scenario_meta.dusty_greens": {
         "reference-name": "Dusty Greens",
@@ -3353,7 +3353,7 @@
         "reference-park_name": "Gravity Gardens",
         "park_name": "Gravity बगीचे",
         "reference-details": "Your challenge is to build a roller coaster park in the beautiful Gravity Gardens. No other rides, just roller coasters!",
-        "details": "आपकी चुनौती सुंदर Gravity Gardens में एक रोलर कोस्टर पार्क बनाना है - कोई अन्य राइड नहीं, केवल रोलर कोस्टर!"
+        "details": "आपकी चुनौती सुंदर Gravity Gardens में एक रोलर कोस्टर पार्क बनाना है। कोई अन्य राइड नहीं, केवल रोलर कोस्टर!"
     },
     "rct2.scenario_meta.infernal_views": {
         "reference-name": "Infernal Views",
@@ -3393,7 +3393,7 @@
         "reference-park_name": "Six Flags Great Adventure",
         "park_name": "Six Flags Great Adventure",
         "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
-        "details": "लापता Six Flags राइड बनाएं, या पार्क को बेहतर बनाने के लिए अपने खुद के डिज़ाइन बनाएं! लेकिन अपना अंतिम लक्ष्य मत भूलें - पार्क में अधिक मेहमानों को आकर्षित करना!"
+        "details": "लापता Six Flags राइड बनाएं, या पार्क को बेहतर बनाने के लिए अपने खुद के डिज़ाइन बनाएं! लेकिन अपना अंतिम लक्ष्य मत भूलें: पार्क में अधिक मेहमानों को आकर्षित करना!"
     },
     "rct2.scenario_meta.six_flags_holland": {
         "reference-name": "Six Flags Holland",
@@ -3409,7 +3409,7 @@
         "reference-park_name": "Six Flags Magic Mountain",
         "park_name": "Six Flags Magic पर्वत",
         "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to repay your loan while keeping the park value up!",
-        "details": "लापता Six Flags राइड बनाएं, या पार्क को बेहतर बनाने के लिए अपने खुद के डिज़ाइन बनाएं! लेकिन अपना अंतिम लक्ष्य मत भूलें - पार्क का मूल्य बनाए रखते हुए ऋण चुकाना!"
+        "details": "लापता Six Flags राइड बनाएं, या पार्क को बेहतर बनाने के लिए अपने खुद के डिज़ाइन बनाएं! लेकिन अपना अंतिम लक्ष्य मत भूलें: पार्क का मूल्य बनाए रखते हुए ऋण चुकाना!"
     },
     "rct2.scenario_meta.six_flags_over_texas": {
         "reference-name": "Six Flags over Texas",
@@ -3417,7 +3417,7 @@
         "reference-park_name": "Six Flags over Texas",
         "park_name": "सिक्स फ्लैग्स ओवर टेक्सास",
         "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
-        "details": "लापता Six Flags राइड बनाएं, या पार्क को बेहतर बनाने के लिए अपने खुद के डिज़ाइन बनाएं! लेकिन अपना अंतिम लक्ष्य मत भूलें - पार्क में अधिक मेहमानों को आकर्षित करना!"
+        "details": "लापता Six Flags राइड बनाएं, या पार्क को बेहतर बनाने के लिए अपने खुद के डिज़ाइन बनाएं! लेकिन अपना अंतिम लक्ष्य मत भूलें: पार्क में अधिक मेहमानों को आकर्षित करना!"
     },
     "rct2.scenario_meta.tycoon_park": {
         "reference-name": "Tycoon Park",
@@ -3661,7 +3661,7 @@
     },
     "rct2.scenery_large.sps": {
         "reference-name": "Petrol station",
-        "name": "गैस स्टेशन"
+        "name": "पेट्रोल स्टेशन"
     },
     "rct2.scenery_large.spyr": {
         "reference-name": "Pyramid",
@@ -3753,15 +3753,15 @@
     },
     "rct2.scenery_small.ball1": {
         "reference-name": "American Football",
-        "name": "Football"
+        "name": "अमेरिकन फुटबॉल"
     },
     "rct2.scenery_small.ball2": {
         "reference-name": "American Football",
-        "name": "Football"
+        "name": "अमेरिकन फुटबॉल"
     },
     "rct2.scenery_small.ball3": {
         "reference-name": "Football",
-        "name": "Soccer Ball"
+        "name": "फुटबॉल"
     },
     "rct2.scenery_small.ball4": {
         "reference-name": "Tennis Ball",
@@ -3913,7 +3913,7 @@
     },
     "rct2.scenery_small.helmet1": {
         "reference-name": "American Football Helmet",
-        "name": "Football Helmet"
+        "name": "अमेरिकन फुटबॉल हेलमेट"
     },
     "rct2.scenery_small.icecube": {
         "reference-name": "Ice Cube",
@@ -4201,7 +4201,7 @@
     },
     "rct2.scenery_small.tbr": {
         "reference-name": "Bulrushes",
-        "name": "Cattails"
+        "name": "नरकट"
     },
     "rct2.scenery_small.tbr1": {
         "reference-name": "Barrel",
@@ -5637,7 +5637,7 @@
     },
     "rct2.terrain_surface.chequerboard": {
         "reference-name": "Chequerboard",
-        "name": "Checkerboard"
+        "name": "शतरंजी"
     },
     "rct2.terrain_surface.dirt": {
         "reference-name": "Dirt",
@@ -5793,7 +5793,7 @@
     },
     "rct2tt.footpath_surface.pavement": {
         "reference-name": "Pavement",
-        "name": "Sidewalk"
+        "name": "फुटपाथ"
     },
     "rct2tt.footpath_surface.queue_circuitboard": {
         "reference-name": "Circuit Queue",
@@ -5801,7 +5801,7 @@
     },
     "rct2tt.footpath_surface.queue_pavement": {
         "reference-name": "Pavement Queue",
-        "name": "Sidewalk कतार"
+        "name": "फुटपाथ कतार"
     },
     "rct2tt.footpath_surface.queue_rainbow": {
         "reference-name": "Rainbow Queue",
@@ -5887,7 +5887,7 @@
         "reference-name": "Blob from Outer Space",
         "name": "अंतरिक्ष से आया ब्लॉब",
         "reference-description": "A themed rotating observation cabin shaped like a blob from a sci-fi B-film",
-        "description": "एक थीम वाला घूमने वाला अवलोकन केबिन जो साइंस फिक्शन बी-मूवी के बुलबुले जैसा दिखता है",
+        "description": "एक थीम वाला घूमने वाला अवलोकन केबिन जो साइंस फिक्शन बी-फिल्म के बुलबुले जैसा दिखता है",
         "reference-capacity": "32 passengers",
         "capacity": "32 यात्री"
     },
@@ -5909,7 +5909,7 @@
     },
     "rct2tt.ride.cyclopsx": {
         "reference-name": "Cyclops Dodgems",
-        "name": "Cyclops बम्पर कार",
+        "name": "Cyclops डॉजेम्स",
         "reference-description": "Riders drive the Eye of a Giant Cyclops",
         "description": "सवार एक विशाल साइक्लोप्स की आँख चलाते हैं",
         "reference-capacity": "1 person per car",
@@ -5933,9 +5933,9 @@
     },
     "rct2tt.ride.figtknit": {
         "reference-name": "Fighting Knights Dodgems",
-        "name": "Fighting Knights बम्पर कार",
+        "name": "Fighting Knights डॉजेम्स",
         "reference-description": "Riders joust on horse-themed dodgems",
-        "description": "सवार घोड़े-थीम वाली बम्पर कारों पर भाला युद्ध करते हैं",
+        "description": "सवार घोड़े-थीम वाले डॉजेम पर भाला युद्ध करते हैं",
         "reference-capacity": "1 person per car",
         "capacity": "प्रति कार 1 व्यक्ति"
     },
@@ -5949,7 +5949,7 @@
     },
     "rct2tt.ride.flwrpowr": {
         "reference-name": "Flower Power Dodgems",
-        "name": "Flower Power बम्पर कार",
+        "name": "Flower Power डॉजेम्स",
         "reference-description": "Riders ride in flower-shaped hovercraft vehicles that they freely control",
         "description": "सवार फूल के आकार के होवरक्राफ्ट वाहनों में सवारी करते हैं जिन्हें वे स्वतंत्र रूप से नियंत्रित करते हैं",
         "reference-capacity": "1 passenger per car",
@@ -6083,9 +6083,9 @@
     },
     "rct2tt.ride.mktstal1": {
         "reference-name": "Toffee Apple Market Stall",
-        "name": "Candy Apple Market Stall",
+        "name": "टॉफी एप्पल मार्केट स्टॉल",
         "reference-description": "A themed stall selling sticky toffee apples",
-        "description": "चिपचिपे कैंडी सेब बेचने वाला थीम स्टॉल"
+        "description": "चिपचिपे टॉफी सेब बेचने वाला थीम स्टॉल"
     },
     "rct2tt.ride.mktstal2": {
         "reference-name": "Lemonade Market Stall",
@@ -6241,9 +6241,9 @@
     },
     "rct2tt.ride.tricatop": {
         "reference-name": "Triceratops Dodgems",
-        "name": "Triceratops बम्पर कार",
+        "name": "Triceratops डॉजेम्स",
         "reference-description": "Riders lock horns with each other in triceratops dodgems",
-        "description": "सवार ट्राइसेराटॉप्स बम्पर कारों में एक-दूसरे से सींग भिड़ाते हैं",
+        "description": "सवार ट्राइसेराटॉप्स डॉजेम में एक-दूसरे से सींग भिड़ाते हैं",
         "reference-capacity": "1 person per car",
         "capacity": "प्रति कार 1 व्यक्ति"
     },
@@ -6277,7 +6277,7 @@
         "reference-park_name": "Alcatraz",
         "park_name": "Alcatraz",
         "reference-details": "The infamous Prison Island - whose population once swelled with bootleggers and racketeers - is now up for sale. You’ve decided to convert it into a top tourist attraction, and money is no object",
-        "details": "कुख्यात जेल द्वीप - जिसकी आबादी कभी तस्करों और ठगों से भरी थी - अब बिक्री के लिए है। आपने इसे शीर्ष पर्यटन आकर्षण में बदलने का फैसला किया है, और पैसा कोई समस्या नहीं।"
+        "details": "कुख्यात जेल द्वीप - जिसकी आबादी कभी तस्करों और ठगों से भरी थी - अब बिक्री के लिए है। आपने इसे शीर्ष पर्यटन आकर्षण में बदलने का फैसला किया है, और पैसा कोई समस्या नहीं"
     },
     "rct2tt.scenario_meta.animatronic_antics": {
         "reference-name": "Animatronic Antics",
@@ -8745,9 +8745,9 @@
     },
     "rct2ww.ride.dragdodg": {
         "reference-name": "Chinese Dragonhead Dodgems",
-        "name": "Chinese Dragonhead बम्पर कार",
+        "name": "Chinese Dragonhead डॉजेम्स",
         "reference-description": "Guests battle each other in dragonhead-shaped dodgems",
-        "description": "अतिथि ड्रैगन-सिर के आकार की बम्पर कारों में एक-दूसरे से टकराते हैं",
+        "description": "अतिथि ड्रैगन-सिर के आकार के डॉजेम में एक-दूसरे से टकराते हैं",
         "reference-capacity": "1 person per car",
         "capacity": "प्रति कार 1 व्यक्ति"
     },
@@ -8785,7 +8785,7 @@
     },
     "rct2ww.ride.football": {
         "reference-name": "Football Trains",
-        "name": "Soccer Ball ट्रेनें",
+        "name": "फुटबॉल ट्रेनें",
         "reference-description": "Suspended roller coaster trains consisting of football-shaped cars able to swing freely as the train goes around corners",
         "description": "निलंबित रोलर कोस्टर ट्रेनें जिनमें फुटबॉल के आकार की कारें ट्रेन के कोनों से गुज़रते समय स्वतंत्र रूप से झूल सकती हैं",
         "reference-capacity": "4 passengers per car",
@@ -8985,7 +8985,7 @@
     },
     "rct2ww.ride.skidoo": {
         "reference-name": "Snowmobile Dodgems",
-        "name": "Snowmobile बम्पर कार",
+        "name": "Snowmobile डॉजेम्स",
         "reference-description": "Guests slide around in snowmobile-shaped vehicles that they freely control",
         "description": "अतिथि स्नोमोबाइल के आकार के वाहनों में फिसलते हैं जिन्हें वे स्वतंत्र रूप से नियंत्रित करते हैं",
         "reference-capacity": "1 person per car",
