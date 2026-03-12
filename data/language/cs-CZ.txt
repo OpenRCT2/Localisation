@@ -261,7 +261,6 @@ STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}▼
@@ -282,7 +281,7 @@ STR_0892    :Snímek obrazovky byl uložen jako „{STRINGID}“
 STR_0893    :Snímaní obrazovky selhalo!
 STR_0894    :Datová oblast krajiny zaplněna!
 STR_0895    :Nelze stavět částečně pod a nad zemí
-STR_0896    :{POP16}{POP16}{STRINGID} - stavba
+STR_0896    :{STRINGID} - stavba
 STR_0897    :Směr
 STR_0898    :Zatáčka vlevo
 STR_0899    :Zatáčka vpravo
@@ -1059,7 +1058,7 @@ STR_1671    :{WINDOW_COLOUR_2}Výdělek celkem: {BLACK}{CURRENCY2DP}
 STR_1672    :Brzdy
 STR_1673    :Přepnutí točení trati
 STR_1674    :Rychlost brzd
-STR_1675    :{POP16}{VELOCITY}
+    :{POP16}{VELOCITY}
 STR_1676    :Nastavit rychlostní omezení brzd
 STR_1677    :{WINDOW_COLOUR_2}Popularita: {BLACK}Neznámá
 STR_1678    :{WINDOW_COLOUR_2}Popularita: {BLACK}{COMMA16}%
@@ -1279,7 +1278,6 @@ STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
 STR_1916    :{WINDOW_COLOUR_2}Půjčka:
-STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :Není možné si půjčit více peněz!
 STR_1919    :Nedostatek hotovosti!
 STR_1920    :Nelze splatit půjčku!

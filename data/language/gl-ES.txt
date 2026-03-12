@@ -260,7 +260,6 @@ STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}▼
@@ -281,7 +280,7 @@ STR_0892    :Captura de pantalla gardada como "{STRINGID}"
 STR_0893    :Non se puido facer a captura de pantalla!
 STR_0894    :Datos de paisaxe cheos!
 STR_0895    :Non podes construír unha parte enriba e outra baixo terra
-STR_0896    :Construción de {POP16}{POP16}{STRINGID}
+STR_0896    :Construción de {STRINGID}
 STR_0897    :Sentido
 STR_0898    :Curva á esquerda
 STR_0899    :Curva á dereita
@@ -1056,7 +1055,7 @@ STR_1671    :{WINDOW_COLOUR_2}Beneficio total: {BLACK}{CURRENCY2DP}
 STR_1672    :Freos
 STR_1673    :Vía conmutadora de control xiratorio
 STR_1674    :Velocidade do freo
-STR_1675    :{POP16}{VELOCITY}
+    :{POP16}{VELOCITY}
 STR_1676    :Establecer límite de velocidade para os freos
 STR_1677    :{WINDOW_COLOUR_2}Popularidade: {BLACK}Descoñecida
 STR_1678    :{WINDOW_COLOUR_2}Popularidade: {BLACK}{COMMA16}%
@@ -1274,7 +1273,6 @@ STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
 STR_1916    :{WINDOW_COLOUR_2}Empréstito:
-STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :Non se poden pedir máis cartos!
 STR_1919    :Non hai cartos suficientes dispoñibles!
 STR_1920    :Non se pode devolver o empréstito!

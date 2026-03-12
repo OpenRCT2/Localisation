@@ -260,7 +260,6 @@ STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}▼
@@ -281,7 +280,7 @@ STR_0892    :Captura de tela salva no disco como ‘{STRINGID}’
 STR_0893    :Captura de tela falhou!
 STR_0894    :Dados da área da paisagem cheios!
 STR_0895    :Impossível construir parcialmente acima e abaixo do chão
-STR_0896    :{POP16}{POP16}{STRINGID} Construção
+STR_0896    :{STRINGID} Construção
 STR_0897    :Sentido
 STR_0898    :Curva à Esquerda
 STR_0899    :Curva à Direita
@@ -1056,7 +1055,7 @@ STR_1671    :{WINDOW_COLOUR_2}Lucro total: {BLACK}{CURRENCY2DP}
 STR_1672    :Freios
 STR_1673    :Alternar controle de giro na pista
 STR_1674    :Velocidade do freio
-STR_1675    :{POP16}{VELOCITY}
+    :{POP16}{VELOCITY}
 STR_1676    :Escolher limite de velocidade para os freios
 STR_1677    :{WINDOW_COLOUR_2}Popularidade: {BLACK}Desconhecido
 STR_1678    :{WINDOW_COLOUR_2}Popularidade: {BLACK}{COMMA16}%
@@ -1274,7 +1273,6 @@ STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
 STR_1916    :{WINDOW_COLOUR_2}Crédito:
-STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :O banco se nega a emprestar mais dinheiro!
 STR_1919    :Não possui dinheiro suficiente!
 STR_1920    :Impossível pagar o empréstimo!

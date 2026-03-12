@@ -260,7 +260,6 @@ STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}▼
@@ -281,7 +280,7 @@ STR_0892    :Capture d’écran sauvegardée en tant que {SMALLFONT}{STRINGID}{M
 STR_0893    :Échec de la capture d’écran !
 STR_0894    :Zone de données du paysage pleine !
 STR_0895    :Impossible de construire à la fois au-dessus et en-dessous du sol
-STR_0896    :{POP16}{POP16}{STRINGID} Construction
+STR_0896    :{STRINGID} Construction
 STR_0897    :Direction
 STR_0898    :Virage à gauche
 STR_0899    :Virage à droite
@@ -1057,7 +1056,7 @@ STR_1671    :{WINDOW_COLOUR_2}Bénéfice total : {BLACK}{CURRENCY2DP}
 STR_1672    :Freins
 STR_1673    :Voie avec permutation de virage
 STR_1674    :Vitesse de freinage
-STR_1675    :{POP16}{VELOCITY}
+    :{POP16}{VELOCITY}
 STR_1676    :Fixe une vitesse de déclenchement des freins
 STR_1677    :{WINDOW_COLOUR_2}Popularité : {BLACK}Inconnue
 STR_1678    :{WINDOW_COLOUR_2}Popularité : {BLACK}{COMMA16}%
@@ -1277,7 +1276,6 @@ STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
 STR_1916    :{WINDOW_COLOUR_2}Emprunt:
-STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :Impossible d’emprunter d’avantage !
 STR_1919    :Pas assez d’argent disponible !
 STR_1920    :Impossible de rembourser l’emprunt !

@@ -257,7 +257,6 @@ STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}▼
@@ -278,7 +277,7 @@ STR_0892    :Ruudunkaappaus tallennettu levylle nimellä ”{STRINGID}”
 STR_0893    :Ruudunkaappaus epäonnistui!
 STR_0894    :Maisematietoalue on täynnä!
 STR_0895    :Ei voi rakentaa osittain maan ylle ja alle
-STR_0896    :{POP16}{POP16}{STRINGID} rakennus
+STR_0896    :{STRINGID} rakennus
 STR_0897    :Suunta
 STR_0898    :Kaarre vasempaan
 STR_0899    :Kaarre oikeaan
@@ -1056,7 +1055,7 @@ STR_1671    :{WINDOW_COLOUR_2}Tuotto yhteensä: {BLACK}{CURRENCY2DP}
 STR_1672    :Jarrut
 STR_1673    :Pyörinnnänesto-osio
 STR_1674    :Jarrutusnopeus
-STR_1675    :{POP16}{VELOCITY}
+    :{POP16}{VELOCITY}
 STR_1676    :Aseta jarrujen nopeusrajoitus
 STR_1677    :{WINDOW_COLOUR_2}Suosio: {BLACK}Tuntematon
 STR_1678    :{WINDOW_COLOUR_2}Suosio: {BLACK}{COMMA16}%
@@ -1276,7 +1275,6 @@ STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
 STR_1916    :{WINDOW_COLOUR_2}Laina:
-STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :Ei voi lainata enempää rahaa!
 STR_1919    :Rahaa ei ole tarpeeksi!
 STR_1920    :Lainan takaisin maksaminen ei onnistunut!

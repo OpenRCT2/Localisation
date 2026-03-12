@@ -254,7 +254,6 @@ STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}▼
@@ -275,7 +274,7 @@ STR_0892    :Знімок екрана збережено на диск як ‘
 STR_0893    :Не вдалося зробити знімок екрана!
 STR_0894    :Область даних ландшафту заповнена!
 STR_0895    :Не можна будувати частково над / під землею
-STR_0896    :{POP16}{POP16}{STRINGID} Будівництво
+STR_0896    :{STRINGID} Будівництво
 STR_0897    :Напрямок
 STR_0898    :Ліва крива
 STR_0899    :Права крива
@@ -1050,7 +1049,7 @@ STR_1671    :{WINDOW_COLOUR_2}Загальний дохід: {BLACK}{CURRENCY2DP
 STR_1672    :Гальма
 STR_1673    :Spinning Control Toggle Track
 STR_1674    :Швидкість гальмування
-STR_1675    :{POP16}{VELOCITY}
+    :{POP16}{VELOCITY}
 STR_1676    :Задати обмеження швидкості для гальм
 STR_1677    :{WINDOW_COLOUR_2}Популярність: {BLACK}Невідомо
 STR_1678    :{WINDOW_COLOUR_2}Популярність: {BLACK}{COMMA16}%
@@ -1268,7 +1267,6 @@ STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
 STR_1916    :{WINDOW_COLOUR_2}Позика:
-STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :Can’t borrow any more money!
 STR_1919    :Not enough cash available!
 STR_1920    :Can’t pay back loan!

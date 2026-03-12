@@ -258,7 +258,6 @@ STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}▼
@@ -279,7 +278,7 @@ STR_0892    :Schermata salvata su disco come “{STRINGID}”
 STR_0893    :Cattura della schermata fallita!
 STR_0894    :Area dati per i paesaggi piena!
 STR_0895    :Non si può costruire contemporaneamente sopra e sotto il livello del terreno
-STR_0896    :{POP16}{POP16}{STRINGID} Costruzione
+STR_0896    :{STRINGID} Costruzione
 STR_0897    :Direzione
 STR_0898    :Curva a sinistra
 STR_0899    :Curva a destra
@@ -1055,7 +1054,7 @@ STR_1671    :{WINDOW_COLOUR_2}Profitto totale: {BLACK}{CURRENCY2DP}
 STR_1672    :Freni
 STR_1673    :Attivatore controllo di rotazione
 STR_1674    :Velocità freno
-STR_1675    :{POP16}{VELOCITY}
+    :{POP16}{VELOCITY}
 STR_1676    :Fissa un limite di velocità per i freni
 STR_1677    :{WINDOW_COLOUR_2}Popolarità: {BLACK}Ignota
 STR_1678    :{WINDOW_COLOUR_2}Popolarità: {BLACK}{COMMA16}%
@@ -1275,7 +1274,6 @@ STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
 STR_1916    :{WINDOW_COLOUR_2}Prestito:
-STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :La banca non concede ulteriori prestiti!
 STR_1919    :Fondi insufficienti!
 STR_1920    :Il prestito non può essere restituito!

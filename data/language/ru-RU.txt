@@ -254,7 +254,6 @@ STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}▼
@@ -275,7 +274,7 @@ STR_0892    :Снимок экрана сохранён как ‘{STRINGID}’
 STR_0893    :Ошибка при создании снимка экрана
 STR_0894    :Местность заполнена !
 STR_0895    :Нельзя строить частично над и частично под землёй
-STR_0896    :{POP16}{POP16}{STRINGID} Строительство
+STR_0896    :{STRINGID} Строительство
 STR_0897    :Направление
 STR_0898    :Левый поворот
 STR_0899    :Правый поворот
@@ -1050,7 +1049,7 @@ STR_1671    :{WINDOW_COLOUR_2}Общая прибыль: {BLACK}{CURRENCY2DP}
 STR_1672    :Тормоза
 STR_1673    :Вкл. управл. вращ. трека
 STR_1674    :Скорость торможения
-STR_1675    :{POP16}{VELOCITY}
+    :{POP16}{VELOCITY}
 STR_1676    :Лимит скорости для тормозов
 STR_1677    :{WINDOW_COLOUR_2}Популярность: {BLACK}неизвестно
 STR_1678    :{WINDOW_COLOUR_2}Популярность: {BLACK}{COMMA16}%
@@ -1268,7 +1267,6 @@ STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
 STR_1916    :{WINDOW_COLOUR_2}Заём:
-STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :Нельзя больше занимать!
 STR_1919    :Мало денег!
 STR_1920    :Не можем отдать заем!

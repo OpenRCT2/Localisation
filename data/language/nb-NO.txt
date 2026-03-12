@@ -254,7 +254,6 @@ STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}▼
@@ -275,7 +274,7 @@ STR_0892    :Skjermbilde lagret som ‘{STRINGID}’
 STR_0893    :Skjermbilde mislyktes !
 STR_0894    :Landskapets dataområde er fullt !
 STR_0895    :Kan ikke bygge delvis under bakken
-STR_0896    :{POP16}{POP16}{STRINGID} Konstruksjon
+STR_0896    :{STRINGID} Konstruksjon
 STR_0897    :Retning
 STR_0898    :Venstrekurve
 STR_0899    :Høyrekurve
@@ -1050,7 +1049,7 @@ STR_1671    :{WINDOW_COLOUR_2}Total profitt: {BLACK}{CURRENCY2DP}
 STR_1672    :Bremser
 STR_1673    :Spinn Kontroll Vekslespor
 STR_1674    :Bremsehastighet
-STR_1675    :{POP16}{VELOCITY}
+    :{POP16}{VELOCITY}
 STR_1676    :Angi fartsgrense for bremser
 STR_1677    :{WINDOW_COLOUR_2}Popularitet: {BLACK}Unknown
 STR_1678    :{WINDOW_COLOUR_2}Popularitet: {BLACK}{COMMA16}%
@@ -1268,7 +1267,6 @@ STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
 STR_1916    :{WINDOW_COLOUR_2}Lån:
-STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :Kan ikke låne mer penger!
 STR_1919    :Ikke nok penger tilgjengelig!
 STR_1920    :Kan ikke betale tilbake lån!

@@ -260,7 +260,6 @@ STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}▼
@@ -281,7 +280,7 @@ STR_0892    :Ảnh chụp màn hình đã lưu vào đĩa dưới dạng ‘{STR
 STR_0893    :Ảnh chụp màn hình thất bại!
 STR_0894    :Vùng dữ liệu cảnh quan đầy!
 STR_0895    :Không thể xây dựng một phần trên và một phần dưới lòng đất
-STR_0896    :{POP16}{POP16}{STRINGID} Xây dựng
+STR_0896    :{STRINGID} Xây dựng
 STR_0897    :Hướng
 STR_0898    :Đường cong trái
 STR_0899    :Đường cong phải
@@ -1006,7 +1005,7 @@ STR_1671    :{WINDOW_COLOUR_2}Tổng lợi nhuận: {BLACK}{CURRENCY2DP}
 STR_1672    :Phanh
 STR_1673    :Đường ray điều khiển quay
 STR_1674    :Tốc độ phanh
-STR_1675    :{POP16}{VELOCITY}
+    :{POP16}{VELOCITY}
 STR_1676    :Đặt giới hạn tốc độ cho phanh
 STR_1677    :{WINDOW_COLOUR_2}Mức độ phổ biến: {BLACK}Không rõ
 STR_1678    :{WINDOW_COLOUR_2}Mức độ phổ biến: {BLACK}{COMMA16}%
@@ -1224,7 +1223,6 @@ STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
 STR_1916    :{WINDOW_COLOUR_2}Khoản vay:
-STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :Không thể vay thêm tiền!
 STR_1919    :Không đủ tiền mặt!
 STR_1920    :Không thể trả nợ!

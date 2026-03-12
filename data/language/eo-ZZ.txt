@@ -260,7 +260,6 @@ STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}▼
@@ -281,7 +280,7 @@ STR_0892    :Ekrankopio estis konservita al la disko kiel ‘{STRINGID}’
 STR_0893    :Malsukcesis konservi ekrankopion!
 STR_0894    :Zono de pejzaĝodatumoj estas plena!
 STR_0895    :Ne eblas konstrui kaj parte supertere kaj parte subtere
-STR_0896    :{POP16}{POP16}{STRINGID} Konstruado
+STR_0896    :{STRINGID} Konstruado
 STR_0897    :Direkto
 STR_0898    :Maldekstra kurbo
 STR_0899    :Dekstra kurbo
@@ -1056,7 +1055,7 @@ STR_1671    :{WINDOW_COLOUR_2}Totala profito: {BLACK}{CURRENCY2DP}
 STR_1672    :Bremsoj
 STR_1673    :Turnadoreĝimo-Baskulo
 STR_1674    :Rapideco de bremsoj
-STR_1675    :{POP16}{VELOCITY}
+    :{POP16}{VELOCITY}
 STR_1676    :Agordi rapidlimon de bremsoj
 STR_1677    :{WINDOW_COLOUR_2}Populareco: {BLACK}Nekonata
 STR_1678    :{WINDOW_COLOUR_2}Populareco: {BLACK}{COMMA16}%
@@ -1274,7 +1273,6 @@ STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
 STR_1916    :{WINDOW_COLOUR_2}Prunto:
-STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :Ne eblas prunti pli da monoj!
 STR_1919    :Ne sufiĉas mono disponebla!
 STR_1920    :Ne eblas repagi prunton!

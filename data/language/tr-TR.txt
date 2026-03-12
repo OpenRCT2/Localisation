@@ -248,7 +248,6 @@ STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}▼
@@ -269,7 +268,7 @@ STR_0892    :Screenshot Hard Drive’a bu isim ile kayıt edildi: ‘{STRINGID}�
 STR_0893    :Screenshot çekilemedi!
 STR_0894    :Arazi veri alanı dolu!
 STR_0895    :Yarı yerüstü, yarı yeraltı inşa edilemez!
-STR_0896    :{POP16}{POP16}{STRINGID} İnşası
+STR_0896    :{STRINGID} İnşası
 STR_0897    :Yön
 STR_0898    :Sola viraj
 STR_0899    :Sağa viraj
@@ -1044,7 +1043,7 @@ STR_1671    :{WINDOW_COLOUR_2}Toplam kâr: {BLACK}{CURRENCY2DP}
 STR_1672    :Fren
 STR_1673    :Rotasyon ayarlayıcısı
 STR_1674    :Frenleme hızı
-STR_1675    :{POP16}{VELOCITY}
+    :{POP16}{VELOCITY}
 STR_1676    :Frenlerin{NEWLINE}kaç km/h’ten itibaren frenlemesini seçiniz
 STR_1677    :{WINDOW_COLOUR_2}Popülerlik: {BLACK}Bilinmiyor
 STR_1678    :{WINDOW_COLOUR_2}Popülerlik: {BLACK}%{COMMA16}
@@ -1262,7 +1261,6 @@ STR_1913    :{BLACK}+{CURRENCY2DP}
 STR_1914    :{BLACK}{CURRENCY2DP}
 STR_1915    :{RED}{CURRENCY2DP}
 STR_1916    :{WINDOW_COLOUR_2}Kredi:
-STR_1917    :{POP16}{POP16}{POP16}{CURRENCY}
 STR_1918    :Daha fazla kredi çekemezsiniz!
 STR_1919    :Yeterince para yok!
 STR_1920    :Kredi geri ödenilemiyor!
