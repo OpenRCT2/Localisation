@@ -230,7 +230,6 @@ STR_0832    :Görüntüyü 90° çevir
 STR_0833    :Oyunu durdur
 STR_0834    :Oyun ve kayıt seçenekleri
 STR_0839    :{UINT16} × {UINT16}
-STR_0840    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{UINT16} × {UINT16}
 STR_0847    :OpenRCT2 hakkında
 STR_0850    :{WINDOW_COLOUR_2}Copyright © 2002 Chris Sawyer, all rights reserved
 STR_0851    :{WINDOW_COLOUR_2}Programlama ve tasarlama: Chris Sawyer
@@ -241,15 +240,6 @@ STR_0855    :{WINDOW_COLOUR_2}Temsilci: Jacqui Lyons (Marjacq Ltd.)
 STR_0856    :{WINDOW_COLOUR_2}Teşekkürler:
 STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth ve John Wardley
 STR_0865    :{STRINGID}
-STR_0866    :{POP16}{STRINGID}
-STR_0867    :{POP16}{POP16}{STRINGID}
-STR_0868    :{POP16}{POP16}{POP16}{STRINGID}
-STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}▼
 STR_0877    :Çok alçak!
 STR_0878    :Çok yüksek!
@@ -393,8 +383,6 @@ STR_1018    :Değişiklikler uygulanamadı…
 STR_1019    :Değişiklikler uygulanamadı…
 STR_1020    :Değişiklikler uygulanamadı…
 STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
-STR_1022    :{POP16}{POP16}{POP16}{COMMA16} Tren başı vagon
-STR_1023    :{POP16}{POP16}{POP16}{COMMA16} Tren başı vagon
 STR_1024    :Tren başı vagon: {COMMA16}
 STR_1025    :Tren başı vagon: {COMMA16}
 STR_1026    :İstasyon kesimi çok uzun
@@ -503,9 +491,7 @@ STR_1128    :Blok fren ile durduruldu
 STR_1129    :Tüm vagonlara eşit renk
 STR_1130    :{STRINGID} başı farklı renk
 STR_1131    :Vagon başı farklı renk
-STR_1132    :Vagon {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
-STR_1133    :Vagon {POP16}{COMMA16}
-STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
+STR_1133    :Vagon {COMMA16}
 STR_1135    :{STRINGID} {COMMA16}
 STR_1136    :Ana rengi seçiniz
 STR_1137    :Birinci ek rengi seçiniz
@@ -701,7 +687,6 @@ STR_1327    :Cisimleri 90° çevir
 STR_1328    :Düz arazi şart
 STR_1329    :{WINDOW_COLOUR_2}Başlangıç hızı:
 STR_1330    :İstasyonu hangi hız ile{NEWLINE}terk edeceğini seçiniz
-STR_1331    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_1332    :{VELOCITY}
 STR_1333    :{STRINGID} - {STRINGID}{POP16}
 STR_1334    :{STRINGID} - {STRINGID} {COMMA16}
@@ -799,7 +784,6 @@ STR_1425    :Yol
 STR_1426    :Bekleme sırası
 STR_1427    :{WINDOW_COLOUR_2}Saat başı müşteri: {BLACK}{COMMA32}
 STR_1428    :{WINDOW_COLOUR_2}Giriş ücreti:
-STR_1429    :{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1430    :Ücretsiz
 STR_1431    :Yürüyor
 STR_1432    :{STRINGID} aletine gidiyor
@@ -1103,18 +1087,15 @@ STR_1732    :İnşa et
 STR_1733    :Mod
 STR_1734    :{WINDOW_COLOUR_2}Tur sayısı:
 STR_1735    :Tur miktarını seçiniz
-STR_1736    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1738    :Tur sayısı değiştirilemiyor…
 STR_1739    :Yarışı {INT32} kazandı
 STR_1740    :Yarışı {STRINGID} kazandı
 STR_1741    :Daha inşa edilmedi!
 STR_1742    :{WINDOW_COLOUR_2}Azami müşteri sayısı:
 STR_1743    :Kaç kişinin birden aletin kullanabileceğini seçiniz
-STR_1744    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1746    :Bu değiştirilemiyor…
 STR_1747    :{WINDOW_COLOUR_2}Süre:
 STR_1748    :Aletin tur başı ne kadar süreceğini seçiniz
-STR_1749    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{DURATION}
 STR_1751    :Aletin süresi değiştirilemiyor…
 STR_1752    :Müşteriler listesi
 STR_1753    :Toplam müşteri listesi
@@ -1135,7 +1116,6 @@ STR_1767    :Türbin
 STR_1768    :Sallama sayısı değiştirilemiyor…
 STR_1769    :{WINDOW_COLOUR_2}Sallama sayısı:
 STR_1770    :Aletin kaç tur salınacağını seçiniz
-STR_1771    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1773    :Alet başı bir tane fotoğraf alanı inşa edilebilir
 STR_1774    :Alet başı bir tane asansörlü tırmanma zinciri inşa edilebilir
 STR_1777    :{WINDOW_COLOUR_2}Alet müziği
@@ -1147,7 +1127,6 @@ STR_1794    :{STRINGID} aletini tamir ediyor
 STR_1795    :Telsizi dinliyor
 STR_1796    :Bozuk - tamir edilmesi gerek
 STR_1798    :Hortum
-STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
 STR_1800    :Acil stop şalteri
 STR_1801    :Emniyet kemerleri açılmıyor
 STR_1802    :Emniyet kemerleri kapanmıyor
@@ -1219,7 +1198,6 @@ STR_1867    :{BLACK}{COMMA32} {STRINGID}
 STR_1868    :Çevirme miktarı değiştirilemiyor…
 STR_1869    :{WINDOW_COLOUR_2}Çevirme miktarı:
 STR_1870    :Aletin kaç defa çevirme yapacağını seçiniz
-STR_1871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1873    :{WINDOW_COLOUR_2}Gelir: {BLACK} saatte {CURRENCY2DP}
 STR_1874    :{WINDOW_COLOUR_2}Kâr: {BLACK} saatte {CURRENCY2DP}
 STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Aletleri kontrol etsin
@@ -1298,7 +1276,6 @@ STR_1953    :Pazarlama
 STR_1954    :Araştırma seçenekleri
 STR_1955    :{WINDOW_COLOUR_2}Tur sayısı:
 STR_1956    :Tur sayısını seçiniz
-STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1958    :{COMMA16}
 STR_1959    :Tur sayısı değiştirilemiyor…
 STR_1960    :{WINDOW_COLOUR_2}Balon fiyatı:
@@ -2096,7 +2073,6 @@ STR_3092    :Bu aletin istasyonunu değiştiremezsiniz!
 STR_3093    :{WINDOW_COLOUR_2}En sevdiği alet: {BLACK}{STRINGID}
 STR_3094    :Yok
 STR_3095    :{WINDOW_COLOUR_2}Tırmanma zinciri hızı:
-STR_3096    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{VELOCITY}
 STR_3097    :Aletin tırmanma zincirinde hangi hız ile zirveye taşınacağını belirleyiniz
 STR_3099    :Renk seçiniz
 STR_3100    :İkinci rengi seçiniz
@@ -2189,7 +2165,6 @@ STR_3208    :Alet Tasarım Yöneticisi
 STR_3209    :Bir önceki adım:
 STR_3210    :Bir sonraki adım:
 STR_3211    :Harita büyüklüğü:
-STR_3212    :{POP16}{COMMA16}
 STR_3213    :Arazi daha fazla alçaltılamıyor
 STR_3214    :Arazi daha fazla yükseltilemiyor
 STR_3215    :Arazi sınırına çok fazla yakın
@@ -2979,12 +2954,11 @@ STR_5914    :Bilinmeyen alet
 STR_5915    :Oyuncu
 STR_5916    :{COMMA16} oyuncu
 STR_5917    :{COMMA16} oyuncu
-STR_5918    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_5919    :{COMMA16}
 STR_5920    :Hava durumunu göster
 STR_5921    :Bu ayar kapalı ise yağmur ve şimşek gibi hava durumları gizlenecektir
-STR_5922    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}En fazla {STRINGID}
-STR_5923    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}Tren başı en fazla {COMMA16} {STRINGID} vagon
+STR_5922    :En fazla {STRINGID}
+STR_5923    :Tren başı en fazla {COMMA16} {STRINGID} vagon
 STR_5924    :Madde bilgileri
 STR_5925    :Yol bilgileri
 STR_5926    :Ray/Alet/Dükkan bilgileri
