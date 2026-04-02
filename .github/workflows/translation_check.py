@@ -17,7 +17,7 @@ OPENRCT2_EN_GB_FILE = "OpenRCT2/data/language/en-GB.txt"
 
 # Some strings have nothing to be translated and should not appear on the report
 KEYS_TO_IGNORE = ['STR_0000', 'STR_0001', 'STR_0824', 'STR_0839', 'STR_0840', 'STR_0865', 'STR_0866', 'STR_0867',
-                  'STR_0868', 'STR_0869', 'STR_0870', 'STR_0871', 'STR_0872', 'STR_0873', 'STR_0874', 'STR_0875',
+                  'STR_0868', 'STR_0869', 'STR_0870', 'STR_0871', 'STR_0872', 'STR_0874', 'STR_0875',
                   'STR_0876', 'STR_0956', 'STR_0957', 'STR_0958', 'STR_0959', 'STR_0960', 'STR_0961', 'STR_0962',
                   'STR_0963', 'STR_0964', 'STR_0965', 'STR_0966', 'STR_0967', 'STR_0968', 'STR_0969', 'STR_0970',
                   'STR_0971', 'STR_0984', 'STR_0985', 'STR_0986', 'STR_0989', 'STR_1021', 'STR_1134', 'STR_1135',
@@ -31,9 +31,9 @@ KEYS_TO_IGNORE = ['STR_0000', 'STR_0001', 'STR_0824', 'STR_0839', 'STR_0840', 'S
                   'STR_1602', 'STR_1603', 'STR_1605', 'STR_1606', 'STR_1607', 'STR_1608', 'STR_1609', 'STR_1610',
                   'STR_1611', 'STR_1612', 'STR_1613', 'STR_1614', 'STR_1615', 'STR_1633', 'STR_1634', 'STR_1635',
                   'STR_1637', 'STR_1638', 'STR_1639', 'STR_1640', 'STR_1641', 'STR_1642', 'STR_1643', 'STR_1644',
-                  'STR_1645', 'STR_1646', 'STR_1647', 'STR_1675', 'STR_1690', 'STR_1731', 'STR_1736', 'STR_1744',
+                  'STR_1645', 'STR_1646', 'STR_1647', 'STR_1690', 'STR_1731', 'STR_1736', 'STR_1744',
                   'STR_1749', 'STR_1771', 'STR_1778', 'STR_1799', 'STR_1812', 'STR_1817', 'STR_1845', 'STR_1867',
-                  'STR_1871', 'STR_1912', 'STR_1913', 'STR_1914', 'STR_1915', 'STR_1917', 'STR_1957', 'STR_1958',
+                  'STR_1871', 'STR_1912', 'STR_1913', 'STR_1914', 'STR_1915', 'STR_1957', 'STR_1958',
                   'STR_1970', 'STR_1971', 'STR_1972', 'STR_1974', 'STR_1983', 'STR_1986', 'STR_1987', 'STR_2117',
                   'STR_2118', 'STR_2119', 'STR_2121', 'STR_2215', 'STR_2216', 'STR_2217', 'STR_2222', 'STR_2235',
                   'STR_2289', 'STR_2763', 'STR_2777', 'STR_2778', 'STR_2781', 'STR_2996', 'STR_2997', 'STR_2998',
@@ -44,7 +44,7 @@ KEYS_TO_IGNORE = ['STR_0000', 'STR_0001', 'STR_0824', 'STR_0839', 'STR_0840', 'S
                   'STR_5919', 'STR_6012', 'STR_6034', 'STR_6059', 'STR_6062', 'STR_6063', 'STR_6164', 'STR_6201',
                   'STR_6229', 'STR_6230', 'STR_6231', 'STR_6329', 'STR_6438', 'STR_6496', 'STR_6642', 'STR_6651',
                   'STR_6689', 'STR_6704', 'STR_6713', 'STR_6744', 'STR_6795', 'STR_6796', 'STR_7002', 'STR_7018',
-                  'STR_7019', 'STR_7020', 'STR_7021', 'STR_7022']
+                  'STR_7019', 'STR_7020', 'STR_7021', 'STR_7022', 'STR_7027']
 
 languages = []
 STR_NUMBER_RE = re.compile(r"STR_\d+")

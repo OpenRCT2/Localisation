@@ -37,7 +37,7 @@
     },
     "openrct2.footpath_surface.invisible": {
         "reference-name": "Invisible Footpath",
-        "name": "Láthatatlan út"
+        "name": "Láthatatlan járda"
     },
     "openrct2.footpath_surface.queue_invisible": {
         "reference-name": "Invisible Queue",
@@ -81,7 +81,7 @@
     },
     "openrct2.station.noplatformnoentrance": {
         "reference-name": "No entrance, no platform",
-        "name": "Nincs bejárat, nincs állomás"
+        "name": "Nincs bejárat, nincs peron"
     },
     "openrct2.terrain_surface.void": {
         "reference-name": "Void",
@@ -93,11 +93,11 @@
     },
     "rct1.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Sloped)",
-        "name": "Crazy Paving Footpath (Sloped)"
+        "name": "Törtkő burkolatú járda (lejtős)"
     },
     "rct1.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Square)",
-        "name": "Dirt Footpath (Square)"
+        "name": "Földes járda (négyzet)"
     },
     "rct1.footpath_surface.queue_blue": {
         "reference-name": "Blue Queue (Sloped)",
@@ -109,11 +109,11 @@
     },
     "rct1.footpath_surface.tarmac": {
         "reference-name": "Tarmac Footpath (Sloped)",
-        "name": "Tarmac Footpath (Sloped)"
+        "name": "Aszfaltos járda (lejtős)"
     },
     "rct1.footpath_surface.tiles_brown": {
         "reference-name": "Brown Tiled Footpath",
-        "name": "Brown Tiled Footpath"
+        "name": "Barna kőlapos járda"
     },
     "rct1.ride.bobsleigh_trains": {
         "reference-name": "Bobsleigh Trains",
@@ -125,11 +125,11 @@
     },
     "rct1.ride.bumper_boats": {
         "reference-name": "Bumper Boats",
-        "name": "Bumper Boats",
+        "name": "Vízidodzsem",
         "reference-description": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
-        "description": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
+        "description": "Apró, kör alakú gumicsónakok középre szerelt motorral, amelyet az utasok irányítanak",
         "reference-capacity": "2 passengers per boat",
-        "capacity": "2 passengers per boat"
+        "capacity": "2 utas csónakonként"
     },
     "rct1.ride.cat_cars": {
         "reference-name": "Cheshire Cats",
@@ -141,27 +141,27 @@
     },
     "rct1.ride.chairlift_cars": {
         "reference-name": "Chairlift Cars",
-        "name": "Chairlift Cars",
+        "name": "Felvonókocsik",
         "reference-description": "Open cars for chairlift",
-        "description": "Open cars for chairlift",
+        "description": "Nyitott kocsik a felvonóhoz",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 utas kocsinként"
     },
     "rct1.ride.corkscrew_trains": {
         "reference-name": "Corkscrew Roller Coaster Trains",
-        "name": "Corkscrew Roller Coaster Trains",
+        "name": "Dugóhúzó hullámvasút kocsik",
         "reference-description": "Roller coaster trains with shoulder restraints",
-        "description": "Roller coaster trains with shoulder restraints",
+        "description": "Vállrögzítéssel ellátott hullámvasút kocsik",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct1.ride.dinghies": {
         "reference-name": "Dinghies",
-        "name": "Dinghies",
+        "name": "Gumicsónakok",
         "reference-description": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
-        "description": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
+        "description": "Felfújható gumicsónakok, amelyek kanyarogva csúsznak le a félköríves vagy teljesen zárt csőpályán",
         "reference-capacity": "2 passengers per dinghy",
-        "capacity": "2 passengers per dinghy"
+        "capacity": "2 utas csónakonként"
     },
     "rct1.ride.dodgems": {
         "reference-name": "Dodgems",
@@ -173,9 +173,9 @@
     },
     "rct1.ride.fruity_ices_stall": {
         "reference-name": "Fruity Ices Stall",
-        "name": "Fruity Ices Stall",
+        "name": "Gyümölcsfagylaltos bódé",
         "reference-description": "A themed stall selling fruity ice creams",
-        "description": "A themed stall selling fruity ice creams"
+        "description": "Gyümölcsfagylaltot árusító tematikus bódé"
     },
     "rct1.ride.go_karts": {
         "reference-name": "Go-Karts (with helmets)",
@@ -195,11 +195,11 @@
     },
     "rct1.ride.inverted_trains": {
         "reference-name": "Inverted Coaster Trains",
-        "name": "Inverted Coaster Trains",
+        "name": "Fordított hullámvasút kocsik",
         "reference-description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
-        "description": "Inverted roller coaster train, consisting of seats hanging from a supporting frame running on the track above.",
+        "description": "Fordított hullámvasút kocsik, amelyeknél az ülések a felettük lévő síneken futó vázról függenek.",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 utas kocsinként"
     },
     "rct1.ride.ladybird_trains": {
         "reference-name": "Ladybird Trains",
@@ -251,11 +251,11 @@
     },
     "rct1.ride.mouse_cars": {
         "reference-name": "Mouse Cars",
-        "name": "Mouse Cars",
+        "name": "Egérkocsik",
         "reference-description": "Individual cars shaped like a mouse",
-        "description": "Individual cars shaped like a mouse",
+        "description": "Különálló kocsik egér formában",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 utas kocsinként"
     },
     "rct1.ride.pickup_trucks": {
         "reference-name": "Pickup Trucks",
@@ -313,6 +313,14 @@
         "reference-capacity": "4 passengers per car",
         "capacity": "4 passengers per car"
     },
+    "rct1.ride.spinning_cars": {
+        "reference-name": "Spinning Cars",
+        "name": "Forgó kocsik",
+        "reference-description": "Circular roller coaster cars which are free to spin around their central axis.",
+        "description": "Kör alakú hullámvasút-kocsik, amelyek saját tengelyük körül szabadon forognak.",
+        "reference-capacity": "4 passengers per car",
+        "capacity": "4 utas kocsinként"
+    },
     "rct1.ride.sports_cars": {
         "reference-name": "Sports Cars",
         "name": "Sportautók",
@@ -363,17 +371,17 @@
     },
     "rct1.ride.suspended_swinging_aeroplane_cars": {
         "reference-name": "Suspended Swinging Aeroplane Cars",
-        "name": "Felfüggesztett lengő repülőgép kocsik",
+        "name": "Függesztett lengő repülőgép kocsik",
         "reference-description": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
-        "description": "Felfüggesztett hullámvasút-szerelvények, repülőgép alakú kocsikkal, amelyek szabadon lengnek a kanyarokban",
+        "description": "Függesztett hullámvasút-szerelvények, repülőgép alakú kocsikkal, amelyek szabadon lengnek a kanyarokban",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 utas kocsinként"
     },
     "rct1.ride.suspended_swinging_cars": {
         "reference-name": "Suspended Swinging Cars",
-        "name": "Felfüggesztett lengő kocsik",
+        "name": "Függesztett lengő kocsik",
         "reference-description": "Suspended roller coaster trains consisting of cars able to swing freely as the train goes around corners",
-        "description": "Felfüggesztett hullámvasút-szerelvények, kocsikkal, amelyek szabadon lengnek a kanyarokban",
+        "description": "Függesztett hullámvasút-szerelvények, kocsikkal, amelyek szabadon lengnek a kanyarokban",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 utas kocsinként"
     },
@@ -657,15 +665,15 @@
     },
     "rct1aa.footpath_surface.tiles_grey": {
         "reference-name": "Grey Tiled Footpath",
-        "name": "Grey Tiled Footpath"
+        "name": "Szürke kőlapos járda"
     },
     "rct1aa.ride.bicycles": {
         "reference-name": "Bicycles",
-        "name": "Bicycles",
+        "name": "Kerékpárok",
         "reference-description": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
-        "description": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
+        "description": "Speciális kerékpárok, amelyek egysínű pályán haladnak, a kerékpárosok pedálozásával hajtva",
         "reference-capacity": "1 rider per bicycle",
-        "capacity": "1 rider per bicycle"
+        "capacity": "1 utas kerékpáronként"
     },
     "rct1aa.ride.floorless_twister_trains": {
         "reference-name": "Floorless Twister Trains",
@@ -743,7 +751,7 @@
         "reference-name": "Ski-lift Chairs",
         "name": "Sífelvonó-székek",
         "reference-description": "Open cars for chairlift",
-        "description": "Nyitott kocsik a sífelvonóhoz",
+        "description": "Nyitott kocsik a felvonóhoz",
         "reference-capacity": "2 passengers per car",
         "capacity": "2 utas kocsinként"
     },
@@ -773,11 +781,11 @@
     },
     "rct1aa.ride.steel_wild_mouse_cars": {
         "reference-name": "Mouse Cars",
-        "name": "Mouse Cars",
+        "name": "Egérkocsik",
         "reference-description": "Individual cars shaped like mice",
-        "description": "Individual cars shaped like mice",
+        "description": "Különálló kocsik egerek formájában",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct1aa.ride.suspended_monorail_trains": {
         "reference-name": "Suspended Monorail Trains",
@@ -965,9 +973,9 @@
     },
     "rct1aa.scenario_meta.magic_quarters": {
         "reference-name": "Magic Quarters",
-        "name": "Mágikus Negyedek",
+        "name": "Varázsnegyedek",
         "reference-park_name": "Magic Quarters",
-        "park_name": "Mágikus Negyedek",
+        "park_name": "Varázsnegyedek",
         "reference-details": "A large area of land has been cleared and partially themed ready for you to develop into a landscaped theme park",
         "details": "Egy nagy területet megtisztítottak és részben tematizáltak, így készen áll arra, hogy parkosított vidámparkká alakítsd"
     },
@@ -1241,23 +1249,23 @@
     },
     "rct1ll.footpath_railings.space": {
         "reference-name": "Space Style Railings (Grey)",
-        "name": "Space Style Railings (Grey)"
+        "name": "Űrstílusú korlát (szürke)"
     },
     "rct1ll.footpath_surface.tiles_green": {
         "reference-name": "Green and Brown Tiled Footpath",
-        "name": "Green and Brown Tiled Footpath"
+        "name": "Zöld-barna kőlapos járda"
     },
     "rct1ll.footpath_surface.tiles_red": {
         "reference-name": "Red and Brown Tiled Footpath",
-        "name": "Red and Brown Tiled Footpath"
+        "name": "Piros-barna kőlapos járda"
     },
     "rct1ll.ride.4_across_inverted_trains": {
         "reference-name": "4-across Inverted Roller Coaster Trains",
-        "name": "4-across Inverted Roller Coaster Trains",
+        "name": "Négyüléses függővasút-vonatok",
         "reference-description": "Suspended trains in which riders sit in rows",
-        "description": "Suspended trains in which riders sit in rows",
+        "description": "Felüggesztett vonatok, amelyekben az utasok sorokban ülnek",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct1ll.ride.air_powered_trains": {
         "reference-name": "Air Powered Vertical Coaster Trains",
@@ -1809,7 +1817,7 @@
     },
     "rct2.footpath_surface.crazy_paving": {
         "reference-name": "Crazy Paving Footpath (Stairs)",
-        "name": "Crazy Paving Footpath (Stairs)"
+        "name": "Törtkő burkolatú járda (lépcsős)"
     },
     "rct2.footpath_surface.dirt": {
         "reference-name": "Dirt Footpath (Rounded)",
@@ -2089,9 +2097,9 @@
     },
     "rct2.ride.arrsw2": {
         "reference-name": "Suspended Swinging Aeroplane Cars",
-        "name": "Felfüggesztett lengő repülőgép kocsik",
+        "name": "Függesztett lengő repülőgép kocsik",
         "reference-description": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
-        "description": "Felfüggesztett hullámvasút-szerelvények, repülőgép alakú kocsikkal, amelyek szabadon lengnek a kanyarokban",
+        "description": "Függesztett hullámvasút-szerelvények, repülőgép alakú kocsikkal, amelyek szabadon lengnek a kanyarokban",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 utas kocsinként"
     },
@@ -2141,11 +2149,11 @@
     },
     "rct2.ride.bboat": {
         "reference-name": "Bumper Boats",
-        "name": "Bumper Boats",
+        "name": "Vízidodzsem",
         "reference-description": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
-        "description": "Small circular dinghies powered by a centrally-mounted motor controlled by the passengers",
+        "description": "Apró, kör alakú gumicsónakok középre szerelt motorral, amelyet az utasok irányítanak",
         "reference-capacity": "2 passengers per boat",
-        "capacity": "2 passengers per boat"
+        "capacity": "2 utas csónakonként"
     },
     "rct2.ride.bmair": {
         "reference-name": "Flying Roller Coaster Trains",
@@ -2279,11 +2287,11 @@
     },
     "rct2.ride.clift1": {
         "reference-name": "Chairlift Cars",
-        "name": "Chairlift Cars",
+        "name": "Felvonókocsik",
         "reference-description": "Open cars for chairlift",
-        "description": "Open cars for chairlift",
+        "description": "Nyitott kocsik a felvonóhoz",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 utas kocsinként"
     },
     "rct2.ride.clift2": {
         "reference-name": "Ski-lift Chairs",
@@ -2329,11 +2337,11 @@
     },
     "rct2.ride.ding1": {
         "reference-name": "Dinghies",
-        "name": "Dinghies",
+        "name": "Gumicsónakok",
         "reference-description": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
-        "description": "Inflatable dinghies that can twist down a semi-circular or completely enclosed tube track",
+        "description": "Felfújható gumicsónakok, amelyek kanyarogva csúsznak le a félköríves vagy teljesen zárt csőpályán",
         "reference-capacity": "2 passengers per dinghy",
-        "capacity": "2 passengers per dinghy"
+        "capacity": "2 utas csónakonként"
     },
     "rct2.ride.dodg1": {
         "reference-name": "Dodgems",
@@ -2345,15 +2353,15 @@
     },
     "rct2.ride.dough": {
         "reference-name": "Doughnut Shop",
-        "name": "Doughnut Shop",
+        "name": "Fánkozó",
         "reference-description": "A stall selling ring-shaped doughnuts",
-        "description": "A stall selling ring-shaped doughnuts"
+        "description": "Gyűrűs fánkokat árusító bódé"
     },
     "rct2.ride.drnks": {
         "reference-name": "Drinks Stall",
-        "name": "Drinks Stall",
+        "name": "Üdítős bódé",
         "reference-description": "A can-shaped stall selling fizzy drinks",
-        "description": "A can-shaped stall selling fizzy drinks"
+        "description": "Aludoboz alakú alakú bódé, ahol szénsavas üdítőket árulnak"
     },
     "rct2.ride.enterp": {
         "reference-name": "Enterprise",
@@ -2365,9 +2373,9 @@
     },
     "rct2.ride.faid1": {
         "reference-name": "First Aid Room",
-        "name": "First Aid Room",
+        "name": "Elsősegély szoba",
         "reference-description": "A place for sick guests to go for faster recovery",
-        "description": "A place for sick guests to go for faster recovery"
+        "description": "Egy hely, ahová a beteg vendégek mehetnek, hogy gyorsabban felépüljenek"
     },
     "rct2.ride.frnood": {
         "reference-name": "Fried Rice Noodles Stall",
@@ -2391,11 +2399,11 @@
     },
     "rct2.ride.fwh1": {
         "reference-name": "Ferris Wheel",
-        "name": "Ferris Wheel",
+        "name": "Óriáskerék",
         "reference-description": "Rotating big wheel with open chairs",
-        "description": "Rotating big wheel with open chairs",
+        "description": "Forgó óriáskerék nyitott ülésekkel",
         "reference-capacity": "32 passengers",
-        "capacity": "32 passengers"
+        "capacity": "32 utas"
     },
     "rct2.ride.gdrop1": {
         "reference-name": "Roto-Drop",
@@ -2407,9 +2415,9 @@
     },
     "rct2.ride.golf1": {
         "reference-name": "Mini Golf",
-        "name": "Mini Golf",
+        "name": "Minigolf",
         "reference-description": "A gentle game of miniature golf",
-        "description": "A gentle game of miniature golf",
+        "description": "Egy könnyed minigolf játék",
         "reference-capacity": "",
         "capacity": ""
     },
@@ -2487,27 +2495,27 @@
     },
     "rct2.ride.icecr1": {
         "reference-name": "Fruity Ices Stall",
-        "name": "Fruity Ices Stall",
+        "name": "Gyümölcsfagylaltos bódé",
         "reference-description": "A themed stall selling fruity ice creams",
-        "description": "A themed stall selling fruity ice creams"
+        "description": "Gyümölcsfagylaltot árusító tematikus bódé"
     },
     "rct2.ride.icecr2": {
         "reference-name": "Ice Cream Cone Stall",
-        "name": "Ice Cream Cone Stall",
+        "name": "Tölcséres fagylalt bódé",
         "reference-description": "A stall selling ice cream cones",
-        "description": "A stall selling ice cream cones"
+        "description": "Bódé, amely tölcséres fagylaltot árul"
     },
     "rct2.ride.icetst": {
         "reference-name": "Iced Tea Stall",
-        "name": "Iced Tea Stall",
+        "name": "Jeges teás bódé",
         "reference-description": "A stall selling iced tea drinks",
-        "description": "A stall selling iced tea drinks"
+        "description": "Bódé, amely jeges teát árul"
     },
     "rct2.ride.infok": {
         "reference-name": "Information Kiosk",
-        "name": "Information Kiosk",
+        "name": "Információs bódé",
         "reference-description": "A stall where guests can obtain park maps and purchase umbrellas",
-        "description": "A stall where guests can obtain park maps and purchase umbrellas"
+        "description": "Egy bódé, ahol a vendégek parktérképet szerezhetnek be és esernyőt vásárolhatnak"
     },
     "rct2.ride.intbob": {
         "reference-name": "6-seater Bobsleighs",
@@ -2619,11 +2627,11 @@
     },
     "rct2.ride.monbk": {
         "reference-name": "Bicycles",
-        "name": "Bicycles",
+        "name": "Kerékpárok",
         "reference-description": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
-        "description": "Special bicycles that run on a monorail track, propelled by the pedalling of the riders",
+        "description": "Speciális kerékpárok, amelyek egysínű pályán haladnak, a kerékpárosok pedálozásával hajtva",
         "reference-capacity": "1 rider per bicycle",
-        "capacity": "1 rider per bicycle"
+        "capacity": "1 utas kerékpáronként"
     },
     "rct2.ride.mono1": {
         "reference-name": "Streamlined Monorail Trains",
@@ -2651,11 +2659,11 @@
     },
     "rct2.ride.nemt": {
         "reference-name": "4-across Inverted Roller Coaster Trains",
-        "name": "4-across Inverted Roller Coaster Trains",
+        "name": "Négyüléses függővasút-vonatok",
         "reference-description": "Suspended trains in which riders sit in rows",
-        "description": "Suspended trains in which riders sit in rows",
+        "description": "Felüggesztett vonatok, amelyekben az utasok sorokban ülnek",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct2.ride.nrl": {
         "reference-name": "Steam Trains",
@@ -2675,25 +2683,25 @@
     },
     "rct2.ride.obs1": {
         "reference-name": "Single-deck Cabin",
-        "name": "Single-deck Cabin",
+        "name": "Egyszintes kabin",
         "reference-description": "Single-deck rotating observation cabin",
-        "description": "Single-deck rotating observation cabin",
+        "description": "Egyszintes, forgó kilátókabin",
         "reference-capacity": "20 passengers",
-        "capacity": "20 passengers"
+        "capacity": "20 utas"
     },
     "rct2.ride.obs2": {
         "reference-name": "Double-deck Cabin",
-        "name": "Double-deck Cabin",
+        "name": "Kétszintes kabin",
         "reference-description": "Twin-deck rotating observation cabin",
-        "description": "Twin-deck rotating observation cabin",
+        "description": "Kétszintes, forgó kilátókabin",
         "reference-capacity": "32 passengers",
-        "capacity": "32 passengers"
+        "capacity": "32 utas"
     },
     "rct2.ride.pizzs": {
         "reference-name": "Pizza Stall",
-        "name": "Pizza Stall",
+        "name": "Pizzás bódé",
         "reference-description": "A stall selling portions of pizza",
-        "description": "A stall selling portions of pizza"
+        "description": "Bódé, ahol pizzát árulnak"
     },
     "rct2.ride.pmt1": {
         "reference-name": "Powered Mine Trains",
@@ -2705,9 +2713,9 @@
     },
     "rct2.ride.popcs": {
         "reference-name": "Popcorn Stall",
-        "name": "Popcorn Stall",
+        "name": "Popcornos bodé",
         "reference-description": "A stall selling giant buckets of popcorn",
-        "description": "A stall selling giant buckets of popcorn"
+        "description": "Bódé, ahol hatalmas vödrökben árulják a pattogatott kukoricát"
     },
     "rct2.ride.premt1": {
         "reference-name": "LIM Launched Roller Coaster Trains",
@@ -2765,11 +2773,11 @@
     },
     "rct2.ride.rckc": {
         "reference-name": "Rocket Cars",
-        "name": "Rocket Cars",
+        "name": "Rakéta kocsik",
         "reference-description": "Roller coaster cars themed to look like rockets",
-        "description": "Roller coaster cars themed to look like rockets",
+        "description": "Hullámvasút kocsik, rakéta témával",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct2.ride.rcr": {
         "reference-name": "Racing Cars",
@@ -2867,11 +2875,11 @@
     },
     "rct2.ride.smc1": {
         "reference-name": "Mouse Cars",
-        "name": "Mouse Cars",
+        "name": "Egérkocsik",
         "reference-description": "Individual cars shaped like mice",
-        "description": "Individual cars shaped like mice",
+        "description": "Különálló kocsik egerek formájában",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct2.ride.smc2": {
         "reference-name": "Mine Cars",
@@ -3175,19 +3183,19 @@
     },
     "rct2.ride.wmouse": {
         "reference-name": "Mouse Cars",
-        "name": "Mouse Cars",
+        "name": "Egérkocsik",
         "reference-description": "Individual cars shaped like a mouse",
-        "description": "Individual cars shaped like a mouse",
+        "description": "Különálló kocsik egér formában",
         "reference-capacity": "2 passengers per car",
-        "capacity": "2 passengers per car"
+        "capacity": "2 utas kocsinként"
     },
     "rct2.ride.wmspin": {
         "reference-name": "Spinning Mouse Cars",
-        "name": "Spinning Mouse Cars",
+        "name": "Forgó egérkocsik",
         "reference-description": "Mouse-shaped cars that keep gently spinning around to disorientate the riders",
-        "description": "Mouse-shaped cars that keep gently spinning around to disorientate the riders",
+        "description": "Egér formájú kocsik, amelyek gyengéden forognak, hogy összezavarják az utasokat",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 utas kocsinként"
     },
     "rct2.ride.wonton": {
         "reference-name": "Wonton Soup Stall",
@@ -3429,19 +3437,19 @@
     },
     "rct2.scenery_group.scgabstr": {
         "reference-name": "Abstract Theming",
-        "name": "Abstract Theming"
+        "name": "Absztrakt téma"
     },
     "rct2.scenery_group.scgcandy": {
         "reference-name": "Giant Candy Theming",
-        "name": "Giant Candy Theming"
+        "name": "Óriáscukor-téma"
     },
     "rct2.scenery_group.scgclass": {
         "reference-name": "Classical/Roman Theming",
-        "name": "Classical/Roman Theming"
+        "name": "Klasszikus/római téma"
     },
     "rct2.scenery_group.scgegypt": {
         "reference-name": "Egyptian Theming",
-        "name": "Egyptian Theming"
+        "name": "Egyiptomi téma"
     },
     "rct2.scenery_group.scgfence": {
         "reference-name": "Fences and Walls",
@@ -3453,11 +3461,11 @@
     },
     "rct2.scenery_group.scggiant": {
         "reference-name": "Giant Garden Theming",
-        "name": "Giant Garden Theming"
+        "name": "Óriáskert-téma"
     },
     "rct2.scenery_group.scghallo": {
         "reference-name": "Creepy Theming",
-        "name": "Creepy Theming"
+        "name": "Hátborzongató téma"
     },
     "rct2.scenery_group.scgindus": {
         "reference-name": "Mechanical Theming",
@@ -3469,23 +3477,23 @@
     },
     "rct2.scenery_group.scgjuras": {
         "reference-name": "Jurassic Theming",
-        "name": "Jurassic Theming"
+        "name": "Jura kori téma"
     },
     "rct2.scenery_group.scgmart": {
         "reference-name": "Martian Theming",
-        "name": "Martian Theming"
+        "name": "Marsi téma"
     },
     "rct2.scenery_group.scgmedie": {
         "reference-name": "Medieval Theming",
-        "name": "Medieval Theming"
+        "name": "Középkori téma"
     },
     "rct2.scenery_group.scgmine": {
         "reference-name": "Mine Theming",
-        "name": "Mine Theming"
+        "name": "Bánya téma"
     },
     "rct2.scenery_group.scgorien": {
         "reference-name": "Pagoda Theming",
-        "name": "Pagoda Theming"
+        "name": "Pagoda téma"
     },
     "rct2.scenery_group.scgpathx": {
         "reference-name": "Signs and Items for Footpaths",
@@ -3493,7 +3501,7 @@
     },
     "rct2.scenery_group.scgpirat": {
         "reference-name": "Pirates Theming",
-        "name": "Pirates Theming"
+        "name": "Kalóz téma"
     },
     "rct2.scenery_group.scgshrub": {
         "reference-name": "Shrubs and Ornaments",
@@ -3501,23 +3509,23 @@
     },
     "rct2.scenery_group.scgsixfl": {
         "reference-name": "Six Flags Theming",
-        "name": "Six Flags Theming"
+        "name": "Six Flags téma"
     },
     "rct2.scenery_group.scgsnow": {
         "reference-name": "Snow and Ice Theming",
-        "name": "Snow and Ice Theming"
+        "name": "Hó és jég téma"
     },
     "rct2.scenery_group.scgspace": {
         "reference-name": "Space Theming",
-        "name": "Space Theming"
+        "name": "Űrbéli téma"
     },
     "rct2.scenery_group.scgspook": {
         "reference-name": "Spooky Theming",
-        "name": "Spooky Theming"
+        "name": "Kísérteties téma"
     },
     "rct2.scenery_group.scgsport": {
         "reference-name": "Sports Theming",
-        "name": "Sports Theming"
+        "name": "Sport téma"
     },
     "rct2.scenery_group.scgtrees": {
         "reference-name": "Trees",
@@ -3525,7 +3533,7 @@
     },
     "rct2.scenery_group.scgurban": {
         "reference-name": "Urban Theming",
-        "name": "Urban Theming"
+        "name": "Városi téma"
     },
     "rct2.scenery_group.scgwalls": {
         "reference-name": "Walls and Roofs",
@@ -3533,15 +3541,15 @@
     },
     "rct2.scenery_group.scgwater": {
         "reference-name": "Water Feature Theming",
-        "name": "Water Feature Theming"
+        "name": "Vizes látványosságok téma"
     },
     "rct2.scenery_group.scgwond": {
         "reference-name": "Wonderland Theming",
-        "name": "Wonderland Theming"
+        "name": "Csodaország téma"
     },
     "rct2.scenery_group.scgwwest": {
         "reference-name": "Wild West Theming",
-        "name": "Wild West Theming"
+        "name": "Vadnyugat téma"
     },
     "rct2.scenery_large.badrack": {
         "reference-name": "Badminton Racket",
@@ -3577,11 +3585,11 @@
     },
     "rct2.scenery_large.sah3": {
         "reference-name": "Tenement",
-        "name": "Tenement"
+        "name": "Bérház"
     },
     "rct2.scenery_large.saloon": {
         "reference-name": "Saloon",
-        "name": "Saloon"
+        "name": "Kocsma"
     },
     "rct2.scenery_large.scln": {
         "reference-name": "Colonnade",
@@ -3613,7 +3621,7 @@
     },
     "rct2.scenery_large.shs1": {
         "reference-name": "Terraced House",
-        "name": "Terraced House"
+        "name": "Sorház"
     },
     "rct2.scenery_large.shs2": {
         "reference-name": "House",
@@ -3621,7 +3629,7 @@
     },
     "rct2.scenery_large.sip": {
         "reference-name": "Ice Palace",
-        "name": "Ice Palace"
+        "name": "Jégpalota"
     },
     "rct2.scenery_large.smb": {
         "reference-name": "Martian Building",
@@ -4145,43 +4153,43 @@
     },
     "rct2.scenery_small.tac": {
         "reference-name": "Arizona Cypress Tree",
-        "name": "Arizona Cypress Tree"
+        "name": "Arizonai ciprus"
     },
     "rct2.scenery_small.tal": {
         "reference-name": "Alligator Shaped Tree",
-        "name": "Alligator Shaped Tree"
+        "name": "Aligátor alakú fa"
     },
     "rct2.scenery_small.tap": {
         "reference-name": "Aleppo Pine Tree",
-        "name": "Aleppo Pine Tree"
+        "name": "Aleppói fenyő"
     },
     "rct2.scenery_small.tas": {
         "reference-name": "Aspen Tree",
-        "name": "Aspen Tree"
+        "name": "Nyárfa"
     },
     "rct2.scenery_small.tas1": {
         "reference-name": "Candy Tree",
-        "name": "Candy Tree"
+        "name": "Cukorfa"
     },
     "rct2.scenery_small.tas2": {
         "reference-name": "Candy Tree",
-        "name": "Candy Tree"
+        "name": "Cukorfa"
     },
     "rct2.scenery_small.tas3": {
         "reference-name": "Candy Tree",
-        "name": "Candy Tree"
+        "name": "Cukorfa"
     },
     "rct2.scenery_small.tas4": {
         "reference-name": "Candy",
-        "name": "Candy"
+        "name": "Cukor"
     },
     "rct2.scenery_small.tb1": {
         "reference-name": "White Bishop",
-        "name": "White Bishop"
+        "name": "Világos futó"
     },
     "rct2.scenery_small.tb2": {
         "reference-name": "Black Bishop",
-        "name": "Black Bishop"
+        "name": "Sötét futó"
     },
     "rct2.scenery_small.tbc": {
         "reference-name": "Cactus",
@@ -4189,19 +4197,19 @@
     },
     "rct2.scenery_small.tbn": {
         "reference-name": "Bone",
-        "name": "Bone"
+        "name": "Csont"
     },
     "rct2.scenery_small.tbn1": {
         "reference-name": "Bones",
-        "name": "Bones"
+        "name": "Csontok"
     },
     "rct2.scenery_small.tbp": {
         "reference-name": "Black Poplar Tree",
-        "name": "Black Poplar Tree"
+        "name": "Fekete nyár"
     },
     "rct2.scenery_small.tbr": {
         "reference-name": "Bulrushes",
-        "name": "Bulrushes"
+        "name": "Nád"
     },
     "rct2.scenery_small.tbr1": {
         "reference-name": "Barrel",
@@ -4221,59 +4229,59 @@
     },
     "rct2.scenery_small.tbw": {
         "reference-name": "Broken Wheel",
-        "name": "Broken Wheel"
+        "name": "Törött kerék"
     },
     "rct2.scenery_small.tcb": {
         "reference-name": "Club Shaped Tree",
-        "name": "Club Shaped Tree"
+        "name": "Treff alakú fa"
     },
     "rct2.scenery_small.tcc": {
         "reference-name": "Chinese Cedar Tree",
-        "name": "Chinese Cedar Tree"
+        "name": "Kínai túnafa"
     },
     "rct2.scenery_small.tcd": {
         "reference-name": "Cauldron",
-        "name": "Cauldron"
+        "name": "Üst"
     },
     "rct2.scenery_small.tce": {
         "reference-name": "Camperdown Elm Tree",
-        "name": "Camperdown Elm Tree"
+        "name": "Csüngő szil"
     },
     "rct2.scenery_small.tcf": {
         "reference-name": "Caucasian Fir Tree",
-        "name": "Caucasian Fir Tree"
+        "name": "Kaukázusi jegenyefenyő"
     },
     "rct2.scenery_small.tcfs": {
         "reference-name": "Snow-covered Caucasian Fir Tree",
-        "name": "Snow-covered Caucasian Fir Tree"
+        "name": "Hóval borított kaukázusi jegenyefenyő"
     },
     "rct2.scenery_small.tcj": {
         "reference-name": "Common Juniper Tree",
-        "name": "Common Juniper Tree"
+        "name": "Közönséges boróka"
     },
     "rct2.scenery_small.tck": {
         "reference-name": "Clock",
-        "name": "Clock"
+        "name": "Óra"
     },
     "rct2.scenery_small.tcl": {
         "reference-name": "Cedar of Lebanon Tree",
-        "name": "Cedar of Lebanon Tree"
+        "name": "Libanoni cédrus"
     },
     "rct2.scenery_small.tcn": {
         "reference-name": "Cannon",
-        "name": "Cannon"
+        "name": "Ágyú"
     },
     "rct2.scenery_small.tco": {
         "reference-name": "Common Oak Tree",
-        "name": "Common Oak Tree"
+        "name": "Kocsányos tölgy"
     },
     "rct2.scenery_small.tcrp": {
         "reference-name": "Corsican Pine Tree",
-        "name": "Corsican Pine Tree"
+        "name": "Feketefenyő"
     },
     "rct2.scenery_small.tct": {
         "reference-name": "Cabbage Tree",
-        "name": "Cabbage Tree"
+        "name": "Déli bunkóliliom"
     },
     "rct2.scenery_small.tct1": {
         "reference-name": "Castle Tower",
@@ -4285,15 +4293,15 @@
     },
     "rct2.scenery_small.tcy": {
         "reference-name": "Common Yew Tree",
-        "name": "Common Yew Tree"
+        "name": "Közönséges tiszafa"
     },
     "rct2.scenery_small.tdf": {
         "reference-name": "Dolphin Fountain",
-        "name": "Dolphin Fountain"
+        "name": "Delfines szökőkút"
     },
     "rct2.scenery_small.tdm": {
         "reference-name": "Diamond Shaped Tree",
-        "name": "Diamond Shaped Tree"
+        "name": "Gyémánt alakú fa"
     },
     "rct2.scenery_small.tdn4": {
         "reference-name": "Dinosaur",
@@ -4305,55 +4313,55 @@
     },
     "rct2.scenery_small.tdt1": {
         "reference-name": "Dead Tree",
-        "name": "Dead Tree"
+        "name": "Kiszáradt fa"
     },
     "rct2.scenery_small.tdt2": {
         "reference-name": "Dead Tree",
-        "name": "Dead Tree"
+        "name": "Kiszáradt fa"
     },
     "rct2.scenery_small.tdt3": {
         "reference-name": "Dead Tree",
-        "name": "Dead Tree"
+        "name": "Kiszáradt fa"
     },
     "rct2.scenery_small.teepee1": {
         "reference-name": "Tepee",
-        "name": "Tepee"
+        "name": "Tipi"
     },
     "rct2.scenery_small.tef": {
         "reference-name": "Elephant Fountain",
-        "name": "Elephant Fountain"
+        "name": "Elefántos szökőkút"
     },
     "rct2.scenery_small.tel": {
         "reference-name": "European Larch Tree",
-        "name": "European Larch Tree"
+        "name": "Európai vörösfenyő"
     },
     "rct2.scenery_small.ten": {
         "reference-name": "Cleopatra’s Needle",
-        "name": "Cleopatra’s Needle"
+        "name": "Kleopátra tűje"
     },
     "rct2.scenery_small.tep": {
         "reference-name": "Egyptian Column",
-        "name": "Egyptian Column"
+        "name": "Egyiptomi oszlop"
     },
     "rct2.scenery_small.terb": {
         "reference-name": "Stone Block",
-        "name": "Stone Block"
+        "name": "Kőtömb"
     },
     "rct2.scenery_small.ters": {
         "reference-name": "Ruined Statue",
-        "name": "Ruined Statue"
+        "name": "Romos szobor"
     },
     "rct2.scenery_small.tes1": {
         "reference-name": "Egyptian Statue",
-        "name": "Egyptian Statue"
+        "name": "Egyiptomi szobor"
     },
     "rct2.scenery_small.tf1": {
         "reference-name": "Fruit Tree",
-        "name": "Fruit Tree"
+        "name": "Gyümölcsfa"
     },
     "rct2.scenery_small.tf2": {
         "reference-name": "Fruit Tree",
-        "name": "Fruit Tree"
+        "name": "Gyümölcsfa"
     },
     "rct2.scenery_small.tg1": {
         "reference-name": "Gardens",
@@ -4441,31 +4449,31 @@
     },
     "rct2.scenery_small.tgc1": {
         "reference-name": "Sculpture",
-        "name": "Sculpture"
+        "name": "Szobor"
     },
     "rct2.scenery_small.tgc2": {
         "reference-name": "Sculpture",
-        "name": "Sculpture"
+        "name": "Szobor"
     },
     "rct2.scenery_small.tge1": {
         "reference-name": "Geometric Sculpture",
-        "name": "Geometric Sculpture"
+        "name": "Geometrikus szobor"
     },
     "rct2.scenery_small.tge2": {
         "reference-name": "Geometric Sculpture",
-        "name": "Geometric Sculpture"
+        "name": "Geometrikus szobor"
     },
     "rct2.scenery_small.tge3": {
         "reference-name": "Geometric Sculpture",
-        "name": "Geometric Sculpture"
+        "name": "Geometrikus szobor"
     },
     "rct2.scenery_small.tge4": {
         "reference-name": "Geometric Sculpture",
-        "name": "Geometric Sculpture"
+        "name": "Geometrikus szobor"
     },
     "rct2.scenery_small.tge5": {
         "reference-name": "Geometric Sculpture",
-        "name": "Geometric Sculpture"
+        "name": "Geometrikus szobor"
     },
     "rct2.scenery_small.tgg": {
         "reference-name": "Gong",
@@ -4473,43 +4481,43 @@
     },
     "rct2.scenery_small.tgh1": {
         "reference-name": "Statue",
-        "name": "Statue"
+        "name": "Szobor"
     },
     "rct2.scenery_small.tgh2": {
         "reference-name": "Statue",
-        "name": "Statue"
+        "name": "Szobor"
     },
     "rct2.scenery_small.tghc": {
         "reference-name": "Golden Hinoki Cypress Tree",
-        "name": "Golden Hinoki Cypress Tree"
+        "name": "Hinoki hamisciprus"
     },
     "rct2.scenery_small.tghc2": {
         "reference-name": "Hiba Tree",
-        "name": "Hiba Tree"
+        "name": "Hibatuja"
     },
     "rct2.scenery_small.tgs": {
         "reference-name": "Giraffe Statue",
-        "name": "Giraffe Statue"
+        "name": "Zsiráfszobor"
     },
     "rct2.scenery_small.tgs1": {
         "reference-name": "Grave Stone",
-        "name": "Grave Stone"
+        "name": "Sírkő"
     },
     "rct2.scenery_small.tgs2": {
         "reference-name": "Grave Stone",
-        "name": "Grave Stone"
+        "name": "Sírkő"
     },
     "rct2.scenery_small.tgs3": {
         "reference-name": "Grave Stone",
-        "name": "Grave Stone"
+        "name": "Sírkő"
     },
     "rct2.scenery_small.tgs4": {
         "reference-name": "Grave Stone",
-        "name": "Grave Stone"
+        "name": "Sírkő"
     },
     "rct2.scenery_small.th1": {
         "reference-name": "Canary Palm Tree",
-        "name": "Canary Palm Tree"
+        "name": "Kanári datolyapálma"
     },
     "rct2.scenery_small.th2": {
         "reference-name": "Palm Tree",
@@ -4517,27 +4525,27 @@
     },
     "rct2.scenery_small.thl": {
         "reference-name": "Honey Locust Tree",
-        "name": "Honey Locust Tree"
+        "name": "Lepényfa"
     },
     "rct2.scenery_small.thrs": {
         "reference-name": "Horseman Statue",
-        "name": "Horseman Statue"
+        "name": "Lovas szobor"
     },
     "rct2.scenery_small.tht": {
         "reference-name": "Heart Shaped Tree",
-        "name": "Heart Shaped Tree"
+        "name": "Szív alakú fa"
     },
     "rct2.scenery_small.tic": {
         "reference-name": "Incense Cedar Tree",
-        "name": "Incense Cedar Tree"
+        "name": "Gyantásciprus"
     },
     "rct2.scenery_small.tig": {
         "reference-name": "Igloo",
-        "name": "Igloo"
+        "name": "Iglu"
     },
     "rct2.scenery_small.titc": {
         "reference-name": "Italian Cypress Tree",
-        "name": "Italian Cypress Tree"
+        "name": "Európai ciprus"
     },
     "rct2.scenery_small.tjb1": {
         "reference-name": "Bush",
@@ -4557,15 +4565,15 @@
     },
     "rct2.scenery_small.tjf": {
         "reference-name": "Flower",
-        "name": "Flower"
+        "name": "Virág"
     },
     "rct2.scenery_small.tjp1": {
         "reference-name": "Plant",
-        "name": "Plant"
+        "name": "Növény"
     },
     "rct2.scenery_small.tjp2": {
         "reference-name": "Plant",
-        "name": "Plant"
+        "name": "Növény"
     },
     "rct2.scenery_small.tjt1": {
         "reference-name": "Tree",
@@ -4593,19 +4601,19 @@
     },
     "rct2.scenery_small.tk1": {
         "reference-name": "White Knight",
-        "name": "White Knight"
+        "name": "Világos huszár"
     },
     "rct2.scenery_small.tk2": {
         "reference-name": "Black Knight",
-        "name": "Black Knight"
+        "name": "Sötét huszár"
     },
     "rct2.scenery_small.tk3": {
         "reference-name": "White King",
-        "name": "White King"
+        "name": "Világos király"
     },
     "rct2.scenery_small.tk4": {
         "reference-name": "Black King",
-        "name": "Black King"
+        "name": "Sötét király"
     },
     "rct2.scenery_small.tl0": {
         "reference-name": "Tree",
@@ -4625,15 +4633,15 @@
     },
     "rct2.scenery_small.tlc": {
         "reference-name": "Lawson Cypress Tree",
-        "name": "Lawson Cypress Tree"
+        "name": "Oregoni hamisciprus"
     },
     "rct2.scenery_small.tlp": {
         "reference-name": "Lombardy Poplar Tree",
-        "name": "Lombardy Poplar Tree"
+        "name": "Fekete nyár"
     },
     "rct2.scenery_small.tly": {
         "reference-name": "Lily",
-        "name": "Lily"
+        "name": "Liliom"
     },
     "rct2.scenery_small.tm0": {
         "reference-name": "Tree",
@@ -4653,83 +4661,83 @@
     },
     "rct2.scenery_small.tmbj": {
         "reference-name": "Meyer’s Blue Juniper Tree",
-        "name": "Meyer’s Blue Juniper Tree"
+        "name": "Kék himalájai boróka"
     },
     "rct2.scenery_small.tmc": {
         "reference-name": "Monterey Cypress Tree",
-        "name": "Monterey Cypress Tree"
+        "name": "Monterey-ciprus"
     },
     "rct2.scenery_small.tmg": {
         "reference-name": "Magnolia Tree",
-        "name": "Magnolia Tree"
+        "name": "Liliomfa"
     },
     "rct2.scenery_small.tmj": {
         "reference-name": "Junk",
-        "name": "Junk"
+        "name": "Kacatok"
     },
     "rct2.scenery_small.tml": {
         "reference-name": "Logs",
-        "name": "Logs"
+        "name": "Rönkök"
     },
     "rct2.scenery_small.tmm1": {
         "reference-name": "Graveyard Monument",
-        "name": "Graveyard Monument"
+        "name": "Temetői emlékmű"
     },
     "rct2.scenery_small.tmm2": {
         "reference-name": "Graveyard Monument",
-        "name": "Graveyard Monument"
+        "name": "Temetői emlékmű"
     },
     "rct2.scenery_small.tmm3": {
         "reference-name": "Graveyard Monument",
-        "name": "Graveyard Monument"
+        "name": "Temetői emlékmű"
     },
     "rct2.scenery_small.tmo1": {
         "reference-name": "Martian Object",
-        "name": "Martian Object"
+        "name": "Marsi objektum"
     },
     "rct2.scenery_small.tmo2": {
         "reference-name": "Martian Object",
-        "name": "Martian Object"
+        "name": "Marsi objektum"
     },
     "rct2.scenery_small.tmo3": {
         "reference-name": "Martian Object",
-        "name": "Martian Object"
+        "name": "Marsi objektum"
     },
     "rct2.scenery_small.tmo4": {
         "reference-name": "Martian Object",
-        "name": "Martian Object"
+        "name": "Marsi objektum"
     },
     "rct2.scenery_small.tmo5": {
         "reference-name": "Martian Object",
-        "name": "Martian Object"
+        "name": "Marsi objektum"
     },
     "rct2.scenery_small.tmp": {
         "reference-name": "Monkey-Puzzle Tree",
-        "name": "Monkey-Puzzle Tree"
+        "name": "Chilei araukária"
     },
     "rct2.scenery_small.tms1": {
         "reference-name": "Toadstool",
-        "name": "Toadstool"
+        "name": "Mérgesgomba"
     },
     "rct2.scenery_small.tmw": {
         "reference-name": "Wheels",
-        "name": "Wheels"
+        "name": "Kerekek"
     },
     "rct2.scenery_small.tmzp": {
         "reference-name": "Montezuma Pine Tree",
-        "name": "Montezuma Pine Tree"
+        "name": "Montezuma-fenyő"
     },
     "rct2.scenery_small.tns": {
         "reference-name": "Norway Spruce Tree",
-        "name": "Norway Spruce Tree"
+        "name": "Közönséges lucfenyő"
     },
     "rct2.scenery_small.tnss": {
         "reference-name": "Snow-covered Norway Spruce Tree",
-        "name": "Snow-covered Norway Spruce Tree"
+        "name": "Hóval borított közönséges lucfenyő"
     },
     "rct2.scenery_small.tntroof1": {
         "reference-name": "Canvas Roof",
-        "name": "Canvas Roof"
+        "name": "Vászontető"
     },
     "rct2.scenery_small.toh1": {
         "reference-name": "House",
@@ -4777,11 +4785,11 @@
     },
     "rct2.scenery_small.tp1": {
         "reference-name": "White Pawn",
-        "name": "White Pawn"
+        "name": "Világos gyalog"
     },
     "rct2.scenery_small.tp2": {
         "reference-name": "Black Pawn",
-        "name": "Black Pawn"
+        "name": "Sötét gyalog"
     },
     "rct2.scenery_small.tpm": {
         "reference-name": "Palm Tree",
@@ -4789,47 +4797,47 @@
     },
     "rct2.scenery_small.tq1": {
         "reference-name": "White Queen",
-        "name": "White Queen"
+        "name": "Világos királynő"
     },
     "rct2.scenery_small.tq2": {
         "reference-name": "Black Queen",
-        "name": "Black Queen"
+        "name": "Sötét királynő"
     },
     "rct2.scenery_small.tqf": {
         "reference-name": "Cupid Fountains",
-        "name": "Cupid Fountains"
+        "name": "Kupidós szökőkutak"
     },
     "rct2.scenery_small.tr1": {
         "reference-name": "White Rook",
-        "name": "White Rook"
+        "name": "Világos bástya"
     },
     "rct2.scenery_small.tr2": {
         "reference-name": "Black Rook",
-        "name": "Black Rook"
+        "name": "Sötét bástya"
     },
     "rct2.scenery_small.trc": {
         "reference-name": "Roman Column",
-        "name": "Roman Column"
+        "name": "Római oszlop"
     },
     "rct2.scenery_small.trf": {
         "reference-name": "Red Fir Tree",
-        "name": "Red Fir Tree"
+        "name": "Óriástobozú jegenyefenyő"
     },
     "rct2.scenery_small.trf2": {
         "reference-name": "Red Fir Tree",
-        "name": "Red Fir Tree"
+        "name": "Óriástobozú jegenyefenyő"
     },
     "rct2.scenery_small.trf3": {
         "reference-name": "Snow-covered Red Fir Tree",
-        "name": "Snow-covered Red Fir Tree"
+        "name": "Hóval borított óriástobozú jegenyefenyő"
     },
     "rct2.scenery_small.trfs": {
         "reference-name": "Snow-covered Red Fir Tree",
-        "name": "Snow-covered Red Fir Tree"
+        "name": "Hóval borított óriástobozú jegenyefenyő"
     },
     "rct2.scenery_small.trms": {
         "reference-name": "Roman Statue",
-        "name": "Roman Statue"
+        "name": "Római szobor"
     },
     "rct2.scenery_small.tropt1": {
         "reference-name": "Tree",
@@ -4837,7 +4845,7 @@
     },
     "rct2.scenery_small.trws": {
         "reference-name": "Roman Statue",
-        "name": "Roman Statue"
+        "name": "Római szobor"
     },
     "rct2.scenery_small.ts0": {
         "reference-name": "Tree",
@@ -4869,7 +4877,7 @@
     },
     "rct2.scenery_small.tsb": {
         "reference-name": "Silver Birch Tree",
-        "name": "Silver Birch Tree"
+        "name": "Közönséges nyír"
     },
     "rct2.scenery_small.tsc": {
         "reference-name": "Cactus",
@@ -4945,7 +4953,7 @@
     },
     "rct2.scenery_small.tsnb": {
         "reference-name": "Snowball",
-        "name": "Snowball"
+        "name": "Hógolyó"
     },
     "rct2.scenery_small.tsnc": {
         "reference-name": "Log Cabin",
@@ -4973,23 +4981,23 @@
     },
     "rct2.scenery_small.tst1": {
         "reference-name": "Toadstool",
-        "name": "Toadstool"
+        "name": "Mérgesgomba"
     },
     "rct2.scenery_small.tst2": {
         "reference-name": "Toadstool",
-        "name": "Toadstool"
+        "name": "Mérgesgomba"
     },
     "rct2.scenery_small.tst3": {
         "reference-name": "Toadstool",
-        "name": "Toadstool"
+        "name": "Mérgesgomba"
     },
     "rct2.scenery_small.tst4": {
         "reference-name": "Toadstool",
-        "name": "Toadstool"
+        "name": "Mérgesgomba"
     },
     "rct2.scenery_small.tst5": {
         "reference-name": "Toadstool",
-        "name": "Toadstool"
+        "name": "Mérgesgomba"
     },
     "rct2.scenery_small.tstd": {
         "reference-name": "Dolphins Statue",
@@ -5581,11 +5589,11 @@
     },
     "rct2.station.castle_brown": {
         "reference-name": "Castle (Brown)",
-        "name": "Kastély (barna)"
+        "name": "Vár (barna)"
     },
     "rct2.station.castle_grey": {
         "reference-name": "Castle (Grey)",
-        "name": "Kastély (szürke)"
+        "name": "Vár (szürke)"
     },
     "rct2.station.classical": {
         "reference-name": "Classical / Roman",
@@ -5753,15 +5761,15 @@
     },
     "rct2tt.footpath_railings.balustrade": {
         "reference-name": "Balustrade",
-        "name": "Balustrade"
+        "name": "Balusztrád"
     },
     "rct2tt.footpath_railings.circuitboard": {
         "reference-name": "Circuit Board Railings",
-        "name": "Circuit Board Railings"
+        "name": "Áramköri lap korlát"
     },
     "rct2tt.footpath_railings.circuitboard_invisible": {
         "reference-name": "Sky Walk",
-        "name": "Sky Walk"
+        "name": "Légjárda"
     },
     "rct2tt.footpath_railings.medieval": {
         "reference-name": "Medieval Railings",
@@ -5769,7 +5777,7 @@
     },
     "rct2tt.footpath_railings.pavement": {
         "reference-name": "Iron Railings",
-        "name": "Iron Railings"
+        "name": "Vaskorlát"
     },
     "rct2tt.footpath_railings.rainbow": {
         "reference-name": "Rainbow Railings",
@@ -5781,19 +5789,19 @@
     },
     "rct2tt.footpath_surface.circuitboard": {
         "reference-name": "Circuit Footpath",
-        "name": "Circuit Footpath"
+        "name": "Áramköri lap járda"
     },
     "rct2tt.footpath_surface.medieval": {
         "reference-name": "Wooden Footpath",
-        "name": "Wooden Footpath"
+        "name": "Fa járda"
     },
     "rct2tt.footpath_surface.mosaic": {
         "reference-name": "Mosaic Footpath",
-        "name": "Mosaic Footpath"
+        "name": "Mozaikos járda"
     },
     "rct2tt.footpath_surface.pavement": {
         "reference-name": "Pavement",
-        "name": "Járda"
+        "name": "Kövezet"
     },
     "rct2tt.footpath_surface.queue_circuitboard": {
         "reference-name": "Circuit Queue",
@@ -5801,19 +5809,19 @@
     },
     "rct2tt.footpath_surface.queue_pavement": {
         "reference-name": "Pavement Queue",
-        "name": "Járda várósor"
+        "name": "Kövezetes várósor"
     },
     "rct2tt.footpath_surface.queue_rainbow": {
         "reference-name": "Rainbow Queue",
-        "name": "Rainbow Queue"
+        "name": "Szivárványos várósor"
     },
     "rct2tt.footpath_surface.rainbow": {
         "reference-name": "Rainbow Footpath",
-        "name": "Rainbow Footpath"
+        "name": "Szivárványos járda"
     },
     "rct2tt.footpath_surface.rocky": {
         "reference-name": "Rocky Footpath",
-        "name": "Rocky Footpath"
+        "name": "Kőjárda"
     },
     "rct2tt.park_entrance.1920sent": {
         "reference-name": "Roaring Twenties Park Entrance",
@@ -5821,23 +5829,23 @@
     },
     "rct2tt.park_entrance.futurent": {
         "reference-name": "Futuristic Park Entrance",
-        "name": "Futuristic Park Entrance"
+        "name": "Futurisztikus parkbejárat"
     },
     "rct2tt.park_entrance.gldyrent": {
         "reference-name": "Rock ’n’ Roll Park Entrance",
-        "name": "Rock ’n’ Roll Park Entrance"
+        "name": "Rock ’n’ Roll parkbejárat"
     },
     "rct2tt.park_entrance.jurasent": {
         "reference-name": "Prehistoric Entrance",
-        "name": "Prehistoric Entrance"
+        "name": "Kőkorszaki bejárat"
     },
     "rct2tt.park_entrance.medientr": {
         "reference-name": "Dark Age Entrance",
-        "name": "Dark Age Entrance"
+        "name": "Középkori bejárat"
     },
     "rct2tt.park_entrance.mythentr": {
         "reference-name": "Mythological Entrance",
-        "name": "Mythological Entrance"
+        "name": "Mitológiai bejárat"
     },
     "rct2tt.ride.1920racr": {
         "reference-name": "1920s Racing Cars",
@@ -5871,7 +5879,7 @@
         "reference-name": "Battering Ram Trains",
         "name": "Faltörő kos vonatok",
         "reference-description": "Compact roller coaster trains with cars with in-line seating, themed to look like battering rams from the Dark Age",
-        "description": "Kompakt hullámvasútvonatok, egymás utáni ülésekkel ellátott kocsikkal, amelyek témája a sötét középkor faltörő kosait idézi",
+        "description": "Kompakt hullámvasútvonatok, egymás utáni ülésekkel ellátott kocsikkal, amelyek témája a középkor faltörő kosait idézi",
         "reference-capacity": "6 passengers per car",
         "capacity": "6 utas kocsinként"
     },
@@ -6091,7 +6099,7 @@
         "reference-name": "Lemonade Market Stall",
         "name": "Limonádés piaci bódé",
         "reference-description": "A themed stall selling old style, fresh lemonade.",
-        "description": "Egy tematikus bódé, ami régi stílusú, friss limonádét árul"
+        "description": "Egy tematikus bódé, ami régi stílusú, friss limonádét árul."
     },
     "rct2tt.ride.moonjuce": {
         "reference-name": "Moon Juice",
@@ -6179,9 +6187,9 @@
     },
     "rct2tt.ride.seaplane": {
         "reference-name": "Suspended Seaplane Cars",
-        "name": "Felfüggesztett repülőgépkocsik",
+        "name": "Függesztett repülőgépkocsik",
         "reference-description": "Suspended roller coaster trains consisting of seaplane-shaped cars able to swing freely as the train goes around corners",
-        "description": "Felfüggesztett hullámvasútvonatok, amelyek repülőgép alakú kocsikból állnak, és szabadon lenghetnek, amikor a vonat kanyarodik",
+        "description": "Függesztett hullámvasútvonatok, amelyek repülőgép alakú kocsikból állnak, és szabadon lenghetnek, amikor a vonat kanyarodik",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 utas kocsinként"
     },
@@ -6235,7 +6243,7 @@
         "reference-name": "Trebuchet Ride",
         "name": "Kőhajító játék",
         "reference-description": "Passengers ride in a carriage suspended by two large arms, based on a Dark Age siege weapon",
-        "description": "Az utasok egy sötét középkori ostromfegyveren alapuló, két nagy karral felfüggesztett kocsiban utaznak",
+        "description": "Az utasok egy középkori ostromfegyveren alapuló, két nagy karral függesztett kocsiban utaznak",
         "reference-capacity": "8 passengers",
         "capacity": "8 utas"
     },
@@ -6293,7 +6301,7 @@
         "reference-park_name": "Cliffside Castle",
         "park_name": "Sziklaoldali Vár",
         "reference-details": "Local members of the battle re-enactment society are rather serious about their hobby. They’ve entrusted you with the job of constructing a Dark Age theme park on the grounds of Cliffside Castle.",
-        "details": "A hagyományörző egyesület helyi tagjai komolyan veszik az emlékcsatákat. Rád bízták a feladatot, hogy építs egy sötét középkor témájú parkot a Sziklaoldali Vár területén."
+        "details": "A hagyományörző egyesület helyi tagjai komolyan veszik az emlékcsatákat. Rád bízták a feladatot, hogy építs egy középkori témájú parkot a Sziklaoldali Vár területén."
     },
     "rct2tt.scenario_meta.coastersaurus": {
         "reference-name": "Coastersaurus",
@@ -6397,7 +6405,7 @@
     },
     "rct2tt.scenery_group.scgfutur": {
         "reference-name": "Future Theming",
-        "name": "Future Theming"
+        "name": "Jövő téma"
     },
     "rct2tt.scenery_group.scgjurra": {
         "reference-name": "Prehistoric Theming",
@@ -6441,19 +6449,19 @@
     },
     "rct2tt.scenery_large.alnstr08": {
         "reference-name": "Alien Structure Large",
-        "name": "Alien Structure Large"
+        "name": "Idegen építmény - nagy"
     },
     "rct2tt.scenery_large.alnstr09": {
         "reference-name": "Alien Structure Large",
-        "name": "Alien Structure Large"
+        "name": "Idegen építmény - nagy"
     },
     "rct2tt.scenery_large.alnstr10": {
         "reference-name": "Alien Structure Large",
-        "name": "Alien Structure Large"
+        "name": "Idegen építmény - nagy"
     },
     "rct2tt.scenery_large.alnstr11": {
         "reference-name": "Alien Skylight Large",
-        "name": "Alien Skylight Large"
+        "name": "Idegen fénykupola - nagy"
     },
     "rct2tt.scenery_large.artdec25": {
         "reference-name": "Art Deco Corner with Windows",
@@ -6469,7 +6477,7 @@
     },
     "rct2tt.scenery_large.ashnymph": {
         "reference-name": "Ash Tree with Nymphs",
-        "name": "Ash Tree with Nymphs"
+        "name": "Kőrisfa nimfákkal"
     },
     "rct2tt.scenery_large.bandbusx": {
         "reference-name": "Rock Band Tour Bus",
@@ -6517,7 +6525,7 @@
     },
     "rct2tt.scenery_large.footprnt": {
         "reference-name": "Giant Dinosaur Footprint",
-        "name": "Óriás dinoszaurusz-lábnyom"
+        "name": "Óriási dinoszaurusz-lábnyom"
     },
     "rct2tt.scenery_large.forbidft": {
         "reference-name": "Forbidden Fruit Tree",
@@ -6597,19 +6605,19 @@
     },
     "rct2tt.scenery_large.hrbwal07": {
         "reference-name": "Harbour Wall Corner Piece",
-        "name": "Harbour Wall Corner Piece"
+        "name": "Kikötőfal sarokelem"
     },
     "rct2tt.scenery_large.hrbwal08": {
         "reference-name": "Harbour Wall Corner Piece",
-        "name": "Harbour Wall Corner Piece"
+        "name": "Kikötőfal sarokelem"
     },
     "rct2tt.scenery_large.hrbwal09": {
         "reference-name": "Harbour Wall with Dock",
-        "name": "Harbour Wall with Dock"
+        "name": "Kikötőfal dokkal"
     },
     "rct2tt.scenery_large.hrbwal11": {
         "reference-name": "Harbour Dock",
-        "name": "Harbour Dock"
+        "name": "Kikötői dokk"
     },
     "rct2tt.scenery_large.jailxx17": {
         "reference-name": "Prison Door",
@@ -6637,35 +6645,35 @@
     },
     "rct2tt.scenery_large.mcastl01": {
         "reference-name": "Castle Inverted Corner",
-        "name": "Castle Inverted Corner"
+        "name": "Fordított vársarok"
     },
     "rct2tt.scenery_large.mcastl11": {
         "reference-name": "Castle Portcullis",
-        "name": "Castle Portcullis"
+        "name": "Várkapu"
     },
     "rct2tt.scenery_large.mcastl12": {
         "reference-name": "Castle Entrance",
-        "name": "Castle Entrance"
+        "name": "Várbejárat"
     },
     "rct2tt.scenery_large.mcastl13": {
         "reference-name": "Castle Tower Corner Piece",
-        "name": "Castle Tower Corner Piece"
+        "name": "Vártorony sarokelem"
     },
     "rct2tt.scenery_large.mcastl14": {
         "reference-name": "Castle Tower Corner Piece",
-        "name": "Castle Tower Corner Piece"
+        "name": "Vártorony sarokelem"
     },
     "rct2tt.scenery_large.mcastl15": {
         "reference-name": "Castle Tower Cross Piece",
-        "name": "Castle Tower Cross Piece"
+        "name": "Vártorony keresztelem"
     },
     "rct2tt.scenery_large.mcastl16": {
         "reference-name": "Castle Tower Straight Piece",
-        "name": "Castle Tower Straight Piece"
+        "name": "Vártorony egyenes elem"
     },
     "rct2tt.scenery_large.mcastl17": {
         "reference-name": "Castle Tower T Piece",
-        "name": "Castle Tower T Piece"
+        "name": "Vártorony T-elem"
     },
     "rct2tt.scenery_large.mcastl18": {
         "reference-name": "Castle Tower T Piece",
@@ -6677,11 +6685,11 @@
     },
     "rct2tt.scenery_large.metoan01": {
         "reference-name": "Meteor Crater Corner",
-        "name": "Meteor Crater Corner"
+        "name": "Meteorkráter sarok"
     },
     "rct2tt.scenery_large.metoan02": {
         "reference-name": "Meteor Crater Inverted Corner",
-        "name": "Meteor Crater Inverted Corner"
+        "name": "Meteorkráter fordított sarok"
     },
     "rct2tt.scenery_large.oldnyk20": {
         "reference-name": "New York Roof Piece",
@@ -6737,55 +6745,55 @@
     },
     "rct2tt.scenery_large.peramob1": {
         "reference-name": "Period Automobile",
-        "name": "Period Automobile"
+        "name": "Korabeli autó"
     },
     "rct2tt.scenery_large.peramob2": {
         "reference-name": "Period Automobile",
-        "name": "Period Automobile"
+        "name": "Korabeli autó"
     },
     "rct2tt.scenery_large.perdtk01": {
         "reference-name": "Period Truck",
-        "name": "Period Truck"
+        "name": "Korabeli teherautó"
     },
     "rct2tt.scenery_large.perdtk02": {
         "reference-name": "Period Truck",
-        "name": "Period Truck"
+        "name": "Korabeli teherautó"
     },
     "rct2tt.scenery_large.ploughxx": {
         "reference-name": "Plough",
-        "name": "Plough"
+        "name": "Eke"
     },
     "rct2tt.scenery_large.prdyacht": {
         "reference-name": "Period Sailing Yacht",
-        "name": "Period Sailing Yacht"
+        "name": "Korabeli vitorlásjacht"
     },
     "rct2tt.scenery_large.psntwl26": {
         "reference-name": "Dark Age Village Roof Piece",
-        "name": "Dark Age Village Roof Piece"
+        "name": "Középkori falu tetőelem"
     },
     "rct2tt.scenery_large.psntwl27": {
         "reference-name": "Dark Age Village Corner Roof Piece",
-        "name": "Dark Age Village Corner Roof Piece"
+        "name": "Középkori falu saroktetőelem"
     },
     "rct2tt.scenery_large.psntwl28": {
         "reference-name": "Dark Age Village Inverted Roof Piece",
-        "name": "Dark Age Village Inverted Roof Piece"
+        "name": "Középkori falu fordított tetőelem"
     },
     "rct2tt.scenery_large.rdmet2x2": {
         "reference-name": "Small Red Meteor Crater",
-        "name": "Small Red Meteor Crater"
+        "name": "Kis vörös meteorkráter"
     },
     "rct2tt.scenery_large.rdmet4x4": {
         "reference-name": "Large Red Meteor Crater",
-        "name": "Large Red Meteor Crater"
+        "name": "Nagy vörös meteorkráter"
     },
     "rct2tt.scenery_large.rdmeto01": {
         "reference-name": "Red Meteor Crater Corner",
-        "name": "Red Meteor Crater Corner"
+        "name": "Vörös meteorkráter sarok"
     },
     "rct2tt.scenery_large.rdmeto02": {
         "reference-name": "Red Meteor Crater Corner",
-        "name": "Red Meteor Crater Corner"
+        "name": "Vörös meteorkráter sarok"
     },
     "rct2tt.scenery_large.robncamp": {
         "reference-name": "Robin Hood’s Camp",
@@ -6793,7 +6801,7 @@
     },
     "rct2tt.scenery_large.romnc2x2": {
         "reference-name": "Roman Palace Corner Piece",
-        "name": "Roman Palace Corner Piece"
+        "name": "Római palota sarokelem"
     },
     "rct2tt.scenery_large.romne2x1": {
         "reference-name": "Roman Palace End Piece",
@@ -6809,7 +6817,7 @@
     },
     "rct2tt.scenery_large.romvc2x2": {
         "reference-name": "Roman Palace Corner Piece",
-        "name": "Roman Palace Corner Piece"
+        "name": "Római palota sarokelem"
     },
     "rct2tt.scenery_large.romve2x1": {
         "reference-name": "Roman Palace End Piece",
@@ -7057,11 +7065,11 @@
     },
     "rct2tt.scenery_small.bigbassx": {
         "reference-name": "Giant Bass Guitar",
-        "name": "Óriás basszusgitár"
+        "name": "Óriási basszusgitár"
     },
     "rct2tt.scenery_small.biggutar": {
         "reference-name": "Giant Guitar",
-        "name": "Giant Guitar"
+        "name": "Óriási gitár"
     },
     "rct2tt.scenery_small.bkrgang1": {
         "reference-name": "Biker",
@@ -7129,15 +7137,15 @@
     },
     "rct2tt.scenery_small.drgnattk": {
         "reference-name": "Dragon Attacking",
-        "name": "Dragon Attacking"
+        "name": "Támadó sárkány"
     },
     "rct2tt.scenery_small.elecfen1": {
         "reference-name": "Electric Fence Corner Piece",
-        "name": "Electric Fence Corner Piece"
+        "name": "Elektromos kerítés sarokelem"
     },
     "rct2tt.scenery_small.elecfen2": {
         "reference-name": "Electric Fence",
-        "name": "Electric Fence"
+        "name": "Elektromos kerítés"
     },
     "rct2tt.scenery_small.elecfen3": {
         "reference-name": "Electric Fence with Light",
@@ -7145,11 +7153,11 @@
     },
     "rct2tt.scenery_small.elecfen4": {
         "reference-name": "Electric Fence Broken",
-        "name": "Electric Fence Broken"
+        "name": "Elektromos kerítés - sérült"
     },
     "rct2tt.scenery_small.elecfen5": {
         "reference-name": "Electric Fence Inverted Corner Piece",
-        "name": "Electric Fence Inverted Corner Piece"
+        "name": "Elektromos kerítés fordított sarokelem"
     },
     "rct2tt.scenery_small.evalien1": {
         "reference-name": "Animatronic Evil Alien",
@@ -7165,7 +7173,7 @@
     },
     "rct2tt.scenery_small.fircanon": {
         "reference-name": "Animatronic Firing Cannon",
-        "name": "Animatronic Firing Cannon"
+        "name": "Animatronikus tüzelő ágyú"
     },
     "rct2tt.scenery_small.firemanx": {
         "reference-name": "Animatronic Fireman",
@@ -7405,87 +7413,87 @@
     },
     "rct2tt.scenery_small.hevbth01": {
         "reference-name": "Heavenly Bath Pool",
-        "name": "Heavenly Bath Pool"
+        "name": "Mennyei fürdő medence"
     },
     "rct2tt.scenery_small.hevbth02": {
         "reference-name": "Heavenly Bath Pool Corner",
-        "name": "Heavenly Bath Pool Corner"
+        "name": "Mennyei fürdő medencesarok"
     },
     "rct2tt.scenery_small.hevbth03": {
         "reference-name": "Heavenly Baths Fountain",
-        "name": "Heavenly Baths Fountain"
+        "name": "Mennyei fürdő szökőkút"
     },
     "rct2tt.scenery_small.hevbth04": {
         "reference-name": "Heavenly Baths Fountain",
-        "name": "Heavenly Baths Fountain"
+        "name": "Mennyei fürdő szökőkút"
     },
     "rct2tt.scenery_small.hevbth05": {
         "reference-name": "Heavenly Baths Arch",
-        "name": "Heavenly Baths Arch"
+        "name": "Mennyei fürdő boltív"
     },
     "rct2tt.scenery_small.hevbth06": {
         "reference-name": "Heavenly Baths Arch",
-        "name": "Heavenly Baths Arch"
+        "name": "Mennyei fürdő boltív"
     },
     "rct2tt.scenery_small.hevbth07": {
         "reference-name": "Heavenly Baths Arch",
-        "name": "Heavenly Baths Arch"
+        "name": "Mennyei fürdő boltív"
     },
     "rct2tt.scenery_small.hevbth08": {
         "reference-name": "Heavenly Baths Stairway",
-        "name": "Heavenly Baths Stairway"
+        "name": "Mennyei fürdő lépcső"
     },
     "rct2tt.scenery_small.hevbth09": {
         "reference-name": "Heavenly Baths Stairway",
-        "name": "Heavenly Baths Stairway"
+        "name": "Mennyei fürdő lépcső"
     },
     "rct2tt.scenery_small.hevbth10": {
         "reference-name": "Heavenly Baths Architecture",
-        "name": "Heavenly Baths Architecture"
+        "name": "Mennyei fürdő építmény"
     },
     "rct2tt.scenery_small.hevbth11": {
         "reference-name": "Heavenly Baths Architecture",
-        "name": "Heavenly Baths Architecture"
+        "name": "Mennyei fürdő építmény"
     },
     "rct2tt.scenery_small.hevbth12": {
         "reference-name": "Heavenly Baths Architecture",
-        "name": "Heavenly Baths Architecture"
+        "name": "Mennyei fürdő építmény"
     },
     "rct2tt.scenery_small.hevbth13": {
         "reference-name": "Heavenly Baths Architecture",
-        "name": "Heavenly Baths Architecture"
+        "name": "Mennyei fürdő építmény"
     },
     "rct2tt.scenery_small.hevbth14": {
         "reference-name": "Heavenly Bath Window",
-        "name": "Heavenly Bath Window"
+        "name": "Mennyei fürdő ablak"
     },
     "rct2tt.scenery_small.hevbth15": {
         "reference-name": "Heavenly Bath Floor",
-        "name": "Heavenly Bath Floor"
+        "name": "Mennyei fürdő padlózat"
     },
     "rct2tt.scenery_small.hevbth16": {
         "reference-name": "Heavenly Bath Pool Steps",
-        "name": "Heavenly Bath Pool Steps"
+        "name": "Mennyei fürdő lépcsők"
     },
     "rct2tt.scenery_small.hevbth17": {
         "reference-name": "Heavenly Bath Pool Edge",
-        "name": "Heavenly Bath Pool Edge"
+        "name": "Mennyei fürdő medenceperem"
     },
     "rct2tt.scenery_small.hevrof01": {
         "reference-name": "Heavenly Bath Roof",
-        "name": "Heavenly Bath Roof"
+        "name": "Mennyei fürdő tető"
     },
     "rct2tt.scenery_small.hevrof02": {
         "reference-name": "Heavenly Bath Roof",
-        "name": "Heavenly Bath Roof"
+        "name": "Mennyei fürdő tető"
     },
     "rct2tt.scenery_small.hevrof03": {
         "reference-name": "Heavenly Bath Roof",
-        "name": "Heavenly Bath Roof"
+        "name": "Mennyei fürdő tető"
     },
     "rct2tt.scenery_small.hevrof04": {
         "reference-name": "Heavenly Bath Roof",
-        "name": "Heavenly Bath Roof"
+        "name": "Mennyei fürdő tető"
     },
     "rct2tt.scenery_small.horsecrt": {
         "reference-name": "Horse",
@@ -7493,7 +7501,7 @@
     },
     "rct2tt.scenery_small.hovrcar1": {
         "reference-name": "Hovercar on Stand",
-        "name": "Hovercar on Stand"
+        "name": "Lebegő autó állványon"
     },
     "rct2tt.scenery_small.hovrcar2": {
         "reference-name": "Hovercar on Stand",
@@ -7501,7 +7509,7 @@
     },
     "rct2tt.scenery_small.hovrcar3": {
         "reference-name": "Hovercar Flying",
-        "name": "Hovercar Flying"
+        "name": "Repülő lebegő autó"
     },
     "rct2tt.scenery_small.hovrcar4": {
         "reference-name": "Hovercar Flying",
@@ -7509,27 +7517,27 @@
     },
     "rct2tt.scenery_small.hrbwal01": {
         "reference-name": "Harbour Wall",
-        "name": "Harbour Wall"
+        "name": "Kikötőfal"
     },
     "rct2tt.scenery_small.hrbwal02": {
         "reference-name": "Harbour Wall with Fishing Gear",
-        "name": "Harbour Wall with Fishing Gear"
+        "name": "Kikötőfal halászfelszereléssel"
     },
     "rct2tt.scenery_small.hrbwal03": {
         "reference-name": "Harbour Wall with Moor",
-        "name": "Harbour Wall with Moor"
+        "name": "Kikötőfal kikötőoszloppal"
     },
     "rct2tt.scenery_small.hrbwal04": {
         "reference-name": "Harbour Wall with Moor",
-        "name": "Harbour Wall with Moor"
+        "name": "Kikötőfal kikötőoszloppal"
     },
     "rct2tt.scenery_small.hrbwal05": {
         "reference-name": "Harbour Wall with Moor",
-        "name": "Harbour Wall with Moor"
+        "name": "Kikötőfal kikötőoszloppal"
     },
     "rct2tt.scenery_small.hrbwal06": {
         "reference-name": "Harbour Wall with Moor",
-        "name": "Harbour Wall with Moor"
+        "name": "Kikötőfal kikötőoszloppal"
     },
     "rct2tt.scenery_small.hurcluls": {
         "reference-name": "Hercules",
@@ -7537,15 +7545,15 @@
     },
     "rct2tt.scenery_small.hvrbike1": {
         "reference-name": "Hoverbike on Stand",
-        "name": "Hoverbike on Stand"
+        "name": "Lebegő motor állványon"
     },
     "rct2tt.scenery_small.hvrbike2": {
         "reference-name": "Hoverbike on Stand",
-        "name": "Hoverbike on Stand"
+        "name": "Lebegő motor állványon"
     },
     "rct2tt.scenery_small.hvrbike3": {
         "reference-name": "Hoverbike Flying",
-        "name": "Hoverbike Flying"
+        "name": "Repülő lebegő motor"
     },
     "rct2tt.scenery_small.hvrbike4": {
         "reference-name": "Hoverbike Flying",
@@ -7865,7 +7873,7 @@
     },
     "rct2tt.scenery_small.medstool": {
         "reference-name": "Stool",
-        "name": "Stool"
+        "name": "Zsámoly"
     },
     "rct2tt.scenery_small.medtools": {
         "reference-name": "Farm Tools",
@@ -8029,7 +8037,7 @@
     },
     "rct2tt.scenery_small.polwtbtn": {
         "reference-name": "Animatronic Police Officer",
-        "name": "Animatronic Police Officer"
+        "name": "Animatronikus rendőr"
     },
     "rct2tt.scenery_small.primhead": {
         "reference-name": "Wood Fence with Man Eating Plant",
@@ -8269,7 +8277,7 @@
     },
     "rct2tt.scenery_small.sdragfly": {
         "reference-name": "Animatronic Dragonflies",
-        "name": "Animatronic Dragonflies"
+        "name": "Animatronikus szitakötők"
     },
     "rct2tt.scenery_small.shwdfrst": {
         "reference-name": "Forest Trees",
@@ -8345,7 +8353,7 @@
     },
     "rct2tt.scenery_small.spcshp04": {
         "reference-name": "Space Ship Solar Panels",
-        "name": "Space Ship Solar Panels"
+        "name": "Űrhajó napelemek"
     },
     "rct2tt.scenery_small.spcshp05": {
         "reference-name": "Space Ship Gravity Section",
@@ -8385,7 +8393,7 @@
     },
     "rct2tt.scenery_small.speakr02": {
         "reference-name": "Large Speaker",
-        "name": "Large Speaker"
+        "name": "Nagy hangszóró"
     },
     "rct2tt.scenery_small.spiktail": {
         "reference-name": "Animatronic Stegosaurus",
@@ -8417,15 +8425,15 @@
     },
     "rct2tt.scenery_small.stnesta1": {
         "reference-name": "Men Turned to Stone",
-        "name": "Men Turned to Stone"
+        "name": "Kővé vált férfiak"
     },
     "rct2tt.scenery_small.stnesta2": {
         "reference-name": "Men Turned to Stone",
-        "name": "Men Turned to Stone"
+        "name": "Kővé vált férfiak"
     },
     "rct2tt.scenery_small.stnesta3": {
         "reference-name": "Men Turned to Stone",
-        "name": "Men Turned to Stone"
+        "name": "Kővé vált férfiak"
     },
     "rct2tt.scenery_small.stnesta4": {
         "reference-name": "Men Turned to Stone",
@@ -8433,7 +8441,7 @@
     },
     "rct2tt.scenery_small.stoolset": {
         "reference-name": "Stools",
-        "name": "Stools"
+        "name": "Zsámolyok"
     },
     "rct2tt.scenery_small.strictop": {
         "reference-name": "Animatronic Triceratops",
@@ -8453,7 +8461,7 @@
     },
     "rct2tt.scenery_small.swamplt4": {
         "reference-name": "Swamp Plant",
-        "name": "Swamp Plant"
+        "name": "Mocsári növény"
     },
     "rct2tt.scenery_small.swamplt5": {
         "reference-name": "Swamp Plant",
@@ -8477,7 +8485,7 @@
     },
     "rct2tt.scenery_small.swrdstne": {
         "reference-name": "Sword in the Stone",
-        "name": "Sword in the Stone"
+        "name": "Kőbe szúrt kard"
     },
     "rct2tt.scenery_small.tarpit01": {
         "reference-name": "Bubbling Tarpit",
@@ -8609,7 +8617,7 @@
     },
     "rct2ww.park_entrance.japent": {
         "reference-name": "Japanese Park Entrance",
-        "name": "Japanese Park Entrance"
+        "name": "Japán parkbejárat"
     },
     "rct2ww.park_entrance.naent": {
         "reference-name": "North America Park Entrance",
@@ -8649,11 +8657,11 @@
     },
     "rct2ww.ride.bullet": {
         "reference-name": "Bullet Trains",
-        "name": "Bullet Trains",
+        "name": "Szuperexpressz",
         "reference-description": "Japanese Bullet Train themed roller coaster cars",
-        "description": "Japanese Bullet Train themed roller coaster cars",
+        "description": "Japán szuperexpresszvonat-témájú hullámvasútkocsik",
         "reference-capacity": "4 passengers per car",
-        "capacity": "4 passengers per car"
+        "capacity": "4 fő kocsinként"
     },
     "rct2ww.ride.caddilac": {
         "reference-name": "Limousine Trains",
@@ -9453,23 +9461,23 @@
     },
     "rct2ww.scenery_large.icefor01": {
         "reference-name": "Ice Formation",
-        "name": "Ice Formation"
+        "name": "Jégképződmény"
     },
     "rct2ww.scenery_large.icefor02": {
         "reference-name": "Ice Formation",
-        "name": "Ice Formation"
+        "name": "Jégképződmény"
     },
     "rct2ww.scenery_large.indianst": {
         "reference-name": "Native American",
-        "name": "Native American"
+        "name": "Amerikai őslakos"
     },
     "rct2ww.scenery_large.largeju1": {
         "reference-name": "Large Rainforest Tree",
-        "name": "Large Rainforest Tree"
+        "name": "Nagy esőerdei fa"
     },
     "rct2ww.scenery_large.lincolns": {
         "reference-name": "Washington Statue",
-        "name": "Washington Statue"
+        "name": "Washington-szobor"
     },
     "rct2ww.scenery_large.mbskyr01": {
         "reference-name": "Skyscraper Roof Piece",
@@ -9481,7 +9489,7 @@
     },
     "rct2ww.scenery_large.ovrgrwnt": {
         "reference-name": "Old Overgrown Tree",
-        "name": "Old Overgrown Tree"
+        "name": "Régi benőtt fa"
     },
     "rct2ww.scenery_large.pagodam": {
         "reference-name": "Pagoda",
@@ -9521,7 +9529,7 @@
     },
     "rct2ww.scenery_large.redwood": {
         "reference-name": "Redwood Tree",
-        "name": "Redwood Tree"
+        "name": "Mamutfenyő"
     },
     "rct2ww.scenery_large.rkreml08": {
         "reference-name": "Kremlin Large Tower Base",
@@ -9557,7 +9565,7 @@
     },
     "rct2ww.scenery_large.sputnik": {
         "reference-name": "Sputnik",
-        "name": "Sputnik"
+        "name": "Szputnyik"
     },
     "rct2ww.scenery_large.sunken": {
         "reference-name": "Sunken Ship",
@@ -9585,19 +9593,19 @@
     },
     "rct2ww.scenery_small.1x1atre2": {
         "reference-name": "Vine Tree",
-        "name": "Vine Tree"
+        "name": "Liánfa"
     },
     "rct2ww.scenery_small.1x1atree": {
         "reference-name": "Low Bush",
-        "name": "Low Bush"
+        "name": "Alacsony bokor"
     },
     "rct2ww.scenery_small.1x1brang": {
         "reference-name": "Boomerang",
-        "name": "Boomerang"
+        "name": "Bumeráng"
     },
     "rct2ww.scenery_small.1x1didge": {
         "reference-name": "Digeridoo",
-        "name": "Digeridoo"
+        "name": "Didzseridu"
     },
     "rct2ww.scenery_small.1x1emuxx": {
         "reference-name": "Emu",
@@ -9605,11 +9613,11 @@
     },
     "rct2ww.scenery_small.1x1jugt2": {
         "reference-name": "Small Rainforest Tree 1",
-        "name": "Small Rainforest Tree 1"
+        "name": "Kis esőerdei fa 1"
     },
     "rct2ww.scenery_small.1x1jugt3": {
         "reference-name": "Small Rainforest Tree 2",
-        "name": "Small Rainforest Tree 2"
+        "name": "Kis esőerdei fa 2"
     },
     "rct2ww.scenery_small.1x1kanga": {
         "reference-name": "Kangaroo",
@@ -9625,15 +9633,15 @@
     },
     "rct2ww.scenery_small.antilopf": {
         "reference-name": "Antelope Female",
-        "name": "Antelope Female"
+        "name": "Antilop nőstény"
     },
     "rct2ww.scenery_small.antilopm": {
         "reference-name": "Antelope Male",
-        "name": "Antelope Male"
+        "name": "Antilop hím"
     },
     "rct2ww.scenery_small.antilopp": {
         "reference-name": "Antelope Pair",
-        "name": "Antelope Pair"
+        "name": "Antilop pár"
     },
     "rct2ww.scenery_small.babpanda": {
         "reference-name": "Baby Panda",
@@ -9653,7 +9661,7 @@
     },
     "rct2ww.scenery_small.bamboobs": {
         "reference-name": "Bamboo Bush",
-        "name": "Bamboo Bush"
+        "name": "Bambuszbokor"
     },
     "rct2ww.scenery_small.bamboopl": {
         "reference-name": "Bamboo Plinth",
@@ -9765,51 +9773,51 @@
     },
     "rct2ww.scenery_small.jachtree": {
         "reference-name": "Japanese Cherry Tree",
-        "name": "Japanese Cherry Tree"
+        "name": "Japán cseresznyefa"
     },
     "rct2ww.scenery_small.japchblo": {
         "reference-name": "Japanese Cherry Blossom Tree",
-        "name": "Japanese Cherry Blossom Tree"
+        "name": "Japán díszcseresznye"
     },
     "rct2ww.scenery_small.jappintr": {
         "reference-name": "Japanese Pine Tree",
-        "name": "Japanese Pine Tree"
+        "name": "Japán fenyő"
     },
     "rct2ww.scenery_small.japsnotr": {
         "reference-name": "Japanese Snowball Tree",
-        "name": "Japanese Snowball Tree"
+        "name": "Redőslevelű bangita"
     },
     "rct2ww.scenery_small.jpflag01": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Japanese Silk Flag"
+        "name": "Japán selyemzászló"
     },
     "rct2ww.scenery_small.jpflag02": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Japanese Silk Flag"
+        "name": "Japán selyemzászló"
     },
     "rct2ww.scenery_small.jpflag03": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Japanese Silk Flag"
+        "name": "Japán selyemzászló"
     },
     "rct2ww.scenery_small.jpflag04": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Japanese Silk Flag"
+        "name": "Japán selyemzászló"
     },
     "rct2ww.scenery_small.jpflag05": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Japanese Silk Flag"
+        "name": "Japán selyemzászló"
     },
     "rct2ww.scenery_small.jpflag06": {
         "reference-name": "Japanese Silk Flag",
-        "name": "Japanese Silk Flag"
+        "name": "Japán selyemzászló"
     },
     "rct2ww.scenery_small.oilpump": {
         "reference-name": "Oil Pump",
-        "name": "Oil Pump"
+        "name": "Olajszivattyú"
     },
     "rct2ww.scenery_small.oriegong": {
         "reference-name": "Asian Gong",
-        "name": "Asian Gong"
+        "name": "Ázsiai gong"
     },
     "rct2ww.scenery_small.pcg": {
         "reference-name": "Pipe",
@@ -10193,7 +10201,7 @@
     },
     "rct2ww.scenery_small.sbh1tepe": {
         "reference-name": "Tee Pee",
-        "name": "Tee Pee"
+        "name": "Tipi"
     },
     "rct2ww.scenery_small.sbh1wgwh": {
         "reference-name": "Wagon Wheel",
@@ -10317,87 +10325,87 @@
     },
     "rct2ww.scenery_small.sbwind01": {
         "reference-name": "Wind Sculpted Concave Wall Corner",
-        "name": "Wind Sculpted Concave Wall Corner"
+        "name": "Szél formálta homorú falsarok"
     },
     "rct2ww.scenery_small.sbwind02": {
         "reference-name": "Wind Sculpted Concave Roof Corner",
-        "name": "Wind Sculpted Concave Roof Corner"
+        "name": "Szél formálta homorú tetősarok"
     },
     "rct2ww.scenery_small.sbwind03": {
         "reference-name": "Wind Sculpted Concave Wall Corner",
-        "name": "Wind Sculpted Concave Wall Corner"
+        "name": "Szél formálta homorú falsarok"
     },
     "rct2ww.scenery_small.sbwind04": {
         "reference-name": "Wind Sculpted Convex Wall Corner",
-        "name": "Wind Sculpted Convex Wall Corner"
+        "name": "Szél formálta domború falsarok"
     },
     "rct2ww.scenery_small.sbwind05": {
         "reference-name": "Wind Sculpted Convex Roof Corner",
-        "name": "Wind Sculpted Convex Roof Corner"
+        "name": "Szél formálta domború tetősarok"
     },
     "rct2ww.scenery_small.sbwind06": {
         "reference-name": "Wind Sculpted Convex Wall Corner",
-        "name": "Wind Sculpted Convex Wall Corner"
+        "name": "Szél formálta domború falsarok"
     },
     "rct2ww.scenery_small.sbwind07": {
         "reference-name": "Wind Sculpted Rock Formation Base",
-        "name": "Wind Sculpted Rock Formation Base"
+        "name": "Szél formálta sziklaképződmény alap"
     },
     "rct2ww.scenery_small.sbwind08": {
         "reference-name": "Wind Sculpted Rock Formation Base",
-        "name": "Wind Sculpted Rock Formation Base"
+        "name": "Szél formálta sziklaképződmény alap"
     },
     "rct2ww.scenery_small.sbwind09": {
         "reference-name": "Wind Sculpted Rock Formation Mid Section",
-        "name": "Wind Sculpted Rock Formation Mid Section"
+        "name": "Szél formálta sziklaképződmény középrész"
     },
     "rct2ww.scenery_small.sbwind10": {
         "reference-name": "Wind Sculpted Rock Formation Mid Section",
-        "name": "Wind Sculpted Rock Formation Mid Section"
+        "name": "Szél formálta sziklaképződmény középrész"
     },
     "rct2ww.scenery_small.sbwind11": {
         "reference-name": "Wind Sculpted Rock Formation Mid Section",
-        "name": "Wind Sculpted Rock Formation Mid Section"
+        "name": "Szél formálta sziklaképződmény középrész"
     },
     "rct2ww.scenery_small.sbwind12": {
         "reference-name": "Wind Sculpted Rock Formation Mid Section",
-        "name": "Wind Sculpted Rock Formation Mid Section"
+        "name": "Szél formálta sziklaképződmény középrész"
     },
     "rct2ww.scenery_small.sbwind13": {
         "reference-name": "Wind Sculpted Rock Formation Top",
-        "name": "Wind Sculpted Rock Formation Top"
+        "name": "Szél formálta sziklaképződmény teteje"
     },
     "rct2ww.scenery_small.sbwind14": {
         "reference-name": "Wind Sculpted Rock Formation Top",
-        "name": "Wind Sculpted Rock Formation Top"
+        "name": "Szél formálta sziklaképződmény teteje"
     },
     "rct2ww.scenery_small.sbwind15": {
         "reference-name": "Wind Sculpted Roof Flat Roof Piece",
-        "name": "Wind Sculpted Roof Flat Roof Piece"
+        "name": "Szél formálta tető sík tetőelem"
     },
     "rct2ww.scenery_small.sbwind16": {
         "reference-name": "Wind Sculpted Roof Flat Roof Piece",
-        "name": "Wind Sculpted Roof Flat Roof Piece"
+        "name": "Szél formálta tető sík tetőelem"
     },
     "rct2ww.scenery_small.sbwind17": {
         "reference-name": "Wind Sculpted Roof Flat Roof Piece",
-        "name": "Wind Sculpted Roof Flat Roof Piece"
+        "name": "Szél formálta tető sík tetőelem"
     },
     "rct2ww.scenery_small.sbwind18": {
         "reference-name": "Wind Sculpted Floor Piece",
-        "name": "Wind Sculpted Floor Piece"
+        "name": "Szél formálta padlóelem"
     },
     "rct2ww.scenery_small.sbwind19": {
         "reference-name": "Wind Sculpted Floor Piece",
-        "name": "Wind Sculpted Floor Piece"
+        "name": "Szél formálta padlóelem"
     },
     "rct2ww.scenery_small.sbwind20": {
         "reference-name": "Wind Sculpted Wall Base",
-        "name": "Wind Sculpted Wall Base"
+        "name": "Szél formálta falalap"
     },
     "rct2ww.scenery_small.sbwind21": {
         "reference-name": "Wind Sculpted Wall Base",
-        "name": "Wind Sculpted Wall Base"
+        "name": "Szél formálta falalap"
     },
     "rct2ww.scenery_small.sbwplm01": {
         "reference-name": "Cabana Top",
@@ -11725,19 +11733,19 @@
     },
     "rct2ww.scenery_wall.wwind03": {
         "reference-name": "Wind Sculpted Wall Piece",
-        "name": "Wind Sculpted Wall Piece"
+        "name": "Szél formálta falelem"
     },
     "rct2ww.scenery_wall.wwind04": {
         "reference-name": "Wind Sculpted Wall Piece",
-        "name": "Wind Sculpted Wall Piece"
+        "name": "Szél formálta falelem"
     },
     "rct2ww.scenery_wall.wwind05": {
         "reference-name": "Wind Sculpted Wall Piece",
-        "name": "Wind Sculpted Wall Piece"
+        "name": "Szél formálta falelem"
     },
     "rct2ww.scenery_wall.wwind06": {
         "reference-name": "Wind Sculpted Wall Piece",
-        "name": "Wind Sculpted Wall Piece"
+        "name": "Szél formálta falelem"
     },
     "toontowner.scenery_small.ttpirf02": {
         "reference-name": "Roof",
@@ -11961,7 +11969,7 @@
         "reference-park_name": "Transformation",
         "park_name": "Transzformáció",
         "reference-details": "We were expecting you…",
-        "details": "Vártunk téged…"
+        "details": "Már vártunk téged…"
     },
     "uces.scenario_meta.urbis_incognitus": {
         "reference-name": "Urbis Incognitus",
