@@ -1056,7 +1056,7 @@ STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
 STR_1691    :{WINDOW_COLOUR_2}  Costo: {BLACK}{CURRENCY}
 STR_1692    :{WINDOW_COLOUR_2}  Costo: {BLACK}da {CURRENCY}
 STR_1693    :Visitatori
-STR_1694    :Personale
+STR_1694    :Dipendenti
 STR_1695    :Entrate e uscite
 STR_1696    :Informazioni per i clienti
 STR_1697    :Impossibile collocarli su un’area di attesa
@@ -1066,7 +1066,7 @@ STR_1700    :Assumi un tuttofare
 STR_1701    :Assumi un meccanico
 STR_1702    :Assumi un vigilante
 STR_1703    :Assumi un intrattenitore
-STR_1704    :Impossibile assumere dell’altro personale…
+STR_1704    :Impossibile assumere nuovi dipendenti…
 STR_1705    :Licenzia questo dipendente
 STR_1706    :Sposta questa persona in un altro luogo
 STR_1707    :Troppi dipendenti nella partita
@@ -3599,7 +3599,7 @@ STR_6597    :Parametro non valido
 STR_6598    :Valore fuori scala
 STR_6599    :Elemento fantasma non trovato
 STR_6600    :Palloncino non trovato
-STR_6601    :Membro dello staff non trovato
+STR_6601    :Dipendente non trovato
 STR_6602    :Attrazione non trovata
 STR_6603    :Elemento oggetto dell'attrazione non trovata
 STR_6604    :Giocatore non trovato
@@ -3614,7 +3614,7 @@ STR_6612    :Elemento cartello non trovato
 STR_6613    :Ricarica oggetto
 STR_6614    :Non è possibile modificare il prezzo di ingresso
 STR_6615    :Il tracciato su questa cella necessita acqua
-STR_6616    :Azione non valida per quel tipo di staff
+STR_6616    :Azione non valida per quel tipo di dipendente
 STR_6617    :Non è possibile scambiare l’elemento della cella con sé stesso
 STR_6618    :Impossibile cambiare la limitazione dell’oggetto…
 STR_6619    :Il tipo di oggetto non può essere sottoposto a limitazione!
@@ -3783,4 +3783,50 @@ STR_6781    :Schermate
 STR_6782    :Notifiche parco
 STR_6783    :Notifiche attrazioni
 STR_6784    :Notifiche visitatori
+STR_6785    :Gamepad
+STR_6786    :Zona morta:
+STR_6787    :Zona morta dello stick analogico (movimento minimo richiesto)
+STR_6788    :Sensitività:
+STR_6789    :Moltiplicatore della sensitività dello stick analogico
+STR_6790    :Zona morta: {COMMA32}%
+STR_6791    :Sensitività: {COMMA32}%
+STR_6792    :Edifici di entrata
+STR_6793    :Visitatori e dipendenti
+STR_6794    :Arredo e temi
+STR_6795    :{MOVE_X}{10}{STRINGID}
+STR_6796    :•{MOVE_X}{10}{STRINGID}
+STR_6797    :Nessuna anteprima
+STR_6798    :Schermata
+STR_6799    :Minimappa
+STR_7000    :o
+STR_7001    :Nome attrazione
+STR_7002    :{STRINGID} {STRINGID}
+STR_7003    :Il file audio ‘{STRING}’ è troncato. Ci si aspettava il sample {INT32}, ma ce ne sono solo {INT32} disponibili. Reinstallare RCT2.
+STR_7004    :Forza ridisegno
+STR_7005    :Trascina un’area di sentiero
+STR_7006    :Disegna bordo intorno ai pulsanti con immagine
+STR_7007    :Tipo attrazione
+STR_7008    :Tipo attrazione sconosciuto ({INT32})
+STR_7009    :Ricezione script…
+STR_7010    :Impossibile iniziare il replay, il file ‘{STRING}’ non esiste o non è valido
+STR_7011    :Impossibile iniziare il replay
+STR_7012    :Złoty polacco (PLN)
+STR_7013    :Trascina aree di sentieri
+STR_7014    :Possiedo il gioco su Steam, ma non l’ho ancora installato.
+STR_7015    :Se è aperto, chiudere Steam e poi fare clic su “OK”.
+STR_7016    :OpenRCT2 ha provato a iniziare un download su Steam. Aprire Steam e permettere lo scaricamento del gioco. Al termine, fare clic su “OK”.
+STR_7017    :Chiudi
+STR_7018    :{SPRITE}{MOVE_X}{17}{STRINGID}
+STR_7019    :{SPRITE}{MOVE_X}{27}{STRINGID}
+STR_7020    :{MOVE_X}{10}{SPRITE}{NEWLINE_SMALLER}{MOVE_X}{36}{STRINGID}
+STR_7021    :{MOVE_X}{10}{SPRITE}{NEWLINE_SMALLER}»{MOVE_X}{36}{STRINGID}
+STR_7022    :{STRING} - - 
+STR_7023    :Rendi invisibile
+STR_7024    :Rende l’intera attrazione invisibile
+STR_7025    :Rendi visibile
+STR_7026    :Rende l’intera attrazione invisibile
+STR_7027    :{MOVE_X}{29}{STRINGID}
+STR_7028    :Quarto di elica su
+STR_7029    :Quarto di elica giù
+STR_7030    :{WINDOW_COLOUR_2}Visitatori intrattenuti: {BLACK}{COMMA32}
 
