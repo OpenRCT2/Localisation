@@ -846,18 +846,18 @@ STR_1477    :{WINDOW_COLOUR_2}Livello d’intensità: {OUTLINE}{RED}{COMMA2DP32}
 STR_1478    :{WINDOW_COLOUR_2}Livello di nausea: {BLACK}{COMMA2DP32}  ({STRINGID})
 STR_1479    :{WINDOW_COLOUR_2}Livello di nausea: {BLACK}Non disponibile
 STR_1480    :“Non posso permettermi {STRINGID}”
-STR_1481    :“Ho speso tutti i miei soldi”
+STR_1481    :“Ho già speso tutti i miei soldi”
 STR_1482    :“Mi sento male”
 STR_1483    :“Mi sento molto male”
-STR_1484    :“Voglio provare qualcosa di più eccitante {STRINGID}”
-STR_1485    :“{STRINGID}sembra troppo intenso per me”
-STR_1486    :“Non ho ancora finito {STRINGID}”
-STR_1487    :“Solo guardando {STRINGID} mi sento male”
+STR_1484    :“Voglio provare qualcosa di più eccitante di {STRINGID}”
+STR_1485    :“{STRINGID} sembra troppo estremo per me”
+STR_1486    :“Devo ancora finire {STRINGID}”
+STR_1487    :“Anche solo guardare {STRINGID} mi fa stare male”
 STR_1488    :“Non pagherò così tanto per andare su {STRINGID}”
 STR_1489    :“Voglio tornare a casa”
-STR_1490    :“{STRINGID} è a buon mercato”
-STR_1491    :“Ho già: {STRINGID}”
-STR_1492    :“Non posso permettermi: {STRINGID}”
+STR_1490    :“{STRINGID} costa davvero poco”
+STR_1491    :“Ho già {STRINGID}”
+STR_1492    :“Non posso permettermi {STRINGID}”
 STR_1493    :“Non ho fame”
 STR_1494    :“Non ho sete”
 STR_1495    :“Aiuto!!! Sto annegando!”
@@ -868,21 +868,21 @@ STR_1499    :“Sono stanco”
 STR_1500    :“Ho fame”
 STR_1501    :“Ho sete”
 STR_1502    :“Devo andare in bagno”
-STR_1503    :“Non riesco a trovare: {STRINGID}”
-STR_1504    :“Non pagherò così tanto per usare: {STRINGID}”
+STR_1503    :“Non riesco a trovare {STRINGID}”
+STR_1504    :“Non pagherò così tanto per usare {STRINGID}”
 STR_1505    :“Non andrò su {STRINGID} durante un temporale”
 STR_1506    :“C’è troppa spazzatura in giro”
 STR_1507    :“Non riesco a trovare l’uscita del parco”
 STR_1508    :“Voglio scendere da {STRINGID}”
 STR_1509    :“Voglio uscire da {STRINGID}”
-STR_1510    :“Non andrò su {STRINGID} - Non è sicuro”
-STR_1511    :“Questo percorso è disgustoso”
+STR_1510    :“Non andrò su {STRINGID}: non è sicuro”
+STR_1511    :“Questo sentiero è disgustoso”
 STR_1512    :“È troppo affollato qui”
 STR_1513    :“Ci sono troppi vandalismi”
-STR_1514    :“Bello scenario!”
+STR_1514    :“Belle decorazioni!”
 STR_1515    :“Questo parco è davvero pulito e ordinato”
 STR_1516    :“Le fontane zampillanti sono fantastiche”
-STR_1517    :“La musica qui è gradevole”
+STR_1517    :“Qui c’è una musica gradevole”
 STR_1518    :“Questo palloncino comprato da {STRINGID} costa davvero poco”
 STR_1519    :“Questo peluche comprato da {STRINGID} costa davvero poco”
 STR_1520    :“Questa mappa del parco comprata da {STRINGID} costa davvero poco”
@@ -899,8 +899,8 @@ STR_1530    :
 STR_1531    :“Questa pizza comprata da {STRINGID} costa davvero poco”
 STR_1532    :
 STR_1533    :“Questi pop-corn comprati da {STRINGID} costano davvero poco”
-STR_1534    :“Questo hot dog comprato da {STRINGID} costa davvero poco”
-STR_1535    :“Questo tentacolo comprato da {STRINGID} costa davvero poco”
+STR_1534    :“Questo hot-dog comprato da {STRINGID} costa davvero poco”
+STR_1535    :“Questo polpo comprato da {STRINGID} costa davvero poco”
 STR_1536    :“Questo cappellino comprato da {STRINGID} costa davvero poco”
 STR_1537    :“Questa mela caramellata comprata da {STRINGID} costa davvero poco”
 STR_1538    :“Questa maglietta comprata da {STRINGID} costa davvero poco”
@@ -934,7 +934,7 @@ STR_1565    :“Non ho intenzione di pagare così tanto per una pizza da {STRING
 STR_1566    :
 STR_1567    :“Non ho intenzione di pagare così tanto dei pop-corn da {STRINGID}”
 STR_1568    :“Non ho intenzione di pagare così tanto un hot dog da {STRINGID}”
-STR_1569    :“Non ho intenzione di pagare così tanto un tentacolo da {STRINGID}”
+STR_1569    :“Non ho intenzione di pagare così tanto un polpo da {STRINGID}”
 STR_1570    :“Non ho intenzione di pagare così tanto un cappellino da {STRINGID}”
 STR_1571    :“Non ho intenzione di pagare così tanto una mela caramellata da {STRINGID}”
 STR_1572    :“Non ho intenzione di pagare così tanto una maglietta da {STRINGID}”
@@ -1307,7 +1307,7 @@ STR_1973    :{WINDOW_COLOUR_2}Prezzo delle pizze:
 STR_1974    :{WINDOW_COLOUR_2}
 STR_1975    :{WINDOW_COLOUR_2}Prezzo dei pop-corn:
 STR_1976    :{WINDOW_COLOUR_2}Prezzo degli hot dog:
-STR_1977    :{WINDOW_COLOUR_2}Prezzo dei tentacoli:
+STR_1977    :{WINDOW_COLOUR_2}Prezzo dei polpi:
 STR_1978    :{WINDOW_COLOUR_2}Prezzo dei cappellini:
 STR_1979    :{WINDOW_COLOUR_2}Prezzo delle mele caram.:
 STR_1980    :{WINDOW_COLOUR_2}Prezzo delle magliette:
@@ -1335,7 +1335,7 @@ STR_2001    :Pizza
 STR_2002    :Buono-sconto
 STR_2003    :Pop-corn
 STR_2004    :Hot dog
-STR_2005    :Tentacolo
+STR_2005    :Polpo
 STR_2006    :Cappellino
 STR_2007    :Mela caramellata
 STR_2008    :Maglietta
@@ -1363,7 +1363,7 @@ STR_2029    :Pizze
 STR_2030    :Buoni-sconto
 STR_2031    :Pop-corn
 STR_2032    :Hot dog
-STR_2033    :Tentacoli
+STR_2033    :Polpi
 STR_2034    :Cappellini
 STR_2035    :Mele caramellate
 STR_2036    :Magliette
@@ -1391,7 +1391,7 @@ STR_2057    :una pizza
 STR_2058    :un buono-sconto
 STR_2059    :dei pop-corn
 STR_2060    :un hot dog
-STR_2061    :un tentacolo
+STR_2061    :un polpo
 STR_2062    :un cappellino
 STR_2063    :una mela caramellata
 STR_2064    :una maglietta
@@ -1419,7 +1419,7 @@ STR_2085    :Pizza
 STR_2086    :Buono-sconto per {STRINGID}
 STR_2087    :Pop-corn
 STR_2088    :Hot dog
-STR_2089    :Tentacolo
+STR_2089    :Polpo
 STR_2090    :“{STRINGID}” Cappellino
 STR_2091    :Mela caramellata
 STR_2092    :“{STRINGID}” Maglietta
