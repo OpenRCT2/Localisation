@@ -635,6 +635,10 @@
         "reference-name": "Iron",
         "name": "Ferro"
     },
+    "rct1.water.natural_water": {
+        "reference-name": "Natural Water",
+        "name": "Água Natural"
+    },
     "rct1aa.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Square)",
         "name": "Caminho de Cascalho"
@@ -1108,8 +1112,8 @@
         "name": "Flores Silvestres"
     },
     "rct1dlc.scenario_meta.bobsled_roller_coaster_competition": {
-        "reference-name": "Bobsled Roller Coaster Competition",
-        "name": "Bobsled Roller Coaster Competition",
+        "reference-name": "Bobsleigh Roller Coaster Competition",
+        "name": "Bobsleigh Roller Coaster Competition",
         "reference-park_name": "Competition Land",
         "park_name": "Competition Land",
         "reference-details": "",
@@ -3276,9 +3280,9 @@
         "details": "Crie sua própria versão desse grande parque Six Flags"
     },
     "rct2.scenario_meta.build_your_own_six_flags_over_texas": {
-        "reference-name": "Build your own Six Flags over Texas",
+        "reference-name": "Build your own Six Flags Over Texas",
         "name": "Construa seu próprio Six Flags no Texas",
-        "reference-park_name": "Six Flags over Texas",
+        "reference-park_name": "Six Flags Over Texas",
         "park_name": "Six Flags no Texas",
         "reference-details": "Starting from scratch, build the rides in this Six Flags park",
         "details": "Começando do zero, construa os brinquedos nesse parque Six Flags"
@@ -3420,9 +3424,9 @@
         "details": "Construa os brinquedos Six Flags que faltam, ou crie seus próprios projetos para melhorar o parque! Mas não esqueça seu objetivo principal - Pagar seu empréstimo enquanto mantém o valor do parque alto!"
     },
     "rct2.scenario_meta.six_flags_over_texas": {
-        "reference-name": "Six Flags over Texas",
+        "reference-name": "Six Flags Over Texas",
         "name": "Six Flags no Texas",
-        "reference-park_name": "Six Flags over Texas",
+        "reference-park_name": "Six Flags Over Texas",
         "park_name": "Six Flags no Texas",
         "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
         "details": "Construa os brinquedos Six Flags que faltam, ou crie seus próprios projetos para melhorar o parque! Mas não esqueça seu objetivo principal - Atrair mais visitantes para o parque!"
@@ -5707,11 +5711,19 @@
         "reference-name": "Acid Green Water",
         "name": "Água Verde-Ácido"
     },
+    "rct2.water.wtrgreen_fix": {
+        "reference-name": "Acid Green Water",
+        "name": "Água Verde-Ácido"
+    },
     "rct2.water.wtrgrn": {
         "reference-name": "Green Water",
         "name": "Água Verde"
     },
     "rct2.water.wtrorng": {
+        "reference-name": "Orange Water",
+        "name": "Água Laranja"
+    },
+    "rct2.water.wtrorng_fix": {
         "reference-name": "Orange Water",
         "name": "Água Laranja"
     },
@@ -5748,6 +5760,10 @@
         "name": "Ramos de Bambu"
     },
     "rct2dlc.water.wtrpink": {
+        "reference-name": "Pink Water",
+        "name": "Água Rosa"
+    },
+    "rct2dlc.water.wtrpink_fix": {
         "reference-name": "Pink Water",
         "name": "Água Rosa"
     },
@@ -9112,9 +9128,9 @@
         "details": "Você foi trazido para controlar uma Atração Cultural Europeia do Visitante e deve aumentar o número de visitantes a fim de reembolsar o subsídio da União Europeia no fim do mandato atual do Parlamento Europeu."
     },
     "rct2ww.scenario_meta.from_the_ashes": {
-        "reference-name": "From The Ashes",
+        "reference-name": "From the Ashes",
         "name": "Das Cinzas",
-        "reference-park_name": "From The Ashes",
+        "reference-park_name": "From the Ashes",
         "park_name": "Das Cinzas",
         "reference-details": "An old park has fallen into disrepair. You gain a European Union grant to return this deprived area to its former glory! You need to renovate the park and repay the grant.",
         "details": "Um velho parque caiu em ruínas. Você ganha uma concessão da União Europeia para retornar essa área privada à sua antiga glória! Você precisa renovar o parque e reembolsar a concessão."
@@ -9168,9 +9184,9 @@
         "details": "Um parque já existente ficou sem espaço. Sua única opção é construir em cima do mar, e também você pegou um empréstimo. Restrições de altura nas suas construções são obrigatórias por causa das fundações e riscos de terremotos."
     },
     "rct2ww.scenario_meta.over_the_edge": {
-        "reference-name": "Over The Edge",
+        "reference-name": "Over the Edge",
         "name": "No limite",
-        "reference-park_name": "Over The Edge",
+        "reference-park_name": "Over the Edge",
         "park_name": "No limite",
         "reference-details": "A dam has been built offering abundant, cheap hydroelectric power with which to run a park. You need to reach a high park value to help repay the loan for the dam.",
         "details": "Uma barreira foi construída oferecendo energia hidroelétrica barata e abundante com a qual funcionará um parque. Você precisa atingir um alto valor de parque para ajudar a reembolsar o empréstimo para a barreira."
@@ -9272,19 +9288,19 @@
         "name": "Chaminé Lateral de Cabana de Troncos"
     },
     "rct2ww.scenery_large.1x4brg01": {
-        "reference-name": "Suspension Bridge Start side 1",
+        "reference-name": "Suspension Bridge Start side",
         "name": "Lado 1 do Início de Ponte Suspensa"
     },
     "rct2ww.scenery_large.1x4brg02": {
-        "reference-name": "Suspension Bridge Start side 2",
+        "reference-name": "Suspension Bridge Start side",
         "name": "Lado 2 do Início de Ponte Suspensa"
     },
     "rct2ww.scenery_large.1x4brg03": {
-        "reference-name": "Suspension Bridge Tower side 1",
+        "reference-name": "Suspension Bridge Tower side",
         "name": "Lado 1 da Torre de Ponte Suspensa"
     },
     "rct2ww.scenery_large.1x4brg04": {
-        "reference-name": "Suspension Bridge Tower side 2",
+        "reference-name": "Suspension Bridge Tower side",
         "name": "Lado 2 da Torre de Ponte Suspensa"
     },
     "rct2ww.scenery_large.1x4brg05": {
@@ -9296,11 +9312,11 @@
         "name": "Árvore Selvagem com Leopardo"
     },
     "rct2ww.scenery_large.3x3atre1": {
-        "reference-name": "Jungle Tree 2",
+        "reference-name": "Jungle Tree",
         "name": "Árvore Selvagem 2"
     },
     "rct2ww.scenery_large.3x3atre2": {
-        "reference-name": "Jungle Tree 1",
+        "reference-name": "Jungle Tree",
         "name": "Árvore Selvagem 1"
     },
     "rct2ww.scenery_large.3x3atre3": {
@@ -9380,11 +9396,11 @@
         "name": "Circo"
     },
     "rct2ww.scenery_large.cowboy01": {
-        "reference-name": "Cowboy 1",
+        "reference-name": "Cowboy",
         "name": "Vaqueiro 1"
     },
     "rct2ww.scenery_large.cowboy02": {
-        "reference-name": "Cowboy 2",
+        "reference-name": "Cowboy",
         "name": "Vaqueiro 2"
     },
     "rct2ww.scenery_large.damtower": {
@@ -9412,11 +9428,11 @@
         "name": "Buda Gordo"
     },
     "rct2ww.scenery_large.gdstaue1": {
-        "reference-name": "Gold Statue 1",
+        "reference-name": "Gold Statue",
         "name": "Estátua Dourada 1"
     },
     "rct2ww.scenery_large.gdstaue2": {
-        "reference-name": "Gold Statue 2",
+        "reference-name": "Gold Statue",
         "name": "Estátua Dourada 2"
     },
     "rct2ww.scenery_large.geisha": {
@@ -9424,11 +9440,11 @@
         "name": "Gueixa"
     },
     "rct2ww.scenery_large.giraffe1": {
-        "reference-name": "Giraffe 1",
+        "reference-name": "Giraffe",
         "name": "Girafa 1"
     },
     "rct2ww.scenery_large.giraffe2": {
-        "reference-name": "Giraffe 2",
+        "reference-name": "Giraffe",
         "name": "Girafa 2"
     },
     "rct2ww.scenery_large.goldbuda": {
@@ -9452,11 +9468,11 @@
         "name": "Heliponto"
     },
     "rct2ww.scenery_large.hippo01": {
-        "reference-name": "Hippo 1",
+        "reference-name": "Hippo",
         "name": "Hipopótamo 1"
     },
     "rct2ww.scenery_large.hippo02": {
-        "reference-name": "Hippo 2",
+        "reference-name": "Hippo",
         "name": "Hipopótamo 2"
     },
     "rct2ww.scenery_large.icefor01": {
@@ -9532,23 +9548,23 @@
         "name": "Árvore Pau-brasil"
     },
     "rct2ww.scenery_large.rkreml08": {
-        "reference-name": "Kremlin Large Tower Base",
+        "reference-name": "St. Basil’s Cathedral Large Tower Base",
         "name": "Base de Grande Torre do Kremlin"
     },
     "rct2ww.scenery_large.rkreml09": {
-        "reference-name": "Kremlin Large Tower Top",
+        "reference-name": "St. Basil’s Cathedral Large Tower Top",
         "name": "Topo de Grande Torre do Kremlin"
     },
     "rct2ww.scenery_large.rkreml10": {
-        "reference-name": "Kremlin Large Tower Mid-Section",
+        "reference-name": "St. Basil’s Cathedral Large Tower Mid-Section",
         "name": "Seção Intermediária de Grande Torre do Kremlin"
     },
     "rct2ww.scenery_large.rtudor05": {
-        "reference-name": "Tudor Roof Piece 3",
+        "reference-name": "Tudor Roof Piece",
         "name": "Peça de Telhado Tudor 3"
     },
     "rct2ww.scenery_large.rtudor06": {
-        "reference-name": "Tudor Roof Piece 4",
+        "reference-name": "Tudor Roof Piece",
         "name": "Peça de Telhado Tudor 4"
     },
     "rct2ww.scenery_large.shiva": {
@@ -9612,11 +9628,11 @@
         "name": "Ema"
     },
     "rct2ww.scenery_small.1x1jugt2": {
-        "reference-name": "Small Rainforest Tree 1",
+        "reference-name": "Small Rainforest Tree",
         "name": "Pequena Árvore Tropical 1"
     },
     "rct2ww.scenery_small.1x1jugt3": {
-        "reference-name": "Small Rainforest Tree 2",
+        "reference-name": "Small Rainforest Tree",
         "name": "Pequena Árvore Tropical 2"
     },
     "rct2ww.scenery_small.1x1kanga": {
@@ -9712,11 +9728,11 @@
         "name": "Flamingo Limpando as Penas"
     },
     "rct2ww.scenery_small.fountarc": {
-        "reference-name": "Australian Fountain Set 2",
+        "reference-name": "Australian Fountain Set",
         "name": "Conjunto de Fontes Australianas 2"
     },
     "rct2ww.scenery_small.fountrow": {
-        "reference-name": "Australian Fountain Set 1",
+        "reference-name": "Australian Fountain Set",
         "name": "Conjunto de Fontes Australianas 1"
     },
     "rct2ww.scenery_small.fstatue1": {
@@ -9872,15 +9888,15 @@
         "name": "Canto de Telhado de Tijolo Vermelho"
     },
     "rct2ww.scenery_small.rbrick05": {
-        "reference-name": "Red Brick Roof Piece 2",
+        "reference-name": "Red Brick Roof Piece",
         "name": "Peça de Telhado de Tijolo Vermelho 2"
     },
     "rct2ww.scenery_small.rbrick07": {
-        "reference-name": "Red Brick Roof Piece 3",
+        "reference-name": "Red Brick Roof Piece",
         "name": "Peça de Telhado de Tijolo Vermelho 3"
     },
     "rct2ww.scenery_small.rbrick08": {
-        "reference-name": "Red Brick Roof Piece 1",
+        "reference-name": "Red Brick Roof Piece",
         "name": "Peça de Telhado de Tijolo Vermelho 1"
     },
     "rct2ww.scenery_small.rcorr01": {
@@ -9924,7 +9940,7 @@
         "name": "Peça de Telhado Ondulado"
     },
     "rct2ww.scenery_small.rdrab05": {
-        "reference-name": "Drab Small Tower Minaret Base",
+        "reference-name": "Drab Small Tower Dome Base",
         "name": "Base de Pequena Torre de Minarete Gris"
     },
     "rct2ww.scenery_small.rdrab06": {
@@ -9936,71 +9952,71 @@
         "name": "Base de Pequena Torre Gris"
     },
     "rct2ww.scenery_small.rdrab08": {
-        "reference-name": "Drab Minaret Piece 1",
+        "reference-name": "Drab Dome Piece",
         "name": "Peça de Minarete Gris 1"
     },
     "rct2ww.scenery_small.rdrab09": {
-        "reference-name": "Drab Minaret Piece 2",
+        "reference-name": "Drab Dome Piece",
         "name": "Peça de Minarete Gris 2"
     },
     "rct2ww.scenery_small.rdrab10": {
-        "reference-name": "Drab Minaret Piece 3",
+        "reference-name": "Drab Dome Piece",
         "name": "Peça de Minarete Gris 3"
     },
     "rct2ww.scenery_small.rdrab11": {
-        "reference-name": "Drab Roof Piece 1",
+        "reference-name": "Drab Flat Roof Piece",
         "name": "Peça de Telhado Gris 1"
     },
     "rct2ww.scenery_small.rdrab12": {
-        "reference-name": "Drab Roof Piece 2",
+        "reference-name": "Drab Flat Roof Piece",
         "name": "Peça de Telhado Gris 2"
     },
     "rct2ww.scenery_small.rdrab13": {
-        "reference-name": "Drab Roof Piece 3",
+        "reference-name": "Drab Flat Roof Piece",
         "name": "Peça de Telhado Gris 3"
     },
     "rct2ww.scenery_small.rdrab14": {
-        "reference-name": "Drab Roof Piece 4",
+        "reference-name": "Drab Flat Roof Piece",
         "name": "Peça de Telhado Gris 4"
     },
     "rct2ww.scenery_small.rgeorg01": {
-        "reference-name": "Georgian Roof End Piece 1",
+        "reference-name": "Georgian Roof End Piece",
         "name": "Peça Final de Telhado Georgiano 1"
     },
     "rct2ww.scenery_small.rgeorg02": {
-        "reference-name": "Georgian Roof End Piece 2",
+        "reference-name": "Georgian Roof End Piece",
         "name": "Peça Final de Telhado Georgiano 2"
     },
     "rct2ww.scenery_small.rgeorg03": {
-        "reference-name": "Georgian Roof Piece 1",
+        "reference-name": "Georgian Roof Piece",
         "name": "Peça de Telhado Georgiano 1"
     },
     "rct2ww.scenery_small.rgeorg04": {
-        "reference-name": "Georgian Roof Piece 2",
+        "reference-name": "Georgian Roof Piece",
         "name": "Peça de Telhado Georgiano 2"
     },
     "rct2ww.scenery_small.rgeorg05": {
-        "reference-name": "Georgian Roof Piece 3",
+        "reference-name": "Georgian Roof Piece",
         "name": "Peça de Telhado Georgiano 3"
     },
     "rct2ww.scenery_small.rgeorg06": {
-        "reference-name": "Georgian Roof Piece 4",
+        "reference-name": "Georgian Roof Piece",
         "name": "Peça de Telhado Georgiano 4"
     },
     "rct2ww.scenery_small.rgeorg07": {
-        "reference-name": "Georgian Roof Piece 5",
+        "reference-name": "Georgian Roof Piece",
         "name": "Peça de Telhado Georgiano 5"
     },
     "rct2ww.scenery_small.rgeorg08": {
-        "reference-name": "Georgian Ground Floor Wall Piece 7",
+        "reference-name": "Georgian Ground Floor Wall Piece",
         "name": "Peça de Parede Georgiana do Andar Térreo 7"
     },
     "rct2ww.scenery_small.rgeorg09": {
-        "reference-name": "Georgian Flat Roof Edge 1",
+        "reference-name": "Georgian Flat Roof Edge",
         "name": "Borda de Telhado Georgiano 1"
     },
     "rct2ww.scenery_small.rgeorg10": {
-        "reference-name": "Georgian Flat Roof Edge 2",
+        "reference-name": "Georgian Flat Roof Edge",
         "name": "Borda de Telhado Georgiano 2"
     },
     "rct2ww.scenery_small.rgeorg11": {
@@ -10008,39 +10024,39 @@
         "name": "Canto de Telhado Georgiano Plano"
     },
     "rct2ww.scenery_small.rgeorg12": {
-        "reference-name": "Georgian Roof Piece 7",
+        "reference-name": "Georgian Roof Piece",
         "name": "Peça de Telhado Georgiano 7"
     },
     "rct2ww.scenery_small.rkreml01": {
-        "reference-name": "Kremlin Minaret Piece 1",
-        "name": "Peça de Minarete do Kremlin 1"
-    },
-    "rct2ww.scenery_small.rkreml02": {
-        "reference-name": "Kremlin Minaret Piece 2",
-        "name": "Peça de Minarete do Kremlin 2"
-    },
-    "rct2ww.scenery_small.rkreml03": {
-        "reference-name": "Kremlin Minaret Piece 3",
-        "name": "Peça de Minarete do Kremlin 3"
-    },
-    "rct2ww.scenery_small.rkreml04": {
-        "reference-name": "Kremlin Roof Piece 1",
+        "reference-name": "St. Basil’s Cathedral Flat Roof Piece",
         "name": "Peça de Telhado do Kremlin 1"
     },
-    "rct2ww.scenery_small.rkreml05": {
-        "reference-name": "Kremlin Roof Piece 2",
+    "rct2ww.scenery_small.rkreml02": {
+        "reference-name": "St. Basil’s Cathedral Flat Roof Piece",
         "name": "Peça de Telhado do Kremlin 2"
     },
+    "rct2ww.scenery_small.rkreml03": {
+        "reference-name": "St. Basil’s Cathedral Dome Piece",
+        "name": "Peça de Minarete do Kremlin 2"
+    },
+    "rct2ww.scenery_small.rkreml04": {
+        "reference-name": "St. Basil’s Cathedral Dome Piece",
+        "name": "Peça de Minarete do Kremlin 3"
+    },
+    "rct2ww.scenery_small.rkreml05": {
+        "reference-name": "St. Basil’s Cathedral Dome Piece",
+        "name": "Peça de Minarete do Kremlin 1"
+    },
     "rct2ww.scenery_small.rkreml06": {
-        "reference-name": "Kremlin Small Tower Mid-Section",
+        "reference-name": "St. Basil’s Cathedral Small Tower Mid-Section",
         "name": "Seção Intermediária de Torre Pequena do Kremlin"
     },
     "rct2ww.scenery_small.rkreml07": {
-        "reference-name": "Kremlin Small Tower Base",
+        "reference-name": "St. Basil’s Cathedral Small Tower Base",
         "name": "Base de Torre Pequena do Kremlin"
     },
     "rct2ww.scenery_small.rkreml11": {
-        "reference-name": "Kremlin Small Tower Minaret Base",
+        "reference-name": "St. Basil’s Cathedral Small Tower Dome Base",
         "name": "Base de Domo da Torre Pequena do Kremlin"
     },
     "rct2ww.scenery_small.rlog01": {
@@ -10152,15 +10168,15 @@
         "name": "Telhado Shōji"
     },
     "rct2ww.scenery_small.rtudor01": {
-        "reference-name": "Tudor Roof Piece 1",
+        "reference-name": "Tudor Roof Piece",
         "name": "Peça de Telhado Tudor 1"
     },
     "rct2ww.scenery_small.rtudor02": {
-        "reference-name": "Tudor Roof Piece 1 Extender Piece",
+        "reference-name": "Tudor Roof Extender Piece",
         "name": "Peça de Telhado Tudor 1 Peça de Extensão"
     },
     "rct2ww.scenery_small.rtudor03": {
-        "reference-name": "Tudor Roof Piece 2",
+        "reference-name": "Tudor Roof Piece",
         "name": "Peça de Telhado Tudor 2"
     },
     "rct2ww.scenery_small.rwdaub01": {
@@ -10268,23 +10284,23 @@
         "name": "Peça de Elevador do Arranha-céu"
     },
     "rct2ww.scenery_small.sbskys05": {
-        "reference-name": "Skyscraper Metal Set 1 Convex Piece",
+        "reference-name": "Skyscraper Metal Set Convex Piece",
         "name": "Peça Convexa de Conjunto de Metal 1 do Arranha-céu"
     },
     "rct2ww.scenery_small.sbskys06": {
-        "reference-name": "Skyscraper Metal Set 1 Concave Piece",
+        "reference-name": "Skyscraper Metal Set Concave Piece",
         "name": "Peça Côncava de Conjunto de Metal 1 do Arranha-céu"
     },
     "rct2ww.scenery_small.sbskys07": {
-        "reference-name": "Skyscraper Metal Set 2 Convex Piece",
+        "reference-name": "Skyscraper Metal Set Convex Piece",
         "name": "Peça Convexa de Conjunto de Metal 2 do Arranha-céu"
     },
     "rct2ww.scenery_small.sbskys08": {
-        "reference-name": "Skyscraper Metal Set 2 Concave Piece",
+        "reference-name": "Skyscraper Metal Set Concave Piece",
         "name": "Peça Côncava de Conjunto de Metal 2 do Arranha-céu"
     },
     "rct2ww.scenery_small.sbskys09": {
-        "reference-name": "Skyscraper Metal Set 2 Concave Piece",
+        "reference-name": "Skyscraper Metal Set Concave Piece",
         "name": "Peça Côncava de Conjunto de Metal 2 do Arranha-céu"
     },
     "rct2ww.scenery_small.sbskys10": {
@@ -10784,71 +10800,71 @@
         "name": "Fonte Monumental"
     },
     "rct2ww.scenery_small.wdrab09": {
-        "reference-name": "Drab Step-up Piece 1",
+        "reference-name": "Drab Step-up Piece",
         "name": "Peça de Subida Gris 1"
     },
     "rct2ww.scenery_small.wdrab10": {
-        "reference-name": "Drab Wall Piece 9",
+        "reference-name": "Drab Wall Piece",
         "name": "Peça de Parede Gris 9"
     },
     "rct2ww.scenery_small.wdrab11": {
-        "reference-name": "Drab Wall Piece 10",
+        "reference-name": "Drab Wall Piece",
         "name": "Peça de Parede Gris 10"
     },
     "rct2ww.scenery_small.wdrab12": {
-        "reference-name": "Drab Wall Piece 11",
+        "reference-name": "Drab Wall Piece",
         "name": "Peça de Parede Gris 11"
     },
     "rct2ww.scenery_small.wdrab13": {
-        "reference-name": "Drab Step-up Piece 2",
+        "reference-name": "Drab Step-up Piece",
         "name": "Peça de Subida Gris 9"
     },
     "rct2ww.scenery_small.wgeorg07": {
-        "reference-name": "Georgian Ground Floor Wall Piece 4",
+        "reference-name": "Georgian Ground Floor Wall Piece",
         "name": "Peça de Parede Georgiana do Andar Térreo 4"
     },
     "rct2ww.scenery_small.wgeorg08": {
-        "reference-name": "Georgian Ground Floor Wall Piece 5",
+        "reference-name": "Georgian Ground Floor Wall Piece",
         "name": "Peça de Parede Georgiana do Andar Térreo 5"
     },
     "rct2ww.scenery_small.wgeorg09": {
-        "reference-name": "Georgian Ground Floor Wall Piece 6",
+        "reference-name": "Georgian Ground Floor Wall Piece",
         "name": "Peça de Parede Georgiana do Andar Térreo 6"
     },
     "rct2ww.scenery_small.wgeorg10": {
-        "reference-name": "Georgian Wall Piece 4",
+        "reference-name": "Georgian Wall Piece",
         "name": "Peça de Parede Georgiana 4"
     },
     "rct2ww.scenery_small.wgeorg11": {
-        "reference-name": "Georgian Wall Piece 5",
+        "reference-name": "Georgian Wall Piece",
         "name": "Peça de Parede Georgiana 5"
     },
     "rct2ww.scenery_small.wgeorg12": {
-        "reference-name": "Georgian Wall Piece 6",
+        "reference-name": "Georgian Wall Piece",
         "name": "Peça de Parede Georgiana 6"
     },
     "rct2ww.scenery_small.wkreml01": {
-        "reference-name": "Kremlin Step-up Wall Piece 1",
+        "reference-name": "St. Basil’s Cathedral Step-up Wall Piece",
         "name": "Peça de Parede de Subida do Kremlim 1"
     },
     "rct2ww.scenery_small.wkreml02": {
-        "reference-name": "Kremlin Step-up Wall Piece 2",
+        "reference-name": "St. Basil’s Cathedral Step-up Wall Piece",
         "name": "Peça de Parede de Subida do Kremlim 2"
     },
     "rct2ww.scenery_small.wkreml03": {
-        "reference-name": "Kremlin Wall Piece 1",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "Peça de Parede do Kremlim 1"
     },
     "rct2ww.scenery_small.wkreml04": {
-        "reference-name": "Kremlin Wall Piece 2",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "Peça de Parede do Kremlim 2"
     },
     "rct2ww.scenery_small.wkreml05": {
-        "reference-name": "Kremlin Wall Piece 3",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "Peça de Parede do Kremlim 3"
     },
     "rct2ww.scenery_small.wkreml06": {
-        "reference-name": "Kremlin Wall Piece 4",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "Peça de Parede do Kremlim 4"
     },
     "rct2ww.scenery_small.wmayan01": {
@@ -10980,7 +10996,7 @@
         "name": "Gradeamento de Telhado Náutico"
     },
     "rct2ww.scenery_small.wtudor12": {
-        "reference-name": "Tudor Wall Piece 4",
+        "reference-name": "Tudor Wall Piece",
         "name": "Peça de Parede Tudor 4"
     },
     "rct2ww.scenery_small.wtudor13": {
@@ -10988,31 +11004,31 @@
         "name": "Peça de Parede de Baía de Solo Tudor 4"
     },
     "rct2ww.scenery_small.wtudor14": {
-        "reference-name": "Tudor Ground Floor Wall Piece 1",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "Peça da Parede do Andar Térreo Tudor 1"
     },
     "rct2ww.scenery_small.wtudor15": {
-        "reference-name": "Tudor Ground Floor Wall Piece 2",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "Peça da Parede do Andar Térreo Tudor 2"
     },
     "rct2ww.scenery_small.wtudor16": {
-        "reference-name": "Tudor Ground Floor Wall Piece 3",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "Peça da Parede do Andar Térreo Tudor 3"
     },
     "rct2ww.scenery_small.wtudor17": {
-        "reference-name": "Tudor Ground Floor Wall Piece 4",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "Peça da Parede do Andar Térreo Tudor 4"
     },
     "rct2ww.scenery_small.wtudor18": {
-        "reference-name": "Tudor Ground Floor Wall Piece 5",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "Peça da Parede do Andar Térreo Tudor 5"
     },
     "rct2ww.scenery_wall.tmarch1": {
-        "reference-name": "Maharaja Palace Arch 1",
+        "reference-name": "Maharaja Palace Arch",
         "name": "Arco do Palácio do Marajá 1"
     },
     "rct2ww.scenery_wall.tmarch2": {
-        "reference-name": "Maharaja Palace Arch 2",
+        "reference-name": "Maharaja Palace Arch",
         "name": "Arco do Palácio do Marajá 2"
     },
     "rct2ww.scenery_wall.w2corr01": {
@@ -11224,39 +11240,39 @@
         "name": "Parede de Bambu"
     },
     "rct2ww.scenery_wall.wbrick01": {
-        "reference-name": "Red Brick Wall Piece 1",
+        "reference-name": "Red Brick Wall Piece",
         "name": "Peça de Parede de Tijolo Vermelho 1"
     },
     "rct2ww.scenery_wall.wbrick02": {
-        "reference-name": "Red Brick Wall Piece 2",
+        "reference-name": "Red Brick Wall Piece",
         "name": "Peça de Parede de Tijolo Vermelho 2"
     },
     "rct2ww.scenery_wall.wbrick03": {
-        "reference-name": "Red Brick Wall Piece 3",
+        "reference-name": "Red Brick Wall Piece",
         "name": "Peça de Parede de Tijolo Vermelho 3"
     },
     "rct2ww.scenery_wall.wbrick04": {
-        "reference-name": "Red Brick Wall Piece 4",
+        "reference-name": "Red Brick Wall Piece",
         "name": "Peça de Parede de Tijolo Vermelho 4"
     },
     "rct2ww.scenery_wall.wbrick05": {
-        "reference-name": "Red Brick Wall Piece 5",
+        "reference-name": "Red Brick Wall Piece",
         "name": "Peça de Parede de Tijolo Vermelho 5"
     },
     "rct2ww.scenery_wall.wbrick08": {
-        "reference-name": "Red Brick Wall Piece 8",
+        "reference-name": "Red Brick Wall Piece",
         "name": "Peça de Parede de Tijolo Vermelho 8"
     },
     "rct2ww.scenery_wall.wbrick11": {
-        "reference-name": "Red Brick Wall Piece 11",
+        "reference-name": "Red Brick Wall Piece",
         "name": "Peça de Parede de Tijolo Vermelho 11"
     },
     "rct2ww.scenery_wall.wbrick12": {
-        "reference-name": "Red Brick Wall Piece 12",
+        "reference-name": "Red Brick Wall Piece",
         "name": "Peça de Parede de Tijolo Vermelho 12"
     },
     "rct2ww.scenery_wall.wbrick13": {
-        "reference-name": "Red Brick Wall Piece 13",
+        "reference-name": "Red Brick Wall Piece",
         "name": "Peça de Parede de Tijolo Vermelho 13"
     },
     "rct2ww.scenery_wall.wcorr01": {
@@ -11324,59 +11340,59 @@
         "name": "Peça de Parede Ondulada"
     },
     "rct2ww.scenery_wall.wdrab01": {
-        "reference-name": "Drab Wall Piece 1",
+        "reference-name": "Drab Wall Piece",
         "name": "Peça de Parede Gris 1"
     },
     "rct2ww.scenery_wall.wdrab02": {
-        "reference-name": "Drab Wall Piece 2",
+        "reference-name": "Drab Wall Piece",
         "name": "Peça de Parede Gris 2"
     },
     "rct2ww.scenery_wall.wdrab03": {
-        "reference-name": "Drab Wall Piece 3",
+        "reference-name": "Drab Wall Piece",
         "name": "Peça de Parede Gris 3"
     },
     "rct2ww.scenery_wall.wdrab04": {
-        "reference-name": "Drab Wall Piece 4",
+        "reference-name": "Drab Wall Piece",
         "name": "Peça de Parede Gris 4"
     },
     "rct2ww.scenery_wall.wdrab05": {
-        "reference-name": "Drab Wall Piece 5",
+        "reference-name": "Drab Wall Piece",
         "name": "Peça de Parede Gris 5"
     },
     "rct2ww.scenery_wall.wdrab06": {
-        "reference-name": "Drab Wall Piece 6",
+        "reference-name": "Drab Wall Piece",
         "name": "Peça de Parede Gris 6"
     },
     "rct2ww.scenery_wall.wdrab07": {
-        "reference-name": "Drab Wall Piece 7",
+        "reference-name": "Drab Wall Piece",
         "name": "Peça de Parede Gris 7"
     },
     "rct2ww.scenery_wall.wdrab08": {
-        "reference-name": "Drab Wall Piece 8",
+        "reference-name": "Drab Wall Piece",
         "name": "Peça de Parede Gris 8"
     },
     "rct2ww.scenery_wall.wgeorg01": {
-        "reference-name": "Georgian Wall Piece 1",
+        "reference-name": "Georgian Wall Piece",
         "name": "Peça de Parede Georgiana 1"
     },
     "rct2ww.scenery_wall.wgeorg02": {
-        "reference-name": "Georgian Ground Floor Wall Piece 1",
+        "reference-name": "Georgian Ground Floor Wall Piece",
         "name": "Peça de Parede Georgiana do Andar Térreo 1"
     },
     "rct2ww.scenery_wall.wgeorg03": {
-        "reference-name": "Georgian Wall Piece 2",
+        "reference-name": "Georgian Wall Piece",
         "name": "Peça de Parede Georgiana 2"
     },
     "rct2ww.scenery_wall.wgeorg04": {
-        "reference-name": "Georgian Ground Floor Wall Piece 2",
+        "reference-name": "Georgian Ground Floor Wall Piece",
         "name": "Peça de Parede Georgiana do Andar Térreo 2"
     },
     "rct2ww.scenery_wall.wgeorg05": {
-        "reference-name": "Georgian Wall Piece 3",
+        "reference-name": "Georgian Wall Piece",
         "name": "Peça de Parede Georgiana 3"
     },
     "rct2ww.scenery_wall.wgeorg06": {
-        "reference-name": "Georgian Ground Floor Wall Piece 3",
+        "reference-name": "Georgian Ground Floor Wall Piece",
         "name": "Peça de Parede Georgiana do Andar Térreo 3"
     },
     "rct2ww.scenery_wall.wgwoc1": {
@@ -11400,19 +11416,19 @@
         "name": "Parede de Iglu"
     },
     "rct2ww.scenery_wall.wkreml07": {
-        "reference-name": "Kremlin Wall Piece 5",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "Peça de Parede do Kremlin 5"
     },
     "rct2ww.scenery_wall.wkreml08": {
-        "reference-name": "Kremlin Wall Piece 6",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "Peça de Parede do Kremlin 6"
     },
     "rct2ww.scenery_wall.wkreml09": {
-        "reference-name": "Kremlin Wall Piece 7",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "Peça de Parede do Kremlin 7"
     },
     "rct2ww.scenery_wall.wkreml10": {
-        "reference-name": "Kremlin Wall Piece 8",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "Peça de Parede do Kremlin 8"
     },
     "rct2ww.scenery_wall.wlog01": {
@@ -11612,15 +11628,15 @@
         "name": "Parede Shōji"
     },
     "rct2ww.scenery_wall.wskysc01": {
-        "reference-name": "Skyscraper Metal Set 2 Wall Piece",
+        "reference-name": "Skyscraper Metal Set Wall Piece",
         "name": "Peça do Conjunto de Metal 2 da Parede do Arranha-céu"
     },
     "rct2ww.scenery_wall.wskysc02": {
-        "reference-name": "Skyscraper Metal Set 2 Wall Piece",
+        "reference-name": "Skyscraper Metal Set Wall Piece",
         "name": "Peça do Conjunto de Metal 2 da Parede do Arranha-céu"
     },
     "rct2ww.scenery_wall.wskysc03": {
-        "reference-name": "Skyscraper Metal Set 1 Wall Piece",
+        "reference-name": "Skyscraper Metal Set Wall Piece",
         "name": "Peça do Conjunto de Metal 1 da Parede do Arranha-céu"
     },
     "rct2ww.scenery_wall.wskysc04": {
@@ -11660,47 +11676,47 @@
         "name": "Peça de Parede de Arranha-céu de Pedra"
     },
     "rct2ww.scenery_wall.wtudor01": {
-        "reference-name": "Tudor Ground Floor Wall Piece 1",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "Peça da Parede do Andar Térreo Tudor 1"
     },
     "rct2ww.scenery_wall.wtudor02": {
-        "reference-name": "Tudor Ground Floor Wall Piece 2",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "Peça da Parede do Andar Térreo Tudor 2"
     },
     "rct2ww.scenery_wall.wtudor03": {
-        "reference-name": "Tudor Ground Floor Wall Piece 3",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "Peça da Parede do Andar Térreo Tudor 3"
     },
     "rct2ww.scenery_wall.wtudor04": {
-        "reference-name": "Tudor Ground Floor Wall Piece 4",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "Peça da Parede do Andar Térreo Tudor 4"
     },
     "rct2ww.scenery_wall.wtudor05": {
-        "reference-name": "Tudor Ground Floor Wall Piece 5",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "Peça da Parede do Andar Térreo Tudor 5"
     },
     "rct2ww.scenery_wall.wtudor06": {
-        "reference-name": "Tudor Ground Floor Wall Piece 6",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "Peça da Parede do Andar Térreo Tudor 6"
     },
     "rct2ww.scenery_wall.wtudor07": {
-        "reference-name": "Tudor Ground Floor Wall Piece 7",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "Peça da Parede do Andar Térreo Tudor 7"
     },
     "rct2ww.scenery_wall.wtudor08": {
-        "reference-name": "Tudor Ground Floor Wall Piece 8",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "Peça da Parede do Andar Térreo Tudor 8"
     },
     "rct2ww.scenery_wall.wtudor09": {
-        "reference-name": "Tudor Wall Piece 1",
+        "reference-name": "Tudor Wall Piece",
         "name": "Peça da Parede Tudor 1"
     },
     "rct2ww.scenery_wall.wtudor10": {
-        "reference-name": "Tudor Wall Piece 2",
+        "reference-name": "Tudor Wall Piece",
         "name": "Peça da Parede Tudor 2"
     },
     "rct2ww.scenery_wall.wtudor11": {
-        "reference-name": "Tudor Wall Piece 3",
+        "reference-name": "Tudor Wall Piece",
         "name": "Peça da Parede Tudor 3"
     },
     "rct2ww.scenery_wall.wwdaub01": {

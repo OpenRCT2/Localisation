@@ -635,6 +635,10 @@
         "reference-name": "Iron",
         "name": "IJzer"
     },
+    "rct1.water.natural_water": {
+        "reference-name": "Natural Water",
+        "name": "Natuurlijk water"
+    },
     "rct1aa.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Square)",
         "name": "Sintelpad (rechte hoeken)"
@@ -1108,8 +1112,8 @@
         "name": "Wilde bloemen"
     },
     "rct1dlc.scenario_meta.bobsled_roller_coaster_competition": {
-        "reference-name": "Bobsled Roller Coaster Competition",
-        "name": "Bobsled Roller Coaster Competition",
+        "reference-name": "Bobsleigh Roller Coaster Competition",
+        "name": "Bobsleigh Roller Coaster Competition",
         "reference-park_name": "Competition Land",
         "park_name": "Competition Land",
         "reference-details": "",
@@ -3276,10 +3280,10 @@
         "details": "Maak je eigen versie van dit enorme Six Flags-park."
     },
     "rct2.scenario_meta.build_your_own_six_flags_over_texas": {
-        "reference-name": "Build your own Six Flags over Texas",
-        "name": "Bouw je eigen Six Flags over Texas",
-        "reference-park_name": "Six Flags over Texas",
-        "park_name": "Six Flags over Texas",
+        "reference-name": "Build your own Six Flags Over Texas",
+        "name": "Bouw je eigen Six Flags Over Texas",
+        "reference-park_name": "Six Flags Over Texas",
+        "park_name": "Six Flags Over Texas",
         "reference-details": "Starting from scratch, build the rides in this Six Flags park",
         "details": "Maak je eigen versie van dit Six Flags-park."
     },
@@ -3420,10 +3424,10 @@
         "details": "Bouw de ontbrekende Six Flags-attracties, of maak je eigen ontwerpen om het park te verbeteren! Maar vergeet je uiteindelijke doel niet: je lening terugbetalen terwijl je de waarde van je park laat stijgen!"
     },
     "rct2.scenario_meta.six_flags_over_texas": {
-        "reference-name": "Six Flags over Texas",
-        "name": "Six Flags over Texas",
-        "reference-park_name": "Six Flags over Texas",
-        "park_name": "Six Flags over Texas",
+        "reference-name": "Six Flags Over Texas",
+        "name": "Six Flags Over Texas",
+        "reference-park_name": "Six Flags Over Texas",
+        "park_name": "Six Flags Over Texas",
         "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
         "details": "Bouw de ontbrekende Six Flags-attracties, of maak je eigen ontwerpen om het park te verbeteren! Maar vergeet je uiteindelijke doel niet: meer bezoekers naar het park halen!"
     },
@@ -5707,11 +5711,19 @@
         "reference-name": "Acid Green Water",
         "name": "Gifgroen water"
     },
+    "rct2.water.wtrgreen_fix": {
+        "reference-name": "Acid Green Water",
+        "name": "Gifgroen water"
+    },
     "rct2.water.wtrgrn": {
         "reference-name": "Green Water",
         "name": "Groen water"
     },
     "rct2.water.wtrorng": {
+        "reference-name": "Orange Water",
+        "name": "Oranje water"
+    },
+    "rct2.water.wtrorng_fix": {
         "reference-name": "Orange Water",
         "name": "Oranje water"
     },
@@ -5748,6 +5760,10 @@
         "name": "Bamboescheuten"
     },
     "rct2dlc.water.wtrpink": {
+        "reference-name": "Pink Water",
+        "name": "Roze water"
+    },
+    "rct2dlc.water.wtrpink_fix": {
         "reference-name": "Pink Water",
         "name": "Roze water"
     },
@@ -9112,10 +9128,10 @@
         "details": "Je bent aangesteld om het beheer over een attractiepark over de Europese cultuur over te nemen. Je moet het aantal bezoekers verhogen om de EU-subsidie terug te betalen voor het einde van de huidige termijn van het Europees Parlement."
     },
     "rct2ww.scenario_meta.from_the_ashes": {
-        "reference-name": "From The Ashes",
-        "name": "From The Ashes",
-        "reference-park_name": "From The Ashes",
-        "park_name": "From The Ashes",
+        "reference-name": "From the Ashes",
+        "name": "From the Ashes",
+        "reference-park_name": "From the Ashes",
+        "park_name": "From the Ashes",
         "reference-details": "An old park has fallen into disrepair. You gain a European Union grant to return this deprived area to its former glory! You need to renovate the park and repay the grant.",
         "details": "Een oud park is vervallen. Je hebt een lening van de Europese Unie gekregen om het troosteloze terrein weer in oude luister te herstellen! Je moet het park renoveren en de lening terugbetalen."
     },
@@ -9168,10 +9184,10 @@
         "details": "Een bestaand pretpark heeft geen ruimte meer. Je enige optie is om naar de zee uit te breiden, waarvoor je geld hebt geleend. Vanwege het aardbevingsgevaar zijn er hoogtebeperkingen van kracht."
     },
     "rct2ww.scenario_meta.over_the_edge": {
-        "reference-name": "Over The Edge",
-        "name": "Over The Edge",
-        "reference-park_name": "Over The Edge",
-        "park_name": "Over The Edge",
+        "reference-name": "Over the Edge",
+        "name": "Over the Edge",
+        "reference-park_name": "Over the Edge",
+        "park_name": "Over the Edge",
         "reference-details": "A dam has been built offering abundant, cheap hydroelectric power with which to run a park. You need to reach a high park value to help repay the loan for the dam.",
         "details": "Er is een stuwdam gebouwd die goedkope energie in overvloed levert voor je park. Je moet een hoge parkwaarde bereiken om de lening voor de dam terug te betalen."
     },
@@ -9272,20 +9288,20 @@
         "name": "Zijschoorsteen blokhut"
     },
     "rct2ww.scenery_large.1x4brg01": {
-        "reference-name": "Suspension Bridge Start side 1",
-        "name": "Begingedeelte hangbrug 1"
+        "reference-name": "Suspension Bridge Start side",
+        "name": "Begingedeelte hangbrug"
     },
     "rct2ww.scenery_large.1x4brg02": {
-        "reference-name": "Suspension Bridge Start side 2",
-        "name": "Begingedeelte hangbrug 2"
+        "reference-name": "Suspension Bridge Start side",
+        "name": "Begingedeelte hangbrug"
     },
     "rct2ww.scenery_large.1x4brg03": {
-        "reference-name": "Suspension Bridge Tower side 1",
-        "name": "Torengedeelte hangbrug 1"
+        "reference-name": "Suspension Bridge Tower side",
+        "name": "Torengedeelte hangbrug"
     },
     "rct2ww.scenery_large.1x4brg04": {
-        "reference-name": "Suspension Bridge Tower side 2",
-        "name": "Torengedeelte hangbrug 2"
+        "reference-name": "Suspension Bridge Tower side",
+        "name": "Torengedeelte hangbrug"
     },
     "rct2ww.scenery_large.1x4brg05": {
         "reference-name": "Suspension Bridge Cable Section",
@@ -9296,12 +9312,12 @@
         "name": "Jungleboom met luipaarden"
     },
     "rct2ww.scenery_large.3x3atre1": {
-        "reference-name": "Jungle Tree 2",
-        "name": "Jungleboom 2"
+        "reference-name": "Jungle Tree",
+        "name": "Jungleboom"
     },
     "rct2ww.scenery_large.3x3atre2": {
-        "reference-name": "Jungle Tree 1",
-        "name": "Jungleboom 1"
+        "reference-name": "Jungle Tree",
+        "name": "Jungleboom"
     },
     "rct2ww.scenery_large.3x3atre3": {
         "reference-name": "Jungle Tree with Vines",
@@ -9380,12 +9396,12 @@
         "name": "Circus"
     },
     "rct2ww.scenery_large.cowboy01": {
-        "reference-name": "Cowboy 1",
-        "name": "Cowboy 1"
+        "reference-name": "Cowboy",
+        "name": "Cowboy"
     },
     "rct2ww.scenery_large.cowboy02": {
-        "reference-name": "Cowboy 2",
-        "name": "Cowboy 2"
+        "reference-name": "Cowboy",
+        "name": "Cowboy"
     },
     "rct2ww.scenery_large.damtower": {
         "reference-name": "Dam Tower",
@@ -9397,7 +9413,7 @@
     },
     "rct2ww.scenery_large.easerlnd": {
         "reference-name": "Easter Island Statue",
-        "name": "Beeld Paaseiland 1"
+        "name": "Beeld Paaseiland"
     },
     "rct2ww.scenery_large.eiffel": {
         "reference-name": "Eiffel Tower",
@@ -9412,24 +9428,24 @@
         "name": "Dikke Boeddha"
     },
     "rct2ww.scenery_large.gdstaue1": {
-        "reference-name": "Gold Statue 1",
-        "name": "Gouden standbeeld 1"
+        "reference-name": "Gold Statue",
+        "name": "Gouden standbeeld"
     },
     "rct2ww.scenery_large.gdstaue2": {
-        "reference-name": "Gold Statue 2",
-        "name": "Gouden standbeeld 2"
+        "reference-name": "Gold Statue",
+        "name": "Gouden standbeeld"
     },
     "rct2ww.scenery_large.geisha": {
         "reference-name": "Geisha",
         "name": "Geisha"
     },
     "rct2ww.scenery_large.giraffe1": {
-        "reference-name": "Giraffe 1",
-        "name": "Giraffe 1"
+        "reference-name": "Giraffe",
+        "name": "Giraffe"
     },
     "rct2ww.scenery_large.giraffe2": {
-        "reference-name": "Giraffe 2",
-        "name": "Giraffe 2"
+        "reference-name": "Giraffe",
+        "name": "Giraffe"
     },
     "rct2ww.scenery_large.goldbuda": {
         "reference-name": "Golden Buddha",
@@ -9452,11 +9468,11 @@
         "name": "Landingsplaats Helikopter"
     },
     "rct2ww.scenery_large.hippo01": {
-        "reference-name": "Hippo 1",
+        "reference-name": "Hippo",
         "name": "Nijlpaard"
     },
     "rct2ww.scenery_large.hippo02": {
-        "reference-name": "Hippo 2",
+        "reference-name": "Hippo",
         "name": "Nijlpaard"
     },
     "rct2ww.scenery_large.icefor01": {
@@ -9473,7 +9489,7 @@
     },
     "rct2ww.scenery_large.largeju1": {
         "reference-name": "Large Rainforest Tree",
-        "name": "Regenwoudboom 4"
+        "name": "Regenwoudboom"
     },
     "rct2ww.scenery_large.lincolns": {
         "reference-name": "Washington Statue",
@@ -9532,24 +9548,24 @@
         "name": "Redwood-boom"
     },
     "rct2ww.scenery_large.rkreml08": {
-        "reference-name": "Kremlin Large Tower Base",
-        "name": "Grote basis toren Kremlin"
+        "reference-name": "St. Basil’s Cathedral Large Tower Base",
+        "name": "Grote basis toren Basiliuskathedraal"
     },
     "rct2ww.scenery_large.rkreml09": {
-        "reference-name": "Kremlin Large Tower Top",
-        "name": "Grote top toren Kremlin"
+        "reference-name": "St. Basil’s Cathedral Large Tower Top",
+        "name": "Grote top toren Basiliuskathedraal"
     },
     "rct2ww.scenery_large.rkreml10": {
-        "reference-name": "Kremlin Large Tower Mid-Section",
-        "name": "Groot middengedeelte toren Kremlin"
+        "reference-name": "St. Basil’s Cathedral Large Tower Mid-Section",
+        "name": "Groot middengedeelte toren Basiliuskathedraal"
     },
     "rct2ww.scenery_large.rtudor05": {
-        "reference-name": "Tudor Roof Piece 3",
-        "name": "Stuk dak in Tudorstijl 3"
+        "reference-name": "Tudor Roof Piece",
+        "name": "Stuk dak in Tudorstijl"
     },
     "rct2ww.scenery_large.rtudor06": {
-        "reference-name": "Tudor Roof Piece 4",
-        "name": "Stuk dak in Tudorstijl 4"
+        "reference-name": "Tudor Roof Piece",
+        "name": "Stuk dak in Tudorstijl"
     },
     "rct2ww.scenery_large.shiva": {
         "reference-name": "Shiva",
@@ -9612,12 +9628,12 @@
         "name": "Emoe"
     },
     "rct2ww.scenery_small.1x1jugt2": {
-        "reference-name": "Small Rainforest Tree 1",
-        "name": "Kleine regenwoudboom 1"
+        "reference-name": "Small Rainforest Tree",
+        "name": "Kleine regenwoudboom"
     },
     "rct2ww.scenery_small.1x1jugt3": {
-        "reference-name": "Small Rainforest Tree 2",
-        "name": "Kleine regenwoudboom 2"
+        "reference-name": "Small Rainforest Tree",
+        "name": "Kleine regenwoudboom"
     },
     "rct2ww.scenery_small.1x1kanga": {
         "reference-name": "Kangaroo",
@@ -9712,12 +9728,12 @@
         "name": "Flamingo die veren gladstrijkt"
     },
     "rct2ww.scenery_small.fountarc": {
-        "reference-name": "Australian Fountain Set 2",
-        "name": "Stuk Australische fontein 2"
+        "reference-name": "Australian Fountain Set",
+        "name": "Stuk Australische fontein"
     },
     "rct2ww.scenery_small.fountrow": {
-        "reference-name": "Australian Fountain Set 1",
-        "name": "Stuk Australische fontein 1"
+        "reference-name": "Australian Fountain Set",
+        "name": "Stuk Australische fontein"
     },
     "rct2ww.scenery_small.fstatue1": {
         "reference-name": "Fixed Statue",
@@ -9872,16 +9888,16 @@
         "name": "Hoekstuk voor plat dak van rode baksteen"
     },
     "rct2ww.scenery_small.rbrick05": {
-        "reference-name": "Red Brick Roof Piece 2",
-        "name": "Stuk dak van rode baksteen 2"
+        "reference-name": "Red Brick Roof Piece",
+        "name": "Stuk dak van rode baksteen"
     },
     "rct2ww.scenery_small.rbrick07": {
-        "reference-name": "Red Brick Roof Piece 3",
-        "name": "Stuk dak van rode baksteen 3"
+        "reference-name": "Red Brick Roof Piece",
+        "name": "Stuk dak van rode baksteen"
     },
     "rct2ww.scenery_small.rbrick08": {
-        "reference-name": "Red Brick Roof Piece 1",
-        "name": "Stuk dak van rode baksteen 1"
+        "reference-name": "Red Brick Roof Piece",
+        "name": "Stuk dak van rode baksteen"
     },
     "rct2ww.scenery_small.rcorr01": {
         "reference-name": "Corrugated Roof Piece",
@@ -9924,7 +9940,7 @@
         "name": "Geplooid stuk dak"
     },
     "rct2ww.scenery_small.rdrab05": {
-        "reference-name": "Drab Small Tower Minaret Base",
+        "reference-name": "Drab Small Tower Dome Base",
         "name": "Vale basis kleine Minaret-toren"
     },
     "rct2ww.scenery_small.rdrab06": {
@@ -9936,112 +9952,112 @@
         "name": "Vale basis kleine toren"
     },
     "rct2ww.scenery_small.rdrab08": {
-        "reference-name": "Drab Minaret Piece 1",
-        "name": "Vaal stuk Minaret 1"
+        "reference-name": "Drab Dome Piece",
+        "name": "Vaal stuk Minaret"
     },
     "rct2ww.scenery_small.rdrab09": {
-        "reference-name": "Drab Minaret Piece 2",
-        "name": "Vaal stuk Minaret 2"
+        "reference-name": "Drab Dome Piece",
+        "name": "Vaal stuk Minaret"
     },
     "rct2ww.scenery_small.rdrab10": {
-        "reference-name": "Drab Minaret Piece 3",
-        "name": "Vaal stuk Minaret 3"
+        "reference-name": "Drab Dome Piece",
+        "name": "Vaal stuk Minaret"
     },
     "rct2ww.scenery_small.rdrab11": {
-        "reference-name": "Drab Roof Piece 1",
-        "name": "Vaal stuk dak 1"
+        "reference-name": "Drab Flat Roof Piece",
+        "name": "Vaal stuk dak"
     },
     "rct2ww.scenery_small.rdrab12": {
-        "reference-name": "Drab Roof Piece 2",
-        "name": "Vaal stuk dak 2"
+        "reference-name": "Drab Flat Roof Piece",
+        "name": "Vaal stuk dak"
     },
     "rct2ww.scenery_small.rdrab13": {
-        "reference-name": "Drab Roof Piece 3",
-        "name": "Vaal stuk dak 3"
+        "reference-name": "Drab Flat Roof Piece",
+        "name": "Vaal stuk dak"
     },
     "rct2ww.scenery_small.rdrab14": {
-        "reference-name": "Drab Roof Piece 4",
-        "name": "Vaal stuk dak 4"
+        "reference-name": "Drab Flat Roof Piece",
+        "name": "Vaal stuk dak"
     },
     "rct2ww.scenery_small.rgeorg01": {
-        "reference-name": "Georgian Roof End Piece 1",
-        "name": "Eindstuk dak in Georgiaanse stijl 1"
+        "reference-name": "Georgian Roof End Piece",
+        "name": "Eindstuk dak in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.rgeorg02": {
-        "reference-name": "Georgian Roof End Piece 2",
-        "name": "Eindstuk dak in Georgiaanse stijl 2"
+        "reference-name": "Georgian Roof End Piece",
+        "name": "Eindstuk dak in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.rgeorg03": {
-        "reference-name": "Georgian Roof Piece 1",
-        "name": "Stuk dak in Georgiaanse stijl 1"
+        "reference-name": "Georgian Roof Piece",
+        "name": "Stuk dak in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.rgeorg04": {
-        "reference-name": "Georgian Roof Piece 2",
-        "name": "Stuk dak in Georgiaanse stijl 2"
+        "reference-name": "Georgian Roof Piece",
+        "name": "Stuk dak in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.rgeorg05": {
-        "reference-name": "Georgian Roof Piece 3",
-        "name": "Stuk dak in Georgiaanse stijl 3"
+        "reference-name": "Georgian Roof Piece",
+        "name": "Stuk dak in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.rgeorg06": {
-        "reference-name": "Georgian Roof Piece 4",
-        "name": "Stuk dak in Georgiaanse stijl 4"
+        "reference-name": "Georgian Roof Piece",
+        "name": "Stuk dak in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.rgeorg07": {
-        "reference-name": "Georgian Roof Piece 5",
-        "name": "Stuk dak in Georgiaanse stijl 5"
+        "reference-name": "Georgian Roof Piece",
+        "name": "Stuk dak in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.rgeorg08": {
-        "reference-name": "Georgian Ground Floor Wall Piece 7",
-        "name": "Stuk dak in Georgiaanse stijl 6"
+        "reference-name": "Georgian Ground Floor Wall Piece",
+        "name": "Stuk dak in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.rgeorg09": {
-        "reference-name": "Georgian Flat Roof Edge 1",
-        "name": "Rand plat dak in Georgiaanse stijl 1"
+        "reference-name": "Georgian Flat Roof Edge",
+        "name": "Rand plat dak in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.rgeorg10": {
-        "reference-name": "Georgian Flat Roof Edge 2",
-        "name": "Rand plat dak in Georgiaanse stijl 2"
+        "reference-name": "Georgian Flat Roof Edge",
+        "name": "Rand plat dak in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.rgeorg11": {
         "reference-name": "Georgian Flat Roof Corner",
         "name": "Hoekstuk plat dak in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.rgeorg12": {
-        "reference-name": "Georgian Roof Piece 7",
-        "name": "Stuk dak in Georgiaanse stijl 7"
+        "reference-name": "Georgian Roof Piece",
+        "name": "Stuk dak in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.rkreml01": {
-        "reference-name": "Kremlin Minaret Piece 1",
-        "name": "Stuk Kremlin-Minaret 1"
+        "reference-name": "St. Basil’s Cathedral Flat Roof Piece",
+        "name": "Stuk dak Basiliuskathedraal"
     },
     "rct2ww.scenery_small.rkreml02": {
-        "reference-name": "Kremlin Minaret Piece 2",
-        "name": "Stuk Kremlin-Minaret 2"
+        "reference-name": "St. Basil’s Cathedral Flat Roof Piece",
+        "name": "Stuk dak Basiliuskathedraal"
     },
     "rct2ww.scenery_small.rkreml03": {
-        "reference-name": "Kremlin Minaret Piece 3",
-        "name": "Stuk Kremlin-Minaret 3"
+        "reference-name": "St. Basil’s Cathedral Dome Piece",
+        "name": "Stuk Basiliuskathedraal-Minaret"
     },
     "rct2ww.scenery_small.rkreml04": {
-        "reference-name": "Kremlin Roof Piece 1",
-        "name": "Stuk dak Kremlin 1"
+        "reference-name": "St. Basil’s Cathedral Dome Piece",
+        "name": "Stuk Basiliuskathedraal-Minaret"
     },
     "rct2ww.scenery_small.rkreml05": {
-        "reference-name": "Kremlin Roof Piece 2",
-        "name": "Stuk dak Kremlin 2"
+        "reference-name": "St. Basil’s Cathedral Dome Piece",
+        "name": "Stuk Basiliuskathedraal-Minaret"
     },
     "rct2ww.scenery_small.rkreml06": {
-        "reference-name": "Kremlin Small Tower Mid-Section",
-        "name": "Kleine middengedeelte Minaret-toren Kremlin"
+        "reference-name": "St. Basil’s Cathedral Small Tower Mid-Section",
+        "name": "Kleine middengedeelte Minaret-toren Basiliuskathedraal"
     },
     "rct2ww.scenery_small.rkreml07": {
-        "reference-name": "Kremlin Small Tower Base",
-        "name": "Kleine basis toren Kremlin"
+        "reference-name": "St. Basil’s Cathedral Small Tower Base",
+        "name": "Kleine basis toren Basiliuskathedraal"
     },
     "rct2ww.scenery_small.rkreml11": {
-        "reference-name": "Kremlin Small Tower Minaret Base",
-        "name": "Basis kleine Minaret-toren Kremlin"
+        "reference-name": "St. Basil’s Cathedral Small Tower Dome Base",
+        "name": "Basis kleine Minaret-toren Basiliuskathedraal"
     },
     "rct2ww.scenery_small.rlog01": {
         "reference-name": "Log Cabin Roof Piece",
@@ -10152,16 +10168,16 @@
         "name": "Japans dak"
     },
     "rct2ww.scenery_small.rtudor01": {
-        "reference-name": "Tudor Roof Piece 1",
-        "name": "Stuk dak in Tudorstijl 1"
+        "reference-name": "Tudor Roof Piece",
+        "name": "Stuk dak in Tudorstijl"
     },
     "rct2ww.scenery_small.rtudor02": {
-        "reference-name": "Tudor Roof Piece 1 Extender Piece",
+        "reference-name": "Tudor Roof Extender Piece",
         "name": "Verlengend stuk dak in Tudorstijl"
     },
     "rct2ww.scenery_small.rtudor03": {
-        "reference-name": "Tudor Roof Piece 2",
-        "name": "Stuk dak in Tudorstijl 2"
+        "reference-name": "Tudor Roof Piece",
+        "name": "Stuk dak in Tudorstijl"
     },
     "rct2ww.scenery_small.rwdaub01": {
         "reference-name": "Wattle & Daub Roof",
@@ -10245,7 +10261,7 @@
     },
     "rct2ww.scenery_small.sbh3rt66": {
         "reference-name": "Route 66 Sign",
-        "name": "Verkeersbord weg 66"
+        "name": "Verkeersbord weg"
     },
     "rct2ww.scenery_small.sbh4totm": {
         "reference-name": "Large Totem Pole",
@@ -10268,23 +10284,23 @@
         "name": "Stuk wolkenkrabberlift"
     },
     "rct2ww.scenery_small.sbskys05": {
-        "reference-name": "Skyscraper Metal Set 1 Convex Piece",
+        "reference-name": "Skyscraper Metal Set Convex Piece",
         "name": "Metaal Set 1 Convex stuk voor wolkenkrabber"
     },
     "rct2ww.scenery_small.sbskys06": {
-        "reference-name": "Skyscraper Metal Set 1 Concave Piece",
+        "reference-name": "Skyscraper Metal Set Concave Piece",
         "name": "Metaal Set 1 Concaaf stuk voor wolkenkrabber"
     },
     "rct2ww.scenery_small.sbskys07": {
-        "reference-name": "Skyscraper Metal Set 2 Convex Piece",
+        "reference-name": "Skyscraper Metal Set Convex Piece",
         "name": "Metaal Set 2 Convex stuk voor wolkenkrabber"
     },
     "rct2ww.scenery_small.sbskys08": {
-        "reference-name": "Skyscraper Metal Set 2 Concave Piece",
+        "reference-name": "Skyscraper Metal Set Concave Piece",
         "name": "Metaal Set 2 Concaaf stuk voor wolkenkrabber"
     },
     "rct2ww.scenery_small.sbskys09": {
-        "reference-name": "Skyscraper Metal Set 2 Concave Piece",
+        "reference-name": "Skyscraper Metal Set Concave Piece",
         "name": "Metaal Set 2 Concaaf stuk voor wolkenkrabber"
     },
     "rct2ww.scenery_small.sbskys10": {
@@ -10784,72 +10800,72 @@
         "name": "Monumentale fontein"
     },
     "rct2ww.scenery_small.wdrab09": {
-        "reference-name": "Drab Step-up Piece 1",
-        "name": "Vaal Uitspringend stuk 1"
+        "reference-name": "Drab Step-up Piece",
+        "name": "Vaal Uitspringend stuk"
     },
     "rct2ww.scenery_small.wdrab10": {
-        "reference-name": "Drab Wall Piece 9",
-        "name": "Vaal stuk dak 9"
+        "reference-name": "Drab Wall Piece",
+        "name": "Vaal stuk dak"
     },
     "rct2ww.scenery_small.wdrab11": {
-        "reference-name": "Drab Wall Piece 10",
-        "name": "Vaal stuk dak 10"
+        "reference-name": "Drab Wall Piece",
+        "name": "Vaal stuk dak"
     },
     "rct2ww.scenery_small.wdrab12": {
-        "reference-name": "Drab Wall Piece 11",
-        "name": "Vaal stuk dak 11"
+        "reference-name": "Drab Wall Piece",
+        "name": "Vaal stuk dak"
     },
     "rct2ww.scenery_small.wdrab13": {
-        "reference-name": "Drab Step-up Piece 2",
-        "name": "Vaal Uitspringend stuk 2"
+        "reference-name": "Drab Step-up Piece",
+        "name": "Vaal Uitspringend stuk"
     },
     "rct2ww.scenery_small.wgeorg07": {
-        "reference-name": "Georgian Ground Floor Wall Piece 4",
-        "name": "Grondstuk muur in Georgiaanse stijl 4"
+        "reference-name": "Georgian Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.wgeorg08": {
-        "reference-name": "Georgian Ground Floor Wall Piece 5",
-        "name": "Grondstuk muur in Georgiaanse stijl 5"
+        "reference-name": "Georgian Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.wgeorg09": {
-        "reference-name": "Georgian Ground Floor Wall Piece 6",
-        "name": "Grondstuk muur in Georgiaanse stijl 6"
+        "reference-name": "Georgian Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.wgeorg10": {
-        "reference-name": "Georgian Wall Piece 4",
-        "name": "Stuk muur in Georgiaanse stijl 4"
+        "reference-name": "Georgian Wall Piece",
+        "name": "Stuk muur in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.wgeorg11": {
-        "reference-name": "Georgian Wall Piece 5",
-        "name": "Stuk muur in Georgiaanse stijl 5"
+        "reference-name": "Georgian Wall Piece",
+        "name": "Stuk muur in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.wgeorg12": {
-        "reference-name": "Georgian Wall Piece 6",
-        "name": "Stuk muur in Georgiaanse stijl 6"
+        "reference-name": "Georgian Wall Piece",
+        "name": "Stuk muur in Georgiaanse stijl"
     },
     "rct2ww.scenery_small.wkreml01": {
-        "reference-name": "Kremlin Step-up Wall Piece 1",
-        "name": "Uitspringend stuk muur Kremlin 1"
+        "reference-name": "St. Basil’s Cathedral Step-up Wall Piece",
+        "name": "Uitspringend stuk muur Basiliuskathedraal"
     },
     "rct2ww.scenery_small.wkreml02": {
-        "reference-name": "Kremlin Step-up Wall Piece 2",
-        "name": "Uitspringend stuk muur Kremlin 2"
+        "reference-name": "St. Basil’s Cathedral Step-up Wall Piece",
+        "name": "Uitspringend stuk muur Basiliuskathedraal"
     },
     "rct2ww.scenery_small.wkreml03": {
-        "reference-name": "Kremlin Wall Piece 1",
-        "name": "Stuk muur Kremlin 1"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Stuk muur Basiliuskathedraal"
     },
     "rct2ww.scenery_small.wkreml04": {
-        "reference-name": "Kremlin Wall Piece 2",
-        "name": "Stuk muur Kremlin 2"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Stuk muur Basiliuskathedraal"
     },
     "rct2ww.scenery_small.wkreml05": {
-        "reference-name": "Kremlin Wall Piece 3",
-        "name": "Stuk muur Kremlin 3"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Stuk muur Basiliuskathedraal"
     },
     "rct2ww.scenery_small.wkreml06": {
-        "reference-name": "Kremlin Wall Piece 4",
-        "name": "Stuk muur Kremlin 4"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Stuk muur Basiliuskathedraal"
     },
     "rct2ww.scenery_small.wmayan01": {
         "reference-name": "Lost City Wall Piece",
@@ -10980,39 +10996,39 @@
         "name": "Nautisch stuk dak"
     },
     "rct2ww.scenery_small.wtudor12": {
-        "reference-name": "Tudor Wall Piece 4",
-        "name": "Stuk muur in Tudorstijl 4"
+        "reference-name": "Tudor Wall Piece",
+        "name": "Stuk muur in Tudorstijl"
     },
     "rct2ww.scenery_small.wtudor13": {
         "reference-name": "Tudor Ground Bay Wall Piece",
         "name": "Stuk muur nis in Tudorstijl"
     },
     "rct2ww.scenery_small.wtudor14": {
-        "reference-name": "Tudor Ground Floor Wall Piece 1",
-        "name": "Grondstuk muur in Tudorstijl 1"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Tudorstijl"
     },
     "rct2ww.scenery_small.wtudor15": {
-        "reference-name": "Tudor Ground Floor Wall Piece 2",
-        "name": "Grondstuk muur in Tudorstijl 2"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Tudorstijl"
     },
     "rct2ww.scenery_small.wtudor16": {
-        "reference-name": "Tudor Ground Floor Wall Piece 3",
-        "name": "Grondstuk muur in Tudorstijl 3"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Tudorstijl"
     },
     "rct2ww.scenery_small.wtudor17": {
-        "reference-name": "Tudor Ground Floor Wall Piece 4",
-        "name": "Grondstuk muur in Tudorstijl 4"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Tudorstijl"
     },
     "rct2ww.scenery_small.wtudor18": {
-        "reference-name": "Tudor Ground Floor Wall Piece 5",
-        "name": "Grondstuk muur in Tudorstijl 5"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Tudorstijl"
     },
     "rct2ww.scenery_wall.tmarch1": {
-        "reference-name": "Maharaja Palace Arch 1",
+        "reference-name": "Maharaja Palace Arch",
         "name": "Boog 1 Maharadjapaleis"
     },
     "rct2ww.scenery_wall.tmarch2": {
-        "reference-name": "Maharaja Palace Arch 2",
+        "reference-name": "Maharaja Palace Arch",
         "name": "Boog 2 Maharadjapaleis"
     },
     "rct2ww.scenery_wall.w2corr01": {
@@ -11224,40 +11240,40 @@
         "name": "Bamboemuur"
     },
     "rct2ww.scenery_wall.wbrick01": {
-        "reference-name": "Red Brick Wall Piece 1",
-        "name": "Stuk muur van rode baksteen 1"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Stuk muur van rode baksteen"
     },
     "rct2ww.scenery_wall.wbrick02": {
-        "reference-name": "Red Brick Wall Piece 2",
-        "name": "Stuk muur van rode baksteen 2"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Stuk muur van rode baksteen"
     },
     "rct2ww.scenery_wall.wbrick03": {
-        "reference-name": "Red Brick Wall Piece 3",
-        "name": "Stuk muur van rode baksteen 3"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Stuk muur van rode baksteen"
     },
     "rct2ww.scenery_wall.wbrick04": {
-        "reference-name": "Red Brick Wall Piece 4",
-        "name": "Stuk muur van rode baksteen 4"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Stuk muur van rode baksteen"
     },
     "rct2ww.scenery_wall.wbrick05": {
-        "reference-name": "Red Brick Wall Piece 5",
-        "name": "Stuk muur van rode baksteen 5"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Stuk muur van rode baksteen"
     },
     "rct2ww.scenery_wall.wbrick08": {
-        "reference-name": "Red Brick Wall Piece 8",
-        "name": "Stuk muur van rode baksteen 8"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Stuk muur van rode baksteen"
     },
     "rct2ww.scenery_wall.wbrick11": {
-        "reference-name": "Red Brick Wall Piece 11",
-        "name": "Stuk muur van rode baksteen 11"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Stuk muur van rode baksteen"
     },
     "rct2ww.scenery_wall.wbrick12": {
-        "reference-name": "Red Brick Wall Piece 12",
-        "name": "Stuk muur van rode baksteen 12"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Stuk muur van rode baksteen"
     },
     "rct2ww.scenery_wall.wbrick13": {
-        "reference-name": "Red Brick Wall Piece 13",
-        "name": "Stuk muur van rode baksteen 13"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Stuk muur van rode baksteen"
     },
     "rct2ww.scenery_wall.wcorr01": {
         "reference-name": "Corrugated Wall Piece",
@@ -11324,60 +11340,60 @@
         "name": "Geplooid stuk muur"
     },
     "rct2ww.scenery_wall.wdrab01": {
-        "reference-name": "Drab Wall Piece 1",
-        "name": "Vaal stuk dak 1"
+        "reference-name": "Drab Wall Piece",
+        "name": "Vaal stuk muur"
     },
     "rct2ww.scenery_wall.wdrab02": {
-        "reference-name": "Drab Wall Piece 2",
-        "name": "Vaal stuk dak 2"
+        "reference-name": "Drab Wall Piece",
+        "name": "Vaal stuk muur"
     },
     "rct2ww.scenery_wall.wdrab03": {
-        "reference-name": "Drab Wall Piece 3",
-        "name": "Vaal stuk dak 3"
+        "reference-name": "Drab Wall Piece",
+        "name": "Vaal stuk muur"
     },
     "rct2ww.scenery_wall.wdrab04": {
-        "reference-name": "Drab Wall Piece 4",
-        "name": "Vaal stuk dak 4"
+        "reference-name": "Drab Wall Piece",
+        "name": "Vaal stuk muur"
     },
     "rct2ww.scenery_wall.wdrab05": {
-        "reference-name": "Drab Wall Piece 5",
-        "name": "Vaal stuk dak 5"
+        "reference-name": "Drab Wall Piece",
+        "name": "Vaal stuk muur"
     },
     "rct2ww.scenery_wall.wdrab06": {
-        "reference-name": "Drab Wall Piece 6",
-        "name": "Vaal stuk dak 6"
+        "reference-name": "Drab Wall Piece",
+        "name": "Vaal stuk muur"
     },
     "rct2ww.scenery_wall.wdrab07": {
-        "reference-name": "Drab Wall Piece 7",
-        "name": "Vaal stuk dak 7"
+        "reference-name": "Drab Wall Piece",
+        "name": "Vaal stuk muur"
     },
     "rct2ww.scenery_wall.wdrab08": {
-        "reference-name": "Drab Wall Piece 8",
-        "name": "Vaal stuk dak 8"
+        "reference-name": "Drab Wall Piece",
+        "name": "Vaal stuk muur"
     },
     "rct2ww.scenery_wall.wgeorg01": {
-        "reference-name": "Georgian Wall Piece 1",
-        "name": "Stuk muur in Georgiaanse stijl 1"
+        "reference-name": "Georgian Wall Piece",
+        "name": "Stuk muur in Georgiaanse stijl"
     },
     "rct2ww.scenery_wall.wgeorg02": {
-        "reference-name": "Georgian Ground Floor Wall Piece 1",
-        "name": "Grondstuk muur in Georgiaanse stijl 1"
+        "reference-name": "Georgian Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Georgiaanse stijl"
     },
     "rct2ww.scenery_wall.wgeorg03": {
-        "reference-name": "Georgian Wall Piece 2",
-        "name": "Stuk muur in Georgiaanse stijl 2"
+        "reference-name": "Georgian Wall Piece",
+        "name": "Stuk muur in Georgiaanse stijl"
     },
     "rct2ww.scenery_wall.wgeorg04": {
-        "reference-name": "Georgian Ground Floor Wall Piece 2",
-        "name": "Grondstuk muur in Georgiaanse stijl 2"
+        "reference-name": "Georgian Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Georgiaanse stijl"
     },
     "rct2ww.scenery_wall.wgeorg05": {
-        "reference-name": "Georgian Wall Piece 3",
-        "name": "Stuk muur in Georgiaanse stijl 3"
+        "reference-name": "Georgian Wall Piece",
+        "name": "Stuk muur in Georgiaanse stijl"
     },
     "rct2ww.scenery_wall.wgeorg06": {
-        "reference-name": "Georgian Ground Floor Wall Piece 3",
-        "name": "Grondstuk muur in Georgiaanse stijl 3"
+        "reference-name": "Georgian Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Georgiaanse stijl"
     },
     "rct2ww.scenery_wall.wgwoc1": {
         "reference-name": "Great Wall Of China Front Wall Section",
@@ -11400,20 +11416,20 @@
         "name": "Iglomuur"
     },
     "rct2ww.scenery_wall.wkreml07": {
-        "reference-name": "Kremlin Wall Piece 5",
-        "name": "Stuk muur Kremlin 5"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Stuk muur Basiliuskathedraal"
     },
     "rct2ww.scenery_wall.wkreml08": {
-        "reference-name": "Kremlin Wall Piece 6",
-        "name": "Stuk muur Kremlin 6"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Stuk muur Basiliuskathedraal"
     },
     "rct2ww.scenery_wall.wkreml09": {
-        "reference-name": "Kremlin Wall Piece 7",
-        "name": "Stuk muur Kremlin 7"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Stuk muur Basiliuskathedraal"
     },
     "rct2ww.scenery_wall.wkreml10": {
-        "reference-name": "Kremlin Wall Piece 8",
-        "name": "Stuk muur Kremlin 8"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Stuk muur Basiliuskathedraal"
     },
     "rct2ww.scenery_wall.wlog01": {
         "reference-name": "Log Cabin Wall Piece",
@@ -11612,15 +11628,15 @@
         "name": "Japans hek"
     },
     "rct2ww.scenery_wall.wskysc01": {
-        "reference-name": "Skyscraper Metal Set 2 Wall Piece",
+        "reference-name": "Skyscraper Metal Set Wall Piece",
         "name": "Metaal Set 2 stuk muur voor wolkenkrabber"
     },
     "rct2ww.scenery_wall.wskysc02": {
-        "reference-name": "Skyscraper Metal Set 2 Wall Piece",
+        "reference-name": "Skyscraper Metal Set Wall Piece",
         "name": "Metaal Set 2 stuk muur voor wolkenkrabber"
     },
     "rct2ww.scenery_wall.wskysc03": {
-        "reference-name": "Skyscraper Metal Set 1 Wall Piece",
+        "reference-name": "Skyscraper Metal Set Wall Piece",
         "name": "Metaal Set 1 stuk muur voor wolkenkrabber"
     },
     "rct2ww.scenery_wall.wskysc04": {
@@ -11660,48 +11676,48 @@
         "name": "Stuk muur Stenen wolkenkrabber"
     },
     "rct2ww.scenery_wall.wtudor01": {
-        "reference-name": "Tudor Ground Floor Wall Piece 1",
-        "name": "Grondstuk muur in Tudorstijl 1"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Tudorstijl"
     },
     "rct2ww.scenery_wall.wtudor02": {
-        "reference-name": "Tudor Ground Floor Wall Piece 2",
-        "name": "Grondstuk muur in Tudorstijl 2"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Tudorstijl"
     },
     "rct2ww.scenery_wall.wtudor03": {
-        "reference-name": "Tudor Ground Floor Wall Piece 3",
-        "name": "Grondstuk muur in Tudorstijl 3"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Tudorstijl"
     },
     "rct2ww.scenery_wall.wtudor04": {
-        "reference-name": "Tudor Ground Floor Wall Piece 4",
-        "name": "Grondstuk muur in Tudorstijl 4"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Tudorstijl"
     },
     "rct2ww.scenery_wall.wtudor05": {
-        "reference-name": "Tudor Ground Floor Wall Piece 5",
-        "name": "Grondstuk muur in Tudorstijl 5"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Tudorstijl"
     },
     "rct2ww.scenery_wall.wtudor06": {
-        "reference-name": "Tudor Ground Floor Wall Piece 6",
-        "name": "Grondstuk muur in Tudorstijl 6"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Tudorstijl"
     },
     "rct2ww.scenery_wall.wtudor07": {
-        "reference-name": "Tudor Ground Floor Wall Piece 7",
-        "name": "Grondstuk muur in Tudorstijl 7"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Tudorstijl"
     },
     "rct2ww.scenery_wall.wtudor08": {
-        "reference-name": "Tudor Ground Floor Wall Piece 8",
-        "name": "Grondstuk muur in Tudorstijl 8"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Grondstuk muur in Tudorstijl"
     },
     "rct2ww.scenery_wall.wtudor09": {
-        "reference-name": "Tudor Wall Piece 1",
-        "name": "Stuk muur in Tudorstijl 1"
+        "reference-name": "Tudor Wall Piece",
+        "name": "Stuk muur in Tudorstijl"
     },
     "rct2ww.scenery_wall.wtudor10": {
-        "reference-name": "Tudor Wall Piece 2",
-        "name": "Stuk muur in Tudorstijl 2"
+        "reference-name": "Tudor Wall Piece",
+        "name": "Stuk muur in Tudorstijl"
     },
     "rct2ww.scenery_wall.wtudor11": {
-        "reference-name": "Tudor Wall Piece 3",
-        "name": "Stuk muur in Tudorstijl 3"
+        "reference-name": "Tudor Wall Piece",
+        "name": "Stuk muur in Tudorstijl"
     },
     "rct2ww.scenery_wall.wwdaub01": {
         "reference-name": "Wattle & Daub Wall",

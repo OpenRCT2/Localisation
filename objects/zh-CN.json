@@ -635,6 +635,10 @@
         "reference-name": "Iron",
         "name": "瓦钢板"
     },
+    "rct1.water.natural_water": {
+        "reference-name": "Natural Water",
+        "name": "自然水源"
+    },
     "rct1aa.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Square)",
         "name": "梣木步道"
@@ -1108,8 +1112,8 @@
         "name": "野花"
     },
     "rct1dlc.scenario_meta.bobsled_roller_coaster_competition": {
-        "reference-name": "Bobsled Roller Coaster Competition",
-        "name": "Bobsled Roller Coaster Competition",
+        "reference-name": "Bobsleigh Roller Coaster Competition",
+        "name": "Bobsleigh Roller Coaster Competition",
         "reference-park_name": "Competition Land",
         "park_name": "Competition Land",
         "reference-details": "",
@@ -3276,9 +3280,9 @@
         "details": "创建你自己的大型六旗游乐园的版本"
     },
     "rct2.scenario_meta.build_your_own_six_flags_over_texas": {
-        "reference-name": "Build your own Six Flags over Texas",
+        "reference-name": "Build your own Six Flags Over Texas",
         "name": "建造你自己的 六旗降临得克萨斯游乐园",
-        "reference-park_name": "Six Flags over Texas",
+        "reference-park_name": "Six Flags Over Texas",
         "park_name": "六旗降临得克萨斯",
         "reference-details": "Starting from scratch, build the rides in this Six Flags park",
         "details": "从零开始，建造这个六旗游乐园的游乐设施"
@@ -3420,9 +3424,9 @@
         "details": "建造遗失的六旗乐园游乐设施，或用自己的设计善公园！但别忘了你的最终目标——偿还贷款，同时保持公园价值！"
     },
     "rct2.scenario_meta.six_flags_over_texas": {
-        "reference-name": "Six Flags over Texas",
+        "reference-name": "Six Flags Over Texas",
         "name": "六旗降临得克萨斯",
-        "reference-park_name": "Six Flags over Texas",
+        "reference-park_name": "Six Flags Over Texas",
         "park_name": "六旗降临得克萨斯",
         "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
         "details": "建造遗失的六旗乐园游乐设施，或用自己的设计善公园！但别忘了你的最终目标——吸引更多的客人到公园去！"
@@ -5707,11 +5711,19 @@
         "reference-name": "Acid Green Water",
         "name": "有酸味的绿水"
     },
+    "rct2.water.wtrgreen_fix": {
+        "reference-name": "Acid Green Water",
+        "name": "有酸味的绿水"
+    },
     "rct2.water.wtrgrn": {
         "reference-name": "Green Water",
         "name": "绿水"
     },
     "rct2.water.wtrorng": {
+        "reference-name": "Orange Water",
+        "name": "柳橙水"
+    },
+    "rct2.water.wtrorng_fix": {
         "reference-name": "Orange Water",
         "name": "柳橙水"
     },
@@ -5748,6 +5760,10 @@
         "name": "竹笋"
     },
     "rct2dlc.water.wtrpink": {
+        "reference-name": "Pink Water",
+        "name": "粉色的水"
+    },
+    "rct2dlc.water.wtrpink_fix": {
         "reference-name": "Pink Water",
         "name": "粉色的水"
     },
@@ -9112,9 +9128,9 @@
         "details": "你被安排接管一个欧洲文化游的景点，必须增加客人的数量，在目前的欧洲议会任期结束前支付加入欧盟的税款。"
     },
     "rct2ww.scenario_meta.from_the_ashes": {
-        "reference-name": "From The Ashes",
+        "reference-name": "From the Ashes",
         "name": "来自灰烬",
-        "reference-park_name": "From The Ashes",
+        "reference-park_name": "From the Ashes",
         "park_name": "来自灰烬",
         "reference-details": "An old park has fallen into disrepair. You gain a European Union grant to return this deprived area to its former glory! You need to renovate the park and repay the grant.",
         "details": "一个老公园年久失修。你获得一个欧盟的补助金，将这个被剥夺的地区归还给它昔日的荣耀！你需要整修公园并偿还补助金。"
@@ -9168,9 +9184,9 @@
         "details": "一个现有的公园已经用完了空间。你唯一的选择是建立在海上，所以你采取了贷款。你的建筑的高度被地基和地震风险限制。"
     },
     "rct2ww.scenario_meta.over_the_edge": {
-        "reference-name": "Over The Edge",
+        "reference-name": "Over the Edge",
         "name": "大河边缘",
-        "reference-park_name": "Over The Edge",
+        "reference-park_name": "Over the Edge",
         "park_name": "大河边缘",
         "reference-details": "A dam has been built offering abundant, cheap hydroelectric power with which to run a park. You need to reach a high park value to help repay the loan for the dam.",
         "details": "当地建成了一个大坝，提供了丰富的，廉价的水电，用来运行一个公园。你需要用公园来获得很多的钱，用来偿还建造大坝的贷款。"
@@ -9272,19 +9288,19 @@
         "name": "原木舱边的烟囱"
     },
     "rct2ww.scenery_large.1x4brg01": {
-        "reference-name": "Suspension Bridge Start side 1",
+        "reference-name": "Suspension Bridge Start side",
         "name": "吊桥起点1"
     },
     "rct2ww.scenery_large.1x4brg02": {
-        "reference-name": "Suspension Bridge Start side 2",
+        "reference-name": "Suspension Bridge Start side",
         "name": "吊桥起点1"
     },
     "rct2ww.scenery_large.1x4brg03": {
-        "reference-name": "Suspension Bridge Tower side 1",
+        "reference-name": "Suspension Bridge Tower side",
         "name": "吊桥塔楼点1"
     },
     "rct2ww.scenery_large.1x4brg04": {
-        "reference-name": "Suspension Bridge Tower side 2",
+        "reference-name": "Suspension Bridge Tower side",
         "name": "吊桥塔楼点2"
     },
     "rct2ww.scenery_large.1x4brg05": {
@@ -9296,11 +9312,11 @@
         "name": "热带树林与美洲?"
     },
     "rct2ww.scenery_large.3x3atre1": {
-        "reference-name": "Jungle Tree 2",
+        "reference-name": "Jungle Tree",
         "name": "热带树林2"
     },
     "rct2ww.scenery_large.3x3atre2": {
-        "reference-name": "Jungle Tree 1",
+        "reference-name": "Jungle Tree",
         "name": "热带树林1"
     },
     "rct2ww.scenery_large.3x3atre3": {
@@ -9380,11 +9396,11 @@
         "name": "马戏"
     },
     "rct2ww.scenery_large.cowboy01": {
-        "reference-name": "Cowboy 1",
+        "reference-name": "Cowboy",
         "name": "牛仔1"
     },
     "rct2ww.scenery_large.cowboy02": {
-        "reference-name": "Cowboy 2",
+        "reference-name": "Cowboy",
         "name": "牛仔2"
     },
     "rct2ww.scenery_large.damtower": {
@@ -9412,11 +9428,11 @@
         "name": "喜佛陀"
     },
     "rct2ww.scenery_large.gdstaue1": {
-        "reference-name": "Gold Statue 1",
+        "reference-name": "Gold Statue",
         "name": "金雕塑1"
     },
     "rct2ww.scenery_large.gdstaue2": {
-        "reference-name": "Gold Statue 2",
+        "reference-name": "Gold Statue",
         "name": "金雕塑2"
     },
     "rct2ww.scenery_large.geisha": {
@@ -9424,11 +9440,11 @@
         "name": "艺妓"
     },
     "rct2ww.scenery_large.giraffe1": {
-        "reference-name": "Giraffe 1",
+        "reference-name": "Giraffe",
         "name": "长颈鹿1"
     },
     "rct2ww.scenery_large.giraffe2": {
-        "reference-name": "Giraffe 2",
+        "reference-name": "Giraffe",
         "name": "长颈鹿2"
     },
     "rct2ww.scenery_large.goldbuda": {
@@ -9452,11 +9468,11 @@
         "name": "直升飞机场"
     },
     "rct2ww.scenery_large.hippo01": {
-        "reference-name": "Hippo 1",
+        "reference-name": "Hippo",
         "name": "河马1"
     },
     "rct2ww.scenery_large.hippo02": {
-        "reference-name": "Hippo 2",
+        "reference-name": "Hippo",
         "name": "河马2"
     },
     "rct2ww.scenery_large.icefor01": {
@@ -9532,23 +9548,23 @@
         "name": "红杉木"
     },
     "rct2ww.scenery_large.rkreml08": {
-        "reference-name": "Kremlin Large Tower Base",
+        "reference-name": "St. Basil’s Cathedral Large Tower Base",
         "name": "克里姆林宫-大型塔底座"
     },
     "rct2ww.scenery_large.rkreml09": {
-        "reference-name": "Kremlin Large Tower Top",
+        "reference-name": "St. Basil’s Cathedral Large Tower Top",
         "name": "克里姆林宫-大型塔顶部"
     },
     "rct2ww.scenery_large.rkreml10": {
-        "reference-name": "Kremlin Large Tower Mid-Section",
+        "reference-name": "St. Basil’s Cathedral Large Tower Mid-Section",
         "name": "克里姆林宫-大型塔中段"
     },
     "rct2ww.scenery_large.rtudor05": {
-        "reference-name": "Tudor Roof Piece 3",
+        "reference-name": "Tudor Roof Piece",
         "name": "都铎王朝-房顶3"
     },
     "rct2ww.scenery_large.rtudor06": {
-        "reference-name": "Tudor Roof Piece 4",
+        "reference-name": "Tudor Roof Piece",
         "name": "都铎王朝-房顶4"
     },
     "rct2ww.scenery_large.shiva": {
@@ -9612,11 +9628,11 @@
         "name": "食火鸡"
     },
     "rct2ww.scenery_small.1x1jugt2": {
-        "reference-name": "Small Rainforest Tree 1",
+        "reference-name": "Small Rainforest Tree",
         "name": "小型雨林树1"
     },
     "rct2ww.scenery_small.1x1jugt3": {
-        "reference-name": "Small Rainforest Tree 2",
+        "reference-name": "Small Rainforest Tree",
         "name": "小型雨林树2"
     },
     "rct2ww.scenery_small.1x1kanga": {
@@ -9712,11 +9728,11 @@
         "name": "红鹤用喙理毛"
     },
     "rct2ww.scenery_small.fountarc": {
-        "reference-name": "Australian Fountain Set 2",
+        "reference-name": "Australian Fountain Set",
         "name": "澳大利亚喷泉2"
     },
     "rct2ww.scenery_small.fountrow": {
-        "reference-name": "Australian Fountain Set 1",
+        "reference-name": "Australian Fountain Set",
         "name": "澳大利亚喷泉1"
     },
     "rct2ww.scenery_small.fstatue1": {
@@ -9872,15 +9888,15 @@
         "name": "红砖扁平屋顶转角"
     },
     "rct2ww.scenery_small.rbrick05": {
-        "reference-name": "Red Brick Roof Piece 2",
+        "reference-name": "Red Brick Roof Piece",
         "name": "红砖屋顶2"
     },
     "rct2ww.scenery_small.rbrick07": {
-        "reference-name": "Red Brick Roof Piece 3",
+        "reference-name": "Red Brick Roof Piece",
         "name": "红砖屋顶3"
     },
     "rct2ww.scenery_small.rbrick08": {
-        "reference-name": "Red Brick Roof Piece 1",
+        "reference-name": "Red Brick Roof Piece",
         "name": "红砖屋顶1"
     },
     "rct2ww.scenery_small.rcorr01": {
@@ -9924,7 +9940,7 @@
         "name": "金属-屋顶"
     },
     "rct2ww.scenery_small.rdrab05": {
-        "reference-name": "Drab Small Tower Minaret Base",
+        "reference-name": "Drab Small Tower Dome Base",
         "name": "褐色-小塔尖塔底座"
     },
     "rct2ww.scenery_small.rdrab06": {
@@ -9936,71 +9952,71 @@
         "name": "褐色-小塔底座"
     },
     "rct2ww.scenery_small.rdrab08": {
-        "reference-name": "Drab Minaret Piece 1",
+        "reference-name": "Drab Dome Piece",
         "name": "褐色-塔尖1"
     },
     "rct2ww.scenery_small.rdrab09": {
-        "reference-name": "Drab Minaret Piece 2",
+        "reference-name": "Drab Dome Piece",
         "name": "褐色-塔尖2"
     },
     "rct2ww.scenery_small.rdrab10": {
-        "reference-name": "Drab Minaret Piece 3",
+        "reference-name": "Drab Dome Piece",
         "name": "褐色-塔尖3"
     },
     "rct2ww.scenery_small.rdrab11": {
-        "reference-name": "Drab Roof Piece 1",
+        "reference-name": "Drab Flat Roof Piece",
         "name": "褐色-屋顶1"
     },
     "rct2ww.scenery_small.rdrab12": {
-        "reference-name": "Drab Roof Piece 2",
+        "reference-name": "Drab Flat Roof Piece",
         "name": "褐色-屋顶2"
     },
     "rct2ww.scenery_small.rdrab13": {
-        "reference-name": "Drab Roof Piece 3",
+        "reference-name": "Drab Flat Roof Piece",
         "name": "褐色-屋顶3"
     },
     "rct2ww.scenery_small.rdrab14": {
-        "reference-name": "Drab Roof Piece 4",
+        "reference-name": "Drab Flat Roof Piece",
         "name": "褐色-屋顶4"
     },
     "rct2ww.scenery_small.rgeorg01": {
-        "reference-name": "Georgian Roof End Piece 1",
+        "reference-name": "Georgian Roof End Piece",
         "name": "格鲁吉亚-屋顶边缘1"
     },
     "rct2ww.scenery_small.rgeorg02": {
-        "reference-name": "Georgian Roof End Piece 2",
+        "reference-name": "Georgian Roof End Piece",
         "name": "格鲁吉亚-屋顶边缘2"
     },
     "rct2ww.scenery_small.rgeorg03": {
-        "reference-name": "Georgian Roof Piece 1",
+        "reference-name": "Georgian Roof Piece",
         "name": "格鲁吉亚-屋顶1"
     },
     "rct2ww.scenery_small.rgeorg04": {
-        "reference-name": "Georgian Roof Piece 2",
+        "reference-name": "Georgian Roof Piece",
         "name": "格鲁吉亚-屋顶2"
     },
     "rct2ww.scenery_small.rgeorg05": {
-        "reference-name": "Georgian Roof Piece 3",
+        "reference-name": "Georgian Roof Piece",
         "name": "格鲁吉亚-屋顶3"
     },
     "rct2ww.scenery_small.rgeorg06": {
-        "reference-name": "Georgian Roof Piece 4",
+        "reference-name": "Georgian Roof Piece",
         "name": "格鲁吉亚-屋顶4"
     },
     "rct2ww.scenery_small.rgeorg07": {
-        "reference-name": "Georgian Roof Piece 5",
+        "reference-name": "Georgian Roof Piece",
         "name": "格鲁吉亚-屋顶5"
     },
     "rct2ww.scenery_small.rgeorg08": {
-        "reference-name": "Georgian Ground Floor Wall Piece 7",
+        "reference-name": "Georgian Ground Floor Wall Piece",
         "name": "格鲁吉亚-底层墙7"
     },
     "rct2ww.scenery_small.rgeorg09": {
-        "reference-name": "Georgian Flat Roof Edge 1",
+        "reference-name": "Georgian Flat Roof Edge",
         "name": "格鲁吉亚-平屋顶边缘1"
     },
     "rct2ww.scenery_small.rgeorg10": {
-        "reference-name": "Georgian Flat Roof Edge 2",
+        "reference-name": "Georgian Flat Roof Edge",
         "name": "格鲁吉亚-平屋顶边缘2"
     },
     "rct2ww.scenery_small.rgeorg11": {
@@ -10008,39 +10024,39 @@
         "name": "格鲁吉亚-平屋顶转角"
     },
     "rct2ww.scenery_small.rgeorg12": {
-        "reference-name": "Georgian Roof Piece 7",
+        "reference-name": "Georgian Roof Piece",
         "name": "格鲁吉亚-屋顶7"
     },
     "rct2ww.scenery_small.rkreml01": {
-        "reference-name": "Kremlin Minaret Piece 1",
-        "name": "克里姆林宫-宣礼塔1"
-    },
-    "rct2ww.scenery_small.rkreml02": {
-        "reference-name": "Kremlin Minaret Piece 2",
-        "name": "克里姆林宫-宣礼塔2"
-    },
-    "rct2ww.scenery_small.rkreml03": {
-        "reference-name": "Kremlin Minaret Piece 3",
-        "name": "克里姆林宫-宣礼塔3"
-    },
-    "rct2ww.scenery_small.rkreml04": {
-        "reference-name": "Kremlin Roof Piece 1",
+        "reference-name": "St. Basil’s Cathedral Flat Roof Piece",
         "name": "克里姆林宫-房顶1"
     },
-    "rct2ww.scenery_small.rkreml05": {
-        "reference-name": "Kremlin Roof Piece 2",
+    "rct2ww.scenery_small.rkreml02": {
+        "reference-name": "St. Basil’s Cathedral Flat Roof Piece",
         "name": "克里姆林宫-房顶2"
     },
+    "rct2ww.scenery_small.rkreml03": {
+        "reference-name": "St. Basil’s Cathedral Dome Piece",
+        "name": "克里姆林宫-宣礼塔2"
+    },
+    "rct2ww.scenery_small.rkreml04": {
+        "reference-name": "St. Basil’s Cathedral Dome Piece",
+        "name": "克里姆林宫-宣礼塔3"
+    },
+    "rct2ww.scenery_small.rkreml05": {
+        "reference-name": "St. Basil’s Cathedral Dome Piece",
+        "name": "克里姆林宫-宣礼塔1"
+    },
     "rct2ww.scenery_small.rkreml06": {
-        "reference-name": "Kremlin Small Tower Mid-Section",
+        "reference-name": "St. Basil’s Cathedral Small Tower Mid-Section",
         "name": "克里姆林宫-小型塔中段"
     },
     "rct2ww.scenery_small.rkreml07": {
-        "reference-name": "Kremlin Small Tower Base",
+        "reference-name": "St. Basil’s Cathedral Small Tower Base",
         "name": "克里姆林宫-小型塔底座"
     },
     "rct2ww.scenery_small.rkreml11": {
-        "reference-name": "Kremlin Small Tower Minaret Base",
+        "reference-name": "St. Basil’s Cathedral Small Tower Dome Base",
         "name": "克里姆林宫-小型塔宣礼塔底座"
     },
     "rct2ww.scenery_small.rlog01": {
@@ -10152,15 +10168,15 @@
         "name": "日本-障子屋顶"
     },
     "rct2ww.scenery_small.rtudor01": {
-        "reference-name": "Tudor Roof Piece 1",
+        "reference-name": "Tudor Roof Piece",
         "name": "都铎王朝-房顶1"
     },
     "rct2ww.scenery_small.rtudor02": {
-        "reference-name": "Tudor Roof Piece 1 Extender Piece",
+        "reference-name": "Tudor Roof Extender Piece",
         "name": "都铎王朝-房顶1延长"
     },
     "rct2ww.scenery_small.rtudor03": {
-        "reference-name": "Tudor Roof Piece 2",
+        "reference-name": "Tudor Roof Piece",
         "name": "都铎王朝-房顶2"
     },
     "rct2ww.scenery_small.rwdaub01": {
@@ -10268,23 +10284,23 @@
         "name": "摩天大楼电梯"
     },
     "rct2ww.scenery_small.sbskys05": {
-        "reference-name": "Skyscraper Metal Set 1 Convex Piece",
+        "reference-name": "Skyscraper Metal Set Convex Piece",
         "name": "摩天大楼金属合金设定一面凸面体"
     },
     "rct2ww.scenery_small.sbskys06": {
-        "reference-name": "Skyscraper Metal Set 1 Concave Piece",
+        "reference-name": "Skyscraper Metal Set Concave Piece",
         "name": "摩天大楼金属合金设定一面凹面体"
     },
     "rct2ww.scenery_small.sbskys07": {
-        "reference-name": "Skyscraper Metal Set 2 Convex Piece",
+        "reference-name": "Skyscraper Metal Set Convex Piece",
         "name": "摩天大楼金属合金设定二面凸面体"
     },
     "rct2ww.scenery_small.sbskys08": {
-        "reference-name": "Skyscraper Metal Set 2 Concave Piece",
+        "reference-name": "Skyscraper Metal Set Concave Piece",
         "name": "摩天大楼金属合金设定二面凹面体"
     },
     "rct2ww.scenery_small.sbskys09": {
-        "reference-name": "Skyscraper Metal Set 2 Concave Piece",
+        "reference-name": "Skyscraper Metal Set Concave Piece",
         "name": "摩天大楼金属合金设定二面凹面体"
     },
     "rct2ww.scenery_small.sbskys10": {
@@ -10784,71 +10800,71 @@
         "name": "古代-喷泉"
     },
     "rct2ww.scenery_small.wdrab09": {
-        "reference-name": "Drab Step-up Piece 1",
+        "reference-name": "Drab Step-up Piece",
         "name": "褐色-上升1"
     },
     "rct2ww.scenery_small.wdrab10": {
-        "reference-name": "Drab Wall Piece 9",
+        "reference-name": "Drab Wall Piece",
         "name": "褐色-墙9"
     },
     "rct2ww.scenery_small.wdrab11": {
-        "reference-name": "Drab Wall Piece 10",
+        "reference-name": "Drab Wall Piece",
         "name": "褐色-墙10"
     },
     "rct2ww.scenery_small.wdrab12": {
-        "reference-name": "Drab Wall Piece 11",
+        "reference-name": "Drab Wall Piece",
         "name": "褐色-墙11"
     },
     "rct2ww.scenery_small.wdrab13": {
-        "reference-name": "Drab Step-up Piece 2",
+        "reference-name": "Drab Step-up Piece",
         "name": "褐色-上升2"
     },
     "rct2ww.scenery_small.wgeorg07": {
-        "reference-name": "Georgian Ground Floor Wall Piece 4",
+        "reference-name": "Georgian Ground Floor Wall Piece",
         "name": "格鲁吉亚-底层墙4"
     },
     "rct2ww.scenery_small.wgeorg08": {
-        "reference-name": "Georgian Ground Floor Wall Piece 5",
+        "reference-name": "Georgian Ground Floor Wall Piece",
         "name": "格鲁吉亚-底层墙5"
     },
     "rct2ww.scenery_small.wgeorg09": {
-        "reference-name": "Georgian Ground Floor Wall Piece 6",
+        "reference-name": "Georgian Ground Floor Wall Piece",
         "name": "格鲁吉亚-底层墙6"
     },
     "rct2ww.scenery_small.wgeorg10": {
-        "reference-name": "Georgian Wall Piece 4",
+        "reference-name": "Georgian Wall Piece",
         "name": "格鲁吉亚-墙4"
     },
     "rct2ww.scenery_small.wgeorg11": {
-        "reference-name": "Georgian Wall Piece 5",
+        "reference-name": "Georgian Wall Piece",
         "name": "格鲁吉亚-墙5"
     },
     "rct2ww.scenery_small.wgeorg12": {
-        "reference-name": "Georgian Wall Piece 6",
+        "reference-name": "Georgian Wall Piece",
         "name": "格鲁吉亚-墙6"
     },
     "rct2ww.scenery_small.wkreml01": {
-        "reference-name": "Kremlin Step-up Wall Piece 1",
+        "reference-name": "St. Basil’s Cathedral Step-up Wall Piece",
         "name": "克里姆林宫-上升墙1"
     },
     "rct2ww.scenery_small.wkreml02": {
-        "reference-name": "Kremlin Step-up Wall Piece 2",
+        "reference-name": "St. Basil’s Cathedral Step-up Wall Piece",
         "name": "克里姆林宫-上升墙2"
     },
     "rct2ww.scenery_small.wkreml03": {
-        "reference-name": "Kremlin Wall Piece 1",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "克里姆林宫-墙1"
     },
     "rct2ww.scenery_small.wkreml04": {
-        "reference-name": "Kremlin Wall Piece 2",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "克里姆林宫-墙2"
     },
     "rct2ww.scenery_small.wkreml05": {
-        "reference-name": "Kremlin Wall Piece 3",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "克里姆林宫-墙3"
     },
     "rct2ww.scenery_small.wkreml06": {
-        "reference-name": "Kremlin Wall Piece 4",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "克里姆林宫-墙4"
     },
     "rct2ww.scenery_small.wmayan01": {
@@ -10980,7 +10996,7 @@
         "name": "航海-屋顶栏杆"
     },
     "rct2ww.scenery_small.wtudor12": {
-        "reference-name": "Tudor Wall Piece 4",
+        "reference-name": "Tudor Wall Piece",
         "name": "都铎王朝-墙4"
     },
     "rct2ww.scenery_small.wtudor13": {
@@ -10988,31 +11004,31 @@
         "name": "都铎王朝-突出墙体"
     },
     "rct2ww.scenery_small.wtudor14": {
-        "reference-name": "Tudor Ground Floor Wall Piece 1",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "都铎王朝-底层墙体1"
     },
     "rct2ww.scenery_small.wtudor15": {
-        "reference-name": "Tudor Ground Floor Wall Piece 2",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "都铎王朝-底层墙体2"
     },
     "rct2ww.scenery_small.wtudor16": {
-        "reference-name": "Tudor Ground Floor Wall Piece 3",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "都铎王朝-底层墙体3"
     },
     "rct2ww.scenery_small.wtudor17": {
-        "reference-name": "Tudor Ground Floor Wall Piece 4",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "都铎王朝-底层墙体4"
     },
     "rct2ww.scenery_small.wtudor18": {
-        "reference-name": "Tudor Ground Floor Wall Piece 5",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "都铎王朝-底层墙体5"
     },
     "rct2ww.scenery_wall.tmarch1": {
-        "reference-name": "Maharaja Palace Arch 1",
+        "reference-name": "Maharaja Palace Arch",
         "name": "印度邦主皇宫-拱门1"
     },
     "rct2ww.scenery_wall.tmarch2": {
-        "reference-name": "Maharaja Palace Arch 2",
+        "reference-name": "Maharaja Palace Arch",
         "name": "印度邦主皇宫-拱门2"
     },
     "rct2ww.scenery_wall.w2corr01": {
@@ -11224,39 +11240,39 @@
         "name": "竹墙"
     },
     "rct2ww.scenery_wall.wbrick01": {
-        "reference-name": "Red Brick Wall Piece 1",
+        "reference-name": "Red Brick Wall Piece",
         "name": "红砖墙1"
     },
     "rct2ww.scenery_wall.wbrick02": {
-        "reference-name": "Red Brick Wall Piece 2",
+        "reference-name": "Red Brick Wall Piece",
         "name": "红砖墙2"
     },
     "rct2ww.scenery_wall.wbrick03": {
-        "reference-name": "Red Brick Wall Piece 3",
+        "reference-name": "Red Brick Wall Piece",
         "name": "红砖墙3"
     },
     "rct2ww.scenery_wall.wbrick04": {
-        "reference-name": "Red Brick Wall Piece 4",
+        "reference-name": "Red Brick Wall Piece",
         "name": "红砖墙4"
     },
     "rct2ww.scenery_wall.wbrick05": {
-        "reference-name": "Red Brick Wall Piece 5",
+        "reference-name": "Red Brick Wall Piece",
         "name": "红砖墙5"
     },
     "rct2ww.scenery_wall.wbrick08": {
-        "reference-name": "Red Brick Wall Piece 8",
+        "reference-name": "Red Brick Wall Piece",
         "name": "红砖墙8"
     },
     "rct2ww.scenery_wall.wbrick11": {
-        "reference-name": "Red Brick Wall Piece 11",
+        "reference-name": "Red Brick Wall Piece",
         "name": "红砖墙11"
     },
     "rct2ww.scenery_wall.wbrick12": {
-        "reference-name": "Red Brick Wall Piece 12",
+        "reference-name": "Red Brick Wall Piece",
         "name": "红砖墙12"
     },
     "rct2ww.scenery_wall.wbrick13": {
-        "reference-name": "Red Brick Wall Piece 13",
+        "reference-name": "Red Brick Wall Piece",
         "name": "红砖墙13"
     },
     "rct2ww.scenery_wall.wcorr01": {
@@ -11324,59 +11340,59 @@
         "name": "金属-墙面"
     },
     "rct2ww.scenery_wall.wdrab01": {
-        "reference-name": "Drab Wall Piece 1",
+        "reference-name": "Drab Wall Piece",
         "name": "褐色-墙1"
     },
     "rct2ww.scenery_wall.wdrab02": {
-        "reference-name": "Drab Wall Piece 2",
+        "reference-name": "Drab Wall Piece",
         "name": "褐色-墙2"
     },
     "rct2ww.scenery_wall.wdrab03": {
-        "reference-name": "Drab Wall Piece 3",
+        "reference-name": "Drab Wall Piece",
         "name": "褐色-墙3"
     },
     "rct2ww.scenery_wall.wdrab04": {
-        "reference-name": "Drab Wall Piece 4",
+        "reference-name": "Drab Wall Piece",
         "name": "褐色-墙4"
     },
     "rct2ww.scenery_wall.wdrab05": {
-        "reference-name": "Drab Wall Piece 5",
+        "reference-name": "Drab Wall Piece",
         "name": "褐色-墙5"
     },
     "rct2ww.scenery_wall.wdrab06": {
-        "reference-name": "Drab Wall Piece 6",
+        "reference-name": "Drab Wall Piece",
         "name": "褐色-墙6"
     },
     "rct2ww.scenery_wall.wdrab07": {
-        "reference-name": "Drab Wall Piece 7",
+        "reference-name": "Drab Wall Piece",
         "name": "褐色-墙7"
     },
     "rct2ww.scenery_wall.wdrab08": {
-        "reference-name": "Drab Wall Piece 8",
+        "reference-name": "Drab Wall Piece",
         "name": "褐色-墙8"
     },
     "rct2ww.scenery_wall.wgeorg01": {
-        "reference-name": "Georgian Wall Piece 1",
+        "reference-name": "Georgian Wall Piece",
         "name": "格鲁吉亚-墙1"
     },
     "rct2ww.scenery_wall.wgeorg02": {
-        "reference-name": "Georgian Ground Floor Wall Piece 1",
+        "reference-name": "Georgian Ground Floor Wall Piece",
         "name": "格鲁吉亚-底层墙1"
     },
     "rct2ww.scenery_wall.wgeorg03": {
-        "reference-name": "Georgian Wall Piece 2",
+        "reference-name": "Georgian Wall Piece",
         "name": "格鲁吉亚-墙2"
     },
     "rct2ww.scenery_wall.wgeorg04": {
-        "reference-name": "Georgian Ground Floor Wall Piece 2",
+        "reference-name": "Georgian Ground Floor Wall Piece",
         "name": "格鲁吉亚-底层墙2"
     },
     "rct2ww.scenery_wall.wgeorg05": {
-        "reference-name": "Georgian Wall Piece 3",
+        "reference-name": "Georgian Wall Piece",
         "name": "格鲁吉亚-墙3"
     },
     "rct2ww.scenery_wall.wgeorg06": {
-        "reference-name": "Georgian Ground Floor Wall Piece 3",
+        "reference-name": "Georgian Ground Floor Wall Piece",
         "name": "格鲁吉亚-底层墙3"
     },
     "rct2ww.scenery_wall.wgwoc1": {
@@ -11400,19 +11416,19 @@
         "name": "圆屋顶的小屋的墙"
     },
     "rct2ww.scenery_wall.wkreml07": {
-        "reference-name": "Kremlin Wall Piece 5",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "克里姆林宫-墙5"
     },
     "rct2ww.scenery_wall.wkreml08": {
-        "reference-name": "Kremlin Wall Piece 6",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "克里姆林宫-墙6"
     },
     "rct2ww.scenery_wall.wkreml09": {
-        "reference-name": "Kremlin Wall Piece 7",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "克里姆林宫-墙7"
     },
     "rct2ww.scenery_wall.wkreml10": {
-        "reference-name": "Kremlin Wall Piece 8",
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
         "name": "克里姆林宫-墙8"
     },
     "rct2ww.scenery_wall.wlog01": {
@@ -11612,15 +11628,15 @@
         "name": "日本-障子墙"
     },
     "rct2ww.scenery_wall.wskysc01": {
-        "reference-name": "Skyscraper Metal Set 2 Wall Piece",
+        "reference-name": "Skyscraper Metal Set Wall Piece",
         "name": "摩天大楼金属合金设定二面墙"
     },
     "rct2ww.scenery_wall.wskysc02": {
-        "reference-name": "Skyscraper Metal Set 2 Wall Piece",
+        "reference-name": "Skyscraper Metal Set Wall Piece",
         "name": "摩天大楼金属合金设定二面墙"
     },
     "rct2ww.scenery_wall.wskysc03": {
-        "reference-name": "Skyscraper Metal Set 1 Wall Piece",
+        "reference-name": "Skyscraper Metal Set Wall Piece",
         "name": "摩天大楼金属合金设定一面墙"
     },
     "rct2ww.scenery_wall.wskysc04": {
@@ -11660,47 +11676,47 @@
         "name": "石制摩天大楼墙"
     },
     "rct2ww.scenery_wall.wtudor01": {
-        "reference-name": "Tudor Ground Floor Wall Piece 1",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "都铎王朝-底层墙体1"
     },
     "rct2ww.scenery_wall.wtudor02": {
-        "reference-name": "Tudor Ground Floor Wall Piece 2",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "都铎王朝-底层墙体"
     },
     "rct2ww.scenery_wall.wtudor03": {
-        "reference-name": "Tudor Ground Floor Wall Piece 3",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "都铎王朝-底层墙体3"
     },
     "rct2ww.scenery_wall.wtudor04": {
-        "reference-name": "Tudor Ground Floor Wall Piece 4",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "都铎王朝-底层墙体4"
     },
     "rct2ww.scenery_wall.wtudor05": {
-        "reference-name": "Tudor Ground Floor Wall Piece 5",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "都铎王朝-底层墙体5"
     },
     "rct2ww.scenery_wall.wtudor06": {
-        "reference-name": "Tudor Ground Floor Wall Piece 6",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "都铎王朝-底层墙体6"
     },
     "rct2ww.scenery_wall.wtudor07": {
-        "reference-name": "Tudor Ground Floor Wall Piece 7",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "都铎王朝-底层墙体7"
     },
     "rct2ww.scenery_wall.wtudor08": {
-        "reference-name": "Tudor Ground Floor Wall Piece 8",
+        "reference-name": "Tudor Ground Floor Wall Piece",
         "name": "都铎王朝-底层墙体8"
     },
     "rct2ww.scenery_wall.wtudor09": {
-        "reference-name": "Tudor Wall Piece 1",
+        "reference-name": "Tudor Wall Piece",
         "name": "都铎王朝-墙1"
     },
     "rct2ww.scenery_wall.wtudor10": {
-        "reference-name": "Tudor Wall Piece 2",
+        "reference-name": "Tudor Wall Piece",
         "name": "都铎王朝-墙2"
     },
     "rct2ww.scenery_wall.wtudor11": {
-        "reference-name": "Tudor Wall Piece 3",
+        "reference-name": "Tudor Wall Piece",
         "name": "都铎王朝-墙3"
     },
     "rct2ww.scenery_wall.wwdaub01": {
