@@ -1,0 +1,3823 @@
+# STR_XXXX part is read and XXXX becomes the string id number.
+# Everything after the colon and before the new line will be saved as the string.
+# Use # at the beginning of a line to leave a comment.
+
+STR_0000    :
+STR_0001    :{STRINGID} {COMMA16}
+STR_0002    :Roller Coaster Spiral
+STR_0003    :Roller Coaster Berdiri
+STR_0004    :Roller Coaster Gantung yang Berayun
+STR_0005    :Roller Coaster Terbalik
+STR_0006    :Roller Coaster Junior
+STR_0007    :Kereta Api Miniatur
+STR_0008    :Monorail
+STR_0009    :Roller Coaster Gantung Mini
+STR_0010    :Sewa Perahu
+STR_0011    :Tikus Liar Kayu (Wooden Wild Mouse)
+STR_0012    :Steeplechase
+STR_0013    :Wahana Mobil
+STR_0014    :Diluncurkan Jatuh Bebas
+STR_0015    :Bobsleigh Coaster
+STR_0016    :Menara Observasi
+STR_0017    :Roller Coaster Berputar
+STR_0018    :Seluncuran Perahu Karet
+STR_0019    :Kereta Api Mini
+STR_0020    :Kursi Lift
+STR_0021    :Roller Coaster Putar
+STR_0022    :Labirin
+STR_0023    :Slide Spiral
+STR_0024    :Go-Kart
+STR_0025    :Saluran Log
+STR_0026    :Jerami Sungai
+STR_0027    :Dodgems
+STR_0028    :Kapal Berayun
+STR_0029    :Kapal Inverter Berayun
+STR_0030    :Warung Makan
+STR_0032    :Warung Minuman
+STR_0034    :Toko
+STR_0035    :Komedi Putar
+STR_0037    :Kios Informasi
+STR_0038    :Toilet
+STR_0039    :Bianglala
+STR_0040    :Simulator Gerak
+STR_0041    :Bioskop 3D
+STR_0042    :Putaran Atas
+STR_0043    :Cincin Luar Angkasa
+STR_0044    :Roller Coaster Jatuh Bebas Terbalik
+STR_0045    :Lift
+STR_0046    :Roller Coaster Turun Vertikal
+STR_0047    :Mesin ATM
+STR_0048    :Putaran
+STR_0049    :Rumah Berhantu
+STR_0050    :Ruang Pertolongan Pertama
+STR_0051    :Sirkus
+STR_0052    :Kereta Hantu
+STR_0053    :Roller Coaster Twister
+STR_0054    :Roller Coaster Kayu
+STR_0055    :Roller Coaster Gesekan Samping
+STR_0056    :Tikus Liar Baja
+STR_0057    :Roller Coaster Multi-Dimensi
+STR_0058    :Kendaraan Tak Dikenal (38)
+STR_0059    :Roller Coaster Terbang
+STR_0060    :Kendaraan Tak Dikenal (3A)
+STR_0061    :Gulungan Virginia
+STR_0062    :Perahu Percikan
+STR_0063    :Helikopter Mini
+STR_0064    :Roller Coaster yang Dapat Diturunkan
+STR_0065    :Monorel Gantung
+STR_0066    :Kendaraan Tak Dikenal (40)
+STR_0067    :Roller Coaster Terbalik
+STR_0068    :Heartline Twister Coaster
+STR_0069    :Mini Golf
+STR_0070    :Giga Coaster
+STR_0071    :Roto-Drop
+STR_0072    :Piring Terbang
+STR_0073    :Rumah Bengkok
+STR_0074    :Sepeda Monorail
+STR_0075    :Roller Coaster Terbalik Kompak
+STR_0076    :Water Coaster
+STR_0077    :Roller Coaster Vertikal Bertenaga Udara
+STR_0078    :Roller Coaster Jepit Rambut Terbalik
+STR_0079    :Karpet Ajaib
+STR_0080    :Wahana Kapal Selam
+STR_0081    :Rakit Sungai
+STR_0083    :Perusahaan
+STR_0088    :Roller Coaster Impuls Terbalik
+STR_0089    :Roller Coaster Mini
+STR_0090    :Perjalanan Tambang
+STR_0092    :LIM Meluncurkan Roller Coaster
+STR_0093    :Roller Coaster Hibrida
+STR_0094    :Roller Coaster Rel Tunggal
+STR_0095    :Alpine Coaster
+STR_0096    :Roller Coaster Kayu Klasik
+STR_0097    :Roller Coaster Klasik Berdiri
+STR_0098    :Roller Coaster yang Diluncurkan LSM
+STR_0099    :Roller Coaster Twister Kayu Klasik
+STR_0512    :Sebuah roller coaster kompak dengan tanjakan spiral dan turunan yang mulus dan berliku.
+STR_0513    :Roller coaster berputar di mana penumpang naik dalam posisi berdiri. 
+STR_0514    :Kereta yang digantung di bawah lintasan roller coaster berayun ke samping di tikungan. 
+STR_0515    :Roller coaster baja dengan kereta yang ditahan di bawah lintasan, dengan banyak elemen lintasan yang kompleks dan berliku. 
+STR_0516    :Roller coaster yang lembut untuk orang-orang yang belum berani menghadapi wahana yang lebih besar. 
+STR_0517    :Penumpang menaiki kereta miniatur di sepanjang jalur kereta api jalur sempit. 
+STR_0518    :Penumpang melakukan perjalanan dengan kereta listrik di sepanjang jalur monorel.
+STR_0519    :Penumpang menaiki mobil kecil yang tergantung di bawah rel tunggal, berayun bebas dari sisi ke sisi di tikungan. 
+STR_0520    :Sebuah platform dermaga tempat para pengunjung dapat mengendarai/mendayung perahu pribadi di perairan. 
+STR_0521    :Sebuah roller coaster cepat dan berliku dengan tikungan tajam dan penurunan curam. Intensitasnya pasti tinggi.
+STR_0522    :Roller coaster yang lebih kecil di mana penumpang duduk di atas lintasan tanpa mobil di sekitar mereka. 
+STR_0523    :Penumpang melakukan perjalanan perlahan dengan kendaraan bertenaga di sepanjang rute berbasis lintasan. 
+STR_0524    :Mobil jatuh bebas diluncurkan secara pneumatik ke atas menara baja tinggi dan kemudian dibiarkan jatuh bebas ke bawah. 
+STR_0525    :Penumpang meluncur menuruni lintasan berliku yang hanya dipandu oleh kelengkungan dan kemiringan lintasan setengah lingkaran. 
+STR_0526    :Penumpang melakukan perjalanan di kabin observasi berputar yang bergerak naik ke menara tinggi. 
+STR_0527    :Roller coaster dengan lintasan baja halus yang mampu melakukan putaran vertikal. 
+STR_0528    :Penumpang melakukan perjalanan dengan perahu karet di sepanjang lintasan setengah lingkaran berliku atau lintasan tabung tertutup sepenuhnya. 
+STR_0529    :Kereta roller coaster bertema kereta tambang melaju di sepanjang lintasan roller coaster baja yang dibuat agar terlihat seperti rel kereta api tua. 
+STR_0530    :Mobil tergantung dari kabel baja yang membentang terus menerus dari satu ujung wahana ke ujung lainnya dan kembali lagi. 
+STR_0531    :Sebuah Roller coaster kompak dengan rel baja di mana kereta melaju melalui putaran dan lingkaran 
+STR_0532    :Labirin dibangun dari pagar atau dinding setinggi 6 kaki, dan para pengunjung berkeliaran di sekitar labirin dan hanya keluar ketika mereka menemukan jalan keluar 
+STR_0533    :Bangunan kayu dengan tangga internal dan seluncuran spiral eksternal untuk digunakan dengan matras seluncuran 
+STR_0534    :Para pengunjung saling beradu kecepatan di go-kart di lintasan aspal STR_0535:Perahu-perahu melaju di sepanjang saluran air, memercikkan air ke lereng curam untuk membasahi para penumpang 
+STR_0536    :Perahu-perahu bundar berkelok-kelok di sepanjang saluran air yang lebar, memercikkan air terjun dan memberikan sensasi mendebarkan kepada para penumpang melalui jeram yang berbusa 
+STR_0537    :Para pengunjung saling bertabrakan di mobil tabrak listrik yang dapat dikemudikan sendiri 
+STR_0538    :Kapal bajak laut besar yang berayun
+STR_0539    :Kapal terpasang pada lengan dengan pemberat di ujung yang berlawanan, dan berayun hingga 360 derajat penuh. STR_0540:Sebuah kios tempat pengunjung dapat membeli makanan. 
+STR_0542    :Sebuah kios tempat pengunjung dapat membeli minuman.
+STR_0544    :Sebuah kios yang menjual oleh-oleh
+STR_0545    :Komedi putar tradisional dengan kuda kayu berukir
+STR_0547    :Sebuah kios tempat pengunjung dapat memperoleh peta taman dan membeli payung. 
+STR_0548    :Sebuah bangunan toilet.
+STR_0549    :Roda besar berputar dengan kursi terbuka
+STR_0550    :Pengunjung menonton film di dalam pod simulator gerak sementara pod tersebut diputar dan digerakkan oleh lengan hidrolik. 
+STR_0551    :Bioskop yang menayangkan film 3D di dalam bangunan berbentuk bola geodesik. 
+STR_0552    :Penumpang menaiki gondola yang digantung oleh lengan putar besar, berputar maju dan mundur terbalik. 
+STR_0553    :Cincin putar konsentris memungkinkan pengunjung berputar bebas ke segala arah. 
+STR_0554    :Kereta dipercepat keluar dari stasiun di sepanjang jalur datar yang panjang menggunakan Motor Induksi Linier, kemudian langsung menuju ke atas jalur vertikal yang runcing, jatuh bebas kembali ke stasiun. 
+STR_0555    :Pengunjung menaiki lift naik atau turun menara vertikal untuk berpindah dari satu tingkat ke tingkat lainnya. 
+STR_0556    :Kereta ekstra lebar menuruni jalur miring vertikal sepenuhnya untuk pengalaman roller coaster jatuh bebas yang paling ekstrem. 
+STR_0557    :ATM (Mesin Uang Tunai) untuk digunakan pengunjung jika kehabisan uang. 
+STR_0558    :Pengunjung menaiki wahana berpasangan. Kursi-kursi yang berputar di sekitar ujung tiga lengan putar panjang 
+STR_0559    :Bangunan bertema besar yang berisi koridor menakutkan dan ruangan-ruangan menyeramkan 
+STR_0560    :Tempat bagi pengunjung yang sakit untuk pulih lebih cepat
+STR_0561    :Pertunjukan hewan sirkus di dalam tenda sirkus besar
+STR_0562    :Mobil-mobil bertenaga melaju di sepanjang lintasan bertingkat melewati pemandangan menyeramkan dan efek khusus. 
+STR_0563    :Duduk di kereta yang nyaman dengan hanya pengaman pangkuan sederhana, pengendara menikmati penurunan mulus yang besar dan lintasan berkelok-kelok serta banyak "waktu melayang" di atas bukit. 
+STR_0564    :Berjalan di atas lintasan kayu, roller coaster ini cepat, kasar, berisik, dan memberikan pengalaman berkendara yang "di luar kendali" dengan banyak "waktu melayang".
+STR_0565    :Sebuah roller coaster kayu sederhana yang hanya mampu melewati lereng dan tikungan landai, di mana gerbong hanya tetap berada di lintasan berkat roda gesekan samping dan gravitasi. 
+STR_0566    :Gerbong roller coaster individual melaju kencang di sekitar lintasan zig-zag yang sempit dengan tikungan tajam dan penurunan curam yang pendek. 
+STR_0567    :Duduk di kursi yang digantung di kedua sisi lintasan, pengendara terombang-ambing saat mereka terjun ke bawah dari penurunan curam dan melewati berbagai inversi. 
+STR_0569    :Mengendarai dengan sabuk pengaman khusus di bawah lintasan, pengendara merasakan sensasi terbang saat mereka meluncur di udara. 
+STR_0571    :Gerbong bundar berputar saat mereka melaju di sepanjang lintasan kayu zig-zag. 
+STR_0572    :Perahu berkapasitas besar melaju di sepanjang saluran air yang lebar, didorong ke atas lereng oleh sabuk konveyor, berakselerasi menuruni lereng curam untuk membasahi pengendara dengan cipratan besar. 
+STR_0573    :Gerbong berbentuk helikopter bertenaga yang berjalan di atas lintasan baja, dikendalikan oleh kayuhan pedal pengendara. 
+STR_0574    :Pengunjung diikat dengan sabuk pengaman khusus dalam posisi berbaring, melewati jalur berliku dan inversi baik dalam posisi telentang maupun menghadap ke tanah. 
+STR_0575    :Kereta bertenaga yang tergantung pada rel tunggal mengangkut orang-orang di sekitar taman. 
+STR_0577    :Mobil bogie berjalan di atas rel kayu, berputar di bagian pembalik khusus. 
+STR_0578    :Mobil berjalan di sepanjang rel yang dikelilingi oleh lingkaran, melintasi turunan curam dan tikungan tajam. 
+STR_0579    :Permainan golf mini yang menyenangkan. 
+STR_0580    :Roller coaster baja raksasa yang mampu melakukan penurunan halus dan bukit setinggi lebih dari 300 kaki. 
+STR_0581    :Sekumpulan kursi ditarik ke puncak menara tinggi sambil berputar perlahan, kemudian dibiarkan jatuh bebas, berhenti perlahan di bagian bawah menggunakan rem magnetik. 
+STR_0582    :Pengunjung menaiki kendaraan hovercraft yang dapat mereka kendalikan secara bebas. 
+STR_0583    :Bangunan yang berisi ruangan melengkung dan koridor bersudut untuk membingungkan orang yang berjalan melewatinya. 
+STR_0584    :Sepeda khusus berjalan di atas rel monorel baja, digerakkan oleh kayuhan pedal pengendara. 
+STR_0585    :Pengendara duduk berpasangan di kursi yang digantung di bawah rel saat mereka berputar dan berbelok melalui inversi yang tajam. 
+STR_0586    :Mobil berbentuk perahu berjalan di atas rel roller coaster untuk memungkinkan tikungan berliku dan penurunan curam, memercik ke bagian air untuk bagian sungai yang landai. 
+STR_0587    :Setelah peluncuran bertenaga udara yang mendebarkan, kereta melaju kencang di atas rel vertikal, melewati puncak, dan turun vertikal di sisi lain untuk kembali ke stasiun. 
+STR_0588    :Mobil-mobil individual berjalan di bawah rel zig-zag dengan tikungan tajam dan penurunan yang curam. 
+STR_0589    :Sebuah mobil besar bertema karpet terbang yang bergerak naik turun secara siklik di ujung 4 lengan. 
+STR_0590    :Pengendara menaiki kapal selam yang terendam melalui jalur bawah air. 
+STR_0591    :Perahu berbentuk rakit dengan lembut berkelok-kelok di sekitar jalur sungai.
+STR_0593    :Roda berputar dengan pod penumpang yang digantung, yang pertama kali mulai berputar dan kemudian dimiringkan ke atas oleh lengan penyangga. 
+STR_0598    :Kereta roller coaster terbalik dipercepat keluar dari stasiun untuk menaiki jalur vertikal, kemudian berbalik kembali melalui stasiun untuk menaiki jalur vertikal lainnya. 
+STR_0599    :Roller coaster kompak dengan gerbong individual dan turunan berliku yang halus. 
+STR_0600    :Kereta tambang bertenaga melaju di sepanjang tata letak jalur yang halus dan berliku. STR_0602:Kereta roller coaster dipercepat keluar dari stasiun oleh motor induksi linier untuk melaju melalui inversi berliku. 
+STR_0603    :Roller coaster bergaya kayu dengan jalur baja, memungkinkan turunan curam dan inversi. 
+STR_0604    :Penumpang menaiki jalur monorel sempit, saat mereka berpacu melalui inversi dan perubahan arah yang ketat. 
+STR_0605    :Penumpang meluncur menuruni jalur baja yang berkelok-kelok, mengerem untuk mengontrol kecepatan mereka. 
+STR_0606    :Roller coaster kayu bergaya lama. Roller coaster dengan perjalanan yang cepat dan kasar, dengan banyak sensasi melayang di udara, beberapa gaya gravitasi lateral, dan dirancang untuk memberikan sensasi "di luar kendali".
+STR_0607    :Roller coaster baja bergaya lama yang intens dengan putaran di mana pengendara menaiki wahana dalam posisi berdiri 
+STR_0608    :Kereta roller coaster dipercepat oleh motor sinkron linier, melaju kencang melalui tikungan dan belokan yang tajam 
+STR_0609    :Roller coaster kayu bergaya lama dengan perjalanan yang cepat dan kasar yang menampilkan kereta artikulasi, banyak sensasi melayang di udara, dan lintasan yang berliku 
+STR_0767    :pengunjung {INT32}
+STR_0768    :Tukang Serbaguna {INT32}
+STR_0769    :Mekanik {INT32}
+STR_0770    :Penjaga Keamanan {INT32}
+STR_0771    :Penghibur {INT32}
+STR_0777    :Taman tanpa nama
+STR_0778    :Tanda Tangan/Tanda
+STR_0779    :1
+STR_0780    :2
+STR_0781    :3
+STR_0782    :4
+STR_0783    :5
+STR_0784    :6
+STR_0785    :7
+STR_0786    :8
+STR_0787    :9
+STR_0788    :10
+STR_0789    :11
+STR_0790    :12
+STR_0791    :13
+STR_0792    :14
+STR_0793    :15
+STR_0794    :16
+STR_0795    :17
+STR_0796    :18
+STR_0797    :19
+STR_0798    :20
+STR_0799    :21
+STR_0800    :22
+STR_0801    :23
+STR_0802    :24
+STR_0803    :25
+STR_0804    :26
+STR_0805    :27
+STR_0806    :28
+STR_0807    :29
+STR_0808    :30
+STR_0809    :31
+STR_0810    :Jan
+STR_0811    :Feb
+STR_0812    :Mar
+STR_0813    :Apr
+STR_0814    :Mei
+STR_0815    :Jun
+STR_0816    :Juli
+STR_0817    :Agust
+STR_0818    :Sep
+STR_0819    :Okt
+STR_0820    :Nov
+STR_0821    :Des
+STR_0822    :Tidak dapat mengakses file data grafis
+STR_0823    :Berkas data hilang atau tidak dapat diakses
+STR_0824    :{BLACK}❌
+STR_0825    :Nama yang dipilih sudah digunakan
+STR_0826    :Terlalu banyak nama yang didefinisikan
+STR_0827    :Uang tunai tidak cukup - memerlukan {CURRENCY2DP}
+STR_0828    :Tutup jendela
+STR_0829    :Judul jendela - Seret ini untuk memindahkan jendela
+STR_0830    :Perbesar mendekat
+STR_0831    :Perbesar menjauh 
+STR_0832    :Putar tampilan 90° searah jarum jam
+STR_0833    :Jeda permainan
+STR_0834    :Opsi disk dan game
+STR_0839    :{UINT16} × {UINT16}
+STR_0847    :Tentang ‘OpenRCT2’
+STR_0850    :{WINDOW_COLOUR_2}Hak Cipta © 2002 Chris Sawyer, semua hak dilindungi undang-undang 
+STR_0851    :{WINDOW_COLOUR_2}Dirancang dan diprogram oleh Chris Sawyer
+STR_0852    :{WINDOW_COLOUR_2}Grafis oleh Simon Foster
+STR_0853    :{WINDOW_COLOUR_2}Suara dan musik oleh Allister Brimble
+STR_0854    :{WINDOW_COLOUR_2}Suara tambahan direkam oleh David Ellis
+STR_0855    :{WINDOW_COLOUR_2}Representasi oleh Jacqui Lyons di Marjacq Ltd.
+STR_0856    :{WINDOW_COLOUR_2} Terima kasih kepada:
+STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, dan John Wardley
+STR_0865    :{STRINGID}
+STR_0866    :{POP16}{STRINGID}
+STR_0867    :{POP16}{POP16}{STRINGID}
+STR_0868    :{POP16}{POP16}{POP16}{STRINGID}
+STR_0869    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_0870    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_0871    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_0872    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_0876    :{BLACK}▼
+STR_0877    :Terlalu rendah!
+STR_0878    :Terlalu tinggi!
+STR_0879    :Tidak bisa menurunkan tanah di sini…
+STR_0880    :Tidak bisa menaikkan lahan di sini…
+STR_0881    :Ada benda yang menghalangi
+STR_0882    :Muat Game
+STR_0883    :Simpan Permainan
+STR_0884    :Muat Lanskap
+STR_0885    :Simpan Lanskap
+STR_0887    :Keluar dari Editor Skenario
+STR_0888    :Keluar dari Perancang Trek
+STR_0889    :Manajer Desain Jalur Keluar
+STR_0891    :Tangkapan layar
+STR_0892    :Screenshot disimpan ke disk sebagai ‘{STRINGID}’
+STR_0893    :Tangkapan layar gagal!
+STR_0894    :Area data lanskap penuh!
+STR_0895    :Tidak dapat membangun sebagian di atas dan sebagian di bawah tanah
+STR_0896    :{STRINGID} Konstruksi
+STR_0897    :Arah
+STR_0898    :Kurva kiri
+STR_0899    :Kurva tangan kanan
+STR_0900    :Kurva kiri (radius kecil)
+STR_0901    :Kurva tangan kanan (radius kecil)
+STR_0902    :Kurva kiri (radius sangat kecil)
+STR_0903    :Kurva tangan kanan (radius sangat kecil)
+STR_0904    :Kurva kiri (radius besar)
+STR_0905    :Kurva kanan (radius besar)
+STR_0906    :Lurus
+STR_0907    :Kemiringan
+STR_0908    :Gulir/Perbankan
+STR_0909    :Rotasi Kursi.
+STR_0910    :Gulirkan untuk kurva tangan kiri
+STR_0911    :Gulir untuk kurva tangan kanan
+STR_0912    :Tidak ada gulungan
+STR_0913    :Pindah ke bagian sebelumnya
+STR_0914    :Pindah ke bagian berikutnya
+STR_0915    :Susun bagian yang dipilih
+STR_0916    :Hapus bagian yang disorot
+STR_0917    :Jatuh vertikal
+STR_0918    :Lereng curam menurun
+STR_0919    :Lereng menurun
+STR_0920    :Level
+STR_0921    :Kemiringan ke atas
+STR_0922    :Lereng curam ke atas
+STR_0923    :Kenaikan vertikal
+STR_0924    :Helix turun
+STR_0925    :Helix naik
+STR_0926    :Tidak dapat menghapus ini…
+STR_0927    :Tidak dapat membuat ini di sini…
+STR_0928    :Pengangkat rantai, untuk menarik mobil menaiki tanjakan
+STR_0929    :‘S’ Bend (kiri)
+STR_0930    :‘S’ Bend (kanan)
+STR_0931    :Lingkaran Vertikal (kiri)
+STR_0932    :Lingkaran Vertikal (kanan)
+STR_0933    :Naikkan atau turunkan tanah terlebih dahulu
+STR_0934    :Pintu masuk wahana menghalangi jalan
+STR_0935    :Pintu keluar wahana menghalangi jalan
+STR_0936    :Pintu masuk taman menghalangi
+STR_0937    :Lihat opsi
+STR_0938    :Sesuaikan ketinggian dan kemiringan lahan
+STR_0939    :Pemandangan Bawah Tanah/Dalam
+STR_0940    :Sembunyikan Lahan Dasar
+STR_0941    :Sembunyikan Permukaan Vertikal
+STR_0942    :Wahana Transparan
+STR_0943    :Pemandangan Tembus Pandang
+STR_0944    :Simpan
+STR_0945    :Jangan Simpan
+STR_0946    :Batal
+STR_0947    :Simpan ini sebelum memuat?
+STR_0948    :Simpan ini sebelum keluar?
+STR_0949    :Simpan ini sebelum keluar?
+STR_0950    :Muat Game
+STR_0951    :Keluar dari Permainan
+STR_0952    :Keluar dari Permainan
+STR_0953    :Muat Lanskap
+STR_0955    :Pilih sudut rotasi kursi untuk bagian lintasan ini
+STR_0956    :-180°
+STR_0957    :-135°
+STR_0958    :-90°
+STR_0959    :-45°
+STR_0960    :0°
+STR_0961    :+45°
+STR_0962    :+90°
+STR_0963    :+135°
+STR_0964    :+180°
+STR_0965    :+225°
+STR_0966    :+270°
+STR_0967    :+315°
+STR_0968    :+360°
+STR_0969    :+405°
+STR_0970    :+450°
+STR_0971    :+495°
+STR_0972    :Batal
+STR_0973    :OK
+STR_0974    :Wahana
+STR_0975    :Toko dan Kios
+STR_0976    :Toilet dan Kios Informasi
+STR_0977    :Wahana Transportasi Baru
+STR_0978    :Wahana Lembut Baru
+STR_0979    :Roller Coaster Baru
+STR_0980    :Wahana Seru Baru
+STR_0981    :Wahana Air Baru
+STR_0982    :Toko & Kios Baru
+STR_0983    :Penelitian & Pengembangan
+STR_0984    :{WINDOW_COLOUR_2}▲{BLACK} {CURRENCY2DP}
+STR_0985    :{WINDOW_COLOUR_2}▼{BLACK} {CURRENCY2DP}
+STR_0986    :{BLACK}{MATA UANG2DP}
+STR_0987    :Terlalu banyak wahana/atraksi
+STR_0988    :Tidak dapat membuat wahana/atraksi baru…
+STR_0989    :{STRINGID}
+STR_0990    :Konstruksi
+STR_0991    :Peron stasiun
+STR_0992    :Hancurkan seluruh wahana/atraksi
+STR_0993    :Hancurkan wahana/atraksi
+STR_0994    :Hancurkan
+STR_0995    :{WINDOW_COLOUR_1}Apakah Anda yakin ingin menghancurkan {STRINGID} sepenuhnya?
+STR_0996    :Gambaran umum
+STR_0997    :Lihat pilihan
+STR_0998    :Tidak ada lagi stasiun yang diizinkan pada perjalanan ini
+STR_0999    :Membutuhkan peron stasiun
+STR_1000    :Trek bukan sirkuit lengkap
+STR_1001    :Jalur tidak cocok untuk jenis kereta api
+STR_1002    :Tidak dapat membuka {STRINGID}...
+STR_1003    :Tidak dapat menguji {STRINGID}...
+STR_1004    :Tidak dapat menutup {STRINGID}…
+STR_1005    :Tidak dapat memulai konstruksi pada {STRINGID}…
+STR_1006    :Harus ditutup terlebih dahulu
+STR_1007    :Tidak mampu memproduksi kendaraan dalam jumlah yang cukup
+STR_1008    :Buka, tutup, atau uji coba wahana/atraksi
+STR_1009    :Buka atau tutup semua wahana/atraksi
+STR_1010    :Buka atau tutup taman
+STR_1011    :Tutup semua
+STR_1012    :Buka semua
+STR_1013    :Tutup taman
+STR_1014    :Taman terbuka
+STR_1015    :Tidak dapat beroperasi dengan lebih dari satu peron stasiun dalam mode ini. 
+STR_1016    :Tidak dapat beroperasi dengan kurang dari dua stasiun dalam mode ini.
+STR_1017    :Tidak dapat mengubah mode operasi…
+STR_1018    :Tidak dapat melakukan perubahan…
+STR_1019    :Tidak dapat melakukan perubahan…
+STR_1020    :Tidak dapat melakukan perubahan…
+STR_1021    :{POP16}{POP16}{POP16}{POP16}{STRINGID}
+STR_1022    :{POP16}{POP16}{POP16}{COMMA16} mobil per kereta
+STR_1023    :{POP16}{POP16}{POP16}{COMMA16} mobil per kereta
+STR_1024    :{COMMA16} mobil per kereta
+STR_1025    :{COMMA16} mobil per kereta
+STR_1026    :Peron stasiun terlalu panjang!
+STR_1027    :Temukan ini di Tampilan Utama (Main Menu)
+STR_1028    :Di luar tepi peta! (Off edge of map!)
+STR_1029    :Tidak dapat membangun sebagian di atas dan sebagian di bawah air!
+STR_1030    :Hanya bisa dibangun di bawah air!
+STR_1031    :Tidak bisa membangun ini di bawah air!
+STR_1032    :Hanya bisa dibangun di atas air!
+STR_1033    :Hanya bisa dibangun di atas tanah!
+STR_1034    :Hanya bisa dibangun di darat!
+STR_1035    :Pihak berwenang setempat tidak mengizinkan pembangunan melebihi ketinggian pohon!
+STR_1036    :Muat Game
+STR_1037    :Muat Lanskap
+STR_1038    :Konversi game tersimpan ke skenario
+STR_1039    :Pasang desain trek baru
+STR_1040    :Simpan Permainan
+STR_1041    :Simpan Skenario
+STR_1042    :Simpan Lanskap
+STR_1043    :OpenRCT2 Saved Game
+STR_1044    :OpenRCT2 Scenario File
+STR_1045    :OpenRCT2 Landscape File
+STR_1046    :OpenRCT2 Track Design File
+STR_1047    :Game save failed!
+STR_1048    :Scenario save failed!
+STR_1049    :Landscape save failed!
+STR_1050    :Failed to load…{NEWLINE}File contains invalid data!
+STR_1051    :Invisible Supports
+STR_1052    :Invisible People
+STR_1053    :Wahana/atraksi di taman
+STR_1054    :Nama wahana/atraksi
+STR_1055    :Nama orang
+STR_1056    :Nama anggota staf
+STR_1057    :Nama wahana/atraksi
+STR_1058    :Masukkan nama baru untuk wahana/atraksi ini:
+STR_1059    :Tidak dapat mengganti nama wahana/atraksi…
+STR_1060    :Nama wahana/atraksi tidak valid
+STR_1061    :Mode normal
+STR_1062    :Mode sirkuit kontinu
+STR_1063    :Mode peluncuran ulang-alik dengan kemiringan terbalik
+STR_1064    :Perahu motor (melewati stasiun)
+STR_1065    :Mode antar-jemput
+STR_1066    :Mode sewa perahu
+STR_1067    :Peluncuran ke atas
+STR_1068    :Mode pengangkatan berputar
+STR_1069    :Mode stasiun ke stasiun
+STR_1070    :Satu kali naik per tiket masuk
+STR_1071    :Wahana tak terbatas per tiket masuk
+STR_1072    :Mode labirin
+STR_1073    :Mode Balapan
+STR_1074    :Mode mobil bemper
+STR_1075    :Mode ayunan
+STR_1076    :Mode kios toko
+STR_1077    :Mode rotasi
+STR_1078    :Rotasi ke depan
+STR_1079    :Rotasi mundur
+STR_1080    :Film:“Avenging Aviators”
+STR_1081    :Film 3D:“Ekor Tikus”
+STR_1082    :Mode cincin luar angkasa
+STR_1083    :Mode Pemula
+STR_1084    :Peluncuran bertenaga LIM
+STR_1085    :Film:“Thrill Riders”
+STR_1086    :Film 3D:“Storm Chasers”
+STR_1087    :Film 3D:“Space Raiders”
+STR_1088    :Mode Intens
+STR_1089    :Mode Mengamuk
+STR_1090    :Mode rumah hantu
+STR_1091    :Mode Sirkus
+STR_1092    :Peluncuran ke bawah
+STR_1093    :Mode rumah bengkok
+STR_1094    :Mode jatuh bebas
+STR_1095    :Mode penampang blok sirkuit kontinu
+STR_1096    :Peluncuran bertenaga (tanpa melewati stasiun)
+STR_1097    :Mode bagian blok peluncuran bertenaga
+STR_1098    :Pindah ke akhir {POP16}{STRINGID}
+STR_1099    :Menunggu penumpang di {POP16}{STRINGID}
+STR_1100    :Menunggu keberangkatan {POP16}{STRINGID}
+STR_1101    :Berangkat {POP16}{STRINGID}
+STR_1102    :Bergerak dengan kecepatan {VELOCITY}
+STR_1103    :Tiba di {POP16}{STRINGID}
+STR_1104    :Membongkar penumpang di {POP16}{STRINGID}
+STR_1105    :Bergerak dengan kecepatan {VELOCITY}
+STR_1106    :Menabrak!
+STR_1107    :Jatuh!
+STR_1108    :Bergerak dengan kecepatan {VELOCITY}
+STR_1109    :Berayun
+STR_1110    :Berputar
+STR_1111    :Berputar
+STR_1112    :Operasi
+STR_1113    :Menayangkan film
+STR_1114    :Berputar
+STR_1115    :Operasi
+STR_1116    :Operasi
+STR_1117    :Melakukan pertunjukan sirkus
+STR_1118    :Operasi
+STR_1119    :Menunggu kereta gantung
+STR_1120    :Bergerak dengan kecepatan {VELOCITY}
+STR_1121    :Berhenti
+STR_1122    :Menunggu penumpang
+STR_1123    :Menunggu untuk memulai
+STR_1124    :Memulai
+STR_1125    :Operasi
+STR_1126    :Berhenti
+STR_1127    :Membongkar penumpang
+STR_1128    :Dihentikan oleh rem blok
+STR_1129    :Semua kendaraan berwarna sama
+STR_1130    :Warna berbeda per {STRINGID}
+STR_1131    :Warna berbeda per kendaraan
+STR_1132    :Kendaraan {POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
+STR_1133    :Kendaraan {COMMA16}
+STR_1134    :{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID} {COMMA16}
+STR_1135    :{STRINGID} {COMMA16}
+STR_1136    :Pilih warna utama
+STR_1137    :Pilih warna tambahan 1
+STR_1138    :Pilih warna tambahan 2
+STR_1139    :Pilih warna struktur pendukung
+STR_1140    :Pilih opsi skema warna kendaraan
+STR_1141    :Pilih kendaraan/kereta mana yang akan dimodifikasi
+STR_1142    :{MOVE_X}{10}{STRINGID}
+STR_1143    :»{MOVE_X}{10}{STRINGID}
+STR_1144    :Tidak dapat membangun/memindahkan pintu masuk untuk wahana/atraksi ini…
+STR_1145    :Tidak dapat membangun/memindahkan pintu keluar untuk wahana/atraksi ini…
+STR_1146    :Pintu masuk belum dibangun
+STR_1147    :Pintu keluar belum dibuat
+STR_1148    :Muatan seperempat
+STR_1149    :Setengah muatan
+STR_1150    :Muatan tiga perempat
+STR_1151    :Muatan penuh
+STR_1152    :Beban apa pun
+STR_1153    :Tanda Ketinggian pada Lintasan Wahana
+STR_1154    :Tanda Ketinggian di Daratan
+STR_1155    :Tanda Ketinggian pada Jalur
+STR_1156    :{MOVE_X}{10}{STRINGID}
+STR_1157    :✓{MOVE_X}{10}{STRINGID}
+STR_1158    :Tidak dapat menghapus ini…
+STR_1159    :Tempatkan pemandangan, taman, dan aksesori lainnya
+STR_1160    :Membuat/menyesuaikan danau & air
+STR_1161    :Tidak dapat memposisikannya di sini…
+STR_1162    :{OUTLINE}{TOPAZ}{STRINGID}
+STR_1163    :{STRINGID}{NEWLINE}(Klik kanan untuk mengubah)
+STR_1164    :{STRINGID}{NEWLINE}(Klik kanan untuk menghapus)
+STR_1165    :{STRINGID} - {STRINGID} {COMMA16}
+STR_1166    :Tidak bisa menurunkan permukaan air di sini…
+STR_1167    :Tidak bisa menaikkan permukaan air di sini…
+STR_1168    :Opsi
+STR_1169    :(Tidak ada)
+STR_1170    :{STRING}
+STR_1171    :{RED}Tertutup
+STR_1173    :Membangun jalan setapak dan jalur antrean
+STR_1174    :Papan tanda menghalangi
+STR_1175    :Tidak dapat membangun ini di jalan setapak yang miring
+STR_1176    :Tidak bisa membangun jalan setapak di sini…
+STR_1177    :Tidak bisa menghilangkan jalan setapak dari sini…
+STR_1178    :Kemiringan lahan tidak sesuai
+STR_1179    :Jalan setapak menghalangi
+STR_1180    :Tidak bisa membangun ini di bawah air!
+STR_1181    :Jalan Setapak
+STR_1182    :Tipe
+STR_1183    :Arah
+STR_1184    :Kemiringan
+STR_1185    :Arah
+STR_1186    :Lereng menurun
+STR_1187    :Level
+STR_1188    :Kemiringan ke atas
+STR_1189    :Bangun bagian jalan setapak yang dipilih
+STR_1190    :Hapus bagian jalan setapak sebelumnya
+STR_1191    :{BLACK}{STRINGID}
+STR_1192    :{OUTLINE}{RED}{STRINGID}
+STR_1193    :{WINDOW_COLOUR_2}{STRINGID}
+STR_1194    :Ditutup
+STR_1195    :Uji Coba
+STR_1196    :Buka
+STR_1197    :Rusak
+STR_1198    :Jatuh!
+STR_1199    :{COMMA16} orang di wahana
+STR_1200    :{COMMA16} orang di wahana
+STR_1201    :Tidak ada seorang pun di antrean
+STR_1202    :1 orang dalam antrean
+STR_1203    :{COMMA32} orang dalam antrean
+STR_1204    :{COMMA16} menit waktu antrian
+STR_1205    :{COMMA16} menit waktu antrian
+STR_1206    :{WINDOW_COLOUR_2}Tunggu:
+STR_1207    :{WINDOW_COLOUR_2}Pergilah jika ada kereta lain yang tiba di stasiun
+STR_1208    :{WINDOW_COLOUR_2}Pergilah jika ada kapal lain yang tiba di stasiun
+STR_1209    :Pilih apakah harus menunggu penumpang sebelum berangkat
+STR_1210    :Pilih apakah harus pergi jika kendaraan lain tiba di stasiun yang sama 
+STR_1211    :{WINDOW_COLOUR_2}Waktu tunggu minimum:
+STR_1212    :{WINDOW_COLOUR_2}Waktu tunggu maksimum:
+STR_1213    :Pilih waktu tunggu minimum sebelum berangkat
+STR_1214    :Pilih waktu tunggu maksimum sebelum berangkat
+STR_1215    :{WINDOW_COLOUR_2}Sinkronkan dengan stasiun yang berdekatan
+STR_1216    :Pilih apakah akan menyinkronkan keberangkatan dengan semua stasiun yang berdekatan (untuk “balapan”) 
+STR_1217    :{COMMA16} detik 
+STR_1218    :{BLACK}+
+STR_1219    :{BLACK}-
+STR_1220    :Hanya keluar
+STR_1221    :Tidak ada akses masuk
+STR_1222    :Tidak ada jalan keluar
+STR_1223    :Perjalanan transportasi
+STR_1224    :Wahana yang nyaman
+STR_1225    :Roller coaster
+STR_1226    :Wahana menegangkan
+STR_1227    :Wahana air
+STR_1228    :Toko & kios
+STR_1229    :latih
+STR_1230    :kereta-kereta api
+STR_1231    :Kereta Api
+STR_1232    :Kereta-Kereta Api
+STR_1233    :{COMMA16} kereta
+STR_1234    :{COMMA16} kereta api
+STR_1235    :Train {COMMA16}
+STR_1236    :perahu
+STR_1237    :perahu
+STR_1238    :Perahu
+STR_1239    :Perahu
+STR_1240    :{COMMA16} perahu
+STR_1241    :{COMMA16} perahu
+STR_1242    :Perahu {COMMA16}
+STR_1243    :track
+STR_1244    :trek
+STR_1245    :Lacak
+STR_1246    :Trek
+STR_1247    :{COMMA16} trek
+STR_1248    :{COMMA16} trek
+STR_1249    :Track {COMMA16}
+STR_1250    :platform dok
+STR_1251    :platform dok
+STR_1252    :Platform dok
+STR_1253    :Platform dok
+STR_1254    :{COMMA16} platform dok
+STR_1255    :{COMMA16} platform dok
+STR_1256    :Platform docking {COMMA16}
+STR_1257    :stasiun
+STR_1258    :stasiuns
+STR_1259    :Stasiun
+STR_1260    :Stasiuns
+STR_1261    :{COMMA16} stasiun
+STR_1262    :{COMMA16} stasiuns
+STR_1263    :Stasiun {COMMA16}
+STR_1264    :mobil
+STR_1265    :mobils
+STR_1266    :Mobil
+STR_1267    :Mobils
+STR_1268    :{COMMA16} mobil
+STR_1269    :{COMMA16} mobils
+STR_1270    :Mobil {COMMA16}
+STR_1271    :bangunan
+STR_1272    :bangunans
+STR_1273    :Bangunan
+STR_1274    :Bangunans
+STR_1275    :{COMMA16} bangunan
+STR_1276    :{COMMA16} bangunans
+STR_1277    :Bangunan {COMMA16}
+STR_1278    :struktur
+STR_1279    :struktur
+STR_1280    :Struktur
+STR_1281    :Struktur
+STR_1282    :{COMMA16} struktur
+STR_1283    :{COMMA16} struktur
+STR_1284    :Struktur {COMMA16}
+STR_1285    :kapal
+STR_1286    :kapal
+STR_1287    :Kapal
+STR_1288    :Kapal
+STR_1289    :{COMMA16} kapal
+STR_1290    :{COMMA16} kapal
+STR_1291    :Kapal {COMMA16}
+STR_1292    :kabin
+STR_1293    :kabin
+STR_1294    ​​:Kabin
+STR_1295    :Kabin
+STR_1296    :{COMMA16} kabin
+STR_1297    :{COMMA16} kabin
+STR_1298    :Kabin {COMMA16}
+STR_1299    :roda
+STR_1300    :roda
+STR_1301    :Roda
+STR_1302    :Roda
+STR_1303    :{COMMA16} roda
+STR_1304    :{COMMA16} roda
+STR_1305    :Roda {COMMA16}
+STR_1306    :cincin
+STR_1307    :cincin
+STR_1308    :Cincin
+STR_1309    :Cincin
+STR_1310    :{COMMA16} cincin
+STR_1311    :{COMMA16} cincin
+STR_1312    :Ring {COMMA16}
+STR_1313    :pemain
+STR_1314    :pemain
+STR_1315    :Pemain
+STR_1316    :Pemain
+STR_1317    :{COMMA16} pemain
+STR_1318    :{COMMA16} pemain
+STR_1319    :Pemain {COMMA16}
+STR_1320    :kursus
+STR_1321    :kursus
+STR_1322    :Kursus
+STR_1323    :Kursus
+STR_1324    :{COMMA16} kursus
+STR_1325    :{COMMA16} kursus
+STR_1326    :Kursus {COMMA16}
+STR_1327    :Memutar objek sebesar 90°
+STR_1328    :Diperlukan lahan datar
+STR_1329    :{WINDOW_COLOUR_2}Kecepatan peluncuran:
+STR_1330    :Kecepatan maksimum saat meninggalkan stasiun
+STR_1332    :{KECEPATAN}
+STR_1333    :{STRINGID} - {STRINGID}{POP16}
+STR_1334    :{STRINGID} - {STRINGID} {COMMA16}
+STR_1335    :{STRINGID} - Entrance{POP16}{POP16}
+STR_1336    :{STRINGID} - Pintu Masuk Stasiun {POP16}{COMMA16}
+STR_1337    :{STRINGID} - Keluar{POP16}{POP16}
+STR_1338    :{STRINGID} - Pintu Keluar Stasiun {POP16}{COMMA16}
+STR_1339    :{BLACK}Belum ada hasil tes…
+STR_1340    :{WINDOW_COLOUR_2}Kecepatan Maksimum:{BLACK}{VELOCITY}
+STR_1341    :{WINDOW_COLOUR_2}Waktu berkendara:{BLACK}{STRINGID}{STRINGID}{STRINGID}
+STR_1342    :{DURASI}
+STR_1343    :{DURASI} /
+STR_1344    :{WINDOW_COLOUR_2}Panjang perjalanan:{BLACK}{STRINGID}{STRINGID}{STRINGID}
+STR_1345    :{PANJANG}
+STR_1346    :{PANJANG} /
+STR_1347    :{WINDOW_COLOUR_2}Kecepatan rata-rata:{BLACK}{VELOCITY}
+STR_1348    :{WINDOW_COLOUR_2}G vertikal positif maksimum:{BLACK}{COMMA2DP32}g 
+STR_1349    :{WINDOW_COLOUR_2}G vertikal positif maksimum:{OUTLINE}{RED}{COMMA2DP32}g 
+STR_1350    :{WINDOW_COLOUR_2}G vertikal negatif maksimum:{BLACK}{COMMA2DP32}g 
+STR_1351    :{WINDOW_COLOUR_2}G vertikal negatif maksimum:{OUTLINE}{RED}{COMMA2DP32}g 
+STR_1352    :{WINDOW_COLOUR_2}G lateral maksimum:{BLACK}{COMMA2DP32}g
+STR_1353    :{WINDOW_COLOUR_2}G lateral maksimum:{OUTLINE}{RED}{COMMA2DP32}g
+STR_1354    :{WINDOW_COLOUR_2}Tinggi jatuhan tertinggi:{BLACK}{LENGTH}
+STR_1355    :{WINDOW_COLOUR_2}Menjatuhkan:{BLACK}{COMMA16}
+STR_1356    :{WINDOW_COLOUR_2}Inversi:{BLACK}{COMMA16}
+STR_1357    :{WINDOW_COLOUR_2}Lubang:{BLACK}{COMMA16}
+STR_1358    :{WINDOW_COLOUR_2}Total waktu "siaran":{BLACK}{COMMA2DP32} detik 
+STR_1359    :{WINDOW_COLOUR_2}Waktu antrian:{BLACK}{COMMA16} menit
+STR_1360    :{WINDOW_COLOUR_2}Waktu antrian:{BLACK}{COMMA16} menit
+STR_1361    :Tidak dapat mengubah kecepatan…
+STR_1362    :Tidak dapat mengubah kecepatan peluncuran…
+STR_1363    :Terlalu tinggi untuk penyangga!
+STR_1364    :Dukungan untuk trek di atas tidak dapat diperluas lebih lanjut!
+STR_1365    :Putaran Sejajar (kiri)
+STR_1366    :Putaran Sejajar (kanan)
+STR_1367    :Setengah Lingkaran Kecil
+STR_1368    :Setengah Pembuka Botol (kiri)
+STR_1369    :Setengah Pembuka Botol (kanan)
+STR_1370    :Barrel Roll (kiri)
+STR_1371    :Barrel Roll (kanan)
+STR_1372    :Meluncurkan Lift Hill
+STR_1373    :Lingkaran Setengah Besar (kiri)
+STR_1374    :Lingkaran Setengah Besar (kanan)
+STR_1375    :Transfer Atas
+STR_1376    :Transfer Bawah
+STR_1377    :Gulungan Garis Jantung (kiri)
+STR_1378    :Gulungan Garis Jantung (kanan)
+STR_1379:Terbalik (kiri)
+STR_1380:Terbalik (kanan)
+STR_1381    :Tanjakan Lift Melengkung (kiri)
+STR_1382    :Tanjakan Lift Melengkung (kanan)
+STR_1383    :Lingkaran Seperempat
+STR_1384    :{YELLOW}{STRINGID}
+STR_1385    :Konfigurasi trek lainnya
+STR_1386    :Spesial…
+STR_1387    :Tidak dapat mengubah jenis lahan…
+STR_1388    :{OUTLINE}{GREEN}+ {CURRENCY}
+STR_1389    :{OUTLINE}{RED}- {CURRENCY}
+STR_1390    :{CURRENCY2DP}
+STR_1391    :{RED}{CURRENCY2DP}
+STR_1392    :Tampilan wahana/atraksi
+STR_1393    :Detail dan opsi kendaraan
+STR_1394    :Opsi pengoperasian
+STR_1395    :Opsi perawatan
+STR_1396    :Opsi skema warna
+STR_1397    :Opsi suara & musik
+STR_1398    :Pengukuran dan data uji
+STR_1399    :Grafik
+STR_1400    :Pintu Masuk
+STR_1401    :Keluar
+STR_1402    :Bangun atau pindahkan pintu masuk ke wahana/atraksi
+STR_1403    :Bangun atau pindahkan pintu keluar dari wahana/atraksi
+STR_1404    :Rotasi 90°
+STR_1405    :Gambar cermin
+STR_1406    :Aktifkan/nonaktifkan pemandangan (jika tersedia untuk desain ini)
+STR_1407    :{WINDOW_COLOUR_2}Bangun ini…
+STR_1408    :{WINDOW_COLOUR_2}Harga:{BLACK}{MATA UANG}
+STR_1409    :Platform Masuk/Keluar
+STR_1410    :Menara Vertikal
+STR_1411    :{STRINGID} menghalangi
+STR_1412    :{WINDOW_COLOUR_3}Pencatatan data tidak tersedia untuk jenis perjalanan ini 
+STR_1413    :{WINDOW_COLOUR_3}Pencatatan data akan dimulai ketika {STRINGID} berikutnya meninggalkan {STRINGID}
+STR_1414    :{BLACK}{DURATION}
+STR_1415    :{WINDOW_COLOUR_2}Kecepatan
+STR_1416    :{WINDOW_COLOUR_2}Ketinggian
+STR_1417    :{WINDOW_COLOUR_2}Vert. Gs
+STR_1418    :{WINDOW_COLOUR_2}Lat. Gs
+STR_1419    :{BLACK}{VELOCITY}
+STR_1420    :{BLACK}{LENGTH}
+STR_1421    :{BLACK}{COMMA16}g
+STR_1422    :Mencatat data dari {POP16}{STRINGID}
+STR_1423    :Jalur antrean
+STR_1424    :Jalan Setapak
+STR_1425    :Jalan Setapak
+STR_1426    :Antrean
+STR_1427    :{WINDOW_COLOUR_2}Pelanggan:{BLACK}{COMMA32} per jam
+STR_1428    :{WINDOW_COLOUR_2}Harga tiket masuk:
+STR_1430    :Gratis
+STR_1431    :Berjalan
+STR_1432    :Judul untuk {STRINGID}
+STR_1433    :Mengantri untuk {STRINGID}
+STR_1434    :Tenggelam
+STR_1435    :Terdapat {STRINGID}
+STR_1436    :Dalam {STRINGID}
+STR_1437    :Pada {STRINGID}
+STR_1438    :Duduk
+STR_1439    :(pilih lokasi)
+STR_1440    :Memotong rumput
+STR_1441    :Jalan setapak yang disapu
+STR_1442    :Mengosongkan tempat sampah
+STR_1443    :Menyiram taman
+STR_1444    :Mengamati {STRINGID}
+STR_1445    :Mengamati pembangunan {STRINGID}
+STR_1446    :Melihat pemandangan
+STR_1447    :Meninggalkan taman
+STR_1448    :Melihat wahana baru sedang dibangun
+STR_1449    :{SPRITE} {STRINGID}{NEWLINE}({STRINGID})
+STR_1450    :{INLINE_SPRITE}{09}{20}{00}{00}{SPRITE} {STRINGID}{NEWLINE}({STRINGID}) 
+STR_1451    :{STRINGID}{NEWLINE}({STRINGID})
+STR_1452    :Nama pengunjung
+STR_1453    :Masukkan nama untuk pengunjung ini:
+STR_1454    :Tidak dapat menyebutkan nama pengunjung…
+STR_1455    :Nama pengunjung tidak valid
+STR_1456    :{WINDOW_COLOUR_2}Uang tunai yang dibelanjakan:{BLACK}{CURRENCY2DP}
+STR_1457    :{WINDOW_COLOUR_2}Uang tunai di saku:{BLACK}{CURRENCY2DP}
+STR_1458    :{WINDOW_COLOUR_2}Waktu di taman:{BLACK}{REALTIME}
+STR_1459    :Gaya trek
+STR_1460    :Jalur terbuka berbentuk "U"
+STR_1461    :Jalur tertutup berbentuk "O"
+STR_1462    :Terlalu curam untuk tanjakan lift
+STR_1463    :pengunjung
+STR_1464    :Setengah Helix ke atas (kecil)
+STR_1465    :Setengah Helix ke atas (besar)
+STR_1466    :Setengah Helix ke bawah (kecil)
+STR_1467    :Setengah Helix ke bawah (besar)
+STR_1468    :Staf
+STR_1469    :Perjalanan harus dimulai dan diakhiri dengan stasiun
+STR_1470    :Stasiun tidak cukup panjang
+STR_1471    :{WINDOW_COLOUR_2}Kecepatan:
+STR_1472    :Kecepatan wahana ini
+STR_1473    :{WINDOW_COLOUR_2}Peringkat kegembiraan:{BLACK}{COMMA2DP32} ({STRINGID}) 
+STR_1474    :{WINDOW_COLOUR_2}Peringkat kegembiraan:{BLACK}Belum tersedia
+STR_1475    :{WINDOW_COLOUR_2}Peringkat intensitas:{BLACK}{COMMA2DP32} ({STRINGID}) 
+STR_1476    :{WINDOW_COLOUR_2}Peringkat intensitas:{BLACK}Belum tersedia
+STR_1477    :{WINDOW_COLOUR_2}Peringkat intensitas:{OUTLINE}{RED}{COMMA2DP32} ({STRINGID}) 
+STR_1478    :{WINDOW_COLOUR_2}Peringkat mual:{BLACK}{COMMA2DP32} ({STRINGID}) 
+STR_1479    :{WINDOW_COLOUR_2}Peringkat mual:{BLACK}Belum tersedia
+STR_1480    :“Saya tidak mampu membayar {STRINGID}”
+STR_1481    :“Aku sudah menghabiskan semua uangku”
+STR_1482    :“Saya merasa sakit”
+STR_1483    :“Saya merasa sangat sakit”
+STR_1484    :“Saya ingin mengikuti sesuatu yang lebih menegangkan daripada {STRINGID}” 
+STR_1485    :“{STRINGID} terlihat terlalu menegangkan bagi saya”
+STR_1486    :“Saya belum menyelesaikan {STRINGID} saya”
+STR_1487    :“Hanya melihat {STRINGID} saja membuatku merasa mual”
+STR_1488    :“Saya tidak akan membayar sebanyak itu untuk mengakses {STRINGID}”
+STR_1489    :“Saya ingin pulang”
+STR_1490    :“{STRINGID} nilainya sangat bagus”
+STR_1491    :“Saya sudah mendapatkan {STRINGID}”
+STR_1492    :“Saya tidak mampu membeli {STRINGID}”
+STR_1493    :“Saya tidak lapar”
+STR_1494    :“Saya tidak haus”
+STR_1495    :“Tolong! Aku tenggelam!”
+STR_1496    :“Aku tersesat!”
+STR_1497    :“{STRINGID} hebat”
+STR_1498    :“Saya sudah mengantre untuk {STRINGID} sejak lama”
+STR_1499    :“Saya lelah”
+STR_1500    :“Saya lapar”
+STR_1501    :“Saya haus”
+STR_1502    :“Saya perlu ke toilet”
+STR_1503    :“Saya tidak dapat menemukan {STRINGID}”
+STR_1504    :“Saya tidak akan membayar sebanyak itu untuk menggunakan {STRINGID}”
+STR_1505    :“Saya tidak akan pergi ke {STRINGID} saat hujan turun”
+STR_1506    :“Sampah di sini sangat banyak“
+STR_1507    :“Saya tidak dapat menemukan pintu keluar taman”
+STR_1508    :“Saya ingin keluar dari {STRINGID}”
+STR_1509    :“Saya ingin keluar dari {STRINGID}”
+STR_1510    :“Saya tidak akan pergi ke {STRINGID} - itu tidak aman“
+STR_1511    :“Jalur ini menjijikkan”
+STR_1512    :“Di sini terlalu ramai”
+STR_1513    :“Vandalisme di sini parah sekali”
+STR_1514    :“Pemandangan indah!”
+STR_1515    :“Taman ini sangat bersih dan rapi”
+STR_1516    :“Air mancur lompatnya bagus sekali”
+STR_1517    :“Musiknya bagus di sini”
+STR_1518    :“Balon dari {STRINGID} ini benar-benar bernilai bagus”
+STR_1519    :“Boneka lucu dari {STRINGID} ini benar-benar bernilai bagus”
+STR_1520    :“Peta taman dari {STRINGID} ini benar-benar bernilai bagus”
+STR_1521    :“Foto saat naik wahana dari {STRINGID} ini benar-benar bernilai bagus”
+STR_1522    :“Payung dari {STRINGID} ini benar-benar bernilai bagus“
+STR_1523    :“Minuman dari {STRINGID} ini harganya sangat terjangkau”
+STR_1524    :“Burger dari {STRINGID} ini harganya sangat terjangkau“
+STR_1525    :“Chip dari {STRINGID} ini benar-benar bernilai bagus“
+STR_1526    :“Es krim dari {STRINGID} ini harganya sangat terjangkau”
+STR_1527    :“Permen kapas dari {STRINGID} ini harganya sangat terjangkau”
+STR_1528    :
+STR_1529    :
+STR_1530    :
+STR_1531    :“Pizza dari {STRINGID} ini harganya sangat terjangkau“
+STR_1532    :
+STR_1533    :“Popcorn dari {STRINGID} ini harganya sangat terjangkau“
+STR_1534    :“Hot dog dari {STRINGID} ini harganya sangat terjangkau”
+STR_1535    :“Tentakel dari {STRINGID} ini benar-benar bernilai bagus”
+STR_1536    :“Topi dari {STRINGID} ini harganya sangat terjangkau“
+STR_1537    :“Permen apel dari {STRINGID} ini harganya sangat terjangkau”
+STR_1538    :“Kaos dari {STRINGID} ini harganya sangat terjangkau”
+STR_1539    :“Donat dari {STRINGID} ini harganya sangat terjangkau“
+STR_1540    :“Kopi dari {STRINGID} ini harganya sangat terjangkau”
+STR_1541    :
+STR_1542    :“Ayam goreng dari {STRINGID} ini harganya sangat terjangkau”
+STR_1543    :“Limun dari {STRINGID} ini harganya sangat terjangkau“
+STR_1544    :
+STR_1545    :
+STR_1546    :
+STR_1547    :
+STR_1548    :
+STR_1549    :
+STR_1550    :“Wow!”
+STR_1551    :“Aku punya firasat aneh bahwa seseorang sedang mengawasiku”
+STR_1552    :“Saya tidak akan membayar sebanyak itu untuk sebuah balon dari {STRINGID}” 
+STR_1553    :“Saya tidak akan membayar sebanyak itu untuk sebuah boneka mainan dari {STRINGID}” 
+STR_1554    :“Saya tidak akan membayar sebanyak itu untuk sebuah peta taman dari {STRINGID}” 
+STR_1555    :“Saya tidak akan membayar sebanyak itu untuk foto saat naik wahana dari {STRINGID}” 
+STR_1556    :“Saya tidak akan membayar sebanyak itu untuk sebuah payung dari {STRINGID}” 
+STR_1557    “Saya tidak akan membayar sebanyak itu untuk minuman dari {STRINGID}”
+STR_1558    :“Saya tidak akan membayar sebanyak itu untuk burger dari {STRINGID}”
+STR_1559    :“Saya tidak akan membayar sebanyak itu untuk keripik dari {STRINGID}”
+STR_1560    :“Saya tidak akan membayar sebanyak itu untuk es krim dari {STRINGID}” 
+STR_1561    :“Saya tidak akan membayar sebanyak itu untuk permen kapas dari {STRINGID}” 
+STR_1562    :
+STR_1563    :
+STR_1564    :
+STR_1565    :“Saya tidak akan membayar sebanyak itu untuk pizza dari {STRINGID}”
+STR_1566    :
+STR_1567    :“Saya tidak akan membayar sebanyak itu untuk popcorn dari {STRINGID}”
+STR_1568    :“Saya tidak akan membayar sebanyak itu untuk hot dog dari {STRINGID}” 
+STR_1569    :“Saya tidak akan membayar sebanyak itu untuk tentakel dari {STRINGID}”
+STR_1570    :“Saya tidak akan membayar sebanyak itu untuk topi dari {STRINGID}”
+STR_1571    :“Saya tidak akan membayar sebanyak itu untuk apel karamel dari {STRINGID}” 
+STR_1572    :“Saya tidak akan membayar sebanyak itu untuk kaos dari {STRINGID}” 
+STR_1573    :“Saya tidak akan membayar sebanyak itu untuk donat dari {STRINGID}” 
+STR_1574    :“Saya tidak akan membayar sebanyak itu untuk kopi dari {STRINGID}”
+STR_1575    :
+STR_1576    :“Saya tidak akan membayar sebanyak itu untuk ayam goreng dari {STRINGID}” 
+STR_1577    :“Saya tidak akan membayar sebanyak itu untuk limun dari {STRINGID}”
+STR_1578    :
+STR_1579    :
+STR_1580    :
+STR_1581    :
+STR_1582    :
+STR_1583    :
+STR_1584    :“Foto saat naik wahana dari {STRINGID} ini benar-benar bernilai bagus”
+STR_1585    :“Foto saat naik wahana dari {STRINGID} ini benar-benar bernilai bagus”
+STR_1586    :“Foto saat naik wahana dari {STRINGID} ini benar-benar bernilai bagus”
+STR_1587    :“Pretzel dari {STRINGID} ini harganya sangat terjangkau”
+STR_1588    :“Cokelat panas dari {STRINGID} ini harganya sangat terjangkau”
+STR_1589    :“Es teh dari {STRINGID} ini harganya sangat terjangkau”
+STR_1590    :“Kue corong dari {STRINGID} ini harganya sangat terjangkau“
+STR_1591    :“Kacamata hitam dari {STRINGID} ini harganya sangat terjangkau”
+STR_1592    :“Mie daging sapi dari {STRINGID} ini harganya sangat terjangkau” 
+STR_1593    :“Mie beras goreng dari {STRINGID} ini harganya sangat terjangkau” 
+STR_1594    :“Sup pangsit dari {STRINGID} ini harganya sangat terjangkau”
+STR_1595    :“Sup bakso dari {STRINGID} ini harganya sangat terjangkau”
+STR_1596    :“Jus buah dari {STRINGID} ini harganya sangat terjangkau”
+STR_1597    :“Susu kedelai dari {STRINGID} ini harganya sangat terjangkau”
+STR_1598    :“Sujeonggwa dari {STRINGID} ini benar-benar bernilai bagus”
+STR_1599    :“Sandwich sub ini dari {STRINGID} benar-benar bernilai bagus”
+STR_1600    :“Cookie dari {STRINGID} ini benar-benar bernilai bagus”
+STR_1601    :
+STR_1602    :
+STR_1603    :
+STR_1604    :“Sosis panggang dari {STRINGID} ini harganya sangat terjangkau”
+STR_1605    :
+STR_1606    :
+STR_1607    :
+STR_1608    :
+STR_1609    :
+STR_1610    :
+STR_1611    :
+STR_1612    :
+STR_1613    :
+STR_1614    :
+STR_1615    :
+STR_1616    :“Saya tidak akan membayar sebanyak itu untuk foto saat naik wahana dari {STRINGID}” 
+STR_1617    :“Saya tidak akan membayar sebanyak itu untuk foto saat naik wahana dari {STRINGID}” 
+STR_1618    :“Saya tidak akan membayar sebanyak itu untuk foto saat naik wahana dari {STRINGID}” 
+STR_1619    :“Saya tidak akan membayar sebanyak itu untuk pretzel dari {STRINGID}” 
+STR_1620    :“Saya tidak akan membayar sebanyak itu untuk cokelat panas dari {STRINGID}” 
+STR_1621    :“Saya tidak akan membayar sebanyak itu untuk es teh dari {STRINGID}”
+STR_1622    :“Saya tidak akan membayar sebanyak itu untuk kue corong dari {STRINGID}” 
+STR_1623    :“Saya tidak akan membayar sebanyak itu untuk kacamata hitam dari {STRINGID}” 
+STR_1624    :“Saya tidak akan membayar sebanyak itu untuk mie daging sapi dari {STRINGID}” 
+STR_1625    :“Saya tidak akan membayar sebanyak itu untuk mie beras goreng dari {STRINGID}” 
+STR_1626    :“Saya tidak akan membayar sebanyak itu untuk sup wonton dari {STRINGID}” 
+STR_1627    :“Saya Saya tidak membayar sebanyak itu untuk sup bakso dari {STRINGID}” 
+STR_1628    :“Saya tidak membayar sebanyak itu untuk jus buah dari {STRINGID}” 
+STR_1629    :“Saya tidak membayar sebanyak itu untuk susu kedelai dari {STRINGID}” 
+STR_1630    :“Saya tidak membayar sebanyak itu untuk sujeonggwa dari {STRINGID}” 
+STR_1631    :“Saya tidak membayar sebanyak itu untuk sandwich dari {STRINGID}” 
+STR_1632    :“Saya tidak membayar sebanyak itu untuk kue dari {STRINGID}”
+STR_1633    :
+STR_1634    :
+STR_1635    :
+STR_1636    :“Saya tidak akan membayar sebanyak itu untuk sosis panggang dari {STRINGID}” 
+STR_1637    :
+STR_1638    :
+STR_1639    :
+STR_1640    :
+STR_1641    :
+STR_1642    :
+STR_1643    :
+STR_1644    :
+STR_1645    :
+STR_1646    :
+STR_1647    :
+STR_1648    :“Tolong! Turunkan saya!“
+STR_1649    :“Uangku hampir habis!”
+STR_1650    :“Wow! Wah, wahana baru sedang dibangun!”
+STR_1653    :“...dan inilah kita di {STRINGID}!”
+STR_1654    :{WINDOW_COLOUR_2}Pemikiran terbaru:
+STR_1655    :Membangun jalan setapak di lahan
+STR_1656    :Membangun jembatan atau terowongan jalan setapak
+STR_1657    :{WINDOW_COLOUR_2}Kendaraan pilihan
+STR_1658    :{WINDOW_COLOUR_2}intensitas:{BLACK}kurang dari {COMMA16}
+STR_1659    :{WINDOW_COLOUR_2}intensitas:{BLACK}antara {COMMA16} dan {COMMA16}
+STR_1660    :{WINDOW_COLOUR_2}intensitas:{BLACK}lebih dari {COMMA16}
+STR_1661    :{WINDOW_COLOUR_2}Toleransi mual:{BLACK}{STRINGID}
+STR_1662    :{WINDOW_COLOUR_2}Kebahagiaan:
+STR_1663    :{WINDOW_COLOUR_2}Mual:
+STR_1664    :{WINDOW_COLOUR_2}Energi:
+STR_1665    :{WINDOW_COLOUR_2}Kelaparan:
+STR_1666    :{WINDOW_COLOUR_2}Haus:
+STR_1667    :{WINDOW_COLOUR_2}Toilet:
+STR_1668    :{WINDOW_COLOUR_2}Kepuasan:{BLACK}Tidak Diketahui
+STR_1669    :{WINDOW_COLOUR_2}Kepuasan:{BLACK}{COMMA16}%
+STR_1670    :{WINDOW_COLOUR_2}Jumlah pelanggan:{BLACK}{COMMA32}
+STR_1671    :{WINDOW_COLOUR_2}Total profit:{BLACK}{CURRENCY2DP}
+STR_1672    :Rem
+STR_1673    :Kontrol Putar Toggle Track
+STR_1674    :Kecepatan pengereman
+STR_1676    :Tetapkan batas kecepatan untuk rem
+STR_1677    :{WINDOW_COLOUR_2}Popularitas:{BLACK}Tidak Diketahui
+STR_1678    :{WINDOW_COLOUR_2}Popularitas:{BLACK}{COMMA16}%
+STR_1679    :Quarter Helix up (left)
+STR_1680    :Quarter Helix up (right)
+STR_1681    :Heliks Seperempat ke bawah (kiri)
+STR_1682    :Heliks seperempat ke bawah (kanan)
+STR_1683    :Ukuran basa 2 × 2
+STR_1684    :Ukuran dasar 4 × 4
+STR_1685    :Ukuran basa 2 × 4
+STR_1686    :Ukuran dasar 5 × 1
+STR_1687    :Percikan air
+STR_1688    :Ukuran basa 4 × 1
+STR_1689    :Rem blok
+STR_1690    :{WINDOW_COLOUR_2}{STRINGID}{NEWLINE}{BLACK}{STRINGID}
+STR_1691    :{WINDOW_COLOUR_2} Harga:{BLACK}{CURRENCY}
+STR_1692    :{WINDOW_COLOUR_2} Harga:{BLACK}dari {CURRENCY}
+STR_1693    :pengunjung
+STR_1694    :Staf
+STR_1695    :Pendapatan dan biaya
+STR_1696    :Informasi pelanggan
+STR_1697    :Tidak dapat menempatkan ini di area antrean
+STR_1698    :Hanya dapat menempatkan ini di area antrian
+STR_1699    :Terlalu banyak orang dalam game
+STR_1700    :Pekerjakan Tukang Baru
+STR_1701    :Pekerjakan Mekanik Baru
+STR_1702    :Rekrut Satpam Baru
+STR_1703    :Pekerjakan Penghibur Baru
+STR_1704    :Tidak dapat merekrut staf baru…
+STR_1705    :Pecat anggota staf ini
+STR_1706    :Pindahkan orang ini ke lokasi baru
+STR_1707    :Terlalu banyak staf dalam game
+STR_1708    :Tetapkan area patroli untuk anggota staf ini
+STR_1709    :Tongkat karung
+STR_1710    :Ya
+STR_1711    :{WINDOW_COLOUR_1}Apakah Anda yakin ingin memecat {STRINGID}?
+STR_1712    :{INLINE_SPRITE}{247}{19}{00}{00}{WINDOW_COLOUR_2}Sapu jalan setapak 
+STR_1713    :{INLINE_SPRITE}{248}{19}{00}{00}{WINDOW_COLOUR_2}Siram taman 
+STR_1714    :{INLINE_SPRITE}{249}{19}{00}{00}{WINDOW_COLOUR_2}Kosongkan tempat sampah 
+STR_1715    :{INLINE_SPRITE}{250}{19}{00}{00}{WINDOW_COLOUR_2}Potong rumput
+STR_1716    :Nama taman tidak valid
+STR_1717    :Tidak dapat mengganti nama taman…
+STR_1718    :Nama Taman
+STR_1719    :Masukkan nama taman:
+STR_1720    :Nama taman
+STR_1721    :Taman ditutup
+STR_1722    :Taman dibuka
+STR_1723    :Tidak dapat membuka taman…
+STR_1724    :Tidak dapat menutup taman…
+STR_1725    :Tidak bisa membeli tanah…
+STR_1726    :Tanah tidak dijual!
+STR_1727    :Hak konstruksi tidak untuk dijual!
+STR_1728    :Tidak bisa membeli hak konstruksi di sini…
+STR_1729    :Tanah bukan milik taman!
+STR_1730    :{RED}Tertutup
+STR_1732    :Bangunan
+STR_1733    :Mode
+STR_1734    :{WINDOW_COLOUR_2}Jumlah putaran:
+STR_1735    :Jumlah putaran sirkuit
+STR_1738    :Tidak dapat mengubah jumlah putaran…
+STR_1739    :Balapan dimenangkan oleh pengunjung {INT32}
+STR_1740    :Balapan dimenangkan oleh {STRINGID}
+STR_1741    :Belum dibangun!
+STR_1742    :{WINDOW_COLOUR_2}Jumlah penumpang maksimal di wahana:
+STR_1743    :Jumlah maksimum orang yang diperbolehkan menaiki wahana ini dalam satu waktu
+STR_1746    :Tidak bisa mengubah ini…
+STR_1747    :{WINDOW_COLOUR_2} Batas waktu:
+STR_1748    :Batas waktu untuk naik wahana
+STR_1751    :Tidak dapat mengubah batas waktu untuk perjalanan…
+STR_1752    :Tampilkan daftar pengunjung individual di taman
+STR_1753    :Tampilkan daftar ringkasan pengunjung di taman
+STR_1754    :{BLACK}{COMMA32} pengunjung
+STR_1755    :{BLACK}{COMMA32} pengunjung
+STR_1756    :{WINDOW_COLOUR_2}Harga tiket masuk:
+STR_1757    :{WINDOW_COLOUR_2}Keandalan: {MOVE_X}{255}{BLACK}{COMMA16}%
+STR_1758    :Mode pembuatan
+STR_1759    :Mode bergerak
+STR_1760    :Mode pengisian
+STR_1761    :Bangun labirin ke arah ini
+STR_1762    :Air Terjun
+STR_1763    :Jerami
+STR_1764    :Gundukan Log
+STR_1765    :Bagian foto saat menaiki wahana
+STR_1766    :Meja putar terbalik
+STR_1767    :Terowongan berputar
+STR_1768    :Tidak dapat mengubah jumlah ayunan…
+STR_1769    :{WINDOW_COLOUR_2}Jumlah ayunan:
+STR_1770    :Jumlah ayunan lengkap
+STR_1773    :Hanya satu bagian foto di dalam wahana yang diperbolehkan per wahana.
+STR_1774    :Hanya satu tanjakan lift kabel yang diperbolehkan per perjalanan
+STR_1777    :Musik berkendara
+STR_1790    :Pilih warna seragam untuk jenis staf ini
+STR_1791    :{WINDOW_COLOUR_2}Warna seragam:
+STR_1792    :Menanggapi panggilan kerusakan {STRINGID}
+STR_1793    :Menuju {STRINGID} untuk inspeksi
+STR_1794    :Memperbaiki {STRINGID}
+STR_1795    :Menjawab panggilan radio
+STR_1796    :Mengalami kerusakan dan perlu diperbaiki
+STR_1798    :Pusaran Air
+STR_1800    :Pemutus pengaman
+STR_1801    :Pengaman macet dalam posisi tertutup
+STR_1802    :Pengaman macet dalam posisi terbuka
+STR_1803    :Pintu macet tertutup
+STR_1804    :Pintu macet dalam posisi terbuka
+STR_1805    :Kerusakan kendaraan
+STR_1806    :Kegagalan rem
+STR_1807    :Kegagalan kontrol
+STR_1808    :{WINDOW_COLOUR_2}Pecahan terakhir:{BLACK}{STRINGID}
+STR_1809    :{WINDOW_COLOUR_2}Rincian saat ini:{OUTLINE}{RED}{STRINGID}
+STR_1810    :{WINDOW_COLOUR_2}Membawa:
+STR_1811    :Tidak bisa membangun ini di sini…
+STR_1812    :{BLACK}{STRINGID}
+STR_1813    :Berbagai Benda
+STR_1814    :Tindakan
+STR_1815    :Pikiran
+STR_1816    :Pilih jenis informasi yang akan ditampilkan di daftar pengunjung
+STR_1817    :({COMMA32})
+STR_1818    :{WINDOW_COLOUR_2}Semua pengunjung
+STR_1819    :{WINDOW_COLOUR_2}Semua pengunjung (dirangkum)
+STR_1820    :{WINDOW_COLOUR_2}pengunjung {STRINGID}
+STR_1821    :{WINDOW_COLOUR_2}pengunjung berpikir {SMALLFONT}{STRINGID}
+STR_1822    :{WINDOW_COLOUR_2}Para pengunjung sedang memikirkan {POP16}{STRINGID}
+STR_1823    :Tampilkan pendapat para pengunjung tentang wahana/atraksi ini
+STR_1824    :Tampilkan pengunjung di wahana/atraksi ini
+STR_1825    :Tampilkan para pengunjung yang mengantre untuk wahana/atraksi ini
+STR_1826    :Status
+STR_1827    :Popularitas
+STR_1828    :Kepuasan
+STR_1829    :Keuntungan
+STR_1830    :Panjang antrian
+STR_1831    :Waktu antrian
+STR_1832    :Keandalan
+STR_1833    :Waktu henti
+STR_1834    :Favorit pengunjung
+STR_1835    :Popularitas:Tidak diketahui
+STR_1836    :Popularitas:{COMMA16}%
+STR_1837    :Kepuasan:Tidak Diketahui
+STR_1838    :Kepuasan:{COMMA16}%
+STR_1839    :Keandalan:{COMMA16}%
+STR_1840    :Waktu henti:{COMMA16}%
+STR_1841    :Keuntungan:{CURRENCY2DP} per jam
+STR_1842    :Favorit dari:{COMMA32} pengunjung
+STR_1843    :Favorit dari:{COMMA32} pengunjung
+STR_1844    :Pilih jenis informasi yang akan ditampilkan dalam daftar wahana/atraksi
+STR_1845    :{BULAN TAHUN}
+STR_1846    :{COMMA32} pengunjung
+STR_1847    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA32} pengunjung
+STR_1848    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA32} pengunjung
+STR_1849    :{WINDOW_COLOUR_2}Putar musik
+STR_1850    :Pilih apakah musik harus diputar untuk perjalanan ini
+STR_1851    :{WINDOW_COLOUR_2}Biaya operasional:{BLACK}{CURRENCY2DP} per jam
+STR_1852    :{WINDOW_COLOUR_2}Biaya berjalan:{BLACK}Tidak diketahui
+STR_1853    :{WINDOW_COLOUR_2}Dibangun:{BLACK}Tahun Ini
+STR_1854    :{WINDOW_COLOUR_2}Dibangun:{BLACK}Tahun Lalu
+STR_1855    :{WINDOW_COLOUR_2}Dibangun:{BLACK}{COMMA16} Tahun Lalu
+STR_1856    :{WINDOW_COLOUR_2}Keuntungan per barang terjual:{BLACK}{CURRENCY2DP}
+STR_1857    :{WINDOW_COLOUR_2}Kerugian per barang terjual:{BLACK}{CURRENCY2DP}
+STR_1858    :{WINDOW_COLOUR_2}Biaya:{BLACK}{CURRENCY2DP} per bulan
+STR_1859    :Tukang Serbaguna
+STR_1860    :Mekanik
+STR_1861    :Satpam
+STR_1862    :Penghibur
+STR_1863    :Tukang Serbaguna
+STR_1864    :Mekanik
+STR_1865    :Satpam
+STR_1866    :Penghibur
+STR_1867    :{BLACK}{COMMA32} {STRINGID}
+STR_1868    :Tidak dapat mengubah jumlah putaran…
+STR_1869    :{WINDOW_COLOUR_2}Jumlah rotasi:
+STR_1870    :Jumlah putaran lengkap
+STR_1873    :{WINDOW_COLOUR_2}Pendapatan:{BLACK}{CURRENCY2DP} per jam
+STR_1874    :{WINDOW_COLOUR_2}Keuntungan:{BLACK}{CURRENCY2DP} per jam
+STR_1876    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{251}{19}{00}{00}Periksa Wahana 
+STR_1877    :{WINDOW_COLOUR_2}{INLINE_SPRITE}{252}{19}{00}{00}Perbaiki Wahana
+STR_1878    :{WINDOW_COLOUR_2}Inspeksi:
+STR_1879    :Setiap 10 menit
+STR_1880    :Setiap 20 menit
+STR_1881    :Setiap 30 menit
+STR_1882    :Setiap 45 menit
+STR_1883    :Setiap jam
+STR_1884    :Setiap 2 jam
+STR_1885    :Tidak Pernah
+STR_1886    :Memeriksa {STRINGID}
+STR_1887    :{WINDOW_COLOUR_2}Waktu sejak inspeksi terakhir:{BLACK}{COMMA16} menit 
+STR_1888    :{WINDOW_COLOUR_2}Waktu sejak inspeksi terakhir:{BLACK}lebih dari 4 jam 
+STR_1889    :{WINDOW_COLOUR_2}Waktu Henti:{MOVE_X}{255}{BLACK}{COMMA16}%
+STR_1890    :Pilih seberapa sering mekanik harus memeriksa kendaraan ini
+STR_1891    :Belum ada {STRINGID} di taman!
+STR_1894    :{WINDOW_COLOUR_2}{STRINGID} terjual:{BLACK}{COMMA32}
+STR_1895    :Membangun wahana/atraksi baru
+STR_1896    :{WINDOW_COLOUR_2}Pengeluaran/Pendapatan
+STR_1897    :{WINDOW_COLOUR_2}Konstruksi wahana
+STR_1898    :{WINDOW_COLOUR_2}Biaya operasional wahana
+STR_1899    :{WINDOW_COLOUR_2}Pembelian tanah
+STR_1900    :{WINDOW_COLOUR_2}Penataan Lanskap
+STR_1901    :{WINDOW_COLOUR_2}Tiket masuk taman
+STR_1902    :{WINDOW_COLOUR_2}Tiket wahana
+STR_1903    :{WINDOW_COLOUR_2}Penjualan toko
+STR_1904    :{WINDOW_COLOUR_2}Stok toko
+STR_1905    :{WINDOW_COLOUR_2}Penjualan makanan/minuman
+STR_1906    :{WINDOW_COLOUR_2}Stok makanan/minuman
+STR_1907    :{WINDOW_COLOUR_2}Gaji karyawan
+STR_1908    :{WINDOW_COLOUR_2}Pemasaran
+STR_1909    :{WINDOW_COLOUR_2}Penelitian
+STR_1910    :{WINDOW_COLOUR_2}Bunga pinjaman
+STR_1911    :{BLACK} pada {COMMA16}% per tahun
+STR_1912    :{MONTH}
+STR_1913    :{BLACK}+{CURRENCY2DP}
+STR_1914    :{BLACK}{MATA UANG2DP}
+STR_1915    :{RED}{MATA UANG2DP}
+STR_1916    :{WINDOW_COLOUR_2}Pinjaman:
+STR_1918    :Tidak bisa meminjam uang lagi!
+STR_1919    :Uang tunai tidak mencukupi!
+STR_1920    :Tidak bisa membayar kembali pinjaman!
+STR_1921    :Mulai permainan baru
+STR_1922    :Lanjutkan memainkan permainan yang tersimpan
+STR_1924    :Keluar
+STR_1925    :Tidak dapat mengenali orang di sini…
+STR_1927    :{YELLOW}{STRINGID} telah rusak
+STR_1928    :{RED}{STRINGID} telah mengalami crash!
+STR_1929    :{RED}{STRINGID} masih belum diperbaiki{NEWLINE}Periksa di mana mekanik Anda berada dan pertimbangkan untuk mengatur mereka dengan lebih baik 
+STR_1930    :Aktifkan/nonaktifkan informasi pelacakan untuk pengunjung ini - (Jika pelacakan aktif, pergerakan pengunjung akan dilaporkan di area pesan) 
+STR_1931    :{STRINGID} telah bergabung dalam antrian untuk {STRINGID}
+STR_1932    :{STRINGID} ada di {STRINGID}
+STR_1933    :{STRINGID} ada di {STRINGID}
+STR_1934    :{STRINGID} telah meninggalkan {STRINGID}
+STR_1935    :{STRINGID} telah meninggalkan taman
+STR_1936    :{STRINGID} telah membeli {STRINGID}
+STR_1937    :Tampilkan informasi tentang subjek pesan ini
+STR_1938    :Tampilkan pemandangan pengunjung
+STR_1939    :Tampilkan tampilan anggota staf
+STR_1940    :Tunjukkan kebahagiaan, energi, rasa lapar, dll. untuk pengunjung ini
+STR_1941    :Tunjukkan wahana apa saja yang pernah dinaiki pengunjung ini
+STR_1942    :Tampilkan informasi keuangan tentang pengunjung ini
+STR_1943    :Menampilkan pemikiran terbaru pengunjung
+STR_1944    :Tampilkan barang-barang yang dibawa pengunjung
+STR_1945    :Tampilkan perintah dan opsi untuk anggota staf ini
+STR_1946    :Pilih kostum untuk penghibur ini
+STR_1947    :Tampilkan area yang dipatroli oleh tipe staf yang dipilih, dan temukan anggota staf terdekat. 
+STR_1948    :Rekrut anggota staf baru dari tipe yang dipilih. 
+STR_1949    :Ringkasan Keuangan.
+STR_1950    :Grafik Keuangan
+STR_1951    :Grafik Nilai Taman
+STR_1952    :Grafik Keuntungan
+STR_1953    :Pemasaran
+STR_1954    :Pendanaan Penelitian
+STR_1955    :{WINDOW_COLOUR_2}Jumlah sirkuit:
+STR_1956    :Jumlah putaran lintasan per perjalanan
+STR_1958    :{COMMA16}
+STR_1959    :Tidak dapat mengubah jumlah sirkuit…
+STR_1960    :{WINDOW_COLOUR_2}Harga balon:
+STR_1961    :{WINDOW_COLOUR_2}Harga Mainan Lucu:
+STR_1962    :{WINDOW_COLOUR_2}Harga Peta Taman:
+STR_1963    :{WINDOW_COLOUR_2}Harga Foto Saat Naik Wahana:
+STR_1964    :{WINDOW_COLOUR_2}Harga payung:
+STR_1965    :{WINDOW_COLOUR_2}Harga minuman:
+STR_1966    :{WINDOW_COLOUR_2}Harga burger:
+STR_1967    :{WINDOW_COLOUR_2}Harga chip:
+STR_1968    :{WINDOW_COLOUR_2}Harga Es Krim:
+STR_1969    :{WINDOW_COLOUR_2}Harga permen kapas:
+STR_1970    :{WINDOW_COLOUR_2}
+STR_1971    :{WINDOW_COLOUR_2}
+STR_1972    :{WINDOW_COLOUR_2}
+STR_1973    :{WINDOW_COLOUR_2}Harga pizza:
+STR_1974    :{WINDOW_COLOUR_2}
+STR_1975    :{WINDOW_COLOUR_2}Harga popcorn:
+STR_1976    :{WINDOW_COLOUR_2}Harga Hot Dog:
+STR_1977    :{WINDOW_COLOUR_2}Harga tentakel:
+STR_1978    :{WINDOW_COLOUR_2}Harga topi:
+STR_1979    :{WINDOW_COLOUR_2}Harga Toffee Apple:
+STR_1980    :{WINDOW_COLOUR_2}Harga kaos:
+STR_1981    :{WINDOW_COLOUR_2}Harga donat:
+STR_1982    :{WINDOW_COLOUR_2}Harga kopi:
+STR_1983    :{WINDOW_COLOUR_2}
+STR_1984    :{WINDOW_COLOUR_2}Harga Ayam Goreng:
+STR_1985    :{WINDOW_COLOUR_2}Harga limun:
+STR_1986    :{WINDOW_COLOUR_2}
+STR_1987    :{WINDOW_COLOUR_2}
+STR_1988    :Balon
+STR_1989    :Mainan Lucu
+STR_1990    :Peta Taman
+STR_1991    :Foto Saat Naik Wahana
+STR_1992    :Payung
+STR_1993    :Minuman
+STR_1994    :Burger
+STR_1995    :Chip
+STR_1996    :Es Krim
+STR_1997    :Permen kapas
+STR_1998    :Kaleng Kosong
+STR_1999    :Sampah
+STR_2000    :Kotak Burger Kosong
+STR_2001    :Pizza
+STR_2002    :Voucher
+STR_2003    :Popcorn
+STR_2004    :Hot Dog
+STR_2005    :Tentacle
+STR_2006    :Topi
+STR_2007    :Apel Karamel
+STR_2008    :Kaos
+STR_2009    :Donat
+STR_2010    :Kopi
+STR_2011    :Cangkir Kosong
+STR_2012    :Ayam Goreng
+STR_2013    :Limun
+STR_2014    :Kotak Kosong
+STR_2015    :Botol Kosong
+STR_2016    :Balon
+STR_2017    :Mainan Lucu
+STR_2018    :Peta Taman
+STR_2019    :Foto-foto Saat Naik Wahana
+STR_2020    :Payung
+STR_2021    :Minuman
+STR_2022    :Burger
+STR_2023    :Chip
+STR_2024    :Es Krim
+STR_2025    :Permen kapas
+STR_2026    :Kaleng Kosong
+STR_2027    :Sampah
+STR_2028    :Kotak Burger Kosong
+STR_2029    :Pizza
+STR_2030    :Voucher
+STR_2031    :Popcorn
+STR_2032    :Sosis Hot Dog
+STR_2033    :Tentakel
+STR_2034    :Topi
+STR_2035    :Apel Karamel
+STR_2036    :Kaos
+STR_2037    :Donat
+STR_2038    :Kopi
+STR_2039    :Cangkir Kosong
+STR_2040    :Ayam Goreng
+STR_2041    :Limun
+STR_2042    :Kotak Kosong
+STR_2043    :Botol Kosong
+STR_2044    :sebuah Balon
+STR_2045    :Mainan Empuk
+STR_2046    :Peta Taman
+STR_2047    :Foto Saat Naik Wahana
+STR_2048    :sebuah Payung
+STR_2049    :Minuman
+STR_2050    :sebuah Burger
+STR_2051    :beberapa Keripik
+STR_2052    :Es Krim
+STR_2053    :beberapa Permen Kapas
+STR_2054    :sebuah Kaleng Kosong
+STR_2055    :beberapa Sampah
+STR_2056    :Kotak Burger Kosong
+STR_2057    :Pizza
+STR_2058    :sebuah Voucher
+STR_2059    :beberapa Popcorn
+STR_2060    :sebuah Hot Dog
+STR_2061    :sebuah Tentakel
+STR_2062    :sebuah Topi
+STR_2063    :a Toffee Apple
+STR_2064    :sebuah Kaos
+STR_2065    :sebuah Donat
+STR_2066    :Kopi
+STR_2067    :sebuah Cangkir Kosong
+STR_2068    :beberapa Ayam Goreng
+STR_2069    :beberapa Limun
+STR_2070    :Kotak Kosong
+STR_2071    :Botol Kosong
+STR_2072    :“{STRINGID}” Balon
+STR_2073    :“{STRINGID}” Mainan yang Lucu
+STR_2074    :Peta {STRINGID}
+STR_2075    :Foto Saat Naik {STRINGID}
+STR_2076    :“{STRINGID}” Payung
+STR_2077    :Minuman
+STR_2078    :Burger
+STR_2079    :Chip
+STR_2080    :Es Krim
+STR_2081    :Permen kapas
+STR_2082    :Kaleng Kosong
+STR_2083    :Sampah
+STR_2084    :Kotak Burger Kosong
+STR_2085    :Pizza
+STR_2086    :Voucher untuk {STRINGID}
+STR_2087    :Popcorn
+STR_2088    :Hot Dog
+STR_2089    :Tentakel
+STR_2090    :“{STRINGID}” Topi
+STR_2091    :Apel Karamel
+STR_2092    :“{STRINGID}” Kaos
+STR_2093    :Donat
+STR_2094    :Kopi
+STR_2095    :Cangkir Kosong
+STR_2096    :Ayam Goreng
+STR_2097    :Limun
+STR_2098    :Kotak Kosong
+STR_2099    :Botol Kosong
+STR_2103    :{WINDOW_COLOUR_2}Harga pretzel:
+STR_2104    :{WINDOW_COLOUR_2}Harga Cokelat Panas:
+STR_2105    :{WINDOW_COLOUR_2}Harga Es Teh:
+STR_2106    :{WINDOW_COLOUR_2}Harga Funnel Cake:
+STR_2107    :{WINDOW_COLOUR_2}Harga kacamata hitam:
+STR_2108    :{WINDOW_COLOUR_2}Harga Mie Daging Sapi:
+STR_2109    :{WINDOW_COLOUR_2}Harga Mie Goreng:
+STR_2110    :{WINDOW_COLOUR_2}Harga Sup Wonton:
+STR_2111    :{WINDOW_COLOUR_2}Harga Sup Bakso:
+STR_2112    :{WINDOW_COLOUR_2}Harga Jus Buah:
+STR_2113    :{WINDOW_COLOUR_2}Harga Susu Kedelai:
+STR_2114    :{WINDOW_COLOUR_2}Harga Sujeonggwa:
+STR_2115    :{WINDOW_COLOUR_2}Harga Sub Sandwich:
+STR_2116    :{WINDOW_COLOUR_2}Harga kue:
+STR_2117    :{WINDOW_COLOUR_2}
+STR_2118    :{WINDOW_COLOUR_2}
+STR_2119    :{WINDOW_COLOUR_2}
+STR_2120    :{WINDOW_COLOUR_2}Harga Sosis Panggang:
+STR_2121    :{WINDOW_COLOUR_2}
+STR_2125    :Pretzel
+STR_2126    :Cokelat Panas
+STR_2127    :Es Teh
+STR_2128    :Kue Corong
+STR_2129    :Kacamata Hitam
+STR_2130    :Mie Daging Sapi
+STR_2131    :Mie Goreng
+STR_2132    :Sup Wonton
+STR_2133    :Sup Bakso
+STR_2134    :Jus Buah
+STR_2135    :Susu Kedelai
+STR_2136    :Sujeonggwa
+STR_2137    :Sandwich Sub
+STR_2138    :Kue
+STR_2139    :Mangkuk Kosong
+STR_2140    :Karton Minuman Kosong
+STR_2141    :Gelas Jus Kosong
+STR_2142    :Sosis Panggang
+STR_2143    :Mangkuk Kosong
+STR_2147    :Pretzel
+STR_2148    :Cokelat Panas
+STR_2149    :Teh Es
+STR_2150    :Kue Corong
+STR_2151    :Kacamata Hitam
+STR_2152    :Mie Daging Sapi
+STR_2153    :Mie Goreng
+STR_2154    :Sup Pangsit
+STR_2155    :Sup Bakso
+STR_2156    :Jus Buah
+STR_2157    :Susu Kedelai
+STR_2158    :Sujeonggwa
+STR_2159    :Sandwich Sub
+STR_2160    :Kue
+STR_2161    :Mangkuk Kosong
+STR_2162    :Karton Minuman Kosong
+STR_2163    :Gelas Jus Kosong
+STR_2164    :Sosis Panggang
+STR_2165    :Mangkuk Kosong
+STR_2169    :sebuah Pretzel
+STR_2170    :Cokelat Panas
+STR_2171    :Teh Es
+STR_2172    :Kue Corong
+STR_2173    :sepasang Kacamata Hitam
+STR_2174    :Mie Daging Sapi
+STR_2175    :Beberapa Mie Goreng
+STR_2176    :Sup Wonton
+STR_2177    :Sup Bakso
+STR_2178    :Jus Buah
+STR_2179    :Susu Kedelai
+STR_2180    :beberapa Sujeonggwa
+STR_2181    :Sandwich Sub
+STR_2182    :sebuah Cookie
+STR_2183    :Mangkuk Kosong
+STR_2184    :Karton Minuman Kosong
+STR_2185    :Sebuah Gelas Jus Kosong
+STR_2186    :Sosis Panggang
+STR_2187    :Mangkuk Kosong
+STR_2191    :Pretzel
+STR_2192    :Cokelat Panas
+STR_2193    :Es Teh
+STR_2194    :Kue Corong
+STR_2195    :Kacamata Hitam
+STR_2196    :Mie Daging Sapi
+STR_2197    :Mie Goreng
+STR_2198    :Sup Wonton
+STR_2199    :Sup Bakso
+STR_2200    :Jus Buah
+STR_2201    :Susu Kedelai
+STR_2202    :Sujeonggwa
+STR_2203    :Sandwich Sub
+STR_2204    :Kue
+STR_2205    :Mangkuk Kosong
+STR_2206    :Karton Minuman Kosong
+STR_2207    :Gelas Jus Kosong
+STR_2208    :Sosis Panggang
+STR_2209    :Mangkuk Kosong
+STR_2210    :Tampilkan daftar tukang di taman
+STR_2211    :Tampilkan daftar mekanik di taman
+STR_2212    :Tampilkan daftar petugas keamanan di taman
+STR_2213    :Tampilkan daftar penghibur di taman
+STR_2214    :Pembangunan tidak mungkin dilakukan saat permainan dijeda!
+STR_2215    :{STRINGID}{NEWLINE}({STRINGID})
+STR_2216    :{WINDOW_COLOUR_1}{COMMA16}°C
+STR_2217    :{WINDOW_COLOUR_1}{COMMA16}°F
+STR_2218    :{RED}{STRINGID} pada {STRINGID} belum kembali ke {STRINGID}!{NEWLINE}Periksa apakah macet tau berhenti 
+STR_2219    :{RED}{COMMA16} orang meninggal dalam kecelakaan pada {STRINGID}
+STR_2220    :{WINDOW_COLOUR_2}Peringkat Taman:{BLACK}{COMMA16}
+STR_2221    :Peringkat Taman:{COMMA16}
+STR_2222    :{BLACK}{STRINGID}
+STR_2223    :{WINDOW_COLOUR_2}pengunjung di taman:{BLACK}{COMMA32}
+STR_2224    :{WINDOW_COLOUR_2}Tunai:{BLACK}{CURRENCY2DP}
+STR_2225    :{WINDOW_COLOUR_2}Tunai:{RED}{MATA UANG2DP}
+STR_2226    :{WINDOW_COLOUR_2}Nilai Taman:{BLACK}{CURRENCY}
+STR_2227    :{WINDOW_COLOUR_2}Nilai perusahaan:{BLACK}{CURRENCY}
+STR_2228    :{WINDOW_COLOUR_2}Keuntungan bulan lalu dari penjualan makanan/minuman dan{NEWLINE}barang dagangan:{BLACK}{CURRENCY}
+STR_2229    :Kemiringan naik hingga vertikal
+STR_2230    :Jalur vertikal
+STR_2231    :Menahan rem untuk penurunan
+STR_2232    :Bukit lift kabel
+STR_2233    :Informasi taman
+STR_2234    :Pesan Terbaru
+STR_2235    :{STRINGID} {STRINGID}
+STR_2236    :Januari
+STR_2237    :Februari
+STR_2238    :Maret
+STR_2239    :April
+STR_2240    :Mei
+STR_2241    :Juni
+STR_2242    :Juli
+STR_2243    :Agustus
+STR_2244    :September
+STR_2245    :Oktober
+STR_2246    :November
+STR_2247    :Desember
+STR_2248    :Tidak dapat menghancurkan wahana/atraksi…
+STR_2249    :{BABYBLUE}Wahana/atraksi baru kini tersedia:{NEWLINE}{STRINGID}
+STR_2250    :{BABYBLUE}Pemandangan/tema baru kini tersedia:{NEWLINE}{STRINGID}
+STR_2251    :Hanya dapat dibangun di jalur!
+STR_2252    :Hanya dapat dibangun melalui jalur!
+STR_2253    :Wahana Transportasi
+STR_2254    :Wahana yang Lembut
+STR_2255    :Roller Coaster
+STR_2256    :Wahana Seru
+STR_2257    :Wahana Air
+STR_2258    :Toko & Kios
+STR_2259    :Pemandangan & Tema
+STR_2260    :Tidak ada pendanaan
+STR_2261    :Pendanaan minimum
+STR_2262    :Pendanaan normal
+STR_2263    :Pendanaan maksimum
+STR_2264    :Pendanaan penelitian
+STR_2265    :{WINDOW_COLOUR_2}Biaya:{BLACK}{CURRENCY} per bulan
+STR_2266    :Prioritas penelitian
+STR_2267    :Saat ini sedang dalam pengembangan
+STR_2268    :Perkembangan terakhir
+STR_2269    :{WINDOW_COLOUR_2}Tipe:{BLACK}{STRINGID}
+STR_2270    :{WINDOW_COLOUR_2}Progress:{BLACK}{STRINGID}
+STR_2271    :{WINDOW_COLOUR_2}Diharapkan:{BLACK}{STRINGID}
+STR_2272    :{WINDOW_COLOUR_2}Wahana/atraksi:{NEWLINE}{BLACK}{STRINGID}
+STR_2273    :{WINDOW_COLOUR_2}Pemandangan/tema:{NEWLINE}{BLACK}{STRINGID}
+STR_2274    :Tampilkan detail penemuan atau pengembangan ini
+STR_2275    :Tampilkan pendanaan dan opsi untuk penelitian & pengembangan
+STR_2276    :Tampilkan status penelitian & pengembangan
+STR_2277    :Tidak diketahui
+STR_2278    :Perjalanan Transportasi
+STR_2279    :Perjalanan yang Lembut
+STR_2280    :Roller Coaster
+STR_2281    :Wahana Seru
+STR_2282    :Wahana Air
+STR_2283    :Toko/Kios
+STR_2284    :Pemandangan/Tema
+STR_2285    :Penelitian awal
+STR_2286    :Mendesain
+STR_2287    :Menyelesaikan desain
+STR_2288    :Tidak Diketahui
+STR_2289    :{STRINGID} {STRINGID}
+STR_2291    :Pilih skenario untuk permainan baru
+STR_2292    :{WINDOW_COLOUR_2}Tumpangan yang pernah dinaiki:
+STR_2293    :{BLACK} Tidak ada
+STR_2294    :Mengubah gaya lahan dasar
+STR_2295    :Mengubah tepi vertikal tanah
+STR_2296    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} dibayar untuk masuk taman
+STR_2297    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} dibelanjakan untuk {BLACK}{COMMA16} wahana 
+STR_2298    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} dibelanjakan untuk {BLACK}{COMMA16} wahana ,
+STR_2299    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} dibelanjakan untuk {BLACK}{COMMA16} item makanan 
+STR_2300    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} dibelanjakan untuk {BLACK}{COMMA16} item makanan 
+STR_2301    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} dibelanjakan untuk {BLACK}{COMMA16} minuman 
+STR_2302    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} dibelanjakan untuk {BLACK}{COMMA16} minuman 
+STR_2303    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} dibelanjakan untuk suvenir {BLACK}{COMMA16} 
+STR_2304    :{BLACK}{CURRENCY2DP}{WINDOW_COLOUR_2} dibelanjakan untuk suvenir {BLACK}{COMMA16} 
+STR_2305    :Berkas desain trek
+STR_2306    :Simpan desain trek
+STR_2307    :Pilih desain {STRINGID}
+STR_2308    :{STRINGID} Desain Trek
+STR_2309    :Instal Desain Trek Baru
+STR_2310    :Membangun desain khusus
+STR_2311    :{WINDOW_COLOUR_2}Peringkat kegembiraan:{BLACK}{COMMA2DP32} (kira-kira) 
+STR_2312    :{WINDOW_COLOUR_2}Peringkat intensitas:{BLACK}{COMMA2DP32} (kira-kira) 
+STR_2313    :{WINDOW_COLOUR_2}Peringkat mual:{BLACK}{COMMA2DP32} (kira-kira)
+STR_2314    :{WINDOW_COLOUR_2}Panjang perjalanan:{BLACK}{STRINGID}
+STR_2315    :{WINDOW_COLOUR_2}Biaya:{BLACK}sekitar {CURRENCY}
+STR_2316    :{WINDOW_COLOUR_2}Ruang yang dibutuhkan:{BLACK}{COMMA16} × {COMMA16} blok 
+STR_2321    :{WINDOW_COLOUR_2}Jumlah wahana/atraksi:{BLACK}{COMMA16}
+STR_2322    :{WINDOW_COLOUR_2}Staf:{BLACK}{COMMA32}
+STR_2323    :{WINDOW_COLOUR_2}Ukuran taman:{BLACK}{COMMA32}m²˛
+STR_2324    :{WINDOW_COLOUR_2}Ukuran taman:{BLACK}{COMMA32} kaki persegi.
+STR_2325    :Beli tanah untuk memperluas taman
+STR_2326    :Beli hak konstruksi untuk memungkinkan pembangunan di atas atau di bawah lahan di luar taman 
+STR_2327    :Opsi 
+STR_2328    :{WINDOW_COLOUR_2}Mata Uang:
+STR_2329    :{WINDOW_COLOUR_2}Jarak dan Kecepatan:
+STR_2330    :{WINDOW_COLOUR_2}Suhu:
+STR_2331    :{WINDOW_COLOUR_2}Label Tinggi:
+STR_2332    :Satuan
+STR_2333    :Efek suara
+STR_2334    :Pound (£)
+STR_2335    :Dolar ($)
+STR_2336    :Franc (F)
+STR_2337    :Deutsche mark (DM)
+STR_2338    :Yen (¥)
+STR_2339    :Peseta (Pts)
+STR_2340    :Lira (L)
+STR_2341    :Guilders (ƒ)
+STR_2342    :Krona (kr)
+STR_2343    :Euro (€)
+STR_2344    :Kekaisaran
+STR_2345    :Metrik
+STR_2347    :{RED}{STRINGID} telah tenggelam!
+STR_2348    :Tampilkan statistik untuk anggota staf ini
+STR_2349    :{WINDOW_COLOUR_2}Gaji:{BLACK}{CURRENCY} per bulan
+STR_2350    :{WINDOW_COLOUR_2}Dipekerjakan:{BLACK}{MONTHYEAR}
+STR_2351    :{WINDOW_COLOUR_2}Rumput yang dipotong:{BLACK}{COMMA32}
+STR_2352    :{WINDOW_COLOUR_2}Kebun disirami:{BLACK}{COMMA32}
+STR_2353    :{WINDOW_COLOUR_2}Sampah disapu:{BLACK}{COMMA32}
+STR_2354    :{WINDOW_COLOUR_2}Bin dikosongkan:{BLACK}{COMMA32}
+STR_2355    :{WINDOW_COLOUR_2}Rute tetap:{BLACK}{COMMA32}
+STR_2356    :{WINDOW_COLOUR_2}Wahana yang diperiksa:{BLACK}{COMMA32}
+STR_2358    :Satuan
+STR_2359    :Nilai Riil
+STR_2360    :Resolusi Tampilan:
+STR_2361    :Penghalusan Lanskap
+STR_2362    :Aktifkan/Nonaktifkan penghalusan tepi ubin lanskap
+STR_2363    :Garis Kisi pada Lanskap
+STR_2364    :Aktifkan/Nonaktifkan garis kisi pada tampilan lanskap
+STR_2365    :Bank menolak untuk menaikkan pinjaman Anda!
+STR_2366    :Celsius (°C)
+STR_2367    :Fahrenheit (°F)
+STR_2368    :Tidak ada
+STR_2369    :Rendah
+STR_2370    :Rata-rata
+STR_2371    :Tinggi
+STR_2372    :Rendah
+STR_2373    :Sedang
+STR_2374    :Tinggi
+STR_2375    :Sangat tinggi
+STR_2376    :Ekstrem
+STR_2377    :Ultra-Ekstrem
+STR_2378    :Sesuaikan area lahan yang lebih kecil
+STR_2379    :Sesuaikan area lahan yang lebih besar
+STR_2380    :Sesuaikan area air yang lebih kecil
+STR_2381    :Sesuaikan area air yang lebih besar
+STR_2382    :Tanah
+STR_2383    :Air
+STR_2384    :{WINDOW_COLOUR_2}Tujuan Anda:
+STR_2385    :{BLACK}Tidak ada
+STR_2386    :{BLACK}Untuk memiliki setidaknya {COMMA32} pengunjung di taman Anda pada akhir {MONTHYEAR_SENTENCE}, dengan peringkat taman minimal 600
+STR_2387    :{BLACK}Untuk mencapai nilai Taman minimal {POP16}{POP16}{CURRENCY} pada akhir {PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{MONTHYEAR_SENTENCE}
+STR_2388    :{BLACK}Selamat bersenang-senang!
+STR_2389    :{BLACK}Buat {STRINGID} terbaik yang bisa kamu buat!
+STR_2390    :{BLACK} Untuk memiliki 10 jenis roller coaster berbeda yang beroperasi di taman Anda, masing-masing dengan nilai kegembiraan minimal 6,00
+STR_2391    :{BLACK}Anda harus memiliki setidaknya {COMMA32} pengunjung di taman Anda. Anda tidak boleh membiarkan peringkat taman turun di bawah 700 kapan pun!
+STR_2392    :{BLACK}Untuk mencapai pendapatan bulanan dari tiket wahana minimal {POP16}{POP16}{CURRENCY}
+STR_2393    :{BLACK}Untuk memiliki 10 jenis roller coaster berbeda yang beroperasi di taman Anda, masing-masing dengan panjang minimum {LENGTH}, dan peringkat kegembiraan minimal 7,00
+STR_2394    :{BLACK}Untuk menyelesaikan pembangunan kelima roller coaster yang sebagian sudah dibangun di taman ini, dengan mendesainnya agar mencapai peringkat kegembiraan minimal {POP16}{POP16}{COMMA2DP32} masing-masing 
+STR_2395    :{BLACK}Untuk melunasi pinjaman Anda dan mencapai nilai taman minimal {POP16}{POP16}{CURRENCY}
+STR_2396    :{BLACK}Untuk mencapai keuntungan bulanan dari penjualan makanan, minuman, dan barang dagangan minimal {POP16}{POP16}{CURRENCY}
+STR_2397    :Tidak ada
+STR_2398    :Jumlah pengunjung pada tanggal tertentu
+STR_2399    :Nilai Taman pada tanggal tertentu
+STR_2400    :Selamat bersenang-senang
+STR_2401    :Bangun kendaraan terbaik yang bisa kamu buat
+STR_2402    :Bangun 10 roller coaster
+STR_2403    :Jumlah pengunjung di taman
+STR_2404    :Pendapatan bulanan dari tiket wahana
+STR_2405    :Bangun 10 roller coaster dengan panjang tertentu
+STR_2406    :Selesaikan pembangunan 5 roller coaster
+STR_2407    :Membayar kembali pinjaman dan mencapai nilai taman yang ditentukan
+STR_2408    :Keuntungan bulanan dari makanan/barang dagangan
+STR_2409    :{WINDOW_COLOUR_2}Kampanye pemasaran yang sedang berjalan
+STR_2410    :{BLACK}Tidak ada
+STR_2411    :{WINDOW_COLOUR_2}Kampanye pemasaran tersedia
+STR_2412    :Mulai kampanye pemasaran ini
+STR_2413    :{BLACK}({CURRENCY2DP} per minggu)
+STR_2414    :(Tidak Dipilih)
+STR_2415    :{WINDOW_COLOUR_2}Ride:
+STR_2416    :{WINDOW_COLOUR_2}Item:
+STR_2417    :{WINDOW_COLOUR_2}Durasi waktu:
+STR_2418    :Masuk gratis ke {STRINGID}
+STR_2419    :Naik gratis di {STRINGID}
+STR_2420    :Tiket masuk setengah harga ke {STRINGID}
+STR_2421    :Gratis {STRINGID}
+STR_2424    :{WINDOW_COLOUR_2}Voucher untuk masuk gratis ke taman
+STR_2425    :{WINDOW_COLOUR_2}Voucher untuk perjalanan gratis pada wahana tertentu
+STR_2426    :{WINDOW_COLOUR_2}Voucher untuk tiket masuk taman dengan harga setengah
+STR_2427    :{WINDOW_COLOUR_2}Voucher untuk makanan atau minuman gratis
+STR_2428    :{WINDOW_COLOUR_2}Kampanye iklan untuk taman
+STR_2429    :{WINDOW_COLOUR_2}Kampanye iklan untuk wahana tertentu
+STR_2430    :{BLACK}Voucher untuk masuk gratis ke {STRINGID}
+STR_2431    :{BLACK}Voucher untuk perjalanan gratis di {STRINGID}
+STR_2432    :{BLACK}Voucher untuk tiket masuk setengah harga ke {STRINGID}
+STR_2433    :{BLACK}Voucher gratis untuk {STRINGID}
+STR_2434    :{BLACK}Kampanye iklan untuk {STRINGID}
+STR_2435    :{BLACK}Kampanye iklan untuk {STRINGID}
+STR_2436    :1 minggu
+STR_2443    :{WINDOW_COLOUR_2}Biaya per minggu:{BLACK}{CURRENCY2DP}
+STR_2444    :{WINDOW_COLOUR_2}Total cost:{BLACK}{CURRENCY2DP}
+STR_2445    :Mulai kampanye pemasaran ini
+STR_2446    :{YELLOW}Kampanye pemasaran Anda untuk masuk gratis ke taman telah selesai 
+STR_2447    :{YELLOW}Kampanye pemasaran Anda untuk wahana gratis di {STRINGID} telah selesai 
+STR_2448    :{YELLOW}Kampanye pemasaran Anda untuk tiket masuk setengah harga ke taman telah selesai 
+STR_2449    :{YELLOW}Kampanye pemasaran Anda untuk {STRINGID} gratis telah selesai 
+STR_2450    :{YELLOW}Kampanye iklan Anda untuk taman telah selesai
+STR_2451    :{YELLOW}Kampanye iklan Anda untuk {STRINGID} telah selesai
+STR_2452    :{WINDOW_COLOUR_2}Tunai (dikurangi pinjaman):{BLACK}{CURRENCY2DP}
+STR_2453    :{WINDOW_COLOUR_2}Tunai (dikurangi pinjaman):{RED}{CURRENCY2DP}
+STR_2457    :Tampilkan akun keuangan
+STR_2458    :Tampilkan grafik kas (dikurangi pinjaman) seiring waktu
+STR_2459    :Tampilkan grafik nilai taman dari waktu ke waktu
+STR_2460    :Tampilkan grafik keuntungan mingguan
+STR_2461    :Tampilkan kampanye pemasaran
+STR_2462    :Tampilkan pemandangan pintu masuk taman
+STR_2463    :Tampilkan grafik peringkat taman dari waktu ke waktu
+STR_2464    :Tampilkan grafik jumlah pengunjung dari waktu ke waktu
+STR_2465    :Tampilkan harga dan informasi tiket masuk taman
+STR_2466    :Tampilkan statistik taman
+STR_2467    :Tampilkan tujuan untuk permainan ini
+STR_2468    :Tampilkan penghargaan terbaru yang telah diterima taman ini
+STR_2469    :Pilih tingkat penelitian & pengembangan
+STR_2470    :Meneliti wahana transportasi baru
+STR_2471    :Riset wahana baru yang lembut
+STR_2472    :Meneliti wahana roller coaster baru
+STR_2473    :Meneliti wahana menegangkan baru
+STR_2474    :Meneliti wahana air baru
+STR_2475    :Meneliti toko dan kios baru
+STR_2476    :Meneliti pemandangan dan tema baru
+STR_2477    :Pilih mode pengoperasian untuk wahana/atraksi ini
+STR_2478    :Tampilkan grafik kecepatan terhadap waktu
+STR_2479    :Tampilkan grafik ketinggian terhadap waktu
+STR_2480    :Tampilkan grafik percepatan vertikal terhadap waktu
+STR_2481    :Tampilkan grafik percepatan lateral terhadap waktu
+STR_2482    :Keuntungan:{CURRENCY} per minggu, Nilai Taman:{CURRENCY}
+STR_2483    :{WINDOW_COLOUR_2}Keuntungan mingguan:{BLACK}+{CURRENCY2DP}
+STR_2484    :{WINDOW_COLOUR_2}Keuntungan mingguan:{RED}{CURRENCY2DP}
+STR_2487    :Tampilkan nama asli pengunjung
+STR_2488    :Beralih antara menampilkan nama asli pengunjung dan nomor pengunjung. 
+STR_2489    :Tombol pintasan…
+STR_2490    :Pintasan keyboard
+STR_2491    :Reset tombol
+STR_2492    :Kembalikan semua pintasan keyboard ke pengaturan default
+STR_2493    :Tutup jendela paling atas
+STR_2494    :Tutup semua jendela mengambang
+STR_2495    :Batalkan mode konstruksi
+STR_2496    :Jeda permainan
+STR_2497    :Perbesar tampilan
+STR_2498    :Perbesar tampilan
+STR_2499    :Putar tampilan searah jarum jam
+STR_2500    :Memutar objek konstruksi
+STR_2501    :Tombol pengaktifan/penonaktifan tampilan bawah tanah
+STR_2502    :Sembunyikan/nonaktifkan lahan dasar
+STR_2503    :Sembunyikan tombol pengalihan lahan vertikal
+STR_2504    :Toggle wahana transparan
+STR_2505    :Tombol pengaktifan/penonaktifan pemandangan tembus pandang
+STR_2506    :Toggle dukungan tak terlihat
+STR_2507    :Tombol untuk mengaktifkan/menonaktifkan orang tak terlihat
+STR_2508    :Tombol penanda ketinggian di lahan
+STR_2509    :Toggle penanda ketinggian pada jalur wahana
+STR_2510    :Toggle penanda ketinggian pada jalur
+STR_2511    :Sesuaikan lahan
+STR_2512    :Sesuaikan air
+STR_2513    :Membangun pemandangan
+STR_2514    :Membangun jalur
+STR_2515    :Bangun wahana baru
+STR_2516    :Tampilkan informasi keuangan
+STR_2517    :Tampilkan informasi penelitian
+STR_2518    :Tampilkan daftar wahana
+STR_2519    :Tampilkan informasi taman
+STR_2520    :Tampilkan daftar pengunjung
+STR_2521    :Tampilkan daftar staf
+STR_2522    :Tampilkan pesan terbaru
+STR_2523    ​​:Tampilkan peta
+STR_2524    :Tangkapan layar
+STR_2533    :Backspace
+STR_2534    :Tab
+STR_2537    :Bersihkan
+STR_2538    :Kembali
+STR_2543    :Semua/Menu
+STR_2544    :Jeda
+STR_2545    :Kapsul
+STR_2552    :Melarikan diri
+STR_2557    :Spasi
+STR_2558    :PgUp
+STR_2559    :PgDn
+STR_2560    :Selesai
+STR_2561    :Beranda
+STR_2562    :Kiri
+STR_2563    :Naik
+STR_2564    :Kanan
+STR_2565    :Turun
+STR_2566    :Pilih
+STR_2567    :Cetak
+STR_2568    :Eksekusi
+STR_2569    :Cuplikan
+STR_2570    :Sisipkan
+STR_2571    :Hapus
+STR_2572    :Bantuan
+STR_2618    :Menu
+STR_2621    :NumPad 0
+STR_2622    :NumPad 1
+STR_2623    :NumPad 2
+STR_2624    :NumPad 3
+STR_2625    :NumPad 4
+STR_2626    :NumPad 5
+STR_2627    :NumPad 6
+STR_2628    :NumPad 7
+STR_2629    :NumPad 8
+STR_2630    :NumPad 9
+STR_2631    :NumPad *
+STR_2632    :NumPad +
+STR_2634    :NumPad -
+STR_2635    :NumPad .
+STR_2636    :NumPad /
+STR_2669    :NumLock
+STR_2670    :Gulir
+STR_2680    :Semua penelitian selesai
+STR_2684    :Sekelompok besar pengunjung tiba
+STR_2685    :Parameter Derau Simplex
+STR_2686    :Ketinggian tanah minimum:
+STR_2687    :Ketinggian tanah maksimum:
+STR_2688    :Frekuensi Dasar:
+STR_2689    :Oktaf:
+STR_2690    :Pembuatan Peta
+STR_2691    :Tinggi dasar:
+STR_2692    :Tingkat air:
+STR_2693    :Medan:
+STR_2694    :Hasilkan
+STR_2695    :Medan acak
+STR_2696    :Tanam pohon
+STR_2700    :Frekuensi penyimpanan otomatis:
+STR_2701    :Setiap menit
+STR_2702    :Setiap 5 menit
+STR_2703    :Setiap 15 menit
+STR_2704    :Setiap 30 menit
+STR_2705    :Setiap jam
+STR_2706    :Tidak pernah
+STR_2707    :Gunakan penjelajah file sistem
+STR_2708    :{WINDOW_COLOUR_1}Apakah Anda yakin ingin menimpa {STRINGID}?
+STR_2709    :Timpa
+STR_2720    :{UINT16}detik
+STR_2721    :{UINT16}sex
+STR_2722    :{UINT16}menit:{UINT16}dtk
+STR_2723    :{UINT16}menit:{UINT16}detik
+STR_2724    :{UINT16}menit:{UINT16}detik
+STR_2725    :{UINT16}menit:{UINT16}detik
+STR_2726    :{UINT16}menit
+STR_2727    :{UINT16} menit
+STR_2728    :{UINT16}jam:{UINT16}menit
+STR_2729    :{UINT16}jam:{UINT16}menit
+STR_2730    :{UINT16}jam:{UINT16}menit
+STR_2731    :{UINT16}jam:{UINT16}menit
+STR_2732    :{COMMA32} ft
+STR_2733    :{COMMA32} m
+STR_2734    :{COMMA16} mph
+STR_2735    :{COMMA16} km/jam
+
+# Used only as part of label-value pair.
+STR_2736    :{MONTH}, Tahun {COMMA16}
+STR_2737    :{STRINGID} {MONTH}, Tahun {COMMA16}
+STR_2738    :Musik layar judul:
+STR_2739    :Tidak ada
+STR_2740    :RollerCoaster Tycoon 1
+STR_2741    :RollerCoaster Tycoon 2
+STR_2749    :Skenario baru saya
+
+# New strings used in the cheats window previously these were ???
+STR_2750    :Pindahkan semua item ke atas
+STR_2751    :Pindahkan semua item ke bawah
+STR_2752    :Bersihkan rumput
+STR_2753    :Memotong rumput
+STR_2754    :Tumbuhan air
+STR_2755    :Perbaiki vandalisme
+STR_2756    :Singkirkan sampah
+STR_2763    :???
+STR_2765    :Trem besar
+STR_2766    :Skenario kemenangan
+STR_2767    :Nonaktifkan perubahan cuaca
+STR_2769    :Taman terbuka
+STR_2770    :Tutup taman
+STR_2773    :Berjendela
+STR_2774    :Layar Penuh
+STR_2775    :Layar penuh (jendela tanpa bingkai)
+STR_2776    :Bahasa:
+STR_2777    :{MOVE_X}{10}{STRING}
+STR_2778    :»{MOVE_X}{10}{STRING}
+STR_2779    :Viewport #{COMMA16}
+STR_2780    :Tampilan tambahan
+
+
+# End of new strings
+STR_2781    :{STRINGID}:
+STR_2782    :SHIFT +
+STR_2783    :CTRL +
+STR_2784    :Mengubah pintasan keyboard
+STR_2785    :{WINDOW_COLOUR_2}Tekan tombol pintasan baru untuk:{NEWLINE}“{STRINGID}” STR_2786 :Klik deskripsi pintasan untuk memilih tombol baru
+STR_2787    :{WINDOW_COLOUR_2}Nilai Taman:{BLACK}{CURRENCY}
+STR_2788    :{WINDOW_COLOUR_2}Selamat!{NEWLINE}{BLACK}Anda mencapai tujuan Anda dengan nilai perusahaan sebesar {CURRENCY}!
+STR_2789    :{WINDOW_COLOUR_2}Anda gagal mencapai tujuan Anda!
+STR_2790    :Masukkan nama ke dalam bagan skenario
+STR_2791    :Masukkan nama
+STR_2792    :Silakan masukkan nama Anda untuk bagan skenario:
+STR_2793    :(Diselesaikan oleh {STRINGID})
+STR_2794    :{WINDOW_COLOUR_2}Diselesaikan oleh:{BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} dengan nilai perusahaan:{BLACK}{CURRENCY}
+STR_2795    :Urutkan
+STR_2796    :Urutkan daftar perjalanan berdasarkan jenis informasi yang ditampilkan STR_2797:Gulir tampilan saat penunjuk berada di tepi layar
+STR_2798    :Gulir tampilan saat penunjuk mouse berada di tepi layar
+STR_2799    :Lihat atau ubah penetapan kunci kontrol
+STR_2800    :{WINDOW_COLOUR_2}Jumlah penerimaan:{BLACK}{COMMA32}
+STR_2801    :{WINDOW_COLOUR_2}Pendapatan dari penerimaan:{BLACK}{CURRENCY2DP}
+STR_2802    :Peta
+STR_2803    :Tampilkan pengunjung-pengunjung ini yang disorot di peta
+STR_2804    :Tampilkan anggota staf ini yang disorot pada peta
+STR_2805    :Tampilkan peta taman
+STR_2806    :{RED}Para pengunjung mengeluhkan kondisi jalan setapak yang menjijikkan di taman Anda{NEWLINE}Periksa di mana tukang Anda berada dan pertimbangkan untuk mengatur mereka dengan lebih baik 
+STR_2807    :{RED}Para pengunjung mengeluhkan banyaknya sampah di taman Anda{NEWLINE}Periksa di mana tukang Anda berada dan pertimbangkan untuk mengatur mereka dengan lebih baik 
+STR_2808    :{RED}Para pengunjung mengeluhkan vandalisme di taman Anda{NEWLINE}Periksa di mana petugas keamanan Anda berada dan pertimbangkan untuk mengatur mereka dengan lebih baik 
+STR_2809    :{RED}Para pengunjung lapar dan tidak dapat menemukan tempat untuk membeli makanan 
+STR_2810    :{RED}Para pengunjung haus dan tidak dapat menemukan tempat untuk membeli minuman 
+STR_2811    :{RED}Para pengunjung mengeluhkan karena mereka tidak dapat menemukan toilet di taman Anda 
+STR_2812    :{RED}Para pengunjung tersesat atau terjebak{NEWLINE}Periksa apakah Tata letak jalan setapak Anda perlu diperbaiki untuk membantu para pengunjung menemukan jalan mereka 
+STR_2813    :{RED}Biaya masuk taman Anda terlalu tinggi!{NEWLINE}Kurangi biaya masuk Anda atau tingkatkan nilai taman untuk menarik lebih banyak pengunjung 
+STR_2814    :{WINDOW_COLOUR_2}Penghargaan taman paling berantakan 
+STR_2815    :{WINDOW_COLOUR_2}Penghargaan taman paling rapi
+STR_2816    :{WINDOW_COLOUR_2}Penghargaan untuk taman dengan roller coaster terbaik 
+STR_2817    :{WINDOW_COLOUR_2}Penghargaan taman dengan nilai terbaik
+STR_2818    :{WINDOW_COLOUR_2}Penghargaan taman terindah
+STR_2819    :{WINDOW_COLOUR_2}Penghargaan taman dengan nilai terburuk
+STR_2820    :{WINDOW_COLOUR_2}Penghargaan taman teraman
+STR_2821    :{WINDOW_COLOUR_2}Penghargaan staf terbaik
+STR_2822    :{WINDOW_COLOUR_2}Penghargaan makanan taman terbaik
+STR_2823    :{WINDOW_COLOUR_2}Penghargaan makanan taman terburuk
+STR_2824    :{WINDOW_COLOUR_2}Penghargaan toilet taman terbaik
+STR_2825    :{WINDOW_COLOUR_2}Penghargaan taman paling mengecewakan
+STR_2826    :{WINDOW_COLOUR_2}Penghargaan wahana air terbaik
+STR_2827    :{WINDOW_COLOUR_2}Penghargaan wahana yang dirancang khusus terbaik
+STR_2828    :{WINDOW_COLOUR_2} Penghargaan skema warna wahana paling memukau
+STR_2829    :{WINDOW_COLOUR_2}Penghargaan tata letak taman paling membingungkan
+STR_2830    :{WINDOW_COLOUR_2}Penghargaan perjalanan paling nyaman
+STR_2831    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai "Taman paling berantakan di negara ini"!
+STR_2832    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai "Taman terbersih di negara ini"!
+STR_2833    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai "Taman dengan wahana roller coaster terbaik!"
+STR_2834    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai “Taman dengan nilai terbaik di negara ini”!
+STR_2835    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai "Taman terindah di negara ini"!
+STR_2836    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai "Taman dengan nilai terburuk di negara ini"!
+STR_2837    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai "Taman teraman di negara ini"!
+STR_2838    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai "Taman dengan staf terbaik!"
+STR_2839    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai "Taman dengan makanan terbaik di negara ini"!
+STR_2840    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai "Taman dengan makanan terburuk di negara ini"!
+STR_2841    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai “Taman dengan fasilitas toilet terbaik di negara ini”!
+STR_2842    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai "Taman paling mengecewakan di negara ini"!
+STR_2843    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai "Taman dengan wahana air terbaik di negara ini"!
+STR_2844    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai "Taman dengan wahana yang dirancang khusus terbaik!"
+STR_2845    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai "Taman dengan pilihan skema warna paling memukau"!
+STR_2846    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai "Taman dengan tata letak paling membingungkan"!
+STR_2847    :{TOPAZ}Taman Anda telah menerima penghargaan sebagai "Taman dengan wahana paling ramah anak!"
+STR_2848    :{WINDOW_COLOUR_2}Tidak ada penghargaan terbaru
+STR_2849    :Skenario baru berhasil diinstal
+STR_2850    :Desain rel baru berhasil dipasang
+STR_2851    :Skenario sudah terpasang
+STR_2852    :Desain jalur sudah terpasang
+STR_2853    :Dilarang oleh pihak berwenang setempat!
+STR_2854    :{RED}Para pengunjung tidak dapat mencapai pintu masuk {STRINGID}!{NEWLINE}Buat jalur menuju pintu masuk 
+STR_2855    :{RED}{STRINGID} tidak memiliki jalur yang mengarah dari pintu keluarnya!{NEWLINE}Buat jalur dari pintu keluar wahana 
+STR_2858    :Tidak dapat memulai kampanye pemasaran…
+STR_2861    :{WINDOW_COLOUR_2}Dilisensikan kepada Infogrames Interactive Inc.
+STR_2971    :Skema warna utama
+STR_2972    :Skema warna alternatif 1
+STR_2973    :Skema warna alternatif 2
+STR_2974    :Skema warna alternatif 3
+STR_2975    :Pilih skema warna mana yang ingin diubah, atau cat kendaraan dengan
+STR_2976    :Warnai area individual dari wahana ini menggunakan skema warna yang dipilih 
+STR_2977    :Nama anggota staf
+STR_2978    :Masukkan nama baru untuk anggota staf ini:
+STR_2979    :Tidak dapat menyebutkan nama anggota staf…
+STR_2980    :Terlalu banyak banner dalam game
+STR_2981    :{RED}Tidak ada entri
+STR_2982    :Teks spanduk
+STR_2983    :Masukkan teks baru untuk banner ini:
+STR_2984    :Tidak dapat mengatur teks baru untuk banner…
+STR_2985    :Spanduk
+STR_2986    :Ubah teks pada banner
+STR_2987    :Tetapkan spanduk ini sebagai tanda "dilarang masuk" untuk pengunjung
+STR_2988    :Hancurkan spanduk ini
+STR_2989    :Pilih warna utama
+STR_2990    :Pilih warna teks
+STR_2991    :Tanda
+STR_2992    :Teks tanda
+STR_2993    :Masukkan teks baru untuk rambu ini:
+STR_2994    :Ubah teks pada papan tanda
+STR_2995    :Hancurkan papan tanda ini
+STR_2996    :{BLACK}ABC
+STR_2997    :{GREY}ABC
+STR_2998    :{WHITE}ABC
+STR_2999    :{RED}ABC
+STR_3000    :{GREEN}ABC
+STR_3001    :{YELLLOW}ABC
+STR_3002    :{TOPAZ}ABC
+STR_3003    :{CELADON}ABC
+STR_3004    :{BABYBLUE}ABC
+STR_3005    :{PALELAVENDER}ABC
+STR_3006    :{PALEGOLD}ABC
+STR_3007    :{LIGHTPINK}ABC
+STR_3008    :{PEARLAQUA}ABC
+STR_3009    :{PALESILVER}ABC
+STR_3010    :Tidak dapat memuat file…
+STR_3011    :Berkas berisi data tidak valid
+STR_3045    :Pilih gaya musik yang ingin diputar
+STR_3047    :Pemerintah setempat melarang pembongkaran atau modifikasi wahana ini. 
+STR_3048    :Kampanye pemasaran dilarang oleh pemerintah setempat.
+STR_3049    :Lubang golf A
+STR_3050    :Lubang golf B
+STR_3051    :Lubang golf C
+STR_3052    :Lubang golf D
+STR_3053    :Lubang golf E
+STR_3054    :Memuat…
+STR_3058    :Dinding bata
+STR_3059    :Hedges
+STR_3060    :Balok es
+STR_3061    :Pagar kayu
+STR_3062    :Lintasan roller coaster standar
+STR_3063    :Saluran air (jalur terendam)
+STR_3064    :Taman untuk Pemula
+STR_3065    :Taman yang Menantang
+STR_3066    :Taman Ahli
+STR_3067    :“Taman Nyata”
+STR_3068    :Taman Lainnya
+STR_3069    :Bagian Atas
+STR_3070    :Kemiringan ke Level
+STR_3071    :{WINDOW_COLOUR_2}Harga sama di seluruh taman
+STR_3072    :Pilih apakah harga ini berlaku di seluruh taman
+STR_3073    :{RED}PERINGATAN:Peringkat taman Anda telah turun di bawah 700!{NEWLINE}Jika Anda belum menaikkan peringkat taman dalam 4 minggu, taman Anda akan ditutup 
+STR_3074    :{RED}PERINGATAN:Peringkat taman Anda masih di bawah 700!{NEWLINE}Anda memiliki 3 minggu untuk menaikkan peringkat taman 
+STR_3075    :{RED}PERINGATAN:Peringkat taman Anda masih di bawah 700!{NEWLINE}Anda hanya memiliki 2 minggu untuk menaikkan peringkat taman, atau taman Anda akan ditutup 
+STR_3076    :{RED}PERINGATAN TERAKHIR:Peringkat taman Anda masih di bawah 700!{NEWLINE}Dalam 7 hari taman Anda akan ditutup kecuali Anda dapat menaikkan peringkat 
+STR_3077    :{RED}PEMBERITAHUAN PENUTUPAN:Taman Anda telah ditutup!
+STR_3090    :Pilih gaya pintu masuk, keluar, dan stasiun
+STR_3091    :Anda tidak diperbolehkan menghapus bagian ini!
+STR_3092    :Anda tidak diperbolehkan memindahkan atau memodifikasi stasiun untuk wahana ini!
+STR_3093    :{WINDOW_COLOUR_2}Favorit:{BLACK}{STRINGID}
+STR_3094    :Tidak Tersedia
+STR_3095    :{WINDOW_COLOUR_2}Kecepatan rantai tanjakan:
+STR_3097    :Pilih kecepatan rantai tanjakan
+STR_3099    :Pilih warna
+STR_3100    :Pilih warna kedua
+STR_3101    :Pilih warna ketiga
+STR_3102    :Mengecat ulang pemandangan berwarna pada lanskap
+STR_3103    :Tidak bisa dicat ulang…
+STR_3104    :Daftar perjalanan
+STR_3105    :Daftar toko dan kios
+STR_3106    :Daftar kios informasi dan fasilitas pengunjung lainnya
+STR_3107    :Tutup
+STR_3108    :Tes
+STR_3109    :Buka
+STR_3110    :{WINDOW_COLOUR_2}Bagian Blok:{BLACK}{COMMA16}
+STR_3111    :Klik pada desain untuk membangunnya
+STR_3112    :Klik pada desain untuk mengganti nama atau menghapusnya
+STR_3113    :Pilih desain yang berbeda
+STR_3114    :Kembali ke jendela pemilihan desain
+STR_3115    :Simpan desain trek
+STR_3116    :Simpan desain lintasan (Tidak mungkin dilakukan sampai wahana telah diuji dan statistik telah dihasilkan) 
+STR_3117    :{BLACK}Memanggil mekanik…
+STR_3118    :{BLACK}{STRINGID} sedang menuju ke perjalanan
+STR_3119    :{BLACK}{STRINGID} sedang memperbaiki wahana tersebut
+STR_3120    :Temukan mekanik terdekat yang tersedia, atau mekanik yang sedang memperbaiki kendaraan
+STR_3121    :Mekanik tidak dapat ditemukan, atau semua mekanik di dekatnya sedang sibuk
+STR_3122    :{WINDOW_COLOUR_2}Kendaraan favorit dari:{BLACK}{COMMA32} pengunjung
+STR_3123    :{WINDOW_COLOUR_2}Wahana favorit dari:{BLACK}{COMMA32} pengunjung
+STR_3124    :Rusak {STRINGID}
+STR_3125    :{WINDOW_COLOUR_2}Faktor Kegembiraan:{BLACK}+{COMMA16}%
+STR_3126    :{WINDOW_COLOUR_2}Faktor Intensitas:{BLACK}+{COMMA16}%
+STR_3127    :{WINDOW_COLOUR_2}Faktor Mual:{BLACK}+{COMMA16}%
+STR_3128    :Simpan Desain Jalur
+STR_3129    :Simpan Desain Jalur dengan Pemandangan
+STR_3130    :Simpan
+STR_3131    :Batal
+STR_3132    :{BLACK}Klik item pemandangan untuk memilihnya agar disimpan dengan desain trek…
+STR_3133    :Tidak dapat membangun ini di lereng
+STR_3134    :{RED}(Desain mencakup pemandangan yang tidak tersedia)
+STR_3135    :{RED}(Desain kendaraan tidak tersedia. Performa berkendara mungkin terpengaruh.) 
+STR_3136    :Peringatan:Desain ini akan dibangun dengan tipe kendaraan alternatif dan mungkin tidak berkinerja seperti yang diharapkan 
+STR_3137    :Pilih Pemandangan Terdekat 
+STR_3138    :Atur Ulang Pilihan
+STR_3139    :Lift kabel tidak dapat bekerja dalam mode operasi ini
+STR_3141    :Beberapa sirkuit per wahana tidak memungkinkan dengan tanjakan lift kabel.
+STR_3142    :{WINDOW_COLOUR_2}Kapasitas:{BLACK}{STRINGID}
+STR_3143    :Tampilkan orang di peta
+STR_3144    :Tampilkan wahana dan kios di peta
+STR_3160    :Pilih jumlah sirkuit per perjalanan
+STR_3162    :Tidak dapat mengalokasikan memori yang cukup
+STR_3163    :Memasang data baru:
+STR_3164    :{BLACK}{COMMA16} dipilih (maksimum {COMMA16})
+STR_3167    :{WINDOW_COLOUR_2}Mencakup:{BLACK}{COMMA16} objek
+STR_3169    :Data untuk objek berikut tidak ditemukan:
+STR_3170    :Tidak cukup ruang untuk grafik
+STR_3171    :Terlalu banyak objek tipe ini yang dipilih
+STR_3172    :Objek berikut harus dipilih terlebih dahulu:{STRING}
+STR_3173    :Objek ini sedang digunakan
+STR_3174    :Objek ini dibutuhkan oleh objek lain
+STR_3175    :Objek ini selalu dibutuhkan
+STR_3176    :Tidak dapat memilih objek ini
+STR_3177    :Tidak dapat membatalkan pemilihan objek ini
+STR_3179    :Setidaknya satu wahana/objek atraksi harus dipilih
+STR_3180    :Pemilihan objek tidak valid
+STR_3181    :Pemilihan Objek - {STRINGID}
+STR_3182    :Jenis pintu masuk taman harus dipilih
+STR_3183    :Jenis air harus dipilih
+STR_3184    :Wahana/Atraksi
+STR_3185    :Pemandangan Kecil
+STR_3186    :Pemandangan Luas
+STR_3187    :Dinding/Pagar
+STR_3188    :Rambu Jalan
+STR_3189    :Jalan setapak warisan
+STR_3190    :Path Extras
+STR_3191    :Grup Pemandangan
+STR_3192    :Pintu Masuk Taman
+STR_3193    :Air
+STR_3195    :Daftar Penemuan
+STR_3196    :{WINDOW_COLOUR_2}Grup Riset:{BLACK}{STRINGID}
+STR_3197    :{WINDOW_COLOUR_2}Item yang sudah ada sejak awal permainan:
+STR_3198    :{WINDOW_COLOUR_2}Item yang dapat diciptakan selama permainan:
+STR_3199    :Pengacakan Acak
+STR_3200    :Mengacak secara acak daftar item yang akan diciptakan selama permainan
+STR_3201    :Pemilihan Objek
+STR_3202    :Editor Lanskap
+STR_3203    :Penyusunan Daftar Penemuan
+STR_3204    :Pemilihan Opsi
+STR_3205    :Pemilihan Objektif
+STR_3206    :Simpan Skenario
+STR_3207    :Perancang Trek
+STR_3208    :Manajer Desain Trek
+STR_3209    :Kembali ke Langkah Sebelumnya:
+STR_3210    :Lanjutkan ke Langkah Berikutnya:
+STR_3211    :Ukuran peta:
+STR_3213    :Tidak dapat mengurangi ukuran peta lebih lanjut
+STR_3214    :Tidak dapat memperbesar ukuran peta lebih lanjut
+STR_3215    :Terlalu dekat dengan tepi peta
+STR_3216    :Pilih lahan milik taman, dll.
+STR_3217    :Tanah Milik
+STR_3218    :Hak Konstruksi Dimiliki
+STR_3219    :Tanah Dijual
+STR_3220    :Hak Konstruksi Dijual
+STR_3221    :Tetapkan lahan yang akan dimiliki oleh taman
+STR_3222    :Tetapkan hak konstruksi hanya untuk dimiliki oleh taman
+STR_3223    :Tetapkan lahan agar tersedia untuk dibeli oleh taman
+STR_3224    :Atur hak konstruksi agar tersedia untuk dibeli oleh taman 
+STR_3225    :Aktifkan/nonaktifkan pembangunan gugusan objek acak di sekitar posisi yang dipilih 
+STR_3226    :Bangun pintu masuk taman 
+STR_3227    :Terlalu banyak pintu masuk taman!
+STR_3228    :Tetapkan posisi awal untuk orang-orang
+STR_3229    :Rem blok tidak dapat digunakan langsung setelah stasiun
+STR_3230    :Rem Blok tidak dapat digunakan secara berurutan.
+STR_3231    :Rem blok tidak dapat digunakan langsung setelah puncak tanjakan ini 
+STR_3232    :Opsi skenario - Keuangan
+STR_3233    :Opsi skenario - pengunjung
+STR_3235    :Tampilkan opsi keuangan
+STR_3236    :Tampilkan opsi pengunjung
+STR_3238    :Tidak Punya Uang
+STR_3239    :Jadikan taman ini taman "tanpa uang" tanpa batasan keuangan 
+STR_3240    :Uang tunai awal:
+STR_3241    :Pinjaman awal:
+STR_3242    :Ukuran pinjaman maksimum:
+STR_3243    :Suku bunga tahunan:
+STR_3244    :Melarang kampanye pemasaran
+STR_3245    :Melarang iklan, skema promosi, dan kampanye pemasaran lainnya 
+STR_3246    :{CURRENCY}
+STR_3247    :{COMMA16}%
+STR_3248    :Tidak dapat meningkatkan uang tunai awal lebih lanjut!
+STR_3249    :Tidak dapat mengurangi uang tunai awal lebih lanjut!
+STR_3250    :Tidak dapat meningkatkan pinjaman awal lebih lanjut!
+STR_3251    :Tidak dapat mengurangi pinjaman awal lebih lanjut!
+STR_3252    :Tidak dapat meningkatkan ukuran pinjaman maksimum lebih lanjut!
+STR_3253    :Tidak dapat mengurangi ukuran pinjaman maksimum lebih lanjut!
+STR_3254    :Tidak dapat menaikkan suku bunga lebih lanjut!
+STR_3255    :Tidak dapat menurunkan suku bunga lebih lanjut!
+STR_3260    :Pendapatan per pengunjung (rata-rata):
+STR_3261    :Kebahagiaan awal para pengunjung:
+STR_3262    :Tingkat kelaparan awal para pengunjung:
+STR_3263    :Rasa haus awal para pengunjung:
+STR_3264    :Tidak dapat meningkatkan ini lebih jauh lagi!
+STR_3265    :Tidak dapat mengurangi ini lebih lanjut!
+STR_3266    :Pilih cara taman ini mengenakan biaya untuk masuk dan wahana
+STR_3267    :Melarang penebangan pohon
+STR_3268    :Melarang penebangan pohon tinggi
+STR_3269    :Melarang perubahan lanskap
+STR_3270    :Melarang segala perubahan pada lanskap
+STR_3271    :Melarang pembangunan tinggi
+STR_3272    :Melarang pembangunan gedung tinggi
+STR_3273    :Peringkat taman lebih sulit untuk ditingkatkan dan dipertahankan
+STR_3274    :Jadikan nilai peringkat taman lebih menantang.
+STR_3275    :Lebih sulit untuk menarik perhatian pengunjung
+STR_3276    :Membuat lebih sulit untuk menarik pengunjung ke taman
+STR_3277    :Biaya untuk membeli tanah:
+STR_3278    :Biaya untuk membeli hak konstruksi:
+STR_3279    :Masuk taman gratis / Bayar per wahana
+STR_3280    :Bayar untuk masuk taman / Wahana gratis
+STR_3281    :Harga masuk:
+STR_3283    :Pilih wahana yang akan dilestarikan
+STR_3285    :Opsi Skenario - Wahana yang Terpelihara
+STR_3286    :Pilih tujuan untuk skenario ini
+STR_3287    :{WINDOW_COLOUR_2}Tujuan:
+STR_3294    :Perubahan…
+STR_3295    :Mengubah nama taman
+STR_3296    :Ubah nama skenario
+STR_3297    :Ubah catatan detail tentang taman/skenario
+STR_3298    :{WINDOW_COLOUR_2}Nama Taman:{BLACK}{STRINGID}
+STR_3299    :{WINDOW_COLOUR_2}Detail Taman/Skenario:
+STR_3300    :{WINDOW_COLOUR_2}Nama Skenario:{BLACK}{STRINGID}
+STR_3301    :{WINDOW_COLOUR_2}Tanggal Tujuan:
+STR_3302    :{WINDOW_COLOUR_2}{BULAN_TAHUN}
+STR_3303    :{WINDOW_COLOUR_2}Jumlah pengunjung:
+STR_3304    :{WINDOW_COLOUR_2}Nilai Taman:
+STR_3305    :{WINDOW_COLOUR_2}Pendapatan bulanan:
+STR_3306    :{WINDOW_COLOUR_2}Keuntungan bulanan:
+STR_3307    :{WINDOW_COLOUR_2}Panjang minimum:
+STR_3308    :{WINDOW_COLOUR_2}Peringkat kegembiraan:
+STR_3309    :{WINDOW_COLOUR_2}{COMMA32}
+STR_3310    :{WINDOW_COLOUR_2}{LENGTH}
+STR_3311    :{WINDOW_COLOUR_2}{COMMA2DP32}
+STR_3312    :{WINDOW_COLOUR_2}Wahana/atraksi yang berada di bawah perintah pelestarian:
+STR_3313    :Nama Skenario
+STR_3314    :Masukkan nama untuk skenario:
+STR_3315    :Detail Taman/Skenario
+STR_3316    :Masukkan deskripsi skenario ini:
+STR_3317    :Belum ada detail
+STR_3318    :Pilih grup tempat skenario ini muncul
+STR_3319    :{WINDOW_COLOUR_2}Grup Skenario:
+STR_3320    :Tidak dapat menyimpan file skenario…
+STR_3321    :Objek baru berhasil diinstal
+STR_3322    :{WINDOW_COLOUR_2}Objektif:{BLACK}{STRINGID}
+STR_3326    :{WINDOW_COLOUR_2}(tidak ada gambar)
+STR_3327    :Posisi awal untuk orang-orang yang belum ditentukan
+STR_3328    :Tidak dapat melanjutkan ke tahap penyuntingan berikutnya…
+STR_3329    :Pintu masuk taman belum dibangun
+STR_3330    :Taman harus memiliki lahan sendiri
+STR_3331    :Jalur dari pintu masuk taman ke tepi peta tidak lengkap atau terlalu rumit. Jalur harus memiliki lebar tunggal dengan persimpangan dan tikungan sesedikit mungkin.
+STR_3332    :Pintu masuk taman terbalik atau tidak memiliki jalur menuju tepi peta 
+STR_3333    :Ekspor objek kustom dengan game yang tersimpan 
+STR_3334    :Pilih apakah akan menyimpan data objek kustom tambahan yang diperlukan (data tambahan yang tidak disertakan dengan produk utama) dalam file game atau skenario yang tersimpan, sehingga dapat dimuat oleh seseorang yang tidak memiliki data objek tambahan tersebut  
+STR_3335    :Perancang Lintasan - Pilih Jenis Wahana & Kendaraan 
+STR_3336    :Manajer Desain Lintasan - Pilih Jenis Wahana
+STR_3338    :{BLACK}Tata letak yang dirancang khusus
+STR_3339    :{BLACK}{COMMA16} desain tersedia, atau tata letak yang dirancang khusus
+STR_3340    :{BLACK}{COMMA16} desain tersedia, atau tata letak yang dirancang khusus
+STR_3341    :Alat permainan
+STR_3342    :Editor Skenario
+STR_3343    :Konversi game tersimpan ke skenario
+STR_3344    :Perancang Trek
+STR_3345    :Manajer Desain Trek
+STR_3346    :Tidak dapat menyimpan desain jalur…
+STR_3347    :Wahana terlalu besar, mengandung terlalu banyak elemen, atau pemandangannya terlalu luas STR_3348 :Ganti nama STR_3349 :Hapus
+STR_3350    :Nama desain trek
+STR_3351    :Masukkan nama baru untuk desain trek ini:
+STR_3352    :Tidak dapat mengganti nama desain trek…
+STR_3353    :Nama baru mengandung karakter yang tidak valid
+STR_3354    :File lain dengan nama ini sudah ada, atau file dilindungi dari penulisan. STR_3355:File dilindungi dari penulisan atau terkunci.
+STR_3356    :Hapus File
+STR_3357    :{WINDOW_COLOUR_2}Apakah Anda yakin ingin menghapus {STRING} secara permanen?
+STR_3358    :Tidak dapat menghapus desain trek…
+STR_3359    :{BLACK}Tidak ada desain trek jenis ini
+STR_3360    :Peringatan!
+STR_3361    :Terlalu banyak desain jalur kereta api jenis ini. Beberapa tidak akan dicantumkan.
+STR_3364    :Tingkat Lanjut
+STR_3365    :Memungkinkan pemilihan item pemandangan individual selain kelompok pemandangan 
+STR_3366    :{BLACK}= Wahana 
+STR_3367    :{BLACK}= Warung Makan
+STR_3368    :{BLACK}= Warung Minuman
+STR_3369    :{BLACK}= Kios Suvenir
+STR_3370    :{BLACK}= Kios Info.
+STR_3371    :{BLACK}= Pertolongan Pertama
+STR_3372    :{BLACK}= Mesin ATM
+STR_3373    :{BLACK}= Toilet
+STR_3374    :Peringatan:Terlalu banyak objek yang dipilih!
+STR_3375    :Tidak semua objek dalam grup pemandangan ini dapat dipilih
+STR_3376    :Instal yang baru
+STR_3377    :Instal file desain trek baru
+STR_3378    :Instal
+STR_3379    :Batal
+STR_3380    :Tidak dapat memasang desain trek ini…
+STR_3381    :Berkas tidak kompatibel atau berisi data yang tidak valid
+STR_3382    :Penyalinan berkas gagal
+STR_3383   :Pilih nama baru untuk desain trek
+STR_3384   :Desain jalur yang sudah ada memiliki nama ini. Silakan pilih nama baru untuk desain ini:
+STR_3389   :Tidak dapat memilih item pemandangan tambahan…
+STR_3390   :Terlalu banyak item yang dipilih
+STR_3437   :Bersihkan area pemandangan yang luas dari lanskap
+STR_3438   :Tidak dapat menghapus semua pemandangan dari sini…
+STR_3439   :Pemandangan Jelas
+STR_3445   :Tetapkan Area Patroli
+STR_3446   :Batalkan Area Patroli
+
+# New strings, cleaner
+STR_5120    :Keuangan
+STR_5121    :Penelitian
+STR_5122    :Pilih wahana berdasarkan jenis trek (seperti di RCT1)
+STR_5123    :Perbarui perjalanan
+STR_5125    :Semua dapat dihancurkan
+STR_5126    :Musik judul acak
+STR_5127    :Saat menyeret, gambar lanskap alih-alih mengubah ketinggian
+STR_5128    :Ukuran seleksi
+STR_5129    :Masukkan ukuran seleksi antara {COMMA16} dan {COMMA16}
+STR_5130    :Ukuran peta
+STR_5131    :Masukkan ukuran peta antara {COMMA16} dan {COMMA16}
+STR_5132    :Perbaiki semua wahana
+STR_5133    :Sesuaikan hak atas lahan di area yang lebih kecil
+STR_5134    :Sesuaikan wilayah hak tanah yang lebih luas
+STR_5135    :Membeli hak atas tanah dan hak konstruksi
+STR_5136    :Hak atas tanah
+STR_5137    :Membuka batas pengoperasian
+STR_5138    :{WINDOW_COLOUR_2}{STRINGID}
+STR_5139    :{WHITE}{ID STRING}
+STR_5140    :Nonaktifkan kegagalan rem
+STR_5141    :Nonaktifkan semua kerusakan
+STR_5142    :Kecepatan Normal
+STR_5143    :Kecepatan Cepat
+STR_5144    :Kecepatan Tinggi
+STR_5145    :Kecepatan Turbo
+STR_5146    :Kecepatan Super
+STR_5147    :Cheat
+STR_5148    :Ubah kecepatan permainan
+STR_5149    :Tampilkan opsi cheat
+STR_5150    :Aktifkan alat debugging
+STR_5151    :,
+STR_5152    :.
+STR_5153    :Edit Tema…
+STR_5154    :Tampilan perangkat keras
+STR_5155    :Izinkan pengujian trek yang belum selesai
+STR_5156    :Memungkinkan pengujian sebagian besar jenis wahana meskipun trek belum selesai, tidak berlaku untuk mode bagian blok 
+STR_5158    :Keluar ke menu 
+STR_5159    :Keluar dari OpenRCT2
+STR_5160    :{POP16}{BULAN} {PUSH16}{PUSH16}{STRINGID}, Tahun {POP16}{KOMA16}
+STR_5161    :Format Tanggal:
+STR_5162    :Hari/Bulan/Tahun
+STR_5163    :Bulan/Tanggal/Tahun
+STR_5177    :Mode layar:
+STR_5178    :Tampilkan kecurangan keuangan
+STR_5179    :Tampilkan cheat pengunjung
+STR_5180    :Tampilkan cheat taman
+STR_5181    :Tampilkan cheat wahana
+STR_5182    :{INT32}
+STR_5183    :Tinggi dasar
+STR_5184    :Masukkan tinggi alas antara {COMMA16} dan {COMMA16}
+STR_5185    :Tingkat air
+STR_5186    :Masukkan ketinggian air antara {COMMA16} dan {COMMA16}
+STR_5187    :Keuangan
+STR_5188    :Kampanye Baru
+STR_5189    :Penelitian
+STR_5190    :Peta
+STR_5191    :Tampilan
+STR_5192    :Berita Terkini
+STR_5193    :Tanah
+STR_5194    :Air
+STR_5195    :Pemandangan Jernih
+STR_5196    :Hak Tanah
+STR_5197    :Pemandangan
+STR_5198    :Jalan Setapak
+STR_5199    :Konstruksi Wahana
+STR_5200    :Tempat Desain Trek
+STR_5201    :Kendaraan Baru
+STR_5202    :Pemilihan Desain Jalur
+STR_5203    :Berkendara
+STR_5204    :Daftar Perjalanan
+STR_5205    :pengunjung
+STR_5206    :Daftar pengunjung
+STR_5207    :Staf
+STR_5208    :Daftar Staf
+STR_5209    :Spanduk
+STR_5210    :Pemilihan Objek
+STR_5211    :Daftar Penemuan
+STR_5212    :Opsi Skenario
+STR_5213    :Opsi Objektif
+STR_5214    :Pembuatan Peta
+STR_5215    :Manajer Desain Trek
+STR_5216    :Daftar Manajer Desain Trek
+STR_5217    :Cheat
+STR_5218    :Tema
+STR_5219    :Opsi
+STR_5220    :Pintasan Keyboard
+STR_5221    :Mengubah Pintasan Keyboard
+STR_5222    :Muat/Simpan
+STR_5223    :Perintah Simpan
+STR_5224    :Perintah Hancurkan Wahana
+STR_5225    :Perintah Staf Api
+STR_5226    :Perintah Hapus Trek
+STR_5227    :Perintah Simpan Timpa
+STR_5228    :Antarmuka Pengguna Utama
+STR_5229    :Taman
+STR_5230    :Peralatan
+STR_5231    :Wahana dan pengunjung
+STR_5232    :Editor
+STR_5233    :Lain-lain
+STR_5234    :Perintah
+STR_5235    :Pengaturan
+STR_5236    :Jendela
+STR_5237    :Palet
+STR_5238    :Tema Saat Ini:
+STR_5239    :Duplikat
+STR_5240    :Masukkan nama untuk tema
+STR_5241    :Tidak dapat mengubah tema ini
+STR_5242    :Nama tema sudah ada
+STR_5243    :Karakter yang digunakan tidak valid
+STR_5244    :Tema
+STR_5245    :Toolbar Atas
+STR_5246    :Toolbar Bawah
+STR_5247    :Toolbar Bawah Editor Trek
+STR_5248    :Toolbar Bawah Editor Skenario
+STR_5249    :Tombol Menu Judul
+STR_5250    :Tombol Keluar Judul
+STR_5251    :Tombol Opsi Judul
+STR_5252    :Pemilihan Skenario Judul
+STR_5253    :Informasi Taman
+STR_5256    :Buat tema baru untuk melakukan perubahan pada
+STR_5257    :Buat tema baru berdasarkan tema yang ada saat ini
+STR_5258    :Hapus tema saat ini
+STR_5259    :Mengganti nama tema saat ini
+STR_5260    :Tangkapan Layar Raksasa
+STR_5261    :Filter
+STR_5262    :Dunia Aneh
+STR_5263    :Pemutar Waktu
+STR_5264    :Kustom
+STR_5265    :Pilih sumber konten mana yang terlihat
+STR_5266    :Tampilan
+STR_5267    :Budaya dan Satuan
+STR_5268    :Audio
+STR_5269    :Kontrol
+STR_5270    :Lain-lain
+STR_5272    :Pemandangan Kecil
+STR_5273    :Pemandangan Luas
+STR_5274    :Jalan Setapak
+STR_5275    :Pencarian Objek
+STR_5276    :Masukkan nama objek yang ingin dicari
+STR_5277    :Hapus
+STR_5278    :Mode Sandbox
+STR_5279    :Mode sandbox nonaktif
+STR_5280    :Memungkinkan pengeditan pengaturan kepemilikan lahan melalui jendela Peta dan opsi lain yang biasanya dibatasi pada Editor Skenario 
+STR_5281    :Fitur 
+STR_5282    :Lampu Buka/Tutup Wahana RCT1
+STR_5283    :RCT1 Lampu Buka/Tutup Taman
+STR_5284    :Font Pemilihan Skenario RCT1
+STR_5287    :Kendaraan sudah rusak
+STR_5288    :Wahana ditutup
+STR_5289    :Tidak ada informasi kerusakan yang tersedia untuk perjalanan ini
+STR_5290    :Perbaiki wahana
+STR_5291    :Tidak dapat memaksa kerusakan
+STR_5292    :Memaksa kerusakan
+STR_5293    :Wahana/atraksi terdekat
+STR_5294    :Uji coba wahana/atraksi
+STR_5295    :Wahana/atraksi terbuka
+STR_5296    :Tutup taman
+STR_5297    :Taman terbuka
+STR_5298    :{RED}{STRINGID}
+STR_5299    :{LIGHTPINK}{STRINGID}
+STR_5300    :Tongkat tembak cepat
+STR_5301    :Lunasi pinjaman Anda
+STR_5302    :Hapus pinjaman
+STR_5303    :Izinkan pembangunan dalam mode jeda
+STR_5304    :Urutan Judul:
+STR_5305    :RollerCoaster Tycoon 1
+STR_5306    :RollerCoaster Tycoon 1 (AA)
+STR_5307    :RollerCoaster Tycoon 1 (AA + LL)
+STR_5308    :RollerCoaster Tycoon 2
+STR_5309    :OpenRCT2
+STR_5310    :Acak
+STR_5311    :Alat debugging
+STR_5312    :Tampilkan konsol
+STR_5313    :Tampilkan pemeriksa ubin
+STR_5314    :Inspektur ubin
+STR_5335    :Pintu masuk wahana
+STR_5336    :Pintu keluar wahana
+STR_5337    :Pintu masuk taman
+STR_5338    :Jenis elemen
+STR_5339    :Tinggi dasar
+STR_5340    :Tinggi ruang bebas
+STR_5343    :Menempatkan staf secara otomatis
+STR_5344    :Catatan Perubahan
+STR_5345    :Kecurangan keuangan
+STR_5346    :Kecurangan pengunjung
+STR_5347    :Curang di taman
+STR_5348    :Cheat berkendara
+STR_5349    :Semua Wahana
+STR_5350    :Maks
+STR_5351    :Min
+STR_5352    :{BLACK}Kebahagiaan:
+STR_5353    :{BLACK}Energi:
+STR_5354    :{BLACK}Kelaparan:
+STR_5355    :{BLACK}Haus:
+STR_5356    :{BLACK}Mual:
+STR_5357    :{BLACK}Toleransi mual:
+STR_5358    :{BLACK}Toilet:
+STR_5359    :Hapus pengunjung
+STR_5360    :Menghapus semua pengunjung dari peta
+STR_5361    :Tambahkan ke inventaris pengunjung
+STR_5362    :{BLACK}Intensitas perjalanan yang disukai:
+STR_5363    :Lebih dari 1
+STR_5364    :Kurang dari 15
+STR_5365    :{BLACK}Kecepatan staf:
+STR_5366    :Normal
+STR_5367    :Cepat
+STR_5368    :Reset status crash
+STR_5371    :Pemilihan objek
+STR_5372    :Membalikkan gerakan menyeret mouse kanan
+STR_5373    :Nama {STRINGID}
+STR_5374    :Tanggal diubah {STRINGID}
+STR_5375    :▲
+STR_5376    :▼
+STR_5404    :Nama sudah ada
+STR_5440    :Minimalkan layar penuh saat kehilangan fokus
+STR_5442    :Peringkat taman paksa:
+STR_5447    :Tipe {STRINGID}
+STR_5448    :Pengendara / Kendaraan {STRINGID}
+STR_5449    :Kurangi kecepatan permainan
+STR_5450    :Meningkatkan kecepatan permainan
+STR_5451    :Buka jendela cheat
+STR_5452    :Mengaktifkan/menonaktifkan visibilitas bilah alat
+STR_5453    :Pilih perjalanan lain
+STR_5454    :Buka batasan FPS
+STR_5455    :Aktifkan mode sandbox
+STR_5456    :Nonaktifkan pemeriksaan izin
+STR_5457    :Nonaktifkan batasan dukungan
+STR_5458    :Putar searah jarum jam
+STR_5459    :Putar berlawanan arah jarum jam
+STR_5460    :Putar tampilan berlawanan arah jarum jam
+STR_5461    :Mengatur parameter untuk semua pengunjung
+STR_5462    :{MATA UANG}
+STR_5463    :Tujuan:Bersenang-senang!
+STR_5464    :Umum
+STR_5465    :Cuaca
+STR_5466    :Staf
+STR_5467    :ALT +
+STR_5468    :Pesan terbaru
+STR_5469    :Gulir peta ke atas
+STR_5470    :Gulir peta ke kiri
+STR_5471    :Gulir peta ke bawah
+STR_5472    :Gulir peta ke kanan
+STR_5473    :Siklus siang/malam
+STR_5474    :Tampilkan teks pada banner dalam huruf kapital
+STR_5475    :{COMMA16} minggu
+STR_5476    :Perangkat Keras
+STR_5477    :Rendering peta
+STR_5478    :Kontrol
+STR_5479    :Toolbar
+STR_5480    :Tampilkan tombol toolbar untuk:
+STR_5481    :Tema
+STR_5482    :{WINDOW_COLOUR_2}Waktu sejak inspeksi terakhir:{BLACK}1 menit
+STR_5483    :{BLACK}({COMMA16} minggu tersisa)
+STR_5484    :{BLACK}({COMMA16} minggu tersisa)
+STR_5485    :{STRING}
+STR_5486    :{BLACK}{KOMA16}
+STR_5487    :Tampilkan pesan terbaru
+STR_5489    :Tampilkan hanya pengunjung yang dilacak
+STR_5490    :Nonaktifkan audio saat kehilangan fokus
+STR_5491    :Daftar penemuan
+STR_5492    :Opsi skenario
+STR_5493    :Kirim Pesan
+STR_5495    :Daftar Pemain
+STR_5496    :Pemain
+STR_5497    :Ping
+STR_5498    :Daftar Server
+STR_5499    :Nama Pemain:
+STR_5500    :Tambahkan Server
+STR_5501    :Mulai Server
+STR_5502    :Multipemain
+STR_5503    :Masukkan nama host atau alamat IP:
+STR_5504    :Tampilkan status multipemain
+STR_5505:  Tidak dapat terhubung ke server.
+STR_5506    :pengunjung mengabaikan intensitas
+STR_5510    :Perangkat suara default
+STR_5511    :(TIDAK DIKETAHUI)
+STR_5512    :Simpan Permainan Sebagai
+STR_5513    :(Cepat) simpan permainan
+STR_5514    :Nonaktifkan vandalisme
+STR_5515    :Menghentikan pengunjung dari merusak taman Anda saat mereka marah
+STR_5516    :Hitam
+STR_5517    :Abu-abu
+STR_5518    :Putih
+STR_5519    :Ungu gelap
+STR_5520    :Ungu muda
+STR_5521    :Ungu terang
+STR_5522    :Biru tua
+STR_5523    :Biru muda
+STR_5524    :Biru es
+STR_5525    :Air gelap
+STR_5526    :Air terang
+STR_5527    :Hijau jenuh
+STR_5528    :Hijau tua
+STR_5529    :Hijau lumut
+STR_5530    :Hijau terang
+STR_5531    :Hijau zaitun
+STR_5532    :Hijau zaitun gelap
+STR_5533    :Kuning terang
+STR_5534    :Kuning
+STR_5535    :Kuning gelap
+STR_5536    :Oranye muda
+STR_5537    :Oranye gelap
+STR_5538    :Cokelat muda
+STR_5539    :Cokelat jenuh
+STR_5540    :Cokelat gelap
+STR_5541    :Merah muda salmon
+STR_5542    :Merah Bordeaux
+STR_5543    :Merah jenuh
+STR_5544    :Merah terang
+STR_5545    :Merah muda gelap
+STR_5546    :Merah muda terang
+STR_5547    :Merah muda terang
+STR_5548    :Tampilkan semua mode operasi
+STR_5549    :Tahun/Bulan/Hari
+STR_5550    :{POP16}{POP16}Tahun {COMMA16}, {PUSH16}{PUSH16}{BULAN} {PUSH16}{PUSH16}{STRINGID}
+STR_5551    :Tahun/Tanggal/Bulan
+STR_5552    :{POP16}{POP16}Tahun {COMMA16}, {PUSH16}{PUSH16}{PUSH16}{STRINGID} {BULAN}
+STR_5554    :Aktifkan alat gunung
+STR_5555    :Tampilkan kendaraan dari jenis trek lain
+STR_5556    :Tendang pemain
+STR_5557    :Tetap terhubung setelah desinkronisasi (Multiplayer)
+STR_5558    :Pengaturan ini hanya akan berlaku setelah Anda memulai ulang OpenRCT2
+STR_5559    :Inspeksi 10 menit
+STR_5560    :Mengatur waktu inspeksi menjadi “Setiap 10 menit” pada semua wahana 
+STR_5561    :Gagal memuat bahasa
+STR_5562    :PERINGATAN!
+STR_5563    :Fitur ini saat ini tidak stabil, harap berhati-hati.
+STR_5566    :Kata Sandi:
+STR_5567    :Iklan
+STR_5568    :Kata Sandi Diperlukan
+STR_5569    :Server ini memerlukan kata sandi
+STR_5570    :Ambil Server
+STR_5571    :Gabung ke Game
+STR_5572    :Tambahkan ke Favorit
+STR_5573    :Hapus dari Favorit
+STR_5574    :Nama Server:
+STR_5575    :Pemain Maksimum:
+STR_5576    :Port:
+STR_5577    :Won Korea Selatan (W)
+STR_5578    :Rubel Rusia (₽)
+STR_5579    :Faktor skala jendela:
+STR_5580    :koruna Ceko (Kč)
+STR_5581    :Tampilkan FPS
+STR_5582    :Jebak kursor mouse di jendela
+STR_5583    :{COMMA1DP16} m/s
+STR_5584    :SI
+STR_5585    :Membuka batas pengoperasian wahana, memungkinkan hal-hal seperti tanjakan lift {VELOCITY} 
+STR_5586    :Membuka toko dan kios secara otomatis 
+STR_5587    :Toko dan kios akan dibuka secara otomatis setelah dibangun 
+STR_5588    :Bermain dengan pemain lain
+STR_5589    :Pengaturan Notifikasi
+STR_5590    :Penghargaan taman
+STR_5591    :Kampanye pemasaran telah selesai
+STR_5592    :Peringatan taman
+STR_5593    :Peringatan peringkat taman
+STR_5594    :Kendaraan mogok
+STR_5595    :Wahana telah mengalami kecelakaan
+STR_5596    :Peringatan perjalanan
+STR_5597    :Riset wahana/pemandangan
+STR_5598    :Peringatan pengunjung
+STR_5600    :pengunjung telah meninggalkan taman
+STR_5601    :pengunjung sedang mengantre untuk naik wahana
+STR_5602    :pengunjung sedang naik wahana
+STR_5603    :pengunjung telah meninggalkan wahana
+STR_5604    :pengunjung telah membeli barang
+STR_5605    :pengunjung telah menggunakan fasilitas
+STR_5606    :pengunjung telah meninggal
+STR_5607    :Hapus paksa elemen peta yang dipilih.
+STR_5608    :BH
+STR_5609    :CH
+STR_5610:  Hapus elemen peta yang saat ini dipilih. Ini akan menghapusnya secara paksa, sehingga tidak ada uang yang akan digunakan/diperoleh. Gunakan dengan hati-hati.
+STR_5611    :G
+STR_5612    :Bendera hantu
+STR_5613    :B
+STR_5614    :Bendera rusak
+STR_5615    :L
+STR_5616    :Elemen terakhir untuk bendera ubin
+STR_5617    :Pindahkan elemen yang dipilih ke atas.
+STR_5618    :Pindahkan elemen yang dipilih ke bawah.
+STR_5619    :RollerCoaster Tycoon
+STR_5620    :Atraksi Tambahan
+STR_5621    :Lanskap Berliku-liku
+STR_5622    :RollerCoaster Tycoon 2
+STR_5623    :Dunia Aneh
+STR_5624    :Pemintal Waktu
+STR_5625    :“Real” Parks
+STR_5626    :Taman Lainnya
+STR_5630    :Aktifkan pembukaan kunci progresif
+STR_5631    :Taman DLC Asli
+STR_5632    :Buat sendiri…
+STR_5633    :CMD +
+STR_5634    :OPSI +
+STR_5635    :{WINDOW_COLOUR_2}Uang yang dibelanjakan:{BLACK}{CURRENCY2DP}
+STR_5636    :{WINDOW_COLOUR_2}Perintah dijalankan:{BLACK}{COMMA16}
+STR_5637    :Tidak bisa melakukan ini…
+STR_5638    :Izin ditolak
+STR_5639    :Tampilkan daftar pemain
+STR_5640    :Kelola grup
+STR_5641    :Grup Default:
+STR_5642    :Grup
+STR_5643    :Tambah Grup
+STR_5644    :Hapus Grup
+STR_5645    :Obrolan
+STR_5646    :Terraform
+STR_5647    :Toggle Pause
+STR_5648    :Atur Level Air
+STR_5649    :Buat Wahana
+STR_5650    :Hapus Kendaraan
+STR_5651    :Bangunan yang Dapat Dibangun
+STR_5652    :Properti Perjalanan
+STR_5653    :Pemandangan
+STR_5654    :Jalur
+STR_5655    :pengunjung
+STR_5656    :Staf
+STR_5657    :Properti Taman
+STR_5658    :Pendanaan Taman
+STR_5659    :Tendang Pemain
+STR_5660    :Mengubah Grup
+STR_5661    :Atur Grup Pemain
+STR_5662    :Tidak Tersedia
+STR_5663    :Pemandangan Jelas
+STR_5664    :Curang
+STR_5665    :Alihkan Kluster Pemandangan
+STR_5666    :Login Tanpa Kata Sandi
+STR_5701    :{WINDOW_COLOUR_2}Tindakan terakhir:{BLACK}{STRINGID}
+STR_5702    :Temukan tindakan terbaru pemain
+STR_5703    :Tidak dapat mengeluarkan host
+STR_5704    :Tindakan Terakhir
+STR_5705    :Tidak dapat diatur ke grup ini
+STR_5706    :Tidak dapat menghapus grup tempat pemain berada
+STR_5707    :Grup ini tidak dapat dimodifikasi
+STR_5708    :Tidak dapat mengubah grup tempat host berada
+STR_5709    :Ganti Nama Grup
+STR_5710    :Nama grup
+STR_5711    :Masukkan nama baru untuk grup ini:
+STR_5712    :Tidak dapat mengubah izin yang tidak Anda miliki sendiri
+STR_5713    :Tendang Pemain
+STR_5714    :Tampilkan jendela opsi
+STR_5715    :Permainan Baru
+STR_5716    :Tidak diperbolehkan dalam mode multipemain
+
+# For identifying client network version in server list window
+STR_5717    :Versi jaringan:{STRING}
+STR_5718    :Versi jaringan:{STRING}
+STR_5719    :Sunny
+STR_5720    :Berawan Sebagian
+STR_5721    :Berawan
+STR_5722    :Hujan
+STR_5723    :Hujan Lebat
+STR_5724    :Badai Petir
+STR_5725    :{BLACK}Ubah cuaca menjadi:
+STR_5726    :Mengatur cuaca saat ini di taman
+
+# tooltip for tab in options window
+STR_5734    :Rendering
+STR_5735    :Status Jaringan
+STR_5736    :Pemain
+STR_5737    :Ditutup, {COMMA16} orang masih di wahana
+STR_5738    :Ditutup, {COMMA16} orang masih berada di wahana
+STR_5739    :{WINDOW_COLOUR_2}Pelanggan dalam perjalanan:{BLACK}{COMMA16}
+STR_5740    :Kampanye pemasaran yang tak pernah berakhir
+STR_5741    :Kampanye pemasaran tidak pernah berakhir
+STR_5742    :Mengautentikasi …
+STR_5743    :Menghubungkan …
+STR_5744    :Menyelesaikan …
+STR_5745    :Terdeteksi ketidak sinkronan jaringan
+STR_5746    :Terputus
+STR_5747    :Terputus:{STRING}
+STR_5748    :Ditendang
+STR_5749    :Keluar dari server!
+STR_5750    :Koneksi Tertutup
+STR_5751    :Tidak Ada Data
+STR_5752    :{OUTLINE}{RED}{STRING} telah terputus
+STR_5753    :{OUTLINE}{RED}{STRING} telah terputus ({STRING})
+STR_5754    :Nama Pemain Buruk
+STR_5755    :Versi Perangkat Lunak Tidak Tepat (Server menggunakan {STRING})
+STR_5756    :Kata Sandi Salah
+STR_5757    :Server Penuh
+STR_5758    :{OUTLINE}{GREEN}{STRING} telah bergabung dalam permainan
+STR_5759    :Mengunduh peta …
+STR_5760    :Dolar Hong Kong (HK$)
+STR_5761    :Dolar Taiwan Baru (NT$)
+STR_5762    :Yuan Cina (CN¥)
+STR_5763    :Semua berkas
+STR_5764    :Jenis perjalanan tidak valid
+STR_5765    :Tidak dapat mengedit perjalanan dengan tipe yang tidak valid
+STR_5766    :Forint Hongaria (Ft)
+STR_5767    :Pendapatan
+STR_5768    :Jumlah pelanggan
+STR_5769    :Total keuntungan
+STR_5770    :Pelanggan per jam
+STR_5771    :Biaya operasional
+STR_5772    :Usia
+STR_5773    :Jumlah pelanggan:{COMMA32}
+STR_5774    :Total profit:{CURRENCY2DP}
+STR_5775    :Pelanggan:{COMMA32} per jam
+STR_5776    :Dibangun:Tahun Ini
+STR_5777    :Dibangun:Tahun Lalu
+STR_5778    :Dibangun:{COMMA16} Tahun Lalu
+STR_5779    :Pendapatan:{CURRENCY2DP} per jam
+STR_5780    :Biaya operasional:{CURRENCY2DP} per jam
+STR_5781    :Biaya operasional:Tidak diketahui
+STR_5782    :Anda sekarang terhubung. Tekan ‘{STRING}’ untuk mengobrol.
+STR_5783    :{WINDOW_COLOUR_2}Skenario Terkunci
+STR_5784    :{BLACK}Selesaikan skenario sebelumnya untuk membuka skenario ini.
+STR_5785    :Tidak dapat mengganti nama grup…
+STR_5786    :Nama grup tidak valid
+STR_5787    :{COMMA32} pemain online
+STR_5788    :Interval inspeksi default:
+STR_5789    :Nonaktifkan efek petir
+STR_5790    :Mengaktifkan/menonaktifkan harga ala RCT1 (misalnya harga wahana dan harga tiket masuk) 
+STR_5791    :Mengatur keandalan semua wahana menjadi 100% dan mengatur ulang tanggal pembuatannya menjadi "tahun ini" 
+STR_5792    :Memperbaiki semua wahana yang rusak STR_5793 :Mengatur ulang riwayat kecelakaan wahana, sehingga pengunjung tidak akan mengeluh bahwa wahana tersebut tidak aman 
+STR_5794    :Beberapa skenario menonaktifkan pengeditan beberapa wahana yang sudah ada di taman. Cheat ini menghilangkan pembatasan tersebut 
+STR_5795    :Pengunjung dapat menaiki setiap atraksi di taman meskipun intensitasnya sangat tinggi 
+STR_5796    :Memaksa taman untuk tutup atau buka 
+STR_5797    :Menonaktifkan perubahan cuaca dan membekukan cuaca yang dipilih 
+STR_5798    :Memungkinkan tindakan pembangunan dalam mode jeda
+STR_5799    :Menonaktifkan kerusakan dan kecelakaan wahana akibat kegagalan rem
+STR_5800    :Mencegah wahana mengalami kerusakan
+STR_5801    :Nonaktifkan pembuangan sampah sembarangan
+STR_5802    :Mencegah pengunjung membuang sampah sembarangan dan muntah
+STR_5803    :Memutar elemen peta yang dipilih
+STR_5804    :Matikan suara
+STR_5805    :Jika dicentang, server Anda akan ditambahkan ke daftar server publik {NEWLINE} sehingga semua orang dapat menemukannya 
+STR_5806    :Alihkan mode jendela 
+STR_5807    :{WINDOW_COLOUR_2}Jumlah perjalanan:{BLACK}{COMMA16}
+STR_5808    :{WINDOW_COLOUR_2}Jumlah toko dan kios:{BLACK}{COMMA16}
+STR_5809    :{WINDOW_COLOUR_2}Jumlah kios informasi dan fasilitas lainnya:{BLACK}{COMMA16}
+STR_5810    :Nonaktifkan batasan kendaraan
+STR_5811    :Jika dicentang, Anda dapat memiliki hingga 255 gerbong per kereta dan 31 kereta per perjalanan 
+STR_5812    :Tampilkan jendela multipemain 
+STR_5813    :“{STRING}”
+STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
+
+#tooltips   
+STR_5815    :Menampilkan penghitung FPS dalam game
+STR_5816    :Mengatur rasio untuk menskalakan game. Paling berguna saat bermain dalam resolusi tinggi. 
+STR_5820    :Meminimalkan game jika fokus hilang saat dalam mode layar penuh. 
+STR_5822    :Berganti antara siang dan malam. Satu siklus penuh membutuhkan satu bulan dalam game. 
+STR_5823    :Menampilkan banner dalam huruf besar (perilaku RCT1).
+STR_5824    :Menonaktifkan efek petir{NEWLINE}selama badai petir
+STR_5825    :Jaga agar kursor mouse tetap berada di dalam jendela
+STR_5826    :Membalikkan fungsi seret mouse kanan pada viewport
+STR_5827    :Mengatur skema warna yang digunakan untuk GUI
+STR_5828    :Mengubah format pengukuran yang digunakan untuk jarak, kecepatan, dll.
+STR_5829    :Mengubah format mata uang yang digunakan. Murni visual, tidak ada implementasi nilai tukar yang tepat. STR_5830:Mengubah bahasa yang digunakan. STR_5831:Mengubah format tampilan suhu.
+STR_5832    :Menampilkan tinggi sebagai satuan umum alih-alih format pengukuran yang ditetapkan di bawah "Jarak dan Kecepatan" STR_5833:Mengubah format tanggal yang digunakan STR_5834:Memilih perangkat audio mana yang akan digunakan OpenRCT2
+STR_5835    :Matikan suara game jika jendela kehilangan fokus
+STR_5836    :Pilih musik yang akan digunakan pada menu utama.{NEWLINE}Memilih tema RCT1 mengharuskan Anda untuk mengatur jalur ke RCT1 di tab Lanjutan.
+STR_5837    :Membuat dan mengelola tema UI kustom
+STR_5838    :Tampilkan tombol terpisah untuk jendela keuangan di toolbar
+STR_5839    :Tampilkan tombol terpisah untuk jendela penelitian dan pengembangan di toolbar STR_5840:Tampilkan tombol terpisah untuk jendela cheat di toolbar STR_5841:Tampilkan tombol terpisah untuk jendela berita terbaru di toolbar STR_5842:Urutkan skenario ke dalam tab berdasarkan tingkat kesulitannya (perilaku RCT2) atau game sumbernya (perilaku RCT1) STR_5843:Aktifkan pembukaan kunci skenario secara bertahap (perilaku RCT1) STR_5844:Tetap terhubung ke server multipemain meskipun terjadi desinkronisasi atau kesalahan STR_5845:Menambahkan tombol untuk alat debugging ke toolbar. Mengaktifkan pintasan keyboard untuk konsol pengembang STR_5846:Atur seberapa sering OpenRCT2 menyimpan secara otomatis STR_5847:Pilih urutan taman yang digunakan di layar judul. Urutan judul dari RCT1/2 memerlukan skenario yang diimpor agar berfungsi STR_5849:Secara otomatis Tempatkan anggota staf yang baru direkrut STR_5851 :Mengatur interval inspeksi default pada wahana yang baru dibangun STR_5853 :Mengaktifkan/menonaktifkan efek suara
+STR_5854    :Mengaktifkan/menonaktifkan musik wahana
+STR_5855    :Atur tampilan layar penuh biasa, layar penuh tanpa bingkai, atau tampilan berjendela STR_5856 :Atur resolusi game saat dalam mode layar penuh
+STR_5857    :Opsi permainan
+STR_5858    :Gunakan GPU untuk menampilkan gambar, bukan CPU. Meningkatkan kompatibilitas dengan perangkat lunak tangkapan layar. Dapat sedikit menurunkan kinerja.
+STR_5859    :Mengaktifkan frame tweening untuk gameplay yang lebih halus secara visual. Saat dinonaktifkan, game akan berjalan pada 40 FPS.
+STR_5860    :Alihkan tampilan trek asli/dekompilasi
+STR_5861    :Verifikasi kunci gagal.
+STR_5862    :Blokir pemain yang tidak dikenal
+STR_5863    :Hanya izinkan pemain dengan kunci yang diketahui untuk bergabung.
+STR_5864    :Server ini hanya mengizinkan pemain yang terdaftar dalam daftar putih untuk terhubung.
+STR_5865    :Catat riwayat obrolan
+STR_5866    :Mencatat seluruh riwayat obrolan ke dalam file di direktori pengguna Anda.
+STR_5867    :{WINDOW_COLOUR_2}Nama Penyedia:{BLACK}{STRING}
+STR_5868    :{WINDOW_COLOUR_2}Email Penyedia:{BLACK}{STRING}
+STR_5869    :{WINDOW_COLOUR_2}Situs Web Penyedia:{BLACK}{STRING}
+STR_5870    :Tampilkan informasi server
+STR_5871    :Menonaktifkan tanaman layu
+STR_5872    :Menonaktifkan penuaan tanaman sehingga tanaman tidak layu.
+STR_5873    :Izinkan pengangkatan rantai pada semua bagian trek
+STR_5874    :Memungkinkan setiap bagian rel diubah menjadi lift rantai
+STR_5875    :Mesin Gambar:
+STR_5876    :Mesin yang digunakan untuk menggambar permainan.
+STR_5877    :Perangkat Lunak
+STR_5878    :Perangkat Lunak (tampilan perangkat keras)
+STR_5879    :OpenGL (eksperimental)
+STR_5880    :Hanya yang terpilih
+STR_5881    :Hanya yang tidak dipilih
+STR_5882    :Mata uang khusus
+STR_5883    :Konfigurasi mata uang khusus
+STR_5884    :{WINDOW_COLOUR_2}Nilai tukar:
+STR_5885    :{WINDOW_COLOUR_2}setara dengan {COMMA32} GBP (ÂŁ)
+STR_5886    :{WINDOW_COLOUR_2}Simbol mata uang:
+STR_5887    :Awalan
+STR_5888    :Akhiran
+STR_5889    :Simbol mata uang khusus
+STR_5890    :Masukkan simbol mata uang yang ingin ditampilkan
+STR_5892    :Pergi ke direktori default
+STR_5893    :Nilai Tukar
+STR_5894    :Masukkan nilai tukar
+STR_5895    :Simpan Trek
+STR_5896    :Penyimpanan trek gagal!
+STR_5898    :{BLACK}Tidak dapat memuat trek, file mungkin {newline}rusak, bermasalah, atau hilang!
+STR_5899    :Alihkan/Tutup jendela debug pengecatan
+STR_5900    :Gunakan kode gambar asli
+STR_5901    :Tampilkan tinggi segmen
+STR_5902    :Tampilkan kotak pembatas
+STR_5903    :Tampilkan jendela debug cat
+STR_5904    :Atur ulang tanggal
+STR_5905    :Alat pembuatan peta yang secara otomatis membuat lanskap khusus STR_5906:Perbesar ke posisi kursor
+STR_5907    :Saat diaktifkan, pembesaran akan berpusat di sekitar kursor, bukan di tengah layar.
+STR_5908    :Izinkan perubahan jenis wahana secara sembarangan
+STR_5909    :Memungkinkan perubahan tipe kendaraan secara bebas. Dapat menyebabkan kecelakaan.
+STR_5910    :Terapkan
+STR_5911    :Jalur Tembus Pandang
+STR_5912    :Toggle jalur tembus pandang
+STR_5913    :Obrolan
+STR_5914    :Kendaraan tidak dikenal
+STR_5915    :Pemain
+STR_5916    :{COMMA16} pemain
+STR_5917    :{COMMA16} pemain
+STR_5919    :{COMMA16}
+STR_5920    :Render efek cuaca
+STR_5921    :Jika diaktifkan, hujan dan warna suram akan ditampilkan selama badai.
+STR_5922    :Max {STRINGID}
+STR_5923    :Maksimal {COMMA16} {STRINGID} per kereta
+STR_5924    :Detail permukaan
+STR_5925    :Detail jalur
+STR_5926    :Detail trek
+STR_5927    :Detail pemandangan
+STR_5928    :Detail pintu masuk
+STR_5929    :Detail dinding
+STR_5930    :Detail pemandangan besar
+STR_5931    :Detail spanduk
+STR_5932    :Detail elemen yang rusak
+STR_5933    :Properti
+STR_5934    :Tekstur medan:{BLACK}{STRINGID}
+STR_5935    :Tepi medan:{BLACK}{ID STRING}
+STR_5936    :Kepemilikan tanah:{BLACK}{STRINGID}
+STR_5937    :Bukan milik dan tidak untuk dijual
+STR_5938    :Tingkat air:{BLACK}{KOMA16}
+STR_5939    :Singkirkan pagar taman
+STR_5940    :Pulihkan pagar taman
+STR_5941    :Tinggi dasar:
+STR_5942    :Nama jalur:{BLACK}{STRINGID}
+STR_5943    :Tambahan:{BLACK}{STRINGID}
+STR_5944    :Tambahan:{BLACK}Tidak ada
+STR_5945    :Tepi yang terhubung:
+STR_5946    :Jenis perjalanan:{BLACK}{STRINGID}
+STR_5947    :ID Perjalanan:{BLACK}{COMMA16}
+STR_5948    :Nama kendaraan:{BLACK}{STRINGID}
+STR_5949    :Pengangkatan rantai
+STR_5950    :Terapkan perubahan ke seluruh bagian trek
+STR_5951    :ID bagian trek:{BLACK}{COMMA16}
+STR_5952    :Nomor urutan:{BLACK}{COMMA16}
+STR_5953    :Urutkan elemen peta pada ubin saat ini berdasarkan ketinggian dasarnya.
+STR_5954    :Usia pemandangan:{BLACK}{COMMA16}
+STR_5955    :Penempatan kuadran:{BLACK}{STRINGID}
+STR_5956    :Barat Daya
+STR_5957    :Barat Laut
+STR_5958    :Timur Laut
+STR_5959    :Tenggara
+STR_5960    :Penempatan kuadran:
+STR_5961    :Indeks entri:{BLACK}{COMMA16}
+STR_5962    :Deteksi tabrakan:
+STR_5963    :Sudut Terangkat:
+STR_5964    :Diagonal
+STR_5965    :Jenis pintu masuk:{BLACK}{STRINGID}
+STR_5966    :Bagian pintu masuk taman:{BLACK}{STRINGID}
+STR_5967    :Tengah
+STR_5968    :Kiri
+STR_5969    :Kanan
+STR_5970    :ID Masuk:{BLACK}{COMMA16}
+STR_5971    :ID Keluar:{BLACK}{COMMA16}
+STR_5972    :ID Perjalanan:{BLACK}{COMMA16}
+STR_5973    :Jepit ke berikutnya
+STR_5974    :Mengubah ketinggian dasar dan jarak bebas sehingga sama dengan elemen berikutnya pada ubin saat ini. Melakukan hal ini akan mempermudah pembangunan di ubin ini.
+STR_5975    :Kemiringan:
+STR_5976    :Datar
+STR_5977    :Tegak
+STR_5978    :Sisi kiri atas
+STR_5979    :Tipe dinding:{BLACK}{KOMA16}
+STR_5980    :Teks spanduk:{BLACK}{STRINGID}
+STR_5981    :Bukan spanduk
+STR_5982    :Jenis pemandangan besar:{BLACK}{COMMA16}
+STR_5983    :ID potongan pemandangan besar:{BLACK}{COMMA16}
+STR_5984    :Jalur yang diblokir:
+STR_5985    :Folder baru
+STR_5986    :Ketik nama folder baru.
+STR_5987    :Tidak dapat membuat folder
+STR_5988    :Tidak ada lagi hak tanah yang tersisa untuk dijual
+STR_5989    :Tidak ada lagi hak konstruksi yang tersisa untuk dijual
+STR_5990    :Tidak ada lagi hak atas tanah atau hak konstruksi yang dijual
+STR_5991    :Tidak dapat menempelkan elemen…
+STR_5992    :Batas elemen peta telah tercapai
+STR_5993    :Salin elemen yang dipilih
+STR_5994    :Tempel elemen yang disalin
+STR_5995    :Booster
+STR_5996    :Kecepatan pendorong
+STR_5997    :Tambah/atur uang
+STR_5998    :Tambah uang
+STR_5999    :Tetapkan uang
+STR_6000    :Masukkan nilai baru
+STR_6001    :Mengaktifkan efek pencahayaan (eksperimental)
+STR_6002    :Lampu dan wahana akan menyala di malam hari.{NEWLINE}Membutuhkan mesin rendering yang diatur ke tampilan perangkat keras.
+STR_6003    :Tampilan Potongan
+STR_6004    :Tampilan Potongan
+STR_6005    :Aktifkan tampilan potongan melintang
+STR_6006    :Tampilan potongan hanya menampilkan elemen peta pada atau di bawah ketinggian potongan (pemotongan vertikal) dan di area yang dipilih (pemotongan horizontal).
+STR_6007    :Tinggi potongan
+STR_6008    :Klik untuk beralih antara nilai mentah dan nilai dalam satuan pengukuran
+STR_6009    :Pilih tinggi pemotongan
+STR_6010    :{COMMA2DP32}m
+STR_6011    :{COMMA1DP16}ft
+STR_6012    :{COMMA1DP16}
+STR_6013    :Para pengunjung hanya perlu membayar tiket masuk taman dan layanan.{NEWLINE}Masuk wahana gratis.
+STR_6014    :Para pengunjung hanya akan membayar tiket masuk untuk wahana dan layanan.{NEWLINE}Mereka tidak akan membayar apa pun untuk memasuki taman.
+STR_6015    :Miring
+STR_6016    :Ubah Ubin
+STR_6017    :Harap kurangi kecepatan
+STR_6018    :Konstruksi - Belok kiri
+STR_6019    :Konstruksi - Belok kanan
+STR_6020    :Konstruksi - Gunakan jalur default
+STR_6021    :Konstruksi - Lereng menurun
+STR_6022    :Konstruksi - Lereng menanjak
+STR_6023    :Konstruksi - Pengangkat rantai toggle
+STR_6024    :Konstruksi - Sisi kiri bank
+STR_6025    :Konstruksi - Hak Bank
+STR_6026    :Konstruksi - Trek sebelumnya
+STR_6027    :Konstruksi - Jalur berikutnya
+STR_6028    :Konstruksi - Bangun arus
+STR_6029    :Konstruksi - Hancurkan bangunan yang ada
+STR_6030    :Pemilih pemandangan. Klik pemandangan apa pun di peta untuk memilih bagian yang sama untuk konstruksi.
+STR_6031    :Deskripsi Server:
+STR_6032    :Salam Server:
+STR_6033    :Jalur menuju instalasi RCT1:
+STR_6034    :{BLACK}{STRING}
+STR_6035    :Silakan pilih direktori RCT1 Anda
+STR_6036    :Hapus
+STR_6037    :Folder yang dipilih tidak berisi instalasi RollerCoaster Tycoon 1 yang valid.
+STR_6038    :Jika Anda telah menginstal RCT1, atur opsi ini ke direktori RCT1 untuk memuat skenario, musik, dll.
+STR_6039    :Kendaraan penghancur cepat
+STR_6040    :Edit Opsi Skenario
+STR_6041    :{BLACK}Tidak ada mekanik yang dipekerjakan!
+STR_6042    :Muat peta ketinggian
+STR_6043    :Pilih peta ketinggian
+STR_6044    :Peta ketinggian halus
+STR_6045    :Kekuatan:
+STR_6046    :Menormalkan peta ketinggian
+STR_6047    :Tepi ubin yang halus
+STR_6048    :Kesalahan peta ketinggian
+STR_6049    :Kesalahan membaca PNG
+STR_6050    :Kesalahan membaca bitmap
+STR_6052    :Heightmap terlalu besar, dan akan dipotong.
+STR_6053    :Peta ketinggian tidak dapat dinormalisasi
+STR_6054    :Hanya bitmap 24-bit yang didukung
+STR_6055    :Berkas Peta Ketinggian OpenRCT2
+STR_6056    :Bisu
+STR_6057    :Tampilkan tombol terpisah untuk Opsi Bisukan di bilah alat
+STR_6058    :Bisu
+STR_6059    :»
+STR_6060    :Tampilkan pembelian pengunjung sebagai animasi
+STR_6061    :Tampilkan efek uang animasi saat pengunjung melakukan pembelian.
+STR_6062    :{OUTLINE}{GREEN}+ {CURRENCY2DP}
+STR_6063    :{OUTLINE}{RED}- {CURRENCY2DP}
+STR_6064    :Memiliki seluruh tanah
+STR_6065    :Catat tindakan pengguna
+STR_6066    :Mencatat semua tindakan pengguna ke dalam file di direktori pengguna Anda.
+STR_6067    :Server telah dimulai.
+STR_6068    :Server dimatikan.
+STR_6069    :{STRING} dikeluarkan dari server oleh {STRING}.
+STR_6070    :{STRING} diatur untuk mengelompokkan ‘{STRING}’ berdasarkan {STRING}.
+STR_6071    :{STRING} membuat grup pemain baru ‘{STRING}’.
+STR_6072    :{STRING} grup pemain dihapus ‘{STRING}’.
+STR_6073    :{STRING} mengedit izin untuk grup pemain ‘{STRING}’.
+STR_6074    :{STRING} mengubah nama grup pemain dari ‘{STRING}’ menjadi ‘{STRING}’.
+STR_6075    :{STRING} mengubah grup pemain default menjadi ‘{STRING}’.
+STR_6076    :{STRING} cheat yang digunakan/diaktifkan ‘{STRING}’.
+STR_6077    :Tambah Uang
+STR_6078    :{STRING} created ride ‘{STRING}’.
+STR_6079    :{STRING} wahana yang dihancurkan ‘{STRING}’.
+STR_6080    :{STRING} mengubah tampilan wahana ‘{STRING}’.
+STR_6081    :{STRING} mengubah status perjalanan ‘{STRING}’ menjadi ditutup.
+STR_6082    :{STRING} mengubah status perjalanan ‘{STRING}’ menjadi terbuka.
+STR_6083    :{STRING} mengubah status perjalanan ‘{STRING}’ menjadi pengujian.
+STR_6084    :{STRING} mengubah pengaturan kendaraan untuk perjalanan ‘{STRING}’.
+STR_6085    :{STRING} mengubah pengaturan ride ‘{STRING}’.
+STR_6086    :{STRING} mengganti nama wahana ‘{STRING}’ menjadi ‘{STRING}’.
+STR_6087    :{STRING} mengubah harga perjalanan ‘{STRING}’ menjadi {STRING}
+STR_6088    :{STRING} mengubah harga sekunder perjalanan ‘{STRING}’ menjadi {STRING}
+STR_6089    :{STRING} mengganti nama taman dari ‘{STRING}’ menjadi ‘{STRING}’.
+STR_6090    :{STRING} membuka taman.
+STR_6091    :{STRING} menutup taman.
+STR_6092    :{STRING} mengubah biaya masuk taman menjadi {STRING}
+STR_6093    :{STRING} menempatkan pemandangan baru.
+STR_6094    :{STRING} pemandangan dihapus.
+STR_6095    :{STRING} pemandangan yang diedit.
+STR_6096    :{STRING} set sign name to ‘{STRING}’.
+STR_6097    :{STRING} menempatkan jalur wahana ‘{STRING}’.
+STR_6098    :{STRING} menghapus trek perjalanan.
+STR_6099    :Anda terhubung ke server.
+STR_6100    :Anda terputus dari server.
+STR_6101    :Nilai wahana tidak menurun seiring waktu
+STR_6102    :Nilai suatu wahana tidak akan menurun seiring waktu, sehingga pengunjung tidak akan tiba-tiba berpikir bahwa wahana tersebut terlalu mahal.
+STR_6103    :Opsi ini dinonaktifkan selama permainan jaringan.
+STR_6105    :Hypercoaster
+STR_6107    :Truk Monster
+STR_6109    :Roller Coaster Hyper-Twister
+STR_6111    :Roller Coaster Mini Klasik
+STR_6113    :Roller coaster tinggi tanpa inversi dengan penurunan besar, kecepatan tinggi, dan kereta yang nyaman dengan hanya pengaman pangkuan. 
+STR_6115    :Truk raksasa 4×4 bertenaga yang dapat mendaki lereng curam. 
+STR_6116    :Kereta roller coaster lebar meluncur di sepanjang rel baja yang halus, melewati berbagai inversi. 
+STR_6119    :Roller coaster murah dan mudah dibangun, tetapi dengan ketinggian terbatas. 
+STR_6120    :{BABYBLUE}Kendaraan baru sekarang tersedia untuk {STRINGID}:{NEWLINE}{STRINGID}
+STR_6121    :Memperluas hak lahan taman hingga ke tepi peta 
+STR_6122    :Tidak ada cukup wahana roller coaster dalam skenario ini!
+STR_6123    :Kesalahan saat memuat objek untuk taman
+STR_6124    :Nama objek
+STR_6125    :Jenis objek
+STR_6126    :Tipe tidak diketahui
+STR_6127    :File:{STRING}
+STR_6128    :Berkas tidak dapat dimuat karena beberapa objek yang dirujuk di dalamnya hilang atau rusak. Daftar objek tersebut diberikan di bawah ini.
+STR_6129    :Salin
+STR_6130    :Salin semua
+STR_6131    :Sumber objek
+STR_6132    :Abaikan status penelitian
+STR_6133    :Akses wahana dan pemandangan yang belum ditemukan
+STR_6134    :Pemandangan Jelas
+STR_6135    :Klien mengirimkan permintaan yang tidak valid
+STR_6136    :Server mengirimkan permintaan tidak valid
+STR_6137    :OpenRCT2, sebuah rekreasi dan perluasan gratis dan sumber terbuka dari Roller Coaster Tycoon 2.
+STR_6138    :OpenRCT2 adalah hasil karya banyak penulis, daftar lengkapnya dapat ditemukan di bawah tombol “Kontributor”. Untuk informasi lebih lanjut, kunjungi http://github.com/OpenRCT2/OpenRCT2
+STR_6139    :Semua nama produk dan perusahaan adalah milik pemiliknya masing-masing. Penggunaan nama-nama tersebut tidak menyiratkan afiliasi atau dukungan apa pun dari mereka.
+STR_6140    :Catatan Perubahan…
+STR_6141    :RCT1 Toolbar Bawah
+STR_6142    :{WINDOW_COLOUR_2}Nama trek:{BLACK}{STRING}
+STR_6143    :{WINDOW_COLOUR_2}Jenis wahana:{BLACK}{STRINGID}
+STR_6144    :Tampilkan visual yang tidak senonoh
+STR_6145    :Tetapkan batas kecepatan untuk booster
+STR_6146    :Aktifkan semua bagian rel yang dapat digambar
+STR_6147    :Mengaktifkan semua bagian rel yang mampu digunakan oleh tipe wahana di jendela konstruksi, terlepas dari apakah kendaraan tersebut mendukungnya atau tidak.
+STR_6148    :Menghubungkan ke server master…
+STR_6149    :Tidak dapat terhubung ke server master
+STR_6150    :Respons tidak valid dari server master (tidak ada angka JSON)
+STR_6151    :Server utama gagal mengembalikan server
+STR_6152    :Respons tidak valid dari server master (tidak ada array JSON)
+STR_6153    :Bayar untuk masuk taman / Bayar per wahana
+STR_6154    :Demi alasan keamanan, tidak disarankan untuk menjalankan OpenRCT2 dengan hak akses administrator.
+STR_6155    :Baik KDialog maupun Zenity belum terpasang. Silakan instal salah satunya, atau konfigurasikan dari baris perintah.
+STR_6156    :Nama ini sudah dipesan
+STR_6157    :Konsol
+STR_6160    :{WINDOW_COLOUR_2}Kendaraan yang tersedia:{BLACK}{STRING}
+STR_6161    :Tombol pengaktifan/penonaktifan tampilan garis kisi
+STR_6162    :Tikus Liar yang Berputar
+STR_6163    :Mobil berbentuk tikus melaju kencang melewati tikungan tajam dan turunan pendek, berputar perlahan untuk membuat pengendara kehilangan orientasi 
+STR_6164    :{WHITE}❌
+STR_6165    :Gunakan sinkronisasi vertikal
+STR_6166    :Menyinkronkan setiap frame yang ditampilkan dengan kecepatan refresh monitor, mencegah screen tearing (gambar pecah).
+STR_6167    :Tingkat Lanjut
+STR_6168    :Urutan Judul
+STR_6170    :Penyesuaian Antarmuka
+STR_6171    :Pencarian
+STR_6172    :Pencarian
+STR_6173    :Harap berikan nama yang ingin dicari:
+STR_6188    :Muntah
+STR_6189    :Bebek
+STR_6191    :Permukaan
+STR_6192    :Dinding
+STR_6193    :{COMMA16} pengunjung
+STR_6194    :{INLINE_SPRITE}{11}{20}{00}{00}{COMMA16} pengunjung
+STR_6195    :{INLINE_SPRITE}{10}{20}{00}{00}{COMMA16} pengunjung
+STR_6196    :{BLACK}Tahun:
+STR_6197    :{BLACK}Bulan:
+STR_6198    :{BLACK}Hari:
+STR_6199    :Tetapkan tanggal
+STR_6200    :Atur ulang tanggal
+STR_6201    :{BULAN}
+STR_6202    :Gaya lantai virtual:
+STR_6203:   Saat diaktifkan, lantai virtual akan ditampilkan saat menekan Ctrl atau Shift untuk memudahkan penempatan elemen secara vertikal.
+STR_6215    :Konstruksi
+STR_6216    :Operasi
+STR_6217    :Ketersediaan wahana/jalur
+STR_6218    :OpenRCT2 Resmi
+STR_6219    :Sorot masalah jalur
+STR_6220    :Jadikan Dapat Digunakan
+STR_6221:   Ini akan mengatur lokasi masuk atau keluar wahana yang diketahui ke ubin yang saat ini dipilih. Hanya satu lokasi masuk dan keluar yang dapat digunakan per stasiun.
+STR_6222    :Tidak dapat menempatkan titik masuk pengunjung di sini…
+STR_6223    :Harus berada di luar batas taman!
+STR_6224    :{STRING} menempatkan titik masuk pengunjung.
+STR_6225    :Tidak didukung oleh renderer OpenGL
+STR_6226    :Aktifkan penyelesaian skenario lebih awal
+STR_6227    :Memicu penyelesaian skenario ketika semua tujuan skenario terpenuhi sebelum tanggal target.
+STR_6228    :Opsi Skenario
+STR_6229    :{WINDOW_COLOUR_2}{STRINGID}:{STRINGID}
+STR_6230    :{BLACK}{STRINGID}:
+STR_6231    :{WINDOW_COLOUR_2}{STRINGID}:{MOVE_X}{185}{STRINGID}
+STR_6232    :Beku
+STR_6233    :Tampilan potongan
+STR_6234    :Sorot masalah jalur
+STR_6235    :Informasi Server
+STR_6236    :Pemain
+STR_6237    :Grup
+STR_6238    :Opsi Multipemain
+STR_6239    :Pemotongan Vertikal
+STR_6240    :Pemotongan Horizontal
+STR_6241    :Pilih area
+STR_6242    :Hapus pilihan
+STR_6243    :Memperbaiki wahana,{NEWLINE}membuatnya seperti baru
+STR_6244    :Tidak dapat memperbaiki wahana…
+STR_6245    :Wahana tidak perlu diperbaiki
+STR_6246    :Perbaikan
+STR_6247    :Renovasi wahana/atraksi
+STR_6248    :{WINDOW_COLOUR_1}Apakah Anda ingin memperbarui {STRINGID} dengan {CURRENCY}?
+STR_6249    :{WINDOW_COLOUR_1}Apakah Anda ingin memperbarui {STRINGID}?
+STR_6250    :{WINDOW_COLOUR_1}Apakah Anda yakin ingin menghancurkan {STRINGID} sepenuhnya dan mendapatkan {CURRENCY}?
+STR_6251    :Wahana belum kosong
+STR_6255    :URL tidak valid
+STR_6256    :Efek rendering
+STR_6257    :Berkaca (tembus cahaya)
+STR_6258    :Jelas (transparan)
+STR_6259    :Dinonaktifkan
+STR_6260    :Tampilkan ubin yang diblokir
+STR_6261    :Tampilkan jalur lebar
+STR_6262    :Volume utama
+STR_6263    :Mengaktifkan/menonaktifkan semua suara
+STR_6264    :Selalu gunakan penjelajah file sistem
+STR_6265    :Saat diaktifkan, penjelajah file sistem operasi Anda akan digunakan sebagai pengganti penjelajah file OpenRCT2.
+STR_6266    :Buka folder konten kustom
+STR_6267    :Pembuka pemeriksa ubin
+STR_6268    :Lanjut ke tick berikutnya
+STR_6269    :ID iklim tidak valid
+STR_6270    :Permukaan Medan
+STR_6271    :Tepi Medan
+STR_6272    :Stasiun
+STR_6273    :Musik
+STR_6274    :Tidak dapat mengatur skema warna…
+STR_6275    :{WINDOW_COLOUR_2}Gaya stasiun:
+STR_6276    :{RED}{STRINGID} mengalami masalah di mana penumpang terjebak, kemungkinan karena tipe wahana atau mode operasi yang tidak valid.
+STR_6277    :Indeks stasiun:{BLACK}{STRINGID}
+STR_6278    :Jumlah penyimpanan otomatis
+STR_6279    :Jumlah penyimpanan otomatis yang harus dipertahankan
+STR_6280    :Obrolan
+STR_6281    :Tampilkan tombol terpisah untuk jendela Obrolan di bilah alat
+STR_6282    :Obrolan
+STR_6283    :Obrolan tidak tersedia saat ini. Apakah Anda terhubung ke server?
+STR_6293    :B
+STR_6294    :KiB
+STR_6295    :MiB
+STR_6296    :GiB
+STR_6297    :TiB
+STR_6298    :{STRING}/detik
+STR_6299    :Unduh semua
+STR_6300    :Unduh semua objek yang hilang jika tersedia secara online.
+STR_6301    :Salin nama objek yang dipilih ke papan klip.
+STR_6302    :Salin seluruh daftar objek yang hilang ke clipboard.
+STR_6303    :Mengunduh objek ({COMMA16} / {COMMA16}):[{STRING}]
+STR_6304    :Buka pemilih pemandangan
+STR_6305    :Multithreading
+STR_6306    :Opsi eksperimental untuk menggunakan beberapa thread untuk rendering, dapat menyebabkan ketidakstabilan.
+STR_6307    :Skema warna:{BLACK}{STRINGID}
+STR_6308    :{TOPAZ}“{STRINGID}{OUTLINE}{TOPAZ}”{NEWLINE}{STRINGID}
+STR_6309    :Sambungkan Kembali
+STR_6310    :{WINDOW_COLOUR_2}Posisi:{BLACK}{INT32} {INT32} {INT32}
+STR_6311    :{WINDOW_COLOUR_2}Berikutnya:{BLACK}{INT32} {INT32} {INT32}
+STR_6312    :(permukaan)
+STR_6313    :(kemiringan {INT32})
+STR_6314    :{WINDOW_COLOUR_2}Tujuan:{BLACK}{INT32}, toleransi {INT32} {INT32}
+STR_6315    :{WINDOW_COLOUR_2}Tujuan Pencarian Jalur:{BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
+STR_6316    :{WINDOW_COLOUR_2}Riwayat pencarian jalur:
+STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
+STR_6318    :Terdeteksi ketidak sinkronan jaringan.{NEWLINE}Berkas log:{STRING}
+STR_6319    :Rem Blok Tertutup
+STR_6320    :Tidak Dapat Dihancurkan
+STR_6321    :Penjumlahan rusak
+STR_6322    :{WINDOW_COLOUR_2}ID Entitas:{BLACK}{INT32}
+STR_6323    :Mensimulasikan
+STR_6324    :Simulasi
+STR_6325    :Simulasikan wahana/atraksi
+STR_6326    :Tidak dapat menyimulasikan {STRINGID}’¦
+STR_6327    :Latar belakang transparan untuk tangkapan layar berukuran besar
+STR_6328    :Dengan opsi ini diaktifkan, tangkapan layar berukuran besar akan memiliki latar belakang transparan, bukan warna hitam standar.
+STR_6329    :{STRING}{ID STRING}
+STR_6330    :Mengunduh [{STRING}] dari {STRING} ({COMMA16} / {COMMA16})
+STR_6331    :Membuat bebek
+STR_6332    :Singkirkan bebek
+STR_6333    :Meningkatkan faktor skala
+STR_6334    :Penurunan faktor skala
+STR_6336    :Inspektur Ubin:Salin elemen
+STR_6337    :Inspektur Ubin:Tempel elemen
+STR_6338    :Inspektur Ubin:Hapus elemen
+STR_6339    :Inspektur Ubin:Pindahkan elemen ke atas
+STR_6340    :Inspektur Ubin:Pindahkan elemen ke bawah
+STR_6341    :Inspektur Ubin:Tingkatkan koordinat X
+STR_6342    :Inspektur Ubin:Kurangi koordinat X
+STR_6343    :Inspektur Ubin:Tingkatkan koordinat Y
+STR_6344    :Inspektur Ubin:Kurangi koordinat Y
+STR_6345    :Inspektur Ubin:Tingkatkan tinggi elemen
+STR_6346    :Inspektur Ubin:Kurangi tinggi elemen
+STR_6347    :Penambahan jalur tidak dapat ditempatkan di perlintasan sebidang!
+STR_6348    :Singkirkan perlintasan sebidang terlebih dahulu!
+STR_6349    :Urutan judul acak
+STR_6350    :Sebar
+STR_6351    :Alat Penyebar Pemandangan
+STR_6352    :Kepadatan
+STR_6353    :Kepadatan rendah
+STR_6354    :Kepadatan sedang
+STR_6355    :Kepadatan tinggi
+STR_6356    :Menghasilkan bebek jika taman berisi air
+STR_6357    :Menghapus semua bebek dari peta
+STR_6358    :Halaman {UINT16}
+STR_6361    :Mengaktifkan efek pencahayaan pada wahana (eksperimental)
+STR_6362    :Jika diaktifkan, kendaraan untuk perjalanan yang dilacak akan menyala di malam hari.
+STR_6363    :Teks disalin ke papan klip
+STR_6364    :{RED}{COMMA16} orang meninggal dalam kecelakaan pada {STRINGID}
+STR_6365    :Korban perjalanan
+STR_6366    :Kendaraan yang terjebak atau mogok
+STR_6367    :Bingkai animasi:
+STR_6368    :Demi alasan kompatibilitas, tidak disarankan untuk menjalankan OpenRCT2 dengan Wine. OpenRCT2 memiliki dukungan asli untuk macOS, Linux, FreeBSD, dan OpenBSD.
+STR_6369    :Izinkan pembangunan jalur rel pada ketinggian yang tidak valid
+STR_6370    :Memungkinkan penempatan potongan rel pada interval ketinggian berapa pun
+STR_6371    :Jalur yang ditentukan berisi instalasi RollerCoaster Tycoon 1, tetapi file “csg1i.dat” hilang. File ini perlu disalin dari CD Loopy Landscapes atau RCT Deluxe ke folder “Data” dari instalasi RollerCoaster Tycoon 1 di hard drive Anda.
+STR_6372    :Jalur yang ditentukan berisi instalasi RollerCoaster Tycoon 1, tetapi versi ini tidak sesuai. OpenRCT2 membutuhkan instalasi Loopy Landscapes atau RCT Deluxe agar dapat menggunakan aset RollerCoaster Tycoon 1.
+STR_6373    :Toggle clearance checks
+STR_6374    :C
+STR_6375    :Kendaraan Tak Dikenal
+STR_6376    :{WINDOW_COLOUR_2}Naik kendaraan:{NEWLINE}{BLACK}{STRINGID} untuk {STRINGID}
+STR_6377    :{WINDOW_COLOUR_2}Jenis:{BLACK}{STRINGID} untuk {STRINGID}
+STR_6378    :Menerima daftar objek…
+STR_6379    :Data yang diterima tidak valid
+STR_6380    :Pembaruan tersedia!
+STR_6381    :Gabung ke Discord OpenRCT2!
+STR_6382    :Versi terbaru OpenRCT2 tersedia:{STRING}!
+STR_6383    :Buka halaman unduhan
+STR_6384    :Salju
+STR_6385    :Salju Lebat
+STR_6386    :Badai Salju
+STR_6387    :Tidak dapat menurunkan elemen di sini…
+STR_6388    :Tidak dapat menaikkan elemen di sini…
+STR_6389    :Pembersihan tidak valid
+STR_6390    :OpenRCT2 membutuhkan file dari RollerCoaster Tycoon 2 atau RollerCoaster Tycoon Classic asli agar dapat berfungsi. Silakan pilih direktori tempat Anda menginstal RollerCoaster Tycoon 2 atau RollerCoaster Tycoon Classic.
+STR_6391    :Silakan pilih direktori RCT2 atau RCTC Anda
+STR_6392    :Tidak dapat menemukan {STRING} pada jalur ini.
+STR_6393    :Pemilihan Objektif
+STR_6394    :Tujuan
+STR_6395    :Pemeliharaan
+STR_6396    :Nonaktifkan screensaver dan penghematan daya monitor
+STR_6397    :Jika dicentang, screensaver dan fitur penghematan daya monitor lainnya akan dinonaktifkan saat OpenRCT2 berjalan.
+STR_6398    :File berisi tipe wahana yang tidak didukung. Harap perbarui ke versi OpenRCT2 yang lebih baru.
+STR_6399    :OpenRCT2 membutuhkan file dari RollerCoaster Tycoon 2 atau RollerCoaster Tycoon Classic asli agar dapat berfungsi. Harap atur variabel “game_path” di config.ini ke direktori tempat Anda menginstal RollerCoaster Tycoon 2 atau RollerCoaster Tycoon Classic, lalu mulai ulang OpenRCT2.
+STR_6400    :Saya sudah mengunduh installer offline GOG untuk RollerCoaster Tycoon 2, tetapi belum terinstal. 
+STR_6401    :Saya sudah menginstal RollerCoaster Tycoon 2 atau RollerCoaster Tycoon Classic. 
+STR_6402    :Pengaturan Data OpenRCT2. 
+STR_6403    :Pilih yang paling sesuai untuk Anda.
+STR_6404    :Silakan pilih installer GOG RollerCoaster Tycoon 2.
+STR_6405    :Pilih Penginstal GOG
+STR_6406    :Penginstal GOG RollerCoaster Tycoon 2
+STR_6407    :Ini mungkin membutuhkan beberapa menit.
+STR_6408    :Silakan instal “innoextract” untuk mengekstrak GOG Installer, lalu mulai ulang OpenRCT2.
+STR_6409    :File yang dipilih bukanlah Installer GOG offline untuk RollerCoaster Tycoon 2. Anda mungkin telah mengunduh versi awal pengunduh GOG Galaxy atau memilih file yang salah.
+STR_6410    :Perbesar/Perkecil
+STR_6411    :Tampilkan tombol untuk memperbesar dan memperkecil tampilan di toolbar
+STR_6412    :Tombol Enter
+STR_6413    :Shift
+STR_6414    :Pergeseran L
+STR_6415    :Pergeseran R
+STR_6416    :Ctrl
+STR_6417    :L Ctrl
+STR_6418    :R Ctrl
+STR_6419    :Alternatif
+STR_6420    :L Alt
+STR_6421    :R Alt
+STR_6422    :Cmd
+STR_6423    :L Perintah
+STR_6424    :R Perintah
+STR_6425    :Joy Left
+STR_6426    :Joy Right
+STR_6427    :Joy Up
+STR_6428    :Joy Down
+STR_6429    :Joy {INT32}
+STR_6430    :LMB
+STR_6431    :RMB
+STR_6432    :Tikus {INT32}
+STR_6433    :Hapus
+STR_6434    :Hapus semua pengikatan untuk pintasan ini.
+STR_6435    :{WINDOW_COLOUR_2}Pelaku vandalisme berhenti:{BLACK}{COMMA32}
+STR_6436    :Alihkan/Tutup tembus pandang
+STR_6437    :Terlihat
+STR_6438    :{MOVE_X}{2}👁
+STR_6439    :Inspektur Ubin:Alihkan tampilan tembus pandang
+STR_6440    :Air transparan
+STR_6441    :Setidaknya satu objek permukaan jalan setapak non-antrian harus dipilih.
+STR_6442    :Setidaknya satu objek permukaan jalur pejalan kaki antrean harus dipilih.
+STR_6443    :Setidaknya satu objek pagar trotoar harus dipilih.
+STR_6444    :Permukaan Jalan Setapak
+STR_6445    :Pagar Trotoar
+STR_6446    :{WINDOW_COLOUR_2}Nama permukaan:{BLACK}{STRINGID}
+STR_6447    :{WINDOW_COLOUR_2}Nama pagar:{BLACK}{STRINGID}
+STR_6448    :Format objek tidak didukung
+STR_6449    :{WINDOW_COLOUR_2}Tracks:
+STR_6450    :{BLACK}“{STRING}”
+STR_6451    :{BLACK}“{STRING}” - {STRING}
+STR_6452    :{WINDOW_COLOUR_2}Menjual:{BLACK}{STRING}
+STR_6453    :Salin informasi versi
+STR_6454    :Tidak dapat mengganti nama banner…
+STR_6455    :Tidak dapat mengganti nama papan tanda…
+STR_6456    :Tangkapan Layar Raksasa
+STR_6457    :Laporkan bug di GitHub
+STR_6458    :Ikuti ini di Tampilan Utama
+STR_6460    :D
+STR_6461    :Arah
+STR_6462    :Kegembiraan
+STR_6463    :Kegembiraan:{COMMA2DP32}
+STR_6464    :Intensitas
+STR_6465    :Intensitas:{COMMA2DP32}
+STR_6466    :Mual
+STR_6467    :Mual:{COMMA2DP32}
+STR_6468    :Belum Diketahui
+STR_6469    :Sesuaikan area patroli yang lebih kecil
+STR_6470    :Sesuaikan area patroli yang lebih luas
+STR_6471    :Vegetasi Tembus Pandang
+STR_6472    :Kendaraan Transparan
+STR_6473    :Penopang Transparan
+STR_6474    :pengunjung Tak Terlihat
+STR_6475    :Tongkat Tak Terlihat
+STR_6476    :Vegetasi Tak Terlihat
+STR_6477    :Pemandangan Tak Terlihat
+STR_6478    :Jalur Tak Terlihat
+STR_6479    :Wahana Tak Terlihat
+STR_6480    :Kendaraan Tak Terlihat
+STR_6481    :Opsi Transparansi
+STR_6482    :Opsi Transparansi
+STR_6483    :Buka opsi transparansi
+STR_6484    :Tombol pengaktifan/penonaktifan vegetasi tembus pandang
+STR_6485    :Tombol pengaktifan/penonaktifan kendaraan tembus pandang
+STR_6486    :Tombol sembunyikan pengunjung
+STR_6487    :Tombol sembunyikan staf
+STR_6488    :{RED}Para pengunjung mengeluhkan panjangnya antrean di taman Anda.{NEWLINE}Pertimbangkan untuk mempersingkat antrean yang bermasalah, atau meningkatkan kapasitas wahana.
+STR_6489    :Kesalahan:Versi Taman Tidak Kompatibel
+STR_6490    :Peringatan:Versi Taman yang Semi-kompatibel
+STR_6491    :Taman ini disimpan dalam versi OpenRCT2 yang lebih baru. Taman ini disimpan di v{INT32} dan membutuhkan setidaknya v{INT32}. Anda saat ini berada di v{INT32}.
+STR_6492    :Taman ini disimpan dalam versi OpenRCT2 lama, dan tidak dapat dibuka dengan versi OpenRCT2 ini. Taman ini adalah v{INT32}.
+STR_6493    :Taman ini disimpan dalam versi OpenRCT2 yang lebih baru, beberapa data mungkin hilang. Taman ini disimpan di v{INT32}. Anda saat ini berada di v{INT32}.
+STR_6494    :Kelompokkan berdasarkan jenis perjalanan
+STR_6495    :Mengelompokkan wahana berdasarkan jenis wahana, bukan menampilkan setiap kendaraan secara terpisah.
+STR_6496    :{WINDOW_COLOUR_2}{STRINGID}
+STR_6497    :Klik pada ubin untuk menampilkan elemen-elemen ubinnya.{NEWLINE}Ctrl + klik elemen ubin untuk memilihnya secara langsung.
+STR_6498    :Aktifkan untuk mempertahankan bentuk peta persegi.
+STR_6499    :Jenis kendaraan tidak didukung oleh format desain trek
+STR_6500    :Elemen trek tidak didukung oleh format desain trek
+STR_6501    :Warna acak
+STR_6502    :Masukkan nilai di antara {COMMA16} dan {COMMA16}
+STR_6503    :Setidaknya satu objek stasiun harus dipilih
+STR_6504    :Setidaknya satu permukaan medan harus dipilih
+STR_6505    :Setidaknya satu tepi medan harus dipilih
+STR_6506    :Pembuka Botol Setengah Besar (kiri)
+STR_6507    :Pembuka Botol Setengah Besar (kanan)
+STR_6508    :Lingkaran Setengah Sedang (kiri)
+STR_6509    :Lingkaran Setengah Sedang (kanan)
+STR_6510    :Gulir Nol (kiri)
+STR_6511    :Gulir Nol (kanan)
+STR_6512    :Gulungan Nol G Besar (kiri)
+STR_6513    :Gulungan Nol G Besar (kanan)
+STR_6514    :Tinggi tidak valid!
+STR_6515    :{BLACK}RollerCoaster Tycoon 1 tidak terhubung - gambar cadangan akan digunakan.
+STR_6516    :Satu atau lebih objek yang ditambahkan memerlukan tautan RollerCoaster Tycoon 1 agar dapat ditampilkan dengan benar. Gambar cadangan akan digunakan.
+STR_6517    :Satu atau lebih objek di taman ini memerlukan tautan RollerCoaster Tycoon 1 agar dapat ditampilkan dengan benar. Gambar cadangan akan digunakan.
+STR_6518    :{BLACK}Arahkan kursor ke skenario untuk melihat deskripsi dan tujuannya. Klik untuk mulai bermain.
+STR_6519    :Ekstra
+STR_6520    :Paket Aset
+STR_6521    :Prioritas Rendah
+STR_6522    :Prioritas Tinggi
+STR_6523    :Menurunkan prioritas paket aset yang dipilih.
+STR_6524    :Meningkatkan prioritas paket aset yang dipilih.
+STR_6525    :Muat ulang semua aset dalam game dengan paket aset yang diaktifkan.
+STR_6526    :(grafik dasar, musik dan efek suara)
+STR_6527    :Kompetisi
+STR_6528    :Parameter trek tidak valid!
+STR_6529    :Parameter skema warna tidak valid!
+STR_6530    :Set Ekspansi Buatan Pengguna
+STR_6531    :Mesin Waktu
+STR_6532    :Dunia Impian Katy
+STR_6533    :{WINDOW_COLOUR_2}Faktor Kegembiraan:{BLACK}-{COMMA16}%
+STR_6534    :{WINDOW_COLOUR_2}Faktor Intensitas:{BLACK}-{COMMA16}%
+STR_6535    :{WINDOW_COLOUR_2}Faktor Mual:{BLACK}-{COMMA16}%
+STR_6536    :Taman ini disimpan dalam versi OpenRCT2 yang lebih baru. Taman ini disimpan di v{INT32}, Anda saat ini berada di v{INT32}.
+STR_6537    :Izinkan penggunaan jalur reguler sebagai antrian
+STR_6538    :Menampilkan jalur reguler di menu tarik-turun antrean pada jendela Jalur Pejalan Kaki.
+STR_6539    :Rem Tertutup
+STR_6540    :{WINDOW_COLOUR_2}Ucapan terima kasih khusus kepada perusahaan-perusahaan berikut yang telah mengizinkan penggunaan gambar mereka:
+STR_6541    :{WINDOW_COLOUR_2}Rocky Mountain Construction Group, Josef Wiegand GmbH & Co. KG, Intamin Amusement Rides Int. Corp. Est.
+STR_6542    :Kontributor
+STR_6543    :Kontributor…
+STR_6544    :Pinjaman tidak boleh negatif!
+STR_6545    :Gunakan perhitungan bunga RCT1
+STR_6546    :Menggunakan algoritma perhitungan bunga dari RollerCoaster Tycoon 1, yang menggunakan persentase tetap sekitar 1,33%.
+STR_6547    :Semua Pemandangan
+STR_6548    :Tampilkan pagar pembatas di persimpangan
+STR_6549    :Objek kompatibilitas tidak dapat dipilih!
+STR_6550    :Entri ini disertakan untuk kompatibilitas mundur dengan objek lama atau rusak. Entri ini tidak dapat dipilih, hanya dapat dibatalkan pilihannya.
+STR_6551    :Hijau tentara
+STR_6552    :Munnah
+STR_6553    :Tan
+STR_6554    :Merah Marun
+STR_6555    :Merah muda karang
+STR_6556    :Hijau hutan
+STR_6557    :Chartreuse
+STR_6558    :Hunter hijau
+STR_6559    :Celadon
+STR_6560    :Hijau limau
+STR_6561    :Sepia
+STR_6562    :Persik
+STR_6563    :Siput Periwinkle
+STR_6564    :Viridian
+STR_6565    :Hijau busa laut
+STR_6566    :Violet
+STR_6567    :Lavender
+STR_6568    :Oranye pastel
+STR_6569    :Air dalam
+STR_6570    :Merah muda pastel
+STR_6571    :Umber
+STR_6572    :Krem
+STR_6573    :Tak Terlihat
+STR_6574    :Void
+STR_6575    :Izinkan skema warna khusus
+STR_6576    :Menambahkan warna khusus ke menu tarik-turun warna
+STR_6577    :Kecepatan rem blok
+STR_6578    :Tetapkan batas kecepatan untuk rem blok. Dalam mode bagian blok, rem yang berdekatan dengan kecepatan lebih lambat dihubungkan ke rem blok.
+STR_6579    :Rem blok akan diatur ke kecepatan default saat disimpan sebagai desain trek 
+STR_6580    :Atur ulang
+STR_6581    :Apakah Anda yakin ingin mengatur ulang semua tombol pintasan pada tab ini?
+STR_6582    :Buka jendela pintasan keyboard
+STR_6583    :{WINDOW_COLOUR_2}Kereta Api Terbalik
+STR_6584    :Pilih untuk menjalankan kereta api mundur
+STR_6585    :Tidak dapat melakukan perubahan…
+STR_6586    :OpenRCT2
+STR_6587    :Tema Judul OpenRCT2 adalah karya Allister Brimble,{NEWLINE}dilisensikan CC BY-SA 4.0.
+STR_6588    :Terima kasih kepada Herman Riddering karena telah mengizinkan kami merekam 35er Voigt.
+STR_6589    :Tampilkan tombol jendela di sebelah kiri
+STR_6590    :Tampilkan tombol jendela (misalnya untuk menutup jendela) di sebelah kiri bilah judul, bukan di sebelah kanan.
+STR_6591    :Anggota staf saat ini sedang memperbaiki wahana dan tidak dapat dipecat.
+STR_6592    :Anggota staf saat ini sedang memeriksa wahana dan tidak dapat dipecat.
+STR_6593    :Hapus pagar taman
+STR_6594    :Inspektur Ubin:Alihkan kemiringan dinding
+STR_6595    :{WINDOW_COLOUR_2}Penulis:{BLACK}{STRING}
+STR_6596    :{WINDOW_COLOUR_2}Penulis:{BLACK}{STRING}
+STR_6597    :Parameter tidak valid
+STR_6598    :Nilai di luar rentang
+STR_6599    :Elemen hantu tidak ditemukan
+STR_6600    :Balon tidak ditemukan
+STR_6601    :Staf tidak ditemukan
+STR_6602    :Perjalanan tidak ditemukan
+STR_6603    :Entri objek perjalanan tidak ditemukan
+STR_6604    :Pemain tidak ditemukan
+STR_6605    :Elemen pintu masuk tidak ditemukan
+STR_6606    :Elemen permukaan tidak ditemukan
+STR_6607    :Elemen ubin tidak ditemukan
+STR_6608    :Elemen trek tidak ditemukan
+STR_6609    :Blok trek tidak ditemukan
+STR_6610    :Elemen jalur tidak ditemukan
+STR_6611    :Elemen dinding tidak ditemukan
+STR_6612    :Elemen banner tidak ditemukan
+STR_6613    :Muat ulang objek
+STR_6614    :Tidak dapat mengubah biaya masuk taman
+STR_6615    :Jalur di ubin ini membutuhkan air
+STR_6616    :Tindakan tidak valid untuk jenis staf tersebut
+STR_6617    :Tidak dapat menukar elemen ubin dengan dirinya sendiri
+STR_6618    :Tidak dapat membatasi atau membatalkan pembatasan objek…
+STR_6619    :Tipe objek tidak dapat dibatasi!
+STR_6620    :Objek tidak ditemukan!
+STR_6621    :Batasi
+STR_6622    :Batasi objek hanya pada Editor Skenario dan mode Sandbox.
+STR_6623    :Ketik “help” untuk melihat daftar perintah yang tersedia. Ketik “hide” untuk menyembunyikan konsol.
+STR_6624    :Inspektur Ubin:Urutkan elemen
+STR_6625    :Warna tidak valid
+STR_6626    :Animasi terbalik
+STR_6627    :Kecepatan trek terlalu tinggi!
+STR_6628    :Hanya dapat ditempatkan di tepi jalur!
+STR_6629    :Sejajarkan tombol toolbar secara horizontal di tengah
+STR_6630    :Pengaturan ini akan menyelaraskan tombol toolbar secara horizontal di tengah layar. Cara tradisional untuk menyelaraskannya adalah di sudut kiri dan kanan.
+STR_6631    :Memuat…
+STR_6632    :Memeriksa berkas objek…
+STR_6633    :Memeriksa berkas skenario…
+STR_6634    :Memeriksa berkas desain jalur…
+STR_6635    :Memeriksa paket aset…
+STR_6636    :Memeriksa urutan judul…
+STR_6637    :Memuat urutan judul…
+STR_6638    :Antarmuka Pengguna yang Diperbesar
+STR_6639    :Memodifikasi antarmuka agar lebih sesuai untuk penggunaan sentuh.
+STR_6640    :Edit paket aset…
+STR_6641    :Jendela pemuatan/kemajuan
+STR_6642    :{STRING} ({COMMA32} / {COMMA32})
+STR_6643    :{STRING} ({COMMA32} / {COMMA32} KiB)
+STR_6644    :Peningkatan sentuhan
+STR_6645    :Memperbesar beberapa elemen UI agar lebih mudah diklik atau disentuh.
+STR_6646    :Penulis:{STRING}
+STR_6647    :Penulis:{STRING}
+STR_6648    :Memuat mesin plugin…
+STR_6649    :Memuat skenario…
+STR_6650    :Memuat game yang tersimpan…
+STR_6651    :{STRING} ({COMMA32}%)
+STR_6652    :Jendela Kesalahan
+STR_6653    :Semua sumber ditampilkan
+STR_6654    :Menampilkan sumber {POP16}{UINT16}
+STR_6655    :Hanya ‘{POP16}{STRINGID}’
+STR_6656    :Singkirkan semua pagar dari taman
+STR_6657    :Tanah Bukan Milik
+STR_6658    :Tetapkan lahan agar tidak dimiliki oleh taman, dan tidak tersedia untuk dibeli 
+STR_6659    :pengunjung mengabaikan harga
+STR_6660    :Para pengunjung akan mengabaikan harga wahana dan kios.
+STR_6661    :Acak semua
+STR_6662    :Mengacak warna untuk setiap kereta atau kendaraan.
+STR_6663    :Kode curang tanggal
+STR_6664    :Tampilkan cheat tanggal
+STR_6665    :Cheat alam/cuaca
+STR_6666    :Tampilkan cheat alam/cuaca
+STR_6667    :Fauna
+STR_6668    :Kecurangan staf
+STR_6669    :Tampilkan cheat staf
+STR_6670    :Perilaku pengunjung
+STR_6671    :Tampilkan nama asli staf
+STR_6672    :Beralih antara menampilkan nama asli staf dan nomor staf 
+STR_6673    :Transparan
+
+# Used as part of a sentence (see https://github.com/OpenRCT2/OpenRCT2/issues/22072).
+STR_6674    :{MONTH}, Tahun {KOMA16}
+STR_6675    :Peep Names
+STR_6676    :Setidaknya satu objek nama pengintip harus dipilih
+STR_6677    :Tambahkan pantai di sekitar badan air
+STR_6678    :Sumber peta ketinggian:
+STR_6679    :Dataran
+STR_6680    :Kebisingan Simplex
+STR_6681    :Berkas peta ketinggian
+STR_6682    :Generator Peta - Generator
+STR_6683    :Generator Peta - Medan
+STR_6684    :Generator Peta - Air
+STR_6685    :Generator Peta - Hutan
+STR_6686    :Rasio pohon terhadap lahan:
+STR_6687    :Ketinggian pohon minimum:
+STR_6688    :Ketinggian pohon maksimum:
+STR_6689    :{UINT16}%
+STR_6690    :Tinggi tanah minimum
+STR_6691    :Masukkan tinggi lahan minimum antara {COMMA16} dan {COMMA16}
+STR_6692    :Ketinggian tanah maksimum
+STR_6693    :Masukkan ketinggian tanah maksimum antara {COMMA16} dan {COMMA16}
+STR_6694    :Ketinggian pohon minimum
+STR_6695    :Masukkan ketinggian pohon minimum antara {COMMA16} dan {COMMA16}
+STR_6696    :Ketinggian pohon maksimum
+STR_6697    :Masukkan ketinggian pohon maksimum antara {COMMA16} dan {COMMA16}
+STR_6698    :Rasio pohon terhadap lahan
+STR_6699    :Masukkan rasio pohon terhadap lahan antara {COMMA16} dan {COMMA16}
+STR_6700    :Frekuensi Dasar Simplex
+STR_6701    :Masukkan Frekuensi Dasar antara {COMMA2DP32} dan {COMMA2DP32}
+STR_6702    :Oktaf Simpleks
+STR_6703    :Masukkan Oktaf antara {COMMA16} dan {COMMA16}
+STR_6704    :{COMMA2DP32}
+STR_6705    :Jelajahi...
+STR_6706    :{WINDOW_COLOUR_2}Berkas gambar saat ini:{BLACK}{STRING}
+STR_6707    :(tidak ada yang dipilih)
+STR_6708    :Kekuatan Halus
+STR_6709    :Masukkan Kekuatan Halus antara {COMMA16} dan {COMMA16}
+STR_6710    :Pengurutan stabil
+STR_6711    :Nama berkas:
+STR_6712    :Simpan
+STR_6713    :{COMMA32} {STRINGID}
+STR_6714    :Nama berkas
+STR_6715    :Tanggal dimodifikasi
+STR_6716    :Ukuran berkas
+STR_6717    :Ukuran berkas {STRINGID}
+STR_6718    :Animasi Peep
+STR_6719    :Setidaknya satu objek animasi pengintip pengunjung harus dipilih
+STR_6720    :Setidaknya satu objek animasi mengintip tukang harus dipilih
+STR_6721    :Setidaknya satu objek animasi pengintip mekanik harus dipilih
+STR_6722    :Setidaknya satu objek animasi pengintip keamanan harus dipilih
+STR_6723    :Setidaknya satu objek animasi penghibur harus dipilih 
+STR_6724    :Teks Skenario
+STR_6725    :X:
+STR_6726    :Y:
+STR_6727    :Putaran Menyelam (kiri)
+STR_6728    :Putaran Menyelam (kanan)
+STR_6729    :Tanjakan lift kabel harus dimulai segera setelah stasiun atau rem blok 
+STR_6730    :Ekspor data emscripten
+STR_6731    :Impor data emscripten
+STR_6732    :Tampilkan tombol di toolbar untuk memutar tampilan berlawanan arah jarum jam 
+STR_6733    :Tembus Pandang
+STR_6734    :Elemen peta yang berada pada atau di atas ketinggian pemotongan akan dibuat tembus pandang.
+STR_6735    :Kembali ke folder induk
+STR_6736    :Pratinjau
+STR_6737    :Pratinjau tidak tersedia
+STR_6738    :{WINDOW_COLOUR_2}Peringkat taman:{BLACK}{UINT16}
+STR_6739    :{WINDOW_COLOUR_2}Tanggal:{BLACK}{STRINGID}
+STR_6740    :{WINDOW_COLOUR_2}Tunai:{BLACK}{CURRENCY2DP}
+STR_6741    :{WINDOW_COLOUR_2}Jumlah perjalanan:{BLACK}{UINT16}
+STR_6742    :{WINDOW_COLOUR_2}Jumlah pengunjung:{BLACK}{UINT16}
+STR_6743    :Iklim
+STR_6744    :{WINDOW_COLOUR_2}{UINT16}%
+STR_6745    :{WINDOW_COLOUR_2}Preferensi intensitas pengunjung:
+STR_6746    :Tidak ada preferensi
+STR_6747    :Preferensi bervariasi (default)
+STR_6748    :Hanya wahana dengan intensitas lebih rendah
+STR_6749    :Hanya wahana yang lebih intens
+STR_6750    :Pilih jenis intensitas perjalanan yang disukai oleh pengunjung yang baru muncul.
+STR_6751    :Jalur antrean tidak dapat digunakan untuk perlintasan sebidang!
+STR_6752    :Opsi skenario - Tujuan
+STR_6753    :Opsi Skenario - Detail Skenario
+STR_6754    :Opsi Skenario - Pembatasan Lahan
+STR_6755    :Tampilkan opsi tujuan
+STR_6756    :Tampilkan opsi detail skenario
+STR_6757    :Tampilkan opsi pembatasan lahan
+STR_6758    :Opsi pinjaman
+STR_6759    :Model bisnis
+STR_6760    :Pendapatan:
+STR_6761    :Detail Skenario
+STR_6762    :Antarmuka
+STR_6763    :RollerCoaster Tycoon 1
+STR_6764    :Penyimpanan dan penyimpanan otomatis
+STR_6765    :Tingkat Lanjut
+STR_6766    :Hapus
+STR_6767    :Jendela
+STR_6768    :Rendering
+STR_6769    :Perilaku
+STR_6770    :Batas laju bingkai:
+STR_6771    :Kecepatan internal (default)
+STR_6772    :Sinkronisasi vertikal
+STR_6773    :Tidak Terbatas
+STR_6774    :Waktu sejak inspeksi terakhir
+STR_6775    :{COMMA16} menit
+STR_6776    :{COMMA16} menit
+STR_6777    :lebih dari 4 jam
+STR_6778    :Pratinjau skenario menggunakan:
+STR_6779    :Pilih jenis gambar pratinjau yang akan digunakan di layar pemilihan skenario.
+STR_6780    :Peta mini
+STR_6781    :Tangkapan Layar
+STR_6782    :Pemberitahuan taman
+STR_6783    :Pemberitahuan perjalanan
+STR_6784    :Pemberitahuan pengunjung
+STR_6785    :Gamepad
+STR_6786    :Zona Mati:
+STR_6787    :Zona mati stik analog (pergerakan minimum yang diperlukan)
+STR_6788    :Sensitivitas:
+STR_6789    :Pengganda sensitivitas stik analog
+STR_6790    :Zona Mati:{COMMA32}%
+STR_6791    :Sensitivitas:{COMMA32}%
+STR_6792    :Bangunan Pintu Masuk
+STR_6793    :pengunjung dan Staf
+STR_6794    :Pemandangan dan Tema
+STR_6795    :{MOVE_X}{10}{STRINGID}
+STR_6796    :’˘{MOVE_X}{10}{STRINGID}
+STR_6797    :Tidak ada pratinjau
+STR_6798    :Tangkapan layar
+STR_6799    :Peta mini
+STR_7000    :atau
+STR_7001    :Nama wahana
+STR_7002    :{STRINGID} {STRINGID}
+STR_7003    :Berkas audio ‘{STRING}’ terpotong. Sampel yang diharapkan adalah {INT32}, tetapi hanya {INT32} yang tersedia. Pertimbangkan untuk menginstal ulang RCT2.
+STR_7004    :Paksa Penggambaran Ulang
+STR_7005    :Seret area jalan setapak
+STR_7006    :Gambar batas di sekitar tombol gambar
+STR_7007    :Jenis Perjalanan
+STR_7008    :Jenis wahana tidak dikenal ({INT32})
+STR_7009    :Menerima skrip…
+STR_7010    :Tidak dapat memulai pemutaran ulang, file ‘{STRING}’ tidak ada atau tidak valid 
+STR_7011    :Tidak dapat memulai pemutaran ulang 
+STR_7012    :ZĹ‚oty Polandia (PLN)
+STR_7013    :Seret area jalur
+STR_7014    :Saya memiliki game ini di Steam, tetapi saya belum menginstalnya.
+STR_7015    :Silakan tutup Steam jika sedang berjalan, lalu klik “OK”.
+STR_7016    :OpenRCT2 telah mencoba memicu pengunduhan di Steam. Silakan buka Steam dan biarkan Steam mengunduh gim tersebut. Setelah Steam selesai, klik “OK”.
+STR_7017    :Keluar
+STR_7018    :{SPRITE}{MOVE_X}{17}{STRINGID}
+STR_7019    :{SPRITE}{MOVE_X}{27}{STRINGID}
+STR_7020    :{MOVE_X}{10}{SPRITE}{NEWLINE_SMALLER}{MOVE_X}{36}{STRINGID}
+STR_7021    :{MOVE_X}{10}{SPRITE}{NEWLINE_SMALLER}Â»{MOVE_X}{36}{STRINGID}
+STR_7022    :{STRING} - -
+STR_7023    :Membuat tak terlihat
+STR_7024    :Membuat seluruh wahana menjadi tidak terlihat
+STR_7025    :Jadikan terlihat
+STR_7026    :Membuat seluruh wahana terlihat
+STR_7027    :{MOVE_X}{29}{STRINGID}
+STR_7028    :Heliks Seperempat ke atas
+STR_7029    :Heliks Seperempat ke bawah
