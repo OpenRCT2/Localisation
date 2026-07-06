@@ -1931,13 +1931,13 @@ STR_2777    :{MOVE_X}{10}{STRING}
 STR_2778    :»{MOVE_X}{10}{STRING}
 # End of new strings
 STR_2779    :Cámara #{COMMA16}
-STR_2780    :Añadir ‘cámara de vigilancia’
+STR_2780    :Añadir vista adicional
 STR_2781    :{STRINGID}:
 STR_2782    :SHIFT + 
 STR_2783    :CTRL + 
 STR_2784    :Cambiar atajo de teclado
 STR_2785    :{WINDOW_COLOUR_2}Presiona nueva tecla para:{NEWLINE}“{STRINGID}”
-STR_2786    :Clic en la descripción del atajo para cambiar
+STR_2786    :Clic en la descripción del atajo para seleccionar una nueva tecla
 STR_2787    :{WINDOW_COLOUR_2}Valor del parque: {BLACK}{CURRENCY}
 STR_2788    :{WINDOW_COLOUR_2}¡Felicidades!{NEWLINE}{BLACK}¡Has conseguido el objetivo con un valor de la compañía de {CURRENCY}!
 STR_2789    :{WINDOW_COLOUR_2}¡No has conseguido tu objetivo!
@@ -1949,7 +1949,7 @@ STR_2794    :{WINDOW_COLOUR_2}Completado por: {BLACK}{STRINGID}{NEWLINE}{WINDOW_
 STR_2795    :Ordenar
 STR_2796    :Ordenar la lista de atracciones según el criterio seleccionado
 STR_2797    :Desplazar mapa con el ratón al borde de la pantalla
-STR_2798    :Desplazar la vista cuando el puntero del ratón esté en el borde de la ventana
+STR_2798    :Desplazar la vista cuando el puntero del ratón esté en el borde de la pantalla
 STR_2799    :Mirar o cambiar los atajos de teclado asignados
 STR_2800    :{WINDOW_COLOUR_2}Entradas: {BLACK}{COMMA32}
 STR_2801    :{WINDOW_COLOUR_2}Beneficios venta entradas: {BLACK}{CURRENCY2DP}
@@ -2016,7 +2016,7 @@ STR_2974    :Esquema de color alternativo 3
 STR_2975    :Selecciona el esquema de color a cambiar, o pinta la atracción con él
 STR_2976    :Pintar sólo un área de la atracción utilizando el esquema de color seleccionado
 STR_2977    :Nombrar personal
-STR_2978    :Escribe un nombre para este miembro
+STR_2978    :Escribe un nombre para este miembro del personal:
 STR_2979    :No se puede nombrar este miembro del personal…
 STR_2980    :Demasiadas banderas en juego
 STR_2981    :{RED}No pasar
@@ -2133,7 +2133,7 @@ STR_3143    :Mostrar visitantes en el mapa
 STR_3144    :Mostrar atracciones y puestos en el mapa
 STR_3160    :Selecciona el número de circuitos por paseo.
 STR_3162    :No se puede asignar memoria suficiente
-STR_3163    :Instalar nuevo dato: 
+STR_3163    :Instalar nuevo dato:
 STR_3164    :{BLACK}{COMMA16} seleccionados (máximo {COMMA16})
 STR_3167    :{WINDOW_COLOUR_2}Incluye: {BLACK}{COMMA16} objetos
 STR_3169    :Datos para el sig. objeto no encontrados: 
