@@ -271,7 +271,7 @@ STR_0892    :Captura de pantalla guardada como ‘{STRINGID}’
 STR_0893    :¡No se pudo tomar la Captura de pantalla!
 STR_0894    :¡Datos de paisaje lleno!
 STR_0895    :No se puede construir una parte arriba y otra bajo tierra
-STR_0896    :Construcción de {STRING} 
+STR_0896    :Construcción de {STRING}
 STR_0897    :Dirección
 STR_0898    :Curva izquierda
 STR_0899    :Curva derecha
@@ -288,8 +288,8 @@ STR_0909    :Rot. Asto.
 STR_0910    :Peraltar hacia la izquierda
 STR_0911    :Peraltar hacia la derecha
 STR_0912    :Sin peralte
-STR_0913    :Resalta el tramo anterior
-STR_0914    :Resalta el tramo posterior
+STR_0913    :Mover al tramo anterior
+STR_0914    :Mover al tramo siguiente
 STR_0915    :Construir tramo
 STR_0916    :Elimina el tramo resaltado
 STR_0917    :Caída vertical
@@ -329,7 +329,7 @@ STR_0950    :Cargar Partida
 STR_0951    :Salir del juego
 STR_0952    :Salir del juego
 STR_0953    :Cargar Paisaje
-STR_0955    :Angulo de rotación de asiento en este tramo
+STR_0955    :Ángulo de rotación de asiento en este tramo
 STR_0956    :-180°
 STR_0957    :-135°
 STR_0958    :-90°
@@ -711,10 +711,10 @@ STR_1339    :{BLACK}No hay resultados de prueba aún…
 STR_1340    :{WINDOW_COLOUR_2}Velocidad máxima: {BLACK}{VELOCITY}
 STR_1341    :{WINDOW_COLOUR_2}Tiempo de viaje: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1342    :{DURATION}
-STR_1343    :{DURATION} / 
+STR_1343    :{DURATION} /
 STR_1344    :{WINDOW_COLOUR_2}Longitud de viaje: {BLACK}{STRINGID}{STRINGID}{STRINGID}{STRINGID}
 STR_1345    :{LENGTH}
-STR_1346    :{LENGTH} / 
+STR_1346    :{LENGTH} /
 STR_1347    :{WINDOW_COLOUR_2}Velocidad media: {BLACK}{VELOCITY}
 STR_1348    :{WINDOW_COLOUR_2}Aceleración máx. vertical positiva: {BLACK}{COMMA2DP32}g
 STR_1349    :{WINDOW_COLOUR_2}Aceleración máx. vertical positiva: {OUTLINE}{RED}{COMMA2DP32}g
@@ -847,7 +847,7 @@ STR_1476    :{WINDOW_COLOUR_2}Nivel de intensidad: {BLACK}Aún no disponible
 STR_1477    :{WINDOW_COLOUR_2}Nivel de intensidad: {OUTLINE}{RED}{COMMA2DP32}  ({STRINGID})
 STR_1478    :{WINDOW_COLOUR_2}Nivel de náusea: {BLACK}{COMMA2DP32}  ({STRINGID})
 STR_1479    :{WINDOW_COLOUR_2}Nivel de náusea: {BLACK}Aún no disponible
-STR_1480    :“No puedo pagar para {STRINGID}”
+STR_1480    :“No puedo pagar {STRINGID}”
 STR_1481    :“He gastado todo mi dinero”
 STR_1482    :“Me siento mareado”
 STR_1483    :“Me siento muy mareado”
