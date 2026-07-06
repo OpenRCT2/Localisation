@@ -3315,13 +3315,13 @@ STR_6311    :{WINDOW_COLOUR_2}Siguiente: {BLACK}{INT32} {INT32} {INT32}
 STR_6312    :(superficie)
 STR_6313    :(declive {INT32})
 STR_6314    :{WINDOW_COLOUR_2}Dest: {BLACK}{INT32}, {INT32} tolerancia {INT32}
-STR_6315    :{WINDOW_COLOUR_2}Pathfind objetivo: {BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
+STR_6315    :{WINDOW_COLOUR_2}Pathfind Goal: {BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
 STR_6316    :{WINDOW_COLOUR_2}Pathfind historial:
 STR_6317    :{BLACK}{INT32}, {INT32}, {INT32} dir {INT32}
-STR_6318    :Desincronización detectada.{NEWLINE}Log: {STRING}
+STR_6318    :Desincronización detectada.{NEWLINE}Archivo de registro: {STRING}
 STR_6319    :Bloque de frenado cerrado
 STR_6320    :Indestructible
-STR_6321    :Agregado está roto
+STR_6321    :Adición está rota
 STR_6322    :{WINDOW_COLOUR_2}ID de la Entidad: {BLACK}{INT32}
 STR_6323    :Simulando
 STR_6324    :Simular
