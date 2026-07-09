@@ -20,7 +20,7 @@ jobs:
       - name: get en-GB.txt (curl)
         run: |
           mkdir -p OpenRCT2/data/language
-          curl -sSL https://raw.githubusercontent.com/OpenRCT2/OpenRCT2/develop/data/language/en-GB.txt -o OpenRCT2/data/language/en-GB.txt
+          curl -sSLf https://raw.githubusercontent.com/OpenRCT2/OpenRCT2/develop/data/language/en-GB.txt -o OpenRCT2/data/language/en-GB.txt
 
       - name: Checkout translations before PR changes (for comparsion)
         uses: actions/checkout@v4
