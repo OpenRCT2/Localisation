@@ -635,6 +635,10 @@
         "reference-name": "Iron",
         "name": "Järn"
     },
+    "rct1.water.natural_water": {
+        "reference-name": "Natural Water",
+        "name": "Naturligt vatten"
+    },
     "rct1aa.footpath_surface.ash": {
         "reference-name": "Ash Footpath (Square)",
         "name": "Gångväg av aska"
@@ -1108,8 +1112,8 @@
         "name": "Wildflowers"
     },
     "rct1dlc.scenario_meta.bobsled_roller_coaster_competition": {
-        "reference-name": "Bobsled Roller Coaster Competition",
-        "name": "Bobsled Roller Coaster Competition",
+        "reference-name": "Bobsleigh Roller Coaster Competition",
+        "name": "Bobsleigh Roller Coaster Competition",
         "reference-park_name": "Competition Land",
         "park_name": "Competition Land",
         "reference-details": "",
@@ -3276,9 +3280,9 @@
         "details": "Skapa din egen version av det här omfattande Six Flags-nöjesfältet"
     },
     "rct2.scenario_meta.build_your_own_six_flags_over_texas": {
-        "reference-name": "Build your own Six Flags over Texas",
+        "reference-name": "Build your own Six Flags Over Texas",
         "name": "Bygg ditt eget Six Flags över Texas",
-        "reference-park_name": "Six Flags over Texas",
+        "reference-park_name": "Six Flags Over Texas",
         "park_name": "Six Flags över Texas",
         "reference-details": "Starting from scratch, build the rides in this Six Flags park",
         "details": "Börja från början, bygg attraktionerna på det här Six Flags-nöjesfältet"
@@ -3420,9 +3424,9 @@
         "details": "Bygg de Six Flags-attraktionerna som saknas eller skapa dina egna för att förbättra parken! Men glöm inte bort ditt syfte – Att betala tillbaka dina lån medan du håller parkens värde uppe!"
     },
     "rct2.scenario_meta.six_flags_over_texas": {
-        "reference-name": "Six Flags over Texas",
+        "reference-name": "Six Flags Over Texas",
         "name": "Six Flags över Texas",
-        "reference-park_name": "Six Flags over Texas",
+        "reference-park_name": "Six Flags Over Texas",
         "park_name": "Six Flags över Texas",
         "reference-details": "Build the missing Six Flags rides, or create your own designs to improve the park! But don’t forget your ultimate aim: to attract more guests to the park!",
         "details": "Bygg de Six Flags-attraktionerna som saknas eller skapa dina egna för att förbättra parken! Men glöm inte bort ditt syfte – Att locka fler besökare till parken"
@@ -5707,11 +5711,19 @@
         "reference-name": "Acid Green Water",
         "name": "Mintgrönt vatten"
     },
+    "rct2.water.wtrgreen_fix": {
+        "reference-name": "Acid Green Water",
+        "name": "Mintgrönt vatten"
+    },
     "rct2.water.wtrgrn": {
         "reference-name": "Green Water",
         "name": "Grönt vatten"
     },
     "rct2.water.wtrorng": {
+        "reference-name": "Orange Water",
+        "name": "Orange vatten"
+    },
+    "rct2.water.wtrorng_fix": {
         "reference-name": "Orange Water",
         "name": "Orange vatten"
     },
@@ -5748,6 +5760,10 @@
         "name": "Bambuskott"
     },
     "rct2dlc.water.wtrpink": {
+        "reference-name": "Pink Water",
+        "name": "Rosa vatten"
+    },
+    "rct2dlc.water.wtrpink_fix": {
         "reference-name": "Pink Water",
         "name": "Rosa vatten"
     },
@@ -9112,9 +9128,9 @@
         "details": "Du har blivit erbjuden att ta över en europeisk turistattraktion, men måste öka besöksfrekvensen för att kunna betala tillbaka ett EU-lån innan det europeiska parlamentet tar sommarlov."
     },
     "rct2ww.scenario_meta.from_the_ashes": {
-        "reference-name": "From The Ashes",
+        "reference-name": "From the Ashes",
         "name": "Ur askan",
-        "reference-park_name": "From The Ashes",
+        "reference-park_name": "From the Ashes",
         "park_name": "Ur askan",
         "reference-details": "An old park has fallen into disrepair. You gain a European Union grant to return this deprived area to its former glory! You need to renovate the park and repay the grant.",
         "details": "Ett gammalt nöjesfält har förfallit. Du har beviljats ett EU-lån för att kunna återställa det nedgångna området till sin forna prakt. Du måste renovera nöjesfältet och betala tillbaka lånet."
@@ -9168,9 +9184,9 @@
         "details": "Ett nöjesfält behöver mer plats. Din enda möjlighet är att ta ett lån och bygga ut mot havet. Höjdrestriktioner råder på grund av jordbävningsfaran."
     },
     "rct2ww.scenario_meta.over_the_edge": {
-        "reference-name": "Over The Edge",
+        "reference-name": "Over the Edge",
         "name": "Över kanten",
-        "reference-park_name": "Over The Edge",
+        "reference-park_name": "Over the Edge",
         "park_name": "Över kanten",
         "reference-details": "A dam has been built offering abundant, cheap hydroelectric power with which to run a park. You need to reach a high park value to help repay the loan for the dam.",
         "details": "En nybyggd damm ger tillräckligt med billig vattenkraft för att kunna driva ett nöjesfält. Du måste dock uppnå ett högt parkvärde för att kunna betala tillbaka lånet för dammen."
@@ -9272,20 +9288,20 @@
         "name": "Sidoskorsten för timmerkoja"
     },
     "rct2ww.scenery_large.1x4brg01": {
-        "reference-name": "Suspension Bridge Start side 1",
-        "name": "Startsida för hängbro 1"
+        "reference-name": "Suspension Bridge Start side",
+        "name": "Startsida för hängbro"
     },
     "rct2ww.scenery_large.1x4brg02": {
-        "reference-name": "Suspension Bridge Start side 2",
-        "name": "Startsida för hängbro 2"
+        "reference-name": "Suspension Bridge Start side",
+        "name": "Startsida för hängbro"
     },
     "rct2ww.scenery_large.1x4brg03": {
-        "reference-name": "Suspension Bridge Tower side 1",
-        "name": "Tornsida för hängbro 1"
+        "reference-name": "Suspension Bridge Tower side",
+        "name": "Tornsida för hängbro"
     },
     "rct2ww.scenery_large.1x4brg04": {
-        "reference-name": "Suspension Bridge Tower side 2",
-        "name": "Tornsida för hängbro 2"
+        "reference-name": "Suspension Bridge Tower side",
+        "name": "Tornsida för hängbro"
     },
     "rct2ww.scenery_large.1x4brg05": {
         "reference-name": "Suspension Bridge Cable Section",
@@ -9296,12 +9312,12 @@
         "name": "Djungelträd med leoparder"
     },
     "rct2ww.scenery_large.3x3atre1": {
-        "reference-name": "Jungle Tree 2",
-        "name": "Djungelträd 2"
+        "reference-name": "Jungle Tree",
+        "name": "Djungelträd"
     },
     "rct2ww.scenery_large.3x3atre2": {
-        "reference-name": "Jungle Tree 1",
-        "name": "Djungelträd 1"
+        "reference-name": "Jungle Tree",
+        "name": "Djungelträd"
     },
     "rct2ww.scenery_large.3x3atre3": {
         "reference-name": "Jungle Tree with Vines",
@@ -9380,12 +9396,12 @@
         "name": "Cirkus"
     },
     "rct2ww.scenery_large.cowboy01": {
-        "reference-name": "Cowboy 1",
-        "name": "Cowboy 1"
+        "reference-name": "Cowboy",
+        "name": "Cowboy"
     },
     "rct2ww.scenery_large.cowboy02": {
-        "reference-name": "Cowboy 2",
-        "name": "Cowboy 2"
+        "reference-name": "Cowboy",
+        "name": "Cowboy"
     },
     "rct2ww.scenery_large.damtower": {
         "reference-name": "Dam Tower",
@@ -9397,7 +9413,7 @@
     },
     "rct2ww.scenery_large.easerlnd": {
         "reference-name": "Easter Island Statue",
-        "name": "Påskö-staty 1"
+        "name": "Påskö-staty"
     },
     "rct2ww.scenery_large.eiffel": {
         "reference-name": "Eiffel Tower",
@@ -9412,24 +9428,24 @@
         "name": "Fet Buddha"
     },
     "rct2ww.scenery_large.gdstaue1": {
-        "reference-name": "Gold Statue 1",
-        "name": "Guldstaty 1"
+        "reference-name": "Gold Statue",
+        "name": "Guldstaty"
     },
     "rct2ww.scenery_large.gdstaue2": {
-        "reference-name": "Gold Statue 2",
-        "name": "Guldstaty 2"
+        "reference-name": "Gold Statue",
+        "name": "Guldstaty"
     },
     "rct2ww.scenery_large.geisha": {
         "reference-name": "Geisha",
         "name": "Geisha"
     },
     "rct2ww.scenery_large.giraffe1": {
-        "reference-name": "Giraffe 1",
-        "name": "Giraff 1"
+        "reference-name": "Giraffe",
+        "name": "Giraff"
     },
     "rct2ww.scenery_large.giraffe2": {
-        "reference-name": "Giraffe 2",
-        "name": "Giraff 2"
+        "reference-name": "Giraffe",
+        "name": "Giraff"
     },
     "rct2ww.scenery_large.goldbuda": {
         "reference-name": "Golden Buddha",
@@ -9452,12 +9468,12 @@
         "name": "Helikopterplatta"
     },
     "rct2ww.scenery_large.hippo01": {
-        "reference-name": "Hippo 1",
-        "name": "Flodhäst 1"
+        "reference-name": "Hippo",
+        "name": "Flodhäst"
     },
     "rct2ww.scenery_large.hippo02": {
-        "reference-name": "Hippo 2",
-        "name": "Flodhäst 2"
+        "reference-name": "Hippo",
+        "name": "Flodhäst"
     },
     "rct2ww.scenery_large.icefor01": {
         "reference-name": "Ice Formation",
@@ -9473,7 +9489,7 @@
     },
     "rct2ww.scenery_large.largeju1": {
         "reference-name": "Large Rainforest Tree",
-        "name": "Regnskogsträd 4"
+        "name": "Regnskogsträd"
     },
     "rct2ww.scenery_large.lincolns": {
         "reference-name": "Washington Statue",
@@ -9532,24 +9548,24 @@
         "name": "Redwoodträd"
     },
     "rct2ww.scenery_large.rkreml08": {
-        "reference-name": "Kremlin Large Tower Base",
+        "reference-name": "St. Basil’s Cathedral Large Tower Base",
         "name": "Bas till stort Kreml-torn"
     },
     "rct2ww.scenery_large.rkreml09": {
-        "reference-name": "Kremlin Large Tower Top",
+        "reference-name": "St. Basil’s Cathedral Large Tower Top",
         "name": "Topp till stort Kreml-torn"
     },
     "rct2ww.scenery_large.rkreml10": {
-        "reference-name": "Kremlin Large Tower Mid-Section",
+        "reference-name": "St. Basil’s Cathedral Large Tower Mid-Section",
         "name": "Mittparti till stort Kreml-torn"
     },
     "rct2ww.scenery_large.rtudor05": {
-        "reference-name": "Tudor Roof Piece 3",
-        "name": "Tudor-takdel 3"
+        "reference-name": "Tudor Roof Piece",
+        "name": "Tudor-takdel"
     },
     "rct2ww.scenery_large.rtudor06": {
-        "reference-name": "Tudor Roof Piece 4",
-        "name": "Tudor-takdel 4"
+        "reference-name": "Tudor Roof Piece",
+        "name": "Tudor-takdel"
     },
     "rct2ww.scenery_large.shiva": {
         "reference-name": "Shiva",
@@ -9612,12 +9628,12 @@
         "name": "Emu"
     },
     "rct2ww.scenery_small.1x1jugt2": {
-        "reference-name": "Small Rainforest Tree 1",
-        "name": "Litet regnskogsträd 1"
+        "reference-name": "Small Rainforest Tree",
+        "name": "Litet regnskogsträd"
     },
     "rct2ww.scenery_small.1x1jugt3": {
-        "reference-name": "Small Rainforest Tree 2",
-        "name": "Litet regnskogsträd 2"
+        "reference-name": "Small Rainforest Tree",
+        "name": "Litet regnskogsträd"
     },
     "rct2ww.scenery_small.1x1kanga": {
         "reference-name": "Kangaroo",
@@ -9712,12 +9728,12 @@
         "name": "Flamingo som putsar fjädrarna"
     },
     "rct2ww.scenery_small.fountarc": {
-        "reference-name": "Australian Fountain Set 2",
-        "name": "Australiensisk fontän 2"
+        "reference-name": "Australian Fountain Set",
+        "name": "Australiensisk fontän"
     },
     "rct2ww.scenery_small.fountrow": {
-        "reference-name": "Australian Fountain Set 1",
-        "name": "Australiensisk fontän 1"
+        "reference-name": "Australian Fountain Set",
+        "name": "Australiensisk fontän"
     },
     "rct2ww.scenery_small.fstatue1": {
         "reference-name": "Fixed Statue",
@@ -9872,16 +9888,16 @@
         "name": "Platt röd hörntakdel"
     },
     "rct2ww.scenery_small.rbrick05": {
-        "reference-name": "Red Brick Roof Piece 2",
-        "name": "Röd tegeltakdel 2"
+        "reference-name": "Red Brick Roof Piece",
+        "name": "Röd tegeltakdel"
     },
     "rct2ww.scenery_small.rbrick07": {
-        "reference-name": "Red Brick Roof Piece 3",
-        "name": "Röd tegeltakdel 3"
+        "reference-name": "Red Brick Roof Piece",
+        "name": "Röd tegeltakdel"
     },
     "rct2ww.scenery_small.rbrick08": {
-        "reference-name": "Red Brick Roof Piece 1",
-        "name": "Röd tegeltakdel 1"
+        "reference-name": "Red Brick Roof Piece",
+        "name": "Röd tegeltakdel"
     },
     "rct2ww.scenery_small.rcorr01": {
         "reference-name": "Corrugated Roof Piece",
@@ -9924,7 +9940,7 @@
         "name": "Del av korrugerat tak"
     },
     "rct2ww.scenery_small.rdrab05": {
-        "reference-name": "Drab Small Tower Minaret Base",
+        "reference-name": "Drab Small Tower Dome Base",
         "name": "Gråbrun bas för litet minarettorn"
     },
     "rct2ww.scenery_small.rdrab06": {
@@ -9936,111 +9952,111 @@
         "name": "Gråbrun liten tornbas"
     },
     "rct2ww.scenery_small.rdrab08": {
-        "reference-name": "Drab Minaret Piece 1",
-        "name": "Gråbrun minaretdel 1"
+        "reference-name": "Drab Dome Piece",
+        "name": "Gråbrun minaretdel"
     },
     "rct2ww.scenery_small.rdrab09": {
-        "reference-name": "Drab Minaret Piece 2",
-        "name": "Gråbrun minaretdel 2"
+        "reference-name": "Drab Dome Piece",
+        "name": "Gråbrun minaretdel"
     },
     "rct2ww.scenery_small.rdrab10": {
-        "reference-name": "Drab Minaret Piece 3",
-        "name": "Gråbrun minaretdel 3"
+        "reference-name": "Drab Dome Piece",
+        "name": "Gråbrun minaretdel"
     },
     "rct2ww.scenery_small.rdrab11": {
-        "reference-name": "Drab Roof Piece 1",
-        "name": "Gråbrun takdel 1"
+        "reference-name": "Drab Flat Roof Piece",
+        "name": "Gråbrun takdel"
     },
     "rct2ww.scenery_small.rdrab12": {
-        "reference-name": "Drab Roof Piece 2",
-        "name": "Gråbrun takdel 2"
+        "reference-name": "Drab Flat Roof Piece",
+        "name": "Gråbrun takdel"
     },
     "rct2ww.scenery_small.rdrab13": {
-        "reference-name": "Drab Roof Piece 3",
-        "name": "Gråbrun takdel 3"
+        "reference-name": "Drab Flat Roof Piece",
+        "name": "Gråbrun takdel"
     },
     "rct2ww.scenery_small.rdrab14": {
-        "reference-name": "Drab Roof Piece 4",
-        "name": "Gråbrun takdel 4"
+        "reference-name": "Drab Flat Roof Piece",
+        "name": "Gråbrun takdel"
     },
     "rct2ww.scenery_small.rgeorg01": {
-        "reference-name": "Georgian Roof End Piece 1",
-        "name": "Slutdel för georgianskt tak 1"
+        "reference-name": "Georgian Roof End Piece",
+        "name": "Slutdel för georgianskt tak"
     },
     "rct2ww.scenery_small.rgeorg02": {
-        "reference-name": "Georgian Roof End Piece 2",
-        "name": "Slutdel för georgianskt tak 2"
+        "reference-name": "Georgian Roof End Piece",
+        "name": "Slutdel för georgianskt tak"
     },
     "rct2ww.scenery_small.rgeorg03": {
-        "reference-name": "Georgian Roof Piece 1",
-        "name": "Georgiansk takdel 1"
+        "reference-name": "Georgian Roof Piece",
+        "name": "Georgiansk takdel"
     },
     "rct2ww.scenery_small.rgeorg04": {
-        "reference-name": "Georgian Roof Piece 2",
-        "name": "Georgiansk takdel 2"
+        "reference-name": "Georgian Roof Piece",
+        "name": "Georgiansk takdel"
     },
     "rct2ww.scenery_small.rgeorg05": {
-        "reference-name": "Georgian Roof Piece 3",
-        "name": "Georgiansk takdel 3"
+        "reference-name": "Georgian Roof Piece",
+        "name": "Georgiansk takdel"
     },
     "rct2ww.scenery_small.rgeorg06": {
-        "reference-name": "Georgian Roof Piece 4",
-        "name": "Georgiansk takdel 4"
+        "reference-name": "Georgian Roof Piece",
+        "name": "Georgiansk takdel"
     },
     "rct2ww.scenery_small.rgeorg07": {
-        "reference-name": "Georgian Roof Piece 5",
-        "name": "Georgiansk takdel 5"
+        "reference-name": "Georgian Roof Piece",
+        "name": "Georgiansk takdel"
     },
     "rct2ww.scenery_small.rgeorg08": {
-        "reference-name": "Georgian Ground Floor Wall Piece 7",
-        "name": "Georgiansk takdel 6"
+        "reference-name": "Georgian Ground Floor Wall Piece",
+        "name": "Georgiansk takdel"
     },
     "rct2ww.scenery_small.rgeorg09": {
-        "reference-name": "Georgian Flat Roof Edge 1",
-        "name": "Georgiansk platt tak-kant 1"
+        "reference-name": "Georgian Flat Roof Edge",
+        "name": "Georgiansk platt tak-kant"
     },
     "rct2ww.scenery_small.rgeorg10": {
-        "reference-name": "Georgian Flat Roof Edge 2",
-        "name": "Georgiansk platt tak-kant 2"
+        "reference-name": "Georgian Flat Roof Edge",
+        "name": "Georgiansk platt tak-kant"
     },
     "rct2ww.scenery_small.rgeorg11": {
         "reference-name": "Georgian Flat Roof Corner",
         "name": "Georgianskt platt takhörn"
     },
     "rct2ww.scenery_small.rgeorg12": {
-        "reference-name": "Georgian Roof Piece 7",
-        "name": "Georgiansk takdel 7"
+        "reference-name": "Georgian Roof Piece",
+        "name": "Georgiansk takdel"
     },
     "rct2ww.scenery_small.rkreml01": {
-        "reference-name": "Kremlin Minaret Piece 1",
-        "name": "Del 1 till Kreml-minarettorn"
-    },
-    "rct2ww.scenery_small.rkreml02": {
-        "reference-name": "Kremlin Minaret Piece 2",
-        "name": "Del 2 till Kreml-minarettorn"
-    },
-    "rct2ww.scenery_small.rkreml03": {
-        "reference-name": "Kremlin Minaret Piece 3",
-        "name": "Del 3 till Kreml-minarettorn"
-    },
-    "rct2ww.scenery_small.rkreml04": {
-        "reference-name": "Kremlin Roof Piece 1",
+        "reference-name": "St. Basil’s Cathedral Flat Roof Piece",
         "name": "Takdel 1 till Kreml-torn"
     },
-    "rct2ww.scenery_small.rkreml05": {
-        "reference-name": "Kremlin Roof Piece 2",
+    "rct2ww.scenery_small.rkreml02": {
+        "reference-name": "St. Basil’s Cathedral Flat Roof Piece",
         "name": "Takdel 2 till Kreml-torn"
     },
+    "rct2ww.scenery_small.rkreml03": {
+        "reference-name": "St. Basil’s Cathedral Dome Piece",
+        "name": "Del 2 till Kreml-minarettorn"
+    },
+    "rct2ww.scenery_small.rkreml04": {
+        "reference-name": "St. Basil’s Cathedral Dome Piece",
+        "name": "Del 3 till Kreml-minarettorn"
+    },
+    "rct2ww.scenery_small.rkreml05": {
+        "reference-name": "St. Basil’s Cathedral Dome Piece",
+        "name": "Del 1 till Kreml-minarettorn"
+    },
     "rct2ww.scenery_small.rkreml06": {
-        "reference-name": "Kremlin Small Tower Mid-Section",
+        "reference-name": "St. Basil’s Cathedral Small Tower Mid-Section",
         "name": "Mittparti till litet Kreml-torn"
     },
     "rct2ww.scenery_small.rkreml07": {
-        "reference-name": "Kremlin Small Tower Base",
+        "reference-name": "St. Basil’s Cathedral Small Tower Base",
         "name": "Bas till litet Kreml-torn"
     },
     "rct2ww.scenery_small.rkreml11": {
-        "reference-name": "Kremlin Small Tower Minaret Base",
+        "reference-name": "St. Basil’s Cathedral Small Tower Dome Base",
         "name": "Bas för litet Kreml-torn"
     },
     "rct2ww.scenery_small.rlog01": {
@@ -10152,16 +10168,16 @@
         "name": "Shōji-tak"
     },
     "rct2ww.scenery_small.rtudor01": {
-        "reference-name": "Tudor Roof Piece 1",
-        "name": "Tudor-takdel 1"
+        "reference-name": "Tudor Roof Piece",
+        "name": "Tudor-takdel"
     },
     "rct2ww.scenery_small.rtudor02": {
-        "reference-name": "Tudor Roof Piece 1 Extender Piece",
+        "reference-name": "Tudor Roof Extender Piece",
         "name": "Tudor-takdel 1 förlängning"
     },
     "rct2ww.scenery_small.rtudor03": {
-        "reference-name": "Tudor Roof Piece 2",
-        "name": "Tudor-takdel 2"
+        "reference-name": "Tudor Roof Piece",
+        "name": "Tudor-takdel"
     },
     "rct2ww.scenery_small.rwdaub01": {
         "reference-name": "Wattle & Daub Roof",
@@ -10268,24 +10284,24 @@
         "name": "Hissdel till skyskrapa"
     },
     "rct2ww.scenery_small.sbskys05": {
-        "reference-name": "Skyscraper Metal Set 1 Convex Piece",
-        "name": "Konvex del till metallskrapa 1"
+        "reference-name": "Skyscraper Metal Set Convex Piece",
+        "name": "Konvex del till metallskrapa"
     },
     "rct2ww.scenery_small.sbskys06": {
-        "reference-name": "Skyscraper Metal Set 1 Concave Piece",
-        "name": "Konkav del till metallskrapa 1"
+        "reference-name": "Skyscraper Metal Set Concave Piece",
+        "name": "Konkav del till metallskrapa"
     },
     "rct2ww.scenery_small.sbskys07": {
-        "reference-name": "Skyscraper Metal Set 2 Convex Piece",
-        "name": "Konvex del till metallskrapa 2"
+        "reference-name": "Skyscraper Metal Set Convex Piece",
+        "name": "Konvex del till metallskrapa"
     },
     "rct2ww.scenery_small.sbskys08": {
-        "reference-name": "Skyscraper Metal Set 2 Concave Piece",
-        "name": "Konkav del till metallskrapa 2"
+        "reference-name": "Skyscraper Metal Set Concave Piece",
+        "name": "Konkav del till metallskrapa"
     },
     "rct2ww.scenery_small.sbskys09": {
-        "reference-name": "Skyscraper Metal Set 2 Concave Piece",
-        "name": "Konkav del till metallskrapa 2"
+        "reference-name": "Skyscraper Metal Set Concave Piece",
+        "name": "Konkav del till metallskrapa"
     },
     "rct2ww.scenery_small.sbskys10": {
         "reference-name": "Skyscraper Concave Piece",
@@ -10784,72 +10800,72 @@
         "name": "Monument fontän"
     },
     "rct2ww.scenery_small.wdrab09": {
-        "reference-name": "Drab Step-up Piece 1",
-        "name": "Gråbrun trappa 1"
+        "reference-name": "Drab Step-up Piece",
+        "name": "Gråbrun trappa"
     },
     "rct2ww.scenery_small.wdrab10": {
-        "reference-name": "Drab Wall Piece 9",
-        "name": "Gråbrun väggdel 9"
+        "reference-name": "Drab Wall Piece",
+        "name": "Gråbrun väggdel"
     },
     "rct2ww.scenery_small.wdrab11": {
-        "reference-name": "Drab Wall Piece 10",
-        "name": "Gråbrun väggdel 10"
+        "reference-name": "Drab Wall Piece",
+        "name": "Gråbrun väggdel"
     },
     "rct2ww.scenery_small.wdrab12": {
-        "reference-name": "Drab Wall Piece 11",
-        "name": "Gråbrun väggdel 11"
+        "reference-name": "Drab Wall Piece",
+        "name": "Gråbrun väggdel"
     },
     "rct2ww.scenery_small.wdrab13": {
-        "reference-name": "Drab Step-up Piece 2",
-        "name": "Gråbrun trappa 2"
+        "reference-name": "Drab Step-up Piece",
+        "name": "Gråbrun trappa"
     },
     "rct2ww.scenery_small.wgeorg07": {
-        "reference-name": "Georgian Ground Floor Wall Piece 4",
-        "name": "Georgiansk väggdel för nedre våning 4"
+        "reference-name": "Georgian Ground Floor Wall Piece",
+        "name": "Georgiansk väggdel för nedre våning"
     },
     "rct2ww.scenery_small.wgeorg08": {
-        "reference-name": "Georgian Ground Floor Wall Piece 5",
-        "name": "Georgiansk väggdel för nedre våning 5"
+        "reference-name": "Georgian Ground Floor Wall Piece",
+        "name": "Georgiansk väggdel för nedre våning"
     },
     "rct2ww.scenery_small.wgeorg09": {
-        "reference-name": "Georgian Ground Floor Wall Piece 6",
-        "name": "Georgiansk väggdel för nedre våning 6"
+        "reference-name": "Georgian Ground Floor Wall Piece",
+        "name": "Georgiansk väggdel för nedre våning"
     },
     "rct2ww.scenery_small.wgeorg10": {
-        "reference-name": "Georgian Wall Piece 4",
-        "name": "Georgiansk väggdel 4"
+        "reference-name": "Georgian Wall Piece",
+        "name": "Georgiansk väggdel"
     },
     "rct2ww.scenery_small.wgeorg11": {
-        "reference-name": "Georgian Wall Piece 5",
-        "name": "Georgiansk väggdel 5"
+        "reference-name": "Georgian Wall Piece",
+        "name": "Georgiansk väggdel"
     },
     "rct2ww.scenery_small.wgeorg12": {
-        "reference-name": "Georgian Wall Piece 6",
-        "name": "Georgiansk väggdel 6"
+        "reference-name": "Georgian Wall Piece",
+        "name": "Georgiansk väggdel"
     },
     "rct2ww.scenery_small.wkreml01": {
-        "reference-name": "Kremlin Step-up Wall Piece 1",
+        "reference-name": "St. Basil’s Cathedral Step-up Wall Piece",
         "name": "Trappa 1 till Kreml-mur"
     },
     "rct2ww.scenery_small.wkreml02": {
-        "reference-name": "Kremlin Step-up Wall Piece 2",
+        "reference-name": "St. Basil’s Cathedral Step-up Wall Piece",
         "name": "Trappa 2 till Kreml-mur"
     },
     "rct2ww.scenery_small.wkreml03": {
-        "reference-name": "Kremlin Wall Piece 1",
-        "name": "Kreml-mur del 1"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Kreml-mur del"
     },
     "rct2ww.scenery_small.wkreml04": {
-        "reference-name": "Kremlin Wall Piece 2",
-        "name": "Kreml-mur del 2"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Kreml-mur del"
     },
     "rct2ww.scenery_small.wkreml05": {
-        "reference-name": "Kremlin Wall Piece 3",
-        "name": "Kreml-mur del 3"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Kreml-mur del"
     },
     "rct2ww.scenery_small.wkreml06": {
-        "reference-name": "Kremlin Wall Piece 4",
-        "name": "Kreml-mur del 4"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Kreml-mur del"
     },
     "rct2ww.scenery_small.wmayan01": {
         "reference-name": "Lost City Wall Piece",
@@ -10980,40 +10996,40 @@
         "name": "Nautiskt takräcke"
     },
     "rct2ww.scenery_small.wtudor12": {
-        "reference-name": "Tudor Wall Piece 4",
-        "name": "Tudor-väggdel 4"
+        "reference-name": "Tudor Wall Piece",
+        "name": "Tudor-väggdel"
     },
     "rct2ww.scenery_small.wtudor13": {
         "reference-name": "Tudor Ground Bay Wall Piece",
         "name": "Tudor-väggdel för nedre burspråk"
     },
     "rct2ww.scenery_small.wtudor14": {
-        "reference-name": "Tudor Ground Floor Wall Piece 1",
-        "name": "Tudor-väggdel för nedre våning 1"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Tudor-väggdel för nedre våning"
     },
     "rct2ww.scenery_small.wtudor15": {
-        "reference-name": "Tudor Ground Floor Wall Piece 2",
-        "name": "Tudor-väggdel för nedre våning 2"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Tudor-väggdel för nedre våning"
     },
     "rct2ww.scenery_small.wtudor16": {
-        "reference-name": "Tudor Ground Floor Wall Piece 3",
-        "name": "Tudor-väggdel för nedre våning 3"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Tudor-väggdel för nedre våning"
     },
     "rct2ww.scenery_small.wtudor17": {
-        "reference-name": "Tudor Ground Floor Wall Piece 4",
-        "name": "Tudor-väggdel för nedre våning 4"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Tudor-väggdel för nedre våning"
     },
     "rct2ww.scenery_small.wtudor18": {
-        "reference-name": "Tudor Ground Floor Wall Piece 5",
-        "name": "Tudor-väggdel för nedre våning 5"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Tudor-väggdel för nedre våning"
     },
     "rct2ww.scenery_wall.tmarch1": {
-        "reference-name": "Maharaja Palace Arch 1",
-        "name": "Maharadjans palats, båge 1"
+        "reference-name": "Maharaja Palace Arch",
+        "name": "Maharadjans palats, båge"
     },
     "rct2ww.scenery_wall.tmarch2": {
-        "reference-name": "Maharaja Palace Arch 2",
-        "name": "Maharadjans palats, båge 2"
+        "reference-name": "Maharaja Palace Arch",
+        "name": "Maharadjans palats, båge"
     },
     "rct2ww.scenery_wall.w2corr01": {
         "reference-name": "Corrugated Wall Piece",
@@ -11224,40 +11240,40 @@
         "name": "Bambuvägg"
     },
     "rct2ww.scenery_wall.wbrick01": {
-        "reference-name": "Red Brick Wall Piece 1",
-        "name": "Röd tegelväggdel 1"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Röd tegelväggdel"
     },
     "rct2ww.scenery_wall.wbrick02": {
-        "reference-name": "Red Brick Wall Piece 2",
-        "name": "Röd tegelväggdel 2"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Röd tegelväggdel"
     },
     "rct2ww.scenery_wall.wbrick03": {
-        "reference-name": "Red Brick Wall Piece 3",
-        "name": "Röd tegelväggdel 3"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Röd tegelväggdel"
     },
     "rct2ww.scenery_wall.wbrick04": {
-        "reference-name": "Red Brick Wall Piece 4",
-        "name": "Röd tegelväggdel 4"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Röd tegelväggdel"
     },
     "rct2ww.scenery_wall.wbrick05": {
-        "reference-name": "Red Brick Wall Piece 5",
-        "name": "Röd tegelväggdel 5"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Röd tegelväggdel"
     },
     "rct2ww.scenery_wall.wbrick08": {
-        "reference-name": "Red Brick Wall Piece 8",
-        "name": "Röd tegelväggdel 8"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Röd tegelväggdel"
     },
     "rct2ww.scenery_wall.wbrick11": {
-        "reference-name": "Red Brick Wall Piece 11",
-        "name": "Röd tegelväggdel 11"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Röd tegelväggdel"
     },
     "rct2ww.scenery_wall.wbrick12": {
-        "reference-name": "Red Brick Wall Piece 12",
-        "name": "Röd tegelväggdel 12"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Röd tegelväggdel"
     },
     "rct2ww.scenery_wall.wbrick13": {
-        "reference-name": "Red Brick Wall Piece 13",
-        "name": "Röd tegelväggdel 13"
+        "reference-name": "Red Brick Wall Piece",
+        "name": "Röd tegelväggdel"
     },
     "rct2ww.scenery_wall.wcorr01": {
         "reference-name": "Corrugated Wall Piece",
@@ -11324,60 +11340,60 @@
         "name": "Del av kurrogerad vägg"
     },
     "rct2ww.scenery_wall.wdrab01": {
-        "reference-name": "Drab Wall Piece 1",
-        "name": "Gråbrun väggdel 1"
+        "reference-name": "Drab Wall Piece",
+        "name": "Gråbrun väggdel"
     },
     "rct2ww.scenery_wall.wdrab02": {
-        "reference-name": "Drab Wall Piece 2",
-        "name": "Gråbrun väggdel 2"
+        "reference-name": "Drab Wall Piece",
+        "name": "Gråbrun väggdel"
     },
     "rct2ww.scenery_wall.wdrab03": {
-        "reference-name": "Drab Wall Piece 3",
-        "name": "Gråbrun väggdel 3"
+        "reference-name": "Drab Wall Piece",
+        "name": "Gråbrun väggdel"
     },
     "rct2ww.scenery_wall.wdrab04": {
-        "reference-name": "Drab Wall Piece 4",
-        "name": "Gråbrun väggdel 4"
+        "reference-name": "Drab Wall Piece",
+        "name": "Gråbrun väggdel"
     },
     "rct2ww.scenery_wall.wdrab05": {
-        "reference-name": "Drab Wall Piece 5",
-        "name": "Gråbrun väggdel 5"
+        "reference-name": "Drab Wall Piece",
+        "name": "Gråbrun väggdel"
     },
     "rct2ww.scenery_wall.wdrab06": {
-        "reference-name": "Drab Wall Piece 6",
-        "name": "Gråbrun väggdel 6"
+        "reference-name": "Drab Wall Piece",
+        "name": "Gråbrun väggdel"
     },
     "rct2ww.scenery_wall.wdrab07": {
-        "reference-name": "Drab Wall Piece 7",
-        "name": "Gråbrun väggdel 7"
+        "reference-name": "Drab Wall Piece",
+        "name": "Gråbrun väggdel"
     },
     "rct2ww.scenery_wall.wdrab08": {
-        "reference-name": "Drab Wall Piece 8",
-        "name": "Gråbrun väggdel 8"
+        "reference-name": "Drab Wall Piece",
+        "name": "Gråbrun väggdel"
     },
     "rct2ww.scenery_wall.wgeorg01": {
-        "reference-name": "Georgian Wall Piece 1",
-        "name": "Georgiansk väggdel 1"
+        "reference-name": "Georgian Wall Piece",
+        "name": "Georgiansk väggdel"
     },
     "rct2ww.scenery_wall.wgeorg02": {
-        "reference-name": "Georgian Ground Floor Wall Piece 1",
-        "name": "Georgiansk väggdel för nedre våning 1"
+        "reference-name": "Georgian Ground Floor Wall Piece",
+        "name": "Georgiansk väggdel för nedre våning"
     },
     "rct2ww.scenery_wall.wgeorg03": {
-        "reference-name": "Georgian Wall Piece 2",
-        "name": "Georgiansk väggdel 2"
+        "reference-name": "Georgian Wall Piece",
+        "name": "Georgiansk väggdel"
     },
     "rct2ww.scenery_wall.wgeorg04": {
-        "reference-name": "Georgian Ground Floor Wall Piece 2",
-        "name": "Georgiansk väggdel för nedre våning 2"
+        "reference-name": "Georgian Ground Floor Wall Piece",
+        "name": "Georgiansk väggdel för nedre våning"
     },
     "rct2ww.scenery_wall.wgeorg05": {
-        "reference-name": "Georgian Wall Piece 3",
-        "name": "Georgiansk väggdel 3"
+        "reference-name": "Georgian Wall Piece",
+        "name": "Georgiansk väggdel"
     },
     "rct2ww.scenery_wall.wgeorg06": {
-        "reference-name": "Georgian Ground Floor Wall Piece 3",
-        "name": "Georgiansk väggdel för nedre våning 3"
+        "reference-name": "Georgian Ground Floor Wall Piece",
+        "name": "Georgiansk väggdel för nedre våning"
     },
     "rct2ww.scenery_wall.wgwoc1": {
         "reference-name": "Great Wall Of China Front Wall Section",
@@ -11400,20 +11416,20 @@
         "name": "Igloo-vägg"
     },
     "rct2ww.scenery_wall.wkreml07": {
-        "reference-name": "Kremlin Wall Piece 5",
-        "name": "Kreml-mur del 5"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Kreml-mur del"
     },
     "rct2ww.scenery_wall.wkreml08": {
-        "reference-name": "Kremlin Wall Piece 6",
-        "name": "Kreml-mur del 6"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Kreml-mur del"
     },
     "rct2ww.scenery_wall.wkreml09": {
-        "reference-name": "Kremlin Wall Piece 7",
-        "name": "Kreml-mur del 7"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Kreml-mur del"
     },
     "rct2ww.scenery_wall.wkreml10": {
-        "reference-name": "Kremlin Wall Piece 8",
-        "name": "Kreml-mur del 8"
+        "reference-name": "St. Basil’s Cathedral Wall Piece",
+        "name": "Kreml-mur del"
     },
     "rct2ww.scenery_wall.wlog01": {
         "reference-name": "Log Cabin Wall Piece",
@@ -11612,16 +11628,16 @@
         "name": "Shōji-mur"
     },
     "rct2ww.scenery_wall.wskysc01": {
-        "reference-name": "Skyscraper Metal Set 2 Wall Piece",
-        "name": "Väggdel till metallskrapa 2"
+        "reference-name": "Skyscraper Metal Set Wall Piece",
+        "name": "Väggdel till metallskrapa"
     },
     "rct2ww.scenery_wall.wskysc02": {
-        "reference-name": "Skyscraper Metal Set 2 Wall Piece",
-        "name": "Väggdel till metallskrapa 2"
+        "reference-name": "Skyscraper Metal Set Wall Piece",
+        "name": "Väggdel till metallskrapa"
     },
     "rct2ww.scenery_wall.wskysc03": {
-        "reference-name": "Skyscraper Metal Set 1 Wall Piece",
-        "name": "Väggdel till metallskrapa 1"
+        "reference-name": "Skyscraper Metal Set Wall Piece",
+        "name": "Väggdel till metallskrapa"
     },
     "rct2ww.scenery_wall.wskysc04": {
         "reference-name": "Skyscraper Lift Section Piece",
@@ -11660,48 +11676,48 @@
         "name": "Väggdel till stenskrapa"
     },
     "rct2ww.scenery_wall.wtudor01": {
-        "reference-name": "Tudor Ground Floor Wall Piece 1",
-        "name": "Tudor-väggdel för nedre våning 1"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Tudor-väggdel för nedre våning"
     },
     "rct2ww.scenery_wall.wtudor02": {
-        "reference-name": "Tudor Ground Floor Wall Piece 2",
-        "name": "Tudor-väggdel för nedre våning 2"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Tudor-väggdel för nedre våning"
     },
     "rct2ww.scenery_wall.wtudor03": {
-        "reference-name": "Tudor Ground Floor Wall Piece 3",
-        "name": "Tudor-väggdel för nedre våning 3"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Tudor-väggdel för nedre våning"
     },
     "rct2ww.scenery_wall.wtudor04": {
-        "reference-name": "Tudor Ground Floor Wall Piece 4",
-        "name": "Tudor-väggdel för nedre våning 4"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Tudor-väggdel för nedre våning"
     },
     "rct2ww.scenery_wall.wtudor05": {
-        "reference-name": "Tudor Ground Floor Wall Piece 5",
-        "name": "Tudor-väggdel för nedre våning 5"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Tudor-väggdel för nedre våning"
     },
     "rct2ww.scenery_wall.wtudor06": {
-        "reference-name": "Tudor Ground Floor Wall Piece 6",
-        "name": "Tudor-väggdel för nedre våning 6"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Tudor-väggdel för nedre våning"
     },
     "rct2ww.scenery_wall.wtudor07": {
-        "reference-name": "Tudor Ground Floor Wall Piece 7",
-        "name": "Tudor-väggdel för nedre våning 7"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Tudor-väggdel för nedre våning"
     },
     "rct2ww.scenery_wall.wtudor08": {
-        "reference-name": "Tudor Ground Floor Wall Piece 8",
-        "name": "Tudor-väggdel för nedre våning 8"
+        "reference-name": "Tudor Ground Floor Wall Piece",
+        "name": "Tudor-väggdel för nedre våning"
     },
     "rct2ww.scenery_wall.wtudor09": {
-        "reference-name": "Tudor Wall Piece 1",
-        "name": "Tudor-väggdel 1"
+        "reference-name": "Tudor Wall Piece",
+        "name": "Tudor-väggdel"
     },
     "rct2ww.scenery_wall.wtudor10": {
-        "reference-name": "Tudor Wall Piece 2",
-        "name": "Tudor-väggdel 2"
+        "reference-name": "Tudor Wall Piece",
+        "name": "Tudor-väggdel"
     },
     "rct2ww.scenery_wall.wtudor11": {
-        "reference-name": "Tudor Wall Piece 3",
-        "name": "Tudor-väggdel 3"
+        "reference-name": "Tudor Wall Piece",
+        "name": "Tudor-väggdel"
     },
     "rct2ww.scenery_wall.wwdaub01": {
         "reference-name": "Wattle & Daub Wall",

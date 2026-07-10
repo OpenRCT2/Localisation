@@ -114,7 +114,7 @@ STR_0530    :Ĉaroj pendas de ŝtala kablo, kiu etendiĝas de unu flanko de la a
 STR_0531    :Onda fervojo kompakta kun ŝtala trako, sur kie la trajno veturas tra korktiriloj kaj lopoj
 STR_0532    :Labirinto konstruita de 6-futaj altaj heĝoj aŭ muroj. La gastoj vagas en tiu labirinto, kaj eliras nur kiam ili trovas la elirejon.
 STR_0533    :Ligna konstruaĵo kun interna ŝtuparo kaj ekstera spirala tobogano, kiun oni uzas kun toboganomatoj
-STR_0534    :Gastoj vetkuras unu la alian en gokartoj sur asfalta trako
+STR_0534    :Gastoj vetkuras unu la alian en aŭtetoj sur asfalta trako
 STR_0535    :Boatoj veturas laŭ akvokanalo, kaj plaŭde malsupreniras krutajn deklivojn por trempi la rajdantojn
 STR_0536    :Rondaj boatoj vagas laŭ larĝa akvokanalo, plaŭdas tra akvofaloj, kaj ekscitas rajdantojn per ŝaŭmantaj rapidfluoj
 STR_0537    :Gastoj albatiĝas al unu la alian per elektraj doĝemoj, kiujn ili stiras
@@ -2873,7 +2873,7 @@ STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 
 #tooltips
 STR_5815    :Montri kadrojn ĉiusekunde enlude
-STR_5816    :Agordas proporcion por skali la ludon per.{NEWLINE}Plej utila ludante en{NEWLINE}altaj distingivoj
+STR_5816    :Agordas proporcion, per kiu la ludo estas skalita.{NEWLINE}Plej utila dum ludado en{NEWLINE}altaj distingivoj
 STR_5820    :Minimumigi la ludon se fokuso{NEWLINE}perdiĝas dum plenekrana reĝimo
 STR_5822    :Cikli inter tago kaj nokto.{NEWLINE}Plena ciklo daŭras unu enludan monaton
 STR_5823    :Montri rubandojn majuskle (RCT1-konduto)
@@ -3281,7 +3281,7 @@ STR_6271    :Tereno-flankoj
 STR_6272    :Stacioj
 STR_6273    :Muziko
 STR_6274    :Ne eblas agordi kolorskemon…
-STR_6275    :{WINDOW_COLOUR_2}Staciostilo:
+STR_6275    :Staciostilo
 STR_6276    :{RED}{STRINGID} havas gastojn staŭlitajn, eble pro nevalida atrakciotipo aŭ reĝimo de funkciiado.
 STR_6277    :Stacioindekso: {BLACK}{STRINGID}
 STR_6278    :Kiomo por aŭtokonservi
@@ -3630,7 +3630,7 @@ STR_6633    :Kontrolado de scenarodosieroj…
 STR_6634    :Kontrolado de trakdesegnaĵodosieroj…
 STR_6635    :Kontrolado de havaĵo-pakoj…
 STR_6636    :Kontrolado de titolosekvencoj…
-STR_6637    :Ŝargas titolosekvencon…
+STR_6637    :Ŝargado de la titolosekvenco…
 STR_6638    :Pligrandigita fasado
 STR_6639    :Modifas la fasadon por esti pli taŭga por tuŝekranoj
 STR_6640    :Redakti havaĵo-pakojn…
@@ -3641,9 +3641,9 @@ STR_6644    :Tuŝekranaj plibonigoj
 STR_6645    :Pligrandigas kelkajn elementojn de la fasado, por ke ili estas pli facile klakeblaj aŭ tuŝeblaj.
 STR_6646    :Aŭtoro: {STRING}
 STR_6647    :Aŭtoroj: {STRING}
-STR_6648    :Ŝargas kromprograman modulon…
-STR_6649    :Ŝargas scenaron…
-STR_6650    :Ŝargas konservitan ludon…
+STR_6648    :Ŝargado de kromprograma modulo…
+STR_6649    :Ŝargado de scenaro…
+STR_6650    :Ŝargado de konservita ludo…
 STR_6651    :{STRING} ({COMMA32}%)
 STR_6652    :Erarfenestro
 STR_6653    :Ĉiuj fontoj montritaj
@@ -3820,3 +3820,9 @@ STR_7029    :Kvarona malkreska helico
 STR_7030    :{WINDOW_COLOUR_2}Gastoj amuzitaj: {BLACK}{COMMA32}
 STR_7031    :Malŝalti kreskadon de herbo
 STR_7032    :Malŝalti maljuniĝon de herbo, por ke ĝi ne kresku.
+STR_7033    :Trakstilo
+STR_7034    :Labirintostilo
+STR_7035    :Vendejostilo
+STR_7036    :Veturilostilo
+STR_7037    :Reĝimo de funkciado
+STR_7038    :Atendo kaj ŝarĝo
