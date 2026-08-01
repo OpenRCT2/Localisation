@@ -17,12 +17,10 @@ jobs:
           ref: ${{github.event.pull_request.head.ref}}
           repository: ${{github.event.pull_request.head.repo.full_name}}
 
-      - name: Get OpenRCT2 develop (for en-GB.txt)
-        uses: actions/checkout@v4
-        with:
-          repository: OpenRCT2/OpenRCT2
-          ref: develop
-          path: OpenRCT2
+      - name: get en-GB.txt (curl)
+        run: |
+          mkdir -p OpenRCT2/data/language
+          curl -sSLf https://raw.githubusercontent.com/OpenRCT2/OpenRCT2/develop/data/language/en-GB.txt -o OpenRCT2/data/language/en-GB.txt
 
       - name: Checkout translations before PR changes (for comparsion)
         uses: actions/checkout@v4
