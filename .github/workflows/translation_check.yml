@@ -1,7 +1,7 @@
 name: Translation Check
 
 on: 
-  pull_request:
+  pull_request_target:
     paths:
      - 'data/language/**.txt'
 
@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name:  Get Pull Request
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           path: pr
           ref: ${{github.event.pull_request.head.ref}}
@@ -23,7 +23,7 @@ jobs:
           curl -sSLf https://raw.githubusercontent.com/OpenRCT2/OpenRCT2/develop/data/language/en-GB.txt -o OpenRCT2/data/language/en-GB.txt
 
       - name: Checkout translations before PR changes (for comparsion)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           path: master
           ref: ${{github.event.pull_request.head.ref}}
@@ -54,19 +54,19 @@ jobs:
         run: rm -rf master
 
       - name: Checkout upstream master as master
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         if: ${{ steps.merge-base-commit.outputs.merge_base == github.event.pull_request.head.sha }}
         with:
           ref: master
           path: master
 
       - name: Set up Python 3.12
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.12'
 
       - name: Checkout upstream master (in order to use the newest version of the script)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           path: upstream_master
           ref: master
@@ -84,7 +84,7 @@ jobs:
           } >> $GITHUB_OUTPUT
 
       - name: Create PR comment
-        uses: peter-evans/create-or-update-comment@v4
+        uses: peter-evans/create-or-update-comment@v5
         with:
           issue-number: ${{github.event.pull_request.number}}
           body: ${{ steps.get-comment-body.outputs.body }}
