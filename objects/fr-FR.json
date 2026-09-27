@@ -27,6 +27,10 @@
         "reference-name": "Support Structure",
         "name": "Structure de support"
     },
+    "official.terrain_edge.stucco": {
+        "reference-name": "Stucco",
+        "name": "Stuc"
+    },
     "official.terrain_edge.void": {
         "reference-name": "Void",
         "name": "Vide"
@@ -1100,12 +1104,12 @@
         "name": "Toit (rouge)"
     },
     "rct1beta.terrain_edge.brick": {
-        "reference-name": "Brick (Brown)",
-        "name": "Brique (marron)"
+        "reference-name": "Brick",
+        "name": "Brique"
     },
     "rct1beta.terrain_edge.rock": {
-        "reference-name": "Rock (Brown)",
-        "name": "Pierre (marron)"
+        "reference-name": "Rock",
+        "name": "Pierre"
     },
     "rct1beta.terrain_surface.wildflowers": {
         "reference-name": "Wildflowers",
@@ -1628,8 +1632,8 @@
         "name": "Grès (marron)"
     },
     "rct1ll.terrain_edge.stone_grey": {
-        "reference-name": "Sandstone (Grey)",
-        "name": "Grès (gris)"
+        "reference-name": "Sandstone",
+        "name": "Grès"
     },
     "rct1ll.terrain_surface.roof_grey": {
         "reference-name": "Roof (Grey)",
@@ -5651,6 +5655,10 @@
         "reference-name": "Chequerboard",
         "name": "Échiquier"
     },
+    "rct2.terrain_surface.designer_grid": {
+        "reference-name": "Designer Grid",
+        "name": "Designer Grid"
+    },
     "rct2.terrain_surface.dirt": {
         "reference-name": "Dirt",
         "name": "Boue"
@@ -5663,21 +5671,9 @@
         "reference-name": "Grass Clumps",
         "name": "Touffes d’herbe"
     },
-    "rct2.terrain_surface.grid_green": {
-        "reference-name": "Grid (Green)",
-        "name": "Grille (vert)"
-    },
-    "rct2.terrain_surface.grid_purple": {
-        "reference-name": "Grid (Purple)",
-        "name": "Grille (violet)"
-    },
-    "rct2.terrain_surface.grid_red": {
-        "reference-name": "Grid (Red)",
-        "name": "Grille (rouge)"
-    },
-    "rct2.terrain_surface.grid_yellow": {
-        "reference-name": "Grid (Yellow)",
-        "name": "Grille (jaune)"
+    "rct2.terrain_surface.grid": {
+        "reference-name": "Grid",
+        "name": "Grille"
     },
     "rct2.terrain_surface.ice": {
         "reference-name": "Ice",
@@ -9074,7 +9070,7 @@
     "rct2ww.ride.tigrtwst": {
         "reference-name": "Bengal Tiger Cars",
         "name": "Tigre du Bengale",
-        "reference-description": "Roller coaster cars capable of heartline twists, themend to look like Bengal tigers",
+        "reference-description": "Roller coaster cars capable of heartline twists, themed to look like Bengal tigers",
         "description": "Voiture de montagnes russes capable de passer dans des inversions à 360° en forme de tigre du Bengale",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 passagers par voiture"

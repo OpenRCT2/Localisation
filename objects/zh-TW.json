@@ -27,6 +27,10 @@
         "reference-name": "Support Structure",
         "name": "支架結構"
     },
+    "official.terrain_edge.stucco": {
+        "reference-name": "Stucco",
+        "name": "Stucco"
+    },
     "official.terrain_edge.void": {
         "reference-name": "Void",
         "name": "Void"
@@ -1100,12 +1104,12 @@
         "name": "Roof (Red)"
     },
     "rct1beta.terrain_edge.brick": {
-        "reference-name": "Brick (Brown)",
-        "name": "Brick (Brown)"
+        "reference-name": "Brick",
+        "name": "Brick"
     },
     "rct1beta.terrain_edge.rock": {
-        "reference-name": "Rock (Brown)",
-        "name": "Rock (Brown)"
+        "reference-name": "Rock",
+        "name": "Rock"
     },
     "rct1beta.terrain_surface.wildflowers": {
         "reference-name": "Wildflowers",
@@ -1628,8 +1632,8 @@
         "name": "Sandstone (Brown)"
     },
     "rct1ll.terrain_edge.stone_grey": {
-        "reference-name": "Sandstone (Grey)",
-        "name": "Sandstone (Grey)"
+        "reference-name": "Sandstone",
+        "name": "Sandstone"
     },
     "rct1ll.terrain_surface.roof_grey": {
         "reference-name": "Roof (Grey)",
@@ -5651,6 +5655,10 @@
         "reference-name": "Chequerboard",
         "name": "Chequerboard"
     },
+    "rct2.terrain_surface.designer_grid": {
+        "reference-name": "Designer Grid",
+        "name": "Designer Grid"
+    },
     "rct2.terrain_surface.dirt": {
         "reference-name": "Dirt",
         "name": "Dirt"
@@ -5663,21 +5671,9 @@
         "reference-name": "Grass Clumps",
         "name": "Grass Clumps"
     },
-    "rct2.terrain_surface.grid_green": {
-        "reference-name": "Grid (Green)",
-        "name": "Grid (Green)"
-    },
-    "rct2.terrain_surface.grid_purple": {
-        "reference-name": "Grid (Purple)",
-        "name": "Grid (Purple)"
-    },
-    "rct2.terrain_surface.grid_red": {
-        "reference-name": "Grid (Red)",
-        "name": "Grid (Red)"
-    },
-    "rct2.terrain_surface.grid_yellow": {
-        "reference-name": "Grid (Yellow)",
-        "name": "Grid (Yellow)"
+    "rct2.terrain_surface.grid": {
+        "reference-name": "Grid",
+        "name": "Grid"
     },
     "rct2.terrain_surface.ice": {
         "reference-name": "Ice",
@@ -9074,8 +9070,8 @@
     "rct2ww.ride.tigrtwst": {
         "reference-name": "Bengal Tiger Cars",
         "name": "Bengal Tiger Cars",
-        "reference-description": "Roller coaster cars capable of heartline twists, themend to look like Bengal tigers",
-        "description": "Roller coaster cars capable of heartline twists, themend to look like Bengal tigers",
+        "reference-description": "Roller coaster cars capable of heartline twists, themed to look like Bengal tigers",
+        "description": "Roller coaster cars capable of heartline twists, themed to look like Bengal tigers",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 passengers per car"
     },

@@ -27,6 +27,10 @@
         "reference-name": "Support Structure",
         "name": "Subtena konstruaĵo"
     },
+    "official.terrain_edge.stucco": {
+        "reference-name": "Stucco",
+        "name": "Stukaĵa"
+    },
     "official.terrain_edge.void": {
         "reference-name": "Void",
         "name": "Vaka"
@@ -1100,12 +1104,12 @@
         "name": "Tegmento (ruĝa)"
     },
     "rct1beta.terrain_edge.brick": {
-        "reference-name": "Brick (Brown)",
-        "name": "Brika (bruna)"
+        "reference-name": "Brick",
+        "name": "Brika"
     },
     "rct1beta.terrain_edge.rock": {
-        "reference-name": "Rock (Brown)",
-        "name": "Roka (bruna)"
+        "reference-name": "Rock",
+        "name": "Roka"
     },
     "rct1beta.terrain_surface.wildflowers": {
         "reference-name": "Wildflowers",
@@ -1628,8 +1632,8 @@
         "name": "Sabloŝtona (bruna)"
     },
     "rct1ll.terrain_edge.stone_grey": {
-        "reference-name": "Sandstone (Grey)",
-        "name": "Sabloŝtona (griza)"
+        "reference-name": "Sandstone",
+        "name": "Sabloŝtona"
     },
     "rct1ll.terrain_surface.roof_grey": {
         "reference-name": "Roof (Grey)",
@@ -5651,6 +5655,10 @@
         "reference-name": "Chequerboard",
         "name": "Damludo-tablo"
     },
+    "rct2.terrain_surface.designer_grid": {
+        "reference-name": "Designer Grid",
+        "name": "Designer Grid"
+    },
     "rct2.terrain_surface.dirt": {
         "reference-name": "Dirt",
         "name": "Tero"
@@ -5663,21 +5671,9 @@
         "reference-name": "Grass Clumps",
         "name": "Tufoj da herbo"
     },
-    "rct2.terrain_surface.grid_green": {
-        "reference-name": "Grid (Green)",
-        "name": "Krado (verda)"
-    },
-    "rct2.terrain_surface.grid_purple": {
-        "reference-name": "Grid (Purple)",
-        "name": "Krado (purpura)"
-    },
-    "rct2.terrain_surface.grid_red": {
-        "reference-name": "Grid (Red)",
-        "name": "Krado (ruĝa)"
-    },
-    "rct2.terrain_surface.grid_yellow": {
-        "reference-name": "Grid (Yellow)",
-        "name": "Krado (flava)"
+    "rct2.terrain_surface.grid": {
+        "reference-name": "Grid",
+        "name": "Krado"
     },
     "rct2.terrain_surface.ice": {
         "reference-name": "Ice",
@@ -9074,7 +9070,7 @@
     "rct2ww.ride.tigrtwst": {
         "reference-name": "Bengal Tiger Cars",
         "name": "Bengala tigro-ĉaroj",
-        "reference-description": "Roller coaster cars capable of heartline twists, themend to look like Bengal tigers",
+        "reference-description": "Roller coaster cars capable of heartline twists, themed to look like Bengal tigers",
         "description": "Ĉaroj de onda fervojo, kiuj povas fari ĉekorajn tvistojn, temitaj por aspekti kiel bengalaj tigroj",
         "reference-capacity": "4 passengers per car",
         "capacity": "Po 4 pasaĝeroj por ĉaro"
