@@ -1260,7 +1260,7 @@ STR_1927    :{YELLOW}{STRINGID} se ha averiado
 STR_1928    :{RED}¡{STRINGID} ha chocado!
 STR_1929    :{RED}{STRINGID} no se ha arreglado{NEWLINE}Comprueba dónde están tus mecánicos y considera organizarlos mejor
 STR_1930    :Activa/Desactiva el seguimiento de este visitante (Con el seguimiento activado, los movimientos de este visitante aparecerán en el área de mensajes)
-STR_1931    :{STRINGID} está haciendo fila en {STRINGID}
+STR_1931    :{STRINGID} está haciendo fila para {STRINGID}
 STR_1932    :{STRINGID} está en {STRINGID}
 STR_1933    :{STRINGID} está en {STRINGID}
 STR_1934    :{STRINGID} ha salido de {STRINGID}
@@ -2637,9 +2637,9 @@ STR_5534    :Amarillo
 STR_5535    :Amarillo oscuro
 STR_5536    :Naranja claro
 STR_5537    :Naranja oscuro
-STR_5538    :Café claro
-STR_5539    :Café saturado
-STR_5540    :Café oscuro
+STR_5538    :Marrón claro
+STR_5539    :Marrón saturado
+STR_5540    :Marrón oscuro
 STR_5541    :Rosa salmón
 STR_5542    :Rojo bordó
 STR_5543    :Rojo saturado
@@ -2682,8 +2682,8 @@ STR_5582    :Mantener puntero del ratón en ventana
 STR_5583    :{COMMA1DP16}m/s
 STR_5584    :SI
 STR_5585    :Desbloquea los límites operativos de funcionamiento, permitiendo elementos como cadenas elevadoras a {VELOCITY}
-STR_5586    :Abrir automáticamente tiendas y puestos
-STR_5587    :Las Tiendas y Puestos se abrirán automáticamente después de su construcción.
+STR_5586    :Abrir y cerrar automáticamente tiendas y puestos
+STR_5587    :Las tiendas y los puestos se abrirán automáticamente después de su construcción, y se cerrarán automáticamente antes de construirse.
 STR_5588    :Jugar con otros jugadores
 STR_5589    :Configuración de notificaciones
 STR_5590    :Premios al parque
@@ -2821,7 +2821,7 @@ STR_5762    :Yuan Chino (CN¥)
 STR_5763    :Todos los archivos
 STR_5764    :Tipo de Atracción inválido
 STR_5765    :No se puede editar una atracción de un tipo no válido
-STR_5766    :Forinto Húngaro (Ft) 
+STR_5766    :Forinto Húngaro (Ft)
 STR_5767    :Ingresos
 STR_5768    :Clientes totales
 STR_5769    :Beneficio total
@@ -3495,7 +3495,7 @@ STR_6502    :Introduce un valor entre {COMMA16} y {COMMA16}
 STR_6503    :Al menos un objeto de estación debe estar seleccionado
 STR_6504    :Al menos una superficie de terreno debe estar seleccionada
 STR_6505    :Al menos un borde de terreno debe estar seleccionado
-STR_6506    :Medio Sacacorchos grande (izq) 
+STR_6506    :Medio Sacacorchos grande (izq)
 STR_6507    :Medio Sacacorchos grande (der)
 STR_6508    :Medio Rizo mediano (izq)
 STR_6509    :Medio Rizo mediano (der)
@@ -3839,3 +3839,35 @@ STR_7046    :Barra de estado (estilo RCT1)
 STR_7047    :Control paso a paso (Diseñador de Vías)
 STR_7048    :Control paso a paso (Editor de Escenarios)
 STR_7049    :OpenRCT2
+STR_7050    :Visitantes caminando
+STR_7051    :Visitantes dirigiéndose a {STRINGID}
+STR_7052    :Visitantes haciendo fila para {STRINGID}
+STR_7053    :Visitantes ahogándose
+STR_7054    :Visitantes en {STRINGID}
+STR_7055    :Visitantes en {STRINGID}
+STR_7056    :Visitantes en {STRINGID}
+STR_7057    :Visitantes sentados
+STR_7058    :Visitantes recogidos
+STR_7059    :Visitantes mirando {STRINGID}
+STR_7060    :Visitantes mirando la construcción de {STRINGID}
+STR_7061    :Visitantes observando el decorado
+STR_7062    :Visitantes abandonando el parque
+STR_7063    :Visitantes viendo la construcción de una nueva atracción
+STR_7064    :Oro
+STR_7065    :Ámbar
+STR_7066    :Amatista
+STR_7067    :Verde espárrago
+STR_7068    :Marrón
+STR_7069    :Rosa quemado
+STR_7070    :Verde cactus
+STR_7071    :Caramelo
+STR_7072    :Cobre
+STR_7073    :Carmesí
+STR_7074    :Agua más oscura
+STR_7075    :Esmeralda
+STR_7076    :Índigo
+STR_7077    :Verde pesto
+STR_7078    :Verde pino
+STR_7079    :Rubí
+STR_7080    :Azul profundo
+STR_7081    :Plata

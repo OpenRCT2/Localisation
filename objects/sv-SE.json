@@ -27,6 +27,10 @@
         "reference-name": "Support Structure",
         "name": "Stödstruktur"
     },
+    "official.terrain_edge.stucco": {
+        "reference-name": "Stucco",
+        "name": "Stuck"
+    },
     "official.terrain_edge.void": {
         "reference-name": "Void",
         "name": "Void"
@@ -1100,12 +1104,12 @@
         "name": "Tak (rött)"
     },
     "rct1beta.terrain_edge.brick": {
-        "reference-name": "Brick (Brown)",
-        "name": "Brick (Brown)"
+        "reference-name": "Brick",
+        "name": "Brick"
     },
     "rct1beta.terrain_edge.rock": {
-        "reference-name": "Rock (Brown)",
-        "name": "Rock (Brown)"
+        "reference-name": "Rock",
+        "name": "Rock"
     },
     "rct1beta.terrain_surface.wildflowers": {
         "reference-name": "Wildflowers",
@@ -1628,8 +1632,8 @@
         "name": "Sandsten (brun)"
     },
     "rct1ll.terrain_edge.stone_grey": {
-        "reference-name": "Sandstone (Grey)",
-        "name": "Sandsten (grå)"
+        "reference-name": "Sandstone",
+        "name": "Sandsten"
     },
     "rct1ll.terrain_surface.roof_grey": {
         "reference-name": "Roof (Grey)",
@@ -5651,6 +5655,10 @@
         "reference-name": "Chequerboard",
         "name": "Schackbräde"
     },
+    "rct2.terrain_surface.designer_grid": {
+        "reference-name": "Designer Grid",
+        "name": "Designer Grid"
+    },
     "rct2.terrain_surface.dirt": {
         "reference-name": "Dirt",
         "name": "Jord"
@@ -5663,21 +5671,9 @@
         "reference-name": "Grass Clumps",
         "name": "Grästuvor"
     },
-    "rct2.terrain_surface.grid_green": {
-        "reference-name": "Grid (Green)",
-        "name": "Rutnät (grönt)"
-    },
-    "rct2.terrain_surface.grid_purple": {
-        "reference-name": "Grid (Purple)",
-        "name": "Rutnät (lila)"
-    },
-    "rct2.terrain_surface.grid_red": {
-        "reference-name": "Grid (Red)",
-        "name": "Rutnät (rött)"
-    },
-    "rct2.terrain_surface.grid_yellow": {
-        "reference-name": "Grid (Yellow)",
-        "name": "Rutnät (gult)"
+    "rct2.terrain_surface.grid": {
+        "reference-name": "Grid",
+        "name": "Rutnät"
     },
     "rct2.terrain_surface.ice": {
         "reference-name": "Ice",
@@ -9074,7 +9070,7 @@
     "rct2ww.ride.tigrtwst": {
         "reference-name": "Bengal Tiger Cars",
         "name": "Bengalisk tiger-vagn",
-        "reference-description": "Roller coaster cars capable of heartline twists, themend to look like Bengal tigers",
+        "reference-description": "Roller coaster cars capable of heartline twists, themed to look like Bengal tigers",
         "description": "Vagnar till skruvberg- och dalbana, målade för att likna bengaliska tigrar",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 passagerare per vagn"

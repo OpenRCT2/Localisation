@@ -27,6 +27,10 @@
         "reference-name": "Support Structure",
         "name": "Podpěra"
     },
+    "official.terrain_edge.stucco": {
+        "reference-name": "Stucco",
+        "name": "Štuk"
+    },
     "official.terrain_edge.void": {
         "reference-name": "Void",
         "name": "Prázdnota"
@@ -1100,12 +1104,12 @@
         "name": "Střecha (červená)"
     },
     "rct1beta.terrain_edge.brick": {
-        "reference-name": "Brick (Brown)",
-        "name": "Cihla (hnědá)"
+        "reference-name": "Brick",
+        "name": "Cihla"
     },
     "rct1beta.terrain_edge.rock": {
-        "reference-name": "Rock (Brown)",
-        "name": "Skála (hnědá)"
+        "reference-name": "Rock",
+        "name": "Skála"
     },
     "rct1beta.terrain_surface.wildflowers": {
         "reference-name": "Wildflowers",
@@ -1628,8 +1632,8 @@
         "name": "Pískovec (hnědý)"
     },
     "rct1ll.terrain_edge.stone_grey": {
-        "reference-name": "Sandstone (Grey)",
-        "name": "Pískovec (šedý)"
+        "reference-name": "Sandstone",
+        "name": "Pískovec"
     },
     "rct1ll.terrain_surface.roof_grey": {
         "reference-name": "Roof (Grey)",
@@ -5653,6 +5657,10 @@
         "reference-name": "Chequerboard",
         "name": "Šachovnice"
     },
+    "rct2.terrain_surface.designer_grid": {
+        "reference-name": "Designer Grid",
+        "name": "Designer Grid"
+    },
     "rct2.terrain_surface.dirt": {
         "reference-name": "Dirt",
         "name": "Hlína"
@@ -5665,21 +5673,9 @@
         "reference-name": "Grass Clumps",
         "name": "Trsy trávy"
     },
-    "rct2.terrain_surface.grid_green": {
-        "reference-name": "Grid (Green)",
-        "name": "Mřížka (zelená)"
-    },
-    "rct2.terrain_surface.grid_purple": {
-        "reference-name": "Grid (Purple)",
-        "name": "Mřížka (fialová)"
-    },
-    "rct2.terrain_surface.grid_red": {
-        "reference-name": "Grid (Red)",
-        "name": "Mřížka (červená)"
-    },
-    "rct2.terrain_surface.grid_yellow": {
-        "reference-name": "Grid (Yellow)",
-        "name": "Mřížka (žlutá)"
+    "rct2.terrain_surface.grid": {
+        "reference-name": "Grid",
+        "name": "Mřížka"
     },
     "rct2.terrain_surface.ice": {
         "reference-name": "Ice",
@@ -9076,7 +9072,7 @@
     "rct2ww.ride.tigrtwst": {
         "reference-name": "Bengal Tiger Cars",
         "name": "Bengálské tygří vozy",
-        "reference-description": "Roller coaster cars capable of heartline twists, themend to look like Bengal tigers",
+        "reference-description": "Roller coaster cars capable of heartline twists, themed to look like Bengal tigers",
         "description": "Vozy horské dráhy schopné na výhybce změnit směr jízdy, ve stylu bengálských tygrů",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 místa v každém voze"

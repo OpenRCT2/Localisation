@@ -27,6 +27,10 @@
         "reference-name": "Support Structure",
         "name": "지지대 구조물"
     },
+    "official.terrain_edge.stucco": {
+        "reference-name": "Stucco",
+        "name": "흙벽"
+    },
     "official.terrain_edge.void": {
         "reference-name": "Void",
         "name": "공허"
@@ -1100,12 +1104,12 @@
         "name": "천장 (빨간색)"
     },
     "rct1beta.terrain_edge.brick": {
-        "reference-name": "Brick (Brown)",
-        "name": "벽돌 (갈색)"
+        "reference-name": "Brick",
+        "name": "벽돌"
     },
     "rct1beta.terrain_edge.rock": {
-        "reference-name": "Rock (Brown)",
-        "name": "바위 (갈색)"
+        "reference-name": "Rock",
+        "name": "바위"
     },
     "rct1beta.terrain_surface.wildflowers": {
         "reference-name": "Wildflowers",
@@ -1628,8 +1632,8 @@
         "name": "사암 (갈색)"
     },
     "rct1ll.terrain_edge.stone_grey": {
-        "reference-name": "Sandstone (Grey)",
-        "name": "사암 (회색)"
+        "reference-name": "Sandstone",
+        "name": "사암"
     },
     "rct1ll.terrain_surface.roof_grey": {
         "reference-name": "Roof (Grey)",
@@ -5653,6 +5657,10 @@
         "reference-name": "Chequerboard",
         "name": "체스판"
     },
+    "rct2.terrain_surface.designer_grid": {
+        "reference-name": "Designer Grid",
+        "name": "Designer Grid"
+    },
     "rct2.terrain_surface.dirt": {
         "reference-name": "Dirt",
         "name": "진흙"
@@ -5665,21 +5673,9 @@
         "reference-name": "Grass Clumps",
         "name": "잔디 수풀"
     },
-    "rct2.terrain_surface.grid_green": {
-        "reference-name": "Grid (Green)",
-        "name": "격자 (녹색)"
-    },
-    "rct2.terrain_surface.grid_purple": {
-        "reference-name": "Grid (Purple)",
-        "name": "격자 (보라색)"
-    },
-    "rct2.terrain_surface.grid_red": {
-        "reference-name": "Grid (Red)",
-        "name": "격자 (빨간색)"
-    },
-    "rct2.terrain_surface.grid_yellow": {
-        "reference-name": "Grid (Yellow)",
-        "name": "격자 (노란색)"
+    "rct2.terrain_surface.grid": {
+        "reference-name": "Grid",
+        "name": "격자"
     },
     "rct2.terrain_surface.ice": {
         "reference-name": "Ice",
@@ -9076,7 +9072,7 @@
     "rct2ww.ride.tigrtwst": {
         "reference-name": "Bengal Tiger Cars",
         "name": "뱅갈 호랑이 차량",
-        "reference-description": "Roller coaster cars capable of heartline twists, themend to look like Bengal tigers",
+        "reference-description": "Roller coaster cars capable of heartline twists, themed to look like Bengal tigers",
         "description": "하트라인 트위스트에서 사용할 수 있는 롤러코스터 차량",
         "reference-capacity": "4 passengers per car",
         "capacity": "차량 당 4명의 승객"

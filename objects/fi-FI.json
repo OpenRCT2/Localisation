@@ -27,6 +27,10 @@
         "reference-name": "Support Structure",
         "name": "Tukirakenne"
     },
+    "official.terrain_edge.stucco": {
+        "reference-name": "Stucco",
+        "name": "Stukki"
+    },
     "official.terrain_edge.void": {
         "reference-name": "Void",
         "name": "Tyhjä"
@@ -1100,12 +1104,12 @@
         "name": "Katto (punainen)"
     },
     "rct1beta.terrain_edge.brick": {
-        "reference-name": "Brick (Brown)",
-        "name": "Tiilet (ruskea)"
+        "reference-name": "Brick",
+        "name": "Tiilet"
     },
     "rct1beta.terrain_edge.rock": {
-        "reference-name": "Rock (Brown)",
-        "name": "Kivi (ruskea)"
+        "reference-name": "Rock",
+        "name": "Kivi"
     },
     "rct1beta.terrain_surface.wildflowers": {
         "reference-name": "Wildflowers",
@@ -1628,8 +1632,8 @@
         "name": "Hiekkakivinen (ruskea)"
     },
     "rct1ll.terrain_edge.stone_grey": {
-        "reference-name": "Sandstone (Grey)",
-        "name": "Hiekkakivinen (harmaa)"
+        "reference-name": "Sandstone",
+        "name": "Hiekkakivinen"
     },
     "rct1ll.terrain_surface.roof_grey": {
         "reference-name": "Roof (Grey)",
@@ -5651,6 +5655,10 @@
         "reference-name": "Chequerboard",
         "name": "Shakkilauta"
     },
+    "rct2.terrain_surface.designer_grid": {
+        "reference-name": "Designer Grid",
+        "name": "Designer Grid"
+    },
     "rct2.terrain_surface.dirt": {
         "reference-name": "Dirt",
         "name": "Multa"
@@ -5663,21 +5671,9 @@
         "reference-name": "Grass Clumps",
         "name": "Ruohomättäitä"
     },
-    "rct2.terrain_surface.grid_green": {
-        "reference-name": "Grid (Green)",
-        "name": "Ruudukko (vihreä)"
-    },
-    "rct2.terrain_surface.grid_purple": {
-        "reference-name": "Grid (Purple)",
-        "name": "Ruudukko (violetti)"
-    },
-    "rct2.terrain_surface.grid_red": {
-        "reference-name": "Grid (Red)",
-        "name": "Ruudukko (punainen)"
-    },
-    "rct2.terrain_surface.grid_yellow": {
-        "reference-name": "Grid (Yellow)",
-        "name": "Ruudukko (keltainen)"
+    "rct2.terrain_surface.grid": {
+        "reference-name": "Grid",
+        "name": "Ruudukko"
     },
     "rct2.terrain_surface.ice": {
         "reference-name": "Ice",
@@ -9074,7 +9070,7 @@
     "rct2ww.ride.tigrtwst": {
         "reference-name": "Bengal Tiger Cars",
         "name": "Intiantiikerivaunut",
-        "reference-description": "Roller coaster cars capable of heartline twists, themend to look like Bengal tigers",
+        "reference-description": "Roller coaster cars capable of heartline twists, themed to look like Bengal tigers",
         "description": "Sivuttaisvierityksiin kykenevät intiantiikerin näköisiksi teematut vuoristoratavaunut",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 matkustajaa per vaunu"

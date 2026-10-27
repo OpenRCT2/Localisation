@@ -27,6 +27,10 @@
         "reference-name": "Support Structure",
         "name": "Estrutura de apoio"
     },
+    "official.terrain_edge.stucco": {
+        "reference-name": "Stucco",
+        "name": "Estuco"
+    },
     "official.terrain_edge.void": {
         "reference-name": "Void",
         "name": "Baleiro"
@@ -1100,12 +1104,12 @@
         "name": "Tellado (Vermello)"
     },
     "rct1beta.terrain_edge.brick": {
-        "reference-name": "Brick (Brown)",
-        "name": "Ladrillo (Marrón)"
+        "reference-name": "Brick",
+        "name": "Ladrillo"
     },
     "rct1beta.terrain_edge.rock": {
-        "reference-name": "Rock (Brown)",
-        "name": "Rocha (Marrón)"
+        "reference-name": "Rock",
+        "name": "Rocha"
     },
     "rct1beta.terrain_surface.wildflowers": {
         "reference-name": "Wildflowers",
@@ -1628,8 +1632,8 @@
         "name": "Arenito (Marrón)"
     },
     "rct1ll.terrain_edge.stone_grey": {
-        "reference-name": "Sandstone (Grey)",
-        "name": "Arenito (Gris)"
+        "reference-name": "Sandstone",
+        "name": "Arenito"
     },
     "rct1ll.terrain_surface.roof_grey": {
         "reference-name": "Roof (Grey)",
@@ -5651,6 +5655,10 @@
         "reference-name": "Chequerboard",
         "name": "Taboleiro de Damas"
     },
+    "rct2.terrain_surface.designer_grid": {
+        "reference-name": "Designer Grid",
+        "name": "Designer Grid"
+    },
     "rct2.terrain_surface.dirt": {
         "reference-name": "Dirt",
         "name": "Lixo"
@@ -5663,21 +5671,9 @@
         "reference-name": "Grass Clumps",
         "name": "Touzas de Herba"
     },
-    "rct2.terrain_surface.grid_green": {
-        "reference-name": "Grid (Green)",
-        "name": "Reixa (verde)"
-    },
-    "rct2.terrain_surface.grid_purple": {
-        "reference-name": "Grid (Purple)",
-        "name": "Reixa (púrpura)"
-    },
-    "rct2.terrain_surface.grid_red": {
-        "reference-name": "Grid (Red)",
-        "name": "Reixa (vermella)"
-    },
-    "rct2.terrain_surface.grid_yellow": {
-        "reference-name": "Grid (Yellow)",
-        "name": "Reixa (amarela)"
+    "rct2.terrain_surface.grid": {
+        "reference-name": "Grid",
+        "name": "Reixa"
     },
     "rct2.terrain_surface.ice": {
         "reference-name": "Ice",
@@ -9074,7 +9070,7 @@
     "rct2ww.ride.tigrtwst": {
         "reference-name": "Bengal Tiger Cars",
         "name": "Coches do tigre de Bengala",
-        "reference-description": "Roller coaster cars capable of heartline twists, themend to look like Bengal tigers",
+        "reference-description": "Roller coaster cars capable of heartline twists, themed to look like Bengal tigers",
         "description": "Coches de montaña rusa capaces de xirar na liña do corazón, que acaban por parecer tigres de Bengala",
         "reference-capacity": "4 passengers per car",
         "capacity": "4 pasaxeiros por coche"
