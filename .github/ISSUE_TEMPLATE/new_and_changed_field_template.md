@@ -30,6 +30,7 @@ Updated in:
 - [ ] es-ES
 - [ ] fi-FI
 - [ ] fr-FR
+- [ ] ga-IE
 - [ ] gl-ES
 - [ ] hu-HU
 - [ ] it-IT
@@ -48,4 +49,4 @@ Updated in:
 - [ ] zh-TW
 
 Notification when new strings arrive:
-@OmarAglan @J0anJosep @tygrysek90 @LPSGizmo @Wuzzy2 @tellovishous @dimateos @Davis-3450 @rmnvgr @ninjum @LucaRed @telk5093 @Gymnasiast @arekdurlik @Tupaschoal @andOlga @mrmagic2020 @daihakken
+@OmarAglan @J0anJosep @tygrysek90 @LPSGizmo @Wuzzy2 @tellovishous @dimateos @Davis-3450 @rmnvgr @ninjum @LucaRed @telk5093 @Gymnasiast @arekdurlik @Tupaschoal @andOlga @mrmagic2020 @daihakken @jhd
