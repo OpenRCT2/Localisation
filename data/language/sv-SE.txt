@@ -138,7 +138,7 @@ STR_0556    :Extra breda vagnar åker utför på helt lodräta spår för den ul
 STR_0557    :En bankomat besökarna kan använda om plånboken börjar sina
 STR_0558    :Passagerarna åker parvis i stolar som snurrar kring ändarna på tre långa roterande armar
 STR_0559    :Stor scenisk byggnad med skräckinjagande korridorer och kusliga rum
-STR_0560    :En plats dit krassliga besökare kan gå för at återhämta sig snabbare
+STR_0560    :En plats dit sjuka besökare kan gå för att återhämta sig snabbare
 STR_0561    :En djurföreställning i ett stort cirkustält
 STR_0562    :Motordrivna monsterformade vagnar som åker längs ett flernivåspår förbi spöklika scener och specialeffekter
 STR_0563    :Sittandes i bekväma vagnar njuter passagerare av enorma nedförsbackar och spännande svängar, samt mycket tid flygandes över topparna
@@ -160,10 +160,10 @@ STR_0581    :En ring med säten dras upp till toppen av ett högt torn medan det
 STR_0582    :Gästerna åker i svävare som de styr fritt
 STR_0583    :Byggnad med förvrängda rum och vinklade korridorer för att förvilla människorna som går igenom den
 STR_0584    :Speciella cyklar som passagerarna själva trampar fram längs en stålskensbana
-STR_0585    :Passagerarna sitter i par med ansiktena antingen bakåt eller framåt då de åker genom loopar och skruvar med snabba omkastningar
+STR_0585    :Passagerarna sitter parvis i säten som hänger under spåret medan de åker genom snäva loopar och skruvar.
 STR_0586    :Båtformade vagnar åker på berg- och dalbanespår med snurriga svängar och branta nedförsbackar, men plumsar då och då ner i lugna vattensektioner
 STR_0587    :Efter en luftdriven snabbstart susar vagnarna uppför och nedför en vertikal bana innan de återvänder till stationen
-STR_0588    :Vagnarna kör på ett träspår och lutar farligt då de korsar hårnålssvängar och gör skarpa dyk
+STR_0588    :Enskilda vagnar kör under ett sicksackformat spår med hårnålssvängar och skarpa fall.
 STR_0589    :En stor flygande matta som upprepande svängs upp i luften på fyra armar
 STR_0590    :Passagerarna åker i en nedsänkt ubåt genom en undervattensbana
 STR_0591    :Flottformade båtar som lugnt snirklar sig runt ett flodspår
@@ -571,7 +571,7 @@ STR_1199    :{COMMA16} person på åkturen
 STR_1200    :{COMMA16} personer på åkturen
 STR_1201    :Ingen i kön
 STR_1202    :1 person i kön
-STR_1203    :{COMMA16} personer i kön
+STR_1203    :{COMMA32} personer i kön
 STR_1204    :{COMMA16} minut kötid
 STR_1205    :{COMMA16} minuter kötid
 STR_1206    :{WINDOW_COLOUR_2}Vänta på:
@@ -689,8 +689,8 @@ STR_1317    :{COMMA16} spelare
 STR_1318    :{COMMA16} spelare
 STR_1319    :Spelare {COMMA16}
 STR_1320    :bana
-STR_1321    :bana
-STR_1322    :Banor
+STR_1321    :banor
+STR_1322    :Bana
 STR_1323    :Banor
 STR_1324    :{COMMA16} bana
 STR_1325    :{COMMA16} banor
@@ -1688,7 +1688,7 @@ STR_2378    :Justera ett mindre landområde
 STR_2379    :Justera ett större landområde
 STR_2380    :Justera ett mindre vattenområde
 STR_2381    :Justera ett större vattenområde
-STR_2382    :Land
+STR_2382    :Mark
 STR_2383    :Vatten
 STR_2384    :{WINDOW_COLOUR_2}Ditt uppdrag:
 STR_2385    :{BLACK}Inget
@@ -1820,11 +1820,11 @@ STR_2523    :Visa karta
 STR_2524    :Skärmdump
 STR_2533    :Backsteg
 STR_2534    :Tabb
-STR_2537    :Clear
+STR_2537    :Rensa
 STR_2538    :Retur
 STR_2543    :Alt / Meny
-STR_2544    :Pause
-STR_2545    :Caps
+STR_2544    :Paus
+STR_2545    :Caps Lock
 STR_2552    :Escape
 STR_2557    :Mellanslag
 STR_2558    :PgUp
@@ -1835,13 +1835,13 @@ STR_2562    :Vänster
 STR_2563    :Upp
 STR_2564    :Höger
 STR_2565    :Ner
-STR_2566    :Select
-STR_2567    :Print
-STR_2568    :Execute
-STR_2569    :Snapshot
-STR_2570    :Insert
-STR_2571    :Delete
-STR_2572    :Help
+STR_2566    :Välj
+STR_2567    :Skriv ut
+STR_2568    :Kör
+STR_2569    :Skärmbild
+STR_2570    :Infoga
+STR_2571    :Ta bort
+STR_2572    :Hjälp
 STR_2618    :Meny
 STR_2621    :NumPad 0
 STR_2622    :NumPad 1
