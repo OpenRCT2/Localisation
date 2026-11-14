@@ -1158,7 +1158,6 @@ STR_1816    :Välj informationstyp som ska visas i besökarlistan
 STR_1817    :({COMMA32})
 STR_1818    :{WINDOW_COLOUR_2}Alla besökare
 STR_1819    :{WINDOW_COLOUR_2}Alla besökare (sammanfattat)
-STR_1820    :{WINDOW_COLOUR_2}{STRINGID}
 STR_1821    :{WINDOW_COLOUR_2}Besökare som tänker {SMALLFONT}{STRINGID}
 STR_1822    :{WINDOW_COLOUR_2}Besökare som tänker på {POP16}{STRINGID}
 STR_1823    :Visa besökares tankar om den här åkturen eller attraktionen
@@ -3811,16 +3810,10 @@ STR_7014    :Jag äger spelet på Steam, men jag har inte installerat det än.
 STR_7015    :Var snäll och stäng Steam ifall Steam körs, tryck sedan på 'OK'.
 STR_7016    :OpenRCT2 har försökt påbörja nedladdning i Steam. Öppna Steam och låt det ladda ner spelet. När Steam slutfört nedladdningen, tryck 'OK'.
 STR_7017    :Avsluta
-STR_7018    :{SPRITE}{MOVE_X}{17}{STRINGID}
-STR_7019    :{SPRITE}{MOVE_X}{27}{STRINGID}
-STR_7020    :{MOVE_X}{10}{SPRITE}{NEWLINE_SMALLER}{MOVE_X}{36}{STRINGID}
-STR_7021    :{MOVE_X}{10}{SPRITE}{NEWLINE_SMALLER}»{MOVE_X}{36}{STRINGID}
-STR_7022    :{STRING} - -
 STR_7023    :Gör osynlig
 STR_7024    :Gör hela åkturen osynlig
 STR_7025    :Gör synlig
 STR_7026    :Gör hela åkturen synlig
-STR_7027    :{MOVE_X}{29}{STRINGID}
 STR_7028    :Kvarts helix uppåt
 STR_7029    :Kvarts helix nedåt
 STR_7030    :{WINDOW_COLOUR_2}Underhållna gäster: {BLACK}{COMMA32}
