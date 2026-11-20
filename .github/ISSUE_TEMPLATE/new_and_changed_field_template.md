@@ -49,4 +49,4 @@ Updated in:
 - [ ] zh-TW
 
 Notification when new strings arrive:
-@OmarAglan @J0anJosep @tygrysek90 @LPSGizmo @Wuzzy2 @tellovishous @dimateos @Davis-3450 @rmnvgr @ninjum @LucaRed @telk5093 @Gymnasiast @arekdurlik @Tupaschoal @andOlga @mrmagic2020 @daihakken @jhd
+@OmarAglan @J0anJosep @tygrysek90 @LPSGizmo @Wuzzy2 @tellovishous @dimateos @Davis-3450 @rmnvgr @ninjum @LucaRed @telk5093 @Gymnasiast @arekdurlik @Tupaschoal @andOlga @kyphans @mrmagic2020 @daihakken @jhd
